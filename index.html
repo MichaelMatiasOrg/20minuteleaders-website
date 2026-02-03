@@ -3,174 +3,741 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>20MinuteLeaders | Conversations with the World's Boldest Leaders</title>
+    <title>20MinuteLeaders | Conversations with World-Class Leaders</title>
     <meta name="description" content="1,171+ conversations with the world's most prominent leaders. 20 minutes, infinite insights.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙️</text></svg>">
+    <style>
+        :root {
+            --bg: #ffffff;
+            --bg-dark: #000000;
+            --text: #000000;
+            --text-light: #ffffff;
+            --text-gray: #aab3c2;
+            --text-muted: #717e92;
+            --border: #e4e7ec;
+            --accent: #8c8cfd;
+            --card-radius: 24px;
+            --small-radius: 9px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1352px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Header */
+        header {
+            padding: 20px 0;
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            z-index: 100;
+        }
+
+        .header-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo span {
+            color: var(--accent);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--text);
+        }
+
+        /* Hero / Featured Episode */
+        .hero {
+            padding: 48px 0;
+        }
+
+        .hero-badge {
+            display: inline-block;
+            background: var(--bg-dark);
+            color: var(--text-light);
+            padding: 6px 12px;
+            border-radius: var(--small-radius);
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .hero-title {
+            font-size: 3rem;
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 24px;
+            max-width: 800px;
+        }
+
+        .hero-subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            margin-bottom: 32px;
+        }
+
+        /* Episode Cards Grid */
+        .episodes-section {
+            padding: 48px 0;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .section-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+        }
+
+        /* Filters */
+        .filters {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .filter-btn {
+            background: transparent;
+            border: 2px solid var(--bg-dark);
+            color: var(--text);
+            padding: 8px 16px;
+            border-radius: var(--small-radius);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--bg-dark);
+            color: var(--text-light);
+        }
+
+        .search-box {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: 1px solid var(--text-gray);
+            border-radius: var(--small-radius);
+            padding: 8px 16px;
+            min-width: 200px;
+        }
+
+        .search-box input {
+            border: none;
+            outline: none;
+            font-size: 0.9rem;
+            width: 100%;
+            background: transparent;
+        }
+
+        .search-box input::placeholder {
+            color: var(--text-gray);
+        }
+
+        /* Episode Grid */
+        .episodes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 24px;
+        }
+
+        /* Episode Card */
+        .episode-card {
+            background: var(--bg);
+            border-radius: var(--card-radius);
+            overflow: hidden;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .episode-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .episode-card:hover .card-image-overlay {
+            opacity: 1;
+        }
+
+        .card-image-wrapper {
+            position: relative;
+            background: var(--bg-dark);
+            border-radius: var(--card-radius);
+            overflow: hidden;
+            aspect-ratio: 832/500;
+        }
+
+        .card-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+
+        .episode-card:hover .card-image {
+            transform: scale(1.05);
+        }
+
+        .card-image-overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(2, 2, 95, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.3s;
+            border-radius: var(--card-radius);
+        }
+
+        .view-episode-btn {
+            background: white;
+            color: #4c4c4c;
+            padding: 12px 24px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card-content {
+            padding: 20px 0;
+        }
+
+        .card-meta {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 12px;
+        }
+
+        .card-meta-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .card-category {
+            background: var(--bg-dark);
+            color: var(--text-light);
+            padding: 4px 10px;
+            border-radius: var(--small-radius);
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .card-date {
+            color: var(--text-gray);
+            font-size: 0.85rem;
+        }
+
+        .card-platforms {
+            display: flex;
+            gap: 8px;
+        }
+
+        .platform-icon {
+            width: 28px;
+            height: 28px;
+            opacity: 0.7;
+            transition: opacity 0.2s;
+        }
+
+        .platform-icon:hover {
+            opacity: 1;
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.4;
+            color: var(--text);
+        }
+
+        .card-title:hover {
+            color: var(--accent);
+        }
+
+        /* Load More */
+        .load-more {
+            text-align: center;
+            padding: 48px 0;
+        }
+
+        .load-more-btn {
+            background: transparent;
+            border: 2px solid var(--bg-dark);
+            color: var(--text);
+            padding: 12px 32px;
+            border-radius: var(--small-radius);
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .load-more-btn:hover {
+            background: var(--bg-dark);
+            color: var(--text-light);
+        }
+
+        /* Subscribe Section */
+        .subscribe {
+            padding: 64px 0;
+            border-top: 1px solid var(--border);
+            text-align: center;
+        }
+
+        .subscribe-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 24px;
+        }
+
+        .platforms {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .platform-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 24px;
+            border: 2px solid var(--bg-dark);
+            border-radius: var(--small-radius);
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .platform-btn:hover {
+            background: var(--bg-dark);
+            color: var(--text-light);
+        }
+
+        .platform-btn img {
+            width: 24px;
+            height: 24px;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--bg-dark);
+            color: var(--text-light);
+            padding: 64px 0 32px;
+        }
+
+        .footer-inner {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 48px;
+        }
+
+        .footer-brand .logo {
+            color: var(--text-light);
+            margin-bottom: 24px;
+        }
+
+        .footer-newsletter {
+            margin-top: 24px;
+        }
+
+        .newsletter-input {
+            display: flex;
+            gap: 8px;
+        }
+
+        .newsletter-input input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid var(--text-muted);
+            border-radius: var(--small-radius);
+            background: transparent;
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+
+        .newsletter-input input::placeholder {
+            color: var(--text-gray);
+        }
+
+        .newsletter-input button {
+            padding: 12px 24px;
+            background: var(--text-light);
+            color: var(--bg-dark);
+            border: none;
+            border-radius: var(--small-radius);
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .footer-links h4 {
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 16px;
+            color: var(--text-light);
+        }
+
+        .footer-links ul {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 12px;
+        }
+
+        .footer-links a {
+            color: var(--text-gray);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--text-light);
+        }
+
+        .footer-bottom {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid var(--text-muted);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--text-gray);
+            font-size: 0.85rem;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 16px;
+        }
+
+        .social-links a {
+            color: var(--text-gray);
+            transition: color 0.2s;
+        }
+
+        .social-links a:hover {
+            color: var(--text-light);
+        }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .episodes-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .footer-inner {
+                grid-template-columns: 1fr;
+                gap: 32px;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .filters {
+                width: 100%;
+                flex-wrap: wrap;
+            }
+
+            .section-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
 </head>
 <body>
-    <!-- Navigation -->
-    <nav class="nav">
-        <div class="nav-container">
-            <a href="/" class="nav-logo">
-                <span class="logo-text">20</span><span class="logo-accent">Minute</span><span class="logo-text">Leaders</span>
+    <!-- Header -->
+    <header>
+        <div class="container header-inner">
+            <a href="/" class="logo">
+                🎙️ 20<span>Minute</span>Leaders
             </a>
-            <div class="nav-links">
+            <nav class="nav-links">
                 <a href="#episodes">Episodes</a>
-                <a href="#guests">Guests</a>
-                <a href="#about">About</a>
-                <a href="#subscribe" class="nav-cta">Subscribe</a>
-            </div>
-            <button class="nav-toggle" aria-label="Menu">
-                <span></span><span></span><span></span>
-            </button>
+                <a href="#subscribe">Subscribe</a>
+                <a href="https://www.linkedin.com/in/matiasmichael/" target="_blank">About Michael</a>
+            </nav>
         </div>
-    </nav>
+    </header>
 
-    <!-- Hero Section with Rotating Headlines -->
+    <!-- Hero -->
     <section class="hero">
-        <div class="hero-content">
-            <p class="hero-eyebrow">1,171+ Episodes</p>
-            <h1 class="hero-title" id="hero-title">
-                <span class="hero-line">Conversations with the</span>
-                <span class="hero-line hero-accent" id="rotating-text">world's boldest leaders</span>
-            </h1>
-            <p class="hero-subtitle">20 minutes. One leader. Infinite insights.</p>
-            <div class="hero-actions">
-                <a href="#episodes" class="btn btn-primary">Browse Episodes</a>
-                <a href="#latest" class="btn btn-secondary">Latest Episode →</a>
-            </div>
-        </div>
-        <div class="hero-visual">
-            <div class="hero-stats">
-                <div class="stat">
-                    <span class="stat-number">1,171+</span>
-                    <span class="stat-label">Episodes</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number">5+</span>
-                    <span class="stat-label">Years</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number">20</span>
-                    <span class="stat-label">Minutes</span>
-                </div>
-            </div>
+        <div class="container">
+            <span class="hero-badge">Latest Episode</span>
+            <h1 class="hero-title" id="hero-title">Loading latest episode...</h1>
+            <p class="hero-subtitle">20-minute conversations with the world's most prominent leaders</p>
         </div>
     </section>
 
-    <!-- Featured/Latest Episode -->
-    <section class="featured" id="latest">
+    <!-- Episodes Section -->
+    <section class="episodes-section" id="episodes">
         <div class="container">
-            <h2 class="section-title">Latest Episode</h2>
-            <div class="featured-episode" id="featured-episode">
-                <!-- Populated by JS -->
-            </div>
-        </div>
-    </section>
-
-    <!-- Episode Browser -->
-    <section class="episodes" id="episodes">
-        <div class="container">
-            <div class="episodes-header">
+            <div class="section-header">
                 <h2 class="section-title">All Episodes</h2>
-                <div class="search-filter">
-                    <input type="text" id="search" placeholder="Search episodes, guests, topics..." class="search-input">
-                    <select id="topic-filter" class="filter-select">
-                        <option value="">All Topics</option>
-                    </select>
-                </div>
-            </div>
-            <div class="episodes-grid" id="episodes-grid">
-                <!-- Populated by JS -->
-            </div>
-            <div class="load-more">
-                <button id="load-more" class="btn btn-secondary">Load More Episodes</button>
-            </div>
-        </div>
-    </section>
-
-    <!-- Guest Directory -->
-    <section class="guests" id="guests">
-        <div class="container">
-            <h2 class="section-title">Featured Guests</h2>
-            <p class="section-subtitle">World-class leaders sharing their journeys and insights</p>
-            <div class="guests-grid" id="guests-grid">
-                <!-- Populated by JS -->
-            </div>
-        </div>
-    </section>
-
-    <!-- About Section -->
-    <section class="about" id="about">
-        <div class="container">
-            <div class="about-content">
-                <div class="about-text">
-                    <h2 class="section-title">About the Show</h2>
-                    <p class="about-description">
-                        <strong>20MinuteLeaders</strong> features the world's most prominent leaders for short, focused conversations about their journeys and insights.
-                    </p>
-                    <p class="about-description">
-                        In just 20 minutes, each episode distills years of experience into actionable wisdom—from founders building the future to executives transforming industries.
-                    </p>
-                    <p class="about-description">
-                        Hosted by <strong>Michael Matias</strong>, a tech entrepreneur, Stanford graduate, and Forbes columnist who has spoken to over 1,000 leaders about what drives them.
-                    </p>
-                </div>
-                <div class="about-platforms">
-                    <h3>Listen On</h3>
-                    <div class="platform-links">
-                        <a href="https://open.spotify.com/show/5SGkdLOMzUyxZugfdR1rxs" target="_blank" class="platform-link">
-                            <span>Spotify</span>
-                        </a>
-                        <a href="https://podcasts.apple.com/us/podcast/20-minute-leaders/id1527307391" target="_blank" class="platform-link">
-                            <span>Apple Podcasts</span>
-                        </a>
-                        <a href="https://www.youtube.com/playlist?list=PLX_lN2hQUMOd2Y93vJ4bqDLndqG2EdUhY" target="_blank" class="platform-link">
-                            <span>YouTube</span>
-                        </a>
+                <div class="filters">
+                    <button class="filter-btn active">View All</button>
+                    <div class="search-box">
+                        <svg width="16" height="16" viewBox="0 0 256 256" fill="currentColor">
+                            <path d="M232.49,215.51,185,168a92.12,92.12,0,1,0-17,17l47.53,47.54a12,12,0,0,0,17-17ZM44,112a68,68,0,1,1,68,68A68.07,68.07,0,0,1,44,112Z"/>
+                        </svg>
+                        <input type="text" id="search" placeholder="Find episodes...">
                     </div>
                 </div>
             </div>
+
+            <div class="episodes-grid" id="episodes-grid">
+                <!-- Episodes loaded by JS -->
+            </div>
+
+            <div class="load-more">
+                <button class="load-more-btn" id="load-more">Load More</button>
+            </div>
         </div>
     </section>
 
-    <!-- Newsletter Subscribe -->
+    <!-- Subscribe Section -->
     <section class="subscribe" id="subscribe">
         <div class="container">
-            <div class="subscribe-content">
-                <h2 class="section-title">Never Miss an Episode</h2>
-                <p class="subscribe-text">Get weekly insights from world-class leaders delivered to your inbox.</p>
-                <form class="subscribe-form" id="subscribe-form">
-                    <input type="email" placeholder="your@email.com" class="subscribe-input" required>
-                    <button type="submit" class="btn btn-primary">Subscribe</button>
-                </form>
+            <h3 class="subscribe-title">Subscribe on your favorite platform</h3>
+            <div class="platforms">
+                <a href="https://podcasts.apple.com/us/podcast/20minuteleaders/id1 " class="platform-btn" target="_blank">
+                    <img src="https://framerusercontent.com/images/Qf9ayfboOmhI4Q6f0ZcJN9En3E.png" alt="Apple Podcasts">
+                    Apple Podcasts
+                </a>
+                <a href="https://open.spotify.com/show/5SGkdLOMzUyxZugfdR1rxs" class="platform-btn" target="_blank">
+                    <img src="https://framerusercontent.com/images/90S8Y25PDPS6Zpr4O89DpRsjq4.png" alt="Spotify">
+                    Spotify
+                </a>
+                <a href="https://www.youtube.com/@20minuteleaders" class="platform-btn" target="_blank">
+                    <img src="https://framerusercontent.com/images/4tWlDWVU6kJnSqtdPHyOlZuI.png" alt="YouTube">
+                    YouTube
+                </a>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer">
+    <footer>
         <div class="container">
-            <div class="footer-content">
+            <div class="footer-inner">
                 <div class="footer-brand">
-                    <span class="logo-text">20</span><span class="logo-accent">Minute</span><span class="logo-text">Leaders</span>
-                    <p class="footer-tagline">Conversations with the world's boldest leaders</p>
+                    <a href="/" class="logo">🎙️ 20<span>Minute</span>Leaders</a>
+                    <p style="color: var(--text-gray); margin-top: 16px; max-width: 300px;">
+                        Conversations with the world's most prominent leaders. 20 minutes, infinite insights.
+                    </p>
+                    <div class="footer-newsletter">
+                        <p style="margin-bottom: 12px; font-size: 0.9rem;">Subscribe to updates</p>
+                        <div class="newsletter-input">
+                            <input type="email" placeholder="Enter your email">
+                            <button>Subscribe</button>
+                        </div>
+                    </div>
                 </div>
                 <div class="footer-links">
-                    <a href="https://www.linkedin.com/in/matiasmichael/" target="_blank">LinkedIn</a>
-                    <a href="https://twitter.com/20MinuteLeaders" target="_blank">Twitter</a>
-                    <a href="mailto:contact@20minuteleaders.com">Contact</a>
+                    <h4>Explore</h4>
+                    <ul>
+                        <li><a href="#episodes">All Episodes</a></li>
+                        <li><a href="https://www.linkedin.com/in/matiasmichael/">About Michael</a></li>
+                        <li><a href="https://www.facebook.com/20minuteleaders/">Facebook</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Follow</h4>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/company/20minleaders-human-zeroday">LinkedIn</a></li>
+                        <li><a href="https://twitter.com/mataborni">Twitter</a></li>
+                        <li><a href="https://www.facebook.com/20minuteleaders/">Facebook</a></li>
+                    </ul>
                 </div>
             </div>
-            <p class="footer-copyright">© 2026 20MinuteLeaders. All rights reserved.</p>
+            <div class="footer-bottom">
+                <span>© 2026 20MinuteLeaders. All rights reserved.</span>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/company/20minleaders-human-zeroday" target="_blank">LinkedIn</a>
+                    <a href="https://twitter.com/mataborni" target="_blank">Twitter</a>
+                </div>
+            </div>
         </div>
     </footer>
 
-    <script src="js/episodes.js"></script>
-    <script src="js/app.js"></script>
+    <script>
+        // Load episodes from JSON
+        let episodes = [];
+        let displayCount = 12;
+        let filteredEpisodes = [];
+
+        async function loadEpisodes() {
+            try {
+                const response = await fetch('episodes.json');
+                episodes = await response.json();
+                filteredEpisodes = [...episodes];
+                
+                // Set hero
+                if (episodes.length > 0) {
+                    const latest = episodes[0];
+                    document.getElementById('hero-title').textContent = latest.title || 'Latest Episode';
+                }
+                
+                renderEpisodes();
+            } catch (error) {
+                console.error('Failed to load episodes:', error);
+            }
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+
+        function renderEpisodes() {
+            const grid = document.getElementById('episodes-grid');
+            const toShow = filteredEpisodes.slice(0, displayCount);
+            
+            grid.innerHTML = toShow.map(ep => `
+                <a href="${ep.link || '#'}" class="episode-card" target="_blank">
+                    <div class="card-image-wrapper">
+                        <img class="card-image" src="https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="${ep.title}" onerror="this.style.display='none'">
+                        <div class="card-image-overlay">
+                            <span class="view-episode-btn">
+                                View Episode
+                                <svg width="20" height="20" viewBox="0 0 40 40" fill="none">
+                                    <circle cx="20" cy="20" r="20" fill="white"/>
+                                    <path d="M22 21.8H11v-3.6h11.1L17 13l2.5-2.5L29 20l-9.5 9.5L17 27l5.2-5.2z" fill="#4C4C4C"/>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <div class="card-meta-left">
+                                <span class="card-category">20ML</span>
+                                <span class="card-date">${formatDate(ep.pubDate)}</span>
+                            </div>
+                            <div class="card-platforms">
+                                <a href="https://open.spotify.com/show/5SGkdLOMzUyxZugfdR1rxs" target="_blank" onclick="event.stopPropagation()">
+                                    <img class="platform-icon" src="https://framerusercontent.com/images/90S8Y25PDPS6Zpr4O89DpRsjq4.png" alt="Spotify">
+                                </a>
+                                <a href="https://podcasts.apple.com/us/podcast/20minuteleaders/id1" target="_blank" onclick="event.stopPropagation()">
+                                    <img class="platform-icon" src="https://framerusercontent.com/images/Qf9ayfboOmhI4Q6f0ZcJN9En3E.png" alt="Apple">
+                                </a>
+                            </div>
+                        </div>
+                        <h3 class="card-title">${ep.title || 'Untitled Episode'}</h3>
+                    </div>
+                </a>
+            `).join('');
+            
+            // Hide load more if all shown
+            document.getElementById('load-more').style.display = 
+                displayCount >= filteredEpisodes.length ? 'none' : 'inline-block';
+        }
+
+        // Search
+        document.getElementById('search').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            filteredEpisodes = episodes.filter(ep => 
+                (ep.title && ep.title.toLowerCase().includes(query)) ||
+                (ep.guest && ep.guest.toLowerCase().includes(query))
+            );
+            displayCount = 12;
+            renderEpisodes();
+        });
+
+        // Load more
+        document.getElementById('load-more').addEventListener('click', () => {
+            displayCount += 12;
+            renderEpisodes();
+        });
+
+        // Init
+        loadEpisodes();
+    </script>
 </body>
 </html>

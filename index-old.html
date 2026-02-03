@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20MinuteLeaders | Conversations with the World's Boldest Leaders</title>
+    <meta name="description" content="1,171+ conversations with the world's most prominent leaders. 20 minutes, infinite insights.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙️</text></svg>">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="/" class="nav-logo">
+                <span class="logo-text">20</span><span class="logo-accent">Minute</span><span class="logo-text">Leaders</span>
+            </a>
+            <div class="nav-links">
+                <a href="#episodes">Episodes</a>
+                <a href="#guests">Guests</a>
+                <a href="#about">About</a>
+                <a href="#subscribe" class="nav-cta">Subscribe</a>
+            </div>
+            <button class="nav-toggle" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section with Rotating Headlines -->
+    <section class="hero">
+        <div class="hero-content">
+            <p class="hero-eyebrow">1,171+ Episodes</p>
+            <h1 class="hero-title" id="hero-title">
+                <span class="hero-line">Conversations with the</span>
+                <span class="hero-line hero-accent" id="rotating-text">world's boldest leaders</span>
+            </h1>
+            <p class="hero-subtitle">20 minutes. One leader. Infinite insights.</p>
+            <div class="hero-actions">
+                <a href="#episodes" class="btn btn-primary">Browse Episodes</a>
+                <a href="#latest" class="btn btn-secondary">Latest Episode →</a>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">1,171+</span>
+                    <span class="stat-label">Episodes</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">5+</span>
+                    <span class="stat-label">Years</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">20</span>
+                    <span class="stat-label">Minutes</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured/Latest Episode -->
+    <section class="featured" id="latest">
+        <div class="container">
+            <h2 class="section-title">Latest Episode</h2>
+            <div class="featured-episode" id="featured-episode">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Episode Browser -->
+    <section class="episodes" id="episodes">
+        <div class="container">
+            <div class="episodes-header">
+                <h2 class="section-title">All Episodes</h2>
+                <div class="search-filter">
+                    <input type="text" id="search" placeholder="Search episodes, guests, topics..." class="search-input">
+                    <select id="topic-filter" class="filter-select">
+                        <option value="">All Topics</option>
+                    </select>
+                </div>
+            </div>
+            <div class="episodes-grid" id="episodes-grid">
+                <!-- Populated by JS -->
+            </div>
+            <div class="load-more">
+                <button id="load-more" class="btn btn-secondary">Load More Episodes</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Guest Directory -->
+    <section class="guests" id="guests">
+        <div class="container">
+            <h2 class="section-title">Featured Guests</h2>
+            <p class="section-subtitle">World-class leaders sharing their journeys and insights</p>
+            <div class="guests-grid" id="guests-grid">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2 class="section-title">About the Show</h2>
+                    <p class="about-description">
+                        <strong>20MinuteLeaders</strong> features the world's most prominent leaders for short, focused conversations about their journeys and insights.
+                    </p>
+                    <p class="about-description">
+                        In just 20 minutes, each episode distills years of experience into actionable wisdom—from founders building the future to executives transforming industries.
+                    </p>
+                    <p class="about-description">
+                        Hosted by <strong>Michael Matias</strong>, a tech entrepreneur, Stanford graduate, and Forbes columnist who has spoken to over 1,000 leaders about what drives them.
+                    </p>
+                </div>
+                <div class="about-platforms">
+                    <h3>Listen On</h3>
+                    <div class="platform-links">
+                        <a href="https://open.spotify.com/show/5SGkdLOMzUyxZugfdR1rxs" target="_blank" class="platform-link">
+                            <span>Spotify</span>
+                        </a>
+                        <a href="https://podcasts.apple.com/us/podcast/20-minute-leaders/id1527307391" target="_blank" class="platform-link">
+                            <span>Apple Podcasts</span>
+                        </a>
+                        <a href="https://www.youtube.com/playlist?list=PLX_lN2hQUMOd2Y93vJ4bqDLndqG2EdUhY" target="_blank" class="platform-link">
+                            <span>YouTube</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Subscribe -->
+    <section class="subscribe" id="subscribe">
+        <div class="container">
+            <div class="subscribe-content">
+                <h2 class="section-title">Never Miss an Episode</h2>
+                <p class="subscribe-text">Get weekly insights from world-class leaders delivered to your inbox.</p>
+                <form class="subscribe-form" id="subscribe-form">
+                    <input type="email" placeholder="your@email.com" class="subscribe-input" required>
+                    <button type="submit" class="btn btn-primary">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <span class="logo-text">20</span><span class="logo-accent">Minute</span><span class="logo-text">Leaders</span>
+                    <p class="footer-tagline">Conversations with the world's boldest leaders</p>
+                </div>
+                <div class="footer-links">
+                    <a href="https://www.linkedin.com/in/matiasmichael/" target="_blank">LinkedIn</a>
+                    <a href="https://twitter.com/20MinuteLeaders" target="_blank">Twitter</a>
+                    <a href="mailto:contact@20minuteleaders.com">Contact</a>
+                </div>
+            </div>
+            <p class="footer-copyright">© 2026 20MinuteLeaders. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/episodes.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
