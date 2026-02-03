@@ -1,56 +1,49 @@
 # 20MinuteLeaders Brand Guide
 
-## Brand Identity (Based on Research)
+## Official Brand Identity
 
-### Name Treatment
-- **Official:** `20MinuteLeaders` (CamelCase, no spaces)
-- **Text format:** Capital letters throughout: "20MinuteLeaders"
-- **Tagline:** "Conversations with the world's most prominent leaders"
+### Logo/Wordmark
+```
+20 Minute LEADERS
+   with Michael Matias
+```
 
-### Colors (Original Blue Brand)
-Based on Michael's description of first 500 episodes:
-- **Primary:** Deep Blue background (#1a365d or similar navy blue)
-- **Text:** White for contrast
-- **Accent:** Light blue highlights
+### Colors
+- **Primary Blue:** #00A3E0 (Vibrant cyan-blue)
+- **Accent Yellow:** #FFD700 (Gold for "LEADERS")
+- **White:** #FFFFFF (Text on blue backgrounds)
+- **Dark:** #0F172A (Footer, dark elements)
 
 ### Typography
-- Clean, modern sans-serif
-- Bold for the "20" to emphasize the time format
-- Professional but approachable
-
-### Logo Concept
-```
-┌─────────────────────────────────┐
-│                                 │
-│      20MinuteLeaders            │
-│                                 │
-│   [Blue background, white text] │
-│                                 │
-└─────────────────────────────────┘
-```
+- **"20 Minute"** - White, bold sans-serif, uppercase
+- **"LEADERS"** - Yellow/Gold, extra bold, uppercase
+- **"with Michael Matias"** - Script/cursive font (Dancing Script), white
 
 ### Visual Elements
-- Microphone/audio wave motifs (podcast)
-- Clean, minimal aesthetic
+- Blue burst/star graphics radiating outward
+- Clean, energetic feel
 - Professional headshots of guests
-- Episode number badges
+- Episode number badges in yellow
 
-## Brand Assets Needed
-- [ ] Original logo file (request from Michael if available)
-- [ ] High-res version of blue background logo
-- [ ] Social media templates
+### Logo Usage
+- Primary: On blue background with yellow accent
+- Favicon: Blue square with "20" in white, "ML" in yellow
 
 ## Social Presence
-- LinkedIn: linkedin.com/company/20minleaders (4,307 followers)
-- Instagram: @20minuteleaders
+- LinkedIn: linkedin.com/company/20minleaders
+- Instagram: @20minuteleaders  
 - Twitter/X: @20MinuteLeaders
 - YouTube: youtube.com/playlist?list=PLX_lN2hQUMOd2Y93vJ4bqDLndqG2EdUhY
 - Facebook: facebook.com/20minuteleaders
 
-## Content Guidelines
-- Every episode: Guest name, title, company
-- Episode format: "Ep[NUMBER]: [Guest Name]: [Topic Title]"
-- Duration emphasis: "20 minutes, infinite insights"
+## Brand Assets
+- `original-brand.jpg` - Original podcast cover art
+- Episode images from podcast RSS feed
+
+## Content Format
+- Episode naming: "Ep[NUMBER]: [Guest Name]: [Topic Title]"
+- Tagline: "20 minutes, infinite insights"
+- Value prop: "Short conversations with the world's most prominent leaders"
 
 ---
-*To be refined once original assets are located*
+*Updated: Feb 3, 2026 - Based on original podcast artwork*
