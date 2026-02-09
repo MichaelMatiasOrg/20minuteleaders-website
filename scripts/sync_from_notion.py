@@ -33,7 +33,7 @@ def notion_request(url, method='GET', data=None):
     req = urllib.request.Request(url, headers=headers, method=method)
     if data:
         req.data = json.dumps(data).encode()
-    with urllib.request.urlopen(req, timeout=60) as resp:
+    with urllib.request.urlopen(req, timeout=120) as resp:
         return json.loads(resp.read().decode())
 
 def extract_youtube_id(url):
