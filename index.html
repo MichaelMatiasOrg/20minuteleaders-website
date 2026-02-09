@@ -7,6 +7,7 @@
     <meta name="description" content="1,171+ conversations with the world's most prominent leaders. 20 minutes, infinite insights. Hosted by Michael Matias.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://img.youtube.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2300A3E0' width='100' height='100' rx='15'/><text x='50' y='45' font-size='28' fill='white' text-anchor='middle' font-weight='900'>20</text><text x='50' y='70' font-size='18' fill='%23FFD700' text-anchor='middle' font-weight='900'>ML</text></svg>">
     <style>
@@ -565,6 +566,30 @@
 
         .episode-card:hover .card-image img {
             transform: scale(1.05);
+        }
+
+        .card-image .card-placeholder {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: rgba(255,255,255,0.6);
+        }
+
+        .card-placeholder svg {
+            width: 40px;
+            height: 40px;
+            margin-bottom: 8px;
+            opacity: 0.5;
+        }
+
+        .card-placeholder span {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .card-number {
@@ -1336,11 +1361,13 @@
                     document.getElementById('featured-title').textContent = latest.topic || latest.title;
                     document.getElementById('featured-date').textContent = formatDate(latest.date);
                     document.getElementById('featured-desc').textContent = stripHtml(latest.description).slice(0, 250) + '...';
-                    // Use YouTube thumbnail as fallback
-                    const featuredImg = latest.image || (latest.youtubeId ? `https://img.youtube.com/vi/${latest.youtubeId}/maxresdefault.jpg` : '');
+                    // Prefer YouTube thumbnail (permanent) over Notion S3 URLs (expire)
+                    const featuredImg = latest.youtubeId ? `https://img.youtube.com/vi/${latest.youtubeId}/maxresdefault.jpg` : '';
                     if (featuredImg) {
-                        document.getElementById('featured-img').src = featuredImg;
-                        document.getElementById('featured-img').alt = latest.guest || latest.title;
+                        const imgEl = document.getElementById('featured-img');
+                        imgEl.src = featuredImg;
+                        imgEl.alt = latest.guest || latest.title;
+                        imgEl.onerror = function() { this.style.display = 'none'; };
                     }
 
                     // Wire featured episode to detail page
@@ -1372,12 +1399,19 @@
             const toShow = filteredEpisodes.slice(0, displayCount);
 
             grid.innerHTML = toShow.map((ep, idx) => {
-                // Use YouTube thumbnail if no image but has youtubeId
-                const thumbnail = ep.image || (ep.youtubeId ? `https://img.youtube.com/vi/${ep.youtubeId}/hqdefault.jpg` : '');
+                // Prefer YouTube thumbnail (permanent) over Notion S3 URLs (expire after 1hr)
+                const thumbnail = ep.youtubeId ? `https://img.youtube.com/vi/${ep.youtubeId}/mqdefault.jpg` : '';
+                const imgHtml = thumbnail
+                    ? `<img src="${thumbnail}" alt="${ep.guest || ep.title}" loading="lazy" onerror="this.parentElement.querySelector('.card-placeholder').style.display='flex';this.style.display='none'">`
+                    : '';
                 return `
                 <a href="episode.html?id=${ep.episode}" class="episode-card">
                     <div class="card-image">
-                        <img src="${thumbnail}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">
+                        ${imgHtml}
+                        <div class="card-placeholder" style="display:${thumbnail ? 'none' : 'flex'}">
+                            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                            <span>Episode ${ep.episode || ''}</span>
+                        </div>
                         ${ep.episode ? `<span class="card-number">EP ${ep.episode}</span>` : ''}
                         ${ep.duration ? `<span class="card-duration">${ep.duration}</span>` : ''}
                     </div>
