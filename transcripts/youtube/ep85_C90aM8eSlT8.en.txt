@@ -1,0 +1,689 @@
+you know machine learning ai and deep
+learning it's not a solve all
+solution for everything it's it's really
+about being able to identify patterns
+in lots of data or complex data and
+being able to come up with
+with predictions as a result of that
+[Music]
+near how are you good how are you
+michael
+fantastic thank you so much for joining
+me on 20 minute leaders you know it's
+already night time obviously in israel
+so even more thank you for taking the
+time to join me
+no worries uh standard working hours 100
+working hours
+for a ceo of a of an early stage startup
+and that has to
+obviously do both us and israel so
+wonderful
+you know near so much experience in the
+machine learning and artificial
+intelligence space
+uh research and from and from google and
+most recently the company
+that you founded allegro and i'd love to
+use these next
+19 minutes or so so that i can learn a
+little bit about where we're headed and
+you know a lot of the people that are
+viewing this some of them are technical
+some of them are not so
+i'm sure we let's try to find a balance
+of how can we you know talk about this
+industry
+at a bit higher level and what
+opportunities
+are and what opportunities are and what
+the constraints are
+sure so tell me a little bit about
+allegro really quick just so we can have
+context of what you're interested in
+and some of the things that you're
+researching
+absolutely so so um
+actually we we you know we do a little
+bit of research but uh
+even you know research also on team
+communication and building you know
+building models
+sure yeah sure sure i mean research
+always has a specific connotation in ai
+but but yeah basically where we come at
+it or um
+uh we're about engineering the research
+and i'll explain
+so um you know the thing about ai and
+when i'm speaking about ai
+you know in my context it's machine
+learning and deep learning
+um and uh basically it's a fundamentally
+different paradigm on how to do software
+right so traditional software is a very
+logical linear development process
+and it's at its essence it's basically
+engineers um building um
+algorithms to solve problems and then
+coding them in a way that a machine
+understands right so then the machine
+can actually run it
+whereas in in machine learning deep
+learning what you're actually doing is
+you're employing
+algorithms to come up with the
+algorithm to solve the problem right and
+right this is and so you do this through
+a process of iteration
+uh and experimentation hence machine
+learning
+right so the algorithm supposedly learns
+right
+yeah um and so this is a very this is an
+experimental process rather than
+a standard software process and this has
+fundamental implications on everything
+else
+right on the type of talent that you
+need to to basically
+drive development and maintenance of
+this on on the type of tools that you
+need
+and how to integrate uh workflows to
+make that work
+and so uh what we do at allegro is we
+basically provide
+an end-to-end tool chain or platform
+whatever you want to call it
+um that basically supports the key
+pillars or aspects of ai around the
+paradigm so that our customers can focus
+on
+building uh and maintaining their
+product or service
+um so that they can focus and therefore
+build a better solution
+faster and more cost effectively right
+so at the end of the day we're about
+engineering the processes
+uh that are specific to ai um
+to make it uh uh you know more
+productive okay so maybe give me you
+know
+a brief context and a rundown of what is
+the life cycle of an ai
+project in terms of let's say that i now
+i want to take a team of three other
+researchers and engineers i want to
+solve my problem is that
+that i want to know i want to know
+what my dog is going to think next okay
+so i have a new puppy
+and i know that he has patterns i just
+don't know what they are
+of when he's gonna go bite the couch now
+this and it's awful because i'm gonna
+have to pay for this couch because this
+is
+you know a rental right so right so how
+do
+what is the life cycle of such a project
+from a machine from a machine learning
+researcher's perspective
+so actually you hit actually the nail on
+the head right i mean what that's one
+thing to remember
+for the non-technical audience right uh
+you know machine learning ai
+and deep learning it's not a solve all
+solution for everything
+it's it's really about being able to
+identify patterns
+in lots of data or complex data and
+being able to come up with
+with predictions as a result of that
+right so you hit the nail on the head on
+that
+and so being able to understand when
+your puppy is going to uh to bite the
+couch
+uh you you know you'll need to collect
+data right so
+to basically um uh you'll need to um
+collect data about the puppy's behavior
+right um for a period of time
+during which uh he may you know bite the
+couch or not and he's just acting around
+right so basically in this case you're
+probably gonna film him right i mean you
+could
+theoretically also put some sensors
+around them and measure
+other types of things uh related to to
+to maybe his uh you know level of
+anxiety or whatever and blood pressure i
+should run right
+now that the notebook and write logs of
+every single thing he does
+exactly right and then so basically you
+know that's the first thing you need to
+do i mean because
+uh data what we like to say is it's
+really the raw material that drive the
+process
+right um and so then what you're going
+to do is you're going to have to uh
+basically um you know
+you're going to have to have a data
+scientist or you're gonna have to find
+someone uh that is going to figure out
+okay what is the best
+uh you know the best way to to address
+this or to build a uh
+a solution to to predict this and what i
+mean by that is you want someone to be
+able to
+identify what's the right algorithms
+there are a lot of algorithms out there
+right
+in deep learning they're called neural
+networks and machine learning there's a
+set of algorithms
+right which is the one that's best
+suited to solve this problem
+and there are obviously different types
+of algorithms each one for different uh
+solutions optimized for them and then
+you're gonna have to build basically an
+experiment you're building basically an
+experiment where you're saying i'm gonna
+take this data i'm gonna assume this is
+the right model for me
+i'm gonna tune different parameters
+around it you have some you know think
+of it as a block where you can actually
+tune and change some levers
+and then you're going to run an
+experiment and you're going to see the
+results and
+i want to also there is a
+differentiation because i think there's
+a misconception that
+anybody who says i'm a machine learning
+engineer or something like that
+then people assume that you know they're
+a mathematical genius that they're
+sitting and they're
+you know they're creating the they're
+they're necessarily creating these new
+un
+unseen before algorithms but a lot of
+engineers that are
+working on machine learning today you
+have all these democratized tools like
+tensorflow and pytorch
+and all these you know out of the box
+tools where you can even if you don't
+know machine learning at all
+you can say yeah i have this data set i
+i heard on a podcast that
+this should be suitable to you know a
+logistic regression
+so let's just try it out then oh it
+works or it doesn't work
+it's true i mean so so a lot of the big
+you know cloud providers uh
+uh namely mostly you know you see google
+amazon microsoft
+and some others are providing tools that
+enable
+you know people who have you know basic
+technical affinity to be able to to do
+these things
+uh but the important thing to remember
+at least you know where i'm coming from
+an industry is that these tools are
+lowest common denominator but i'm able
+to maybe solve a problem of a puppy but
+once you get into situations where uh
+you know the
+the precision becomes much more
+important because you know the cost
+associated with a mistake
+is going to be bigger say autonomous
+vehicles right yeah
+right then um you know it's not enough
+to have a layman using these tools
+you're gonna have to actually have
+people who are much uh you know much
+more knowledgeable
+uh both on you know on different aspects
+of this right so there's a lot of
+aspects there are the people who
+actually are going to
+to use the neural networks and to do the
+stuff and maybe even tweak them around
+and even uh you know we we're working
+with companies who even are
+um um you know smart enough to actually
+be able to
+to build their own neural networks yeah
+to then you know engineers who know how
+to actually take that and build a
+solution that's scalable solution
+right and so there are many you know you
+need to have a lot of professionals in
+this process right so
+it really sounds like it really sounds
+like the 80 20 rule where you can get
+you know 80
+precision with 20 of the effort but if
+you want to get 100 accuracy
+and you want to make sure that your
+autonomous vehicle is going to be
+predictable
+in these circumstances you're going to
+have to put 100 of the effort and go
+that extra mile
+did you take a sneak peek at some of our
+presentations because
+yeah exactly and i've been hearing about
+this uh from from birth basically
+yeah it's uh it's it's exactly that uh
+you know i heard somewhere and it's so
+true i mean building a prototype
+even building actually a prototype of a
+autonomous vehicle
+to to drive in in a you know in a
+parking lot
+is very very easy the problem is exactly
+that to build a real product that's
+exactly the 80 20 rule
+wonderful okay so so you know allegro
+how is it helping either you know
+democratize
+um machine learning and ai so that
+others can use it or make it
+more efficient and better for teams how
+does this whole process work
+sure so so we basically um
+we help companies um in three or four
+pillars
+right so um the first one is what we
+call experiment management
+or process management and this is really
+around how do you manage
+this different process of experiments
+right so you have a lot of
+experimentation that you're doing
+um and you need to basically be able to
+pick and choose the best one compare
+them go back and maybe take a different
+direction in your
+research etc so how do you actually
+manage that process efficiently
+you know that's one piece that we do uh
+the second piece
+uh and i'm going really fast high level
+here right the second piece is
+around um this new space called
+ml ops right so it's the ai version of
+devops right so in
+devops in a nutshell it's about taking
+a single discrete piece of code and
+scaling up
+you know over a lot of computers so that
+it can work in scale right to service a
+lot of
+users or what have you whereas in ai
+you're actually having lots of different
+experiments running at the same time and
+so you need to have
+the problem is different you need to
+have a way to scale up
+lots of slightly different pieces of
+code they're
+about the same but they're slightly
+different and it's a different problem
+the other thing is
+devops usually happens in production and
+so in standard software
+there's a very clear delineation between
+development and production
+whereas in ai the need for a lot of
+compute power
+begins really really early on yes you
+know right after you built the initial
+model you know you're gonna have to
+take more compute power to to do bigger
+bigger data sets
+and so this is this is the area of
+emelops and so
+uh it's a very different problem than
+devops and we provide
+a really simple solution for that so
+that um
+companies uh who have data scientists
+can self
+self serve themselves because that's
+oftentimes where the problem is
+they're they're going to the devops who
+don't know exactly what they need
+and there's a lot of friction there so
+that's the second thing that we help
+with
+um the third thing you actually own the
+gpus and you may and you manage the
+running or
+are you how does that actually work over
+there right we don't own the gpus
+uh or or any of the underneath hardware
+um our solution is 100 software
+okay we basically provide an
+orchestration and a queuing layer
+to enable data scientists to do this it
+can sit
+directly on the hardware it can also sit
+on scalable solutions like kubernetes
+which were built for devops
+but a lot of companies who have this
+want to you know to have their ai also
+on that so we basically have
+this kind of like translation layer so
+that the data scientists can build
+solutions easily
+and it then runs and it kind of you know
+runs ultimately on kubernetes through
+our system
+yeah um so that's you know that's that's
+the amalops part of it
+the third pillar um is around
+uh data management and what i mean by
+data management is really metadata
+management right because it's about the
+insights of the data right when you're
+looking at data think about your dog
+right
+the the video itself is meaningless
+unless you basically say okay here's
+where
+you know your puppy bit the couch or
+here where you know they started
+starting
+playing around or whatever that metadata
+uh you know maybe it's nighttime or
+daytime or it's winter right those are
+the things that actually you know
+potentially could affect
+your puppy's behavior right and so those
+are the things that you need to
+manage um and the thing is that um you
+need to understand
+you know data skews and data biases
+because ultimately
+let's take an example from from uh in
+autonomous vehicles
+most of the time what you're dealing
+with is these really rare edge cases
+what happens when you're driving
+and the sun is exactly uh you know
+shining through the camera
+and you're making a left turn and
+someone's coming from the right and
+there's a stop sign or whatever
+those you know those edge cases are the
+ones that you need to deal with
+and they're rare and so you don't have a
+lot of data on that
+and so uh then what happens is actually
+if you have too much data of something
+else and not enough of these situations
+your neural network your algorithm is
+not going to
+learn well so you have to rebalance the
+data
+etc so building a solution to do that to
+really manage
+metadata as raw material for your
+process this is something completely new
+companies like google microsoft amazon
+have internal in-house solutions built
+for that but 99 of the other companies
+don't
+right and so almost every startup
+either claims or actually does you know
+work ai work
+yeah yeah we can we can talk about that
+a different time but uh that's i mean
+there's some amazing startups out there
+but
+uh you're right a lot of uh on on you
+know
+unsubstantiated claims are also out
+there and so that's what
+it doubles your evaluation within a
+second so of course you do
+and then i guess the fourth pillar is
+about collaboration and
+it's it's really it's about
+collaboration and actually
+uh efficiency of uh of your human
+capital
+so and this has multiple facets so the
+first facet is
+your data scientists really good ones
+again we talked about the fact that you
+know
+we're solving problems for you know
+companies who have very high standards
+and not your layman's solutions and so
+uh getting these
+uh you know very highly qualified
+research scientists and data scientists
+uh super expensive and very hard to find
+um
+and so if you have them you want to make
+sure that they're as productive as you
+can
+the second thing is researchers and data
+scientists have a very different mindset
+than engineers
+yeah because again they're doing
+research work and so but ultimately
+you're building a product which is an
+exercise in engineering
+and so there's a friction there and the
+idea is how do you actually make them
+or how to actually get them to integrate
+well into a larger product and
+engineering team
+so obviously these have a lot of aspects
+around you know how to manage it
+organizationally etc
+but it also has an aspect of round
+tooling right
+for example how do you make sure that
+you have a tool that enables a simple
+handoff between something that the data
+scientists build
+an engineer can actually take and use as
+a containerized solution that they don't
+need to understand what's inside
+right so we facilitate those things from
+that aspect
+so that um on one hand uh data
+scientists can become much much more
+productive but also at the same time
+be able to hand off and integrate nicely
+into the large organization
+so those are the um um i guess four
+pillars of
+of how we help uh companies wonderful
+and and where is it where is it
+where is it at now so allegro where
+what's happening in in realms of you
+know in terms of the team and
+and funding et cetera so we're uh
+you know we're uh we're a series a
+company we're about uh
+30 people um you know we we're um
+you know so we're um an open source
+company so
+most of our platform is is completely
+open
+um and so uh we're we're actually
+undertaking what uh andreessen horowitz
+uh uh
+calls a uh b2b gross sales strategy so
+we're you know we're pushing
+on getting a lot of companies to to
+adopt our solution
+uh um you know knowing that they're
+gonna upsell into
+into at some point to some enterprise
+solution and so that's going well where
+you know i can't release numbers but
+we're growing uh really really fast
+that that's wonderful okay and here i
+have each for just a few more minutes
+but i i but i'd love to i would love to
+pick your brain
+what what are you most passionate about
+in the realm of of the ai space
+and if you like if you think you know
+five years down the line
+realistically what are the things that
+you are most excited about
+that i will get to experience in my 20s
+now
+what i'm most passionate about is is
+what got me here in the first place i
+mean and this is
+you know i so i spent about a decade at
+google and you know
+after you are google and you're doing a
+lot of uh uh
+things that really you know impact huge
+swath of humanity
+really right it's it's you know you
+really learn about
+you want to innovate and you want to do
+something that's impactful and that's
+really that's been the driving force for
+me
+across my whole career how to actually
+be in you know innovate and push
+the envelope or be part of something
+that pushes it to the next stage
+and really be able to have a large
+impact and you know i think that ai
+obviously is going to have a large
+a huge impact on humanity in so many
+aspects and so for us it's really about
+making that happen i think that there's
+a really big
+uh disparity between where the media is
+today and what's actually happening most
+of the companies are struggling with
+this
+and so to me if you're asking
+realistically what we're going to see in
+the next several years
+is we're going to see a lot of the um
+you know the things that you're already
+seeing out of google et cetera
+but become standard everyday things
+where it's normal for you to do that
+right if it's normal for you to talk to
+a bot
+right that's completely automated it's
+it's you know it's normal for companies
+to be able to automatically figure out
+you know who are the best customers and
+where they need to target it right it's
+it's
+it's very easy to be able to understand
+what you're seeing in video cetera right
+and
+no you know i i had recently a talk with
+with a product manager at waymo and one
+of the
+very interesting things that she
+mentioned was you know the media and a
+lot of companies were very quick
+to to make these these crazy assumptions
+that yeah by the year 2020 we're going
+to have
+vehicles on the road but and people
+because people thought that
+the problem was a little bit i think
+easier than what it is and all of a
+sudden
+they got to 95 mark and then they
+realized that that last sliver which is
+critical when you're talking about lives
+uh that's going to take a little bit
+longer
+so i agree and and i definitely look
+forward to seeing where things progress
+i'm very excited about my own studies
+with ai and and getting a deeper
+understanding myself to be able to
+you know harness these qualities as well
+and we you know
+we're almost out of time but i have to
+ask you my favorite question uh
+i would love to know three words that
+you would best describe yourself
+very curious for that now yeah so you
+warned me about this uh
+right before but i didn't have time to
+think about it but but let me let me
+tell you about uh
+so let me give a different answer
+slightly different
+when i you know when i look at the
+leaders and managers that i
+aspire to be like right i you know i saw
+people who
+are you know pushing the envelope who
+are uh able to take bold decisions
+i saw people who deeply care about
+uh the success their success within the
+context of the organization
+not a me first and and also deeply care
+about
+um you know who you know their team and
+the people that work for them
+and their success again within that
+context and then at the end of the day
+uh you know having doing everything with
+integrity
+and so you know when you ask me this is
+what i aspire to to be
+i love it i love it and you know i think
+it's just i'm sure it's such a
+both fascinating difficult and fun
+journey at the same time
+to now lead a company that's growing
+quickly and and you have to now really
+formulate your own leadership style and
+what does it mean
+to be to be a leader in that in that
+aspect and you're also i think
+i recall you were a captain in the idf
+as well which i'm sure
+uh has a a lot of connections to some of
+the things you're experiencing now
+but but it sounds wonderful near best of
+luck with allegro uh thank you for the
+inspiration over these last 20 minutes
+and i look forward to keeping in touch
+thank you so much michael it's been a
+pleasure
+uh and and obviously all the success to
+you and maybe you know you can come work
+for us or use our tools done
+all right take care take care michael
+bye-bye

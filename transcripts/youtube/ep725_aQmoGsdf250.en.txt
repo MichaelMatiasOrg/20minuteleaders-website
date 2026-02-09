@@ -1,0 +1,661 @@
+we always hear about ai being the most
+promising technology that everyone is
+using on a daily basis and things like
+that but in practice when we get into
+the beats and bites it seems like most
+of it is based on you know very manual
+very labor-intensive processes
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+seruna partners and in media partnership
+with ctec
+welcome to 20 minute leaders i am so
+excited for this episode with me isophil
+chakon the ceo and co-founder of datagen
+ophir is an entrepreneur with over a
+decade of software experience combined
+with computer vision and deep
+algorithmic research he received his bsc
+and embassy in engineering with honors
+from the technion under the brakim elite
+program with a research focus on robotic
+simulations and dynamic systems ophelia
+is the ceo and co-founder of datagen the
+leading synthetic data company which
+creates the next generation for data and
+computer vision ai
+opherochacon welcome to 20 minute
+leaders i've been waiting so long to
+talk to you about data gen and about
+synthetic data and the world of
+artificial intelligence which i love
+so very much because of the infinite
+possibilities it brings thank you for
+being here with me thank you thank you
+very much michael it's a pleasure to be
+here and definitely i was waiting for
+this call for quite some time so it's
+pleasure to be here amazing i i have the
+the the very unique privilege of of
+being a very small part of the journey
+of data gym so thank you for the
+opportunity for that but beyond that
+i the real opportunity that i'm getting
+is getting exposed to some of the
+amazing work that you're doing and
+really an enablement for for
+organizations that are
+doing
+deep ai to create better models and
+better algorithms that at the end serve
+humanity and and you know push our world
+to new to new measures so i feel
+were you always so passionate about ai
+specifically you've done a lot of things
+with ai before but you're an engineering
+profession how did you get into this
+specific field
+right so it's quite an interesting story
+i started my journey at the age of i
+think six or seven
+while my mother bought me the first html
+book and uh you know it oh my god yeah
+she used to say that it's basically the
+the first investment she she made at me
+since uh you know she was so super young
+did she also make you sign a contract
+for some equity in a safe exactly this
+is where she bought the equity uh and
+you know in me pretty much and uh
+yeah since then i pretty fast found
+myself on the intersection between tech
+and entrepreneurship so you know started
+building all these
+uh small businesses while i was young
+including you know building some
+websites hosting some websites and
+things like that obviously i did so many
+mistakes back then but it was a
+an amazing university for me
+um
+and then yeah later on i went to the
+tech neon um to basically graduate both
+bachelors and masters
+in engineering and i think that
+somewhere around my master's degree this
+is where i really dove into ai and
+computer vision uh while it was really
+the beginning of this entire
+field specifically in the context of
+robotics dynamics and things like that
+so it was super fascinating to
+really see and learn what's uh what what
+ai is really capable of doing back then
+and
+was it trivial for you that you're going
+to be diving into this world not just as
+a data scientist yourself but as a
+company builder because at this point
+we're the place where data gen is today
+and soon i'd love for you to share a
+little bit about about the traction that
+you have and where you're headed you're
+no longer just a data scientist you now
+am a ceo you're an entrepreneur you're a
+leader by profession
+was that a trivial thing for you
+yeah so i think that yeah i
+kind of like found myself trying to you
+know thinking about a lot of ideas and
+trying to implement them and basically
+i think was driven really by
+trying to find uh you know someone that
+will benefit from what i'm building from
+a very young age
+and i think that this is like i always
+wanted to find
+an interesting combination between
+building things but being able to also
+deliver them
+um you know to uh and deliver value with
+them and i think that once i went into
+ai when it was super super
+you know preliminary back then i found
+that there are so many different
+opportunities in this field
+and it was very very premature back then
+so i started you know working in the
+industry making sure that i
+grasped more and more of the different
+moving parts
+[Music]
+and then when the time really came
+i decided to really build something that
+will be more substantial in the future
+and this is where i co-founded
+the company with uh with my partner gil
+uh who is you know smart one of the
+smartest guy guys i know he's coming
+from also a very deep technical
+background
+from the technion
+and he also brings a very interesting
+experience in 3d computer vision and
+computer graphics and this is where we
+decided to really focus ourselves we
+knew that this is where
+you know both of us are
+have the most kind of like knowledge and
+understanding
+and you know pretty much where you know
+where we started if you know if we get
+to the to really the entry point of data
+gen it was kind of kind of a funny story
+we were sitting in this uh cafe in in
+tel aviv and you know browsing some
+youtube videos
+um and suddenly this video by zuckerberg
+you know bumps up
+quite a crazy video when he presents the
+oculus device for the for the first time
+on stage so i don't know if you know
+this video it's quite a popular one he
+you know stands on stage where
+um he has an audience of thousands
+people uh
+look look like zombies with the with the
+headset on their face
+and you know when he starts the uh you
+know the keynote and he puts the uh the
+oculus on his face and then you know he
+gets into a crazy new whole new virtual
+virtual world
+uh which was which was you know super
+innovative and and you know game changer
+technology back then
+but on the other hand something was
+quite weird uh for us in this in this
+presentation and what was weird for us
+is that
+um he basically needed to hold remote
+controllers in his hands
+in order to kind of like interact uh
+with the virtual wall and we come from
+the computer vision space and we
+understand that this you know camera
+this device this really sorry this
+device has cameras on the you know
+external side that looking outwards and
+basically they are expected to
+understand the world around the device
+and specifically the hands and be able
+to integrate them into the the virtual
+space in a simple way but it wasn't the
+case and he really needed to hold these
+remote controls in order to uh get this
+interaction to work uh so at this point
+we understood that okay there is you
+know a gap here that facebook suffers
+from and given that facebook is one of
+the let's say you know more mature
+groups in computer vision in the world
+both back then and obviously now
+uh we you know we made an assumption
+that probably this gap is basically
+shared amongst a lot of customers and
+this is where we really you know kicked
+off the journey
+i love it take me through a little bit
+of a higher level understanding of of
+you know where the ai world you know was
+and is today that that is sort of
+enabling you as that agenda coming in
+and especially around this idea of
+synthetic data and and as more and more
+companies are are you know are building
+these algorithms for their own for their
+own uses and for to advance the world
+where are we at because you know the
+progression of ai is is an incredible
+life story but you know specifically in
+the world of synthetic data how do we
+get to here
+right
+so when we started datagen i think that
+the world of ai really suffered from
+lack of standardization meaning it's
+almost like when the internet started
+and then everyone created his own you
+know browser and formats and and
+protocols and things like that so this
+is where we found the world of ai when
+we started and you know it was
+on one hand it's like you have complete
+mess in the world but on the other hand
+it's like a huge opportunity to create
+so many interesting companies around
+these things
+and over the past few years you really
+saw that there were
+quite a lot of fields that progressed
+very very fast specifically if we
+uh kind of like
+try to to
+dissemble the world of ai into building
+blocks you can distinguish between three
+main building blocks right so the first
+one would be compute
+second one would be algo ethereums or
+models or deep learning networks and
+things like that and then the third one
+will be
+data while the two first ones both the
+compute and the algorithms we can see
+that over the past few
+years they really progressed quite
+significantly and there were you know
+tremendous improvements and advancement
+in these fields they both
+get more and more mature exponentially
+year over year
+and we decided no not to focus on on
+these just because there are very good
+companies you know tackling these both
+areas
+but but when we look at on the you know
+more in the data part of things this is
+where i think
+uh the most uh opportunity is because
+this is where uh you know the the the uh
+kind of like the industry as as a whole
+really suffers from a lot of again lack
+of standardization and and you know
+traditional processes that haven't been
+optimized over
+over the past years
+and
+if we're looking at the opportunities
+that synthetic data can provide to the
+world and to these organizations rather
+than you know they're just the way that
+they've been accumulating data until now
+for their algorithms what opportunities
+do you see in the grand vision of things
+as we're positioning for it and then i'd
+love to understand a little bit more
+about the journey of datagen as a
+company
+right um so when we look at how
+how teams are now
+um you know acquiring data
+in order to train and test their ai
+algorithms
+it's i have to say quite a ridiculous
+process meaning
+they are let's say you know a team in
+for example a company like walmart right
+they want
+basically to track
+the activity of
+you know shoppers walking around the
+store grabbing some things off of
+shelves maybe for chess like self
+checkout purposes and things like that
+for you know in order to train a an ai
+algo with them to to do that what they
+would need to do is to go and basically
+collect hundreds of millions of images
+from the real world of all sorts of
+different shoppers walking around in
+different stores in different lighting
+conditions and grabbing different
+products from shelves and maybe you know
+putting things in their shopping cart
+and then getting it out on getting it
+back on the shelf and all these type of
+edge cases
+in order for basically for the ai system
+to be able to detect them after once
+it's trained so this is a complete
+manual process right they go and they
+literally capture images from the world
+using cameras
+that would obviously be
+quite quite a mess in order to collect
+all this data that to cover all the
+different use cases that you can find
+that you would imagine this ai would
+would work well on and then they need to
+kind of like annotate all these images
+by hand one by one to basically
+highlight where the shopper is and where
+the item is and where the shopping cart
+is and things like that so all these
+processes nowadays you know we always
+hear about ai being the most promising
+technology that everyone is using on a
+daily basis and things like that but in
+practice when we get into the bits and
+bytes
+it seems like most of it is based on you
+know very manual very labor-intensive
+processes in order to acquire all this
+data from the real world and label it
+and clean it and all these type of types
+of things and eventually these ai
+systems suffer from a lot of you know
+for example privacy things and biases as
+we hear on the news every day
+just because they weren't trained on the
+right data to achieve the right task and
+i think this is where synthetic data
+really comes in so
+the way or the concepts of synthetic
+data is the ability to rather than go
+and really
+manually acquire all these data from the
+real world
+completely again with humans that are
+they don't really have control over what
+they are doing and
+we don't really know what data we infuse
+into our system
+we take a completely new approach and
+what we do in datagen is we built a 3d
+simulation of the real world that will
+look you know behave feel and interact
+exactly like the real world
+for example we have 3d virtual people
+that would go and enter a store
+a virtual store and would take virtual
+items off of shelves and everything is
+completely simulated using computer
+graphics and computer vision
+but we don't just create you know one
+shopper in one store right because we
+have full control over this simulation
+software we're able to go and basically
+have hundreds of thousands of shoppers
+in millions of stores that are
+interacting with the stores in you know
+hundreds of millions of different ways
+and with all this control and with all
+these variants we're actually able then
+to
+capture virtually all these images from
+the simulation software like they were
+taken from the real world and in this
+way we pretty much give the
+engineering teams of the future
+to go and have the all the control they
+need they need on their data so from a
+place where let's say they acquired
+their data and it took them six months
+to you know collect one data set they
+turn into something that would basically
+be
+um you know a few hours to generate one
+data set
+they can train their model see how it
+performs and then generate the next data
+at the same day
+and this new paradigm this new like this
+shifting in mindset would really make
+them
+get to market and get their ai systems
+to perform better in production
+way way way faster
+so we're talking you know about about
+scale of data about the diversification
+of data sets about the the timeliness of
+getting the data and in general i mean
+these things are translated to massive
+amounts of both money for the
+organizations both in terms of the time
+of the engineers and the operational
+side and time to market of that they
+might be losing but also just the the
+that you're cutting short in a huge
+chunk of the process of what is going to
+be you know a cornerstone of of their
+business at the end i mean this is where
+businesses are headed and this also
+treats itself like another
+another element that we've been hearing
+a lot about in the last few years which
+is about the biases that data sets have
+and your ability to own
+the biases that you're putting into your
+data sets and obviously here you know
+this and it sounds inherently that i
+come that a product like datagen allows
+you to monitor that much more closely
+and if you do realize you you might have
+a bias because of the way you configure
+the data you want you're able to adjust
+that because you're able to create new
+synthetic data right
+yes i think one of the interesting
+trends that we see
+you know in the in the i think in the
+entire let's say industry in general is
+that
+engineers really have a lot of power
+in today's world right and they are
+turning to be the main buyers and users
+of
+all the different you know software
+products that we see out there and a lot
+of startups are turning to basically be
+you know developer first tools and i
+think what datagen is doing besides this
+kind of like revolution around the way
+we want to shift the world from being
+very manual
+to be very very automated we also give
+this full control over the data that you
+need to the you know into the engineers
+hands and by that we really give them
+everything they need and they can really
+kind of like control as
+like everything they need
+in order to progress with their
+algorithms uh you know way way faster
+and what you said about biases is
+actually quite interesting also because
+nowadays when you feed you know with
+data that you collected from the real
+world into your ai system it's very hard
+to know uh how your system will perform
+on
+on different uh you know things for
+example male versus female or even you
+know bias is not just you know we always
+think of biases like you know gender
+bias or ethnicity bias but in practice
+when we think about bias in the most
+broader sense
+bias is basically every ratio between
+two parameters in your system for
+example how your system performs on dark
+scenes versus light scenes on red tables
+versus blue tables all these type of
+things can be you know your your network
+can be biased towards you know
+tables that are white instead of brown
+and things like that so the idea with
+synthetic data which is quite
+interesting is that because you know
+exactly what you generate from your
+simulation software
+you can basically
+unbias your network if you found any
+failures or edge cases that your network
+is not performing well on and on the
+other hand if you want to even test your
+network and make sure it performs
+you know the same and what maintains the
+level of for performance over time what
+you can do is you can treat your
+synthetic data as testing data sets that
+you can run through your network every
+week for example exactly like we do with
+code when we run unit tests for our code
+every time we push code to production
+um and then we can make sure that the
+system performs very well on previously
+trained you know data sets and things
+like that and that we maintain the same
+level of performance over time i feel i
+i love it and i think i'm i'm inspired
+by by the the grand understanding that
+what you're sharing here and and not
+talking about is a specific pinpoint or
+suspect specific problem that you might
+be solving but looking at the industry
+as a whole and understanding that
+there's something greater here that we
+need to address and this is the way that
+engineers
+hundreds of thousands millions of
+engineers around the world are facing
+and at the end this this is the core of
+technology today and this is the the
+enablement of what's going to happen and
+how our next models are going to be
+built and not just allowing the
+companies to do it better but to do it
+more safely and to monitor it much
+better and and personally i'm looking at
+datagen and while i'm excited for the
+companies that may be using it because
+it'll make their lives better it also
+makes the consumers lives better because
+the models are built as intended and and
+i personally believe that a lot of the
+mistakes that algor that models are
+doing today are unintended consequences
+i don't believe that engineers come and
+they want to portray a bias to their
+algorithm but they just didn't have the
+right data or maybe they cut corners
+because it took them six months to
+accumulate it and so i think what you're
+doing here is much bigger than than just
+you know giving them a much better way
+to acquire the data well fear before we
+end i i'm really curious as a
+technologist and
+a scientist yourself now you're a leader
+and now you're running a company that is
+growing very quickly and doing very well
+what have you discovered about this art
+of running a company that maybe you
+didn't know before you started or that
+wasn't very trivial to you as a young
+entrepreneur before
+right
+so i think that in practice
+uh one of the most interesting things
+that i learned along the way
+is that
+people is everything right like peop
+like when you run a company you really
+need to invest your resources uh in the
+right place
+um and people tend to think that the
+companies i don't know the product that
+you're building the code base that
+you're developing
+um you know the sales machines that you
+are creating and things like that
+but in practice uh company companies
+don't really exist without the people
+and the knowledge the experience and the
+real iep
+uh the intellectual property of the
+company would be really you know 99 of
+it would be the people that you bring
+how you treat them how you train them
+um and you know how you you grow them
+into to be
+real leaders and professionals
+and we really believe in it like from
+the very beginning of the company we
+brought in
+not only professionals but people that
+are really fun to work with have high
+emotional intelligence that they
+communic they can communicate well
+people that you know they can both give
+and receive feedback in a very direct
+and honest way
+uh and we built a work environment that
+uh you know just you know it's it's
+amazing to join and you know i'm still
+having opening talks with every new team
+member that we have although we're
+already nose to 90 people so it's quite
+insane wow
+90 people
+and and and it's always you know a
+pleasure to just meet people that i
+haven't even interviewed which is also
+for me quite crazy to to digest that i'm
+not i'm no longer interviewing everyone
+uh but you know meeting them for the
+first time and hearing about their
+onboarding experience after let's say
+two weeks uh you know into the company
+it's it's so amazing to hear our how
+other team members treating them and how
+professional and you know thorough the
+the onboarding process was
+not on the professional side again
+mostly on really the person on the side
+people are really trying to help them
+and support them and really want them to
+to succeed and i think that for me that
+would be you know a real success being
+able to hear from the 90th employee that
+that they feel exactly the same like the
+fifth employee
+that would be for me you know a big
+success because it means that we really
+were able to take the dna of both both
+you know my co-founder gil and i
+and implanted so so deep in the in the
+culture of the company uh and make sure
+that other people they pretty much live
+and breathe the the values that we that
+we started with like you know three
+years ago
+i love it and uh
+just sounds like an amazing journey oh
+phil thank you very much for for
+20 minutes with me thank you for the
+great work that you're doing for the
+industry as a whole and beyond the
+beyond datagen success the way i said
+that agent success is the industry's
+success because of the way that that
+you're building out the the the product
+and the way that you're then going to
+shape the the type of work that other
+companies are doing so thank you very
+much for everything and best of luck
+with datagen and stay safe and stay
+healthy thank you very much it was a
+pleasure
+[Music]
+you

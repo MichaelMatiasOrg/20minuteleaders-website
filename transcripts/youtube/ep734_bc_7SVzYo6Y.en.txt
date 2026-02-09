@@ -1,0 +1,567 @@
+so uh we basically
+um
+we listened to customers we did
+iterations on the product
+improved it and eventually got some like
+the first uh paying customers and then
+we raised our
+state funding and series a and
+eventually acquired by intel
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by home adventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+welcome to another episode of 20 minute
+leaders i have with us today johai etun
+the ceo of converge io which he
+co-founded to provide data scientists
+and developers with an end-to-end
+platform to build and deploy machine
+learning models
+converge io was acquired by intel in
+2020 as part of its strategy to get into
+ai software and prior to converge io
+yokai was a data scientist providing
+machine learning consulting services and
+ex-idf intelligence a forbes 30 under 30
+and a coder since the age of seven
+you hi etune welcome to 20 minute
+leaders thank you for joining me all the
+way from jerusalem how are you
+good good thank you thank you for having
+me
+i'm i'm so excited to have you are you
+ready to talk about ai with me i know
+that you don't talk about it at all on
+your day today so i'm excited to give
+you room to talk about it
+yeah i'm happy to talk about ai
+amazing
+yo hi where where did your passion for
+ai come from you've been running
+converge for the last
+few years an amazing company
+and
+you know one of the biggest prides in
+israel and
+and you're you're doing some amazing
+things helping companies build and scale
+their ai operations but but where is
+your personal passion for
+for data science coming from
+yeah
+so um i think it all goes back like to
+me as a
+as a kid basically i started developing
+stuff
+building software since i was like the
+age of seven built some websites and
+uh
+also built some stuff for other uh
+customers when i was young
+and as um
+after i finished in the army i was in
+the intelligence and i joined the hebrew
+university
+i was exposed to the
+to the world of machine learning of ai
+and as a developer that likes to build
+stuff
+that was extremely
+fascinating for me it was like the new
+type of software software 2.0
+and i fell in love with ai and i started
+building stuff and uh
+and doing some contracting work like
+consulting work in ai and machine
+learning for other companies and it just
+uh expanded from there
+now as you're
+uncovering this new world software 2.0
+and you're you're figuring out you know
+your place with it you've done some
+incredible things here you've also
+you're the cto of webbing live as and
+the founder of the of the hebrew
+universities in the innovation lab and
+the ceo of accessible and you're working
+with a group of scientists to build
+you know with artificial intelligence
+before starting converge so
+what what was the trigger for actually
+starting a company in this domain
+because obviously by the time that
+you're starting converge in 2016 pretty
+much every you know it's known that data
+scientists are a scarce resource in the
+world
+and you know so many opportunities are
+present
+right
+yeah so that's a good question so i
+started doing
+uh software as a consultancy like
+specifically around machine learning
+we built some cool stuff around speech
+recognition and natural language
+processing and stuff like that like
+under get extracting insights from
+conversations and stuff like that
+and uh i did those projects with leia
+and she is my co-founder and uh and cto
+at uh converge
+and as we built models built ai we saw
+that that were sort of like facing some
+challenges that are not
+uh that didn't really happen with
+general software development
+ai is similar but it's different and uh
+we basically built converge
+as an internal product something that we
+used ourselves to build our stuff
+and uh it was very helpful for us we
+started can help many other data science
+teams as well
+so
+we decided uh
+to build a company and basically took
+that step from you know doing a
+consultancy business to like building uh
+a startup with vc funding and all those
+kind of stuff
+how easy was it
+not not to run the company that's
+obviously hard but to to have that
+conviction
+that you're onto something here that you
+know many people need that the problem
+that you're facing is one that it
+resonates with many others and that this
+is something that can actually become
+big big enough to get you know good vc
+funding from
+yeah
+so it wasn't easy um i mean we did we as
+a developer we always like to build
+stuff um and both leia and myself
+had this passion
+of building stuff building stuff that
+people use
+and building tools for developers it's
+like i think it's like the best uh
+thing to do like
+best product to build
+but
+the product that was helpful for us like
+it was valuable for us that we we
+basically talked to many other data
+scientists to see if this could be
+useful for them
+and once we got like a lot of yes
+uh which obviously we we got a lot of
+no's in the beginning but we basically
+iterated the product a few times
+and uh and then it was like it was a
+no-brainer because both of us really
+like we really liked the startup world
+and we wanted to build a business and a
+company
+and we just felt that we got to some
+sort of like a mini product market fit
+so we just
+took the
+the train
+with me though those early days as you
+as you're working together and and
+you're building something so special
+you know six years later obviously
+you're at right now with dozens of
+employees amazing funding offices around
+the world
+what was it like back then running this
+new startup
+wow yeah well it was it was a wild
+journey like when we started
+it was just basically
+myself we were coding like i don't know
+16 hours a day for actually
+yeah until we have like the first
+version
+and uh
+as as a developer ceo um once after you
+build stuff you need to get people to
+to use it
+and uh i'm like you know like all of the
+other developers i'm i'm shy i'm an
+introvert
+uh again doing demo sales demos and
+pitches to to other to potential
+customers was very hard for me
+uh but but eventually we managed to
+evolve and we we built a really good
+product that was very appealing to other
+data scientists
+so uh we basically um
+we listened to customers we did
+iterations on the product
+improved it and eventually got some like
+the first uh paying customers and then
+we raised our
+state funding and series a and and
+eventually acquired by uh intel
+incredible and and so as you're going
+through this journey you're mentioning
+that you're an introvert and that you
+have uh you know you're then you're your
+developer
+does that conflict with you also being
+the ceo
+is that is that a
+challenge
+yeah yeah so it was a challenge but
+eventually i think
+one of the good things that i managed uh
+to do is to to evolve with the startup
+uh journey so
+at the beginning like the first uh few
+months we it was just even like the
+first year we was all about coding like
+really 16 hours a day
+coding debugging fixing bugs and all
+those kind of stuff
+then
+learning how to sell a product
+so
+that was hard but thankfully i it was
+it was selling to other friends like
+other data scientists we always say that
+converge is a platform that was built
+by data scientists for data scientists
+so
+uh it was easy for me to communicate
+those values of converge to other
+fellow data scientists
+and then we we need to have to do like
+another evolution of converge the
+company selling to investors and that's
+a it's a different pitch
+it's similar but it's different
+and now it's all about you know building
+a business building sales building
+marketing
+scaling converge within intel working
+with intel as a corporation
+many many new challenges and i think
+the the secret
+or
+like
+the thing that helps me
+uh to scale converge and to get to new
+like accomplishments and success
+is to know that my job as a ceo is
+evolving
+every quarter like every quarter it's
+something new it's new skills i need to
+develop
+and it's fun and i like it i love it
+actually
+so
+going back to
+april
+and and you're and you're looking at it
+sorry november i believe in 2020.
+and you know you're in talks with intel
+and with leia and your investors you
+have hanako you have jvp so it's amazing
+amazing partners
+what are the considerations on your end
+not you know it's you know i get i'm
+lucky that i get to speak to somebody
+here who who sold the company to to
+intel and obviously it's a great
+partnership and you're continuing to
+operate with converge and and continue
+to build out the product within but
+what what are the what are the thoughts
+going on on your head and the
+consideration because
+you know in there are people that may
+say
+wait why sell now maybe maybe continue
+building a larger company and working
+within intel is different than running
+an independent startup
+yeah
+yeah it's it's a good question and we
+had this uh discussions you know back
+in october uh
+like last year
+and
+i think what eventually was uh
+helped us to make this decision is that
+one it was a good offer
+like for everyone for our investors for
+us for the employees it was a good
+it was it was a good offer and a good
+outcome
+second
+we wanted to build something that is
+really big in ai
+like
+be like huge we wanted to make an impact
+in the ai world
+and to do so we felt that partnering
+with intel
+uh a company that is looking to invest
+more in ai and have huge vision around
+ai
+uh all over the world
+that was like a perfect match for us
+and we even see it like a a year passed
+and we already released like
+some new uh uh like features like
+converge meta cloud was announced we're
+going to have a big announcement also
+uh in the next few months so we're
+continuing we're continuing to evolve
+and develop even as we are now
+part of intel and intel actually one of
+the things that
+we were we are doing as part of the
+acquisition is that they kept converge
+brand
+uh right and this right this is great
+because they understand that they want
+to get to developers
+to get to developers that's like the
+best way to do it to have a you know a
+brand of buy developers for developers
+and stuff like that i love it and you
+know what i really want to articulate
+here and touch on is what you said about
+the motivation and and the way that
+you're you're talking how when you're
+thinking through the acquisition you're
+you're saying yeah you know it's a good
+financial outcome for everybody that's
+great but
+what's really matters here is the fact
+that you know we went on this mission to
+build a company that can help help
+companies scale ai and help push ai
+forward in the world and we believe that
+we can do it better with the backing of
+intel within intel as a as an ai
+powerhouse in the world and and i think
+that that's just really awesome because
+i think that just shows also to the
+inner motivations of why you started out
+on this journey
+and and obviously there's a great
+financial outcome but but even more than
+that it's
+being in a place where you really are
+making the biggest impact that you can
+make right
+yeah exactly like
+ai is evolving very very fast there are
+so many companies that are now looking
+to leverage ai
+and all of the ai development is being
+done on ai compute and intel you know
+is very strong with processors and and
+hardware
+and they they're looking to invest more
+more in getting to ai and
+much more than we could do as a startup
+we can do now with uh with intel
+right
+share with me a little bit about
+the way that you see the scaling ai
+operations today and how converge
+specifically is
+positioned within this world
+yeah so
+so uh yeah so
+basically machine learning today
+is the demand for building
+ai based solutions whether it's
+autonomous driving or speech recognition
+or
+nlp chat bots analytics models all those
+kind of stuff it's it's increasing
+uh dramatically like the demand is
+it's crazy and uh today to build ai
+it's uh basically
+it's a there's many many challenges you
+need to build ai you need to focus on to
+invest time in infrastructure in
+resource management in model management
+uh tracking models monitoring models
+uh scaling the the hardware and all
+those kind of stuff a lot of stuff and
+very little left for the actual magic
+like the actual data science stuff
+and this is why we do exactly at
+converge we basically automate a lot of
+the grunt work of data science
+development
+and help the data scientist basically to
+build more
+with
+with less time now besides the
+automation part that we do
+there is a very interesting thing that's
+happening today in the world with
+machine learning so machine learning
+is going through now what software
+development
+went through like 20 30 years ago
+companies are looking to figure out how
+they can standardize the process of
+machine learning development just as
+they standardize software development
+you know like ci cd stuff and and github
+and all those kind of stuff
+same exact things are now going through
+uh with uh with machine learning
+and converge we built basically to help
+organization to standardize the process
+of model development and deployment
+so if you're looking at
+perhaps an example of a way that you're
+interacting with the website with with a
+company with the where there's with
+their machine learning operations you
+you're trusted by some some incredible
+companies from intel to light tracks to
+to the likes
+what how does it actually impact the
+company in practical terms
+yeah
+so um companies can now scale machine
+learning when they're using converge
+they can actually scale to
+hundreds of data scientists building
+thousands of models and
+and basically getting much more
+from their data science teams for
+example we have a company a few
+customers that are basically training
+thousands of models every day
+which is crazy like
+without converge it would probably be
+impossible
+or it will take him take them like few
+years of engineering
+so those are the kind of things that is
+very nice to see
+also we have some very unique use cases
+of complex infrastructure and hardware
+for ais for example one of our customers
+seagate
+the disc
+hard drive manufacturing company
+so they use converge on uh on a hybrid
+cloud ai deployment where they
+basically do defect detection in all of
+their manufacturing facilities so a hard
+drive drop is going through the
+manufacturing process
+there is a there it there is a system
+that basically take pictures of the disk
+and if there is some defects then it
+automatically goes back through the
+manufacturing process or they put it
+aside and those are the kind of models
+that we really like to see because
+they're actually solving some really
+big business problems um and with
+converge they can actually operate uh
+and basically manage those models
+is it trivial for the companies that
+you're approaching that this is
+something that they need do they realize
+already that this is a and this is a
+pain point of theirs and and it's a
+pretty you know smooth sailing from
+there
+wow so that's a good question because
+when we started
+it was
+we basically had to educate the market
+we were basically pitching converge and
+companies were like
+okay
+not sure if we're facing those issues
+now we probably will face them in a few
+years so let's talk uh in the future and
+we came really early to the market
+and it actually was a good it was a good
+thing also because we managed to get
+all those early adopters
+and uh in the past year because of the
+high demand for ai solutions so more and
+more companies are are
+understanding the pain
+uh and the value proposition of converts
+so
+um in the past year yeah our sales team
+it was it was easier for them than uh
+it was for leia and myself like three
+four years ago
+uh but uh yeah there are still companies
+that are not
+there yet but the the growth is very
+nice to see
+hey yo i have the the most important
+question that we touched on this theme a
+little bit until now but i just want to
+really make sure that i'm that i'm
+getting the right answer here
+why why do you do what you do why
+today do you wake up put on the converge
+sweatshirt and do what you do
+yeah so um
+so i think there are a few answers first
+of all i really love the people
+in the company
+and
+everyone my
+co-founder management any any employee
+in the company i really i enjoy working
+with them
+great partners uh for the journey
+and uh
+and still as a as a developer even just
+i was as was a kid when i was seven
+years old
+i really enjoy building stuff building
+software building products building
+companies
+building
+sales building marketing i
+i love it creating stuff
+is uh is something that i really like
+and thankfully also today with intel
+uh we get to continue to innovate and
+grow and build uh so this is really what
+uh is exciting for me
+thank you very much for the time for the
+energy for the for the awesome work that
+you're doing to help companies scale ai
+for the authenticity and for the mission
+driven mindset that you're in i love it
+and i'm inspired by it thank you very
+much and stay safe and stay healthy
+thank you very much

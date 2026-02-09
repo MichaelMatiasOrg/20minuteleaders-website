@@ -1,0 +1,522 @@
+our mission here at Ed works is to
+provide a new way for people and
+machines to interact and then that goes
+both ways that's human machine and also
+machine human interaction so that we can
+actually work together instead of
+instead of seeing computers as a hammer
+that's just you know a tool sitting
+there on the bench we can see computers
+as allies that we that we interact with
+and work with to solve common problems
+and to and to work towards our goals
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started 20 minute leaders is a proud
+supporter of makeawish Israel and Tech
+to peace and is in proud collaboration
+with secret cord Ventures J Ventures
+Riverside FM Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with
+ctec
+[Music]
+I'm so happy to have you here Elliot you
+know over the last few weeks we've
+become friends we're starting a
+partnership together you know there's so
+many different things that are happening
+and and I just love what you do and so I
+ask you to come here and to spend this
+time with me sharing what Ed works is
+about what you're about the the way that
+you're thinking through you know the
+future of of AI and the human computer
+interactions and the different questions
+we're asking is really really
+interesting and uh and I'm fascinated to
+hear your perspectives in these 20 short
+minutes so thank you again tell me a
+little bit about who you are and where
+you come from how did you get into this
+space yeah absolutely so my background
+is actually in in educational technology
+I started at the New York City
+Department of Education um when I when I
+was there in the early 2000s we were
+using some pretty Antiquated um systems
+at the time so I ended up doing some
+some coding uh built built some new
+information systems for the translation
+interpretation unit and got really
+interested in the uh the data that we
+were collecting we were you know we were
+out there every single day going to
+different schools helping support
+non-english language speaking parents
+helping them understand the services
+that were offered to them by the City by
+their schools Etc so we started to
+really UND gather data about where
+different where different communities
+actually lived where people went to
+school how they how they lived their
+lives um and that led to sort of an
+application of some of my longtime
+longtime background in sort of math
+physics the these sorts of things into
+into the social space and I also have a
+background in um linguistic anthropology
+and sociology so sort of all of that
+came together and uh for of this perfect
+storm I ended up going and joining a a
+fairly small company at the time called
+Wireless generation we grew to become
+one of the biggest edtech companies in
+in the US and um yeah that that the know
+the rest is history there amplify is
+still around as they're called now the
+awesome company um have a lot of friends
+there but I left um SE many years ago
+now to come here to Edy Works um and to
+start growing something sort of of of my
+own so to speak so you know Edge works
+itself is an old company founded in 2001
+but really was very very small I joined
+around 9 years ago and we just started
+growing and growing and um today we're
+you know today we're much much larger
+we've been growing about 25%
+year-over-year and you can do the you
+can do the math on that if you if you'd
+like you start with small numbers
+exponents don't grow quite as fast um
+but our our area really is focused on
+human performance and what it means to
+understand who people are what they do
+and the application of Advanced
+Technologies in that space that's
+incredible so one of the things that we
+we discussed and and I want to get right
+into it you know everybody today is
+doing is talking about generative AI
+this is you know the the the hot kid on
+the Block and one of the things that
+that as I got to know you over the last
+few weeks is some of the remarkable work
+you've been doing you know well before
+you know this has become entral entral
+hype and I think this is probably the
+most amazing you know um part of
+identifying you know a founder and and
+somebody who's who's thinking long term
+tell me a little bit about you know how
+you got into this space and what were
+your thoughts even a few years ago yeah
+absolutely so we've been interested in
+natural language processing for a long
+time there's there there's a claim
+that's made in sort of the anth the
+Linguistics World um the linguistic
+anthropology World in particular and
+that's that language is the medium of
+communication so most human interaction
+happens through language not all of it
+there are plenty of other things that we
+do but when we are trying to pass on
+information learning in in particular so
+we're trying to improve ourselves or
+describe ourselves we typically use
+language to do that and as and as a
+result we've been really interested in
+language going going way back so we we
+started off working in Tech things like
+LDA um you know late
+and continuous skip grams these are old
+old techniques late semantic analysis
+but about 5 or six years ago you know
+Google had this had this paper attention
+is all you need and we saw the potential
+in it to actually encode human language
+in a way that was a lot richer and
+deeper than you could do with things
+like semantic analysis or LD or any of
+the other techniques that we use so we
+jumped on that bandwagon right away um
+we we we built we took Bert um early
+models like Bert and Elmo worked with
+them rebuilt versions of them retrained
+versions of them ourselves built all
+built our own pipelines did all that
+stuff and we've actually used them to
+support projects Over The Last 5 Years
+ranging from the National Science
+Foundation US Department of Defense US
+Navy Air Force all of all this stuff um
+now obviously in the last 18 months or
+so the power of these models has really
+gone up a notch um because what I I
+would say nobody really expected
+honestly was that by increasing the size
+you would you would increase the output
+of these models as so dramatically we
+knew that bigger models would be better
+but nobody really foresaw the depth of
+connection that would be encoded in
+these models as they went from you know
+30 million parameters to 300 million to
+3 billion to 30 billion 300 billion now
+there are rumors of trillion um
+parameter models
+I will say at this point it's getting a
+little silly um we we've reached we no
+it is um the way that language models
+themselves work they're really
+inefficient at encoding the data so
+we're getting much better at actually
+building them so their size the actual
+Peak size is probably starting to
+decrease rather than increase finally
+yeah but yeah it's been it's been a wild
+ride but Elliot what you know you
+mentioned bir Elmo attention you know
+that all feels like ancient history at
+this point yet you you know it really
+does you just said those words and I was
+like wow yes this was this was the topic
+of conversation back then walk me know
+take me back to those days when you're
+you're you're there with your team and
+you realize that a shift is happening
+something is happening in the way that
+we are experiencing language and you
+decided to to to double down on that as
+a as a research company but but actually
+creating solutions that meet criteria of
+Defense organizations and you know
+really interesting customers so yeah
+we're kind of a weird company I will say
+we we started off as a research
+organization you're right but our
+strength has always been applying that
+research to real problems we build
+Business Solutions um for big
+complicated
+organizations part of that honestly is
+because the US Department of Defense is
+one of the largest funders of
+foundational training research they they
+do they're one of the biggest training
+organizations in the world they are
+willing to put their money where their
+mouth is and they really care a lot
+about understanding the best ways to
+learn and the best ways to train um so
+that you know there's a sort of a
+natural a natural fit there but yeah we
+we started working with language models
+because the techniques that we'd had
+before were mechanistic and unsatisfying
+quite honestly they were you know they
+grew out of a statistical perspective on
+the world um so LSA in which you're in
+which you're doing VAR statistical
+predictions of your next words you know
+even even continuous skip grams bag of
+words approaches these all these all
+came from a language as a tool view in
+which in which language it wasn't
+highlighting the human element within
+language which is what always interested
+us when you're talking about human
+performance everything you do is
+grounded in trying to understand who
+people are what they care about why
+they're acting in certain ways and then
+based on that what they're what they
+might be able to do in the future what
+they might want to learn how they might
+progress a career all sorts of questions
+come out of it the techniques that we
+had were able to do things like look at
+a look at a look at a course look at
+training materials and try to understand
+what's did it but they did they did a so
+a fairly poor job the language models
+came at this came at the the philosophy
+of language from a completely different
+perspective they really I mean in some
+ways is depressing that it works so well
+because they really just said we have a
+lot of text let's just pour a lot of
+text through you can think of it as like
+a this is this is sort of how I how I
+conceptualize this stuff it's sort of
+silly are you fam with pachinko machines
+where you you put a coin in at the top
+and it sort of bounces around yeah um
+some ways that's what language models do
+you pour in large chunks of text and you
+have layers layer fully connected layers
+of models and it just sort of bounces
+around and what you get out of it though
+is a model that you can't interpret it's
+got all of these Dimensions all of these
+connections but it's but what it's done
+is it's encoded the actual way that we
+use language not just statistical
+relationships not nothing mechanistic
+around the structure of language per se
+sure we encod we include part of speech
+tokens when we when we in you know put
+stuff into these into these models but
+the the core idea here is that human
+language is flexible it's
+multifaceted individual words have many
+meanings many contexts senses and and
+different dialect ways of applying them
+and using them and we should stop being
+stubborn and thinking that there's some
+meta structure that exists there there
+are structures but they are very soft
+and language every rule can be broken
+the way we speak is not the same as the
+way we write there there's just there's
+all of this there's all of this that
+goes on around it and language models
+have a softness about them that allows
+them to encode that um and and to jump
+forward to today where we are a lot of
+our a lot of our philosophy at Edge
+Works still comes from this
+understanding of how the models
+themselves work open Ai and and chat GPT
+gbd4 these sorts of things are all the
+rage they're very popular but they're
+applying language models as as what we
+call generative models they use them to
+generate in this case text their image
+models their Audio models all this but
+but the goal is to generate something
+that sounds or looks human um and that's
+great but from our perspective that
+under leverages the deeper sort of
+nuance that these models have and so we
+actually don't use these models
+particularly frequently for Generation
+we will at the end of at the end of a
+stack but we have but our techniques
+tend to involve layering lots of models
+together and using them to to actually
+act as as World interpretive layers so
+to to go back to that sort of linguistic
+anthropology thing where we communicate
+through language that's how humans in
+code experience
+there's no reason that we can't do this
+you know that we can't use do that at a
+at a machine level as well using
+language models to understand human
+encoded experience so that that's sort
+of a bit of the philosophy behind how we
+how we think about this incredible so so
+take me take me to today and what what
+is at works today and what what what are
+you doing I mean you're we're now at
+this you know inflection point for the
+world and and I think that what you're
+doing is also very special towards the
+next few years so let let let let me
+know you know what here yes so we're at
+a big transition point to be completely
+honest for the last five or six years
+we've worked really hard on building a
+machine linkage layer that links raw
+data streams to Frameworks that describe
+people skills Frameworks job Frameworks
+learning objectives all of these things
+that that people use um around your
+resumés all all of this all this sort of
+human structure and we've done this
+using what was the best technology
+available and we would use language
+models to help us do that linkage to
+help us link the data sources to these
+Frameworks with the larger models that
+we have available now we've had some
+recent breakthroughs that that really
+lean on the stuff I was just talking
+about and allow us
+to in some sense sideline the models we
+don't have to put those models in the
+Forefront instead we can use those as
+inputs into a into a into a language
+model so we can use those Frameworks as
+inputs and instead say hey talk about
+yourself be whoever you want to be
+interact with this interact with this
+device this language model and we can
+and we we still have the technology that
+allows us to then hook that model into
+hard data source in the back end and
+create a direct linkage and that's all
+very high level so let me give you just
+a little quick you know concrete example
+of like of what that means um I've been
+using this example a bit because this is
+this this really happened to me many
+years ago my my boss asked me to do a
+little bit of analysis of the schools
+that we were working in in the kto space
+and can you look at the at the inner
+city schools and see how they're
+performing how students are learning
+compared to other other schools other
+schools I said sure now our database
+didn't have inner city schools that's a
+that's a human concept that's not
+necessarily a database structure sure so
+that took me a long time as an analyst I
+had to go sit down come up with a
+criteria what is inner city go school by
+school build tables build database
+structures and quite friendly that sucks
+that's a place where as people we have
+to translate our world
+into really really rigid data
+structures the Breakthrough that we've
+had at Edge Works what we're able to is
+say we don't have to do that anymore um
+we're able to use language models
+layered together with with a set of
+other techniques to allow you to
+interact using human language directly
+with underlying data so you can say hey
+here a question about inner city schools
+language models know what inner city
+schools are this is something that's
+very well understood in human speech now
+the understanding of language model has
+might not be this exactly what I want I
+might have to tweak things at the end
+but I'm able to just communicate I can
+actually just go to go to the system
+that we're that we're setting up this is
+using our enlightened series of models
+and I I so I can go to a light and I can
+say hey pull pull data that looks pull
+data that looks like what would our
+company look like if all of our
+contracts in the pipeline came through
+but a couple of things a couple of
+things fell through and I can be I can
+be that soft about it I don't I no
+longer have to translate what I want to
+know into a specific data structure and
+then give that to the machine I can let
+my devices actually handle that
+translation which is it it's it's so
+transformative it's hard to describe
+because it's just it takes so much
+mental load off I don't have to try to
+think like a machine anymore I can do my
+job as a human being and imagine the
+world and interact with the world around
+me which is something that people have
+always been really good at but over the
+last 30 years or so with the explosion
+in computing power we' kind of started
+teaching ourselves not to do that we've
+started teaching ourselves to think in
+Google Search terms you know oh I want
+to find a good restaurant near me how do
+I do that how do I translate what I want
+into a search query that will get me
+what I want that's a ton of time effort
+and labor that we shouldn't have to
+spend we should be able to ask our
+conflicted
+imprecise messy questions we should be
+able to do that and let you know and let
+our devices try to help us interpret
+them let them become Partners in in
+working that out and we really can't do
+that now so that's that's really the
+That's The Cutting Edge of what we're
+focused on today at Edge Works
+incredible you know one of the last
+things that we we got to talk about you
+and I was you know this the really this
+perception that you know we're looking
+at what's happening today we're looking
+at language and the mode the human
+computer interaction between us and this
+you know the sort of this this this
+entity that is able to partner with us
+and one of the big big Transformations
+that are happening is that you know
+we're not going to be limited to the
+ways in which the modality in which we
+communicate it's going to be a there's
+going to be a variety of ways and it'll
+just be a part part of our life and I
+think that you know it sounds to me that
+you're very excited about this future
+that we're going into I'm super excited
+although you know Michael you've asked a
+lot about Ed I will say I'm also super
+excited about the stuff that you guys
+are working on because it's it's so
+important for all of this you know I'm
+I'm being a just a tad bit disingenuous
+I'm presenting all the positives I'm
+this is what excites me this is what
+we're working on right but there are Bad
+actors out there um and there and and
+there are organizations and individuals
+who are excited about the ability to
+rapidly create misleading and you know
+misinformation so we're moving into
+Uncharted territories you know our
+mission here at Ed works is to provide a
+new way for people and machines to
+interact and then that goes both ways
+that's human machine and also machine
+human interaction so that we can
+actually work together instead of
+instead of seeing computers as a hammer
+that's just you know a tool sitting
+there on the bench we can see computers
+as allies that we that we interact with
+and work with to solve common problems
+and to and to work towards our goals um
+but I'm also so grateful for
+organizations like yours that are
+helping make sure that this is done in a
+positive and benign way I I love that
+and and the the beautiful thing is that
+we get to work together on also solving
+the the the the problematic parts so
+that we can all enjoy the amazing parts
+and and you've been doing amazing work
+on that front ALB quiet but but really
+with with a lot of effort and a lot of
+intelligence and so I'm very excited for
+for what's to come between the two of us
+and and and I really want to thank you
+for this time and for coming on I think
+that this conversation needs to be
+Revisited H you know in a few years and
+we'll look back and we'll say wow you
+know this was a you know what a time we
+we lived in just like now you're talking
+about Bert and Elmo I'm like wow what a
+time that was that was no it's true and
+I'm looking forward to it as well and
+I'm personally looking forward to it so
+thank you so much for having me I really
+really appreciate it thank
+[Music]
+you

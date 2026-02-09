@@ -1,0 +1,847 @@
+In some cases, they're the total access
+point. Like if there is a physical piece
+of paper, if there is a computer
+theoretically left at a airport or
+something like that, that is a human
+element. But at the same time, yes, you
+can manipulate a person to give up
+passwords, click on a fishing message or
+whatever.
+And when you ask me where does the human
+element come in and where this sounds
+like everybody should be thinking this,
+but to me the human element is a tactic
+within a larger strategy
+where yes, a user can click on a fishing
+message and give away credentials,
+download malware, whatever, but the user
+is just clicking. The user is not
+installing malware. the user is not
+transmitting their credentials across a
+network. The user frankly even
+fundamentally didn't put the email
+message in their inbox
+system did. And so when you ask me how
+do you address the human problem we have
+to look at the human yes as a I'd call
+it the proximity
+of the problem but it's just the
+proximity of the problem not the cause
+of the problem.
+&gt;&gt; [music]
+&gt;&gt; Ira Winkler, thank you so much for
+joining me at another series of the
+human zero day. I am super excited to
+have a really great and thoughtful
+conversation with you. Thank you for
+being here.
+&gt;&gt; Oh, thanks for having me. I always
+appreciate a reason to pontificate about
+this stuff.
+Well, we're we're going to talk about
+something that I think is super
+interesting and super important and
+coincidentally it's something that you
+really are a deep expert in. Uh we're
+going to talk about, you know, humans
+and and the role that humans play in
+security systems and the role that
+humans play in the context of of
+vulnerabilities
+to uh to security systems. And so, Ira,
+um, I'd really love to hear in your
+words your journey because you've done
+so much from the NSA to HP to working
+with multitude of companies to to
+Walmart and so you've really seen it all
+and done it all really, written books
+about this stuff. But, you know, even
+before you walk me through your journey,
+Ira tell me a little bit about how you
+got into cyber security in the first
+place.
+I mean it was by default like you know
+it's kind of part of my journey. When I
+was in college I was a psychology major
+and luckily I took a random test and it
+was a test for NSA and they said I had
+really good computer aptitude and I
+hated computers and I wanted nothing to
+do with it. And they're like okay how
+about crypt analysis where you do
+puzzles? I'm like I'm not looking at
+ones and zeros all day. And I took a job
+as an intelligence analyst at NSA. And
+then what happened was I hated that job
+royally and I was surrounded by
+computers. And then I found out that the
+people in the computer intern program
+got paid more than I did. So I reapplied
+for the computer intern program. And
+then I was my first assignment was doing
+crypt analysis. you know, basically
+using supercomputers to break machine
+cryptography.
+And you could argue that's a cyber
+security role. Then I did other things
+like including software testing, which
+you could arguably say that's a cyber
+security role. Then I did deployment,
+you know, support to military operations
+and a few other things. But you know
+then if you want to say I mean I guess
+when I started working at NSA even when
+I was an intelligence analyst I was out
+doing traffic analysis to figure out
+patterns in the traffic and you could
+argue that's almost a cyber security
+role too but where I got into commercial
+cyber security I left NSA after a while
+and I was working at a government
+contractor and they said instead of
+going into the Pentagon today can you
+make a few phone calls and 3 days later
+I had control over one of the world's
+largest investment banks and
+lo and behold that was cyber security
+um
+&gt;&gt; wow
+&gt;&gt; it was so I mean I wrote a paper about
+it was called the seinal work in social
+engineering and I had to look up what
+seinal meant and what social engineering
+meant I joke so that's kind of how I got
+my start and it you know let's face it
+it's a rush to take over a bank and
+steal a billion dollars as I joke But
+you know after that I kind of really
+keyed in on that. So in that context
+social engineering this is a really
+really big and core pillar to
+&gt;&gt; to what this series is about. Uh social
+engineering obviously is a core
+cornerstone
+to human vulnerabilities in zero days.
+What is social engineering in your
+perspective? I mean, social engineering
+at a high level is the manipulation of
+people to do things they wouldn't
+otherwise do or shouldn't do.
+&gt;&gt; And so basically, it's the art of
+manipulating people.
+&gt;&gt; Mhm.
+&gt;&gt; And that that's what I call it at a high
+level. Too many people want to refer to
+it as fishing, which is the old, you
+know, it started out, you know,
+primarily in cyber security is phone
+calls to get people to give up
+information.
+You know, in other ways, you know, I
+started I got my reputation by doing
+what people would refer to as black bag
+operations
+where when people started, you know,
+coming to me like after I wrote that
+paper, I mentioned, you know, that
+people came to me, it's like, Ira, can
+you go undercover in my company and rob
+us blind? I'm like, yeah, sure. Did I
+have any clue what I was doing? No. But
+um you know I used some of the human
+intelligence training that I got while I
+was at NSA and um you know read up and
+did a bunch of other stuff to prepare
+myself and essentially I just would walk
+around and talk people into giving me
+information.
+So in the context of
+you know security
+traditionally I think people think of
+cyber security and they immediately
+their mind immediately goes to
+not not just the matrix and zeros and
+ones on the screen but they go to
+machine protection and and today we hear
+all the time about cloud security and
+data security and and different kind
+application security right where is this
+human element coming in to this world of
+cyber security. What is its role?
+&gt;&gt; So the human element and this is where I
+drive awareness professionals a little
+crazy you know cuz I think fundamentally
+the human element is a piece of cyber
+security
+and the fact of the matter is that why
+do people target the human? The human is
+an access point for information or
+computer access.
+And the bizarre part is that they are
+only I mean in some cases they're the
+total access point like if there is a
+physical piece of paper if there is a
+computer theoretically left at a airport
+or something like that that is a human
+element. But at the same time, yes, you
+can manipulate a person to give up
+passwords, click on a fishing message or
+whatever.
+And when you ask me where does the human
+element come in and where this sounds
+like everybody should be thinking this,
+but to me the human element is a tactic
+within a larger strategy
+where yes, a user can click on a fishing
+message and give away credentials,
+download malware, whatever, but the user
+is just clicking. The user is not
+installing malware. the user is not
+transmitting their credentials across a
+network. The user frankly even
+fundamentally didn't put the email
+message in their inbox
+system did. And so when you ask me how
+do you address the human problem? We
+have to look at the human yes as a I'd
+call it the proximity
+of the problem but it's just the
+proximity of the problem not the cause
+of the problem. And that's why I say
+when people focus on awareness they're
+focusing on what they should consider a
+tactic. But unfortunately most people
+consider awareness the strategy for
+dealing with the human element of cyber
+security when the strategy should be hey
+the human is the proximity
+but there's a whole bunch of technology
+architecture
+process that should all be layered
+around the user around the proximity
+and so I'll leave it at that for now
+&gt;&gt; and it but it does sound to me like you
+you do believe that's
+&gt;&gt; that awareness should have some role in
+it or do you believe that it's that it's
+mainly the perimeter that needs to be
+looked at and that awareness is not
+where the focus should be?
+&gt;&gt; No, I believe awaren every element
+throughout each tactic has a role in
+risk reduction.
+&gt;&gt; Yes.
+&gt;&gt; So for example, a tactic is a secure
+email gateway.
+&gt;&gt; A tactic is awareness. each one of them
+can reduce the risk at each point in the
+chain.
+&gt;&gt; Right? And you have to understand that a
+user clicking on a fishing message that
+is not the entirety of the incident.
+The entirety of the incident is the bad
+guy having access on the internet to
+botn nets that can send fishing
+messages. Right? It includes the lack of
+demark on the perimeter for example to
+let it through. It includes a secure
+email gateway failing. It includes the
+anti-malware on the computer the user is
+failing. It includes after a user action
+not stopping the action by technology.
+And so
+we need to look at this from start to
+finish as a holistic issue not as again
+a point issue. And to that point, cuz
+you asked about awareness, I mean, I
+wrote security awareness for dummies. I
+wrote you can stop stupid. Awareness is
+a critical risk reduction tool because
+fundamentally, like I said, every point,
+every point in this whole chain will
+fail. Everybody's like, "Oh, those
+users, no matter what they do, they
+click." I'm like, "Those secure email
+gateways, no matter what you do, they'll
+let fishing messages through." In order
+for a fishing message to go through, a
+secure email gateway had to fail. If a
+user fails, a whole layers of technology
+have failed. But that doesn't mean that
+we shouldn't have risk reduction
+afterwards as well. But the user, yes,
+the security ML gateway, the demark, all
+this other stuff would have had to fail.
+And if we can get the failure rate of a
+human from 20% down to 4% as an example,
+we can roughly reduce the number of
+incidents by five. You know if you know
+we can reduce the number of incidents
+roughly by you know 80%.
+&gt;&gt; Right?
+&gt;&gt; And much like a security mill gateway
+will reduce incidents by 99.9%.
+Awareness has its own point of risk
+reduction in the chain.
+&gt;&gt; So what it sounds to me if I'm if I'm
+looking at what you just said which is I
+think incredibly important here. you're
+you're saying I'm seeing that a lot of
+times people you know security teams are
+conflating
+tactics with strategy in the context of
+human security that
+&gt;&gt; exactly
+&gt;&gt; you know every other discipline looks at
+things as a strategy for example
+accounting
+humans will fail in the subject of
+accounting you know and what I mean by
+that is some human will go ahead and
+misenter data. Some human might go ahead
+and try to steal money.
+Accounting doesn't care for care about
+why there's an error along the way. They
+care about the discrepancies and finding
+and correcting the discrepancies and
+then going ahead and investigating why
+it happened. Cuz in the human aspects,
+we also have to consider that in some
+cases a human might be malicious. In
+some cases, a human is intentional on
+bypassing security, possibly for good
+reasons.
+But, you know, everybody's like, "Oh,
+the user didn't do exactly what we told
+them to. So, bad user more awareness."
+You know, we have to look at why
+awareness is not going to help a
+malicious user. Awareness is not going
+to help a user who can't do their job
+because of security
+processes,
+&gt;&gt; you know. Absolutely.
+&gt;&gt; Awareness needs to be a tactic within
+again a larger strategy. And I should h
+I should actually say good awareness is
+a tactic otherwise I mean there are so
+many awareness programs that are poorly
+implemented and pretty useless.
+So let's dive a little bit into
+awareness and then I want to wrap up
+about also strategy versus tactic
+because I am highly curious on how do we
+how do we create analogies between the
+situation we're at with the world of
+human security with fragmented tactics
+compiled into strategies versus um you
+know more consolidated
+existing approaches. But
+&gt;&gt; diving into awareness for a second, what
+what does it actually mean to make your
+organization aware into a point where
+you can effectively decrease the success
+rate of these attacks. So awareness is
+an umbrella term. Some people want to
+now call it human risk management, which
+is putting lipstick on a pig in my
+opinion. But awareness is about what it
+should be about is changing behavior.
+Changing or improving behavior. And the
+goal or the change in behaviors. And
+fundamentally, I'll be upfront with you.
+It doesn't matter why a user does the
+right thing. You just want the user to
+do the right thing to reduce risk. So
+for example, everybody says we should
+tell the user there are bad people out
+there and make and once they know there
+are bad people and what's the right
+thing to do they will do the right
+thing. I'm like that's not really going
+to work that well cuz you know there's
+this whole thing of complacency. You
+tell people about the evil hacker and
+how often are they going to come across
+an evil hacker? They don't. it becomes
+this mythical being that's somehow going
+to come out. On the other hand, let's
+say you want users to log off their
+computer at the end of the day, just as
+an example, good practice. If they don't
+log off their computer at the end of the
+day, you say, "Hey, we're going to go
+ahead and cut your computer access."
+And yes, that's the stick more than the
+carrot. But the issue is that people
+respond more to the stick than the
+carrot. And people are like, "Well,
+isn't that mean?" I'm like, "Well, every
+other discipline in a company uses a
+stick." Like, for example, inside mo
+just about every company, people have to
+fill out time cards or payroll, whatever
+it is. And if you don't fill out the
+payroll, you don't get paid.
+&gt;&gt; Mhm.
+&gt;&gt; And isn't that mean that somebody just
+doesn't log on the computer and do a
+single task and we're not paying them?
+No. It's accepted as an expectation of
+business. Logging off the computer, as
+an example, just one example, should be
+accepted as an expectation of doing
+business. And if not, you are not doing
+your job properly because fundamentally
+awareness should be how to do your job
+properly, which includes the right
+procedures. It includes for example
+and I don't want to say you know verify
+email to the extent you can and you
+shouldn't punish people for making a
+mistake. There's a difference, you know,
+as the saying goes, in most cases it's
+the cover up more than it's the mistake.
+And as long as people don't cover things
+up, like I've clicked on fishing
+messages and, you know, they were pretty
+clever or they caught me at the wrong
+moment and I let the people know, hey, I
+think you might want to go ahead and
+watch for this just in case. I didn't
+let it go too far,
+&gt;&gt; but I was able to stop it. I'm like,
+"Wait a second. I I entered my user ID
+in something that looked legitimate, but
+then it's like, wait a second, I
+shouldn't have to do this." And I
+stopped myself before entering the
+password, as an example. And so, you
+need to understand that people need to
+be comfortable, but also that doing the
+right thing, doing the right security
+procedure should be an expected part of
+their job. And if they are not doing the
+right security procedures, then they
+should be you know treated as somebody
+who's not following policy and procedure
+because if you don't enforce policy you
+don't have a policy
+and people need to understand that. Now
+is does that count for everything in
+awareness? I mean fundamentally if
+somebody you know takes data out of the
+company and you know like that's not a
+good thing if it's not authorized and
+done in the right way and that's
+something somebody accidentally attaches
+the wrong you know sends something to
+the wrong email business email
+compromise then you know that's a
+mistake as long as they report it and
+try to recover you can't hold them
+accountable because technology should
+have stopped As an example, data leak
+prevention should perhaps
+say, "Hey, are you really sending this
+to the right group of people?" You know,
+like for example, if I'm on a Gmail
+thing and I invite people to a meeting
+where I share a file, Gmail says, "Do
+you realize you're send sharing this
+with people who are not in your
+organization?"
+And so that's kind of a technology to
+support the right thing. But anyway,
+that's you know to the extent you know I
+guess people need to look at the stick
+as much as the carrot frankly because
+while people
+&gt;&gt; what are what are carrots what are some
+potential carrots here?
+&gt;&gt; Um example of carrots may include I mean
+there's gamification
+&gt;&gt; gamification and most people think it's
+making a game. It's not making a game.
+Gamification is a business principle of
+rewarding people for exercising proper
+behaviors, desire behaviors. So the best
+example is frequent flyer programs that
+I'm part of. Sales programs are example.
+And what's the example in frequent flyer
+programs? The more I fly the airline,
+the better my rewards are.
+&gt;&gt; That makes me want to stick with them. I
+get a call, you know, I can call the
+airline and not have to wait 90 minutes.
+I could get somebody
+You know, so there are benefits for, you
+know, that's a gamification. They are
+rewarding me for the desired behavior of
+flying and spending money on their
+airline. Likewise, sales programs are an
+example of gamification. They reward
+salespeople for doing for selling the
+tools that they want people to sell. As
+an example, in the practical world, if
+you want people to take your awareness
+training or you want people to report
+incidents and reporting incidents, even
+if you report yourself, you are rewarded
+for,
+you know, making a mistake. That's an
+example of a good behavior cuz you need
+we need people to be eyes and ears even
+if it's on themselves. And I don't mean
+playing big brother, but for example, I
+accidentally clicked on a fishing
+message. I might have left a USB drive
+out in the open or something like that
+and encouraging that type of behavior.
+Just as an example, reporting fishing
+messages, you know, even that fish
+report button, even if it is a fishing
+simulation, you want to reward people
+for actually saying, "Hey, I think I
+caught something."
+&gt;&gt; Absolutely. If somebody reports
+something, you can then take action on
+it as an example.
+&gt;&gt; Oh, absolutely. Now, I'm curious, have
+you have you seen more impactful
+examples of change of behavior,
+successful change of behavior when it
+comes to carrots versus sticks? Is there
+some do you have some observations as to
+what what has been more effective from a
+I guess an employee behavior change
+perspective?
+&gt;&gt; No. Um honestly it's the sticks. I mean
+clearly and know people in awareness oh
+we're not I'm like unfortunately let me
+give you an example and it was the most
+clear-cut example. There was one early
+in my career, well earlier in my career,
+I should say, I was uh I was what the
+company referred to as the mystery
+shopper where I would go undercover
+every six months and rob them blind.
+&gt;&gt; And in one case, and this includes
+hacking, it's not just social
+engineering. And in one case, what
+happened was I really hacked this one
+system with all the critical data. And
+so when I was there back at the company
+for this one company, it was the second
+time I was there. I went and like after
+I, you know, raped and pillaged the
+company, what happened was the CISOs
+told me it's like so and so wants to
+meet with you after you're done. And I'm
+like, why? It's like, well, you really
+screwed over his systems and he wants to
+know how you did it, which is a good,
+you know, you know, good thing. So
+anyway, I met with the guy and the first
+question was why me? I go, "This sounds
+so cliche, but you have all the data."
+And he's like, "I guess that's true."
+And then he, you know, I tell him how
+like what the what the vulnerabilities
+were that I exploited at the time and so
+on to make sure he fixed them all. And
+then I go, "Now I have a question for
+you. Why is it easier now than it was
+six months ago?" And the guy's like,
+"Oh, that's easy." I'm like, "Really?"
+And he's like, you know what happens
+when you know last time you were here
+like everybody like thought, oh this is
+really bad. We need to take action. The
+CEO sends out a message that says cyber
+security is important. Awareness is
+important. He's like okay. You get a
+message that says awareness is
+important. I agree. Awareness is
+important. Click. Then you get another
+message that says donate to the United
+Way. Okay. That's that's important.
+Yeah, I agree. you know, stealing from
+the company is bad. I agree. Stealing
+from the company is bad. Then he goes,
+that's pretty much what happens. You
+read it, it goes away. But he goes, on
+the other hand, let me show and he shows
+me this piece of paper because this was
+a Southern California type office
+building. And all these office buildings
+are like one twostory buildings. And
+given it's Southern California, instead
+of grass, there are all these nice
+decorative rocks outside the window so
+they don't have to water the grass. And
+what happened was people were taking
+these decorative rocks, throwing them
+through windows, and then grabbing
+computers and, you know, basically smash
+and grabs on these computers on the
+first floor of the building.
+&gt;&gt; And what happened was this was a
+problem. The physical security manager
+and he shows me the message. The
+physical security manager put out a
+message that says, "We have had a series
+of smash and grabs." As a result of
+these smash and grabs, what's going to
+happen is if you have a window office,
+at the end of every day, you're to put
+your shades down, turn your lights off,
+and lock your door. Your manager is
+responsible for verifying that at the
+end of the day, your shades are down,
+the lights are off, your door is locked.
+Our guards will do rounds to ensure the
+shades are down, you know, lights are
+off, you know, doors are locked. On the
+first example, your manager will talk to
+you. On the second example, where
+there's a violation, you know, security
+will talk to you. On the third example,
+you may be fired. And they didn't say
+fire, they say you may be your
+employment may be terminated. And smash
+and grabs went completely away.
+Why? because everybody was putting their
+shades down, turning their lights off.
+The bad guys didn't know whether or not
+there were computers in the room or
+whatever, and so on. And so the stick
+worked, if that makes any sense at all.
+&gt;&gt; Absolutely. So
+&gt;&gt; because people knew exactly what to do.
+They knew the problem. Sorry, my dog
+wants to join the while he just wants to
+be pet while this is going on.
+&gt;&gt; They're a part of this. This is great.
+[laughter]
+My uh the so the the moral of the story
+is what happened the physical as opposed
+to the CEO topdown saying cyber security
+and security awareness are critical. The
+physical security manager just said hey
+I don't need the CEO I just need to go
+ahead and say here's the problem. Here's
+your expected action and here are the
+repercussions for not taking it because
+smash and grabs are bad. I stole more
+data six months before. Sorry about
+this, but I
+&gt;&gt; No, this is great. This is exactly what
+the story is about.
+&gt;&gt; Absolutely.
+&gt;&gt; He and and it was perceived as less
+important than a couple of computers
+being stolen
+and but again everything was clear on
+what was to happen and we didn't do that
+with these security awareness.
+&gt;&gt; Yes.
+&gt;&gt; That's my example. So if we're looking a
+little bit
+more broadly into the way that security
+awareness intersects with um intersects
+with you know the different solutions to
+orchestrate a strategy. Where are we at
+do you think in the industry of the
+world of human security today December
+2024? How do you see the mapping of the
+space? Where do you see are there more
+you know are we stronger in weaker in
+I see that we have a lot of good
+technologies
+on prevention detection and you know
+response that are not looked at
+holistically.
+I see we have awareness which frankly
+has come down to implementing random
+tools. innovation is like okay maybe
+getting better data out of those
+security awareness tools
+&gt;&gt; in that space but you know I don't see
+us as addressing it like I think we
+should as a strategy where we need to go
+ahead and look at how do these tools
+like mapping out for example what has to
+happen for a user to
+lose a laptop what has to happen for a
+user to click on a fishing message and
+create damage. And so, for example, I'll
+go back to the because fishing's easy.
+Everybody knows fishing, you know, we
+need to filter out the messages as best
+we can. We need to go ahead give
+awareness, but we also need to give
+nudges.
+We need to give warnings like go ahead
+and have double checks like McAfei site
+advisor. How many people remember that?
+But that would go ahead and warn people,
+hey, this is not a good website and
+stuff. We need those warnings back in
+more frequently. Then we need to go
+ahead and say, hey, you don't have
+permission to download software and
+stuff like that. With the case of lost
+laptops, yes, you need to go ahead and
+have go what was it? Lowjack or
+something. I don't know like phone like
+at least you know um iPhone phone home
+type of technology seems to be
+available. We need like so for example
+laptops should have their hard drives
+encrypted you know should have um the
+computers locked by default as an
+example so if somebody does lose a
+laptop at least the amount of compromise
+of the data or whatever else is going to
+be minimized. Not to say it's going to
+be perfect cuz you have somebody really
+advanced might be able to crack the
+encryption on the hard drive but still
+you're taking steps and figuring out
+okay what can we do to perhaps better
+secure it? But what can we do to track
+the equipment? What can we do assuming
+it is ever compromised? How to find it?
+How to get it home? How to make sure
+it's useless if it is stolen or whatever
+the case may be. And yes, a user should
+be aware. Do not lose your laptop. But
+at the same time, these things happen,
+you know, and I'm just using that as an
+example. Map out how does this come to
+be? How are the damages or how are the
+losses incurred? And how can we stop it
+from start to finish with a holistic
+approach under the assumption that every
+point in that whole approach is going to
+fail at some point?
+&gt;&gt; Absolutely. So, so Ira to new
+entrepreneurs in this space who are
+looking at the world of human
+vulnerabilities or human zero days, what
+would be your best recommendations for
+them?
+So if I were going to look at this, I
+would look at
+So if if I was an entrepreneur, I would
+want to look at, okay, from start to
+finish,
+where are the I don't want to call it
+the weak links, but where are the
+vulnerabilities that need to be patched?
+Because there's no such thing, you know,
+I mean, there's stronger there's
+stronger and weaker links. There's no
+such thing as a weakest link
+&gt;&gt; in order for like the user is the
+weakest link. The user is not the
+weakest link. The people letting the
+user be the weakest link are the weakest
+link.
+&gt;&gt; Um but you need to go ahead and say what
+technologies might go ahead and stop
+this better or mo and these days what
+would limit the amount of loss that
+could be occur that could be incurred
+should something happen. If you have
+ways of putting in good nudges along the
+way, that's, you know, that's something
+that could be attractive as well, like
+you know, better marking of data, better
+flagging of messages, you know, perhaps
+intervening when bad things can h when
+bad things are triggered, you know, just
+as a few examples.
+&gt;&gt; Abs. Absolutely. So, I Ira to to wrap up
+what I what I really enjoy is an amazing
+conversation. Mhm.
+&gt;&gt; Tell me a little bit about what you
+really love about the space or cyber
+security in general. I mean, you've been
+at this for a while and you seem like a
+guy who who does what he enjoys. So, so
+why why this? You know, what what's
+what's been keeping you on your toes?
+So, um yeah, hold on a second. Uh uh
+let's see. So, what keeps me on my toes?
+Um
+frankly, I don't know if anything keeps
+me on my toes. There's like the old
+saying, you know, are you going to lose
+sleep at night or something like that.
+I'm like, you shouldn't lose sleep at
+night as a seesaw because fundamentally
+a cyber security program is like a ship.
+It's going to be offc course 99% of the
+time and you should have processes in
+place that are constantly dealing with
+those problems, focusing where to go.
+It's a continual process to keep things
+aimed in the right direction. That's
+number one. And I was actually just
+thinking this. I unfortunately had a
+family medical emergency like a couple
+weeks ago.
+&gt;&gt; Mhm.
+&gt;&gt; And I was thinking, gee, I should have
+really gone to med school. It would have
+been so much more valuable. And then I
+started to think, you know what, without
+cyber security these days, these
+hospitals are bricked,
+you know? And
+that's a little bit of a good feel that
+somehow hopefully what I've been able to
+do is while I'm not the doctor, I'm able
+to help doctors or whoever else be
+infinitely more effective and enable
+them to do their job because I look at
+security as an enabler. Like a lot of
+security people I call losers because
+they think, "Oh gee, I'm an expense. You
+know, I'm an afterthought in all this."
+I'm like you need to as a cyber security
+professional your attitude should be I
+am an enabler without cyber security you
+know I mean I I'll use you know my past
+employer Walmart without cyber security
+the supply chain would crumble without
+cyber security e-commerce would crumble
+you couldn't take payments and
+everything like that cyber security is
+critical for the fortune one company to
+stay up and running and frankly it's
+critical for every company out there to
+stay up and running these days. You
+know, you have these small companies you
+never heard of go out of business
+because of a ransomware incident. So,
+we're unfortunately
+enabling things that we shouldn't have
+to do, but it's still critical to do it.
+&gt;&gt; Yeah. Ira, thank you so much for joining
+me today. This was such an awesome
+conversation. And I I I loved your
+perspective on know on on not just human
+security but largerly speaking on on
+tactics and strategy in the context of
+cyber security which is not where I
+expected us to go but it was fascinating
+and uh and obviously speaking from a
+wealth of experience. So I I really want
+to thank you so much for taking the time
+to be here and for joining me. Thank
+you.
+&gt;&gt; Okay. No thank you. I appreciate it.
+&gt;&gt; Thank you.

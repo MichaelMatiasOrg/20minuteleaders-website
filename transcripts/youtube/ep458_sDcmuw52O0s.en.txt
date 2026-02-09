@@ -1,0 +1,651 @@
+i think the challenges today is really
+the world changes too fast
+i mean look at the last year and a half
+how much things have been changing day
+by day
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+welcome to another episode of 20 minute
+leaders today i am joined by
+song to vp of product management tata
+communications
+song is the vp of product management at
+tata communications a global
+telecommunications managed service
+provider
+he runs a global business connecting the
+offices and users of multinational
+enterprises
+to their critical business applications
+using the latest programmable network
+and it infrastructure technology
+at global companies like cisco and
+telecommunications
+song has delivered products that make
+enterprise it infrastructure more agile
+cost efficient and easy to use allowing
+any customer
+to focus on their business rather than
+constrained by the complex technologies
+they deployed
+song bhakto thank you for joining me on
+20 milliliters how are you today
+i'm doing well thank you michael for
+inviting me on the show
+i'm excited to talk about agility in the
+enterprise world
+you've had you've held a numerous
+positions in fantastic companies
+whether it's a head of network
+automation at cisco
+but also currently vice president of
+product management within
+tata communications and and you know one
+of the things that
+i've been observing you know looking
+over your journey is is this phenomena
+of taking
+you know enterprise processes and and
+making them agile and
+obviously we know today at this big
+distance between the startup and
+early stage ecosystem versus the big
+large enterprises and the speeds that
+they go at
+so i'm excited to learn more about you
+but also about this idea of agility
+within the enterprise
+so to get started who are you song who
+are you
+who am i yeah that's a good question
+michael uh
+as you said right as far as what i do
+right now i'm the vp of product
+management at tata communications
+uh the line of business i manage is to
+manage network services
+right we offer connectivity services for
+global enterprises
+connecting their branches connecting
+their users to applications
+right these users are scattered around
+the world connecting them is
+more complicated than just hey i got
+internet connection and everything is
+fine
+and i'm of course very excited to talk
+about agility
+uh yes what do i do so within tata what
+do you do there yeah i write
+i owned a p l right the profit and loss
+of the business
+there is a uh as far as connectivity is
+concerned
+when you connect a brand enterprise
+branch to you know to the data center or
+to the cloud
+you have mpls which is a private network
+with guaranteed connectivity
+and internet right but internet is like
+what you
+you and i use from home but when you
+connect multiple branches
+across a long distance across you know
+thousands of miles
+the things becomes more complicated the
+ability to
+do zoom or do any sort of uh web
+conferencing
+could sometimes be impacted and when you
+have thousands of users who are impacted
+that can be quite painful
+those loss of productivity means loss of
+agility lots of uh you know
+company profit and competitiveness
+and we deliver that as a service right
+to enterprises
+so what does that actually mean to
+deliver that as a service to enterprises
+what does that actually get translated
+yeah absolutely i think this is a
+uh actually a starting point of you know
+enterprise agility that we can talk
+about here
+an enterprise can obviously say i got a
+hundred branches or a thousand branches
+around the world
+and these branches are in different
+countries i'll go talk to different
+service providers at t in the u.s and bt
+in the uk
+and maybe i have 50 service providers i
+contract with
+i get connectivity to my branches and i
+set up you know
+all these contracts and make sure
+they're connected in a way that i need
+to
+i pay bills to all 50 providers every
+month anything goes wrong i pursue them
+for
+service level agreement credits etc
+we come in and say well we know this is
+complicated too
+for you and you really want to run your
+business
+rather than you know chasing people
+paying bills to 50 different providers
+and negotiating them for credit right
+we'll ensure that you get connected
+if you need to get partners involved
+will get partners involved you get a
+contract with us to
+provide the connectivity from mpls
+internet to sd-wan to cloud connect
+right that's uh that's what i remember
+as a service if you pay us monthly
+you don't pay us a lump sum and then use
+it for you know
+20 years right now that makes a lot of
+sense and so when you're talking about
+you know working work as an enterprise
+and whether it's tata communications or
+or cisco or wherever that may be talk to
+me a little bit about the the
+the enterprise atmosphere the
+environment the speed
+and and why why there is this dissonance
+between
+you know startups and large enterprises
+absolutely
+michael yeah i have also worked with
+startups right
+built my own startups and then as well
+as of course working at pretty mature
+large company today
+i think the challenges today is really
+the world changes too fast
+i mean look at the last year and a half
+how much things have been changing
+day by day right you can make plan the
+best late plan goes
+right now everybody agrees we got to be
+agile we got to react quickly
+but a lot of enterprise planning process
+is such that
+it wasn't agile let me take an example
+of
+how we move from you know building own
+data center
+private cloud to public cloud being so
+prominent today
+and then i can talk about how network as
+a service become very interesting
+in the past when you want to build a new
+application you want to launch a new
+business
+so you need new applications to support
+it you negotiate with the it
+organization
+and they say to give you a server to
+build a prototype
+i need six months build business case
+for me
+that just you know that thing is dragged
+on right that's before you write a
+single line of code
+and when public cloud came in right um
+the the developer said i can just go
+build a prototype got a vm
+in 15 minutes with a credit card i built
+a prototype over the weekend
+show the bosses they say great go do
+this for three months
+they haven't done this you know any
+negotiation with it at that point
+right of course in the beginning that
+was considered
+pharaoh and that was considered shadow
+i.t but then
+if all the people who are generating
+revenue said i need this model of
+operations
+all right this is so the only way i can
+build business as i need
+and shut it down and stop paying if it
+doesn't work
+and so you know data center to cloud
+that movement happen
+network connectivity as well
+increasingly people want network as a
+service on demand
+and especially for cloud connectivity
+and data center connectivity they say
+i cannot predict the bandwidth it will
+grow i'm not going to negotiate today
+and then buy the bandwidth i need
+i need three years from now i'm going to
+buy what i need now and what i need
+more i'll get more and that's
+you know the distance between
+i guess you know plan once and use it
+for n number of years
+versus you know be able to get the
+infrastructure
+as a service and be flexible and that's
+you know what
+i've been in the business of
+transforming the product portfolio to
+enable that
+and of course in the process help my
+enterprise customers
+right achieve the agility they need
+right oftentimes we engage in a
+conversation of
+what do you really need to achieve and
+what are the resources you need
+how do we structure a i.t architecture
+for you that allow you to achieve that
+right without you spending 80 of your
+time on it architecture
+versus business innovation
+put me you know in the room where it
+happens put put me in the same table
+as yourself with your enterprise
+customers how does that conversation go
+so
+how do how how does this relationship
+work
+where you are coming in as sort of an
+enabler and they are looking for ways
+to either be more agile or they're just
+trying to keep up with the with the
+changing world
+how does that conversation look like
+yeah today i think michael
+especially on the network side a lot of
+the conversations about
+i have built an architecture for network
+that was
+very very good when my applications were
+in the data center
+and they're not there anymore
+in some cases some of the extreme cases
+enterprises shut down all their data
+centers they have no data center
+traditional enterprise network is huff
+and spoke there's a center of attention
+where all the branches connect in
+and there's an internet breakout to
+connect to some sas applications
+that's not there anymore they're saying
+i cannot offer the performance my users
+need
+because my traffic all comes from the
+edges into the data center and out
+when that application might actually be
+hosted next to the user
+in the same city but those users get no
+benefit because they all come back to
+the data center
+and the cost of the network using
+private network mpls is also overly
+expensive
+how can you help me change that and
+we say okay well where are your users
+where are your branches
+where are your applications going
+i say going because it's not static
+either it's not like
+where are your applications today let me
+design it for you
+this actually is a dynamic changing
+situation
+so over that discussion we figure out
+how they are moving that we design a
+network architecture that's
+suitable for that and offer them even
+some level of self-control
+so they can prioritize traffic improve
+user experience right because notice
+that when you're connecting to an
+application
+even zoom or some web conferencing and
+things started getting jittery or
+disrupted it could be a bandwidth issue
+it could be a server easier
+from a service provider side but it
+could be a network issue
+and there are ways to optimize that that
+we offer
+a service that's managed to optimize
+those experience
+right now when you're sitting with your
+counterpart are they generally
+because we're talking we're talking
+about enterprises right this is it's an
+important
+part of the conversation so they rep
+these are people that represent
+you know there are change makers within
+their respective organizations
+and they work to you know to improve the
+organization are they are they some
+sort of champions of this idea of
+agility
+do they are they sort of like a star
+like a startup mentality within the
+enterprise or are they
+just generally an executive that
+understands okay we
+we need to get going because we just
+have to because the world is changing
+i think there well yeah michael i think
+there's a mix
+there are folks who really have a vision
+they know what they want to do what they
+will know how they want to get there
+and they appreciate where the
+bottlenecks are for those the
+conversation
+from us as a service provider or vendor
+is really
+okay you know your pain points let us
+deliver a solution or proposed solution
+yet solve your pain points
+there are others with this saying my
+users are not happy my cost has to be
+cut 20
+what can you do right and for those
+we go into a design discussion of say
+what do you you know
+where are you today and where are you
+going and how do you deliver that
+solution
+so it really is it's a varied spectrum
+there folks of course also say
+actually i don't care i want this is my
+spec
+give me a bit i don't want to have any
+discussion even
+going into reverse auction and those are
+interesting conversation because
+hey i mean we will pay for those
+business but oftentimes
+the decision maker constrained
+themselves in terms of
+value they get right because if you say
+i don't
+i don't want to discuss you know any
+levers i just want to get the same thing
+as specified to cheapest
+maybe your specifications are exactly
+what you want but we don't get a chance
+to discover that
+so now so so what are some of the
+leadership challenges that you might be
+facing
+as you know as a leader in that
+situation as a change maker in that
+situation
+what are some of the challenges that you
+might be right michael i think
+usually most of the time we try to have
+the proactive discussion
+right um even if it's a pretty clear-cut
+i want a box to shape this color we'll
+have a conversation
+of what you know what do you need to
+achieve in your business
+what are your current concerns and
+bottlenecks because we can build you
+exactly what you want but maybe we can
+deliver it in a way that's more suitable
+for your consumption
+so as a change maker as an enabler
+it's very important for us and for me
+and my team to understand
+where my customers need to go so we can
+facilitate that only then i think we get
+the
+happiest customers and we have a lot of
+content customers who get you know who
+get the service they need
+and go their merry way but i think the
+most
+the happiest customers are the ones to
+have a productive
+and open discussion of their needs and
+we explore
+a solution that meets their needs is
+cost efficient
+is agile and offer them sufficient
+control
+to uh to drive their own you know
+directions in a more
+technical level as well right and so and
+so what
+sort of skills do you you know as a
+young entrepreneur
+i'm thinking placing myself in that
+situation what what skills
+would a young entrepreneur need to
+acquire throughout their journey in
+order to
+to get to a point where they can truly
+listen to their customers they can truly
+be adaptive and truly understand
+and you know it sounds to me like
+there's a lot of empathy involved in
+this there's a lot of
+uh you know relationship building that
+is a part of this
+what what skills are really critical
+here yeah michael i think
+it's important to have empathy and the
+listening skills
+uh because we are in the technology
+business right
+i keep saying that the business
+objective is super important
+but i think we got to put ourselves in
+the shoes of the customers
+as an entrepreneur i think you can
+appreciate that hey what's your profit
+and what's your loss
+what's your cost right similarly they
+have the same concern and they have the
+business challenges if you're doing
+consumer packaging
+packaged goods and you have stuff stuck
+in the warehouse because
+due to lockdown things could not move
+then what kind of you know
+how would you want to optimize your cost
+structure in this situation
+and then we as a vendor how do we help
+you design a solution that
+can actually flex when you need i i
+don't think
+this example specifically applied to the
+covet situation
+and network per se but i'm trying to
+cite an example where
+uh beyond just listening uh there is the
+technical background to understand that
+hey
+the product that you want to sell what
+are the levers that you can tweak
+right can you charge by the drink right
+by consumption versus
+you need the whole whole you know
+shebang the contract sign you need the
+whole payment up front
+because be able to charge by consumption
+allows you to much
+offer much more flexible and customer
+friendly
+mechanism and and of course the ability
+to allow them to control
+based on their business needs is another
+one that i think would be very helpful
+but that does mean you got to build a
+product that can enable that right
+it's not just i have a product with 20
+features or 200 features
+it's a lot more than you need today is a
+ferrari so you should pay me that
+big chunk of money that you know out of
+your cat bags
+well right hardly any anyone would want
+to do that today right they're gonna say
+what's in it for me what's the day for
+my business
+right so it sounds to me that you know
+as part of the complexity that you're
+describing here is
+is on one hand the flexibility but on
+the other hand it's also
+the simple idea that you know what
+you're doing as a company
+is not relevant for what the customer
+needs you maybe the customer needs a
+small
+part of what you're doing as a company
+you need to you need to
+realize that your company and its
+mission changes for every customer
+and to be adaptive and to choose the
+right suite of products the right suite
+of features
+but to also to price them accordingly
+you're not
+you know every customer is its own world
+right that's what i'm hearing from you
+yeah i i think so michael right but i
+also want to caution that you're not
+custom building something for everybody
+right i mean i t architecture is
+i think very complex because the needs
+just gets more and more sophisticated
+these days
+become more software oriented i
+look at this problem as a problem that
+requires
+composable solution right in the sense
+that
+if the customers it environment
+enterprise environment needs
+200 components take an extreme example
+here
+and i have a hundred of those yeah maybe
+they want to buy all 100 for me that's
+great right
+but if maybe they only want to buy 20
+from me and i have
+i have to build my product in such a way
+that it's easily pluggable right whether
+it's apis or some type of interfaces
+human interfacing that's easy to work
+because
+you want to build that relationship with
+the customer you want to win that
+business
+maybe you can expand but you don't want
+to create a situation where you don't
+buy the whole thing from me i don't want
+a business
+because hey very few people have that
+option of you know you take all
+from me or you don't take anything from
+me right
+a song i want to thank you for joining
+me in these 20 minutes it was really
+really lovely
+i do have some fun questions for you so
+we'll get to those in just a second but
+but i think it's really
+interesting the outlook on you know
+agility within enterprises and a lot of
+times i got to talk to people that are
+driving innovation within their own
+organization but here also hearing from
+the side of the enabler
+who's helping them drive it i think
+that's a really really fascinating
+favorite subject in middle school or
+high school
+what would it be all right for me it's
+uh physics
+physics okay any particular type well so
+that's the
+slightly funny question the answer for
+you because
+i thought i like quantum physics and
+cosmology but in high school obviously
+you don't touch any of that i mean you
+still on you know the
+es equals mc square sounds great but you
+don't study that
+in high school so i was like hey i i
+enjoy what i study here but i really
+want to study
+that stuff that's how i thought of it in
+high school wonderful yeah
+uh what who would be a role model of
+yours
+or somebody that serves as an
+inspiration uh i think one of the
+persons who
+served as an inspiration for me was uh
+richard feynman
+he's a physicist right um noble lauren
+amazing guy and i i really
+enjoy reading about him right never met
+him because by the time i think
+i started college he's already passed on
+and um
+but you know he's a multifaceted guy
+right he's not just a scientist
+he got himself into all sorts of stuff i
+remember reading about him being in
+brazil
+for a conference and he was stuck there
+for
+like a week or something or two weeks
+and he decided to learn portuguese and
+did a presentation in portuguese
+just like that and you know what
+amazing and you know renaissance man
+and being able to learn and stretch and
+extend and continue to be curious and be
+having fun at the same time that's what
+i thought
+is very interesting yes i love that and
+what are three words that you would use
+to describe yourself
+all right uh three words curious
+analytical and persistent
+curious analytical and persistent song
+thank you very very much
+uh thank you for being here i know how
+busy you are i really appreciate it
+and thank you for all the great insights
+and your personal journey i really
+appreciate it as well
+and stay safe and stay healthy thank you
+michael really appreciate your time
+thank you appreciate it thank you bye
+[Music]

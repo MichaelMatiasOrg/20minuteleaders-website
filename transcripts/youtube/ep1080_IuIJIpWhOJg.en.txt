@@ -1,0 +1,421 @@
+industry fa faces the same difficulties
+same challenges uh while while working
+with cloud and Cloud um if not now but
+very soon will become a commodity but
+still companies are struggling to
+understand to to understand what exactly
+they have bought on the cloud what
+exactly um they are doing right or wrong
+there so this uh in the beginning we've
+provided this kind of help and
+Consulting through the services and then
+we thought wait it's actually a global
+problem it it should be this problem
+will be bigger and bigger and we want to
+help every company to use their Cloud
+[Music]
+properly vman welcome to 20 minute
+leaders thank you so much for spending
+these 20 minutes with me how are you
+great thank you for having me here thank
+you very very much for H taking this
+time and how bus you are and I'm excited
+to get to know your world I'm excited to
+get to know um the your own journey and
+what led you to a prophecy you've you've
+had experience and worked in in numerous
+phenomenal companies here in in the
+Israel ecosystem from Microsoft to
+veronis and so you know definitely a lot
+of experience leading up to what you're
+doing in RSA leading up to what you're
+doing at prophecy today and so I am
+excited to just dive in tell me a little
+bit about you know what what is this
+problem space that we're living in in
+that you that you came to solve about
+six years
+ago oh great question
+actually um a little bit of History um
+we actually uh We've started our journey
+with the uh with founding the devops uh
+consultancy firm and we've done many
+projects beautiful projects helped many
+customers in the world of devops and
+Cloud was Cloud adoption cloud
+security and of course Cloud costs and
+what we found that every company small
+or or large um in every industry face
+faces the same difficulties same
+challenges uh while while working with
+cloud and Cloud um if not now but very
+soon will become a commodity but still
+companies are struggling to understand
+to to understand what exactly they have
+B on the cloud what exactly um they are
+doing right or wrong there so this uh in
+the beginning we've provided this kind
+of help and Consulting through the
+services and then we thought wait it's
+actually a global problem it it should
+be this problem will be bigger and
+bigger and we want to help every company
+to use their Cloud properly so we've
+founded the um startup named prophecy
+labs and we've developed H yeah very
+original um and we've developed a
+product named Unis Sky something that
+unifies all the clouds in the sky and uh
+provides ability to actually enable our
+customers to gain control over their
+Cloud everything Cloud visibility Cloud
+expenses a little bit glimpse of cloud
+security but in in the recent years um
+the the topic of spendings topic of
+savings is uh very very important so
+focused on this and uh Curr during um
+past two years there is a new modern
+world for this it's called phobs
+combination of finance and operations so
+this is exactly what we are solving
+we've created a phobs operating system
+unai
+phenomenal and so how had you know it's
+you you've been then as part of the
+cloud transformation I see I see
+multiple Transformations I guess in
+Cloud one is the introduction of the new
+technologies and the new Concepts behind
+Cloud but then there's the then there
+were the early adopters right so we saw
+a boom in companies you know anything
+from the iPhone and Facebook from the
+20067 to the I guess mid
+2010s and it really feels like over the
+last few years there's especially
+throughout covid there's a big push for
+digitization across the board so you've
+ran prophecy already through Co what
+what has been your experience in the
+last six years of the adoption of
+digital and cloud and and how has that
+impacted your perspective and what the
+ecosystem needs
+here yeah cloud is something that every
+company uh needs H once you have a small
+team with uh two developers you need to
+uh to use some Hardware very soon uh
+there will be no concept of uh of buying
+Hardware anymore and we we still see
+companies that we help them to migrate
+from on premise to Cloud but uh in the
+upcoming years it will be less and less
+and what we saw so you right covid um
+has a um actually served as a c Catalyst
+to to this migration and still just a
+funny fact H did you did you know that
+currently only 15% of all possible
+future Cloud users are on cloud we have
+85% yet yet to to migrate so it's a huge
+Market huge opportunity huge needs for
+every company and our mission how we
+defined it is to make
+Cloud affordable and accessible for
+every
+company okay that's incredible so
+looking at that mission making Cloud
+accessible and affordable to every
+company
+and understanding that 85% of of
+companies are not yet onboarded into the
+cloud and and so obviously you know it's
+a big mission why this your
+mission um I think that we are said
+interesting question I think that uh uh
+we already um gain so much experience of
+uh of doing this we know every bit and
+bite of uh um how we should build well
+architected infrastructure on the cloud
+what are the best practices how we can
+automate this how we may you know our de
+devops experts only work according to
+infrastructure as a code making
+everything um repeatable and um and uh
+built
+correctly and uh we thought that it
+would be a right thing to leverage our
+knowledge to and to make a nice UI over
+all our knowledge that we have and just
+to make uh our customers to the the user
+look and feel of a very easy experience
+of working with a cloud one of our uh
+advantages in in the Unis Sky product is
+that we enable the full collaboration
+between all the Departments of the
+company and everybody can can use the
+cloud everybody has the different end go
+that he needs while they working with a
+cloud and uh with our platform you don't
+have to be develop certified engineer
+you can be um QA engineer you can be
+developer you can be manager you can be
+Finance uh somebody from finance
+department and uh you have your piece of
+how you would you should interact with
+the cloud and it should be easy it
+should be
+understandable yeah and and if I'm
+looking it a little bit into your own
+sort of your own um personal Journey so
+know I'll also if you can help me tie in
+your
+you know the things you've done until
+now at at the different organizations
+from Microsoft to RSA Etc how how has
+how have L they led to you becoming
+excited about this space um you know
+these are I'm I'm assuming that you know
+you those were also bigger I'm noticing
+those were bigger organizations and yet
+I assume that a lot of the work that is
+potentially to be done here and under
+your mission is also for smaller
+companies and not as necessarily just
+the Giants how do you how do you see the
+connection yeah yeah you know all my all
+my career uh I've been somewhere in
+between between technology and business
+uh since the the university um you know
+computer science with the business
+administration and then all my life I've
+managed um the process of uh software
+product
+development so uh I worked with uh
+within great companies indeed and uh all
+this experience helped me when once we
+started to work in Prophecy uh help me
+to leverage it to to build the right
+product to build to build it in the
+agile way in the way when we understand
+the needs of the
+customers um so yeah it's it's a big
+change for me it was a big change to to
+you know um the transformation from
+working in as a part of a very big
+company to building something very small
+in the beginning uh but I think that
+it's a great school for every Journey
+every entrepreneurship um further so y
+okay so um if you get into now the
+experience that organizations have when
+interacting with your platform how what
+is sort of their Journey like both from
+a I guess customer experience
+perspective but then also from a product
+perspective how how does the integration
+work who do you work within the
+organizations and and what is what are
+the steps that you take them through the
+integration uh We've uh invested lots of
+thoughts in the integration and it's uh
+we're really proud to say that it's very
+easy it's literally three clicks and uh
+If youve U re reviewed our uh ments that
+we've gain on the G2 platform with
+several quarters in a row we've gained
+the easiest to use fops platform and
+it's literally you're connecting with
+three clicks then in 10 minutes you see
+all your Cloud infrastructure in one
+place and then it's a really role based
+uh role based Journey for everybody for
+example if you're somebody from Finance
+team you will be interested in uh
+billing and uh all the reports are
+conducted to to the business needs and
+if you are a devops you want to make
+your job easier and uh to save manual
+work and do several clicks and save
+money as then you will be uh starring in
+these reports in the finance team so we
+are actually connected all the
+connecting all the dots inside the
+organization in small organizations we
+usually work with a few small amount
+of stakeholders in large organizations
+it can be many groups that are involved
+and every user has this their own role
+and your own permission and uh together
+they they're able to communicate through
+our
+platform phenomenal and um I think
+obviously when when looking at the
+ambition of enabling smooth smooth work
+with cloud and either where whether it's
+to transform into the cloud or or
+optimizing on the cloud there's
+different aha moments or moments of you
+know Delight I guess for the customer
+how what are those moments for
+you um our platform covers all the
+possible um possible best practices of
+phobs we actually automate every piece
+of phobs so we see these aha moments uh
+for every customer in different places
+it's very funny sometimes um customer
+sees our first dashboard with a map of
+all the regions where he has has the the
+resources and he says wait why I have
+something in Australia I didn't bought
+anything in Australia let me show me
+show me please show and let's remove it
+and uh sometimes it's a um if we're
+talking about customers who invested
+already heavily in all these analytics
+and working with on cloud expenses and
+savings then uh Thea moment is uh is
+very satisfying for us because they're
+looking and they choosing many options
+and then suddenly they say wait this is
+not something that we have yet H let's
+see it so it's a combination and
+actually it's a function of uh how um
+what the customer already did with their
+Cloud before they started to work with
+Unis sky and and it's a little bit like
+like a uh like houskeeping you know if
+uh if you if you invest in this uh
+manually and then uh you uh you bringing
+help into the house you you it depends
+um if you see the impact on how it was
+before the house housekeeper started to
+to help you I think that's that's really
+really interesting I I have two two
+questions that that I'm that I'd love to
+get pick your brain on and there's a
+sentence that in the on your LinkedIn
+tagline that that I think is is Raising
+interesting questions on on on the
+decision-making level of of how of the
+positioning of of the organization um
+the first sentence read Israeli devops
+and Cloud Boutique
+company and so
+um tell talk to me a little bit about
+the isra why why is that the first word
+on the tagline
+here ER uh it was uh it was our
+historical uh tagline uh since then um
+many things were involved and uh and uh
+uh We've uh um we've started to um to
+recruit people from uh uh from not from
+Israel not only from Israel and
+currently we have a a site of uh devops
+Engineers developers most of our
+employees are not Israeli they um uh
+their roots are are in Ukraine and most
+of the
+employees H so now we are presenting
+ourself as Israeli Ukrainian company uh
+specifically in these days it's a very
+you know when the war started on the on
+October 7th uh we gain such a great
+support from our um our team and team
+members and partners uh from abroad and
+uh especially guys from Ukraine who
+share their experience yeah I'm sure
+same yeah it's a it's not funny it's
+very uh not normal situation but uh I I
+I can only imagine and and regardless I
+think that it's still you know it gives
+it for me it gave also a feeling this is
+a place that that you know really cares
+about the you know it's a it's a it's a
+cloud company it's a high it's
+technology company yet when you start
+even even if it's a you know a tagine of
+History starting the sentence with a
+little bit about who you are I think
+that puts a little bit of light into
+perhaps the culture and a little bit of
+how you how you see yourself sort of on
+the people side
+is the word Boutique still relevant here
+yes I think that even when we will have
+uh thousand team members it will still
+be relevant because it's part of our DNA
+this is what um distinguishes us from
+from other companies in the same area
+and our uh uh culture is to provide for
+every customer Boutique solution
+something that is tailored specifically
+for the
+customer and um doesn't matter how how
+big we will become uh we will still keep
+still keep uh working according to this
+principle because I think that uh this
+is a um this is something that is really
+missing in u the whole concept of SAS of
+uh of
+service um mindset and it's very
+important for our
+customers 100% so looking back at these
+past six years what is what have been
+some of the most I guess um exhilarating
+or or amazing moments for you as an
+entrepreneur I think that were there
+were lots of such a moments we our um um
+our first recruitments our uh um the
+money that uh um SE the round that we
+raised and uh the Boost that came after
+it first paying customers first largest
+customers uh every I remember the when
+the first large Bank uh became our
+customer uh our uh sales uh executive
+called us uh saying um they're
+connecting all their accounts let's
+let's hold this platform and we said you
+know the platform is fine let's let's
+see what what happens and uh many
+exciting moments and until now we are uh
+currently uh many new customers are uh
+going on board um even though the
+situation in Israel specifically and in
+the world you know the overall situation
+um many new projects are um on boarded
+every project every customer is an
+excitement phenomenal if you have to see
+where this is going to be in several
+years what's your vision for
+prophecy uh we want to be um an
+ultimative uh platform operating system
+for uh people who are working with Cloud
+uh we want to to become company that is
+um uh you know like uh there are several
+brands that uh um the name of the brand
+became uh became a concept of this
+product like Jeep or even though it's
+only one uh one of the companies so want
+to become uh this kind of product uh in
+PHS World in Cloud management
+world no no Vera I really want to thank
+you for taking the time I love how
+you're looking at um f first it sounds
+like you're you're very excited about
+the opportunity of of what you're doing
+and I didn't realize that 85% of cloud
+of companies aren't yet in the cloud um
+but also the mission of making Cloud
+affordable and accessible to every
+company and I think that's a it's a
+wonderful Mission and uh and it sounds
+uh it was just a great conversation and
+thank you so much for for team Ty to
+share this with me all the way to the
+boutique culture of making sure that
+every customer feels like you're
+tailoring the experience to them and the
+solution to them so thank you very very
+much wishing you best of luck
+thank you so much you
+[Music]

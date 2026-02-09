@@ -1,0 +1,393 @@
+all we're doing is basically onboarding
+the 750 mobile operators on a platform
+where any developer in the world through
+any cloud provider can go ahead and
+access these capabilities and not only
+that you're able to use this private key
+to do so there's so many data points
+that your mobile operator has on you on
+your locations which sells you are
+connected what is the data imagine what
+you can do if you can somehow create a
+signature or multiple signature to
+create more multiactor authentications
+to do
+[Music]
+thatan welcome to 20 minute leaders in
+the Maus experiment thank you for being
+a part of my experiment how are you
+thank you I so great to be here I'm
+great exciting times really excited from
+uh from our conversation wow all right
+Aon um first of all you're you're a ser
+and parallel entrepreneur I've gotten to
+know you over over the the past few
+years and it's very rare to have to meet
+somebody who's both a a a a Serial
+entrepreneur that and that you do many
+Endeavors but then also you you
+parallelize a lot of the things that you
+do and uh and it feels that every every
+conversation we have I I get introduced
+to the to the to the reality as you see
+it and and you're not confined to the
+constraints of the reality that that we
+objectively see in front of us which is
+which is which is incredible So today
+we're going to dive into to eran's work
+in the context of Glide and and digital
+identities and Next Generation identity
+security a world which I'm I obviously
+very curious about um having being
+acting and playing in the world of deep
+fakes myself but Iran thank you again
+for being here tell me a little bit
+about yourself how do you perceive
+yourself in your own entrepreneurial
+Journey
+so first of all I'm I'm very curious so
+I like to learn uh different fields and
+I like to dive in into um different
+areas I've been doing things um you know
+from Enterprise software to algorithmic
+trading to adtech to blockchain um stuff
+and um um every time when I find
+something that I feel that I can bring
+real value in and I get curious about I
+find myself into a new Journey so um
+it's uh my life is not boring that's for
+sure all right and so what brought you
+to to digital identities where and and
+where are we at today in the because I'm
+sure that the evolution of what's
+happened over the last couple of years
+has led also to part of your um diving
+into digital identities yeah so I would
+say that my um my main interest in the
+main uh in the the last several years um
+is around positive alignment so actually
+how to take a lot of different uh big
+companies and forces in the world and
+find a way a new model that they can all
+align positively and uh create greater
+value together and greater value to
+humanity um the uh by set of coincidence
+I got into the Telecom industry and um I
+uh worked a long time of trying and and
+still succeeding to align many big telas
+like DOA Telecom vone like the big
+giants um to work together in different
+use cases and a successful uh Journey
+we've done around with clex uh is around
+blockchain based reconciliation and
+settlement or basically trading
+automation how to have this giant
+multinational companies to have
+frictionless trading and how they can
+govern this uh in a in a joint way and
+how to avoid a centralized party
+basically controlling this so this is
+one of the most successful experiments
+in uh uh using blockchain in a
+Enterprise environment and actually
+succeeding to do something um together
+working with this Telos is extremely
+extremely
+slow and while doing this um uh journey
+and getting this into production doing
+security privacy it procurement all that
+stuff with this long sell cycle I came
+across this amazing opportunity um to do
+uh alignment in a even greater scale and
+uh benefit not just the Telos but
+humanity and that that uh that
+opportunity is around exposing the
+capabilities of um mobile networks and
+Telos in general as apis to Developers
+and this is uh relevant for multiple use
+cases which I find identity um to be the
+the most interesting one so by uh kind
+of being in this field for almost seven
+years now and knowing uh all these
+telecom companies and understanding uh
+we came across this opportunity of
+aggregating um these API and this is all
+done under a new initiative called open
+Gateway uh which is kind of open banking
+for Telecom
+and um we became a very um uh like a
+involved party uh in this and that gave
+birth to Glide out of the clearex um uh
+structure that is our new Endeavor to to
+handle open Gateway and the identity for
+the AI era wow okay so so a lot to
+unpack there let's start with this with
+where this is all the foundation of this
+which is all about the alignment um and
+and how do we we create a better value
+for better society and better Humanity
+those those are big words I I know you
+mean them and I know you're very
+intentional about them but um for for
+clarity what do you what does that mean
+what what does it mean to have for you
+better alignment in in today's world so
+a nice thought experiment is um to think
+about um if all Telos were one company
+okay or they were in some structure that
+was the company if with the biggest
+customer base in the world 5.6 billion
+uh customers right the telephone number
+is the biggest um used widely used
+identity uh in the world that can
+identify you anywhere and this comp this
+um like a theoretical uh worldwide telom
+has also commercial relationship with
+almost any company in the world
+providing um uh connectivity so so that
+could be um ideally what gives us not
+only our connectivity but also our
+identity and our means of
+payment um and you ask yourself why
+still in
+2024 the most um commonly used way of
+authenticating our identity is an SMS
+that we get that we all get these SMS
+onetime passwords um uh throughout the
+week which is more than 30 30y old
+technology that is
+unencrypted uh very weird user
+experience sometimes you don't get it
+sometimes you need to copy it you got a
+huge wholesale Market with many
+aggregators and gray routes and
+politices and all kind of things where
+we have you know um such an amazing
+technology connecting all of us uh
+allowing us to make this um uh video
+recording today right and this is
+because of lack of alignment this is
+because uh all of these companies didn't
+find a way to actually work together to
+provide these new types of solutions and
+there are many other example of this in
+other Industries but with Telecom this
+is so strong because if you think of it
+I don't know any other service that
+Humanity had that with this uh mobile
+device you can get into any country in
+the world and instantly get service even
+if you go want to charge your uh phone
+you have different kind of sockets and
+different kind of Standards around
+electricity if you drive a car sometimes
+it's in the right side and the left side
+whatever and this is like the the most
+uh successful Universal solution so you
+can see what happens when you have
+alignment and what kind of value you can
+bring to humanity and when you don't
+have and this is of course not just in
+Telecom that can happen around countries
+around banking around energy many of the
+utilities of the world if we would
+consider them from a Global Perspective
+we can create much more value with much
+less uh effort absolutely okay so
+transitioning from alignment to to Glide
+and and I I want to unpack a little bit
+I think it's it's important to note um
+identity security is um one of the most
+um interesting I think fields in today's
+world um this the increase in fraud due
+to account takeovers identity breaches
+is um in the hundreds of percent um with
+a you know there we have the it's
+repeatedly in in all the reports from
+crowd strike to Verizon to deoe and and
+the the stories are just adding up
+there's new modalities to attack whether
+it's injection attacks presentation
+attacks deep fake attacks um and so um
+there's there's a lot of different ways
+to now circumvent existing existing
+identity security
+mechanisms and and it's also important
+to say that there's a large number of
+identity security vendors there's about
+95 last time I spoke with Gartner
+identity security vendors and I haven't
+heard yet of the of of of the concept
+that you're looking at which is looking
+at at it from a telecom perspective and
+I wantan to so I want to make sure that
+I really understand that properly so you
+know I understand the things that people
+are doing today with identity security
+obviously multiactor authentication with
+SMS biometric authentication liveness
+detection deep fake detection can you
+can you explain again and and maybe a
+little bit more more intuitively what
+what it how are you leveraging telecoms
+and and where this positions Glide
+because then you have a really
+interesting model to the developer
+Community exactly so I mean I think you
+touched but we you mentioned few um few
+types of identity protection or identity
+authentication one of them is around
+multiactor authentication right yeah and
+you also mentioned SMS as one of them
+the SMS is the current uh Telecom way of
+doing authentication right so all we're
+doing is we're saying hey there's so
+many new technologies that we can
+Implement today that can create a far
+better multia multiactor authentication
+solution using um uh Telecom providers
+the basic thing to understand is that we
+all walk around with a device that is a
+kind of a a hardware wallet if you look
+at it from a uh from a crypto
+perspective right we have a private key
+in our SIM card here with very good
+encryption and we still use an a clear
+text SMS so all we're doing is basically
+on boarding the 750 mobile operators on
+a platform where any developer in the
+world through any cloud provider can go
+ahead and access these
+capabilities and not only that you're
+able to use this um uh private key to do
+so there's so many uh data points that
+your mobile operator has on you right on
+your locations which cells you are
+connected what is the data imagine what
+you can do if you can somehow create a
+signature or multiple signature to
+create more multiactor authentications
+to do that so we provide a platform to
+do that with confidential Computing with
+different elements of privacy and
+security to make it happen so basically
+we are just Reinventing or helping Telus
+to um provide what they've invested you
+know the investment around 5G was so far
+more than1 trillion dollar including
+frequencies and uh and equipment1
+trillion dollar you can imagine and this
+is not being leveraged at all today in
+the identity field so we are helping
+exposing this by providing developers
+all over the world through the cloud
+provider to access these type of
+identity Solutions so to make sure
+understand you're basically saying there
+is this entire industry that we've been
+building which is called the
+Telecommunications industry we've
+invested enormous amounts of money in
+anything from the 2G to 3G to 4G to 5G
+um and that it's just increasing we're
+you know it's a mature industry we use
+it all the time this is what drives our
+our our real-time communication channels
+at the same time we have this Emer ing
+problem that emerges called identity
+security we're digitized we want to open
+bank accounts through our through
+digital identities we want to log in h
+using H you know without constantly
+having to to convince who we are and
+we've developed mechanisms right we've
+developed a multiactor authentication
+through smss 30 years ago we've
+developed more recent face recognition
+biometric recognition which have their
+own issues yet these two worlds have
+never been connected in a meaningful way
+way because you're effectively saying
+there is potential in the in the data
+that the telecommunication industry has
+that if you just platform create a
+platform around this data and you make
+it accessible via apis and sdks to the
+developer Community you can and you can
+effectively create a Next Generation
+multiactor
+authentication which has better user
+experience than the sms's and it also is
+less prone to the breaches that smss
+have is that right all right I want to
+invest I got
+it exactly and and because of all the
+things that you you mentioned because of
+deep fakes uh Biometrics are going to
+become uh harder because like and this
+is this is what you're exper how do I
+know that you are you now right iol soon
+it's going to be very hard but maybe I
+can trigger now something that will pop
+up in your phone and you can now
+authenticate that this is actually you
+right because you have already the same
+SIM card for I don't know the 15 20
+years that you have so the the the depth
+of your the identity knowledge that the
+Telco has is unprecedent the amount of
+events that he has about you it's such a
+strong uh way to to authenticate and to
+verify you and and it goes even beyond
+that because then it becomes uh then it
+becomes uh not only to authenticate you
+in the digital world but also in the
+physical world when you go ahead to buy
+um uh to to go to a hotel why do you
+need to give your passport and and put
+all the fields and wait seven minutes
+until you want to do we call that
+product that's me you want to tap it
+into your payment your identity is just
+there fully authenticated and that's it
+you want to go ahead and rent a car why
+do you need to put all these forms and
+everything that's me and you got it so
+there's so many areas where these apis
+can create um a verification ease of use
+and much better secure
+absolutely aan this is such a such a
+cool field that you're in and I think
+that what what excites me most is it's
+not just the it's you know identity
+security is is a really fascinating
+field because it it is a it's a
+foundation for enabling us to continue
+being digitized and being secure and and
+confident in in in the digital world but
+what really excites me with what you're
+doing is really the the ability to take
+in a really IM mature industry which is
+um you know the telecommunication
+industry in this case understanding it
+deeply building the right relationships
+and being able to at the same time
+understand where the developers are at
+where are the interesting use cases in
+in you know the in the digitized modern
+2024 gen world bridg and bu being the
+platform that Bridges those things
+together and I think that you know
+that's a obviously a sign of of of
+amazing entrepreneurship but I think
+it's also just a great a great case
+study and and I'm so I'm rooting for you
+I'm rooting for Glide I want to read
+about this case study um in business
+school when I go there one day because
+um it it feels like the beginning of a
+case study that's what I'm trying to say
+and I'm excited to follow it too so best
+of luckan and and thank you very much
+for joining me today perfect thank you
+very much thank you

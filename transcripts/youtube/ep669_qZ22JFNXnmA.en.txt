@@ -1,0 +1,681 @@
+and think about a public transit company
+that is works on a margin of like five
+percent six percent yes so
+that's a big deal ten percent more five
+percent more it's big big deal i think
+that was like the main factor why we got
+uh quite quite fast involved you see
+like this away you can't really ignore
+it
+it doesn't really matter what tool you
+use today you really want to move to
+that because
+you get like an immediate ally
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+let's talk about public mobility
+meet amos hajjaj ceo and co-founder of
+optibus a software platform that
+nourishes freedom of movement and
+sustainable cities by bringing much
+needed innovation to public
+transportation
+before co-founding octobus in 2014
+almost led the development of
+large-scale personalization engines as a
+senior software development engineer at
+microsoft and designed machine learning
+algorithms at siemens he is the
+recipient of several prestigious math
+and technology awards including the
+intel prize for software engineering the
+elkin prize for information technology
+and the wolf prize for mathematics
+[Music]
+welcome to 20 minute leaders how are you
+great thanks for having me
+thank you so much for being here optibus
+you know one of the companies we're most
+proud of in in our tiny but beautiful
+israel and and you know a company that
+not only is doing something really cool
+technologically but it's really changing
+and shaping the way that people interact
+with their surrounding and with the
+world around the world so operating in
+more than 500 cities probably that
+linkedin post isn't updated either and
+it's more than that by now and and and
+where and you know just
+trying to figure out wrapping my head
+around public transportation and how a
+company from israel is is working
+globally and helping shape
+transportation for for millions and
+billions i think that's just
+mind-boggling and so i'm very thankful
+that you're here almost who are you how
+you know how do you get to start a
+company in public transportation that
+operates around the world
+yeah um
+the story for october so we founded
+opticals in 2014 but the story begins uh
+years before
+my background
+is in tech i studied math and computer
+science
+back in 2004
+during
+first year at university i met eitan uh
+who later become a co-founder of optibus
+and he's the cto today of the company
+i met him at university we're both
+studying computer science and math we're
+studying together
+my father was the cfo of one of the
+largest public transit companies in
+israel so that's the connection right
+and one day it was first year at
+university so a long time ago it was
+telling me about the problem of
+planning transit systems planning of
+network and how it's being done today oh
+back then
+uh
+now just to make sure i understand this
+when you say planning public transport
+that means literally planning the routes
+of the bus system and what streets
+they're going to and where we're going
+to put the stations right right it's uh
+so planning of public transportation is
+many different things it's planning the
+routes is playing the network where the
+route should go where should the
+allocate stops what should be the
+frequency
+of the timetable in night morning
+weekend so on but it's also a lot about
+the resource allocation how many drivers
+you need
+vehicles could use a double decker
+single decker bus
+electric bus versus diesel uh should the
+driver come at 7 00 am or 8 pm or you
+know night shift morning shifts how many
+drivers you need over time there's so
+many operational questions
+uh and what amazed them so you come from
+the financial side public transit is
+quite an expensive business to run
+i think even small cities will spend
+something around 100 million dollars a
+year
+of running public transit system and if
+you look at the large cities let's take
+london is about 17 billion
+annual budget of running public transit
+system new york is about the same wow
+yeah yeah it's significant uh amount of
+money goes into
+vehicles drivers operations so so back
+to the to the beginning of the story my
+father was telling me that
+it's all being done manually
+seems to him like sub-optimal decision
+made by people based on their experience
+very experienced people by the way
+throughout time we learned
+what an amazing job they're doing
+because they're doing all of that
+manually based on you know their own
+experience and and
+intuition but think about people sitting
+in a room
+and they're saying hey let's stay let's
+have a driver takes this route and then
+we have this vehicle use that route and
+we'll switch the drivers here and
+everything is done manually
+it's like
+billions and billions and billions of
+options it's like
+uh
+unimaginable to just uh
+seeing a person doing that so he was
+telling me about that i was first here
+at university very complex problem we
+can touch that in in a minute if you
+want uh extremely complex mathematically
+um we didn't have any clue of how to
+even
+approach so but at least we knew that
+there is a problem and it exists
+uh basically throughout time ayton and
+me started thinking about the problem
+so we completed our studies i then went
+to the u.s to princeton i did
+all research around medical imaging
+completely different uh topic but uh
+around the x-ray machine and trying to
+detecting a coronary artery blockage and
+things like that
+and later on worked at microsoft in yet
+another completely different uh topic of
+uh cortana which was a personal
+assistant
+of microsoft uh building
+what became cortana but basically trying
+to match content uh to people needs and
+and uh as a personal system
+and during all that time we basically
+started at the beginning thinking about
+the problem and then we had some ideas
+about how to solve it mathematically
+the algorithms and so on we had really
+initial tool that was based on files it
+was getting a file it was running old
+optimization and outputting you know
+result
+it was when i look at what we have today
+it was nothing even compared to what we
+have today but i think it's like the the
+best definition of an mvp
+minimal viable product uh it was really
+bad
+but like when i when i see what what it
+did back then
+but it gave better results than what
+they had
+what the ad was
+was also bad
+but what we have today is great what we
+have there is that still
+it still was much better because it was
+much better we had public transit
+agencies first in israel then later on
+the u.s europe
+just want to use
+this
+magic
+called optibus of these two guys that
+was working out of their basement
+that can take the entire transit system
+of a city and optimize it in under a
+minute that was like kind of a magic for
+everyone that does the work that used to
+take months and months
+and
+in a minute you'll get to much better
+results meaning millions of millions of
+savings and all that
+what are some factors that you know come
+into mind when you're if i were to
+design a
+transportation system within a city
+let's say i'm creating a new city what
+are some things that i need to consider
+you know for the for the layman who who
+has no idea what this may entail right
+so
+as i said before transportation has
+different parts uh the
+the more strategic planning when when
+you say have a new city
+it's something like that right we have
+cases by the way where it is like a new
+city
+so we do like event transportation you
+have a large event it can be like
+a large music festival
+or a large sport event or something like
+that
+you have all the people
+that come to that event and you want to
+design the best transportation system
+for these people
+so it's they are kind of there is
+nothing there right it's a new event
+so basically when you look at strategic
+planning you look at mostly demand and
+budget
+so where people live where they work
+uh also transportation a lot about
+equity
+so
+it's not only about you know what's
+worse the biggest demand but who are the
+people who needs transportation the most
+low income population different type of
+population that maybe don't have a car
+uh maybe the only way of getting to work
+is using a bus or you know public
+transit so you want to make sure that
+for these type of communities you
+definitely have
+a service
+where they need and so so you take all
+this all this into account you build a
+network a network is a set of routes and
+timetable
+for different time of day in different
+days of the week and so on and how those
+routes interact with each other
+uh so for example if you have one
+corridor like one main
+street in the city you have many routes
+going through that corridor
+so you want to look at the frequency of
+all these routes together and uh if you
+have a railing
+and a bus route you want the bus to get
+to the rail before the rail leave the
+station so all this coordination that
+would be the first part and that's what
+we call planning
+the second part is what we call
+scheduling which is how many vehicles
+you need how many drivers
+type of vehicle you know one driver gets
+to work all these things how much
+they're getting paid uh over time uh
+when they get the day off all of the
+scheduling part
+then the last part is actual operation
+optimus is like an operating system for
+public transit it does anything from
+thinking about what you should uh design
+to actually operate it right now right
+what's happening right now what do you
+do with this driver it's replaces that
+driver a vehicle breakdown
+i have you know all this so um
+we have analytics platform
+yeah so it's it's the full suite but
+uh to your question like if you're
+designing all city you start from what
+should be the network but usually when
+we go to let's say city like london or
+uh you know los angeles and so on there
+is an existing transit system and we
+want to improve that
+right exactly and and so i'm trying to
+wrap my head around you know the site
+this idea that you know you and a few
+friends you know you're you're building
+this fantastic
+you know idea with a with a big pain
+point with deep technology and all of a
+sudden you're working with agencies and
+with
+with you know local authorities all
+around the world you know what is that
+experience like what does that mean for
+you as an entrepreneur what are the
+challenges that may come with that
+yeah first i'm really i'm always really
+excited about that like i i even today
+like after seven years
+like on the fact that you know a company
+from israel
+that definitely started small now it's
+quite large but
+it's actually responsible powering today
+we're doing almost 50 of the entire
+public transit network of the entire uk
+including london and all of the uk right
+uh almost everywhere i just been in
+london last week
+almost every bus you see is is paradigm
+to bus
+almost everything that happens there uh
+routes in in yorkshire and different
+parts of the uk in the us and singapore
+and hong kong and brazil and
+uh so even today is still amazed by by
+the fact that you know such an impact in
+so many places in the world uh it wasn't
+easy it was really really hard and it's
+still hard all the time even today or
+octopus is really de facto standard
+of of you know public transit uh systems
+it's hard you need to work with uh
+large transit agencies that use to use
+the same kind of methods bitpin and
+sales files or legacy system whatever
+but they used to do the same thing for
+like in the last
+40 years right
+and here's a company coming from you
+know a new shiny tool and so on but why
+should we change
+so yeah we develop throughout time
+methods of showing the value of our
+system before someone needs to make a
+decision to purchase so we can take all
+the data
+of let's say new york put it into
+optibus
+run all the algorithms and show them how
+it can look like
+before you start using the system and
+it's actually quite accurate uh of what
+you do on paper versus what you actually
+get in the field
+and what was the growth like for you was
+it you know first finding you know
+product market fade making sure that it
+works for one two cities and then
+opening up and and onboarding
+498 more or was it more linear what was
+that like so we started in israel
+uh we were lucky enough um to start with
+the largest public transit company in
+israel agate
+which is doing almost 50 of the entire
+country public transit wow uh i think i
+always say to other founders where you
+know they think about should we build a
+company for enterprise customers the
+book should go after the long tail
+of like the small medium size
+business
+and i think the enterprise customer they
+bring so much value to the development
+of the product because they have the
+highest and ice requirement
+where smaller companies can say yeah i
+mean that you know they they can go with
+that without although right yeah i think
+we started from the largest one in
+israel uh then very quickly we grew to
+about like 90 of the market in israel i
+think like
+within less than two years
+before we even had like uh a good enough
+product i would say uh at that point and
+and why and why is that is that because
+you know now there's now they're they're
+seeing the value proposition through egg
+is it because
+you know what how do you attribute you
+know the fact that once you go with the
+head all of a sudden you have the rest
+are following suit so i wasn't sure it
+was because we were with the largest one
+and they said okay optimus is probably
+the best because they went with the
+largest one i think what was really
+helpful is that we can show the roi
+uh
+very accurately and uh in quite fast so
+we will go to a public transit company
+we'll tell them okay you spend 100
+million dollars a year
+running your transit system
+maybe 75 million is driver wages and 30
+and 25 is a vehicle or or something like
+that where fuel maintenance and so on we
+put all the data into optimus and that
+takes some time because we need to make
+sure the data is accurate and so on also
+the constraints union agreements we do
+all of that we do all this work
+and then we let the system run and
+output different scenarios and we'll
+tell hey instead of 100 million you can
+run it in 90 million
+that's only 10 million dollars of
+savings
+and think about a public transit company
+that is works on a margin of like five
+percent six percent yes so
+that's a big deal ten percent more five
+percent more it's big big deal i think
+that was like the main factor why we got
+uh quite quite fast involved you see
+like this away you can't really ignore
+it
+it doesn't really matter what tool you
+use today you really want to move to
+that because
+you get like an immediate ally
+were there cultural adaptations that you
+needed to do as you're branching
+globally
+and you're working in more than 500
+cities so obviously you know you're
+dealing with different cultures and
+before you mention how how minded you
+are to equity and diversity and and
+figuring out okay which populations here
+needed more versus it's it's more of a
+luxury basis how how do you go about and
+do that at scale yeah with so many
+different locations
+so we started in israel then we moved to
+the u.s
+first deal in the us by the way was done
+all through linkedin
+messaging actually and quite fast but it
+wasn't uh
+let's say representative oh foul really
+made uh was lucky i guess to get the
+first customer in the us then we moved
+to europe starts from the uk then
+germany i think one we was once
+what we learned quite uh early on is
+that public transit is quite similar all
+over the world and all over the world i
+mean africa
+hong kong
+singapore brazil u.s canada you know
+germany sweden like many very different
+places but public transit in the end is
+about vehicles drivers moving people
+around so in that is very similar but
+what is very different
+is that each company and each public
+transit agency has very different
+rules that they go by it could be
+regulation and state rules and
+governments so so on but could be also
+union agreements
+and preferences of different uh trinity
+companies so
+what we did quite early on is that once
+we understood that is we build it into
+the product so you can customize it
+fully like you can say
+this driver needs a break every four
+hours
+and you cannot drive more than 10 hours
+and uh you know you should use a double
+decker here and single decker there like
+you can customize all that to anything
+you want so the product is the same
+product
+single you know multi-tenant system
+and you can customize it on the fly for
+each customer now what we did
+learn uh after a few years
+is that you need to have
+in terms of the go to market sales
+marketing and also customer success you
+need to have people on the ground
+different languages first
+the market are very close and everyone
+knows each other like it's really hard
+to go from israel on sale to
+you know a company in a random place in
+the world
+so we have an office offices in many
+different places like we have in europe
+in europe in many different places in
+europe we have in the us we have in
+brazil
+with that i can only imagine in the
+operation that that one the one has to
+run at this at the stage and
+going back and
+before
+princeton and
+microsoft is there any part of you that
+that feels that you're gonna go into
+this world that you're gonna go into
+public transportation or that you're
+gonna work in in in this type of role
+um i didn't think that this uh will
+happen uh back then
+even after the years that we worked on
+optibus we had a product uh it was
+working we have customers and during all
+that while i'm working full-time job at
+microsoft
+even then i wasn't
+like 100 sure that's what i'm going to
+do
+uh
+i think the move of moving from
+microsoft to to
+pounding optimus today it looks trivial
+but
+back then it wasn't trivial at all
+uh it wasn't clear to me that the
+problem that we see in israel
+exists in other places in the world
+uh also think about like i was in a
+really good place
+i really liked working at microsoft and
+uh you know successful and get promoted
+like you don't want to leave a place
+like that and on the other end you're
+not sure like startup is always about
+risks you're not really sure you need to
+at some point really we really needed to
+make this jump uh we did a lot of
+research before and so on looking at
+other companies and we understood that
+there is a big pain point
+but we didn't really know for sure now
+we know that it exists anywhere anywhere
+you go
+it's uh always amazed me to see like we
+went to london
+and we saw all of the public transit in
+london
+all of the routes are planned using like
+this one huge excel file
+and you're saying hey it's like one of
+the best
+public transit networks in the world
+like you know maybe 10 million people
+are you know living in that area and so
+on so yeah
+the reason was that one of the aha
+moments that you thought okay like we
+get this like we get what's happening
+here
+we know what we need to be doing it's go
+time that was definitely one of the uh
+moment uh the industry is huge the
+public trends is about one half trillion
+dollar industry
+um
+we are not only doing public transit
+we're doing a lot of private
+transportation we're doing uh
+you know we're doing all the
+transportation for companies like
+facebook apple uh and others we do event
+transportation universities uh
+airports transportation about public
+transit or mass transit general is a
+huge industry
+and it also affect the lives of billions
+of people around the world that really
+relied on like essential
+industry and uh there is really no tech
+it's a very low tech or no tech kind of
+industry
+no ai no optimization no cloud computing
+it's like really
+still
+stayed there somewhere in the 80s
+so a lot of people
+amos if i had to ask you
+what your co-founders or your employees
+or your other colleagues
+what are a few words that they would use
+to describe almost
+well what would they be
+um if you ask people in the company you
+know people that knows me especially
+people at optibus most of them will tell
+you that i'm optimistic
+uh even though i don't view myself as
+such i give myself more as realistic and
+i
+i think i can tell you why so startup is
+like a roller coaster you always ups and
+downs and there are many situations
+where there are lots of issues
+it could be an executive that left the
+company to to open his own startup could
+be an issue with a large customer could
+be a large company trying to close a
+deal and you're not sure you know you
+get it and so on
+um
+and so it always looks like things are
+going wrong and you know it's always
+like roller coaster but
+i think what
+what i'm doing at this this situation i
+try to look at the long term
+and if you look long term and not like
+what's happening in this week or this
+month
+and so if you look at the long term the
+vision and mission is what counts and
+that's always optimistic
+i love it
+i i really appreciate your work i
+appreciate this conversation but i
+appreciate your work even more because i
+think that
+you know it's just
+such an amazing example um you know
+a company that has such wide arms and
+and impacts you know not just people in
+different places but the impact is the
+way that that authorities make decisions
+and very complicated decisions that at
+the end you know after a complicated
+supply chain impact to really everything
+and so i think it's a it's an amazing
+journey over seven years and
+and it sounds like it's an amazing place
+and a very fascinating time
+and
+and really leveraging interesting
+technology to do some really good things
+for people so thank you very very much
+for the inspiration and best of luck and
+stay safe and stay healthy thanks a lot
+thanks michael thanks for having me
+thank you
+you

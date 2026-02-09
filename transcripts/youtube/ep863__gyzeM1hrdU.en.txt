@@ -1,0 +1,590 @@
+immediately after my college i was
+trying to do sales i'm not a sales as
+you can tell i'm an engineer by trade um
+but i realized that if you send a
+personalized video to someone um
+they are way more likely to reply to you
+uh it just it's uncanny they see that
+you're a real human being and you're
+just trying to like get their attention
+and just want to reach out to them as
+opposed to a bot that's sending
+thousands of emails at once
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret core adventures j ventures
+riverside fm
+fusion vc
+birthright excel j impact
+leap google for startups and hippo and
+in media partnership with ctek
+welcome to 20 minute leaders this
+episode is all about video editing and
+not just video editing but how do we
+leverage new technology to make content
+creation easier meet kanad bahalkar
+kanat is the chief product officer and
+co-founder of potion kanat is an
+ex-googler and was an early employee at
+knit health a camera that could detect
+sleeping and breathing disorders using
+ai looking forward to having people
+listen to our conversation now you know
+really getting at the question of why do
+you do what you do and you've
+done quite a few awesome things the most
+recently you user experience researcher
+at google and so user experience is a is
+a pretty big significant passion of mine
+and um
+one of the things that you're doing now
+is looking at video as a means of
+interaction and sales and how to
+leverage technology to create it more
+personalized and dynamic
+while taking less resources from the
+creator itself so tell me a little bit
+about the space that you're in and how
+you've come to think about this problem
+sure thing there's a little bit of a
+correction that's i used to be a user
+research
+like user
+experience engineer not a researcher i'm
+not a smart uh to be a ux researcher
+so i was just a liaison between there by
+the way so
+uxcs or ux engineers are uh
+they're actually engineers who
+understand the language of user
+experience so they are the liaison
+between the user experience team and the
+engineering team so quickly creating
+prototypes testing them to see if they
+have validity in the uh in the people
+that you're reaching out to
+do people like your stuff and so before
+you build a a big thing we quickly built
+uh smaller things to test if they are
+actually a valid business idea or a
+valid product
+so okay so it's interesting so it's sort
+of this you get the best of both worlds
+you both get the engineering perspective
+but also the user experience
+fun of it so so thank you for that that
+clarification
+the world of video and content and
+personalization what's happening there
+uh sure thing so uh let me
+turn the
+wheel of time a little bit back and tell
+you why i uh started this
+before uh this startup i was working at
+uh google and before that i was working
+at a small server called knit health and
+uh
+this is very small team and we built
+really cool things um we built our team
+built a camera that could uh detect
+sleeping and breathing disorders in kids
+who have those disorders uh and um
+i had seen
+our work actually change uh like
+sleeping and reading patterns of kids
+who were suffering with those things
+at that time i got exposed to computer
+vision and
+how ai can actually help
+people with video and
+dfix was an up-and-coming field and it
+was very nascent very in his infancy
+and i wanted to understand these tools
+like what is the dynamic there what can
+we do
+uh to actually make this cool make this
+safe
+as the defects of technologies is potent
+but it's also very dangerous so what can
+we do to actually uh build cool things
+using this technology while at the same
+time i'm making it safe and secure so
+that's where the germination of the idea
+came from and uh played around with it a
+little bit experienced exp experimented
+with it a little bit and um
+i met my co-founder during that time and
+uh we decided to build a company
+i love it and so
+looking more concretely at the
+opportunity that you have in video and
+and the intersection of sales what is
+the sort of the aha moment that you had
+or how did you even get to that specific
+product that you're building today with
+creating these personalized videos you
+know a great question so before a
+project uh way back
+in uh immediately after my college i was
+trying to do sales i'm not a sales as i
+can tell i'm an engineer by trade um
+but i realized that if you send a
+personalized video to someone um
+they are way more likely to reply to you
+uh it's just it's uncanny they they see
+that you're a real human being and
+you're just trying to like get their
+attention and just want to reach out to
+them as opposed to a bot that's sending
+thousands of emails at once and so
+literally you're sending a video as a
+cold outreach so instead of just
+text explaining everything you're
+sending them a personalized video where
+you're actually talking to them and this
+is
+a replacement for the cold email pretty
+much yes it's it's actually an
+enhancement to the cold email so usually
+i still use text but in that we also
+embed a video uh to explain either in
+detail or just add a personal flair uh
+to to the text so
+uh if you do that it's way more likely
+for people to engage with you but it's
+impossible to scale you're not going to
+go hey michael this is canard hey johnny
+this is kind of hundreds of times for
+all the people that you want to reach
+out to so that was a problem and
+the technology that was up and coming
+was a potential solution so we tried to
+experiment with those and that turns out
+sales people want to do it
+uh so we just decided to build a company
+how do you sort of mitigate the
+so you have this user experience inside
+right where you're saying if we're able
+to make it to make the the listener feel
+that they're more engaged because this
+is more targeted to them more
+personalized and they're more likely to
+to engage with the content
+are so
+i'm assuming there will be an inflection
+point where people sort of realize this
+right where potion is going to become
+significant enough that you know every
+sales videos will be made through
+through this
+how do you perceive people the consumer
+behavior shifting at that point will
+people still find it engaging and
+personalized well they will they you
+know feel a little detached because they
+realize that it's a software doing it
+how do you think through sort of the
+trajectory of this technology
+great question
+so uh this is a new form of
+communication right um and for every new
+form of communication there is a curve
+of excitement and then it dies on once
+people catch up to
+and that's not just with personalized
+videos or any other personalized things
+it's just the nature of the game uh so
+if you look at email as a means of
+communication when it came out you used
+to get like 80 90 open rates but now it
+has died down a lot because people are
+more desensitized to that sure which is
+true with every single means of
+communication so we do expect that to
+happen but it's a good problem to have
+it's not necessarily a bad thing it's
+just that if
+something is overdone people get
+desensitized to that that's just human
+nature so we're not necessarily worried
+about it we expect expected we
+anticipated
+right and so what what and then
+is that changing in any way you know the
+the way that you're building your
+product to your team your your vision
+for this company the sort of this
+desensitizing idea
+a great question so uh we actually have
+a significantly wider vision than what
+we're building now so right now we allow
+sales people to
+change a few words in a video uh using
+our technology which is cool is really
+useful for sales teams
+but the same technology can be used to
+do many many things such as changing
+an entire video from english to german
+or any other language just by changing
+the subtitles
+or lip syncing tv or uh movies uh or
+even uh creating a personalized employee
+onboarding content the possibilities of
+the same
+technology being applied in different
+contexts is significantly large so what
+are we going to do about it uh
+so
+we are next year we're trying to release
+an api that allows developers to build
+their own applications on top of our app
+so right now we're starting with a very
+small specific use case then we're going
+to expand to a video editor that allows
+people to edit videos just by editing
+text and it's not just removing words
+it's also like adding stuff from adding
+content to the video late next year once
+we democratize uh this technology with
+any with an api developers can actually
+leverage it for their own applications
+so i'm hearing three different three
+different verticals that are coming
+together here first you have this the
+idea of sales and and marketing and
+personalization right then you have this
+vertical of uh of the content creation
+right you're talking about creators and
+how do we create content or create
+anything that is engaging and
+entertaining and then you have this
+vertical of developers as an engineer
+yourself
+you're thinking okay how do i now
+empower a whole marketplace or a whole
+whole world of development through this
+foundation that i'm building in the
+market here
+which which of these
+do you personally most relate to where
+where is canada in sort of the in this
+whole spectrum that i've tried outlining
+here at the end game i really want to
+democratize this technology make it as
+safe and secure
+as possible uh and
+just see what people do with it uh i
+have no idea what cool ideas will people
+implement using this but uh that's what
+i'm really excited about
+we understand that we've chosen a very
+narrow problem to solve right now but
+that's because the company is nascent we
+don't have the ai is not sophisticated
+enough to produce robust results all the
+time as we collect more user data we can
+actually get better and better over time
+but the end game is what i'm really
+really excited about
+interesting and so you're talking about
+you're basically saying i as an
+entrepreneur i'm setting the foundation
+and and what i really care about is to
+see how the world responds and how
+everybody is interacting with this
+technology and building on top of it
+right yes sir so give me some examples
+if you had to now you know if we had a
+20 engineers that are ready to to use
+this api and to build you know really
+cool apps uh on their own with potions
+technology what what what types of
+things would you empower them to to try
+and do
+absolutely so uh
+i came up with a bunch of ideas right
+now just like off the top of my head but
+uh since i'm working like sales and
+marketing people like those are the top
+of mind ideas for me so creating hyper
+personalized ads on
+instagram or facebook is like an easy
+solution or uh if you make a youtube
+video as a creator um
+and you realize that you made a mistake
+uh where you want like you want to
+change the sentence in that entire video
+uh do something else you don't want to
+remove it you want to just change the
+context of it how do you do that you
+have to record the whole thing right
+with us you don't have so you just
+change the text in the subtitles or the
+transcription and it automatically
+creates accurate lip sync for you
+or as an employee you join
+apple and tim cook comes on your screen
+personally welcomes you and actually
+walks you through uh the employee
+onboarding journey yeah there's the
+possibilities of these are literally
+listen entertainment gaming uh
+as as long as you have accurate lip sync
+and accurate uh voice cloning uh you can
+apply that in many many contexts
+sure tell me a little bit about the
+strategy for winning here so you're
+talking about the end game and you're
+not just building a product you're
+building a a foundation and an
+infrastructure for others and this is
+technology that you know that we that
+we're seeing emerge and and and you know
+we have a variety of different
+organizations that are looking at these
+technologies in different lenses
+what is your approach with potion for
+winning in this in this long game why is
+potion going to succeed here
+that's a great question uh honestly this
+is a very uh um
+i'm gonna be extra honest here uh i'm
+not talking to you because you're uh
+you're bc i'm talking to you as like oh
+preach like friends uh kind of situation
+so i don't want just us to succeed i'm
+pretty sure there are other companies
+who are gonna solve this problem in a
+different lens as well what we want to
+do is we want to build a platform that
+allows people to create these pieces of
+content securely and we also want to
+build a community of developers that
+support each other to actually uh will
+build anything on top of version so
+that's what we believe in the long term
+would succeed so we have started taking
+steps towards what can we do to add to
+the security layer what can we do to
+create this as a platform plug and play
+into other video editing tools building
+a community so those are the things that
+we believe will make us win but honestly
+i'm pretty sure there's going to be
+other companies that will take a stab at
+the problem as well and uh we hope to
+collaborate with them as well so it
+sounds like you're really doubling down
+on the community aspect on the first you
+know having people trust could create
+trust in the infrastructure that you're
+building with that sort of the security
+lens that you were saying before but
+then also the community aspect of how do
+we empower developers to work with each
+other work with content creators and
+figure out different ways to leverage to
+leverage the software at that point how
+do you envision potion being a part of
+this part of this player is it sort of a
+licensing mechanism that that you are
+the core technology that uh that other
+apps are using and is it still the
+potion brand that that the end consumers
+are getting exposed to or that the
+developers are getting exposed to in
+other words where are you in the in the
+mindset of your consumers as as you
+scale up potion to be a developer play
+for many people to use and build apps on
+a great question so
+we look at ourselves as uh aws for
+synthetic media
+and that's just uh
+that's just a platform that allows
+developers to do things that they want
+to do it's a conglomeration of multiple
+products although we're starting with
+one product right now slowly we'll
+release trust-based and security-based
+products that
+inspires confidence in developers that
+their technology is not going to be
+misused and then we'll also double down
+on the community aspect of it so portion
+as a brand probably will not be exposed
+to the end consumer as heavily just like
+when you go on a website if served by
+aws the consumer doesn't see that served
+by aws it is interacting with a product
+or a service so that's where we want to
+be there are a bunch of things that we
+need to build to make this more secure
+um
+i'll give you a couple examples right
+now so uh as a policy we don't allow
+people to create defect videos of
+anybody else but themselves
+that's like one of the core tenants of
+our
+company policy so uh i had to fire a
+customer last week because they misused
+uh this technology they basically
+misused our tech uh they gave someone
+their password and somehow they figured
+how to use someone else's face uh well
+his boss space in in the in the video
+wow so we had to fire them uh which is
+not an easy thing to do for a small
+startup but uh
+uh so those are the types of things like
+voice fingerprinting face fingerprinting
+those are the types of security things
+we we're gonna build and broker that as
+a platform to developers so uh they
+don't have to worry about
+anything from a security or malicious
+intent perspective
+how is that
+security and and trust building play
+into
+you know your strategy for winning here
+because they i first of all i think it's
+it's it's admirable and it's amazing
+that i i'm very i'm very happy to hear
+that you're putting so much effort into
+this yet i can't help but understand it
+it's a little bit contradictory to
+to scaling quickly to getting you know
+because it you know you're you're
+effectively regulating your customers
+you're regulating the use of your
+product which is naturally limiting the
+usage of the product and so yes first of
+all why why is this such a
+cornerstone or foundational idea that as
+you're building potion ah this
+this is actually an important question
+to discuss
+um
+if you remember a few years ago there
+was an obama deep fake um done by i
+think one of the key and peel one of the
+comedians out there and
+that's where
+i'd started
+thinking about okay what can be done to
+actually use the same technology in in a
+good way as opposed to a bad way
+so that's where the germination of the
+idea came from
+it's really easy to misuse this
+technology for political gains or to
+create mistrust among people or just
+disseminate bad content
+with malicious intent
+we would rather have less customers
+than not
+if uh
+if people are using our technology for
+nefarious reasons i don't want to be a
+part of it
+so i want to make sure as a founder of
+the company that i build the right
+frameworks and policies in the company
+that allow us to do that in the long run
+and
+do how do you find that your
+teammates investors board members or i
+mean is everybody sort of aligned on
+this on this mission everybody has this
+same conviction or is this something
+that you have to tell me and and the
+second question there's a follow-up to
+this is what about your employees i mean
+how do you get your employees and your
+team members as you're building your
+team to have this as a
+really foundational piece of who they
+are
+yes um
+our head of day i'm marcus and my
+co-founder andrew
+all of us are aligned on this uh
+particular thing like we just don't want
+this technology to be used for bad
+reasons it's a reasonable thing to do
+and we every single time we pitch to our
+investors before they became investors
+we made sure that
+this is this point is communicated to
+them so if they come in with a different
+expectation uh that that doesn't align
+with us we may not have a deal here so
+this was communicated through and
+through before and after uh we got
+investments as well as new employees as
+well so yes the team is aligned and we
+communicate frequently that okay this is
+uh what we're gonna do this is what
+we're gonna stick with
+and is this mainly a
+sort of a a verbal or
+sort of a cultural idea or is this also
+technologically something that you're
+spending time and effort to to develop
+because i imagine there are different
+opportunities that could be done
+technologically to to to increase
+authentication like you mentioned
+fingerprinting before
+yeah so both uh culturally we are
+inclined uh
+towards that direction
+hence we build the solutions in such a
+way that the technology also complies
+with
+with what we think and feel
+so
+examples of being voice fingerprinting
+or having stronger contracts for
+actually using the technology in a
+specific way uh those types of things
+are uh what we're building towards uh to
+like build that layer of trust
+fantastic well it sounds like you're
+working on some some really phenomenal
+ideas and some really phenomenal
+products and i can only imagine what
+what the world can do with with more
+personalized video content and i think
+that you're you're you're right on the
+point of of understanding the dangers of
+it and the pitfalls and one and you're
+mentioning that you know by
+democratizing sort of this ability
+you're also democratizing the ability to
+from misuse and this is true really for
+any product but here specifically it has
+more of a of a human nature and so i i
+really respect your
+sort of your motivation for being so
+intentional with with the way that
+you're running this and and i can't wait
+to use the product myself and i really
+cannot thank you so much for coming here
+and for taking this time and how busy
+you are for sharing your story with me
+and then i look forward to following
+your journey so thank you
+thank you so much michael uh this was
+super fun and uh feel good reach out to
+me anytime
+[Music]

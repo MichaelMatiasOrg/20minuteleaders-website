@@ -1,0 +1,654 @@
+and i i think it's a good example of
+sometimes you can find a real gap in the
+market in
+in something that is like very niche
+like it would never become
+a billion dollar company obviously
+[Music]
+leor grossman thank you for joining me
+on 20 minute leaders welcome
+thank you thank you for having me thank
+you very very much for being here all
+the way from sunny california
+to uh the dark and stormy tel aviv but
+you know it's interchanging and both
+places have wonderful weather lior
+an expert in open source i think you
+founded like five or six companies
+in this in this world and it's and it's
+it's unbelievable
+not all of them in this world but but i
+know that that's what open base is about
+and some of the others like wiki want
+and
+and something like that but i i would
+love to first hear about your journey
+hear about who you are
+starting all the way back when you built
+your own computer within your car and i
+have to say
+that when i buy a car and the first
+thing that i look at is the multimedia
+screen and you actually
+built one for yourself so tell me about
+that
+right that's that's a crazy story
+actually so
+um my first car it was a blue
+pejo 106. you know kind of like
+i think it was like the 97 model and
+back then in the days like it's a really
+old car it didn't have any
+like multimedia system and being the
+computer geek that i am
+i decided to do something about it so i
+ended up
+actually building a personal computer
+that sits
+in the trunk of the car uh it's it it's
+connected like through
+cables all that run all through the car
+and i ordered uh a touchscreen
+touchscreen was like an in a thing like
+back then like in the early 2000s so
+i actually had to order one from ebay
+uh got it all the way built it into the
+dashboard of the car
+and basically every time i would start
+the car
+uh it would start a personal computer
+sitting in the trunk
+it would have multimedia it would have
+music it would have
+wi-fi everything uh this was kind of a
+very crazy hobby project i would say
+unbelievable i
+i love those types of projects it's it's
+really
+it's really amazing and tell me a little
+bit about your startup journey
+you i know that you are a team leader in
+one of the elite units in the idf and
+then you go and you go and you build
+a massive a portfolio of companies each
+of them
+in a different space all of them making
+a huge impact
+walk me through some of them before we
+reach open base and the open source
+industry
+uh sure so i've been
+i would say a late bloomer as
+entrepreneur
+so i think you know uh
+i would say my focus has been mostly on
+entrepreneurship for the past decade or
+so but
+you know god i'm old um
+so basically i got into entrepreneurship
+by building my
+own software development firm so
+around 2007 i started my own
+software development firm it was called
+open base i've been working
+with wonderful wonderful uh clients most
+of them small startups
+and i help them get to market uh with
+their products
+and this has revealed the world of
+entrepreneurship to me in the world of
+startups and how fascinating it is and
+the kind of like challenges
+they had around product around go to
+market around uncertainty
+and that's how i kind of like got
+enchanted and
+and um got into this world of startups
+uh
+so i would say in the past decade i
+probably build in
+one capacity or another probably build
+a dozen products at the very least maybe
+even more
+uh some of them were kind of like you
+know entirely bootstrap
+most of them honestly you know was
+complete failure
+i think you know that's part of the
+process uh
+some of them were uh more successful
+uh a couple of them were actually you
+know have
+came to become profitable businesses uh
+they are still active and you know
+they generate revenue they have a lot of
+happy users and
+i'm very proud but i think it's all part
+of the journey kind of like being
+able to fail and learn from your mistake
+and kind of like not repeat the same
+mistake uh
+twice right and improve as an
+entrepreneur over time so previously
+i built um book authority
+which is a basically a recommendation
+website uh for books if you will
+it's like goodreads but we base our
+recommendations
+based on experts like people like elon
+musk people like jeff bezos
+uh recommended books and we highlight
+the most recommended books on our
+platform uh
+so um that's book authority it has you
+know quite a lot of correction
+uh i think almost a million users a
+month
+wow a lot of recommendations a lot of
+books sold
+that's yeah that's that's a great great
+great example of like dog fooding
+because i set out to build book
+authority to solve my own problem i was
+looking for great books to read
+and i was sifting through like articles
+on forbes and inc
+uh eventually you know i couldn't find
+you know that
+you know the most recommended book so i
+ended up like building this database
+i love came to be a book authority i
+just love it
+that type of stuff inspires me just like
+what you did with it with the pcr for
+the car
+my father who's at google he didn't ever
+have time to listen to articles and he
+had a pipeline of
+hundreds if not thousands of articles
+and he said why can't the phone read
+those out to me
+with you know push of a button or bite
+with the assistant so he developed an
+app within google that is now used by
+a lot of people around the world that
+that reads
+articles for busy people as they're
+driving as if it's a podcast but
+i digress but that is the exact type of
+entrepreneurship and innovation that
+really inspires me
+tell me a little bit about wiki wand and
+darkness because those are also two
+fascinating adventures that i'd love to
+learn more about
+yeah so uh darkness um
+is is an interesting example of um
+i would say a gap in the market so
+nowadays
+you would notice like you know today a
+lot of websites and apps offer
+uh dark themes so you would have it like
+you know on youtube and you would have
+it in facebook more recently
+and now i think you know you have it in
+google in beta basically your search
+base in it rtm
+uh but i started darkness you know a few
+years ago
+and at this time i i knew how much i
+love dark themes and then kind of like
+you know from my other products
+i kind of realized a lot of other people
+around the world love the concept of
+like
+browsing websites with dark teams people
+you know sometimes they're like
+night owls they like working at night a
+bright screen is like very glaring it's
+not fun to use and also you have this
+coolness factor about like
+working uh with a dark theme uh so i
+decided to build darkness darkness is an
+extension
+for chrome that allows you um
+to convert to transform i think about
+like 20 websites
+uh to be dark themed and we support like
+google
+facebook youtube like many other
+websites
+and we had quite a lot of success we
+were actually featured in chrome web
+store
+uh we got a lot of downloads the product
+itself is kind of dual in that like
+it is an open source product so you can
+use the open source version
+download it for free get like all the
+features
+get it installed on your computer or you
+can download it from
+uh chrome web store where it's a a
+freemium product in a way where you have
+the basic
+feature set but if you want to get like
+the full possibility
+basically get access to like 20
+different websites seven different
+themes
+uh you pay basically that's like a micro
+payment we don't charge
+99 an hour for a chrome extension
+obviously but the nice thing about it
+is that we had you know tens of
+thousands of paying customers for
+darkness
+so it has become quite a success
+and i i think it's a good example of
+sometimes you can find a real gap in the
+market in
+in something that is like very niche
+like it would never become
+a billion dollar company obviously but i
+ended up like solving my arm problem
+and on the way solving the problem
+for hundreds of thousands of other
+people around the world
+unbelievable it's great i i remember
+when one of the developers and
+i i was also at 8200 and i remember the
+day that one of our developers his name
+is gilad
+he brought it into the unit a dark theme
+for a lot of the applications and i
+remember everybody was going crazy
+for some reason engineers and developers
+love dark themes
+and now it's actually become a comment i
+think that ios
+launched their dark themes recently but
+but you know i can see that i can see i
+love that idea of solving your own
+problems again and what about wiki one
+what is that about
+so wiki one i started wiki one back in
+um
+uh it was 2013. i started it with saul
+wilf
+which is an amazing amazing serial
+investor
+one of the best angel investors in
+israel i think
+and the idea behind wiki one was that
+again there is this huge gap in the
+market so you have wikipedia
+wikipedia is one of the top 10 websites
+on the internet in terms of like usage
+you have like hundreds of
+like uh tens of billions of users uh
+using weak using wikipedia all the time
+and the funny thing about wikipedia
+is that it's so frequently used but it
+is a product that
+hasn't evolved for the past decade it
+hasn't evolved at all in terms of like
+the user experience
+the usability the feature set it's still
+the same old wikipedia
+and we're all like very frustrated by
+that so we decided to basically
+rebuild wikipedia for the modern user
+right so like you would get the same
+content that you get on wikipedia
+but with better readability with better
+search better discovery
+uh power features customizability one of
+the things we had early on it wasn't
+that popular back in the days uh
+but we had a dark theme so you could
+customize uh
+your interface and select the darting
+for wiki one
+and we ended up growing uh really really
+uh
+fast wiki one we ended up winning the
+uh 2015 webby award for the best user
+experience on the internet
+yeah yeah the webby award and yeah this
+is like thanks to the amazing team
+like we have uh sar and elon and tom are
+a designer
+like you know the team world small team
+kind of like doing amazing work around
+like buildings product it has become a
+huge success we have
+over um 10 million people using a week
+you want every month right now it's a
+profitable business
+um yeah it's a pleasure to use honestly
+you know
+more that i'm proud like you know uh
+probably with attraction i'm proud that
+you know it's a product that i enjoy
+use and we know so many people enjoy
+using wiki one
+wow leor we'll get to the y combinator
+experience and open base and
+how you're solving a pretty big problem
+for developers with with
+so many open source opportunities but i
+have to
+gauge your your passion for solving
+problems with
+with products sometimes their niche
+sometimes they're not so niche but what
+is it about solving problems with great
+people that really gets you excited
+because
+you've done it so much you've been
+successful in almost all of them which
+is incredible
+but what what what do you do why do you
+do that
+why not just go start a billion dollar
+company 10 years ago
+uh i i think it's about like in a way
+it's a lot about the journey of
+entrepreneur and i wouldn't say you know
+i built a lot of failures and like
+there's always this
+uh i would say survivor
+survivorship by us or like you learn
+about the successes but i could fill up
+an episode of an hour about like all the
+products that i built
+and were never successful and i think
+it's important for other entrepreneurs
+to hear about it
+uh because it's not always like sunny
+and roses and a lot of things that i've
+built were like down
+downright failure and some of them were
+like you know a mild success and some of
+them
+like were a bigger success and that's
+part of the journey
+uh but i'm kind of like digressing um
+i i think for me uh building products or
+like creating
+is part of like my invoice invocation
+this is not a job this is not even a
+hobby a hobby i
+i recall even when i was younger before
+i got into
+uh you know programming before i got
+into entrepreneurship before i had the
+skills
+i always loved creative things whether
+like you know drawing schemes or coming
+up with inventions and stuff like that
+so
+for me that's not even a choice i think
+that's
+just the way i'm worried i don't see
+myself doing anything else by you know
+but creating but building products i
+i just love that so y combinator open
+base
+solving a problem in the open source
+space before we even talk about open
+base
+what is open source what is open source
+and why is it
+a growing field today
+so open open source is kind of like an
+amazing phenomena i would say in
+software development
+so uh i've been developing software for
+a while probably since i was 10 and
+software development like you know two
+decades ago was
+very different from today so two decades
+ago
+if you were to develop a complicated
+rich piece of software
+you had to develop every little piece
+yourself
+right and that means like you have a
+product you have a tooltip you have it
+so like a dialogue that you want to
+display you want to handle
+text manipulation all of these as a
+developer as a company you had to
+develop yourself
+and the open source movement was kind of
+revolutionary
+in that other developers uh
+developers around the world started work
+working collaboratively with other
+developers
+and sharing their source code what
+they've built with other developers
+so now as a developer you can tap to the
+collective knowledge collective power
+of millions of other developers around
+the world and when you build software
+nowadays
+actually the statistics are are
+astounding so
+uh more than 50 of a modern app
+modern product modern website is
+comprised of
+open source code and less than 50
+is actually built by that like person or
+company
+so i think the the wonderful thing about
+open source is
+that it allows company to focus on their
+core competency on their product
+while utilizing you know the collective
+power of open source
+so they don't have to reinvent the wheel
+they don't have to keep like building
+this dialogue
+and this tax parsing and this like those
+accounting functions
+because other people have done this so
+in a way they're standing on the
+shoulders of giants
+right now that makes a lot of sense so
+what is the opportunity that you
+that you realize in that in that gap
+because you know as a developer
+when i when i write and i i'm actually
+surprised that it's not more than 50
+because when i go into for an
+application if it's if it's you know
+a relatively simple application i think
+maybe 80 of the code that
+that i end up having is is importing a
+code that much
+smarter and more and more intelligent
+engineers built
+but what what is the gap that you found
+in the market that that led you to start
+open base
+and have that a great opportunity
+so i i found myself and developers
+around me uh spending so much time
+uh researching uh and evaluating open
+source packages
+and the thing is it wasn't an issue a
+decade ago
+because you only had a couple of
+packages to do
+every task whereas like today if you
+look at the javascript ecosystem
+you have almost 1.5 million
+packages to choose from and that is that
+is basically a jungle it's very hard to
+choose the right package and even if you
+know specifically what you're looking
+for
+you're looking for a specific task to
+accomplish you have
+hundreds of competing packages to choose
+from
+and this bets the question like how do
+you choose the right one so
+i was spending significant amount of
+time each and every time i was looking
+for an open source component
+and then speaking to other developers i
+i found that like you know
+i'm not the only crazy one in general
+developers
+uh spend a lot of time sifting through
+packages
+and trying to find the best one for them
+right and that's why i set out to build
+open base uh that was may of
+at 2019 last year um
+and it's been quite a while right since
+then yeah i can't even imagine
+in a few sentences tell me about the y
+combinator experience because that
+by itself is you know one of the most
+sought after experiences of any
+entrepreneur
+yeah so the y combinator experience has
+been uh
+amazing so we were actually the summer
+2020 batch of y combinator that has been
+the first fully remote batch of yc
+i think the amazing thing about it was
+seeing so many international founders
+from all around the world like
+and you know entrepreneurs are
+entrepreneurs like the same people kind
+of like struggle with the same problems
+trying to achieve the same objectives so
+this was an amazing experience
+uh we had an amazing set of partners in
+yc so like
+help walk us through some of the growing
+challenges of
+uh of open base i think
+they managed to pull off something like
+this like this was the first
+remote patch and they managed to execute
+it so well
+you know starting from like the office
+hours and the day-to-day and the kind of
+people
+uh they kind of brought on uh to talk to
+the startups and the demo day itself
+then what they
+you know was quite a feat because like
+you have so many startups
+pitching thousands of investors live on
+zoom
+getting all of that to work flawlessly
+that is like
+quite a feat so this has been once in a
+lifetime experience that's for sure
+i can't even imagine what are some
+perhaps you know your two cents from
+from that great summer that uh you would
+take
+with you moving forward or advice that
+you would give to young entrepreneurs
+uh so i think you know i
+really paradoxically my biggest advice
+or like take away from yc
+is for example i was speaking with some
+you know yc partners i was speaking with
+what partner and getting this advice and
+i was speaking to the other partner and
+getting this other advice
+and both of them are like you know super
+qualified
+highly successful entrepreneurs with a
+lot of experience that is in like you
+know hundreds of startups
+so my advice would be take any advice
+with a grain of salt because i think the
+further you go
+down um the rabbit hole of like building
+a startup
+the more specific your startup becomes
+so you need to take any advice
+within the right context and i think
+you know generic advices are great when
+you get started
+but the more you go in the more you have
+baggage the more you have specific
+circumstances
+you would need a very specific advice so
+what i did
+is kind of i utilize the advice to give
+me perspective
+and it was always like great because
+that was like
+a fresh perspective or like a way of
+seeing things that i've never thought
+about before
+but it it doesn't mean that i take this
+advice at power value it doesn't mean
+that like you know
+this person tells me yeah i think that
+this
+could work this couldn't i'm not taking
+it at par value but whether i'm
+synthesizing
+all the data that i get i sort of like
+build the map of the full gamut of all
+the possibilities of the things that i
+can do and i think this is something
+that
+russia was really useful kind of like
+showing the full gamut of things that
+you can do at
+each stage but then as the ceo it's my
+own responsibility to come up with a
+choice you cannot outsource
+your choices and your decisions to
+someone else that gives you advice
+100 lior i want to thank you for being
+so generous with your time
+and this was great before we leave i
+have to ask you the most important
+question which is
+three words that you would use to
+describe yourself
+wow so that's that's a great question
+i um i would say
+first is um i would say i'm ambitious
+uh so i've always been and i think you
+know
+it's part of the thrill for me to pursue
+uh
+big goals um the other thing
+is resourceful because i'm
+always like even through like tough
+times
+even when things are hard i'm trying to
+find the right path moving forward
+instead of like regretting or looking
+back right and i think that's like a
+very helpful thing as an entrepreneur
+and the
+last but not least i would say creator
+because that's my passion that's my
+invocation
+that's what i love doing i love creating
+lior
+this was great thank you very much thank
+you for the inspiration best of luck
+with open base i can't wait to use it
+myself as an engineer
+but thank you very much and stay safe
+and stay healthy
+thank you very much thank you for having
+me of course

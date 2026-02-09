@@ -1,0 +1,413 @@
+the world has to and is moving away from
+contentbased ver verification uh as as
+the paradigm. Um so we're seeing an
+increasing shift towards electronic IDs.
+Um so think you know portable digital
+identities um either from private
+issuers or from you know public
+government issuers where you're you're
+doing a a multi-art verification and
+authentication through you know a device
+with a pass key that is known to be
+possessed by the individual associated
+with the identity. Um so you're you
+we're really seeing a lot of movement
+away from uh contentbased verification
+to a lot of device linked um and and
+portable digital electronic identity.
+[Music]
+&gt;&gt; Daniel Flo, thank you so much for
+joining me at the human zero day. So
+happy to have you here. Thank you.
+&gt;&gt; It's a pleasure to be here. Thank you
+for having me.
+Absolutely. So Daniel, we're here
+talking about humans and technology and
+identities. You are the head of digital
+identity for the London Stock Exchange
+Group. Uh seems like not a small
+position to be in and quite an
+interesting one in today's world.
+Digital identities are changing. Um the
+way we think about identity is changing
+and that's where I want to start. How do
+you see the role of digital identity
+today and what's happening in the space?
+&gt;&gt; Well,
+that's a very broad uh question.
+&gt;&gt; Um, so I I I I think what I where I
+would start is um we're seeing a massive
+change in um how our governments, our
+authorities uh and our regulators are
+viewing digital identity. Um so if you
+if you take a step back and look at you
+know the 20th century um uh the the
+there really wasn't a concept of binding
+a digital identity to a physical or a
+real world identity that didn't exist
+right you had a username you had a
+password um and and most of the time if
+you needed to open a bank account um or
+or or assert your identity in some way
+you you went to a brickandmortar ation
+uh and a human being looked at your
+document and looked at your face uh and
+made a determination on the spot. Um
+there's a really famous uh Supreme Court
+case from the mid1 1990s
+um where the US Congress passed a law
+requiring age verification for uh adult
+content and the the ACLU uh sued and
+went to the Supreme Court. Uh, and the
+findings in in the case were that there
+was effectively no way for someone to
+digitally assert their identity at all.
+&gt;&gt; Um, and and and the law was struck down
+as a result. So, we've we've moved from
+a a world where uh the the internet and
+our digital selves were maybe like a uh
+an accessory um and and and it's it's
+become a a world where most of my
+transacting uh much of my interacting uh
+much of who I am and what I consume and
+what I do is done online. Um and our uh
+our our infrastructure hasn't kept up.
+Um so when we think about digital
+identity today, I guess the summary
+there is you're really thinking about
+workarounds. Um you're taking, you know,
+the the the physical ID card you have in
+your wallet. That technology was 1915.
+Um, the British created the photo ID
+because they were worried about German
+spies in uh, the first great war. So,
+you're taking a 1915 bit of tech, you
+are digitizing it with uh a 21st century
+bit of tech that you own
+um and digitizing your face also with
+that userowned piece of technology and
+creating this kind of wacky workound uh
+for a system that just doesn't reflect
+the way that we live our lives today.
+&gt;&gt; Wow. So if you actually look at the the
+evolution of technology and and if we
+look at the two capabilities one of
+verifying identities digitally so doing
+that matching and then on the other hand
+the technologies that are looking to
+circumvent these identities. Can you can
+you give me a brief overview of even
+just the last couple of years what have
+we seen sort of in this struggle that
+we've been hearing about?
+So I mean and and kind of back to that
+that concept of a lot of our
+verification is is is a workaround,
+right? It's almost all contentbased.
+&gt;&gt; Yes.
+&gt;&gt; So
+we're we're we're we're looking at
+voice, we're looking at biometrics, and
+we're looking at uh physical identity
+documents.
+&gt;&gt; And all of these are being digitized by
+a consumer device owned by that
+consumer. Um,
+&gt;&gt; so you you have a fundamental
+vulnerability
+um because you're using content
+digitized and produced by hundreds of
+millions of consumers across disperate
+devices in disparate places uh to to
+resolve that identity. And um I I I
+would argue that we're already at a
+place where no one can trust
+usergenerated content without external
+validation.
+Absolutely. Absolutely. And we and we've
+seen uh we've seen somewhat of the
+impact of this already. I think that
+there were some expectation that there
+will be a larger impact especially
+surrounding the the recent elections
+which which I think is just a a we're
+just it will happen. I just think it's a
+it's a matter of time. Um, how how are
+you see the impact of this inability to
+trust digital media translating to the
+role of identity verification because we
+rely on I this this ability to verify
+identities so that we can automate a lot
+of these processes like know your
+customer as well as you know just simple
+logging in to different areas. What's
+happening there?
+Yeah. So I I think the the world has to
+and is moving away from contentbased ver
+verification
+as as the paradigm. Um so we're seeing
+an increasing shift towards electronic
+IDs. Um so think you know portable
+digital identities um either from
+private issuers or from you know public
+government issuers where you're you're
+doing a a multi-art verification and
+authentication through you know a device
+with a past key that is known to be
+possessed by the individual associated
+with the identity. Um, so you're you
+we're really seeing a lot of movement
+away from uh contentbased verification
+to a lot of device linked um and and
+portable digital electronic identity
+&gt;&gt; and and so seems to me like that's a
+really big shift. I mean, we've spent
+what it seems to me like the good part
+of the last decade or even two decades,
+you know, really improving on our
+biometric authentication systems to help
+reduce the friction. Do you see a world
+in which we stop doing that and we go
+back to this connection between the
+physical and virtual world?
+Well, I I I think that the all of this
+has always been a workaround because we
+did not have that connection between
+your physical your your you know your
+your meatspace identity and your digital
+identity. Um and and what we're seeing
+is uh private and public uh options
+coming in that offer an authoritative
+binding of that physical identity to a
+digital identity. Um, so I don't I don't
+know that we're I don't think we're
+going to move backwards. I think that's
+a forward movement. Um, but I think
+we're going to get more to, you know,
+why does the government only issue you a
+physical document? Um, why is the
+government not acting as uh the verifier
+of my identity on the internet just as
+they are when I show up at customs in
+Singapore? Um
+&gt;&gt; it's just a you know it's just a place
+that the government is in the 20th
+century uh and you and I are not and
+that gap will close. Interesting. And so
+you see a world in which governments
+come and and look at the workarounds
+that we've built as an industry to help
+reduce friction and digital interactions
+by helping bring they have the the very
+they have the source of truth, right?
+They are sort of the only ones who have
+the source of truth and you're expecting
+them to come in and be able to
+productize that into digital workflows
+whether it's e-commerce websites you
+know you know any you know financial
+transactions etc and be a part of that
+real-time engagement. So I I would say
+not not just governments but but
+certainly governments is as is one of
+them but uh very specifically I'm not
+expecting them to they they are um so if
+we look at uh at India uh so India
+started rolling out ODAR uh in 2009 um
+so there's a biometricbased or
+devicebound
+uh electronic ID that is connected to a
+governmentissued real world identity in
+India 1.1 billion people use it twice a
+month. Um, we look at uh, you know, the
+the the elect the bank ID is is the big
+electronic ID in the Nordics. Uh, I
+think on average uh, Swedish citizens
+use it twice a day. Um, Sing Pass uh,
+this the Singaporean government has
+issued their own electronic ID. So I I I
+it's not whether they're going to do it.
+Uh, there's three billion people on
+Earth that have access to it. What's
+interesting is it's um it's not the
+western world. So uh right it's it's
+it's not the western world.
+&gt;&gt; Why?
+So I I I spent a lot of time in uh in
+Africa in like probably 15 years ago. Um
+and one of the most sort of startling
+things 15 years ago in Africa was there
+were no landlines. Um, right. The the
+southern half of the African continent
+continent pretty much skipped landlines.
+Uh, they they they skipped home
+internet, they skipped landlines. Uh,
+and they had highquality mobile internet
+uh that was much better than what was
+available in the states 15 years ago in
+in all parts of of of Africa. And I
+think we're seeing where uh very
+similarly um there's a lot of uh
+economies are just skipping um you know
+if if you're India for example and it's
+2009 and you don't have a national
+identity card do you create a physical
+identity card or do you create a digital
+identity
+and so you know we we look at India they
+just skipped uh a a national ID card and
+went directly to digital
+Wow. Okay. So, so it's a
+fascinating.
+Are there do you see big risks with this
+con this this construct that linking the
+electronic ID to a digital to a physical
+ID in such a robust way? I mean, what
+are the ways for abuse here?
+&gt;&gt; And and and there are risks. Um and and
+don't don't let anybody tell you any
+different. Um so I I think there's a
+couple of risks. Uh one is, you know,
+you've got a government creating sort of
+the ultimate honeypot.
+Um
+and and that is a risk. Um we've seen
+where like the CPF database in Brazil
+has already been breached a couple of
+times. Um, and that's a you know, we've
+got a every Brazilian nationals PII is
+all in one place in a structured format,
+&gt;&gt; right?
+&gt;&gt; Um, and that that that that keeps me up
+at night. Um, and I think the the other
+big piece of this is um how much do you
+trust your government,
+&gt;&gt; right?
+&gt;&gt; Because the opportunities for
+surveillance, for abuse, um are are very
+real. you're you're letting um this the
+the government into a part of your life
+that most of us have grown used to a
+fair degree of anonymity in um so there
+there's certainly a question about how
+much do you trust your government
+&gt;&gt; right absolutely I mean it's a then the
+honeypot use case I think it's a it's a
+big one from a cyber security
+perspective but but I can only imagine
+that given that as he starts as
+centralized that then there's also a
+bigger opportunities for better security
+and better defensive systems. Yet, it's
+it's an interesting it's an interesting
+game. Um and and obviously I think
+there's so much that we can talk about
+in the space. We only pretty much
+highlight highlighted some of the topics
+um that that need to be dove into. Very
+quickly, how what do you see is the role
+of generative AI and deep fakes over the
+next couple of years
+playing out in the world of digital
+identity?
+I mean, I think we're just going to see
+a continued acceleration. Um, like you
+mentioned, you know, there was there was
+much uh sort of weeping and nashing of
+teeth about the US election uh and the
+vulnerabilities there that that didn't
+really manifest thankfully this goround.
+Um, but you know, I read somewhere
+recently that they estimate there's 20
+developers
+work using generative AI maliciously for
+everyone using generative AI uh to to to
+protect and defend. Um, you know, I
+don't I don't know this how how accurate
+that is, but it feels about right.
+&gt;&gt; Feels feels accurate.
+&gt;&gt; And and to me that just becomes an
+inevitability. Um, so it's it's not if
+uh generative AI reaches the point that
+contentbased verification can no longer
+be trusted, it's when um and we need to
+start moving towards alternate means to
+bind your digital identity uh to your
+physical one and to verify it,
+&gt;&gt; right? And I think we've seen now also
+companies like World Orb, I believe by
+Sam Alman also
+&gt;&gt; coming in and playing in this game.
+Daniel, one thing you're most excited
+about in for the future of digital
+identities.
+&gt;&gt; So, one thing I'm most excited about and
+we didn't get to talk about um is
+inherent bias in a lot of the tools that
+we use today.
+Um so
+what what I'm most excited about is uh
+some of these movements towards
+centralized identity verification um are
+really going to help um vulnerable
+populations and uh disenfranchised
+people. So when you when you look at you
+know the the algorithms that we use for
+facial recognition when you look at the
+data sets that they're trained on um
+they are uh predominantly white and
+male. Um so you see crazy numbers out
+there like um some of the the the uh
+facial verification softwares have like
+a 2.3% error rate on a white man and
+like a 34% error rate on a dark-skinned
+woman. Um because again we're we're
+utilizing workarounds
+um and and those you workarounds are
+trained on data sets that were scraped
+from publicly available photos um which
+are you know largely politicians and
+government figures. So you you've got
+this data set. I think the um the main
+data set LFW that's used to train um uh
+facial matching algorithms is like
+70some percent male and 80ome% white. Um
+&gt;&gt; Wow.
+&gt;&gt; Yeah. I mean it's it's just
+overwhelmingly biased. Uh so no matter
+what kind of corrections you put in
+place and fences you put in place around
+an algorithm that's trained on a data
+set that lopsided um you just end up
+with tremendously poor performance
+across um darkerkinned people uh
+non-caucasian ethnicities uh and and and
+women. Um so when we start talking about
+moving to a more centrally managed
+structured means of digital identity
+verification uh you you do away with a
+lot of that uh because we've no longer
+got a private party that used a publicly
+available data set uh to train its
+algorithm. you're you're moving to um
+you know like NIST has actually um
+demographically
+representative data sets available to
+train uh facial recognition software or
+algorithms. So the the removal of bias
+and the introduction of equity globally
+uh is is something that I am
+tremendously excited about.
+&gt;&gt; Sounds incredibly important and
+incredibly impactful. Uh Daniel, I
+really want to thank you for your time.
+Thank you so much for just even giving
+me a brief introduction into this world
+of yours, which is sounds fascinating.
+And uh wishing you uh you and all of us
+best of luck with this with this
+important endeavor. It's a it's a big
+one for us. So, thank you so much.
+&gt;&gt; Thank you, Michael. It's great to meet
+you and have a great rest of your day.
+&gt;&gt; Thank you so much.

@@ -1,0 +1,599 @@
+computer vision is a relatively a new
+technology
+and
+it's hard and it takes a long time to
+develop and bring it to a level
+where you can put it in shoppers hands
+and so this is one
+but on the other hand you don't want to
+take five years of the development now
+to bring something to market so
+this is also something
+you know identifying what is the minimal
+version the mvp that you really need
+to define and then go for this
+and on later on add more capabilities
+and we always try and
+you know
+think that way
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+welcome to another episode of 20 minute
+leaders today i'm going to be speaking
+to raz golan the co-founder and ceo of
+shopik
+a veteran of the 8200 unit of the
+israeli intelligence corps raz is a
+seasoned product leader with over a
+decade of experience in research product
+management intelligence and r d
+prior to his army service raz started a
+bachelor's degree in the age of 14
+during high school and co-founded
+sikumuna.co.i.m
+israel's largest studying materials
+website
+after completing the army service raz
+has joined checkpoint as a security
+researcher then joined semantics i
+started developing nlp algorithms
+founding team as a vp product
+raz golan welcome to 20 minute leaders
+how are you today thank you michael i'm
+good thank you for having me it's good
+to be here thank you thank you for
+having me uh i love going to the
+supermarket i love the experience i hate
+the the checkout and the whole card
+thing it's it's always such a hassle but
+walking around and the actual experience
+is great and i want to retain that
+experience in the next few years and i
+and i don't want to shop for groceries
+online and so hopefully you'll help me
+do that with shopik
+tell me a little bit about yourself and
+and how you end up working on the next
+generation of the shopping cart
+um well it's quite uh an interesting
+story uh originally i don't come from
+the retail industry at all and i by the
+way really hate going to the supermarket
+uh the way it is today um and uh we're
+trying to solve that
+but uh originally i come from the cyber
+security space this is where i met my
+co-founder iran kravitz
+and uh a few years after the army we
+reconnected and they wanted to start a
+business together this was our dream for
+for many many years um but we wanted to
+be creative and not do it in the cyber
+space uh where our friends went to um
+and he we did uh
+some uh systematical uh
+process of going through different
+markets and exploring different problems
+that we think that are worth solving uh
+and we ended up looking at the retail
+space the physical retail space and we
+said wow we stopped immediately and we
+really wondered how it haven't changed
+dramatically in about a hundred years
+more or less with some um a few upgrades
+in the middle um and we really wanted to
+change things there we thought that
+technology is here and the retailers are
+ready shoppers are obviously ready for
+better technologies and better
+shopping journeys in those physical
+stores
+and we took this challenge
+so you know you have to go pretty much
+the entire spectrum in order to go from
+cyber and internet cyber all the way to
+retail experience and so obviously
+you've had quite an interesting journey
+on the ideation phase so tell me a
+little bit about the systematic approach
+that you went through and and and sort
+of what were the questions that led you
+towards you know figuring out that you
+know the retail space has enough
+capacity for innovation in the in the
+grand impact that you want to bring to
+it yeah so um we looked uh first on from
+the problem perspective uh where do we
+see really really big problems that
+cause
+um a big loss
+or that customers are willing to pay a
+lot of money to solve them
+then
+once we you know map these problems that
+we personally feel a connection to uh we
+started mapping the market seeing who
+are the big players
+are there any uh existing solutions
+trying to solve the same problem or uh
+is it uh you know a new market that
+we're trying to create and then you know
+going down into more and more details uh
+then obviously we got out of the
+building and started talking to relevant
+players
+potential customers
+companies that tried and looked at the
+market
+investors who were friends
+and you know after doing all these
+conversations and drilling down we
+started to get a pretty good image if in
+certain markets for example the
+technology uh the technology was the
+barrier or in certain markets uh the
+business wasn't or the opportunity
+wasn't big enough
+um and this is how we narrowed down
+then got to to physical retail where all
+the parameters
+were right
+the market is huge the technology is
+mature
+uh the customers are willing to pay a
+lot of money to change what they have
+today
+and recently by the way uh throughout
+this journey uh some really interesting
+things happen like uh amazon going from
+online to offline with a lot of force
+opening stores both small and medium and
+showing us what uh you know amazing
+technology and a lot of uh um you know
+fast development can do
+um so it's only increased the level of
+interest and
+the the movement of the market
+you know i actually did a a class at
+stanford on on product management with
+target uh that we were working with the
+target the company looking at innovation
+and retail and it was fascinating to
+work with uh somebody some of the
+executive team they were thinking
+through and then understanding you know
+what the efforts that walmart is take is
+undertaking
+to really rethink the shoppers
+experience in retail and obviously this
+is all in the backlight of of amazon
+purchasing whole foods and and you know
+you can only imagine what's happening to
+the world if you had to distill
+the the pain that you're that you're
+observing and that you're really
+focusing on in just a few sentences what
+did you and iran you know really set out
+to do with shopik
+initially we wanted to solve the problem
+of checkout lines
+but today we look at the entire shopping
+experience
+as the the thing we want to improve
+and basically
+merging
+the online experience in offline stores
+with the offline experience so creating
+this new hybrid experience
+is what we are creating and it solves
+actually many many problems so it
+solves the problem of queues at checkout
+it avoids
+customers abandoning their
+you know carts and walking out the store
+it helps retailers
+get customers who wouldn't have come to
+the store in the first place because
+they know how bad the experience is it
+increases the basket size of those
+customers
+the benefits are just huge
+so
+tell me you know the
+new way the consumers are interacting
+with their shopping
+routine
+now that now that they're using a
+supermarket that has shopping integrated
+with them how does the consumer journey
+look from the consumer side
+yeah so so so the experience is is
+really
+what it's called frictionless shopping
+so you would enter the store
+and then you get our device
+you mount it on your shopping cart
+simple click
+and then using cameras and really
+powerful processors that we have on the
+device we use computer vision to
+automatically detect everything that's
+going in or out of the cart uh you bag
+items as you shop we interact with you
+with offers and coupons and you see the
+full
+uh basket as you shop with full
+transparency
+it can go all the way to
+you know personalized offers based on
+your shopping history and contextualized
+offers based on your location in store
+and what shelf you stand next to
+it's really endless and just like we
+would get in an online website
+uh then when you're ready to pay and
+leave the store you pay on the device
+with either credit card or digital
+wallet return it before you leave the
+store and exit all of our items are
+bagged in the cart use the same card to
+exit
+um and that's it that easy
+if you had to
+pinpoint some of the aha moments that
+a customer like myself that you know i
+would go into for the first time using
+topic what are some of those specific
+moments in the in the store in the
+supermarket that i would just stand
+there and say like what the hell is
+happening here yeah yeah so um i can
+tell you that the moments we liked the
+most uh in our live deployments when we
+saw you know real shoppers interacting
+with the system
+um the most distinctive one is
+when they enter the first item to the
+cart and it's automatically recognized
+um
+usually it's uh the reaction is wow it
+looks like magic
+how it is this working
+um
+because most customers are used to uh
+scan barcodes and we are not reading the
+barcodes we look at the item itself so
+they are
+absolutely amazed by it
+and it happens every time
+and then
+i would say the second moment is a
+checkout when they see that they can pay
+with a click
+two seconds and leave the store it just
+feels uh almost too easy at the
+beginning
+right and so if you're looking now at
+where you are in the journey and you
+know there's a long road from developing
+the technology all the way to you know
+educating a marketing shifting consumer
+behavior
+maybe can you help me pinpoint some of
+those key challenges that you foresee
+on on you know the journey that that is
+a long one
+yeah um
+i think that um
+you know when you begin with a problem
+um it's really broad and then you have
+to
+focus on how you're solving it
+what differentiates you from others
+and how fast can you move and get it to
+market
+and
+i think that at topic and this is what
+really differentiates us
+we have built a whole
+method and approach that is very
+operationally driven
+uh we started the company more than six
+years ago we are very familiar with with
+the retail market
+um and i think one of the best examples
+is that we have learned how operational
+a store is a retail store is
+their margins are extremely thin about
+1.5 or 2 percent at net margin
+and everything is very very well
+optimized so
+we understood that our approach has to
+be around the store we have to build our
+solution around the store and not vice
+versa
+and
+basically everything else followed
+so
+understanding this core
+foundation
+really helped us to build an entire
+platform around it
+and you know get it to market and really
+explain why we think we do it um
+you know unlike any other company in the
+sector
+how critical here do you think is the
+the first to market or the go-to-market
+approach in terms of timeliness versus
+the intellectual
+the intellectual property of the of the
+knowledge and and you know the models
+that you're training here which one do
+you think has a bigger impact on on
+whether shopping will succeed or not
+i think it's a combination because
+computer vision is a relatively a new
+technology
+and
+it's hard and it takes a long time to
+develop and bring it to a level
+where you can put it in shoppers hands
+and so this is one
+but on the other hand you don't want to
+take five years of the development now
+to bring something to market so
+uh this is also something um you know
+identifying what is the minimal
+uh version the mvp that you really need
+um to define and then go for this
+uh and on later on add more capabilities
+and we always try and you know
+think that way
+is is there some race when you look at
+the different players in the world that
+are looking at the shopping experience
+as to who will create the consumer
+behavior that will end up sticking and
+or in other words is there is there a
+reason to believe that there is going to
+be one market leader that is going to
+transform the shopping experience or
+could there be a fragmentation where
+some of the market is using some some
+technology and consumer behavior and
+another fragmented market is is looking
+at another at another use case yeah um
+so definitely segmentation uh there's no
+one solution that fits all
+there are solutions that are much better
+for small type of stores like
+convenience stores
+with a very different type of shopping
+journey you go there for one or two
+items at night really quick in and out
+there are other solutions that are made
+for larger stores where you spend 45
+minutes to an hour and sometimes we
+would even see
+different solutions in the same store um
+right so
+yeah
+so and how how old is shopping now
+a little over six years
+a little over six years and so we're in
+we're in march of 2020 and
+i remember vividly that stanford shuts
+down and i'm exiled from campus and
+you know my favorite stores costco
+target walmart i'm not even able to
+enter them let alone the food aisles of
+any of these tours
+you know where are you like what do you
+what do you do what where do you
+go from there
+um so yeah that was a special moment for
+us first a lot of uncertainty what's
+going on in the world but
+in you know in parallel to that we've
+just uh completed our series a
+um we were thinking about how to expand
+quickly
+and then we started getting calls from
+our customers saying how we can expedite
+our projects timeline because we want to
+get uh your solution to market quicker
+because because we cannot handle the
+amount of customers getting to the store
+so we must have our
+experience more efficient this is one i
+remember that time the checkout no more
+toilet paper yep no more yeah yeah and
+also the the distance between shoppers
+and the interactions they wanted to be
+as independent as possible
+so um we tried to help them
+and so that actually you know you you
+actually had increased demand at that
+time because of you know
+the the the ripple effect of what was
+happening due to the beginning of covet
+right yeah yeah luckily the the entire
+supermarket industry had uh a good
+impact from kovit so yeah luckily we
+uh we growed the company and not vice
+versa
+how do you compare you know on a
+personal level your experience working
+in retail to your prior experience in
+the cyber space i'm coming from the
+cyber space as well and so i i i can
+imagine how different of an experience
+it is you know running a team that is
+looking at retail and this physical
+device hardware and software with a lot
+of you know behavioral economics and
+psychology in mind versus looking at the
+cyber space which has a bit of a
+different
+a different intellectual set yeah yeah
+um well here uh it's everything
+everything surrounds the shopper
+uh and the store uh there are the two
+most important factors in what we do so
+for the shopper we want to deliver the
+best shopping experience and the store
+we want to provide the most minimal
+interaction with the system and
+smoothness in deployment and maintenance
+so i would say it's
+it's very um
+user centric
+um versus very technologically oriented
+uh with cyber you know
+your users in cyber are very different
+uh but it's not a consumer product that
+you're building you're building
+technology for you know
+the fans or attack or whatever but um
+yeah the core is very different
+so which which core are you more
+attached to on a personal level are you
+more attached to you know the
+technological core of really
+understanding the technology whether it
+be computer vision or or you know
+vulnerabilities in cyber or is it more
+about the consumer behavior and this
+complicated supply chain and the
+go-to-market strategies where where are
+you and you know between these two
+worlds so uh it changed uh i'm a
+technologist at heart and in my
+background so uh the technology has
+fascinated me and it will always
+fascinate me uh especially this cutting
+edge new things that we are building
+but on the other hand um you know
+building a business
+and selling to retailers
+is also fascinating and understanding
+their business how they operate and what
+they look uh look at when you know
+evaluating uh our sort of solution is uh
+is also you know area of interest for me
+i can only imagine the the satisfaction
+one may get you know entering a
+supermarket and and just looking at the
+shopping carts and saying i created this
+and this person is having this aha
+moment because of something that i
+created right
+yeah yeah um
+exactly and you know in general building
+something that you can use at the
+supermarket is very nice and easy to
+relate to so
+also when you talk to friends
+um about shopping versus talking about a
+cyber project it's much easier
+it's much more fun to talk about over a
+glass of beer i can completely see that
+happening yeah if you if you go back a
+little bit you know
+pre-army pre-cyber definitely
+pre-shopping
+you know who i want to get to know who
+who roz is you know on a deeper level
+and you know what what really fascinated
+you as a kid where where did your
+curiosity lie
+what really you know triggered your mind
+as you were approaching the world even
+let's say 10 years old
+um
+i think
+i really liked
+science so you know all sorts of
+experiments and uh
+mainly physics and chemistry
+um
+but also um um coding and technology
+like computers and
+um so it was all about experimenting in
+in new things and learning new
+technologies from a very young age
+um
+also during high school
+lots of personal projects with friends
+most of my friends had the same you know
+areas of interest so we liked working
+together
+um we even founded
+a website to share um study materials
+between us that grew and and became very
+popular so it was all about creating
+solving our problems and hopefully
+helping others
+uh and enjoying the process
+i love it and if you had to think of
+you know a few words that if i would ask
+iran or any of the supermarkets you're
+working with how would they describe
+baraz in in a few words what what kind
+of words come to mind
+um yeah this is a good question
+the easiest one of course
+i would say uh first um precision
+um okay yeah i like to look at the big
+picture but sometimes i also really like
+the details just a part of my my nature
+um
+passion i think would be the second
+um
+and uh thirdly optimistic as we have to
+be as entrepreneurs all the time
+i love it
+i want to say that i i'm very inspired
+by these types of of companies that are
+leveraging deep technology for shifting
+consumer behavior if i think of the
+company that i will want to start one
+day and this shopic has a lot of the
+elements that i would be looking for as
+an entrepreneur and i can very much
+relate your own passion and excitement
+for taking you know your technological
+background but then creating a really
+positive impact on on a real problem in
+in a world that is constantly changing
+that so sort of has endless potential
+and and while i think that a lot of
+people may intuitively assume that just
+everything is shifting online we have to
+remember that there are a lot of these
+human experiences that we will continue
+to have for many many many years and
+just because they're in the physical
+world doesn't mean that they don't have
+technological innovation there as well
+and so thank you for spending this time
+with me i really appreciate it and best
+of luck with shopik and i can't wait to
+experience it myself at the supermarket
+thank you very much you're most welcome
+and uh we can definitely schedule a tour
+i'd love that thank you bye-bye thanks
+bye-bye

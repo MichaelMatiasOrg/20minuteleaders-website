@@ -1,0 +1,729 @@
+you not only look at the technology that
+you're working on you're also looking at
+what is coming
+you know ahead of the time uh so what
+are you trying to do
+uh in in the future right because you
+have the whole
+engineering mindset you know with all
+the technology at hand
+as well as the problem at hand but at
+the same time you're looking you're
+interacting with your customers and
+trying to understand their pain points
+right
+then you can easily relate oh okay if i
+apply this technology to this problem
+i should be able to solve this uh issue
+for the customer so this is how the
+uh you know engineering mind thinks
+always trying to solve the problems
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance
+opposed hillel stanford leap and
+birthright excel
+hello and welcome to 20 minute leaders
+today i'm honored to be joined by sriram
+ravinu tala director of r d vmware
+tsurami is director of rnd vmware a
+cloud computing and virtualization
+company
+he runs an r d team across geos that
+provide connectivity and services for
+workloads
+that run on multi-clouds using nsx
+orchestrator
+or that work based on k8's orchestration
+sweram has delivered products that help
+customers focus on the workloads or apps
+rather than on the underlying
+infrastructure
+serums focus has now been to look at sas
+based infrastructure services in a
+multi-cloud scenario
+sriram ravi nutella welcome to 20 minute
+leaders how are you today
+good thank you michael thanks for this
+opportunity i'm doing really great you
+know
+monday morning typically people get
+blues but today i'm so excited you know
+to be on your show and you know to talk
+to you
+thank you very very much i really
+appreciate it and i'm excited in these
+next 20 minutes to
+dig deeper into your own journey you're
+currently a director within the r d
+department of vmware you're looking at
+at cloud computing and multi-cloud
+computing i'm excited to know
+what what the multi stands for and how
+that works in today's the
+you know today's society but i'm also
+curious to pick your brain
+in in you know the aspect of leadership
+and technology
+and and you know being within these
+great organizations and what you've
+learned in terms of managing r d
+departments and what are some things
+that i can
+you know think through and and perhaps
+avoid or
+or take into take into consideration so
+let's start off with
+a little bit about your own journey and
+how how you end up
+director within vmware absolutely
+michael and i'm very happy to share that
+uh journey with you it's it it's an
+exciting journey to you know to be frank
+uh i joined about nine years back with
+vmware you know when it was young
+and i was so excited to be part of the
+uh
+uh the cloud journey right from the
+beginning because you know i came from a
+systems background and now i jumped into
+a software
+only company i joined as a individual
+contributor
+and i i was fascinated by how
+things move and how things actually are
+done from the
+management perspective rather than being
+you know
+doing a certain aspect of uh the product
+so
+that was what actually drove me to
+become a manager
+right and i was able to prove myself and
+and moved laterally into management line
+that's when i realized i did a big
+mistake seriously at the time
+it's not as if you know you you know the
+managers that
+i used to think was you know they sit
+and do orders kind of a thing but
+actually it's it's it's more than that
+it's very tough you're dealing with
+people you're dealing with emotions of
+the people
+right and you have to be really
+confident enough to
+uh do your job the right way so uh
+i actually uh was you know then i got
+motivated
+of course you know uh i got you know
+trainings all that stuff
+then i moved into uh a role in within
+the uh
+organization as a manager um actually
+managing a people of uh
+12 a team a team of 12 people and uh
+today you know i i actually grew
+organically from then onwards and i grew
+my team also you know i hired a big team
+over here as well as in
+in bangalore uh and uh today i'm i'm the
+director
+of one of the teams in vmware and i'm
+very happy that you know i'm working for
+vmware i'm doing the right things
+and vmware is doing the right things and
+i hope you know my journey will still
+continue with vmware
+uh you know to the next level and beyond
+and so when you're looking at yourself
+as an engineer
+and and the leader in the technology
+sphere what what comes to mind so what
+are some
+things that you know are immediately
+apparently when you think of leadership
+and engineering
+sure absolutely so uh one of the uh
+greatest things about being a leader in
+the engineering role is
+you not only look at the technology that
+you're working on you're also looking at
+what is coming you know ahead of the
+time
+so what are you trying to do uh in in
+the future
+right because you have the whole
+engineering mindset you know with all
+the
+technology at hand as well as the
+problem at hand
+but at the same time you're looking
+you're interacting with your customers
+and trying to understand their pain
+points right
+then you can easily relate oh okay if i
+apply this technology
+to this problem i should be able to
+solve this uh
+issue for the customer so this is how
+the uh you know engineering mind things
+always trying to solve the problems
+right so uh with that mind you
+as a leader will make decisions you know
+you'll make all strategic decisions to
+see where the company is heading
+and you know try to basically bring
+these solutions
+to solve those problems and this is how
+you know basically from
+the business perspective you try to be
+you know ahead of
+uh everyone and try to you know give the
+customer what they need but from the
+team perspective as a leader
+right you have to actually know what
+your team strengths are
+know what you can do what you cannot do
+and what is at hand
+so uh with that you know you plan
+for a particular feature or a particular
+problem that you need to solve
+and go with the team you know actually
+it's not just you right
+leader is just you know trying to guide
+the team
+in in the right direction that's all
+it's the whole team that is behind you
+that is making it happen
+right and so when you know i i
+understand that in terms of the strategy
+and
+it makes a lot of sense and now when it
+gets translated to the day-to-day
+so how do we how how does a
+well-functioning team look like versus
+perhaps one that is not going to be
+sustainable in the long run
+yeah i mean that's a good question
+actually so many of the leaders they
+struggle to you know when they move from
+an engineering role into
+uh i mean icy role we call it ic role
+into a manager role uh struggle with you
+know handling the teams
+the reason is when they were uh ics they
+actually were able to handle their own
+problem they were not looking at
+the whole system in a single chart in a
+single frame
+now when you become a manager what is
+happening is you have multiple people
+that you need to manage and still
+deliver what is required for the product
+now what does it entails to is on a
+day-to-day basis if you look at it right
+we
+you know tactically the first thing you
+need to do is of course you know
+your emails are always there you know
+you have to go through your emails and
+figure out what the problems are and you
+you have a dashboard that you create
+you go through the dashboard oh what are
+the problems today that we are seeing
+are there any customers uh that are not
+happy
+when i say i'm not happy it doesn't mean
+actually not happy
+basically are they having any problems
+do we need to solve the problems
+then once you look at the dashboard and
+figure out what
+what you need to do you interact with
+your team to figure out
+okay what is our next few deliverables
+that we are working on
+what is that we need to do to make sure
+this this particular release or this
+particular feature or the product goes
+out on time
+right and then what you do is tactically
+you actually plan that particular day
+going through
+the meetings see you you have meetings
+every day right you know
+especially with during this pandemic you
+know a lot of people get zoom fatigued
+but still you have to make sure the
+business runs as usual
+so what you do is you figure out okay
+yes this particular release what are the
+features that we are working on is all
+working fine but how about what
+you know what comes next so you have to
+plan ahead and figure out oh what do i
+need
+so interact with your uh with your
+architects interact with your
+qe teams interact with your uh product
+managers you know the whole day you're
+mostly interacting with people
+to get all the data you need and then
+you use the data
+basically mine the data and figure out
+and plan
+what you need to do next when i say next
+it can be
+a day or a week or a month you know it's
+all about planning
+now this this brings in uh problems uh
+when you don't handle
+you know this data appropriately and
+actually when you have across your team
+it's it's a little even more challenging
+for the fact that
+you need to be aware of the timeline i
+mean the timings that they are working
+on
+working at as well as you know you need
+to make sure
+they're part of our team right you know
+the basic problem with global teams is
+the teams on the other side they always
+think that oh
+we are not we are not in the uh you know
+um
+world headquarters what does it mean
+that means you know we are always on the
+receiving end
+so you need to break the chain you know
+you need to break the
+thinking saying that no it is not you
+know you're the same team
+here you go you work on this you have to
+give them something independent so that
+they can work on that
+and plan for it and then talk to them on
+a daily basis
+so so these are some of the things that
+i always you know have my dashboard
+go through that and plan talk to people
+and figure out what next
+and how we do it right i i think that i
+think that makes a lot of sense now
+looking at your looking at your
+experiences maybe you have a few
+examples of of specific experiences
+you've had where
+where you know they gave you some
+interesting insight into the world of
+leadership
+or you know entrepreneurship within an
+organization
+or or simply some things that i as young
+entrepreneur can take with me as i go on
+my journey and think
+how can i make most of of my time and
+the most impact
+uh so uh when when i deal with uh uh
+you know teams for example let's say uh
+uh
+when when you as a uh a new person
+wants to actually create a team or
+try to uh build a team or or even an
+uh a company the first thing you need to
+do is
+hey do i have anyone that i can trust
+can somebody trust me and
+believe me in this idea that i'm trying
+to do or believe me in this project or
+a feature that i'm trying to do so you
+need to have that personal relationship
+with you know your people who are you're
+trying to you know
+uh talk to or where you're trying to uh
+team up with
+and then use them actually to act
+the uh brainstorm the ideas that
+brainstorm the features all that stuff
+and then slowly you know once you have
+confidence in what you're doing right
+you should have your own confidence
+and and uh the same way you you
+actually trust your team and then use
+that
+whatever you have come up with right and
+see how you can take it to the next
+level
+the next level can be basically you know
+building a poc it can be
+proving uh that this is what it is see
+for example i'll give you an example
+in in my current role right so we have
+lot of innovation going on in this you
+know public cloud private cloud
+multi-cloud you know we talked about
+multi-cloud you know multi-cloud is
+nothing but a public cloud and a private
+cloud
+as well you know multiple public clouds
+or multiple private loads it can be
+anything
+now we have lot of innovation going on
+uh uh in that area
+especially uh uh with vmware sitting at
+you know the helm of all these things
+now uh we came up with you know uh
+some xyz uh product now i can't
+quote the product but you know came up
+with the product but the thing is it's
+it's
+entirely new so what do we do so i have
+trust in my
+uh uh engineer meaning in my architect
+so we
+tagged together we came up with you know
+we did some brainstorming and of course
+you know
+uh he was the one who ran with all the
+technicals
+and i was the one who was i was the one
+who set up everything
+you know uh from the management
+perspective what to do
+you know how to do so then what we did
+was
+uh once we had everything ready then we
+went to our management saying that this
+makes sense here we go this is where the
+uh
+problem is this is how we will solve
+this right in a multi-cloud environment
+and and uh management was happy and they
+said okay
+we still have to see what you're trying
+to do so we went back
+and i i actually picked a few people you
+know uh from the team who are interested
+in this
+and said you know what i'm gonna shield
+you from the day-to-day
+things of your current project and i'll
+i'll try to manage that
+but you need to work on this hundred
+percent and i actually put them 100 on
+this
+within two weeks we did we did a poc
+and my management is happy wow
+and and we are actually converting that
+into a product
+wow that's very very yeah i mean it's
+and so i
+i guess it's mostly tactical on that
+front yes sorry go ahead
+well i think the one of the big
+takeaways that i'm that i'm taking from
+this you know
+as a manager one of the the amazing
+things that you ended up doing
+uh was being able to understand that you
+have a higher priority right now that
+you have to prove something
+that there's there's urgency there's
+time sensitivity
+there is a specific people that are
+right for the task and being able to
+delegate tasks and to shift shift
+priorities around
+being agile in a in a big corporate that
+that's not an excellent feat to achieve
+right
+absolutely absolutely you know i meant
+right and
+i mean that's that's very good points
+that bring up right you know
+in a big company it is never easy to uh
+you know bring something new
+um as fast as you can uh in a startup
+right because uh startups move very fast
+they are very agile and you know
+uh what we are trying to do here in
+vmware is actually foster that culture
+of
+you know a startup and even though it is
+big
+of course you know we have all the
+processes all that stuff still the
+management is so
+savvy you know tech savvy that
+we always support our engineers and
+believe me when i say this
+vmware always cares about people
+especially engineers and they give value
+to the
+uh the value to the uh all the
+individual contributors all the
+engineers
+and whatever they bring to the table
+takes high priority than anything else
+so that's that's the whole and i would
+say
+magic that happens inside vmware you
+know giving that freedom giving that
+opportunity giving that you know
+basically having that trust
+in your engineers thinking that okay
+they are going to do
+it is where we are today
+right as the empire and of course as i
+mentioned right you know as a global
+leader you know you should be aware of
+all this stuff and you should
+make sure such opportunities are
+available not only to your team
+locally in your headquarters but also to
+your team you know elsewhere wherever it
+is
+that's where they will they'll feel that
+they're included into everything you
+know
+right especially when we're looking at a
+a post-covert world where there's
+obviously hybrid
+situations and teams are naturally
+globally not just because of the
+pandemic but because this is where we
+are
+heading as a society and so i think
+that's something that's definitely uh
+to take into account in in just a few
+words when you're talking about
+multi-cloud environments
+what do you mean by that okay so that's
+a good question so
+multi-cloud environment is if you look
+at uh
+you know few years back all these
+corporates all the big companies they
+had their own data centers
+still they have the data centers but
+what they want is they want something
+called as drs the rss disaster require
+as well as they want migrations all that
+stuff to happen
+so what they're doing now is they are
+saying okay we have our own presence
+in my you know you know private cloud we
+call that private cloud
+now we need something in the public
+cloud tomorrow if something happens
+uh you know god forbid you know dearest
+happens they do have a drs
+site all that stuff but still they want
+to have
+an extra support or extra
+backup for all that you know
+workloads that you're that they are
+working i mean that they are
+running so what's going to happen is
+they have
+uh bought some you know uh probably
+uh space you know as well as memory
+you know network uh uh all that stuff
+some bandwidth all that stuff
+from the public clouds like azure like
+aws like gcp
+right and what they're doing is they're
+trying to connect their private clouds
+with the public cloud so this is the
+multi-cloud environment and you have
+your private clouds you have all these
+public clouds now you want to have
+presence in all of them
+so how do i how do you do it that's
+where you know our
+vmware comes in you know vmware what it
+does is basically it's it
+it has a very big presence in private
+cloud and what it is doing
+is it's saying okay you know what you
+want to get into public cloud
+sure you know use our product you know
+we have a product called vmc
+on aws so use that product right
+and we'll connect you to wherever you uh
+you want so this is how
+uh you know uh this just stuff you know
+what we do of course
+but this is multi-cloud environment
+where we do all the connectivity where
+we do all the orchestration where we do
+everything else that the customers can
+be happy to just you know
+use it sounds amazing sure ramen and i
+really want to thank you for for coming
+here and sharing with me both your
+your personal journey and your insights
+into leadership especially in
+in the big corporate but also the work
+that you're doing sounds fascinating and
+i want to take you back into your
+childhood and
+and ask you what really fascinated you
+as a kid maybe a specific subject in
+school or a passion hobby
+okay so this is this is very uh thanks
+for asking this is this is very funny
+but you know believe me when you say
+this
+my background is is i'm a mechanical
+engineer
+i ended up in you know
+i t you know basically high tech you
+know how it happened
+so when i was uh uh in my fifth grade
+so computers were just coming you know
+ms-dos right that's the first operating
+system that i saw
+and ms-dos came into you know one of the
+colleges near my
+uh school and luckily one of uh
+my relative was the uh dean
+for that particular department and
+that's how i got introduced to computers
+and you know how you know why
+uh i like like the computers i used to
+play prince of persia if you remember
+that
+uh i don't know but you know prince of
+persia used to be my favorite game
+and that's how i got introduced you know
+what what happened you know once i
+played the game it picked my brain
+saying that
+yeah i mean there's this something
+called as floppy so
+of course they were big at the time uh
+but how can this particular thing
+you know run on that that picked my
+brain
+and you know i i actually was pursuing
+my
+uh you know um computers you know
+all the stuff that i uh wanted to learn
+about computers
+on the side from you know my relative
+at the end of the day when i went into
+my college you know engineering college
+i took mechanical engineering for the
+fact that you know
+i i wanted to marry right this
+mechanical stuff
+into uh you know with artificial brain
+you know the
+a that we talk about today you know it's
+called as robotics at the time
+so that was my passion i wanted to do
+that and
+of course you know i did it my undergrad
+but you know at the end of the day
+uh even at home right now i think
+and you know i i do lot of this uh uh
+robotic stuff
+programming all that so that's that's
+something funny you know where i was
+attracted to this
+very very cool and and what inspires you
+today where do you find inspiration so
+uh my inspiration comes from my uh
+teacher
+who actually imported this knowledge
+when i was really young you know when
+when i was in my 10th grade and you know
+there was no google at the time and
+actually yahoo was just setting it up so
+the only thing that i could get
+in from information from were from the
+library or from
+you know my teacher my teacher is a math
+teacher and
+you know he uh actually learned about
+computers all that stuff
+like the way i did but you know he he
+went to a premier institution
+in india called indian staff science and
+which is like a research institute you
+can talk about stanford here it's
+similar to that
+back in india so i learned everything
+from him
+and today what i'm what i'm today is
+just because of him so
+that is my inspiration and he he was
+remember he was
+about to retire five years away from
+retirement but he did not
+he did not stop learning
+that's that's amazing
+wow very very cool and what are three
+words that you would use to describe
+yourself
+well i mean people call me a little bit
+uh
+you know adventurous because
+i always want people to take those risks
+and
+really leave the uh you know whatever
+comes out of it leave it leave it aside
+and you know work towards that yeah
+remember
+when you are adventurous then you try to
+basically invent something
+that's that's what i believe in and i do
+that and of course i'm ambitious
+uh again you know that's the same
+example i i
+always want to achieve something more
+than
+what is right in front of my eyes
+right and and the finally you know uh
+what i heard from my people
+is basically i'm i'm uh very balanced
+and honest
+so it's not that you know i always push
+my team to
+you know deliver something i always uh
+you know be very cognizant to the fact
+that you know i
+i have some empathy of course right and
+i have to show my empathy all that stuff
+and i empathize with you know people
+during these court times how they work
+all that stuff
+so i keep myself balanced you know
+in fact you know if we have a long
+weekend i always encourage my team not
+to work
+and whenever it is required i always ask
+them hey we need to deliver this
+so i'm basically balanced so these are
+the three words i can
+put together i love it
+thank you so much for everything this
+was fantastic thank you for the
+inspiration and stay safe and stay
+healthy
+thanks michael for the opportunity and
+stay safe and
+healthy too

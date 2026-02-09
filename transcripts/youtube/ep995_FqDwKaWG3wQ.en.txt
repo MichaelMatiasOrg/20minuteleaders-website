@@ -1,0 +1,586 @@
+the world has fundamentally changed
+since the first spreadsheet the first
+major spreadsheet Excel was built and
+then since even Google Sheets Google
+Sheets was released 16 years ago the way
+we work now the way we have access to
+data the way we work as teams is
+fundamentally different
+um and so you know the BET behind equals
+is
+what would it look like to build a
+spreadsheet that fits this era's work
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+Bobby Pinero welcome to 20 minute
+leaders thank you so much for being here
+how are you I'm doing great thanks for
+having me Michael really appreciate it
+awesome to have you here you're working
+on on a startup which is in an industry
+that I I really love I love it I love
+you know SAS I love data I love
+connecting to data sources I love when
+people do it for me so that I can
+extract insights and and so I already
+love equals soon I'm gonna love it even
+more because I'm gonna know the story
+behind the equals but before we get into
+that tell me a little bit about yourself
+Bobby a little bit about your upbringing
+and what has sort of LED you to start
+this to start this company
+yeah
+um well so uh I'm uh originally I was
+born in Puerto Rico uh and I lived there
+for the first four or five years of my
+life and moved uh out to the move to the
+U.S moved to uh Washington DC area I
+grew up there
+um and I remember I bought my I saved up
+the first job I had it was a lifeguard
+uh and before that I worked my mom was
+an accountant and I used to go into our
+office and uh do just like little random
+accounting tasks that she would pay me
+to do and all I wanted to do was save up
+to buy a computer and to be able to get
+online and to be able to
+play computer games and uh you know just
+have my own have my own computer it's up
+always have been kind of uh just really
+eager and excited to be a part of the
+internet and be playing with computers
+um and so Tech has always been just a a
+kind of passion and an interest of mine
+and then
+um you know I have the great Fortune of
+going to Stanford for college
+took a class there
+which uh really kind of
+I don't know uh gave me the kind of
+entrepreneurial bug or kind of really
+fortified stuff for me it was the it was
+this uh engineering entrepreneurship
+class that taught by a guy named Steve
+blank who it was in over the course of
+10 weeks you had to start your own
+startup yeah
+I loved it that was like by far and away
+at the end of the 10 weeks you had to
+pitch VCS and like that was that was it
+I was like that's what I want to do
+um this was really it was really really
+fun
+and um and so
+um you know after college I went and
+joined IBM a massive massive massive
+company learned I heard about it I think
+yeah learned in two years that working
+in a 400 000 person company is not my
+jam
+um and then kind of progressively worked
+my way into smaller companies uh joined
+a startup like 100 person startup after
+leaving IBM and then joined
+um God luck and join intercom uh when it
+was 20 people
+uh spent eight years there built
+intercom from 20 people to 700 people
+from less than a million an AR to uh you
+know a couple hundred million in ARR and
+then
+um you know I just feel like I've been
+progressing towards uh this kind of
+point in my journey of being able to
+start my own thing and
+um
+you know now I feel fully aligned to I
+feel like this is exactly what I'm
+supposed to be doing
+what what does that mean you know I I
+that you feel like you're doing what you
+think you're supposed to be doing
+let's let's unlock that statement a
+little bit if you will
+yeah
+um
+but I think for me you know
+um what I've always
+there is so I've been in kind of Finance
+analytical type roles for the last
+decade
+um and I am a very analytical person I
+am somebody who likes to work in numbers
+and data but there's also a part of me
+and uh you know maybe one a part of me
+that wasn't fed as much by the roles I
+was in previously
+um a part of me that that is really
+creative and uh loves to bring a part of
+myself to the world and kind of express
+myself in these creative ways and learn
+not just what it what it's like to run a
+business from an analytical point of
+view but what it's like to
+Market something to sell something to
+build product to
+um you know
+um kind of touch all facets of the
+business and so
+um this
+equals first and foremost is like the
+true extensive it's like the thing I
+wish had existed for myself it's this
+passion project to try to help people
+that are in roles that I'm in it's also
+this creative expression of you know
+myself my co-founder Ben uh the broader
+team uh it's our you know our mark on
+the world and
+um that's I've what I've known I've
+wanted to do for a long long time and so
+um when I'd say it's a line to to kind
+of
+what I want to be working on that's what
+I mean
+all right so let's let's dive into the
+the formation of equals no paint paint
+me a picture of the world two years ago
+you're thinking about you know
+going about a journey
+let's let's sort of you know unfold the
+story of what you understood that that
+led to the to the realization of equals
+yeah
+um
+so equals comes from you know like I
+said I I've been an analyst for the last
+decade uh this is you know I've been in
+the role of the people that we're trying
+to you know solve a lot of pain for
+um and so uh there's a there's maybe a
+few kind of uh seeds that were planted
+um I'll tell you a couple stories one is
+at IBM we use this tool called essbase
+it's an oracle product uh there's a
+plug-in to Excel and it's this olap Cube
+that basically you can
+uh with the click of a button import any
+data that you want into your Excel
+workbook and it has magic it's like you
+know oh my God made it made my life so
+easy as an analyst to be able to pull
+something in no it was right know where
+it came from know that I can reproduce
+it at any point in time because I know
+you know the dimensions upon which I
+pulled this into my my spreadsheet
+and so uh the the thing was at IBM we
+had I don't know how many tens of
+Engineers managing this Oracle s space
+instance for like a team of like you
+know 40 50 Finance folks
+um and so
+just not a reasonable thing for any
+startup to have yeah then
+um
+I went to another company kind of didn't
+have these tools it was painful I was
+building all these like forecast models
+and things like that spending far too
+much of my time just updating them
+maintaining them every Friday at
+intercom for example we did this weekly
+forecast review I'd spent three hours
+every morning running SQL queries
+updating my model I'd forget to update a
+query I'd spend the next two hours
+trying to reproduce the query that I had
+used the last week to make the model
+right because our data had somehow
+changed et cetera et cetera
+so there's all that pain that like you
+know I'd live for the last decade
+and then
+but the the fundamental thesis behind
+equals is that
+the spreadsheet's actually the best way
+to do analyzes people want a spreadsheet
+and
+you know my other big big big
+frustration as an analyst over the last
+decade is just being pitched every data
+tool and every data tool basically falls
+into every new data tool that's emerged
+falls into one of three categories
+yet another bi tool yeah and like God
+help us if we need another bi tool
+notebooks
+right and notebooks are interesting
+there's some really cool ones out there
+but notebooks are you know they really
+serve a tiny tiny tiny fraction of the
+population of people doing analyzes
+and then there's like these spreadsheet
+Alternatives which are like you know
+trying to wage war against the
+spreadsheet and it's like oh we'll give
+you some other way some simpler way to
+model your business and
+you know I'm like no I don't want I like
+the spreadsheet the spreadsheet's great
+most people like the spreadsheet they
+know how to use it they've built their
+career off of learning how to use a
+spreadsheet how to build it it's
+flexible it's this like magical canvas
+that lets you paint and move data around
+and touch and feel it and build
+compounding things and so armhole bed is
+a spreadsheet's not wrong it's actually
+right
+but
+the world has fundamentally changed
+since the first spreadsheet the first
+major spreadsheet Excel was built and
+then since even Google Sheets Google
+Sheets was released 16 years ago the way
+we work now the way we have access to
+data the way we work as teams is
+fundamentally different
+um and so you know the BET behind equals
+is
+what would it look like to build a
+spreadsheet that fits this era's work
+yeah
+and so let's talk a little bit about the
+product and and the connectedness to to
+data sources that's something that you
+know obviously is a is a big deal here
+in in a world and and perhaps we can
+start with just a little bit about you
+know what what I as a as a startup you
+know perhaps
+um experiencing in terms of the way that
+my data is structured and how we can
+actually leverage that to build the next
+evolution of what Excel should be yeah
+so
+you know we've
+um we started with data connecting with
+data
+um because that's just a really obvious
+and painful part of working in in
+spreadsheets today and it's a really
+painful part of how
+every everybody from analysts to
+Founders to marketing Ops to sales Ops
+to Biz Ops and
+um marketers in general a lot of pain uh
+felt kind of across the board there
+um but I guess the thing I'd say is
+um
+the one of the magical Parts about
+equals particularly for kind of uh
+startups uh who we're kind of focused on
+first is
+there's not another data tool on the
+planet that lets you actually connect to
+multiple different data sources and work
+with them all in one place and so if
+you're a Founder you you haven't gone
+through the process of
+uh consolidating all of your data into
+one data warehouse right like Founders
+startups have not
+higher builds bought five Tran they've
+not
+implemented DBT they haven't put all of
+their data into a data warehouse and
+built these like you know uh uh big flat
+tables that then they can join up really
+nicely and they don't have all these
+analytics Engineers that are like you
+know pulling it all and combining it for
+them nicely so real the reality of like
+a Founder is if you want to build an
+analysis that looks at your funnel
+you're going to Google analytics for
+your traffic you may be going to
+mixpanel to understand what's happening
+in your funnel and then you're going to
+strike to see who actually paid you and
+doing that is this like manual nightmare
+it's like okay I'm gonna log into all
+these different places and the results
+of that is you won't do it as often as
+you should you might do it once a month
+you might do it once every couple of
+weeks because it's really annoying to do
+but with equals you just plug equals
+directly into GA to mix panel to stripe
+and then you can use all your
+spreadsheet formulas the things that you
+already know how to do to smash it all
+together to build to build that
+um that funnel view for yourself and
+then you can update it as many times as
+you want as often as you want
+daily hourly
+um and so you just have a much better
+view of kind of what's going on in your
+business and you've done so in a tool
+that's really easy to use that you
+essentially already know how to use
+so how much of it is a sort of a view
+only versus you know editable
+interactive Studio because it sounds
+like a lot of this data is being pulled
+in I'm curious from a product
+perspective how do you how do you
+transition from a from a passive a
+reading mechanism to a more active
+participatory you know data engineering
+type mindset
+well that's actually the the most
+beautiful part about equals and there
+you go I know what to ask
+um well if you think think about like bi
+tools for example if there was a if you
+could build your entire funnel analysis
+in a bi tool that's great uh and you can
+look at it and one of the most common
+things that happens after you build a
+funnel it out build a dashboard in any
+bi tool is
+great but now what happens when this
+when I want to do this or okay that's
+great yeah I see what conversion is
+today but what is what is the lead
+volume going to be tomorrow when we do
+this marketing campaign or a month from
+now or three months from now how many
+leads we have to get to get to this
+number and so guess what you take all
+that data from your bi till you download
+it into a spreadsheet and you do that
+analysis and so the power of equals is
+that it's actually gives you that the bi
+functionality it allows you to build
+these automated views into your business
+but then you can right there alongside
+that automated view not have to go to
+another tool not have to download this
+other thing you can build out your
+analysis from there right there
+alongside it because you have a
+spreadsheet yeah I love it so so
+obviously you know you're you're you're
+the beginning of what sounds like a
+pretty a pretty cool you know journey
+and definitely something that I can you
+know as a potential customer I can see
+the I can I can see the various use
+cases as you as you're taking over the
+the experiences that you've had at
+intercom and IBM et cetera and prior
+you've experienced hyper growth SAS uh
+personally well what are you taking with
+you sort of as a something to keep in
+the back of your mind sort of as the you
+know sort of the chief in command here
+um
+as you're going about building and
+scaling equals around you know from your
+previous experiences
+yeah
+um oh man so many lessons
+um I think the you know uh
+the uh some of the things that are I'm
+taking with me are
+um look like startups especially at our
+stage in the early days of intercom for
+example it's so much about how quickly
+you move you're not going to be right on
+many things that you do you're gonna
+like this is a iterating game this is a
+try as fast as you can as many different
+things as you possibly can see what
+works
+um and so the thing that we're you know
+we continue to talk about internally is
+how do we just how do we try as much as
+we possibly can as fast as we can how do
+we continue to drive you know we close
+the series a and the last thing I want
+that to do for the team is drive any
+sort of create any sort of complacency
+or feelings like hey we've made it or
+we've figured something out uh We've not
+and we gotta go we gotta keep going and
+we gotta
+um you know move even faster now uh uh
+as we kind of uh hire more folks and
+um
+uh um you know get to a different level
+of skill so uh speed is something I
+think a lot about and I think something
+we did really really well in the early
+intercom days
+um
+and then
+you know it really just comes down to
+I know this will sound simple but it it
+really comes down to the quality and the
+types of folks that you bring onto the
+team uh like the team is everything and
+so
+um you know one of the things that we
+did at intercom that I thought was
+really well was just hire
+for people with a you know it sounds
+um
+you know it's it's it's cliche but it's
+uh with a with a steep slope right it's
+people who are on a trajectory in their
+career who are really motivated who are
+really hungry who are really
+um uh gonna go kind of work hard and go
+above and beyond and see this as an
+opportunity to take a huge step in their
+career as opposed to just a kind of
+another
+um you know just another another job
+um and so hiring is is something that
+we're focused on keeping the bar for who
+we hire and who we keep it equals and
+insanely I
+I love that higher higher with the steep
+slope
+I'm gonna take that with me I think I'm
+gonna tell that to my co-founder after
+this so thank you thank you thank you
+for that already tell me a little bit
+about how you know where you are in in
+this journey and how does this fit into
+sort of your vision of yourself as an
+entrepreneur
+yes
+I am uh
+I'm in the you know learning uh how to
+be a you know we we're now 11 folks the
+plan is to by the end of next year
+um you know be anywhere between 30 to 40
+folks uh so we're gonna hire pretty
+aggressively I think that you know I've
+managed teams this big before at
+intercom but one of the challenges for
+me now is what does it mean to be CEO at
+this scale
+um what are the types of things that I
+should be working on what are the types
+of things that I shouldn't be working on
+uh how do I you know plant seeds within
+the company so that and then kind of
+nourish them so that they can take on as
+many things as they possibly can and do
+their best work
+um and so you know just trying to kind
+of figure out how I work uh as a leader
+how I kind of
+um evolve into this next step uh as a
+CEO and there will be many many more
+steps uh beyond that
+that's awesome all right my favorite
+question that I that I am always waiting
+to moments of delight in your own world
+you know in your own day-to-day
+um you know if you're thinking about you
+know what really gets you in this flow
+you know the most effortless
+moments of in in the journey will well
+how you know what what comes to mind
+um
+certainly uh when our customers uh reach
+out to us and you know share some story
+about how equals somehow made their life
+better or uh how they're excited about a
+new feature that we shipped or how they
+uh shared it with somebody else in their
+organization and they got excited about
+it and built something in equals like
+those are those are the moments where I
+feel I guess maybe the most fulfilled
+and the most and maybe a little bit
+different angle than what you were
+asking but those are the moments where I
+feel the most grad uh gratitude and
+fulfillment and excitement for for what
+we're working on because
+again for me the most important thing
+with equals you know obviously we want
+to build a big company obviously we want
+to have a big impact on the world you
+know we want to build we want to
+create great returns for our investors
+for ourselves but the thing that's most
+most most important for me is uh
+just helping analysts and it's like all
+the pain that I've lived as an analyst
+it's like I want to I want to help them
+I want to make their lives better I want
+to give them a tool that's built for
+them that's fun that's light on their
+fingertips that's joyous to use that's
+you know for all the like Engineers got
+GitHub designers got figma product
+managers and you know other folks got
+like tools like notion and Coda that
+they're excited about and they get to
+work in all day every day
+us like
+Finance people Biz Ops people analysts
+type folks we've been stuck in Excel for
+40 years like where's our tool where's
+our tool so that's that's the thing I'm
+most excited about
+um
+and then uh
+just in terms of Flow State for me I
+think you know uh
+the thing that helps me the most there
+is just being really really intentional
+and deliberate every day about what I'm
+working on and what's the biggest
+priority because there's so many things
+that can happen and so
+it's being really clear about what I'm
+not working on and what I am working on
+and that if I can if I can get very
+clear on that then it's actually just
+much easier for me to kind of flow into
+what I'm doing
+I really really love that Bobby thank
+you so much for your time and for your
+energy I really look forward to cheering
+from the side on the Journey of equals I
+appreciate everything and take care and
+and best of luck with this amazing
+journey thanks Michael thanks for having
+me on and yeah any feedback on equals uh
+we'd love to hear it I'll be I'll be
+I'll be ready to give it thank you very
+much thank you thank you

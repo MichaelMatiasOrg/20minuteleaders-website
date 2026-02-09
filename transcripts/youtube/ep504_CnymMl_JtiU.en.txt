@@ -1,0 +1,604 @@
+warehouse we think about something which
+is not sophisticated but it's
+it's need to be handled in a very
+sophisticated manner
+meaning people are walking walking
+uh tens of miles a day in the warehouse
+to bring boxes and lifts
+up and down the boxes and and take the
+relevant item
+items welcome to 20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jay ventures
+a community driven vc fund in silicon
+valley
+in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance
+opposed hillel at stanford leap and
+birthright excel
+and in media partnership with c-tech
+welcome to another episode of 20-minute
+leaders today we're going to be talking
+about how robots are completely
+disrupting
+warehouses fulfillment pretty much any
+supply chain
+meet hanayanovsky cro and general
+manager of kaiju robotics
+hannah started as a commercial lawyer in
+advising and managing transactions in
+the tech ecosystem
+her curiosity led her to change size and
+become an entrepreneur and tech
+executive
+and since 2015 has been focusing on the
+robotics and automation industries
+she is the general manager and chief
+revenue officer of kaiju robotics
+automating solutions for order
+fulfillment
+hannah yanovsky welcome to 20 minute
+leaders the general manager
+and chief revenue officer of cajon
+robotics how are you
+hi michael i'm fine fine happy to be in
+your
+in your show and looking forward i'm
+really excited for these next 20 minutes
+your journey is is so interesting from
+being a lawyer
+to being vp legal at another company but
+now
+working in robotics and and warehouses
+and
+logistics and optimizations i think
+that's going to be so interesting
+and for us to talk hannah before we dive
+into the world of robotics and
+warehouses and logistics tell me a
+little bit about your own personal
+journey
+and and how you ended up even in this
+space
+okay sure gladly um as you said i
+started as a commercial lawyer
+from a very young age and the commercial
+aspect
+really um really interested me and
+that's why i chose to go to the
+commercial side of the legal
+award and even from early stage i was
+really fascinated from
+um what the entrepreneur and the
+investors and the companies
+were facing and also in my legal
+role i tried to address those commercial
+matters
+broadly and then i took a decision to
+switch part
+and join the world of high-tech and
+business and commercial not from
+just a legal aspect but also from a
+manager and entrepreneur aspects and see
+how
+uh i can um
+influence and and and and and
+be more involved in those commercial
+aspects and business aspects and
+um i started from across border
+transactions and
+m as and been in a global company
+for the business affairs um and
+we had a lot of business not just in
+israel but mainly in china
+u.s and europe um this was my
+journey in the automation and robotic
+industry um
+and in 2019 i joined caja as you
+as you said and cajo robotics uh also
+because it's fascinated me
+the the the industry the the new concept
+and what this company has
+developed um it it is i think a unique
+combination
+that happens rarely of a booming
+industry
+a real need from the customers and a
+real
+product it is new and not same as others
+and this combination made me realize
+that i really want to join this journey
+and this company
+and try to build with together with the
+team
+a global and industrial company since
+then and
+and make the the solution of kaha
+becoming more and more
+familiar with the market so castle
+robotics
+tell me a little bit about for before
+even before kaha tell me a little bit
+about the problem space so
+where are we you know what vertical are
+we in and
+what what big pain point in the world
+are you trying to solve
+okay sure um and we are operating the
+logistic
+market where there are customers and the
+customers can be
+either at the retail themselves
+the readers can be in the fashion
+industry um
+in a pharma industry in other industries
+or
+a 3pl third party is logistic customers
+that
+provide services to many more other
+companies
+were in the same warehouse the same they
+have many many items
+and goods of different customers and
+they serve those customers
+whether it is b2b or b2c meaning whether
+it
+it is something that michael is order
+online
+and they will send it to michael or
+whether it's a chain of company of of
+stores
+and they will send it to this chain of
+stores
+so these are the relevant um industry
+and warehouses and i'm when i'm saying
+warehouses i mean
+huge you you look at the warehouse it's
+it's like you see
+sometimes thousands of meters
+of warehouse warehouse it's really uh
+something that
+until you visit at such a warehouse you
+cannot even
+think how it looks like and the amount
+of goods that they need to handle
+is enormous and sometimes they have one
+warehouse which
+serve the entire and west coast of
+united states
+so just imagine the amount of good that
+they have
+for such a retail a footwear company for
+example
+and how they need to be very very
+efficient
+and optimize everything um and
+they have many challenges in that aspect
+because
+real estate is expensive right um and
+they need to find the
+optimum manner to a
+to handle the the inventory and to
+handle the orders
+uh to make sure that they don't do
+errors and to make sure they
+they handle inbound because all the time
+they have a new inventory coming in
+um so there is a of course fifa and
+other elements they need to handle
+it's it sound warehouse we think about
+something which is not sophisticated but
+it's
+it's need to be handled in a very
+sophisticated manner
+right and another fascinating point
+in my in my uh in my view at least is
+that until now
+95 of those warehouses are handled
+manually in the area of we call it order
+fulfillment
+meaning from the minute that there is an
+order
+from a from the end user
+someone that ordered online or from from
+from their
+store itself and until
+a the order is being picked the relevant
+item is being picked from there
+from their box the relevant box
+after the inventory is placed in the in
+the in the
+in the warehouse it is done manually
+meaning
+people are walking walking tens of miles
+a day
+in the warehouse to bring boxes
+and lift up and down the boxes and and
+take the relevant
+item items wow um
+and this is something which is not
+relevant for people to handle
+in so many aspects um people are not
+willing to do that
+all of our customers no matter where
+they are and
+having a real challenge to find a
+labor to handle that and this is
+specifically a work that needs to be
+handled by robots and machine
+and to make sure that people will handle
+handle different
+tasks in the warehouse which are more
+friendly for human beings
+right yes and and so the robots
+themselves so
+well how does the solution actually work
+robots are involved you're
+i'm hearing that you're replacing a lot
+of the manual labor
+that humans have to do whether it's
+vertically or horizontally within the
+within the warehouses so where how does
+this actually work
+and integrate within the warehouses
+okay i will explain in a nutshell uh we
+have two types of robots
+uh that work in combination and there is
+a
+thought behind those two types of robots
+but what manage the entire operation the
+brain of the solution is actually the
+software
+there is a software placed in the cloud
+with
+a algorithm that manage the entire
+optimization of the warehouse
+it will anticipate what will be the high
+runners
+where to place them what is the backlogs
+of the orders
+when there will be peak if it can be
+anticipated
+and and other other behavior of the
+warehouse
+um it has ai and deep learning and
+it will uh instruct the robots
+uh to where to place the inventory once
+the inventory arrives to the warehouse
+how to reorganize all the time the
+inventory
+in the warehouse meaning to consolidate
+a boxes to place high runners closer to
+the picking station
+to a um swi switch between boxes etc
+the big up or the lift robots will
+take boxes from the inventory place them
+in the warehouse
+and take them from a high shelves to
+lower shelves
+and then we have the small robots very
+very efficient very very
+um fast and they will run in the
+warehouse
+and bring those boxes to the picking
+station wow and the ratio between those
+two types of robots
+will also allow efficiency and
+attractiveness in terms of our
+eye i can talk to talk about it for a
+half an hour now but i did it really
+fast
+um and of course there are the picking
+stations which also manage everything
+smartly so i the entire solution try to
+make sure that the warehouse and the
+order fulfillment is done very
+efficiently
+and a very very in accordance with the
+specific needs of
+this warehouse amazing and so you know i
+think
+the big question here especially when it
+comes to to indoors and robotics is this
+idea of personalization versus the
+generality
+and so one of the things that i'm always
+curious about with these types of
+solutions
+how how generalized are these robots
+because you have
+and i and i'm not sure how many
+different types of warehouses you may
+have
+and let's say a where a walmart
+warehouse versus a foot locker
+warehouse you know is it the same robots
+how much do you have to customize these
+robots to fit the new environment
+okay so we have two types of robots and
+they we do not do a customization for
+each customer but
+compared to other solutions we do have a
+considerably more degree of freedom or
+relatively degree
+a lot of degree of freedom because we
+have several building blocks in our
+solution
+we have the software where we can do
+some customization and we have the two
+types of robots and two type of picking
+station
+so we will receive data from the
+warehouse about the activity
+um and we will provide the customer the
+configuration and the layout of our
+solution with those
+building blocks and some personal
+personalization
+um to address its specific
+uh needs and demands um
+and our solution in one warehouse will
+not look as the
+other solution in a different warehouse
+meaning at the end we will we will adapt
+our solution to the warehouse and not
+vice versa
+but we will do that with our building
+blocks right okay so that that makes a
+lot of sense now as you're
+more strategically thinking you know if
+you if you look at the supply chain of
+how this will at the end
+impact you know both me as an end
+consumer but also the
+the company that is that is managing the
+warehouses
+what it you know how how does this
+impact the world in
+non-trivial ways you know besides the
+really obvious stakeholders
+how is calhoun robotics going to impact
+the daily life of different people
+around the world
+first of all i would like to um to
+comment that during the coffee
+uh at the beginning we were a bit
+stressed but then we saw that
+the ecom was booming so the demand for
+such a
+such a solution is only increasing
+and i think at the end it it changes the
+the behavior of the consumers more and
+more e-commerce done
+by by by the computer itself it affects
+the stores themselves which are and now
+operating more and more from the
+logistics centers
+and less from the stores themselves um
+it affects also in terms of the
+environment because
+you have now one logistics center which
+can handle
+many types of goods or one types of
+goods
+for a large large retail
+um and you have this logistics center
+which will provide
+all the service for the for for the end
+users
+and no need maybe it's good maybe it's
+bad but less and less stores
+less and less need to use electricity
+because our robots can
+work in in the dark less and less air
+conditioning
+and less and less and more and more
+efficient way to use
+the real estate because you can have
+more density
+in in the same warehouse compared to
+when it's manual or when it's in the
+stores themselves
+um so i think at the end it will have
+a great impact on the on the way that we
+will see
+how the entire industry of shopping
+let's call it this way will behave
+uh it starts from real estate uh to
+a shopping centers and to the way that
+those companies will handle
+their inventory and even uh the way that
+they will handle shipment
+it's another environment aspect whether
+they need to ship
+everything to one place uh several
+places etc
+and we see also a trend of micro
+fulfillment
+smaller logistics centers closer to the
+cities to serve the city
+but it can be done outside the city not
+in the middle of the city
+so there are many aspects that will
+influence environmental behavior real
+estate
+and and i think at the end also the cost
+of the customers and the cost of the
+of the of the retails and the in this
+entire industry
+fantastic amazing now one of the things
+that we we very briefly spoke about
+before
+was this idea of planning and this is
+more about your
+own personal journey anna about about
+planning and and
+you know the the interesting balance
+between
+you know being falling in love with a
+plan versus being open so tell me a
+little bit about your own personal story
+um and if i need to think about first of
+all from
+from my personal journey i all the time
+trying to evolve as a person in my in my
+professional career and i moved from one
+one um um path to another
+and i only benefit from that and this is
+from
+personal note but in terms of the
+business itself when
+i have a story to share
+and in 2020 and
+we decided that it's the time to start
+the sales and marketing activities in
+caja
+and there was a plan and the prime
+market was
+a u.s and europe and
+we have a company in israel but those
+were the prime markets and
+we started the plan and i sat with my
+team etc
+it was in february 2020 in march
+everybody woke up today to the covered
+and
+suddenly we couldn't fly we couldn't
+meet customers and europe
+was shutting down u.s later on um
+and we thought what we're going to do
+are we going to freeze all the
+activities of sales and marketing we
+just started
+this activity um and then and
+i i decided and i spoke with my team and
+i said
+let's go and sell in israel we are close
+we are here
+let's do that and we saw a great
+potential also in israel
+and we succeeded in several transactions
+here in israel which were enablers
+to other transactions um and for us
+the the plan the plan was changed to
+work also with partners
+meaning and companies that understand
+technology
+understand the solution and you can
+describe it today to them even
+with the video with the teams and not
+necessarily to arrive and meet them
+and and by this change of concept
+we manage succeed to have several
+a nice transaction in the us
+where we haven't met the customer only
+after a year
+after we signed after we closed the
+transaction
+and it was something that on march we
+didn't think that we could
+we could do um so it it
+the plan changed but it was beneficial
+at the end
+it also made made us realize that the
+the
+system itself is could be handled from
+from remotely which is also benefit
+uh to do it remotely so this is this is
+an example how
+you have a plan but then you have
+something so dramatically the change the
+plan but at the end it can be also
+good results i i
+love it and hannah i really want to
+thank you for coming on the show and
+sharing the story of both yourself and
+also
+robotics i have no doubt that this is
+where the world is heading and
+um you know besides just the you know
+the way that it's impacting at the end
+the people the actual laborers
+in in the warehouse it's impacting the
+entire supply chain in very dramatic
+ways
+both in terms of efficiency in terms of
+consumer expectations
+in terms of prices and and and so all
+around
+i mean definitely this is the world the
+world is heading and i really hope that
+is going to be a leading a market leader
+in the segment and so thank you for
+coming and sharing this journey
+and the idea of planning not planning
+when someone when somebody punches you
+in the face you have to change the plan
+and there's nothing else to do
+and it sounds like that's exactly what
+all of you did with caco robotics
+i do have a few last questions about you
+and i want you to take me back hannah to
+your childhood and
+share with me what really fascinated you
+as a kid
+okay um and i think from an
+early age i i was fascinated by music
+it's not that i am so talented in music
+but i really enjoyed
+listening and um and i studied a bit but
+i
+i enjoyed music and i had a
+episode where i liked opera as a child
+and wanted to be an opera singer so
+i tried to do it around the house and
+and
+and obviously i was not too gifted in
+that
+aspect so it was it was not so enjoyable
+for the
+for the family members but it was a
+period of time where i tried to sing
+opera
+i love it and what what inspires you
+today
+in your daily life um at the end i think
+i like that each day is different from
+the other
+and and each day i need to address other
+um things and sometimes it can be
+relevant for external
+to the company customers and suppliers
+sometimes it's
+a internal aspect hr
+and other internal matters inside the
+company sometimes it's financial
+sometimes it's
+sales and marketing so i really like the
+diversity of everything
+um and the need to all the time
+um learn and reinvent myself
+and have new challenges amazing and what
+are three words that you would use to
+describe yourself
+uh i i hope at least that i
+am for the good and for both i'm very
+direct
+and also with my my
+team and my family of course um i have a
+high expectation for myself and from
+those that work with me and for my
+family
+um and i think that i'm a loyal and
+honest i think wonderful hannah thank
+you very very much toda
+best of luck with kaka robotics and and
+i look forward to seeing where this goes
+and thank you for coming and sharing
+this time with me i appreciate it

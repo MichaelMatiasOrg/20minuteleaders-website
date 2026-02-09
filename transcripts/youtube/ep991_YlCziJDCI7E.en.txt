@@ -1,0 +1,1061 @@
+the ability recorder allows you to
+create a recorder you have an iframe and
+you embed that iframe on your website
+and you can ask a series of questions
+they can answer it through audio through
+video and you can capture that
+information it will automatically
+structure the the response for you then
+do the transcription then the analysis
+and then you can pile that into a folder
+and do an anal an analysis welcome to 20
+minute leaders just sit back relax and
+learn from the leaders of today it's a
+journey each one is different unique
+inspiring let's get started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+is that you have such an interesting
+background unfortunately we don't have
+time to dive too deep into it but for my
+from a real interesting hockey career
+the psychedelics too Ai and uh
+specifically a language today with speak
+Ai and looking at how do we extract
+insights from language which really is
+the foundation of everything that we do
+the whole way we communicate in our
+world is through language and and it's
+kind of mind-blowing how little we still
+today leverage information from the
+language we have around us whether it be
+from an organizational perspective a
+personal perspective and so I'm excited
+to talk to you about the different use
+cases the different opportunities and
+how you're thinking through them and
+running around startups pki so thank you
+very much for being here of course and
+you know I'm just uh glad to be on here
+and fascinated with how you're going
+about this happy to answer anything I
+can hopefully give some insights along
+the way wonderful well let's start 20
+000 feet in the air
+insights from language tell me a little
+bit about your your understanding today
+as to where we're at and what are the
+different opportunities we have with in
+regards to extracting insights from
+language in general yeah yeah I think so
+you've sort of touched on a couple
+important pieces of it then there's a
+lot of excitement right now about sort
+of large language models and sort of
+generation of language but it seems
+today that a lot of the Practical use
+cases applied in business are coming
+from more of a classification extraction
+summarization kind of layer and that's
+been really exciting to me I I sort of
+went on this journey for a couple
+reasons one of them was personal it was
+wanted to be a hip-hop artist and I fell
+in love with language I fell in love
+with conversation I just thought
+communication and the fact that we can
+do this with you know we can make these
+the sort of shapes with our mouths this
+can happen and we can understand each
+other such a beautiful brilliant thing
+and what I realized as I started to
+digitize some of those conversations I
+was doing both audio and video summaries
+and recordings but then I was also using
+system everyone's very familiar with
+there often is Evernote documenting all
+my sort of thoughts journals and I was
+like why is there no sort of system that
+holistically combines audio video and
+text together and then builds like why
+doesn't it resurface insights that are
+coming from that if you're documenting
+so much into these systems there's
+something valuable in there and
+something that should be sort of
+extracted automatically that maybe you
+couldn't identify as a person but is
+very capable for machines to do it so I
+actually fell on this journey from a
+very personal
+interest of how can we do this and in my
+own work I was doing sort of marketing
+and I was at a marketing agency so what
+I was Finding I was doing a lot of data
+visualization of specifically marketing
+data a lot of it was Google search sort
+of keywords Search terms and I found
+something really interesting which was
+like a slight variation to a keyword or
+search term could
+um change someone signing up someone
+buying something or it could just be
+something that was someone was just
+navigating around looking for
+information it wasn't going to lead into
+anything and I found sort of this
+combination of language marketing data
+and then the visualization of that
+information and because it was such
+large data sets that if you sort of
+piece that all together right you could
+display some insights to your client and
+they would have this amazing
+breakthrough and that breakthrough would
+often be around their business but it
+would also maybe even just change their
+entire mind of how to operate sort of
+personally within that business and
+that's what really excited me so
+um you know from that perspective how
+can we
+how can we just process this exponential
+increase of language data that's where
+I'm really interested in and have seen
+sort of several use cases verticals in
+Industries emerge and sort of adopt this
+technology at a high speed over the last
+few years so so let's even even before
+we dive into speaking what are you doing
+there let's talk a little bit about
+these vertical use cases and how some of
+these yeah yeah how some of these use
+cases can come into play in our daily
+lives to either make a positive impact
+or organizations or make a positive
+impact on the end consumers that are
+then being a sort of consumers of these
+organizations products
+yeah I think you know a big separation
+that I've seen and it creates a lot of
+nuances and it is like conversation
+versus written uh text and conversation
+I mean is such a crucial part of our
+Lives both personally and professionally
+and then we start to see the emergence
+of systems that are now driving that so
+when I think of this space I think of
+transcription being one layer of this
+and then a lot of the times the analysis
+being put on that and then you can go
+into specific verticals around that so I
+would say to sort of this idea of like
+vertical Focus versus horizontal Focus
+companies one of the one that comes to
+mind probably familiar with otter AI
+sort of this horizontal transcription
+company that has been adopted which has
+become almost this digital
+record-keeping note-taking system for
+speech for conversations really powerful
+really exciting the challenge is if you
+start to then segment that person who is
+in these conversations into a special
+specific use case that system might not
+be as powerful enough so then you've
+seen the emergence of saying I'm a
+salesperson I want to do that so then
+you see the gong you see the chorus AI
+you see these companies companies that
+are once you go past this horizontal
+layer of value which in that case is
+just accurate capture of data good
+transcription you need to go into the
+second layer I think which is can we
+tailor this to a specific use case in
+industry and can we use data from that
+business to optimize the insights that
+are coming out of it so if gong looks at
+100 calls obviously it's nice to see 50
+calls that went well 50 calls that
+didn't well didn't go well take that CRM
+data push it through and then make the
+insights much more useful compared to
+maybe a horizontal conversation where
+you're sort of throwing insights and
+hoping that some of them hit hoping that
+some of them stick so that's what I'm
+really interested in is this sort of
+verticalization we see sales you see
+customer services see health care but I
+think they're even going more Niche than
+that where it's within customer service
+it's customer user research you're going
+we're just going to continue to see what
+people think is a large industry get
+more and more Niche and more and more
+sort of deep into each one of those
+niches right and so I think you're
+touching on this greater Trend that we
+were seeing from an academic perspective
+which is you know these these larger
+these large language models are supposed
+to have these few shutter one shot cases
+or their ability to respond versus these
+fine-tuned mechanisms where how do we
+take these these Foundation models and
+then fine-tune them to these specific
+use cases like you're mentioning
+um yourself and so if we're looking at
+some specific interesting use cases
+let's say in in healthcare or customer
+service whatever you choose how how do
+you see language dramatically impacting
+the way that an organization runs a
+hospital or runs a customer success team
+how is language going to be an impactful
+part here
+because I think one of the more
+practical adopted cases and there's
+challenges with it because of compliance
+and security but is Healthcare and just
+the you know the time so I think
+actually you've maybe invested I think
+ELO's Health he's seen deep scribe I
+think generally there is just too much
+information and work that is put on
+practitioners who have really important
+things to do and so there's this heavy
+burden and technology has the ability to
+automate or at least expedite that
+process for them so how can you take
+five hours of manual documentation how
+can you take that down to one hour how
+can you take that down to 15 minutes and
+the amount that that frees up for a
+practitioner maybe professionally to see
+more patients to do better work or also
+just spend time in their lives with
+friends and family I think those are
+huge uh you know positive impact on on
+those businesses on how those
+organizations are operating and again
+there's challenges with it accuracy
+there's all this complexity of it but
+generally I think there actually is a
+real world application today that at
+least allows you to speed up the time it
+would take from a manual process right
+and and you're mentioning obviously a
+lot of these more sensitive ideas about
+regulation and compliance and how do we
+then bring not just NLP but technology
+in general into these worlds and and so
+diving deeper into speak Ai and your
+work you you came in with this sort of
+understanding of this motivation saying
+listen there's this blue ocean there's
+all these opportunities all these
+verticals that and all these different
+use cases that we can do
+what was your thesis with speak AI
+oh so it's fascinating especially when
+you build it into a uh you know like I
+love the sort of viewpoint that you have
+from a thesis perspective
+um what I saw from more from outside of
+a thesis what I saw was problems that
+were happening concurrently and a lot of
+the clients that I was working without
+my marketing agency and I needed a
+system to help solve those problems and
+and so I thought that holistically
+combining audio video and text analysis
+together was a valuable so that was one
+thesis was that we actually needed to
+stack speech to text and natural
+language processing together and at the
+time that wasn't when they sort of first
+started this that wasn't as uh obvious
+of a thesis or a thought it was like
+those things were sort of running in
+parallel but then just transcription
+alone would create another you know one
+transcribing something just creates
+another set of problems it solves one it
+digitize things but then all of a sudden
+you have an overwhelming amount of
+information Ten Thousand Words how do
+you process that how do you understand
+that what can you do with that
+information now that it's actually
+transcribed and then on the natural
+language processing beside it was like a
+lot of that technology wasn't advancing
+but there was challenges with applying
+that to speech data and just audio in
+general so the transcription layer was
+needed and that sort of put in a way
+that was the thesis that I had was
+combine it I didn't necessarily have the
+deepest vertical in mind except that I
+was already working with marketing and
+content creation and I saw a lot of
+specific use cases specific to that that
+I wanted to explore and I felt that I
+could transition my clients into that
+software for more of a service model
+which is every agency owner's dream and
+that's where some of this sort of
+started and so the speak AI product well
+what what products are you building
+there that are answering to these ideas
+yeah so speak AI is sort of you know
+luckily I've been able to fulfill some
+of that uh Vision ambition so we've
+built software it has apis that run in
+parallel so companies hook into that but
+is this idea of you know you and I take
+this conversation right now we can
+stream it in or dump it in everything is
+transcribed but and that transcript
+becomes interactive searchable and
+navigatable but there's also this
+insights layer that's put on so we're
+doing an identity recognition extraction
+of entities brands people locations etc
+etc we're also running some sentiment
+analysis on it and we're also
+summarizing it what the layer that we
+find really fascinating I think where we
+sort of gone with ours is we're not just
+trying to analyze a file individually or
+transcribe a file individually we're
+actually aggregating it into a dashboard
+that is sort of updating in real time
+and what we were finding was like Google
+data Studio or Tableau or some of these
+systems had a really tough time sort of
+natively handling audio especially audio
+and video data to produce insights from
+it so
+um where we're spending a lot of our
+time is with I would say just to make
+this list more concrete it's like a
+market research firm market research
+firm comes to us and they say hey we're
+looking for to identify a trending
+flavor across all the food podcasts and
+all the food influencers on Tick Tock
+and Tick Tock and YouTube he would dump
+they would dump that into our system and
+we would basically automatically reveal
+that information for them and that's the
+part that gets really exciting and what
+we've found is a lot of people come in
+with hey I just want to transcribe
+something and we can iteratively extract
+these insights and find this information
+on them so when they dump a big data set
+in all of a sudden it becomes this
+exploratory breakthrough Journey that
+they didn't realize that they were even
+going to have and so that's where we
+find a lot of value Creation with our
+product and get really excited about and
+so we look at just to wrap this up as
+sort of the three pillars capture
+analyze and share and those all work in
+Harmony and if you can't for example
+share the insights in a nice intuitive
+way that other people can see and derive
+value from that's then then the whole
+chain of value is lost so we're spending
+actually a lot of time on the sharing
+part and how can you visualize this
+information and share it in ways that
+are valuable to a client or someone
+who's maybe non-technical trying to get
+insights from this big data set
+so you see we're mentioning the the this
+idea of non-technical user that is using
+this how relevant for them is sort of
+this understanding of language models
+versus their understanding of what
+insights there they they may be able to
+extract from language because a lot of
+it may seem also common sense that we
+have all these crazy data sets or
+potentially yes conversation so how how
+do you sort of treat your your end
+customers here how much what what
+knowledge do you expect them to have or
+do they need to have in order to take
+part and and sort of these language
+models and their real use cases into our
+world
+that I mean that's definitely been a a
+Learning lesson along the way and so a
+lot of people will actually come with
+the base use case of just transcribing
+something for us sure and they don't
+even know sort of what they're about to
+jump into with their application in some
+ways we've had this really wonderful
+breakthrough moment that leads them to
+create more value in the app although
+times are like why are you giving us all
+these insights we don't care sure like
+you're actually getting in the way of a
+use case that we just want to fulfill
+simply
+um but I think what
+the pandemic sort of the digitization of
+meetings and all this stuff has created
+a more General understanding for people
+to maybe not understand a solution to
+the problem but understand the problem
+which was I was just in 25 say meetings
+this week or and there was 2 000 YouTube
+videos I'm supposed to research I can't
+handle all this myself I need some sort
+of tool generally what people come to us
+with is hey I've got x amount of videos
+or audio files or even just big text
+documents I'm looking to find X Y set
+whatever it is and we're help either our
+systems helping them do it automatically
+or what we've actually did given them is
+like the modular building blocks to
+extract that information without needing
+to code I think that's where we found
+some sort of differentiation or some
+value which is
+um you know maybe it's a more technical
+person leading up but they need to
+enable a non-technical team they don't
+care about the language the tech stack
+on the back they don't care about how
+these models work like maybe it comes
+back to this market research firm is
+like all I care is about we find the
+most trending flavors across all these
+videos and we help we help them find
+that and that's all that really matters
+to them and so if we're looking at this
+sort of base layer which really does
+sound like a fundamental use case that
+that all all these companies need right
+which is the other data extraction
+summarization and named entities
+transcriptions
+Etc this is a pretty tough market right
+I mean you have uh for sure these are
+technologies that have been obviously
+built on over the over recent years how
+do you how do you positions speak AI to
+be a differentiating player within this
+Market where you've mentioned a lot of
+the other counterpart players that have
+been around for a while that are also
+giving a lot of these Services how are
+you thinking strategically about
+creating this differentiation for you
+yeah I think one we do look at this sort
+of no code low code
+um sort of mindset like enabling
+non-technical people and I think they're
+generally very thankful for what we've
+enabled them to do because what we
+typically find is there's this weird gap
+between I would say consumer
+applications maybe again some I'll use
+the example even though I love them as a
+company otter which is doing some
+amazing stuff and then now enabling more
+NLP but isn't maybe necessarily letting
+them customize the extraction of
+insights to the level that they want
+versus then hooking into you know AWS or
+Microsoft Azure or leveraging you know
+libraries from hugging face Etc there's
+a whole other sort of technical
+expertise that's required to make that
+next sort of stage or get to Market
+happen we'll sort of sit in this nice
+middle spot where you don't have to have
+the big development team the Big
+Marketing budget and our goal is to get
+you to extraction of the insights that
+are valuable to you as quickly as
+possible without the need for a big
+development team or data scientist and
+there is actually a surprisingly large
+Market there that is looking to solve
+this and so from a go to market
+perspective are you mainly positioning
+yourself selling to these no code teams
+that are less technical or is it may or
+is it the more technical leaders that
+are coming and saying wow I can leverage
+this tool I understand sort of how how
+it's used and what benchmarks it meets
+and now I can now I can bring it to my
+less technical team to use it yeah which
+of these is more relevant for you from a
+go to market perspective it's
+interesting we so we have a really nice
+sort of organic channel that flows into
+search and we get a lot of the literally
+no code people who are trying to do that
+and then a lot of times they'll then um
+throw our system to the more technical
+team member to validate that it's uh you
+know sufficient yeah so if is this a
+suspicious solution and then generally
+the part where we found people want to
+back off or don't want to build is like
+sort of this interactive navigation
+search layer of media it's like you know
+hooking into a couple apis and pulling
+the data out and getting it in Json
+format is wonderful but to build the
+whole like it's a it was frustratingly
+annoying to make the system that we made
+and I think developers if they're
+technical enough and depending on their
+team maybe they want to take that
+Journey on but a lot of times they don't
+and they just want their team to be able
+to have a solution that is providing
+what they want and they'll they'll give
+them like the thumbs up and say go ahead
+with this and then we'll work with them
+to customize anything if they need it
+and so what what are these teams really
+searching for you mentioned that a lot
+of these are coming organically through
+through searching for Solutions so what
+what what Solutions or what problems do
+they usually search for so that they
+come to speak AI is it mainly a Google
+search for transcription of sales calls
+or or is there something or do you find
+them different things so we've built out
+yeah so we've sort of stacked modular
+sort of landing pages out and it could
+be anything from like how to find Brands
+and data sets from a volume perspective
+of search transcription is still the
+biggest driver of just like initial
+looking I have a problem like people
+think this Market is completely
+saturated and this Market is done it's
+not true like people are for the first
+time ever just trying to figure out how
+to solve this problem so that's
+hilarious it's not hilarious to me but
+it's sort of funny that we just see this
+endless flow coming through that
+specific use case but more just as an
+example we've built sort of um
+Solutions within our system that then
+serve the customers that sort of Stack
+into the rest of this workflow for just
+as an example we have this little system
+called the embeddable recorder the
+embeddable recorder allows you to create
+a recorder uh you have an iframe and you
+embed that iframe on your website and
+you can ask a series of questions they
+can answer it through audio through
+video and you can capture that
+information it will automatically
+structure the the response for you then
+do the transcription then the analysis
+and then you can pile that into a folder
+and do an anal analysis so like if
+you're trying to get customers like I'll
+just give you an example from an actual
+customer you know like the government of
+New Zealand has to do public
+consultations on uh like a bill that
+they're going to pass and they want to
+collect audio and video responses
+they'll use this and then organize it
+into this specific Bill and analyze the
+responses to that so that is fascinating
+like uh and that's a huge driver of our
+business we didn't know it at the time
+but it opens up an entire layer and then
+the last part I'll add to that is a lot
+of the systems don't have pre-built or
+play nicely with sort of an integration
+layer so one of our most successful
+things is a zappy integration which is I
+want this recording and the transcript I
+want to send it to an air table row
+automatically every time it comes in
+that our system enables that and they go
+ahead and do that so we've seen sort of
+dual sides the capture side you know and
+then I would say the analysis side so
+try side that those three colors capture
+analyze and then the share part all
+really providing sort of traction and
+growth for our business this capturing
+is a really interesting idea and I'm
+thinking through all these massive
+surveys that we're sending out we're
+asking people to sit down and to to
+choose multiple choice questions and you
+know part of that is that we need this
+to be ultra structured data right why we
+have surveys in the first place very few
+times we're allowing them to be
+unstructured you're basically saying
+let's rethink or we have the potential
+to rethink a lot of these structured
+surveys and turn them into a more
+friendly you know human facing
+interaction where we can let people
+speak freely and then extract these key
+ideas maybe it's not as structured and
+it's not as clean as traditional service
+but but it's but it opens up a new
+medium for people to be able to interact
+with content and to share ideas that
+before was just unusable because we had
+no way of doing anything with this data
+right yeah that's I think we see a lot
+of people who are trying to sort of take
+qualitative information and turn it into
+quantitative information we believe
+that's a huge opportunity and the tools
+are just sort of emerging now to make
+that possible and I think we will see
+more of a trend towards people
+collecting unstructured feedback and
+just you know uh you love those
+structured sort of surveys and responses
+but there's this idea of people just
+free-flowing and telling you what they
+think and the amount of meaningful
+information that can come from that I
+think is is very exciting that makes
+sense
+how's the research integrated into
+um you know for you to be able to
+leverage a lot of these a lot of these
+models and a lot of these solutions to
+your customers how are you looking at
+natural language as sort of a vehicle of
+transformation right it's an emerging
+technology that over the over the last
+five years has been breaking benchmarks
+time time after time every week we
+essentially see new benchmarks being
+broken and new models being put out
+there so how are you positioning
+yourself at this intersection between
+research and usability for the End
+customer well where are you at yeah yeah
+I think it really does depend sort of
+the team size the technical Talent where
+you are in a business I think the way
+that you uh approach this problem and
+for us because we've sort of been lean
+self-funded it took some non-diluted
+funding here in Canada our Focus has
+been to sometimes inherit the advances
+the advances that are being made and
+then customize them to the use cases
+that our customers specifically do and I
+know that I've seen
+a couple of you know good friends in
+this space who have made massive
+Investments for example in building
+speech recognitions from from scratch
+and now the maintenance the cost to just
+keep those sufficient in advancing with
+some of the other systems is pretty
+enormous we you know we chose just
+because of the business that we built to
+try to
+um use some third-party services and all
+of them have flaws all them like in an
+ideal world you're all building your own
+systems to your perfect thing but
+there's a lot of problems along the way
+and then we again sort of customize it
+so we've stacked sort of some
+third-party services and we've built a
+lot of analysis capabilities ourselves
+what we're finding more of our research
+and development is this final
+interaction layer that needs to happen
+so how do you format this data for
+display or how do you take an internal
+data set and flip that into a publicly
+shareable data set in an intuitive way
+so that Technical and non-technical
+people can derive value from it so it's
+sort of this cross section between the
+back end and the front end creating
+value where we've spent a lot of our
+time and from our conversations with
+people who have focus more on the the
+back end these are problems that they're
+really struggling or trying to figure
+out how to solve so I look forward to
+the advancements that are made but it's
+a very messy thing to try to figure out
+how to sort through and find you know
+thousands and thousands of hours of
+audio to get the response or the
+information that you truly care about
+right I think that a lot of the what
+you're getting at is sort of this and I
+think it's a pretty coherent agreement
+amongst a lot of these people that are
+pushing the boundaries on the
+researchers that a lot of these models
+and solutions are going to be
+commoditized from a technological
+perspective right so a lot of these
+today these large language models they
+cost uh dozens of thousands of dollars a
+year to run a single instance of not to
+mention the millions to train them and
+so it sounds like what you're saying is
+we're taking a proactive approach saying
+we're not necessarily going to be in The
+Cutting Edge scene of the research we're
+not trying to push the boundaries but
+but but we find a gap in being able to
+leverage some existing technologies that
+are already quite impressive and how do
+we productize them so that the long tail
+of customers the end users that are
+either technical or non-technical
+they'll have access to them in ways that
+are already good enough to be pretty
+transformative to their own businesses
+and like you're mentioning
+transcriptions have been around for for
+quite some time companies like verbit
+and Otter they've been around for quite
+a few years now but you're saying that
+this is still an unsolved problem not
+from a technological perspective but
+from a productization perspective yeah
+for sure yeah and I I think those
+companies will continue to advance that
+no no none of these companies like
+Amazon and Google and Microsoft they're
+not building these services to what am I
+trying to say like they're going to come
+on they're going to commoditize and
+productize these so there's still a risk
+in that approach that you're taking and
+like we've saw even just as an example
+like Google Docs released um sort of
+like an automatic summarization layer I
+think a few months ago and there was
+entire companies and industries built
+around summarization and in a way Google
+uh you know took a pretty big chunk out
+of that without with just a simple
+single release into the the
+infrastructure that they have so I think
+either you know like you said it's a
+very competitive market I think where
+we're trying to do is stay as close to
+we can as we can to the customer and
+find these like really interesting sort
+of edge cases where it's just not solved
+maybe it's not a big enough priority or
+it's just so unique or Niche that it
+just doesn't seem that there's a a
+driving enough solution forward where we
+often end up in head-to-head battles
+against companies that are maybe more
+capitalized maybe seem more impressive
+on the outside but they just seem to sit
+with us because we care we want to solve
+the problem and we've ended up building
+our system in this sort of modular way
+that allows them to get there
+so until now my my understanding was
+that you are taking a more generalized
+Approach at a lot of these use cases you
+were talking about the capturing the and
+then the the analyzing and then the
+delivering of this information so it
+sounds like a more generalized approach
+but but you're also mentioning the more
+Niche use cases so what's the
+differentiation from your end as to how
+speak AI is is targeting a lot of these
+use cases which will make people stick
+with speak AI even if these larger
+companies come in and and let's say Zoom
+now provides these automatic
+transcription summarization search
+analysis how are you how are you getting
+those customers so just as an example
+there's an awesome there's a really
+talented personalized nutrition research
+firm that we look with and work with and
+so they've sort of custom built their
+account on speak to specifically operate
+around personalized nutrition so just an
+example a category could be ketosis and
+now all of a sudden all the insights are
+tailored to them and so a bit of a big
+project whatever say there trying to
+scrape you know thousands of Amazon but
+looking for certain terms basically
+across Amazon uh Amazon store reviews
+app reviews Twitter et cetera Etc and
+we're like there are listening tools out
+there there are ways to do you could
+push together a bunch of tools to do
+this why don't literally offer them some
+solutions that were possible and they
+said it doesn't work for us because the
+analysis isn't the analysis in their
+system isn't tailored to the
+personalized nutrition work that we're
+doing so they would rather actually use
+our announced our system and then pull
+all that information into ours compared
+to a bunch of different services so I
+think that's where we're starting to see
+is once you build up basically say
+you're talking about ketosis and then um
+analyzing a big data set we'll reckon
+we're finding words that are related to
+that and we're allowing you to
+iteratively build the analysis we're
+saying hey here we recommend you
+including this one in the analysis et
+cetera et cetera that builds up to have
+a point where it's sort of hard to leave
+that system and you're not going to get
+that data back in a structure that
+another company would give you and
+that's where we're finding True Value
+and then returnability and sort of
+continued data dumps into our systems
+where it builds up value over time so I
+think that's what we get excited about
+most
+and you mentioned before something
+really interesting about
+the sort of uncovering insights that a
+person may not be aware that exists when
+they were first starting to use the
+platform so you're mentioning that
+there's these more fundamental use cases
+like transcription that somebody may
+come to speak AI for but then all of a
+sudden they're getting exposed to all
+these different insights that they're
+providing that they weren't necessarily
+expecting before you mentioned the
+negative part of it was saying that
+they're saying well I just wanted
+transcription why are you giving me all
+this all this other information yet yet
+I think part of what I'm hearing is that
+the thesis says that this extra
+information is actually pretty valuable
+and and just because they think the only
+transcription maybe they don't
+understand how they can be leveraged
+leveraging all this other information
+from a product perspective what are you
+doing to help them sort of get there and
+how are you privatizing this in a way
+that that these end customers can can
+learn on the Fly what are the different
+opportunities that natural language can
+provide them
+yeah and it's a beautiful question one
+that we've continued to sort of develop
+and grow with I I would say that what
+you're saying this Insight art is
+essential like it's not just like a a
+nice at the start even it was more of a
+nice add-on like hey this is really cool
+but now with the amount of information
+that is out there it has become just an
+um a very important part of any business
+and I think you're actually missing out
+on opportunities if you're not taking
+advantage of it so generally
+um I mean there's a couple goals for us
+here is always to make the insights more
+valuable you know what I'll just stop on
+this point for a second the word
+insights is a tough word itself like
+it's become this catch-all industry term
+uh and uh you know I well just as an
+example we used to think that entities
+and named named entity recognition was
+an Insight what we found out was that is
+not enough just say hey we found a brand
+it doesn't really mean anything in
+context you know what I mean there's no
+context there so then you need to ask
+how can you stack brand across multiple
+audio files just an example and then
+pair that with sentiment and then find
+related words to that brand then all of
+a sudden you're starting to stack the
+value or what's possible or like what
+you could realize through that
+information so we're just continuing to
+productize the display of this and so
+it's so it doesn't become just sort of
+this entity without context that's one
+one way that we're looking at it I think
+the other part is like we do do
+transcription and Analysis and there's
+an individual analysis but our goal is
+to guide people to what we basically
+call the explore page or the insights
+page which is almost like an aggregated
+dashboard if you're familiar with Google
+analytics familiar with you it's almost
+like that except instead of seeing um
+you know how many people are watching
+your videos you're actually starting to
+see trending keywords or sending
+trending phrases
+Etc et cetera and generally what we've
+found has been if we can get someone to
+that explore insights page at the right
+moment where there's something that's
+valuable it's a little bit of a trigger
+whether it's this little
+transformational moment that they have
+or they realize why we built all this
+sometimes seemingly unnecessary stuff on
+top of this layer
+um that they're doing so I think that's
+another big part that we're doing is
+just continually trying to D
+make it less Technical and guide them to
+the areas where a breakthrough is
+possible and once you have a
+breakthrough more breakthroughs will
+start to come very cool Tyler what are
+you most excited about as you're working
+through these Technologies and you're
+building speak Ai and you're watching
+all these different vertical use cases
+and you mentioned before briefly how how
+enamored you were you were by some of
+these use cases that have evolved like
+with the New Zealand government and and
+so what are you what are you most
+excited about what you're doing right
+now
+yeah so ah man uh I love you know just
+from just a little bit of understanding
+of you you're very driven by curiosity
+and passion and I think that takes you a
+lot of places sometimes takes you on but
+the exact right trajectory you want
+sometimes you can get a little off the
+beaten path uh exploring things but a
+couple things I I am really fascinated
+by large language models I do think
+there is ways that um sort of
+classification and stuff are really
+interesting from a business case but I'm
+fascinated with more generative models
+so I'm playing around with dally right
+now I just got early access to that and
+it's to me it's pretty mind-blowing
+what's possible what I look forward to
+is when we convert that into from image
+to video so entire videos are built with
+large language models I really am
+excited for that stuff to start
+happening and then more generally I I
+think a lot of the analysis that we're
+doing is like sort of retroactive
+analysis across the entire industry
+there's a lot of live transcription and
+captioning and stuff but um I think
+there's a lot more that we can do in
+real time with sort of the analysis of
+what's being said how it's being said
+and sort of helping guide conversations
+helping you get the information Nation
+you need in the moment and actually
+augment conversations to make them more
+impactful and positive and my last part
+I think is just um
+and you know in my other life which is
+my current life is like you know there's
+sort of this hippie spiritual part of me
+so I love going to events I love going
+to you know Burning Man and these events
+really sort of merge technology and art
+and I really think there's a future
+where we augment our own environment
+with our voice
+um to create sort of these personalized
+environments that help us operate at
+Peak productivity Peak Performance Peak
+Wellness that stuff really excites me so
+I see a cross-section of media and art
+and wellness and understanding of
+ourselves all combining here over the
+next few years that makes me pretty
+pretty pumped sometimes I love it and
+Tyler thank you so much for spending
+this time with me I know how busy you
+are and uh and uh I I really appreciate
+your insights both on the the the the
+research oriented piece of it but then
+also the productization and how you're
+realizing this long tail of use cases
+where you know we yeah we have all these
+this great NLP technology and then these
+and these great models but we're still
+so far behind it sounds like Yeah from a
+an industry perspective on the different
+things that we can fundamentally do with
+with with text and speech and it sounds
+that companies that are able to
+productize a lot of these fundamental
+business needs like transcription
+capturing data and then creating these
+basic insights you're then going to be
+able to use the commoditized models to
+be able to provide richer and better
+experiences for your existing customers
+and by creating this trust with your
+brand that they know that they that
+you're creating products that are
+dedicated to their use cases and their
+verticals and then you can continue to
+be ahead of the game and continue to
+provide them with with really
+interesting uh interesting words so
+thank you very very much Taylor I really
+appreciate your time and your energy and
+best of luck with speak AI thank you sir
+foreign

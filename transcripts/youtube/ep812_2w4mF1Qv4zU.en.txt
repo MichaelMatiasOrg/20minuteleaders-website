@@ -1,0 +1,647 @@
+our goal is to have a touchless
+experience you have to talk to a human
+sign up single sign-on with with the
+major provider
+one line install script and then five
+minutes you see what the potential is
+that's the first aha moment
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jvengers a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opus labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to another episode of 20 minute
+leaders today our guest is leon
+cooperman this co-founder and cto of
+cast ai
+formerly vice president of security
+products oci at oracle leon's
+professional experience spends tech
+companies such as ibm tuition and hosted
+pci he has more than 20 years of
+experience in product management
+software design and development all
+through production deployment and today
+we're talking about cloud and really the
+future of computing welcome leon
+cloud computing and and
+in general where we're at today we're
+really at an interesting inflection
+points not only do we see
+so many different
+organizations around the world that were
+previously you know on on-premise
+transitioning to the cloud but i think
+that there is
+a wide understanding that you know this
+is what's happening and this is where
+we're at and obviously covet accelerated
+it and the question has become less of
+should we move to the cloud it's more of
+a how do we do it and how do we optimize
+it and how do we manage it especially
+with billing and devops etc you have
+extraordinary experience and throughout
+your career leading up to cast ai most
+notably um
+vice president of security products oci
+at oracle um but but today you're a part
+of a startup cast ai and i'm looking
+forward to hearing a little bit about
+your your own journey and how you're
+seeing cloud computing
+um take place today and and where we're
+at and and what the opportunities are so
+thank you very much for being here
+hey michael thank you and that's a great
+question and just to kind of give you
+some context my journey was to the cloud
+it was very similar to my customers
+journeys to the clouds you know so you
+know back 20 years ago when i was
+building applications i was deploying
+them in co-location data centers
+at equinix and all the rest just like
+everyone else was doing decades ago
+right and
+the last startup we did which was called
+zenitch we decided because you know lack
+of cap you know you don't have infinite
+funding so you start with a cloud
+deployment and we deployed our is a
+cyber security product that we deployed
+in every region of aws so i don't know
+there were hot like 20 regions 30
+regions whatever
+and the thing so the product did well we
+got really good traction
+with customers and analysts and
+in fact it was acquired by oracle which
+you know led to a great outcome for
+investors but the thing we felt
+miserably on was cloud cost management i
+would have this
+every month me and my ceo would get into
+it because we're like the bill is
+exploding exponentially
+i can't figure it out i i really
+struggled to figure it out for a lot of
+different reasons right and
+at the time in the heat of battle like
+we tried everything reserved instance
+the savings like you name it we went
+through all of those kind of pillars of
+grief um and then i would say that
+ultimately in that cost management
+pillar we failed
+and so uh
+while i was at oracle i kind of saw this
+recurring pattern with customers with
+myself with colleagues with people that
+i knew and i'm like i can't be the only
+person that hasn't solved this cloud
+cost infrastructure problem and it turns
+out to be a massive problem it's like
+the number one existential problem
+for customers moving to the cloud like
+if you cannot figure this part out if
+there isn't a proper financial
+operations environment for the cloud we
+will see backwards movement we'll see
+repatriation to data centers
+and so if we're looking at taking a step
+back and we're looking at billing
+and and how cloud has changed the way
+customers think through billing whether
+it's the
+the timeline the ability to
+to predict um the costs associated how
+is building today different from you
+know building perhaps 15 years ago or or
+what you know how does this change the
+way people are are dealing with consumer
+behavior with billing as we transition
+to the cloud
+michael have you ever seen an aws build
+like you literally have to be a rocket
+scientist to dissect that thing but
+that's not the main problem like you
+could hire some really smart actuaries
+to figure out the bill the problem is
+who holds the keys to the kingdom
+15 years ago how did you build a data
+center well you have to go and ask for a
+bunch of money it was capital
+expenditure or capex so you would say
+here give me 5 million bucks i'll go
+build this out and three data centers
+right the financial team had to sign off
+on that
+the operating expenses were predictable
+and known because they were multi-year
+contracts with whoever your providers
+were the bandwidth provider the data
+center provider et cetera et cetera but
+that completely flipped on its head and
+for good reason the business said
+you know boards and ceos said look we
+want faster innovation so we're going to
+give the keys to the innovators to the
+engineers and
+we're going to figure out the financial
+part out there and it looked like a
+better opex model operational expense
+right so we'll just pay for what we use
+engineers will order
+infrastructure and services and when
+they don't need them they'll shut them
+down and the world is a great happy
+place the problem is is engineers don't
+care about the costs of the resources
+they order they're not it's not one of
+their kpis or any of their kpis they're
+not financially trained right they just
+want to get the engineering job done and
+that's the fundamental
+shift in thought process it's who is
+making the decision
+and it's not the financial folks
+therefore you're going to have very lax
+financial controls and you've seen this
+across all industries now where
+everyone's been hit with a bill
+unexpected and now they're scratching
+their head to figure out processes to
+fix it
+so
+what i'm hearing from you is that
+there's there's a few factors here that
+are contributing to
+to a new situation in which
+people are uncomfortable right there's a
+lack of control there's a transition of
+control
+and
+now there and what with the transition
+of control there's there weren't really
+processes in place to manage it
+and to maintain that same sort of
+rigorous thinking and that same behavior
+from a company's perspective
+in the new world where now engineers are
+perhaps in control they have the keys
+and and at the end the technology is
+what drives the company right and and so
+it's it's hard to argue not to not to
+consume these deployments
+but why
+so what do we do at that point i mean is
+the solution do you think to to regain
+the control to those that are you know
+in the higher management and the ones
+that previously were holding the keys or
+is it to change the way that we think
+through cloud
+billing well what what are the different
+solutions we can present here
+yeah so
+uh the control the solution is not to
+give
+not to create a bunch of gates uh for
+financial folks to
+have to approve everything that's just
+not gonna that'll completely stifle
+innovation and it reduces the promise of
+cloud entirely right so right we might
+as well go back to data centers the
+there is a new kind of breed of of job
+in in startup world and in sas and he's
+starting to proliferate through other
+organizations called fintech so uh sorry
+thin ops kin ops is the process of
+understanding your technology operations
+in the context of the of the bill and
+i've started like even like government
+agencies have started to create a
+thin-ups
+position in their groups
+so the idea there is is you have an
+engineering-minded person that tries to
+understand but michael i there was a
+step in between where people said we'll
+solve this with better reporting let us
+do tagging tagging is a common practice
+in cloud to basically label resources
+for different departments and uses so
+that you can generate a cost report that
+is meaningful per department or per team
+and then so there's a whole wave of
+companies like uh cloudhealth and many
+many others that uh were all eventually
+acquired that just generated reports the
+problem with the reports is nobody takes
+the if there's a recommendation no one
+will take it because if you are an
+engineer and you're responsible for a
+service and you have to get it up in the
+middle of the night if it breaks are you
+going to risk taking a
+operation that has potentially
+destabilizing effect but because you're
+reducing resources that may or may not
+be needed you're not sure right so
+reports are not the answer and they're
+kind of an intermediate step we needed
+to get to in evolution here's the answer
+the answer is automation right we don't
+have enough engineers period in the
+world like we're completely short of of
+engineers less engineers that can speak
+uh cloud
+dialects of aws google azure etc
+world is kind of moving to a
+containerized modern application
+structure
+of microservices
+and so there's a whole cloud native
+movement another set of
+uh engineering learning requirements
+you're putting on these teams so by
+cloud native i'm specifically referring
+to the
+container kubernetes ecosystem
+so the answer is automation and that's
+what we're focused on we're like we're
+going to give you some reports to show
+you how you're doing but the main thing
+we're trying to do is make sure you're
+not overspending systematically through
+machine driven optimizations all of the
+time so the cast solution makes a
+decision every 15 seconds on every
+cluster that it operates against you
+need to add capacity to roof capacity we
+need to swap capacity do we need the bin
+pack what do we need to do to bring this
+cluster into its optimal shape
+without sacrificing service level
+objectives and i i believe that's the
+final goal is the autonomous operations
+of these low-level systems
+so i'm hearing that the thesis that that
+you've come up with is that consumer
+behavior is changing the world is
+changing we're not going back to data
+centers we have to
+make do with the fact that
+you know today the engineers innovation
+runs the company and we need to allow
+for you know engineers and any engineer
+in the organization to perhaps deploy
+cluster and and go about their testing
+and about their their
+everything they're doing
+engineering-wise but
+the key here is to actually do the
+optimizations to reduce the spending and
+to reduce the cloud and yes the you know
+transparency and observability are
+important traits but really it's the
+technology that allows you to actually
+optimize on your bill and that is you
+know cluster based instance based and
+it's not
+restructuring
+the operations of who decides how much
+money to spend and where yeah because if
+you have that automation to put in place
+it's easily
+it's easy to create some role-based
+access
+to
+create those controls and structures
+like the report can go to the financial
+guy now the right person on the devops
+team can make the decisions for what how
+heavily to optimize like what is the
+what does that progress bar look like
+and i'll give you just a couple of
+examples michael like you know most
+devops engineers when they create a
+cluster they pick a computer type and
+instance type in the cloud that they've
+worked with that they know best oh i'll
+use the m5 series because i've been
+using it for the last three years great
+well
+they're not experts on all these other
+lifecycles do they have reserved
+instances do they have savings plans
+that the finance team has already booked
+are there spot instances available that
+are tolerant to their workloads spot
+instances are these things that can get
+taken away very abruptly but maybe your
+workload is super tolerant as a
+microservice so they're not experts on
+all of these cloud financial terms so
+when our when we come in the first thing
+that we do when we analyze a cluster and
+anyone can do this by the way it's the
+free service that we offer um you can
+just sign up and do it
+we tell you like you're using these
+instances they're not actually optimal
+for these and these reasons you know you
+have memory heavy memory recovery um
+workloads you need to kind of skew to
+this way and then we give you the
+the outcome of that analysis which you
+can just go implement yourself but
+that's a point in time implementation
+you know you're going to drift
+immediately like a couple hours later
+your requirements are going to change
+that's why it's so important to have
+automation because
+the minute you optimize yourself you
+will be out of sync within a couple of
+hours
+right i mean it kind of sounds like
+going to rent a car and you're so used
+to your five-seater toyota corolla
+but but now you're just coming alone
+perhaps and you know maybe that's not
+what you need but you take it out of
+comfort because that's what you know and
+you know that it works but maybe you're
+still paying seven times what you would
+pay if you actually used what you needed
+now if you're looking at
+cast ai today in the landscape in the
+cloud landscape walk me through
+your interaction with you know the
+consumer behavior of how you know from
+from somebody who identifies cast ai as
+a potential opportunity for their
+company what is sort of the process that
+they go through until they reach that
+aha moment of okay i'm actually gaining
+value from this
+they're kind of two
+schools of consumer behavior the
+consumer that is already looking for a
+solution and the consumer that doesn't
+know he has a problem and they're both
+really interesting journeys right so
+we're we're entering a potential shift
+in economic
+like outcome in the world like we might
+have slowed down and we remember michael
+we've experienced growth for the last 10
+15 years non-stop right so everyone has
+just been adding fuel to the fire
+cost controls haven't been the number
+one thing on top of boards and ceo's
+minds lately right but what i'm seeing
+since we started casting and maybe it
+took us six months to kind of have the
+world catch up is people are now saying
+okay
+if we're going to go enter a slowdown
+we're going to have to show some gross
+margin improvement we're going to have
+to show
+some cost controls where am i spending
+all my money and to give you an example
+like a company like snapchat a third of
+their revenue goes to cloud spend that's
+third and that's in the billions of
+dollars right so imagine you know like
+that's the most sophisticated user of
+cloud
+where you know where that lies in the
+spectrum so for those personas for those
+people who are looking for a solution
+already they tend to find us because if
+they're kubernetes users so like if you
+have a general workload and you haven't
+modernized your app we're not for you
+and we probably wouldn't find our
+solution but if you're a kubernetes user
+you'll probably find our solution and
+our goal is to have a touchless
+experience you have to talk to a human
+sign up single sign-on with with the
+major provider
+one line install script and then five
+minutes you see what the potential is
+that's the first aha moment then it's
+the too good to be true moment let me
+call someone and figure out where the vs
+is right and that's when we get involved
+we have a sales engineering team and an
+an account executive team they get
+involved they we walk our customers
+through the process and we usually do a
+proof of concept we don't want to charge
+anyone any money if there's not going to
+be value there so we say okay look let's
+do a two week poc we're going to onboard
+your pre-prod or your broad clusters
+we're going to show you the savings
+we're you know we'll show you the money
+from that movie uh with jerry maguire
+and then we end up doing a commercial
+deal after it so that's kind of like the
+first persona and then the second
+persona is
+when they we have customers that see the
+savings report and the reaction is like
+i actually didn't know i needed a
+solution until i saw this like i didn't
+realize how much money i'm wasting right
+those are a little bit harder to get
+because they're harder to like you don't
+know you have a problem why are you
+gonna take a phone call or or like a
+zoom meeting right
+sure right if we're looking now at you
+know where we're headed and we're
+obviously we're talking about the
+consumer behavior that's shifted in the
+last few years pretty dramatically and
+and so i can only imagine you know where
+the world holds for us do you feel like
+we we've reached sort of you know and
+this this is the new evolution of how
+you know
+tech companies are working our companies
+in general are managing their data and
+their innovation this is it or or do you
+expect that we're going to have some
+more dramatic changes that we need to
+that we need to account for
+yeah so i think a lot of it depends on
+like the current
+technology the like delivery model that
+companies are in like there's a big
+movement for continuous integration
+continuous delivery it's typically
+called ci cd
+but not a lot of companies are there
+what i mean by that is they use the
+tools but they release once a week or
+once a month like i mean for me that is
+a terrible way of building software like
+it's a way we built software 20 years
+ago we were 30 years ago when we shipped
+it so i think that transformation has to
+happen fully and we have to enter
+everyone has to understand the service
+team model which i don't think everyone
+does
+this and by the service team model i
+kind of define it as a small team of
+five to 12 people that are specifically
+responsible for a set of micro services
+but they're responsible for everything
+they're responsible for
+the way the service is designed the
+requirements the way it's built the way
+it's deployed all of the devops tasks
+all the way deploying it in production
+and then monitoring it and being on call
+and my theory around this is if you're
+going to be on call for a service you're
+going to be a lot more careful about how
+you write the code and you're going to
+make sure it's covered in tests properly
+that transition has to happen and we're
+not fully there we still have silos of
+qa teams and sre teams and
+i think those are all going to be
+collapsed into a single engineering
+framework um that's kind of one big
+trend that i see michael
+where where are you in all this
+in the world of
+cloud in the world of you know the of
+optimization that you know anything that
+has it with what you're doing where
+where are you in the center of it and
+and why
+why sp why are you spending so much time
+in your career on these problems
+yeah so like this is a kind of a passion
+project for me
+and there's a couple of issues that i
+really hate about the cloud that have to
+get solved right and so my goal
+is to is to solve them like before i
+make my exit stage left uh exit stage
+left so one of them is um
+vendor lock-in i really don't like the
+fact the way that clouds are locking
+customers i i understand why they're
+doing it but i don't like it and there's
+a couple of artificial barriers that
+need to be broken one of them is data
+gravity i am super passionate about this
+you can ship as much data as you want to
+any of the big clouds for free they'll
+even ship you an appliance and say load
+it all up on these ssds and we'll load
+it up for you and you're not going to
+pay a penny but if you ever want to get
+your data out you're done it's hotel
+california like check out
+any time you want but you're never going
+anywhere because it's too expensive to
+go anywhere so
+it's an artificial barrier they charge
+money for egress that they shouldn't be
+charging it's a monopolistic behavior
+that i want to see come to an end and
+that's
+that will give customers the freedom to
+move between infrastructures or have
+multiple infrastructures
+that freeing up of the world is only
+going to lead to greater growth so i
+think these clouds are getting in their
+own way
+artificially and i want to help the
+world kind of see the light on that yeah
+and then the second piece is we are so
+short
+on people and resources and i think
+we're getting to a point in our supply
+chain crunch where
+we are getting to the point where
+moore's law is going to fail like
+you you're familiar with the 18 so the
+idea here is is the computing power
+doubles every 18 months therefore cost
+should have ever 18 months that's only
+logical right number of nips produced
+but if all of your semiconductor
+innovation is centered in taiwan and you
+have all of these supply chain issues
+and this is kind of where i'm spending a
+lot of time writing and researching
+right now michael
+what happens if taiwan goes away and we
+can't get the next generation of micron
+slimming improvements like we can't get
+those wafers any smaller for three to
+five more years because we're busy
+scrambling for just to keep up with car
+shortages and never mind data centers um
+we are going to have a slow down or a
+severe inflection in moore's law and
+that's going to lead to price increases
+not decreases so there
+through automation i believe we can
+solve all this by doing better with the
+resources we have and by the way when
+you shrink a customer's footprint when
+you shrink their bill you're doing one
+really amazing thing they're shrinking
+the amount of electricity they use the
+cooling that they use the water waste is
+generated et cetera et cetera so
+overall we don't need to be spewing
+wasted energy into the environment that
+doesn't need to be wasted it's just a
+better use of the resources we have
+today
+i love it
+all in all it sounds like a fascinating
+world it sounds like a fascinating
+problem that you're tackling and really
+an enabler for companies to continue
+innovating and and creating really
+meaningful products and
+and then i and i can't wait to try it
+out myself and and what i really like is
+the sort of the holistic view of cloud
+and where we're headed and understanding
+the the shift in consumer behavior
+and and where we're at so leon i really
+want to thank you it's been a pleasure i
+really appreciate your time and and your
+energy and the insights and thank you
+for the inspiration and best of luck
+with cast ai and stay safe and stay
+healthy thank you very much
+[Music]

@@ -1,0 +1,570 @@
+I get to spend my days talking to people
+that genuinely want to make the lives of
+their customers their employees their
+peers better and that's internally
+externally and I get to be part of
+brainstorming and delivering you know
+ways that they can solve it not
+everything I can't solve all of the
+world's problems daylight cannot solve
+all the world's problems but within the
+realm we can we get to make an impact
+every day and see things built every
+single day that that that's enough to
+get you up excited you know every single
+morning welcome to 20 minute leaders
+just sit back relax and learn from the
+leaders of today it's a journey each one
+is different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+I am really excited to have you here
+talking about people processors
+digitalization daylight such an awesome
+name for a company by the way as a
+co-founder is you get a lot of the
+credits to that so hey congrats on the
+on building a fantastic companies
+um and I love that that mission
+statement builds digital experiences in
+days not months with daylight tell me a
+little bit about digital experiences
+well what does that mean for you so so
+for us it's really about the idea of
+there's so many times where as a as a
+consumer even as an employee you you
+just want to interact with a business
+and and you want it to be personal the
+so the digital experiences are kind of a
+um a way of representing those
+interactions with a business a process a
+product in a way that's more intuitive I
+know it's gonna longer answer than you
+probably expected but I always use
+examples
+um so you think of the entire tax
+industry and you know there's tax
+Regulators the IRS the CRA whoever they
+are they have a business process but
+it's it's terrible to interact with so
+that whole tax industry exists to create
+a better on-ramp a better experience
+that's conversational that's intuitive
+to actually provide your information and
+ultimately file your taxes so that's
+what a digital experience is and and
+Daylight's focused on uh making it
+accessible and making it so that every
+organization can build that kind of an
+experience in front of any of their
+business processes
+hmm okay so took me six years almost six
+years ago the formation the formation of
+daylight how did this whole thing come
+about how do you even get into this
+world how are you thinking about this
+and how do you how are you thinking
+about this in a scalable way that would
+work for many businesses
+sure well you know I if I if you really
+really want to go back I'd say you have
+to go back almost about 38 39 years now
+uh when my when my partner and I met our
+met each other uh at about five years
+old
+um uh in in a precursor to the the the
+uh boy scouts or Cub Scouts if you're
+familiar with those
+um so we met then I believe we've we've
+been friends you know on and off
+throughout our lives and he's the one
+that had this the initial spark but I
+can tell his story on his behalf because
+I've been doing you know he's my partner
+in crime and uh partner in life so we we
+uh you know we kind of know all these
+these areas but for him the idea came
+out of um what was actually a sad
+experience he his wife
+um you know they they lost a loved one
+and they were at a funeral home dealing
+with all the things you deal with when
+you've lost someone and the funeral home
+in question actually had a service that
+they offered and it's a service where
+they say hey we'll we'll interview you
+about the person that you've lost find
+out you know did they go to college or
+university were they you know were they
+an alumni where did they shop did they
+collect you know reward points did they
+have magazine subscriptions
+and what they're doing is they're just
+having a conversation with you but
+they're using it and all these decisions
+to say oh you went to college you
+probably get the alumni you know credit
+card or magazine and ultimately they
+they when they're done the interview
+they send you a packet a binder full of
+all of the documentation that you would
+need to transfer those miles to cancel
+magazine subscriptions to deal with all
+the things that follow you around after
+you lose someone for years and years and
+can be really painful and and what
+they've done is they've put together
+that binder with all the right forms you
+know the little sticky notes of where to
+sign it so that you can take care of it
+in a single activity all the the
+paperwork is an output of that
+experience which was this conversation
+and it was at that moment that Ryan our
+CEO uh kind of looked at his wife and
+and she knew he had an idea
+um and it was because both he and I had
+worked in healthcare in finance in other
+areas and we had been Building Solutions
+that we're digital you know better ways
+as a marketer I was always building
+better experiences to convert leads you
+know on websites Ryan was working on
+ways of generating tax documentation you
+know
+um police information whatever it was in
+a repeatable way and he realized that if
+you could build a platform where people
+could do that same thing where they
+could say here's the conversation and
+the rules of the conversation that we
+want to have and then here's the output
+of the information however it needs to
+be paper forms API calls then you would
+have something and so again long answer
+but that that was the Catalyst and and
+it to tie it back to me Ryan came to me
+eventually he asked for some help I
+thought that he was uh looking for some
+free labor
+I was working on a few startups of my
+own so I helped him a bit and I told my
+wife about it and then he came back to
+me a few months later and said all right
+this is getting real you know we thought
+I thought that my first interest would
+be small business but they're large
+Enterprises and I need someone to do
+this with
+um and so I went back to my wife and she
+said this is a better idea than anything
+you've had uh I believe in this and and
+she's a conservative one in the family
+you know she's very conservative but
+she's like this is an amazing idea from
+the moment you told me what Ryan was
+working on I thought it was brilliant
+you have to do this it doesn't matter
+we'll make it work
+um and so it was her vote of confidence
+that caught me on board uh and it was my
+my trust in my knowing of just how
+brilliant Ryan was that that all you
+know also sold me
+and so tell me a little bit about this
+identifying a process right if we're
+looking at sort of the big picture here
+um how do you define a process well how
+do you even know what's a process here
+that has the potential to be augmented
+through through digital
+so there's a few things I would say I I
+don't know and you know I I say that to
+our clients where
+the people that we trust the people that
+know it the most are the people that are
+on the front lines in your organizations
+they're the clients either demanding you
+know calling up saying this is what I
+want to do why is it so difficult or
+it's the employees that are in your
+branches that are your customer service
+agents and your call centers who know uh
+when when someone needs this this is
+what I it says to do in the manual or in
+the the handbook but here's what I
+really do so most large organizations
+insurers Banks pharmacies government the
+processes are there it's not necessarily
+that they need discovering the challenge
+has been they have tens of thousands of
+processes and their typical way of
+getting them moving them forward has
+been so slow and so dependent upon them
+waiting in a queue for it or you know
+building a massive budget to say please
+solve mine of the ten thousand please
+this is your mine
+um so they know what they want to solve
+they you know you can't talk to anyone
+that works at a bank they're like oh
+yeah it's just really annoying I have to
+fill out all these forms because of The
+Regulators or you know I have to I have
+to do this seven times over or back and
+forth for a week to get this solved so
+any point where there's that interaction
+between people and you know systems
+whether they're whether that's a paper
+Legacy process a green screen a modern
+CRM or you know policy system you know
+anything
+all of those are processes and the
+question that we ask and that our
+customers are asking is is it intuitive
+can I hire someone and have them do it
+accurately the first time you know on
+their first day here could I move it to
+a customer who just wants to you know
+add a the new child they had to their
+policy do they will they know how to do
+it are they gonna have to read through
+jargon and rules and documents and have
+that fear and anxiety like when you lost
+a loved one that they're gonna do it
+wrong that it's gonna come back to bite
+them your you know vitamin the butt a
+year later so there's no one process
+that's right it's just all of these
+points the knowledge is there can you
+build the decision tree that asks the
+right questions at the right time and
+allows that person to do it and then
+just deliver the data back to the
+organization however they need it
+whether it's as I said a paper document
+a thousand paper documents or a modern
+API calls straight through processing
+that's an output the what daylight does
+is it makes it allows those those teams
+those those knowledge where workers the
+people close to the problem to actually
+build a better input
+so tell me a little bit about the actual
+product of what daily does sure I I kind
+of call it
+um I use a lot of analogies if you can't
+tell already like I'm a story
+um so there's a few things what you know
+sometimes we refer to a low code
+environment but I think that gets
+confusing because there's there's a
+whole category of low code platforms out
+there
+and we're not trying to replace software
+development as a whole and that's what
+the Mandate of some low code platforms
+are
+I the way I tell the quick analogy I
+hopefully quick
+um is think of it like blogging you know
+daylight is more like a blogging engine
+than it is a website builder and the
+reason I say that is
+we put real rails and guard rails around
+what you build with daylight what you
+build with daylight is a little bit like
+a Vizio diagram
+um a process map a decision tree so I'm
+gonna ask these questions what's your
+name where do you live and if you live
+in this state here's my next set of
+questions oh you live in Texas you know
+please tell me about you know I don't
+know some the ranch that you own oh you
+live in uh none of it you know tell me
+about
+um you know the weather protection on
+your house uh so you're building all
+that you're building in daylight is the
+rules of the process the questions you
+ask the rules that determine what the
+next question should be and then you're
+configuring once I've collected the
+right information where do I put it uh
+and where do I deliver it so we're not
+trying to recreate new data models new
+um you know building a new database and
+all these complexities of a full
+application you're just building the the
+knowledge you know that the things that
+the chat checklist that someone does in
+their brain the rules that the policy or
+procedure mandates you do so as a
+product that's what it looks like you're
+kind of just simply mapping out here's
+what I'm going to ask and then depending
+on what they tell me here's what I'm
+going to ask next and that may become
+really complex uh if you're doing a
+really complex claim or you're powering
+a call center or maybe pretty simple it
+may just say hey are you a corporation
+or a sole proprietorship depending on
+which one you are I'm gonna ask you some
+more questions and then we're going to
+help you you know file your
+incorporation papers or file your your
+new Amendment whatever whatever the
+outcome of that process is
+what what did you realize about the
+world that that made this seem like a
+viable business back then that this is
+something that would be used by you know
+many different clients many different
+types of organizations from many
+different use cases
+I think there's there's probably two or
+three things that I learned number one
+so much of the world is still
+ad hoc processes
+um and and and we we sucked as a society
+I'm sorry for the word but we were
+terrible at the first phase of
+digitization so we took sometimes what
+was a good experience like an insurance
+broker coming to your house and getting
+to know you and your family helping you
+you choose the right policy for you and
+we we said okay let's digitize that I'm
+gonna take all those forms that that
+insurance broker ultimately filled out
+and just recreate them online and say
+here go have at it
+um so so we didn't actually capture the
+most important part of that experience
+which was the relationship and the
+knowledge that that broker had we we our
+first thing was we took the outputs that
+they did and said oh anyone can do that
+but meanwhile that's not what the value
+really was so I learned that I learned
+that most organizations have so many
+problems and they know what they want to
+solve but when I talk to them they say
+yeah we we've identified notified
+you know this many problems
+um but we can only solve this many and I
+remember one that always stands out to
+me is when they told me that we had an
+amazing year everybody's so proud of
+what we did but based off of the
+problems we identified this year if it
+takes us this long to do to solve each
+one of them it's going to take us 13 and
+a half years to solve the current
+backlog and so so everyone you know it's
+why it's some of these organizations
+still feel so outdated is because
+there's just so much to do and if they
+keep going about it in the typical way
+they just they just leave things behind
+every year they solve the top the same
+top 10 percent of you know Marquee
+problems and then after three or four
+years they're resolving that again and
+those other things just get left behind
+and then finally I'd say
+I've learned that that whatever it says
+in organizations you know and this goes
+from my own organization whatever it
+says in your your handbook your policy
+your internet
+your people actually know what it is
+um and they're not always the same and
+I'll tie that together by saying on the
+very first project we worked on we got a
+set of requirements from a bank so this
+is a process that of how you transfer
+your you know retirement savings from
+One bank to ours and they asked us to
+build a POC and the first thing Ryan
+actually did this he went to the branch
+and talked to some of the people at the
+branch and said so this is what it says
+what do you actually do and and to a
+person they were they said oh yeah
+that's what it says but you can't do it
+that way otherwise it'll get rejected
+like here's what we do when we actually
+fill it out I never choose those options
+I don't do it this way and we built that
+directly into the experience for that
+POC and that is really what led us to
+win that very first massive Bank when we
+were only two people big as a company
+because
+not only can our product and our
+platform solve the problem we just
+realized that like you just need to talk
+to people and enable those people who
+know it and take their knowledge and
+embed that and you can you can get so
+much more done um so anyway those are
+three of the biggest things I learned
+and it's the type of thing that gets me
+excited every day to have conversations
+like that learn about Industries learn
+about you know experiences and and just
+help make it better what did you learn
+about sort of the messaging and the
+positioning in front of the incumbent in
+front of the
+organizations that are getting
+modernized and digitized what is the
+what did you learn about the interaction
+with them that may that make it more
+helpful to integrate daylight into their
+work or to get them to understand the
+potential of what daylight can offer
+them
+that's a good question it's not done
+yeah yeah we're still working on on on
+improving how we communicate but there's
+a few things
+um one is
+we we lived their role so Ryan was a
+chief Innovation Chief security officer
+I was a VP of marketing we worked in
+healthcare highly regulated Industries
+and
+you know the skepticism that most of
+them have is because they they're always
+promised the moon you know by by vendors
+by by companies and usually it's people
+asking them to make a massive investment
+and a promise that in three five years
+this this machine learning
+um is gonna pay off this new uh upgrade
+of a core system is going to be so much
+more effective in five years and they've
+been burned by that because they know
+either I'm not even gonna I'm not gonna
+be in this role in five years when it
+actually pays off so I'll get none of
+the credit but I'll be blamed if it
+doesn't work out for the next 10 years
+um so what we talk about with them is we
+tried to build our entire company to be
+aligned to their goals which is can I
+build something in a week or two that
+solves eighty percent of the problem can
+I see an Roi or an impact in days or
+weeks instead of years and even at the
+pricing level can we make it so that as
+you're seeing more and more return and
+you know we get a small piece of that
+but it means we're both aligned to Pete
+them actually getting things live and
+when we have those kind of conversations
+when we talk to them about how to use it
+about you know when I talk to them on
+the personal level about like uh when
+you signed up at your organization how
+long did it take you to get all the the
+benefits to get all the the things what
+was the experience like and and what
+would you do to make that better when we
+have those kind of conversations they
+see the value they're still skeptical
+but then it's usually in you know we
+find ways to actually demonstrate our
+value and that that's been a big driver
+for our growth is is when they see it
+and they realize that in the time that
+the competing product or the thing they
+had in-house is still scheduling the
+meeting to talk about the problem they
+have a thing that is live in a pilot or
+in a a poc in those couple of weeks and
+that that's when the team starts saying
+hey this is something different we we
+can we can do a lot here
+interesting where do you get your own
+inspiration and excitement over these
+last six years doing what you're doing I
+first of all I I I wake up like this
+every day I just follow the energy so it
+is partially it is just uh just a
+genetic thing I I I'm an excited person
+I I get my energy from from people and
+ideas and I think Ryan and I share that
+so
+um every day I whether it's an internal
+problem and I'm still obsessive around
+you know asking people what can I do to
+help you you know let's solve this
+problem
+um and the same thing with cios ctOS you
+know heads of business units I get to
+spend my days talking to people that
+genuinely want to make the lives of
+their customers their employees their
+peers better and that's internally
+externally and I get to be part of
+brainstorming and delivering you know
+ways that they can solve it not
+everything I can't solve all of the
+world's problems daylight cannot solve
+all the world's problems but within the
+realm we can we get to make an impact
+every day and see things built every
+single day that that that's enough to
+get you up excited you know every single
+morning
+no no it sounds like it sounds like you
+know what you're doing for the industry
+and for knowing just in terms of
+perception and the the ability to take
+to take such a significant step function
+um it's I think that that's really what
+we're talking about here and finding a
+way to do that didn't rather generic way
+or in a scalable way like you're doing
+with daylight
+um I think that's it it's pretty it's
+pretty incredible especially when it's
+when you go 30 000 feet in there and you
+realize look at this whole digitization
+process and the different challenges
+that are coming with it and the things
+that are working the things that aren't
+as working as well so I think this this
+was very you know interesting for me to
+hear about your own experience building
+daylight and and figuring out how to
+take these different processes and how
+to meet the market and how to understand
+the different challenges that these
+different stakeholders are are having
+the different promises they've had the
+different things that they've faced
+um so it's been a it's I've really
+enjoyed these last 20 minutes and art I
+really want to thank you for coming here
+and congratulations on on building such
+a great company over these last six
+years to you and your your co-founder
+and your other partners and uh thank you
+again for being here for these 20
+minutes I really loved it absolutely my
+pleasure
+[Music]

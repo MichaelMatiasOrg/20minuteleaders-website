@@ -1,0 +1,541 @@
+devotion is not trying to you know be in
+detection tool our goal is not finding
+new things our goal is to be The Driver
+to fix things and basically help you
+focus on your business and not about
+your security
+nurse just sit back relax and learn from
+the leaders of today
+let's get started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+C-Tech
+hello and welcome to 20 minute leaders
+today I'm with Doro name the co-founder
+and CEO of devotion security a cloud
+application vulnerability remediation
+platform devotion revolutionizes the
+process of fixing risks in the new
+environment of the cloud and is backed
+by the load Capital partners with
+participation from Angel Investors
+including former Google ciso and
+Amazon's head of security
+previously their own service general
+manager of security research at Cyber
+Arc uncovering and disclosing critical
+zero-day vulnerabilities to large
+organizations there he founded the rcon
+security conference creating a global
+community of top cyber security thought
+leaders researchers and decision makers
+their own frequently speaks several
+International cyber security conferences
+and is a veteran of the elite Israel
+Defense Forces 8200 unit and has a
+Bachelor's of Science in computer
+science
+[Music]
+thank you very much for being here and
+you're running a really really cool
+company devotion which is devotion and
+that's a beautiful name and I'm really
+excited to a
+um and I'm really excited to talk to you
+about you know the cloud World cyber
+security space you know from
+um from understanding that there is a
+problem to mitigating and remediating
+the problem and from the way that you
+talk about it from finding to fixing
+which which I like the the route and so
+we have a lot to to talk in these 20
+minutes and well we'll see what we can
+get through and so first of all thank
+you very very much for being here Duron
+tell me a little bit about your own
+relationship with cyber security and
+then we'll dive into devotion
+so it started when I was very very young
+and I think that Curiosity was the the
+thing that uh you know moved me uh I
+remember when I was 13 there's the bar
+mitzvah you know when my father and he
+knows that I like he knew that like a
+computer and stuff so he bought me a new
+computer
+and I was very curious to see okay what
+can I do with it so I started playing
+with it overclocking it and this
+computer was very expensive I'm talking
+about like uh
+10K million dollars backluck in the time
+it's a lot of money and but after a week
+or something I just buried it just
+totally
+um
+so uh so it started when I was very
+young my father told me he I was you
+know assuming that he will be pissed you
+know he just bought me the computer I
+just ruined but he came with to me and
+said
+I trust you I know you were learning
+from it and just bought me like a very
+cheap computer and comparing to the old
+one uh and I stayed with it till I was
+18 but I was learning so much with this
+and I think curiosity always you know
+moved me to everywhere that I went and I
+started doing uh uh you know like a
+hacking stuff when I was kid and I later
+on joined to A200
+um
+as I know that you also uh remember over
+there and then uh hey just excited my
+career in the startup company that got
+acquired by cyber and then I was a group
+manager of research for almost five
+years uh
+over at the Privileges to to privilege
+to work with great great people at Cyber
+and doing a lot of good and you know
+presenting around the world and got a
+chance to work and develop
+great people
+now to devotion so they select the
+journey
+I love it well if you're looking at
+um you know your experience of the cyber
+world is is not new
+um and you've experienced the cyber
+world in quite a few different mediums
+from from different sides of the
+spectrum as well we'll say from both
+sides of the battlefield and
+um and if you're looking at when you
+approach the devotion from an
+entrepreneur's perspective obviously
+you're thinking about okay what am I
+going to be devoting the next several
+years to and and creating something
+that's that's not that's not existing
+yet how are you seeing the cyber world
+the different opportunities there that
+led to your conviction on what devotion
+is doing today
+so most of the stories start with I had
+a vision you know had a passion and I
+wanted to do it like it's mostly a
+startup right I don't need to tell you
+baby you hear a lot of people uh I think
+mine was a very different uh in a way I
+I was working for cyberk for five years
+I had a great time I was doing
+Innovation I was doing m a i was working
+with the entire company and I love it
+but I just for myself it was coffee time
+and I said I need time to myself I
+didn't know that I'm going to start a
+company I just I need time to think what
+I want to do and I went to Greece really
+it's a you know all my stories are real
+but it's a real story and uh and I I
+learned I learned just chess there over
+there like 10 days I went I cleaned my
+my mind they were no one actually
+traveled because of kovid and
+I I remember that I used to talk to a
+lot of uh you know systems and and
+security teams around the Beloved when I
+also traveled uh to uh events uh also
+through cyber and
+and I think it got me like I talked to
+people I didn't know what I'm gonna do
+but they actually we are one-sided to
+talk and started talking to more and
+more people I understood that this is
+what I want to do because and I think
+this is like the main thing that I was
+curious about
+it's interesting how I can build
+something like that like this it draw
+like this is that was the driver for me
+because I I didn't know exactly that
+this is the right solution that I want
+to build
+I just wanna
+know if I can solve this problem for all
+these people so I try to to find a
+common sense and when I found this a
+common sense for all of them I was doing
+validation I think more than I made more
+than 50 calls
+two different personas around the globe
+and I realized that and then I realized
+I want to do it so it I didn't have a
+vision but I just started with a
+something that I read you know it's AWS
+and Amazon the big company they talk
+about customer Obsession yeah and yep
+and it's uh and I started like thinking
+about it on the back of my head and
+started to talk to people and I
+understood that if I'll come with the
+idea
+um probably I won't you know I want to
+find the right uh problem for uh myself
+I need to to ask them and this is what I
+did and and it wasn't like you know I
+did I asked them like what are your
+problems we just talked and it just uh
+happened
+incredible okay so let's dive into the
+the problem space
+um that you
+that that you discovered and then a
+little bit about how you started
+executing on it in in a world where we
+have an abundance of cyber attacks and
+abundance of Cyber Solutions yet it
+seems like there's still a gap or a
+vacuum that you realize that exists that
+can be very beneficial for these
+security teams
+exactly so when I talk to this Security
+Guys and csos they told me listen I
+don't need another security tool in the
+cloud I I have I have enough uh scanners
+that scans my containers my
+vulnerabilities my misconfiguration my
+apis I don't need something else what
+what do I need really from you is help
+me solve these issues help me fix them
+and the problem in the cloud is is is
+that you have a bunch of things so that
+you don't know it's the same thing
+you're getting from so many you know
+different vectors and you need to
+understand exactly who is the right
+person to solve it and what you need to
+do and this is basically requires a lot
+of time from security teams today to do
+the context the research find the right
+time and validate it actually being
+solved so the entire mediation in the
+cloud is something that is pretty new to
+the world everyone was very focused on
+okay let's get visibility first which
+makes sense like every other industry
+you want to make visibility and you want
+to be able to know what are your
+problems but now that the world is
+coming into uh to a point where
+you have a huge backlog and backlog
+means attack surface in these days so we
+are helping companies today to solve
+much faster security issues and fight
+the right team the right person to to do
+that
+cross across teams from security to
+develops to Developers
+I love it and and how does that actually
+happen from your perspective so you're
+coming in with the background and your
+understanding so how do you even get
+started in in understanding what are the
+different ways in which I can help these
+teams make sense of all these problems
+and solutions and mitigating them
+so it took time because every every
+company Works differently today there is
+no standard you know how to fix things
+in the cloud vulnerabilities in the
+cloud misconfiguration
+Etc so it took time I think it's like a
+private Market fit you are having like
+an idea of okay this is what I'm going
+to do I'm going to connect to these you
+know security feed I'm going to connect
+to your cloud or to connect to your uh
+development uh pipelines and I'm trying
+to you know bring uh entire workflow you
+know from business are the cloud Rams
+and these are the the radiation step
+that you need to take with this guy so
+the entire Journey takes time to
+understand exactly how everyone works
+and what works for everyone and and what
+integration you need to do what death
+you need to go into the integration so
+it's a lot of you know you go and and
+also I think it's the same today we
+inventing something that does not exist
+really right so there is nothing that
+like running for five years that people
+doing it and you know that you know to
+do one two three we are also very
+careful with the with the market and
+very patient and we see how where it
+goes uh what solution out there what we
+can bring into the solution how
+developers and devops actually you know
+have the responsibility actually shifted
+between them and security and we learn
+it and we want to basically at the end
+of the day fit to these processes and in
+the future also educate exactly how it
+needs to be done and save a lot of time
+automate a lot of Remediation in the
+club
+so talk to me about the founding of this
+company what were yours as a serial
+entrepreneurialism is as an executive
+already in the cyberspace with a lot of
+hands-on experience what were the
+different things that you took with you
+as you founded devotion that you know
+and that that you say okay wow these
+were you know this was a more I guess
+mature way of looking at things that
+that if I was looking at my first time
+as an entrepreneur I may not have even
+realized back then
+so so the first startup that I worked
+with you know the first one after the
+Harvest service was uh was uh I was the
+employee number 10 or something like
+that so I learned a lot and also had the
+privilege to to you know migrate or
+emerge into cyborg so I felt and I also
+took a lot from the founders of cyberton
+of the the old startup I took so many
+things and I also felt it as an employee
+how it feels to you know work in a small
+company and being you know emerging to a
+big company and I think this is gave me
+a perspective again also I I had the
+privilege to manage more than 20 people
+at Cyber so I
+I think it gave me a lot of perspective
+on how employee at Cyber like at a small
+company how he feels what he looks for
+what is the you know right communication
+that you need to build in a small
+company which is very very different
+than you know corporate
+um so I took these tools that I took
+also from the founders and and I took so
+many and I don't know they even you know
+listened to it I never told them you
+know what what one thing I can say that
+they invested in the company so they've
+been making us uh you know
+in the the vaccines but I took so many
+and and I'm very happy that uh and I
+learned and you know I take it a lot I
+took a lot of little things but I still
+learned a lot during the journey and I
+think being a CEO in in a general no
+matter of speaking and every CEO can I
+feel a resonate I think you can resonate
+with that that you don't you don't start
+as a CEO and CEO role is changing all
+the time and it's actually a journey
+that you always do different stuff in
+different phases of the startup so it's
+a very exciting uh exciting role what is
+the part of the role that you're most
+excited about from your perspective
+well uh first of all uh you do
+everything as a you know the CEO from
+the first moment you do uh marketing
+you're doing sales you're doing product
+you're doing
+um recruitment you do everything so I
+I think this is something that you know
+how many times in your life you will run
+sales or you will you know hire PP cells
+you I've never been of episodes I've
+never worked as a salesperson so how can
+I know who's the right Wiki said so it's
+a lot of you know learning you you if
+you were I I think if you were doing
+your
+if you are willing to get help from
+people and listen to them you will make
+a better decisions so we use we have
+more than 21 engine investors
+in our company so every one of them
+bringing uh different kind of skills or
+background and we use this in order to
+you know validate better our candidates
+and making decisions
+Etc so I I think that what I like the
+most is being in the center
+uh and and actually build every other
+operation in the company from scratch
+and let it grow really so it's uh it's
+really amazing yeah that's really really
+cool so let's dive in just a little bit
+into security teams and and the way that
+today you're offering them your your
+your solution tell me a little bit about
+their behavior and how you see devotion
+as a part of their daily tools of
+mitigation
+yeah so today they're consuming
+many events from different tools it
+doesn't help to have you know they don't
+have to need to have many Tools in order
+to have radiation gaps but in order to
+see a full picture of okay what are my
+risks in the cloud they need to jump
+from different kind of uh dashboards and
+different kind of tools some of them
+cover the code the assets some of them
+cover the runtime assets some of them
+cover the cloud environment so it's it's
+it's many layers within the application
+and we suggest to bring everything into
+one place one to get visibility because
+every one of them giving you visibility
+and we are basically unified the thing
+and help you bridge the gap between
+specific security tools but also we are
+consolidating aggregating you're helping
+you focus on what's important so this is
+like the first phase of of of devotion
+journey in security teams let's say
+daily basis work with with the with the
+solution they don't need to jump they
+don't need to talk to their developers
+about okay what are the threats that we
+got from sneak we don't need to jump
+into a cloud rail in in or other Cloud
+native security tools and understand
+what are the feeds that they got from
+there they don't need to jump to API or
+kubernetes security platform to
+understand what are the risk they get
+everything in a very wide context and we
+help them to drive remediation with the
+right owners and with the right action
+items they need to take with with the
+team so as we say today is something
+that you start with the backlog of today
+devotion help you too said okay this is
+on my five top things that I need to do
+today and we are helping you to to to do
+that
+um so I think this is like the Journey
+of devotion tell you exactly what's most
+important right now for your
+applications and these are the things
+that you need to do with your developers
+and devops and we're trying to automate
+as much as we can with this process so
+people will you know get their hands
+when they must and whether or not must
+we can you know open automatically
+tickets PRS Etc so we can drive a
+mediation without the human interpretion
+International incredible and if you're
+looking at the vision of devotion in in
+this world what what is the vision that
+you're setting out for this company long
+term
+so there are so many there are so many
+vectors you know when you start a
+company you can say wow I can I can
+definitely be the you know the seam for
+the cloud you know being one place that
+you have everything in your Cloud
+anywhere driving remediation to the
+right teams
+um
+it's very hard to tell
+um and I'm I'm very like no
+back to Earth in a way there are so many
+vectors that we can take this company
+right now we're working very closely
+with the with security companies in the
+cloud and in the code scanning and other
+that we get through partnership with
+them and I think our
+driver and our goal is to build a lot of
+relationship with the ecosystem so we
+will be able to to I think it's a it's a
+team play today uh in security uh you
+always have new tools you always have
+consolidation between tools and it
+happens a lot between Technologies but
+we have to remember that it's always you
+always have something new that's coming
+up and we want to be on top of
+everything building great communication
+so we'll be able also to grow as the
+market grow and the needs grow for the
+for the customer
+um
+I mean I like I think we you know the
+best way to look at a market is to see
+what happened on other markets and say
+okay this is how it behaves and so for
+example when you fix your
+vulnerabilities in not in the cloud in
+old-fashioned kind of uh you know
+on-premise repositories it's still a
+pain it's still attained so it never
+ends and I think Remediation in the
+cloud is uh is the art and since
+everyone is still moving to the cloud
+there are some organizations that just
+started moving to the cloud the journey
+is very long and we're here to you know
+to to educate exactly how to fix and to
+work with everyone and with every
+technology you know today you have
+kubernetes tomorrow you can have
+something different but for devotion it
+doesn't matter because devotion is not
+trying to you know be in detection tool
+our goal is not finding new things our
+goal is to be The Driver to fix things
+and basically help you focus on your
+business and not about your security
+I love it and Dawn it sounds like such a
+such a cool Journey that you're on from
+being so Hands-On to experiencing you
+know the startup space and then uh and
+and growing within a large company to a
+really uh phenomenal role and obviously
+now you know the entrepreneurial role as
+a CEO changing every day learning and
+harnessing from the insights of 21
+incredible investors and I'm sure that
+you have an even larger community that
+are that are supporting you and guiding
+you and with bringing the humility and
+the humbleness of knowing that you're
+not that you don't know everything and
+um that makes sense obviously but but
+coming with that humility to leverage on
+the great expertise and experience of
+others and sounds like just an awesome
+journey of curiosity which sounds to me
+like and what you mentioned started very
+young so thank you very very much for
+your time and for your energy best of
+luck with devotion I can't wait to to
+continue and you know following from the
+side and sharing from the side and thank
+you very much
+thank you thank you very much
+[Music]

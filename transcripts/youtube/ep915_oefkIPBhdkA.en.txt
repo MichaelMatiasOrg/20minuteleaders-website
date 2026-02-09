@@ -1,0 +1,614 @@
+we can create something that is going
+can input the next revolution we're part
+of enabling the next revolution in the
+cloud
+that's meaningful that's taking the
+world a couple of steps forward
+and the last point is very personal and
+that's the fact that
+this is something that i have a peace in
+like it's mine
+so if i'm going to fail if i'm going to
+succeed that's all going to impact my
+it's very personal
+experience and for me that that's part
+of the effect of
+being in a startup
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+20-minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret corps adventures j ventures
+riverside fm
+fusion vc
+excel j impact leap google for startups
+and hippo and in media partnership with
+c-tech
+hello and welcome to 20-minute leaders
+today i have the honor of speaking with
+eris berkner the ceo and co-founder of
+lumigo a modern observability platform
+for the modern cloud he attended the
+open university of israel obtaining a
+degree in computer science and
+mathematics with honors and he worked at
+checkpoint software technologies for
+more than a decade and was director of
+cloud-based security products before
+starting lumiko a really really great
+episode enjoyed every minute of it and i
+hope you do as well
+i love having you here we're going to
+have a great conversation about your
+journey about lumigo such an awesome
+company you have some
+you know a great great problem that
+you're working on serverless monitoring
+in the cloud
+obviously the world is is transitioning
+to the cloud i learned recently it's not
+all in the cloud i grew up thinking that
+everything is in the cloud but
+apparently it's still a transition and
+there's a lot of problems to be solved
+backed by some phenomenal investors
+great friends from grove pitango red
+lane capital um looks like phenomenal
+growth and i'm excited to hear a little
+bit about the way you perceive the world
+and how lumigo enters your own uh story
+your own life story open university
+checkpoint et cetera so eres thank you
+again for being here
+yeah um yeah thank you for for all this
+i think this is you know very very
+i know i i wish there were like a
+podcast like this like you know 15 20
+years ago um
+i think uh
+at the essence uh just to complete what
+you're saying um
+we're going through a transformation now
+and it's very much
+similar for the transformations that
+you know aws started from like moving
+from on-premise to the cloud we are now
+in the stage of moving from cloud
+1.0 to cloud 2.0 essentially all the new
+technologies in the cloud it's no longer
+just virtual machines
+up there in the cloud
+it's a container that kubernetes and
+serverless and microservices so all the
+buzzwords that you keep hearing in the
+last couple of years they really come
+together and they've formed a new
+framework that on top of that developers
+are building the next generation of the
+cloud and
+without getting too technical that looks
+really different than how it used to
+look like five years ago when a
+developer wanted to develop an
+application
+and that brings new challenges and with
+those new challenges um you see new
+companies that are here to solve those
+challenges specifically lumigo is
+focused about allowing developers to run
+those applications um with confidence
+making sure that when something goes
+wrong they would know about it and be
+able to fix it
+so that's kind of like just you know two
+minutes about what omega is doing
+i i think your question about you know
+the story of of myself and how i connect
+so
+i'm a developer so
+early on uh i started i loved developing
+i started
+you know i learned very early i went to
+the open university during high school
+and you know i i was a computer geek in
+the sense of uh
+today's note gig is everybody but i was
+playing games before it was cool
+computer games and i was programming
+before it was cool
+and
+i ended up
+in checkpoint and
+as a developer after the
+special unit in the idf
+and i think at the end of the game
+throughout my checkpoint uh i learned
+about about the cloud and about the i
+really got excited about that
+transformation and as a developer that
+really what brought me to you know to
+dive deeper about how the future of
+software is going to look like and that
+brought me to
+hey something is changing here and
+they're going to be new tools that are
+needed and this is how omega started
+so take me back a little bit even even
+further sort of your own curiosity as an
+engineer as a developer thinking about
+these emerging technologies these shifts
+in technology
+what what where does it come down to you
+you know how you know what what sort of
+how do you think through your own
+curiosity about this what what started
+this what led you to be to have that
+insatiable curiosity that you're
+describing here
+that's a good question i think i think
+you know throughout my career um
+i was i was very much uh
+i always aspired to
+be involved with the latest technologies
+so
+uh when it was cloud then it was cloud
+and virtualization and later on
+serverless and conte so it always you
+know the cutting-edge technology always
+excited me
+um and this is what where i you know i
+automatically went to with within my
+development failure career
+and
+um
+that curiosity got me to you know to get
+deeper and manage more of the let's get
+it the checkpoint business that has to
+do with those
+technologies
+and from that position
+that's very interesting because i i was
+able you know i was managing the
+checkpoint cloud security uh products
+at the end no
+later 2015.
+and that's very interesting because from
+that position i was able to see things
+that i couldn't have seen just as a
+developer for example
+a partnerships with microsoft and aws
+all of a sudden i saw that they are
+really pushing the new technologies the
+serverless containers
+and at the same time i started to see
+that checkpoint customers are building
+those technologies and are really
+getting you know getting excited about
+the
+pace of innovations they provide
+so it kind of i think gave me other
+developer a unique view of
+where the world is heading to
+maybe two or three years before you know
+the
+average developer can see that
+and i think you know that's really what
+you need like to be at the right spot to
+be able to see a bit further away and to
+identify those you know once in a decade
+revolution
+and if you get there and you get a solid
+feeling that's a great place to you know
+to start a business and find a product
+that means our problem with the solution
+so were you actively looking at
+different ideas or ideation for for
+startups or was this something that you
+came across you said wow i'm realizing
+that i'm in this intersection of of time
+product and understanding and so this is
+an opportunity for me to start a company
+how did that whole thing begin
+it's actually a bit of both
+so you know
+i i think you know 50 of developers in
+the last 10 years
+are thinking about opening a startup at
+one point or another that is relatively
+that's the reality uh but there's a big
+step to to take this to the next level
+so i think it was always there
+like waiting for the right time the
+right um market the right problem the
+right confidence
+uh
+and so you know the ground was there but
+they then came serverless and containers
+and all the modern cloud and that it
+really hits like wow it really got me
+excited
+and that really gave me the confidence
+for the first time in my life to come
+and say i'm going all in on this and you
+know leave everything aside and just
+jumping into the pool incredible so tell
+me you know the first few days of lumigo
+obviously now if you're if you're
+looking at you know
+really fast growth awesome company but
+how did the you know you're just
+starting out you have this thesis about
+where the world is changing sounds like
+you have a great conviction about this
+thesis it comes from the intersection of
+you as a developer as an engineer but
+then through checkpoint observing these
+partnerships and these uh you know how
+who's sort of what are the big elephants
+that are pushing the tech industry and
+and where people are getting excited by
+how do you rationalize or strategy
+strategize through the first steps of
+building such a company
+first of all it's really hard no
+you just you stop doing what you're
+doing and you're probably been good at
+what you're doing and you're you're in
+your comfort zone and all of a sudden
+you're alone you know you wake up in the
+morning there's nothing out there
+there's no structure there's no
+framework there's the best case you have
+at least a founder with right
+you don't have where to be like
+you you have nothing
+and that
+nothingness
+is really hard because you don't have
+you need to to decide where to go and
+you have like 360 open
+um
+and honestly at this time also you don't
+know anything even if you have this you
+really don't know and what do you know
+at that moment so you know you are going
+this journey what do you know in this
+whole emptiness of nothingness
+[Music]
+so so the way i thought about it because
+it's so empty is that um
+let's get back to basics like
+something is happening that's not
+related to us something is happening in
+the cloud there is a revolution there is
+a new
+a um
+architecture being built that gonna
+shake the cloud so
+whatever i'm gonna do
+i don't know maybe or at the end of the
+day it's monitoring it's security i
+don't know what's going on over there i
+have say this but i'm probably gonna
+change them but as long as i'm going to
+stick to this revolution
+and i'm going to spend my time over
+there and i'm going to be the expert of
+that
+and then i'll be able to there's going
+to be so many opportunities in that like
+in the cloud 15 years ago
+that if you spend your time there you're
+going to find so many opportunities to
+grow a business and to grow a company
+and then it goes to identify those in
+execution
+so that's kind of like the basic you
+know i don't know if that's the exact
+idea but i know that that's the domain i
+want to double double down on awesome
+okay so you're saying sort of like
+very similar to how investment thesis
+happened you're saying there's this
+big blue ocean here there's a trend
+there's a consumer shift that's
+happening i know there's potential here
+and i'm going to now go on a journey to
+identify exactly how to harness the
+potential of it but i know that it's
+there and i have the right partners to
+do this with
+take me back now back to the sort of the
+thesis that you came up with on on the
+way the developers are interacting with
+their serverless you know
+applications and machines
+yeah so
+you know quite honestly when we started
+you know i'm coming from 14 years a
+checkpoint so i'm a security expert
+and you know new technology is
+serverless so it only makes sense
+serverless with security here startup
+like several security
+um
+so and that will allow me to leverage
+all of the experience that they have
+so this is where we actually started in
+the first early days um i think one of
+the things that we
+you know we knew again that we don't
+know we knew that everything is in our
+mind and we have no validation so we
+strive to get
+as fast as possible early stage
+validation
+what we basically did is we went to
+40 organizations
+before writing a line of code we have a
+created presentation
+this you know mock-up and you know now
+pictures of how screens can look in the
+product
+we contacted 40 companies that we were
+able to get to and they were able to
+willing to listen to us and told them
+you know you have serverless you're
+you're adopting that here's a an idea
+does that make sense to you is that the
+problem that you want to solve but
+that's all the problem would you pay for
+this
+uh and we learned
+you know very quickly that
+nobody out of those 40 maybe one really
+cared about said yeah server security is
+a big problem for me
+uh so that was very no it took us about
+three four weeks to say wow that's you
+know it's not mature enough something is
+not there yet
+but but at the same time
+most of them told us but you know we're
+earlier stage we're still trying to
+build that so if you can do something to
+help us
+build and have confidence to run it in
+production
+that is something that is game changer
+and this is basically shifted us toward
+monitoring and debugging and how do you
+identify sort of the big gaps because
+there's a lot of different offerings and
+in in cloud technologies and all the way
+from the big players like jcpaws all the
+way to to smaller startups how do you
+sort of identify
+you know really the the pain points that
+you're going to solve and how you're
+creating differentiation amongst amongst
+competitors i know this is a generic
+question but but i think it begs it in
+in such an emerging space that you have
+so many different cloud companies that
+are providing offerings in the past
+years especially from israel
+right
+so i think there are you know remember
+we were very early stage to a
+drastically radical new technology
+so
+you know and we knew that you know the
+incumbents
+will it will take them a long time to
+get up to speed so
+competitive wise we knew that if we'll
+be uh one of the first and we'll execute
+that would be a good position
+at the same time you know we found a
+problem the pro not because we you know
+because we heard it from
+from company help us to run
+application in production with the new
+technologies in a safe way again it's
+monitoring its debugging
+so we knew that that's a domain that if
+we can help them they will pay for it it
+provides them it literally stops them
+from being able to innovate and to
+iterate right i mean this is the bread
+and butter of what is what technology
+company does is to
+create new applications in production
+iterate on them and be able to solve
+problems quickly right it's like the
+fundamental layer exactly
+exactly and and if there is a problem
+that's critical you know that's your
+business that is right so if i can help
+no two hours of downtime that can be
+millions of dollars sure
+so so that that's where we actually
+drilled down so we didn't stop there we
+came back to those 40 companies said
+okay we got you we came with a new idea
+with new presentation this is what we
+want to do and then it's it you know to
+your point goes down to the details of
+he wants this and he wants this and we
+try to get you know those kind of like
+uh
+buckets of uh features together which
+really allowed us to get to the first
+design partners well so what is lumigo
+you know
+few years down the line you you met you
+meet the milestones you mean this what
+is the role of lumigo in in the world
+today
+so
+the world is changing as i mentioned
+people are adopting the cloud 2.0 with
+the new technology
+and
+throughout the years there were always
+an ecosystem going with
+every server every cloud that you have
+so lumigo is going to be the
+um the monitoring tool of choice for all
+the new cloud architecture so you go to
+the cloud you use the new technology you
+deploy lumigo to monitor your
+environment that that's kind of like
+that's your stack that's a repeatable
+model that everybody's gonna all the
+modern startup and organization i'm
+going to choose because omega is is the
+best option and why do you care so much
+as i know why it's important but why do
+you care so much that you wake up every
+day
+leading this ship and and telling that
+narrative
+why do you care
+i i think you know
+it's a
+it's it's not a
+couple of reasons
+one i think at the very basic
+um the new technologies excites me and
+that's where we started like the concept
+of you know again serverless containers
+kubernetes it's it's
+it's so fast it's so cool it's so
+you know i used to do things way back
+you know very technical c drivers linux
+that's kind of like the old wood i was
+in a checkpoint
+so it really got me excited that's one
+and understanding that i you know we can
+create something that is going can input
+the next revolution we're part of
+enabling the next revolution in the
+cloud
+that's meaningful that's taking the
+world a couple of steps forward
+and the last point is very personal and
+that's the fact that
+this is something that i have a peace in
+like it's mine
+so if i'm going to fail if i'm going to
+succeed that's all going to impact my
+it's very personal
+experience and for me that that's part
+of the effect of
+being in a startup being
+power you're having a piece
+of building or whatever it is you're
+building i mean i think part part of
+what excites me in companies like lumigo
+is sort of this a basic you know sort of
+the butterfly effect that if flamigo
+does it works properly
+and makes a positive impact on
+organizations this in turn allows the
+organizations that are more i guess
+consumer facing or more application
+based to to be able to iterate faster to
+increase the rate of innovation add to
+sort of the super evolution that we talk
+about in innovation endeavors it's sort
+of how do you how do you create
+infrastructure layers that allow
+organizations at scale to operate faster
+and with more confidence right
+[Music]
+exactly and today it's
+no i don't want to sound but but it's
+broken so you see you know the top
+challenges all the time for the new
+cloud is debugging monitoring and
+observability so if we can take those
+away you know we're on a highway for
+fast adoption of the entire world of the
+modern
+technologies and faster pace of
+development but it is we've been in the
+cloud almost for 10 years at least from
+my experience i've been working on cloud
+applications for the last 10 years
+why are we still in 2022 and it's such a
+pressing problem that you're describing
+today what's i mean maybe maybe it's
+considered fast and you know the scope
+of of sort of innovation as humanity in
+general but but to me it seems a little
+bit slow given how pressing and and
+urgent it is
+yeah
+so i i think you're right it has to do
+with maybe the the human
+factor and the human economy because
+you know you can see trends of
+technology nothing really goes though
+it's very rare that something goes away
+especially like fast it's always coming
+on top of
+so you know it takes many many tens of
+years for things to really go away
+so this is what we saw you know when
+moving to virtualization and then moving
+to virtual machines in the cloud and now
+moving to kubernetes and serverless
+you know it's it's
+even the cloud by the way is about ten
+to twenty percent of the overall servers
+of the world ten twenty percent that's
+crazy right and it's crazy right you
+feel like everybody's in cloud
+unbelievable but you have industries
+that are you know legacy industries
+things just work
+and and that that's the majority of the
+world in the world today so it takes
+time for things to adopt and the same
+goes here there's like a new technology
+and it will run you know hand in hand
+with virtual machines and even with
+on-premise servers for many years to
+come
+but at the same time the overall cake is
+also growing more applications are being
+built so the market is growing itself i
+mean it sounds like it it still has five
+at least five times to grow and and
+obviously we're introducing more
+more infrastructure every year and i
+think i think that's fascinating and i
+keep reminding myself sort of this
+bubble that i'm in where yeah i see all
+around me innovation and you know
+cloud-based things but most of the world
+is still on physical servers and and
+it's such a fundamental idea and and
+obviously i hope that lumiko plays a
+strong part in the confidence boost and
+the ability to to to migrate and to
+manage cloud applications because i'm
+excited most about the end application
+layer of how consumers are how our lives
+are becoming better through technology
+but at the end it's all based on this
+infrastructure layer that you're
+providing
+with monitoring debugging and confidence
+which is all things that are blocking
+innovation and blocking iteration
+thank you very very much this is such a
+pleasure
+thank you very much
+[Music]

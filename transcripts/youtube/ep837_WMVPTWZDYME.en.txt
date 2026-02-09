@@ -1,0 +1,645 @@
+every company is different and selling a
+business solution to a company that
+talks about their relationship with
+their customers is tricky and the way we
+chose to do it is to basically provide
+you know a higher level of obstruction
+around the concept of customer journey
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jay ventures
+a community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders today i am
+with guy neil paz a silicon valley based
+entrepreneur and the ceo of tatango the
+leading customer success solution he is
+a pioneer in the customer success field
+and is well regarded industry speaker
+and community contributor guy is also
+the author of the definitive guide to
+customer success and established the
+customer success summit he is passionate
+about people and technology and has
+dedicated his career to improving the
+way in which business is done through
+innovation
+thank you for coming here guy a quite a
+journey in customer success you you've
+been a part of some other phenomenal
+organizations like gigaspaces and ibm
+but you know really you know this the
+last 12 years of of
+being a market leader in the customer
+success industry with thousands of
+customers
+some of the top companies that are
+customer oriented and looking at a
+one-stop shop for for customer success
+journeys
+um pretty phenomenal and especially
+given that you know how i i saw the last
+few years unfold i've been hearing
+customer success more and more about 10
+years ago i didn't hear too much about
+it
+but you already had founded to tango and
+so it's a today it's a no-brainer but
+what i'm curious about is is more the
+beginning of the journey and some of
+those some of those insights and
+feelings that led you to to embark on
+this crazy path and so guy thank you
+very much for being here i'm excited to
+pick your brain
+absolutely sure so the beginning um yeah
+so we um
+decided we're gonna do something new and
+we were exploring kind of key areas and
+one of the you know areas that were
+exploding was uh sas and subscription
+um you know on the heels of aws and so
+forth and uh
+we've decided that after a few years
+many years in the infrastructure
+layers let's focus on application and
+the area we want to tackle is the new
+relationship between
+companies and their customers
+because it was clear that the recurrent
+revenue model subscription up
+as you go
+and the need to actually host your
+service and provide high quality service
+delivery
+puts a lot of uh you know effort on the
+vendor
+to create value to their customers yeah
+and uh
+you know and i remember back in the day
+i was talking to one of the you know
+previous ceo that i worked for you know
+very big company public at the time and
+asked them about the need to focus on
+customer
+delivery value to customers and he said
+you know truly it was never our
+you know core motivation investment we
+made sure that we market and sell and
+then support and from that point onwards
+it's not our problem it's the customer's
+problem
+and he thought that this entire business
+is
+not gonna work because uh of this
+mindset but but i thought we thought
+that the mindset has to change right
+it's you know if you if customer have
+such an easy way to
+switch to an alternative
+it's on the on the vendor to make sure
+that
+the reason in which they sign up in the
+first place is being delivered so value
+is being delivered so that's the
+initial thinking of customer success
+so so the the the change here or what
+i'm understanding is that if before we
+were at a time where compa where very
+few companies were able to provide a
+solution for a given problem and
+therefore once they market and sell it's
+sort of on the customer's burden to
+figure out how to use and how to retain
+themselves right it happened naturally
+today with and with you know various
+competitors in every domain and various
+solutions for every problem
+now is where the customer success really
+kicks in in these last 10 15 years where
+you actually have to
+to to keep selling them even once
+they're already sold
+yeah absolutely so they just got to
+remember
+back in the days
+uh it was very expensive to buy software
+right an implementation took a very long
+time so
+yeah the main the main decision was the
+purchasing decision now that it's very
+you know relatively inexpensive both to
+buy and implement um
+it's the the power shifted dramatically
+to the heads of the
+of the customer subscription as well is
+a business model
+that
+provides more value to the customer than
+to the company because back back in the
+day the company would collect all the
+money up front now
+you're gonna work for your money uh over
+time so
+that creates a whole different dynamics
+that requires companies to think
+differently it forces companies to think
+customers first right so outside it
+versus
+inside out
+um and that leads to a whole host of uh
+challenges that this what we set up to
+uh to solve for companies and so as
+you're building out to tango and you're
+and i'm looking you know 30 000 feet at
+this
+at this challenge you know that you want
+to sell you want you know that you want
+to solve this issue for customer success
+you know that you want to solve for
+customer journeys and to bring all these
+thousands of solutions to the modern
+world where they're retaining customers
+through data-driven decisions
+how do you pinpoint exactly how to do
+that because it's a there's a wide range
+of tools that you can provide them
+at the end you do end up providing a
+generalized tool that that encompasses a
+lot of their needs but
+how do you sort of
+pick and choose which ones
+yeah so our core
+uh you know while competitors looked at
+the problem differently our core was the
+challenge is the relationship right
+where you have to deliver value but the
+advantage is that once everything moves
+to the cloud you've got tons of
+information about your customers so
+you're not flying blind anymore you can
+really understand who's using your
+product how they're using which features
+they're using so you can always identify
+where is the value being delivered and
+what are the gaps and drive decisions
+based on that so that was the core
+thinking and we actually started with uh
+proc instrumentation technology where we
+collect uh usage data through
+javascripts or apis and so forth to
+actually build up
+a whole data driven profile of the users
+and the companies that they worked for
+and from that point onward so so we
+thought that the
+the challenge is better understanding of
+customers to deliver value but the
+advantage the opportunity in the
+transition to cloud that it's all
+connected and everything that customers
+do
+the company can actually see right if
+you uh properly instrument that and sure
+then you can make decisions based on
+that so that was the the core
+principle and the idea which we is still
+true to to this day
+now as you
+build that exact thing out and i'm just
+trying to to to reiterate on that you're
+saying
+companies are moving to the cloud
+therefore a lot of the data that they're
+collecting if before was on premise now
+it's a little bit more accessible
+still they may not be aware that they
+can then leverage this data in-house to
+create teams to
+analyze this data synthesize it and come
+up with actionable items and therefore
+there's a gap in the market where you
+can build a solution that takes in this
+data even helps them collect it and
+provides them with actionable insights
+right this was sort of the thesis of
+where the market is at yes and i think
+very quickly we realized that uh the
+path of attack to this market that go to
+market is through the revenue and not
+through the workflow the capabilities
+right because everyone that runs today
+it's like a no-brainer everyone that
+runs a recurring revenue or recurring
+model knows that you have like run
+revenue stream which is you know the new
+customers and then you've got the
+retention of how much have you been able
+to keep and then the expansion right so
+you're basically three uh components of
+revenue and two of them are being uh you
+know addressed by the tango and customer
+success retaining customers and then
+growing existing customers what is now
+known as net revenue retention where you
+actually measure out of the customer
+base at the end of the period
+how much did you grow or shrink right
+and companies that shrink that's
+it's a leaky bucket and companies that
+actually take the existing customers to
+grow the value for them
+they are very good businesses
+because they're not only growing by
+spending marketing dollars and sales
+dollars on new business they can
+actually work with their customers drive
+more value sell than more
+you know
+depending on the model more capacity or
+more products and and so forth and so
+forth so that was the
+so it was a very kind of a business
+conversation that you could have had and
+now the where the market is right now it
+shifted into okay so how do i start what
+do i do first and right how should i how
+do i how should i think about this this
+is where we are right now so if your
+point a decade ago was what are you
+talking about what is it
+what why are you calling me to uh
+where do we start and uh how to uh what
+to do first and and where to get value
+from so
+um
+so it was obvious that this is gonna
+happen you know clearly as a
+you know we would have wanted it to
+happen faster but we're uh very grateful
+that it actually happened and we were in
+the
+right uh we had the solution in the
+market right point in time uh to be able
+to take advantage of the market
+transformation i mean i think that's at
+the end you know what exactly why why i
+love doing this show you know it's about
+these ideas that emerge out of uh
+out of some understanding of what's
+happening in the market taking the sleep
+of faith working for years and what it
+sounds to me like you're saying is that
+you know perhaps the timing um
+could have been
+a little bit more
+on point and solidified but but perhaps
+not and perhaps the this this is exactly
+how how things should have played out
+and uh and i think it's at the end what
+counts is obviously this idea that the
+market is ready everybody's talking
+about customer success and your position
+is a market leader to to win this and
+and this is because you've you've also
+gained this understanding over a series
+of years if we're fast forwarding to
+today though you have thousands of
+customers the biggest companies in the
+world the most customer centric
+companies in the world you're no longer
+a startup it's a it's a company
+and
+how do you manage
+you know working with thousands of
+clients
+each of them unique each of them
+thinking through their customers in a
+different way each of them want their
+own differentiation
+how do you even cope with that as a
+company as a service company
+yeah uh as a technology company but uh
+it's logical i mean that's but
+no no you're actually making a very good
+point uh software as a service are you a
+software company or a services company
+and so forth and we chose to be a
+software company right like a hundred
+percent our gross margin is close to
+eighty percent
+uh which means that we barely sell
+services right and what you're you're
+making a very good point because
+you know every company is different and
+selling a business solution to a company
+that talks about their relationship with
+their customers is tricky and the way we
+chose to do it is to basically provide
+you know a higher level of obstruction
+around the concept of customer journey
+right so we've we've although every
+company is different every company once
+it sells its customers wants to onboard
+it quickly on their platform and then
+they want to make sure that they're
+getting value
+by looking at the
+product adoption and they don't want to
+detect risks ahead of time and and take
+action on that and they want to maximize
+renewal so we've created
+this new concept called
+um
+modularity around around customer
+success uh where we have modules we call
+them success blocks that allows
+companies to start
+in one what one point in time right on
+on their journey secondly we've built
+all those uh success blocks we've built
+uh we've we've added a lot of best
+practices and templates and things that
+allow people to get started very very
+quickly so these are think about them as
+best practices and examples where
+companies can actually learn from what
+others have been doing and then
+customize this to their need very very
+quickly and the last point we chose
+um to
+to roll this out in a self-service model
+all right so tatango is so as of 2020 we
+are a self-service uh business with uh
+freemium business models and we are
+basically solving the learning gap where
+people need to understand what it is how
+to get started and so forth by giving
+free access to all of that all the
+platform and the technology and the and
+the success blocks for people to quickly
+uh learn
+and and then once they learn we can have
+a much
+more meaningful conversation
+in which in many cases customers already
+know
+what is common right what's best
+practices industry and what is the
+customization they need to do to their
+uh to their business and obviously we
+will help them to do that as well um but
+i think it's you know i've been an
+architect before uh so this is like
+where where do you put the abstraction
+is the abstraction the the functions the
+tooling or the abstraction is
+the outcome
+and all of that together we are you know
+calling this week of uh
+announcing this concept of composable
+customer success so to solve the
+challenge of where to get started you
+need composable customer success that
+allows you to get day one value
+allows you to continuously recalibrate
+your processes
+and um ensures that that's our
+commitment uh predictable growth that's
+the that's the that's the motivation i
+think this is where the market is right
+now if we could have dive a little
+deeper
+but but the way to solve it is to
+simplify right to make it
+very accessible one of the things that
+we've been talking a lot
+we don't want customers to learn our
+language
+we should uh operate in the business
+language right so all the objects into
+tag all the language is business
+language and not you know customer
+success language because they will learn
+customer success over time but we don't
+want them to
+to be forced to do it because it slows
+down
+sales
+and so if you're so what you're saying
+is if you're looking at this pyramid
+where the top of the pyramid is sort of
+this this very fine-tuned customer
+success journey for your own company
+what you've realized is that in order
+for anybody to get there first you need
+to have this common foundation this
+common base
+this the these build this big building
+blocks of customers customer journey
+steps and you're first allowing
+companies to make sure that they're
+harnessing those steps and they have
+visibility
+into what's happening in those journeys
+and then through composability and
+modularity you're allowing them to
+customize okay how do i want my customer
+success journey to look like and how do
+i how do i analyze it and how do i make
+sure that it's working properly right
+yeah i i i think the the you know when
+we look at our markets options right
+customer options you've got companies
+that come up with their own like a big
+bank model and that's a challenge
+because they need to adapt their
+business to this structure you know it
+may work but it's
+it takes a very long time requires
+constant consulting and services and so
+forth the other approach is you have
+like just point solutions right so yeah
+you know so the customer needs to
+continuously integrate between
+solutions and there's the other approach
+where we build our product as proposable
+so you've got modules and they're
+pre-integrated they're they're built on
+the same data model the same
+workflow model and and so forth and
+that's
+it and we did this not just because it's
+a good architecture concept it's also
+because
+we wanted to reduce the barrier to entry
+for a company any size in customer
+success so if your only problem right
+now is you see it is on boarding new
+customers okay let's just focus on
+onboarding first if your only problem is
+driving adoption let's focus just on
+driving adoption to your
+product we don't force companies to make
+big decisions and by the way when
+companies become bigger they're not
+necessarily managed managing the entire
+journey in one team right so you have
+services team that's doing onboarding
+and you've got renewal team which is
+part of the sales and they're reporting
+to the cro while the customer success
+team reports to the chief customer
+officer and so forth so
+this flexibility
+allows for companies to kind of reduces
+barriers for companies to adopt you know
+to get started and then learn that
+actually customer success is about the
+customer and about the journey so it's
+not about the function it's actually a
+consistent predictable
+uh good user experience and so forth but
+but you know when you are a technology
+company like ours you got to be
+practical it's not enough that the
+concept is
+good and true you actually need to sell
+technology to someone so you got to make
+it uh super practical to
+wrap their heads around it get started
+see immediate value
+get uh recognized by their company get
+recognized by by their customers and
+then
+you know take another step from there
+has this world
+or the the thinking process behind your
+own
+customer journey thesis has this evolved
+much
+in the last few years i mean as as
+you're building the found the foundation
+blocks for for what it means to monitor
+customer success journeys or design them
+have has your sort of thesis shifted
+in one way or another
+um yes and the main reason is
+i mean i can give you a story right so
+we built this concept called uh
+success block marketplace now it's
+renamed to churning marketplace in which
+we published all the known
+uh customer success blogs right that
+we've we've created
+and but but the issue was when when you
+would ask people around our company like
+people from the onboarding team or the
+customer success team or even product
+team
+so what is what is renewal to you what
+what what needs to happen in renewal you
+get like five different answers one is
+going to focus on the automation renewal
+one is focused on the predictability of
+renewal one is about the forecasting on
+renewal so
+it was clear that you gotta create like
+a common language first and foremost
+right we call this successful master
+it's like an internal
+document in which we can write
+specifically who should use it what what
+what should be the expected outcome what
+are the metrics and so forth and so
+forth so what i learned
+is
+and that was always like the challenge
+in our market that customer success is
+many things to many people
+and it and it makes it i mean the
+outcome is good everyone wants to retain
+customers and to grow
+their customer base and and to you know
+and have all all users as facts right
+that's the that's the ultimate outcome
+of that and there's the financial
+outcome of that and so forth
+but what does it mean how to do it and
+so forth there's so many flavors
+that we had to kind of create at least a
+common language i'm not even saying
+standardizing because everyone can
+choose you know a flavor that is best
+for their model
+and their business you know some
+companies their product is super sticky
+so you know it's not about retention
+it's about maximizing expansion some
+companies their product is in a highly
+competitive market and it's a really
+inexpensive product like you know
+how many
+how many design tools are used in in
+every company in our company i think
+we've got like at least 15 design
+different design tools
+um that someone is paying a license for
+and at some point someone's going to try
+to consolidate and 14 of them are gonna
+you know um
+get out of uh our business so so the
+point being there's different challenges
+to different uh two different business
+models
+um
+but you asked how how things have
+changed is me to realize that if we are
+not
+specifying
+in a more
+easy language to understand what is it
+that you're trying to do and how you do
+it uh it becomes very tricky for people
+to communicate so even the customer
+success communication language and
+is is a is a very important thing so i
+you know i had my own version i thought
+that's the right version so
+i love it guys there's so many more
+questions are coming up but
+unfortunately it is a
+20 minute leaders but but definitely my
+curiosity was sparked and so i i really
+i appreciate your time and and this
+amazing journey and
+looking back i'm trying to to look back
+at how you were thinking 10 12 years ago
+how you were thinking about customer
+success and you're thinking about the
+movement to the cloud and the transition
+to data-driven decisions and the ability
+to automate things and have them
+then be modular and composable and
+customizable and and ultimately gaining
+the trust of thousands of brands to
+to trust you to help them understand
+their customers better and their and the
+customer journeys better and i think
+that
+it speaks for itself and so thank you
+very much for the time and the
+inspiration uh best of luck with the
+rest of the the hopefully long journey
+of tatango and and stay safe and stay
+healthy thank you very much thanks for
+having me
+thank you
+[Music]

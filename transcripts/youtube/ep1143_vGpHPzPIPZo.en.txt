@@ -1,0 +1,640 @@
+So that's what's really unique about
+Cyberwell is that we're an initiative
+fighting anti-semitism like many other
+nonprofits are, but we're really doing
+it according to the rules of the
+platforms themselves. So we only provide
+content and analysis according to their
+rules. That's why we say Cyberwell is an
+online anti-semitism compliance
+solution. And when the platforms
+understand that you understand their
+rules, how their teams work, and what
+their teams need, we see that the
+cooperation and response level goes up
+significantly. Now, there are still
+decisions to be made, right? And
+sometimes we get it wrong. We actually
+learn from their input on what's not
+considered policy violating and it
+informs the way that we work and changes
+that we would ask for. In terms of the
+response rate of social media platforms,
+we've actually seen that the gap is
+closing more and more. When we started
+the work in 2022, the average rate of
+removal of reported anti-semitic content
+was sitting at about 20%. From our data,
+we've seen that with consistent data
+sharing and working with the platforms,
+the average rate of removal of reported
+anti-semitic content has gone up to an
+average of 50%. Similarly, because we've
+been doing this work in English and
+Arabic, we're closing the enforcement
+gap between the languages. So, how are
+social media platforms relying more on
+technology? Part of the reason that the
+rates of removal have increased is
+because they are using AI within their
+own platforms to better identify when
+content is violating. So, what Cyberwall
+wants to do is really leverage this new
+opportunity that generative AI brings.
+take the high integrity that we have,
+high integrity data that we have, and
+actually work on an AI agent to better
+identify anti-semitism that violates
+policy.
+[Music]
+All right, thank you so much for being
+here. Thank you for having me, Mik.
+Really appreciate you coming all the way
+here and um both to share your story,
+but also for us to talk about something
+that's that's really really important.
+Uh so hearing about the formation of
+cyber well and then talking about what's
+happening online and um it's uh it's old
+news to say that the discourse and the
+town hall is happening online in our
+news feeds and the eco chambers that
+we're surrounded by. And over the last
+few years, I think we've all experienced
+a spike, not only in misinformation in
+general, but in hate speech and
+specifically in our part of the world
+around Zionism and Judaism, not only on
+October 7th, but also the Holocaust. And
+so we'll talk about all that, but again,
+thank you for being here. Thank you very
+much for having me. Tell me a little bit
+about yourself, your journey leading up
+to founding Cyberwell. Okay. So, um I'm
+the founder and CEO of Cyberwell. I also
+like to say that I'm a lawyer by
+training and not by personality. Uh
+which means that I originally was
+working as a lawyer uh here in Israel.
+Uh even though you can tell by my
+accent, I'm not originally from here. Uh
+I made Ali out to Israel in 2009. So,
+I've been here for about 15 years. And I
+started off my career as a lawyer
+working primarily in high-tech and
+corporate and also a little bit in uh
+private banking. And I was working in
+the field for a couple of years and I
+just felt like this is not what I came
+to Israel for. And actually the tree of
+life uh synagogue shooting that happened
+in the United States in the Pittsburgh
+area is kind of what caused me to ask
+myself some questions of like is this
+really what I want to do and can I be
+doing something else? and I found myself
+in a pivot to the open source
+intelligence and business intelligence
+space. Uh and because of what was
+happening in the United States with the
+rise of anti-semitism, I was kind of put
+on that beat. I was focusing a lot on uh
+extremist movements in the United
+States, anti-semitism and kind of darker
+channels, hate crime reporting, hate
+crime legislation. And then what I
+noticed when I was leading these
+largecale research um projects, I just
+noticed a very clear migration of deeply
+anti-semitic conspiracy theories and
+content into the mainstream social media
+platforms. And this was back in 2018
+2019 and I was watching this happening
+and as a lawyer I was kind of asking
+myself you know what is the difference
+between a dark channel or a gray channel
+and a mainstream social media platform
+and one of the answers is is that the
+mainstream social media platforms
+actually have a rulebook right they have
+this whole cottage industry of trust in
+safety the rules and regulations that
+the platforms have evolved to kind of
+police themselves but it seemed like
+they were really failing to enforce when
+it came to anti-semitism. So I thought
+what if we take OSENT and AI that was
+available at that time and this element
+of compliance and create a compliance
+solution for the major social media
+platforms and that is how cyber well was
+born. Very very cool. The the world of
+responsibility and accountability on
+content moderation has evolved and
+shifted I think in a few ways over the
+last few years. I've been experiencing
+it from the sidelines with friends from
+the likes of of Actifense and other uh
+different um different takedown groups
+and and it's been really interesting
+watching these trends from the side.
+Remember that uh Meta very openly
+discussed the the retreating from their
+content moderation efforts recently
+pretty recently I think they even let go
+of of a bunch of teams working in that
+space. Can you walk me through a little
+bit about how is how does this
+responsibility playing out today with
+the platforms or what has been the
+evolution of this responsibility? Right.
+So the tech space and specifically the
+social media space as we mentioned has
+this self-regulating area called trust
+and safety. It's covering the way that
+platforms essentially want to police
+their own content userenerated content.
+What content can be amplified? what
+content can be pub published. It covers
+everything from hate speech to child
+pornography, sale of illegal goods,
+copyright violations. So all different
+types of content. And because this space
+is largely unregulated primarily in the
+United States because of section 230,
+you really have this self-regulating
+industry when it comes to this content
+policing effort. Okay. So that being the
+case that it's unregulated, we've also
+seen different swings, trends, and
+different levels of investment in this
+space kind of depending on who the
+administration is at the time. So the
+recent uh change into uh the changes
+that were announced at at Meta in
+January was very much in line with this
+kind of new alignment with the Trump
+administration but also taking some new
+best practices that were rolled out
+first on X for example um this whole
+element of community notes is something
+that's very in line with the trends of
+how platforms prefer to police
+themselves. So we see platforms moving a
+lot into labeling content especially in
+the misinformation and disinformation
+space with kind of a warning or uh some
+guidance to the content consumer about
+what you are actually seeing and that's
+a big shift right now in terms of the
+way that platforms are actually
+highlighting or treating different
+content. The other thing that we've seen
+is instead of removing content if
+possible a platform will prefer to limit
+the exposure of negative or violating
+content. So limiting uh how many times a
+piece of content is viewed. But there
+are a whole bunch of questions there
+especially for you. You mentioned we
+recently here in Israel we're living
+through the digital reality of how did
+October 7th for example play out online.
+Right. So I was very much monitoring the
+social media space at that time because
+of our work at Cyberwell and the work
+that we do with social media platforms.
+And what I saw on October 7th purely
+online and purely on the major social
+media platforms was the most successful
+hijacking of our mostused social media
+apps by the terrorist group Hamas. That
+has very serious national security
+implica sorry that has very national
+very serious national security um
+implications implications implications
+implications right serious national
+security implications when it comes to
+how do we expect our social media
+platforms to actually deal with this
+type of content and in an ongoing war
+situation or an ongoing terrorist
+situation or what we're dealing with
+right now which is this major surge of
+anti-semitism there becomes a a lot of
+questions on how do we expect platforms
+to take a stand against that, right? And
+you know, I just thought that there's a
+new uh movie that's coming out called or
+just came out called October 8th. I'm in
+it. You're in it? Yes. Okay, there you
+go. And so I go see it. Yes. I almost
+watched it last night. It's on Amazon
+Prime now, I think. On Amazon Prime. I
+opted for a romcom, but Fair enough. End
+of day makes sense. Yes. But but but
+it's definitely on my watch list because
+I remember having studied at at a US
+university I remember vividly the
+discourse and the discussion not only in
+the west coast where I was taking part
+in but then also on the east coast and
+obviously there was whole saga at
+Colombia with Shai the professor Shai
+right and so there's a lot of a lot of
+action there and it seemed like a lot of
+it was being fueled by the discourse
+online 100% 100% everything that you saw
+on the
+campuses you would not have seen if it
+wasn't being amplified, organized and
+directed. Not at that level at least,
+right? Not on that level with a lot of
+very
+consistent messaging and content
+creation in the online uh spaces. So you
+you've done a lot of uh drill down into
+the numbers. Can you share a little bit
+about you know what have we been seeing
+over the last three years? Sure. So I
+can talk about what we've been seeing
+over the last 3 years and then how
+that's actually shifted since October
+7th. So online anti-semitism was being
+reported by Jews across the diaspora
+communities especially young Jews but
+not only also Jews in Europe for 5,000
+years. Yes. But in the online spaces
+directly it was being reported as the
+number one form of anti-semitism that
+affected them on a day-to-day basis
+which makes sense because that's where
+we're spending most of our time today.
+American Jews are more likely to meet
+anti-semitism online than they are
+anywhere else. In fact, 67% of them in
+the last year reported experiencing
+online anti-semitism. Now, what does
+that actually mean for them? And what
+does that mean for us as Jewish people?
+That means that one in three of young
+people who experience online
+anti-semitism will take active steps to
+hide their Jewish identity up to and
+including changing between profiles. One
+that says that I'm a Jew, one that says
+that I'm not a Jew. one in five people
+will experience the feelings of their
+physical safety being compromised. So,
+this was reported as being an issue from
+before and then after October 7th,
+according to Cyberwall's data, which I
+should back up and maybe explain what
+Cyberwall is. Uh, we're the first ever
+open database of online anti-semitism.
+We've been consistently monitoring the
+major social media platforms for
+anti-semitism in both English and in
+Arabic since 2022. So what we saw on
+October 7th was a near doubling in the
+amount of anti-semitic content online
+with a very clear shift into additional
+calls to violence where calls to
+violence blatant calls to violence were
+below 10% before October 7th after
+October 7th they reached double digits
+and 61% of content that we were
+monitoring in Arabic was consistent with
+calls to violence or justifying violence
+against Jewish people and the ripple
+effects of that have been that overall
+the best performing tropes right now
+against Jews characterize them as the
+enemy characterize them as evil. So from
+an anti-semitism research perspective,
+why is that very concerning to us? Is
+because that's very clear in-group
+outgroup messaging. And that type of
+messaging is what breeds hostility and
+minimum not only hostility but
+indifference to hostility against Jews.
+And historically that's kind of a
+tipping point issue for us. Very
+resonates a lot with what happened in
+World War II, right? Very similar
+strategy. Exactly. And historically, I
+think like again why I'm into I'm very
+into the the approaches of how
+technology and AI can actually serve as
+a solution to this issue is because if
+we looked at World War II, right, there
+was no systematic way to fix Dartormer,
+the Nazi news syndicate, which was in a
+million copies of circulation before the
+Nazis were elected. There were 4 million
+radios in German homes, right? But these
+things are actually systems. And all of
+the technology and all of the policies
+and all of the potential that generative
+AI gives us is a potential to actually
+fix the system. You can make systematic
+impact if you standardize and you're
+optimizing your response of a social
+media platform to this issue and and
+what does a response look like today?
+So, we'll we'll get to the discovery
+portion in a minute and the and the
+classification, but let's say that there
+is a something that we see that doesn't
+adhere to the to the playbook or the
+rules that these platforms are putting
+out there, which hopefully they're in
+line with not posting calls to violence,
+not posting anti-semitic content. What
+what can we do about it? Right? So,
+Cyberwell measures the impact that we
+have by working directly with the social
+media platforms. We're looking for three
+primary things. We're looking to drive
+up the level of enforcement of the
+existing policies. We're looking to
+improve digital policies against
+anti-semitism. So I can give you a clear
+example of that which is we working
+directly with Tik Tok brought Tik Tok to
+be the first social media platform to
+recognize that October 7th denial is a
+form of prohibited content on Tik Tok's
+platform. Now the second that a policy
+decision like that is made, there are
+technological resources that are
+dedicated to it. There are human
+resources that are dedicated to it and
+you see systematic change over time. In
+the first three weeks following October
+7th, Cyberwall did the first
+organization to do deep dive reports
+about the October 7th denial campaign.
+We saw that the rates of removal or
+action by the platforms were below 9%.
+after consistently working with the
+social media platforms and that means
+sharing data with them, sharing data
+sets with them, keywords, repeat
+accounts, repeat audio that was used in
+order to consistently deny the events of
+October 7th. We saw that the rates of
+removal went up to an average of 40%. At
+6 months following the attack, so that
+shows how the policy change actually can
+incrementally improve their response
+over time. And this is an independent
+policy change. It's not a regulatory
+change. It's a it's a it's a Tik Tok
+policy change. They made the decision,
+but it was based off of Cyberwell's data
+and Cyberwell's partnership. So, we're
+looking for enforcement of the existing
+rules, improving the policies to account
+for modern forms of anti-semitism or
+hate, right? And then we're also looking
+for prevention or containment. So
+prevention and containment, which is I
+think where most platforms focus on
+right now, is how do we identify content
+that has the potential to cause violence
+or call to violence, limiting that by
+removing it from recommendation feeds,
+by limiting its viewership, etc. Um, and
+that's another thing that's important to
+remember about the recent meta
+announcement. The recent meta
+announcement was talking about removing
+the auto filters for preemptive removal
+of content, meaning take it down, which
+accounted for about 1% of all policy of
+all content that was removed by Meta.
+What it didn't talk about at all is the
+preemptive filters that would limit the
+exposure of that content. So the same
+things based off of keywords and based
+off of data sets. You could put out
+hateful content in the into the ether of
+meta and potentially have it not seen
+whatsoever. So really what Cyberwell is
+about as a trusted partner and again
+we're a nonprofit but we're really
+optimizing the status of a nonprofit
+trusted partner that works with the
+social media platforms is about sharing
+solutions to optimize and standardize
+the way that social media platforms
+respond to this issue. help me unpack
+this issue of classification for a
+minute because it sounds like once
+you've identified a piece of content
+that that should be taken down according
+to cyber well the there there was the
+increase of removal rating of 40 up to
+40% right in part based on the policies
+that that the the Tik Tok has put in
+what happened what's what's the other
+60% about so and and what's the process
+there of trying to distinguish is this
+in policy or out of policy and where
+does technology fit in to to make that
+assessment All right. So, that's what's
+really unique about Cyberwell is that
+we're an initiative fighting
+anti-semitism like many other nonprofits
+are, but we're really doing it according
+to the rules of the platforms
+themselves. So, we only provide content
+and analysis according to their rules.
+That's why we say Cyberwell is an online
+anti-semitism compliance solution. And
+when the platforms understand that you
+understand their rules, how their teams
+work, and what their teams need, we see
+that the cooperation and response level
+goes up significantly. Now, there are
+still decisions to be made, right? And
+sometimes we get it wrong. We actually
+learn from their input on what's not
+considered policy violating and it
+informs the way that we work and changes
+that we would ask for. In terms of the
+response rate of social media platforms,
+we've actually seen that the gap is
+closing more and more. When we started
+the work in 2022, the average rate of
+removal of reported anti-semitic content
+was sitting at about 20%. From our data,
+we've seen that with consistent data
+sharing and working with the platforms,
+the average rate of removal of reported
+anti-semitic content has gone up to an
+average of 50%. Similarly, because we've
+been doing this work in English and
+Arabic, we're closing the enforcement
+gap between the languages. So, how are
+social media platforms relying more on
+technology? Part of the reason that the
+rates of removal have increased is
+because they are using AI within their
+own platforms to better identify when
+content is violating. So, what Cyberwall
+wants to do is really leverage this new
+opportunity that generative AI brings.
+take the high integrity that we have,
+high integrity data that we have, and
+actually work on an AI agent to better
+identify anti-semitism that violates
+policy. So it sounds like a part of the
+success has been which by the way sounds
+like really impactful work and it it
+sounds like a part of it has been
+attributed to the fact that that there
+is increased trust between Cyberwell and
+that is both due to your your work with
+them your ongoing communication but it's
+also it sounds like you're
+positioning Cyberwell as an ally as an
+extension really of their existing
+efforts you're following their playbooks
+and uh and I guess there's there is also
+room for discussion on how to improve on
+those playbooks once you're allies. And
+so it sounds like there there may be
+interesting instances where there is
+some controversial pieces that you then
+want to learn from each other on whether
+that constitutes as a violation or not.
+Right. Yeah. Absolutely. And I think the
+platforms are very challenged during the
+October 7th events. I'm sure. Yeah.
+Yeah. And and we've seen different you
+know different discourses on statements.
+I remember there was a you know there
+was a a contro some controversy around
+the statement from the river to the sea.
+you know, is this a is this a call to
+violence or not? Remember, there were
+different different opinions on what
+that meant, right? But platforms have to
+make decisions about innocuous content
+all the time. I'll give you an example
+from other research that I did was
+related to QAnon, right? So QAnon that
+conspiracy theory had this slogan where
+we go one we go all. The second that
+there was a consensus or there was
+enough indication that that innocuous
+nonviolating slogan was potentially
+violent or was going to be used to call
+for violence. Social media platforms
+removed that very much at scale. They
+were closing entire groups. If you had
+that as a group slogan, your group would
+be closed. So platforms are aware that
+languages change all the time. that
+slogans that don't necessarily hit you
+over the head as violent or a threat can
+be used to perpetuate violence. And I
+think increasingly as the social media
+platforms rely more on video and rely
+more on visual cues. I mean, one of the
+biggest issues that platforms are still
+scratching their heads on how to enforce
+is the inverted red triangle, which is a
+symbol of kamas, right? And you saw that
+show up across all of the campuses. It
+showed up online first. It was
+iconicized online first. Interesting. I
+guess a part of the challenge is how do
+you scale this monitoring and this
+classification to get to a point where
+you actually have coverage and that
+sounds like really really big effort
+even you know of course for humans but
+even technologically requires a lot of
+resources. How so how does cyber deal
+with the actual task of of monitoring
+and and scanning for these types of
+content? Yeah, we use a we use a host of
+different technology based solutions and
+I think again generative AI presents
+additional opportunities and it's up to
+initiatives like cyber well to outsize
+the opportunity and minimize the risk
+because we know there are bad actors
+that are leveraging these technologies
+for really really bad uh usage. Um, so
+we use a host of different I would say
+primitive AI, open source intelligence
+tools and really expertise. But to me
+that's again the opportunity of
+generative AI and agent AI is you can
+take expertise a very specific
+methodology about anti-semitism
+identification and policy violation and
+create a solution that is scalable. It's
+a challenge for us especially as a
+nonprofit. Um, it's a different kettle
+of fish and I very much try as much as I
+can to learn from industry leaders and
+private sector leaders on how we can
+grow cyber well like a business. Um, but
+it's it's a new territory, but you got
+to try because I remember when I was
+doing anti-semitism research and I got
+familiar with all the legacy
+organizations and I just saw that this
+entire industry, the social media and
+tech space just wasn't being serviced at
+all with any kind of anti-semitism
+solution. And I thought it was a massive
+oversight. So, I'm very proud of what
+we've built and also the team and the
+work that we do. And I I know how much
+of a resource we are for these people
+and for the decision makers at the
+platform and I think it's an amazing
+thing. So where are we heading to from
+here? What what's you know what does the
+next couple of years look like for
+cyberwell? The next couple of years is
+is leveraging generative AI with our
+high integrity data around anti-semitism
+to create the first online anti-semitism
+compliance algorithm. That's our main
+focus technologically. But we're also
+very much focused on expanding into
+additional platforms. What are the
+platforms of impact? From a professional
+perspective, you could say LinkedIn.
+From a campus perspective, you can say
+Yik Yak. It's the possibilities are
+endless. And we've seen a real value
+also into multiple languages. 90% of the
+anti-semitism efforts are only focused
+on English. Anti-semitism is a global
+problem. And we know from a content
+moderation perspective actually the
+enforcement is very poor on languages
+outside of English. So those are some of
+the expansion kind of vectors uh for us
+uh and to scale cyber well to its
+fullest potential as a trusted partner
+for social media and big tech in this
+space. Well, it's a super important
+problem and sounds like already over the
+last few years you've had a b
+significant impact and it sounds like
+the the the better the work that you do
+the the less we will see of it online.
+Hopefully that's the goal. Yeah, it's
+it's an interesting phenomena and thank
+you so much for coming here and for
+sharing the story and we're all
+championing for it. So, thank you.

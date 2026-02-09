@@ -1,0 +1,521 @@
+you can do something fast and crappy for
+lack of a better term or you can do it
+slow and gold plated and as an executive
+the tech executive you have to decide
+somewhere in that Spectrum how you're
+gonna you know bring the product out the
+problem with doing fast and crappy is
+that fast and crappy is going to come
+and bite you in the backside at some
+point in time the question is is when
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello and welcome to 20 minute leaders
+today I'm with Gordon allott the
+president and CEO of broad Peak Partners
+the developer of the K3 K3 is a software
+that takes data from anywhere allows
+users to transform filter and unify
+through an intuitive UI and send it to
+anywhere before founding broad Peak
+Gordon was a consultant and Maternity in
+the financial sector this included
+advising a wide variety of bold bracket
+Banks and hedge funds on derivative
+trading and he led the energy trading
+and risk group for Sapient delivering
+trading projects for Duke constellation
+JP Morgan Chevron and others prior to
+Sapient he was part of a startup leading
+the USA and VP of Business Development
+and VP then Asia pack now Alstrom Gordon
+practiced as a derivatives attorney has
+a JD from the University of Denver and a
+Bachelors of Arts from Drake University
+this is going to be a great and fruitful
+conversation I'm really
+um really curious to hear about your own
+Journey as well as that of K3 and and
+sort of a human computer interaction
+especially with non-technical people
+when it comes to data decision making
+and organizations so a lot for us to
+unpack in these 20 minutes as usual and
+um and we'll get started right away tell
+me a little bit about your own your sort
+of your own connecting the dots looking
+backwards if you have to sort of look at
+your career go ahead
+I mean so uh kind of what I would say is
+a very non-traditional technology path
+right I was a derivatives attorney in uh
+big bank and so we had uh always uh the
+so the three founders of the company we
+had always worked in in large financial
+institutions and
+um you know we we got together and and
+you know sort of a highlighted a major
+problem in the organization around
+integration which is it's like every
+time you want to try and move data from
+one point to another you have to go get
+a developer to do it and it creates this
+massive bottleneck in the organizations
+like the normal way like it's just
+you're an executive and you're like look
+I need system a to talk to system b or I
+need system a b and c to go over to this
+database
+um the first thing you do is you grab a
+developer by the caller and you're like
+okay go code it up
+and that works actually it works really
+well the problem is is that the business
+starts changing and uh when the business
+changes there go back to that developer
+like hey can you come and like redo this
+code that you did before and they're
+like yeah I'd love to in a month when
+I'm done with my current project right
+so that's kind of how it all started and
+uh you know so K3 we we kind of decided
+to to build it differently
+um that was the the evolution of low
+code integration or that was the the
+beginning of it and
+we uh we started it differently we we um
+we bootstrapped it from the beginning
+uh for the first year none of us took
+any salaries uh for the first year and
+just you know got the product built
+um started taking it out to uh the
+market and you know we got into Tech
+Crunch and some of those kind of things
+but you know we we did we we have uh
+continued to to bootstrap it so we've
+you know we've now uh bootstrapped K3
+well through the formative phases into
+you know you start going past five six
+seven million in Revenue
+um and
+um yeah I mean you just uh so once you
+bootstrap through uh the the sort of the
+beginning phases it you just you're just
+operating a normal uh a normal software
+company
+um and so yeah so we've we've continued
+to be able to do that without uh any
+Venture backing which is a little bit
+it's a little bit different Journey
+a little bit of a different Journey I'm
+sure and
+um the decision you know 15 years ago 16
+years ago to bootstrap this yeah you
+know quite a you know heavy space I I
+don't know how many were working on ETL
+15 years ago I know that I've I've been
+dealing with it myself as an engineer of
+course over the last five years or so
+what what happened that led to your
+entrepreneurial decision to to bootstrap
+this and maintain this bootstrapping
+environment throughout the journey I
+think it was uh you know
+in terms of whether to bootstrap or not
+bootstrap there I don't think there's
+anybody who's anguished over that more
+than I have
+um because even even today you know we
+consider it and the thing you have to
+know about bootstrapping is you are
+deliberately giving up growth you're
+deliberately giving up growth in order
+to achieve uh you know basically control
+and Destiny the the number one thing
+that has kind of kept us in bootstrap
+mode is
+um
+uh kind of our decision making about
+product so it's very easy to get out
+over your skis as they say in terms of
+uh you can sell a product that's not
+complete in fact that this is a lack of
+a better term sell a product that that
+is it is not really ready for prime time
+and then you kind of backfill it that's
+a very uh that's a very typical thing to
+do and and with us I mean I I think that
+we we are very deliberate about our
+functionality and and how we approach
+things we're conscious we're constantly
+conscious of what we call technical debt
+so you know the the thing is you can do
+something fast and crappy for lack of a
+better term or you can do it slow and
+gold-plated and as an executive the tech
+executive you have to decide somewhere
+in that Spectrum how you're gonna you
+know bring the product out the problem
+with doing fast and crappy is that
+fast and crappy is going to come and
+bite you in the backside uh at some
+point in time the question is is when
+um and uh you know so so we're
+constantly you know thinking about all
+of that stuff from a product perspective
+um but the other part I think uh the the
+three founders is we just didn't want
+the noise
+um we we were you know a lot of some
+investors are very awesome and sort of
+give good Sage advice and others are
+very loud and pushy and and really want
+to you know drive you into you know
+higher and higher echelons of Revenue so
+which is fine
+um but you know it is uh you know just
+in terms of of uh ourselves yeah that's
+that's uh that that's been our approach
+to it
+and so as you uh have seen the market
+from back 15 years ago to today how has
+the market shifted how has the landscape
+changed in your perspective and in your
+understanding of the needs of these
+customers
+well the needs are so the needs are
+interesting I mean we're squarely a B2B
+uh you know Enterprise sale
+um so the integration software it's for
+companies who have big data needs move
+data in real time all of those kinds of
+things
+and the the drive for that segment of
+business uh is efficiency so and and I
+you know this started years ago and it
+keeps going which is everyone has to do
+more with less I mean
+the truth is is like you have the 2008
+recession
+and there was a lot of jobs lost and
+they really didn't come back into the
+organization right I mean it that
+recession drove efficiencies that quite
+honestly just stayed and then we kind of
+went into the pandemic and that drove
+another wave of efficiencies where you
+know look people are doing they're
+they're being asked to do a lot more in
+their jobs and if you look at it like
+just everyone is stretched so
+unbelievably thin
+um and that creates real opportunity for
+technology companies because it's like
+look if you can help somebody in their
+day-to-day job do things better more
+efficiently efficiently so they can go
+home and I don't know take their kids to
+soccer and stuff like that that is that
+is it is uh an amazingly powerful
+um
+uh sale actually where you're really
+just helping people on a day-to-day
+basis
+and uh that is that is probably
+increased I I kind of just see that
+increasing more and more I mean if we go
+into a recession now I mean there's a
+lot of people talking about we're going
+to go into a recession globally and that
+type of thing
+and this is the Catalyst for those
+driving those kinds of efficiencies it's
+sort of like okay all of a sudden
+there's a lot of people who are on the
+job market and they know about a real
+material problems that they can solve
+with the technological solution and
+maybe they just couldn't get any air
+time for it when they were at their
+company and so they start a company and
+the next thing you know we've got
+something you know pretty pretty awesome
+so
+um yeah that's uh that that's probably
+been the biggest shift I think in the
+last you know 10 years or so
+so walk me through if you will the sort
+of the the product or the journey that
+you go through with with an organization
+that you work with yeah
+the you know it's very interesting
+because our our biggest competitor so as
+a low code integration ETL solution
+our number one competitor is the
+internal developer like they they are
+some they're like no no I want to build
+it you know like okay I get it you want
+to build it that's that's okay
+um and so the thing is is that we're
+really not trying to compete with that
+internal developer we're trying to shift
+workload which is basically listen we're
+going to let's say you've got you've got
+three apis and you've got three Legacy
+systems and I want to get data out of
+those six systems and I want to get it
+to a database right at pick one
+snowflake Microsoft SQL Server it
+doesn't really matter what it is
+so in order to move that stuff through
+you're going to have to a move it B
+stream it uh C transform it
+um load it and also has uh basically
+some statefulness around it so like did
+the data load correctly did it not load
+correctly some of those
+um you know so features in there so the
+way that we've solved that with K3 is by
+abstracting most of that into a user
+interface so that a business analyst can
+tackle 95 of the workflows and
+um so you know in terms of data
+transformation like we have a rules and
+a data rules engine it's just when then
+else statements that the business
+analysts can deploy to okay it's this
+special case and I need to deploy it to
+this data right
+um so so it doesn't really get rid of
+the developer it never it never does
+trust me
+um it's really just I mean
+so it's you know it's the old it's the
+old uh adage is kind of like you know
+uh a very simple ETL function is like
+mapping right so I'm gonna map uh a data
+from one system to another
+um did you get a comp side master's
+degree to Matt data
+if it's kind of can you do it yes you
+can do it you can do it in Python you
+can do it very quickly but if you do it
+in pi and it's your Python and you do it
+you own that forever right I mean you
+are never gonna be able to let go of
+that and the whole idea is like what we
+have to stop this stuff and this low
+level stuff
+developers don't waste your time on it
+it really kind of um
+when developers start you know talking
+about their you know their ETL prowess
+on python it's kind of like okay that's
+that's probably very true but you're
+shooting yourself in the foot brother I
+mean it's kind of like because in a big
+company you're never going to be able to
+that code is always going to have your
+name on it and you're never going to be
+able to let go so this is where we come
+in it's like look we're gonna we're
+gonna put this into a recreatable
+environment where business analysts can
+get in and do 95 of all of those
+functions and that's it and you know it
+it's it's just a kind of a better way to
+go but that's the that's the type of
+efficiency that we're trying to to push
+in the organization
+so if you had to if you had to
+um think to sort of Envision what or
+distill what is the vision of K3 you
+know long term how do you define the
+vision of the company yeah so so for us
+it is all about so it is it is driving
+Data Solutions right so so companies
+have data problems and we are here to
+solve those problems sometimes they're
+very hard problems and sometimes they're
+not hard at all but at the end of the
+day here's what here's what you normally
+see is
+um you know it's sort of like hey you're
+a CEO of a company can you see
+could you see today your daily p l like
+can you see your like a p l explained
+where I can see how much money we made
+today I can see how much we spent today
+and you can see the bottom line today
+and see all of those levers that are
+happening now that's a that's a
+brilliant data idea
+and the whole idea is can we get the
+data to populate that real-time p l for
+example uh or some other business metric
+and and the trick is is that in large
+Enterprise
+you run into a lot of politics you
+allowed to run into a lot of stuff and
+the whole idea is like let's democratize
+that data and come up with real and
+meaningful Data Solutions so that we can
+achieve these goals and that is our that
+is our absolute Mission as a company is
+solving data problems that's that's what
+we are all about
+awesome I love that and tell me a little
+bit about your own your own Journey so
+both you know even take me back 15 years
+to the Inception of K3 from from
+personal standpoint what what happened
+there for you
+we were so it's kind of uh you know so
+so I started out as a lawyer
+um and it wasn't very long before I
+realized that I really wasn't into
+practicing law
+um and I got you know really pulled into
+the technology side so started doing
+business development for a software
+company back in Silicon Valley
+um and that really uh hoovered me into
+the technology world and and you know
+I've kind of been hooked on it ever
+since so
+um and you know it's one of those things
+where I I absolutely love technology I
+am a total technophile in terms of
+and I gotta tell you it this is the
+Golden Age of Technology you cannot keep
+up with all of the amazing just even
+just keeping up with you know what's
+rolling out on Apache and stuff like
+that is is a full-time job let alone
+some of this other stuff I mean there is
+just there's Tech new technologies that
+are rolling out all the time that again
+can make really profound changes so I
+have always loved that stuff and and you
+know really uh Amazed by some of that
+stuff about how we can you know uh how
+could we pull this together into a
+product and so
+um we were all we were all doing I
+actually got got pulled in and uh was uh
+doing a after Lehman Brothers I was I
+was brought in to help wind down that uh
+that portfolio in bankruptcy actually as
+a consultant and uh you know we we sort
+of the three of us three founders we
+just got together we're like we let's
+let's start a software company let's
+let's just do this and so we just we
+just jumped in
+uh we got a tiny little office and it
+had at the time we weren't even using
+AWS and we had a big server that was so
+loud you couldn't hear anybody but it
+couldn't hardly hear anything in the
+office
+um and uh yeah we started building K3
+and just uh just started hacking away at
+it until we came up with a viable
+product that
+of course I was uh in charge of doing
+all of the sales and business
+development and marketing back in those
+days and so yeah it was it was a really
+it's been a US incredibly fun journey
+and the the trick is is I will I do say
+this to new entrepreneurs which is you
+know the thing is is
+the first year I don't care what kind of
+company you are I don't care whether
+you've gotten funding or not funding the
+first year is a quarter mile crawl
+through broken glass right I mean it is
+just it is a the first year is the
+hardest slog and you just have to keep
+crawling keep crawling it sucks nobody's
+you know you're making calls nobody's
+calling you back don't worry about it
+keep crawling and you know because what
+happens is you get through that first
+year your brand starts getting some uh
+people start you know recognizing you
+they're like oh okay my I know that guy
+he's yeah okay that guy he's he's he's
+he's he's a good guy he's these are good
+guys I I understand what they're doing I
+know what they're trying to do you just
+have to make it through that first year
+it's tough
+yeah I love that did you anticipate the
+journey as it was well or what was the
+most surprising part of the
+entrepreneurial Journey that you've
+experienced
+um the the well the the surprising part
+is was was for me is like you're doing
+that crawl and then it turns and when it
+turns so you kind of have the the
+product Market set together the product
+is doing what you need it to do the
+sales message has kind of made its you
+you've got it polished up correctly
+where your target the messages is
+resonating with the customer
+and you know that happens when they
+start to when you're in a meeting with
+them and they can start visualizing what
+they can do with it
+that's the turn and when the turn
+happens it's absolute magic it's really
+fantastic and it I got to tell you it
+just takes a while to get there it
+doesn't happen overnight
+um and you really do kind of have to get
+in and you know wrestle with the ideas
+around you know what your product is and
+and what it needs to do and all of those
+kind of things that's the surprising
+thing and it's amazing when it happens
+I can see in in the sentence and in your
+eyes that you're reflecting back to
+those moments when the when it actually
+happened and and it sounds like it was a
+very very meaningful
+and validation and transition from the
+crawl to yeah walking and I I remember
+listening to Steve Jobs and he was
+talking about when the iPhone first came
+out and you know they were sort of like
+uh might might be a thing it might not
+be a thing and then he went out and he
+started seeing people with the white you
+know the original white headphones and
+he's like it's happening
+it's kind of like that right it's like
+it's happening yeah yeah awesome Gordon
+I really want to thank you for the time
+um
+looking forward to continue trying from
+the side best of luck with K3 and the
+remaining journey and the many more
+Journeys to come thank you very very
+much thank you so much I appreciate it
+thank you
+[Music]

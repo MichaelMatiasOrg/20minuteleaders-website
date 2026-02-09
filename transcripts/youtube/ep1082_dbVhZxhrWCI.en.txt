@@ -1,0 +1,399 @@
+there are some Industries in which you
+have teams of 50 or even 100 specialist
+just reviewing
+vendors just analyzing this information
+it's still not enough but for them it's
+really important because they really
+care about
+[Music]
+risk UD coin welcome to 20 minute
+leaders thank you so much for joining me
+today I'm really excited to talk to you
+all things security GRC compliance gen
+um H where the end of
+2023 and so obviously a lot to unpack in
+in this whole Space your own background
+is fascinating and I and I'd love to
+start there so again thank you for being
+here take me a little bit through your
+journey um um leading up to this world
+of security questionnaires what What's
+Happening Here
+yeah so what's um I'm a technology I'm
+my core is
+technology and like five to seven years
+ago kind of late I I started to really
+be focused on
+AI um and about um especially about
+linguistic AI I thought that there is a
+very strong potential over there
+um that that was like a few years before
+CH GPT and but but it was clear that it
+was going there uh because a lot most of
+the information today is at least the
+processible information is the text so a
+lot of information and um the technology
+was moving really fast over
+there uh so and also we were looking for
+some places that where you have a lot of
+um where language is the base the base
+of the work like and if you're familiar
+with the GLC area security compliance
+and risk management this is all about
+text you need to read a lot you need to
+write a lot H generate policies respond
+to questionnaire analyze hundreds of
+vendors reads their hundreds of pages of
+documents and evidence their responses a
+lot a lot of language and not an easy
+language to read or to write it's a
+combination of security technology but
+also legal
+compliance not not easy and just for the
+context because it's important it's you
+know what is what is GRC how did this
+emerge you know why do we have these GRC
+questionnaires now as part of our as
+part of our processes
+ER yeah so um GRC stands for governance
+risk management and
+compliance H you for
+example most of security incidents may
+may it be
+[Music]
+um
+ransomware or data Bridge it have to do
+with the vendors 67% of the security
+incidents start with your technology
+vendors and it makes because your
+information gets to hundreds of vendor
+and you're also dependent on hundreds of
+vendor to be able to provide the service
+or the product you provide you cannot do
+it without other ER other companies
+contributing whether it's contributing
+tools or contributing software
+contributing a so there it is much more
+likely that one of them will be the
+source of the problem than what you do
+internally but how do you verify your
+vendor how do you make sure that they
+are complied with privacy how do you
+make sure that they are they secure
+themself that the information that you
+share with them will not be lost that
+they will not have a ransomware attack
+that will stop their business continuity
+and it will affect your business
+continuity every security ER expert
+knows that it's very difficult to keep
+even your own organization secured when
+you have full visibility
+but when you need to make sure that your
+vendor or third party is secured it is
+much more
+difficult you have hundreds of vendor
+and you have very little
+visibility you and even if you had full
+visibility you cannot you cannot just
+can't too much information for a human
+being to process and
+analyze and how does the GRC help
+mitigate that risk of having so I
+understand the risk you have hundreds of
+different vendors coming in to assist
+you because you know everybody's working
+on piece of the puzzle and you were
+piecing it together to a workflow and a
+product for customers and then how does
+this world of
+GRC help mitigate the risk that one of
+these vendors will be the source of
+issue okay so um a part of DRC is a
+third party risk management and as part
+part of the ref fired party risk
+management is that you need to verify
+each one of your vendors this is the the
+process the problem is that until now
+until today it was not feasible too much
+data too much too many
+vendors ER so this is why we our thought
+was okay now we have generative AI now
+we can train a model to operate like a
+GLC expert and finally this
+bottleneck of understanding the vendors
+analyzing the risk based on the enormous
+information that they share with you
+finally it's
+feasible so this very important process
+of vendors ver third party
+verification that until now was just a
+tick the
+Box ER activity because everyone knew
+that this is not real they knew that
+they cannot really do it right because
+not enough resources in the world to
+deeply assess hundreds of
+vendors and now it's for the first time
+it's actually
+feasible and this that will contribute
+to the security to the overall security
+overall privacy but not only that any
+new regulation you will think about
+whether it's AI related or ESG every
+time that you want to make a real change
+in the world
+and to make sure that it's comply in the
+entire to the entire industry this is
+the first time with the generative AI
+it's the first time that it's actually
+doable that can you can actually verify
+every company in the world and make sure
+that they are all comply with this new
+regulation until now it was not real it
+was a tick the Box activity and everyone
+knew that and now you can finally do it
+so is there a different is there an an
+evolving expectation from regulators and
+cisos to transition from ticking the box
+to actually diving in and Performing the
+analysis check I mean what who who
+really who's aware of the Gen AI shift
+and how it changes the expectation from
+the GRC questionnaire deepness
+H so not yet people are still not aware
+of that currently vendi is the only
+company in the world that actually use
+this technology and we are still pretty
+small so most regulator don't know us um
+but it will probably change in the
+coming three to five years H the GLC
+industry in general is not very strong
+in technology and not a very early
+adapter industry uh so for this is why
+we thought it's important for us as
+people that care about what happens in
+the world H to start our company in this
+area because we know we know that
+privacy and AI regulation it's it's like
+it's important for us the human being
+not just um as an entrepreneur but also
+as a human being with
+kids I see um I see kids
+today when they are addicted to Tik Tok
+for
+example I mean Tik Tok is
+AI ER running and thinking about AI that
+optimize the time that H people will be
+inside um inside the network social
+networks right this is function of the
+AI in The Social Network they want you
+to be in there and to be engaged in
+there um so if you really want to fight
+those um er those phen this this kind of
+stuff um you have to you have to give
+the regulator and the industry a way to
+identify it and to make sure that
+companies that are complied sure and so
+so who are the buyers then of an
+evolved an evolved solution like vend
+because it sounds like a big prompt to
+asking these questions is coming from
+cesos Regulators Etc who who is then
+asking the question that vend then helps
+respond to yeah so we have two types of
+customers one one type of customer is
+the company's is a typically large
+companies that do verify their
+vendors and so for example there are
+some Industries in which you have teams
+of 50 or even 100 specialist just
+reviewing
+vendors just analyzing this information
+it's still not enough but for them it's
+really important because they really
+care about risk and they do the best
+verifying their vendor and with vendi it
+will be the first time that they will
+actually be able to do it so this is one
+kind of company Enterprises that uh
+either because of Regulation or because
+of Security Management will want to
+verify each of their
+vendor and the other type of our
+customers is the actually the technology
+vendors they want to be able to respond
+H to questionnaires more efficiently and
+more professionally
+and this is why they are our customers
+so that they um they can use it to
+better respond when they are assessed
+what is the actual product flow of vendi
+in this regard how you know if I'm a
+user how does it how do I actually use
+it h so if you are a an Enterprise that
+want to verify vendors you simply
+provide us with h the vendor's details
+like email and uh let us let us know
+about about yourself in terms of what is
+interesting for you and for each vendor
+what's the kind of information you want
+to get about this vendor H for example
+is it do they does this vendor have your
+um will have your sensitive information
+or customer informations Etc and then we
+do we run the entire process for you we
+via the platform we will generate the
+questionnaire or use questionnaire that
+you define ask the vendor help the
+vendor to autocomplete based on their
+documents and to find the most relevant
+section in each document for each one of
+the question and then when you will get
+back the responses you will also get um
+like a grade of vendi output
+professional this response
+is and based on that and on the grade of
+the responses and the grade of the
+evidence of the vendor you will get a
+rore for each of your
+vendors how do you s how do you see them
+gen fitting into this you know where
+which which aspects of generative AI
+ecosystem Empower you to be able to do
+this a lot more efficiently and to and
+it sounds not just you're not just
+saving time but you're also mentioning
+that you're able to go deep deeper and
+more in depth into the offerings right
+yeah so one aspect is the ability to
+analyze the response of the question the
+question is free text and the response
+is free text and you need dedicated
+model that was trained specifically to
+understand this area to say okay this
+response is professional or not
+professional and if it's not
+professional then why why what is
+missing what should you as the buyer ask
+the the vendor as a follow-up
+question H so this entire thing is
+generative AI H another aspect is the
+assessment of the documents H we need to
+understand exactly what's written in the
+documents and the for example in the
+audit reports but also what is missing
+over there because many time the vendors
+want to make this audit as simple as
+possible so they can pass and you need
+to see how professional they are based
+on what they choose to
+share and the third thing is that we
+auto complete the question the responses
+to the questionnaire based on previous
+information so we really if you look er
+um
+inside inside the solution you will see
+like 90% Ai and 10%
+engineering wow going back to the
+um first days of vendi what you know the
+founding Story how how did this whole
+company came to
+me um so it was me and my and my
+co-founder which is also my friend we
+work together for seven years at
+broadcom er we knew what we want to
+solve uh this third party risk
+management H but the technology was not
+mature enough yet to solve it the way we
+are solving it now H so we started with
+the vendors with just autoc completing
+responses based on past responses and
+then the solution was evolved over time
+we are both me and my co-founder are AI
+um experts and H we also have a mainly
+my
+co-founder strong understanding in GLC
+and then we hired the um
+so we we got um we first started as
+Engineers we started with a product H we
+even had like free paying customer
+before raising any money just me and my
+co-founder playing a and it it was not
+small companies it was for Nasdaq
+companies ER that paid for this uh AI
+based solution
+ER and then H then we got first money
+and
+things we could hire like better AI
+expert than us and better GRC expert
+than us and we are evolving since then
+uh we raised um seed ER like few months
+ago H from nfx disruptive AI
+cardan leading um Le leading
+by now we have almost 100
+customers yeah it's
+um I
+mean this is the the advantage of being
+the only one that use generative AI in a
+certain industry I'm sure it will not
+last for long but our goal
+is H to to make the most of
+that and so when you have 100 customers
+I mean you're just at this point you're
+already able to provide the
+software um and they can then leverage
+it autonomously to to the communication
+is you're already sort of hands off with
+it h I
+wish h no it's a like we learn a lot
+from speaking with customers I I
+wouldn't even even if I could do it like
+with
+the like completely automated that you
+wouldn't want to because at the end
+there is really like Endless
+Possibilities to innovate in this area
+with the generative Ai and we do want to
+keep keep going and keep adding use
+cases H we want to make sure that even
+when the other companies will do what we
+are doing now so we will be we will
+already be in somewhere else um and so
+we we really want to keep this um
+technology Gap and product Gap from from
+everyone else H So currently we are
+still not in the in in the phase when we
+just want to scale with the same product
+same thing just scale scale scale ER we
+we really want
+to optimize the product uh so that when
+we start scaling it will be scaling
+100% udy thank you so much for spending
+this time with me um obviously you know
+you know a lot about the space and I
+love how you know we started this
+conversation about the evolution of of
+the GRC and the these questions and
+being able to to identify the vendors
+properly and to make sure that the
+organization is secured if if before um
+it was mainly ticking the Box because it
+was too much and too complicated and too
+cumbersome to look at hundreds of
+vendors and dive into them now through
+through the new tools in the AI space
+were able to leverage what it sounds
+like much smoother workflow to enable
+organizations to perform this vendor
+check but also to be compliant and to to
+get their security right obviously with
+the impact being less breaches and less
+problems down the line so wishing you
+best of luck udy um um it sounds like a
+great journey and a great company and
+excited to fall from the side so thank
+you for joining me here thank you so
+much for having me it was great thank
+you very very much
+[Music]

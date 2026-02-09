@@ -1,0 +1,688 @@
+so a lot of the challenges in the
+automotive industry for a startup
+company
+is not are not necessarily technical uh
+there um there is a very large barrier
+you have to cross
+to get accepted into the club welcome to
+20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with
+c-tech
+we're talking about automotives meet
+dionys tesler
+cto and co-founder of gardnox cyber
+technologies
+donnis tesla chief technology officer of
+the automotive industry's first
+cyber tech tier supplier guard knox is
+one of the central figures propelling
+israel forward in the sector in 2016
+dionys merged his aviation technology
+experience and his lifelong passion for
+driving fast cars
+into producing the cyber technology that
+serves as the foundation for software
+defined
+and service oriented vehicles prior to
+this
+dionys worked as an algorithms engineer
+for image processing startup transcript
+which was acquired by samsung
+electronics the artist holds an msc in
+computer science thesis in computational
+neuroscience laude
+and a global mba with a focus on global
+strategy from the interdisciplinary
+center of herzeglia
+dionys tesler welcome to 20 minute
+leaders how are you
+i'm good thank you very much michael
+it's a pleasure to be here
+thank you are you calling from the
+offices of guard knox right now
+yes i am uh thankfully so uh we haven't
+been hit
+too hard by kovet in that regard so
+happy to be in the office
+and that's amazing and where is the
+office located
+uh we are actually in ramle uh
+not a startup capital in israel uh but a
+fun and cool place to be in
+uh surrounded by a lot of cars and
+trucks which is what we like
+and uh less traffic so
+why not i love that okay so i think
+we're gonna have to start on on that
+front
+i don't think i've yet to to have a
+startup here that is
+based out of ramlet tell me a little bit
+about that about this decision
+you know also in the context of guard
+knocks and and you know why why rumbling
+um so first of all most uh
+most people from tel aviv coming in to
+ram they think they need a passport
+um some of them have lived their entire
+lives in israel
+and not been to ramle so it's really
+funny to hear although we're a small
+country
+it all started because one of our first
+investors was actually the owner of
+talbora group
+charlie ignat and
+he was kind enough to give us some space
+in the tavora compound which is located
+on the border between ramle and
+and that has proven uh really convenient
+for us
+because they have a lot of
+infrastructure here they have garages
+they have trucks they have cars they
+have
+people who visit from the oems and
+it's been great being here we're
+actually moving to even a bigger
+building right down the street
+and for the foreseeable future we we
+plan to stay
+you know bringing the ecosystem to ramla
+that's very very cool okay so now take
+me back a little bit higher level
+guard knox automotive cyber security
+you're working on some on on some
+extremely cool projects i saw whether
+it's with the iron domes or with with
+the air force in general
+tell me a little bit about about guard
+knocks and and how cyber security plays
+a part in the automotive space from your
+perspective
+um yeah so we
+the founders of guard knox myself and my
+two co-founders we are
+air force guys basically and uh we
+worked
+really on non-ip systems so a lot of
+people coming in from the military are
+coming in from a very
+deep i.t background and that's actually
+not us
+we're coming from missiles airplanes
+these type of things you mentioned iron
+dome
+and when when we came together and said
+what are we good at and what can we do
+together
+we essentially figured that doing things
+for the iet world
+is not really our core value or our core
+strengths
+and we know more about moving things
+fast moving things
+real time systems and things like that
+and what's applicable in the real world
+and
+um the idea of cars came along so i have
+to say that
+throughout this entire process i was the
+devil's advocate i was against
+all the things that we're doing today so
+i was the guy saying
+no to everything we are doing today in
+garnok yes
+because i think six years
+yeah it was like i spent six years in
+in like proper aviation working with
+lockheed martin
+uh working with the us air force
+and okay so we set out to automotive and
+i said that's a really tough industry
+it's similar to aviation it takes years
+to do something it's really hard why
+should we do that
+and then they went okay so let's do
+cyber security because we did a lot of
+it and i said but i'm tired of doing
+cyber security i don't want to do any
+more cyber security
+and then there's like okay so let's
+check if there is a market for that
+in automotive and it was my task because
+i was the devil's advocate to check
+that so i came back and said yeah well
+there is a market for that and we can
+actually do something
+because it's similar to the way that
+we're used to in aviation
+and so it began but i'm happy to say
+that today
+we're doing much more than cyber
+security so that's also great
+and second like the saving grace for me
+was that i'm
+i'm a car guy although i spent lots of
+years in the air force and airplanes are
+cool
+but i think cars are way cooler so for
+me working with the automotive industry
+and cars was
+was a big plus that's really cool
+hopefully you know one day not too far
+in the future the
+automotive industry and the and you know
+the air
+traffic industry are gonna start merging
+into one but i think we have a little
+bit of time for that
+but until then tell me a little bit
+about you know as the devil's advocate
+what was the process for you like as
+you're
+you know playing that role but at the
+same time you're you realize that there
+is a threshold that you need to cross
+in order to convince yourself and the
+rest that there is actual
+potential for product market fit here
+so i try to you know i try to look at it
+in an objective way
+and not get kind of my feelings involved
+in that in that sense because the
+process that we had in deciding what
+we're going to do was actually
+very structured so it's not like in the
+movies where
+we all had this eureka moment that we
+should make this type of product or
+another
+we actually sat down made a list of
+things we think are interesting and
+we're good at
+and and maybe new and innovative
+and we started evaluating them one by
+one and we actually came to this
+uh idea of really building things for
+the automotive industry
+and um i had you know we we had to do it
+face value
+and i really sat down and started
+researching what the automotive industry
+uh is doing today today being five six
+years ago
+and what it seems like they need and it
+was interesting to
+to see that they are going through very
+similar processes
+as the aviation industry went through
+like 15 years ago
+and since i kind of saw that happening
+in real time
+i said that's great so we have the upper
+hand here because we kind of saw what
+happened there
+and we can predict a little bit into the
+future and that actually worked out
+quite well for us because
+patents we wrote like years ago and
+already accepted and everything
+now people in the industry are starting
+to
+talk about exactly these things and we
+were very lucky
+in that sense on the one hand but on the
+other hand we did you know we did look
+at it
+in an analytical way we did the process
+to figure that
+out so that was really cool and i had to
+be honest with myself and with my
+co-founders
+uh and not you know say ah because i
+don't like it then we're not gonna do it
+uh it's hard right so take me what you
+have to do take me now
+a little bit you know higher in the air
+what is you know the space that you're
+in
+what are the biggest challenges that
+you're that you've realized
+that that now gardnox is coming to solve
+so a lot of the challenges in the
+automotive industry for a startup
+company
+is not are not necessarily technical uh
+they're um there is a very large barrier
+you have to cross
+to get accepted into the club because
+you you have to
+you have to realize it's an industry
+that's been kind of closed off
+in itself for 50 years in some cases
+there are partnerships there
+uh companies that work together for a
+hundred years okay
+and you're trying to get into that club
+as a new actor
+and we are actually trying to get into
+that club and disrupt
+things that are not kind of in the
+uh traditional sense of disruption in
+the industry like autonomous driving
+or things like that but really disrupt
+the some of the core things in the way
+that the car
+operates and they're like shocked at
+that they're like
+who are you you you we we have people
+working
+more time for our company than you exist
+okay
+and uh that that's a huge challenge
+that's a huge challenge and also being
+small and
+and building that trust and it was kind
+of a
+uh an interesting road so specifically
+myself i can i can say that
+i've spent about three years um
+in europe mainly in germany okay
+not in a relocation but 25 weeks a year
+which is almost a relocation but worse
+because you have to constantly travel
+it's like half the year you're there
+and to go door to door in in those oems
+and in those tier ones and talk to
+everyone who will agree to talk to us
+and convince them that we know what
+we're talking about that we're here to
+stay
+to generate trust to generate
+partnerships
+and then later on expand it into other
+territories
+which we're doing now and will continue
+doing even further so
+that has been i think one of the biggest
+challenges
+there is because it's just an industry
+not built
+or that in its mindset doesn't
+understand
+how it is to work with a new small
+startup company
+right so take me take me through that
+journey you're a small startup and
+you're going to these big
+you know incumbents and you know these
+huge companies that have you know
+dozens of years of partnerships with
+with their with their existing
+you know colleagues in their in the area
+and you know here along comes a new
+startup that is trying to
+you know change the paradigm or change
+the way of thinking in one way or
+another
+how do you even go about building that
+trust it's not like you can just you
+know i guess cold email
+you know 15 people and offer them to
+schedule a demo right it's a little bit
+more than that so how does that actually
+work uh so
+the the way that we chose to do it and
+uh
+there i'm sure that there are other ways
+but we we try to find a platform
+which gives us access to a significant
+portion of our potential customers uh
+and that platform can be an accelerator
+a scalarator whatever radar there is
+these days
+and we were lucky enough to to kind of
+meet uh both uh
+really cool guys from some of the oems
+who were scouting in israel and were
+here to help
+and on the other hand uh plug and play
+which i'm sure you know
+who just started a platform
+in germany for the automotive industry
+and signed in some of the big oems like
+daimler and porsche and then others and
+they created this platform because these
+guys when they went
+in to that accelerator they kind of
+committed
+to to having some resources to work with
+startups
+it wasn't easy but at least it provided
+a platform to start a discussion
+so uh we utilized our contacts
+uh from from the scouts
+that we were in touch with back then
+there was very few by the way
+and most of them were actually not local
+but guys
+from germany that were kind of trying to
+work here
+and that was an advantage because they
+were
+better connected into their parent
+organization
+and we utilized them to get us accepted
+into this plug-and-play
+program called startup autobahn and
+from there we basically now have a
+platform to to talk to some of the
+people with the oems and with the tiers
+and then uh the strategy was basically
+to to try and build uh
+initially the largest network possible
+within those clients because we're
+talking about companies
+that are hundreds of thousands of people
+okay so you have
+companies such as vw group which is
+upwards of six hundred thousand people
+daimler upwards of
+two or three hundred thousand people
+it's like huge huge companies bosch is
+four hundred thousand people
+like you know and to try and build an
+initial network to map out even the
+organization
+and which departments we should be
+working with and once you
+get that you need to develop a champion
+okay within that department or
+department
+or somebody that you can convince
+believes in you
+and also has the access and the
+kind of the influence to
+that other people trust so you get kind
+of uh
+you know trust by transfer so by
+proximity
+to to that particular champion and
+actually that
+is a really cool strategy that was
+uh we didn't invent it uh we were part
+of an accelerator program even before
+that here in israel
+by ecomotion which is kind of the parent
+organization for
+automotive startups and it was funded by
+fuel choice in the prime minister's
+office
+and back in the day it was in tel aviv
+university and there was a guy there who
+headed it ariel
+seller who is now heading an accelerator
+in barilan
+and he is like an ex-venture guy from
+the valley
+and he really said guys you shouldn't be
+focusing on technology
+you should be focusing on building
+champions
+in the organizations that you want to
+sell to
+okay forget about the technology for now
+build human relationships build trust
+with your potential customers and then
+then
+invest in the technology so we really
+utilize that
+a lot of you know fake it before you
+make it
+type of approaches and have nice
+powerpoint slides but
+back then nothing behind them except
+ideas cool ideas
+and convince some people and then move
+forward from that
+and that start about one platform
+basically allowed us to sign a couple of
+pocs
+with literally we had nothing it was
+nothing
+uh and uh because you know it's really
+difficult to build an automotive product
+or something that goes into the car
+you first of all you need the actual car
+you can't just build it in a generic way
+so which car you're going to build it
+for and that that was
+the first barrier so now when we signed
+off those pocs we actually
+had that particular car and we could
+build a product
+towards that particular car based on our
+technology
+and that was cool because we were we
+were given access to places like vaisakh
+where
+porsche is the main porsche r d center
+we went into prototype vehicles
+instrumented prototype vehicles right in
+the
+main porsche garage there literally
+connected the wires from the main wire
+harness to our unit
+in in the car like it was really cool
+and in daimler and mercedes
+and that was the huge big jump start
+like we sent
+most of the company or a large portion
+of the company to be in germany for a
+couple of months
+uh i even had the pleasure of going
+around with a realtor
+to get apartments to basically
+rent apartments for the teams that are
+coming in the various locations
+um i even have funny stories about
+renting apartments in germany uh
+and that that is so funny because i
+think one of the you know
+in you know it's a little bit
+counterintuitive because one of the
+things that you think about you know in
+a small startup the big strength that
+you have is moving fast
+you know creating technology that big
+companies uh
+or big incumbents can't because you're
+moving so fast but you're saying wait
+but
+you have to understand the context of
+the industry that you're in it's not
+like you're selling another
+cyber you know um product that you can
+just put a schedule a demo on the
+website and just take off from there
+you actually need to build that trust
+and i think it's really interesting to
+hear that
+you know from a small service
+perspective in your case it actually was
+building those champions that what took
+you forward building that trust on a
+personal level especially in these
+you know companies that have maybe
+hundreds of thousands of employees i
+think that's really really cool
+and and i i have to hear you know one of
+those funny stories from
+renting apartments in in germany i have
+to
+okay so one of the big issues in germany
+is that they're really
+strict on who rents the apartment and
+they want to be sure
+that you'll be able to pay even if you
+run them for only a couple of months for
+short-term rentals
+and that requires like financial
+statements
+and things like that and obviously for
+us to provide them they're
+literally in hebrew or and right then
+you need to translate them and then they
+don't understand whether these banks
+so i i hit like
+i had a little bit of luck so porshi who
+was one of the partners in startup
+autobahn one day came along and said
+we are giving you a perk like in the
+porsche museum in suffenhausen you can
+rent a porsche for a couple of hours
+to just drive it okay and they offer it
+to all the entrepreneurs in the group
+to rent a porsche well basically to give
+us a porsche for two hours
+and uh for free well like a perk and
+but you have you had like 2500 euros
+collateral
+and i said 25 000. i don't care give me
+the porsche
+right and uh apparently i was like the
+only one
+because all the others were afraid for
+the 2500 euros
+so they reserved a bunch of cars and
+nobody came so they gave it to me for a
+day
+for like a whole day a brand new
+spanking red convertible 911 gts
+okay wow so i told when i figured that
+i'm getting it for a day i called the
+realtor
+and i told her listen let's go today in
+the afternoon to look at apartments
+so the realtor comes along and
+the owner of the house comes out and i
+show up
+in a brand new spanking red convertible
+porsche right
+no questions about financials everything
+is cool
+yes sir when do you need the apartment
+and for how long
+right and i used half of that day to go
+through all the apartments we wanted to
+go through
+to get it and to avoid all the
+contractual crap that people have been
+you know like scaring me for for about a
+month like all the guys in
+in plug and play living in germany said
+it's going to be a process and it's
+difficult and that
+so i basically did it all in half a day
+just like coming in a porsche
+i think there's way too many lessons to
+be learned just from that story thank
+you for sharing it with that that is
+just so cool
+and there are so many things that i want
+to talk about but but you know
+unfortunately
+20 minutes are almost up and i have a
+few fun questions are you ready for that
+i'll give it my best shot all right
+we'll start off easy and we'll get a
+little bit more complicated
+a favorite subject in school k-12
+actually it was programming i really
+liked programming i like computers
+when did you start programming
+uh i i didn't start before so i didn't
+even have a computer at home
+too early and the first one i had i
+didn't really like it
+so i only liked it later on due to the
+fact that i started playing computer
+games
+the old floppy like five inch floppy
+based computer games
+and i only got into programming really
+at school i wasn't like a computer nerd
+before that
+and i'm happy i i did wonderful
+okay one of your role models
+professionally or personally
+wow there are like so so many people i
+think that
+uh we can go a little bit uh
+towards the the cliche road people like
+bill gates who is you know of course
+somebody
+you look at and you look at their
+history and what they did but
+uh i'll try something different here um
+as i said i'm a car guy and i'm a fan of
+motorsports
+and there are a couple of race drivers
+which i really look at and i think that
+they're
+amazing people people like lewis
+hamilton who is the current f1 champion
+who
+literally came from a tough neighborhood
+uh
+in the uk with with a really rough
+background
+into a sport that it's probably one of
+the most expensive sports in the world
+and became a seven-time world champion
+in line with michael schumacher
+but coming from nothing which is almost
+unheard of
+or people like walter roll
+who is a driver that beat audi in a
+rally
+when audi was considered unbeatable in a
+car which was considered
+to be supposed to fall apart after one
+race
+like you know these these type of things
+like the mindset that these guys
+have and for me doing it kind of on an
+enthusiast level
+is absolutely amazing it's like a race
+driver mindset is
+absolutely amazing i love that okay
+and three ques three words that you
+would use to describe yourself
+um adventurous risk taking
+let's say it's one word and
+but analytical or calculated
+okay adventurous risk taker but
+analytical and calculative i love that
+the honest thank you very very much
+best of luck with the company best of
+luck with with everything you're doing
+and
+keep taking those those amazing stories
+they need to be shared
+it's very very cool and stay safe and
+stay healthy
+thank you youtube it was a pleasure

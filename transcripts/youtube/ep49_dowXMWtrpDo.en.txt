@@ -1,0 +1,612 @@
+[Music]
+foreign
+dan cyder thank you for joining me
+thanks for putting this together how are
+you doing uh
+doing pretty good i mean there's a
+there's a cute dog on my lap i'm
+chatting with a
+fellow entrepreneur and i'm looking
+forward to connecting
+wonderful so where are you calling from
+where are you now i'm
+in hayes valley in san francisco
+hayes valley cloudy day it was pouring
+rain earlier
+i was on a on a call with a friend and
+there was just a torrential downpour
+and here i am like trying to connect
+with them uh it was a lot of fun
+yeah definitely well you know i mean i'm
+in southern california now and it's
+still sunny here so
+it's pretty interesting how you know
+we're in the same state but we could
+have such differing weathers
+it's a beautiful day outside even though
+from your camera it kind of looks like
+it's very sunny
+so i'll take your word for it
+um mood tracking
+what is it i mean you have you have
+quite a personal history with mood
+tracking from your article on the
+huffington post but i'd love for you to
+tell me a little bit about what
+miso is and then tell me a little bit
+about yourself and how you even
+came to this thing uh those are
+those are big questions those are huge
+questions that we'll have to fit them in
+in 20 minutes
+so you want me to have a 20 minute long
+answer to that question oh no no no no
+let's just start i have many more
+questions
+um oh i think i think mood tracking's
+one like an up and coming trend um
+that most people don't realize that ten
+percent of the population do it today
+um there's like a quarter of american
+adults
+track their fitness with some sort of
+automatic fitness tracker
+and porter a quarter of american adults
+yeah
+holy crap and
+two decades ago the concept of automatic
+fitness tracking did not even exist
+now that we have uh tools to
+automatically track our moods like
+isu we're going to start seeing that
+same thing happening
+with people with this group of people
+who already track their mood
+and people who want to become more
+self-aware
+and generally happier like doctors
+psychiatrists they all recommend to do
+it
+um this is actually how i got into it i
+was diagnosed bipolar disorder
+i dealt with depression and anxiety
+and my psychiatrists uh and therapists
+all said dan track your mood but i was
+so full of emotional hubris at the time
+that i thought um like i know about how
+i feel
+i don't need some flimsy piece of paper
+to write this down i'm not going to gain
+anything from this and
+how did they how did they want you to
+track your mood like in what mechanism
+they gave me a piece of paper and
+they're like just write down how you
+feel
+okay and this was this was
+quite some time ago uh
+and now i i finally after
+like stumbling on my feet um and dealing
+with like horrible depressions and
+hospitalizations that i started learning
+that
+the more that i understood my mood and
+the more understood how my behaviors and
+activities all impacted my mood the
+happier i was
+and the better i could control my mental
+health and then i realized oh
+these these these medical professionals
+actually knew what they were talking
+about um
+oh wow we have technology that can
+automatically track our fitness maybe
+one day we could have stuff that can
+automatically track our mental health
+and that's when i set out on this
+journey to do it
+five years later we built an automatic
+mood tracker and i'm excited to bring
+this to support other people with their
+mental health
+so you know when you say when you see
+automatic mutual i'm automatically
+thinking about you know
+heart rate and and brain waves so so
+tell me a little bit about
+what what is mood tracking and and how
+do you how is miso specifically trying
+to
+trying to solve this yeah so misu
+misu tracks mood through uh
+our most expressive organ of our body
+dogs usually
+most expressive organ of their body is
+their tail we can look at a dog and look
+at their tail we can generally tell
+roughly how might they be feeling
+sure with humans we can look at their
+faces and while it's not perfect
+people have poker faces people put on
+performative smiles
+um it's pretty good especially if we
+look at trends over time
+and we found that misu so we trained a
+model how do you go into it
+um to predict people's level of
+happiness
+and sadness and anxiety through
+their face as they're on their phone or
+computer and we got
+86 accuracy so just to get this right
+the idea is that
+the the model you trained is able to to
+take
+a and a still image of a face and be
+able to give
+some sort of score for your mood levels
+on a variety of different scales
+you got it and so the first thing that i
+have to ask is
+like you mentioned i mean people put on
+poker face you know
+i'm thinking automatically about theater
+and people being able to turn
+to transform how they how they seem to a
+camera
+you know there are people who could
+smile at you on the street and you know
+i'm at stanford now and one of the
+things that they talk a lot to us about
+is mental health
+and sort of this duck syndrome that as
+you ponder as you wander the streets
+of campus you meet a lot of people who
+seem okay because they look okay
+but under the sea level their legs are
+wobbling like a duck because they're
+racing or they're stressed about
+something
+so where you were able to overcome that
+that sort of fakeness
+i think for the most part when people
+are on their computer
+doing their work or looking at reddit
+um or i think zoom
+is actually an exception to that where
+people are i smile more when i'm on
+when i'm chatting um and we
+look at we learn what people's baselines
+look at look like and then we compare
+their current state to their baseline
+and that helps
+the one overcome that problem in general
+that we just don't face that problem
+generally because people aren't
+performative while they're on their
+computer
+but then comparing to people's past um
+overcomes the problem of like what is a
+normal mood
+which is a really big problem yeah
+so the idea is that so it's not a single
+picture that's being taken it's actually
+a sequence of pictures that you take
+throughout my
+throughout my day to be able to also
+catch me when i'm not
+when i'm not looking at a camera and
+aware that i need to smile now so that i
+can seem happy
+during this conversation you got it
+and so so what's so what's been
+happening today has this thing
+so i know on the website you wrote that
+that it has worked for you
+is this is this something that's
+actually working
+yeah we we just launched uh recently we
+had
+a couple hundred people join the product
+um
+with a variety of responses like one
+person said
+um this like they're so excited to be on
+here
+automatic mood tracking is revolutionary
+uh
+and other folks are saying like this is
+great uh
+and they see a lot of potential in it i
+think it's it's very much in its early
+days and i'm excited to see where it is
+to go
+right so so i i'd love to hear a little
+bit more about your your experience
+with the bipolar disorder if you feel
+comfortable of course sharing
+and because um i you know generally when
+people are facing these sorts of
+challenges like depression and
+anxiety and so on they're not that quick
+to go
+on the huffington post and write an
+article about it uh
+so i didn't i i don't know much about it
+myself and i'd love to learn more about
+what it's like
+and sort of how can how can a product
+like misu help people with
+such such issues deal with them
+um i hear i hear two questions in there
+and the one is
+like what is it like to deal with
+bipolar disorder yeah
+and then the other is how can mood
+tracking help people
+with their mental health sure um and uh
+i i dealing with bipolar disorder not
+learning
+not knowing how to manage my mental
+health put me through some of the most
+challenging times in my life um
+like i i
+after becoming manic i
+which i feel like this deserves a lot
+more than five minutes to go into so i'm
+gonna like
+tr cut a lot of this out but i was
+happier than i had ever been before
+and one of my challenges with bipolar
+disorder is learning that
+sometimes there are certain states of
+happiness
+that actually aren't good for me that my
+body will naturally go to a happier
+state
+and i actually have to realize this
+and adjust my medication and adjust my
+behaviors
+that took me a long time to acknowledge
+um
+there's the aspects of like the
+depression
+and the anxiety that come with bipolar
+disorder
+um i went through some of my darkest
+times where i lost
+absolute like i lost hope i questioned
+what is the purpose of
+being here if i'm this sad um
+why do i want like and this is
+all that i can see continuing my life
+why do i want to continue
+there it's
+not having those internal like resources
+in my mind for how to manage my mental
+health
+um and like learning how to do it has
+been
+a decade-long journey and i'm going to
+continue learning and investing in it
+over time um because the opposite of
+poor mental health is just flourishing
+and that's what i look for so
+i mean the one thing that struck me is
+you're mentioning that you
+were trying to sort of understand your
+your mood levels and independently
+trying to gauge your medication levels
+and
+and how you can treat yourself is that
+something that
+you can reasonably reasonably expect
+somebody who's undergoing
+you know these inner turmoils to be able
+to sort of
+gauge their own medication and their own
+treatment
+something that i found really
+interesting um
+speaking to a user of our product um
+they said that they were considering
+stopping taking their meds
+and they they did they looked at their
+mood data
+for that week when they stopped it and
+it just tanked
+and they figured okay maybe this is
+because of the meds
+i'm going to try taking some more they
+they went back on their heads
+the next week they were actually in a
+much better place
+and it turns out that's that's a very
+common thing to do
+i've actually gone through that
+extreme experience myself of stopping my
+meds seventy percent of people
+or seventy percent of medications that
+are prescribed by psychiatrists or
+mental health professionals aren't
+consumed
+by their patients so because a lot of
+patients get them
+there's horrible side effects so if
+we're not grounded in reality
+for how these things overall impact our
+mind which we like
+it's we're just kind of going blindly
+and uh i think these sorts of tools can
+help people make better decisions for
+their mental health
+unbelievable i mean so first of all i
+mean it sounds like you you
+the journey that you went through is
+just tremendous and
+obviously i i could never i could never
+imagine what it what it's like to go
+through that turmoil
+and not having gone through it myself
+and and so it and and i couldn't think
+then of
+of somebody better than you two to to
+try and and solve this problem using
+tech so now you're
+now you founded a company called misu
+and and you're launching a product where
+you're trying to help others
+that are facing inner turmoils engage
+their mood
+mood swings is this targeting people who
+who have gone through similar
+experiences or is this for anybody
+that even the average joe that just
+wants to know how what they're feeling
+like
+look i think anyone who wants to invest
+in their mental health
+um this is definitely appealing to them
+we found that people who are more likely
+to
+pick something like this up uh
+and trimesu are people who've used
+fitness trackers
+or track other parts of their life and
+yeah i think there is there's just this
+growing
+a growing population of people who do
+are interested in taking care of their
+mental health
+um especially now with what's going on
+in the world
+i'm one i'm like one of the biggest
+advocates i think in the world for
+for therapy and going to a therapist and
+being able to
+try and articulate your feelings over
+time and having this subjective persona
+give you consistent feedback and helping
+you through some things that you might
+not
+be able and apt to go through yourself
+and i've what i've always told my
+friends is you know it's crazy how we
+can invest so much time
+in fitness trackers and going to the gym
+and eating healthy and counting calories
+and
+so and so on but the amount that we
+invest in our mental health
+is is a minute compared to all of that
+so do you use misu well i'm gonna have
+to try after this conversation
+yeah that's why i'm so happy that we're
+doing this because i mean this is and
+this sounds like something that every
+person should do
+and you know i'm i i was a commander in
+the israeli military up until recently
+and one of my responsibilities was also
+to have people serve under my command
+and
+they tell you an officer's academy you
+know you're not a boss
+you're not just a leader you're a
+commander you're
+a you're a brother you're a father and
+you're a friend all the same time and
+it's
+some of our responsibility to also gauge
+our soldiers
+feelings and and be able to raise some
+red flags when things
+when things don't go as they should and
+uh so i def i mean i'm
+already i'm a huge advocate for what
+you're doing where do you where do you
+see this going is this going to be
+sort of um something that every person
+will have on as an app on their computer
+and phone
+is this eventually also going to be some
+iot that's in the house and tracking
+their
+do you know their walking habits and
+sleeping habits
+where do you see it going uh i think
+first thing
+is uh wherever it goes is figuring out
+ways that we can be very respectful of
+people's privacy
+no matter what we do and that's
+something that we stick to and stand to
+today
+um i think moving forward is like while
+we
+do very much care about effortless
+effortlessly helping people
+understand their mood we care about
+improving it too
+and i see this sort of thing like we're
+collecting
+we might have one of the largest if not
+the largest data set
+on how people's moods change from when
+they enter an app to leave an app
+um and we're collecting like a hundred
+thousand um
+sessions a day right now
+and we're at a point in time where we
+have platforms
+like facebook saying that 60
+of the time that people spend on the
+platform it's harming their mental
+health
+600 million hours a day over
+of harmful usage they've admitted this
+now
+yeah we have dozens of members of
+congress that are trying to
+hold these companies accountable to
+reducing their harm
+and the missing part is the data
+they don't have the data and they don't
+have clinical studies and researchers
+don't know how to capture this data
+passed a sample of like 68 which was the
+largest which was actually the
+research that facebook shared 68 people
+facebook's not doing this research they
+shut down their well-being team
+like we have a really big problem at our
+hands and it's going to be even worse
+over the next
+like couple months as we're as what's
+happening in the world today
+and so we want to support anyone who's
+trying to hold these companies
+accountable so they improve our mental
+health
+or they at least very much reduce our
+harm because the net positive
+they are they are improving i know i'm
+going on a long rant
+i mean honestly i have to say that it
+sounds like you know i'm thinking of of
+the of how
+what type of ceo i want to be later on
+when i build my own company
+and this is one of those things that
+it's a growing trend especially in our
+generation
+where we are we want to be socially
+responsible with what with what we're
+doing and while
+you know business is important and
+growth is important
+i think that our generation of ceos is
+becoming increasingly
+conscious of how are we impacting the
+mental health
+and creating a positive experience for
+our users and i imagine that as a ceo i
+would want
+to to take your services to let me know
+hey this is what your app is doing to
+your customers
+because this is not something that i
+could track myself obviously
+it requires the expertise of of a third
+party
+that has the data of all the other apps
+as well
+yeah and i also know where i stand in
+comparison to other apps
+um simon
+[Laughter]
+i'm glad well let's get you using the
+using it for yourself first
+and yeah i i do see us heading to a
+trend
+where we have both consumers behaviors
+shifting towards products that improve
+their mental health more because they're
+measuring it
+um and then two is this coming from
+government
+um or new policy that forces companies
+to reduce their harm
+or creates a lot of incentive which
+means most of the products that we'll be
+using in the future as consumers
+but if we want we can have them designed
+to improve our mental health if we
+enable the right permissions so it means
+like
+i see most consumer products in the
+future being net positive
+and significantly reduce their harm for
+our mental health
+and that's a very different future to
+the world that we live in today
+um and it's one that i'm quite excited
+about did you know that you're gonna be
+a doing something in the space is this
+i mean because obviously i mean it's not
+something that right that just any
+person would think of naturally but i'm
+guessing that because of your experience
+it helped trigger this
+i think it was two years
+two years after two to three years after
+my diagnosis
+i wanted to give back to the community
+in some meaningful way
+i kind of looked around and realized
+most of the
+most of what we have for consumers is
+i'm here to catch us when we fall and i
+did not want anyone
+if i could help prevent people from
+going through
+the experience that all standard of my
+life that would mean a lot to me
+um so i i wanted to create um
+a system or help design a system that
+reduced
+the likelihood and would catch people
+before they even get to a point where
+they're close
+uh on the metaphorical edge yes
+wow well dan honestly it's it's
+so great to hear and uh and i'm really
+happy that we're
+that we've finally connected and uh i'm
+definitely gonna start using misu and
+and i'll and i'll let you know what i
+think and before we end i'd love for you
+to tell me
+three words that you think best describe
+yourself
+this is fun normally i'm very i'm very
+like i appreciate concision
+but i think the complex situation here
+is like people have an impression of me
+for 25 minutes
+um and if my best described self is this
+like who i am
+um with my closest peers is this who i
+am
+on a public-facing presence like this um
+so i suppose analytical might be one um
+just like
+reading from how i thought over the past
+30 seconds
+loving was another that i answered a
+similar question to
+recently and the last is
+uh
+playful i love it dan thank you
+so so much it was great
+thank you of course bye-bye

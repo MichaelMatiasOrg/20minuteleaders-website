@@ -1,0 +1,647 @@
+what we're trying to solve at swim is a
+way to easily
+download this knowledge download this
+information that is in the head of the
+developers and create a
+strong knowledge base around the code
+that will actually grow
+as the code is growing and not something
+that will be you know this kind of like
+line that is uh going down every time a
+developer leaves and some of the
+knowledge lives with the developer we
+want to create something that is growing
+together with the code
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeword ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel
+hello and welcome to 20 minute leaders
+today i am with oren toradano the ceo
+and co-founder of swim making continuous
+documentation an integral part of the
+development life cycle
+an accomplished leader in the high-tech
+industry oren has led numerous
+international technological training
+hubs over the past 10 years including
+co-founding israel tech challenge in
+2012 and serving as the ceo until 2019.
+oren has a bachelor's of arts in
+political science from the hebrew
+university and a masters in security
+studies from the tel aviv university
+[Music]
+you know it's
+personal career you know it's a
+phenomenal you know and amazing
+different things that you've done from
+being a major in the intelligence forces
+to
+working in different organizations being
+the ceo and co-founder of israel tech
+challenge which
+as i just explained before we started
+recording holds a very dear place in my
+heart and i'm very thankful for this
+program
+and just as interesting if not more is
+your most recent adventure swim um with
+with some amazing announcements for for
+an amazing series a and then some great
+investors on board uh some of them are
+great great friends and as a developer
+myself
+sort of understanding you know where
+where you're coming from and and how
+you're helping you know me sort of solve
+my own issues with how i operate as a
+developer and i can then extrapolate to
+others and so you know a lot of
+different things to dive into and oh and
+i really want to thank you for coming
+here share with me a little bit about
+yourself because you're you're a founder
+of the various organizations are you an
+engineer a an entrepreneur founder well
+how do you think yourself so maybe you
+will notice in the accent uh originally
+i was born in france and uh
+grew up there until the age of 17.
+moved to israel
+learned hebrew
+studied political science and economics
+at the hebrew university of jerusalem
+and had the chance to be selected for
+and that's how
+my
+path with technology started
+but i served there for eight years in
+different positions as you said as
+eventually as a major
+uh in in the part that is more
+operational and and the intelligence
+part of the of the unit
+and so that's where i got my knowledge
+with you know technology product
+um and connecting between the needs or a
+pain or a need for a solution and the
+engineering part of of that and i think
+as the ceo right now the ability to
+balance between the need of a client and
+the technological uh specs is something
+that uh
+is important
+after this period in the
+army i was three years in france i was
+the head of the jewish agency for uh for
+france in belgium
+so like personal
+things that i wanted to uh to do and
+then i came back founded as you said
+israel tech challenge itc
+um was the ceo for seven years
+and that's another
+layer of understanding technology
+understanding the need for human
+resource
+we've been talking a lot these last two
+years in israel
+kind of like
+discovered the problem of
+of shortage for developers early on
+and try to solve that through itc um and
+and also through my experience at idc
+kind of like got to swim and we will get
+there later
+but so it's about training technology
+coding
+zionism kind of thing
+connection with israel
+so that's that's my background fantastic
+and so this there's you know the element
+of of
+identifying a gap in the market and a
+need both from a human resource
+perspective but also from a personality
+perspective bridging together
+zionism your own aliyah your own journey
+with the agency but also on a personal
+level through you know coming to israel
+in the into the army but then bridging
+it into engineering and into the actual
+ecosystem and uh did you even know how
+many how many engineers you've brought
+into
+the ecosystem so sometimes i like
+counting although
+it might be a bit problematic but so
+there are two numbers that i like to
+hold for myself one is the hundreds of
+engineers that i think almost more than
+one thousand right now after all these
+years with itc
+uh so i think it's kind of
+a real personal um um joy uh it's kind
+of crazy part of this it's kind of it's
+kind of insane you know
+creating a school that actually created
+almost if not more than a thousand
+engineers in tv ecosystem this is not
+trivial it's not simple and as as many
+entrepreneurial journeys it takes time
+until you get there uh and a lot of
+effort uh and another number that i like
+is from my period that the jewish agency
+is like six thousand jews that came to
+israel during this time so all together
+i think i did my zionist part for the
+country and i'm happy to do like more
+business right now
+but yeah i love it those numbers are i'm
+very proud of
+incredible so
+you know take me back to the founding of
+swim because
+you know you're touching on you know
+you're you're in a similar problem space
+you know you're talking about the way
+that developers are working more
+importantly how they're helping onboard
+and document for the new hires and their
+colleagues and for themselves
+you know what what is sort of your
+understanding of the problem space as
+your thinking through swim
+yeah it actually came from israel tech
+challenge because we were training uh so
+many people to become developers or to
+improve themselves in becoming data
+scientists or cyber security researchers
+and then
+we understood that it was a big pain for
+them to onboard in their new jobs and we
+also understood from the companies
+themselves that
+it was a big effort
+you know for all what's related with
+what we call engineering boarding
+um and me and my co-founders try to
+understand where the pain exists exactly
+and we met with many companies uh in
+israel and in the us and we understood
+that there is at the is the essence of
+this problem is
+understanding the code base right
+understanding the code at this of the
+company and each company has its own
+stack its own technologies it's its own
+logic and there is no uh
+dev tool there is no technology that is
+built right now
+uh to help ramp up engineers so that's
+how it started from the onboarding
+problem of developers and then
+eventually just to clarify because i
+think it's it's an it is an important
+clarification yeah if i you know i'm if
+somebody who's not who's not necessarily
+an engineer now thinks through this
+problem they're thinking okay you know
+let's let's equate a repository to a
+google drive folder and you have a bunch
+you have a table of contents and you
+have a bunch of files and you know you
+just you just go ahead and print them
+out and and just start reading them and
+you'll understand the thesis and and the
+logic but but it's a little different
+than that and right so in what way yeah
+code is very complex um it has been uh
+usually when you join a company that is
+you know more than 10 developers already
+has been written by many developers in
+different ways
+and usually with a kind of like complex
+logic behind it
+and it's not self-explanatory i mean
+some parts of the code are and if you
+read code you can understand parts of it
+but you can't understand the complex
+logic behind it the different flows and
+how things were
+exactly built and then when you have to
+contribute code and you have to write a
+feature or you have to solve a bug uh
+it's kind of like complicated and the
+way it's done right now is that you ask
+your fellow developers in the companies
+and some of them already left right so
+there is what we call legacy code in
+many in many companies uh there are
+areas in the repo in the code base that
+nobody really understands and kind of
+like
+try to avoid because of uh of the
+complexity of it yeah and results in
+like in years of like technological debt
+and and a lot of challenges for
+companies and we're kind of trying to
+solve that
+makes a lot of sense and so
+when we go back to this question of
+complexity
+what you know what what makes it complex
+in your mind is it simply that that
+coding is complex that engineering is
+complex or is it the the habits that we
+formed
+that are that make it complex
+yeah it's a good it's a good question i
+think it's it's a mix as you know many
+things it's the fact that code is is a
+complex creation right
+and as uh it becomes more and more
+advanced uh it becomes more and more
+complex so you have like microservices
+and
+all kind of like additional technologies
+and and third-party libraries you're
+adding so it becomes this like very
+complex and beautiful creation
+but also very difficult to uh to explain
+right um and as you said another part of
+that is that we didn't have the tools or
+the the good habits to create
+um
+a knowledge base around the code base
+itself so you have all this code that is
+being written and and you know that the
+developers are are in shortage so you
+don't want them to do too much that is
+not coding uh so every time they write a
+line of code they can't
+actually document this code and can
+can't explain it but
+you know the the result of that is every
+time someone needs to understand the
+code that actually needs the they need
+the developers themselves to explain it
+but you know it's kind of like a messy
+situation at the end of the day where uh
+the knowledge is very scattered in
+different places in the head of the
+developers and there is no good way to
+download all this information that is in
+the heads of many developers some of
+them as i said already left the
+companies and to make it something that
+you can easily understand and and you
+can easily
+contribute as a result of of getting to
+this information getting to this
+knowledge
+so what we are trying to solve at swim
+is a way to easily
+download this knowledge download this
+information that is in the head of the
+developers and create a
+strong knowledge base around the code
+that will actually grow
+as the code is growing and not something
+that will
+be you know this kind of like line that
+is
+going down every time a developer leaves
+and some of the knowledge leaves with
+the developer we want to create
+something that is growing together with
+the code
+so once again we're tying together
+the the educational piece of it the best
+habits piece of it
+and then the and then the whole a larger
+question of cons of of behavior of
+engineers and how do you actually create
+a product that's sticky for engineers to
+to write the documentation to contribute
+to it sure and how do we make it
+informative and educational for those
+that are receiving it
+right and so you're you're you're you're
+again you're you're playing with this
+with similar sides again with itc which
+which i still i find fascinating you
+know the
+the progression of understanding uh here
+and how you're implementing it tell me a
+little bit about the product well how
+does sure sure
+so
+yeah so when we started learning about
+you know what is documentation you know
+it's something that developers hate uh
+because they usually it's like overhead
+for them to write documentation so they
+have
+i think three main pains that we
+discovered uh while doing that it's like
+it's hard to write documentation
+it's hard to maintain documentation
+because the code is changing all the
+time so as you are writing documentation
+it becomes obsolete very quickly and
+also it's very hard to find
+documentation in time when you need it
+uh as you said it's the google drive so
+let's do the right search to find the
+right docs or whatever and most people
+just give up and the fact that they're
+they have all these issues make the the
+you know the essence of writing
+documentation uh really not appealing
+because if i know that it's not is going
+to be very quickly obsolete and nobody
+will find it i don't want to write it
+right it's kind of like i hate it uh so
+what we're trying to rebuild here here
+is this relationship between developers
+and documentation so make it easy to
+write easy to maintain and easy to find
+and the way to do to do it is if you
+know in our eyes in our opinion is to
+connect it very deeply with the ci cd
+with the workflow of the developers
+making it um very um intuitive for
+developers to write this documentation
+and in some cases we will help them with
+automated
+documentation that we will create based
+on patterns in the code itself
+we will make it easy to maintain so we
+will
+connect the docs that we are creating
+with swim with the code itself and we'll
+be actively following after the changes
+in the code and with our smart algorithm
+we'll be able to say this doc is up to
+is outdated we will update it
+automatically for you or we will flag it
+for you and you will update it
+and because of this connection with the
+code itself
+while you are in the id in in the in the
+environment of the developer environment
+we will tell you exactly where doc is
+relevant you know when you're working so
+if you're working on this piece of code
+we'll tell you
+here in your id uh there is a doc that
+is relevant and you will be able to read
+it in your id so you we will try to
+avoid a context switch which is a big
+problem for developers
+so it sounds like you you lay the
+groundwork here to say you know we
+understand fundamentally that we cannot
+do context switching for engineers you
+know part of it is that you know we like
+things in the shell or in our ide we
+don't want to transition to different
+applications you're not going to find
+engineers on slack for most of the day
+because we don't want to do the the
+command the command tab and and go to
+different applications which makes sense
+then you're saying we actually can
+create a layer of technology that will
+maintain the information of which docs
+are relevant and up to date very similar
+to how let's say npm makes sure that if
+you install a package maybe it has
+dependencies that are also not up to
+date so we've already seen a model here
+that works which makes a lot of sense
+but then you said something interesting
+about the the cicd process so i'm
+curious about how do you get engineers
+to contribute to this and you said that
+that was a part of this icd is that an
+enforcement mechanism
+before they deploy and before they get
+their feature out they have to
+contribute to the documentation so
+enforcement is a word that we don't
+really like
+but uh
+but we but it's also right but it's kind
+of like building a culture of
+documentation right so um um once you
+couple the code with the with the docs
+uh you want to ensure that the work
+you've done as a developer is not going
+to go out of sync right so if it's part
+of the build if it's part of the ci cd
+um and you decide as a team to block
+every time
+a pr every time it goes out of sync so
+it becomes this habit right you're
+building these habits of making sure uh
+the docs are up to date but in in many
+cases in more than 90 of the cases swim
+will update automatically the docks so
+we'll make just sure it's another step
+in in in the build that the dog stays um
+stay up to date
+but how do you actually cope with logic
+changes i mean because how you have to
+differentiate between semantic changes
+yes plus
+one more parameter one less parameter
+versus okay there's actually a logic
+change to how company x thinks about
+entity y which which actually has a
+butterfly effect that is pretty massive
+so it's part of the or secret sauce and
+the patent that swim has is
+by adding snippets of codes in the doc
+themselves and by looking at the
+snippets and the contextual change and
+uh the syntax change that happens around
+the snippets we're able to decide
+whether the changes were
+important or
+were just
+you know changes that happen all the
+time like
+changes of names changes of lines or
+whatever or even additions in the code
+themselves but that don't change the
+real
+essence of the code so based on this
+algorithm that analyzes these changes we
+can decide whether to update the doc
+automatically or tell the developer you
+need to take a look at that because it's
+outdated
+that makes a lot of sense
+swim is a company now so you you have
+the product
+strategies for
+getting into the market
+what how do you you know a little bit if
+i go to market and sure sure how do you
+actually get this to scale across every
+organization potentially sure so um with
+developers there is a playbook
+that you may follow or not
+but it has to be a plg approach at least
+it has it needs to have a part of it
+that is plg
+product led growth
+meaning that developers want to test the
+product it's themselves they want to
+make sure they like it
+there is what we call developer
+happiness so it needs to be it's really
+like almost a bit to sear approach when
+you need you know the approval of the
+other developers so there is this motion
+that we called bottom up and there is
+another motion that we call top down and
+more like a b2b sales practice that you
+need to have with bigger organizations
+because
+for for the reasons of connecting the
+docs with the code we need sometimes uh
+some security process and an i.t process
+and for some companies the bottom-up
+approach won't work because they need
+some approval and some process so you
+need to have the two motions um going on
+so you have like a marketing product
+approach that for that works for plg and
+you have like marketing sales approach
+with a sales team that works top down
+and work with usually more senior people
+in the organizations
+and i can imagine there's a few
+different kpis that you can measure all
+the way from how updated are the
+documentation versus how many what
+percentage of engineers are are engaging
+with the documentation reading it or
+writing it what is the what are the kpis
+that you really
+know what what is it well listen when
+you're when you're a sas or and plg most
+uh importantly you need to like measure
+all parts of the funnel right so like uh
+conversion from website to sign it and
+then you need to measure adoption so how
+do you measure your adoption how fast it
+is to write a first doc
+how fast people invite additional people
+from the team how a team moves from one
+team to two teams to three teams how
+many dogs are being written how many
+dogs are being ridden
+are being read how many docks are being
+maintained uh how many docs goes through
+the ci process and and you know so all
+this we measure and we see a
+level of adoption number of users that
+are interacting with the platform et
+cetera et cetera and it's definitely a
+land and expand motion so you start
+usually with one team and then it grows
+to another the fact that you are inside
+the build inside the ci cd so everybody
+sees you in github or whatever uh so
+there is this um
+this interesting uh challenge for a
+product team and and it's a very very
+product oriented uh
+strategy
+no and i think that the you know
+something that's really fascinating
+about this strategy is that that given
+that you succeed here with with working
+with a company and becoming a part of
+the cicd process
+the opportunities are pretty limitless
+for you as a company because all of a
+sudden you can find yourself as a swim
+you know potentially as a series c
+company transitioning from just helping
+documentation to actually helping you
+know make make sure that the code is
+actually up to date with all the
+packages in the outside world and best
+practices you have visibility into the
+best practices of engineers all over the
+world and you can actually help
+companies
+be you know give help engineers become
+better engineers through better habits
+which is yeah you know and a lot of them
+interesting things it i want to say
+something that won't sound very humble
+but sometimes you need to hear it from
+you know outsiders so um we were raising
+our series a and we met with one of the
+important
+investors in new york and then i met
+them after after a while and they told
+me you know the thing i heard from your
+presentation about swim is that actually
+you're building a better and smarter
+atlassian and you know we didn't think
+about that atlassian is you know one of
+the biggest uh dev tool companies
+dealing with you know also documentation
+but also task management and also git
+hostings etc so kind of like when you
+own this knowledge on the code itself
+and you're able to understand who does
+what and how it's done and you know what
+are the best practices from this
+essence of the code you can go in many
+many different
+directions and i think it's it's
+it's really
+you know it's really something that
+we're looking forward to yeah and the
+organ really i am congratulations on on
+the amazing accomplishments all around
+and i the the thread here
+to me it seems pretty clear you know how
+you're taking
+the learnings and experiences from each
+experience and translating it and
+advancing it to the next one and
+obviously swim right place right time
+incredible problem both from the hr
+perspective but also from the
+perspective of automations and how do
+you how do you take the current hr that
+you have and you make it scalable and
+you make it as efficient as possible and
+so i i i really love what you're doing
+and
+fascinating to hear a little bit through
+your thought process and obviously we
+can go on for hours but we have 20
+minutes and it's true
+stay safe and stay healthy thank you
+thank you have a good day thank you
+[Music]
+you

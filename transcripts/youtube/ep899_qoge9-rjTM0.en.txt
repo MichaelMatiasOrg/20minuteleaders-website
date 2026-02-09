@@ -1,0 +1,567 @@
+it is a different i think perspective in
+security where like you know most
+solutions are very siloed and focused on
+one problem we're like you know we're
+we're trying to cover it uh you know
+kind of fit on the broader like you know
+the vertical um at the horizontal not
+the verticals and and bringing everybody
+in you know i will integrate with
+everybody everything a customer has so
+they really have to you know eventually
+have that this single pane of glass off
+these are the issues these are the cause
+of the issues and this is how we reduce
+risk together so that that's the vision
+we're not gonna become a detection tool
+um you know as long as you know we we
+don't see a need for that you know these
+tools are out there we just need to
+integrate with them and help solve these
+problems
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret core adventures j ventures
+riverside fm
+fusion vc
+birthright excel j impact leap
+google for startups and hippo and in
+media partnership with ctec
+welcome to 20 minute leaders this one is
+about cyber security leadership with
+mehrav bahat the ceo and co-founder of
+daz who has spent her career creating
+category-leading technology products and
+building high impact teams
+previously mehlav served as general
+manager for the cloud security global
+business at microsoft and was also
+deputy ceo of microsoft israel r d
+overseeing more than 2 500 employees
+prior she was product strategy group
+director for microsoft's cloud and ai
+security business unit and chief of
+products and business development of
+flash networks
+has a bachelor's of science in
+industrial management engineering from
+the technion and a master of business
+administration from ben gurion
+university and served as a fellow in the
+harvard business school kennedy school
+of government program
+as one of only a handful of female ceo
+founders in cyber security mehrab is
+focused on mentoring and empowering
+women and young leaders
+[Music]
+you're such an inspiring figure um in in
+the ecosystem you know is um today is
+the co-founder and ceo of daz looking at
+cloud vulnerabilities but a pioneer a
+female executive pioneer in the cyber
+space it's not a secret that it's not
+not at all leaders are our
+female leaders there's we're not yet at
+a position where we have sort of this
+equality and and that especially in the
+executive field and and it's something
+that i would love to to hear a little
+bit about your your own experience and i
+know that you're also excited about
+mentoring and working with other female
+leaders and
+and and so beyond that your work is just
+fascinating working in a variety of
+companies as either as an advisor or as
+an executive within microsoft israel and
+both in general manager domain but also
+in the cloud domain and then
+transitioning again to to
+entrepreneurship with daz so a lot to
+uncover me rav but really the bottom
+line question is why do you do what you
+do and so might have tell me a little
+bit about yourself and how you see
+you know what your passions are and what
+you're excited about
+yeah so um i think you know i'm very
+excited about what i do today like you
+know it's like tons of energy uh you
+know we started the company about a year
+and a half ago and since then i think
+every day was more exciting than the
+other
+uh building and growing a company from
+from zero that was my passion that was
+my dream
+i actually didn't think it's possible
+for women to do that i don't know why in
+my mind but when i started to do that
+and i got the best found you know
+co-founders since then it was just an
+amazing experience yes so i'm motivated
+day by day but what we do
+now you're you're started out with also
+the technion and a certain engineer by
+trade
+sort of is this you know did you
+anticipate this as a as a career
+trajectory that you're going to be an
+executive in technology roles and then
+starting your company or mentioning a
+little bit about the the female aspect
+but was this always sort of the grand
+plan for me love
+yeah i know so when i when i was a kid i
+actually grew like in paris very of
+israel so i didn't really have like you
+know any role models any women
+founders ceos anything like that so to
+me like you know every i think every
+step i dream for you know of the next
+step like it wasn't like you know 20
+years ago i was exactly you know i knew
+what i was going to do
+so that was a journey and i think that
+that's what i love in life just you know
+follow your passion
+and dream your dreams and dream bigger
+and and try to execute them all um yeah
+so i think i i decided or i started to
+think about starting my own company um
+actually when i was vp products at you
+know different companies networks and um
+i went here to harvard you know for some
+more school i came back i went to
+microsoft i didn't start my own company
+but since then it was like and you know
+they come back like i really wanted to
+do that and found my you know man the
+right to the right team and and to go
+execute my dream
+so
+take me back to to sort of your own
+your own beginning of understanding that
+that what you want to do is start a
+company you're mentioning that it was
+back when you were a vice president and
+another company and
+what is sort of the trigger for you
+to to go on this journey for yourself
+from ilove
+yeah so i think you know i was like you
+know um vp products in a company um
+and you know like you know i felt you
+know very connected to what i did
+um but i was like you know if i've done
+it from the beginning i would have done
+it differently so i always had a
+passion to actually start from fresh
+and get to my own team you know build a
+culture there's a lot about the culture
+about the people you work with
+the problem you want to solve and then
+then execution so i i just thought that
+you know starting where starting from
+the from the beginning you know i would
+do things differently and again a lot
+about the culture um so i think you know
+that was a great opportunity you know to
+start a company and recruit the team
+that you really you know you feel that
+they're going to be your your partners
+for the journey and now we're 55 people
+and i you know i was
+i was actually interviewing each and
+every one of them and and i think that
+uh really important to get you know the
+culture fit and to have the best people
+there and i i feel continue doing it as
+as long as i can
+um and it's about the team like if you
+have the right team the passion
+uh to to solve a big problem um the
+changing you know you know for us is
+exchanging the world of security um and
+then together it's it's an amazing
+journey so that's what it takes
+so take me back a little bit to to
+yourself my love and if you're thinking
+through
+you know what is really important for
+you right now in life in the world in
+your own vision you know what what are
+sort of the opportunities that you're
+creating around you you know what what
+does it come down to because you're
+dealing with fir you're dealing with
+fascinating technological feats right
+and and definitely it's going to make a
+tremendous impact on a variety of
+organizations where does this all come
+from uh for you meirov
+so i think you know i felt that the
+problem you know i've been doing
+security for
+microsoft for four and a half years um
+you know being part of the team
+that build the
+the cloud security stack from from zero
+you know from zero you know to like 2.5
+billion now then 10 billion of dollars
+uh which which is which is huge in so
+such a such a short time incredible
+yeah what i felt is like you know
+security is kind of really focused on
+detections and alerting and showing you
+what's wrong gives you a lot of
+visibility but then we i said you know
+and you know talking to our customers
+they were frustrated about the fact that
+insecurity score is never good and
+they're never really able to reduce the
+risk and when you talk about cloud and
+cloud is so easy you know um you know to
+um
+you know like you know
+any any attacks on the cloud it could
+could happen very fast it's very easy to
+do that you know you could look for
+shell everybody can yeah you know
+could utilize and use this uh
+vulnerability to uh you know to take
+your data um so i think that you know
+helping our customers really reduce the
+risk and solve these problems
+remediating uh those issues and and you
+know
+is is one of the most important things
+in security cannot secure without really
+taking it all the way to fixing those
+issues that are you know up you know
+that's growing and growing you know this
+backlog of issues these
+you know alerts that are off the charts
+nobody take care of them um this is
+something they really really need to
+focus on and i think that security needs
+to you know security products need to
+take the next level off let's help
+reduce the risk not just show the risk
+i love it tell me a little bit about daz
+and the the sort of the the vision for
+daz you know furious down the line cloud
+vulnerabilities how does this play into
+our ecosystem of of either security
+products or or more importantly the
+application of this in in the real world
+that we're living in and we're seeing
+evolve every day
+so i think i mean i think we have like
+you know two things that are really
+important to us one as i said before is
+reducing the risk um and uh the second
+thing is really focused on you know
+permediation is uh by large it's it's an
+organization i think it's like a um you
+know it's even like you know um a
+collaboration problem you know it's a
+problem of the security teams but also a
+problem of the engineering we're
+creating most of these issues and are
+also in charge of fixing them uh so the
+way we look at things is trying to first
+you know be you know kind of bridge this
+gap between those teams and and make
+sure that you know security find it's
+easier to address those issues
+understand root causes not just you know
+take a lot of issues a lot of alerts and
+throw them over the over the fence to
+their developers and from the
+engineering side to make it easier for
+them to care you know they care about
+security rights but to make it easy for
+them to you know to create more secure
+products uh so to us it's more than just
+a product it's actually like you know a
+collaboration uh platform between
+security and engineering and makes
+security easy for everybody so that's
+one thing second thing is uh when we
+look at cloud security cloud remedy you
+know cloud vulnerabilities and also the
+the pipeline everything you know to us
+you know everything starts in the
+pipeline everything starts in code like
+everything's you know the cloud is going
+to be all you know all applications are
+and all infrastructure is you know going
+to be coded at some point um so because
+code is kind of reusable like you know
+people using the same image you know
+container in in many applications right
+and they're using the same line of code
+and terraforming you know to um to speed
+up a lot of you know vms and and
+what have you so um and and you know the
+code repos that are actually you know
+kind of you know everybody is not really
+writing code is kind of fat um kind of
+fat taking you know open source and and
+libraries and all that so eventually
+it's like a spaghetti of a lot of things
+right
+yes oh like it's not it's like just
+think about you know think of a river
+that is eventually gonna you know all
+the water goes to the ocean
+so you cannot just focus on production
+you definitely need to look at the
+entire thing and we don't have
+separation we collector learns from you
+know blessed and right and production
+pre-production
+and the ability to kind of look at it as
+you know the remediation cloud you know
+put everything up there do the
+correlation the duplication of issues
+and be able to figure out which causes
+and help security and engineers focus on
+their high priorities issues and help
+them do it
+quickly so these are the two things is
+you know bridging the gaps between the
+teams and also understanding that
+everything is becoming code and that we
+need to not separate production
+reproduction and just look at it as a
+whole
+incredible and and how are you
+positioning daz into this ecosystem
+because there's a lot of different
+strategies to go about this you could be
+creating a brand that is going to be
+working with every company it could be a
+technology first organization that has
+different channels that are that are
+business-wise interesting but it's less
+of a brand base because when i look at
+daz i look at a very very strong brand
+and so i'm i'm interested to hear how
+you're thinking about the positioning of
+this company long term
+with in in a world that you know well
+while we you know there's a lot of
+different players here the world is
+shifting to code first on everything and
+and i completely love your analogies to
+the spaghetti in the river that was
+awesome
+thank you
+so um so we're really ecosystem friendly
+uh we're um i think one of our strengths
+is the visibility the entire pipeline
+culture production again you know it's
+not just the pipeline pre-productions
+everything um and our ability to kind of
+map every resource in production to the
+code that generated it and then we kind
+of integrate with all of the tooling out
+there it could be like you know um cloud
+native solutions it could be uh abstract
+solutions could be
+you know cloud cspm zwps all the
+upcoming
+players and also you know some some of
+the older um you know stuff out there
+and really connects to all of that and
+being able to correlate this data coming
+from all of them
+into actionable uh you know problems
+that are solvable and actual items so
+obviously we're integrating with
+everybody we're really ecosystem
+friendly we even have some partnerships
+that are um you know even like a go to
+market based um so it is a different i
+think perspective and security where
+like you know most solutions are very
+siloed and focused on one problem we're
+like you know we're we're trying to
+cover it uh you know kind of on the
+border like you know the vertical um and
+the horizontal not the verticals and and
+bringing everybody in you know i will
+integrate with everybody everything a
+customer has so they really have to you
+know eventually have that this single
+pane of glass off these are the issues
+these are the cause of the issues and
+this is how we reduce risk together so
+that's that's the vision we're not gonna
+become a detection tool um you know as
+long as you know we we don't see a need
+for that you know these tools are out
+there we just need to integrate with
+them and help solve these problems
+interesting
+so first of all best of luck with daz
+you know from
+anybody taking a look on why you're
+doing anything it looks so so great and
+and it's um having such a stellar team
+i think is remarkable not just your team
+but also the people that are that are
+backing daz which is a little bit from
+the world that i'm coming from those are
+some of the the greatest thinkers in the
+cyber security space in the world and so
+obviously you're you're positioned in a
+great place
+i'm curious a little bit about your own
+personal
+you know
+vision because you're
+you're you're you're also a figure right
+i mean and it's a it's something that we
+that needs to be understood that the way
+that you're leading this company your
+own actions your own leadership style
+it's reflecting on on a lot of different
+people around the world and and i think
+you're also open yourself to the idea
+that you know also other female leaders
+may look at you for inspiration
+naturally just because there aren't too
+many examples still today which is very
+unfortunate how do you think how how
+cognizant are you of this is is this
+even something that you're thinking
+about as you are
+leading or is this something that you're
+saying yes i know but i'm not really
+i don't need to be concerned with that
+myself
+yeah so
+i think you know first i really
+would love to see more female leaders
+most female co-founders and founders and
+ceos and you know of startups and bigger
+companies i think it does start with the
+startup if you grow the startup you
+become a ceo of a bigger company uh
+that's the that's enough of the game for
+israeli companies i mean i've been an
+executive in a bigger like you know
+multinational like you know microsoft
+but i think there's from my
+you know like being in israel and it's
+like it's such a like a startup
+ecosystem
+that's that's the way you should start
+you know that's the way we should you
+should have warming women attract work
+more women so for me when i look at it
+it was really important that you know at
+the core team of the engineering i will
+have a woman and now she's a team leader
+and think it's attracts more women to
+follow you know to follow the team and
+um you know we're not compromising
+talent we get the best talent but the
+best uh talent that really really and
+you know again you know provides um tons
+of credibility and i think um you know
+good example for other women to follow
+these is the star that you know if
+you're if you're joining an early stage
+startup you you next day you can start
+your own company so this is where we
+need to start you know at the earlier
+stages
+um second is you know to me like you
+know when i started the company there
+weren't um any examples of you know
+everybody said that women usually you
+know the rounds are smaller than
+compared to a man uh so when i did the a
+round i think it was the second largest
+um other people should look at your
+series a round yeah yeah so like it to
+me is like okay so women can definitely
+get a nice a round uh so we
+we've checked that so i think yeah i do
+think a little bit about it you know
+that you know i want to be a good
+example
+like
+it's it creates some more stress i would
+say but i think it's also you know to me
+like if i if i make it you know um you
+know to become like a big company a
+strong company like a you know a strong
+example and other other female leaders
+will you suppress that and even bigger
+larger whatever i would feel you know
+honored you know to to be one of those
+incredible well it sounds like the
+journey starts off very authentically
+from your own experience
+and both both on the engineering front
+but then also on on the executive front
+and having been you know becoming a
+thought leader in this in the space and
+bringing on the right co-founders that
+complement you partnering with some of
+the great partners that you have and
+what i really love seeing is how strong
+the brand that you're building is um i
+think it reminds me of some of the other
+great examples of of companies that
+became very very large and understood
+that it's not enough to just build a
+great technology and especially in the
+cyberspace you know if you want to be
+differentiated and you want to build a
+long-lasting company and the brand and
+the trust that you're creating is just a
+significant piece of it and obviously
+tying back at the end to your the
+conversation about female leadership
+which which is definitely not the core
+of what you're of what you're doing but
+i think it's it's it is important
+because at the end you know we it's it's
+it's a mind-boggling question of it's
+2022. why aren't we why don't we have
+more female leaders starting cyber
+companies um you know when i had my team
+in the army um you know we had half of
+my team was female engineers and
+honestly they were much better than all
+of us were so i'm not it's not you know
+it's it it mind-boggling for me that
+still in 2022 we're we're talking about
+this topic but but it was interesting to
+hear your perspective and your own
+commitment so hey mayrav thank you very
+very much i appreciate your time have a
+safe flight to boston thank you for
+taking the time to do this and best of
+luck with daz
+thank you and i really wish to you know
+you have the chance to interview with
+more women uh you know in the future and
+thank you so much for the time i think
+it was a pleasure thank you
+thank you
+you

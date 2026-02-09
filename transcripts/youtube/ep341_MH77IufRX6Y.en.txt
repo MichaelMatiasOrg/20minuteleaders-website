@@ -1,0 +1,697 @@
+don't get too caught up in in making a
+plan if that's not the kind of person
+that you are
+but if you are uh very meticulous and
+very planned yeah that can work too
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc found in silicon
+valley
+in partnership with lomi tech and
+sponsored by hippo insurance
+touring opposed labs and hillel at
+stanford navigating through life's
+different decisions is very very
+difficult
+welcome idosarig chief marketing officer
+at indigo.ai
+ido is a product marketing and corporate
+development executive and former vc
+he was the general manager of the
+internet of things group at wind river
+and the vp of product marketing for its
+testing business unit
+earlier he was the cmo of bdna and
+before that a partner with thomas weasel
+venture partners
+where he focused on enterprise software
+he began his career with mercury
+interactive as a vp of product marketing
+and the vp of technology strategy
+thank you for joining me on 20 minute
+leaders how are you today
+i'm doing great michael thank you very
+much for having me
+i'm excited to have you all the way from
+palo alto right now
+all the way from palo alto at the moment
+although
+later in the year hopefully uh from the
+east coast where i'm going to be
+relocating
+to be a little bit closer to my
+daughters who are going to college on
+the east coast
+wonderful you know it's such a
+phenomenal career in so many different
+places
+and primarily in the world of of product
+marketing corporate development
+you know transitioning through different
+types of companies in the tech sphere
+most recently
+doubling down on on ai companies and
+both
+early stage you know as board member and
+advisor but also late stage with the vc
+stint in the middle so a lot to be
+discussed here
+and but what i really like to start with
+is a little bit about yourself a little
+bit about
+you know the way you go through your
+career and how you went through your
+career
+and some of the insights that now in
+retrospect
+you're able to say okay now now i
+understand sort of the
+you know the big ideas of why i did what
+i did all right that's that's an actual
+uh starting point i think you know if
+you wanted me to describe
+how i went about uh my career
+um i think a not unfair characterization
+would be to call it
+half hazardous um in the sense that
+it wasn't fully planned um i think
+broadly speaking when i look at friends
+and colleagues in the industry
+if i want to pay with very broad brush
+strokes there are
+two kinds of people there are people who
+are very well
+organized pre-planned they knew already
+when they graduated
+high school exactly what they want to do
+and they had they set a goal for
+themselves and a typical goal
+was i'm going to start my own company
+where i'll be the ceo
+and um you know ideally i'll take it
+public or
+sell it for a nice exit but in order to
+get to that point
+there are a number of milestones that i
+need to uh
+to accomplish i need to maybe get a good
+technical education at a good school
+and then i need to get a job in one of
+the high tech companies
+um in an engineering role or some other
+technical role
+and then i need to get an mba from a
+good business school
+and then branch out with my own company
+and so on and so forth um i was never
+like sounds like a great player
+it sounds like a great plan and i do
+know quite a few people who were able to
+follow that plan
+uh to the t almost um
+some of them came to me during certain
+points in my career to ask for advice
+about what's the next step
+and honestly i could only usually give
+them guidance about what is the next
+immediate step because i myself
+do not belong to that group of people i
+was um
+not quite so uh well planned the only
+thing i knew when i was going
+when i went to high school was that i
+liked computers
+and i thought i might want to do
+something related to computers so when i
+finished my army service
+i went to the technion and
+my initial thoughts were i was going to
+do computer science
+but macroeconomic factors at the time
+this was
+israel was going through a very serious
+downturn in the software industry
+impacted by the cancellation of the levy
+project and so on
+and there was um a lot of uncertainty
+about future job prospects for software
+engineers
+so just in order to yeah it's hard to
+think it's hard to imagine that today
+right but those are the other days to
+say that you know i'm going to
+university now and it's you know it's
+all it almost feels like you know when i
+even talk to middle schoolers
+they already know exactly know what they
+want to do with computers in what world
+and what industry and what they
+and and what they want to study with
+that and it's hard for me to imagine a
+world where you're saying you know
+i i want to be a soccer engineer but i
+don't know if that's the best thing for
+me i don't know if that's
+going to get me a good job later on
+exactly so just in order to
+increase my job prospects i ended up the
+technion had just recently opened
+this joint uh force project where you
+could get a degree in computer
+engineering that
+you know i got into the uh computer
+science uh
+the faculty of computer science but it
+also required you to take a lot of more
+hardware courses in conjunction with the
+electrical engineering and i thought you
+know
+that's just hedge our bets have some
+hard work component
+in that um but it was not done because i
+i love
+hardware so much um i still don't um
+don't get me wrong i think that it was a
+very valuable education and i think it
+did give me
+um a leg up on some uh
+other people and i'll tell you a funny
+little anecdote that relates to that
+in a moment um but i didn't do it
+because i wanted to be
+involved uh with hardware i did it to
+increase job prospects and as it turned
+out by the time i graduated things had
+turned around and there was plenty of
+software jobs in israel and
+i never looked back the funny anecdote
+is
+i think a lot of people who
+go through very academic-focused
+computer science uh curriculum
+don't really get a firm grasp on what
+the computer is
+underneath um we had while i was working
+at mercury
+um many many years ago uh we
+we were developing a product called uh
+initially it was called
+the product i was working on was called
+xrunner which was a
+functional regression testing tool uh
+for the x windows system
+most of your listeners probably have no
+idea what i'm talking about these days
+i barely have an idea what are you
+talking about it was the precursor to
+very
+to modern windowing systems like windows
+but it was running on on the unix uh
+operating system and we had just started
+uh
+porting it creating a version of it for
+windows um
+and we developed a product called
+windrunner which was the equivalent
+for the uh microsoft windows system and
+we were working on a product for uh os2
+yes there was something like that
+those way back then um and also
+uh for the mac and along comes
+a recent college graduate who shall
+rename
+uh nameless and which was assigned
+she was assigned to work on this uh
+macrunner project
+and a couple of weeks into her job
+she comes and she talks to her manager
+and she said you know i really don't
+understand um why we're putting all this
+work into the supporting why can't we
+just
+take the code that is currently running
+on this pc and you know you
+take uh copy it over and put it on the
+mac and we'll run on the mac won't it so
+just a fundamental misunderstanding of
+the underlying computer architecture
+admittedly this is a an outlier case i
+don't mean to disparage uh
+computer science academics in any way
+but i do think that the
+hardware um having this understanding of
+the hardware was very important
+um is it as important today do you think
+to have that core that foundational
+understanding because i think that that
+speaks a lot to
+you know these growing trends saying you
+know maybe academia is not for everybody
+maybe you don't need to know the ins and
+outs
+and the zeros and ones maybe you're
+you're you're good enough to just know
+the really high level
+uh the high level standards to be able
+to
+to just you know code the regular things
+we see in our day-to-day how relevant
+is that information do you think today
+okay i think it's two two separate
+questions
+one is uh the relevance of academia and
+the second one is the heart
+the hardware question i think it's still
+important but it's less important
+i think the industry has evolved to a
+point where there is
+a level of abstraction and a level of
+pre-built
+reusable components especially if you're
+doing cloud development
+that you could come up with a great idea
+and implement it using high-level
+structures without having
+to ever worry about the underlying
+infrastructure so it's less important
+than it used to be
+it's important for the people who build
+uh this infrastructure of course
+but if you're talking about building uh
+an application or
+cloud-based service it's far less
+important
+the academia question is is interesting
+um most of the people i've worked with
+in my career
+had had formal academic training
+right yes or double e graduates
+and i do think there is a lot to be said
+for having
+formal training
+in academic disciplines i see that
+especially
+um as my daughters
+go to school now in the us
+they they
+are not directly following in their
+father's footsteps i'll say
+um they both are pursuing
+an undergraduate degree in a liberal
+arts college and when i went on
+college tours with them part of joining
+um honestly those uh
+the the tours rubbed me the wrong way
+but
+yeah they did um for several reasons um
+one is broadly speaking you've seen one
+you've seen them
+all and so after the fifth one
+added up to here because they're all
+saying the same things right
+and this is true not just for liberal
+arts colleges it's true
+across the board um whether you go to a
+large
+public research university or a small
+liberal arts college
+i i can give you the tour for a generic
+college right now
+you can uh if you come here and
+here only you can uh design your own
+design your own major if we don't have
+one for you you we have
+2 000 different clubs and if there's one
+that you uh
+don't like you can create your own we do
+study abroad
+they're all exactly the same but um
+having said that
+i do think that they have one thing
+right which is
+they if they do their job properly
+they give the kids a good tool set with
+which they could do
+anything so in my current role right now
+i'm looking to hire
+a uh an intern for a research project
+with
+which has to do with uh looking at a
+company's
+mission statements and purpose
+statements and so on and analyzing them
+in
+different ways and i'm about to hire
+a liberal arts uh
+college student who's studying
+german studies it has absolutely nothing
+to do with
+uh technology or computer but
+impressed me in terms of her the skills
+that she uh
+picked up uh at this very good school
+that she's going to
+um and it really doesn't matter so
+there's a strong current right now um
+driven by
+people like peter thiel and others that
+says you don't need to get a college
+degree come here i'll give you a hundred
+thousand dollars work on your idea
+and i think that could work
+but i think the people that are coming
+out of academia uh
+tend to be more rounded and yes well you
+could certainly learn how to
+program in python very easily online and
+for free doing a coursera course and if
+you've got
+a natural inclination
+or talent for that that sort of thing
+you could become a very good programmer
+but i don't think becoming a very good
+entrepreneur is synonymous with being a
+very good programmer
+right or i think even engineer right i
+mean but what encapsulates engineering
+it's much
+it's like much more beyond just this
+idea of you know learning how to code
+it's about problem solving and it's
+about being exposed to all these
+different problem sets
+and i think i have to admit that before
+i went to go and begin my studies
+at my institution i was very skeptical
+of whether it makes sense for me to even
+go study you know i served for five
+years in the idf
+in the cyber security unit which in
+itself is considered a university to
+many
+and at the same time now after almost
+two years in my institution
+i just realized how how amazing it is
+and how
+how mind opening it is to be exposed to
+just these different problems even if
+they don't
+that are not necessarily relevant to my
+later day-to-day life just being exposed
+to them
+and allowing myself to immerse in them
+and to think critically about how i
+would go about solving them
+i think it really trains me into
+bringing that open mind to the n plus
+one problem that that inevitably will
+solve as engineers and entrepreneurs
+later on you know i'd love to hear also
+a little bit about you know
+your take as you go through these
+organizations making an impact whether
+it's through product marketing or
+our or corporate development tell me a
+little bit about what
+drives you in these companies when you
+enter a new company or in an existing
+company
+how do you actually see your scope of
+work and how do you you know measure
+your own
+you know productivity or your own you
+know milestones making sure that you're
+doing the best that you can do
+an excellent question um i'll
+tackle the last question first i'm a
+very
+um results oriented person and
+ultimately
+the way i measure my impact or my team's
+impact
+is against uh pre-established rules what
+did we say we
+were going to do and to what degree did
+we meet them and to what degree did we
+meet them
+on time um that is primary i think
+that's
+different though from the question you
+initially thought which is when you go
+into a company what uh what excites you
+or what uh
+what makes you want to devote
+yourself to that and that first and
+foremost i think is about the people
+there
+i'm less enamored with uh specific
+technologies
+and more so with the team that i'll be
+working with i'll
+i'll let you in on what is probably not
+a very big secret
+when i my second job out of college was
+with uh was with mercury mercury
+interactive
+mercury interactive was in the field
+of automated software testing
+when i joined i i struggled to find
+something that i thought would would be
+more boring than software testing in my
+mind um
+testing as a discipline you know it was
+where the uh
+programmers who couldn't hack it as as
+developers would go they don't
+test other people's work um and we're
+going to develop software that will help
+them
+do their testing job better oh big deal
+um
+but it actually was it was a tremendous
+journey first and foremost because the
+company was
+was amazing but also the people that i
+worked with um
+i have since then uh never had in one
+place such a collection of great people
+uh i've worked with individuals or in
+other places or just as
+as good but as a company i i
+haven't seen it there um so going back
+to the last part
+it's a question of how well you do
+against objectives
+and i think that's actually what
+attracted me to the
+company where i'm currently at or just
+recently started working
+for indigo which
+its uh mission its purpose in life is to
+help
+organizations turn their strategy
+into focused uh execution what
+uh what it attempts to solve using
+ai and software as a service delivery
+model is this common problem that we all
+i'm sure have experienced at one point
+or another in our careers
+which is companies struggle to put
+strategy into practice
+and it's the more mature the company is
+the bigger it is the longer it's been
+around the harder it is to
+innovate and come up with new things and
+so what companies do
+is they go on these management retreats
+or
+off-site where all the senior leaders of
+the company come together
+and decide here are the three most
+important things we need to do
+in order to uh beat the competition or
+just to survive
+and thrive and while you're at the
+retreat
+everybody is fully on board and there's
+clear understanding
+across all the teams of what needs to be
+done and then you go back to the office
+and within two to three weeks
+it's all dissipated away because you got
+distracted by day-to-day
+tasks and putting out fires and so on
+and
+um we want to solve that problem
+and actually hold you in certain ways
+accountable to uh
+here's what you said was important to
+you are you actually working on those
+important things and what is the impact
+those things made to your uh
+organization's goals i think that's
+that's amazing i'm
+not looking sort of at the young
+entrepreneur sphere whether it's an
+engineer coming out of an
+of a university or out of the idf or
+somebody who's creating their own
+company what are some things that you
+can think of from your
+you know years of experience that you
+would say you know i think both you know
+on an emotional level
+on on you know what what should be the
+next step so you're mentioning that
+you know your your journey was almost
+half hazardous but at the same time
+i believe that now as reflecting back i
+think there's a clear reason as to every
+decision
+but what would be you know some of the
+things that we should be keeping in mind
+as young entrepreneurs and engineers uh
+do we follow our
+our gut do we follow our emotions do we
+follow our intellectual curiosity
+and do we follow the just the the right
+people
+is there even a way to know or is it all
+just you know a big balagan that
+every person has to sort of guess at the
+end
+my biggest takeaway um reflecting on my
+career is that there's no right answer
+there's no one formula that says do this
+uh and this will work for some people
+having a clear plan
+and executing it every step of the way
+is the way to go for other people
+doing it doing things more half-half
+hazardously and just making
+the right decision at each point in time
+works equally well that's certainly the
+way
+i've handled it so uh my advice would be
+don't get too caught up in making a plan
+if that's not the kind of person that
+you are
+but if you are uh very meticulous and
+very planned yeah that could work too
+um get regardless of which uh
+approach you take i think it's helpful
+to get an outsider's view uh some
+go through a formal process of
+mentorship and getting people who would
+regularly coach them
+that's certainly a way to go others have
+a few trusted advisors that they would
+go to in
+a certain points of time when there's a
+critical decision to be made
+just to get an outsider's opinion or a
+second pair of eyes
+that works well too i want to touch on
+what you said about
+following your passion um
+i i'm ambivalent about that on the one
+hand yes
+you don't want to be in a position where
+you are working
+at a job that you hate that you are
+dread mondays to the extent where
+sunday's afternoons are already uh
+overshadowed by these dark clouds on the
+horizons because you know that you're
+going to start work
+in a few hours and you hate your job you
+certainly don't want to be
+there but i also think that at the same
+time i think the advice of
+just follow your passion um
+is not one that i i give my my kids i
+think that
+could um because we live in a real world
+where you need to get a job
+that supports you and supports your
+family
+and um while money can't buy happiness
+it certainly makes
+life's journey much easier and if you
+don't have money and if you're
+struggling to make ends meet then even
+if it's
+the job is your passion you're not going
+to be happy so you need to find some
+some sort of a happy medium between
+these and
+i'm certainly not a proponent of follow
+your passion no matter what
+i mean if your passion is yeah if your
+passion is is is
+um
+reading philosophy that books
+i think uh making a living as a
+philosopher
+is tough it's not not something i would
+recommend
+i love the idea of balance i think that
+what i've noticed and what's been
+bothering me about this question as well
+as you know the the taking choosing like
+a zero-sum
+approach right you either follow your
+passion or you don't but and that's not
+the case and i think what you're
+referring here is a balance there needs
+to be a good balance
+both being very intentional and
+meticulous about
+following things that are interesting to
+you at the same time being
+having this realism right and
+understanding that you know it's not
+necessarily
+you know it's not just if you follow
+your die hard passion that's you know
+you have to still
+it's not going to be a passion for a
+long time if it doesn't help you you
+know survive
+and be successful in life so there needs
+to be some balance and
+and i think that i get inspired you know
+while reading your fun fact that
+you know you're it sounds like one of
+your passions is cycling right and
+you don't have you don't have to have a
+profession in cycling or do that you
+know
+in your your nine to five nine to seven
+to midnight job but
+yeah but you can still do that intensely
+quite intensively and it's fantastic you
+don't
+i really wanna thank you for coming here
+20 minutes go by way way too fast i
+really appreciate it
+i have the most important question
+that's still ahead of us which is the
+three words that you would use to
+describe yourself
+um
+i'm a realist i call it as i see it i
+love it
+i'm a realist i love it thank you very
+very much
+and stay safe and stay healthy thank you
+very much and same to you stay
+safe out there hopefully this will be
+behind us soon
+you

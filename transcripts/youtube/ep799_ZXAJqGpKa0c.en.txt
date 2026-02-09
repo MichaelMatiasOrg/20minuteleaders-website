@@ -1,0 +1,572 @@
+i enjoyed the roller coaster atmosphere
+of
+of being estonia because there are
+high highs and low lows you know so i i
+enjoy the the thrill of that high lows
+and uh and the challenge you know we're
+building something is something new
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to 20-minute leaders meet bensy
+benatar the chief marketing officer of
+sepio and one of its co-founders he has
+a strong intelligence community
+background and over 25 years of
+experience winning multiple professional
+and innovation awards
+further benzie has a bsc in electrical
+engineering and is an mba graduate he is
+a hardware security expert as well as an
+expert on rogue device detection supply
+chain attacks internal abusers and is a
+leader in zero trust hardware access
+venti benatar leads scepio's marketing
+activities and boosts sepia's brand
+awareness
+cyber is uh
+obviously huge in our world it's going
+to become even
+more prominent in our world i believe in
+a lot of other believe as well you know
+in the coming years and we're just
+starting to see the importance of it um
+and what you're doing with sepia has
+something super interesting you know
+we're talking about cyber security we're
+talking about monitoring and we're
+talking about understanding you know
+these things both on a on a on a network
+level on a company level for enterprises
+and so i'm really interested in hearing
+both your personal journey leading up to
+sepio and these insights that have led
+you here as well as what you're actually
+doing with sepia today so so betsy thank
+you so much for joining me
+great so um so let me let me share some
+of uh
+some of the experiences some of the
+history that actually brought us uh
+myself and my partners to this uh very
+unique domain
+yes so
+we the group of founders we're actually
+working together for almost i think 30
+years now we've started out as an
+academic reserve
+in 8200
+and since then we've been working
+together on on various various companies
+actually sepio is our third cyber
+security company together so the first
+two were successfully acquired by nasdaq
+traded companies
+and when we
+uh when we've decided to go on our a
+our next endeavor on the unsepio we've
+actually kind of looked into the market
+and said okay we're we're too old to do
+uh big data we're too old to do all
+those flashy buzzwords
+uh but what we do know is we we know
+networking to uh to a great intimacy
+we've built layer two switches we've
+built network tabs we've been all around
+this rob a rock devices all the in and
+out from from our previous careers
+and
+we've identified that this domain is a
+is lacking the
+required
+technology and required measures in
+order to
+detect those rock devices and those
+hardware based campaigns
+and
+we've seen through throughout the years
+that this domain which was uh
+one perceived just as a you know spy
+business you know just like fsv and
+you know nsa tools and mossad and all
+the mi6 and all of that
+sorry it is no longer the case
+because a cyber crime syndicate
+and even the average joe can have the
+same state level capabilities with
+regards to hardware tactiles as a as a
+you know world financed agency
+and due to the fact that you use a an
+attack vehicle that existing cyber
+security product
+a didn't take into consideration and
+allows the attacker to bypass a lot of
+the security measures because they've
+assumed a certain thing so they've
+assumed that when they will look into
+the traffic they will they will catch
+you or they will
+you know detect the abnormality traffic
+or things like that but what happens if
+you're uh you're a passive tap or you're
+uh you're an unmanned switch up that
+doesn't have any layer 2 presence
+whatsoever what happens if you're using
+a device
+that completely impersonates a
+legitimate device even if it's a simple
+device like a keyboard or a mouse
+these vulnerabilities and these kind of
+blind spots within the existing
+infrastructure is something that
+attackers are uh are happily exploiting
+and you know with with great uh with
+great success on over multiple domains
+it could be critical infrastructures it
+could be atm attacks it could be
+financially swift transaction attacks
+and you know
+hardware attacks actually applies to a
+variety of
+variety of domains
+and the fact or the
+uh that people are moving into cloud
+environment you know doesn't uh minimize
+the the effect of this problem actually
+it it is even intensifies
+because even if you work in you know in
+your home or from a shared space and you
+have a
+you have your cloud
+infrastructure in place you still use
+your keyboard and you're still using
+your mouse in order to navigate and uh
+and run your command so a qualified
+detector will easily log your keystrokes
+take screenshots of your
+of your enterprise uh confidential data
+and then it will use that to run a data
+leakage a ransomware attack or even a
+data encryption attacks this is
+something that is happening more and
+more
+that you're describing that is first of
+all critical no question about that but
+it's also something that i'm assuming is
+not new right i mean we've been you know
+we i'm sure that this is a problem that
+we've been facing for for a few decades
+by now you know and why why is why
+aren't we more advanced than what you're
+describing where the average the average
+person has the same capabilities as you
+know enterprises in terms of getting
+these securities
+so there there are several reasons for
+that
+the first is that hardware
+hardware-based attacks obviously
+require some physical
+a contact or some physical proximity to
+the victims and in most cases it will be
+a pinpointed attack so you will go after
+a certain bank or after a certain
+power plan so the the targets will be
+very pinpointed
+and once they are attacked they they are
+very reluctant to share the fact that
+they've been breached over their
+cyber physical security
+and you know we know of dozens and
+dozens of incidents that didn't meet the
+public didn't get to the public eye
+because these are not events like you
+know solaris or or you know those
+massive look for jade
+things like that
+and you hear about it you know when
+there was a nasa jpl that was under
+senate to inquiry then you know you got
+some data there you got some data from
+uh
+stocksnet which was a supply chain
+attack so they're like very unique
+attacks that uh usually are kept while
+uh well hidden
+and uh the fact is that because none of
+the existing
+a security products can can detect those
+attacks so you don't have those kind of
+flashy
+you know animation of attacks coming out
+from china and targeting east coast and
+west coast and back going back and forth
+so uh you know from the
+cso perspective this is a problem that
+appears in mr robot it appears on
+mission impossible or
+james bond so you know
+he would ask himself oh i'm not of
+interest that's usually a pushback that
+we get i'm not of interest to anyone
+and you know it's always the other way
+around if you have something that
+that is of value it could be your a
+customer database it could be your ip it
+could be
+um transactions that someone can carry
+on your behalf you have valuable data
+that someone they will find a an easy
+way
+we'll go for it
+amazing
+it sounds like what you're describing
+here is sort of
+internet cyber security of maybe you
+know 15 or 20 years ago when it was just
+starting out and people would say okay
+but why why would i you know it started
+out as perhaps very specific attacks on
+specific organizations and then a lot of
+these a lot of these um you know
+loopholes were found in a more generic
+level especially as sas continued and
+we're describing this sort of a maturity
+of understanding of okay how does this
+actually happen and how do we defend
+against it and what you're describing
+also is that currently a lot of these
+organizations are kind of helpless
+against these attacks right and part of
+it is because of the lack of attention
+that that we as csos may be giving to
+the the the wanting or the interest of
+others to attack us right
+yeah and there's a lot of misconceptions
+and um you know some of the
+misconceptions are you know are or us to
+blame for you know the industry because
+for example the term rogue rope device
+so if you will go over you know the
+companies that are using the term rogue
+devices so every company takes uh you
+know
+its own approach about what defies a
+rogue device
+one can define it you know a device that
+operates layered three and a bob or
+sometimes it's an application or
+sometimes it's something in layer two uh
+so the fact that you as a as a see so
+you buy a you know a solution that you
+know on the brochure promise you to
+handle and mitigate rock devices then
+you know you feel comfortable that say
+oh i have this cupboard or if you buy a
+neck solution and you know they promise
+you they
+you know the sky
+um and then you you're certain that if
+someone plugs in in one minute switch up
+you will see this light you know like
+this and it's not the case uh so it's uh
+it's a lot of misconceptions especially
+with everything that has to do with usb
+devices this is something that still
+puzzles me
+you know usb vulnerabilities are being
+you know for decades probably in the the
+oldest you know malicious type of
+interface
+and uh obviously android security edr
+solution xdr they all handle a usb to
+some extent some of them even ha you
+know say we have a bad usb module
+and when you go into a c zone you ask
+him okay do you uh what is your usb
+policy and then he would say oh well we
+do not allow usb devices
+and when we you know will ask him okay
+how do you type how do you navigate this
+oh
+a keyboard and a mouse and how are they
+connected oh then that's through a usb
+so for some unknown reasons uh the
+the keyboard and mouse are
+treated differently
+than uh other you know usb mass storage
+which is you know most dlp and input
+security wheel block cameras and so on
+and obviously if this is uh the device
+that is allowed to connect guess where
+the attackers will target they'll target
+the mouse and
+and and keyboards that's you know why
+so so many adapters coming up from hack
+five or uh a obg cables ninja cables
+they all
+you know tick on the same uh
+on the same item of of impersonating as
+an hid device right so if you're looking
+now on a company and i'm specifically
+curious about your own position you're
+you're co-founder but you're also the
+chief marketing officer at a different
+role
+than what i've seen you've held
+previously transitioning you know for
+more very technical cto level to now
+more of the marketing and understanding
+the market and focusing on that what
+what made you decide to make that
+personal switch and what you're dealing
+with in the day-to-day
+so first of all it's uh
+it's because of two things first of all
+it's uh it's a challenge i i love i love
+the challenge and uh i think that
+in order to uh
+to bring this new concept this you uh
+term of
+zero trust hardware access into the
+market you need to come with some uh you
+know qualification and the level of
+professionals so people will listen
+because you know
+at the beginning it was like you know
+trench uh war you know we had to uh to
+persuade people that this is an issue
+you had to uh
+do a lot of what i call you know the the
+awareness campaign through analysts and
+through uh
+a key stakeholders and you have to
+convince them and you can only do that
+by having you know the
+the relevant and and data and the
+information and qualification because if
+you you wouldn't have then you've been
+brushed off you know in a minute saying
+oh we have that covered it's not a
+problem in and then you need someone as
+a counterweight
+and uh
+going back to my earlier comment you
+know we've uh we've been working as a
+group of founders and you know each one
+of us is a piece of the puzzle uh
+someone answers the ceo and the other is
+the you know the beginning was the uh
+responsible for the engineering product
+so you know we were like a team and each
+one has its own strengths so well you
+know i happily took this uh this
+challenge
+upon myself i love it so so tell me a
+little bit about you know
+but i'm sure that the technology is
+fascinating to you but specifically
+because we're talking about a market
+education piece
+and i'm specifically interested about go
+to market and marketing for for a
+company like this what what have you
+been observing that works really well
+with sort of educating the market on a
+need even for a solution like this
+because at the end you're you're talking
+about taking somebody who may not be
+ready to to to accept it
+you know as a technologist and as an
+entrepreneur that this is something that
+they probably need
+how do you go that mile to get them to
+where you're staying
+so um so obviously you you have to have
+the first wins and uh
+that you could then use as references
+and those will be your ambassadors for
+it
+for educating the market because
+uh you know one man can you know can
+have all the limited outreach you know
+there are only certain hours of the day
+so if you're selling you're able to
+convince five then those files become
+your ambassadors of
+hardware access control then that would
+be that would be great now in order to
+find those uh those first early adopters
+then you need to look for those very
+unique unique c cells um because uh i
+kind of categorized the c cells as the
+the evangelizing see so those are the
+one who you know they get it they really
+get it they uh they understand the risks
+they're they're not a afraid of uh of
+experimenting even when the with younger
+startups and they happily adopt the the
+solution once you prove them the value
+and
+the other the other kind will be the
+followers that they will look up to the
+evangelizing see so they will see that
+they are doing well and then they will
+follow their footprints and there's the
+amount of kind of cut and paste season
+that you know they'll buy
+whatever the others are buying so which
+you have to have kind of gross release
+of the one input security one dlp one an
+egg so they'll they'll go with you know
+kind of a
+organized list so we've started with the
+he with the evangelizing system we were
+fortunate enough to uh
+to have some of the
+most intelligent
+professional seasons that
+we came to meet in our long career
+and uh once they've adopted it and then
+some of them you know ran organization
+like you know 50 000 employees 20 000
+employees which for uh or a young
+startup in its first year to get a
+customer of that scale is is phenomenal
+especially if it's something coming out
+for the financial which is more
+uh heavy on logistics and bureaucracy
+and once we got these uh these
+references then you know they've
+actually took us by the end to their
+peers and to their colleagues and we've
+kind of propagated through there and you
+know as uh
+as the years uh you know moved on we
+there were more incidents there were
+more uh
+people arguing for this domain so now
+gartner has this uh domain which is a
+cyber physical security which deals with
+the
+this entire concept of hardware-based
+attacks the supply chain and their
+regulations like section 889 in the us
+and
+and the fcc telco build there's a lot of
+uh a work being done around this there
+was obviously the bloomberg series and
+there's a lot of you know back wind to
+uh to what we're doing and it's like
+three years ago i had to explain is this
+problem really happening is this stuff
+really happening or it's just you know
+self-made story uh then this is no
+longer the case people are responsive
+and uh yeah we see that in our business
+results so what it sounds to me is that
+you you have a strategy for how do you
+take a market that is right now still
+pretty young or it's in its infancy of
+understanding and there's okay we're we
+still believe it's a problem we can
+still start selling it and we'll get a
+validation through some some strong
+partners that are working with us
+initially for the validation but we have
+to understand that parallel to us those
+the world is getting educated with or
+without us in this matter and so over
+time our marketing strategy is actually
+going to become a little bit easier or
+more trivial for for the world to
+understand because a lot of this extra
+education that we have to do it's
+getting solved by this parallel path
+that the world is on right
+yeah and uh and you know besides the
+marketing the the sales activities are
+are completely different because you
+know because you're not selling endpoint
+security number 17 then you know the
+the people that you need in order to
+sell your product are more of a kind of
+a
+even entrepreneur in in nature like
+bsdev type of oriented
+rsms so that you know they could uh
+find their way in and explain the
+problem and find those opportunities and
+and only when
+once we get that opportunity secure then
+we could bring in you know the standard
+you know resellers and distributors to
+actually go and and run the logistics of
+the incredible incredible what is the
+part you know you've been doing this for
+a while you've been cyber security
+veteran for many years
+continuing to build a new company now uh
+which has been running for some time but
+but still deciding to go on on yet
+another company journey what where's the
+thrill for you what do you enjoy most
+about this whole thing
+so i think that uh i enjoy the roller
+coaster atmosphere of
+of being estonia because there are
+hind eyes and lolos you know they're
+like wigs that you know
+you you know you you don't want to get
+out of bed because it's been such a
+such a horrible way because you know
+it's something that you've been working
+on or a submission for a certain
+award that didn't come through or
+something like that
+uh or a campaign that you know didn't
+bring the good result uh so you have
+those laws but on the other hand you
+have you know when you do get those say
+highways of uh of winning and obtaining
+customers and you get good feedbacks on
+uh on a piece of content that you've
+created whether it's a video or
+or someone said oh i wrote i read your
+white paper and i thought it would say
+it was great um
+so i i enjoy the the thrill of that high
+lows and uh and the challenge you know
+we're building something is something
+new we're not cutting pasting anything
+uh we're inventing a new domain which is
+a nightmare seo wise uh because you know
+probably not a lot of people are looking
+for a hardware access control but we're
+changing that and uh
+and we'll succeed you know we
+we're
+originally israeli so there's no like
+can't do it uh attitude it's all you
+know it's just a matter of time when
+we're getting what we got i love it i
+love it betsy i really want to thank you
+for time the energy 20 minutes go by
+very very fast and and i'm really
+thankful for friday for the work and for
+the time that you've spent here and i
+learned a lot myself so thank you very
+much and best of luck with said pr stay
+safe and stay healthy
+[Music]

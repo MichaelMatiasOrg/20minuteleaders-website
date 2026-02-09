@@ -1,0 +1,663 @@
+so people are doing this from different
+aspects we just found a gap for people
+who lost use of their hands they're not
+paralyzed to a chair they they can move
+around all day um
+and you know and they just want to use
+not only that one device but a variety
+of devices all day for communication
+education and play
+and that's what we decided to focus on
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret court ventures j ventures
+riverside fm
+fusion vc
+birthright excel j impact
+leap google for startups and hippo and
+in media partnership with ctec
+welcome to 20 minute leaders today i'm
+honored to be hosting miri berger here
+at google for startups talking about
+how we can leverage technology to bring
+mobility and fine motor skills to people
+who may have lost them
+miri is the founder and ceo of six
+degrees she is an industrial designer by
+training completed a master's degree
+from the pratt institute and a bfa in
+ceramic design from the betsell academy
+of arts she holds patents for her work
+in design and has over 15 years of
+experience in a wide variety of projects
+in the fields of toys furniture
+electronics and soft goods
+millie specializes in designing products
+that consider unconventional needs
+materials and uses
+welcome miley
+miri burger welcome to 20 minute leaders
+thank you so much for being with me
+today thank you so much for having me
+over uh you're working on something so
+special six degrees hey we're talking
+about motion and we're talking about
+smart motion the integration of the
+physical and digital world
+and making some pretty tremendous
+positive impact on people that really
+need it uh take me back a little bit to
+who you are and how this sort of came up
+for you five years ago when you
+co-founded six degrees well um to
+understand what happened five years ago
+i normally start with the actual origin
+story um i met my
+husband at 19 while we were both serving
+in the military
+my husband got injured he's my husband
+now i just met him then he had
+gotten injured a month earlier a nerve
+injury to his leg as a paratrooper
+and um
+as in coming from family physicians this
+led to introducing him to a neurosurgeon
+which led to physical therapy and
+rehabilitation
+which actually has never stopped
+since
+and as he found himself and i found
+myself with him in rooms with other 18
+to 22 year olds going through rehab
+that got injured in their limbs their
+hands or legs
+we found that past physical pain the
+second thing that hits you is loss of
+independence
+and it's it also stays with you
+and that really
+stayed with us uh emotionally uh
+conceptually but also physically for him
+um throughout our entire uh you know
+life together
+fast forward 15 years later we're
+married we're both at school
+i'm at pratt doing industrial design
+he's at nyu running the innovation lab
+and
+we met it again with uh with a lecturer
+uh who lost his dominant hand
+and we really wanted um starting with
+him but then it grew into a larger
+population to connect people who lost
+the use of their hands back to
+communication technology
+um and unemployment but to do that with
+the guidance of independence wow so
+that's how we kind of started six
+degrees we both finished school five
+around you know
+uh five years ago um i was already
+working in design consultancy we both
+decided we want to do this in israel so
+i left my job in in brooklyn um we took
+our two kids and two pieces of suitcase
+and uh came to israel and started the
+company incredible incredible and so
+we're talking about people with
+disabilities or with lack of mobility in
+their upper limbs being able to be
+independent that that is the the basic
+premise so how does technology
+um
+provide any support here what are some
+of the some of the ways that we can
+leverage technology to do that
+yeah so um and i'll start with with what
+we do but i can obviously zoom out um to
+what's going on in the ecosystem um so
+we started with people who lost their
+fine motor skills this means they can't
+use their hands because of injury
+paralysis or disease um normally focused
+on finger motion finger movement um
+and
+this affects you know how you use a
+mouse how you would tap a touch screen
+how you
+play a game with a controller and so on
+let's say on xbox
+and so what we wanted to do is to take
+the output meaning the command on the
+side of the device
+but replace the action with motion so
+instead of you clicking a mouse you
+would move your uh arm you you can twist
+it make a whipping motion a fist bump
+um or lift your shoulder and that'll
+correspond to the computer as a click
+or to the phone as a tap and so on and
+so
+we also decided to do this focusing on
+individual motion because as you know
+everyone's unique um
+to quantify it a little more we started
+out by putting 30 people with no
+mobility issues in a room and asked them
+to put on the device to gather data and
+to do the same motion and the
+commonality between them that was less
+than 30 percent meaning wow people are
+vastly different in the way that they
+move it even in micro emotions
+and so we knew that we had to develop a
+technology or an algorithm to kind of
+accommodate to that and let everybody
+use their existing emotion their
+existing ability not looking at the
+disability but looking at what you can
+do
+in order to to get back to using the
+digital world incredible and um and
+talking about the ecosystem
+uh what's going on is a lot of people
+are doing this from different aspects so
+that means if you can move your eyes uh
+you know technology developed sure
+tracks your eyes and and uses that as a
+guidance for control if you can move
+your head it's the same thing there are
+technologies that focus on muscle
+potential meaning you make them uh you
+you flex your muscle and that sends a
+little electrical pulse
+uh further or cameras that we all we all
+experience that through we tracking your
+body shape and so on so people are doing
+this from different aspects we just
+found a gap for people who lost use of
+their hands they're not
+paralyzed to a chair they could move
+around all day um
+and you know and they just want to use
+not only that one device but a variety
+of devices all day for communication
+education and play
+and that's what we decided to focus on
+and we're probably a little
+underestimating as a society that the
+role of fine motor skills especially
+with our hands right we we constantly
+talk about opposable thumbs as sort of
+the
+the burn butter of what differentiates
+us and uh but i think we underestimate
+what happens when you lose that fine
+motor skill right it's not just if
+you're in a wheelchair that you have
+that you're lacking independence but
+it's but but it's something like that so
+so what is what is the product that six
+degrees is working on to tackle this
+yeah um so thanks for the question so we
+basically we developed a product called
+my move uh which is a off-the-shelf
+hardware meaning it the same technology
+exists in other smart watches that you
+know today or in phones
+but the this hardware in our product
+is is layered with an algorithm that
+looks at motion so basically you can
+take my move it looks kind of like a a
+wearable generic wearable
+smart watch
+you can place it on your wrist and the
+watch area on the upper arm or on your
+leg so basically any limb that can move
+and it asks we asked you to do a five
+minute onboarding uh through playing a
+game
+five minutes five minutes
+uh we start out by asking where you
+place the device then we ask you to put
+turn on bluetooth so you can connect it
+to
+the computer phone tablet
+um then we ask you to play a five minute
+game um and throughout that five minute
+game we look at your motion range
+ability speed accuracy whether you have
+involuntary motion like tremor in other
+words we just ask you to stay still and
+see what that looks like um
+and
+through that we kind of build a library
+of
+basically 720 different aspects of the
+way that you move wow
+and we do that in
+80 samples a second meeting really
+really fast so every time you move or
+don't move we add that to the algorithm
+and that teaches the algorithm about you
+specifically
+after that five minutes you can now take
+that bluetooth connection with no
+program installed no um
+extra
+uh hardware like a dongle
+uh or camera you just turn on your
+bluetooth find the my move device on
+that
+on on your bluetooth computer phone
+tablet and connect and you can start
+going and so at that moment you were
+able to effectively
+exert find fine motor skills on your
+smart device without actually exerting
+fi if you know fine motor skills on the
+device yeah from that moment on uh we
+take the motion that you chose uh as a
+command uh you can think of it as a
+gesture sure um and we
+and that gesture is going to be an
+action on the on the corresponding
+device so if you chose let's say a fist
+bump motion then that fist bump will be
+a right click or left click on your
+computer it'll also be a tap
+or swipe on your phone or it can be the
+x button or the y button on your
+controller gaming controller and you
+moving right left left up and down the
+way that you do sure uh will be the
+corresponding motion sorry of
+of the mouse moving on the screen or the
+cursor i mean moving on the screen
+or uh or the um joystick that you would
+use on a gaming controller um and then
+you can basically use that to get back
+to full function
+and so i so now i understand the
+importance of the
+of the precision that you were talking
+about before the training the model
+specifically from your own actions that
+feeds itself and to be able to be to be
+have very precise identification of what
+gestures you're making because it's very
+easy to confuse this with this right
+yeah
+and so you want to make sure that you're
+getting exactly right because that could
+be the difference of sending the email
+or not sending the email and you know in
+our cases sure
+now
+when you talk to me a little bit about
+the creation of the product i'm always
+really curious about those types of
+things with hardware the physical world
+how do you even approach
+a process like this as a designer
+yourself how do you how do you think
+through
+building the product from the consumer's
+perspective their experience
+their market education that needs to
+come to this i love to hear it all
+so uh obviously this is an uh iterate
+iterative process um it was learn uh
+correct repeat uh and and and so on
+throughout the lifetime of the company
+uh but i'm a really big believer and
+inclusion by design and so we started
+out picking uh the ends of the spectrum
+meaning people who can move too much or
+too little uh as the models for for the
+algorithm for the technology uh and we
+know that through designing for the for
+those uh ends we cover the middle and
+we started out by thinking of really
+simple things like how to use your phone
+you use it
+lying down sitting up walking on a train
+and if you think of say
+the thing that reads speed on your phone
+the accelerometer
+um then if you're wearing something with
+an accelerometer and you're on you're in
+a car or train that comes into effect
+um let's say uh camera devices that you
+know today the wii doesn't really
+capture you lying down on the bed and
+you know chilling uh so we really
+started thinking about you know where
+people would use this device throughout
+the day
+um and then we asked them to use it
+which is the
+obvious next step but you see a lot of
+technologies being developed and kind of
+when they're done
+the user comes in i think it's really
+important to have that iterative process
+with the user right in the beginning
+i always call our users the the company
+employee that you never meet in the
+office because they're really really
+important their feedback their input
+is really critical to get a good um you
+know technology or product out there
+what was was the process sort of trivial
+from a planning perspective i mean did
+you
+sort of understand the problem because
+you've you've had those personal
+experiences and you were subjected to
+them so you understood a little bit
+where the pain points were and how and
+how you built the confidence because
+part of it is not just
+regaining those skills but also
+regaining the confidence that you can't
+have those fine motor skills especially
+on you know on on these things that that
+are generally we think of them as very
+very fast quick paced actions
+yeah i mean that's a great question i
+would love to say i planned everything
+in the beginning but that would be
+incorrect i um
+we actually started as i said making
+this product for one individual this
+individual had an amputation below the
+elbow
+and was wearing a prosthetic
+and we started out by
+looking at the user as someone who wears
+a prosthetic and this individual was
+also
+a cad designer a computer modeling um
+expert a teacher
+and so we wanted to have this function
+in cad in a computer
+um
+and then as we asked other wounded
+veterans uh in the us as well as uh
+wounded veterans in israel if they want
+to try it they they said well i have a
+friend with ms i have a uh an aunt who
+has tremor
+i have uh you know a cousin that has
+nerve injury and can't really put
+anything on their skin can we put this
+on clothing and so every question so it
+started out by looking at a problem and
+trying to to adapt a solution
+and then
+that solution kind of grew into
+um you know
+uh an ad hoc sorry an at request
+um
+development so
+we wanted to help as many people as
+possible so we were looking at you know
+when we when someone came with tremor
+we're like that's great we can add this
+aspect to the algorithm and have them
+read the tremor and see how that works
+and so it was an evolving process
+how do you decide
+you know what where to go from here with
+six degrees i mean there's so many
+different things that you can do right
+how how do you sort of think through the
+prioritization or the rationalization of
+what are the right features to be
+building out or the right products then
+the next might move if you will to be
+built out what is what does this process
+for you look like
+yeah so i mean until this point i kind
+of focused on technology but i think um
+once you when you're building a company
+you have to also take the business
+aspect and the vision or the mission
+into account so
+in our case uh our vision and mission
+was to start out uh by
+including
+uh the the people that we service people
+lost our fine motor skills or dexterity
+um throughout you know throughout their
+accommodating their use of technology
+throughout the day that could be
+when they're using their media console
+and a car
+it could be when they're using their
+smart devices to communicate that could
+be at work
+it could be in a presentation and it
+could be in a variety of aspects so i
+think the first thing that we look at
+when we cho when we choose
+where to go next we're looking at our
+population
+secondly you have to look at the endgame
+the vision
+and for us it's for this technology or
+this user experience to be embedded in
+any wearable device so you don't need my
+move you can take the algorithm embed it
+in any smartwatch to allow anyone to do
+this you don't have to have an injury
+or a disability in order to use this and
+i think that's part of having this
+inclusive
+that anyone is
+you know is on a level playing field uh
+so
+so that is another guidance um and the
+third is really uh
+what is the path in order to accelerate
+that uh you know these steps moving up
+so
+our path is
+we start we just started uh selling my
+move in april uh in the us focused
+mainly but also in australia and brazil
+and we i'm happy to say that we're
+actually selling it to assistive
+technology libraries to universities to
+get um
+you know students back to school or back
+to sorry to education but also writing
+their project and doing their graphics
+by themselves
+uh and we're selling it to corporates in
+order to get employees not only with a
+severe or visible
+disability but also someone who can be a
+programmer and suffers from carpal
+tunnel syndrome and can go to work
+because of that you know momentarily or
+for a few months and so we started
+hitting those verticals which are still
+under the mission but um can grow the
+company to the next stage so i'm hearing
+that primarily from a go to market until
+now there's a lot of different
+businesses that are that are taking
+interest in this for the different
+people that are within whether it's
+students in universities employees and
+companies etc um
+is there a specific reason why you found
+that b2b is a is the strong approach
+here now versus then going after the
+consumer market because obviously
+anybody that has fine motor issues they
+they this is something that's hugely
+relevant for them and also in their
+daily lives not just in work
+yeah and that's a great question for us
+we looked at what other companies did um
+and kind of uh put the weight the um
+how fast this would you know reach the
+end consumer or the end user
+uh going through the company versus
+going through the end user first
+um and so we reached out to these
+organizations the at programs the
+businesses um the corporates i mean
+and um
+the ad programs the the businesses and
+uh the
+universities because they take care of
+the financing they purchase the device
+they give it to the end user to use for
+a few months weeks days
+and so on
+or semesters
+and so
+in that case the the end user can try
+this out risk free and really
+gather the benefit and the value and we
+see that as a starting point uh to grow
+this so you can really it's kind it's a
+new technology the market doesn't really
+know about it right and we thought it
+would be uh best for the end user not to
+be the purchaser and not to pay for it
+but only to gain the value
+and it's important to say that it's not
+only for the end user it's also for
+their surrounding
+family friends um you know their company
+benefits from this the university
+benefits from this because they access a
+lot more people
+so it's it's really you think of it as
+like you know the drop but then the wave
+that comes after
+right now you mentioned that you and
+your husband
+sort of picked up your whole family
+finish your jobs and came here to start
+this
+so it sounds like you had such a
+deep and meaningful personal conviction
+as to where you're going here
+do you feel that in the day today
+looking back do you feel the the the
+what you were hoping to feel working on
+this working on six degrees
+i think having a startup is amazing uh
+it doesn't mean that all of you should
+go out and start one it's also very
+difficult there are there are a lot of
+adversities you keep learning new skills
+and um basically facing new challenges
+every single day
+um obviously
+everyone
+faces challenges every day but um but in
+the case of a startup you're facing a
+challenge and you have to uh kind of
+address how that challenge would affect
+the the customers you sell to your
+investors your employees yourself your
+family
+and you have to do that every kind of
+minute every time that happens over and
+over again
+so on one hand it's difficult because of
+the challenge and the other it's
+rewarding uh because once somebody comes
+with feedback and says you know um you
+got me to this place or
+uh you had me you know doing something
+independently you reduced pain you took
+a burden from from someone and you get
+that you get those twinkles not every
+day but every once in a while
+and and you look at it and normally
+comes in parallel to kind of a challenge
+that you're tackling
+and at that moment that challenge
+becomes really miniature
+um
+it really reduces it to okay i'll great
+i'll solve this so i can get the next
+one um so for us an impact-based
+business is is really
+what we wanted to start and what we're
+building um and i i love that
+so it sounds like this this why that you
+have is so strong that it just overcomes
+a lot of these other challenges that you
+mean in the day today
+yeah it's it's kind of like
+a you know beacon that you can follow um
+and if you're
+you know on one hand it keeps you
+focused and you're vertical and your
+business and on the other it keeps you
+focused on why you're there doing it
+because otherwise there's no really
+reason to start a startup uh
+yeah you you uh you basically you pay
+someone to work so
+so until a certain point so um and you
+work many hours and um it's it's always
+a cost a cost reward
+kind of
+scale uh because you're always losing
+out on things but you're also gaining a
+lot
+incrementally you know i have your uh
+on your website open and i have the
+video rolling and it's just so cool
+watching how people are are leveraging
+you know very simple movements that from
+what you said before are very unique to
+them they're very precise to their own
+interpretation of those movements and
+those actions
+and and they're able to do go anything
+from
+from photoshop a cat to open up a
+browser to play
+game to flip through a slideshow to edit
+an image i edited it's just so cool and
+i can only think about you know going
+back to what you were mentioning before
+realizing that right after
+the disability itself it's the the
+second hardest thing there is losing the
+independence yeah that that this is
+something that's not trivial right
+losing independence now understand that
+we're not able to do what we were doing
+before and regaining autonomy at least
+in the digital sphere which is where
+most of our jobs are anyways today
+i think that's a pretty pretty
+incredible impact that you're making so
+thank you thank you for the amazing work
+and thank you very much for being here
+thank you amelia this is a great journey
+and i look forward to to continuing
+following six degrees and i continue uh
+looking forward to listening to this uh
+and seeing where other people are
+impacting the world thank you so much
+for having me over thank you

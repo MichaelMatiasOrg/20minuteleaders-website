@@ -1,0 +1,494 @@
+yeah I wish to keep my family happy to
+be a lot of time with them and not too
+much at work
+so to continue investing time in uh in
+my personal life as well it's very easy
+to be fully delegated to work and never
+touch your guitar again and then that's
+what I wish for myself
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside fam Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with
+C-Tech
+foreign
+we're going to talk about productivity
+workplace productivity generative Ai and
+obviously the most the you know the
+biggest emerging technology I think that
+we've been hearing about and speaking
+about over the last eight months or so
+and so we're gonna dive into how your
+new company as co-founder and CTO what
+you're doing there but but you also have
+a remarkable experience all over the
+place from from open web uh to to gone
+to Mobile so you know really really cool
+background working with some some of the
+most amazing companies here and and so
+I'm excited to dive into what you're
+doing today again thank you for being
+here
+uh thanks for the intro great well and
+tell me a little bit about your you know
+your relationship with technology as an
+as sort of as an engineer and product so
+that we can you know understand a little
+bit your mindset better uh so my journey
+with technology honestly started at the
+young age my father was like a big IBM
+kind of guy led the it at IBM Israel so
+I test computer from a very early stage
+uh hacked it developed game developed a
+lot of fakes and my deeper passion for
+it honestly started with the iPhone when
+the iPhone was released I was mind blown
+started immediately coding for it I
+honestly barely had enough money to get
+a Mac so I did the Hackintosh trick back
+in the days so it was fun days and I
+started developing apps getting into it
+developing camera apps many things
+uh during the years I've been developing
+a lot of products my passion is honestly
+more so for product than for for
+technology I use technology to to solve
+the pains and the problems that I really
+want to solve and since the iPhone I
+believe generative AI is the only other
+time that my mind was blown with what
+you can do like I was amazed by the
+multi-touch and how advancement the
+iPhone brought in and I have to say this
+is the only time nothing happened to me
+again was a few years back when I
+started seeing Gans and what uh deep
+learning can do actually
+so you're seeing games you're seeing
+what deep learning can do what's going
+through your mind what what is sort of
+you know your your executive yet
+entrepreneurial mindset taking you well
+what's the process
+um so like I mentioned before it always
+starts with problems that I'm facing and
+how can it be solved so when I see the
+generative models and gains a lot of the
+problems that are already in my mind I'm
+starting to think about how can we solve
+them how can this be productive now as a
+amateur musician a lot of it went to how
+can I create music with it but there's a
+VPR in the open web and the more
+concrete problems I saw how can I solve
+is how can we help people do more with
+their time using generative Ai and
+that's it let me after a lot of Trials
+to to summarization which isn't the most
+trivial thing about generative AI most
+people look at it as how can I generate
+videos the fake videos maybe or how
+could I generate images and even create
+a new email but honestly I was looking
+at it from how can I create less content
+there's too much going on work why can
+someone process it for me and help me
+just figure out what's going on
+yeah I love it okay so
+um I love the mindset love the
+transition and we're talking about
+um you know summarization uh gist
+obviously you know great great name for
+a company and um you know paint me the
+picture of the of you know the potential
+here the uh the opportunity that's
+presented once you sort of re-examine or
+rethink the way that we're CR you know
+we're we're digesting information and
+how generative Ai and summarization can
+be you know really fundamentally helpful
+here
+so the opportunity is huge I believe
+it's pretty obvious to most people that
+you talk with that there's just too much
+going on whether it's your mom with your
+WhatsApp groups or iMessage with the
+gigantic amount of messages flying in
+there or at work we're in slack for
+example where again people are
+blabbering and talking a lot some of it
+is important that a lot of it is about
+what we're having for lunch and it means
+that you just reach through to
+understand if it's interesting and not
+even talking about Twitter and emails
+and all the Articles going on in the
+world so the opportunities honestly to
+help every human being which is
+interfacing with the digital device and
+going on the internet want to help them
+gist it having said that of course our
+Market is the workspace and helping
+people do their job first and not
+solving this problem for the entire
+world
+yeah for sure and so
+um common use cases for when people need
+to to have a service like this for their
+work for their daily work well how do
+you perceive it
+sure so the first product we released
+was the gist for slack and the use case
+is basically having too much
+conversations going on in too many
+channels in slack and just getting a
+digest of it so you can get your digest
+on demand when you slash gist in slack
+or as a daily schedule where you can
+follow topics or specific channels now
+we're going to take
+a thousand words and turn them into two
+sentences of what happened there we're
+going to understand if it's of interest
+to you even though you're in the channel
+doesn't mean you're interested in it and
+we're gonna digest it to just what
+matters so we do this in slack and our
+goal is to do this across all the tools
+you use
+interesting and so you're so effectively
+it's the it's the ability to
+to really you know distill the the most
+critical pieces that that would allow
+for you to take actionable measures you
+know based on based on whatever you know
+conclusion you came up with I guess part
+of the problem is that you create we're
+creating you know in these long
+summaries or these or these a lot of
+content then you miss out on the on the
+really the gist of it which is the
+action that needs to be taken or the
+lesson to be learned from from this
+content and it gets pushed into some
+envelope hidden in some drawer somewhere
+exactly
+cool and so let's talk a little bit
+about the technology and uh and and you
+know generative AI in general how what
+what that supplies for a company like
+just in in 2023 what does it look like
+to build a company a generative AI
+company in early 2023.
+first of all it's very exciting I have
+to say like everybody is hearing this
+podcast I'm sure I've been looking at
+the advancement at this stage so I
+wouldn't call us per se a generative AI
+focused company because a lot of our
+technology is actually about creating a
+graph of your work data understanding
+what interesting connecting the dots
+between tools that are related and our
+last mile is using generative AI in
+order to digest that for you
+so we are using all the advancements the
+open source and a lot of the advancement
+in the generator I feel in order to
+create these really awesome stories
+enables you to ask questions about the
+data that we detected
+um so on the one hand it's exciting and
+we're getting a lot of benefit without
+investing all of our efforts everything
+generative AI but but it almost feels
+like this is a part of the you know the
+Natural Evolution of the of this sort of
+this deep learning infrastructure that
+started you know in sort of 2015 and
+attention is all you need Etc and so it
+almost feels like the technology is
+progressing so quickly and at the same
+time these infrastructure layers are
+getting built for these applicative
+application based companies how do you
+how do you keep up with
+you know latest advancements because you
+want to make sure that your
+you know at The Cutting Edge and ahead
+of the game at the same time you want to
+be lean and and to focus on product so
+how do you
+how do you balance these two
+so to be very clear we do not focus
+about advancing generous DVI models we
+are focusing on utilizing what everybody
+else is progressing and many thanks to
+the companies like Google Facebook and
+Microsoft but we're focusing our time on
+Gathering the data and on the product
+itself on creating a graph understanding
+what's connected to what and leaving the
+Our Last Mile which is a big part of our
+product to what we utilize from open
+source Solutions yeah that makes sense
+and
+one of the things that I became very
+curious about in generative AI is the
+user experience portion and that's so
+and you know you'll see you've also held
+a significant product positions and so
+you you appreciate the in both sides and
+and so what is a you know what are the
+the things to consider when it comes to
+user experience
+interacting with a product like that of
+just sure
+um so there are a few interesting
+aspects of it the the first obvious one
+is is speed like when you want to
+process and create Advanced usages of
+generative AI it doesn't necessarily
+come in very quickly as for example
+we're trying to process a huge amount of
+data and speed is a is a very important
+matter and
+another aspect is how you actually
+validate that's what you generate from
+this generative models is actually
+correct
+I'm sure many of the people here use
+generative models such as chat GPD ask
+it the questions and it's just mumbles
+something that looks correct but it's
+not correct sure again a lot of the
+product and technological effort we are
+focusing in is to make sure that how we
+summarize is always correct is based on
+the data that we collected and not
+something that the model can just
+automatically create it can elaborate a
+bit more about it but I'm not sure we
+have enough time for that no no I would
+love that I think that this would be
+very interesting okay sure so generally
+speaking one of the issues everyone is
+familiar with is that these models can
+generate anything they were trained in
+order to complete based on text from the
+open web uh very soon being would
+probably release some kind of Google
+Searchlight feature that tries to tell
+you about everything that you search for
+and that's the main issue in the
+generative engineering uh
+models it's very hard to measure it when
+it's based on plane model so what are we
+we're focusing on is actually detecting
+the results beforehand and making sure
+the generative model only generates
+something that is highly related and
+relies on the data that we've collected
+not something that would just
+be popped up from the model so for
+example even if we train a generative
+model on the company's data and enable
+free prompts to generate any questions
+of it that might cause a lot of the the
+results or the answers to be incorrect
+so we have developed a few technical
+ways to make sure that the data is
+always correct and how important is the
+human in the loop for for this process
+so you have the technical aspects of how
+you are able to I guess evaluate or
+assess your own performance but what
+about that of the human interaction
+so specifically in the way that we do it
+yeah it's not critical for the success
+of the summaries because of how we
+collect the data in and serve it but we
+do collect always as much human feedback
+as possible that when people share these
+summaries or give us feedback about them
+we learn a lot implicitly and explicitly
+in there very cool so tell me a little
+bit about yourself you know you're done
+a lot you've been a part of some amazing
+companies
+so you're you know on one hand You're
+Building you know a generative AI
+startup and you know the hottest time
+for AI ever and it sounds like with with
+a product that that you know this the
+shift will be you know there will be a
+shift where people use Ai and generative
+AI to transform you know whatever
+knowledge we have or create to that to
+to these coherent pieces and you're
+talking about a specific use case of
+that
+um but on the other end you're still
+building a startup and you're you're
+leading you know the you're leading the
+technology vision for the startup and as
+a co-founder what do you what are you
+bringing with you to this journey that
+you're taking away from you know your
+background your history and it's a it's
+always a question I like to ask them
+people that have a lot of experience go
+on go on these new Journeys
+so
+one of the main things in bringing with
+me from past experiences is my
+co-founder it'sic which I've been
+working with for the past 10 years
+and so that's the main thing we've both
+tackled a lot of problems mostly related
+to data and consumer products so
+we have a lot of experience in how to
+create growth for example even if we
+create a very cool product growth is
+still a core thing we need to tackle as
+a startup or how we hack this growth
+and I have to say we've implemented a
+lot of it and how to build our current
+product and how to have been scaled
+which is a YouTube challenge
+other than that resiliency I have to say
+I've built growth startup early stain
+startup it's always hard you always need
+to continue doing what you do and be
+resilient and
+just never give up I believe that's one
+of the best advices that I believe in
+for startup is don't give up too quickly
+those who continue with that line tackle
+it again and again and again are the
+ones that essential is going to to win
+it at the end
+in which part do you enjoy most in the
+process
+the speed Spades and touching the market
+when you work at growth stage or larger
+companies we all know how it feels
+everything is slow
+so speed I believe it's the thing that's
+most the most fun to me releasing things
+every day every two days seeing how to
+interact with I mean we've just released
+the gist for slack like two months ago
+we already have
+yeah I don't want to say the number but
+a lot of companies both big and small
+fortune 500 a lot of people so it's it's
+moving really fast so it's very exciting
+so you're you're
+so you enjoy working on things that are
+very high touch very you know that are
+very you know product-led growth
+oriented see how people respond to them
+you see how people interact with your
+product and you can just nail it right
+yeah
+exactly and I have to say we've actually
+considered when we started to start off
+like how do we grow it do we go with B2B
+sales do we go to the CEO and tell him
+hey everybody in your company needs it
+or we go to the person at the end to the
+engineer the product manager and give
+them just start using it so
+after I'm giving a lot of thought we are
+a lot more of plg people we know how to
+build consumer products it's a lot more
+fun so honestly
+was there a reason not to do that for
+you not to go on the plg route
+damn a lot of B2B startups they try to
+do the B2B sales from the top required
+to close the company try to use the
+relations here to Israel like we know a
+lot of companies 30 as well my partner
+it's a really has been in the industry
+for 25 years he was letting companies
+like blizzard and Wix so it we had a lot
+of connection here at Israel the movie
+field she is kind of not using a lot of
+it in order to use your real passion and
+skill which is just to release a product
+that product content have it
+interestingly enough
+yeah no completely if you look if you're
+looking ahead
+um you know two three years four years
+down the line what do you think will be
+the differentiators that will make
+just you know successful or not you know
+what really are the core elements that
+that would make the difference here
+then I believe it's Simplicity we're
+working on a complex product we have to
+keep it on the one hand simple so that
+everyone in the organization can use it
+and not just the most advanced people
+who want to get the very Advanced job
+done like from the get-go we're trying
+to keep the product super simple you
+just let's just in slack you get a
+summary we will have to continue having
+it simple while we integrate more and
+more tools into a place where you can
+actually adjust everything that's going
+on at work
+so that's going to be a key factor for a
+growth you should believe the second one
+is to utilize your learnings from one
+company to another say our goal is to
+create a system that can integrate to
+the organization data and organizations
+have a lot of data to learn from each
+other we believe then in five years from
+now organization which would not utilize
+Machinery models or AI for internal use
+cases or how to help their employees be
+better they would just not uh would not
+be able to compete with the rest of the
+companies so we would need to utilize
+what how the global company data can
+utilize a specific company to be better
+because it's definitely possible I think
+we don't know
+last question but uh maybe the most
+important one here what do you wish for
+yourself on this journey
+what I wish good question
+I wish to keep my family happy to be a
+lot of time with them and not too much
+at work
+so to continue investing time in uh in
+my personal life as well it's very easy
+to be fully delegated to work and never
+touch your guitar again and then that's
+what I wish for myself I I'm gonna need
+a I'm gonna need your help with that
+ever since I created my own thing I have
+I don't I haven't seen the light outside
+of the office and so I I can resonate
+with that well it I thank you so much
+for this time and for the energy and the
+insights it's a pleasure talking to you
+and meeting you and getting to hear your
+story so thank you very very much thanks
+for having me
+[Music]

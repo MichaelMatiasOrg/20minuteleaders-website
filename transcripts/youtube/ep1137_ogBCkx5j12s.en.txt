@@ -1,0 +1,564 @@
+almost every set of machines that are
+just fundamental to the society we've
+built here on planet Earth um were
+introduced in a different era under a
+different set of concerns and
+optimization characteristics and now
+we're standing here at the pre precipice
+of of really powerful artificial
+intelligence and we need to be asking
+ourselves how might we use um the new
+way that technology is changing the
+consumer and business intelligence space
+to build an infrastructure for our
+civilization that is more trustworthy
+and trustworthy can be more cyber
+secure. It's there when you need it
+because it's almost impossible to hack.
+um better could be measured in how can
+we use
+optimization and uh AI control to get
+the same level of resources out with
+with lower resource inputs and that'll
+be lower fuel demands, lower consumption
+demands. Um and so there's all different
+measures of better that we kind of say
+are, you know, we think about in what we
+call the brilliant machines thesis.
+machines and another generation uh for
+for the for this generation that are
+secure, reliable, and have a lower
+resource
+[Music]
+footprint. Zack Staples, welcome to 20
+milliters. So excited to have you here.
+Thank you. Thanks so much. It's great to
+be here, Michael. I appreciate the
+invite. Super excited to have you here,
+Zach.
+you know, you're you're dealing with in
+in an industry that that I know and
+love, obviously, cyber security, but
+you're dealing with it in the context of
+a little bit different than I'm used to.
+And so, I'm really excited to dive into
+that and hear your your journey as a
+fellow veteran of of a different country
+and um and and how you've brought your
+your domain expertise and experience
+into into this industry. Um and um you
+know right before we started here you
+said something that that that you you
+knew will catch my my attention. You
+said you know Michael you know there's
+you know there's a lot about integrity
+and trust in our work and how do you and
+and I and I do get to think a lot about
+human trust and what does it mean to
+have trust and communication in this in
+these interactions and today we're also
+going to talk a lot about machine trust
+especially in critical environments. So
+so Zach welcome to the show. Uh thanks
+so much man and and uh you know like you
+pointed out um there is uh trust is a
+topic with so many different levels
+right now. What you're doing with
+clarity I think is just absolutely vital
+to being able to create and sustain
+human trust in the digital age. And um I
+think what we're doing at Fathom 5 is
+you know similar in the regard that we
+think a lot about um establishing
+machine trust in the in the digital age
+as well. Right. And so what what does
+that what does that mean to you? Machine
+trust when you say that. Yeah. So kind
+of taken at the at the highest level so
+we can kind of put everybody um in the
+same kind of space, right? There's about
+8 billion people in the world right now.
+Um it takes an an incredible array of
+machines to create the food, water, and
+energy necessary to sustain all of those
+people. And we need to do it in a
+responsible way to sustain the planet,
+right? And so when we think about the
+generation of machines that we do that
+with now, there was never um they were
+built under a different engineering
+paradigm. And so now we worry about the
+cyber security of our electric grids. We
+worry about the um integrity and
+reliability of our our water um
+generation and transportation systems.
+you know, almost every set of machines
+that are just fundamental to the society
+we've built here on planet Earth um were
+introduced in a different era under a
+different set of concerns and
+optimization characteristics. And now
+we're standing here at the pre precipice
+of of really powerful artificial
+intelligence. And we need to be asking
+ourselves how might we use um the new
+way that technology is changing the
+consumer and business intelligence space
+to build an infrastructure for our
+civilization that is more trustworthy
+and trustworthy can be more cyber
+secure. It's there when you need it
+because it's almost impossible to hack.
+um better could be measured in how can
+we use
+optimization and uh AI control to get
+the same level of resources out with
+with lower resource inputs and that'll
+be lower fuel demands, lower consumption
+demands. Um and so there's all different
+measures of better that we kind of say
+are, you know, we think about in what we
+call the brilliant machines thesis.
+machines and another generation uh for
+for the for this generation that are
+secure, reliable and have a lower
+resource footprint. So so set the stage
+for me because you know we talk a lot
+about AI in our day-to-day and we hear a
+lot about the advancements that we have
+and obviously every person that's here
+with us in the show has a has a
+smartphone, has a laptop, smart TV. So,
+so we we're experiencing this this I
+think intuitive consolidation of devices
+in our daily life
+experiences and we anticipate that these
+consolidated devices will become more
+and more powerful over time that
+software and AI will just self augment
+and that same MacBook that I have or
+that same Lenovo that I have will just
+keep getting better and better on its
+own. But we're actually here talking
+about a different set of machines that
+are powering up a really important parts
+of our world. So, so I think it's a
+really important framing to just say
+that for a second that this is, you
+know, there's a whole world of machines
+that lives besides our own physical
+three devices that we're used to. That's
+right. Yeah. Yeah. That's right. You
+know, and it's it's super interesting
+too in in that regard
+because if if you ask most people, you
+know, what are the most prevalent
+computers in the world, they're going to
+kind of go back and forth and some of
+them will say it's iPhones, some will
+say it's Androids, and and probably most
+people won't say laptops, right? But
+some might. Um the crazy part is there
+are about 5 to 10x more machines
+um you know intelligent computerized
+systems than those than all of those put
+together. So every thermostat in every
+building now almost every thermostat in
+every home. Think about the number of
+computers in a modern automobile. um you
+can take that and you can scale it up by
+a,000x for the number of computers in a
+modern factory and probably another
+thousandx for the number of sensors and
+computerized machinery controls in a
+large industrial facility. So, so the
+the fabric of civilization, you know,
+the humans interact over those three
+devices, but the civilization that makes
+all that possible is a layer of
+computing and uh and control in the
+physical world that's empowered by this
+entire other set of machines that most
+people never think about. Right. So,
+tell me a little bit for a second about
+your own your own background or how you
+even got here. I'm always fascinated by
+by backgrounds and stories. I'm I'm
+particularly interested here because uh
+you're you're bringing a lot of I think
+your personal experience into into the
+world that you're doing today. Oh yeah.
+Well, thanks for asking. I appreciate
+that. So, so I I grew up here in the
+United States in Texas and uh I had the
+benefit of having a grandfather who had
+a farm and and I loved, you know, the
+tractors and all all that. And then I
+had an opportunity to uh to serve my
+country and so was in the Navy for a
+while and again kind of big machines. I
+served on ships and toward the end of
+that I had an opportunity to really get
+into electronic and cyber warfare and
+start to think through the reliability
+of the machines that were both using in
+the United States Navy and that were
+being used around the world and and came
+away from that experience realizing like
+we needed to do better like we needed to
+do better for national security but we
+really needed to do better in providing
+a kind of more trustworthy reliable
+uh lower resource input machines for the
+whole world. And so when I when I
+finished my career, I launched Fathom 5
+and uh we have uh over the last six or
+seven years tried to develop our concept
+of brilliant machines with products for
+the national security space really just
+as a seed funer. you know, the DoD, um,
+the US Department of Defense has a long
+history of seed funding hard tech, more
+so than Silicon Valley has in a long
+time. You know, Silicon Valley, I think
+you went to Stanford, right? Yeah.
+Right. So, yeah. So, you've spent some
+time in Silicon Valley. You know,
+Silicon Valley for many, many
+years, maybe it's changing a little bit,
+but has had a strong propensity for
+software solutions, solutions that could
+scale very quickly in the cloud. there
+was such dramatic success with um
+consumerf facing products that was
+really you know the the the the capital
+available to do something new kind of
+got isolated into that very narrow space
+and so when we launched Fathom 5 in 2018
+we looked around and said hey this is
+what we want to go do now where is the
+best market to get early stage
+non-dilutive investment in this and the
+and the and the DoD has been a great
+partner in that for us and So, we're
+really fortunate to have done some
+amazing things um for the Navy, but I
+think more importantly and more broadly,
+you know, we have a suite of
+technologies that will be rolling out of
+just the national security space and
+into the consumer space to go after some
+of these broader more uh more impactful
+global challenges and machine
+resiliency. So I' I'd really love to
+understand in in a real world setting
+how how um the world how the work that
+you're doing is impactful let's say on
+on the world of of Navy and Navy ships.
+So you know we're looking at the
+transformations of AI and software and
+hardware and systems and machines. Take
+me through a Navy ship. What what
+happens there and what what type of work
+do you do there? That that's a great
+point. You know, lots of people think so
+so Fathom 5 was the first company to
+deploy artificial intelligence on a on a
+naval warship. And so people I I've I've
+mentioned that before and gotten the
+Terminator question like right after
+that. I'm like, "No, that's not what
+we're talking about." It turns out the
+best way to have a good navy is to put
+more ships to sea. It's just so basic,
+right? If you have 200 ships or 300
+ships and uh and you can only get a
+hundred out to sea at a time because of
+maintenance and material readiness and
+everything else that contributes to
+that, then you can then you have an
+adversary that only has to build a navy
+uh to beat a hundred of your 300 ships.
+And so, you know, the the commander of
+Fleet Forces Command in in the Navy has
+has uh been on the record saying his job
+is to change the way we do maintenance
+and maintenance planning to get, you
+know, 200 plus out to sea. And so, the
+first deployment of AI is right in line
+with that vision is watch what the
+machines are doing and predict the
+maintenance that they need. So we can
+use, you know, make sure ships are
+getting the right maintenance at the
+right time with the right parts ready to
+go. And we're early in that journey, but
+it's a it's it's a such a great space
+for AI because it is so inherently safe,
+whereas advertising and and eye capture
+and all the things we've seen in social
+media and other spaces have been, you
+know, net detrimental to society and
+entire generations. Um, and here you get
+and here you get the benefit. Oh, that
+m, you know, the machine is the machine
+needs the oil change. Let's just go do
+that. Yeah. No, absolutely. It's
+actually funny. I have a good friend who
+who used to run a company called
+Nemoata. It's a it's a company that
+does AI prediction for um for
+um things that need to be done on trucks
+for delivery. So yeah, and so I and and
+I'm actually an angel investor there
+because I really do think that there's a
+really huge potential in leveraging
+these predictive models to try and and
+eliminate a lot of these bottlenecks. In
+the case of a truck of a delivery truck,
+if it breaks down, then a supermarket
+doesn't get groceries. There's business
+continuity disruption. In the context of
+a Navy ship, if something goes wrong, I
+I I don't want to think what what's the
+harm in that.
+Now, Zach, I have a question. You know
+these ships obviously are have a lot of
+legacy systems. Yes. I had the the
+privilege of also serving in for me 5
+years in the IDF and and so I got to
+work with a lot of legacy systems and
+one of the biggest uh struggles and
+tensions naturally have been how do I
+take these legacy systems and how do I
+get how do I evolve them to these new
+generation systems? And generally it
+wasn't a okay we're going to take it out
+and put something else in but you needed
+to think through some kind of some kind
+of merge and and and and um a good trend
+evolution. So how how do you do that in
+in legacy in your world? Yeah, you're
+absolutely right. So um
+the you know if we if we want to have
+this grandio school of making industrial
+and defense systems more resilient and
+more ready then you just have to accept
+as part of that challenge that you it's
+got to work for the old stuff not the
+new stuff right it's got to it's got to
+work for all of it and so you know with
+engineering audiences I joke around that
+we like to connect uh you know serial
+cables to Kubernetes clusters um But
+part of that that's that that's why this
+is a good space is that there's really
+interesting not just grand problems to
+solve but fascinating technical
+challenges to solve is how how would we
+connect the machinery control system
+that has all of the you know process
+control sensors. How could we build a
+cyber secure boundary between that and a
+system that makes maintenance
+predictions off of those sensors? some
+cases the answer is just use the
+existing uh you know machinery control
+environment that already is getting a
+lot of digital feeds. So, I'll just give
+you an example for most people's car.
+Like most people's car, when you push
+down the accelerator pedal, you're
+sending a signal to the computer about
+how fast you want the car to go. And
+then the engine control unit calculates,
+okay, what's the fuel mixture to to give
+the driver kind of the velocity profile
+they asked for, right?
+And mixed into that, there's an oxygen
+sensor in the exhaust of that car that's
+making sure that that fuel air mixture
+is right for the temperature and and
+atmospheric pressure that you're in to
+try and optimize that burn. Um, so
+almost every machine, even what we would
+call legacy machines, have some amount
+of sensors on them because they have
+engineering control units, the the
+electronic control units for the for the
+machine like most cars. So, so going
+back 20some years, right, we we still
+have ECUs. So, now the question is,
+well, how can I hook into that sensor
+stream, whether it's on a CAN bus or a
+serial bus or or or some sort of
+industrial control protocol and then and
+then ingest that firewall off so I can't
+put signals on the control plane, but
+then look at all the data that's
+available on the control plane and make
+predictive and you know, predictive and
+corrective maintenance recommendations
+from that data. So the engineering
+problems are fascinating. The
+opportunity to think about scaling them
+for to solve global problems is big. But
+yeah, you're right. If you can't do it
+on the new if you if you're only good on
+the new stuff, then you're not actually
+solving the real problem. And so how
+much of that is how how much domain
+expertise does it require to both
+understand the legacy systems,
+understand the new possibilities and
+then figure out the right methodologies
+and plans to make that migration versus
+a new a you know a newcomer coming into
+the field. You know a lot of people talk
+about how in a lot of existing um
+existing fields there's opportunities
+for new entrepreneurs to come with
+completely new frames of mind. you know,
+throughout everything we thought about
+insurance. Let's reinvent it completely.
+Does it work for a national security
+type of type of game? Okay, first off,
+great question and and I'm I'm glad you
+asked that. So, so at Fathom 5, we build
+platforms, not AI. So, I have a couple
+of projects, but the overall majority of
+our projects are platforms for AI in the
+national security space, right? And so
+the biggest barrier to new entrance in
+the national security space was if if I
+have a a a you know a tech startup that
+is really good at predicting turbine
+maintenance, right? We've got a ton of
+turbines. We got a ton of rotating
+electrical motors, right? So let's say
+I've got a I've got a a one, you know,
+or somebody out there has a startup that
+predicts electric motor health. um you
+know in the world past they would have a
+really hard time bringing that into the
+department of defense because there are
+all of these barriers around um them
+having to feel the complete system. So
+we started off and said hey you know
+let's assume that we don't know where
+the best artificial intelligence
+algorithms for machinery health
+predictions are going to come from and
+let's really work do all of the wiring
+work to build a common data ontology
+around all of the incoming sensor feeds.
+build a cyber security boundary where we
+can tell folks, hey, if you can deploy
+in containers like you do in the cloud,
+then you can deploy on a warship and and
+we'll do some minimizing
+uh uh you know tailored security
+scanning for your containers, but the
+rest of the defense and depth system is
+taken care of by the platform. So, so
+what we've done is try to be cognizant
+that nobody knows who the best AI
+providers are going to be. And I'll give
+you so I I bend them up into three
+categories. There are the um original
+equipment
+manufacturers, GE, Fairbanks, Morris
+Defense, Dresser Rand, go on and on.
+People Caterpillar, the people that
+actually make the equipment. Then there
+are um you know internal scientists that
+have been looking at Navy data for uh
+you know 20 or 30 years who have tons of
+domain experience but they don't build
+the equipment. So maybe they're organic
+to the organization. And then the third
+is third parties um tech startups or
+other people who don't build equipment
+but have decided to build a
+specialization in in predicting
+equipment. And you know, one of the
+things that we know from AI data is
+generally the more data you have, the
+better algorithm you can build, right?
+And so an OEM usually just has data from
+their turbines or their pumps or their
+motors. And then you have third parties
+who look at every OEM's
+uh data in various deployments. And so I
+it's still an open it's still an open
+ballpark. I don't know who's going to
+win that race. Um but it was important
+to us to build a platform that enables
+all three so a decade from now or two
+decades from now winners can emerge.
+Yeah. Right. And or or maybe even
+sooner.
+Yeah. And we're doing some pretty
+interesting things now. But yeah, I
+think but I think how that plays out,
+who can build the best AI for predictive
+maintenance is definitely an open
+question. Now you you've been you've
+been running Fathom 5 for um for quite
+some time now. Seven years. Yeah. Yeah.
+And so so what what has the last two
+years been like for you? Things things
+have you know the the the you know the
+AI era turning now into the agentic era.
+How has that how has your experience
+change been different in these last two
+years as an entrepreneur founder and CEO
+versus the other five? Yeah that's a
+great question. So we founded in 2018.
+So 2018 to 2020 were a were a very rapid
+growth period and then we entered the
+global pandemic and I looked around at
+my you know my friends and colleagues
+and said hey our number one job now is
+don't go out of business when when just
+about everybody else went out of
+business you know in the in the startup
+space and so um we were very fortunate
+uh Uncle Sam didn't go out of business
+and so we kept doing you know whatever
+projects brought our way in that was
+inside our expertise. The last two or
+three years have been equally exciting
+because it's been um pairing those off
+to get after the vision that inspired us
+in the beginning. And so we're we're
+super excited about 2025 and 2026. It
+was really starting to put the pedal
+down on the original vision we had.
+Zach, this was so much fun. Thank you so
+much for for spending this time with me.
+Uh, I think I I I get really excited and
+energized about um pro prospective
+abilities of taking legacy systems and
+turning them into new with new
+technology. I think there's so many
+opportunities there and it requires a
+balance of of patience of of
+understanding and appreciation and
+respect of what there was as well as a
+big appreciation and innovation of of
+what's possible to come. And and I think
+that all of that together is what makes
+for a really exciting opportunity
+especially in the AI age where where
+there's a bigger I think just a more
+general population understanding of
+what's possible and that we could do
+things differently. It's not just a a
+promise an abstract promise. We're
+experiencing it in our daily lives and
+and hearing how that translates to also
+these critical environments is really
+great. So thank you for joining me. Hey
+my pleasure, Michael. Invite me back
+anytime. Love to come back.

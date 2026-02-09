@@ -1,0 +1,585 @@
+and i think that uh when i'm looking um
+on candidates especially um in in
+leadership roles and people that i would
+like
+uh to to build the culture um of our
+company
+at the end of day and i think that the
+most critical thing is
+the passion
+and the eagerness to succeed
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jay ventures
+a community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeword ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders meet ken admati platform general
+manager and vice president of product
+explorium explorium provides an external
+data platform that automatically
+discovers relevant data signals to
+improve advanced analytics and
+accelerate business outcomes
+prior to joining explorium fenn was a
+staff member at intel's ai internal unit
+and the founder of intel pharma
+analytics platform ken holds a bsc in
+information systems engineering from ben
+gurion university and she was honorably
+listed in 40 under 40 by globes magazine
+in 2018.
+welcome to 20 minute leaders vice
+president of product at explorium how
+are you
+i'm good thank you
+happy to be here today thank you
+thank you so much for joining me so much
+i want to learn from you and i want to
+pick your brain and insights on uh you
+are you know one of the leaders of one
+of the you know fastest growing and most
+amazing companies out of the israel
+ecosystem and that that is dealing with
+a lot with a lot of data questions and
+we're gonna
+we're gonna dive deep in into some case
+studies soon and but other than that
+your experience throughout your journey
+having also been working at intel and
+having been in the ai space and the
+engineering space for quite some time in
+managerial roles i think you know
+there's there's a lot to learn from that
+from from an engineering perspective and
+from you know the people that you manage
+it and what you've observed works and
+what doesn't work for people to to
+continuously improve and succeed in
+their positions and so again before we
+get to that let's start with explorium
+and tell me a little bit about yourself
+and and what is it about exploring that
+drew your attention because you know in
+your position you could really be doing
+anything you want
+thank you so
+um i actually started 15 years ago and
+my entire career is in the data and ai
+space i think that it's a fascinating
+domain i love it very much
+um i did um different uh product
+management roles uh in leadership oil as
+you mentioned
+um through the years uh i manage teams
+and build product at the end of day and
+solutions all of them what they have in
+common they are in the data space and in
+the last uh ten years or so um
+specifically um focusing on product that
+uh ai machine learning is a big big
+component of it uh first of all
+understanding how to develop algorithms
+that actually uh addressing business
+problems uh that can translate into to
+our millions and hundreds of millions of
+dollars uh each year
+and in the last year um with a great
+passion uh to the domain uh and
+understanding the value proposition uh
+that explorer is offering to the world
+with like you said an opportunity to
+disrupt
+uh the industry and to bring uh this
+innovative uh platform to the market i
+was
+i was charmed and
+fascinated to come and lead
+the product for this amazing company so
+here i am
+now what does it actually mean to be
+running product with your experience and
+ai in an ai driven company
+how much of the role is is in the
+you know algorithmic side of things
+versus in the business logic side of
+things so it really depends uh when i
+worked for intel uh the key challenge
+was first of all
+to solve
+from algorithmic spending being able to
+find the best machine learning algorithm
+that can demonstrate uh the
+um diy for the problem that we are
+trying to solve so um needing to have an
+algorithm that is better than the
+current baseline and being able to
+demonstrate that by evaluating and
+demonstrating the value in production um
+once you have that then you can build
+and you need to build an ai platform
+that can make sure that that algorithm
+will remain accurate over time um being
+retrained um
+as as needed and all of the surrounding
+processes in order to um to actually um
+realize the value from the the model or
+the machine learning models that you
+have in place so that was very relevant
+to to the period that i was at intel
+but i think today in explorium um what
+we are at the end of day delivering to
+our customers is an external data
+platform our offering enables our
+customers to enrich their internal data
+together with external data this is what
+we bring
+i'm a very
+developed very rich and start of
+data catalog that either we are
+producing ourselves or we are acquiring
+that data and the actual platform itself
+a do the matching which is a very
+complex problem being able to understand
+that company a uh that
+that appears in the customer database is
+actually
+the same company that we have in
+multiple different data sets and that we
+are requiring so it's a very complex
+problem so first of all we are enabling
+the matching but not only that we are
+enabling to understand what are the
+really data
+sets features signals that are actually
+relevant
+to the problem that our customers are
+trying to solve so let's use an example
+let's say that we have a fintech company
+that would like um to score um
+their um their applicants for a certain
+um loan uh or insurance company that
+would like to determine what is the
+premium that a certain candidate company
+would uh actually are going to pay based
+on the risk level of that company so in
+order to determine that they need to do
+some kind of uh due diligence um on the
+company on the user they need to
+understand that this is an actual user
+uh this is a legitimate um request and
+all information that can help them to
+understand whether that applicant will
+default their loan um uh when time times
+so they want to minimize the risk for
+their business so they uh they're coming
+to uh to explore them and uh based on
+the very minimal information that they
+have on uh the applicant that submitted
+a certain form they're getting a very
+rich set of information
+some demographics and it could be
+if it's a company what is uh their
+financials and what is their um
+latest uh web activities and if it's a
+physical store um what kind of audience
+is included
+near those stores
+or what is the food traffic around that
+store so we have a very rich
+set of data that can help actually help
+those customers to get a better
+understanding um on whether at the end
+of day they need to approve or
+or deny
+those requests
+and we are enabling to access that data
+in a very easy way and also not just
+connecting to all of our data but to
+actually to select what are the most
+relevant and important uh
+elements of that data that actually uh
+impacts their bottom line
+right now as vp product
+how do you balance customization or
+personalization for for the for such you
+know case for for such specific cases
+versus
+an overall challenge of developing and
+generalized technology that could be
+suited uh specifically you know with
+without too much hassle
+so we are uh we are building a
+horizontal platform so it's always um
+there is always a tension between um
+understanding um
+a use case by by a customer
+and uh especially when the company is
+yelling the startup lab
+has some limited number of customers um
+going and build something for that
+particular
+use use case or customer
+the challenge and i think that great uh
+product organization is uh try to
+understand okay
+this is the specific use case what are
+the capabilities and how we can
+generalize them so it will be relevant
+to multiple use cases and it's hard at
+the beginning uh when you have one use
+one customer or
+very few use cases uh
+um so obviously you are building
+something that is more closely to what
+you see but as time goes by uh the
+ability to generalize and to build
+components that can be re um reused in
+multiple segments in multiple use cases
+this is what some what turn us uh at the
+end of day to be on a horizontal
+platform that can suit and and fulfill
+many use cases in in different
+industries and and
+with different customers with that said
+obviously
+um there could be cases where you will
+package your horizontal platform and
+decide that you want to focus in a
+certain vertical and these are the the
+components or the building blocks that
+are relevant uh to that vertical and you
+will package it because you want to
+address
+additional personas or
+user perhaps that are less tech savvy
+but um all of those solutions at the end
+of the day are relying on the same
+horizontal uh platform with the same
+capabilities and i think that this is uh
+when i'm managing a product organization
+this is my expectations from my product
+managers is to hear what is the business
+use case and knows to translate that
+into a reusable technology that can
+serve and we can later on market it
+with
+other industries and other verticals as
+well
+very very cool very very cool and i want
+to transition to
+your experience now as a manager and you
+know as you're building these
+complicated platforms you're working
+with with a lot of different personas a
+lot of different engineers you've
+observed what works and what doesn't
+work and what helps people move forward
+tell me a little bit about your you know
+you both your own managerial style but
+also what you've observed about the
+growth of others and what helps them
+grow or or hinders their growth
+so like any other companies we are you
+know uh in in the tech industry
+for sure with uh with the promise we we
+are hiring
+very very intensively and i think that
+uh when i'm looking um
+on candidates especially um in in
+leadership wars and people that i would
+like
+uh to to build the culture um of our
+company
+at the end of day and i think that and
+the most critical thing is
+the passion
+and the eagerness uh to succeed uh it
+was funny um
+last saturday um i was listening to the
+interview of abhishek
+that just won
+uh the olympic medal and she was she's
+young and she was talking immediately
+after um she won the medal and it was so
+authentic and she said something that
+resonates very very well with me she
+said um she was asked um 20 seconds
+before uh the end of the fight and she
+was losing and someone was asking her
+how did you turn uh
+um
+the the score upside down and she said
+i just wanted it more and and i think
+that uh that says um all of it i think
+that uh if you are
+you have the passion you are
+you want to succeed you never give up um
+you learn all the time and you're
+curious
+in my mind obviously you need talent um
+you need to have a certain skills uh
+but
+that's
+it's not enough uh i saw many many
+talented people that were you know
+uh they did the work and and you know
+and and and their
+a curve of uh promotion or you know the
+the things that they owned at the end of
+the day
+um were not uh that great but i saw
+people that perhaps started in
+much lower uh from a lower place from uh
+skills or talent perspective but they
+were
+so eager
+to win
+to you know never give up again and
+there was
+learning all the time and from my
+perspective you know that's uh
+makes all of the difference so when i'm
+hiring and when i'm building teams i
+think that this is
+the number one uh treat that i'm looking
+for
+and and obviously um creating a diverse
+and uh
+and and you know you need the balance
+not all the people can be uh those kinds
+of players but i think that at least for
+the people that you're putting in
+leadership or
+others
+it's making all the difference
+now when you're looking specifically at
+engineers and obviously in engineering
+is not the same as a taekwondo in terms
+of in terms of energy levels and in
+terms of you know outward excitement
+how do you then navigate that passion
+either as a hiring manager
+or
+or simply as somebody who's examining
+the people that are that you're working
+with and deciding who who
+who who's the right fit to to to
+continue up up the ladder how do you
+navigate through you know the lack of
+outward expression of excitement that
+you may see in in other industries
+i think that you see that very clearly
+you see that how much they are
+interested and to understand the
+business aspect or the actual product
+and not you know just focusing on
+uh their you know specific tasks how
+creative they are perhaps you know to
+to
+initiate new ideas
+um how um they are addressing things
+that uh they don't know or new
+challenges i think it's very um very
+clear you you can see it
+very fast
+and you want to be um
+these are the exact people that you want
+to promote uh at the end of day because
+this is the spirit
+uh that uh they will pass along
+and i think that
+um in general i i strongly believe that
+engineers um once they understand uh the
+business or where the company would like
+to go and connect very strong to the
+product
+uh it makes their ability to deliver
+um
+their features in a much higher quality
+and so i i think that it's very
+obvious um and you see that very fast
+um who are the ones that just give me my
+task i want to code at that set versus
+people that
+look um very broadly they ask questions
+um and of course
+they deliver the highest quality
+uh drive things forward obviously
+um so and this is uh what differentiate
+uh i believe the ones that are
+um you know succeeding at the end of the
+day
+so to close to close the loop on on this
+passion and excitement where do you lie
+on the spectrum are you more excited
+about
+the
+the engineering side of things the
+problem-solving side of things are you
+more interested about the business logic
+and and how technology is disrupting
+that the the intersection of the two
+where do you lie
+i i'm as a person i never like to choose
+i i
+will always say is i i like both and and
+and i think that this is also um um very
+um existing in my career um
+in at the end of that my passion and the
+things that i love is
+product management i love to
+understand how i can translate business
+problem
+into um a working product
+with that said um
+what i did i think in in the last eight
+to nine years i led um um
+atrogenius uh teams composed from a
+product engineering uh data science team
+uh because i love to um to have an
+end-to-end uh ownership the ability not
+just to define on what we work but to
+actually
+build
+an execution machine that knows to
+deliver um
+those requirements or those features
+so
+um
+at the end of the day my passion after
+your question is
+is product management and and business
+but at the end at the same time leading
+an organization that can actually make
+that a reality
+is uh the sweet spot uh from for my
+career at least
+very very cool now hannah i want you to
+take me back a little bit and share with
+me what you know even before you know we
+got into engineering and ai what really
+fascinated you as a kid what what really
+sparked your curiosity
+um
+i think that um
+it's hard for me to say i think i i i
+didn't think that i will end up being
+engineer i i i was always very strong um
+you know um as a student uh i i learned
+computer science while i was school so i
+really like
+at the end of day being able to solve
+problems
+and to get an instant feedback on what
+you do so i'm i'm very uh i have a very
+analytical uh type of uh thinking i like
+challenges uh
+and so i think that this is what uh
+characterized me as a kid i was actually
+sure that i will be a doctor uh and i
+have that dream uh for several alleles
+uh
+and then um
+going outside of uh the army i decided
+that i actually
+like uh
+the analytic um challenges and this is
+what i wanted to do
+um so this is why i decided to
+go and and be an information system
+engineer and you know life uh i was
+lucky in some
+it's always helped and i always
+navigated into ai and
+uh and in data
+and
+so i'm very fortunate uh but i don't
+think that you know it was something
+that i
+since i was 12
+i i had this is what i had as an
+envision it's not the case
+no what what inspires you today in your
+day-to-day
+i think that uh we're today
+working for explorium
+what's inspired me is the size of the
+opportunity i think that being
+part of something that potentially can
+be big
+the fact that we have so many
+opportunities um
+as i said uh i like to do a lot of
+things
+and
+the fact that i have today a playground
+where we have so much to do and so many
+opportunities and
+uh i'm sure that um in the next few
+years we will create
+um a lot of different product lines
+under uh the explorium external data
+platform umbrella
+and and i think that this um is
+fascinating as well as building a
+company uh that can generate uh that
+size of an impact and and be
+a part of a leadership team uh that
+build a company with
+a culture that i believe uh that i would
+like to be part of that company um a
+very significant company that is based
+here in israel
+so all of those things together excites
+me very much and it was a key part of my
+decision joining explorer and and i can
+tell you that one year after
+it's
+it's even exciting it's more exciting
+so very very cool i love it and what are
+three words that you would use to
+describe yourself
+wow
+that's a
+challenging question um
+[Music]
+i think that um
+i'm a very passionate person uh
+i think that uh i have a very i'm very
+much i have a self
+self-motivated person
+and
+very emotionally attached
+to any everything that i do inside and
+outside of my work
+i'm a very emotionally attached person
+um so
+these are probably the three words i
+would uh select
+wonderful
+thank you very very much this was a
+really really great i i really enjoyed
+it and it was fascinating to hear about
+your own perspective with your journey
+with exploring your your understanding
+of the importance for engineers to be in
+touch with the business aspect and and
+to and to attract motivation and
+inspiration from that but at the end
+that it's all about wanting to be the
+best and wanting to succeed regardless
+of the field
+thank you for everything and stay safe
+and stay healthy
+you too thank you so much and
+uh
+it was a pleasure uh be here and thank
+you for the invite thank you

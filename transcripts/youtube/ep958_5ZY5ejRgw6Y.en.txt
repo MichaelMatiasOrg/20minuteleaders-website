@@ -1,0 +1,547 @@
+machine learning is a perfect technology
+for this use case right I mean you you
+think about how many data can be
+produced by machines and by Cloud right
+so that's massive amount of data and so
+human we are very good at actually
+watching videos like you know we can
+recognize faces we can listen we can
+actually recognize speech very well but
+we cannot actually find out the
+problematic machine among like millions
+of machines no way you can do that we
+are very bad at the time series analysis
+um so
+so that's why I think the AI technology
+will play a very critical role
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello hello and welcome to 20 minute
+leaders today I'm with Dr Helen goo PhD
+who has made it her life's work to
+create unsupervised machine learning to
+detect anomalies in data in valuable
+ways based on more than 15 years of
+Helen's academic research and findings
+she created Insight finder a tool that
+can help predict and prevent I.T
+incidents based on algorithms that can
+determine an anomaly score and predict
+the future impact on a company's
+infrastructure the platform also
+diagnoses the root cause of each system
+issue and provides automated
+self-healing capabilities to minimize
+the impact of service outages in
+addition to being the founder and CEO of
+insightfinder she is also a computer
+science professor at the University of
+North Carolina and worked at IBM TJ
+Watson Research Center where she worked
+on the IBM stream processing system
+called system s it later became IBM's
+infosphere stream product
+[Applause]
+[Music]
+Helen goo welcome to 20 minute leaders
+thank you so much for being with me
+today how are you
+good good thanks a lot for inviting me
+here thank you very much for being with
+me all the way from North Carolina
+correct
+yes North Carolina and New York oh
+wonderful uh well um Helen you you were
+quite a few hats uh computer science
+professor at North Carolina State
+University uh while also the founder and
+CEO of insight finder obviously uh
+computer science is a big part of your
+life today focusing at least in the
+inside finder and and with a few others
+uh and further positions on on
+unsupervised machine learning and I'm
+looking forward to uncovering a little
+bit about your journey and I'd love to
+start all the way the third grade when
+he started to learn how to program well
+how
+how does a third grader get to start
+learning how to program and this is not
+to today's third graders where we have
+all these cool coding games for kids
+this is a different time where it wasn't
+as trivial so I'd love to hear your
+story on that
+yeah that's uh almost like 40 years ago
+30 40 years ago right so it is a year
+like you know I think we are still using
+uh the first generation of apple and IBM
+um so uh so it was actually a
+interesting experience I was in the
+elementary school and they were testing
+how to teach kids with programming and
+so our school was selected so I was
+actually
+um get curious about the programming and
+so I joined the program and started
+actually learning and I since I'm
+falling in love with you know
+programming and computer so that's how I
+what was that what was that like for a
+third grader to to be involved with this
+experience of of learning and it also
+sounds like this was it wasn't
+necessarily a fully fledged out you know
+curriculum that was you know you're
+mentioning there you're sort of a part
+of this experiment which obviously
+succeeded given where you're at today
+but what was that experience really like
+for you yeah so they they only pick a
+few uh you know kids to participants and
+so I think it was actually most uh after
+school class and so we are learning like
+programming using you know drawing some
+pictures it's very similar to scratch
+but with some you know uh scripting
+languages and so we um
+uh we we you know learning basic you
+know and we even have like a competition
+and you can
+um so the one program I remember very
+clearly is that I made a kind of a
+keyboard and you can play songs using
+computer keyboard right simulating a
+piano keyboard uh so that was actually
+uh the fun experience I I remembered
+yeah
+so walk me through a little bit about
+your trajectory from from learning how
+to program yeah you were part of IBM
+Watson research team and you were also
+visiting scientists and within Google
+Talk why walk us through a little bit
+about your career trajectory leading to
+this intersection of Academia and
+Academia and and Entrepreneurship
+yeah so um I started my PhD at the
+University of Illinois and my PhD is
+about these two systems I always
+Fascinate about these river systems
+because I believe you know one machine
+won't do the all the work right so
+that's all the starting point of you
+know today's internet and you know
+today's cloud computing right so it all
+because distribut systems and then when
+I started these sugar systems I started
+to actually realize how hard to
+programming a distributed program and so
+it's a lot different more challenging to
+make the program running smoothly on a
+set of machines then you know compared
+to just running on one machine so
+reliability scalability and those has
+been my passion so I want to actually
+make the system reliable and so that's
+my PhD work so my PhD work is about
+using
+um you know kind of algorithms not
+necessarily machine learning and at that
+time it's interesting I started to use
+neural network when doing my first PhD
+research it was using neural network to
+predicting user preference and so where
+they actually viewing the videos so we
+were doing that the video mobile video
+on demand so you can actually view the
+videos uh at that time there's no
+iPhones right so we have like you know
+uh like a palm palette like the the
+early days of compact computer and so um
+you can actually view the videos and we
+we enough to actually reduce the delay
+so we predict what video user will watch
+and we prefetch the video so I was using
+neural network to predicting that and so
+that's my first PhD research paper and
+so later on so I um after I graduated
+and I joined IBM TJ Watson as a
+researcher and back then we started
+actually a very interesting project is
+building the first kind of commercial
+grade distributed stream processing
+system so real-time massive data
+analysis that's way before Hadoop or
+spark any of those you know lateral
+system got invented so I was actually
+responsible for maintaining again like
+you know how to make a scalable and a
+really reliable distributed real-time
+data processing stream processing
+platforms and so I work with a group of
+researchers and they are basically using
+this platform to do analysis like image
+analysis video analysis text analysis so
+they are machine learning expert but
+they are analyzing basically not the
+data produced by machine but you know
+data produced by human right so um so I
+started to actually get interested in
+those machine learning algorithms and so
+I'm saying okay you can use the you know
+those hours into recognize patterns in
+video uh can we use the algorithms to
+recognize patterns in our machines so we
+can actually predict okay whether this
+machine is healthy or not and whether
+this machine will actually you know go
+down in in the in the near future so
+that's how I get started using machine
+learning to actually
+detecting system problems predicting
+system problems and so we were using
+supervised machine learning and so uh we
+get some initial very interesting
+results we can predict you know like for
+example disk failures pretty accurately
+using those algorithms and so um then I
+I love the IBM research because I want
+to really pursue this uh this direction
+so that's about like you know 15 years
+ago and so so I I joined and said as a
+faculty because you know I want to
+actually really focus on this and I also
+realize it is really hard to actually
+apply supervised machine learning for
+machine data because you need to
+actually you know high quality label the
+training data and so it's very hard to
+actually label those machine data and
+and you know a it's very massive second
+is very frustrating so we start to
+actually my students and I start to
+actually focus on using and supervised
+version learning and so that's how we
+actually start our um you know research
+ideas in basically as well as behavioral
+learning and that's we uh we we start to
+actually be able to predicting problems
+without label training data and we
+publish papers and so that's basically
+when um Google actually
+um you know a set of companies they
+actually read the papers and they reach
+out to us saying okay this is an
+interesting paper can you can we use it
+in commercial word so uh so I started to
+collaborate with Google and so that's
+how I end up being a visiting scientist
+at Google testing our algorithms within
+the Google environments and we
+eventually show that using our
+algorithms we can do much more um
+accurate and scalable knowledge
+detection at the Google scale so we
+actually show that it has much higher
+accuracy and and much better scalability
+than other algorithms
+um so so Google actually license the
+technology and after that um I launched
+the inside finder so we have been
+actually developing many new
+technologies and building the product as
+well yeah wow and so take me back to the
+original notion where you became
+fascinated or passionate about you know
+scalability reliability and detection
+prevention from system failures what was
+there
+sort of it sort of was there an incident
+that led you to to think this way was
+there something that you that that led
+you to to be so excited about this what
+happened there
+yeah so first of all myself is a
+programmer right I read a lot of code
+when I was doing PhD and also working at
+IBM I suffer you know myself a lot from
+debugging distributed systems and uh and
+my my husband is also a soft engineer
+and then you know he um you know he got
+woke up by his manager during middle
+night because the production issues in
+his company right and so and so uh
+myself and you know we just like feel we
+use this technology all the time right
+so um back then uh so I always feel like
+you know um the technology most
+important thing is connecting people uh
+I think that's the most kind of powerful
+thing uh technology did to the to the
+human society and so um so one of the
+examples I was actually using myself is
+that when my son is Young he's a baby I
+was using the next camera to to monitor
+him right so I need to work and so I
+cannot be at home so I use a camera to
+Monitor and then and one day the camera
+is it went down the service is gone and
+I I don't know whether it's something
+happen in my home or is because you know
+the service is outaged right so so
+that's basically just means and
+sometimes if you use technology to do
+like patient monitoring and that's
+sometimes it's life it's
+life-threatening if you have outages
+right so that's that's why I I'm always
+like passionate about this because you
+know any minute you say
+um you know any minute you reduce from
+the downtime sometimes it means you save
+lives
+um so I so that's I think it's extremely
+important
+um rather than we we just wait here for
+outage happens and we we you know uh we
+have to suffer from unknown consequence
+and so let's be proactive let's actually
+Harvest all the data we can analyze and
+the Machine learning is a perfect
+technology for this use case right I
+mean you you think about how many data
+can be produced by machines and by Cloud
+right so that's a massive amount of data
+and so human we are very good at
+actually watching videos like you know
+we can recognize faces we can listen we
+can actually recognize speech very well
+but we cannot actually find out the
+problematic machine among like millions
+of machines no way you can do that we
+are very bad at the time series analysis
+um so
+so that's why I think the AI technology
+will play a very critical role yeah
+so
+no doubt about that and and then I'm I'm
+personally so also Etc with the
+technology and and and where we're
+headed and the different things that it
+allows us to do well what's a little bit
+about the strategy of the Insight finder
+how does the product work and you know
+if you can share with me some some of
+the you know key insights that you've
+had into integrating sort of these
+Solutions into the real world as
+companies are you know obviously you're
+you're tackling a problem that companies
+have and how do you what is sort of the
+narrative that you found the most
+appealing to different organizations and
+what what's been the right strategy here
+yeah I think the you know we we are
+trying to help our customers to change
+from reactive monitoring to basically
+proactive uh you know prevention right
+so that's a fundamental Paradigm change
+for a lot of customers and so nowadays
+basically like I said the downtime the
+outage means a lot of you know things
+for for the company right Financial
+penalty brand damages and you know
+sometimes it's you know life-threatening
+right so all those things act are
+extremely critical and so if you know I
+think the company want to find the
+solution that can help them prevent from
+them and so this is uh this is not new
+problem it's a long lasting problem and
+the problem becomes kind of more and
+more serious because we are you know
+moving into Cloud we are relying on
+cloud and the and a lot of times in the
+past right so you are using all days
+like you are using IBM membrane you just
+have one or two machines right so you
+can hire people just sitting there and
+watch babysit that but now you have I
+don't know like you know tens of
+millions of machines all over the world
+and and how do you actually use human to
+to watch all of that and to when
+something bad happens and you you have
+to actually manually diagnose and then
+this is not going to last I think
+um so so it is um you know it's a must
+have uh kind of like you know capability
+a lot of uh you know companies
+and realize right they they have to have
+these capabilities now uh we uh we're
+seeing a lot of like tools are developed
+in the space to help people to
+collecting data monitoring data but we
+see is that there's lacking basically a
+good analysis tool that can help the
+customer to figure out the insights out
+of those massive data
+and the human is not good at actually
+analyzing machine data we are very good
+at actually giving limiting information
+we make decisions and so uh the problem
+is that it's more like finding a needle
+in a haystack right so you have so many
+data and how do you narrow down and to
+figure out okay how do I make a decision
+now should I actually restart my machine
+should I migrate to my application
+should I add one more machine should I
+actually configure upgrade my um my
+database all those decisions right now
+is made based on human experience and
+it's empirical right and so a lot of
+knowledges have gone when people
+actually move their jobs so now
+basically while using AI technology to
+extracting all those insights out of the
+massive data and make it persistent so
+you can actually leverage that that you
+know you can reuse that
+yeah
+really really interesting
+um and do organizations understand this
+as your you know talking about with them
+what's been in their their set their
+receptivity or the market education like
+for you
+yeah I think the our message resonates
+very well with our customers and it's
+it's not just like a you know uh big
+customers and we start from like most of
+Fortune 50 companies
+um but then we also talk to Startup
+companies right so one of our customers
+is online education startup company and
+they uh they serve over like you know
+you know
+um millions of students all over the
+world and so um they don't have
+resources to actually babysit and watch
+their services all the time so the
+reality inside finder to actually find
+any like security bugs the security
+breaches um
+like a code box in their system
+um they they can actually be you know uh
+be assured that anything happen in their
+infrastructure or application isabinder
+will alert them and and they typically
+can know the root cause and fix the
+problem before their customers see it so
+this message actually resonates well
+with customers you know of all sizes so
+the the question is that of course the
+challenge is that you know um how to
+actually get the data and how to into
+the engine how to provide surface pop up
+the insights to our customers and so
+this is a very challenging problem and
+not only it's a you know challenging
+science science problem but also its
+engineering problem it's both basically
+also a usability problem because this is
+a new product uh it's essentially you
+are saying that you want to give a
+crystal ball to our devops team to be
+able to you know prevent the outages or
+fix you know problems downtime quickly
+so um this is a completely new uh thing
+to our customers and the most of time we
+need to actually guide them through this
+journey yeah interesting how do you
+create differentiation in the space
+what is it what because maybe it's just
+the buys that I have that you know I get
+to participate in the space a little bit
+so that there I know some some
+interesting companies here how do you
+how do you differentiate two customers
+yourself from from different companies
+who might be looking at tangential
+spaces
+absolutely so I think there's a lot of
+uh like mentoring tools and the help
+customer to actually provide a certain
+um views to their systems but we see the
+Gap is that you know everybody is trying
+to build the ecosystems around
+surrounding their tools and from the
+custom perspective if they want to do
+accurate will cost analysis and instant
+prediction they need a data neutral tool
+and this tool can actually plug into any
+data you have right whether it's from
+certain vendor or from the open source
+software and so um so that's basically
+the day one uh kind of our mission and
+our positioning right so we are not
+locked down to any vendors or tools
+we're trying to be like you know um data
+agnostic and you know application
+agnostic so we can actually
+allow the customer to plug in this
+engine to any existing monitoring tools
+they have all um kind of obserability
+platform they have and what we do here
+is basically extracting insights right
+and so that's that's what we want to
+laser focus on uh we are not monitoring
+to a company we are not actually APM
+company we are not observability
+um company what we're trying to do is
+that we we can turn all the existing
+tools you have into more site yeah got
+it
+sounds really really cool and I love how
+you are
+I mean it sounds like over just the
+years you've become this is a subject
+that obviously you've become really
+excited about and I still can't believe
+you started and quoting so young I did
+such a it's a really awesome journey and
+and I love the intersection of Academia
+and and Entrepreneurship and and
+obviously leveraging really interesting
+Technologies to to make it to make a
+positive impact in in the Solar way that
+you're doing with inside finder I think
+that's that's pretty inspiring and so I
+really want to thank you for taking this
+time to spend your with me
+um you know 20 minutes is way too short
+to cover everything but hey it was still
+really you're great hearing your story
+and what you're doing with with inside
+finder as well as Anna state so thank
+you very very much Helen I really
+appreciate your time best of luck with
+and continued success with Insight
+finder and I can't wait to share this
+with others thank you
+Michael yeah

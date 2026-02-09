@@ -1,0 +1,550 @@
+and to be an entrepreneur you know we
+came to it later in life I mean I
+already had a corporate career and I was
+close to 40 when I started Mona
+and uh I think that uh it needed to be
+there was a really high bar for starting
+a company right it needed to be
+something we truly cared about welcome
+to 20-minute leaders just sit back relax
+and learn from the leaders of today it's
+a journey each one is different unique
+inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+hello and welcome to another episode of
+20 minute leaders today I'm with yotam
+Oren the co-founder and CEO of Mona
+disclaimer I'm an angel investor in this
+startup and Mona is a startup developing
+an intelligent monitoring platform for
+AI and automations in a variety of
+Industries with over 15 years of
+experience is it is a technology
+executive your time gained extensive
+experience bringing data-driven products
+into the enterprise software Market
+prior to Mona he was a growth and
+product executive at ADP and an
+associate partner at McKinsey and your
+thumb holds a BSC in computer science
+from Ben-Gurion University and an MBA
+from the University of Michigan
+[Music]
+it's gonna be a really great
+conversation I'm excited to hear your
+story the story of Mona the story of
+what's happening with AI today the
+different opportunities that are
+presented as
+the whole world is transitioning to to
+leverage AI what that means for
+organizations what that means
+transitioning from research to product
+and where you are in all this and where
+amona is situated across all of this and
+so thank you again for being here you
+Tom you have a really interesting
+background leading up to your
+co-founding of Mona including some
+basketball some engineering some
+Consulting tell me a little bit about
+your journey connecting the dots for me
+backwards
+some some may say I've been all over the
+place
+um but I I like to I like to say that
+every every step in the way led me to
+the next step and and taught me
+something new
+uh but I I have you know I I have you
+know I have um you know in in my
+Professional Care post-military Post
+University
+I've been around data my entire career I
+started as a big data engineer
+um you know working actually in the
+early days of smartphones on bringing
+mapping and navigation into into the
+handhelds this is before Google Maps you
+know was was all over the place and and
+free and kind of you know made tools you
+know navigation uh software less
+you know less uh relevant maybe from
+Paid providers and so I was working for
+a start that did that for a little bit
+um and working with actually big data
+problems right I mean you know local Geo
+geolocation data was big data back then
+we didn't call it that but that's what
+it was
+and uh and I later
+um left engineering and became a
+Management Consultant in McKinsey and
+you know a lot of people
+look at that you know funny a little bit
+you know McKinsey Consultants becoming
+entrepreneurs
+um but you know it's what I love you
+know and earnestly about the Consulting
+experience that that really set me up
+well to be an entrepreneur is that it's
+almost like a really fast track to see a
+ton of Industries and how things work
+and taking things that work well in one
+industry and transferring them to
+another or finding common themes is
+something I'm really passionate about
+and tell love which is why I'm you know
+later down the line you know years later
+a decade later I'm working on this
+horizontal platform right it serves
+multiple Industries
+um but even in McKinsey I was doing a
+lot of data work back then in early
+2010s we used to call it Big Data
+officially and a lot of the questions
+were around or we collect all this
+operational data or you know a logistics
+company or a bank how do we leverage
+this data to make better decisions this
+was the early days of investing in
+machine learnings the infrastructure
+wasn't there it was very expensive to
+produce models and develop them
+most companies did not have an army of
+PhD data scientists but we were
+definitely a lot there was a lot of talk
+about that and it would definitely
+headed that in that direction
+um and then I I joined Corporate America
+and I worked in a fortune
+um you know 500 called ADP and the HR
+Tech space I actually LED an analytics
+team that worked on a recommendation
+system of sorts which again
+um was in in this early day
+um
+um I I'd say like less sophisticated or
+more traditional uh predictive
+capabilities and not as as advanced as
+they exist today but first-hand
+experience with how challenging it is to
+drive adoption of machine learning in
+the Enterprise
+and then fast forward to today you know
+in the last four years with Mona
+um with um you know two brilliant
+friends and um former Google Engineers
+um and you know we're all passionate
+about
+you know helping organizations with with
+this shift and of adopting an eye AI in
+a broader scale which I know we'll talk
+about
+I love it okay well let's let's dive in
+tell me about AI in 2022 what's
+happening yeah yeah so um it's so much
+money has already been poured right
+investment has been Sky High but uh most
+will agree that
+to a large extent the practices become
+has remained largely a research-oriented
+practice
+what I mean by this is that
+still uh to what extent we build data
+science teams and we hire data
+scientists and we tell them your job is
+focused on data on understanding
+business problems or collecting a lot of
+data on a modeling right on creating
+models leveraging this data to solve
+those business questions
+um
+um but the end product of your work is a
+model and uh and and once you develop a
+model and you test it and you you know
+you hand it over over this virtual
+organizational fence
+um and it becomes someone else's problem
+and uh this is you know I think that a
+lot of the money that's been poured into
+AI programs across Industries to date
+has been working this way where the data
+scientists sent in the lab and they're
+building this amazing those amazing
+models but the level of adoption in the
+organization is still not as high as it
+should be
+and partially it is because there's
+great research but there's no
+operational readiness
+it's not yet a great product uh cases
+now for some generalizing and there are
+cases where it succeeded
+more and more organizations started
+realizing that this is not a way to run
+their multi-million dollar AI programs
+and they need to start shifting you need
+to start thinking about product
+discipline about how to adopt more
+product oriented thinking into those AI
+programs
+and um and part of it is about changing
+the role of the data science teams
+changing the role of the AI teams making
+them more like product teams
+the rise of machine learning engineering
+is it part of this this shift in
+transition the rise of this practice
+called ml Ops machine learning
+operations is part of this which is
+about incorporating and introducing
+software engineering best practices in
+production best practices into AI
+um and of course the area we're in
+which is called you know monitoring
+observability
+is an element of this uh transformation
+and shift too
+and so if we're looking at
+monitoring observability
+you know in though I I like how you call
+it the an intelligent machine learning
+monitoring platform
+what is what what does this actually
+mean why do AI teams need a monitoring
+and observability platform
+so um let's start with this that with
+the fact that um monitoring is a
+foundational need because it's part of
+uh product discipline right you don't
+want your customers being the first ones
+to find out that something is is wrong
+right now predictive models are
+notoriously difficult to test in the lab
+you do the best you can to validate to
+you put them in the business process in
+production and now they serve their
+customers and there's you know the
+volumes go up Etc
+and um but you want to know if something
+is if it's working as intended you want
+to know if it's working as well as it
+should now why do you need intelligent
+monitoring so like the fact that you did
+monitoring is kind of a given in that
+sense right that it serves the business
+the business is relying
+intelligence a lot of it is because
+problems to a large degree in AI start
+really small
+um and are hidden in plain sight before
+they burst into the surface
+and when they burst into the surface a
+lot could be at risk not just Revenue
+left on the table or you know a chat bot
+going wrong there's reputational risk
+um there might be significant money risk
+for example in a credit card uh you know
+fraud detection system that processes
+billions of dollars right
+um and uh and you know every prediction
+that goes wrong could be you know
+meaningful license to credit card
+process or a bank
+um and um and and these things are you
+know these things are impacting real
+people AI is used for Performance
+Management the talent it's for
+recruiting right to a proven reject um
+credit you know loans
+um so there's real implications for real
+people and you want to know when
+something is going wrong
+um the key with intelligence is that
+problems start really small so you want
+to catch them when they're still small
+when the impact is not as big
+when uh maybe your business kpis haven't
+even suffered yet and you can be
+proactive in addressing them before you
+go through and you really need to be
+intelligent because
+how do you go slow how do you go right
+there's so many ways to slice and dice
+um you know credit card transactions
+right for example you might have run a
+billion a day right how do you how do
+you slice and dice how do you find the
+pockets where there might be issues
+so it definitely is not an easy big
+undertake
+okay so if we're looking at it from a
+product perspective what have you
+realized about the different ways that
+these AI teams are working
+and that you've then tailored your own
+solutions to them sort of what is the I
+guess the consumer behavior of these
+data science teams or these research
+teams that you said okay this is sort of
+the pattern that we're seeing and this
+is how we're going to be shaping our
+product to fit their needs
+yeah I mean so number one
+um they
+um need to they want to be independent
+um they want to be able to iterate
+independently and be less dependent on
+other
+uh subgroups of teams within their
+organization such as devops or other
+engineering teams and so it needs to be
+tool that they can use
+um it needs to be accessible to them
+they need to be able to tailor it to
+their problem because every AI use case
+is a snowflake and has its own unique
+characteristics and unique situations
+circumstances and so that it needs to be
+highly flexible and configurable
+um and and if you come in from the
+outside
+um as a monitoring solution provider and
+tell the data scientist I can tell you
+if your algorithms are working or not
+I they wouldn't believe you right so it
+needs to be the tools process the
+platform but it needs to be moldable
+into working for them and and for what
+they need to get out of it
+um
+and finally
+um you know it needs to not dominate
+their time right at the end of the day
+it needs to benefit the research
+it needs to provide them new information
+like new insights things they don't
+already know or can't know themselves
+but this doesn't need to be something
+that they spend their entire day in need
+to make them more efficient
+um you know one an adult that is that
+you know the average data science team
+will spend a third of their time on
+production break fix and like
+investigations and and trouble
+um and this needs to make to reduce that
+time to a minimum right to mix make it
+so that they deal they still need to be
+accountable and they want to be
+accountable for the full life cycle they
+want to be accountable for how their
+models and research perform in the
+business
+they don't want to spend their days in
+induction drop and you know production
+troubleshoot so it needs to be make them
+more efficient
+and Dot dominate their time
+so if we're looking a little bit higher
+level at the space that we're in and one
+of the things that we very briefly
+mentioned before we started the
+interview was uh you mentioned this idea
+of product oriented AI
+which is sort of
+in a relatively new thinking or an
+evolutionary thinking of within the AI
+domain tell me a little bit about what
+you meant by that
+yeah I mean in a way it's it's um it's a
+set of best practices
+that organizations are starting to
+um adopt
+in order to
+scale their AI programs the right way
+take them out of the lab and put them
+into business and make sure that the
+business can truly rely on on those on
+those AI driven applications now within
+product oriented AI what do we actually
+mean right
+um it means that
+there is more end-to-end accountability
+four outcomes and that's
+um
+that the AI team is the one that takes
+the account it also means the success
+measure success criteria for AI is no
+longer just about the upconometry ml
+Telemetry things like Precision of
+models and recall Etc but also actually
+where the business outcomes achieved or
+not right that's what the product is all
+right that's what it's there for
+um and um and I know overall it's just a
+better way to run uh your your AI
+program if you're a big organization
+it's a trend product oriented AI right
+it's not some sort of like IP right it's
+an end that we see across Industries and
+we're trying to organize it and and you
+know and call it out
+um and um
+and it is it doesn't all by the way it
+doesn't mean the end of research
+it doesn't mean less research or less
+investment research in fact teams that
+adopt product-oriented AI practices
+eventually benefit the research they
+become more effective in their research
+because that complete life cycle
+additional data that you can get from
+looking into your you know your full
+life cycle and how your AI performs in
+business can actually
+teach new things to the research right
+like add new value and add new insights
+into the research roadmap so
+um so it's a complementary Trend and
+it's it's definitely one that is here to
+stay
+I think that it's
+um also
+something that organizing that you know
+Executives and sponsors of AI programs
+relate to envelopes I think is like is
+another term that's very important and
+and relevant
+um but it is definitely more of an
+operational term and more associated
+with
+essentially adopting engineering and I.T
+practices we're Factor oriented AI
+wraps around this right and uh and and
+it's the way is the way also you bridge
+the gap between the AI team and The
+Business
+where did you develop your own passion
+and enthusiasm for for this world it's
+not a trivial
+um it's not a trivial company for an
+entrepreneur to go on a journey
+um I I'm just I'm curious where you know
+where your own passion came from in
+regards to this how did this whole thing
+come about
+yeah I mean um it's it's it's a number
+of things right it's always it's always
+um difficult to pinpoint the exact
+driver
+uh behind band think but but it combines
+a few things that I really enjoy number
+one I've been around the data industry
+so I know it
+um and um and I'm a True Believer in the
+value that AI can bring to a variety of
+Industries
+um and you know and really change our
+lives in a lot of ways
+um and so I'm really excited about being
+part of enabling
+that you know the like the growth in in
+AI in general
+um the second thing is that you know
+it's a really difficult problem to solve
+um because it's a brand new category
+because it requires deep technology a
+big data system Etc and so that's
+more intellectually uh challenging and
+and exciting and currently the team I
+work with my co-founders they wouldn't
+have been willing to take to tackle a a
+smaller problem right you needed to be
+really big for them to go after
+um and um and and I I I I benefit from
+this because I get to work with you know
+really smart folks on a really difficult
+problem so
+um so that's that's that's that's
+another part of this
+um and you know I am I am personally a
+data nerd right I love to I love to look
+at data I also love the idea that it's
+horizontal I mean I know this is like
+you know I can add more and more reasons
+here right but
+um it's I've been horizontal most of my
+career and Consulting has been
+horizontal I like to work across
+Industries I think there's so much to
+learn
+um when you're not vertically focused
+and there's so much to you know to share
+across
+um and so that's that's beneficial too
+and uh you know it'd be an entrepreneur
+you know we came to it later in life I
+mean I already had a corporate career
+and I was close to 40 when I started
+Mona
+and uh I think that uh it needed to be
+there was a really high bar for starting
+a company right it needed to be
+something we truly cared about to go
+after
+and so the decision to go and become an
+entrepreneur at 40 that that's not a
+trivial one
+it's not
+um and uh believe me I my wife and I had
+a lot of conversation you know many
+conversations about uh you know whether
+to do it or not and whether it was the
+right time I think that uh at the end of
+the day
+you know
+um
+I uh
+I realized when I came to this Crossing
+that the fact that I was so excited
+about it when I was talking to it about
+to it you know about it to her and the
+fact that I had all these you know every
+everything every aspect of it sounded
+really exciting to me
+um eventually made it a no-brainer
+um on paper I might have been really
+difficult to decide to do that
+especially
+um where you know as you may know and as
+an entrepreneur there's often a
+financial compromise which you know of
+course there was in my case
+there's
+um you work longer hours you uh you know
+you definitely take you know some some
+things take a hit some other priorities
+but um the level of excitement we had
+about this the desire to work with these
+people who are also my friends outside
+of work I mean
+um it really drove it home and made it a
+no-brainer
+your time best of luck with Mona thank
+you so much for the time I I can't wait
+to share this with the world and we'll
+continue cheering
+um and uh thank you very much for being
+here with me thank you yes of course
+happy happy to have this conversation
+[Music]

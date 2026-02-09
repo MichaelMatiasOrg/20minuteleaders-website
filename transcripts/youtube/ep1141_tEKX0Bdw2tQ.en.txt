@@ -1,0 +1,525 @@
+um somebody um sent me a game that was
+actually a toen horse and then he had a
+chat in the game and says I can open the
+the CD of your computer and he's like
+open the CD and I was like whoa what
+what what the hell is going on? I
+thought it like supernatural almost
+right and start to play with stuff in my
+computer while he was speaking with me
+over the chat.
+[Music]
+Royale, welcome to 20 minute leaders.
+Thank you so much for being here. Thank
+you for having me, Michael. Ry, I've
+been waiting for this episode for a very
+long time. Salt security is such an
+awesome company uh in a world that I
+love. I've been uh playing with
+APIs since I'm 15,
+14. And uh and you know, I I led I led
+hackathons as a teen. I had a company
+where we hosted hackathons around the
+world and it was all about APIs, rapid
+API was founded in one of my hackathons
+and and so the this concept
+of SAS to SAS software to software
+communication is is awesome and and ever
+since I went into the world of cyber
+security and I got to experience a
+little bit about the thread vector of
+APIs, I was really thinking about okay,
+how is this going to manifest itself and
+here you are. So I'm really excited to
+talk about yourself and API security. Uh
+thank you so much. Yeah, definitely we
+we can start whatever you want. I'll
+just start with a disclaimer that's
+saying that I'm having a call in the
+last few days. So for all the listeners,
+I apologize for uh for the voice and I
+might mute myself here or there to cough
+but besides that we are good to speak
+about APIs security and everything in
+between.
+Absolutely. uh and uh well you know
+you're a CEO and entrepreneur so I think
+that at this stage you're you're used to
+performing at your best everywhere. Um
+taking me back to to your enlistment in
+the IDF is is this where you you delved
+into cyber security?
+So uh so going even a little bit uh
+further um I started coding somewhere
+when I was 9 years old. Uh my mom signed
+me up for uh like a coding programming
+class because she saw that naturally I'm
+being attracted to computer. I'm
+intuitively like really good at it. Uh
+already when I was first, second, third
+grade, I did some web development when I
+was 9 years old and I I really loved it.
+And um 2 years later when I was 11
+um I started to do some freelance work
+uh off forums and you know people needed
+as an 11-year-old does naturally. Yeah.
+Yeah. you know, like uh not like complex
+stuff. Uh but I started to get more and
+more into it. And then uh I always had
+this entrepreneurial um you know,
+whatever you want to call it. Uh in
+Hebrew, there's something that may
+sounds negative in English, but uh like
+something inside me that really wanted
+to build stuff. So I built different
+websites when I was 10 years old, 11
+years old, 12 years old, like different
+like you know stuff that uh basically
+tried to monetize different website
+building stuff. And then this is where I
+got into a little bit cyber. I was not
+an expert by no means, but um somebody
+um sent me a game that was actually a
+tool horse and then he had a chat in the
+game and says I can open the the CD of
+your computer and he's like open the CD
+and I was like whoa what what what the
+hell is going on? I thought it's like
+supernatural almost right and start to
+play with stuff in my computer while he
+was speaking with me over the chat. So
+uh this is where I were like fascinated
+by what the hell is going on, how you
+send me something. I play like a dumb
+game and like a very simple game and
+then get controlled. So I got more and
+more into cyber before the army not an
+expert level you know but start to
+understand the concept how it works what
+is told how computer works and so on so
+forth. Then I went to the IDF I joined
+one of the elite security units of the
+IDF and I was responsible there for
+building uh cyber security product or
+systems uh from the ground up. So we
+build the hardware, the firmware, the
+software to protect every layer of of
+communication. So layer one, physical
+layer, how do you prevent like
+electromagnetic uh leak or field like
+field leak in layer two and layer three
+and then all the way to layer 7. And
+this is where I saw you know layer 7
+application APIs. I saw that we are
+really behind like we're using very uh
+traditional methods. uh there's nothing
+sophisticated like if you look at layer
+1, layer two like electromagnetic field
+like a lot of sophistication but layer 7
+I thought wow that's pretty ancient uh
+approach um and then I saw uh and this
+is where I really gained my security
+expertise you know this is where I
+understood that everything I knew was
+like a drop in the bucket and started to
+expand through every domain of cyber you
+know from like the what you can do how
+you can hack uh hardware how you can
+hack firmware how you can hack software
+in so many different ways. Um, and after
+the army, shortly after the army, I uh
+Docker uh uh came out was very very new
+uh the container uh
+technology and Kubernetes went out in an
+alpha version. Nobody talked about it.
+It was not known. Nobody used it. It was
+very very like it was just after that I
+started to wrap my head on, hey, I want
+to build something. I saw this
+technology and I thought to myself,
+"Wow, that that's interesting because
+that means that if it's going to work,
+it's going to basically take every
+company, every application and break it
+to tons of APIs because every monolith
+application will be kind of turned apart
+to
+microservices." And this is where I
+really kind of sparked the idea of okay,
+APIs,
+security, something big here is
+changing, new needs, let's start to
+explore it.
+Yeah. And so you're leaving the army,
+you see the Docker uh technology, you
+you're expand into the microservices
+framework and how this is going to
+change the narrative and the strategy
+for how different organizations deploy
+software. When you're looking at it
+though from from a cyber security angle
+and you're thinking, okay, so I can see
+the different threats that are that that
+could take place and just to make sure
+that we're aligned with everybody that's
+that's also here with us, what how do
+you expl explain those threats to me? So
+what what could different groups and
+people do considering this new
+communication strategy that's being
+deployed? Yeah. So so I'll explain
+through an analogy I think would be
+easier to understand. So before
+pre-docer pre- kubernetes like in the
+early 2000
+um you can think about a company as a
+building and the doors and windows are
+APIs. companies mostly had monolithic
+application that change every six months
+of the year, right? We were not in a
+days of agile development and of
+CI/CD. So, it was mostly like think
+about like a small house, townhouse, you
+know, one door, couple of windows. We
+put a a guard at the front door and it
+was pretty easy to manage. Kubernetes
+and Docker really turn turned this house
+into a building and then a neighborhood
+of building that changing every week
+every day new window uh new door open
+being open uh so I thought to myself the
+first need is to understand what you
+have you need to discover it was very
+easy to discover when you have only one
+you know one house you know your house
+you know the doors and windows once you
+start to have a neighborhood of
+buildings it's very very hard so really
+to map um uh all the windows indoors.
+That's kind of the discovery part. So I
+I realized that you know you can't
+protect what you don't know. That's kind
+of step call, right? Call walk on.
+That's the call part. The walk part uh
+it's what we call governance. Okay.
+Let's make sure the windows are locked
+at night, right? Let's make sure that uh
+there is no sensitive data uh can be
+carried out. So no sensitive things in
+the house can be carried out by someone
+and so on so forth. So uh let's make
+sure that it's built correctly, right?
+the lock is the right lock you know it's
+like an easy lock to to hack and that's
+the governance part. So making sure that
+what developers are building is actually
+built in a secured way uh uh before it
+go to production to to real world
+application and also whatever is already
+built uh it's built uh correctly in
+securely that's kind of the second
+challenge and if you think about it
+before I go to the third challenge if
+you think about jai and lms it really
+kind of it's the second compelling event
+that really made this space much uh uh
+much uh worse essentially from security
+perspective. Kubernetes was the first uh
+part right you have a lot of APIs
+changing
+rapidly. Now you can generate an API not
+in days or weeks in minutes. So that the
+the frequency of APIs being built and
+change with geni and the chap cloud you
+know you name it is just incredible. Uh
+so and they're not even controlling
+what's being coded exactly or really
+noticing. So you can have a lot of bad
+security because something generated a
+code and you can implement it right away
+with even with very bad security. So it
+kind of made it even worse and the need
+for governance and knowing what you
+built if it actually comply with your
+security standards really critical. The
+last part is uh the run part is the
+threat protection. I realized that
+majority of the threats that were
+prevalent in the early 2000 mid 2000
+were not a common threats anymore that
+uh lead to actual breach in the in the
+real world. And I realized that with
+APIs, you have a lot of manipulation of
+the business logic of the API. You know,
+for example, if I'm a bank and I have my
+mobile app to uh to, you know, to to do
+everything like to send money to to
+receive checks or whatever it is, it's
+very easy today. You will not even
+believe how easy it is to manipulate an
+API to get information of your bank
+account uh or to even do actions on your
+behalf. But um just to give you a stat,
+we are dealing mostly with enterprises,
+Fortune 500, global 2000 companies and
+probably in every second organization
+that we do some type of an evaluation
+within 3 days we see a critical
+vulnerability. When I say critical, it's
+not on paper. It means if this
+vulnerability was or would have been
+exploited by a bad actor, it probably
+would have cost the company tens of
+millions of dollars like you know
+leaking all their databases do things
+behalf on all their
+users. Uh we even had a study that shows
+how we can get from crypto exchanges we
+can pull all the money out like tens of
+millions of dollars like worse but like
+the worst of the worst. Um APIs are very
+weak from a security perspective by
+design because the people that create
+them are not incentivizing are
+incentivized by building security.
+They're incentivized by innovate fast,
+develop fast, which is kind of many
+times contradicting with security. So
+right, discover, govern, and then
+protect whoever try to break your your
+door coming in. you want to keep them
+away from your from your building aka
+the the company
+and you know S salt is not a new company
+you've you've actually founded it I
+believe almost almost a decade ago right
+I mean nine years ago uh so not exactly
+true um uh like I I had the idea about
+in 2016 so close to it like late 16
+actually about 8 years ago um but I
+realized there's while there was a lot
+of validation to the actual uh uh thread
+vector and need. It was not an
+established category. There was no so
+the first actually uh what I did first
+is I uh uh we went and we did Y
+combinator and I was lucky to be
+mentored by Sam Alman that today is the
+CEO of OpenAI which was an amazing
+mentor. Um so so I felt lucky but I said
+maybe that experience getting getting
+mentored by Sam Alman at Y Combinator.
+Uh definitely that was amazing. Was uh
+an amazing guy. It was in in you know in
+retrospect I thought to myself three
+years four years later I wonder uh how
+would it would be I would have
+experienced it knowing everything I know
+now and if I would had the same level of
+appreciation to Sam because I always
+thought was he's amazing but I thought
+maybe it's because I'm you know in the
+first six months of being an
+entrepreneur. Um I can tell you for sure
+as you can see it was truly like
+objectively amazing because you see what
+an amazing company he's uh he's building
+right now OpenAI. Um but in the first
+two years we raised a little bit of
+money but we didn't do our official seed
+round. It was just cyber security angels
+like the co-founder of checkpoint the
+co-founder of Luca like different like
+great like a safety like different
+individuals great individuals that
+invested in the company. um only two
+years later when we felt the market
+starting to be established this is when
+we did our official seed round so we
+officially did our seed round with a VC
+in September 2018 so it's after like
+more six years ago uh where we went from
+five people and and then we really
+started to expand until then we just
+patent technology core technology like
+the big data the ML like the big uh the
+the key part but building companies
+started two and a half years later. Why
+was it so important for you to wait and
+validate and reach a level of maturity
+of validation before going to and and
+before raising the seed round obviously
+you know you're leaving the you know
+you're white combinator elite army unit
+big vision you know emerging market
+yeah it's um I realized very quickly and
+with Michael my co-founder that that
+just for context Michael came was part
+of the founding team at Adalam um who
+know who's today you know the
+co-founders of whiz uh he was their VP
+of global sales and marketing so he sold
+to their first second third customer all
+the way to the acquisition to
+Microsoft so we were very mature and I
+remember he he told me back then is um
+look we are very early we need to
+educate uh because people are not ready
+to buy like sophisticated people
+understand the need but we cannot build
+a company based on just sophisticated
+buyers
+and it will be very hard. So we need to
+do the groundwork if you want to go for
+it of talking to gardener established a
+category went to OASP created the OASP
+API top 10 like I didn't imagine it
+would be I I thought like 6 months right
+it took more time once we felt okay we
+are ready to get like to raise money
+this is where we we went and do it we
+didn't want to raise money and then burn
+it and then not be able to get to the
+next milestone to raise our CSA and
+Uh so we were a bit more careful. Um um
+so we started to like we small money
+enough to operate technology uh validate
+it have design partners which we did but
+we felt like okay we're being great
+value to our design partners that want
+to pay for it. So when we raised our
+seed we had already three paying
+customers. Um uh so uh we wanted uh this
+type of validation before we actually go
+big money and commit for a long-term uh
+plan.
+Wow. Phenomenal. If you had to go back
+to toe of when you you were just
+starting out Y Combinator. So now I
+guess that's eight years ago. So even
+before the validation what what advice
+you know are you now taking with you now
+is already a I'm calling you a seasoned
+entrepreneur how how would what advice
+would you give to yourself to younger
+entrepreneurs? Wow. Um so today the
+answer to me is very clear. People ask
+me this question over the years and
+every time I would give like slightly
+different answer based on the spirit of
+the same year. uh today after you know
+almost $300 million in funding growing
+the company selling to hundreds of
+customers there's only one answer in my
+opinion it's people it's all about the
+people don't compromise on talent
+especially your executive team your VP
+of R&amp;D the VP of product the VP of
+marketing like early on every person you
+bring needs to be excellent uh needs to
+share the same values as you share needs
+to think very similarly to you what is
+speed what is moving fast the can do
+attitude um don't compromise on less
+than excellent in the you know I think
+along the years uh we had again amazing
+people but sometimes they're not a good
+fit in certain stages or certain people
+you bring in uh and this is where you
+build a culture and I think that's the
+foundation to everything you want to do
+uh later it doesn't matter like it will
+help you with the product with the
+marketing like every aspect of the
+company the core layer is the people so
+to me like like There's
+two main factors in success of a
+company. One, if you chose the right
+market and then the people you have in
+your company. If those two are correct,
+everything probably will in a way it
+will be very hard. It need to do a lot
+of smart decision but it will work
+itself out because you have a group of
+very smart individuals that working hard
+that share the same values. So people
+people don't run like just be focused on
+yourselves and like oh yeah we hired
+three engineers. no like no damn
+interview. Get familiar with your team
+and making sure you always have
+excellent team. So that's that's my
+advice. I love it.
+And if I so if I walk into your offices
+when you're 10 people, so it's the
+original people, you're building the
+culture, the sophisticated buyers are
+there, but the market is still maturing.
+What what do I feel? What's the culture
+at Salt Security at 10 people?
+Um I think uh one and by the way today
+we codified it um to to five things
+which I think really started early on. I
+think it's uh we worked as one team. Um
+um people were like I always brought
+every sales engineer when we had the
+first 10 people we had the first sales
+engineer. I brought them to Israel the
+first two weeks of their job because I
+want to make sure that everybody work as
+one team. It's not sales and product and
+R&amp;D. It's like everybody is one team. So
+they feel very comfortable talking to
+each other, call each other. So very
+collaborative. Um we worked and and
+still working very hard. Um smart but
+also hard because being like an elite
+cyber security unit uh company is very
+hard. We know it. Uh so you need kind of
+to outwork, outbeat, outsmart your
+competitors. Uh I think very customer
+obsessed. So very in listening mode to
+the customer and not saying oh they they
+don't know it like they are you know bad
+buyers they don't get it like go to the
+next one. Every customer I looked at
+this in a and everyone in the company is
+an opportunity to learn why I didn't get
+it. Maybe our messaging is not good
+maybe the product maybe it's not
+intuitive enough. always take it as no
+ego and really understand what's like be
+very open
+um and can do attitude like we can do
+everything like the customer need like I
+remember in the fourth customer he said
+oh I need this capability it's really
+key and we're competing you know like we
+had two days later like the POV app I
+was like let's build it let's build it
+today and like in two days it was very
+simple version of it but we got it done
+so like we we heard your your feedback
+and we built it like what do you mean
+you built it. We said it two days ago.
+He's like, "Yeah, we we're moving fast."
+He was so impressed by it that he said
+what one of the reason why we went to
+Salt is we're so impressed about how
+much you took something in and you
+brought it to life in 2 days. Wow. Um so
+that's like the spirit of things in the
+in the early days and even today as
+well. Obviously when you go it's not
+exactly the same when you have a large
+base of customers, but it's definitely
+like the spirit to try to preserve as
+much as you can.
+This was such a pleasure. 20 minutes go
+by and it's not nearly enough to capture
+the essence of of you yourself and of
+salt, but h I think that we uh it's
+definitely worth a try. So, thank you so
+much for all the uh for all the
+insights. Really appreciating it. Thank
+you. Thank you so much.

@@ -1,0 +1,606 @@
+it's not only to bring the data in by
+the way when people think the ingestion
+piece and the connectors this is
+big things yeah it's it's it's yes it's
+a challenge
+but but then once you solve the problem
+you know the the way that you integrate
+everything to one smooth data model
+that provide the value for the business
+this is the biggest the biggest mission
+that i see it
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+this one is going to be all about data
+operations welcome ita
+benjamin the ceo and co-founder of
+rivery
+a dataops platform that streamlines data
+integration transformation and
+orchestration
+a seasoned business executive ben hema
+was co-founder and ceo of vision bi
+a leading data consulting firm inquired
+by curious group at kiris benjamin was
+group vice president
+for north america itamar holds a bsc in
+computer and information systems
+security from the ben gurion university
+of the negev
+itam al benjamin welcome to 20 minute
+leaders all the way from austin texas
+how are you
+great thank you thank you michael for
+having me
+oh good thank you for joining me i know
+you're generally new york but you're in
+austin with your new offices
+for for your amazing startup which we're
+going to talk about soon your
+expertise in data ops and business
+intelligence runs way deeper than just
+your current
+endeavor and we're going to talk about
+that as well but
+i have to start from your army days a
+two to two year back to back i guess
+record holder for the disaster
+run and i never did the disaster and i
+want to re-enlist just to do it
+what is it what is the disaster run yeah
+yeah most of the entrepreneurs in israel
+you know they are coming from
+the 8200 division uh i'm
+i'm not i'm parachuters i was an officer
+in uh
+i led like what we call the
+department or in in the israeli army in
+the parish
+the parachuters so when i was in the
+in the in the what they called bodhichat
+which is
+the um the officer school um
+so there is a disaster run or what they
+call disaster bodyguard everyone knows
+that
+uh after two days in a row that you are
+doing uh
+food navigating of 90 kilometers then
+you have
+what they call disaster run it's an exam
+uh
+and i broke the record and i uh i broke
+it for
+two seconds uh i didn't know the the
+before uh but my friend which is really
+great athletes he told me run run really
+quick because you are
+going to break the record so i just did
+my best and eventually i either end up
+with a
+16 minute 32 seconds which
+broke in two seconds uh i hold the
+record for two
+two years uh it was a just a side story
+of my life
+that that's amazing you know the the
+extent of my physical training in bad
+and the commander's academy was doing
+maybe 19 push-ups and barely finishing
+them so
+so i think we had a little bit of a
+different experience but that's okay
+uh we're here talking together on this
+show and we're
+we're not going to talk about you know
+commanding and well maybe a little bit
+commending because it has a lot of
+leadership lessons but
+i want to talk about your experience
+with business intelligence and data ops
+so itama throughout your experience walk
+me through the bigger
+milestones on your journey and how each
+one
+has helped shape your understanding of
+business intelligence and the power of
+data in organizations
+yeah i think i'm uh maybe one of the
+oldest people
+uh data people in at least in israel uh
+you know i uh i built data warehouses uh
+since 2000 uh when i started my career
+wow um and uh i spoke about data
+warehouses when people
+didn't know what is data warehouse and
+then uh
+so it was a great experience after the
+after school
+i um i studied in uh busy
+and uh engineering um and i
+you know i just built uh data warehouses
+an analytics platform for living like
+for more than two
+twenty years like two decades um
+we saw a lot of transitions over the
+time i think the
+um the biggest one was uh when i learned
+you know where the river is my third
+company i built another two companies
+one in new york and one in israel
+both of them really successful but they
+were they it was like
+assets and product internal products
+that we built
+but we basically we devel delivered the
+projects and
+you know we worked with 500 customers so
+we
+knew the problem we saw it uh but then
+you know when i think that was the thing
+that pushed me to
+to go all the way with reverie is that
+the transition that you see now in the
+market
+when companies dealing with the data
+operation missions
+which is more much more complex than
+than we had in the past because of their
+fragmented of data
+um and then other other challenges like
+moving to cloud or digital
+transformation business that wants to
+move
+more involved in the in the data space
+so uh i think that those are the things
+that
+uh push me um like i call it from
+service to sas
+um and provide the same value or maybe
+even better value
+as a sas organization and not not as a
+service provider
+now so take me up you know 30 000 feet
+in the air and and
+share with me your understanding of the
+power
+of of data or business intelligence in
+general in organizations and
+and where we are today in 2021 so what
+i'm hearing from you is you've actually
+been
+building these tools for organizations
+since the very early 2000s
+and you know i've been in this space for
+maybe seven or eight years and
+i i know that i was also you know in the
+beginning of it
+uh i've seen organizations even in 2013
+and 2014 so
+so where are we today and what's
+happening
+i think that we are now in the when uh
+when organizations understand the value
+of the data uh
+the organization really um willing to
+invest
+and invest a lot of money uh in order to
+be a data driven
+organization um even you know taking uh
+like um consumer packaging goods
+companies like companies
+that you know not the natural
+uh organization that used to invest in
+data now
+everyone understands that the power of
+it um i think that
+uh the biggest changes the biggest uh
+difference you know from the old days
+that i used to build data warehouses uh
+in the early of the 2000s
+is that you have more and and
+very different sources um every company
+you know when i built the first data
+warehouses it was uh one or two erp
+you had the sap you know for the maximum
+you had another one crm and
+uh you know i built i i managed the
+biggest project in israel
+at that time i think in 2005 in silcom
+and they had 30 system um now
+even with the re we wanted to build our
+internal
+internal data warehouse analytics we we
+have
+more than 25 sources so uh so this is
+the biggest
+the biggest challenge it's not only to
+bring the data in by the way
+when people think the ingestion piece
+and the connectors this is
+big things yeah it's it's it's yes it's
+a challenge
+but but then once you solve the problem
+you know the
+the way that you integrate everything to
+one smooth
+data model that provide the value for
+the business this is the biggest
+the biggest mission that i see it um
+yeah right so with this growing
+fragmentation what i'm hearing you say
+is
+you know we're we've built a lot of
+tools which
+a lot of different you know models a lot
+of ways in which to store data we've
+we've
+and now we've entered this new phase in
+in data intelligence world where
+we have this you know we have this
+crazy amount of data we have crazy
+amount of connectors and and we're still
+left with
+with these big open questions how do we
+actually integrate this data together
+and how do we actually put it to good
+use for a company
+and and i'm assuming that you know with
+rivery or also understanding there's
+also
+a bunch of low-hanging fruit where you
+know just the world has become
+much very complicated but if you're able
+to simplify it then you're going to
+bring some amazing results talk to me a
+little bit about this integration with
+rivery
+yeah i think that um
+the if you if you follow the revolutions
+in the in the data space you see that
+um business users wanted to get more
+access to the data and then you saw
+product like tableau or like click you
+know with the self-service approach then
+later on
+with the with size and sloka we call it
+data visualization but it's actually
+um self-service user experience um
+then you know i think that five years
+later um
+with snowflake bigquery um
+with you know those those data
+warehouses or data lakes in the cloud
+they came to solve the problem of okay
+we now we have the business user to
+to consume the data um but now you know
+we are moving to cloud we want to have
+the data is growing we don't need to add
+another server
+let's use it as a sas and and those that
+was the time that
+uh snowflake and bigquery and and some
+other players
+came into the market um and i believe
+that
+the next revolution or what we think now
+is the data ops
+why because um the challenge
+of you know to have as an organization
+that they were doing uh migration to
+cloud or
+digital transformation so you have the
+tool the storage tool you have the
+data visualization tool but you don't
+have the the orchestrator you don't have
+the operator that
+to manage the ingestion and
+transformation and
+you know catalog cataloging of the data
+sets the entities and
+and all with the same value that we had
+from traditional tools like informatica
+but
+in the much quicker much faster and the
+ease of use that the the current
+business wants to see
+right so obviously with a company like
+referee i'm assuming that
+you know a subset of the organizations
+truly understand and are huge champions
+of what you do
+if you do your job well enough then the
+rest of the organization doesn't even
+necessarily need to know
+that river is behind the is the brain
+that is integrating all this amazing
+data that is leading to the amazing
+intelligence
+and so in these in the next few minutes
+i'd love you to share with me
+how you're imagining this world with
+reverie integrated and
+and how is the world looking different
+as we approach the next few years
+where these integrations are simpler
+where the companies have the business
+intelligence
+available to them as they needed asking
+the right questions
+what in other words what impact does
+rivery end up having as a butterfly
+effect
+on our society
+i think uh you know uh zero
+uh almost zero definition
+uh that you want to put in your let's
+say
+data model and in order to build the the
+the most efficient data model that can
+be consumed by the business users this
+is
+this is the goal this is the the the
+vision um
+i'm you know on the on the way there you
+have uh some
+milestones so you started with uh you
+know the connectors which we are trying
+to be like
+uh really zero um development on this
+one
+but then you have we grew to the data
+model which is the
+the biggest thing i think in our product
+uh specifically for
+the the the growing uh the hyper growth
+companies
+that you have several business units in
+the organization and you want to make
+sure that
+each one of them they will use uh what
+we call virtual data model that's
+relevant for their needs
+um and it's old and i think this is the
+brain behind river is uh
+is that the fact that we can build for
+you the
+or you built with with our platform your
+data platform
+by having the the based on the metadata
+that you that you have
+and and this is the biggest thing that
+our engine
+built the data warehouse whether if it's
+snowflake data breaks uh
+google aws you can build
+in in you know very few minutes
+uh entire data warehouse that based on
+metadata
+that you uh get from the sources right
+and i think that one of the things that
+you know as you're explaining this the
+and and i'm imagining the simplicity and
+you know i have the added advantage that
+i've been thinking about this space for
+a long time and i think for an
+outsider you know a lot of people are
+talking about impact today
+in the world and they're asking what
+impact does does your company do and
+a lot of people miss out i think on the
+idea you know my conviction is that
+companies like yourself
+are the ones that are going to make the
+biggest social impact on the world and
+it's very not counter-intuitive
+what you're doing is you're enabling
+organizations to
+leverage data better to have better
+insight to be more efficient
+and obviously hopefully the right
+organizations will be using this service
+but
+but you but your impact is not
+measurable but we know it's going to be
+amazing as more and more user reverie
+right and i think that's a really
+important
+thing to know in the industry is people
+are talking about impact
+data ops and what you're doing is is
+just as big as impact if not more
+than any other company that claims we're
+here to do impact right
+yeah absolutely i think it's the best
+compliment that i could get
+for what we are doing and uh so thank
+you for that michael
+uh i uh yeah i really i strong believe
+on this one
+uh for for living i uh again
+with my previous two companies that i
+built i met so many businesses
+and i um let's say build really strong
+hundreds of
+employees in north america and in israel
+that build those kind of projects i'm
+not saying that
+river we will replace this one but it's
+make it more efficient
+make it more value for the business i
+think for our customer and
+their customer let's say the partners
+customers and uh yeah so this is the
+the impact that we're trying to do and
+people think always you know
+yeah but the data visualization tool is
+the most important thing here
+it's it's important definitely important
+but if you will ask the
+data scientist yeah it's nice that you
+have the tableau but i need to have the
+data in place in order so to build my my
+uh
+my algorithm so uh it depends on the the
+consumer
+right and i definitely can understand
+the pain point on it on a daily basis
+and so i'm
+a very strong consumer on that end it
+why do you like data so much you've been
+in the space for dozens of years
+why
+why i think i love it i think i uh
+i think i love the data um you know when
+i
+um i have a passion to uh
+to be i'm a builder and you know i have
+a passion to build the companies
+um when i build the first vision bi with
+my two co-founders in israel seagal and
+ilan we it was
+really great uh experience we worked
+with the best companies in israel
+all the best names in israel and we
+worked with them for their
+to build their first data warehouse or
+first analytics platform
+um best partner of snowflake in email
+not only in israel so
+i think that we we did a great success
+but after four or five years i
+i decided i told my my co-founders look
+we need to do something abroad we need
+to
+to to do something else uh outside of
+israel
+and then you know what is what is the
+best city in the world for me
+you know i like the new york so i wanted
+to be in new york every quarter so i
+decided to build
+the new york office or the new york
+company um
+so it was uh yeah and it's also started
+really small in the beginning
+kind of bootstrap not kind of bootsweb
+real butcher
+and we we grew in very few years from uh
+you know very few people
+to over 140 people with six or seven
+offices in north america
+um yeah it was really amazing journey um
+and i you know when i came to my dad my
+father is the one that
+he doesn't know anything about what i'm
+doing it's not from the tech
+nothing uh but but he's the best person
+to consult with when i told him that i
+want to go back to riveri
+uh to build riveria the um you know to
+go to
+another time and the third time to be a
+startup he told me
+you're so different than me but uh you
+know you will succeed i know that
+uh so yeah so i like it i guess that i
+love it i love the building
+thank you so much for this episode i
+loved it i have a few questions left
+about you not about data and not about
+reverie
+and i want you to take me back to middle
+school or high school childhood days
+what fascinated you as a kid what is
+your favorite subject
+in school or a passion that you had
+i i always liked math and
+math and sport i think that was the best
+thing even now uh
+the the best thing that i like i'm you
+know um
+i supposed to be a soccer player
+professional soccer player
+i never succeed i wasn't so good so i
+decided to focus on math
+so now i'm checking the the parameters
+the
+the hcv the arr and all the metrics
+you need to know something in math in
+order to succeed and who would be a
+source of inspiration for you
+throughout your career or journey uh
+personal professional
+so i i yeah i think that i learned from
+many many people uh i um i mentioned
+my dad uh and that is nothing nothing in
+the tech but uh
+you know my dad we lost his wife my mom
+when he was uh
+when she was 37 years old you know with
+four kids
+young really young um and the way that
+he led
+us to the family uh his community
+basically the way that he led
+us and and gave us the the confidence
+that we can
+we can grow from this strategy strategy
+uh i think that
+you know for me will always be uh you
+know a person to consult with
+i in the product i learned things from
+elon musk you know about
+if you are competing in the in the
+markets that exist in market
+you you you cannot be slight better than
+your competitor you need to be
+much better and this is what we that's
+what what we want to do in riverweed
+and yeah and what are three words that
+you would use to describe yourself
+oh and i think honesty i'm
+really counting myself as an honest
+person um
+sometimes things too much of the table
+but i think honestly it's one of my my
+you know
+passion uh i'm passionate for what i'm
+doing i don't care about
+um i care about money but the
+more important about what i'm doing and
+uh and the passion that i have to what
+what i'm doing um and uh yeah i think uh
+as i mentioned i'm a builder i like to
+build i'm not the guy to
+you know i have other partners always in
+the business to to make sure that we
+have the maintenance and everything
+uh but uh i'm i always like to look
+ahead amazing
+and have a great rest of the day best of
+luck thank you
+it looks amazing i look forward to
+checking out the product and and playing
+around with it as
+a data engineer and that's that's what i
+do a lot so
+so thank you for sharing with me inside
+the domain it was wonderful
+and uh you know stay safe and stay
+healthy thank you for everything
+thank you so much thank you micah really
+enjoyed
+you

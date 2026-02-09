@@ -1,0 +1,699 @@
+i think that what we're going to see
+we're going to see that software will
+continue
+to be kind of the main destruction on
+all every industry
+but at the same time we're going to see
+less and less issues happens
+you know less and less frictions in the
+deployment
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with loamy tech and
+sponsored by hippo insurance
+touring opposed labs and hillel stanford
+software is eating the world and raziel
+tobin the founder and ceo of code fresh
+is helping make it happen
+raziel is the founder and ceo of code
+fresh a cicd platform designed to help
+teams confidently ship cloud-native
+applications faster
+prior to code fresh raziel had over 15
+years of experience building software
+and running products in hp
+mercury and more an entrepreneur
+technology enthusiast and a software
+builder at heart
+brazil holds an mba from barline
+university in israel
+and a ba in math and computer science
+good morning raziel tv all the way from
+california how are you
+good morning good morning i'm good about
+yourself
+i'm doing just fine i we reflected just
+a second ago but
+you know actually my first visit to code
+fresh by accident back in
+in mountain view but that was your old
+office right i think you you had a
+little upgrade since then
+yeah we we moved all doing during these
+times you don't really see offices that
+much you know i'm here alone
+by now but hopefully this will come back
+i love it and there's so much to talk
+about and so many insights that i have
+to
+extract from you about you know the
+world of continuous integration and
+deployment
+where software is taking us and not you
+know what the software is actually doing
+but how we build great software
+in collaborative teams remotely at scale
+all those incredible questions that your
+company called fresh is answering
+and you're backed by some of my favorite
+investors red dot ventures in viola
+among others and and i think that the
+the journey that you're that you're
+going through is just incredible and i'm
+a
+i'm an avid customer myself and i just
+love the product and it's
+an honor for me to speak to
+entrepreneurs that build the products
+that i just
+love using on a daily basis and brazil
+so before we get started just tell me a
+little bit about yourself and
+and a little bit about the journey which
+is pretty fascinating and you
+did quite a lot of things before you
+started code fresh
+yes i think that you know it's um i'm
+really
+doing what i really love now because i
+you know in my background in my
+experience i've been predominantly a
+developer as like a software engineer
+that's where i started that's what i
+study
+um and then at one point moved to
+product management and you know it's
+amazing to see how over the times really
+software becoming
+you know the main factor what's
+disrupting every industry
+and as you know i'm moving to product
+management
+you know i remember back then you know i
+started in mercury and then moved to u.s
+baccarat
+and then at one point you know i was
+seeing a lot of the changes that are
+going on and how
+software you know containers and all of
+these technologies comes up and actually
+the main goal was to allow
+software to be built and deployed even
+faster
+and um you know even from this large
+company really wanted to build that then
+in hp
+and got like huge fundings and
+engineering and all of that but
+what really happens in this large
+organization is that
+things things moves very slowly and and
+i remember you know end of um
+end of the year of 2013 uh when it was
+like the um
+the holidays time the shutdown and i was
+like sitting there
+in miami and i got a phone call from
+this high executive managers and hp was
+actually telling me listen uh we're
+large company we're struggling with
+legacy products
+and we can't really afford this new an
+innovative project within hp anymore we
+have to shift the resources back to
+legacy
+product and i was walking around you
+know
+i'm frustrated for a little bit and then
+you know i remember i called the first
+manager that actually funded it within
+hp and i told him listen um
+it's such a pity this project that i so
+believed in
+it's been put on hold and he was saying
+you know what i how about i give you
+like you know 25 000
+well just go and do it yourself and you
+know back then you're thinking you know
+oh my god what i can build with twenty
+five thousand dollars you can build the
+world with twenty five thousand dollars
+that can be
+amazing you know and i'm walking around
+there in there like in the fountain blue
+hotel in miami
+and then i'm sitting in a coffee place
+they're thinking about should i do it or
+not
+and the name of the coffee place is like
+fresh and as i was thinking about it
+you know i i just can't do that you know
+and i called my you know my
+my co-founder oleg who was um having
+having the engineering back then i told
+me let's just go and do it
+and you know and since then it's just
+been an amazing journey because we truly
+believe that you know as you said
+software is disrupting every single
+industry
+and you know even you know you're
+thinking about it during these coffee
+times how people can
+still connect and work and collaborate
+and it's all you know
+there's so many things you can say about
+software but this is it's so enabling
+our kids to go to school even though you
+know from remotes um ourselves to work
+people to connect and so on which is
+amazing to be part of this
+transformation
+being building platform that allow
+organization
+to innovate faster to um
+streamline software development faster
+and so on so that's you know in a very
+very nice field
+i think that one of the most incredible
+things that i've you know come to
+understand this past year now and to
+quote
+mark andres and software is eating the
+world right it's not
+even disrupting it it's eating the world
+as it is eating it all with one bite
+and i think that one of the things that
+surprised me most coming out of my five
+years
+in in the idf was thinking that i
+understood you know what software can do
+but then
+seeing the potential of what's actually
+happening and how fast it's going and
+how we're not we're barely scratching
+the surface
+of of how software is going to play an
+integral role in our lives
+i mean we walk around and we keep
+talking yeah technology yeah software
+but we fail to understand that we're
+we're just in the beginning
+of how everything in our world is going
+to be directly connected to software
+which is why i think
+what you're doing is particularly
+incredible
+it's it is it is amazing you know i
+always you know sometimes when i when i
+meet with
+um people at court fortune many of them
+are even younger than me and
+and i can't tell them about you know
+there were there was a world when we
+actually walked to the bank branches you
+know it's not that we can do everything
+you know for a mobile
+there's a day when we when we need to
+expand you know um
+put an expense report together we used
+to collect all the receipts and put them
+in a bag and now you can just take
+pictures of them you know
+think about you know where you are now
+in hippo how you like kind of really
+disrupting the insurance
+industry which was like for many years
+something that was so
+cumbersome um and now it's just just
+become more streamlined and more um fun
+to work with and so on so
+being the platform that actually you
+know enabled it
+and and we helping our customers you
+know whether it's in the gaming
+industry or banking industry or
+insurance industry or fintech industry
+really
+building software faster deploying
+software faster introducing you know new
+capabilities it's really exciting
+so raziel i want to now approach the
+teacher and you because i know that
+you're teaching about 27 000 students
+at udemy uh according to what they saw
+so i'm going to ask you now to put on
+the teacher hat
+and for whoever is not you know in in
+tune with
+you know the latest developments of and
+the terms like continuous integration
+continuous development
+can you tell me a little bit about the
+the past
+present and future of software
+development how does it happen and
+how does you know code fresh with the
+continuous integration of
+deployments go go is part of this you
+know supply chain of
+building great software and bringing it
+to a product
+yeah so i think you know one thing
+important to understand is that you know
+as as software really disrupting
+every industry every technology every
+company the technology company
+and as you uh wanna innovate with um
+technology and with software you
+you you're building and you're hiring a
+lot of software engineers that are
+writing code and building code and so on
+and and your your software becoming more
+and more complex
+and the one thing you know that as we're
+living in a world that really technology
+it's all about technologies
+organizations really seek to kind of
+push new changes
+and and new features but in the same
+times also realize that
+when they deploy these new changes they
+can't afford that things will break
+because their reputation can be you know
+so um um can so be broken in a bit you
+know you just
+get you know your your site is down and
+like everyone is talking about in social
+media and you lose your reputation you
+lose your credibility and so on
+so there's always this challenge about
+how like i really um
+grow and and and make my team velocity
+much higher and about you know deploy
+software more frequently but in the same
+time
+i want to minimize the risk i don't want
+to introduce changes of vulnerabilities
+or things that that will harm my
+business
+because that that really goes like you
+know like fire you know immediately
+everyone knows about it and what
+codeforce is actually is doing is
+whenever a developer is making a change
+we're taking that change we're packaging
+it we're testing it and then in the end
+of the day we're deploying it
+and i think that we there there's so
+many best practices now that we've seen
+from companies like google and facebook
+that really build around how to minimize
+the risk
+of deploying software so for example
+one of the very common practice now is
+instead of just going and just replace
+the
+new versions the old version with the
+new versions
+you kind of get the new version or the
+new features that you want to introduce
+and you run them
+side by side the old version and just
+expose it
+to some people you know to some
+industries to segments
+we know that from facebook that
+sometimes you know there are new
+features that are coming out but only
+certain
+communities can see that and then like
+gradually you expose it to more and more
+and more until everyone is safe but that
+allows you to
+kind of really control the exposure of
+these features and if there's any issue
+that comes up
+you are in a great position to actually
+roll back and immediately bring it back
+so this way
+this practice that you know google have
+been working so hard to implement and
+netflix
+and and and facebook's and so on this is
+what we bring in a platform to kind of
+allowing every
+technology company to implement these
+best practices to be able to innovate
+to streamline changes faster but in the
+same times have full control of
+over how they expose and release these
+features and being able to mitigate the
+risk and roll back
+so just to paint a clear picture because
+i think that today we're so used to
+seeing you know
+on the app store every day and getting
+another update to another application
+right
+it's so sick it's so smooth today that
+it's that i think to announce that it
+may seem that it's so easy
+and it's always been so easy yeah why
+not just you know write some code and
+and you know send an update to all the
+users well today
+it is easier thanks a lot also to code
+fresh but can you
+share with me you know from your
+experience what is it like you know five
+ten years ago
+when we don't have these tools to to do
+it so smooth so first of all we used to
+wait for so long to get
+new software and changes that you know
+with new features
+um i remember back in the day when i
+when i was engineering mercury we
+released new software like
+every year or a year and a half you know
+you had to kind of
+really wait for so long to get these new
+features coming
+and it's so exciting that we're living
+in a day now that things are moving so
+fast we still you know see major
+releases
+of you know of operating systems coming
+up in a year
+also time frame but there's also lots of
+like mini releases that you we get a lot
+of features and a lot of capabilities
+and so on
+you know when we working with our
+customers and you know we closely you
+know we
+even unicorns um like yourself and and
+also like monday.com and we see like how
+we all allow them to
+really release new features um very
+frequently
+features can come up on a daily basis on
+a weekly basis and so on
+this is right in brazil what's actually
+something that's a little hidden
+is that you know we see sometimes the
+big announcements for the updates which
+it could be on a weekly basis or once
+every two weeks
+but the reality is that you know some
+companies every hour they
+they release something they don't even
+announce that it's just happening
+because it's so smooth it's not even you
+don't have to go on a full-on
+celebration because it's part of our
+life
+exactly exactly exactly and and as you
+said being part of it being part you
+know with building that platform
+that really allows organization to move
+fast and and
+you know basically to to remain the the
+market leaders because if you not
+innovate fast if you not move as fast
+with technology
+you basically lose your on your place in
+the market you're not
+as leader as you would like to be right
+talk to me about the future where are we
+heading because things are moving so
+fast
+what's next i think as things are moving
+so far though first of all the uh the
+ability to as you said like really
+control what's going on because they're
+always
+things and human mistakes that happen
+they're always issues that
+that are being introduced and and being
+able to allow organization to really
+figure out using machine learning what
+potentially
+can go wrong and then using this machine
+learning you identify these issues and
+the uh the software will auto roll back
+will not wait for the issue to happen
+it will just predict the issue that it
+will have but that it is about to happen
+and then roll back you know um
+automatically and alert
+uh the engineers and the devops so i
+think that what we're going to see we're
+going to see that software will continue
+to be kind of the main destruction on
+all every industry
+but at the same time we're gonna see
+less and less issues happens
+you know less and less frictions in the
+deployment
+you know because we we don't like we
+always like to kind of you know get an
+early exposure to this
+new um ios or whatever it is but how
+frustrating when the thing stops working
+and so on
+so i think it's it's um
+it's even amazing to see how our
+expectation from software
+is increasing over time you know we were
+like much more
+tolerant to issues that happened um in
+the past and we have
+much less patience now you know if
+things don't work we just
+right away we move to someone else you
+know we move to some other product so
+um our platform wants to
+our customers to move fast but also to
+predict issues from uh
+from happening and and mitigate risks
+before they actually um occur
+so perhaps you know most interestingly
+in some
+capacities you are educating the market
+on another capacity you know
+the market is getting educated naturally
+because you know
+if i'm saying that my friend developer
+and other companies develop is releasing
+more quickly than i am then
+then i'm wondering why and i'm fixing it
+and obviously there's
+the value that you're creating is so
+obvious right i mean there's very little
+an explanation that needs to be
+done in order to understand the value
+that you're creating nevertheless
+is it easy to just you know integrate
+into other companies how much
+explanation do you actually have to do
+to you know tech leaders to to explain
+what you're doing and why code fresh is
+the right
+is the right tool for them i think
+you know um it's getting i thought it
+would be like harder
+than it actually is because when you
+come
+into yeah it's good when we come to
+organization and you know
+it seems like still majority of the
+organization they would like to move
+faster than they actually move
+they they actually see the battle necks
+that they have with devops
+um you know there are lots of you know
+think about it as like if
+all of these cars wants to go let's say
+here from palo alto to san francisco but
+i have only one lane
+it's how frustrating it is you kind of
+want to build a platform that will allow
+you to build more lanes and really
+streamline
+the uh um the traffic from one place to
+the other if i can like you know to some
+level use this
+this metaphor and that's very same uh um
+and that's it's very similar when you
+come into organization and tell them
+about how fast do they want to deliver
+software
+but in the same time you also in the
+very same time also tell them about
+how much they would like to avoid risks
+because in in in many cases you know
+there is this conflict in organization
+though the people who really want to
+streamline
+deployments and other people who it's
+working don't touch
+you know i'm really really really
+cautious and i don't want anyone to
+touch my production because
+it's working right and it's not working
+you know i have goals about how you know
+the sla
+and it's working 99.99 of the time
+so how do you bring a platform that
+gives organization this confidence
+that they can streamline more
+deployments more software deployments
+but in the same times have this control
+over this deployment so at any point of
+time the machine will identify issues
+before they happen and will roll back
+that's uh that's a message that
+resonates with almost every organization
+because again
+everyone wants to differentiate now by
+by software whether it's airlines
+or or banks or insurance companies or
+you know fintechs or
+any other industry right so i think that
+one of the most interesting insights
+that i'm
+taking from this is that at the end you
+know writing great software deploying
+great software it comes down to
+the same foundation right it comes down
+to the same best practices
+the same mechanisms that are both you
+know predicting whether something will
+go wrong or having a test suite that
+does it for you
+and then having you know this this
+figure in the middle
+that is able to maintain all of that so
+that you don't need you know have
+different devops you know colliding and
+and keep and keep changing and looking
+at what what the world is doing you have
+a company like code fresh that looks at
+the world says okay we understand the
+best practices
+partially because we get feedback from
+all of our customers and so you're
+getting
+the benefit of all the insights and all
+the you know
+either failures or successes we had with
+previous clients exactly and
+and we also we're bringing it from a
+unique position because you know that's
+what we do
+in codewash we're building these
+platforms and it's important really for
+startup to really
+kind of frame what is it that you do so
+we we build this platform and we're
+focusing on building this platform
+that's really streamlined
+you know the deployment of software but
+at the same time as we're building just
+that we're giving
+organization the flexibility they need
+to say okay
+i want to today deploy my software to
+amazon tomorrow to google i will have
+the flexibility to shift also to
+microsoft like really not being
+locked to one vendors simple like other
+tools there's so many great independent
+software vendors at the moment you know
+for
+you know there's some companies that
+like to work with these vendors over the
+other and so on so building this
+bus of deployment that seamlessly
+integrate and giving the organization
+the freedom to choose which which
+tools and which platform they want to
+work and yet still
+help them to streamline the changes
+that's a key value because we we are
+living in
+in a world that software is moving so
+fast and so many great tools are coming
+so many great platforms
+and you want to keep the options to
+yourself to really choose at any point
+of time the best of free tools and piece
+them together
+i love that raziel when we just started
+this conversation you said how lucky you
+are and how
+uh and how you just love what you do and
+you love
+you know uh going to work and you love
+building code fresh
+what does it come down to does it come
+down to the the leadership aspect does
+it come down to the
+solving a problem that you really care
+about what is it
+at the very very core i think it comes
+down to people
+like i really love uh people i really
+love to work with people
+and and it's amazing to see you know as
+both as you're building company and also
+you're building customer base and you're
+building you know a great supporter a
+community you know on the board you work
+a lot with people
+and and i love doing that you know i i
+love doing that and i can do that day in
+and day out you know over the weekend
+really kind of working with people um
+um get people to um
+really believe in in what you are being
+part of this journey
+it makes it just you know kind of
+elevated because you're not
+alone in this journey there's so many
+people that you work with and and i
+really love it
+like it's it's i can't even tell how
+how exciting it is to work with people
+and and
+and it's amazing brazil i have to say
+that it it shows very very clearly and
+this is a perfect take with you the most
+important question which is
+three words that you would use to
+describe yourself
+i think it is this like i love people
+i'm i love people
+i love building things with people um
+and and there is no other place than you
+know i think what i'm doing now
+you know um i think that i love building
+what we do with the people and
+working with people helping them solve
+the problem that's
+that's what i like doing that's what
+thank you very very much i i look
+forward to using your product in about
+30 minutes when i'm back to work i
+appreciate it very much thank you very
+much and
+stay safe thank you bye

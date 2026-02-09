@@ -1,0 +1,435 @@
+and what the AI does is in real time it
+understands what are the risks that are
+happening while you're driving so it
+looks at the road ahead of you um and
+are there stop signs coming up other
+vehicles pedestrians kids bicyclists it
+looks at what the driver is doing and
+particular what the driver paying
+attention to and if they've fallen
+asleep or they're distracted by food or
+mobile phone and it looks at what the
+vehicle's doing and increasingly we're
+looking at the location history as well
+so we know which locations are very
+dangerous or what kind of risks happen
+where all of that happens in real time
+on board the vehicle and that's really
+important it's different from a lot of
+other AI That's used to process uh data
+after the fact because our goal really
+is to look five six seconds into the
+future to predict is this getting
+[Music]
+dangerous Stefan heck welcome to a
+20-minute leaders in the matis
+experiment really glad to have you here
+welcome pleasure to be here thanks for
+having me yeah you know this is this is
+a an opportunity for me again to to dive
+in h and U meet another person who has
+the best job in the world and uh
+tackling something that you deeply care
+about with the people uh you care to do
+it with under a vision that motivates
+you and guides you so so a lot of u a
+lot of ways to look at this question
+from different angles and so I'll I'll
+start off Stefan tell me a little bit
+about Nao and and what you're doing with
+in sort of the intersection of of
+artificial intelligence and Commercial
+fleets and how these worlds uh are
+intersecting obviously with the
+explosion of AI over the last few years
+um and the verticalized applications
+here and just so that we can have a
+little bit of background as to what what
+you really do in the day-to-day yeah so
+uh n as an AI company I started about 10
+years ago uh we deploy AI into uh
+vehicles uh working with both Fleet
+owners uh vehicle manufacturers
+insurance companies it's a uh
+subscription service or what's called
+SAS software as a service or in this
+case AI as a service um so we charge per
+vehicle per year uh it's a simple fee
+and what the AI does is in real time it
+understands what are the risks that are
+happening while you're driving so it
+looks at the road ahead of you um and
+are there stop signs coming up other
+vehicles pedestrians kids bicyclists it
+looks at what the driver is doing in
+particular what the driver is paying
+attention to and if they' fallen asleep
+or they're distracted by food or mobile
+phone and it looks at what the vehicle's
+doing and increasingly we're looking at
+the location history as well so we know
+which locations are very dangerous or
+what kind of risks happen where all of
+that happens in real time on board the
+vehicle and that's really important
+that's different from a lot of other AI
+That's used to process uh data after the
+fact because our goal really is to look
+five six seconds into the future to
+predict is this getting dangerous and
+then to empower the driver to avoid that
+risk before anything bad happens so it
+is isn't just about you know oh you had
+a collision which there's a lot of
+telematic systems that's what they do
+but it's about wow watch out this is
+getting really scary um you should slow
+down leave more following distance put
+your phone away whatever it might be and
+through that we are able to very very
+quickly uh in a matter of days eliminate
+most of the driving risks typically
+between 80 and
+90% And reduce the collisions that
+you're going to have by about 2/3 uh in
+the best case it's over 90% but
+typically it's about 2/3 so it's really
+phenomenal and most people don't realize
+you know there's a lot of safety
+Technologies out there in vehicles
+airbags backup cameras uh you know if
+you go back in time the break the
+invention of the seat belt and if you
+look at the previous best technology was
+the seat belt in the 50s and 60s which
+reduced collisions and injuries about
+20% and you know here we are getting
+about
+65% reduction in in collisions it's
+pretty phenomenal so it's exciting it's
+it's it's why I love this this rule I
+love what n does every day help me
+understand a little bit better the the
+landscape and the ecosystem behind where
+where you're at so we're talking about
+the pain point of of predictive
+abilities to to be able right to prevent
+different different things that could
+happen you know in commercial fleets and
+driving and different behaviors and then
+making a recommend and then making
+recommendations based on that tell me
+can you can you share a little bit about
+where this fits into the ecosystem of
+the the Driving Experience you know in
+terms of the product the car the the
+where the recommendations actually take
+place how does the produ actually work
+yeah so today we're uh working with
+commercial fleets so this would be you
+know not only Long Haul Trucking which
+everybody thinks about but a lot of
+service fleets delivery fleets you know
+the package delivery companies that come
+to your house the technicians that come
+and install air conditioning Cable
+telephone uh Etc so it's a lot of Light
+commercials Vehicles Vans and pickup
+trucks as well as large trucks and and
+sedans um terms of Who's involved in
+this ecosystem there's the vehicle
+manufacture and for if you're buying a
+later model car you have the option to
+put in collision avoidance system Safety
+Systems unlike passenger vehicles where
+they're often now standard uh for
+commercial vehicles they're typically an
+option package so the fleet has to
+decide to to add that there's the fleet
+itself which usually has a safety team
+and a set of officials whose day job is
+to make sure the drivers are safe and
+then if you're uh a very large Fleet
+you're typically self-insured but if
+you're a midsize Fleet uh you have an
+insurance company involved as well and
+the insurance compan is really mostly
+after the fact you know they they
+process claims uh they may do some what
+they call loss mitigation but loss
+mitigation is really training after
+you've had bad collisions to avoid the
+next one um the safety team does a lot
+of training proactively you know
+particularly in the when you hire a new
+driver that first 12 months is very
+risky just like we all know if anybody's
+ever had a teenager that first couple of
+years of the teenager driving is very
+risky it takes a while to to really get
+good um the difference with nto is we go
+into the vehicle um and if it if it
+already has a compute and sensors we
+just add our software but if it doesn't
+we add a sensor package uh that goes on
+the windshield you it's a small package
+that sits on your on your wind screen
+and that adds the sensors in the compute
+and then in terms of your question you
+know where when and where does it happen
+that package in real time 15 times a
+second is assessing the risk of the
+situation holistically so we detect
+individual risks and then we assemble
+them into a in a situation assessment
+for example if you're you know holding
+your phone right you're you might be
+doing this holding your phone up to your
+ear um that's above normal risk that's
+about nine times normal driving risk now
+if you're looking down at your phone and
+you're texting it jumps to 32 times
+normal driving risk um but where it
+combines is let's say you're also
+speeding speeding by itself is not super
+risky it's between 20 and 40% elevated
+risk now again assuming you're not going
+100 Mil hour then of course it's much
+riskier but a little bit of speeding
+like most people do it's not super
+dangerous by itself and then let's take
+a pedestrian Crossing uh pedestrian
+Crossing is also nine times normal
+driving risk but where things get really
+interesting and what what Nat is
+uniquely doing is we put these risks
+together because if the pedestrian's
+crossing and you're looking down at your
+phone texting you the these two risks
+don't add if they added you'd be about
+32 times normal driver risk but actually
+you're going to be 2,700 times normal
+driver risk and anytime you take that
+kind of risk where the risk is thousand
+times normal driving risk you're going
+to have a collision it's just a matter
+of time before your look runs out so
+that's where we intervene what we do is
+we do a set of voice and behavioral
+nudges it begins pretty gentle you know
+it just a reminder put your phone down
+or the speeding one for example is it
+gives you this like subtle suggestion of
+slowing down that's the lowest level as
+you get riskier it'll give you voice
+coaching so we'll say for example pull
+over to use your phone and we're very
+focused on what's the biggest thing you
+can do to reduce your risk right now um
+I have this highly technical term that
+we've designed for which is when we
+intervene we want the driver to go oh
+because if they go oh and we
+talk about oh moments that's when
+the adults learn even as a as a
+experienced driver you may have 30 years
+of driv experience but if you have one
+of these oh my God that was dangerous
+moments that's where you adjust your
+behavior absolutely and in the most
+acute risk let's say you're about to hit
+somebody or something um it's an alarm
+because there's no time for you to
+listen to voice think about what to do
+it's just a screeching alarm to get you
+to Swerve or or break and through that
+we've been able to help fleets avoid
+over 30,000 collisions uh in the last
+two years so it's it's really you know
+everybody at natto is inspired by this
+mission of saving lives um it's hard to
+know how many of those 30, th000
+collisions would have been fatal but
+based on statistics somewhere between 30
+and 40 so there's you know 30 35 people
+walking around today um who are only
+alive because not protected
+them obviously um being able to meas to
+use um something that has something to
+do with life saving as a metric for the
+company I can only imagine it's probably
+incredibly inspiring and motivating um
+continue can you double click a little
+bit into what sort of how do you measure
+this and what how do you how do you
+generate a somewhat rigorous C thinking
+about translating the alerts that you
+create or the work that you do towards
+the impact that it has on something like
+saving collisions or ultimately saving
+lives obviously I'm sure part of it is
+is an estimation but how do how do you
+how what what signals do you bring in to
+be able to then put on a big dashboard
+and say hey look we as an organization
+are making a huge impact because of X Y
+and Z yeah it's actually pretty deeply
+analytical uh you know we have a lot of
+data scientists and and we get deep into
+the risk science there's three parts the
+first part is having really really good
+AI That's rigorously trained so that
+it's very quick it's very precise and it
+doesn't have a lot of false positives
+because if you alert somebody about a
+risk that isn't there people get really
+really upset it's called backseat
+driving uh so if I tell you you know
+slow down and there's nothing there
+you're going to say what why you why you
+bothering me so we don't want to be
+backseat drivers so that's the AI part
+and we shoot for super high Precision so
+that you can detect the risk accurately
+and uh it's really important to do it
+fast there's a lot of dash cameras that
+claim they have ai in them now a lot of
+those dash cameras see only a small
+number of risks and see them six seven
+seconds later six or seven seconds when
+you're driving is an eternity a lot
+could have happened in 6 seconds right
+so our technology we really focused on
+detecting risks in under 100
+milliseconds that's a tenth of a second
+uh so that you're really instantly
+seeing that risk the second part gets
+into behavioral psychology you know what
+what feedback do I give the driver so
+that they really change because there's
+a fine line between warning you about
+something that you didn't see and
+annoying you about something that's very
+obvious right so if I'm looking at the
+stop sign with my gaze telling me
+there's a stop sign coming up is super
+super annoying now if I'm if I'm looking
+down at my phone or I'm looking over at
+a person on the left and I didn't see
+the stop sign and I'm not slowing down
+at all then is helpful that's one of
+these oh that was really dangerous
+experiences um so that's the the second
+most important part and then third is
+how do you know what difference you made
+um the way we do that is we rigorously
+do a scientific controlled experiment in
+every deployment so we look at the
+history of that sleet we then deploy our
+uh system and we observe silently for 3
+weeks so that's literally just measuring
+what is the risk that's going on we
+found that the in general the first week
+or two people are on their best behavior
+because they know we're measuring it's
+called the the Hawthorne effect so you
+change your behavior because you know
+you're being observed um but in our
+experience by the third week people
+forgotten all about it uh and they go
+back to their normal habits and then we
+rigorously measure after um and usually
+we take a control group of vehicles
+we're not in as well so you can
+eliminate things like season changes
+that are happening other things that
+might have been going on right if you
+have a snowstorm for example driving
+behaviors change we want to be able to
+compare the the fleet we were in or the
+portion of the fleet we were in versus
+the where we were not and so we
+rigorously measure both a behavior rate
+before how often were you touching your
+phone turns out in a typical commercial
+Fleet people use their phone seven times
+per driving hour uh in other words every
+9 minutes or so they're touching their
+phone phones are super addictive super
+dangerous uh if you take nothing away
+from this conversation for your driving
+other than put your phone away then
+that's already a great a great result um
+and um then we measure that same
+behavior rate after and typically we see
+you're down to um touching your phone
+once every two three four hours of
+driving which is great it's almost an
+order of magnitude
+change um and then we also measure the
+Collision rate before and after so how
+many collisions per million miles did
+you have before an autod deployment and
+how many do you have after um and that's
+how we can get very quantitative the
+only part of what we do that's hard to
+know for sure is you know what how many
+fatalities how many lives have we saved
+because it's very hard to know would
+this particular Collision have led to a
+fatality but in in some very large
+fleets that we work with you can
+actually see that because you know they
+might have had 10 fatalities last year
+this year they have only one or two then
+you know you probably saved nine lives
+there and I fully get that and and I
+appreciate the I appreciate the
+complexity that that goes into into
+measuring something like that but but it
+sounds like once you're able to
+articulate a a you know a reasoning and
+rationale for what for how you're going
+about it I can I can only imagine how
+how also motivating that is for somebody
+who's deeply for the on the deeply
+analytical sides of the team and so I
+think I think that's very cool and I'll
+tell you the biggest impact isn't
+actually the analytic part but is seeing
+one of these moments where there was a
+huge risk going on the driver wasn't
+aware we alert the driver they look up
+they usually have this you know surprise
+shocked expression they hit the brakes
+they swerve and then usually there's
+some four-letter word after that where
+the driver goes you know damn or or
+worse than that and you know they
+realize oh my God that was a dangerous
+moment seeing those videos is
+lifechanging you know people cheer
+people celebrate like oh and and
+oftentimes drivers will share that right
+they become fans they say look this
+saved my life uh I wouldn't be here self
+incredible Stefan I I want to wish you
+best of luck in your journey with NATO
+it sounds sounds awesome and I can I I
+can I can experience from the from just
+from this conversation the how um the
+impact that this has on you and and I
+mean you said it yourself that the that
+the things you get to do in the dayto
+day can have life-changing moments and I
+can only I can only aspire for for
+myself and and any other entrepreneur to
+be working on on things that can provide
+them life life H lifechanging
+experiences and that and and that they
+could have an any day and so H very very
+cool work and important work and I want
+to wish you best of luck and thank you
+again for coming on and being a part of
+this experiment and uh and for sharing
+your story thanks so much it's pleasure

@@ -1,0 +1,478 @@
+it's just a PowerPoint clicker right but
+what we worked on was a scheme whereby
+this the nurse in the room who's not
+scrubbed in the so-called circulating
+nurse uh could use a clicker standing by
+the patient with the anesthesiologist
+and the surgeon and the scrub
+nurses and lead a checklist process
+electronically on a board at the foot of
+the patient on the wall just by
+clicking and when they're done the
+system pushes that data into the system
+record into the
+EHR so we've created something that's
+both engaged and real in terms of
+everyone focusing on the patient at that
+moment the way the whole industry agrees
+should happen yet is actually easier to
+do than treating it as yet another thing
+to
+document welcome to 20-minute leaders
+just sit back relax and learn from the
+leaders of today it's a journey
+each one is different unique inspiring
+let's get
+started 20 minute leaders is a proud
+supporter of makeawish Israel and Tech
+to peace and is in proud collaboration
+with secret cord Ventures Jay Ventures
+Riverside FM Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with ctec
+[Music]
+Jeff Robbins welcome to 20-minute
+leaders thank you so much for joining at
+my speaker series in firesight chats
+with with awesome entrepreneurs
+innovators and investors uh very excited
+to sit with you and get to know your
+perspective and get to know your journey
+and your story in these 20 short minutes
+um and the would love to kick things off
+with you know you you've you've spent
+many many years in your company that
+you've that you've been part of uh um
+and um you're helping shape the the
+health industry you're talking about the
+integration of software Healthcare the
+experience of patients during what I saw
+on that I very much liked on your
+LinkedIn page the perhaps one of the
+most important days of their lives and
+so very curious to hear about both the
+founding story but also a little bit
+about the paino in the space and what
+you've experienced and acknowledged in
+the in this healthc care space and so
+tell me a little bit about you know what
+are we even talking about what is this
+problem that we're
+in uh sure um let's let's Jump Right In
+uh first of all name is Jeff Robbins I'm
+founder and CEO of live data company I
+founded in 1991 so when you said been at
+this for a while you are
+correct and the the problem that's
+really first of all that we really only
+became aware
+of partway through this journey with
+live data uh live data established
+itself actually first as a as a small
+respected and trusted leader and
+real-time middle wearer on the uh
+electric power grid and we were talking
+pre-recording about cyber security and
+that was one of our um kind of facets of
+our middleware was how do you uh help
+the industry uh move data back and forth
+in real time uh reliably yet secure
+securely uh due to some
+uh you know hard to avoid talking about
+a personal tragedy in my life uh I
+pivoted the company from that uh real
+time utility middleware to healthcare I
+I lost my middle son Eton who was uh
+eight 18 years old freshman in college
+he had epilepsy he was a freshman and
+died at college and
+unexpectedly and it threw my life upside
+down and you know obviously this is a
+hard thing to hear and talk about and I
+don't want to dwell for your listeners
+viewers but when you look at the things
+that shape and entrepreneurs life it
+always comes back to the
+personal you know something's going to
+drive you and I determine then that I
+needed to do something as definitive as
+I could in the health care space to try
+to improve something about healthc care
+I'm not an epilepsy expert I'm not a
+doctor um nor a scientist but um having
+worked my whole career in uh real-time
+data
+integration uh as I mentioned the secure
+reliable flow of information focused on
+machine to human human to machine it it
+became logical to try to apply this
+expertise if I could to the to the
+healthc care space and surgery seemed
+the most right
+for uh something like what we're with
+picturing in that there's a lot of
+different moving parts coming together
+in that operating room uh in terms of
+different
+doctors and nurses technicians equipment
+obviously the patient patient has to be
+ready for surgery what does that mean
+where you're an outsider all those
+things are like oh who oh very
+complicated thing and it turns out it's
+not just because we're Outsiders uh it
+is complicated there's there are a lot
+of moving Parts uh high performance
+hospital today is really doing something
+very complicated and often in a certain
+unex expectedly sad way uh with a
+deficit of modern software
+tools to facilitate that journey and
+when I say deficit I I have a background
+as I said in other forms of industrial
+process control other Industries started
+out of manufacturing went to electric
+power I've seen the way in which uh
+process control tools help other
+Industries and for various I'd say good
+reasons they it's been slower to to
+surgery and so that was that was the
+initial kernel of the idea is how can we
+bring uh software into the mix not as
+another burden not as more data
+entry what what you'll often see right
+now in the hospital is very important
+well-intentioned uh efforts to add more
+recordkeeping right because data
+collection's good right if you can
+collect enough data you can study the
+data and then you can start improving
+the process but unfortunately lot of the
+data being collected is by typing so so
+people went into healthc care wanting to
+help people were like wow so I'm going
+to spend more of my day typing to help
+people which you know there's a logic to
+it it's not perverse but it's it's
+disappointing if your focus was always
+on the people's side and so part of what
+we focused on was how are we going to
+reduce the amount of mayo entry how are
+we going to automate data collection
+we're going to
+instrument this complex Journey from the
+first meeting in a consult with a
+surgeon where you might decide to have
+surgery through the process of tests and
+workups and things getting you ready to
+showing up in the right place at the
+right time without having eaten or
+whatever the instructions were day of
+surgery getting you through that
+surgical case smoothly making sure the
+room's ready before the patient even in
+the room so that that when the patient's
+there and obviously more exposed you're
+in one of those you know little paper
+things or whatever and the
+room you know the longer you're out
+under anesthesia without anyone doing
+anything to you the worse it is for
+everyone so so the goal was to get the
+patient in there totally ready have the
+room totally
+ready and then help the
+team with automation to focus on the
+patient and the care and not on the call
+it the note taking or
+bookkeeping so that that was the
+vision now yeah now when you when you
+set out this Vision live data was
+already operational in another domain
+right correct we were operational in
+electric power domain and as an
+entrepreneur I had to make some
+decisions about what to do about all
+this and so I decided uh we would
+actually sell that division
+as our goal and double down if you will
+in the health care piece as part of that
+pivot point in my
+life and and so I recruited someone I
+knew from our community here in the
+Boston area a great guy who um came in
+and ran that division as
+a division of live data uh and built it
+up to the point where we we were able to
+successfully sell it to
+Oracle which we did right at the
+beginning of the
+pandemic which was a you know everyone
+was sort of figuring out well we're all
+working from home you know especially
+the very sophisticated law for orical
+news you know they they were having to
+adjust their practices to you know being
+from H
+is I think everyone did a really good
+job of of adapting and and so we sold
+that Division and uh F and now Focus
+exclusively on our Surgical
+product if now if we if we look at this
+the the world of Health Care and
+obviously you're you've become very
+intimate with it and you're you
+understand not just the technological
+complexity but you it sounds like you
+have a great deal of respect for for the
+human aspect of it right you you
+mentioned a few times and and it really
+resonated across the screen how you're
+how respectful you are of the experience
+of the patient throughout this and that
+your job from the software end is to
+augment their experience and to to Aid
+them and and in the in in this in the
+you know hopefully you know good and
+peaceful transition
+um how do you then bring software into
+this complicated world I mean highly
+regulated highly under served perhaps it
+sounds like from what you were observing
+how yeah it doesn't sound that easy to
+integrate well I guess I get to P myself
+on the back you know it's very hard well
+it actually is pretty hard I I think I
+think it was harder than I could have
+imagined um I quick quick background for
+those who just to give you a few
+conceptual things to for my answer okay
+but like the primary dominant software
+package in the hospital or surgery
+center is the electronic health record
+or
+EHR and over the last 10 plus years
+there's been a lot of money and
+attention paid to um getting hospitals
+onto an electronic health record off the
+paper chart onto a system uh the
+government got to Bow the federal
+government uh created a reimbursement
+incentive schemes to help the industry
+move forward uh you know where where
+capital is often tight Believe It or Not
+despite the huge percent of the GDP we
+spent on Healthcare it's uh hospitals
+run on lean
+margins um and and so that system of
+record is now pretty well
+ensconced and so part of finding a way
+in for us was to realize well the the
+indust other Industries have learned
+that there's a notion of a system of
+Engagement that sits on top of a system
+of record and lets you do some of the
+more people Centric
+processes uh that don't
+replace the vital recordkeeping which
+serves many different Regulatory and
+risk and other interests but let you add
+things quicker to serve the human side
+of the equation and The Human Side can
+be both patient and and
+staff and staff satisfaction in today's
+world is also quite vital if you're
+concerned with patient satisfaction
+because you need to have sufficient
+staff to take care of those patients and
+they have to feel like they're being
+given the support they deserve by their
+institution uh to get the job done
+properly so that system of Engagement
+was the
+conceptual round ho we want to fit
+around peg into and and
+then we we focused on specific areas in
+the surgical workflow now this gets
+specific to us
+where uh we we perceived
+um opportunities to really make an
+improvement so one area we focused on is
+the safe surgery
+checklist um we actually started working
+on an electronic checklist system before
+at tul Gand and others from the briam
+the World Health Organization did the
+safe surgery checklist
+study that provided strong evidence for
+the really important usefulness of
+checklist in in surgery and for people
+not familiar the basic idea of this kind
+of checklist is it's a lot like in the
+airline industry the idea is hey before
+we take off or before we take a knife to
+this human body in front of
+us we make sure some Basics are really
+all set and known do we know who the
+patient is do we know which side of the
+body we're operating on do we know about
+any significant allergies that might
+make a tool in appropriate um or
+technique and this kind of checklist um
+can be done many different ways all you
+really need is a piece of paper and
+people committed to
+stopping and doing it but I realized
+that given the uh onslaught of
+recordkeeping there was an opportunity
+to do the checklist electronically in a
+in a way that was
+simpler than having a nurse in the room
+typing into the the
+record and um I didn't play my
+yeah sorry it's a product thing I don't
+know if you can see this yeah yeah got
+it yeah it's just a PowerPoint clicker
+right but what we worked on was a scheme
+whereby this the nurse in the room who's
+not scrubbed in the so-called
+circulating
+nurse uh could use a clicker standing by
+the patient with the anesthesiologist
+and the surgeon and the scrub Nur
+nurses and lead a checklist process
+electronically on a board at the foot of
+the patient on the wall just by
+clicking and when they're done the
+system pushes that data into the system
+record into the
+EHR so we've created something that's
+both engaged and real in terms of
+everyone focusing on the patient at that
+moment the way the whole industry agrees
+should happen yet is actually easier to
+do
+than treating it as yet another thing to
+document and so we moved it from
+document to
+doing reduce the amount of time it takes
+to do the documenting part increase the
+you know obviously you can't get inside
+the heads of but we believe increased
+the uh meaningful execution of the
+checklist and and it's been uh we've
+been our system's been observed now at
+several hospitals by Joy commission
+surveyors when they survey the surgical
+practice and it's been uh written up um
+as a best practice which we're very
+proud of well you don't get any Prize or
+extra money or something but you know
+back to the entrepreneurial
+motivations you know one of them is are
+we G to make a difference and so that
+was our moment when we realized we were
+no longer just reasonably smart software
+people with our noses pressed up against
+the window looking in and we were we're
+actually part of the space doing
+something useful and that kind of
+snowballed into other things we've been
+doing in that surgical Journey from way
+before the day of surgery to the day to
+after and uh that's that's what we're
+all about I I I would I would add to
+that patient safety
+story that part of the thing we're doing
+to help the hospital and the staff is
+we're trying to help make the sometimes
+opaque Hospital Systems easier for
+surgeons in the community we're often
+wondering hey can I bring my patient to
+this hospital this Tuesday or next
+Tuesday they might be sitting in a
+clinic with you and try to schedule you
+know and figure out what's available
+when and that kind
+of inside the hospital outside the
+hospital flow you know sure if every
+surgeons an employee of the hospital
+they just look they just go into the one
+EHR together but plenty of time
+in in the US we've got you know private
+practices they're not
+necessarily uh privileged to go
+permission to go look into the HR that
+way and so we provided them a really
+easy way to do that with our software
+which again the same rules of engagement
+then pushes the data into the EHR so
+we're not breaking Hospital workflow
+we're augmenting it and in effect making
+it easier to do business with theal
+hospital and that is good for patients
+because it means every last available
+minute is now available so you're you're
+booked for surgery sooner and it's more
+assured when and what time and will it
+really start on time and all that stuff
+so so there's kind of a whole lean
+process involved here of if everything's
+run properly it's both more efficient
+and yields better Financial results
+and it's also safer as things are
+runting in a reproducible correct
+way well what this is this is um so so
+cool and and so fascinating um and your
+your your personal um respect and uh
+commitment to this space and to making a
+difference it really comes through what
+has been the number one most fulfilling
+or inspiring piece for you in this in
+this
+journey well um you there are a lot of
+different impacts
+um that I felt personally I I would say
+the most proud thing for
+us
+is we we started selling at the Veterans
+Administration VHA health
+system and at this point we've
+sold um with an excellent partner uh do
+DS in Florida we've we've we've sold 100
+VA hospitals our
+solution and you know going from again
+that sense of wanting to make a
+difference to knowing that we're
+impacting for the good the care of so
+many US veterans is really been a source
+of of
+Pride Jess I um want to thank you for
+the time and for the uh privilege and
+honor of letting me hear this and share
+this with the world I really appreciate
+it and um you know you talked about the
+entrepreneurial Journey a few times and
+I think that you really
+exemplify and the uniqueness of the
+Journey of being able to take something
+that you're personally so passionate
+about and excited about and bringing it
+to the World pivoting the company you
+needed and doubling down what you truly
+care about and then committing to making
+a difference by actually being there and
+being on the court and acknowledging
+where where the pitfalls are and where
+the the difficulties are but doing them
+and winning and so I think that that's
+just a great great great perspective and
+a takeway year for me so Jeff I really
+want to thank you and continue
+continuing best of luck with live data
+and with everything you're doing and
+continue making a positive impact on
+everything you're involved with and
+thank you very much and Michael thank
+you very much this has been a pleasure
+[Music]

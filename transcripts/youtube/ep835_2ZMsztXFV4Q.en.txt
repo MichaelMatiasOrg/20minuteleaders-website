@@ -1,0 +1,604 @@
+everyone felt the hard work it's hard
+work you know working at a startup
+trying to build a massive company for a
+massive need
+like what i'd like to say is that when
+we came into api security um
+we were already like we had to move
+really really fast if we wanted to be
+relevant to that problem because that
+that problem was going to explode
+soon and so i told the team from day one
+like hey we don't have a choice like we
+could choose another market and then our
+work would be easier um
+but we can do it now like api security
+is it is really ready for us at this
+moment in time let's go for it we're
+gonna bust our ass but we're gonna be in
+really fast you know unicorn success
+anything that comes with it and this is
+really what we did it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homework ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+[Applause]
+welcome to 20 minute leaders today i'm
+with shai levy co-founder and cto of no
+name security
+shai was born in ramadan and from a very
+young age he learned to adapt to
+challenging life situations he paved the
+way for the 8200 after studying physics
+and computers in high school and hurried
+to finish his matriculation in physics
+in 10th grade
+from the cesifian classifications to the
+specific section to which he was
+admitted in the army which lasted seven
+months he no longer recalled
+there he met oz and even then they had
+signed together on a project that won
+them a source of life award after they
+managed to convince their commander to
+promote a project that initially
+encountered opposition and gained
+recognition for thinking outside the box
+after his military service he moved
+between startups and large companies
+when his last job was at facebook about
+two years ago he took part in the
+establishment of no name security that
+provides cyber solutions for apis
+[Music]
+shy levy welcome to 20 minute leaders
+thank you for joining me from tel aviv
+how are you today
+pretty good pretty good how are you i'm
+i'm doing better having this episode now
+no name security is
+you know is a name that pretty much
+every person in the tech scene
+in israel and then probably much much
+beyond israel knows and understands
+you're working on on a problem that
+really surfaced in the last i think 10
+15 years pretty dramatically and you
+know looking at security looking at
+at apis looking at the way that security
+needs to to be adapted to this new era
+of collaborations and integrations both
+internally within organizations and
+outside and and outside of the
+organizations and with an amazing
+company that i think you have about 300
+employees if i'm not mistaken and
+probably already not updated and
+obviously with a remarkable unicorn
+status which which really is only
+interesting to say that you're doing
+something very interesting
+and so i'm excited to unpack that in the
+next 20 minutes and hear a little bit
+about your perspective
+and and shy before we even get to no
+name i want to understand you a little
+bit better because you have a really
+interesting journey also within your
+army service and the formation of of no
+name so tell me a little bit about that
+sure oh
+do you want me to start in
+or you want me to start uh before like
+where do you want us to start
+i want you to take me back as early as
+is meaningful for you about the about
+how you got to no name security
+um yeah i think united 200 is a good a
+good place to start um
+that's essentially where i started my
+professional career um
+which is kind of interesting right
+because we started our professional
+career in the army but yeah oh
+so yeah i served in union 8200 um
+i've searched four years various cyber
+security rules
+um
+you know i've did i've done initially i
+did a course as part of my training so
+you start by doing a programming course
+and then you get into the actual unit
+how long
+yeah various cyber security roles from
+research to development to
+you know being on the offensive side
+being on the defensive side pretty
+interesting stuff
+this is also where i met us obviously so
+that's another important milestone uh we
+both served in the same department uh we
+had an overlap of about two years or us
+was uh released two years before me uh
+but we did have an overlap um after my
+army service
+um i had quite an interesting journey uh
+i've
+lived in berlin for roughly six months
+uh
+yeah
+i met my wife there actually i met my
+wife while still being in the army
+service um so after i was released i i
+kind of moved there
+so i was in berlin for roughly six
+months then i traveled the world a bit
+so i traveled south america and only
+then i came back to israel that was
+already 216 i guess and that's when i
+started kind of you know getting into
+the industry um which initially was the
+antique world so i came into the antique
+world um
+various different worlds from startups
+to larger companies how long
+yeah you know names you would know
+probably iron source is a thing you
+would know so i worked for iron source
+[Music]
+the last position before no name was
+facebook you could say this is also an
+tech it's not exactly it but i also
+watch for facebook um
+yeah and then and then no name
+now when when you're looking back at
+your army service with os and i know
+that you've gotten to work on some very
+meaningful projects winning the the
+source of life uh
+prize
+that that experience working with us
+back then what what was that what was
+what are you thinking already about you
+know startups and what you're going to
+do later on in the industry was was
+there any room for that thought or were
+you you know really heads down in your
+work and and only later on it was like
+oh yeah there's this guy that i worked
+with that i might want to work with
+again i've always always had
+something on my own that i'm working on
+um at any point in in my life with any
+job that i had i always had something
+that i'm working on as part of it um
+like aside from my main job so i also
+had it during my army service um i
+always knew that it would come to the
+point where
+i'll build like i'll build my own
+company it would i knew it
+i basically just knew it uh
+oz was a great private partner to do it
+with uh i think we both kind of felt
+that we have similar thinking and we
+both knew that we want to build
+something together um
+2020 when we started was really the
+ideal time for us to start because
+i left facebook basically and oz was
+leaving his role and so you know we came
+together
+incredible and so you're coming together
+and and after you know a lot of really
+interesting experiences that obvi that
+it it really sounds like they they
+played a big role into the formation of
+no name and and we we don't have enough
+time to get into that now but but it is
+something that fascinates me this idea
+of how your previous experiences are at
+the end shaping in ways we understand or
+don't understand you know what we do
+today
+what is sort of your understanding about
+the market
+as you're looking at security cyber
+security and apis well
+what so the the vc that we started
+working with is cyber starts up giving
+uh so they have this process called the
+sunrise where it doesn't matter which
+idea you come in through the door with
+you're gonna fly and meet with cecil
+network off that venture capital and
+talk to them about the problem see
+whether the problem that you had in mind
+is actually the problem that they think
+is important to solve at this moment in
+time and so actually we did have a
+certain idea around this world of apis
+but we weren't settled yet we weren't we
+didn't know yet how does the solution
+how is the solution going to look like
+what exactly is the pain point so we
+flew it open
+we met with dozens of csos and we came
+back with the conclusion that
+api security is a big problem the
+current solutions that were available in
+the market does not answer the need
+and that they're willing like the
+customers are actually willing to pay in
+order to solve that big pain that they
+have
+and so that was really important uh
+to step in our journey right this this
+is what hell this what this is what
+helps
+help noting to shape its solution
+uh because without it you know we might
+have just been shooting in the dark
+right i mean at the end you know there's
+the whole ideation process and then you
+have different organizations and
+obviously gillies is amazing and
+cyberstars is amazing
+you re wha what is the the understanding
+that you reach after these meetings with
+the csos what do you really understand
+about about the world of apis you know
+more more tangibly about you know how
+can we actually go about and sure and
+provide something that is good for these
+shoes so but what we understood is that
+the csos are dealing with fragmented
+network which leads to the fact that
+they don't know where their apis are and
+they're dealing with varying fast
+development velocity much faster than
+the security velocity which leads to the
+fact that they don't know what those
+fbi's are doing so they don't know where
+they are they don't know what they're
+doing and they can even tell you that
+they're they're important they know that
+they are important they know that
+they're dealing with critical pipelines
+the combination of all three of those
+immediately translate to the fact that
+this is going to be a major attack
+vector going to be very profitable for
+cyber security attackers to to abuse
+that and so we came down to that
+conclusion that we got to help them
+understand where they are we're gonna
+help them understand what they're doing
+and we help gotta help them stop actual
+attackers from being able to
+abuse their avians so that's kind of the
+final conclusion that we can
+came up
+with
+no it sounds to me that you that you're
+entering this and if you're not really
+you're you're not looking now to at this
+point you're not looking to validate the
+problem you you are can you have a
+conviction that there's this deep
+problem
+and you pretty much know that as long as
+you really execute well on it it'll work
+right i mean people will will buy it
+this is something that is so critical
+that now it comes down to your execution
+right and i have to say no when you do
+go around and meet with customers hello
+but it's actually a feedback that we got
+pretty early on from gilly the most
+important skill that you need to have is
+listen you gotta listen and you have to
+like it's sometimes really subtle it's
+not like they'll come out and tell you
+api security is my biggest problem it's
+not going to be like that you really
+have to figure it out
+from the words they're saying and how
+they're saying it is it actually a big
+problem are they willing to pay for it
+is it really a big pain that they have
+and at this moment in time when we came
+back we were convicted that yes this is
+a major problem yes they will be willing
+to pay for it even if some of them
+weren't at this moment in time we knew
+that they're gonna get there because
+there was enough traction there was
+enough
+like we felt like this is it like that's
+the right idea and we went for it
+right
+i love it i think you're touching on an
+interesting point here you know i think
+that you know i'm imagining as a founder
+you have this idea that you want to go
+and validate and all you're really
+looking for is to finally hear somebody
+say
+this is the reason why i don't sleep at
+night right you're just waiting for that
+spark because that gives you a
+legitimacy for stopping this crazy
+process and continuing to the actual
+execution which is you know what we also
+live for right and so i i love that
+intentionality of you know i'm not
+looking for that that sentence i'm
+looking to really listen and understand
+and get that conviction that this is
+what they need now you're the the chief
+technology officer about to embark on
+executing
+on a technology that you know is going
+to be integrated in companies and and
+and protect critical infrastructure what
+is sort of your thinking process as
+you're
+designing the strategy
+for no name as a company on the
+technology side from day one um
+my intention was to be very customer
+focused so we are super super super
+customer focused everything we do is
+with high interaction with the customer
+a lot of friction with customers we're
+not just developing in a vacuum so that
+was
+really what led our strategy so we're
+really customer focused
+um we really like to say we're customer
+focused we're pedaled to the metal so
+we're really working as fast as we can
+um
+while keeping this high friction with
+customers so always discussing with
+customers always beating the market and
+this is kind of the strategy that that
+led us so if a customer is asking for
+something our answer would probably
+always be yes uh then we would always
+execute on it as fast as we can that
+that's really what led us we weren't
+like um
+you know we didn't come out with our set
+of ideas and put it in it was really a
+lot of
+the short loop this short feedback loop
+uh with the customers that built the
+product as it is to be honest
+and and do you
+how do you know whether to know whether
+your customers are
+are enough of a of an example
+that they represent you know the
+industry because at the end you you
+can't take feedback from 100 different
+companies you want to
+sort of focus and say okay this is
+representative of the greater picture of
+what i'm trying to build so how do you
+actually know whether you're right in
+that direction so we do so we do have
+cyber security background right we're
+not clueless like myself announced we
+get cyber security in the past we had a
+certain idea of what we're coming into
+um so if we were clueless it would be
+much more difficult but as we knew the
+market we could distinguish between like
+hey this is actually a big
+representative and this is the noise
+like because you do have to make some
+distinction um
+but in in them
+there was a lot in there that you know
+doing it just by ourselves wouldn't
+wouldn't have led us that way so it was
+maybe the customer feedback but also
+yeah we do have to separate between the
+noise and the the what's actually
+important right
+right so what i'm hearing here is that
+there was actually a really important
+piece here which is your own background
+and saying you know while we so we were
+we have background to be able to
+distinguish the noise and to actually
+come up with a lot of these conclusions
+ourselves but our ability to integrate
+our own background and this short
+feedback loop and ask those meaningful
+questions that is really the game
+changer here now on on a more leadership
+level internally within the organization
+it's not just about the customers you're
+also growing a team and and how many
+engineers now are you on the r d side
+so building an organization really from
+from one
+you two to a hundred what is sort of you
+know the big milestones that you've
+experienced in the growth of this
+company personally as a leader
+interesting question that's an
+interesting question um
+mime stones um there were few i think
+the first big milestone was the the
+initial deployment in a large you know
+enterprise customer bell was a big
+milestone um
+you know then starting to see the sales
+order really scaling up you know when
+this collaboration between sales and r b
+starting to tick you know starting to
+work by itself we're all not you know in
+the loops
+that that's a very bizarre feeling it's
+like it start it's like it starts
+walking by itself you know this is a
+weird thing because in the beginning
+you're holding everything with your own
+hands and suddenly you know it becomes
+its own
+living breathing organism that that was
+another major milestone
+i think the unicorn was another major
+milestone for the entire company because
+we worked so hard
+for you know two years to get to that
+point so it was almost like this huge
+celebration from within you know like
+wow we worked so hard i can't believe we
+finally made it so that was another key
+milestone those are really big
+milestones that i felt as a leader other
+than that you know everyone felt the
+hard work it's hard work you know
+working at a startup trying to build a
+massive company for a massive need
+like what i'd like to say is that when
+we came into api security um
+we were already like we had to move
+really really fast if we wanted to be
+relevant to that problem because that
+that problem was going to explode soon
+and so i told the team from day one like
+hey we don't have a choice like we could
+choose another market and then our work
+would be easier um
+but we can do it now like api security
+is it is really ready for us at this
+moment in time let's go for it we're
+gonna bust our ass but we're gonna be in
+really fast you know unicorn success
+anything that comes with it and this is
+really what we did we worked really
+really hard but not because like we
+wanted to work hard it's like the market
+pushed us to do that otherwise we would
+become irrelevant really
+it's such a cool distinction when you're
+saying that you're understanding that
+you know you think guys this this is the
+situation you know we we have this
+understanding
+the only way to really succeed in the
+situation is if we go all out so we have
+to make a decision whether we are now
+ready to go all out on this knowing that
+every hire we make is going to be
+somebody who understands this notion of
+where we're headed or we can choose that
+if we want to have a little bit of an
+easier time and we don't want to bust
+our asses every weekend and 24 7 then we
+can go to another market and but that
+maturity of understanding of this is
+what we're signing up for i think that i
+think that is something that's really
+really cool now on a personal level
+transitioning also from engineer and
+you're talking about the
+this the magic of having this thing
+become a breathing organism what is it
+like for you as you're sort of
+distancing yourself more and more from
+the
+core right from this from the lines of
+code you're now managing close to 100
+people
+what what is that experience personally
+it was really interesting experience
+though i had to say from day one i kept
+having close loop with the customers so
+then
+after i think half a year almost i
+almost transitioned fully to being
+really customer-facing so all the
+important like i was the most important
+technical aspect of the company like as
+a cto so when you need to technically
+sell something it's going to be the cto
+that is there so all the initial
+discussions um especially the technical
+discussions with customers were led by
+me and so
+i found myself like almost naturally
+going to the spot where i couldn't do
+both i can't deal with the actual coding
+and find myself in front of customers at
+the same time like there wasn't enough
+hours of the day
+and so almost naturally i found myself
+distancing there wasn't a moment in time
+in which i said okay guys by buying them
+you called this it was just natural that
+it couldn't i just couldn't get to it um
+and that's kind of how it happened i
+do you miss it sorry
+um
+i'm trying to uh
+to have at least i don't know one or two
+commits in in a quarter oh but other
+than that but at the end they're really
+small let's say they're really they're
+late but at least i see my name and uh
+at least i get to see my name and then
+the commit line but yeah
+other than that yeah but but i didn't
+miss it because there's something about
+like coding like you know creating like
+this passion to create
+coding is really a cool way to to
+achieve that but yeah i missed it but
+i'm fine you know
+fantastic well well cheyenne you know
+you're building such an amazing
+organization
+and and i think it really just
+represents and i
+this whole theme of this conversation i
+think it's the the intentionality of
+understanding you know both the
+intentionality of
+of we're going on this mission to first
+ideate and to find what we're looking
+for with some of the best people in the
+world with your co-founder oz with your
+with with gili but then once you find it
+you're again continuing with that same
+intentionality intentional mindset of
+saying okay now that we've we understand
+what we need to do we can actually see
+what is going to what it's going to take
+from us and are we ready and are we
+mature enough internally to go about
+this exact mission that we're on and if
+we succeed then in two years we'll be a
+unicorn and that's exactly what happened
+so shy i really want to thank you for
+the the inspiration and the awesome 20
+minutes i loved it i learned a lot and
+best of luck with your name stay safe
+and stay healthy

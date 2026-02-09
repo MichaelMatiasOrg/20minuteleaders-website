@@ -1,0 +1,592 @@
+the job of product management on all
+levels is be able to connect the dots
+for people and make them excited and
+kind of see the light about something
+and this that's just amazing to me it's
+an amazing thing
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright xl
+hello and welcome to 20 minute leaders
+today we are with opher geyer the vp of
+productive hunters a soc platform which
+aims to disrupt the s-i-e-m category his
+role includes overseeing all aspects of
+product vision strategy road map and
+user experience collaborating with
+leaders across the company to make the
+vision a reality alpha recently returned
+to israel after spending six years in
+san francisco and prior to hunters offer
+managed a variety of cyber security
+product lines and teams at exa beam and
+imperva
+before transitioning into product he was
+a security researcher at in capsula and
+an idf intelligence officer
+thank you so much for joining me
+um you know it's such an awesome career
+trajectory
+from spending time as a captain in the
+idf and some in some of the most
+incredible places within the
+intelligence units to being a senior
+product manager at imperva to exit beam
+and today vice president of product at
+series c company hunters um really one
+of the greatest prides in the israeli
+tech scene is been making a lot of buzz
+lately and and i'm excited to sort of
+understand
+your positioning better in in the
+product sphere and what that means to
+you
+a little bit about your journey within
+product abroad and in israel and perhaps
+some of the differences but then
+it just as interestingly product within
+security and what is that like and so
+thank you very much for joining me today
+thank you for having me so yeah i i
+started off when i when i kind of left
+the military i was having fun in the
+military it's always interesting it's
+intelligence work it's very sexy but i
+was like i want to see what's out there
+well don't wait i don't like inertia i
+really like to kind of move away from my
+comfort zone as much as possible over
+time kind of you can see that with every
+step that i kind of took so i was like
+let me see what's out there i joined a
+company called encapsula um
+early pretty early on 30-something
+employees
+uh things that we today call product-led
+growth so a sas
+uh cloud platform and in 2013 was kind
+of novel uh i joined there as a security
+researcher um
+i was very enthusiastic about doing some
+you know in the wild defending versus
+intelligence awards it's usually on the
+more offending side
+um
+and we're kind of really hitting amazing
+product market fit what i know today to
+be amazing product markets fit and kind
+of exploded
+and i we were small enough for me to get
+kind of good kind of optics into okay
+this is a company making a lot of
+aggressive decisions
+uh they work really well and
+understanding kind of oh there's a
+business side and that kind of really
+intrigued me
+after a couple years i kind of moved
+into
+um
+our senior roles and when i relocated
+shortly after i kind of moved into
+product management having this
+conversation with my
+my managers at the time i really fell in
+love with the business side right
+um
+so
+yeah so i moved to the business side i
+wanted to do more than just security
+research yeah
+so what what really was this what
+made this shift for you because you're
+spending so much time
+as as a senior researcher really and and
+you know spending seven years in the in
+the in the idf in in some of the most
+intensive research oriented groups you
+really learn you know the the art of
+researching and and deep tech and so
+what really made you say okay actually i
+want to take now what i learned but
+explore this in in more of a business
+context how how did that happen
+i i loved security research i feel i'm
+still kind of being in touch with a lot
+of security groups and i have a lot of
+people in in proper security research in
+my life
+but i felt like i wanted to create
+bigger impact
+for the company that i'm part of
+security research is is one part of it
+and i always felt like there's some
+ceiling in the type of impact you can do
+when only looking super deep in one area
+and product really gave me that ability
+to drive a lot more impact also felt
+like i have some sort of
+some sort of advantage because i am able
+to talk security and talk business and
+talk to customers and kind of
+be that
+uh focal point between everybody uh so i
+feel like this is something i can do
+uh do well and have fun doing
+right okay so and so looking back now
+many years later are you able to sort of
+distill
+what what was it that that captured
+that captured you so now that you've
+been doing this for for quite some time
+and you've held numerous positions is it
+still this
+is it still what you thought when you
+transitioned into this world i i didn't
+know any like
+if you haven't done product management
+before it's very different than what it
+is in practice
+but what i really love what i really
+enjoy is these moments of absolute
+clarity when something just clicks
+you're able to crack something like okay
+this is where the market is going this
+is what customers don't understand or
+this is what our engineering doesn't get
+and i'm able to
+connect dots for other people
+and then they now understand something
+they have and this is this is how i see
+the job of product management on all
+levels is be able to connect the dots
+for people and make them excited and
+kind of see the light about something
+and this that's just amazing to me it's
+an amazing feeling
+and so
+specifically for diving into product
+within
+security
+um whether it's in the world of hunters
+or imperva
+is that is that dramatically different
+than
+product
+at other perhaps verticals is there
+different thinking that needs to take
+place different experience that one
+needs to have
+yeah definitely so i think in two
+aspects it's very different right so
+one aspect is the type of expectation
+that uh customers or users have from a
+security product they usually think of
+something that super tech savvy
+complicated services heavy
+um
+and that's the type of persona that they
+think about right it's also the persona
+itself is super technical that's how
+they perceive it
+but what i have come to realize is
+security is just lagging behind just the
+rest of the product world and just
+making things simple and easy to use
+so
+although we're not kind of b2c product
+managers that keep thinking about small
+features that delight the users
+we're definitely not doing a great job
+in a lot of products to just make the
+product easy
+and the products that are able to make
+the job easy for that customer or the
+ones that win it doesn't matter if you
+have some amazing engine that you
+developed
+if your customer is unable to take
+advantage of it because it's just too
+complicated and it's not easy to consume
+i think this is and here's where we sort
+of
+this is where we sort of divert from
+perhaps the classical
+literature on on research and security
+right because in researchers you would
+say well my role is to find the most
+meaningful insights with whatever crazy
+technology i'm building and really
+highly trained people will make use of
+this of this engine but you're saying
+wait the world works a little bit
+differently
+and we have to actually account for that
+yeah i use had the conversation with
+with a friend of mine and you say you
+know when i was a researcher and he was
+one of the top researchers in some
+company and he said i thought that the
+most exciting thing and most important
+thing for security company is to be able
+to find zero days right and if you don't
+find zero days in water what is it that
+you're doing
+and then
+i i joined here i'm looking at it i'm
+working on a product and i was like
+we're at stage zero
+stage one stage three and zero days is
+like some something that's over the
+horizon for most customers they're not
+even getting started with a lot of their
+security needs right that's kind of like
+aha moment for a lot of security
+researchers that kind of
+start work working more with product and
+not just finding the bad guys in the
+most
+in the coolest way
+incredible and so if you're looking
+today at
+sort of bridging this gap and
+you as a researcher you as a user and at
+the end is a product manager bridging
+the gap between the world and
+research
+right
+how do you balance that and sort of how
+do you know to prioritize
+all all this big you know mess together
+into one coherent strategy of this is
+how we should do things and and and
+especially in a place where you have a
+lot of other people that are competing
+with you for speed for agility for for
+ease of use
+exactly so
+i think our
+what we look at is looking at what our
+customers trying to achieve and then
+figuring out what's the best way to help
+them achieve that in the easiest way in
+the most predictable way
+customers especially in the security
+space
+they really want someone they're looking
+for kind of a sherpa to help them
+and say i know what the security threat
+is that you're trying to tackle
+here's what it is and i have the recipe
+to how to tackle it and if you follow
+these simple rules and use this simple
+platform you're able to protect against
+these threads instead of saying listen
+there's a lot of things you can do with
+the platform so here's a bunch of stuff
+and you can figure it out and we can use
+services and
+this very vague approach to security
+right
+telling you everything but the kitchen
+sink kind of and i'm not very kind of
+let's focus on what matters the most to
+you
+customer and have a very clear way to to
+achieve
+to to kind of mitigate this this risk
+this is this is your top risk let's
+mitigate that risk for you and have it
+in a very prescriptive manner
+i think that is a very honest candid
+approach to security versus having a
+little bit of everything but really
+you're not covering
+most of your attack surface it's about
+looking at your attack surface and then
+figuring out how do i prioritize and
+what assurance do i really have that i'm
+covering something
+yeah
+so i'd love to
+sort of pick your brain on this because
+you would assume
+that
+there are some fields in the world that
+are going to stay
+with high friction and high barrier to
+entry where really you do need some
+expertise in order to deal with it right
+for example in if you want to be a
+doctor you still have to study for i
+don't know seven or eight years in order
+to treat patients but it almost feels
+like today's cyber security platforms
+are in are making it easier for people
+to have less experience
+be able to resolve more within their
+organizations and i understand that
+perhaps that is coming is because of a
+lack of
+experienced people and so companies have
+to adapt and therefore
+products after that is this the right
+way to go about this do you think that
+that we should be building products that
+make it simpler rather than perhaps
+empowering the experts within
+organizations
+i think it's about a point but i do
+think that most products out there today
+they just add another thing to look at
+not necessarily make that thing simpler
+so we now have a tank on let's say
+kubernetes
+or lambda functions or whatever right
+and now i have another thing
+to look at
+um that covers yet another attack
+surface which is great it's important to
+have that
+but someone needs to help
+the underlying the end customer which is
+one team eventually that needs to cover
+all these different things that are
+changing and say right hey i'm here to
+help and figure out out of all these
+different signals all these different
+things here's what it is
+because like he said it's it's very hard
+for that person to be an expert
+that person that's that's the the
+bottleneck today right
+and nobody can be an expert on so many
+fields in security i was a researcher i
+was pretty good in application security
+i'm not an expert at endpoint security
+you asked me to to reverse engineer
+malware i don't know how to do that i'm
+pretty good with world application
+security and ddos i can talk about that
+probably for a few hours right most
+security people they have some scope
+where they're the expert on and the
+problem is
+you can't just say oh you know as a
+company we're gonna focus on web
+application security because big
+companies they have everything right so
+how can we take that everything
+and distill it to something that's
+consumable by the average joe
+um
+or jan in a sock i think that's that's
+that's an amazing challenge to look at
+because that really moves the needle for
+companies right
+i i love that understanding because
+you're right i mean at the end
+it's expanding
+in a ridiculous way and and it
+internal teams within organizations
+can't possibly keep up with everything
+new that's going on and so um even even
+if what i said before has some ground to
+it it's still lacking this very
+fundamental idea that
+you know every day there's new things
+that are popping up that we just have
+that we just don't have visibility into
+and we
+necessarily don't have the capacity to
+deal with
+you had a unique experience as well
+venturing out and doing product
+management
+back in back in california doing it back
+in israel the startup nation ecosystem
+obviously is is growing and product
+is that i think there's an agreement
+that product is still something that you
+know we're developing a skill for
+it's still a work in progress
+how do you see it you've experienced you
+know both sides now
+what were some of your impressions
+yeah the it's it's
+it's very interesting to kind of i've
+been like been back for six months now
+and i'm looking at different things and
+culturally in product that are different
+so
+for example israelis they we have a huge
+tendency to to go directly to solutions
+and we don't really learn to to talk
+about the problem and really the still
+we're like okay let's go go go go go go
+go
+but in the product our job first and
+foremost is to say stop why why why why
+why an israelis are go go go go go so
+that kind of creates a a interesting
+kind of not conflict but contradiction
+or
+attention there um another thing is
+um israelis um because of the cultural
+differences sometimes most companies
+most bdd software companies the big
+business it's in north america right
+and when they talk to customers they
+don't pick up on the nuance of what the
+customer is actually telling you
+right so they say oh they we had a great
+conversation
+right
+he had an okay conversation or maybe he
+was not very good at all they were not
+happy they're not gonna tell you you
+know to your face like an israeli right
+so you it's it's a combination of slight
+confirmation bias but also cultural
+differences are very interesting that
+now that i talk to a customer and look
+at around the room and sometimes like
+that's not let's listen to what we're
+being told here because that's not
+necessarily they're not necessarily
+happy or they're very happy
+um but they truly are happy and here's
+here's how we can how we can tell right
+no you know it almost feels like an
+an understanding like this can't come
+from
+from a textbook or from mentorship or
+from or from simply experiencing it in
+israel i mean it kind of feels like you
+you sort of have to
+live through those experiences get those
+sort of
+uh you get that friction yourself
+in order to have that
+ability to to even notice it right
+yeah exactly and sometimes people are
+here listen you have experienced pms in
+israel that have experienced it but they
+don't understand maybe why they will say
+you know it's it's uh
+you know this customer was annoying they
+told me one thing but sometimes but it's
+not it's just cultural differences they
+but you if you live it if you if you
+live in the us and it surrounds you like
+okay um there's just other are there
+cues to to pick up on uh versus an
+israeli that's it it's not really
+picking up you know it's just like it's
+in your face
+um yeah and i think that i you know it's
+conversation i've been having a lot
+lately with different people about you
+know giving giving more credit to
+to these cultural differences
+and not assuming that one culture
+perhaps is
+is the is the right one or the better
+one in terms of these communication
+because at the end
+um
+that that just leads to points of
+failure right i mean you have there's
+there's a system that is very
+complicated that's built on hundreds of
+years of of you know capitalism and
+innovation
+there's a reason why the country why you
+know this country succeeds in what it
+does and there's also a reason why
+israel succeeds in what it does and
+people who are able to merge
+sounds like they have sort of a
+superpower right
+yeah exactly exactly and you need to
+find the right altitude for the right
+phase of your company right whatever
+works for you is a 10 person company me
+probably doesn't work for 50 probably
+doesn't work for 150 right
+and 500 not a lot of com not a lot of
+israeli companies really uh are doing
+well at above 500 right you can see that
+a lot of execs come start pouring in
+from
+uh from the us sometimes to to bridge up
+culture
+of do you miss researching do you miss
+sitting down for days and weeks and
+sort of slamming your head on the table
+and trying to figure out
+you know
+what is happening
+i i don't miss that part i sometimes
+miss just having the level of kind of
+scientific clarity that i cracked
+something because pm is a lot of kind of
+experience and
+you're working with a lot of unknowns
+and you're trying to build your company
+and make it grow right in research it's
+very kind of there's a good dichotomy
+like i was able to to to address that
+issue i was able to crack that very kind
+of clear cut and sometimes it's just it
+makes it easy it's a lot less of a
+mental toll right it's like i know i
+fixed it it's 100 right p.m you can make
+a decision
+and you have a good gut feeling but
+it it's working this week it's working
+that week third week oh that actually
+we're
+we're missing or we're not missing okay
+fourth week it's always kind of an up
+and down
+so it might be fun to kind of have
+something that's a bit like okay i'm
+done for the day i i know exactly what i
+need pm is always like open-ended it's
+it's part of staying out of the comfort
+zone that i like so much but sometimes
+you just want to you know take a rest
+but
+i love it
+it it it sounds incredible and i and and
+personally it sounds very fulfilling to
+be able to hold both pieces of the
+puzzle and and to both have that
+scientific capacity
+but also the ability to to lead product
+teams and lead visions of how to take
+these scientific understandings
+translate them to the real world make a
+business impact understand culturally
+how to do that globally
+and grow that experience over time which
+sounds okay just a fascinating journey
+so alpha thank you so much for this time
+and for your for your energy and for
+your impact on our ecosystem and uh best
+of luck with the with hunters and stay
+safe and stay healthy
+thank you so much for having me was a
+blast
+take care thank you
+[Music]

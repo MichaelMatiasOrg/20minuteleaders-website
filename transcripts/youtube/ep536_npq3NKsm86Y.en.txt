@@ -1,0 +1,643 @@
+it's all about people it's it's people
+doing business with people you have to
+build those relationships you have to
+build that kind of trust
+and and you know you're in this uh let's
+say in this game
+and and the best way to to make it
+happen is to always strive for finding
+the win-win you know so if you can find
+the win-win where the customer is happy
+and he gets a win and and you are happy
+because you know you obviously won you
+got a new customer that's the best way
+to achieve success
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opwest hillel stanford leap
+and birthright excel
+this episode is all about databases
+microseconds fulfillment
+welcome ami
+novich general manager of aerospike
+israel
+he is a technology geek with over 20
+years of experience in the world of
+databases and is eager to continuously
+learn and improve while removing
+obstacles out of his way
+he is keen to reach success and always
+strive to achieve a true win-win and
+believes that doing business is all
+about the people and finding the shared
+road to success
+for eight years he's worked for john
+bryce and delivered technical database
+training for thousands of people
+globally following that he founded his
+training and services boutique company
+and after 10 years he had the
+opportunity to kick-start the aerospike
+israel entity which has been leading
+since 2018.
+welcome to 20 minute leaders how are you
+today i'm perfectly fine good morning
+thank you for having me i'm i'm great
+yourself i'm i'm fantastic thank you
+very much for joining me today uh we're
+gonna be talking about databases a
+little bit of music a little bit about
+your own journey and and what you've
+learned over there over your
+your uh
+you know experiences whether it be an
+education through john bryce or now at
+aerospike and i'd love for you to start
+by walking me through
+your career a little bit and and start
+me off with your entrance to the whole
+database world and and i think what i
+really want to try to understand is how
+do you get to become so passionate about
+this topic
+well
+um
+i think uh you know i can say that uh
+the fact that i'm today a database geek
+you can say
+is probably kind of like a coincidence
+maybe it was i don't know faith
+um so
+so when i when i started my journey my
+professional journey you'd say on you
+know being a high-tech geek it was um
+about mid-2000
+i'm a little old so like 21 years ago
+um i i basically just did a john bryce
+training
+um that was focused on building a
+website you know we're talking about the
+year 2000 everyone needs a website
+and i did this uh what was used to be
+called the webmaster training
+and i was basically learning you know
+basic programming and creating websites
+like html and stuff you know back in the
+year 2000
+in the end of that
+of that course of that training which
+was like a three months educational
+training
+um i got a couple of proposals you know
+to be a webmaster for this website and
+that website and another and then there
+was a one specific uh uh proposal that
+was more interesting to me than others
+which was to become a john bryce uh
+trainer instructor to to actually uh
+stay
+working for john boss as a as a
+technical instructor and then i had to
+do my like audition you know the screen
+test so i had to deliver something like
+a 15 20 minutes of training
+and i did a basic html training
+like really basic stuff that every kid
+can probably do it today
+and you know i don't know maybe i was
+lucky but one of the guys that was
+actually sitting in that room and and
+watching me doing that audition he was
+leading the database team at john rice
+at that point of time and by the end of
+that 20 minutes edition he said
+i like you i like the way you train i
+like the way you deliver you know the
+content and everything how you explain
+everything i want you to come and walk
+for my team and i said okay well what
+does it mean what am i going to do that
+he said
+it's the database team you're going to
+learn oracle and sql all this kind of
+stuff you know nothing about it leave it
+to us we'll learn we'll teach you you
+will learn everything will be fine and
+like three months later
+or maybe four months later at most i was
+delivering my first uh oracle database
+programming training in in champaign
+illinois so it was really it was like
+crazy start and and you know the rest is
+history so uh that's how i started my
+journey with databases and during the
+eight years that i was working there
+from 2000 2008 i did
+i don't know hundreds maybe thousands of
+trainings globally all over the world in
+obviously in israel of course but also
+in the states and in europe and in many
+many countries in many many companies
+and i got to meet
+lots of lots of lots of people and and
+many of the database administrators back
+in those years that learned oracle or
+other database related courses we
+probably met at some point of time so
+that's where it all started amazing and
+so
+tell me a little bit about what you
+learned
+about teaching databases you know in
+those eight years because i guess one of
+the things that
+and and you know i i don't know if it
+was socrates or somebody said the best
+way to become an expert in something is
+to teach it to somebody else right and
+and so
+what was it like for you those eight
+years you're teaching this material
+how does how is your relationship
+changing with the material as you're
+teaching it
+so
+where it's very hard actually to start
+because
+it always feels like you have to learn a
+lot and then you have to be
+better than anyone else that you're
+going to teach because you you know you
+have to be ready for each and every
+question and an example and
+and it's a big challenge but i think
+that's one of the things that i
+you know that is mostly exciting for me
+the fact that i know that i have a
+challenge and then how i strive to to to
+to get to that challenge you know to um
+to be in that in that in that place in
+my life where i can say okay i made it
+and now next challenge so it was a huge
+challenge for me and and i think that
+you know i learned a lot and and
+constantly learning and constantly
+getting better is is part of my
+day-to-day
+and uh you know database is kind of like
+i sometimes i need i'm trying to you
+know to explain it to people that are
+less familiar with the high tech and
+technologies and everything it's kind of
+like if you if you think about like
+something like a car and you need to
+drive somewhere that's basically like
+the engine
+not many people want to know how exactly
+the engine walks and how exactly you
+know
+to fix it and to tune it if it makes you
+some you know troubles and stuff many
+people just like to go into the car and
+drive it maybe you prefer to
+um you know learn about the ui how it
+how things
+look like and and more be at the front
+and databases is all about the engine
+it's all about you know the
+infrastructure and
+and it fascinated me because the thing
+that you can do with the databases and
+and how it can impact
+the entire application you know today
+fast forward 20 years
+later with the world of digital and with
+the world of real time
+20 years ago we used to talk about
+having hundreds of users using the
+database at once 100 user maybe a
+thousand user wow that's like a big
+application can have 1 000 user at the
+same time if you look at the gaming
+applications today just as an example
+you'll find hundreds of thousands of
+people using that application at once
+and and if you think about things like
+paypal and and sony and all those kind
+of monsters you'll find millions of
+people that are using those kind of
+applications at once the databases are
+completely in different places than they
+used to be like 20 years ago you don't
+talk about database from tens or
+hundreds of users you talk about
+millions of users and databases have
+billions of records today numbers that
+were not really that relevant 20 21
+years ago when i started this kind of
+journey so it's really fascinating for
+me and constantly learning and getting
+better and learning more and more about
+the technology and the use cases and and
+what are the kind of things that you can
+enable that you can empower using your
+your database technology
+those are the stuff that are really
+fascinating i believe and so one of the
+things that you also mentioned to me
+previously is this idea that of our
+expectation in terms of latency and and
+the the optimization of databases and
+and it's no longer just a it's no longer
+just a
+and a place where that allows us to
+store information now it's actually it
+is a critical infrastructure and the
+critical part of it is also the fact
+that we need sometimes data in
+microseconds not in seconds or in
+minutes right definitely definitely well
+while we used to talk about like second
+so i will get my query processed by the
+database like in a second while that's
+fast today we talk about microseconds so
+you know think about an autonomous
+vehicle that constantly gets data in
+real time it doesn't have a second
+to make a decision right why need to go
+here or do i need to go there okay think
+about
+we mentioned a few minutes ago we
+mentioned something like paypal a
+digital experience you have to
+move money from one place to another you
+have to do it at real time you don't
+have a second to decide if this is a
+fraud or if this is a real user that is
+actually trying to you know transfer
+money from one place to another right
+there are plenty of applications that we
+are using today especially since you
+know everything moved to this to this
+piece
+um
+where every microsecond really makes a
+difference every microsecond matters
+okay so
+you know if you think about those kind
+of applications
+in in in a second you might have to
+check hundreds of different parameters
+and make hundreds of decisions whether
+you should do this or you should do that
+and and you know thinking about uh we
+talked about cyber for example thinking
+about those cyber
+uh um uh examples you don't have a
+second to make a decision you have
+microseconds where you can need whether
+you will need to
+you know check plenty of different
+parameters and and aspects and make the
+right decision
+about what is actually going on and what
+should i do with this
+cyber fraud
+game okay just a gaming experience
+you're simply just playing on your
+on your iphone or android or whatever
+you can't really wait a few seconds to
+get your scores or to get to the next
+level or whatever you just stop using
+that game and switch to another game
+right or on a website if you want to
+purchase something right right so it's a
+different world today where we live in
+and the databases has to keep up with
+those with that kind of demand for for
+the users for the throughput for the
+latency
+and also being uptime
+all the time you can't really afford
+yourself to be down you know i had a
+conversation with with someone about i
+don't know like two weeks ago
+the database that they were
+using
+actually caused them a fail a downtime
+and and the entire application this is
+like a digital application something
+that has to be online used for online
+trading they were done for like 15 hours
+okay that causes you millions of dollars
+of losses right so you have to be
+constantly up like five nines constantly
+up uptime
+you have to be global obviously because
+it doesn't matter if you are
+you know a mobile application that was
+developed in ukraine in israel or
+wherever it's going to be used globally
+hopefully that that's your goal and you
+have to support those hundreds of
+thousands of millions of users playing
+at the same time or using that
+application at the same time and also
+very very low latencies microseconds
+that that matters that that's where we
+are today with databases right and so
+you know a lot of things that you're
+mentioning now
+i think are a great segue to your
+current position in aerospike your
+country manager for israel you've been
+there for for quite a few years
+previously and you were also the ceo of
+of brelix and and db access and
+you know with
+within aerospike
+what are you learning about you know
+working with enterprise customers and
+how do you instill either a source of
+security in terms of the latency because
+obviously at the end promises are great
+but you know the world is moving more to
+to this microseconds there's a it's a
+very crowded market and you know it's a
+lot of responsibility to go to another
+company and say we're going to be
+helping you manage your your databases
+and and you're going to have to trust us
+that we're going to be there for you and
+you're not going to lose those millions
+of dollars so how do you even
+strategically go about thinking through
+providing a service like that
+so i i think one of the main challenges
+today in our market and and
+you got it really really perfectly well
+you know what exactly we have there in
+terms of uh you know throughput latency
+all the stuff that we talked about one
+of the main challenges is the scale so
+you know if we look back at israel as an
+ecosystem you know for startups we used
+to be called as you probably know the
+startup nation right
+but if we look at what is going on in
+our country in like the last year or two
+years it's not really a startup nation
+anymore it's a scale-up nation with all
+those huge companies that we
+we keep hearing the last few only the
+last two weeks i think we had last week
+we had like three or four companies that
+went public like in two days maybe even
+in the same day with tabula and and
+peony and and whatever you know so many
+names
+so it's not only that game of the real
+time and microseconds the thing we
+talked about and like the latency it's
+also the scale so many of those
+companies started
+four years ago seven years ago ten years
+ago with a smaller scale but today they
+have to cope with huge scales of data
+and huge scales of users
+and this is you know one of the
+biggest challenges
+that uh is at least as i said for my you
+mentioned the fact that i'm the country
+manager for oil spikes so
+when i was first introduced to aerospike
+i i've been a database guy for many
+years as we said and i came from the
+relational databases
+and when i was first introduced to
+aerospike which was in 2016
+so okay
+it's a database that can do you know
+lots of throughput and very low latency
+and okay great performance
+but the the big thing is the scale
+because many databases can work really
+fast and really great for like 100
+gigabyte of data but what happens when
+it's a hundred terabyte of data okay and
+and today in israel
+uh you know working with companies like
+apps flyers working with companies like
+iron source working with companies like
+platika and cyberis and all those
+extremely growing fast companies some of
+them are already public some of them
+will for sure become public very soon
+the scale is there is the main thing so
+it's not only you have to be fast and
+and great and up but you have to do it
+in a scale of like tens and hundreds of
+terabytes
+and and and that's really you know it's
+a huge challenge
+uh i don't want to bore you with things
+like how exactly you know the database
+engine works but let's just say that
+the fact that we can optimize the way we
+use the hardware gives us the ability to
+walk at any scale from gigabytes to
+terabytes and and to petabytes even and
+basically solve any real-time
+any real-time application requirements
+where you need high flow put low latency
+much much lower footprint server-wise so
+it's also easier to manage it and and
+this is exactly you know the places
+where we shine where we need that
+throughput and latency and you need it
+at scale so those are and that's
+fascinating
+i believe that that's what is
+encouraging me you know every day to
+meet those guys where they have those
+you see sometimes it can be a company
+with 70 people over 100 people like a
+tiny company from israel
+somewhere in the center of tel aviv you
+know a small startup but their scale is
+like hundreds of terabytes of data every
+day so that's really yeah
+so when you
+when you talk about the relationships
+with these companies
+this trust what have you learned about
+building this trust
+and conveying it
+at the end you know you're working with
+enterprises the technology can be great
+they're not going in they're not looking
+at your hardware and you're not bringing
+them into your code base right you have
+to form some sort of relationship so
+that they they install this trust in you
+what did you learn about forming this
+trust
+with a lot of these clients that you
+mentioned
+great question so
+it's all about relationships it's not
+about
+you know doing business with brands with
+companies with logos
+it's all about doing business with
+people it's people doing business with
+people and and it doesn't matter
+if you're a small company a large
+company an israeli company a us company
+one of the things that i also had to you
+know start
+uh learning and adjust
+as you mentioned i used to work for john
+bryce i had my own business that i but i
+started and managed for like 10 years
+it's different to be part of a
+a u.s company you know a corporate which
+is global with offices all around the
+world but at the end of the day it
+doesn't matter if it's us or israeli or
+german or you know a huge company uh or
+a startup it's all about people it's
+it's people doing business with people
+you have to build those relationships
+you have to build that kind of trust and
+and you know you're in this uh let's say
+in this game
+and and the best way to to make it
+happen is to always strive for finding
+the win-win
+you know so if you can find the win-win
+where the customer is happy and he gets
+a win and and you are happy because you
+know you obviously won you got a new
+customer that's the best way to achieve
+success i i love it i love this
+conversation and um thank you so so much
+for coming here i have a few last short
+questions that i want to ask not about
+databases or about aerospike but about
+you and i want to take you back to your
+childhood what really what fascinated
+you as a kid before you got introduced
+to even html or our databases
+um
+i think three main things it's gonna
+it's gonna sound a little maybe four
+things three things from school and the
+other one is outside of school so
+school-wise you know learning-wise it's
+going to sound very geeky but i really
+liked mathematics
+english
+and later on when i started learning
+computers and that was in in high school
+all the others i was like if you look at
+my
+certification from like high school
+you'll see everything is like very much
+poor
+but those were like the three main
+topics that i really liked and and it
+also
+it worked better for me there you know
+comparing to the other stuff that i
+learned and did and the other thing is
+that um you know many people actually
+don't know that but i used to play the
+keyboards
+so i played the piano in the organ since
+like i was six years old
+for like 12 years until
+the army
+and um you know i think also today when
+i look at
+what i did there in my 12 years there
+and and what i did later on is being an
+engineer a database gig a high tech geek
+there are there are many things that i
+can see that you know i did there as a
+musician because i was basically you can
+say that i was on the on the path to
+becoming a professional musician
+some of the the friends that i you know
+that i played with back then a great
+musicians today and some of them are
+really famous and very popular and
+the kind of creativity that you need in
+being a musician is sometimes the kind
+of creativity that you need even today
+when you are an engineer or you know
+where you're developing
+programs and writing code
+that's one type of creativity that's
+another type of criteria but it's the
+same kind of creativity that that you
+know you can still use it today i'm
+still playing the kibo it's just
+a different type of keyboard you know
+but
+i love it i love it and so what inspires
+you today as you go about your day today
+in aerospike
+um
+sometimes you know i try to think about
+things like role models and stuff like
+that but honestly
+instead of just saying that you know she
+is a role model or he is a moral model
+like i i think that in general
+as long as you constantly
+you know have a challenge in life and
+you strive to do your best to learn to
+improve and to achieve that challenge
+and and the way to do it you the road to
+success is full of creating those
+relationships and partnerships
+working with people it's all about
+people like i said before and and
+finding the the best shared way to
+success
+if anyone has that kind of mindset and
+the goal and he or she is doing his best
+her best to to achieve that that can be
+a perfect role whether you're a
+politician
+uh you know someone like jai lapid for
+example he had a challenge a huge
+challenge and he put aside his ego and
+everything else that he has to do to
+achieve that challenge and and and
+whether your gal gadot and and she had
+her own challenge and she wanted to be
+an actress and the best one and you know
+being in in in those huge films like
+wonder woman and she made it so as long
+as you have that challenge in life and
+you constantly strive to achieve it and
+you're looking for that best shared
+partnership way to achieve that win-win
+that's a role model for me
+and what are three words you would use
+to describe yourself
+um
+i'm a people's people
+i'm a people's person
+people's person ami
+thank you very much michael thanks a lot
+it was a pleasure thank you take care

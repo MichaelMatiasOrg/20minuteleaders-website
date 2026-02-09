@@ -1,0 +1,882 @@
+You know, for one that listens to a lot
+of security podcasts, I can tell you
+that the one thing that gets repeated
+all the time is don't be the department
+of no. Like do the be the department of
+yes, but so that that's really what I
+try to do. I say, okay, fine. That's a
+business requirement. This is your own
+personal need. You you have some urgency
+around some of the things that you want
+to do as well. So, we're not here to
+stop you. We're here to support you. And
+in order to support you, we need to be
+able to also follow a certain process
+that make sure that you're secure in
+what you're doing. Um, at the end of the
+day, it is your accountability, your
+responsibility towards the organization
+to make sure that you are not the
+conduit to an attack and for that we are
+here to help you achieve that. And as
+soon as you put on put that message that
+it's their accountability, their
+responsibility, we're there to support
+them. I think the story changes there.
+They typically would come to you for
+help. They would come to you for advice,
+which is what we try to to give.
+Aiar, welcome to the human zero day. So
+glad to have you with us. How are you?
+&gt;&gt; I'm doing all right. Late on a Thursday
+night, almost the end of the week here.
+So ready to do this as the last thing on
+my work week.
+&gt;&gt; Awesome. Great. Well, this is not going
+to be work. This is going to be fun and
+we're going to work hard and play hard
+and um really excited for this AI
+because we've been talking offline quite
+a bit about the human zero day and the
+human vulnerabilities. This show is all
+about the the human zero day, which is
+effectively the way that attackers
+leverage humans as as a zero day victims
+to new social engineering attacks,
+fishing attacks. Um, you know, we've
+we're we're spending so much time and
+energy and effort protecting the core
+assets, the crown jewels of our
+organizations, of our critical
+infrastructure. And at the end of the
+day, we have humans in the front line,
+and we have lots of them. It's still to
+until today humans are what drive the
+organization. Maybe in a few years
+that'll change to AI agents and then
+we'll have different problems but for
+now the brain is a is a a vulnerable
+aspect and so I'm really happy to have
+you here AI today. You're the global
+chief information security officer of
+Boltte. Um and um I I want to get
+started a little bit hearing your own
+journey getting into security, getting
+into this concept called the chief
+information security officer and what
+that means to you.
+&gt;&gt; Well, I I actually started my journey I
+don't even know how many years ago. Um
+started with it before security was a
+thing. Um my first job was actually even
+not it. I used to do technical support
+for something called Word Perfect. If
+anybody has ever heard of it, it's it
+was um the main word processor before
+Word was a popular word processor. Even
+before Windows was popular back in the
+good old those days and I I ran
+technical support um and my journey led
+me to a company that you may know called
+Noville. Noville was um networking
+company. I was doing technical support
+there. Um did a bunch of certifications
+which led me to IT management positions
+which I ran for quite some time. All of
+that actually happened in Australia in
+Sydney and um I in fact um was there I
+was born in Israel but I moved to
+Australia with my parents and that's
+when you know I finished um high school
+and university there. I did computer
+science at the time. Um in Australia
+unlike other locations like say Israel
+or even um even um California there's
+not a lot of R&amp;D. It's mostly around
+finance um technical hubs for support.
+So that's what I really um was um
+involved with even though I did computer
+science which is all about programming.
+So I I really didn't do a lot um with my
+degree to some extent. Um for those of
+you that are watching that do computer
+science degrees, don't fret. I'm sure
+there's lots of usage of it. Um but at
+the end of the day, it kind of led me
+down the path of IT management. So I was
+an IT manager for quite a number of
+years. Um, I ran IT departments in
+Australia and then I actually moved back
+to Israel. I met my wife here and I
+moved back to Israel. I ran IT I was the
+IT manager for Zoom Info if um you know
+the company. Um, funny story that's
+actually my uncle started that company
+back in the US and um he wanted to move
+back to Israel and he offered me a job
+um a little comp company family
+connections there. So he offered me a
+job in Israel and I moved back um for
+that job and I met my wife here and um I
+was doing that job probably until 2008
+and then I ended up going into another
+IT management position at a company
+called Bolt. Um so um Bolt and Bolt
+sound very similar and the fact is that
+Bolt was the predecessor to Bolt um had
+lots of um US companies as our customers
+and mostly around the insurance
+industry. So Introtech is basically what
+we do um I was running it and then um
+you know in in IT it's all about
+security at the end of the day. Um even
+before it was called security we were
+doing security um you know 30 years ago
+or so. Um but I was ended up juggling it
+security at some point also DevOps and
+at some point I said it's it's probably
+too much and it's also a conflict of
+interest in a way. So what we decided to
+do is we decided to set up different
+functions for those different areas of
+the business. So I took over security um
+completely I became the CISO for the
+company even though before that I was
+kind of head of IT, head of security,
+head of DevOps. Um so I took on the CISO
+title and ultimately um we had we
+brought in new people to run it, new
+people to run DevOps and I became a
+full-time CISO which has been fun ever
+since. Um during that time um the
+company that I worked for Bolt was
+acquired and ultimately now work for a
+company called Boltech which is in fact
+a a parent company for both. We're a
+large organization. We're about 2,000
+people spread across something like 40
+different countries. So, it's a
+different um different environment to
+you know what what I was doing and used
+to beforehand. But, um it's a nice and
+it's a challenge. So,
+&gt;&gt; I love it. Okay. So, so huge huge
+transitions and progressions and
+evolutions. Um 2,000 people is a lot of
+people. This show is all about people
+and um looking from the side just feels
+like the the importance of being on top
+of the attack vectors that could that
+could impact an organization those are
+quite critical and and what I'd like to
+start with is is hear a little bit from
+you how how do you as CISO of a large
+organization how do you even assess what
+to work on you know what you know you
+have so many different things to do so
+many different things to accomplish
+you came from a very hands-on approach
+in it. So you you know the the nuts and
+bolts dependent on to to on what needs
+to get done. How do you then compromise
+your own time, energy and resources on
+identifying here is where I want to put
+my energy right now.
+&gt;&gt; So some of it is handed to you. So we do
+internal audits. We do we have customers
+that come to us um with certain
+requirements. So in a way these are
+requirements that you have to follow.
+You have some regulations especially in
+insure techch um a lot of countries
+around the world they both have um
+privacy as well as security requirements
+nowadays. So that's kind of a given you
+have to do those things and that's
+that's an easy prioritization task. Um
+but there's also a lot of awareness that
+I have to continue um educating myself
+on as well as um our staff. So, I'm an
+avid listener of podcast. Like, when
+every every available moment, you'll
+probably find me with a with an um
+something stuck in my ear. My wife
+doesn't like it very much, but you know,
+it's the way it is. Um but but
+ultimately, it and I guess that's one of
+the things that really attracted me to
+security and previously to it. It's such
+a changing environment and everything is
+so fluid and technology changes so
+rapidly that you have to keep up with
+the latest and also keep up with the
+latest risks and threats that are out
+there. And and one of the podcasts I
+listen to is actually just on on the
+human factor. It's called um I forgot
+what it's called now. It will come to me
+in a minute. Um I think it's called um
+actually it will come to me. I don't
+want to misspeak. So at any rate um
+humans is certainly one of the things
+that that um are the vector for a lot of
+attackers and it's not just at the
+business. A lot of those podcasts and
+and things that you learn about are to
+do with attacks around people at home or
+people that are outside your regular
+channels which is you know speaking with
+Michael previously one of the things
+that we keep saying is that the channel
+is not only you know what comes into
+your your business because you can
+protect that but you know what comes
+into your home your Gmail your WhatsApp
+your SMS and your even your your
+telephone. So, you know, a common vector
+nowadays is getting phone calls um day
+in and day out from attackers trying to
+scheme you out of out of money. And a
+lot of the attacks we're seeing in the
+business as well don't necessarily start
+from from a business channel. They start
+from a different channel and they they
+kind of transition over to that other
+one. So, so effectively prioritizing and
+learning about the different attacks has
+to do with learning what's other and
+also thinking about what are the risks
+that are specific to our organization
+and where we are in the world and the
+business that we're in. So it's a jaring
+act and prioritization is always a
+difficult and and engaging task but it's
+something that you know almost have to
+think about
+&gt;&gt; and and so how does one go about even
+thinking in the context of one's
+organization and it's not necessarily
+both this is true for any organization.
+How does one go about thinking through
+the ways in which um a specific
+organization may be susceptible to these
+attacks? Because what it seems to me is
+that there's so many different things
+that could happen with humans and social
+engineering and fishing and ultimately
+there's the crown jewels of the
+organization and things that it really
+needs to protect. How do how how do how
+do you go about identifying these are
+the critical process for a given
+organization and do you think those are
+always going to be the same critical
+process across let's say the fortune
+2000 or are those going to be different
+for every organization
+you know at the end of the day I think a
+very high percentage I don't know what
+the number would be but very high
+percentage will be fairly generic they
+will be fairly similar across different
+organizations because people are people
+everywhere and they will always be
+attracted to the same scams so to speak
+and and I think you know if you're in a
+certain business obviously if you're a
+successful company and there's
+potentially large budgets that you can
+actually impact then it will be more
+attractive for for um some of the um
+attackers out there but the end of the
+day even smaller organizations
+they're even more susceptible because um
+they may not have the relevant processes
+in place they may not have all the
+checks and balances that larger
+organizations have so in a way I feel
+lucky in a big organization nowadays
+where you do have to go through a
+certain bureaucratic processes to make
+sure that you don't fall victim to those
+things. Um when when before Boltech was
+in place and we had Bolt were a smaller
+organization you know people could just
+go in and sign their own $5,000 checks
+and nobody would actually um pay any
+attention to it. and that's that's
+actually a more attractive target for
+some of the attackers out there. So I
+think at the end of the day it really
+again going back to the human factor it
+really depends on the type of person
+that you are your background as well as
+um the country and the environment that
+you're in. Certainly different cultures
+and different locations would have
+different types of of attack vectors and
+different types of impacts but but
+ultimately you know thinking about us as
+an organization what we always try to do
+is always try to go back to our
+processes and procedures. So e even if
+someone is susceptible to to those those
+types of attacks really the only the
+only foolproof solution that we've ever
+come up with is you know go back to
+processes because everybody is
+susceptible everybody can fall victim to
+those things even myself
+&gt;&gt; right and I think that that speaks also
+to the topic of of the series you know
+the zero day of humans because naturally
+you have to assume that there will
+always be another way and another
+complexity that's added to to the
+sophistication of the attack which we
+will fall for. Right? So even as we even
+as we go and uh and develop these
+monitoring and defensive mechanisms,
+there will always be a new generation of
+attack and the attackers will inevitably
+be a step ahead of the game. It reminds
+me of the catch me if you can Frank
+Abigail, right? and then and and the the
+the ingenuity and the creativity that
+stems there. So how do you so so what
+does that actually mean to go and look
+at processes that are that would be more
+of a bulletproof solution rather than
+than the the traditional antivirus
+monitoring and defensive solutions here.
+&gt;&gt; Yeah. So on the technical fronts you can
+certainly implement technical controls
+that can resist to a certain degree
+those types of attacks. they they will
+go in and they will do some statistical
+analysis and some AI and and this and
+that. So I think you know they have a
+very high degree of success and
+attackers know that so they try
+different things. They always go for the
+weakest link which is you know your
+personal again as I mentioned your your
+personal channels your WhatsApp your SMS
+your personal Gmail account or or other
+ways that they can reach out to you. Um
+and and also uh I believe that really
+like you said attacks are getting better
+and better. They where you know maybe up
+to 2 years ago before chat GPT we told
+people you know watch out for spelling
+mistakes and watch out for um
+grammatical errors things like that.
+That's no longer the case. Um anything
+looks legitimate and anything makes
+sense to people when you read it and
+when you listen to people. So ultimately
+our message to everybody in the
+organization is that however um however
+legitimate you think a request is if it
+doesn't go through the process you're
+not allowed to do it and and also always
+and I I feel in a way um sorry to even
+say that and and it's some something
+that saddens me um personally is the
+fact that we can no longer trust
+anything. You always have to suspic to
+be suspicious of everyone and anything.
+And and to me that's that's a sad truth,
+but that's what we're telling people,
+you know, be suspicious of everything.
+Um what whatever you see, don't trust
+it. It could be fake. It could be
+somebody trying to scam you. It may not
+be today, maybe tomorrow, maybe the next
+day that they come up with the ultimate
+um scamming result. So go back to
+process you know get approval get
+another person to have a look at it
+which is also something that we keep
+telling people don't don't just um do
+things yourself even if you think that
+you have done the wrong thing get
+somebody else to have a look at it give
+a second opinion because it's it's so
+difficult and again I I have so many
+personal family stories about people in
+my own close circle that fall victim to
+those things that I know that there's no
+shame in it And and ultimately there's
+only one solution which is you know
+follow process and get another opinion.
+&gt;&gt; And do you feel that that organizations
+today have the tools that they need in
+order to identify these processes,
+evaluate them and and and not just until
+now as the threats evolve so quickly um
+and every day there's new forms of
+threats, new attack vectors, new
+creativity. Do you believe that you what
+is what is the nature today of doing
+that work and and what needs to be done
+to improve on that?
+&gt;&gt; That that's a good question. The the you
+know AI is obviously the latest and
+greatest in both both things that we
+could use for our benefit as well as um
+threats and risks that are now at our
+door
+and keeping up with that a starts with
+awareness. again telling people that
+unfortunately you don't you don't really
+can trust things that you see and look
+look legitimate to you. So awareness is
+number one. Um nothing to do with
+technology. Um just just the mere fact
+that um you have to be weary and be
+careful all the time. Um, but from a
+technology perspective,
+you know, I'm looking at the 2025 budget
+in front of me and I'm thinking, should
+I be investing in AI tools to to address
+some of the risks? To some extent, yes,
+we should be starting to look at what's
+out there and what is available. whether
+we should go full um you know full scale
+into making AI as our primary line of
+defense for tooling it's it's probably a
+bit early because there things just
+change so rapidly certainly there are
+many vectors that you can look at
+obviously deep tech is a is a big one
+but also things like data leakage um
+people using chpt and using other AI
+tools that are even built in now so you
+look at Adobe Acrobat that now has an AI
+capability. You don't even suspect
+that's where your leakage is going to
+come from and and it's something that we
+definitely have to start thinking about.
+Again, for for me the foundational items
+are still there and we still need to
+address them, but we need to start
+understanding what are the typical risks
+that we need to look at with AI and
+certainly the ones that we need to start
+investigating or investing in as an
+organization.
+Absolutely. And and if we go a little
+bit into the world that you've been
+living in over the last decade in the
+context of insurance, financial systems
+and and if we every organization is has
+is different in many capacities, but I
+think that and what I'm observing is
+that insurance organizations and and
+financial organizations in general, they
+have different sets of of risks and and
+and and natures of critical importance.
+So if we look at the insurance space for
+example, where does the ele where does
+the human element lie there and and
+where does that meet you as a security
+professional?
+&gt;&gt; Right. So there's two elements there.
+One one is fraud. So we're seeing a lot
+of attempts um for people to contact us
+and attempt some type of a fraud
+transaction. And for us, that's
+something that we're trying to catch
+again through processes and having
+another set of eyes on everything. Um,
+there's a lot of PII or personally
+identifiable information that we store
+about our own customers as well as
+consumers in general. So, we we are very
+careful with how we store that and who
+has access to it and the processes that
+we have around all of those things.
+You know, again, as I mentioned before,
+it comes down to basics. You know,
+making sure that you have things like
+lease privilege. Only the people that
+are meant to see something are able to
+see it. And then at the end of the day,
+you need to really be able to attack a
+very specific set of people and people
+that have high level of access in order
+to gain that. Not that it cannot happen,
+but your your line of attack or or
+vector of attack is minimized by doing
+that. And we let people do whatever they
+need to do in their job without trying
+to be um too honorous on how they how
+they do it by giving them only access to
+what they need. So to me that's that's
+probably you know again it goes for
+every organization but for us holding a
+lot of financial data holding a lot of
+personal data on on customers is is
+something that we are very careful with
+and and that's where we put in most of
+our efforts.
+&gt;&gt; Right. So it makes sense to me that a
+lot of the um a lot of the focus and the
+effort lies in being very clear on who
+are these high privileged users and who
+are the ones that if they fall victim
+would have the biggest impact on the
+organization and I would imagine that it
+would be a subset of the entire
+organization and not sure how large or
+how small but at least a good amount
+that you can then target and I guess
+that would also be based on the
+processes that you identify which are
+critical to your organizations need,
+right?
+&gt;&gt; Yeah. So, so really, you know, for for
+those types of users, we do a few
+things. A, we try to raise their
+awareness as much as possible. So, we do
+different types of um discussions or
+have different types of discussions with
+them as well as different awareness
+sessions with them. So, our developers
+for example that write our code, we have
+specific training for them and things
+that they need to be concerned with. our
+agents, the ones that talk to to
+consumers, they have different types of
+training as well and and also the
+messaging to them would be different um
+for high stake users and that's not just
+your technical users that would the ones
+that manage your systems but also
+management level stuff. So our CEO or
+CFO what have you need to have a raised
+level of awareness around the risks
+because ultimately that could instruct
+somebody to do something that they
+shouldn't be doing as well. So, so for
+us, we we try to to provide different
+types and different angles on the risks
+to different people. Um, as well as have
+the again the technical controls that
+are relevant to them so that if there is
+a situation where they fall victim to to
+a scam, um, we're able to catch it as
+early as possible as well as be able to
+give them the proceeding awareness so
+they're more careful when they deal with
+certain things.
+Now I I've been really curious about the
+relationship that you know the employees
+have with the security space. I know
+that there is naturally a there's
+naturally some sort of a tension and
+conflict because as security
+professional you put up you know really
+really important guardrails and and
+processes that help protect the
+organizations but a lot of those
+processes end up having some level of
+impact on the user experience right and
+uh and so and I'm I'm curious how do you
+get employees to engage and the humans
+to engage with security in a way that's
+thoughtful, that's meaningful, because I
+would imagine that part of what you
+would want happen is for them to notify
+when there's these types of attacks so
+that you can learn from them, but also
+engage with the content of how do I then
+empower myself as an employee to become
+a better protector of the organization.
+&gt;&gt; Yeah, that's a good question. So, you
+know, for one that listens to a lot of
+security podcasts, I can tell you that
+the one thing that gets repeated all the
+time is don't be the department of no.
+Like, do the be the department of yes,
+but so that that's really what I try to
+do. I say, "Okay, fine. That's a
+business requirement. This is your own
+personal need. You you have some urgency
+around some of the things that you want
+to do as well." So, we're not here to
+stop you. We're here to support you. And
+in order to support you, we need to be
+able to also follow a certain process
+that make sure that you're secure in
+what you're doing. Um, at the end of the
+day, it is your accountability, your
+responsibility towards the organization
+to make sure that you are not the
+conduit to an attack and for that we are
+here to help you achieve that. And as
+soon as you put on put that message that
+it's their accountability, their
+responsibility, we're there to support
+them. I think the story changes that
+they typically would come to you for
+help. They would come to you for advice,
+which is what we try to to give. And and
+and I always think, you know, I said I
+said before that I have a few personal
+stories about um things that have
+happened in my close family circle. I
+always think of those those situations.
+I always think okay, what is my mom
+going to do in that situation? What is
+my sister going to do in such a
+situation? What is my brother going to
+do? and and ultimately it's the same
+type of people, right? They they don't
+listen to a 100 different security
+podcasts every day. They just go around
+there doing their work and achieving
+their business objectives all the time.
+So I I I don't want to be the bottleneck
+and I don't want to be the the stumbling
+block for them to achieve that. But at
+the same time, I always want to be a
+mirror um to them of the risks they're
+posing to the organization by doing
+certain things and the potential
+solutions. Ultimately, it's it's
+something that sometimes goes up to
+management to make decisions on where
+they see um the balance like whether
+they prefer, you know, running faster
+and putting security on the back burner
+and vice versa. But I'm I'm always there
+as a support as well as a monitor for
+them rather than something that is there
+to stop what they're doing. Makes a ton
+of sense. Now if if you look at the last
+few years, I my my perception what I'm
+understanding is that is that fishing
+and social engineering has always been a
+top of- mind concern for for CESOS.
+Would you agree that that's the case for
+your end as well?
+&gt;&gt; Yeah. Can can you just repeat that
+question? I I'll lost track there for a
+second.
+&gt;&gt; Absolutely. The what what I've been
+hearing that CISOs um have been treating
+fishing and social engineering as a top
+of- mind concern pretty much since ever.
+&gt;&gt; Y
+&gt;&gt; now that would to me constitute a a
+space where there's a lot of innovation,
+a lot of velocity, a lot of attempts to
+continuously improve and move up. What
+if you look at the just the last 5 years
+for example, what have been the major
+changes that you've observed in the
+human security space and what what's
+really caught your attention on the way
+that we as security professionals are
+dealing with this problem.
+&gt;&gt; So a few few things have changed. Um I I
+think one you know there's really two
+things if you look at the last couple of
+years again if you look at the quality
+and volume of personalized fishing
+attempts that has really increased over
+the last two years again um through AI
+it's really I feel a lot easier for
+attackers to to utilize that so they can
+write a a a specific fishing email to a
+thousand people in the organization and
+it would it would look perfect to to
+everybody that read it. So that's one. I
+I also think that people's awareness of
+fishing and security concerns has has
+grown very high over the last if you say
+5 years and they see it on the news and
+they hear it everywhere and they also
+know people that have been attacked and
+people that have lost money and people
+that have had um their social network
+accounts um hijacked and they they know
+family members that have fallen victim.
+So, so I think again, unfortunately,
+we're in in a reality where those things
+are no longer a one-off or something you
+hear about in the news. Everybody knows
+somebody that has been involved in some
+sort of a a scam or an attack both at
+home as well as at work. And and to me,
+you know, looking thinking of fishing
+specifically,
+again, there's two mindsets about
+fishing. There's people that say it
+doesn't really help when you do fishing
+campaigns, when you try to actually do
+pretend attacks or what we call fishing
+campaigns and and you're just making
+people feel bad when they fall victim to
+those fake attacks. I'm actually of the
+opposite opinion. I think the more
+people get practice in seeing what those
+things look like and what the how easy
+it is to actually fall victim to those
+attacks, I think the I think it the
+better we are for it because at the end
+of the day, if you see something for the
+first time, it looks legit. But if you
+see them and we run them on monthly
+basis where every month there'll be a
+fishing campaign that's sent out to
+everybody in the organization. Um, it a
+lot of times I get people come to me and
+say, "I've never been to a company that
+runs so many fishing emails and I'm
+always flattered when they say that
+because they come to me with a smile."
+They don't come complaining. They say,
+"It's interesting. I've fallen victim
+for this and that." And
+if you wouldn't have shown it to me, I
+would have not known that that's
+fishing. So now,
+&gt;&gt; see, it sounds like you've you've
+managed to create a positive experience
+for them having fallen because I I've
+also heard CISOs tell me, "Listen, I'm
+afraid to do these campaigns because if
+my employees fall for them, they won't
+trust me. They'll stop answering my
+emails. They'll think I'm just attacking
+them to put them down." How did you
+create a positive experience for them
+here?
+&gt;&gt; So, two things. One, um, so the system
+that we use has the ability, um, to do
+two things. one you can report fishing.
+So we have in in our email client we
+have a report fishing button. So we
+track that. So you know when people
+actually provide um their own feedback
+on something that looks like fishing we
+we actually send them a thank you note
+say thank you for reporting it. So that
+actually creates a positive um positive
+atmosphere. We also do it with top
+management. with top management. Every
+time somebody in our executive committee
+submits those, we have right now it's
+unfortunately a bit of a manual process,
+but we go through, we investigate it, we
+give them a report of what they've done,
+who else was affected in organization,
+how by reporting it, they were able to
+actually um also save us from other
+attacks to other people that um received
+the same email. So that was one thing
+that we did. But also when they do fall
+victim for those um fake fishing
+campaigns, I'm messaging to them and and
+there's always like a splash screen that
+comes up say, "Hey, first of all, um
+this is a fake fishing campaign. Um this
+is just there to teach you what that
+looks like, what you should be aware of,
+and here's some training that you can go
+through and and see what the signs are
+for for particular potential fishing."
+So I think people do that and it it you
+know again my my own personal experience
+is that it's been really really
+effective. We we really do see the down
+downward um chart um from when we
+started to today and and it's been very
+effective from my perspective and again
+I I don't I don't get a sense from
+anyone that I talk to um that it's been
+a negative experience. They always take
+it as a positive and and um whenever
+whenever they catch them they send me an
+email say oh yeah you know you should
+try better next time you didn't get it
+this time so it's fun
+&gt;&gt; I love it and so if if we're you know
+there's going to be many entrepreneurs
+listening to this and and thinking to
+themselves wow this is such a huge
+problem and I really want to innovate
+here and and it seems like there's so
+much untapped potential in helping
+organizations because it it does not
+feel like unless you feel that way to me
+does not feel that there's a good enough
+approach or comprehensive solution that
+gives the the peace of mind that fishing
+and social engineering is is in a is is
+controlled in the context of an
+organization. What you know what would
+be the most incredible areas in your
+eyes to innovate when it comes to human
+security for young entrepreneurs? where
+where will the next big aha moment and
+the biggest pain points resolved when it
+comes to human security?
+&gt;&gt; So you know since co everybody's been
+working you know in hybrid modes or even
+completely remotely and to me that
+really has opened up a whole lot of
+opportunities is so to speak for
+attackers. So, as I was saying before,
+as an organization, just thinking about
+how to protect your own organization and
+your own communication channels is
+probably not enough because people use
+their own smartphones. They use their
+own computers. Um, they're at home. Um,
+they use their own Wi-Fi um for for
+business purposes.
+and and securing all of that to me is
+the key because ultimately your your um
+attack vectors have now extended
+expanded exponentially. So if somebody
+can come up with a way that is more more
+you know private and can also secure not
+just your enterprise
+um assets but also the personal assets.
+I think that would that will be a really
+important innovation and and also making
+people like I said before trust that the
+organization is out there to protect
+them and their family as well. To me,
+that's that's key for gaining the trust
+and also making sure that the
+organization itself is not open to those
+types of attacks that come from
+unexpected areas, which is what we're
+seeing now. Really, to me, that's again,
+I think the enterprise
+can do a lot of things to improve
+security, but there's always going to be
+that huge gap of people securing their
+own personal environment and personal
+assets.
+&gt;&gt; Absolutely. And I think we do see um in
+today's attacks the because of the spear
+fishing nature and the narrative attacks
+the ability to capture trust and form
+relationships in the external world and
+then have the employees bring them into
+the internal world where the actual um
+attack will be facilitated that that's a
+big trend that's happening. H As a I
+really want to thank you for joining me
+today. I truly appreciate it. It was a
+lot of fun. It went by way too fast and
+I and I learned a lot. Uh, so continue
+doing great work with Boltech and thank
+you so much for joining me today.
+&gt;&gt; No worries. Thank you, Michael.

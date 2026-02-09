@@ -1,0 +1,618 @@
+startup is like a rollercoaster
+and every day you mention what keep me
+at night every day something else
+and and you know one day you are at the
+top
+and and feeling here you are the
+luckiest thing that everything is in
+line and all the stars are aligned and
+things are happening and one day is like
+getting rejection or something didn't
+work as you wanted
+and and being you know
+can can't sleep at night
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to 20 minute leaders the
+combination of technology and health is
+a fascinating one and one that changes
+literally all of our lives
+meet hillary goldman aslan
+hilar holds a dwell bachelor's degree in
+law and llb and business administration
+bba along with a masters of law from tel
+aviv university specializing in
+commercial law after years of leading
+high-tech companies focused on med tech
+hila founded dia imaging analysis she
+has led the company from the idea
+through proof of concept product
+development building a team regulation
+raising capital and validation to
+commercial partnerships with leading
+vendors such as ge healthcare phillips
+and ibm
+um
+dia analysis imaging analysis and
+understanding the way that artificial
+intelligence is relevant in ultrasounds
+and anything that has to do with imaging
+and with identifying
+what's happening and how to take better
+care of ourselves so maybe you can share
+with me just a little bit about about
+yourself and
+you've been with dia for quite some time
+i believe you joined about 11 years ago
+as as co-founder and ceo
+what what how did you even get into this
+world of of imaging analysis and
+artificial intelligence
+yeah so in my case saying it was a
+and it wasn't planned and i think the
+the the best thing in life are usually
+not planned
+and
+i i'm my background day i studied my
+first degree as a in business as well as
+law
+and my second degree was a commercial
+law
+and
+and i practiced law only in the tech
+area
+industry
+doing ipos investment a commercial
+agreements
+and sitting on boards go doing a all the
+process of of going public
+and through this process and working
+with a lot of tech companies i realized
+that i'm i don't want to be a lawyer as
+a main professional
+and this is when i started to move to
+the tech
+side of things
+and i started as business business
+development manager in fintech company
+and then
+managing a
+few companies in incubator programs here
+in israel
+and then i met my partner my co-founder
+mikhail she is
+a bioengineering background
+and i met her right when she finished
+her master's degree around the
+image processing
+in medical imaging especially
+specifically in cardiac ulcers and this
+is where we we found out that she's
+bringing the technology and clinical
+things inside of things and i'm bringing
+the business side of things
+and this is how it is started
+and way early to the market before
+anybody talked about ai
+and
+only thinking about how you know
+automating the workflows and
+analysis of ultrasound images
+which commonly being done by visual
+estimation just looking at the pictures
+and analyzing what's there
+and this this is how we we built the
+initially
+a very naive i would say a very
+enthusiastic and still very very
+enthusiastic even now
+and but with a great passion and and
+seeing clearly the need for automation
+in this area
+right and obviously in the in the last
+10 years um really really five years and
+and la and after obviously the i is
+already up and running we're seeing
+you know a wave of of entrepreneurs that
+are coming and are leveraging the use of
+technology in this case ai to to work on
+these problems
+tell me a little bit about
+the challenges that this world presents
+to a technologist right so you're coming
+and you're saying we have that we have
+it we have an interesting technology
+we have a real human pain this in fact
+this human pain may lead to life and
+death or you know in in a better
+scenario a quality of life situation
+where you're
+checking how how well a person can live
+and and what are sort of the challenges
+in building a product like this because
+from looking at a lot of other
+software-based products you know the
+main challenge is how do how do i reduce
+my cost of acquisition and get my users
+to give me a good nps score but this is
+not really the same
+question here so because what challenges
+do we present so i think because we are
+in the clinical
+a space in medical space and the
+challenges are more in terms of adaption
+but in terms of also how can i validate
+the the technology
+from a user perspective and how can i
+trust it
+because when you're anything that it's
+not medical you just try it and see if
+it's good for you and if it's giving you
+value and pretty fast you you know if
+this is something you want to use
+in the medical space
+you know because the there is regulation
+processes like fda
+and even if you have an fda approved
+solution still physicians
+um you know testing a validating
+a challenging technology there because
+as you mentioned it's it can be live for
+that situation
+and also the adoption of new technology
+in some cases is a barrier because the
+physicians are used to do things in a
+certain way and when you're bringing new
+technology like ai for example and
+saying okay this is new thing that you
+can use with your patient making
+decisions
+then you know they they starting to
+hesitate at the beginning not sure how
+can i use it how can i
+how can i trust it i think that those
+are the barriers that you can see in the
+medical space which i don't think you
+see in other spaces
+and so
+if we're looking now at this question of
+of trust building especially with people
+that are in the field that you know
+they've worked for many many years to
+come up with with the insights and then
+and the knowledge to be able to to come
+up with interesting conclusions
+you know you're looking at this let's
+say 10 years ago when you're even trying
+to figure out whether this is something
+that can be integrated
+what are sort of the drawbacks or the
+pushbacks that you're receiving from
+from people in the industry in the in
+the health industry so
+going back and then this is a
+and it's again as you mentioned it's
+almost a decade
+and
+i think there are two things that we saw
+evolving through the last 10 years
+the first thing was
+that physicians came and say i don't
+need this
+i can do everything by eyeballing i can
+look at images this is my my work this
+is what i do every day
+i my own ai
+got used to looking at images
+and i don't need any help
+and i don't understand why i need you
+know ai which fro from my perspective ai
+is mainly smart automation
+and and i don't know why you need it
+that was the first reaction from the
+industry
+because you know we are combining our ai
+solution within ultrasound devices or as
+part of the healthcare ide systems
+what we heard back then was
+i can do it myself if i want to more of
+a what we call nih thing not invented
+here so why why should i use a third
+party we are a technology company we are
+a development company we will do
+whatever we want and if we don't see the
+need
+and you know
+probably we don't need you guys so that
+was the reaction admission
+now through time what we saw
+was a very interesting thing the first
+thing that happened
+during the that time is the change in
+generation of physicians
+the new generation of physician
+that grew up with cell phones automation
+trying new things every day actually
+apps
+video games you name it
+we're thinking the other way around like
+how can you help me make things more
+automated how can you provide me more
+solution that will make my life easier
+will make me make a decision based on
+more objective information than
+subjective eyeballing information that
+was the first change that we saw
+the second change that we saw it was
+within the actual companies the industry
+that came along and after i would say 10
+years
+and so in the last few years saying
+you know
+we cannot do all that on our own you
+know we can pick and choose what to
+develop our own but if we want to get
+into the market
+fast and bring our users fast solution
+that will automate some of their
+processes make it more objective and
+that they can trust and make better
+decisions we must work with third-party
+solution
+to accelerate the adoption in the market
+and are present in the market in this
+space now you know what happened with ai
+during the last 10 years so from being
+almost nothing starting to get what this
+what what can we do with that and now
+what we're seeing in the market is how
+can i get more of it
+so that is the transaction that we we we
+saw during the
+from the time that we were established
+until now
+okay and now if we're looking at you
+know this question of trust is an
+important one especially as we're saying
+that there's a few players in the field
+and now you have a um
+hospital a private clinic et cetera that
+is that that wants to there there is a
+you know um
+a consumer-wide understanding that we
+want to leverage third-party technology
+but now we have to make some decisions
+right and you know this is not
+a traditional decision to buy software
+here you're going to commit to a company
+probably i'm assuming that that one
+company is going to win the contract
+what how do they think about it what is
+sort of what are the things that make
+them
+want one company versus another as
+they're integrating into their
+healthcare first thing is validation so
+they want to see publications they want
+to see your research your your results
+how did you validate your your results
+what what what kind of data did you use
+how you annotate it what did you compare
+it to
+and so that's for sure for physicians uh
+that eventually are the buyers of those
+ai solution are the first questions that
+they are asking and wants you to
+validate with first adoption and the
+doctors you need to give them trial
+periods they want to try it they want to
+try they want it to compare it they want
+to feel it
+and to compare it to the traditional
+ways they're doing of they're doing the
+ways that they're doing it traditionally
+and and this is how they they they get
+the the trust and and make a decision
+got it and so if we're looking at now
+this journey as a leader now in you know
+in the space
+and you're thinking about you know the
+way that your technology can potentially
+impact
+you know the the way that these doctors
+are working what are the different
+considerations that are keeping you up
+at night you know now from a you know
+from a domain leadership perspective so
+i i i think that uh i can tell you what
+excites me
+for example when during kovid when our
+solution
+was used
+as part of g handle ultrasound device
+and we have a cardiac solution that help
+monitor
+and track
+a trends of of patient's heart
+and and you know we ultrasound it
+doesn't have any radiation so you can do
+it as much as you want like every hour
+you can check the patient and look at
+the heart and see like what what
+happened like what change
+if my my treatment is working if i have
+to you know give the patient more fluids
+if i have to change my medicine and what
+we we got
+that was very exciting was that we saw a
+tweet by a physician in uk
+using our solution within those handheld
+devices by ge
+and tweeting that the vivo who is that
+that's the name of our product
+what was helping me in the icu with
+covet patient monitoring patient's heart
+on it
+on a consistent
+and and and a way
+and and when you see that this is not a
+physician that we are paying him
+anything
+we don't know him even we never met him
+and then seen that kind of information
+three months into coffee
+that's that's worth like that that's the
+the case with you when you are starting
+to remember why you're doing what you're
+doing because you know startup is like a
+rollercoaster
+and every day you mention what keep me
+at night every day something else
+and and you know one day you are at the
+top
+and and feeling here you are the
+luckiest thing that everything is in
+line and all the stars are aligned and
+things are happening and one day is like
+getting rejection or something didn't
+work as you wanted
+and and being you know
+can can't sleep at night as you as you
+mentioned but having that small tweet
+of a physician saying okay i used that
+that helped me that helped my my passion
+that that's what's keep us
+going forward and being excited about
+what we're doing
+amazing and still 10 years into the
+journey
+i assume that there are some some
+changes that the company makes
+in the life cycle from validation of the
+idea to you know growth and saying okay
+can we actually you know make this make
+this a reality to now say okay how can
+we continue to to grow in the market
+where are you now with the where is the
+dna right now we have eight fda and c
+marked solutions that are out there in
+the market
+we partner with more than 12 channel
+partners like ge phillips connie
+caminolta ibm and so forth
+uh that adopting our solution adding the
+our solution to their ultrasound devices
+or healthcare id systems
+and we're seeing traction for the market
+we have more than 4 000 end users
+available in more than 20 countries a
+growing our team they had the last day
+we we closed the around of the big round
+of investment
+and and basically it's scaling like now
+we are at the scaling position
+and on the other hand we are not a one
+product company
+and we will always continue to invest in
+r d
+adding more solution to the market
+ultrasound is a big market that in terms
+of roadmap you know we it can feed us
+for 20 years now
+uh so we mainly our channel challenges
+are how to prioritize what to do next
+so heavily investing in the r d and and
+releasing a new solution to the market
+but at the same time pushing our fda
+approved solution into the market
+through our channel partnership and
+commercial activities
+right and if we're looking if you're now
+you're thinking about impact scale and
+and you know the way that you're
+thinking strategically about scaling
+this what are the different tactics that
+you can use
+as the ceo here to get this to as many
+hospitals as possible
+you know we we choose a
+unique way of
+entering the market and that was through
+channel partners and not going direct to
+hospitals and knocking on doors
+i think uh
+going
+forward and we've proven that that
+business model is working
+that
+you know that's the fastest way to get
+into the market so we're going to
+continue investing those partnership and
+expanding our partnership portfolio
+at the same time you know a lot of
+marketing activities being present
+hearing the voice of the
+users which are the physicians
+and making sure
+that we are aligned with the trends
+and the pain points
+and
+but basically scaling also in personnel
+and being innovative all the time you
+know it's again it's not the one one
+thing solution when we're talking with
+our end users
+they're always asking like can you do
+that can you bring us
+that solution this solution this is what
+we are looking for this is the missing
+part that we're a heading so
+that's how we we we navigate ourselves
+in terms of scaling and
+expanding
+do people on on the team idea
+is it is it more of a startup mentality
+more of a
+you know of a robust tech company where
+where how how do you see your own team
+operating today
+i think it's
+still more of a very start-up
+culture and dna
+and and i hope it will be that way as
+much as possible because it's hard when
+you bring in more people
+a you're becoming a
+um
+more i would not say more corporate but
+they starting to adopt corporate
+processes
+and in a lot of the cases when when we
+bring in people from corporate companies
+and you know the first meeting that i'm
+i'm having with them is i know you want
+to add processes to the company and
+think do things as you learn to do in
+the big corporate
+but just try to be very sensitive about
+what must have at this stage and what is
+nice to have because otherwise you will
+kill the company
+and and and we really try to only you
+know only touch and and adopt those
+things that
+definitely when you're scaling you need
+to be you you have to bring more
+processes in order to make things happen
+faster and in the right way especially
+working with these big corporate
+companies like philips tree conica ibm
+but on the other
+hand keeping it still robust innovative
+open discussions and and fast like
+changing and passing the stick between
+one to each other very fast
+[Music]
+so we talked about you know the
+formation the market where we were 10
+years ago the potential of such a
+technology we then talked a little bit
+about you know the challenges that that
+that are presented in in a company like
+this whether it be you know the growth
+of a company and its culture all the way
+to how do you gain trust of the
+customers
+and and just the tiny bit we touched on
+on the strategy and go to market
+and the most important which which i
+love closing the loop with this you know
+it's the the mission the schlicht
+you know where where are you
+in this whole big puzzle what is the
+most passionate about a
+india and in general about healthcare
+companies is that you're really you know
+every person in dia
+knows that his role impacts patients and
+physicians
+and if you look at every role
+you know
+from marketing to development
+each one is eventually presenting and
+working on
+a product and delivery of a product that
+will impact lives
+so when r d people are working on their
+everyday
+tasks they're looking at ultrasound
+images which are patients
+actual hearts or other anatomic areas
+when you're starting to work on a white
+paper or a case study
+to present to in a conference you are
+actually talking about case studies of
+patients and things that actually happen
+so i think the impact that each and
+every person at the company have
+on lives and on the next generation of
+technology in the imaging space is
+unique
+and that's what also a keep people stay
+here and enjoy their work
+fantastic amazing illa i really want to
+thank you for your time in this episode
+for the work that you're doing with dia
+i'm looking back 10 years ago and i'm
+asking myself this question today you
+know how
+how
+what skills do i have to now look at the
+world and say this is there's a way
+there's a technology that i can leverage
+to disrupt something that is as
+important as as imaging analysis
+especially when it comes to health care
+and and i'm always inspired by these
+stories um of of companies like dia and
+how you start out you know in a time
+where you know yeah ai was starting to
+be talked about and and but but you know
+the integration and healthcare and the
+edu and educating the market wasn't
+trivial and so it's very very cool to to
+visit back and that's why i also enjoyed
+hearing back a lot about the beginning
+of the journey and what led to it and
+how do you actually gain the trust and
+you know questions that i think today we
+take a little bit for granted where many
+radiologists and many doctors they
+understand
+the use of third-party applications in
+their work but you know 20 years ago
+i don't think many
+agreed with this idea that somebody else
+will come and will give them insight
+into how they're running and so i think
+that you're in a it's such an exciting
+field obviously you know making an
+impact saving lives and improving
+people's lives and so thank you very
+much and stay safe and stay healthy and
+best of luck with thank you thank you
+for having me
+[Music]
+you

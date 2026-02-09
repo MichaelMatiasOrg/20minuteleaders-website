@@ -1,0 +1,604 @@
+it really excites me to see when when we
+come and go on a customer call and they
+tell us so what's new and we show them a
+new capability that we built or
+delivered and they said oh God I didn't
+realize that this is what I needed but
+this is really what I needed and this is
+great that you came with this because I
+didn't know how to kind of express my
+specific need entrepreneurs need to be
+very good they're product people in
+order to shape the right strategy and
+product strategy within the company
+to 20 minute leaders just sit back relax
+and learn from the leaders of today it's
+a journey each one is different unique
+inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello hello and welcome to another
+episode of 20 minute leaders today with
+Yoni shokhet a seasoned entrepreneur
+with a successful track record in the
+Israeli cyber security landscape you
+only received his bachelor's of Science
+and Mathematics at the age of 19 and
+completed his service in the Israel
+Defense Forces as a cyber security team
+leader and project manager at one of
+Israel's most esteemed Military
+Intelligence units valence is the second
+cyber security starter Pioneers founded
+following his time as CEO and co-founder
+of scad Defense a Pioneer in industrial
+iot cyber security
+thank you very much for spending this
+time with me and I'm really excited to
+dive into your own Journey your journey
+cyber security valence SAS security what
+even guide you into cyber the first
+place and your serial entrepreneur in
+the cyber space so this is not doing you
+know it's not just a new hobby of yours
+this is something that you've been
+dedicating a quite a bit of time and
+energy into and so let's start there you
+know take me back Yoni what prompted you
+into this cyber security scene
+yeah so I think I always was looking to
+to challenge myself even as a teenager
+so I started my bachelor's degree when I
+was 16 in mathematics and I finished it
+right before the kind of mandatory
+Israeli military service Union as well
+and by the age of 16 and age of 19 I
+already had a bachelor's degree and I
+joined uh I lead to a cyber unit and and
+from there kind of took me into the
+cyber world and into more of the
+technology-oriented world of cyber
+research and on how to do a how-to-day a
+Packers think and operate in the modern
+world and how influential it is across
+the board uh I know everything we do on
+our day-to-day life and from there
+once I finished my military service as a
+captain after about six years
+um I started my first startup called
+skate offense focused on my industrial
+iot cyber security and helping
+manufacturing and critical
+infrastructure companies to secure their
+operational technology environments and
+about the 18 months ago I started the
+valence which is my second cyber
+security startup focused on really on
+SAS security
+so you know so take me back 18 months or
+so you have a you know quite a bit of
+experience on field and you're looking
+at the different opportunities that
+there are in this type of space and
+we're we're at you know in 2021 what's
+happening in in the landscape that
+you're as if you're putting yourself
+back in that seat what understandings do
+you have about the world we're in that
+lead you to sort of focus with feelings
+yeah so I think I always joke that the
+cyber security startups are sometimes
+like a mushroom after the rain so there
+was a large breach at the end of 2020
+called solarwinds a breach campaign
+where which exposed a lot of weaknesses
+in today's modern cyber security
+ecosystem and and what they triggered
+for me the the most interest is really
+the third party risk element and the
+fact that today we're so dependent on
+third-party services and vendors that
+have high privilege access and high
+privilege capabilities to access our
+data or privileges our day-to-day
+business processes and this is a LED
+within that attack campaign to different
+weaknesses within a modern Enterprise
+security and tax services
+that really prompt us to focus on what
+valence started with which is really
+more focused on how do we Grant access
+to third-party vendors to our
+environment and from there it evolved to
+how to even trust these third-party
+services and how they're configured and
+how they're properly managed to use by
+different business users across the
+organization
+right and so what you're talking about
+is much more collaborative collaborative
+microservice third-party integration
+approach
+well if we're looking at the the
+situation today in the software space in
+terms of companies what are the
+different vulnerabilities that have
+emerged as a result of the changing
+landscape going from on-prem to cloud
+and having so many of these new service
+providers come up
+yeah so I think about a decade ago if
+you would look a lot of cyber security
+attacks and breaches a lot of them
+focused on zero days and on
+vulnerabilities and on very complex
+software issues and vulnerabilities but
+today attackers don't really need to
+hack all they need to find is find the
+right the account or find the right
+credential or find the right access
+token and from there they can get access
+to high privilege systems and to just
+properly configure their way all the way
+until they were able to eventually
+perform their malicious action or to get
+access to the data that they're after
+and the the ecosystem is really changing
+because we no longer need to think about
+just the sophisticated attack that is
+leveraging a very high-end technology
+capability but how do we protect from
+our day-to-day misconfigurations that we
+can perform today in these Cloud
+environments where we don't own most of
+the infrastructure we own very a very
+small portion of the infrastructure but
+the shared responsibility model is
+Shifting all the responsibility to the
+customer side to properly manage and
+configure these SAS applications
+and it's kind of technology is
+democratizing and decentralizing we're
+starting to see more and more entities
+within the businesses whether it's a
+developers or marketing teams or sales
+teams or it or HR that are now able to
+build and configure logic within the
+organization which is great for the
+business you can innovate and run fast
+but it also creates a lot of
+opportunities for these types of
+misconfigurations that attackers can
+leverage today within the within the
+environment
+and so how does how does valence come to
+that
+yeah so what we've learned over the
+since we started valence is that for
+most of our customers the biggest
+challenge is not to know about more
+problems I've heard again and again from
+Security leaders I don't want to get
+visibility into problems that I cannot
+solve what the security teams care the
+most today about is how do they show
+effective risk reduction over time so
+not only how do they show hey I know
+about all my problems and I have a nice
+map of my wrist surface but how do I
+effectively apply the proper remediation
+controls and the proper risk mitigation
+over time to eliminate risk within the
+environment so what we've built is that
+if it what we understood is that if
+eventually a staffs in our case is
+adopted and democratized and
+decentralized manner it only makes sense
+to have the proper decentralized and
+democratized Remediation workflows
+within the organization that allow the
+security teams to engage and collaborate
+with the different business users within
+the organization to remediate risks
+whether if it's identity security risk
+data protection
+third party Integrations
+misconfigurations across the board
+within your SAS environment like
+Salesforce and Google workspace and
+Microsoft 365 and slack and GitHub and
+often all these different business
+critical SAS applications
+do you have a sort of a snowball effect
+as you are able to understand the
+different test applications and and how
+they're configured and so as the
+approach being M plus q1 company that
+you're selling to you're coming in with
+the bulk of knowledge in other words is
+there transferred knowledge between you
+know as you work and as you progress
+yes I think one of the core value
+pillars that we provide is the Outsource
+expertise so to say so we reduce the
+level of expertise that each security
+team needs to have within each one of
+these applications because eventually a
+lot of these applications have a lot of
+overlap and similarities but also a lot
+of differences and for a security team
+to understand how do you define a
+certain configuration or permissions set
+in Microsoft 365 compared to how it's
+configured in Salesforce compared to how
+it's configured on slack last year on
+zendesk and all these core stocks
+applications it's very complex it
+requires a lot of knowledge it requires
+a lot of hands-on experience with these
+Platforms in a lot of cases the security
+team doesn't even have access to these
+platforms they don't know how the
+interface even looks like and we
+simplify their ability to not be the
+expert in each one of these SAS
+applications but to even to be able to
+Define their desired state in their own
+language and that is security language
+and to help apply it on a continuous
+basis within their environment of SAS
+applications
+and so how do you how do you see this
+evolve now so you're looking at valence
+18 months and where where are you at
+today and where where how are you
+evolving right now
+yeah so we started with a very narrow
+focus in terms of uh the problems that
+we're trying to solve and we're adding
+more and more capabilities within our
+platform and eventually while we're
+building what we have today is a staff
+security a platform that helps security
+teams not have to adopt and install
+install multiple different security
+controls or Security Solutions in order
+to secure the different a a risk
+surfaces that they have within SAS
+applications but to be de-step security
+platform that helps you get the
+visibility you need and to be able to
+remediate the risks properly by engaging
+and collaborating with business users
+across the board within the organization
+so this process really allows you to get
+an end-to-end capability that covers and
+checks all the boxes whether it's
+compliance misconfiguration management
+is supply chain risk reduction or
+whatever it is within your SAS
+applications and over time we will
+evolve to be more and more D platform
+for SAS application application and the
+One-Stop shop for all the security needs
+within it
+so you know we're talking about
+platforms One-Stop shops I mean this
+this requires a lot of trust and and
+engagement from from obviously the
+people that are bringing valence into
+their own system that requires that they
+really put their their trust and faith
+with you and not just to solve a niche
+problem in their security Gap but really
+for for the whole uh SAS security
+how do you build that trust how do you
+get to a position where you can come
+into an organization and say I'm your
+platform I'm your One-Stop shop
+obviously it's an amazing Congressman
+but how do you even get there from a
+from a a relationship perspective with a
+customer
+yeah that's a great question I think
+that when we started then we were just a
+shlomi my co-founder myself and we
+started working with our early design
+Partners uh and we we asked to access
+their platforms and to better understand
+how the risk surfaces looked like and
+they they looked at us and they said
+okay you're just a two-people company
+how can we trust you so we build
+Technology Solutions that allowed to
+reduce the friction and the the level of
+trust that is needed to prove our value
+one step at a time until we earn more
+and more of their trust and open up the
+ability to for them to enjoy our actual
+benefits but for us to also justify
+their trust and we invested early on in
+the best practices in terms of security
+compliance privacy and everything else
+and I think today like you mentioned 18
+months in we're already backed with by
+some of the best investors in the
+industry so Microsoft's M12 LED our
+series a together with participation of
+Akamai and Porsche Avengers which is it
+shows a lot of a very respectable a
+corporates and Enterprises within the
+world that did their vetting system him
+and said valence is our bid for the
+2b.stat security platform and especially
+when it comes from security vendors or
+from a leading Enterprises or from SAS
+vendors this is a very significant
+statement within the within the market
+and also with help with the early
+advisors and investors so we have some
+of the best csos of the in the world
+that invested in the company early on it
+really helps to say these people are
+legit and they they can be trustworthy
+and kind of a more of a transitive
+manner of the if I trust them then I can
+trust the people that they trust them
+is there a quantitative way to be to
+create comparisons between companies or
+or some Benchmark mechanism to be able
+to determine how different companies
+fare in in this world of yours
+yeah so I think it's a it's pretty
+challenging because it's still a lot of
+companies are still in the startup mode
+so you need to reduce the noise ratio
+between what they say they do and what
+they actually do because good
+entrepreneurs can create Magic to think
+as if they built the world even though
+they haven't done it yet so I think it's
+very challenging in the maturity of the
+current market that we're playing in but
+obviously as the market evolves there
+are more of a third party at the station
+companies like Gardner and others
+now try to provide some kind of a
+comparison and create some kind of a
+this criteria that you can check boxes
+accordingly but we still see that today
+a lot of the questions that we received
+from a from the market are are still not
+in a mature state that will allow to
+Define I would say a good good criteria
+that you can judge the environment
+accordingly
+right everything that makes sense and
+ask you if we're looking at this
+industry growing obviously this is
+something that every company is going to
+need even if they don't already think so
+um how are you imagining valence down
+the line we mentioned platform One-Stop
+shop if you're imagining sort of The
+Suite of businesses around the world
+that are that are relevant here
+what is the relationship that you'll
+have with them as they're preparing to
+to onboard some vendor of how are you
+positioning valence as the vendor for
+this
+yeah so I think today a lot of the
+businesses and especially security teams
+when they adopt a Mr breed SAS
+applications because they don't have
+good control in governance measures and
+the bright guard rails to guide their
+users they try to block everything so
+they say you can use Microsoft 365 but
+you cannot share files on OneDrive it's
+all only share internally or you cannot
+use this function or you cannot use that
+function you cannot create Integrations
+you cannot use tokens and it really
+limits the scope of the value of these
+platforms and as organizations are going
+through the first phase of moving
+towards SAS and are starting to evolve
+to become more modern SAS native and
+orientation they will need to start
+opening up a lot of these limitations
+that they're putting in otherwise the
+business will find workarounds because
+historically what we've seen is that if
+a security team defines something that
+is inconvenient for a certain team
+within the organization so like let's
+say with developers then they'll find a
+workaround to get what they want because
+they care only about the business and
+they want to make sure that the business
+is successful not because because
+they're bad or malicious and security
+teams will have to adjust to how do they
+how do they how do they want to be the
+enablers and to work together with their
+business their users in order to allow
+them to feel more secure to so to
+educate them to empower them and to
+allow them to run fast and to use the
+platforms but to ensure that if they go
+too much to the right too much of the
+left and there are the proper guard
+Wheels to keep them in place and to
+focus on what matters in terms of not
+only the business and the value but also
+the security aspect
+and it just from involvement for the
+security teams why are you still and
+exciting and interested in what you do
+what what's in it for you yeah so I like
+to build stuff and I like to to to make
+to kind of feel that I have the an
+influence uh on my day-to-day I love
+working and I love my I love my job and
+I I love to put in the hours and put in
+the effort to make a everybody that is
+kind of influenced by our company uh
+satisfied so it obviously it starts with
+kind of our our employees and the
+internal team and it goes through our
+customers Partners investors an entire
+ecosystem that we're kind of working
+with to make sure that they're properly
+satisfied from the value and the in what
+we're providing we're not looking to
+kind of be a platform that you hate but
+you have to buy or something like that
+we want to make sure that we solve a
+real pain this is why we're very
+customer obsessed in everything that we
+do and that we really listen and work
+with our customers and make sure that we
+properly adjust according to the
+evolvement of what they need
+and luckily enough we had great early
+Believers in that term and that helped
+really shape the vision of what we're
+now establishing within the market
+because we were able to really listen to
+their problems and to evolve and extend
+our vision and to expand it to New areas
+and problem spaces and really excites me
+to see when when we come and go on a
+customer call and they tell us so what's
+new and we show them a new capability
+that we built or delivered and they said
+oh God I didn't realize that this is
+what I needed but this is really what I
+needed and this is great that you came
+with this because I didn't know how to
+kind of express my specific need but if
+you listen enough to the ecosystem into
+the environment you can really find the
+right the right pain points that you
+need to tackle and usually entrepreneurs
+need to be very good they're product
+people in order to shape the right
+strategy and product strategy within the
+company
+so the the leap from being a builder and
+being Satisfied by these new new
+advancements and the new insights there
+there's still not enough to go on a
+crazy entrepreneurial Journey twice so
+where where is that coming from
+yeah I think that once you go
+entrepreneurs very difficult difficult
+to go otherwise you just mentioned that
+you started a company recently I think
+you'll see it there definitely firsthand
+it's very difficult to do anything else
+the level of excitement the level of
+thrill the level of influence the
+ability to every day do something that
+you wouldn't believe that you would do
+that day or that to tackle new problems
+and even if it's to just a have the
+ability and the flexibility to work all
+around across the board with multiple
+different elements so I can be one hour
+a marketing person the other hour A
+salesperson the third hour product
+person a researcher a hard technology
+problem I can go all around it really
+allows me to I think
+from my personal perspective to bring my
+best of myself out but also to to
+influence and help other people that are
+surrounding us and that that can really
+progress themselves whether it's for
+another business or for their personal
+career
+I love that and and I I love the the way
+that you're looking at the sort of the
+the simple but but really standard idea
+that once you started once you've always
+very hard to do anything else because
+you you realize the level is drill and
+you constantly surprise yourself what
+was the biggest leap from a leadership
+perspective that you've observed
+yourself whether it be your six years
+and the IDS or with the two startups
+where have you seen the biggest leap for
+you in terms of your your own leadership
+yeah I think that the when I shifted
+from like let's say a well-structured
+organization like the these are
+intelligence forces to more of the
+startup World although there are a lot
+of similarities but I think what what
+you need to realize is that the Ever
+every day or every let's say short
+period of time you need to assist and
+understand what is the most influential
+aspect that you can really help and
+impact the company because you can't do
+everything even though you want to do
+everything and you need to have very
+straight Focus or very a narrow focus on
+what you're focused and what you're
+going to work on today what is going to
+be the big task that you're going to
+work on today where does your team need
+the more help most help where does your
+team need you to back off from or
+whatever it is internally within the
+company and to really be able to focus
+your your efforts and your in your
+attention to the most influential
+aspects I think this is a constant
+challenge it requires you to be able to
+measure very carefully what's going on
+to know what's going on to understand
+and maybe anticipate the next steps
+especially in today's market economy
+where it you know it's a there's a lot
+of uncertainty regarding what's going on
+so let's say fundraising over the past
+few months and we just announced our
+series a a couple a couple of weeks ago
+a so fundraising is definitely uh what's
+top of mind and it really now allows us
+to focus and and to be able to maybe not
+take a call calls with investors and
+maybe focus more on building the
+platform building the business
+generating more revenue and making sure
+that we build a sustainable long-term
+business and being able to do this type
+of balance and to make sure that one day
+you do this another day you do a
+completely different aspect it's
+something that is a requires a lot of a
+lot of self-awareness and a lot of
+continuous measurement across the board
+of what you are doing and what the other
+team members within the company are
+doing or not doing
+phenomenal you only thank you so much
+this is so enjoyable and best of luck
+with the Journey of valence and the
+night startup on the next startup I
+really appreciate your time best of luck
+thank you thank you very much for having
+me
+[Music]

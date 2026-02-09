@@ -1,0 +1,581 @@
+the eager to create new things not like
+a painter
+okay that's for me painting it's you
+know designing
+new things it has to be innovative
+some new idea in terms of the concept in
+terms of
+how you know you work on it different
+angles aspect of the same things
+if it's not something new i wouldn't
+touch it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with
+c-tech
+we're back to talking about autonomous
+vehicles but with a different lens
+and we're going to talk about tactile in
+fact we're going to be talking with
+bosmiz
+the founder and cto of tactile mobility
+formerly
+mobiwise he is a veteran technologist
+and entrepreneur with over two decades
+of experience in signal processing
+algorithms research and systems design
+in the automotive and networking
+industries
+prior to founding tactile mobility buzz
+was system design group manager for
+zoron microelectronics acquired by csr
+welcome to 20 minute leaders how are you
+today thank you
+feeling great uh sun is shining
+everything is nice the office is working
+so happy to speak are you in the tactile
+mobility office
+yes just hold on a second
+let me show you around please yeah a
+tour
+this is like a show too okay so
+hopefully office it looks uh
+very promising so yeah wonderful
+boss before we get to talk about
+autonomous vehicles and this
+extra layer that you know we thought we
+tried to pre
+a little bit before which is not
+necessarily in the mainstream but it is
+a very significant part of of the
+autonomous vehicle world
+tell me a little bit about yourself and
+how you know how your journey led you
+to being the the cto of tactile mobility
+and and getting into this autonomous
+vehicle space right
+so since childhood i think um
+i love technology okay i started with
+the computer science or
+programming let's call it with the first
+personal computers ever and then
+but also worked on how hard was side
+architecture systems so
+so since childhood i'm looking at
+the almost every aspect of
+design of the high-tech design
+so from that point and on like during
+the high school and then even
+during the army service and then
+afterwards studies etc
+so it was always start trying to
+initiate
+a new ideas most of them are like stupid
+you know but
+some you know work so
+was it primarily curiosity or what what
+what why
+you know just keep starting new ideas
+was it to perhaps start a company or
+just to mere curiosity to see how
+technology works
+what was curiosity and
+the eager to create new things like a
+painter
+okay that's for me painting it's you
+know designing
+new things it has to be innovative
+some new idea in terms of the concept in
+terms of
+how you know you work on it different
+angles aspect of the same things
+if it's not something new i wouldn't
+touch it
+normally
+and so you go through your career you're
+doing your bachelor's and your master's
+i believe in
+the technion do you know that autonomous
+vehicles is going to be a big part of
+your life or
+or or you know our vehicles and
+automation in general no
+the network networking industry
+like you know routers
+switches algorithms for networking
+that was my
+you know my study that was
+the master degree i i was working on
+and later on the first startup i was the
+founder of like
+co-founding with my colleagues named the
+charlottesville networks
+so for like six or seven years we were
+working on terabit routers like the
+biggest ones
+uh and i was the in charge of the
+hardware designer like
+in charge of the asic design board
+design system design all the aspects
+from these
+microcontrollers and the fpgas up to the
+big systems you know like
+for four thousand kilo four kilowatt
+of the power consumption rate mounted so
+so the end of the day that was my
+passion
+and later on uh after some exit
+with that when you say that was your
+passion and i i have to i have to delay
+on that because
+when you say that was my passion what
+are you referring to really is it the
+is it the the extensive hardware the
+energy the
+how much energy you're consuming the
+fact that you're providing network to
+people that you're
+cutting edge technology which part was
+the the passion
+i think at that moment i think that
+mostly it's the cutting-edge
+technology to do something that nobody
+did before
+okay like creating the
+the highest bandwidth of uh routing
+devices uh terabit out at that time it
+was
+something huge uh so that was the
+passion i mean to take for example
+just the ball design let's talk about
+ball design
+the first boards that we have designed
+uh were like
+30 by 40 centimeters 32 layers
+it was something extraordinary for the
+israel industry i mean were the first
+i think to design and build such a
+hardware
+pcb so you know
+getting it through all these obstacles
+was
+for the passion i think i'm asking about
+the transition from networking to
+to a different industry no longer you're
+you're dealing with now
+with the same technology it's still
+cutting edge but why do that
+right so um
+as i mentioned i like to solve puzzles
+okay i like to get some challenges and
+try
+with my tools uh try to solve it
+so back at that day like 12 years ago i
+think
+i was supervising some project
+student at the technion where they
+tried to solve some problem or
+to assist with identifying um
+overspeeding of a car approaching a stop
+sign for example okay and then
+for informing the driver yeah and they
+said that this is not interesting
+let's try and solve some way more
+interesting
+in that field uh for example that they
+gave them like
+how do we save fuel
+okay so back at the time the fuel prices
+were very
+expensive and everybody looked into you
+know
+reducing fuel consumption and the
+emissions of course
+so i try to to solve a problem let's
+take a vehicle
+from point a to point b with minimal
+fuel consumption
+okay but simple problem now i
+i didn't know anything almost about
+vehicles
+about roads about nothing about maps but
+it was very interesting
+so while trying to solve it what i
+figured it out is that
+you don't have any information about the
+surface
+like there is no decent map for road
+grades for example
+or curvature etc and you don't have
+information about the vehicle what is
+the optimal driving configurations
+like for example gear position or
+engine torque rpm etc that will lead you
+at a specific conditions for the minimal
+fuel consumption like
+engine efficiency profile right so
+so then i drilled down and started to
+build the building blocks
+okay let's first map the road
+let's map the road grades once i have
+the old grades
+then and i can use it um to characterize
+the fuel consumption but even the fuel
+consumption of the vehicle
+wasn't something available on the
+stencils in the vehicle
+and when you try to use the existing
+sensors you know the
+inaccuracy there was huge like thirty
+percent
+and if you want to save five percent of
+fuel and you have
+error of 30 percent then you are deep
+into
+the signal-to-noise ratio problem okay
+so
+tried to solve these building blocks
+and it turned out a couple of years
+later
+that these building blocks were very
+very important
+okay like people didn't want to say fuel
+anymore
+but where can you map the world
+can you map road grades accurately can
+you map the surface
+out of the existing sensors in the
+vehicle
+can you make the performance of the
+vehicle okay my specific vehicle very
+accurately
+and that was some very interesting
+building block for the industry
+and this is how it started to roll um
+so we started as an aftermarket device
+company
+okay that building small toys you know a
+telematics
+system to to plug into the canvas
+in the car collect some maybe
+interesting daytime then deliver it to
+the cloud
+and so when you're saying aftermarket
+device you're referring to this idea
+that somebody by
+purchases a car and then you have a
+third-party tool that they can just
+purchase from a gas station or amazon
+they can install it in their car
+to get some extra layers of information
+and security or whatever
+exactly and this is how we started
+and my you know very decent
+and you know modest dream
+was to to be able you know to sell
+thousands of boxes like this and with
+this money
+to run a small company like a family
+company
+the family business and continue from
+there
+but then it turned out that the
+secretary business
+is more complicated than i thought of on
+one hand
+to get a break even and on the other
+hand
+the information that we've generated
+there was too sophisticated for
+simple fleet management you know
+telematics
+operation so the oems the car
+manufacturers
+were very interested in this technology
+so like in 2014 that was the first time
+that the scout from ford motors
+approached me and asked me if i can help
+them
+with their mapping surface really yes
+and with mapping the vehicle
+performance in order to provide
+let's say some basic building block
+technology
+for an adaptive cruise control
+application
+so it's like a cruise control so a
+predictive cost control it's second
+adaptive cost control
+but the speed will be determined
+according to the future
+horizon so and like if you are
+about to to go into a steep hill or down
+the hill or something like this and then
+the gear position and the gas the
+throttle
+will be pre-configured according to the
+horizon ahead of you
+targeting your saving okay so the first
+car
+roaming around will map the road grades
+the second car that will go there or the
+same car the second time
+we'll know the horizon ahead of it and
+then use that information in order to
+stay fueled
+so take me a little bit higher and and
+paint me a little bit about the
+you know the autonomous vehicle
+ecosystem we have quite a few
+amazing companies working in that field
+what what is happening
+and and where is tactile mobility within
+this ecosystem
+right so um from like six or seven years
+ago
+when we started working with oems
+and the fuel saving wasn't something to
+write home about
+then at that point the industry the
+industry
+went into this uh area of
+autonomous vehicles and
+as you look at it you see that most of
+the startups of the
+innovative companies are within the
+sensing
+layers of this industry so so try to
+sense what there is
+in the car the environment of the car in
+front of the car etc
+on top of that there is a layer for
+taking decisions and on top of that the
+actuations okay what do we do with this
+information
+now out of the first layer of the
+sensing clay
+most of the companies you will see today
+are within the visual sensing and when i
+say visual it's pixels
+the pixel can stand for depth it's
+lighter or later it can stands for a
+color of course in brightness this is
+camera like mobility for example
+and it can stands for even a heat okay
+like
+infrared or something like that even
+ultrasonic you can look at that as a
+light
+pixel generation um but
+most of the information you can see
+through your eyes okay answer it's like
+visual information
+it's a triangle but some of the
+information
+you need some other means of sensing
+in order to acquire this uh this
+information
+okay for example when you try to think
+about yourself
+driving a car remotely okay like
+sitting out of the car and trying to
+drive it just with the visual like
+camera line there you know
+screens around you you you miss the feel
+of the car okay
+you don't feel the road surface right
+you don't feel the car itself and you
+don't feel the combination the
+interaction
+between them now as for the visual
+like 40 50 years ago people started
+formalizing it like
+inventing the pixels as letters in this
+language
+inventing macro blogs frames etc and on
+top of this language you can of course
+share information and do a lot of
+calculation like machine learning etc
+but nobody so far formalized
+the other senses okay how does
+your car will feel the road surface
+okay and when i say fill the road we
+need
+to have the attributes of the road
+surface so for example
+the friction coefficient okay what's the
+friction coefficient or the grip
+level between the surface and my tires
+okay
+what is the status of my tires now okay
+i mean your tires are different than
+mine even yours day after that are
+different
+so the combination of your current tire
+and the current situation of the road
+that changes dramatically maybe due to
+weather conditions
+this is something to take a into care so
+so tackle mobility by the way buzz
+before when you were talking about
+uh you're talking about you know driving
+the car remotely i was picturing myself
+driving the car
+on i alone and at the same time i was
+picturing myself driving the car
+remotely in lake tahoe when it's snowing
+and how you know the house because i
+because i'm so scared driving there when
+it's snowing
+that i'm saying like if i don't and so
+many senses go into feeling the road
+understanding how to turn when to slow
+down when to speed up
+that you just don't get that simply with
+the visuals it's
+really a lot of it with a feeling of
+where your steering wheel is taking you
+you know talking about stories
+like uh we are working for the past
+four years almost with the bmw uh
+about uh you know our technology and
+soon like
+next month we'll have the first
+bmw vehicle rolling out of to production
+with tactile inside with our software
+inside
+that provides this vehicle provides this
+vehicle
+with the sense of the surface and the
+sense of the vehicle
+we call that surface dna in vehicle dna
+and the combination of the two
+gives more ability to the bmw car and by
+the way
+it will be installed in every bmw
+car all the fleet from mini to wall
+source
+to all the bmw in between wow and the
+first one will be next
+next month so um i mean
+during these four years working with
+these guys
+uh we were traveling to
+uh the north of sweden to a village
+named aryaplog
+in lapland where you have a lot of
+frozen lakes
+each oem car manufacturer has its own
+frozen lake that
+they can conduct a lot of tests in
+extreme conditions of like minus 40
+degrees
+as well as low visibility as well as of
+course
+low friction coefficient there and
+there is a road there that is called
+the silverado the silver wagon uh
+with the as the german oems call it and
+and this road
+is the holy grail of the grip detection
+why because it gets frozen and
+defrost like from one meter to another
+okay
+so and you don't see it it's like black
+eyes it's black ice totally so
+so just drive on top of that and
+sometimes
+it's like you can fly out of the road
+because it's frozen
+and then few meters afterwards it's not
+and it depends if you know a few cars
+ahead of you drove though so
+hold the tests for tactile mobility like
+the high-end test
+we were conducting on this silver road
+in the north of upland so you know
+by the way it's very amazing you know to
+see these cars
+drifting on top of the frozen legs
+from my perspective it was amazing i can
+only imagine
+you see and then they say that people
+who have serves don't have fun
+that's a i cannot imagine yeah
+thank you for coming it's a
+it's been such a i've had such a good
+time and i'm
+now i'm excited to go and dig deep and
+actually learn about
+about this extra layer to to to vehicles
+and and
+maintenance and understanding uh you
+know what driving is all about
+through through these extra senses i
+have a few last questions for you
+yeah but thank you for coming here uh
+what would be
+a one of your favorite subjects in
+middle school or high school
+i i thought i think it was the
+programming
+software programming back then you know
+like
+mp 35 years ago maybe more
+it was the language of kobold
+and pascal so
+that was my favorite subject
+wonderful and who would be a role model
+of yours or somebody that's
+somebody that inspires you in some way i
+think i think
+i think elon musk uh
+and i didn't think about it before like
+this but
+you know during the past couple of years
+you see that this guy with some positive
+craziness
+drive the entire world crazy if it's
+just
+you know the the bitcoin or the dodge
+coin or
+you know going to the moon traveling to
+the moon and
+of course the tesla car so uh
+you see somebody with a vision that
+actually turns
+the earth a little bit to different
+directions so
+i can admire such people definitely
+and what would be three words that you
+would choose to describe yourself
+i think modesty
+uh honesty and inspiration
+that's if i will try to honesty honesty
+and inspiration
+your fee thank you very very much this
+was
+a great i i loved it uh amazing
+congratulations on on the bmw cars that
+are going to roll out next month
+i'm sure that after nine years of of
+working on tactile mobility it's
+quite a quite a big emotional sensation
+and so i mean you know i'm getting
+excited just hearing about it thank you
+for sharing this time with me
+and stay safe thank you very very much
+for having me in your studio
+and today of course
+[Music]

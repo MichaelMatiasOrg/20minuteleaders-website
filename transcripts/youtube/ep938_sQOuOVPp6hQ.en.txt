@@ -1,0 +1,520 @@
+but basically it's the ability to to
+give Engineers the uh the power to bring
+the data they need in a click of a
+button without kind of the the status
+quo how you do it today or how you used
+to do it and we're talking about data uh
+we're talking about you know as in any
+other industry we want to take decisions
+uh Based on data uh for engineers this
+data is how their application is
+behaving logs metrics traces you know
+line by line the behavior of the
+software that's kind of the the
+debugging process or or the uh or the
+behavior process of the application
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello hello and welcome to 20 minute
+leaders today I'm so excited to be
+speaking to shakal Fogel the CEO of
+rookout he spent the last two decades
+leading data-driven businesses products
+and r d teams from early stage startups
+to government organizations Shahar is
+passionate about software architecture
+and observability as a cyber security
+team lead product manager VC investor
+and the Cambridge University MBA alumni
+thank you very very much for joining me
+today and as the CEO of rookout a
+problem space that I think I'm
+personally very excited about so I'm I'm
+excited for this conversation and I'm
+excited to learn and understand you know
+the way that you're breaking paradigms
+and shifting consumer behaviors and sort
+of Reinventing a process that that I was
+educated as something that um has a
+certain way of being and and all of a
+sudden roorkout is coming in and
+changing and tell me that there's a
+different way to to optimize for the
+same objective but but in a much cleaner
+way your experience doesn't start from
+root card youth you have a multitude of
+experiences in in different sectors in
+different environments
+um and right before we'll get into that
+I'll ask you to introduce yourself and
+and what you're doing with workout I
+have to ask how you've experienced uh
+Roger Federer's departure because I know
+how crazy you are about tennis I know
+God that was the like the week of Shiva
+for me like it's very very good pressing
+you know I'm a big big tennis fan
+besides the fact that I'm playing tennis
+since I was can't remember when you know
+I'm a big big Roger the fan my my dog is
+named Roger uh and you know three of my
+kids were born in Switzerland so we have
+uh you know we have strong bonds but you
+know life goes on and uh
+hoping someone else will come and take
+over him
+I don't know if anybody can um if
+anybody will be ever able to have the
+the Persona he created and I remember
+that that image I have it somewhere
+printed here at the image of him sitting
+next to Nadal and you can see in the
+doll's face
+anyways
+difficult 4am watch for me you know
+thank God for the last game of Roger
+Luna watching him lose and then watching
+the ceremony anyway
+unbelievable yeah yeah
+um so going back to to you and Luke out
+tell me a little bit about your own
+Journey leading up to root card just so
+that I can get a little bit of a better
+perspective on on who you are what
+guides you throughout your career
+awesome so I started my career first of
+all before my career
+um I married I have four kids that's
+always you know what defies me as a
+family person and a family man that's uh
+first and foremost uh but besides that I
+started my career in the Israeli
+intelligence forces like many of my
+friends in the ecosystem as a software
+engineerist but throughout the decade in
+the service doing mainly cyber security
+where if there was a software engineer
+at timely department head a course
+leader I did the many
+uh many positions uh back then but that
+kind of gave me the the foundations of
+what it takes to
+to build faster to manage software
+engineering and and all of that respect
+um afterwards I moved to the UK I did an
+MBA in Cambridge University so I lived
+for a couple of years uh in Cambridge in
+London then I moved to Switzerland or to
+Geneva I spent around
+seven years I started the principal in
+the visible and doing maybe early stage
+Investments and uh
+stayed around around the Enterprise
+soccer early days of SAS uh kind of 10
+12 years ago and after a few years of
+the VC space that moves back to the the
+real world the operational world and I
+was a VP product in a couple of European
+companies and in Connecticut and bradics
+uh mostly around you know some security
+some big data analytics uh that sorts
+came back to Israel five years ago
+enjoyed Rook out three years ago I was a
+CEO that's kind of my past 20 22 23
+years
+working around the tech industry I mean
+not just incredible
+um Diversified experiences in in the
+domains you were in but and not just not
+just in the domains not just in the
+positions you've held but also in the
+the lifestyle that you've LED I mean
+very different Lifestyles from from
+London Switzerland Tel Aviv you know and
+so it sounds like you've you've really
+amassed yourself with all these Amazing
+Life Experiences if you had to sort of
+summarize or dial you know really
+distill what you're excited about what
+is sort of the Common Thread between all
+these different activities all these
+different positions that sort of help me
+get a better picture of who shops it is
+I I think kind of what uh defines me in
+my career is that I like to do lots of
+things uh and which you know basically
+takes technology on one end and some
+kind of an impact today you know in the
+past they get the business impact before
+it was National Security impact that
+basically what's the the meaning of
+building the stuff that we're building
+and and constantly trying to you know to
+to find the common ground between the
+two uh whether it's product positions or
+CEO it's you know dealing with
+everything
+um but that's kind of how I look at it
+you know on a technology on a product on
+a business and most importantly on the
+people's uh level how how you built a
+machine that you know needs to work with
+so many uh elements together and and
+reach a certain goal at the end of it
+wonderful okay got it so take to me take
+me to Lookout and um and then let's
+start with you know explain to me a
+little bit about the problem space that
+that you're in because this is a problem
+that I've experienced myself quite a bit
+but I'm curious to hear how you define
+it in your own words and then we'll dive
+a little bit deeper into the strategy of
+it and what this actually means for the
+ecosystem and and a bit about World
+Market as well
+awesome so so kind of the problem The
+Rook up solves every engineer uh relates
+to it you know says the beginning of
+time even if we talk to ctOS that the
+last time that they developed software
+was 20 30 years ago they felt the pain
+back then now it's even more Amplified
+but basically it's the ability to to
+give Engineers the uh the power to bring
+the data they need in a click of a
+button without kind of the the status
+quo how you do it today or how you used
+to do it and when we're talking about
+data uh we'll talk about you know as in
+any other industry we want to take
+decisions uh Based on data for engineers
+this data is how their application is
+behaving logs metrics traces you know
+line by line the behavior of the
+software that's kind of the the
+debugging process or or the uh or the
+behavioral process of the application
+now in up until rockout was formed the
+only way to do to understand what's
+going on is to add log lines so meaning
+writing more code and then releasing a
+version of the software study to get the
+data back from the the software
+understanding if you place it placed it
+in the right location if so taking the
+decision of what to do it's not you know
+the whole iteration uh again and again
+and again until you you know you
+understand what the hell is going on
+um so so that's a very long uh iterative
+process cumbersome frustrating for
+engineers demotivated
+table you know eventually when we look
+at Engineers time around 60 70 of the
+time is is to solve issues or debug
+issues only 30 40 of the time is
+actually I would say writing the bugs
+but writing the features uh that
+delivers values to the organization and
+you know we able to shift despair then
+we want the engineers to focus on
+delivering value and spend less time on
+on debugging and and understanding and
+fixing issues and this way you know the
+what we give them is the ability to take
+processes that to take take them 20
+minutes or two hours or five days or a
+couple of weeks in large organizations
+and to do it in a click of a button so a
+millisecond you know click that button
+get the data you need even for
+production so you know eliminating the
+bid to reproduce environments replicate
+issues in closer environment and you
+know doubling down on that especially in
+the new world in the cloud native world
+where everything is distributed and
+containerized and the way it develops
+offer today is very different than 5 or
+10 or 15 years ago but the the value
+problem is only Amplified it's only more
+difficult because the software is
+further or further away from you
+so I'm going to ask a simple question
+and say I think about it I just think
+it's a pretty fundamental one at that
+um and it I'm sure that it doesn't have
+a simple answer maybe it does but
+you know this is a problem that
+everybody has right this is a problem
+that we've ex we've been experiencing
+for 30 40 years and it hasn't made leaps
+and downs right the way that I'm
+debugging generally last year was the
+same way that I've debugged 15 years ago
+when I learned how to code
+at least for Me Maybe I I'm not maybe
+I'm not up to date but but that's that
+was my experience I'm wondering you know
+usually especially in Tech when we have
+some challenge you know we we solve them
+over time especially when enough people
+have this pain point every developer
+listening to this is gonna acknowledge
+yes this is a huge pain point of Mind
+what's why hasn't this been resolved
+before rookout came or what in other
+words what what's stopping from a
+solution to Common and have the next
+step function here
+foreign
+so first of all you know it's uh
+uh the the plain answer is every you
+know big idea was you know the first one
+to come you know before that people are
+asking you know how did we not have
+social networks how do we not have no
+even you know in software log before we
+used to write to to files uh just the
+messages
+um so you know there's an evolution in
+the world but specifically what we do is
+we take and and that's kind of something
+that comprises many of our team members
+we take something that is very
+um relevant to the cyber world of how we
+do what we do which is by code
+instrumentation very low level work and
+apply it to the development world so the
+ability to click a button instrument the
+code in a light manner without
+predefining anything and just getting
+the data from that instance is is a
+skill set and the way we do it is very
+much similar to to how you know cyber
+tools are are working so that's kind of
+you know uh how Rocco was founded and
+and the skill set and mindset that was
+ported from the cyber world into the
+devtools OR devops world uh it's
+difficult it's a very difficult
+technological uh problem and a challenge
+and you know it took us a while to bring
+it to a state where uh it's stable
+enough and it doesn't impact security
+and it doesn't impact performance and
+there's a big motor uh and you know up
+until the point where we are today where
+you know large Fortune 100 Fortune
+10 Enterprises big financial
+institutions are trusting us enough to
+bring us into their you know both
+day-to-day but also production
+environments which is kind of where the
+magic happens
+so if I'm so if every company has its
+own you know you know the big the big
+challenges that a big obstacles it has
+to overcome I can't imagine that go to
+market is is the most significant one
+here right because and this is something
+that they see you know everything we've
+done with product LED growth over the
+last few years bottom-up approaches from
+teams I'm I'm even guessing that is a
+core part of the strategy here and how
+are you experiencing the market
+education and the go to markets at this
+at this point
+so you measure three parts one is around
+uh go to market versus technology and
+you know I know many many many great
+companies who has great technology go to
+market is always stationed uh you know
+if you're good enough to execute uh your
+ability to to find a prospect to sell
+them well and and to get them using uh
+it's always a challenge in any domain in
+any industry for every product but for
+us as well you know we need to uh we
+need to get there now two other things
+that you mentioned is around Market
+education uh that's that's a key
+Challenge and what we're trying to
+achieve because as you said you know
+just didn't exist before workout you
+know we have some follow-ons uh
+competitors that have copied us and
+doing similar stuff uh which is great
+you know it shows that there's a real
+problem and money is important uh but
+you know when you go to engineer and you
+show them what we do there's always like
+the jaw dropping aha how did it not
+exist until now uh which means that
+people are not actively searching for a
+solution like that because they don't
+know it exists so we need to educate the
+market that you know the solution exists
+for them to use it now in terms of kind
+of the go to market strategy it's it's a
+combination It's a combination of you
+know bottom up product LED growth uh
+momentum of course that's kind of how
+Engineers operates and work and working
+but on the flip side you know our our
+aim is to sell to large organizations
+that's where
+um you know the large accounts are
+that's where the pain is more
+significant both in terms of uh mctr
+main factor resolution and fixing
+customer issues the impact of something
+not working for uh for an Enterprise is
+can be hundreds of thousands of dollars
+or millions of dollars for every minute
+hour day that is not working compared to
+a startup which is smaller or smaller
+Enterprises uh and and these
+organizations Works uh slightly
+different you know there is also kind of
+plg and bottom-up momentum but but
+eventually our solution is that agent
+which is going and sitting in production
+in data sensitive environment and the
+individual engineer it's very difficult
+for him to go into uh you know one of
+the top three banks in the US and put an
+agent did production for their trading
+system just doesn't happen so so you
+have to go through the process anyways
+so no it's a combination
+so take me
+um you know three five years down the
+line what what is what does rookow to
+represent in the world what is the
+vision that you see for Rook out here
+so so basically the vision the North
+Star for us is you know the world of
+observability and we all know it's uh
+it's a very hot word or Trend and and
+lots of companies but all these
+companies are targeted it Ops people
+they're just making sure you know on the
+infrastructure level health checks uh
+CPU around whatever for a workout we
+want to lead we are leading want to
+continue living the developer first
+observability approach you know as part
+of the shift left Motion in the world
+where Engineers are getting more
+accountability responsibility and
+ownership of the application they need
+to understand what's going on uh without
+calling their friend from Ops uh telling
+that I give me access here or there or
+add me some data
+um so you know we want to give Engineers
+the tools to understand what's going on
+in the click of a button uh and and you
+know to be
+a part of their day-to-day
+tool set you know for everyone you know
+people like like you know for me with
+back you know 15 years ago when logging
+libraries started uh so you know we
+integrated them and said how did you
+write to log files until now you know
+how did we live without that for me five
+years from now I want aborigineers to
+say how do we live without the ability
+uh to uh to instrument the code in a
+live manner how do we every time need to
+write code add Lots deploy way do this
+whole cycle when I could just click
+about and get it
+that's very very cool and so if you're
+looking today at how you're measuring
+the success of your of your own product
+and considering the circumstances of the
+pain point that have led you to the
+conviction that this is an interesting
+space how what are sort of the the key
+Matrix that you really care about and
+and when it comes to measuring the
+success of a product like the one that
+rookout provides what is it about this
+the life cycle of an engineer developer
+that you are really I guess data driven
+about to optimize for so that rookout
+really makes a significant difference
+are you asking me or my investors
+you know for investors for a company
+eventually we're a business or a
+venture-backed business it's all about
+yeah you know how mature people are
+paying us to use the product that's
+that's a simple answer putting that
+aside per second for us uh how we're
+measuring it is of course by adoption uh
+within the organization so if it's one
+years or 20 users and the growth and the
+velocity of the expansion uh uh within
+the the Enterprise within the
+organization
+um uh started the engagements and how
+how much not only how many users but how
+many how much are they using us uh you
+know production issues happens not every
+day you know if it happens every day
+they have a different problem than
+workout than they have to deal with it
+in terms of quality but you know they're
+using us on the day-to-day as for
+themselves life cycle so how much are we
+embedded into their process uh and you
+know we're of course measuring uh break
+points and data and everything around
+that but at the end of the road when
+we're talking to our clients um we want
+to see a paradigm shift uh paradigm
+shift in the way that Engineers are
+working and for us to tell them listen
+you know the way that we're working
+today both in terms of how we develop
+the software and the software
+development life cycle and also how we
+solve customer issues with rookout you
+know it changed the way that the
+business is operating uh it's that big
+basically sounds big it sounds exciting
+and um sounds like you're very
+passionate about both the problem space
+and the solution on your in your own
+journey and Shuffle I really want to
+thank you for taking the time and I'm
+very sorry about said that um uh we are
+all we all are uh I really am
+we we live on and uh and uh thank you
+again for coming on this is such an
+enjoyable one day
+thought-provoking a exercise I think
+that I directed for myself and so I
+really appreciate the time and the
+energy best of luck with the lookout and
+stay safe and stay healthy thank you it
+was a pleasure and thanks for inviting
+me

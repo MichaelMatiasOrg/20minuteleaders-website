@@ -1,0 +1,1161 @@
+you need to be literate in ai and if i
+narrow it to
+the area i'm working in today literate
+in natural language
+what that means is
+typically you don't need researchers
+uh you
+um
+a lot
+of what you need to know about the
+language model
+is
+at the level of
+common sense
+uh maybe the level of a data scientist
+that can work with data
+understand it play with it and and
+experiment with it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret court ventures j ventures
+riverside fm
+fusion vc
+birthright excel j impact
+leap google for startups and hippo and
+in media partnership with c-tech
+hello and welcome to a very special
+episode with professor yuav shuam one of
+the world's leading experts in computer
+science and today specifically natural
+language processing with ai 21 labs
+javascrime is a professor i'm a readers
+of computer science at stanford
+university a leading ai expert professor
+sharm is fellow of aai
+acm and the game theory society
+among his awards are the
+ijcai research excellence award the aaai
+acm allen newell award and the acm
+sigai autonomous agents research award
+his online game theory course has been
+watched by close to a million people and
+professor sham has founded several ai
+companies including trading dynamics
+acquired by ariba the time going timeful
+both acquired by google and ai21 labs
+professor sham also chairs the ai index
+initiative which tracks global ai
+activity and progress and we code a
+non-profit initiative to train high
+quality programmers from disadvantaged
+populations thank you yuav i'm very
+excited to share this episode
+you have i'm trying to make sense of
+this world that we're in
+co-founder of aa21 labs you're both a
+research leading research r d
+a vehicle at the same time you're also
+building tools for developers like the
+developer platform but you're also
+building a products for and for
+enterprises and businesses and so you're
+taking the most advanced cutting edge
+natural language processing technologies
+and you're bringing them to real world
+and this is not a trivial idea because
+we're still figuring out
+what are we doing with nlp and how is
+this going to integrate into our
+everyday life so tell me a little bit
+about the founding of aa21 labs
+and and what sort of brought you into
+this world
+so ai-21 labs is an unusual company in a
+number of respects
+and one of them is the real reason we
+started the company
+we started the company
+not because it was one particular
+problem we wanted to solve
+but because where we saw ai in the
+historical perspective
+if you go to a website called ai
+index.org
+this is a project that i started at
+stanford about five years ago and it
+puts out annual reports about the state
+of ai both technological progress but
+also just quantity of activity whether
+it's the number of students taking
+classes or attendance and conferences or
+vc money or what have you and all these
+um all of those graphs are u-shaped back
+in the 80s ai was very very popular
+that back in the 90s you weren't allowed
+to admit you were doing ai and now
+the ai winter
+and
+now my plumber is doing ai but it's
+different very different kind of ai
+back in the 80s it was all about
+symbolic systems how to represent
+knowledge how to draw inferences
+sometimes in logic sometimes not
+um
+there was sometimes a probabilistic
+component
+but machine learning was always there as
+an intellectual activity but didn't play
+a key role certainly not in any of the
+deployed systems
+and wasn't as you know people spoke
+about expert systems
+it uh wasn't as
+bad as some people think but it
+certainly over promised and therefore we
+entered what was called the ai winter
+now the pendulum is swung back
+everybody's doing ai which is very
+different now it's all about statistics
+specifically under the
+heading of machine learning and these
+days even more specifically deep
+learning
+and um it's amazing
+what we can do now with machine learning
+is something that honestly i think a few
+of us imagined we could do um
+and
+the methods have evolved but mostly
+we now have
+data at scales that
+are again hard were hard to imagine
+and we have a compute power that again
+is just infinite and now you can do
+panel recognition
+object classification
+of all kinds um
+incredibly reliably
+and you saw the impact in
+machine vision first
+and there pattern recognition object
+recognition such a
+a clear
+present and important problem
+that it was natural to tackle it and you
+saw that
+there were advances that were dramatic
+people speak about imagenet the
+collection of
+you know now many thousands of photos
+where you can suddenly label the photos
+or cluster them and so on
+you didn't see
+that dramatic
+impact in language
+until about five years ago
+and the problem is that you don't have
+the analog of object recognition in
+language when you think about it
+vision is easy quote-unquote to
+recognize
+that this is a bottle it doesn't really
+matter what this pixel over here on the
+left is
+but there's nothing local and simple in
+language i sometimes say that vision
+machine vision is a lens into the human
+eye
+and language is a lens into the human
+mind
+because there's no thought as
+complicated
+as you'd like that you can't express in
+language but that means it's also much
+harder for computers to make sense of
+the language but then we saw the needles
+start to move because of the particular
+brand of neural nets called transformers
+as is well known
+and then suddenly you saw the needle
+move a lot of the academic benchmarks
+that kind of puttered along for a while
+suddenly
+the computer's
+approach sometimes exceeded
+human level performance
+but the truth is that it's a little bit
+of
+an illusion
+um
+the the these so-called language models
+are incredibly powerful and we'll speak
+about them they do amazing things they
+do enable things that
+are amazing
+but they're also limited
+um
+and um
+if you go to a popular language model
+for example gpt 3
+or our own jurassic one
+and you ask it to complete sentences or
+to answer questions they'll often do
+amazingly well
+uh for example surprisingly you ask it
+to
+add two-digit numbers
+and they'll give you the right answer
+you'll ask it whether in mathematical
+notation or in words
+uh how much is 11 plus 12 or you you
+could even say
+i had 11 apples and i bought 12 apples
+how many apples do i have and by and
+large you'll get the right answer
+you'll ask it to add four digit numbers
+you'll get an equally confident answer
+that is total
+nonsense because these models really
+don't understand edition they memorize
+many of the examples the training data
+they did some amount of generalization
+but certainly
+don't understand arithmetic
+and
+we have this amazing intervention
+we haven't announced it yet but um
+how to do addition we call it the
+calculator
+um
+and so um
+so so really you know this you know the
+60s hp gave us a calculator that does a
+job well
+why try to reinvent a wheel and and come
+up with a crooked one so mathematics is
+a simple example of reasoning that isn't
+natural for neural net
+uh to engage in
+um
+ask it to do other sorts of reasoning
+temporaries and spatial reasoning
+you'll do some amount of it but not
+robustly
+another problem is those language models
+understand so remember language models
+the the the term is a little misleading
+because you initially might think it's a
+model that learns the rules of language
+grammar and syntax and so on and it does
+that but if it learns much much more it
+learns about the world as described by
+the text on which it was trained
+as you ask that what is the capital of
+france you get the right answer
+you'll ask it who is the president of
+the united states he'll tell you donald
+trump
+because at the time of the training that
+was the case
+uh
+you might ask donald trump and i'll give
+you the same answer but most people
+would not
+and so
+it doesn't have access to
+current information it certainly doesn't
+have access to proprietary private data
+and we and and we know how to access
+those things
+and so we
+we founded the company based on the
+previous which was we still believe in
+that language
+language models are necessary but not
+sufficient
+we
+are
+we
+can use these language models to do a
+lot of work but we need to augment them
+with symbolic reasoning and access to
+real-time data and so on so that's the
+reason we started the company so we're
+talking about a lot of these
+transformational ideas that we've had
+over the last five years we've had these
+models exceed benchmarks and we
+understand that it's not necessarily
+sufficient and and we obviously have the
+recent uh the recent noise about
+sanctions etc
+where i'm you know if i'm looking at a
+21 labs you've positioned the company at
+the intersection of research which
+you're what you're talking about you're
+you're advancing the the
+state-of-the-art models uh whether it be
+foundational models or specific use
+cases but you're also creating offerings
+for the world so tell me a little bit
+about
+balancing those two as a company and
+then we'll dive deeper into the the
+research oriented aspects
+so i started by saying that we're an
+unusual company and one
+in what one respect is the reason we
+started the company i discussed that
+another is what you're discussing we we
+decided early on and i should say who's
+we are i started with my
+partner oy goshen
+uh and uh very shortly afterwards i'm
+not sure i joined as a as a co-founder
+not as just as an investor
+and
+we were
+we did not want to just create a
+research lab
+nothing wrong with that but we really
+wanted to create a large business so the
+question is what
+products or services we wanted to build
+that relate to
+this deep technology that we were
+contemplating
+and
+here honestly in an ironic
+way we were limited
+because we looked at many applications
+there's text everywhere we looked at
+legal tech at ediscovery we looked at
+healthcare electronic patient records we
+looked at construction tech
+mega projects were just text all day uh
+we looked at enterprise application we
+even had a prototype running the
+enterprise that implemented a playbook
+for sales teams
+that rather than have a sales uh
+a a playbook that perhaps is
+read once by a incoming
+uh sales executive if that and never
+again uh imagine
+a playbook that's live that's reading
+your email with you give you contextual
+advice based on the text
+and what we realized pretty quickly was
+that
+all of these could be wonderful
+businesses
+but they don't make enough contact with
+the types of innovation that we wanted
+to bring to bear so in an ironic way to
+limit us to application that required
+this deep technology and so our mission
+is to change how we produce and consume
+information
+and
+specifically how we write and how we
+read
+because when we think about it the way
+we write today is the way a product
+manager at microsoft decided in 1980 and
+that's true even if you're writing in
+gdocs or gmail
+you have you have advances you have
+collaboration you have spell checking
+you have auto complete but the
+fundamental experience hasn't changed
+and we think about reading uh we're
+executing on the vision of uh you know
+from you know of guttenberg from the
+15th century with a printing press
+somebody put a piece of paper or a
+screen and we look at it
+and we think that both of these
+experiences which are intertwined by the
+way
+um can be radically rethought if you
+take ai as a basic building block
+and turn the machine
+into
+a thought partner in this creative
+process
+and so that's our mission
+and which means that
+we uh
+we do we we started out by building our
+own applications a year and a half ago
+we uh
+we released our first product called
+we're tuned which focuses purely on the
+writing side
+and
+honestly it's a
+first step of a much longer road the
+tail end of which looks like total
+science fiction
+uh except it'll all be done in two years
+um
+but even this first step
+was fairly transformational to speak
+about word tune because it's very
+different from other writing assistants
+uh that are out there
+i want to delay for a second on what he
+just said
+the long tail will look like science
+fiction yet we're talking about a prism
+of two years this is a really
+foundational idea that i'm trying to
+understand here we have these remarkable
+advancements that are progressing so
+quickly and we're breaking the
+benchmarks on almost a weekly basis at
+this point
+how is the world going to respond or
+going to be impacted
+by for example the tale of of word tune
+the science fiction so to speak do you
+how do you experience or consciously
+think about
+the way that teams around the world are
+going to experience nlp enterprises are
+going to to bring nlp into their work so
+nlp is a very broad umbrella really
+language is an interface
+to everything to the way
+between people but also
+a new way to interact with machines
+and so when we speak about the impact
+it's very broad discussion
+if i limit a discussion of how it'll
+impact how we write for example just to
+make it narrower
+um
+maybe uh i can best explain it by an
+analogy
+if you're writing a book
+or an article in a
+prestigious magazine
+uh you used to have a copy editor i
+don't know if the people still have it
+because machines do it well spell
+checking grammar correction
+that's commodity and you know you can do
+it but you also have an editor
+and the editor is really a thought
+partner they look at it and their
+experiences say listen
+this part doesn't capture what you have
+in mind
+or
+these two paragraphs don't cohere or
+this whole section isn't really adding
+to the story
+this editor doesn't replace you
+but it makes
+you a better version of yourself and i
+think that's what we'll see in writing
+assistance
+a really a thought partner in the
+writing process and that's just one case
+writing
+right and obviously we have
+what you mentioned in the beginning was
+this idea that
+these foundational models
+understand the information that we have
+they at least pertaining to the time
+that they were trained
+in pretty significant ways whether it
+and these can come about in
+conversational iii these can come about
+in contextual learning or or within a
+organization's information so we'll see
+some transformative uh solutions over
+there i'm sure and and i'm sure that a21
+labs will have a piece of that as well
+going back to jurassic one foundation
+models and where we're at today in in
+2022 breaking the boundaries talk to me
+a little bit about symbolic reasoning as
+as a as an idea where of of
+in hybrid with deep learning to advance
+the boundaries of foundation models um
+so first of all jurassic world the the
+model we built um you know more than a
+year ago
+um
+is is not neurosymbolic it's purely a
+neural system
+uh
+very much inspired by gpd3 we were
+enthusiastic users of gpg3 were still
+big fans of
+of open ai
+but for a variety of reasons we felt we
+we needed to um to have our own model
+and so it's just a similar sort of model
+so-called auto-regressive left-to-right
+model uh it has some important
+differences but it didn't break the mold
+in fundamental ways
+uh it's just a very good workhorse
+um it's still the only large model that
+by large i mean more than 100 billion
+parameters that's available to third
+parties to
+to to work with
+um
+but um it was clear to us that that's a
+basic workhorse a necessary not
+sufficient condition
+and
+so there's a variety of innovations in
+purely neural approaches and they're
+important and we can speak about them uh
+you know insights about
+tweaking the architecture about training
+longer uh about various attention
+mechanism uh all very important
+um
+also um ways of interfacing these models
+through
+prompt engineering prompt tuning and
+other methods that
+try to coax out of this
+huge model
+information that
+is there
+but
+wouldn't come out if you didn't code
+the model into revealing it
+um
+but
+as i said at the beginning
+we believe all of that is necessary but
+not sufficient because there are certain
+things that these neural models are not
+good for they're not optimized for
+maybe
+if you
+let the neural net
+train
+for
+years
+and you know multiply the size by
+10 entertaining time by a hundred
+and spend not
+30 million dollars to train them but you
+know
+one billion dollars
+they'll generalize more and they'll
+learn all kinds of stuff that i'm sure
+will be interesting
+it's not at all clear that they'll learn
+mathematics as we know it
+um
+but we know how to do mathematics
+and so
+it's seems so obvious to us
+that we should have the best of both
+worlds have the statistical entrance
+and statistical
+access to world knowledge i don't want
+to use the term understanding that's a
+loaded term
+but
+a
+a a good way
+to get that statistical
+knowledge textual and also non-textual
+knowledge of the world
+and augment it
+with uh structured knowledge real-time
+information and optimize reasoning that
+optimize for certain islands of
+knowledge and that was jurassic x is
+which we developed a couple months ago
+phenomenal
+so
+if you're looking at a 21 labs
+as a
+as an entrance right now you're
+mentioning that jurassic one is still
+one of the only use cases for third
+parties to be able to interact with
+these large models
+where are we headed in terms of these
+foundation models very pragmatically in
+terms of applications for for businesses
+and enterprises so we have these large
+models we know how expensive they are to
+train we know that the the
+how
+difficult it is for it's not that that
+any research team and any organization
+can go ahead and train these models and
+create them
+is this something that we're expecting
+to have the integration of in the next
+couple years is do you expect that every
+small business will have access to
+create their own applications or to use
+sort of these black box applications by
+companies like a21 labs how do you see
+the sort of the near future in terms of
+our use cases with these word models
+these language models
+so the short answer is yes
+these
+language models
+or foundation models if you want to
+enlarge it to things that are not purely
+linguistic
+um
+uh
+are becoming
+uh
+much more generally available
+they will become more so
+models such as jurassic one
+a year from now
+will be commodity
+this is an area where you need to run to
+stay in place
+and so
+the innovation will continue at a fast
+pace
+and
+increasingly
+people small business as large
+businesses
+will incorporate them in
+all their offerings and in my opinion
+because language is such a fundamental
+modality of interface
+there's a question
+of
+who will who will trade these models
+as they become increasingly expensive
+will it be a small and smaller set of
+organizations
+there's also another
+issue which is i think even more
+fundamental
+is that these are early days
+people don't really know how to work
+with these models
+what they're good for and how best to
+use them
+and
+really um
+what you have right now is is akin to
+henry ford
+uh announcing his great invention uh an
+engine and sending an engine to people
+and say go have fun
+they're quite removed from the value
+proposition
+that an actual user developer or
+organization
+can relate to
+and so i think what you'll see two
+things you'll see these models get not
+only more sophisticated but also
+enveloped in layers that make it much
+closer to the application and you'll see
+the market get educated
+increasingly i think we were facing
+probably on the order of two years
+before there's more maturity both inside
+the providers and consumers of nlp
+technology
+so i'm taking us two years into the
+future right now and i'm looking at the
+creator economy as almost a metaphor for
+the creation of of language right i mean
+i think it it's it suits perfectly here
+i'm looking two years down the line when
+models like jurassic one are
+commoditized and and general access
+makes it easy for anybody to create
+content uh change content analyze
+content
+what should be be doing now
+so that in two years down the line we
+can use these effectively and
+responsibly i'm thinking even general
+things like the way that we communicate
+information news articles uh public
+knowledge what is truth if a lot of
+people disseminate information that is
+semi-truth right how do you even think
+as a sort of as a cutting edge
+researcher here who's pushing the
+boundaries and part of this running
+how are you thinking through some of
+these some of these questions i think
+there are several sort of questions
+folded into your
+question
+um
+you have to realize that
+i'm sure you do
+that
+um that um
+you can't easily generate content with
+current models
+you can
+generate seemingly cogent and useful
+stuff
+if you go and you know
+prompt a model you'll get surprisingly
+relevant things
+and
+a bunch of garbage
+and
+i know our organization a publisher a
+very big publisher who's been using
+um
+a large language model
+with the thought of
+increasing the efficiency because they
+create a lot of content so perhaps they
+can automate some of it and what they
+found
+all the savings they've had in the
+generation of the content
+is washed away by the need to prune
+analyze and vet the output of those
+because
+they are they hallucinate they don't
+make sense they contradict themselves
+and all of that
+and so i think we have a way to go
+uh and it's not only
+in creating better language models
+uh understanding that language model is
+a general facility on top of which
+uh you need to add a lot
+so um
+in our application
+um
+you know
+whether it's
+you know we're tuned or watching read or
+we now have a a very fun
+uh
+uh thing that doesn't even have a name
+but if you can find it it allows you to
+consume video um
+more efficiently and um
+in all of those cases the language model
+was a basis
+essential
+but
+definitely less than half of the work it
+took
+to actually provide
+you know a writer's writing assistant a
+reading assistant or a video skimmer and
+so
+we have a lot of work to do and it's not
+all about language models there are
+there's a good
+foundation model that percy liang and
+his many colleagues coined is not a bad
+term because it's foundation
+but a house needs more than a foundation
+foundation models are a good term
+because they do
+provide
+foundations for many applications that
+are based on land i'll focus on language
+on language
+but
+when you build a house a foundation is
+central
+but it's only part of the house
+and
+to 100 basic engine with its foundation
+and turn into a useful
+product or facility or what
+uh takes a lot more work and
+that's something that i think perhaps
+some people don't realize because it's
+easy to create fun demos
+uh we we just recently put out
+uh something called ask ruth bader
+ginsburg
+ask rpg and um
+it's
+it's i it it didn't push technology in
+interesting ways we uh fine-tuned our
+model really not exactly fine-tuned but
+we
+we trade the model uh so that it could
+uh mimic the style and content of what
+the late judge would would have said in
+response to kind of legal questions
+um
+and um and it's fun but our purpose for
+putting it out was not
+to
+you know
+to tell the public look how great ai is
+that's part of it but part of it is
+you know
+buy everywhere
+it does wonderful things and it's
+limited
+and so
+yeah that's that's the foundation
+i i i i looked into it and that was a
+pretty awesome i have to say and i was
+constantly thinking in my head wow
+people's brains are being
+mine are being blown away right now
+because this is one of the first use
+cases that we see this interacting into
+our daily life in in a really meaningful
+way and you're right i mean there is a
+lot of noise out there and a lot of
+conversation around what this means and
+obviously the whole conversation of of
+saint chance uh et cetera and uh and and
+i saw also uh something we posted on
+linkedin recently about this and i think
+it was your quote i hope i'm not
+misquoting you for somebody else but i
+think in one of the articles about rbg's
+um demo that you've had you said i i
+don't want people to be disappointed by
+the underperformance of current ai and i
+don't want them to monger fear and i
+think that's a it's a pretty powerful
+idea which is really explaining what
+what you're saying here is that we have
+to understand really where we are what's
+limited but but my my issue is you have
+is that you know the public doesn't
+really understand what's happening right
+i'm barely able to keep up with the
+academic research and i barely
+understand myself the limitations and
+the potential of what we have
+so if i'm looking now at how i mean
+businesses around the world are going to
+run to want to implement a lot of these
+tools because it'll give an edge in
+whatever we do so how so what what
+education do we need to provide and at
+what layers do you think for
+organizations around the world in two
+years time to be able to use to use
+these these models effectively into our
+own use cases do we need new positions
+within organizations do we need every
+organization to have researchers on
+board or specific pms dedicated for this
+how do we integrate the world into a new
+place where now
+these language models are are being able
+to be integrated into our everyday life
+it'll vary
+among organizations of course both in
+terms of their sophistication and their
+mission and their resources
+but
+just as
+you know personal computers
+started to
+infiltrate
+industry
+uh it was clear that you needed to be
+literate in computing you need to be
+literate in ai and if i narrow it to the
+area i'm working in today literate in
+natural language
+what that means is
+typically you don't need researchers
+you um
+a lot
+of
+what you need to know about the language
+model
+is
+at the level of
+common sense
+maybe the level of a data scientist that
+can work with data
+understand it play with it and and
+experiment with it
+and
+uh my advice to
+so we when we put out jurassic we had 10
+000 developers signed up
+uh it it honestly it was overwhelming um
+so you know we don't have time to speak
+with all of them on a kind of personal
+basis
+but when we do
+um
+my advice is first of all dip your toes
+in the water
+there's no substitute to experience dip
+your toes in the water and second
+uh think about the simplest use case in
+your business your organization where
+you have an intuition it may not be the
+highest value that's not important right
+now but with the match
+with uh
+language is obvious
+and earn the side of the simplest
+application don't necessarily rush to
+create a chatbot chestnuts are hard uh
+they don't really well
+um i don't want to dis my colleague but
+they
+don't they don't work um
+why if your dad here heard me say this
+uh we have a problem
+um
+delicious may not know that your dad is
+one of the foremost uh researchers in ai
+and runs the
+gruel research activity in israel is an
+amazing guy um
+but but anyway um
+the um
+um
+take a simple um
+for example
+um we had
+uh i won't mention even the industry but
+we had a company
+that had not a chat bot but they had a
+simple dialogue question answering uh to
+their offering to to
+to users it was kind of brittle because
+they had a set of questions
+and
+can't answers and the chance that a
+question would match exactly
+um
+the uh one of the
+you know the art you know their bank of
+questions was very low
+and
+but that really lends itself to uh
+to language to diversify the question
+and understand which question is perhaps
+closest
+and diversified the answers
+and
+and that's an example of a relatively
+simple application that's well within
+the reach
+of current technology and that doesn't
+call for
+a huge investment of resources or deep
+knowledge of natural language
+so
+find a
+good problem not the most complicated
+one and start experimenting
+so you have you're a
+an innovator and a researcher
+what are you most excited about right
+now in natural language
+whether it's something that we have
+something that we're working towards
+when before you go to sleep and you're
+thinking to yourself wow
+what crazy world we're in what are you
+most excited about
+for today or for the future to be honest
+every day i go into the office i'm blown
+away
+because
+people are doing such creative things
+and
+every day i'm blown away by uh something
+that they're doing that i would not have
+thought of
+and so
+it's not one thing
+um
+it's um
+it's
+um the the possibilities are so exciting
+um
+you know we're focused on on on a
+particular mission of helping you right
+and if we read
+and
+and the idea that i could go
+and
+jot down
+some of my ideas
+and
+then the system will help me turn them
+into a whole narrative
+um i find that exciting because
+i pride myself on how i express myself
+and yet
+you see this i'll tell you a story um so
+one of my hobbies is wine
+and
+uh the
+the one of the best known critics of the
+wine critics in the world uh and the the
+the the best known british critic is
+james robinson
+and she has this newsletter
+and what they have is an annual short
+story competition
+and
+so we had this it wasn't even a
+product it was a
+such a fun demo
+um
+so you know gpd3 the the initial demos
+were
+you know write the first paragraph
+they'll complete the whole story but of
+course it would invariably go and
+meander and you know who knows where it
+goes
+and so we said rather than extrapolate
+from a a starting point
+why don't you give it the beginning and
+the end and have it interpolate
+uh between them
+uh and uh with the thought was it'll
+give us more of a direction of where to
+go and maybe we'll meet our list uh the
+system was called haim uh and by the way
+it invented its own name
+uh we gave it the the prompt i'm a
+language generation system my name is
+and one decision was hein
+um
+and um
+and uh so we chose the name haim of
+course we retrofitted an acronym i think
+it was
+what was it i think it was a halfway
+adequate interpolation machine but
+then the natural
+next step was to build heimke
+with kn points rather than best
+beginning at the end
+build a whole bunch of
+write a bunch of sentences so that's
+what i did i wrote i think six sentences
+about wine
+and out came a whole story and the
+sister was interactive he said i didn't
+like this try again i'll make it short
+and make it longer after a few tweaks
+like this there was a story it was kind
+of fun story and i sent a turn she
+published it
+and
+you know that's so much fun to do but
+that wasn't the product
+we're not yet at the stage where you can
+do this really in real life
+but when you think about the
+possibilities here
+it's just
+it's it's so fun
+so so you have i i can honestly i am i'm
+feeling your excitement even even
+through this uh this remote podcast but
+are you considering yourself more of a a
+researcher and a you know a
+mathematician computer scientist a
+creative entrepreneur i mean who who
+really is you have shum you know you've
+been a professor emeritus at stanford
+for dozens of years you've you've been a
+you know pushing the boundaries of
+technology and research
+pretty much your whole life yet i'm
+hearing you talk with so much excitement
+and joy about the applications
+of what some of these inventions are
+doing so how do you sort of
+see yourself in this world
+um
+well it's not like they're mutually
+exclusive right um the nice thing is we
+have this luxury
+of
+so we like to build stuff you know um
+the difference between you know
+being a scientist and being creator a
+science scientist tries to understand
+god a creator is god
+and um
+and so
+you're trying to to do both
+um it's a lot of fun to create it's
+addictive once you've done it you know
+there's no going back um it's a matter
+of personal taste i have one of my best
+friends is
+you know maybe israel's tough
+mathematician
+and
+he loves proving theorems
+um and he's he's amazing at it
+um
+i'm maybe because i'm not as amazing at
+it uh i resorted to being a creator so
+it's both but
+um but it's creation based on deep
+principle deep mathematics so the
+combination appeals to me
+yeah thank you so much and not just for
+this last uh 40 minutes but for your
+work in general i've been enjoying so
+much following the different things that
+you've been putting out there both as a
+professor and researcher but also as an
+entrepreneur ai21 labs is one of the
+most
+important companies today pushing the
+boundaries of nlp which is undoubtedly
+revolutionizing the world i think in
+ways that very few
+around the world still understand and i
+i honestly can't wait to see in two
+years time what what will be of word
+tune or any other product that ai 21
+labs does and and how the world is going
+to respond to all of this and i think
+we've raised some interesting questions
+here we've only touched the surface on
+some of them and and we're i'm going to
+be thinking about them for much longer
+over these next two years and i i really
+appreciate your time and energy well
+we're talking in two years 100
+thank you very very much
+[Music]

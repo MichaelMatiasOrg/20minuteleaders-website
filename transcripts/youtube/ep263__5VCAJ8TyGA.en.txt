@@ -1,0 +1,726 @@
+and very often data can tease that out
+we can learn how important price is to
+the customer how important delivery time
+is the customer
+how many you know i think a big part of
+any marketplace
+is understanding that balance of supply
+and demand and how to
+yeah just like forecast it but also act
+against it
+peter fishman thank you so much for
+joining me on 20 minute leaders how are
+you today
+doing well calling from california
+i'm in san francisco san francisco
+lots to cover and let's get into it a
+fascinating fascinating journey i don't
+know how many more people i've had in
+this show that have have
+so many different experiences as you've
+had
+i i even have to open it up next to me
+in order to read it which i have i don't
+think i've ever had to do that before
+all the way starting from studying
+economics at
+london school of economics to doing your
+bachelor also at duke
+university of california berkeley doing
+your phd
+and then you're moving to narrow
+economic consulting
+google philadelphia eagles the pantheon
+group
+play dom economist and walt disney
+director of analytics at yammer
+principal data science manager at
+microsoft vp of analytics and growth at
+zenithfit an amazing company a head of
+analytics at open door
+a chief bacon officer at bacon hot sauce
+you'll have to explain to me what that
+is
+and most recently your chief strategy
+officer of
+ease a company that a lot of our friends
+in california will know what it's about
+and you'll explain to us soon
+and now the co-founder of your own
+company mozart data did i get any of
+that right or am i completely off
+uh it's a nice walk down memory lane but
+uh yeah i'll
+expand a lot of different companies and
+a lot of different uh careers with some
+common themes there
+i need about 19 minutes of breather
+after reading that list
+peter what the hell how how does a
+person go through a list like this how
+does that happen
+yeah well so i think you hit on on one
+thing i'm an economist by trade
+so i did my phd uh in economics
+uh in the bay about eight miles east of
+where i'm currently living
+at uc berkeley it was a really special
+time to be in
+behavioral economics and applied
+behavioral economics
+um and i was working with a lot of data
+and uh and sort of getting that training
+and sort of teasing causality uh out of
+a data set and trying to understand
+what's driving uh certain things that
+are happening
+simultaneously is a really interesting
+tool set that i learned in graduate
+school
+and then uh there was there was sort of
+this really nice movement
+towards using more and more and more
+data as it became
+more ubiquitous in in tooling and
+decision making
+and then more and more cost div so that
+organizations beyond just the giant tech
+companies
+could really use uh data to advance
+their decision making
+and that's kind of um been a common
+thread uh of my career
+right i mean you can you can literally
+see the thread as you're transitioning
+from
+being an economist and an analyst at
+these companies to then
+running the analytics and growth but
+then transitioning into strategy and
+data science right and then most most
+recently the company that you're running
+now mozart data which we'll talk about
+soon
+is really helping companies analyze the
+data pretty much the work that you've
+been doing across about a dozen
+of these fantastic organizations but
+peter before before we get to mozart
+data i'll leave that for the second half
+i'd love to pick your brain on
+these nuggets and experiences from these
+different companies as an economist
+what is the role of an economist within
+these tech organizations and when i look
+at also walt disney i think of it as a
+technology company like any other so a
+lot of
+a lot of larger companies have
+economists that
+opine on the direction of the economy
+because so much of the investment of
+people and resources
+depends on like basically the bigger
+macroeconomic picture
+um that's actually not at all what i do
+um i an economist
+in my mind is about
+using an economic tool set to understand
+uh data so thinking about uh
+kind of some of that training and some
+of that sort of micro
+economic decision making and how that
+impacts
+the sort of macro uh vision
+of a company so i think a lot of um
+what i do though my title is often
+economist and though my training is
+often economist
+i'm just an applied statistician that
+happens to have taken some
+economics classes so i think with that
+yeah so i think there's
+the the common theme there is that
+economists have a really good way
+in my mind of thinking about causality
+and prediction
+a lot of modeling data right right yeah
+yeah of thinking about kind of the
+relationship between two things that are
+happening
+um and and that's because um data used
+to be a lot smaller so when i did my phd
+i had a giant giant giant giant giant
+data set which was about half a million
+observations
+um today if we saw a data set of half a
+million observations
+um it would um you know it would be
+uh you know of uh you know events that
+people
+might have picked up in minutes or even
+less so
+um what used to sort of count as a giant
+data set was
+was uh you know is now a very very very
+trivial
+data set and but you know because data
+was small
+you had to think of really clever ways
+of understanding the world and
+understanding relationships in the data
+and sometimes
+that meant things like um you know
+describing
+um a mechanism a behavior
+that would sort of account for these two
+things
+co-varying with each other and sometimes
+that would be actually sort of these
+fake experiments that would be existing
+in the data they weren't real
+experiments they weren't like
+scientific method experiments where you
+try condition a and condition b
+and see which one's the winner which is
+you know so prevalent in today's a b
+testing and other forms of testing
+but rather um things that were sort of
+almost a natural experiment that would
+occur in the data and you'd have small
+data and you'd want to
+tease out that causal relationship and
+think about it in a deep way
+about in what ways is this not a real
+experiment
+so um so that training i think really
+helped as we transitioned
+uh at smaller tech companies from
+essentially small data to almost
+everybody having uh big data due to a
+lot of cost efficiencies that have come
+up on the data side
+that transition from an economist or an
+analyst to
+running analytics to being head of
+analytics
+head of growth both at as benefits and
+then an open door
+what is that how is that transition what
+what is the thinking process because to
+me it sounds like
+it it's a little bit even more dramatic
+than being an engineer
+to to a head of engineering here you're
+really because you're saying economists
+it's a thinking of
+causality and and what impacts what and
+modeling data
+to see trends and in one hand you're
+modeling you know a subset of the data
+as in your
+position and it sounds to me like you
+know being head of analytics is now
+thinking
+much more broadly about okay where are
+we headed what can we extrapolate from
+the data and what can we request from
+the engineering
+to provide us for the future yeah so my
+first year of graduate school i read uh
+moneyball
+which was okay for many me for many
+folks in the analytics
+industry that was a very sort of
+defining book it's michael lewis's book
+on the oakland a's and i was going to
+graduate school
+just one town north of oakland and um
+and then ultimately i became sort of the
+money baller
+at the philadelphia eagles which is i
+use my graduate training
+to you know pull out sort of insights
+about players and football activity
+i love that at the eagles um and
+um what i learned there was
+really about impact across an
+organization which is very often
+you know there can be an insight like
+it's good to go for two
+when you're down by 14 or uh
+or it's good to trade out of the first
+round or
+something that the data clearly or it's
+good to go for it on fourth and short
+whatever it is
+the data might back that out and might
+be convincing
+in an academic way but there's real
+people
+and you don't get to really run all the
+experiments you want in the real
+world and sort of having a big impact
+across an organization
+is not just about teasing out the
+insights and the data but it's also
+about kind of driving impact within the
+organization
+now you know it may happen right exactly
+so you had mentioned a few transitions
+right
+i transitioned from being an individual
+contributor
+at you know a company like platinum and
+disney to
+being a you know sort of a junior leader
+uh to being a more senior leader and all
+of those have different steps different
+sort of stakeholders across the
+organization
+and you do kind of like you said for for
+many engineers they transition
+from being a great engineer to now
+having a role of
+managing engineers and there's just such
+a different sort of almost skill set
+um and the same is true of course in in
+data and analytics which is to say
+there's a certain skill set which
+involves
+being able to wrangle a bunch of data
+being able to clean or
+tease insights out of data or
+communicate with data
+i think actually i i would actually
+probably have the opposite
+uh because because with when you're an
+analytics leader
+you're trying to tease those same
+insights out of the data and simplify it
+at the sort of cross-functional level so
+a lot of those core skills you develop
+as an ic though the jobs aren't
+identical a lot of those sort of course
+skills translate really nicely
+interesting what are you enjoying mower
+uh well you know obviously i've spent
+the last sort of decade of my career um
+leading data teams of different sizes
+you know
+i joined zenefits where i led the data
+team of just me
+and then ultimately grew it to a very
+large team as that company
+had a really meteoric uh scale up
+and then you know obviously uh most
+recently before mozart data i worked at
+a company ease
+ease is basically a cannabis marketplace
+that matches supply and demand it
+matches
+uh sort of dispensaries with consumers
+that want those products
+um like any regular marketplace except
+for
+it's it's just because it you you just
+give the definition of what a
+marketplace does and it seems so common
+that
+you know we have a marketplace for
+everything for beverages for food for
+toys for whatever obviously when it
+comes to cannabis and it's still a fresh
+thing
+in in in many states it's still
+something that requires
+explanation but i'm sure it was a
+phenomenal experience and i've actually
+been following the activity of ease
+and i love the way that they're
+democratizing and regulating the whole
+transaction
+in the marketplace but please continue
+yeah so i mean
+i i think actually data plays a big big
+role there
+um you know i think when you think about
+a very highly regulated market
+um some of the challenges become
+actually addressing that regulation but
+doing so really quickly and
+understanding what really matters
+to your customer right and very often
+data can tease that out we can learn
+how important price is to the customer
+how important delivery time is the
+customer
+how many you know i think a big part of
+any marketplace is understanding that
+balance of supply and demand and how to
+yeah just like forecast it but also act
+against it so
+um data plays a huge role in what uh
+ease does it was a really forward
+thinking
+uh investment to you know build out a
+strong data capability because that was
+you know and you know on some senses
+forward thinking on the other
+on the other hand it's just us catching
+up to other industries you know you
+mentioned
+sort of uh you know food delivery right
+looking you know like many of these as
+solve problems transportation obviously
+the matching of supply and demand that
+uber and lyft do
+these are all very solved problems in
+those industries and kind of
+and what a key world data plays at those
+places just being able to map that
+to you know a place with a ton of
+regulatory
+challenges you know this is uh cannabis
+i think is uh
+has been and will continue to be a
+really interesting um
+data and managerial problem for for a
+while
+it's it's pretty inspiring to me that a
+company like like he's goes in and
+takes an economist and somebody that
+runs that heads analytics and data
+science teams
+and puts in the position of a chief
+strategy officer because it really it is
+saying something it's saying that
+we believe that our core strategy should
+be guided by
+by data and by by you know the causality
+and by a team that
+knows how to manage this data and run
+the analytics i don't
+think that most companies have
+necessarily that persona as the chief
+strategy officer
+yeah i might be wrong but i haven't seen
+that that often
+so i agree with you but i think the
+trend is that
+so when you think about sort of
+marketing you've traditionally seen a
+lot of
+cmos but you start to see growth leaders
+now growth
+tends to be just quantitative marketing
+right right now similarly on the
+operations side when you think about
+solving a problem like
+how much demand do we expect to have in
+say san francisco on a tuesday afternoon
+at 3 p.m
+ultimately this is a data problem but
+it's also a people problem you have to
+have the right number of people
+sort of there to you know essentially
+connect the supply and demand
+so on the one hand to me
+that kind of strategy work is ultimately
+just data problems but you can see
+operations you know business operations
+and uh operations just looking more and
+more like
+data problems and having more and more
+savvy data leaders come into leadership
+roles in those functions
+as well as the expectation for anybody
+that's a ceo
+that's a vp of operations is that
+they're comfortable working
+certainly in a bi tool but also having a
+good grasp of data and what's
+what's happening with their data and i
+think that's a perfectly way
+into a what mozart data does so having
+that grasp having that handle on all
+this different data and what you can do
+talking a little bit about what mozart
+data does and i'm particularly
+interested to hear
+really tangibly what what insights
+you've gained from
+you know these years of both being the
+data handler and the data manager
+transitioning into your
+your new baby and mozart data yeah
+thanks and it's actually
+like you said a very relevant uh segway
+because
+um what dan my co-founder and i saw
+was that there was this growing
+population of folks that were really
+uh competent and comfortable
+and itching to use the data like this
+population of business
+analysts sales ops marketing ops
+business ops
+heads of analytics data analysts that
+really knew what they wanted from their
+data had a great understanding of the
+business definitions and understanding
+of what data would inform those business
+decisions but
+getting at that data which is now
+getting more and more siloed by all the
+different sort of
+uh bevy of tools that people are using
+people using all these different sas
+tools and databases that all
+basically silo that data that it's
+producing
+so there's this sort of imbalance where
+the demand for data is growing
+really rapidly and the supply we know
+where it is but it's hard to get at
+you typically have to hire engineers or
+data engineers
+to essentially enable that
+centralization of data and this was
+becoming a problem
+and more and more companies they hire
+folks like me or like dan
+to actually go centralize that data so
+that it can be used across the
+organization
+and a lot of that centralizing work is
+in my mind
+um sort of wrote or commoditized
+and you know we would just go from
+company to company
+you know all the ones that you mentioned
+in my career building out
+either you know the same stack or
+something very very similar sort of
+centralizing everything
+in a powerful data warehouse a columnar
+data warehouse and we decided to
+essentially build that as a service so
+that
+really anybody that's really comfortable
+with
+data and data thinking and sql could
+really
+do the data cleaning and the extracting
+loading and transforming of the data
+that needs to be done
+um with their skill set you know with
+their understanding of the business
+definitions with their understanding of
+their technologies
+and not needing you know python jinja
+dags custom languages to really make all
+of
+the work that is actually quite
+straightforward what data you need
+making that available without kind of a
+big data engineering lift so what we try
+to do
+is be the easiest way to onboard sort of
+a modern data stack
+that's it that's so interesting so what
+would it would an
+interesting workflow be that let's say
+that there's somebody in marketing that
+has
+a ton of data and csvs that they get
+from
+somewhere within their company they load
+that data to you
+you help automatically cleaning it and
+starting to
+to to see some causality and some models
+and then
+provide would provide them a framework
+for analyzing the data without having to
+use
+things like like code or data science
+well so i want to back it up one step so
+you know you've already gotten to a
+point where the marketer has that data
+in csv form
+um i want the marketer to be using the
+tools that they're comfortable in
+maybe that's you know hubspot or maybe
+they're using salesforce or maybe
+they're using google ads or facebook ads
+and we want to be able for them with
+just the credentials just the rights to
+be able to use that data
+to be able to extract and load that into
+a central data warehouse
+now they might also have csvs or g
+sheets or something like that
+which they also want to put in their
+data warehouse they want to combine and
+clean this all
+and transform it all uh in
+you know in their data warehouse and
+they can do that uh with a platform like
+mozart now
+going all the way to the end we are
+actually not in the bi space so we don't
+um you know give you the tooling to go
+you know
+graphically represent your data and tell
+a story with your data which is like i
+mentioned
+you know from my time you know with the
+eagles and then throughout my career a
+really important
+part of what a great data person does
+they tell a story
+with the answer and that's not really
+what
+we provide though we actually really
+like giving
+customers a good push in the back in
+terms of these are core tables
+these are core pieces of analyses that
+like we see
+a lot of folks in the space that you're
+in doing so we like to give people
+frameworks for um for doing the cleaning
+for building their analysis
+but really what we want to do is empower
+you to get to that point of a central
+warehouse
+where you can start joining data from
+different
+tools and we want to really make that uh
+available to anyone
+i love that peter before we go i have to
+thank you
+for being generous with your time and
+for joining me in this show i have two
+last questions that i have
+asked first of all chief bacon officer
+of
+bacon hot sauce now you've been there
+for ten years
+so i'm guessing this is gonna it's a
+little different from the rest
+yeah so uh so big and has was a real
+passion project
+um so actually dan the co-founder of
+mozart and i
+uh started this hot sauce company uh 10
+years ago
+um we had the idea that the two best
+things in the world were bacon and hot
+sauce and we had to combine them
+and then we made that a reality uh and
+then ran that business
+uh for ten years and actually uh we
+ended up selling the business
+uh and uh starting mozart so
+so you know there's like sort of like a
+a lie which is to say like you know
+there's a story about slack which is
+they were
+you know a tiny speck and then suddenly
+they you know that wasn't going where
+they wanted it to go so they
+decided to pivot into their chat app you
+know we sort of tell the story
+it's only partially true which is we had
+a hot sauce company that was failing
+and that we needed to pivot so we
+pivoted into this uh
+mozart data company which which is true
+insofar as that it's dan and i working
+on it
+uh together but we're sort of dating
+people at our core but also bacon and
+hot sauce people also at our core
+peter i have to say that i feel like
+i've wasted uh 20 minutes here because i
+want to go back and just talk about this
+this bacon hot sauce company and but
+we'll leave that for another episode
+in another cycle before we leave peter i
+need three words that you would use to
+describe yourself
+sure so uh number one is like efficient
+so i love
+uh i love when people are able uh
+to make uh great uh 80 20 like
+trade-offs
+um because so much of kind of the
+insight i think
+comes in kind of just uh the setup and
+understanding of it
+um i guess uh another one that i
+i sort of uh you know as a single word
+it's it's sort of like a pay it forward
+but i think one of them there's hyphens
+in there yeah sure
+so pay it forward is what i found in the
+valley is that so much of my growth
+can be attributed to folks that i've
+worked with both that were above me
+uh that worked for me and that were
+actually um
+i guess horizontal to me so um i think
+when you
+invest in in having those people
+understand uh
+either data or how you're thinking about
+the data or how you're thinking about
+the problem
+um that pays huge dividends and then
+last you know we have um
+a big mentality around growth uh uh you
+know at mozart uh
+professional growth uh you know personal
+growth
+all of those things and i think uh
+growth you know obviously my career at
+parts was working in sort of growth
+marketing
+but um i think growth is also another
+one that's a little bit counterintuitive
+which is
+the more someone grows it doesn't
+distract them from the core of what
+they're doing it actually
+there's no substitution it actually just
+adds more and more and more richness
+uh to their capabilities and also their
+their willingness to invest in something
+so
+sort of growth ties nicely with pay it
+forward
+peter thank you very much this is
+wonderful congratulations on your recent
+four million dollar seed round for
+mozart data i told you right before that
+i'm that i'm already upset that we did
+this
+a couple weeks too late because i wish
+we could have gotten in there
+but uh but really congratulations and i
+love i love your take on things and
+and particularly i get it inspired by
+people's journeys where
+where they become they they experience
+these
+growing pains over or over lots of
+experience over shared experiences
+eventually
+culminating in this aha moment that they
+have internally and then
+bring it out to the world so thank you
+for the inspiration for that and stay
+safe and stay healthy
+same to you enjoyed it

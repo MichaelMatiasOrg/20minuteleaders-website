@@ -1,0 +1,635 @@
+we came and said
+scanning and identifying static
+vulnerabilities is just the beginning
+what people really care about is
+whether those
+thousands of vulnerabilities that we
+find whether they're actually
+exploitable and if it's exploitable
+prove me so people want to see that we
+can actually exploit a vulnerability to
+then get to a crown jewel
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hello stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders today we're going to be talking
+to the ceo of one of the most hyper
+growing startups in cyber security
+called pantera in pen testing but we're
+going to be discussing his journey from
+being an executive salesman to the ceo
+of a cyber security startup meet amitay
+razan the ceo of pantera amitai is an
+experienced ceo specializing in growing
+early stage tech ventures from no
+revenue or early revenue to tens of
+millions in arr across regions and
+verticals as pantera ceo he's led
+exponential growth since january of 2018
+to becoming the de facto market leader
+in automated security validation through
+three funding rounds from awc ventures
+the blackstone group and insight
+partners the most prominent cyber
+security investor of our time
+[Music]
+welcome to 20 minute leaders the ceo of
+pantera how are you
+thank you michael it's a pleasure being
+here indeed
+see open terra we've just changed the
+name from sizes so some people who
+probably know us still as sizes but we
+like the new name better although we
+have lots of sentiments with the old one
+obviously we're going to talk about how
+it's relevant to exactly what you're
+doing and i love it and amitai not the
+traditional path of a ceo of a cyber
+security company captain of the infantry
+unit idc tel aviv university mba
+executive mba at kellogg
+then going on a sales route
+and climbing the ladder there to to
+leading sales at some great companies
+and then
+being an entrepreneur and creating a
+cyber security company how does that
+happen
+yes so this is a great question and
+indeed it's not like the typical route
+i'm not like one of those guys
+like 24 25 year old out of 8200 right i
+was in different eight something unit
+but not in a different part of the idf
+so we are not a typical route
+um
+actually if i try to kind of to
+understand how it all happened
+uh to me the whole
+journey kind of starts in new york city
+i was um
+just after my army service
+um you know an officer traveling touring
+the world like all of us
+here in israel trying to have fun right
+after the army
+found myself in new york city talking to
+a friend
+that kind of convinced me to take a
+sales job at a company called the jewish
+yellow pages believe it or not that was
+um in in queens boulevard new york i'm
+like the year is 1999 and why do i know
+about sales and about new york right i'm
+just like a tourist that just got like
+some some temporary visit to do that
+so um i find myself with no preparation
+running in the streets of new york
+trying to convince physicians you know
+chiropractors pediatricians dentists to
+buy yellow yellow pages advertisements
+in a in a well-known directory called
+the jewish yellow pages right
+um that was pre-internet 1999.
+so to survive in new york and to be able
+to go to the new york knicks games and
+to do like a coast to coast trip and to
+go to the best parties in town
+and and to have fun i had to survive and
+i had to make some good money and find
+and do something that i'm happy with so
+i kind of um
+learned how to survive
+uh in that job as a sales guy so i was
+you know topping sales in this company
+selling two three yellow pages
+advertisements a day
+for i did it for half a year and then i
+said okay it's enough now i can go to
+israel and and study law and businesses
+i planned then i was promoted to be a
+head of an office so i was 23 year old i
+was running an office with like 20
+something employees i had two cars
+living their life uh and and that's kind
+of where i realized that that um that
+sales should be part of what i do when i
+grow up
+uh that's kind of how i that's kind of
+how my career started
+very non-traditional i came back to
+israel went to idc
+i studied learning businesses i always
+planned
+i was admitted to one of the best firms
+in the country gornitsky and company i
+was sure i'm going to be a lawyer in one
+in like a great office or at least start
+my career as a lawyer but as i was about
+to do my internship
+something didn't feel right for me i
+mean to be a lawyer i kind of remember
+those great days in new york where i
+really enjoyed selling and managing
+sales guys and and all this like vibe
+that didn't really kind of um connect to
+the to the life as being an intern or a
+lawyer
+so um i was lucky enough to be
+identified by super derivatives
+that was in 2003-45
+it was like the iron source or the jfrog
+or the monday.com of the time it was one
+of the best companies in israel in high
+tech
+so i took a job
+and i started there as a
+as a as a sales guy for the nordic
+region after i finished my i learned
+business degree
+so the kind of they gave me they told me
+hey amitai you're not spoiled you've
+been in the army in an elite infantry
+unit so why won't you go and sell in
+iceland norway and like in sweden
+and i said okay i can say i've done it
+in new york
+but then the ceo there told me david
+gerson he said amitai you know
+us fintech you know veterans we know
+that people like you were just starting
+you would have really like hard time at
+the beginning because you're not from
+the industry you just graduated from idc
+you're very young it would take you some
+time to pick up and understand really
+delay of the land in sales right in
+enterprise sales
+it took me a year and a half to kind of
+uh be the company's top performer which
+i kept for a few years
+um all of that selling from you know in
+the nordic region from tel aviv so
+flying to reykjavik
+uh like norway sweden etc
+for five six seven years that's how i
+started my career um and that was like
+in enterprise sales hardcore
+um without any expertise in derivatives
+pricing systems analytics i learned
+everything on the fly but that's that's
+not a traditional path to start with for
+people who today run cyber security
+companies i guess i'm i'm starting to
+see a pattern here well i guess it's all
+thanks to those jewish yellow pages in
+the end
+give me a few tips
+in sales it's not every day that i get
+to talk to somebody who who got to sell
+jewish yellow pages and then got to sell
+from tel aviv to the nordic
+places and
+and become a top performer within a year
+and a half after not knowing anything
+tell me a little bit about what you
+learned yeah so so to me the profession
+of sales was always the profession of
+understanding the human's brain to me it
+was always like a mind challenge a game
+challenge uh it was really never about
+the money although as they say if you're
+good at what you do you make money in
+this business
+it was always the drive to um you know
+when i kind of came across a prospect i
+always told myself well this guy doesn't
+know
+but in 20 30 days this guy is going to
+spend hundred thousand dollars with me
+he just doesn't know it i do and it's
+gonna take me 30 days and certain things
+to do so that hundred thousand dollars
+flow from his pocket to the company's
+pocket so it was always about the brain
+challenge what do you do
+in time zero so that in time you know
+whatever
+30 days 60 90 days
+um you get your stuff you know uh uh as
+you wanted to and you're able to
+convince and and convey the value
+proposition all of that happening like
+in the middle but it's really a brain a
+brain game
+of how you uh kind of convince someone
+who's a complete stranger to follow uh
+your paradigm and and what you want to
+achieve
+in the thailand it's good for you now
+whether it's cyber security fintech
+advertisement of yellow pages that's
+just these are nuances these are details
+at the end of the day
+it starts and ends with with uh with
+this kind of mind game
+what what leads you to think of
+penetration testing and the simulating
+cyber attacks
+as uh you know as an important part of
+the cyber ecosystem today let alone
+obviously deciding to start a company
+yeah so so i just kind of take a step
+back before that if you don't mind so
+after super derivatives i i was vp of
+sales for you know two israeli startups
+uh the one where i spend most of the
+time is earnings which is today unicorn
+where inside partners have lately just
+invested you know they're a great
+company i was very lucky to be their vp
+of sales for four years so after i've
+done four vp of sales roles the second
+one at this young startup called call
+view
+i got a call from uh the two founders of
+pantera then sizes i didn't found this
+business
+it's it's the it's alright liberals and
+eric feingold that were the founders and
+they kind of found me on the kellogger
+canadi network so i did my executive mba
+there at kellogg and they called the
+program head and they asked her you know
+a ceo because we need somebody with
+enterprise sales expertise and i was
+just giving a lecture at kellogg about
+the international sales management
+and late back then the director of the
+program told them yeah call me
+so i spoke to the founders and i said
+wow you know this is this is awesome a
+technology that with a click of a button
+launches
+real cyber attacks against
+a company's infrastructure without
+installing agents without any game just
+the real deal just like that
+so ike liberals on which is my my
+partner in crime to this journey the cto
+and the inventor behind pantera
+you know looked me in the eyes and said
+this is going to be the next big thing
+and i've never seen such a termination
+in a founder's eyes like i saw in arik
+and i said this is the guy i want to
+work with
+because i never i've never written even
+one line of code in my life
+but i scale businesses from nothing to
+tens of millions of dollars that's what
+i do for a living
+and arik
+is an amazing entrepreneur an amazing
+technologist so together me and eric we
+kind of went on this journey
+now we're 130 employees at pinterest wow
+selling tens of millions of dollars all
+of that was achieved in three and a half
+years we have people in 10 countries
+a big office of almost 35 people in in
+the east coast of the united states
+with 30 people selling in nine european
+countries working for us i mean all over
+with big r d
+um and research teams that that came
+from elite units of the israeli defense
+forces people that came from rx unit
+which is called the special ones it's a
+very special unit of um of uh cyber
+researchers that were basically
+challenged with the task of infiltrating
+uh the
+most kind of lucrative assets of the
+country of israel uh before the bad guys
+do that
+so ari kind of came with this narrative
+i joined him to to make this
+great idea a real business that is today
+a market leader
+unbelievable
+what's similar
+in your time as a salesman
+in the different
+organizations whether it be you know
+fintech or whatever or or in cyber
+security what's
+what what are you drawing from your
+previous experiences that's helping you
+channel this you know this energy and
+this understanding into the cyberspace
+yeah so so i think that while cyber is
+something that that a that for for a
+sales guy or for a marketeer or for a i
+would i would say that product
+management r d you can't teach that they
+need to come with that already from home
+but um
+while that is something that you can
+learn so how to pitch a cyber product or
+how to promote a cyber product what you
+cannot teach
+is passion and drive and and hunger so i
+think what i take with me from my days
+as a sales guy
+uh it's all about determination all
+about hunger all about
+hearing from investors and ecosystem
+that a startup is a business that is
+that is determined to to die unless you
+make it and you don't
+so
+when i kind of heard that it's again
+it's in against all odd situation which
+is the the situation i got into the
+beginning
+i loved it and i think that that's a
+very common thing across all the places
+where i worked at it was like an against
+all odd situation
+uh and and i love that
+um i would say that um
+just like super derivatives and earnings
+we have a product here that adds tons of
+value that you don't need to
+uh hard sell so people understand today
+in the around summer age people don't
+need to be you know don't need to be
+hard sold to understand that one needs
+to attack themselves like the bad guys
+to really understand how the bad guys
+think and operate right so so the fact
+we sell on real value and the company
+didn't invent the product and then look
+for buyers to satisfy the founders kind
+of uh um
+idea which is detachable reality in this
+case it's a different situation where uh
+credit to the founders that thought
+about a solution
+that the market was already already
+hungry for so when i joined it was quite
+easier because the product already
+answered the real need we didn't need to
+invent a need and then ask people to
+believe that the need exists
+wow and so give me a broad overview on
+penetration testing today at scale and
+and how you're working with pantera and
+you know in so many countries and and
+tens of millions of dollars in sales to
+to help them
+feel more secured and test by
+simulations that they really are secure
+yeah so i start with the end i mean
+we're actually very proud of it we're
+not doing any simulations so while
+others in our kind of ecosystem would
+actually go the agent's approach deploy
+lots of agents in the network and then
+provide them with the playbook
+and then run some simulation pantera is
+very proud of not running any simulation
+we would actually attack the enterprise
+like the bad guys would
+with one exception that we come with no
+malicious intentions but besides the
+malaysians intent and besides the fact
+we do no harm it's exactly like the bad
+guys so we are the whole company here
+and the reason why we have the best
+investors in the world like the
+blackstone group and inside partners
+and the execution is all thanks to the
+fact that this is a no simulation type
+of business
+and and i think that what the what's
+interesting here is
+that we're disrupting an old market of
+vulnerability assessment vulnerability
+management
+as part of which buyers were used to
+just
+scan for static vulnerabilities in the
+network that are a result of legacy
+windows products like windows 8 windows
+xp windows 10 etc etc and and just
+scanning and identifying vulnerabilities
+up until we came and started our play
+was the thing
+we came and said
+scanning and identifying static
+vulnerabilities is just the beginning
+what people really care about is
+whether those
+thousands of vulnerabilities that we
+find whether they're actually
+exploitable and if it's exploitable
+prove me so people want to see that we
+can actually exploit a vulnerability to
+then get to a crown jewel so pantera
+actually exploits vulnerabilities
+whether static or network
+misconfiguration
+aka dynamic vulnerabilities we exploit
+them we get to crown jewels and we show
+the buyer hey this is your cfo's left
+this is the cfo's laptop this is your
+financial report this is the swift uh uh
+user and password this is this is crazy
+stuff and we put our hands on it in five
+seven minutes
+now what do you want to do mr buyer so
+it's very provocative it's very much in
+your face but in a good way people
+appreciate it
+at the beginning they say ah you
+wouldn't find so much because deloitte
+were just here then as we try as we find
+stuff and as we do it very fast they go
+go pantera go go go because they're
+happy that our product actually
+identifies stuff and then at the end we
+don't need to do a hard sell it's just
+very trivial
+wow
+sounds crazy and so when when you start
+talking to to people now it's more the
+sales side when you start talking to new
+customers do they understand from the
+get-go
+if you're just talking to them about
+what you're doing let's say an executive
+in a big company do they do they feel
+comfortable with this idea or do you
+have because obviously you know from the
+cyberspace i get it but but do
+executives that are not coming from the
+cyberspace let's say institutions like
+banks or electricity companies these
+sorts of companies that are very very
+sensitive to these topics do they
+understand what you're doing
+yeah so great question
+i would say up until you know two three
+years ago
+run somewhere and and the likelihood of
+a small medium enterprise absorbing a
+ransomware attack was wasn't really
+there so when when you talk to today to
+executives in small retailers small
+supermarkets medium-sized law firms in
+the uk switzerland germany three years
+ago ransomware attacks in cyber attacks
+were not for them it was the business of
+goldman sachs and capital one and
+equifax and those you know very big
+companies from america
+lately uh we're seeing board of
+directors and ceos asking their csos
+what are we doing for ransomware we gave
+you all this money you spent two three
+million dollars on firewalls
+anti-viruses edr's what do we do for
+ransomware i don't want to make a
+headlines tomorrow do we challenge
+ourselves like the bad guys or almost
+like the bad guys so now that joe biden
+just went on went publicly and said and
+calls enterprise of the world do third
+party pentests the president of the
+united states
+i mean that's like the best pre-sale
+activity that this guy that our company
+could have expected
+i i've never heard you know uh ovi
+rivlin or benjamin netanyahu telling
+enterprises go and do third party
+pentests but joe biden does that he just
+went to the like it's uh addressing the
+union and said hey all the ransomware
+attacks are like the modern terrorists
+go challenge yourself like the bad guys
+so that that has given us huge back wind
+so now i mean when joe biden does your
+pre-sales you don't need the pre-sales
+team right
+i mean
+i i i love the energy and like and i can
+see why you're so successful you're
+selling jewish uh yellow pages i i love
+it and i love the story and obviously
+i'm a big advocate of of what you're
+doing and and that every enterprise
+needs to doesn't shouldn't not not only
+should do pentesting but has to do pen
+testing it's for the greater good and at
+the end for me as an end consumer living
+life it's it's i i really appreciate
+that i want to take you back with a few
+last questions about yourself
+starting out from your childhood what
+really fascinated you as a kid
+so i think um
+as a kid i was always inspired by
+greatness in sports
+so i grew up in jerusalem
+playing basketball in the streets of
+jerusalem playing for a team called
+acairushalaim
+so uh i took it very seriously i never
+made it to the pros because i you know
+probably i wasn't that amazing i was
+quite good but uh my inspirations were
+like people like in in jerusalem like
+football players like elio hannah or
+malmilian back in the 80s
+and then taking me to my you know
+teenage years so michael jordan
+you know was my my idol
+and um
+and there is one sentence that michael
+jordan once said that i always take with
+me
+michael jordan was asked i mean michael
+why do you give your heart and soul
+every game
+every season every practice i mean
+you're michael jordan
+the world technologies that you're the
+best of the best why do you give your
+best when you play against atlanta hawks
+on the game game 72 in the season when
+no one cares you're already the
+champions or you made it to the playoffs
+why do you care so michael jordan said
+um because in any stadium where i play
+there is a kid somewhere that they've
+never seen me playing and for this kid
+i'm scoring 35 points
+so um i take that sentence as a as an
+inspiration and i try to apply it in the
+way we we play this game here at pantera
+whenever we go whenever we do a pov
+whenever we hire an employee this guy
+for the marginal guy
+for the marginal partner the marginal
+investor or the marginal customer they
+haven't seen us in action yet so it's so
+i kind of take this analogy it's very
+strong
+i mean
+i think that
+and you also answered my next question
+about what inspires you today and um and
+and i think i'm gonna steal this from
+you and i'm gonna i'm gonna borrow it
+and i'm gonna do it in peril too from
+now on i think it's i i didn't know that
+that quote and i and i it's really
+inspirational but what i do want to know
+is three words that you would use to
+describe yourself
+a family man
+my three kids you know guy knowing your
+tom
+uh and my wife dafna you know they're
+giving it the energy and the happiness
+and the inner energy to continue because
+as ceos it's quite lonely sometimes
+and you need some energy from
+a different source which isn't arr or
+renewal rate or investors or customers
+so it's my family which is the core of
+you know what i what what defines me
+so beyond everything without them this
+is nothing there cannot be a pantera
+without them
+thank you very very much stay safe stay
+healthy best of luck with pantera thank
+you for helping enterprises stay safe at
+the end they're they're keeping us safe
+and so thank you very very much take
+care thank you thank you michelle all
+the best

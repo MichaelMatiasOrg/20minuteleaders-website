@@ -1,0 +1,624 @@
+computers are dumb
+they can only answer questions
+you know and i think the point is
+the hard part is asking the questions
+right the our part is something that
+that only us creative people can do
+and so if we're not enabling people to
+do more if we're just trying to automate
+or take away
+work from them
+um or you know just gather data for the
+sake of gathering it we haven't done
+anything
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+i love talking to fast-growing startups
+meet sega liao the co-founder and ceo of
+tone king
+tonkin is the operating system for
+business operations transforming
+operations teams from facilitators into
+makers with an enterprise grade no code
+process orchestration platform
+by abstracting the technical knowledge
+required to automate monitor and manage
+mission critical business processes
+while still maintaining compliance and
+security tonkin enables enterprises to
+accelerate operational velocity at scale
+founded in 2015 tonkin is headquartered
+in san francisco with r d in tel aviv
+[Music]
+welcome to 20 minute leaders how are you
+good man thanks for having me
+thank you very very much for joining me
+from san francisco and running a really
+really cool company tonkin
+which i just learned is type of a monkey
+so and you'll explain to me that the
+name choice in a second but until then
+you know the whole the whole idea of
+data-driven companies data-driven
+decisions the intersection of business
+and business and intelligence and and
+how processes are being made within
+businesses i think it's fascinating and
+i think it's it's fascinating in a
+changing world with an accelerated
+globalization with remote work and and
+decisions having to be made across a
+variety of of disciplines within
+companies and and so i i you can see
+already that i'm really excited about
+what you're doing
+before we even dive into what i just
+said who is sega liao
+well again thank you for having me
+michael i'm ceo and founder of tonkin
+and um
+um i like to say that uh i'm a software
+guy at heart
+you know i've been been writing coaches
+i was 10 years old type of thing
+but i had you know had experience in the
+opportunity to grow
+as a leader and
+and an executive in in public company
+before starting tanking
+and so
+i'm very
+bullish about this space as well
+and i actually like to say that you know
+we started talking about six years ago
+so think you know i'm excited to see
+your excitement because let me tell you
+six years ago no one understood what i
+want from them
+i can imagine it's a good time
+i can imagine
+six take me back six years ago you're
+sitting you're thinking you're looking
+at the world what what are you observing
+so
+you know the
+there's a benefit always to come into
+a room for the first time right you look
+around and everything is new for you you
+don't have the baggage
+of you know what is the status quo how
+you know the things we use the way we
+used to do things um and
+that's kind of what happened to me um i
+was
+i was in the army in israel um
+in the intelligent unit
+i you know joined a small startup we got
+acquired by uh by a
+public
+tech company
+and i got the opportunity to grow there
+relatively quickly and grow a team there
+so we actually grew the uh the team in
+israel from about seven people we were
+in the startup to over 150 people and
+and i was leading this group and then i
+moved with this company here to the bay
+area that's how i ended up here
+originally
+and um and at that point had over 300
+people under me so no longer engineering
+more you know more global
+in different different parts of the
+business
+but i was new to all of it you know i
+sort of grew into it and i had my
+engineering and software experience but
+not necessarily operation experiences so
+every time i came to you know whether it
+was an executive staff meeting or an
+off-site or whether it was just like
+ordinary decision making
+i just felt like things are
+weird i was strange
+are inefficient or
+you know there i say old
+in the way we do it and it's it's a
+known thing that
+you know development and r d usually are
+you know a few steps ahead
+with um with technology in general but
+even with
+you know methodology and how how you
+operate because you need to sort of keep
+up with the technology
+um advance advances right but the rest
+of the business how do you manage legal
+how do you manage sales how do you
+manage you know marketing how do you
+manage finance
+it's all about lagging if you will in in
+the methodologies and the tools you're
+using
+and i just felt like honestly
+there's a huge huge mismatch between the
+technology we have
+and what we need in order to run a
+business and so
+to kind of you know the highlight that a
+lot of people talk about like what is
+this so like um
+you know that that light bulb moment
+for me it was i realized that the
+business business processes that we all
+do all the time
+are not actually about data
+they're about people
+but hundred percent of software in the
+organization is about data you know move
+data around you log data you view data
+and um
+and and the things we've built are not
+built for how people work
+in
+in in fact we're changing the way people
+work in order to fit to the tools we
+have and that's just felt like a a big
+enough problem for me to solve and so um
+so i started to um you know join forces
+with my my co-founder and start talking
+so you're sitting there and you're
+thinking okay how in the world am i
+gonna
+change the way businesses are run from
+the inside how processes are on how
+decisions are being made
+not letting the the data be the the
+epicenter of of all the decisions but
+but allowing the people to make to run
+the processes how do you even begin to
+rationalize through what type of product
+you can build to make that happen
+it's hard
+in fact it you know
+it took six it took to be honest three
+years for us to really start a break
+through wow um so only three years ago
+is really when you know things start to
+rapidly turn for us um the first three
+years
+are a combination of that sort of
+trial and error you know trying to
+figure this out and trying to
+better understand where the market is
+currently and
+you know um how do we take that concept
+that is very emotional
+to me but not as you know what the
+beginning wasn't as like practical so
+how do you kind of turn it into a
+practical solution
+uh but to be honest the market wasn't
+there too so there's other things that
+are important
+um
+you know
+digital transformation is just a huge
+thing for the last 10 years
+with the cloud and everything and today
+a lot more companies
+are in the cloud but not everyone still
+but it's a different situation that than
+it was six years ago it was ten years
+ago that's one thing right uh apis you
+know just the concept of
+companies building products and
+understanding that there need to be part
+of an ecosystem
+you know is an obvious thing now it was
+not obvious 10 years ago was less
+obvious six years ago so a lot of those
+things you know are
+uh the the the world is moved to it but
+even
+automation people that
+you know know about the space a little
+bit of no code low code and automation
+in general that concept of not every
+problem
+should be solved necessarily with buying
+an off-the-shelf product just this
+mental thinking
+is also something that you know sort of
+grew as a market
+you know side by side with our uh
+personal growth as a company
+and so it really sort of met in the
+middle i like to say you know about
+three years ago
+right
+also
+process
+the
+when you're when you're approaching
+companies and you're and you're talking
+about the way processes are on the way
+data is is run within an organization
+how receptive are they you know you just
+you know for even from the light libel
+moment you know when three years ago
+things started to turn
+how how receptive are they the first
+time they're thinking critically about
+okay
+we have running an operation here we
+might actually be doing we might
+actually be making decisions without the
+right tools
+yeah i think it comes down to
+two things
+one
+the investment
+or the priority for companies to invest
+in improving operations
+um that's almost like a culture shift
+the understanding that
+we need to invest in how we do things
+just as much as investing in what we do
+and
+kovid
+you know is terrible but
+but on from uh from a from a
+prioritization stand was actually very
+inducive moment because what happened
+was
+change is all of a sudden not a
+theoretical thing that you need to be
+afraid of it literally just happened
+everyone had to change everything about
+how they work whether it's remote
+whether it's the shutdowns whether it's
+the fact that your customers and
+consumers change their behavior
+that change
+was not again not no longer a
+theoretical thing it was an immediate
+thing that you have to adapt to and if
+you don't you die it's very simple it's
+as simple as that
+and so all of a sudden companies
+that um even big companies which i can
+talk in a second like type of companies
+we work with
+that never had operational efficiency or
+operational excellence in their top you
+know three
+company-wide initiatives are now kind of
+made the cut and became like the number
+one or number two number three
+goals no longer only revenue or only
+customer satisfaction but also
+operational official excellence and
+operation efficiency so that's the first
+things like what is the
+why would you even listen to me like why
+what why is that even matter right and
+then the second thing is
+what does it actually mean though what
+does it mean to change your um to up
+level your operation the way you
+leverage technology for it so one thing
+that people need to understand
+is that nothing have ever happens in you
+know in a silo it's like it's it's a
+movement
+um and you maybe even know it yourself
+you know 10 years ago you had um roles
+like dev operation developer operations
+devops and sales operations those are
+about 10 years old
+to d but it was all
+basically the only type of operations
+you had today every department as an
+operation teams
+you know you have legal operations and
+finance operations and i.t operations
+and compliance operations and hr
+literally name uh you know a department
+and they now have an operation role
+uh that's part of that investment that's
+part of that understanding that you need
+to put people
+to think about how are they gonna
+improve
+the the operation the processes as a
+full-time job not as after a fact that
+something doesn't work let's fix it
+right but like i said
+what is the technology what is the
+methodology that is available for them
+to actually iterate
+um and so
+without getting into too much details
+you you can think about what we're
+trying to bring to customers from our
+product and our capabilities similar to
+the same to the to the
+invention of
+the assembly line in a factory floor
+you know before
+there was a time in history where
+factories ran
+as a stations of work some having
+machines some just people sitting
+together and literally the people that
+were handling the process where people
+were you know wearing a yellow vest
+yelling yes the process was something
+you print on the wall
+um right
+and then the industrial revolution
+literally
+started from that simple concept of we
+need to orchestrate the work
+not only execute the work better but the
+way we actually move the work around the
+factory floor needs to be orchestrated
+uh even if there's still station of work
+that are humans and not only machines
+it's not only connecting machines it's
+actually orchestrating coordinating the
+entire thing and so that's what we're
+trying to bring to businesses to enable
+those operation teams to build their own
+costume solutions
+without writing any code so 100 no code
+in a composable fashion so and there's a
+lot of big words but it's it's it's it's
+basic simple concepts of hey take the
+the parts that you already have and
+think about them as lego blocks
+right and build your own solution with
+those blocks um that fits your need
+uh perfectly so you can actually now
+start to optimize it and iterate on it
+um
+i i'd love to to pick your brain on you
+know as you started mentioning that you
+love software right that's we started
+the conversation and i think that
+there's an interesting question here to
+be asked which is
+you know this idea of generalization
+versus customization and you know we're
+talking about
+you know building software building a
+product that is that is aiming to allow
+you know generalized group of companies
+create customized solutions for them
+without using code themselves right
+without having to go and tweak the
+product in any way it's basically taking
+two polar opposites and and building
+them in one what is that process like
+either from a technological perspective
+or from a business perspective
+it is actually comes down to that um
+to that compose
+composable approach and you know the
+funny thing about bringing software
+into
+you know
+different places and believing in
+software it's not only the technical
+part of the software is the mental
+concept of it the ability to
+build whatever you need like what
+software really gives
+uh in a digital world that we live in
+it's a it's a it's a superpower you can
+build whatever you want you know i mean
+it's like it's all digital it's all
+software so if you can build software
+you can build whatever you want but you
+know what the percentage of people that
+can code in the in the world
+guess
+i would go with 0.1
+not far half half less than half a
+percent
+um 0.4
+and
+it's nothing if you think about it
+nothing it's really
+i like to think about it if if you think
+about humanity as a tribal in a tribal
+state you have like they have a hundred
+people in a tribe
+if only half a person could build things
+only the kid can code yeah we won't
+survive you know what i mean um so the
+percentage of people that can actually
+build things figure problems figure out
+problems find solutions
+i call those type of people makers
+and the idea is the makers they see a
+problem they don't raise their hand like
+hey guys there's a problem
+instead they're like oh i wonder how i
+can fix it and this is not statistic
+statistically accurate because i don't
+know if i can count it but just
+logically speaking again going back to
+that tribe example
+there's got to be at least 20 30 percent
+or by minimum 10 of the population that
+our makers because otherwise again we
+won't survive right right and then this
+and just to make it clear you when
+you're what you're calling a maker this
+is not a professional tree this is a
+personal characteristic of the way we
+approach problems and solutions right
+exactly and the only difference between
+a maker and a coder in this example just
+like a difference between a maker and a
+woodworker is the skill set
+and the right tools that they have in
+order to do that to you know to to
+bring solutions to life
+they already have the personality and
+the capability to do it you know even
+this podcast was much harder to do in
+the past with all the different tools
+you had to have like a full studio to do
+that so what does this technology allow
+you to do to bring people that actually
+has that creativity
+and bring that to market same goes to
+photoshop or other you know design tools
+it used to be much more complex
+but the abstraction of that complexity
+but still allowing you to create
+whatever you want to your previous point
+right it's a general thing
+but it allows to abstract the complexity
+what it really does is empower people
+that doesn't have the power reduce that
+skills gap into people that already have
+that you know personal trait so when i
+think about
+businesses and how businesses run
+they're not leveraging technology not
+even even though we think oh everything
+is softer we're literally using a 0.4
+percent of the potential
+of what we can do with technology and
+the way there is not just shoving more
+software and more apps down you know
+down the company's throat the opposite
+it's enable and empower
+more people people that have that role
+even you know the operation teams that
+literally that's the role to improve the
+processes but they cannot code they
+don't know how to code they're
+they understand legal processes they
+understand sales processes they
+understand marketing courses
+there they can do amazing stuff in in a
+spreadsheet you know but they're not
+coders um
+how can i empower them to build custom
+installations because that's kind of
+where it all comes down to in my mind
+and why you know we're excited about
+what we're doing
+if you make something that allows people
+to do things better
+you impact the world for sure but you
+impact it in a linear way
+if you allow more people to do things
+better
+you expend the pie then your impact
+becomes exponential you don't even know
+where it will take you
+and we all experience that with an
+iphone and what it you know what it
+changed the world it's not only the
+iphone is the fact that now more people
+can write applications to the iphone
+created a situation where there's an
+application for everything and
+completely transform how everyone work
+you've never thought about when they
+created the iphone they never thought
+about
+the magnitude and scope of things that
+people have built for it and so
+similarly we're trying to create a
+movement and trying to
+instill that concept of you know
+iterative approach
+literally agile approach to how you run
+the business and to do that you need a
+framework and architecture that allows
+you to do that just like
+the cloud allowed you know agile
+development in in software development
+so you know it's a lot of it's a lot of
+stuff but it all comes back to that
+very basic concept of
+we need to empower more people to
+leverage software
+i i think that what what leaves me you
+know very inspired from
+from this conversation you know i i came
+in understanding that you know processes
+are complicated
+data-driven world is complicated there's
+a mismatch between the company's ability
+to
+to connect the business and the and the
+data and and make better decisions but
+we're actually touching on is something
+that's a little bit deeper and you're
+actually saying we're actually misusing
+the potential of of the people that are
+around us and the potential of people in
+the company that that could that what
+they could do as makers today they may
+just they may not have the skills to do
+that because frankly coding is you know
+just this last generation or maybe two
+generations and and even in those
+generations the disparity of those that
+are able to learn how to code is is
+really really is really really big this
+disparity and and uh and and bridging
+the gap is not easy either and so i
+think that
+this is this is going to leave me with
+with a lot of thoughts and i really want
+to thank you for this time
+for the last or the last quote that i
+just love from please
+picasso which is
+you know completely random but actually
+he said
+computers are dumb
+they can only answer questions
+you know and i think the point is
+the hard part is asking the questions
+right the our part is something that
+that only us creative people can do
+and so if we're not enabling people to
+do more if we're just trying to automate
+or take away
+work from them
+um or you know just gather data for the
+sake of gathering it we haven't done
+anything we you know we just um
+we just checked the box so
+i really really want to thank you uh for
+for the time and and and everything and
+this was a this is such a pleasure and
+inspiring thank you for
+uh for for spending this time with me
+and best of luck with with tonkin and
+with everything else that you're doing
+and stay safe and stay out thank you i
+appreciate it man thank you for the time
+[Music]

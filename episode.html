@@ -28,6 +28,7 @@
             --gray-200: #E2E8F0;
             --gray-400: #94A3B8;
             --gray-600: #475569;
+            --gray-700: #334155;
             --gray-800: #1E293B;
             --gray-900: #0F172A;
             --radius: 12px;
@@ -428,6 +429,7 @@
     </footer>
 
     <script src="js/episodes.js"></script>
+    <script src="js/transcripts.js"></script>
     <script>
         // Get episode ID from URL
         const urlParams = new URLSearchParams(window.location.search);
@@ -474,8 +476,9 @@
                 .sort((a, b) => Math.abs(parseInt(a.episode) - epNum) - Math.abs(parseInt(b.episode) - epNum))
                 .slice(0, 3);
 
-            // Check for transcript
-            const transcriptPath = `transcripts/ep${episode.episode}.txt`;
+            // Check for transcript using the generated mapping
+            const transcriptFile = typeof TRANSCRIPT_MAP !== 'undefined' && TRANSCRIPT_MAP[episode.episode];
+            const transcriptPath = transcriptFile ? `transcripts/youtube/${transcriptFile}` : null;
             
             // Render episode page
             document.getElementById('episode-container').innerHTML = `
@@ -576,21 +579,42 @@
             `;
 
             // Try to load transcript
-            fetch(transcriptPath)
-                .then(response => {
-                    if (response.ok) return response.text();
-                    throw new Error('No transcript');
-                })
-                .then(text => {
-                    document.getElementById('transcript-section').style.display = 'block';
-                    document.getElementById('transcript-content').innerHTML = text
-                        .split('\n\n')
-                        .map(p => `<p>${p}</p>`)
-                        .join('');
-                })
-                .catch(() => {
-                    // No transcript available
-                });
+            if (transcriptPath) {
+                fetch(transcriptPath)
+                    .then(response => {
+                        if (response.ok) return response.text();
+                        throw new Error('No transcript');
+                    })
+                    .then(text => {
+                        document.getElementById('transcript-section').style.display = 'block';
+                        // Format raw YouTube captions into readable paragraphs
+                        const lines = text.split('\n').filter(l => l.trim());
+                        const paragraphs = [];
+                        let current = [];
+                        for (const line of lines) {
+                            current.push(line.trim());
+                            // Break into paragraphs at natural sentence endings
+                            const joined = current.join(' ');
+                            if (joined.length > 300 || line.trim().endsWith('.') || line.trim().endsWith('?') || line.trim().endsWith('!')) {
+                                paragraphs.push(joined);
+                                current = [];
+                            }
+                        }
+                        if (current.length) paragraphs.push(current.join(' '));
+                        document.getElementById('transcript-content').innerHTML = paragraphs
+                            .map(p => `<p>${p}</p>`)
+                            .join('');
+                        // Auto-expand and scroll if linked from transcript button
+                        if (window.location.hash === '#transcript-section') {
+                            document.getElementById('transcript-content').classList.add('expanded');
+                            document.querySelector('.transcript-toggle').textContent = 'Hide Transcript';
+                            document.getElementById('transcript-section').scrollIntoView({ behavior: 'smooth' });
+                        }
+                    })
+                    .catch(() => {
+                        // Transcript file not accessible
+                    });
+            }
         }
 
         function toggleTranscript() {

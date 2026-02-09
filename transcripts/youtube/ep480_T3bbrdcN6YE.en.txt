@@ -1,0 +1,631 @@
+two things changed in the market first
+is the market
+and second is the perception of
+compliance why the market change
+due to the amount of cloud adoption the
+more
+cloud infrastructure in sas products
+companies use
+the easier it is and intuitive it is to
+automatically
+get data normalize it trust it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance opposed labs touring
+hillel at stanford
+leap and in media partnership with ctec
+welcome to another episode of 20 minute
+leaders
+so developers have jira sales reps have
+sales force
+now infosec leaders have anecdotes meet
+yael kuznetsov co-founder and ceo of
+anecdotes
+after building and managing teams in
+different places in the idf intelligence
+corps
+he was head of the hardcore r d section
+of 8200
+he then took a giant risk and built a
+new sas product for insight
+hoping it quickly adapted to the modern
+tech stack and it turned out to be very
+successful
+he started anecdotes with two friends
+roy and ayton and they currently have 30
+employees in tel aviv
+transforming from r d manager to ceo
+means managing marketing and sales which
+is another big move for him
+but it seems like it's working out so
+far because modern r d teams and modern
+marketing and sales departments
+actually turn out to be pretty similar
+meet yeah
+yeah welcome to 20 minute leaders how
+are you today
+i'm good i'm good how are you thanks i'm
+good we're going to talk about
+an up-and-coming industry that i think
+wasn't hugely relevant even five or ten
+years ago but today is
+is exploding i personally experienced it
+firsthand where i work
+and and and i think that what we're
+seeing in both the israel ecosystem but
+the world
+you know there's a huge thirst for this
+and it's a huge pain points uh you're
+the co-founder and ceo of anecdotes from
+over the past two years i believe
+previously had insights previously
+before that in one of the most
+incredible places in the idf in one of
+the most
+uh thought thoughtful and rigorous
+challenging places
+uh that that unfortunately we can't talk
+too much about but we can talk about how
+you're bringing the
+same intellectual curiosity and rigor to
+what you're doing today so
+even before we dive deep into anecdotes
+sale tell me a little bit about about
+yourself
+how you get into you know computer
+science
+and eventually what leads you to think
+through compliance and infosec
+all right those are great questions um
+so i'm 30 years old i was a computer
+geek
+but not the classic ones went to
+university
+studied computer science and economics
+once in that thing
+led to the other and then i happened to
+myself very interested in
+network security back in the days
+uh 12 years ago network security was
+completely different
+it's not what it is today but it was a
+great way to get to the army in a very
+specific area
+i find myself enjoying what i'm doing
+researching networks
+researching technology building
+technology i was building teams
+then was head of r d section
+and as a an army carrier that was really
+interesting very intense
+but the world outside is amazing and the
+amount of technology here
+is infinite and i was willing to make
+the jump go outside
+and see how we can fit in leveraging the
+knowledge the
+technology the state of mind and this
+modern ecosystem of
+um that's why i joined insight before
+and before we
+before we continue just mention this
+idea of a state of mind bringing the
+state of mind
+in in a few sentences how do you
+interpret
+the state of mind from your time in
+where you were in the army
+we don't know anything or everything but
+we have one thing we can always trust
+and it's the ability
+to take a challenge and just make sure
+that we do the best we can
+to overcome it this is like a
+fundamental
+state of mind that we always encourage
+every young soldier
+every professional i had doctors working
+in my
+department and this state of mind is a
+huge advantage and it's just a state of
+mind so
+taking this ability to an industry
+in different industry such as influencer
+compliance
+is absolutely the fundamentals of
+building this
+great company that we have amazing so so
+a few words about
+insights and and what do you learn from
+there and then
+walk me through the conviction that you
+got in the compliance and infosec world
+yeah so insight was a whole different uh
+company different domain
+uh i had a great opportunity to build
+uh create a new business unit there and
+build a new product
+sas pure sales product and that was a
+really great
+opportunity for me to experiment we're
+building a
+solution in a red ocean market and
+taking this to the market
+we saw great success in the first year
+and i was like
+all right wait i can replicate
+what i know outside through modern
+technology through modern
+markets let's do something that i truly
+believe is positive
+and i grew up in the cyber security it
+is true
+i love cyber security it's fascinating
+the amount of technology there is crazy
+but outside fun is one of the most
+commonly used uh practices for selling
+stuff
+and i was willing to play in this
+fear uh and doubt and answer doubt and
+uncertainty
+and i was like all right let's do
+something positive
+let's not tell people that they might be
+attacked
+so one thing led to the other and i was
+sitting with two friends
+and we're like all cyber security people
+trying to figure out what can we do that
+is positive
+and so and then and then compliance
+positivity
+right so so compliance as a word
+it doesn't automatically translate to me
+as positive impact
+or or something that makes others happy
+right what is compliance in the
+high-tech world and then
+and then what do you do there
+exactly so compliance is not positive at
+its
+basics the whole idea is that compliance
+is something that's here
+and infosec compliance those frameworks
+that we all know suck to
+whatever eyes of pci hipaa
+those kind of frameworks are actually
+great frameworks
+smart people were thinking of how to
+build them in a way that will help
+companies improve their security and
+their
+uh performance and the idea is that due
+to
+lack of technology it's lack of
+technology it's manual
+it's manual it's labor intensive and no
+one is willing to handle
+and deal with infrastructure compliance
+so
+the reason why we realized
+infrastructure compliance is positive
+and can
+serve to positive targets is if we can
+leverage modern technology
+and just bring the ability to automate
+huge amount
+of the tedious process that's now done
+manually we can then focus or allow our
+customers
+to focus on what matters which is make
+sure
+that the procedures you have are great
+don't waste any
+anyone's time so
+why is it positive because it can help
+you eventually
+but we start by
+understanding that it's here to stay
+right interested compliance those
+certifications are not changing
+mm-hmm now we're willing to
+walk me back a little bit and you know
+take me 30 000 feet in the air
+you know as you know company leaders why
+would anyone
+want to do compliance why is this how
+does compliance
+play a part in the ecosystem is it
+mandatory is it optional is it for
+you know how does the ecosystem work
+with compliance and infosec today
+right so most of the compliance
+certifications are not mandatory
+but the idea is that the ecosystem
+requires companies to have those kind of
+certifications
+so back in the days five years ago 10
+years ago
+if i was a unicorn or a hyper growth
+company i needed to have sock too
+because my big customers the financial
+industry required talk to
+sometimes id27 but this is it nowadays
+what happened
+is that data is moving all around the
+world
+with different vendors holding and
+having different parts
+crucial parts for the company for the
+corporate a company
+so compliance certifications became
+a commodity if you don't have this at
+the very beginning
+this is it you can't play
+no that makes a lot of sense and that's
+why is the challenge
+with that so the i understand the manual
+aspect of it
+and you know when you come in and you
+say using technology we can we can
+we can augment it is it mainly based on
+speed on timeliness and the ability to
+do it
+so let's describe for a second the
+ecosystem of infosec compliance
+there's the company there are the
+auditors and their consultants
+now what happens is that there is a big
+mess inside a company
+because they need to make sure that they
+comply or they
+follow some guidelines from a specific
+framework
+but they need consultants to tell them
+what to do and how to do it
+and they need the auditors to approve it
+to audit
+what they have and each one of them
+speaks a different language this is the
+biggest gap here
+because consultants has one terminology
+auditors have different things
+and we like modern companies we're like
+cloud native companies cloud oriented
+companies
+we don't care about old things we want
+it to be
+efficient we want it to be automatic we
+want to rely on data
+and this is a big promise of anecdotes
+we're the first to bring this concept of
+take data real data
+as an evidence as the fundamentals for
+infrastructure compliance
+and simply rely on data as simple as
+that
+but this is a very big change in the
+ecosystem of infrastructure compliance
+right now as you as you're building the
+startup and you're starting out
+you have you know basically going to
+companies that need to do complaints
+which means they're already a little bit
+further along their life cycle probably
+than you are in your and you're
+trying to integrate and handle their
+data and and
+start to replace manual work what are
+some of the challenges
+as the entrepreneur now that that you're
+facing
+as you're even trying to get the the
+first people on board and trying to
+really understand
+how do you actually begin working with
+with these companies
+so there are two challenges uh the first
+challenge is the obvious one
+as a vendor i need to be trusted
+and here's the egg and the chicken so we
+go through certification processes
+but we also maintain very high level of
+security standards in the company
+because we can't sell to modern
+enterprises unicorns hyper growth
+companies and even startups
+a solution such as anecdotes and tell
+them all right trust us we're fine
+the world has changed dramatically so we
+had to
+simply implement this concept of
+security by design
+to our entire life cycle of building the
+platform
+from day one security was here so
+we chose to invest a lot of time and
+money on this to make sure
+that whenever we approach a unicorn
+they can fully trust anecdotes based on
+the security measurements that we have
+that's the first first challenge the
+second one
+is knowledge so we're secure cyber
+security guys here
+we were sitting mostly in tel aviv 30
+employees we grew up pretty fast
+but we needed someone or a team
+that comes with a very deep knowledge
+and understanding of compliance
+of how practically infrastruct
+compliance
+can be fulfilled using data and that was
+a really
+important piece of uh this puzzle that
+we put together
+at the very beginning we built a team of
+compliance experts
+that's what they did for living for
+decades
+and together with our product team we
+now have the ability
+to speak the terminology of the auditors
+but also have a very modern intuitive
+approach for customers
+was there as you're thinking through
+anecdotes and you're you're planning
+ahead and you're thinking about the
+product market fit and you're testing
+some some
+hypotheses was there was there a single
+aha moment
+where or or any specific time when you
+said like wow like now i believe this
+like this is
+like a switch went on or was it more
+gradual research that over time you
+became more and more convinced
+it was a very nice aha moment i was when
+i went through stock to myself when i
+worked at insights
+and the product that we developed and
+i was taking screenshots i don't know i
+was
+taking screenshots from different
+platforms in my group
+and sending it to the auditor and a year
+later
+i was sitting through the lockdown
+during covid
+with my friends trying to figure out
+what we really want to do
+and then we were like all right but how
+come people take screenshots
+let's go figure out if someone was
+saving dollars on
+me or if this really how it happens
+so we had meetings with dozens of
+different companies in the states
+different factors
+different size and apparently everyone
+taking screenshots
+everyone using labor
+to uh to manually collect this thing and
+hopefully analyze it afterwards when we
+saw
+50 companies banks insurance companies
+medium size startups or modern
+unicorns they're all doing the same we
+were like all right
+we can change this we have to change
+this
+that was the very smooth moment
+wow and so so walk me through a little
+bit of the vision that you have for this
+so you're you're
+you're relatively in the beginning of
+the journey 30 employees in tel aviv it
+sounds like you from what we discussed
+before you have some
+some incredible incredible companies
+already trusting you and leveraging your
+solutions but
+but take it play a game with me a few
+years down the line
+where do you see the compliance and
+infosec industry go
+in terms of the integration of
+technology with with this
+what it sounds like very manual
+intensive labor
+so i think um in a few years from now
+not 10 years but we can discuss three
+years three to five years
+what we're trying to do and what we're
+going to hopefully achieve
+is people will look at compliance
+certifications
+not as a burden but as something that
+they do want to adopt
+as early as possible and once again not
+because
+the market demands it but because these
+are the great guidelines
+of how to progress and improve your
+security
+now we're not going to replace
+any cspm or idp solution
+that's not us we're just trying to be
+this commodity solution very nice
+and beautiful product that helps you
+understand all right
+i'm big enough to bring an idp or
+right now i need a network security
+scanner
+so that you can see what are the
+guidelines what's the benchmark
+in the industry right this is the very
+big vision
+and that's why we can truly believe we
+can shift compliance
+to be based on data and therefore
+accurate
+and therefore positive now timing
+obviously is always a huge huge factor
+so this says that you know compliance
+sucked to it it's been around for for
+dozens of years
+uh and uh you know at least 20 30 years
+you know with
+with a high tech and why now so why now
+why not you know why isn't
+isn't there a you know global solution
+already from five years ago
+and why not wait two or three years
+until there's
+more more you know that it becomes more
+and more trivial so
+what's happening why is it not the right
+time to do this
+so two things changed in the market
+first is the market and second is the
+perception of compliance
+why the market changed due to the amount
+of cloud adoption
+the more cloud infrastructure and sas
+products
+companies use the easier it is and
+intuitive it is
+to automatically get data normalize it
+trust it right but this is a very big
+change that happened in the past few
+years
+10 years ago it was impossible
+right the other part is that
+awareness became wide
+and nowadays i'm selling to companies
+i'm selling to
+big enterprises medium medium companies
+and startups
+guess what they're all asking me about
+security
+back in the days it used to be all right
+if i'm bank of america
+i'll go through a security questionnaire
+and some deep dive
+uh security oriented with a vendor
+nowadays
+it's everyone right and i think this is
+great
+because people want to make sure that
+when they bring a vendor
+they trust it they trust the vendor
+right
+and those two things combined in a very
+nice synergy
+in the past year and it's very new
+so those two things together created a
+big opportunity for us that's that
+that's very very cool and i
+and and i love the the greater
+perspective of where where this is
+headed and
+and i think that that you're absolutely
+right that you know we're living in a
+time where
+it's becoming more and more common and
+even if you're a small
+you know it's just an early stage
+startup and you want to start selling to
+some of these vendors they require these
+complaints now it's becoming more of a
+commodity
+and and as it becomes a commodity then
+it just makes sense to be able to
+democratize it and be able to to
+leverage to leverage
+good technology to actually do it
+properly and at the end
+compliance is just to make sure that
+things are working properly
+the data flows properly that you're
+actually adhering to to policies that
+are there to protect
+the end users to protect the integrity
+of the business and so
+from the get go your your success
+anecdotes
+translates to companies adhering to
+regulations that are there to enforce
+good behavior
+and and that is the positive impact that
+we're talking about right
+exactly this is exactly it amazing and
+that's why
+we're not selling the fastest way to
+achieve sock do
+this is not what we're trying to do here
+we want companies to rely on this
+platform to guide them
+through their journey of scaling their
+compliance
+and this is the interesting part very
+very cool
+yeah it's amazing thank you so much for
+sharing with me your story of anecdotes
+and your own convictions and i think
+it's
+it's just fascinating i do have three
+questions about your ill not about
+anecdotes or infosector compliance
+and we'll start off with middle school
+and high school what was your favorite
+subject
+growing up what fascinated you as a kid
+music actually i was playing yeah
+for a decade piano on guitar i loved it
+and i was in a crossroads music
+or technology amazing
+if you look at your path somebody that
+inspired you
+and you know any type of role model or
+some sort of inspiration
+i had a teacher one teacher one special
+one he wasn't really a teacher but he
+was in school
+and he told me listening here it was 15
+years ago
+computer science and programming is
+great
+but that's not the end game look beyond
+programming programming is going to be
+the cards
+in couple years from now but look
+forward what do you want to achieve
+with programming don't just be a
+programmer
+that was inspiring i love it and what
+are three words that you would use to
+describe yourself
+ambitious um fascinated by
+plenty of things and curious
+i love it best of luck with anecdotes
+this is wonderful
+and and i look forward to continue
+seeing more and more companies use it
+and i look forward to using it myself
+and my own startup one day
+so thank you very much thanks being here
+it's a pleasure meeting you this morning
+bye bye
+[Music]
+you

@@ -1,0 +1,586 @@
+given a a voicemail given a text message
+it can almost immediately recognize
+there's a problem right and then it's
+getting it fed back into the network to
+find the source and stop so you know as
+long as you have good statistical
+samples of these behaviors once you see
+one you don't need to see a million of
+them you need see one you see one call
+now you know it's a deep fake you see
+one voicemail you can actually take
+action so I think it's getting a sense
+of urgency among everybody here to take
+action
+Alex guichi Welcome to our show and for
+this fun conversation I'm excited to
+engage with you on your background and
+your history and and the youil and what
+you're doing today and talking
+everything about communication I mean
+you've been in this space for more than
+two decades you're obviously highly
+technical you're with a PhD in computer
+science and AI but also your background
+as vice president Within AOL and and
+having spent I guess what is it 17 years
+now at at umil and so so you you
+probably are one of the most
+knowledgeable people in the world on
+email phone calls communication and and
+the security around it because that's
+obviously what you do so so I'm really
+excited to just learn from you over
+these 20 minutes and and and try to get
+as much information that I that I can
+and learn from so again Alex thank you
+for being thank you for having me and
+hopefully I can live up to all that I'm
+I'm a very determined that that that you
+will so Alex take take me back for a
+second to as you got started in in voice
+over I and AOL and communication what
+does this mean to you how did you get
+here uh so I got here by accident I got
+here because I was sitting in a store
+before uh mobile devices were really
+common and I didn't want to overpay for
+a mountain bike and I thought I wish
+there was a number I could go just call
+and say specialize whatever the bike was
+how much is it on Amazon and so we
+decided to build that and we and we we
+built what turned out to be one of the
+first voice portals where you could say
+where's in the aest Chinese restaurant
+Etc we did that 25 years ago uh that
+required no one about telephony to do it
+at the time we created a 1 1800 number
+you could call had cages of servers to
+answer calls and just been one thing and
+another since then fortunately AOL like
+we did we they built it we became a
+voice mechanism for getting the AOL
+email back in the day before before even
+blackberries were getting really popular
+and I'm just stuck at stuck out this
+area since then wait what happened back
+there so you you created a service in
+which people were able to call a800
+number ask a question that that and and
+how would it work how did how did how
+did it actually run so back then we
+actually had servers that were answering
+the phone call that had dialogic cards
+on them so it's Hardware cards that
+could answer the phone calls the phone
+calls were routed over the public switch
+telephone Network to those servers in
+the same they way they would have been
+routed to say a voicemail box at a at a
+carrier and we just built some really
+smart code that manag the servers found
+information on the internet buil
+parameters and tried to answer questions
+and so it was sort of like a vision for
+Siri with Siri and we only got started
+on wait and and it it spoke it it spoke
+back spoke back using text to speech
+again using Hardware cards to generated
+it was it almost feels insane but it was
+a predecessor of Siri in a lot of ways
+and when it was part of AOL it had a
+million people paying five bucks a month
+to use it after a couple years when AOL
+bought it and scaled it up so we built a
+real business on what was essentially a
+voice way to get to your email a voice
+way to get to your voicemail your voice
+way to get to a few other pieces of
+information like restaurants and I think
+movies were in there I can't remember
+anymore wow and then you led this within
+AOL afterwards that that's what you were
+doing as ex part of the team that was
+trying to scale this out through AOL and
+do other products we did a a phone
+number product at AOL is part of aim for
+those of you could remember aim is you
+know kit as a messaging service and you
+know after a while I was there for a
+while it was really fun working with
+that sort of audience and decided to go
+do something else after that all right
+so so after that where did you end up
+going to so I ended up going to this
+company called Emil which was really
+fledgling then it was a couple guys who
+built a little voicemail service they
+had a couple of cool features one was it
+could play it out a service message to a
+caller uh based on the phone number so
+you meet someone in a bar you decide you
+want to keep talking to them hit a
+button now it's going to play out of
+service when they call and it had
+another little feature that was a
+personalized greeting so each person who
+called you could get their own greeting
+so Mom gets a greeting your friends get
+a greeting Etc that's that's how email
+started I ended up as a investor and a
+board member and then kind of found
+myself running it after a while and our
+goal was hey let's replace voicemail
+that the carriers have with something we
+could build that's way more interesting
+than what even these two guys had sort
+of created it we tried carriers don't
+move quickly money does move quickly and
+we ran out of money and said okay we
+better go do something else but turned
+out we had a million people using our
+Blackberry app which we just built as a
+proof of concept from there we decided
+to grow it in the voeville space and
+eventually realized nobody cared about
+Bo what they cared about was playing out
+of service messages to phone numbers
+they don't like it used to be the failed
+hookup the you know person you got to
+know didn't want to know anymore it
+moved do robocallers it moved to people
+all of the email users blocking the same
+1800 number the same 312 number and so
+then about 2015 we grow the base pretty
+M pretty pretty well but we said this is
+no future here but the future isn't
+protecting people and with that's how we
+got into what we do today we wanted to
+block calls we wanted to figure out what
+voicemails they were getting and how to
+label them so you knew if it was a Spam
+or scam and generally allow people to
+communicate more safe incredible can you
+share with me a little bit about
+the the evolution of spam social
+engineering fishing and in real-time
+communication so I I know I grew up
+knowing that my grandmother was getting
+phone calls to buy cruises and and it
+was and and so you know I remember
+hearing you know constantly warning you
+know elderly and and people that are
+perhaps less equipped to go and and and
+make and and check these things for
+themselves you know that you know
+whether it's a good decision is is this
+really where where it started or what
+was the space how did I think it started
+with people trying to do scams that they
+would have done in person to someone or
+through the mail through the phone right
+so there were lots and lots of different
+scams a cruise ship one there's you've
+won a big prize all you got to do is uh
+you know go somewhere and wire money to
+someone I it's been very consistent uh
+what's changed is the level of
+automation so the fact that you can do a
+huge volume of calls uh or text messages
+these days at very low cost and did an
+enormous number of targets that's that's
+relatively new that's an evolution uh I
+think how they work and the targeting
+the data sources that are there from
+breaches for example or just even public
+data BRS it's easy to buy a list of
+phone numbers of Alzheimer patients over
+80 if you want a Target list there's a
+Target list and so you just call those
+people have to call everybody with your
+Scamp so you see more calls targeted
+calls and now you're starting to see AI
+as part of this whole thing so AI
+cloning voices so oh Joe Biden's telling
+me I when the plers flaring out it must
+be real so I mean that's a silly example
+but we're seeing lots of really
+interesting use of AI for bot so even if
+you answer you're not talking to a
+person you're talking to a bot and the
+bot's qualifying you getting you started
+and then transferring you to a person
+and so it's just automation intelligence
+aiding the scammers all the way through
+right I heard a somebody from a cyber
+security Venture Capital fund to
+mentioned the other day the term spray
+and prey right that you're that now that
+their ability to now execute these spam
+calls or social engineering or fishing
+efforts at large volumes due to due to
+the emergence of AI but and and you're
+talking about Robo calls and the ability
+to automate the calling and we've had
+text to speech which now obviously
+sounds more and more like like human
+what how how do I guess deep fix fiden
+this from your perspective so um I guess
+deep fakes obviously are the the the
+cloning of somebody's identity so it's
+not a random voice that you hear but
+it's actually a voice that you trust so
+the really interesting thing is that
+people are at risk of being deep faked
+because they use voicemail so if you
+have a greeting hey you've reached
+Michael I'm really busy I'd rather you
+text me you know but go ahead and leave
+a message that's enough as you know to
+do a decent quality voice qu so people
+just set up their voice now they've got
+the possibility of voice clone with live
+voice F you've got the possibility of an
+AI generated interaction that's being
+transcribed until you answer then you
+press one and now it goes to a person so
+Ai and deep fakes is affecting the the
+newer products that people are using
+right the the VOA people are used to
+using the greetings the live voicea it's
+all extremely dangerous because of the
+deep things and we're signed to see them
+is this something that you think is
+already happening or is this something
+that were still geing up for for the
+future because there's a lot of people
+who say it's definitively happen
+happening already so there was a deep
+fake of Joe Biden in New Hampshire where
+the call went out to a bunch of
+democratic voters saying don't bother
+going to the polls now you know Sav your
+vote for the the the um the general
+election don't vote the New Hampshire
+primer it was Joe Biden's voice Robo
+called to a bunch of people um who then
+it had an impact right on the number of
+people who went to the polls so that's
+already happened there's other there's a
+Cong rman in Pennsylvania whose
+constituents are saying there's a deake
+of him asking them to donate money to a
+fake police charity so deep takes are
+already out there at um with you know
+with celebrity or known people um we're
+starting to see we've seen for a while
+but AI generated voice messages saying
+you Dad I'm in trouble those kind of
+things the grandparents scam uh not have
+full interaction with the a family
+member but enough to get them to call or
+text a number it's happening and it's
+just going to scale like we're kind of
+unfortunately right before this big wave
+of the stuff that's going to happen and
+our prediction is by this election we're
+going to see all sorts of stuff both
+sides everywhere local National doesn't
+matter yeah absolutely and and so far
+we're talking about consumers and the I
+guess real-time communication channels
+of of consumers is this is this also a
+problem for organizations or Enterprises
+or do they have already existing defense
+mechanisms that cover that and really
+the problem is the well I think we know
+that the organizations aren't defending
+against smishing and fishing
+successfully as it is and adding a layer
+of intelligence will just make it harder
+for them so as the scamers sound like
+the CEO and we all know we've seen demos
+of it we know some of those are out
+there if you get a call that sounds like
+your CEO saying hey I really need you to
+go buy 10,000 of gift cards for this
+event get it sent here who's G to
+question it right and so it's going to
+be I think Enterprises are way more
+vulnerable to this stuff than they
+I I I I 100% agree with you and so so
+let's talk about you know you mail and
+and how you see the space evolving
+because what you know you're when we're
+looking at if we're putting as a mission
+statement let's create a a situation in
+which people are secure from spam
+fishing fishing um Etc what does it
+actually entail what do we need to do
+because you're saying it's it's
+happening now so what's the so the way
+we look at it is you know we have a nice
+app that helps protect people when the
+calls and texts finally get through the
+Network and land on somebody but that's
+too late what we need to do is stop it
+right at the start which is go after
+where the calls and texts and these
+fishing and fishing scams originate and
+so we've already started moving in the
+direction of helping carriers understand
+here's illegal unlawful fraudulent
+traffic that you're putting on the
+network you your customer is making
+these calls and we use our Emil uh
+audience as a sensor Network to detect
+that stuff and have commercial products
+for carriers where we can show them
+here's all your illegal events so they
+can take action same with imposters if
+there's an imposter pretending to be a
+bank it's too late to try to stop them
+at an account takeover that resulted
+from that the smiing or fishing attempt
+you really want to figure out where
+those are coming from and shut them off
+and make it so hard to get any track so
+that people go into some other business
+and we're putting a lot of our energy
+there we love the consumers they're
+great they give us data but the future
+is being able to notice what's happening
+quickly enough to stop it from taking
+King off M and what is the response from
+the carrier side so the large Telos that
+are now all of a sudden finding
+themselves in the middle of all this how
+how are they reacting I think there's
+different kinds of Telos right so the
+the T-Mobil the AT&amp;T's Verizon they're
+trying to stop illegal traffic from
+hitting their users right they want to
+block you see spam likely you see them
+making attempts the more interesting
+part is the wholesale part of the
+network that tends to be the part of the
+network where the calls come on and they
+sell to business businesses and the bad
+guys are just another kind of business
+that's where I think that they're still
+trying to get their arms around this
+problem and what does it mean right a
+lot of the carers think they're really
+clean but they actually have a decent
+amount of illegal traffic even though
+they're trying not to there are other
+carers out there that we see the FCC and
+others shutting down that pretty clearly
+didn't have a lot of legal traffic they
+existed solely to Def fraad so I think
+we're seeing though that there's a big
+movement now to try to stop the problems
+at the source and have the security
+guard where the calls are being made not
+where they're ending right I mean and I
+can only imagine you know how big of a
+of a task it is to take a situation I
+can I can't I don't even know how many
+phone calls there are maybe you do in in
+the US let's say for a day and the
+ability to without friction with
+relatively low cost to be able to
+identify the illegal behavior and then
+stop it with with low false positive
+rate because you don't want to create
+friction right highly competitive with
+each other and we know that you know
+people don't like when when there's
+friction in their in their experience so
+and and all of that has to happen very
+quickly because as you're saying it's
+happening now so it's not like we're
+planning for five years in advance we're
+we're planning for end of 2024 so you're
+absolutely right and I think the key is
+there's technology now I I've seen Lots
+we all are working on different aspects
+of it but given a call given a voicemail
+given a text message it can almost
+immediately re recognize there's a
+problem right and then it's getting it
+fed back into the network to find the
+source and stop it so you know as long
+as you have good statistical samples of
+these behaviors once you see one you
+don't need to see a million of them you
+need to see one you see one call now you
+know it's a deep fake you see one call
+one voicemail you can actually take
+action so I think it's getting a sense
+of urgency among everybody here to take
+action and so I think that's a a
+challenge like if you've been a carrier
+whole job has been to make the call go
+from point A to point B now you're being
+told hey you need to stop a lot of these
+calls or some of your customers are bad
+that's a really huge change in mindset
+and operations and it can impact Revenue
+right it can impact your business a
+negative way may even know so it's going
+to be a challenge but I think it's where
+a lot of the stuff is going to have to
+the battle's gonna have to be fought and
+are you optimistic that there's the
+right people in place to give it give
+the effort and and the understanding
+that that it has that we need to create
+these Solutions and and even if it has
+some impact on the short-term Revenue
+this is something that has to happen
+what what's your stance on sort of the
+optimism around how equipped we are to
+deal with this I I think the technology
+is there and it's the will and the
+ability to roll it out that's going to
+be the challenge I think businesses are
+getting educated I think this is one
+place where the government is playing a
+really interesting role where the FCC is
+basically telling carriers you can't
+just look the other way and say I didn't
+know it was bad you've got to you're
+going to be part responsible so I think
+as the notion of we're partially
+responsible permeates the space you'll
+see more action so I'm pretty optimistic
+I don't see it as a solved problem
+though or a super solvable problem in
+the short run it just gets better and
+better over over time make make the bad
+guys work harder and there'll be less of
+the less of the scams and damage but you
+know it's in the billions or tens of
+billions of dollars a year in terms of
+fishing fishing smishing damage
+depending on who you talk to tens of
+billions of dollars a year a big number
+it's a big number and so we can just
+keep reducing it 10% a year for some
+period of time that's that's my
+optimistic take and I think it's not
+just the the dollar amount but it's also
+the impact associated with the dollar
+amount because as you're you know what
+what is what is what is$ 10 billion doar
+a year of losses in fishing represents
+it represents potentially millions or or
+hundreds of thousands of people that
+were that now lost trust in the system
+and you have the the remaining billions
+of people who are exposed to the to this
+content to this experience through the
+news and through social media which are
+now saying wait can I trust what I'm
+hearing can I trust what I'm saying and
+so there's a it sounds like just the SEC
+even the second order effects of this
+are quite dis it is and I think you make
+a great point it's not only it's not
+only financial it's actually there there
+there's been somebody who was killed
+recently over a scam right in Ohio an
+elderly man got a prison scam and the
+Uber driver is coming to take money from
+him to go give to the scammer who had no
+idea he shot her right thought she was
+part of the scam and killed her I mean
+that's the worst possible outcome of a
+scam it's not just he lost money but
+somebody died and so these things are
+actually really dangerous right it's
+like you know why you tell your kids
+never get in the car with strangers now
+it's all like don't talk to strangers
+right stranger danger is a phone call
+it's a text message I mean it's it's
+insane but adults now worry about
+stranger D it's it's what you told
+you're three-year-old or you're
+six-year-old you know you're not telling
+your your 40y olds and your 80-year-old
+Mom right it's absolutely absolutely
+completely agree Alex what's what's ni
+for you mail what are you excited about
+I'm excited to roll out what we've been
+rolling out so we've rolled out to over
+20 carriers that are using our product
+there's 3,000 in the us alone who could
+I think that's a great Market we have
+five Enterprises we now protecting their
+brand there's clearly hundreds of those
+we could do so ours is just let's go
+attack this Market we can do a great job
+and get our product out there and see
+how much of a difference we can make
+we're in it for for making a difference
+and 3,000 car 3,000 carriers he said
+3,000 wholesale carriers in the US we
+know that because there's a database you
+after file if you're a carrier called $
+499 filing with the FCC over 3,000
+entries maybe even closer to four some
+AR real some are a little a guy at his
+basement you know with one server but
+3,000 carriers who are in business as
+being a carrier from you know at least
+some customers some some Revenue some
+calls it's a lot these are and are these
+all operating under telecommunication
+technology or are some of them operating
+under under you know just the in the the
+the cellular service and the internet
+what's is there a distinction there no a
+lot it's not really a distinction a lot
+of them are internet based right so they
+there'll be a a carrier that specializes
+in wholesale service for hospitals so
+they'll provide the phone service for
+the hospital and get them good rates
+there's cares at in taking traffic from
+point A to point B cheaply carries
+specialize in being gateways from
+traffic coming from different countries
+overseas there's all sorts of of
+carriers here and some just try to be
+lowcost providers in a diff in a
+particular region or to a particular
+industry so you know there's probably
+300 400 500 carries that really matter
+out of that big batch but we're at 20
+that gives us some some room to run and
+we want to run and help because the more
+we get at these carries using our stuff
+the fewer these calls are going to be on
+it absolutely Alex I want to wish you
+best of luck with the email I want to
+thank you for this amazing conversation
+I I learned a ton as I always so so I
+really appreciate it and I'm wishing you
+best of luck and then as as much as I'm
+inspired by the your your um
+professionalism and your your knowledge
+in the space I'm I'm just as inspired by
+your commitment to what you're doing for
+the last more than two decades and so uh
+I think it it speaks volumes to your
+excitement in this space your commitment
+commit to to making a large impact here
+and it it pretty much sounds like you
+you started a space and now you're
+helping secure it and so it's it's
+really great well thank you very much
+there's a lot of fun and you ask great
+questions thank you Alex thank you

@@ -1,0 +1,523 @@
+don't be afraid to learn don't be afraid
+to take your time the medical space
+things go slow it's okay that you go
+slow I mean I mean I did some rules that
+were you know they weren't that shiny
+but but I learned so much and go forward
+slowly and and be ready for that
+complexity because you know it won't be
+quick rewards it won't be fast no it
+would be rigorous it would be hard but
+in the end the satisfaction will be
+amazing so be ready for that welcome to
+20 minute leaders just sit back relax
+and learn from the leaders of today it's
+a journey each one is different unique
+inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+thank you very very much for joining me
+we're gonna have such a fascinating
+conversation and I'm genuinely excited
+to understand a little bit better about
+the intersection of technology and
+medicine
+and you know you're you know with a
+computer science background in an MBA
+today you're with intuitive robotics
+ahead of Israel r d Center in sort of
+surgical apologies and and and really
+this this combination of Technology
+Innovation and and Robotics and uh and
+and medical I think it's just such an
+interesting con it's such an interesting
+inflection point especially around the
+world of how do you actually get things
+to production you know a lot of times
+you know we say Hey you know worst case
+we you know move fast and break things
+and we'll we'll deploy to production
+with bugs here it's it's a little bit of
+a different world especially when we're
+talking about SD EA approvals and actual
+people people's Health at stake and so
+you know Roy thank you again for joining
+me here even before we dive into all of
+that I want to take you back to a junior
+high school talking a little bit about
+drum that's that's where it all started
+tell me a little bit about that yeah
+yeah well Junior High School you know
+would would have thought then and I
+would go to computer science I mean I
+um I was I'm the first
+um you know I finished the trauma in in
+the art school in Tel Aviv it's quite a
+famous school and I was kind of you know
+the first class that finished
+um really was very exciting it was fun
+um but then I found out you know it's a
+hobby it's nice I like doing it but I'd
+rather go and study Physics
+um or something that started getting
+more interested in
+um but but the drama State I mean I can
+continue to do to use it I think almost
+in my every day it helps in work it
+helps when you put up a show and a
+company day out
+um and and it and it you know and I
+think it's anything that you do uh helps
+you
+on your eyes
+the reason uh the reason I I'm bringing
+this out of this right at the beginning
+is because I'm a drama a kid as well
+that was my passion growing up and so uh
+that's I I resonate a lot with what with
+what you're saying in the introduction
+to technology for you and
+um the introduction to technology for
+you with and then the intersection of
+medical tell me how did that progress
+into that yeah so you know my career was
+not kind of a textbook career go to
+university get a degree get a junior job
+become a developer
+let's go and step in Step no didn't
+start out like that
+um you know I I finished the Army I had
+to provide myself went to work actually
+worked middle works and construction and
+did that for a few years
+um and and really tried but but was
+really pulled towards computer science
+and things that I studied in high school
+and really looked for for that first
+chance as everyone did and I got the
+chance that it was a medical device
+company
+um famous one called medino an Israeli
+success story and
+um and that was my my step into the
+industry
+um and that was also my school
+um but but I never left the medical
+space since then I just you know it
+became a part of me that's a whole of my
+career and I'm going forward
+um and and you know with that ups and
+downs I needed to to take the
+opportunity when I got it I did a lot of
+different things not always software
+development from the start
+uh but but eventually I got the chance
+and and I built the software development
+demon group there and uh
+from there
+let's talk a little bit about
+um you know the the intersection of
+technology and medical devices or or
+medicine in general
+um what what are the really the the the
+the core
+complexities and core opportunities and
+I'll let you decide to start with
+whichever one you you you want
+now choose let's start with the
+opportunities that's more fun
+yeah so medicine is so wide right I mean
+it's so wide how many different
+um you know residencies do you have in
+medicine how many different directions
+can you come at this space it's so wide
+I mean the opportunities are quite
+endless so why are there endless
+Solutions out there that's where it
+meets the complexity I mean that it all
+comes down to to the risk right
+eventually
+um you want to do something that will
+help the patient that will save their
+life improve their life be a tool for
+the physician and and when you do that
+you have risks your product
+and you know has a failure
+um it's not some down time and and some
+some uh revenues down the drain it's
+it's people's lives
+um and that's why you can't you can't do
+it in the same way you can't do it in
+the same way you have to take into
+consideration all risks and you have to
+be very very meticulous in your process
+and for that we have standards
+um which we work by
+um and and yes it's a slower process and
+it has a lot of barriers
+but eventually something that reaches
+um the market and works you know in the
+hospital in the physician's hands is a
+safe is a good is an efficient product
+mm-hmm yeah can you look can you give me
+a specific example of something you
+you've been working on that you know
+started from you know okay let's let's
+integrate deep technology into this and
+and how it actually and and the process
+you had to go through in order to reach
+the market and see it take place on a
+real patient I mean I can only imagine
+the the pro you know the journey the one
+must go through for that yeah so let's
+take you know an example of of an
+algorithm
+all right well there's a lot of
+algorithms that can be developed for for
+medicine and and an algorithm is a piece
+of software that works on some some
+medical imaging
+um and and you can actually sometimes
+develop it you know pretty fast if you
+have enough data
+um and you have some good infrastructure
+um but then what you need to do is you
+have to have a quality system built okay
+you can't just have your small algo team
+do some some pipelines and get out an
+algorithm get some results it's not
+enough you need to build a quality
+system according to standards you need
+to get audited you need to have all that
+in place
+and once you have that then you have the
+process of validating your algorithm and
+it's not enough that it just worked on
+your training set so what is your
+training set made up yeah does it have
+enough Hospital sources does it only
+cover May Israel or does it have U.S
+data or does it have different ages does
+it have different disease types all of
+this has to be covered
+um just to be validated
+once you've done that that's fine
+now you can go and do some clinical
+trials it's not over you've just
+validated it but now you need to see it
+through the field and clinical trials
+you need hospitals to agree you need
+investigators
+um very it's very very costly
+and at the end all this needs to be
+submitted to the FDA and that needs to
+be approved then you get re-audited and
+then you want to upgrade and you want to
+improve your algorithm so here you go
+again
+and
+this is why um this is really a long
+process sometimes
+in in a matter of years
+but but at the end when it works when
+you get that feedback from Physicians
+and I you know I came back just last
+week from a few customer visits on sites
+who are actually in hospitals in
+operating rooms and you're standing
+there and you're seeing your product
+work you talk to the Physicians it's
+just an amazing it's an amazing feedback
+I think it's very different from any
+other field where you can
+hear a voice of customer
+that's amazing and you know if we're
+looking for a second zoom out and we'll
+zoom in soon
+is let's zooming out to
+you know the different opportunities in
+general that Tech has with medicine in
+today's in today's world
+um you know what where where do you
+think we're going to be seeing you know
+some really amazing advances over the
+next few years when it comes to the
+intersection of attack and and medical
+um so first of all I think the steps
+will be
+will be small and be slow and this won't
+be just you know these revolutions that
+will change everything
+but uh but let's take for example uh
+intuitive as an as an example the
+flagship product this DaVinci robotic
+surgery system it's an amazing science
+fiction system where the surgeon sits at
+a console comfortably with a 3D View and
+controls forearms of a robot
+um doing surgery
+um but this is the base now all of this
+is a digital system
+we collect the video that the surgeon is
+seeing we have all the events we have
+every motion and everything that was
+done there recorded now that's a
+platform to do so much you can give
+insights to The Physician you can
+Benchmark
+um you know Global performance you could
+at the physician
+review their procedures take them to
+conferences sit with the patients the
+patients get a completely different
+feedback from the procedure when they
+can see the video with highlights of
+where
+special things you know happened
+and and I think this is kind of The Next
+Step where the systems that are
+operating and are safe and are very
+effective we'll have this new additional
+layer of opportunity just from the data
+that's being collected
+yeah I like that no so zooming into
+you as a head of the r d group here here
+in Israel what does that actually entail
+I mean the head of the Orange Israel
+we're pretty new group
+um and so just about two and a half
+years ago started out
+um this group has been building up and
+we are part of the uh digital
+Organization for intuitive so we're
+involved in developing
+um well those digital products that are
+attached to that robotic system
+those that could enable collection of
+the video of the data bringing it up to
+the cloud enabling all those analytics
+enabling
+um external doctors to Proctor into the
+or during the procedure talk to the
+operating physician
+and then also automate all of the flow
+within the or making it easier for the
+team
+saving them time
+saving the mistakes all around that so
+so that's part of what that's part of
+what we're doing and we're focusing on
+on in Israel's side
+and you as a leader of the site what is
+sort of your your vision
+you know leading the you know from from
+a leadership perspective
+and you know on the on the r d group
+so I think you know my my vision is
+really building a team that can that can
+be a leader in this in this amazing
+company we're working with other teams
+but we really want to be those better
+taking lead uh you know doing The
+Cutting Edge
+um products and and and we're getting
+there we're building up uh we also have
+research teams that are working on more
+advanced uh algorithmic Solutions and um
+and I'm really trying to build up this
+team to be
+to be a substantial you know having a
+substantial impact on the company's
+products which we still need to prove
+and being a part of a much larger
+organization and New York Stock Exchange
+company what what is that what does that
+mean so intuitive is it's this is in a
+U.S corporate yeah 11 000 employees
+worldwide it's very large it's huge and
+yet
+it really kind of has still has that
+that kind of smaller company feel I mean
+the CEO is is a is an engineer is one of
+the first employees of the company
+wow okay that the chief digital officer
+is someone that wrote code
+um inside those robotic systems when
+they started out so when you're talking
+to these people it doesn't feel like
+you're talking to a CEO of a of a large
+corporate that doesn't really
+exactly know he'll ask you questions
+that you
+'d be hard to answer but it's it's
+really fun and and the people are
+amazing
+very very talented
+um
+very very good atmosphere and really a
+great company to be in so one
+opportunities are is it is this
+presenting you know being able to lead a
+group within a larger organization I
+mean not a lot of people will talk about
+perhaps the the different challenges
+that it may present you know with large
+corporate versus a small startup you've
+had you've had the chance to experience
+both in your career with Max with Max
+qai and and medinal well what are you
+now with you know by being a part of
+this large company what what
+opportunities does this present to you
+as an r d leader as you're you know
+trying out different things your access
+to the right people you know what what
+are the things that you are you're
+saying are really meaningful yeah it
+opens up so much I mean when you're
+working in a startup you you know you
+have your people it's not a large group
+you have the knowledge that they bring
+and you always try to get more you try
+to meet other people other startups
+maybe meet with some larger companies
+um you don't probably know that from
+your startup so here you know these
+people are right there
+I mean you have groups who have
+vast experience they have connections
+within hospitals I mean for this site
+visit you know we just had to contact
+all those
+um uh commercial sales reps and are
+right there in the hospital and they
+know the Physicians and they know
+everyone they can just take you through
+that and and that's something amazing
+that is very hard to reach when you're a
+startup
+but then again we still have these small
+development groups we're not a huge
+organization we can develop and move
+fast but we have all of this corporate
+infrastructure that really gives you
+access to
+things that as a startup you sometimes
+only dream of
+what is your personal vision for your
+own contribution
+through your work you know if you're
+looking at the different things that you
+get to be part of what is what is your
+what is what is your own vision for your
+work here
+so I don't want my passion you know we
+started with a with a passion around the
+medical device and what it does and it
+the impact of the products um and then
+the technology but I think like really
+basic passion is really about people
+it's really my vision is you know to
+take these you know young leaders that
+are now putting up these teams and
+really growing them really building up
+the the people that we have
+um to become you know just better
+professionals with that Global reach of
+the company and
+for me that's you know that's that's
+what gives me satisfaction
+sorry I want these people to be
+yeah and
+you know if you're in the show really
+it's it's then it's about
+you know asking you know why do you do
+what you do and I think from from the
+context here I am I'm definitely hearing
+a lot of the potential of the of of the
+the magnitude of impact that you can
+create through this type of work if
+you're zooming into the the the
+day-to-day life that you have as a
+leader as an engineer as an innovator
+what really gets you going you know what
+really are sort of the highlights of
+your work
+so I think you know I think it's really
+part of it is is is those connections
+with the larger corporate this visual
+it's it's it's new to me and it's it's
+very special and intuitive it takes a
+lot of you know hard work maybe late
+late time calls
+uh but when you manage to see
+um something connect between teams
+Around the Globe coming together and you
+know a solution
+um coming to life that four or five
+teams in completely different locations
+are working together on
+you know that that's for me is the
+highlight of the end it's very difficult
+to get there sometime
+or is it the fact that they're that
+they're you know dispersed and they're
+working together the fact that there's a
+multi multitude of people working
+together what really is the Highlight
+there
+yeah the fact that we can bring you know
+so many different people diverse people
+because you know you're saying us and
+Americans but it's very diverse there
+are people from completely different
+backgrounds
+um you know bringing them to work as one
+team that's
+and and seeing that work you know that
+that's for me is a highlight
+nice and so
+other young entrepreneurs looking to get
+into Tech and medical space or maybe
+they are there well what what have you
+learned over your years here that that
+you would pass forward as sort of your
+own wisdom to other entrepreneurs in the
+space and looking to build great
+products with you know this uh you know
+in this type of domain yeah
+so first of all you know don't be afraid
+to learn don't be afraid to take your
+time the medical space things go slow
+it's okay that you go slow I mean I mean
+I did some rules that were you know they
+weren't that shiny but but I learned so
+much
+don't be afraid to take that time you
+know learn from
+from the bottom
+um and and and go forward slowly and and
+be ready for that complexity because you
+know it won't be quick rewards it won't
+be fast no it would be rigorous it would
+be hard but in the end the satisfaction
+will be amazing so be ready for that
+um be prepared and
+and it can be done
+I love it Roy thank you so much for your
+time and for your uh for your energy I
+really appreciate it best of luck with
+with everything that you're doing and
+make us proud here with the amazing good
+that you're leading and I and uh and
+thank you again for sharing with me
+thank you it was a pleasure thanks a lot
+thank you
+[Music]

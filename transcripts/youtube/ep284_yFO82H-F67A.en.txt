@@ -1,0 +1,623 @@
+data uh in the past used to be you know
+bi reporting that you would look at once
+a month or once a quarter or whatnot and
+you know if it's broken if if the
+numbers are wrong uh no worries you take
+a few more extra days and and you go and
+fix that
+right um and that's changing rapidly
+today right like modern
+tech companies um kind of
+live off of their dashboards uh hundreds
+thousands of people look at the data
+every day to make every single decision
+and then
+increasingly people are using machine
+learning models
+to automate decisions and to
+do things fully automatically based on
+data
+[Music]
+welcome to 20 minute leaders how are you
+i'm good excited to be here today
+i'm honored to have you here leor and we
+have way too many things i want to talk
+about i'm just going to dive in to give
+a little bit about your
+your bio and then i'll ask some of the
+the fun and interesting questions
+you know at tel aviv university for
+bachelors and masters
+stanford mba at the gsp a
+co-founder of sukasa which first of all
+it's a beautiful name and i have to
+learn more about what he did there
+uh sold to assault to barracuda
+after being backed by excel and inducing
+horowitz and first run capital which i
+have to ask how
+how the hell you made that happen then
+senior vice president of email
+protection
+at barracuda and now the co-founder of
+another startup monte carlo
+lior this show is for young
+entrepreneurs i'm a young hungry scrappy
+entrepreneur and there's i i know that
+there's so much that i can learn from
+you so i really want to make use of
+these 20 minutes
+so first of all thank you for being here
+and second of all tell me
+a little bit about about you are you an
+engineer an entrepreneur
+what are you it's a great question and
+i've been going back and forth about
+that uh
+for a long time now um i'm definitely an
+engineer
+by training um and
+and also i think that that's where my
+heart is at
+uh but i did find myself uh spending a
+lot of time on
+on non-engineering stuff because i've
+spent a lot of time in early stage
+startups and
+um and when you do that you kind of get
+to do a lot of different things
+uh across the board from um
+you know from building teams to to go to
+market
+and also product engineering so right um
+i've definitely spent a lot of time
+doing
+other things as well but uh i'm still
+hoping that one day i'll get to get back
+to writing code all day long and i i'm
+definitely passionate about that
+you know i have to say that that is one
+of the things that excite me most in
+talking to
+people like you on the show because you
+have somebody here who
+you know is an engineer but you know had
+such a unique experience both at the gsb
+then creating a company
+that was sold to barracuda being a you
+know a very
+very executive manager at barracuda now
+another again an entrepreneur but saying
+that after all this you still wish you
+can go back to writing code because
+you're truly passionate about technology
+and i just i just love that because i
+think it's that passion and curious
+which which leads people like you to to
+these huge milestones
+tell me a little bit about the journey
+that you took and some of the decisions
+that you've made along that journey
+because it's not the typical you know
+israeli journey to go to the gsb and
+then everything else but
+tell me a little bit about what you're
+what you've done there
+yeah i know it's uh it's been a long
+journey
+with a lot of turns but uh i started my
+career as
+uh as an engineer right like i i worked
+for a couple of startups back in israel
+um you know in my in my 20s
+and then at some point there i felt i
+wanted
+a new adventure uh to kind of broaden my
+horizons and and learn things
+uh beyond engineering uh and maybe try a
+different place as well so that that's
+that's kind of what has inspired me to
+uh to come to stanford
+um and stanford was kind of a
+a great experience and a great
+opportunity for me because i think it
+kind of
+it brings together like general business
+training and leadership training and all
+that good stuff
+um along with an environment that's very
+tech oriented and startup oriented and
+there's
+um it's really that the community theirs
+is very
+vibrant um and very focused around
+entrepreneurship and tech so it was a
+great kind of combination for me um
+so i spent two years there uh i dabbled
+with
+thinking i might do uh non-tech stuff
+like i don't know consulting or uh or
+semi-tech stuff like vc
+but um but ended up deciding that that i
+want to
+do the thing that i love best which is
+uh startups
+and engineering so i ended up partnering
+up with with my
+um co-founder back then uh he was
+a phd at stanford uh in electrical
+engineering
+uh we partnered together to uh to start
+a startup uh company tsukasa in the
+cyber security space
+um so that's what i did right after
+school right after the gsb
+where are you you're you're at stanford
+you're doing your js you're at the gsb
+you're thinking about consulting
+or going to vc or say no no i'm going to
+be an entrepreneur and
+you have a friend phd electrical
+engineering at stanford
+when what was the moment where you
+decided to start this together were you
+always talking about creating a company
+together
+or did you just say okay let's try
+something or did you have an idea first
+and then join forces
+what actually happened there uh
+yeah i know i think um i made the
+decision independently that i wanted to
+start a company
+uh it was just too exciting to pass up
+[Music]
+and i actually um i worked with a
+handful of people back then including
+classmates from gsb
+and you know you go around between
+different projects and different
+uh ideas and um
+and uh they they were in completely
+different
+uh spaces like one was in e-commerce and
+uh another one was actually also an
+e-commerce
+and then the third one uh was was what i
+ended up doing
+um with with my co-founder back then
+whose name is assaf
+um and uh it just ended up being
+feeling right right it was the right
+team uh it was the right space
+uh it was an exciting opportunity in a
+space it seemed
+uh that to have a lot of dynamic uh
+dynamics in it a lot of growth so um so
+enough
+being kind of the right uh the right
+opportunity for me among several that i
+explored and
+and um and that's something i i would
+tell anyone thinking of starting company
+um
+you know uh it's it's worthwhile looking
+through several
+different teams if you can and several
+different
+um spaces and ideas and see where things
+stick like where do you get your
+passion where do you see customers
+getting excited where uh where are
+things
+moving and changing quickly and um and
+and yeah it worked for me so so you
+actually ended up spending
+just about as much time in barracuda as
+you did in sucasa right because you
+spent about four years in each of them
+a little bit less than barracuda but you
+had the unique role of being senior vice
+president
+of engineering with email protection and
+and you know
+as a cyber security enthusiast myself
+i'd love to hear a little bit about
+you know what would you do there and
+what is it about
+email protection that that it was so
+relevant to what you were doing
+oh um so uh
+bearca so when we joined barracuda but
+becca acquired sucasa and
+and when we joined barracuda um
+we were fortunate to work with some
+really really great
+leaders there and
+um and learn a ton and one of the things
+that happened was that we got a
+card launched like go and do something
+exciting uh and can be whatever you want
+right
+um and i think
+um after three or four years of doing
+sukasa
+uh we felt that we were kind of
+um exhausting if you will the market
+um around around what we were building
+at tsukasa
+and we're thinking like what are some
+what's some adjacent fields what are
+some areas where we could take the
+technology and really
+uh build something even bigger and even
+more exciting
+um and it so happened
+that those times where uh were
+were times of great need uh in the email
+protection space
+um so it was a time when uh
+various types of highly personalized
+phishing attacks
+uh and account takeover attacks and
+other forms of email fraud
+uh were were kind of growing really fast
+and we realized that the industry was
+uh was lagging behind in terms of being
+able to address it and like every time
+we spoke to customers they were
+uh inundated uh with these things and
+and and it started to get into
+kind of material uh economic
+uh damage uh happening through email
+tags
+um and so we had this like very
+uh unique approach uh technical approach
+to solving this problem
+that didn't exist back then um and kind
+of aligned pretty well with the things
+that we did at sucasa so
+uh we ended up building and launching a
+product
+um at the barracuda the product
+uh was it was the fastest growing
+product for bakuta ever
+unbelievable and kind of ended up
+leading the market and we got into the
+leader wave of forrester and whatnot so
+um
+for the first time in the company's
+history so uh it was really exciting
+and it was a very gratifying experience
+i learned a ton
+both about the technology and the market
+we were operating on in and with
+email protection um and i also learned a
+ton about
+you know building uh teams and companies
+and
+uh and and learning from senior leaders
+i have to
+i have to admit like throughout my
+career before i mostly worked in
+um in smaller startups and and i do
+learn a ton
+right like you learn a lot a ton by
+doing and like uh
+figuring stuff out and making your own
+mistakes um
+it was the first time that i was working
+for for uh people that were far ahead of
+me
+uh in their careers and and and i had a
+a great opportunity to to learn and
+really
+uh see how they look at things and how
+they do business and
+how they lead teams and all that good
+stuff
+so i stayed for a long time um and
+really really enjoyed it
+um even when i left i was still very
+excited about what i was doing and i
+would
+i'd probably be happy to stay there as
+well uh but end up leaving for an
+for an even more exciting opportunity
+which is what i did today it's monte
+carlo
+i love that one key difference from
+being the entrepreneur in the room
+you know as you're scaling your startup
+and then all of a sudden joining and
+being senior vice president at a much
+bigger company
+you know building teams and i'm sure
+that building a product within a big
+company is very very different than
+building a product within a startup
+what are what is one or two key
+differences that you've observed um
+from these experiences yeah i know it's
+it's a huge difference
+um um i think one
+difference uh which which has been
+thoroughly discussed in in a lot of
+books is is definitely the
+the kind of uh some form of the
+innovator's dilemma right where
+uh the company has a certain momentum
+and um has teams that have been spending
+uh years and sometimes decades uh
+building stuff
+uh and that stuff prints money right and
+it's selling well
+and it's uh it's working great and like
+how do you come and tell them that you
+know this is
+you know you might do it in a nice way
+but like how do you come and tell them
+that's legacy
+uh and that they really need to be
+investing in this new exciting thing
+that's making no money right now
+but will be big one day um and i think
+that that's
+uh it's definitely a challenge in large
+larger organization that where
+a lot of people have a lot of momentum
+going in a certain direction so
+that's definitely something that that i
+uh you know you can read about in books
+but until you kind of go through it and
+experience it yourself it's
+it's it's it's hard to to fully
+understand
+um so that's that's one thing i learned
+um the second maybe um
+is uh it was definitely a much larger
+team in barracuda
+so i learned that a lot of
+um that really um
+it's it's also true for smaller teams
+but like culture wins
+right every time right like my my job
+i could no longer um even fully
+understand everything that
+that we did right like there's so many
+so many things going on i certainly
+didn't have any opportunity to
+to do things myself but like the main
+way by which
+i could impact the organization was to
+um what was to hire the right people
+and to to put together a a
+you know a a framework or or an
+environment
+that that that would make them
+successful so
+um and a culture so that that was
+uh that was huge as well so very very
+cool
+leo yeah leo we don't we don't have much
+time but you know the most exciting
+opportunity now monte carlo
+uh at first when i saw that you work i
+want to call i was like okay is he
+building the poker chips that i enjoy
+playing with my friends on friday nights
+i'm assuming that it's not that i know
+that it's all about data so tell me a
+little bit about
+monte carlo and the decision to leave
+the incredible role of senior vice
+president barracuda to
+again be a young entrepreneur
+yeah i know poker chips is definitely
+one of the ideas we were considering
+uh at the time uh we decided to go for
+data
+um i don't know time will tell whether
+that was the right decision
+well see yeah i i don't know it's early
+um but uh what we do so
+we're definitely in the data space our
+customers our
+data teams so we help data engineers and
+data analysts and sometimes data
+scientists
+and we help them with um with a buzzword
+called
+observability uh so it's the idea
+of uh of being able to make systems
+reliable
+and uh i'll i'll try to explain that so
+um you know the maybe the way to think
+about it is
+um especially if you've been engineering
+um is you know 20 years ago
+uh if you if you even had a website uh
+and it was broken and went down uh
+nobody cared
+right like you might call someone in
+marketing to take a look at it the next
+day
+uh today uh any sort of business is
+uh is strongly reliant on on digital and
+on
+online applications and websites and uh
+if something
+gets broken um you know someone's going
+to wake up at night to fix it
+uh and in fact multiple people and it'll
+be a ceo level
+uh issue right um and we think the same
+thing is happening to data right like
+um data in the past used to be
+you know bi reporting that you would
+look at once a month or once a quarter
+or whatnot and
+you know if it's broken if the numbers
+are wrong uh no worries you take a few
+more extra days and
+and you go and fix that right um and
+that's changing rapidly today right like
+modern
+tech companies um kind of live off of
+their dashboards
+uh hundreds thousands of people look at
+the data every day to make every single
+decision and then
+increasingly people are using machine
+learning models
+to automate decisions and to
+do things fully automatically based on
+data uh
+and data is also becoming the product
+for a lot of companies right but they
+might be serving data to their customers
+as
+their service and so the
+the reliability of that data uh the
+accuracy of that data the correctness of
+that data is becoming
+important um and it's no longer
+something that you're
+you know you're calling someone and they
+might take care of it a few days later
+it's something that you need
+you need to take care of in real time
+you need to make sure your data is
+reliable
+um and in the same way that there's a
+lot of methodology in software
+engineering a lot of tooling
+um you know tools like datadog and new
+relic and
+app dynamics uh to manage you know the
+reliability of applications
+uh we're helping teams with managing the
+reliability
+of their of their data products of of of
+reporting
+models of um of analytics
+um so that's what we're working on today
+i love that lior it's such an exciting
+journey what are some of the biggest
+insights that you're taking with you
+from sucasa
+in the early stages now to monte carlo
+you know things that
+if you hadn't done tsukasa you probably
+wouldn't know or you wouldn't believe
+if others would tell you yes
+uh it's a good question i i hope i
+learned a few things
+um the main one i think
+um i think it's tsukasa um
+one of you know looking back in
+hindsight is 20 20.
+um we did um we were building
+essentially a security layer for dropbox
+dropbox back then was was taking hold
+and
+i was becoming very popular and we felt
+that businesses will need ways to secure
+dropbox and make it
+more appropriate for confidential or
+sensitive information
+um so that's what we were working on
+um it was an exciting opportunity we had
+kind of
+early success and uh and got
+and and we pretty much dominated that
+market we were we were
+uh dropbox's number one partner and uh
+and if you needed security for dropbox
+sucasa was your
+your go-to solution and uh and it was
+all very exciting
+um however i think that we were so
+focused on that uh specific niche in the
+market
+is that we overlooked
+uh even larger opportunities that
+existed back then a category that that
+was
+later that later became caspy uh was
+happening back in time and we could have
+we could have gone into that category it
+was a natural extension of what we were
+doing
+um and we didn't we were super focused
+laser focused on
+on optimizing for our niche and i think
+what i what i
+and that ended up being a mistake right
+like the caffeine market ended up being
+much larger and much more
+um much more interesting uh
+over the long term um and i think what i
+learned from that was
+um you know you have to be
+laser focused on what you're doing make
+your customers happy make one customer
+happy then make 10 customers happy
+etc and
+at the same time you want to be
+attentive uh to to what's going on
+uh and be willing to change course and
+and expand
+the definition of what you're doing um
+and and and and and see where things are
+going and where the
+kind of broader market is is shifting um
+and i think that's one of the biggest
+things i took away like
+at the end of the day if you want to
+build a really large company and that's
+our goal with monte carlo
+we're here to you know to build a a
+unicorn or a deck of corn or whatever it
+is
+uh an industry changing company and to
+do that
+um you really need to
+see things in a broad way it's not
+enough to build like
+a feature or like highly satisfy a very
+narrow need you kind of need to build
+a cat in this case we're trying to build
+a category so that's
+that's kind of what i took away to keep
+your eyes open to
+category building opportunities that end
+up being much more exciting
+i love that lior thank you so much for
+the time and you know how busy you are
+and i appreciate it so much
+this is an insightful and it's an honor
+to have you here
+what are three words that you would use
+to describe yourself
+oh wow uh it's a great
+uh question um
+i'm probably um
+i i've been told right um i don't know
+how to describe myself but i've been
+told i'm
+i'm quiet so that's that's one thing
+i don't speak much um
+i've been told i'm fast i do things very
+fast
+and and and that's been helpful in my my
+entrepreneurial career sometimes it's
+more important to be fast
+um and i've also been called stoic
+so stoic uh that's it for you yeah
+i love that lior thank you so so much uh
+really really great i appreciate you
+taking the time to do this and stay safe
+and stay healthy
+hey you too michael great talking to you
+thank you very very much

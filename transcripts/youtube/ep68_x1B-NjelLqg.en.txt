@@ -1,0 +1,680 @@
+and we've created extended ivr so we're
+creating a program
+that will allow students to take student
+loans to attend make school
+at relatively low interest rates
+[Music]
+jeremy rossman welcome to 20 minute
+leaders i'm so happy you're here
+hi michael how's it going good how are
+you nsf
+hanging in there we just saw each other
+a couple of months ago at make school
+and everything was normal little did we
+know
+little tiny things are picking up all
+right
+who are you i am one of the founders of
+make school
+make school is a new college in san
+francisco formally operating out of a
+campus with
+dorms faculty clubs all the normal a
+full university a full college
+an accredited college that's right so
+you get a bachelor's we have one major
+it's an applied computer science major
+we are currently operating fully online
+um and
+uh um you know started
+offline uh and operated as such for many
+years and we'll see what the future
+holds for us but
+we're taking the approach of being ready
+for whatever eventuality so if we have
+to teach online we'll continue teaching
+online if we teach offline we'll
+continue teaching offline
+we're going to crush it either way is is
+the goal and
+you know nothing is ever perfect but in
+this world you have to adapt quickly and
+really try your hardest to
+uh to kind of rise up to the challenge
+what we're seeing
+is a lot of schools are having a lot of
+challenges adapting to this new reality
+and i i'm not going to pretend that it's
+easy for us
+but i think we're really fortunate that
+we our faculty are mostly
+former engineers who have a lot of
+experience
+if not with full remote work which some
+of them do with at least substantial
+work from home
+flexibility they know tools technology
+systems communication frameworks that
+allow them
+to really do a better job of remote
+instruction than a faculty member who
+might be going online for the first time
+and so by basically drawing inspiration
+from industry best practices and using
+our faculty as the
+kind of shining light um you know things
+are things are hanging in there and
+student satisfaction on the on the
+online courses is actually
+uh we have we have something like a
+third of students that say the school is
+better now that it's online which we'll
+see how long that
+yeah yeah we're still only a few weeks
+in but that was a really surprising
+thing
+um and the majority of students you know
+say it's better or as good as it was so
+fingers crossed that we can keep that up
+but we're really proud of that
+so jeremy make school is not a regular
+university it is one of the most unique
+universities in the world
+because you know every most universities
+in the world you pay to go to them and
+you pay
+sometimes a lot of money you know the
+student loan debt in the us
+is is in is one of the biggest debts i
+think in the us
+and billion dollars yeah crazy and make
+school
+you actually they come and study for
+free under the premise that when they
+get a job not if but when they get an
+engineering position
+then then they contribute back to make
+school and you know when we did tldr i
+remember my favorite sentence was that
+he told me was
+you know when we wake up every morning
+and come to work we know that we don't
+get paid until our students get paid
+and that that a combined incentive
+in that win-win situation tell me about
+it it's beautiful
+well so funny you should mention that
+some things have changed on that front
+in the past couple of months
+um not in uh at all in the core mission
+but in the implementation of the mission
+so
+it's been it's been really interesting
+to see how that's evolved um
+so the core of the may school model
+which is not changing at all
+is when students graduate if they don't
+have a job they don't have to pay
+um and the amount that they have to pay
+is
+uh is is proportional to their salaries
+such that they're not stuck with a debt
+burden with montgomery
+and afford and that sort of thing the
+model that we've been using for many
+years is called an income share model we
+were one of the first schools to use
+that in 2014
+and students basically pay a flat
+percentage of their pre-tax salary
+uh and there's a threshold below which
+if they're not making up to that amount
+they don't have to pay we have a portion
+of the funding that comes through living
+expenses if you're not making more than
+40k you didn't have to pay that if
+for the portion that goes for tuition if
+you're not making more than 60k you
+didn't have to pay that
+now you might have heard that a
+pandemic has ravaged the world yep a
+little bit
+and at the moment the funding to make
+the next round of income share
+agreements actually is on hold
+so this model that makes school has been
+doing for six years now
+wow we have to rapidly think through
+okay how do you keep the mission
+intact yeah the incentive alignment
+intact so how do you make it painful for
+the school
+when the student isn't successful and so
+we started doing a tremendous amount of
+research as to
+what what now yeah we've come up with
+something what is this episode gonna
+hear uh i think in about
+three weeks three four weeks okay
+perfect then it'll be it'll be kosher to
+announce by then
+um so we're designing this program
+called eivr
+so isa if we can get the funding for it
+we'll still exist but right now that's
+kind of rocky to be perfectly honest
+with you four weeks from now we'll see
+what the reality ended up being
+okay plan a is this new program that
+we're introducing called eibr
+eibr stands for expanded income based
+repayment
+why that name when students go for
+student loans
+to pay for college there's a portion of
+the student loans
+called direct loans that actually come
+with
+default protections built in where if
+you don't have a job you don't have to
+pay
+okay these are loans that are eligible
+for what's called an ibr repayment plan
+which caps your monthly payments at 10
+of your discretionary income
+meaning that students who choose that
+payment plan at lower salaries
+can have their monthly payments
+significantly reduced or if they have no
+job they pay zero
+okay now the problem is when you hear
+about student loans being this big evil
+thing which
+they basically are what students
+typically are struggling with is not the
+tranche
+that they took in direct loans which for
+many students caps out at around thirty
+thousand dollars
+but that's if you take it over multiple
+years in a row
+it's the part that is substantially
+greater usually that they took out in
+private loans or
+other types of federal loans that don't
+have that protection yeah so for most
+students
+a a especially for a program that is a
+four-year program
+that is a full bachelor's program a
+program that um maybe is on the more
+expensive side
+most of your student debt will usually
+be in a form that is not protected by
+ibr
+wow so what we've done is we've modeled
+after
+those ibr protections and we've created
+extended ivr
+so we're creating a program that will
+allow students to take student loans
+to attend make school at relatively low
+interest rates
+so actually on average and this is going
+to be interesting
+in almost every case students will pay
+back a lot less than under isa
+because under the isa plan you are
+paying a fixed percentage of your
+salaries
+and students are getting salaries from
+make school that are much higher than we
+initially modeled
+we had models getting yeah we have
+students out there
+making net effective comp 140 to 180
+wow at 19 to 21 years old and those
+students are not the average but there's
+enough of them that they're looking at
+us going wait a second what do you mean
+twenty percent of that number
+you know it sounded great when they were
+enrolling yeah
+twenty percent of my salary maybe one
+day i'll make 100k
+now they make 150 and they're going wait
+a second that's a huge number so
+we we're working on eibr so the way that
+it's going to work
+is make school will pay
+your student loans for you if you fall
+below certain
+salary thresholds and if you don't have
+a job we'll pay them all for you
+wow so so we take the protection that
+the government has designed for the
+direct loans and we expand it to all of
+your government or
+private loans depending on what you
+choose to take wow which has
+three effects one incentive alignment is
+still there
+right if we we we get paid until we
+don't because
+if you don't have a job then we have to
+pay for you right so it's it's a form of
+like refund policy essentially right
+every month every month that you can't
+afford those loans we will we have to
+pitch in and make the payments for you
+also means you'll never accrue interest
+on those loans you won't be in default
+on those loans make schools on the hook
+not you right
+the second thing it achieves is um a
+more equitable
+distribution of payments for students
+that are in our typical outcome bands
+so that means students who are earning
+typical engineer salaries will be paying
+less for make school
+sometimes depending on how much they
+take out to the tune of 50k or more or
+less
+than they would under under the current
+plan
+and the third thing that it achieves is
+on a on a cohort basis the average paid
+back
+is is uh is quite a bit less so
+when you look at the average case the
+individual typical case
+payback is less and then when you look
+at uh
+the school we are incentivized uh just
+as much as we were
+and so that is the default plan at the
+moment now there's a chance that by the
+time this episode
+airs isa funding is back in the picture
+as you might know with the markets
+um uncertain as they are sure and the
+lending markets in particular
+contracting
+um the funders for isa right now said
+pause don't promise that to students yet
+we need to rework what the deal is
+but we've been able to create this eibr
+thing which is not announced as of today
+but by the time this episode airs will
+be announced
+and we're going to have these full
+tables that show for every income
+bracket
+how much you would have had to pay under
+the old plan
+and how much you have to pay under this
+one and basically uh
+it's it's it's better in in most cases
+and regardless we cap your your payments
+at a certain percent of your income so
+you never have a
+debt payment you can't afford it wow no
+jeremy i have such a privilege both
+speaking to somebody who founded a
+university i can't even believe i'm
+saying this founded a university
+admittedly a college because we don't
+have master's programs okay
+you know i'm from israel i don't know
+the difference college university
+whatever
+sony you funded a car university
+soon but not soon enough you know i
+remember i remember when you announced
+that you got the accreditation to do the
+applied computer science degree
+unbelievable and i came to san francisco
+myself and i saw the class in session
+and i saw how all of you are working and
+you were showing me how you're doing
+construction on these different areas
+just unbelievable how did you i mean i
+remember five years ago you came as a
+sponsor
+to hack gen y the hackathon yes and
+you're you were the
+you were one of the keynote speakers yes
+you were talking about make school the
+summer program
+how did this all even start and get to
+become a college
+so between 2012 and 2014 make school was
+up to two things
+we were running a summer program for
+high school and college students
+who felt like they wanted to develop
+practical
+computer science software engineering
+skills and build a portfolio that they
+could use
+high school students would often
+leverage what they built in the summer
+to make their college apps look shinier
+and many college students use what they
+built in the summer as an entryway into
+getting awesome internships
+so early on we started having awesome
+outcomes students even at universities
+as prestigious as mit and uc berkeley
+would be willing to be quoted
+saying the reason that i got my
+internship at facebook or at square
+was thanks to the make school summer
+academy wow that good thing that we were
+doing
+was we were taking repackaging the
+summer program curriculum and we were
+selling it to universities
+so we actually had as a largest customer
+at the time carnegie mellon
+really yeah we helped many universities
+either in front of the scenes or behind
+the scenes introduce some of their first
+ever app development courses
+in 2014 we realized that if we were
+super popular as of course embedded at
+other universities
+and we were super popular with college
+students on summer break
+then why supplement the system by
+plugging gaps for other schools
+let's build our own school so we stopped
+selling curriculum
+universities and we launched our own
+pilot of what turned into the college
+wow 2014 that had 11 students and 2015
+it had 20-something students um and
+today
+there's like 107 something students in
+the program
+with another 150 to 200 new students
+expected next fall
+we operated as an alternative to college
+you don't have to go to college you come
+to make pool
+from 2014 to 2018 in 2018 we got our
+accreditation but kept the program
+length compressed
+so make school you actually get a
+four-year applied computer science
+bachelor's degree that is
+regionally accredited which is the top
+standard of accreditation
+out in the west coast um and you get
+that four-year degree
+in two to two and a half years depending
+on what course those you take
+so we we switch from having a two-year
+non-degree program to a two-year degree
+program
+we uh you know if you don't have a job
+you don't have to pay that is
+still true and we're really proud to say
+like
+pandemic you know times are creating
+some job market pressure
+right um tens of millions of americans
+are out of a job yeah
+i'm not gonna sit here and tell you that
+it's likely that we are unaffected but
+i will say so far we've only had one
+student that we know of who had their
+internship cancelled
+and in the past six weeks apple pandora
+zendesk and other big companies have
+made offers to our students wow
+honestly good fingers crossed um
+you know is that you know it all depends
+on how the situation evolves and so on
+and so forth i don't want to be
+insensitive to that but
+um we have a huge focus on taking
+best practices for cs theory teaching cs
+theory in a project-based way
+combining that with concentrations
+either mobile development web
+development data science
+that are taught fully project-based with
+the latest and greatest tools and having
+students build up portfolio items in
+every single class so every single class
+results in some sort of artifacts you
+can put in your portfolio and in a time
+of crisis and uncertainty you kind of
+want to be certain the person you're
+going to hire knows how to do the work
+and make school students all have
+portfolios that kind of show you rather
+than tell you you know i don't have to
+give
+an employer a gpa because i can just say
+look at my students github right
+and that's been really really good for
+our outcomes uh
+in terms of employment and yeah that's
+kind of the high level of the story
+going from a summer program to a
+curriculum vendor to an alternative to
+college to a college college
+i'm all in the short span of eight years
+so jeremy where did you go to school
+remind me
+you know the answer to that question i
+went to mit okay
+and i started off with lofty aspirations
+of majoring in computer science
+to be honest i basically
+you know i guess the world has gone
+remote it's okay to use internet
+language in real
+world now because what's the real world
+except for online i noped out of there
+real quick um when it came to computer
+science courses i remember going to my
+first ever cs class lecture
+and being like not really happening
+i was fortunate to have access to
+amazing project-based progressive
+computer science education in high
+school
+when i got to mit i was expecting more
+of the same and the lecture-based
+100 students in the same class kind of
+situation i instantly disengaged that
+did not fit my learning style i just
+could not do it
+and i immediately started um teaming up
+with friends to make iphone apps because
+the app store was new back then it was
+relatively new
+so what happened was i i finished my
+sophomore year and i'm like wait a
+second
+i've learned a lot more about product
+development
+industry best practices and cs
+from teaming up with friends and
+designing coding and launching
+an iphone game sure then i have from any
+formal cs class which i basically
+took one of and then was like no i
+actually switched to being a media
+studies major briefly at mit before
+dropping really
+so by the time i started make school
+the whole goal was just to teach cs in
+the way i wish it had been taught to me
+so we created those first ever courses
+they were designed for students like me
+who are not good at teaching themselves
+something out of a book not good at
+teaching themselves something out of a
+lecture
+who need high touch instructional
+support but if they have it can be very
+high performing
+one of the things that is important to
+know about the world of software
+engineering
+is that it's full of survivorship bias
+the people out there who are successful
+many of them are in that five to ten
+percent of people who made it through
+the no support lecture-based
+textbook-based type of education and
+we've come to think maybe that's what it
+means to be good at computer science
+but that's false there are people out
+there like i was i'd like to think
+who are very high potential but whose
+learning style is best supported by
+project-based learning
+and having actual experts available as
+your faculty who can be your mentors to
+unblock you when you get stuck
+not sitting there as stages on the stage
+experts in front of the room talking at
+you for an hour
+right and so what we did is we built a
+more flipped classroom experience
+project-based learning and it was so
+send me a picture jeremy pay me a
+picture i'm walking into the
+make school classroom uh i saw it on my
+own eyes but i want you to paint a
+picture to whoever's watching this
+because it's different
+it's completely empty because we're not
+all online oh until further notice
+no um uh and actually we've used online
+you know between
+zoom zoom breakout rooms our learning
+management system like i think things
+are pretty buttoned down
+but a lot of the time if you walk into a
+random class what you see
+is a bunch of students coding so they
+have their ide
+up and they have uh tutorial materials
+up that are guiding them through some
+sort of project
+and then there's faculty and tas who are
+roaming and and
+helping individual students unblocking
+them as they get uh as they get stuck
+then periodically there's gonna be
+recaps to do checks for understanding
+and help highlight certain points
+conceptual or otherwise
+that the whole class needs to rely on
+right and then back to project work
+classes often split between assigned
+projects we say hey you're going to
+build this here's how
+and then open projects we say you're
+going to build something of your own
+conception but it must satisfy these
+requirements
+and so students can go back and forth
+between both kinds of projects we also
+have the full complement of general
+education now
+from communication to history to
+sciences and all that
+which makes you know integral part of a
+real degree
+and as much as people might think that
+that stuff is is fluff the reality is
+employers tell us all the time that they
+want it
+they want students who've gone through
+that stuff and they see our students as
+being even more competitive to hire
+because we haven't cut that stuff out of
+the curriculum and that's been given
+given us a great advantage as well
+in a world full of boot camps everyone's
+kind of taken the shortest path we
+haven't cut
+the communication the teamwork the
+project management the
+history the philosophy that you need to
+be a well-rounded universal society and
+also team member so
+and i mean a lot of these workshops are
+also taught by professionals
+that are in the that are working at the
+same time right they're not full-time
+lecturers some you have people that are
+coming in from the industry to support
+this right so
+most of the faculty are actually
+full-timers where the thing they were
+doing immediately before
+was full-time in industry so they're a
+lot of our faculty kind of do rotations
+like
+they'll come teach with us for like two
+three years and they'll go back to
+industry wonderful
+also have classes that are being taught
+by industry so for example
+yelp taught our technical interviewing
+class uh which was pretty cool
+um and uh we're working
+we have google is teaching a
+pre-orientation program
+for students this summer so before you
+start your first class google is going
+to run a program
+uh for baseball students and then we
+also are about to announce which i guess
+by the time this errors will be
+announced
+then microsoft and lyft are doing their
+first ever
+on campus or i guess online at this
+point
+uh partnership of the kind where they're
+going to be supporting
+a lot of our like technical interview
+prep
+algorithms prep and so on and so forth
+to get students ready for
+um for technical internships and
+apprenticeships so we're going to be
+announcing a microsoft we'll have you
+know yelp google microsoft and lyft in
+the mix it's like actual companies
+teaching content that is integrated into
+the curriculum jeremy our 20 minutes
+went by
+way way too quickly way too fast but i'm
+gonna put you on the spot
+for once and i know that you can handle
+it i would like you to tell me three
+words
+that you think best describe yourself or
+if i would ask anybody in the make
+school campus
+how would they describe you three words
+um extroverted
+optimistic analytical
+i like the combination of the three it
+sounds okay it sounds like a good a good
+idea
+jeremy thank you so much thanks so much
+for having me this was great
+take care
+you

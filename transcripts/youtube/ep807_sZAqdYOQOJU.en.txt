@@ -1,0 +1,514 @@
+we are at the beginning of uh
+of the coverte era and we are going to
+see them all around us all the time and
+everywhere
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+hello and welcome to 20 minute leaders
+this episode is all about robotics meet
+amnon avigai a well-experienced manager
+in the fields of i.t organizational
+processes and automation
+i'm known as the general manager of
+robotize the robotics division of mitwa
+amnon established robotized two years
+ago together with amir matwak the
+company's business development manager
+now after two extensive years amnon and
+robotize are recognized in the israeli
+market as market leaders in the cobatic
+fields
+you know the world is obviously changing
+uh so rapidly and the way that we a lot
+of the tasks a lot of the things that we
+need to interact with our physical world
+um you know they have a we we're
+constantly now thinking of what
+previously seemed like science fiction
+today is already becoming a reality
+partially due to robotizing different
+solutions that you bring to the world
+and so i'm looking forward to talking
+about robotics with you both on the on
+the creation perspective but then also
+on the integration with humanity in the
+human computer interaction if you will
+and so thank you very much for joining
+me today
+great great being here and uh yeah it is
+very interesting and uh
+um
+yeah it is very interesting to share our
+thoughts and and the the way we think
+that the world will uh
+be and become with the cobots serving us
+yeah
+so so already off the bat you're
+mentioning um the term cobots
+um and not robots so what what is it
+what is a cobot
+okay so so actually the the
+term the word a robot
+was invented at i think it was 1921
+when a czech a author uh
+looked for a
+word that will describe a machine that
+is doing a hard label and he uh took it
+from you know it sounds like
+robota in in russian but it is from the
+the czech language which which is a hard
+work
+um
+and and uh
+you know we we
+think that the word robot exists since
+ever no it exists since in 1921
+and um
+uh
+the the the actual robots that we we
+we started to use
+started you know in the
+beginning of the
+of the 80s of the last century when uh
+mainly
+japanese manufacturers
+use the
+robots in the
+production lines of cars
+but those were
+mainly robotic
+arms that they
+no human could they be around it because
+you know it could hit them so uh we
+we had
+robots like you know machines they did
+hard work
+uh
+but uh the term cobot
+reflects the a machine which is
+collaborative with human beings
+so this is why we call it the cobot
+collaborative robot uh because it can
+interact and they move and they
+act around the human beings
+um so just to make sure that we
+because you know in today's world we
+still you know if we're following tech
+crunch or various newsletters we'll get
+exposed to them but in in reality today
+where will we find these cobots you know
+if if we're looking at the general
+humanity
+where would i find today the
+implementation of production cobots
+okay so so you know first of all three
+three uh main technologies had to be
+ready and
+developed in order that we will have a
+cobots
+working cobots
+first one is energy you know all robots
+use
+uh um batteries and we need the the
+batteries you know like in in
+liking cars that the batteries will have
+enough energy that will last for a long
+time and that will be charged rapidly
+and the second is is computing now the
+each robot has a lot of sensors that
+they
+bring a lot of information and that
+information should be uh
+processed uh
+near
+real time and you know when to
+reflect on the cobot
+positioning or how it behaves uh and and
+the third is the navigation you know uh
+all the cobots you know they they move
+uh autonomously and
+they need to navigate you know in in
+places that
+they didn't know until uh recently so uh
+uh so those are the three uh
+technologies navigation computing and
+and energy and we we can
+you know when we deploy nowadays cobots
+it is
+anywhere that you can imagine of it
+starts from our homes
+uh in hospitals in factories in
+hotels in restaurants nearly everywhere
+and
+since the cobot can move a
+autonomously from one point two to the
+other they can you can
+only imagine
+all the
+applications that we can install on on
+those machines and so
+so
+very interesting but you know if we're
+looking now at the implementation and
+the integration of robots there must be
+some fundamental
+fundamental premises or assumptions that
+these robots need to fulfill beyond
+their ability to conduct
+some a task what are some of the i don't
+know safety
+and you know um
+understanding wide expectations of such
+a robot i mean because at the end this
+this cobot is going to be implemented in
+a physical space right and so we must
+have some universal agreement as to what
+we're allowed and what we're not allowed
+to
+to have the robot perform you know on an
+algorithmic level so are there any
+standards that are sort of universal in
+this matter
+um great question no standards okay
+until now no no standards and i i'm sure
+you know regulation is always
+behind the
+technology so uh
+just a few steps behind yeah
+few big steps yeah yeah
+so there is no uh
+instant
+standards about the how a cobot should
+behave or not um
+but the
+the manufacturers and the
+uh we as as a you know the integrators
+and who are responsible uh for the
+implementation of
+the solution uh we
+must
+make sure that
+no cobat will uh harm a human being
+so it did this is you know uh
+if we will uh have an incident in which
+a cobot
+caused
+an injury or death to a human being i
+think that
+it will take a lot of time to convince
+others to implement a robotic solutions
+uh
+even though you know why
+moving
+machines
+that are being
+driven by by
+human beings
+make a lot of accidents but still if a
+machine that drives alone will will make
+an accident then
+this is an issue this is a big issue um
+right but for instance we are sorry yeah
+okay no because i i really am you know
+fascinated that because as you're
+standing at the forefront i want to make
+sure we're devoting enough time to to a
+conversation also about you know where
+we're headed and what are the different
+opportunities because while we while
+there are companies that are dealing
+with this i'm still struggling to really
+understand
+how how much of an impact is this going
+to make on uh on on actually you know
+everything around us and the way that we
+live our life and so maybe you can share
+with me just a little bit about about
+robotize and and how you're thinking
+through the vision of robots integrated
+into our society okay so for for the
+time being we are dealing with four kind
+of applications the first one is a
+cleaning
+uh um cleaning robots you know those who
+swap and and vacuum the floor or
+sweep it or
+or
+brush it you know those kind of robots
+the second
+application is delivery
+uh
+robots we are now in the middle of uh
+implementation of a solution in a
+big factor in israel know that instead
+of um
+i i don't uh
+oh instead of human
+beings moving heavy stuff from
+one
+point to the other point in the factory
+robots are going to to do it um
+and so the first i was cleaning the
+second one is delivery uh we are in the
+middle of implementation of a
+small delivery robot that will take uh
+blood tests from one side of a
+laboratory to the other side of
+laboratory um
+we
+implemented a
+disinfection robot based on a uvc
+light uv light in a big factory of uh um
+pharma factory and
+the the fourth one is the telepresence
+uh
+yeah telepresence robots that no uh
+helped me
+being there without being the okay so
+those are the four kinds of uh
+solutions that we
+provide right now
+and so if you're looking at the way that
+these are going to be implemented at
+scale
+how where are we today in terms of the
+life cycle of you know either the the
+experimental phase the phase where we're
+ready to to grow and to have this be an
+integration an integral part of of our
+workforce where are we on this timeline
+assuming that one day we will have you
+know robots surrounding us constantly
+yes so i think that we are only at the
+beginning the very beginning and but
+since the uh as i said
+earlier um the technology is quite ready
+uh we are facing we are going to face a
+a boom you know where an explosion of
+cobots and we see how many
+uh
+companies
+come
+one after
+the other
+some of the companies are coming from
+the application side and some of the
+companies are coming from the robotic
+side um
+yeah so
+yeah we are at the beginning of
+of the cobot era and we are going to see
+them all around us all the time and
+everywhere
+fantastic now to share with me maybe a
+little bit about the the development
+process of of a robot like this from you
+know from how you actually
+get the the idea or the thesis as to how
+this robot is going to be integrated all
+the way to actually running the tests
+and seeing how well it performs in a
+real world situation so i'd love to hear
+just you know an end-to-end process of
+how building a robot like this you know
+how does this take place
+okay so so as i said we don't build the
+the robot the robots are being made by
+the companies that we are working with
+uh and
+in
+we uh
+we come to for instance let's say a
+parking lot a big parking lot that they
+now is being cleaned by a you a by
+person that writes a cleaning machine
+normally at night
+how they work nobody wants to work
+in those kind of works so we come to to
+this parking lot
+we inspect it and we map it
+and
+we bring the robot to the place actually
+the uh the mapping is is being done by
+the robot itself while riding it
+uh manually uh and it builds a map using
+a lidar a lidar
+element uh
+you know using a laser air beam
+yeah
+and
+after mapping it we
+sit
+with the uh
+owner of the parking lot and we build
+with him the uh cleaning plan of
+this parking lot um it can be
+done
+you know
+normally in robots they use
+one hour of charging for every one hour
+of working so we get a a machine that
+can work 12 hours a day
+365 days a year uh you know being doing
+this uh cleaning mission so this is for
+for for cleaning if we go to uh in this
+laboratory where that i spoke about
+uh again the mapping is being done
+always with the robot you know with the
+lidar and and then we sit with the uh
+with the uh
+uh
+people that run this laboratory and we
+build the plan
+how it will go from one point to the
+other point and yeah
+yeah so what it sounds is that there's
+there's an element of of taking existing
+solutions right taking the technology
+understanding that it has you know
+creating a general enough solution that
+will provide for a variety of use cases
+and then through an intimate work with
+their organization you're able to then
+actually make the fine fine tuning for
+how this
+cobot or robot is going to integrate
+within the current chain of procedures
+for this for the exact situation right
+and how how how much do they vary how
+how different do these organizations
+work
+in in terms of your having to fine-tune
+the way that then the robot cooperates
+with them um since we are working in
+a lot of verticals uh
+yeah
+it is very a lot i mean a hospital is is
+uh working in one
+way and the factory is working in a
+different way so
+it is totally different the amount of
+people that
+are
+working in a supermarket are not the
+amount of people that are working in a
+laboratory uh we have in a big store
+in supermarkets in israel robots that
+are that clean uh the the the
+supermarkets and uh
+um
+you know if you try to activate the or
+make the robot work uh in a
+thursday afternoon
+the robot will fail it will not
+be able to accomplish the the mission
+that it runs yeah
+uh
+where is your
+your passion and excitement for robotics
+coming from where you know you're
+choosing to spend
+your time you know with these robots and
+and you know there's also the
+interesting question of building them
+and and creating the actual robot versus
+the implementation and the actual field
+and the integration
+to humanity
+what what what came into these decisions
+for you um
+actually it only started at the
+beginning of the uh covered uh um
+eruption
+towards
+them february
+when we
+installed um
+remote patient monitoring solution in
+hospitals in in the country
+and one of the department managers
+in one of the hospices came to me and
+and asked me why do you
+install
+a fixed
+solution on a wall
+why can't you make something that we i
+will be able to to guide from outside
+the uh
+the department uh or from home
+and they
+i said okay interesting i want to
+investigate this
+uh
+and uh
+you know it was only the beginning of of
+uh the uh technology being ready uh
+to do such a
+such
+missions
+and and
+we in in ten days we built a prototype
+of a moving
+robotic moving a remote patient
+monitoring solution and
+once we discovered
+the technology we couldn't uh you know
+uh uh
+stop working
+on it and it was you know we are quite
+an old company robotize is part of a
+company that exists uh
+since 1906
+uh
+and and we started to act like you know
+a startup
+around around the clock you know
+bringing new technologies understanding
+new technologies uh and and we don't
+stop you know
+more and more solutions and more and
+more uh
+implementations
+fantastic and uh i think that the the
+world that we're talking about here is
+you know what what i think that is so
+fascinating in our point in time is that
+we understand that we have the
+technology
+we understand from
+perhaps an ethical and a moral
+perspective that it's that you know with
+the terminator fear that that maybe some
+some folks have from the previous
+generation that that's not what's
+holding true
+today and and the integration is going
+to take place and i was just
+a question of of when and where not an
+if and so i'm really excited by
+companies like robotized that commonly
+and actually go to
+uh to perform these integrations and and
+push push them forward in humanity in
+general and so i'm thank you very very
+much this was a really really
+interesting
+best of luck with robotize continue
+pushing robots and and cobots into our
+workforce and and i think it's doing a
+great service to everybody so thank you
+and stay safe and stay thank you thank
+you michael it was great being here
+[Music]

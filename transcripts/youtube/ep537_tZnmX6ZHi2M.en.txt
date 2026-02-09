@@ -1,0 +1,723 @@
+get the customer to love
+yeah your solution to to talk about it
+in an emotional
+state
+uh and there there is this uh kind of uh
+in the last couple of years people say
+oh ask your customers
+uh how would they feel if you take the
+solution away right that's kind of the
+test
+so you want them to use the solution you
+use full story use whatever
+method to see their engagement within
+the platform
+see where they need help with
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitech and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+let's talk about permissions security
+compliance and enterprises meet and
+bernoy co-founder and ceo of optimize
+prior to co-founding optimize dotan led
+the product management for the infinity
+next platform at checkpoint software
+following the successful acquisition of
+forced knock security where he served as
+co-founder and ceo he also founded and
+served as ceo of resect tech the time is
+also a member of the technical board of
+the governors israel institute of
+technology
+this is one hell of an episode welcome
+to tan
+welcome to 20 minute leaders authomize
+great to be here thank you for having me
+thank you very very much for coming i
+love what you're doing i love the space
+that you're in
+i very very much love your investors and
+so we already talked about that before
+but i'm really excited to get to know
+you better over these next 20 minutes
+and get to know authomize in the space
+that you're in and and really you know
+rigorously thinking why is now the right
+time for a company like automize you
+know this idea of permissions and and
+you know company it's been going it's
+hundreds or thousands of years ever
+since we had some sort of hierarchical
+structure in society but now we have a
+startup that raised a wonderful series a
+called optimize and i'm excited to hear
+uh why your experience spans much much
+broader than than optimize whether it's
+from your time at bagilan and the
+technion and
+you saw the previous company to a
+checkpoint
+force knock and and risk technologies
+ltb
+so i i really want to push forward now
+because 20 minutes is way too short tell
+me a little bit about what led to your
+conviction
+to start optimize uh with a good friend
+ron lieberman
+yeah so about a year and a half a little
+bit
+but maybe a couple of months more
+we started authorized with three
+partners uh
+gal diskin our cto and co-founder uh was
+the city of severa that was acquired by
+palo alto he then led the palo alto
+israel
+and the entire traps and the cortex
+solution within palo alto and won
+liberman that you know well
+from the cursing in hebrew a200
+telpiyot which is the code name for
+cybercyber
+and we started really doing things by
+the book we started a
+process of ideation talking to dozens of
+cios and csos from different verticals
+different company sizes
+in order to validate
+our
+assumption about managing authorization
+and we started looking at oppa the open
+policy agent
+we thought that's an interesting
+direction but when talking to the
+different
+executives the different managers we
+understood that
+this is kind of a small piece of a
+larger picture that is missing which is
+the authorization management the the
+overall
+and you're right authorization is done i
+don't know i don't know about thousands
+of years i can imagine i know who can
+enter the cave and what they can do
+within the cave is kind of a
+authorization uh but um
+but uh you're right the arbuck model the
+role based access control exists from
+the 90s and then
+we had 2002 we had the sox regulation
+coming in to effect making uh the
+monitoring the governance uh identity
+governance as a kind of a
+given that every company every public
+company needs to do
+but since then not a lot change around
+the authorization
+and that's
+and that's kind of uh
+created a void because the world did
+change cloud appeared and the
+adoption of sas applications and so on
+so i can dive into that even more if uh
+but i don't want to
+oh thanks so
+so if you look at the last 10 years and
+you look at companies like octa
+um
+you can look at companies like uh
+all the zero trust companies so there
+was a lot of changes within the security
+space in the last 10 years right the
+xero trust the sso the octa
+casbies
+and then this did not happen in a void
+this happened to address something that
+that the customers needed because they
+started adopting more and more cloud
+application they moved they moved to aws
+to azure to gcp they they started opting
+different ways of doing business
+but when you look at the authorization
+side of things how we are managing who
+has access to what this is kind of the
+authentication but what they
+what they can do and after they log in
+that's still
+mostly based on defining a role defining
+groups defining roles to that group
+defining so it's manual so when you
+onboard someone to your organization and
+you define what they can do then they
+start opening permission requests you're
+fixing and you're changing what they can
+do and then when they move the different
+position you make those changes again
+and then when they leave the
+organization you need to make sure that
+you actually took away everything and
+this all what i'm describing is mostly
+manual
+you get to fortune 500 companies that
+still have excel sheets and they they
+have uh one of the big four coming every
+year to fix the r back model um
+when they need to do user access reviews
+where they need to understand
+actually what an identity what a user
+has within different resources they need
+to go to different applications
+separately
+and it was obvious that even if gal ron
+and myself will sit in cancun drinking
+pina colada waiting and looking at the
+stars
+that uh
+there is a new category that's going to
+emerge that that will disrupt this
+entire way of doing authorization
+management
+so author
+what i really want to ponder here is
+2021 authorization management tell me a
+little bit more about the need because
+at the end all everything that we're
+talking about here is causing delays to
+the organization right every time that
+they that somebody has to wait for
+permissions i've been on both ends
+inevitably it's going to delay some
+operations you're giving less freedom to
+the employees why is it so critical
+today
+and why has it evolved so much over the
+last 15 20 years like you mentioned
+yeah um so
+so imagine there's two things one is the
+operational side and the other is the
+security
+so those are two end of a different uh
+aspect so i can say everything everyone
+is admin
+no delays in operation everyone can do
+so i have 300 application
+new employee comes in is admin on every
+on each one of those
+from now on i promise you there's not
+going to be any deal nobody need will
+come and say i don't have access to
+something
+they have access to everything all the
+time so operational wise this is
+extremely easy
+uh to manage security-wise this is
+extremely risky i wouldn't recommend
+that
+as a way to go and then the other side
+of things is let's try to
+close let's start to be more strict
+let's try to reduce the risk and this is
+the challenge how can we do that still
+keeping the operational
+side of things not to explode but kind
+of keeping the risk
+as low as needed how we can make sure
+that a user or a human user as well as a
+machine identity which is another topic
+in itself
+gain only the access they need
+and when i say access is needed a lot of
+time people imagine oh you're going to
+strip a lot of permissions yeah that's
+one side of the things but the other
+side is
+if you're doing your work well if
+optimize works well that we can actually
+recommend
+adding permission to someone that is
+likely to need
+so it's finding the right balance it's
+not necessarily just tripping away
+permission
+and
+and when you have on-prem
+oracle
+sap something and that's your main
+applications and not a lot of changes
+not a lot of movement within the
+organization
+the arbuck model from the 90s can work
+when you have
+30 percent
+change in your application on a yearly
+basis employees coming going
+and you're trying to keep the velocity
+of your organization of your operation
+you cannot do that manually
+and
+you need
+you need a2c you need something that
+looks at the identity looks at deep in
+the granularity of those applications to
+the assets understand the relation
+between them and then makes your life
+easier
+right
+and so when you're looking today
+at companies and how you are built as
+you're building automize and and and
+soon i'll want to go back to the the
+prediction side of things because i
+think that's something very very
+interesting what are you learning or
+what have you learned through working
+with enterprises already regarding the
+way that
+you know that the different stakeholders
+are treating authorization within the
+organization and and the willingness to
+adopt you know a new startup that is
+coming and going to be working
+internally within the core of how the
+organization functions operationally
+yeah so authorization as a whole sits on
+three legs generally it sits on the
+security on the operation and the
+compliance
+so we are focusing on mid market so
+compliance and security com comes
+together uh and
+this is kind of our first step security
+wise so what we see from organization is
+because we are a sas because it's
+extremely easy to deploy us
+uh as long as you really have a
+fine-tuned understanding on both sides
+of the use case of the problem you're
+trying to solve
+then the process works really fast and
+the value and you can get time to value
+which is
+days
+so once we have a
+customer we define the application they
+need to help with it could be
+aws office 365 salesforce and github for
+argument's sake
+and you def and you then integrate to
+their idp the azure active directory or
+octa or ping
+you get the information within optimize
+authorize does the magic we analyze that
+and we are then able to say
+here is what we see here is what needs
+to happen now you can define guard wells
+now you can run user access reviews all
+of that within the optimized platform in
+in the your tip of your fingers very
+easy so
+so as long as things are defined and the
+other thing the other insight is
+i would say that for us that was that
+was this is part of the opportunity when
+you deploy an octa
+your vision uh octa is your sso your
+vision is that octa will be
+integrated to the entire stack you have
+300 application great i need octa on for
+those 300 applications all the time
+when you look at authorization
+authorization comes into play
+specifically in your critical
+applications
+where your data is the most
+most the most sensitive information is
+there where uh where your crown jewels
+are
+so
+it's gonna be office physics five it's
+gonna be your gate it's gonna be your
+drive box dropbox it's gonna be gcp
+it's gonna be a jira it's gonna be
+applications and this is not just named
+operating this is
+uh application we have out of the box
+connectors and you can connect us
+extremely easy so so
+it's going to be a list between five to
+15 applications that you need to support
+in the organization and do it well this
+is what we bring to the table so it made
+our life very easy as uh
+paint me a short picture if we're
+looking two three years down the line
+you know you're moving very very fast
+with optimize you have an incredible
+team
+and working with you and and incredible
+also investors that are that are
+powering you and
+what where is the how is the world
+different in two three years things to
+optimize
+and then i want to touch a little bit
+back on on your previous experiences
+yeah so
+um so as i focus we as i mentioned
+before we are focusing on mid market
+so uh this is somewhat similar plate
+what octa did
+and then moving to the enterprise
+that means that we took a challenge of
+being an intuitive easy to deploy easy
+to use solution you can plug and play
+and manage your authorization
+and i was really surprised uh talking
+with the friends in the industry giving
+lectures in a few that even companies
+that are extremely small 50 people a
+hundred people
+uh
+came and said we need that and um it's
+it's amazing to see that even when
+you're 50 users or 75 years old 200
+users and someone left the organization
+you don't know whether or not they still
+have
+uh
+someone did a local account in
+salesforce and you didn't know about
+that and they still have access to that
+information or so so the need exists in
+both the enterprise but the uh the small
+customers uh as well
+we are focusing on the meat so you asked
+me about the big picture we see
+ourselves as kind of building a model
+very similar in
+octaves model
+of being
+moving really fast
+addressing this mid-market that has the
+need being their first and last
+authorization management solution
+and then moving within the organization
+to help those organizations with the
+security with the compliance with the
+operation
+so there's kind of a
+lend and expand with this backed off
+more and more application that you can
+connect us to help you manage and more
+and more use cases in the different
+domains that we can help you with
+so
+in my vision in three years when you
+integrate
+optimize
+it will take you
+minutes
+and
+the value will be
+almost immediately and each one of the
+different department will be able to
+have
+the uh in the the ability to say oh i
+have a i have a i have a need now to run
+because of compliance user access review
+that's easy for me or security i have a
+policy that i want to enforce
+that external uh i'm doing i have
+subcontractors they have access to
+different resource i want to have a
+policy around that great or i have an
+rpas i have uh robotic process i have
+machine identities
+machinery which is a pain i think the
+next year will be all around everyone
+will talk about machine identities how
+do i know
+because i i can't talk to a machine
+there's no that it will not answer me
+and nobody has the uh
+it's extremely scary to take one of
+those identities down because you don't
+really know what they're supposed to do
+who set them up and so on so and it
+could be that the one that actually
+added them is gone he left the
+organization so you don't have anyone to
+ask so
+so this is there's kind of this entire
+uh
+from security perspective
+visibility and observability of what's
+going on within the organization my
+ability to
+set up
+those guard dwells in violation this
+policy i want to enforce
+and then in the operation side we want
+to make uh the so there's no reason for
+let's say permission request there's no
+reason that a human will get the ticket
+will start stretching his head and then
+i call it art make a decision because he
+has a lot of experience in the
+organization and he knows from past
+experience that to answer this
+permission request he needs to add you
+to this group
+but if someone else would got that
+ticket they will add you to a different
+group both of those will give you
+permission to the resource you ask for
+but the question is which one is better
+which one is the true
+uh way of solving that permission
+request so we need to make that science
+and
+let the human
+get involved only where
+you need them otherwise the uh
+machine the ai can do that better and
+faster a hundred percent 100 percent now
+a serial entrepreneur
+founded companies previously acquired by
+one of them acquired by checkpoint
+what
+as your as you're thinking back now on
+the last year and a half
+what comes to mind in regards to some
+things that you're bringing with you
+that you brought with you from your
+previous experiences that that a
+first-time entrepreneur may just not
+even be aware of because it's not
+trivial something very you know an
+internal conviction that you have with
+you that is either giving you confidence
+or is just helping you push forward
+so
+yeah a great question so
+as i kind of stated before we are we're
+working very um
+very neatly by the book the ideation
+process was a lot of israeli
+entrepreneurs are very strong when it
+comes to the technology
+and uh
+many times i see them building something
+and then start testing it with the
+customer and they they actually start
+building it before even talking to real
+customers
+um so you need to relax don't write any
+line of code first of all talk to
+customers getting the feedback and when
+you talk to them don't try to sell them
+their solution understand their problem
+their side of the uh
+their side kind of their problem what
+they are trying to solve what their
+priorities are
+uh who's the body even who's the budget
+owner we i'll give you i'll give you a
+golden tip
+every call you're going to have not just
+with customer but every call you're
+going to have let's say that you have 45
+minutes talk with a customer
+and you're telling them you already have
+a solution you're trying to convince
+them it's the best solution in the world
+you're having the conversation leave the
+last 10 minutes of the call to talk
+about the process
+to understand how things are
+going to happen with this organization
+what's important for them who's the
+people you need to get to to get
+involved in that process what's the
+decision uh process uh what's the buying
+process and so on
+um
+resec
+is a network security
+so originally when we need to deploy
+that was like in the old world you came
+to a customer's site you well covered
+but imagine before covet if you remember
+millions of years ago before corona
+before the covet we actually met with
+one another so we came to a customer's
+site we told the customer it will take
+you a couple of weeks it took three
+months we deployed that it started
+working it was inline right it was uh so
+the conversation was how gonna do active
+active are you gonna do passive active
+are you gonna so the redundancy right
+the availability
+and blah blah blah and then when so that
+was a real pain extremely hard to sell
+uh from this perspective of the
+integration as a process
+huge process
+and then
+which involve a lot of people and then
+force knock was
+here is a vm it's already packed ready
+deployed at
+um
+it was
+much easier much quicker customers can
+test the solution quicker and now i'm
+actually even in an
+easier world right everything is api
+based we are sas so
+but
+so so the integration is easy
+value is quick
+now the challenge is making sure that
+before you do the integration everything
+is aligned
+the customer and you understand why
+you're doing it understand the value
+they're going to see
+are set they have the resource to
+to use that right and then once it's
+deployed it kind of moves to in our case
+to what we call the customer success
+right you want to make to show them the
+value out of your solution
+um i like the model of the 30 60 90 but
+kind of making a long story short is
+get the customer to love
+yeah your solution to to talk about it
+in an emotional
+state
+uh and there is this uh kind of uh in
+the last couple of years people say oh
+ask your customers
+how would they feel if you take the
+solution away right that's kind of the
+test
+so you want them to use the solution you
+use full story use whatever uh
+method to see their engagement within
+the platform
+see where where they need help with and
+there's a lot of challenge there from
+without optimizing still it's a work in
+progress it's a journey
+it sounds like an amazing journey and
+i'm inspired by by the process and and
+no wonder you're saying you're working
+by the book on the other hand it's very
+you know it's very mythological but it's
+also very critical and very rigorous and
+i think that it's it's there's no
+playbook into into creating a successful
+company there are things that i think
+you learn and that you understand along
+with your very very seasoned team
+and so i'm inspired to follow the
+journey okay i i i need to let you run
+to to build to continue building a
+company but i want to take two more
+minutes out of your time to ask you some
+questions about yourself dutan i want
+you to take me back to your childhood
+and what really fascinated you as a kid
+before startups before high tech
+uh so i i'm i'm from the 70s so we we
+had floppies and computers was a little
+bit different back then
+my first computer was a sinclair
+uh so uh
+that that
+that and i'm uh there's another israeli
+term called kibbutz
+so i'm uh i spend my childhood in
+kibbutz which is uh
+i'll let you google everyone who doesn't
+know google it what kibbutz is double b
+um and so
+this was uh computers and the fact that
+i lived in an area with a lot of animals
+that we had i raised pony horses this is
+from a seinfeld joke i guess
+so
+that's my childhood
+and today what inspires you
+so i have a four-year-old older daughter
+uh and that's
+you find yourself that your life kind of
+is around that and that's what
+really uh
+really makes me get up in the morning
+and stay awake at night
+and what are three words you would use
+to describe yourself
+oh
+so
+i guess i
+that's a great question um
+so first of all of course
+yeah i don't know if
+i won't go the tribal uh uh way but i'll
+say first of all there's a lot of
+opposites in in my in me so from i could
+be extremely serious on certain terms
+and extremely kind of uh
+funny and uh jokish on others
+i could be extremely open on certain
+topics and it's really close on others
+so this kind of uh
+just trying to generate this balance and
+which is uh
+so one word could be
+managing opposites or balance
+and this is also true to what we're
+trying to build as a culture in the
+company between life and work balance
+um
+i'm extremely friendly so i'm well
+connected there's a huge network of
+friends and they're really friends
+so i i would like to imagine that
+if you
+send me a what's up or at the middle of
+the night that you're stuck with uh
+i know on a highway with a flat tire uh
+i'll be there for you man and the uh
+thirdly i would like to say i'm a family
+man um i'm really like uh
+i'm i asked me 10 years ago i wouldn't
+even be i wouldn't be i wasn't sure i
+would ever want a kid and
+today this is kind of my life so
+for an amazing 20 minutes i really
+appreciate it
+i'm definitely gonna what's up you when
+i have a flat tire and i don't know many
+people who will come in the middle of
+the night so now i know one and i'm i'm
+gonna use it so thank you for that and
+anybody who's listening i'll send you
+times what's up and so thank you for
+everything uh best of luck with arthur
+mice continue inspiring all of us and
+stay safe and stay healthy thank you
+thank you very much my pleasure

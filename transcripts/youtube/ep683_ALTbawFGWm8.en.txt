@@ -1,0 +1,662 @@
+when i coded tools i really wanted them
+to be easy to use because people use
+them all the time and they want things
+to be comfortable you know they don't
+want to spend a lot of time in your
+program they just wanted to work for
+them
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+welcome to another episode of 20 minute
+leaders meet danish pakovsky group
+leader at weka io
+danny is originally a systems developer
+and security researcher having served in
+various roles in the technological unit
+and 8200
+he then pivoted from cyber and for the
+last four years has been working in weka
+io a storage startup developing the
+fastest distributed file system in the
+world which enables modern workloads to
+reach their full potential
+he first joined as a developer and in
+the last couple of years as a team and
+group leader
+in weka he is managing the product's
+control plane bridging the gap between a
+highly complex and hard to understand
+product and end users who want
+simplicity usability and user experience
+danish pakovsky welcome to 20 minute
+leaders how are you i'm good happy to be
+here thank you so much for being here i
+i love talking you know usually you know
+entrepreneurs entrepreneur investor
+investor engineer to engineer and so you
+have a really interesting background
+transitioning from cyber to a weka io an
+incredible israeli company um that's in
+the storage space but but you know the
+really interesting transition in my
+perspective is a transition from you
+know a developer an engineer to a team
+leader so with the responsibility of
+leading other engineers and then a group
+leader obviously with much more
+with much more responsibility and i'd
+love to pick your brain on sort of you
+know what that's like and how that
+translates into your own personal
+journey of leadership
+but i want you to get me started with
+revenge of the nerds because i watched
+that show
+and i really did i did watch that show
+and so i know you better than you think
+i know you so tell me a little bit about
+that experience
+well uh so i was pretty young you know i
+was 12 or 13 i think um and i wasn't
+like an institute for like gifted
+children we went for one day a week and
+they were looking for people who were
+also very smart but also you know like
+look good on camera
+because you know it's television of
+course and uh and we had some you know
+interviews and stuff like that and then
+they chose me and we started filming so
+first of all it's it's really
+interesting to be behind like behind the
+scenes and behind the camera and the
+show itself was pretty interesting you
+know we had different tasks i learned to
+solve a rubik's cube um
+and i had to face some things that you
+know never faced before um and
+essentially the the way i went down is i
+went down in a task where we needed to
+touch like uh you know like worms and
+cockroaches and stuff like that and we
+were supposed to recognize them and then
+take them out of like this canister and
+i recognized everything but i could not
+touch them it's like my biggest phobia
+so
+that's where how i felt that i fell down
+and then you know rubik's cube i i
+solved them really quickly now but i
+failed to do that on the show
+and uh you know at least i wasn't the
+first to go down i was like fifth so i i
+think that that that's always the that's
+always the most important milestone of
+course hey what was that
+don't get out first
+was it stressful fun
+what was what was the experience like
+for you you know as a kid going on a
+show that is sort of you know testing
+you know your intellectual abilities you
+know
+on television with for with friends and
+family obviously going to be watching
+this
+yeah so i think i didn't understand the
+implications at the time you know it was
+just sounded like a fun experience
+sounded cool and the challenges
+themselves were really cool so it was
+fun but then you know
+i'm a young kid at age 12 13 again so
+when i went out of the show it was like
+pretty traumatic you know it's like i i
+cried a lot and it was very difficult to
+you know get torn out of it because it's
+reality you know it's one one or two
+wrong moves and then you go out
+and
+so it was difficult for me to accept
+being in the show for several years
+um but now i'm pretty open about it and
+it's you know it's really like just a
+fun fact
+um for me
+uh yeah and it was also i will say that
+it was really interesting to just see
+how television is being made you know
+i i don't see that usually all the
+testimonies and stuff i think i i think
+that it's you know it's intellectually
+fascinating to see a process
+so complicated take place and at the end
+you know the the it then can is being
+condensed to mere minutes of of you know
+entertainment but there's a whole
+operation and logistics that goes behind
+it you know so transitioning from that
+to you know engineering mindset so
+you're an engineer at heart you know
+and in your mind
+why why engineering so why computer
+science why engineering for you
+first of all because it's interesting
+and it's challenging you know like uh
+especially in weka we solve extremely
+deep problems we need to go about doing
+distributed algorithms do everything
+fast do everything efficient everything
+performance and it's just interesting
+it's interesting to analyze and look at
+results look at data
+understand that you're doing an impact
+like if if i'm if i want to improve some
+algorithm so i'm looking at data i
+understand that right now some process
+takes 35 seconds and
+i think i have an idea of how to make it
+two seconds so i'm writing my code then
+i'm looking at data again i understand i
+made an improvement and understand i'm
+giving value to someone right so whether
+it be in the army where the value is you
+know like national security and whether
+it be it weka where the value is you
+know someone's doing genomics faster
+someone's doing ai faster
+improving people's lives like we're a
+platform that allows that so me
+as an engineer i'm looking at how what
+i'm doing is improving people's lives
+and value for companies i love it and so
+if you're if you're now you know going
+from engineer to a team leader you're no
+longer responsible yourself necessary
+for all the code that is being deployed
+but now you have to actually exert
+leadership
+a probably a completely different you
+know mindset and you know
+work that in your day-to-day so was that
+was that a trivial thing for you to to
+know that you want to do that you're
+that you want to lead teams and you want
+to be sort of a leader in the
+engineering world
+so it wasn't something that i initially
+thought about a lot when i started work
+um and
+my company i i had some experiences of
+mentoring people both in the army and in
+my current company um but um the
+sort of the mindset indeed changes but
+it's not that i'm not responsible for
+code anymore like i'm i really am still
+responsible a lot for a lot of the
+quality of the code i'm still doing a
+lot of code reviews i'm still pushing
+fixes and doing bugs myself like i'm i
+am connecting to customer environments
+to production systems and fixing stuff
+you know when stuff breaks um
+but the mindset indeed changes um i also
+like i had like a very
+bad experience transitioning into the
+role it was it's december 2019 i broke
+an ankle
+about like maybe maybe five days after
+starting the new role and so was at home
+for weeks and so you started remote
+before the rest of the world
+yeah exactly star remote before the rest
+of everybody and you know i'm sitting
+sitting at home with my broken ankle and
+after a few weeks the pain subsides a
+little and then you're just bored and
+you know you're like
+i'm supposed to be like leading like
+four or five people right now and
+telling them you know like
+helping them and
+and giving them tasks and stuff like
+that and it's
+it's not happening so i started going
+back to work pretty early but not you
+know
+not physically but remote uh remote and
+then you know march 2020 so i'm just
+starting to walk again with a cane
+and everything closes and remote becomes
+the standard and this is my experience
+you know my first experience leading a
+team is remote
+and
+it's it's so different you know it's
+like i i'm used to
+to an experience where the team leader
+sits with people in the room he sees
+everything he sees the problem they're
+encountering you know um they're talking
+about a problem they're experiencing and
+you know you you hear it you can choose
+whether you want to intervene or not
+depending on on stuff you know like
+maybe i want someone to experience the
+problem on their own and improve and
+maybe i want to just like wait this is
+going to waste him a couple of days and
+let's just solve this in 10 minutes um
+but and this just disappears right
+because kobe then everyone's remote so
+we try doing some stuff you know like uh
+sitting in zoom rooms together like that
+but it's very very different very
+different and um it's yeah and and even
+like the experience of think about me as
+a team leader so now i'm starting to
+recruit people so i did interviews
+before and at weka and now i'm starting
+to recruit people who never went to the
+office and i have a person who's coming
+to the you know who i recruited who did
+the entire uh
+interview process and his first day in
+the office is his first time seeing the
+office
+this is i believe very different from
+what you usually experience as a manager
+i can only imagine this is the standard
+now i can only imagine so if you have if
+you you know go outside a little bit and
+you try to look at yourself you know
+from a third party angle
+what type of leader are you you know
+what what type what what is sort of your
+thought process behind the leadership
+that you exert because i'm sure that as
+you're so rigorously you know working on
+you know in the engineering side i'm
+sure that you're also very intentional
+with the way that you lead others and
+how you see leadership in your own
+domain
+yeah so i'm as a person i'm i'm a people
+person so i i
+like the technical side but i also like
+people and
+also my role not only as uh you know i
+don't only lead people like personally
+but also um my role as a control plane
+leader is basically having interfaces
+with the entire company right we got a
+lot of data plane teams that need our
+help to expose their features but we
+also i don't know we're talking with
+sales because we're doing the licensing
+and we're talking with uh with our
+devops because we are sending analytics
+and we want
+and we want it managed so i'm exerting
+leadership in other directions as well
+but uh but being a people's person and
+being someone who's easy to talk to and
+fun to talk to i hope
+is something that really helps me uh
+drive people forward you know because um
+they trust me that i'm making uh i'm
+making the right decisions and i'm also
+i want the best for them like as a
+person um i'm i'm looking for people who
+are you know they they understand that i
+care very very deeply about them as
+people and i want to give them tasks
+that they enjoy and not necessarily uh
+tasks that will
+that will bring value but maybe are
+extremely boring or
+not something that's fun to do or
+something very tedious so i'm trying to
+avoid giving such tasks and at least
+controlling you know who's getting what
+uh so they feel like their person they
+keep personally developing right like if
+i have a meta programming task because i
+want someone to improve their meta
+programming and we're working with the
+language d which is very met programming
+heavy so i want to make sure that every
+person on the team experiences this type
+of programming
+not only because it's it improves the
+product but also because it improves
+them
+no it's it's a new paradigm so i want
+them to experience it i love it so if
+you're looking today and and you you
+know you have you know so many different
+things that you can spend your time on
+and you sort of are responsible for for
+finding the right balance what do you
+enjoy most you know where do you get the
+most kick out of your
+i think uh the most kick is still pair
+programming with someone i think because
+uh it's
+yeah because you know i i don't i don't
+get to do a lot of features alone now
+right
+if i'm programming by myself it's to
+solve a specific bug it's usually a
+one-line change or two-line change um
+but and then you know when i'm coding
+with someone from the team i'm both
+helping them teaching them but also you
+know experiencing more of the technical
+side of what we're doing and i'm really
+in love with code and with our code so
+just seeing it again and again and again
+always brings me joy
+so i believe this is something i really
+really enjoy um i also enjoy uh
+conversations with uh with
+um
+like candidates to weka but not in the
+early stages but like after we were
+already you know past interview phases
+and it's now time to sell the company uh
+to them i am i really love these
+conversations like you know we get to
+brag a lot a lot about the team about
+the company about the investors whatever
+i love these conversations uh because we
+usually have a lot to say
+um i think these like
+probably my favorite parts um i also
+like even you know uh when i just
+started working with weka the product
+was not stable
+uh so doing a lot of escalations and
+managing a lot of these you know
+customer incidents uh it was it was hard
+but now that it happens a lot less
+frequently because the product is a lot
+more stable then i'm really enjoying it
+when it happens even if it happens you
+know middle of the night or early in the
+morning it's you know it's like uh it
+brings me back to like army days right
+you're doing things in unorthodox hours
+and it's really similar you know because
+doing stuff you know
+with cyber and having to be very
+meticulous and very detail-oriented and
+understand everything you're doing to
+the last
+to the last bit and modeling everything
+is something that really translates to
+what we're doing in production when
+we're you know managing storage systems
+that have petabytes of data on them so
+incredible and you know it's really
+scary you're connected to a system that
+has two petabytes of used storage and
+this is this is customers data and they
+need it they really need it it's
+business critical for them so
+you really don't want to make mistakes
+right a hundred percent and i think that
+that's a perfect segue you know you're
+you're in a very unique position and
+where you're both you know working on
+highly complex technologies and you know
+what the industry today calls deep tech
+at the same time you're you're working
+on products that that have user
+interfacing you know um
+you have
+user interfacing products where you have
+to sort of bridge the gap in this
+dissonance between you know the
+complicated structure of the back end
+versus the user experience you know on
+the front end so so where where do you
+sit with that and you know why why go
+that route because most people who did
+that i'm in the army and people that you
+know that are so they're engineers like
+you they don't necessarily go to this
+place
+yeah well i'm
+you know i think even in the army i
+really wanted things to be easy to use
+you know it's it's not only and easy to
+use usually also means easy to
+understand but not necessarily
+um
+but
+you know when i coded tools i really
+wanted them to be easy to use because
+people use them all the time and they
+want things to be comfortable you know
+they don't want to spend a lot of time
+in your program they just wanted to work
+for them
+and
+in weka like we got like these three
+pillars of what the product stands for
+so it's like performance scale and
+simplicity because
+storage is complicated like you don't
+want people to when they need to they
+start their workload they don't want 200
+tunables and start you know
+customizing everything to get every bit
+of performance they really just want
+plug and play
+and uh and from that perspective in the
+team we're doing the front end of the
+product and we're doing like the cli and
+the api and we want everything to be
+simple for the customer so whether it
+means counting the number of clicks they
+do in the ui it's it's interesting
+because
+if i see that something that the
+customer will need to do
+twice every week and they need to click
+10 times to do it it's like
+i don't want them to spend so much time
+on the on the product i just want them
+to see you know sometimes maybe log in
+see very high up time see very high
+performance numbers be happy have like
+this bird inside that's you know
+chirping
+um
+so for me it's it's really about
+doing stuff that the customer likes and
+finds it simple and find enjoyable
+and even it by the way means
+having like the just the product itself
+it should look good it should bring you
+warm feelings when you look at it and
+the color scheme is right and the pixels
+are exactly you know where they need to
+be
+and uh and everything is written very
+clearly and when you got an error or
+something bad happens like customers
+just they don't want to call support for
+every tiny thing right they just want
+the system to tell you what's wrong and
+how you can fix it because
+you know when you see when you see the
+system tells you what's wrong you just
+and how to fix you just do it i think
+one of the interesting insights that
+i've had you know in my on my journey
+was the fact that you know transitioning
+from falling in love with the code to
+falling in love with the product and i
+think that what you're touching on here
+in the simplicity you know it's a it's a
+great example of that because you know
+we engineers have a tendency to fall in
+love with code and with the technology
+but now your responsibility as a team
+leader as a group leader you know and
+and overseeing a product you have to you
+know get people to understand the bigger
+picture of what they're doing and not
+just the specific feature that they're
+working on right so if you had to you
+know
+give sort of your two cents to to
+engineers on on what they can do to sort
+of improve that skill of branching out
+to thirty thousand feet and fall in love
+with the strategy and the product and
+see their code as an enabler for that
+what are some of your thoughts on that
+well first of all
+when you think of a task
+you shouldn't think of
+that you shouldn't start by thinking of
+how i'm gonna code this and what's the
+deep algorithm behind it but you should
+start you know with with the stories
+with the use cases with what the
+customer is gonna do with this and how
+does it fall in line with their flow
+like usually when you're adding a new
+feature to something it's not it's not
+you know you're sitting in your little
+box but the customer is going to run
+seven boxes before your box and then
+three more boxes after it so you want to
+think about
+how the experience looks for them
+throughout
+their you know like journey through your
+program right because again
+there's very very little amount of
+features that will actually be you know
+a standalone feature that the customer
+just uses and usually it's part of the
+flow so first of all you you must think
+of the flow it's really important and
+then how will the user see things how
+will they experience uh errors and
+always think about you know the the
+0.001 percent that something goes wrong
+so for for a system like ours something
+such a bug that happens uh zero zero one
+percent of times happens twice a week so
+and then you need to think of these of
+these error cases first of all how will
+the customer respond so what what what
+should they do if they encounter such
+errors and how will we respond how to
+maintain our features it's also very
+important you know like you're coming to
+help the customer that
+you know something screwed up you you
+want to help the customer how will you
+be able to help the customer and this is
+second and then reporting and analyzing
+and you know in the control plane we got
+like auditing and analytics and
+statistics and we've got load and
+alerting we've got loads of different
+types of how the customer is going to
+see different features so you want to
+think about all of them because all of
+them are important
+i love it inspiration
+you have to be creative in your work the
+company is changing you know it's
+growing very very quickly and and you
+have a lot of responsibility to
+continuously be inspired by things so
+that you can then exert your inspiration
+and inspire others around you where do
+you get your inspiration from
+where do you get my inspiration from
+well it's a difficult question i guess
+um
+no it's a difficult question so first of
+all it is you know we got a lot of smart
+people in weka so just discussions with
+people in weka gives you a lot of
+inspiration people with with so much
+time in the storage industry behind them
+already so they understand how how
+people think in that regard and you know
+like also i don't think it's a shame to
+just look at what the competitors do and
+copy a little you know like if i see
+their front end and it's sick it has
+amazing features like i don't know i'm
+really proud of our back end but i want
+improvements in the front and i want
+their features
+it's not a shame to copy and do things
+like others have done before you you
+know even if they're your competitors
+but usually what when i'm looking at
+such a thing i'm always looking like how
+can i do this like at least like 10
+better so this looks just just a little
+bit more excellent than what they did so
+you know i have something to show off so
+it's not just their features in our
+colors but we also improved upon it and
+did something more
+um
+i think major inspirations because it
+was picasso
+it was picasso said and then followed by
+steve jobs a good artist copy a great
+artist steal and i think the term steel
+here is a little misleading but but but
+there you know there's a reason why
+picasso and steve jobs
+exactly and at the end you know it's
+about it's about providing the right
+value and obviously you know in the
+world of deep tech and and complicated
+software that were that that you're
+working on the role of you know the
+front end of the user experience is just
+to enable
+the cool things to take place and to
+make it accessible that is at the end
+and danny i really want to thank you for
+taking the time to to come here and
+sharing your your own insights and you
+know leadership within organizations as
+an engineer i think it's fascinating and
+thank you for providing me some good
+minutes of entertainment growing up and
+and thinking what and thinking why am i
+not good enough to to be where he is so
+thank you for the inspiration
+and the motivation for that and uh and
+stay safe and selfie best of luck with
+black io thank you thank you so much for
+having me
+[Music]
+you

@@ -1,0 +1,613 @@
+it's very visual everything we do
+you see on the screen and and it has
+that thing that people that are coming
+to work in browser
+not necessarily leaving so quickly
+because because it it is really
+inspiring just to open the computer in
+the morning and have that 3d you know
+rotating and that makes your day already
+and from from the very beginning of the
+day
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homework ventures hippo
+insurance opus labs synergy global hello
+at stanford leap birthright excel serona
+partners and in media partnership with
+c-tech
+welcome to 20-minute leaders meet
+avechai feld the ceo at browseware
+avechai has been pioneering the
+development of digital technologies that
+enable the fashion industry to thrive in
+the increasingly virtual world since the
+late 90s as co-founder and ceo of
+browseware he leads the company's
+strategy and vision while also
+spearheading the creation and delivery
+of solutions that are making the apparel
+businesses more efficient and
+sustainable both economically and
+ecologically
+in addition to his experience working
+with fashion designer manufacturing
+avihai previously led startups with
+technologies for e-commerce and gaming
+he is a graduate of tel aviv university
+where he studied physics computer
+science and mathematics
+avi haifeld welcome to 20 minute leaders
+i'm so excited to have you here how are
+you i'm very good thank you
+happy to be here
+speaking to an entrepreneur i i get so
+much energy from it and and especially
+when it's about something that people
+don't really stop to think about and
+it's such a an interesting place that
+you're in with browse where and your
+previous companies that you've been
+involved with as an entrepreneur as a
+cpo as a general manager so many
+interesting things about your career of
+ichai and and today with browse we're
+looking at the the product the
+productionization
+and the creation of apparel with some of
+the biggest brands in the world more
+than 650 brands over 150 employees and i
+i can't wait to hear the story behind it
+before we get there who who who is this
+person in front of me right now
+just your regular uh um high-tech person
+from uh from israel
+um
+you know i've studied computer science
+and mathematics uh years and years and
+years back
+and all i did back in the university was
+fantasizing on 3d worlds and you know
+how would how would that look like way
+before it was really uh you know
+existing for real but but yes
+i'm talking about
+1995 we've been discussing virtual
+reality
+whereas today you know finally finally
+in the in the 2020 2019 suddenly people
+started talking about their vr but back
+at the time
+it was kind of you know really
+far-fetched but that's what that's what
+moved me back then and that's what's
+still moving me today
+apparel any connection with apparel for
+you oh
+first of all i always liked
+buying clothes but really he was the guy
+you're the one guy that enjoys buying
+clothes i found it
+yeah
+i'm sure that there are many like me but
+really the connection the connection
+happened when one day i it was
+i remember it clearly i was
+in the middle of of developing our own
+3d engine and looking into 3d
+environments and and
+you know spending huge amount of time in
+going around
+3d
+spaces and and the one thing we thought
+is how do you make money out of this how
+do you really turn it into something
+that people want to use
+and then it suddenly hit me you know the
+one place that 3d in real time by the
+way would be useful is
+how would you then look at yourself uh
+um you know on the web trying clothes
+without 3d if you really want to you
+want to know how you look like you need
+the whole 3d right the whole 360
+and then that would be the very basics
+of anything that will connect you
+to how does garment fit you and back at
+the time we're talking now on on
+wow
+internet was at the beginning of it and
+you know
+it was about the same if you look at the
+experience of shopping for apparel back
+then and today hey it's not so different
+it's still the same catalogs with images
+and you still don't get to see yourself
+dressed in any of the styles even today
+2021 but back at the time it seemed so
+logical for me that if
+if i want to see if i want to buy a
+style okay a garment over the net
+i just need to have that same experience
+as i have in real life in physical life
+which you know i can dress on and i can
+try on and i can look at the mirror and
+i can look back and forth except on the
+computer and it sounded so
+easy and straightforward and you know
+that's where the journey started
+so that the journey is starting in 99
+right 1999 absolutely
+is it
+you know i was i was three years old
+back then and i i wasn't purchasing i
+wasn't purchasing clothes but
+you know the people
+think the way you did you know you're
+looking at the way consumers are going
+to need to digitally you know
+feel how the product they're going to
+purchase is going to react in the real
+world was this you know if you were to
+talk to people about this in this middle
+of the street would everybody just agree
+with you intuitively
+well
+interesting question because you know on
+one hand
+many of them
+specifically from the industry itself
+once we started moving inside the um
+and the different brands trying to
+explain the the idea
+it was hard for them to imagine how good
+can it become
+when they are dealing with the actual
+physical thing otherwise i mean the
+other people who were already
+purchasing from the web trying that for
+them it it was it it meant more because
+for them buying then and buying today's
+is the same it's
+it's buying you know using your
+imagination mostly and not being able to
+understand what is it that you're buying
+how is it going to fit yourself so that
+was kind of an easy
+the easy part of explaining to people
+who are your usual buyers
+the industry was really tough i mean
+this traditional industry
+which cares about every thread that goes
+through their creation
+then
+they were the hardest uh part of of
+getting people to understand from the
+industry that this can actually be done
+on the computer that i mean by being
+able to represent styles over your own
+body and being able to then make a
+decision as a shopper whether i like it
+or not on the web that was a hard
+mission back then
+so direct to consumer today different
+you know you decided to change to a
+different part of the life cycle of you
+know the clothing creation from the from
+the thought process of the designer all
+the way to when it reaches you know the
+customer's home via e-commerce
+traditionally today
+why why the change
+oh that that change happened way before
+i'm talking about back in 2001 when the
+first bubble exploded right in front of
+our face
+and then for a couple of years there
+wasn't i mean direct to consumer
+was less of an interest of investors and
+money was was not going into this but
+that being said
+what we really
+understood is that with the technology
+that we've already developed there's a
+way
+to see garments you know in the way that
+they're going to look like way before
+you're actually manufacturing them and
+that was an asset
+and anyway it kind of chimed
+pretty well with the idea that one day
+if we come back to direct to consumer
+you need those 3d assets
+as as part of what's going to meet the
+consumer but back at the time we're
+talking 2001
+the immediate idea was you know the
+option for me as as a manager was to
+either close the company or
+to pivot it into something else and
+pivoting was not less interesting being
+able to take this
+3d asset and help now the pre-production
+of the um
+of the entire garment in the industry to
+make decision over
+3d digital styles
+that was suddenly realized as super
+interesting that could shorten i mean
+back at the time we talked about two
+years
+you know of of average process today by
+the way without us it's still 50 weeks
+average
+of you know since the get-go to your
+styles on the shelves being ready to
+what is the get go as a get go the when
+you know a graphic designer sits down
+and has this vision for how a cl a piece
+of clothing with the look and feel
+almost i mean when you're talking about
+big enterprises and this is our major
+clients you know going all the way from
+the biggest retail in the world like
+walmart columbia adidas yeah and then
+the brands which are the uh you know the
+the nikes of the world the the
+lululemons the the ralph lauren and so
+on
+these guys have calendars and they have
+their own cadence and for them to be
+able to be ready for this uh winter they
+have started anywhere between a year or
+a year and a half ahead of time
+depending on which you know garments are
+we speaking when it comes to uh um and
+it starts with a brief okay so when it
+comes to a down jacket it takes at least
+a year and a half to to to you know from
+brief
+to jacket is ready wow and only that i
+mean really using the the previous
+methods not only that i mean if you look
+today from sustainability perspective
+it's impossible because the way it's
+done i mean once it became all
+globalized is that the factories which
+are then usually in china or anywhere in
+asia and mostly
+those will be getting the brief or they
+will be getting a sketch from the
+designer that sits in in the western
+country
+the the chinese guys it usually doesn't
+even speak the language will need to
+then translate do something that will
+take them couple of weeks then we'll
+need to send it it will need to fly you
+know that immediately has a
+carbon footprint which is today you know
+it's impossible to think about it
+because it goes once to the west you
+know what are the chances that the
+designer who did that would really like
+what they what they see
+they would then mark what's wrong on the
+government they will write their
+notifications send it back again another
+flight going to china hey this and this
+goes back and forth and there you go you
+know anywhere between a year and a half
+of course t-shirt will take a bit less
+but we are here
+50 weeks of average time impossible
+then we come in when we come in with a
+3d
+visualization it's not us it's our
+clients using our tools and our solution
+to create the samples which are the
+necessities it's the necessary evil for
+this industry to make decisions but
+instead when they make it with our
+solution
+it takes you know we narrow the time in
+not only we narrow the time for the
+first initial sample
+once you know that person in the west is
+getting the 3d sample they're looking at
+it they can immediately respond on it
+they can write the feedback and they can
+see it first of all they can see it okay
+they can see it in 3d they look at it as
+if it was the real garment they can
+rotate it look it from all sides up and
+down send their
+feedback and tomorrow you know usually
+because it's different time zones
+tomorrow they will get the whole thing
+fixed
+now they can make 100 changes to it and
+they will still end up in one week and
+there you go
+so bottom line we do change the the face
+of this uh industry it changes
+completely and then not only this
+think about the sustainability it should
+be instead of the brands taking a
+decision
+now on we need a million pieces of this
+and then taking out to the market trying
+to sell it instead what we are offering
+them today
+is to sell first
+then produce
+now being able to take that through to
+life 3d sample putting it in front of
+your consumer
+understand what do they want and only
+then
+going into manufacturing that's even a
+bigger change to this industry it
+doesn't really happen yet on a vast you
+know
+on a mess if you want but
+i think this is part of the vision that
+will actually change everything they the
+the brands will start creating something
+that people really want to buy instead
+of throwing 50 of it so that's what
+we're about in browser today
+but that being said
+that being said now there's a big
+opportunity for us to go back
+into consumers as well because this is a
+a this is
+one of those missing links that you know
+i personally have the the
+the passion to go back into that and i
+think that the people that are following
+me
+uh within the company and outside this
+company they are also big believers in
+that i mean being able to take this
+asset that was used for all the decision
+making in the pre-production
+and then do whatever tweaks are required
+and putting it in front of you as a
+consumer letting you
+understand how it will look on you what
+is the real size what fits you what is
+the size that you would like to buy
+and make that decision
+online
+that's huge
+that's huge from from you know from
+several aspects number one because
+people people will start buying things
+that today they they don't really buy
+online because they think that they
+would need to actually try it on and see
+how it looks like so i'm we're hoping
+that that will change the things number
+two
+there is that thing today which is the
+the whole
+return policy which allows you to take
+you know
+to order three four or five and whatever
+number of sizes you want in colors and
+then just return those that you don't
+want
+i mean that policy is is also i mean
+it's clearly understood from uh
+from the brand's perspective but
+it also has its contribution to waste
+because once those elements are being
+returned into the uh into the brand
+they're not necessarily uh
+can be put into sales again you know
+they might come back
+you know later from from the actual
+season
+and the brand will accept them but then
+they will throw them away so that is
+also a big contributor to waste
+but if we can help the consumers to
+understand exactly what they want to
+shop for they won't be needing to
+order you know huge amount of
+options and then return you know 90 of
+it so so that again is one of the of the
+things that we might be able to solve
+going directly to consumers
+incredible abihai take me back to your
+childhood
+10 years old
+what fascinates you
+i'm so old i can't remember yes
+what what made you really curious on a
+truly honest way what led your curiosity
+in your day today
+uh yeah there was some some
+uh um
+sci-fi i was always
+science fiction for me was always that
+thing that you know i could not have
+enough room
+wow very very cool
+and
+today by the way any specific show any
+specific book
+a book series that you were especially
+into all of them
+one of them you know
+there will be you know television series
+that i were there before you were born
+now that i know your age
+okay it was alpha 1999 for them that was
+the future
+and then there was of course star trek
+and all those i mean yeah i heard there
+was something called star trek and star
+wars back then
+to all of these absolutely
+and uh but even when i was a more
+grown-up you know for me when when when
+when you know it's anywhere between
+sci-fi and fantasy whenever harry potter
+came i would read the the entire series
+i wouldn't even wait for a second you
+know that that that is how it feels to
+me
+incredible
+today
+inspiration as a source for your
+leadership for
+you know your creativity your your
+innovation you've been in this for 20
+years you're still innovating you're
+talking about how there's this big huge
+opportunity that you're going to try to
+conquer you know closing the loop 20
+years later where do you get your
+inspiration from
+my kids
+um
+i'm seriously you know if if i needed to
+understand something that i don't
+understand from
+you i mean i'm a freak of usability and
+and to me if there's any window of of me
+understanding better my users would be
+either my users you know my our clients
+our users that are actually using the
+solution
+but really when i'm i want to see i want
+to get a glimpse to the future i would
+go back and look at my kids and the way
+they're using
+any the way they consume any type of
+technology today it's it's it's mind
+muggling i'm telling you this is
+absolutely
+mind-boggling i can completely
+understand that by the way
+when you
+transitioned from
+from the director consumer to the brands
+what was the hardest piece of it all
+was it the you know internally with the
+company was it you know shifting the
+product this the new sales cycle that
+you have to adapt to what was the most
+what was the hardest part
+i think all of the above look
+first
+it was the when we were talking about 20
+years back the product was really way
+you know it was sub
+substandard sub ready it wasn't there
+and
+then hardware hey we had a
+super computer back at the time that my
+my iphone today is a hundred times
+stronger than that so so it was all very
+limited resources limited everything
+so and the quality wasn't there as it is
+today
+so yeah number one was was taking the
+consumers through hey what you see today
+is going to improve
+we know it's
+almost almost as good as we would want
+it to be it's not there yet they would i
+would need to then
+you know take them through my vision and
+there were there were companies back
+then back at the time that believed that
+things will will
+you know improve with time and were
+willing to take the um
+the
+the journey from there from the
+beginning even when things didn't look
+you know amazing at the time i'm talking
+about companies like adidas companies
+like benetton they had an innovation
+teams that were more than innovation you
+know that
+and there was nothing back at the time
+so they were willing to to walk the
+journey with us and did amazing things
+with us uh um but that was the hardest
+part to get
+more than you know a handful of clients
+it was i mean going from that point on
+and you know that was the early time of
+early adoption that was the hardest
+stuff
+and when you don't have enough clients
+and you don't have enough revenues
+you know
+you're you're going there with minimum
+resources and that was that was a fight
+and the second thing is then of course
+when when when this is going slow
+taking the team behind you and and and
+you know taking them through your
+profession yeah
+that that that's
+that's hard as well but people i think
+this is one of the things that we are
+lucky in this company is that it's very
+visual everything we do
+you see on the screen and it has that
+thing that people that are coming to
+work in browser
+not necessarily leaving so quickly
+because because it is really inspiring
+just to open the computer in the morning
+and have that 3d you know rotating and
+that makes your day already and from
+from the very beginning of the day
+right so that's a good thing for us that
+was really you know i think that and and
+us being able to me and my partners
+being able to
+to take the the the whole crew with us
+through you know bad days and good days
+but keeping the the
+i think keeping the the
+the
+how do you call it the um
+keeping the the
+attention of everyone towards the
+lighthouse
+that that the one thing which was i mean
+through the year the one thing that held
+everyone
+uh in the company
+incredible avikai thank you very very
+much this was fantastic this was
+really really enjoyable and inspiring
+and i can't wait to see
+where browser is headed next and and i
+and i'm energized by your energy and by
+your vision and your optimism and your
+you know your your innovative way of
+thinking and i just love it so thank you
+very very much and stay safe and stay
+healthy oh thank you for uh letting me
+uh talk and talk i felt that it was one
+minute but now i guess the 20 minutes
+have already gone
+it always feel that way to me as well
+thank you very very much
+you

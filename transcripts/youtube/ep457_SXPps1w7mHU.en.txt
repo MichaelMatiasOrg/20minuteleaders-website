@@ -1,0 +1,693 @@
+which is a big difference between the
+way hackers perceive the security world
+and the way that defenders
+perceive disagree the world
+unfortunately
+if you want to examine somebody's uh
+perspective about the world
+those that succeed
+tend to be right um it's just
+it's not necessarily that you know that
+they have a better opinion of the world
+or
+it's just that what they think seems to
+work and unfortunately
+what the hackers were doing and still
+are doing it seems to work
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctek
+welcome to another episode of 20 minute
+leaders today i have with me yoshina the
+chief
+visionary officer and co-founder of
+cyber reason
+and yes we're going to be talking about
+cyber cyber reason is a leader in edr
+and next generation anti-virus solutions
+for enterprises
+eoc is an accomplished software
+developer and expert in technology
+architecture
+machine learning big data analytics and
+visualization
+during his 20 years of industry
+experience usc has designed and built
+many products from cutting-edge security
+platforms for the defense industry in
+israel
+to big data platforms his products have
+been deployed worldwide and used by
+fortune 500 companies on a daily basis
+since he founded cybereason in 2012 the
+company raised almost 400 million
+dollars from investors like softbank
+lockheed martin crv and spark capital
+cyber reason is privately held with 700
+employees
+operates in 40 countries and
+headquartered in boston with offices in
+london
+tel aviv and tokyo yo welcome to 20
+minute leaders
+chief visionary officer and co-founder
+of cyber reason
+welcome to my show how are you today
+good good uh so it's lovely to be here
+so it's a great time around central
+israel the sun is about to set
+perhaps even during during our call so
+the the lighting will change a bit but i
+but i'm really excited to take you this
+opportunity in these 20 minutes to
+reflect a little bit about your journey
+and about your understanding
+and you know in the cyber security space
+but even beyond the cyber security space
+how you got into this space originally
+studied economics and physics
+uh you you've done quite a few things
+throughout your career
+and on the engineering side on the
+research side and so i'm
+i'm looking forward to hearing a little
+bit about yourself and and then
+talking a little bit more broadly about
+cyber security as a domain
+and and where we're headed and the more
+the visionary part so you'll see
+take me back a little bit throughout
+your journey and how how would you
+look at your journey if you had to
+reflect back
+well i think that um
+my journey really started i think
+my first i don't know before i into
+computers
+i was in um yeah probably around middle
+school
+it was a sixth seventh grade when i had
+my first
+computer and got a little bit into
+computer programming when i was
+13 14 i think anybody that uh
+what what year what year is um
+94 or 95 probably
+93. wow so just when the internet is
+really starting yeah
+it was a really interesting time it was
+kind of the
+i was still a little bit into the bbs
+scene
+i don't know if you know what that is um
+so before the internet there were these
+uh basically
+call-in numbers that you could dial with
+the modem and you can
+log in and it's got a text-based
+interface where you could do
+stuff you could download stuff you could
+play online games
+um but within like a small community
+there were like networks of bbs's it was
+like this whole thing
+um it was completely replaced of course
+with uh with the internet when when that
+came in
+this way first with forums and irc and
+like a bunch of other stuff
+and when when i was kind of
+getting started i was i think 16 or 17
+when i first started connecting to the
+internet i think that
+everybody from my my generation
+everybody who uh
+who was involved in software and
+programming you always have
+kind of an eye on security it's it's
+it's an inseparable part of
+what you do and there's always these
+viruses going around
+just to announce on the radio that
+today's michelangelo's birthday so turn
+off your computers because there's like
+the michelangelo virus that would
+they would delete everything wow and um
+that is so cool well of course the word
+i would use to describe it but
+um but that was it was a very different
+time in terms of
+the the idea of somebody remotely
+hacking your computer
+didn't really exist there were a lot of
+worms that that would go around there
+was like the
+lavi virus i think it was 2001 or so
+it was like a uh email worm that would
+just spread like crazy and did like a
+ton of damage all of computers
+but this was what this was what was
+security at the time
+it was that it was freaking which is you
+know hacking into phones
+and if you ever watched uh the movie
+hackers
+uh but that that kind of is it's a
+it's a movie from the 90s uh with
+angelina jolie that
+just kind of gives you a feel of like
+the concept of
+what hacker culture was at the time um
+you know hacking was was something that
+you do with these old computers into
+into these little networks that you
+would dial into and
+the whole concept of the internet and it
+really
+it really goes back to to those days and
+and the love of this
+of this world i think stems from that
+not to say that i was particularly into
+hacking
+i'm more of a maker i like to build
+things so
+for me this was really always about
+about creating things
+and that's that's what i used to do for
+the first few years
+uh or maybe for the first 20 years not
+not so
+few when i when i decided to go back
+well
+i kind of i was always into into
+building things i was building software
+um and there was a time in my life where
+i wanted to explore other things
+so you know you mentioned um a little
+bit of my background so
+i kind of wanted to know because i've
+been in computers for so long
+and because i've been building software
+for so long and from a relatively young
+age it was always kind of like
+you know this is where my life is going
+but i wanted to know if um
+if it's a choice that i'm making or if
+it's kind of rolling by default into
+something
+so i when i went to school i decided i'm
+gonna try
+um i'm gonna try physics which is
+something i always enjoyed
+and um when i did that for a little bit
+and then i went for economics for a
+little bit i worked for the central bank
+um one of my professors was uh
+was a manager of one of the departments
+and
+he was looking for people so i was there
+for a while
+um it was an interesting journey you
+know you learn
+i think the most when you go to these
+places
+that you really have no idea what
+they're about
+um and they're very very far from the
+world that you're used to so
+i think there's nothing further than uh
+you know the typical high-tech company
+than you know going into the central
+bank and seeing the way that life is
+there and the way the work
+goes on there understanding the internal
+politics of
+of a complex organization like that it
+gives you a lot of
+insight after when when you work with
+these organizations when i
+when i was working for this services
+company which which was kind of my
+my more real entry into cyber security
+i was working for this company called
+the gita that
+did cyber security services or really
+development services but we're more
+security oriented
+so i worked a lot with the defense
+industry here in israel
+during that time and i i've
+i've learned i've had this idea of how
+these big organizations work so when you
+come to
+to work with them you have to understand
+that time has a different meaning
+uh in this in these places and work life
+is is a really different thing than what
+you're used to when you work for a tech
+company
+you know there's no time when you work
+for a tech company you always feel like
+the future is burning and you're always
+behind and you have competitors and
+you kind of have to to do everything as
+quickly
+as you can and in these places right
+time time is very flexible
+time is flexible very different and you
+think you also think you know in years i
+was working on a project that it's
+it's like lifetime was supposed to be
+like five years
+i was working on a project for building
+a security system for a bank
+they were i don't know year six into the
+project when i joined
+it it was supposed to be over you know
+about a year or two before that
+uh and it continued long after i left at
+that
+particular services company so
+that was kind of my entry into into the
+cyber security world
+it was always something that i found to
+be interesting there are a lot of
+interesting problems
+uh there and i have a close friend of
+mine jonathan
+who's my co-founder um
+we've been friends since high school
+we've always talked about you know let's
+start a company sort of coming in
+i think all the stars kind of aligned
+and we met lior and
+it created this really amazing
+connection between the three of us
+uh the top build this company so it was
+it was kind of
+will and timing and um
+and luck you know you always need luck
+so co-founder and chief revenue officer
+of of cyber register
+uh revenues visionary yes problem
+no no apology is a visionary yes of
+course because that that is you know
+that that is an awesome title and we
+started this podcast
+by mentioning that you know i want to
+understand a little bit
+you know your your own vision and your
+own perspective on
+on what does this mean on what is the
+cyber security space you choose to
+to create a company once you once you
+get introduced into the space
+what does cyber reason do how does it
+integrate into the greater scope of how
+cyber security is
+in your mind well i think that
+when we entered the market um we
+understood
+before we started it there's a problem
+of perception
+there's a big gap between the way
+hackers think and we were in the hacking
+world
+in different ways uh for a long time
+um it is a big difference between the
+way hackers perceive
+the security world and the way that
+defenders perceive the secret world
+unfortunately if you want to examine
+somebody's
+uh perspective about the world those
+that succeed
+tend to be right um it's just
+it's not necessarily that you know that
+they have a better opinion of the world
+or
+it's just that what they think seems to
+work and unfortunately
+what the hackers were doing and still
+are doing it seems to work
+um and unfortunately the the kind of
+opposite side of it is that it means
+that what the rest of us are doing
+and it has to do with the cyber security
+company
+and defenders in general and governments
+the way that we think
+about the world of computers in the
+world of hacking
+is very very different when you look
+when you look at it from a defender's
+perspective than from an attacker's
+perspective
+but if the but if the attackers keep
+winning
+probably you need to look a little bit
+of their perception of the world
+and the first question we ask is kind of
+what is there
+we have two main important questions is
+what is
+what are they afraid of um
+which which was a key questions for a
+question for us
+because it was like okay if i could
+understand the things that
+were that attackers worry about if i
+could do those things
+i'd probably have a better chance of
+stopping them
+the other thing was what advantage do i
+have
+because it seemed like i had no
+advantage i had all these systems that i
+have to constantly patch
+i have all these systems to configure
+just configure them in some optimal way
+they have to be on top of everything all
+the time and that still doesn't help me
+because
+somebody has left a vulnerability in my
+my
+outlook exchange server and then you
+know i'm owned
+and you know now we'll do it
+right so so where's the advantage so
+these are these are key questions
+so what are what hackers are afraid of
+we we just went we
+we asked our hacker friends the people
+that you know do this for a living and
+do this in the military
+and they told us about every time that
+some some new security thing came along
+they usually weren't very concerned
+nobody cares about your anti-virus
+they can test them they can they can
+verify exactly how they work
+computers are you know despite
+a lot of myths computers are incredibly
+predictable systems
+and so we you can if you if you put into
+time
+understand exactly what they do and how
+they work
+it gives you a massive advantage when
+you try to penetrate someone you have
+all the time in the world you can you
+know set up
+a whole mock operation build up
+you know even a nuclear
+refining facility simulate it and then
+and then attack it and you don't even
+have to be there you can build a program
+that's going to do it automatically for
+you
+that's how predictable this world is um
+wow so this is this isn't really
+something you can do anywhere else right
+right and i love the reference of course
+um you know you can see how hard it is
+to work in the predictable real world
+the real world is incredibly complicated
+which is why you know it's been
+it's taken years of very very smart
+people building on the work of very
+smart people to
+just try to build you know self uh
+driving cars it's
+it's a really really complicated
+technology the autonomy of cars doing
+around in the world
+not i'm not saying for a car to uh to
+decide to do something or you know to
+try to crash into people or whatever
+just for a car to drive to be able to
+understand the world around
+and and now you can on the other hand
+you can build a piece of software that
+will infiltrate and move from one
+computer to another in a complex network
+get to a management system and perform a
+covert operation
+that will you know accelerate and slow
+down centrifuges in a way that will make
+them break and do that for so long
+without anybody understanding that
+that's what's going on
+i mean there is no equivalent to this in
+the real world
+and it's just because this world
+is so foreign to us but the people that
+that you know
+run hacking operations they think about
+it
+it's kind of how can i get in what are
+the ways that i have
+once i'm in how can i do something you
+know covertly so that i can reach you
+know whatever it is i'm trying to do
+still their data ruined their
+centrifuges
+you know shot off their gas with
+accidentally with the ransomware
+um as you know it just happened
+these are kind of i mean it's kind of
+crazy that it's
+possible to do all these things and that
+they can be done
+not only covertly but with no
+attribution
+so even if somebody that somebody
+notices
+uh catching whoever was involved is
+incredibly difficult
+so it gives a lot of cover it gives a
+lot of possibility to the people on the
+other side
+they're not really afraid of getting
+caught and if you run upset
+properly then you probably want to be
+caught
+so so we asked them what they're afraid
+of
+what on the network worries them what
+thing that happened on a computer
+and the question the answer that kept
+coming back is that
+they do really don't want to be noticed
+they don't want anybody paying attention
+to what they're doing
+and the thing is that the things that
+are looking they're trying to look for
+specific bad things that are going on
+that's that's not a very effective way
+because computers are predictable
+systems if i can anticipate what you're
+going to do
+i've won you know it's just like in
+chess if i know your next move
+i've won because i can do something
+to prepare before you can you can think
+about that
+so it's kind of a one-sided chess game
+because you know one side is playing
+chess which is the hackers on the other
+side is
+i don't know playing remy cube or
+whatever they're playing a different
+game
+they don't understand the game that
+they're in
+now from from that perspective we came
+and said okay what advantage do i have
+and the advantage the defender has is
+that they own the battlefield
+they don't need to take over it but they
+don't have the power
+of leveraging that fact you know
+they need visibility they need to to to
+get hold of their
+of the battlefield they need to own it
+they need to be able to understand
+you know imagine if i came into your
+house and i was walking around your
+house
+and you couldn't see me i was invisible
+to you
+and i would move things around and it
+you'd be completely unaware of the fact
+that it's going
+this is how most networks are i can go
+into your
+personal computer i can move stuff
+around and you just
+won't have any idea that i'm there so
+we're trying to create
+some to bring something of that physical
+equivalence into this virtual world
+where
+there would not be no way for you to do
+something on
+my device without me knowing about it
+and then
+on that we built the abilities to
+behaviorally understand what
+good what normal people do what hackers
+do
+a little bit of anomaly detection a
+little bit of artificial intelligence
+that go into that
+and a lot of human intelligence of
+people that
+we built this uh this graph system so
+that all our technology is proprietary
+and
+i won't go into that because we're not a
+very i don't think it's a very technical
+show
+um but the the base
+concept of it is to try and translate
+the way that
+human incident responders and defenders
+the best of them
+think and approach investigation
+give them the best tools and automate as
+much of the work as possible
+to help them detect and then very
+quickly resolve
+and it works it really does because
+we've shifted the way that we think
+from thinking about how to stop somebody
+from getting in
+but rather to understand what they're
+doing when they're what once they're
+inside
+and and that is really the key
+use your advantage make sure that you
+have a hold of the battlefield and
+leverage that to defend
+what 100 and i think that you're the way
+that you're looking at this
+this industry is is really interesting
+to me coming from the industry myself
+and
+and being on both sides it's it's an
+interesting perspective i think also you
+you touched a little bit on the
+psychology and you touched a little bit
+about about
+about behavior and at the end of the day
+this is behavior that we're not used to
+do
+and you know people investigating these
+types of things is not something that
+that we've been practicing for many many
+years it's something that is
+continuously evolving
+one of the things that we're obviously
+referencing also in this cat and mouse
+game the mouse is always first
+the mouse always starts running and then
+and then the cat starts chasing and
+and and it you know as you become more
+and more
+um you know once you become more and
+more flexible and as you become more and
+more alert
+obviously the things change and and i
+think this is what that's the beauty
+also of this industry
+and this cat and mouse game and you'll
+see i really want to thank you for
+for coming here in 20 very short minutes
+but but i still learned so much and i
+really appreciate it
+i have three questions that are not
+related to what we talked about
+and they're not committing either but
+i'm really curious to hear
+a little bit about you if you're upset
+going back to middle school what what
+fascinated you as a kid what was your
+favorite subject
+um well you know it's it's these
+these kind of questions that um that
+give me pause sometimes because you feel
+like
+sometimes you feel like you know in our
+culture that you can you can shrink the
+complex uh
+state of being for somebody to to this
+very very narrow
+fact about them oh i liked a lot of
+things
+i liked a lot of things i really liked
+computers which is kind of
+why i'm doing what i'm doing but i liked
+even before the internet yeah but i
+liked physics i liked music
+i liked people and i still do i still
+like all of these things amazing
+keep person or people throughout your
+journey that inspired you
+personally or professionally
+i think i've i've met a lot of people on
+the way you know there were
+there were teachers that were
+significant to me and kind of helped me
+learn things
+and i also did a lot you know on my own
+i spent a lot of time you know learning
+and studying
+but i think in recent years i found that
+there are certain people that i can lean
+on and that i can work with
+and that can really help me evolve you
+know as a human as a person
+uh not just you know professionally and
+and and really helped me change my
+perspective about the world
+right i think and you know going back to
+you know
+the look on these questions uh the three
+words that you would use to describe
+yourself
+if you're up for it i i definitely i i
+you know just from this conversation i
+can feel that it would be impossible to
+classify
+in three words we touched on so many
+subjects that obviously fascinate you
+and show who you are but if there were
+three words
+that you would think describe you
+your personality who you are um
+well i'll i'll tell you what i think
+other people would say because
+i i don't really classify myself in that
+way
+but i think most people that know me
+would probably first say that i'm
+very intelligent warm
+and sensitive
+i love it you'll see thank you for
+spending this time with me this was
+wonderful
+thank you stay safe stay healthy thank
+you for the inspiration thank you
+pleasure
+you

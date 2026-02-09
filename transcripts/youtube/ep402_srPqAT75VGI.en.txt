@@ -1,0 +1,609 @@
+if we look at cloud and i'm only talking
+about cloud i'm not talking about other
+types
+of sas pass and is cloud
+consumption alone is the market of over
+350 billion dollars
+and it's estimated to be over 600
+billion dollars
+by the end of 2021 so it's a huge huge
+market and we kind of lie
+in between um both of these markets
+uh which is both cyber and cloud
+welcome to 20 minute leaders just sit
+back relax
+and learn from the leaders of today it's
+a journey each one is different
+unique inspiring let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc funded in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+we are going to talk about insurance for
+the cloud for the digital world
+meet neta rosie co-founder and cto of
+parametrics insurance
+neta was born and raised in the san
+francisco bay area silicon valley
+and moved to israel to enlist in the idf
+as a lone soldier
+and then moved back to the us to work as
+a software engineer and team lead
+what grounded her in as well was meeting
+the now co-founders of parametrics
+the company's mission is to ensure that
+companies with mission critical services
+in the cloud
+are fully protected from the financial
+damages of downtime caused by sas
+pass and last such as cloud ecommerce
+payments crm
+and cdn service providers neda rosie
+welcome to 20 minute leaders how are you
+great doing great good to be here i
+i'm i'm so ecstatic that you're here and
+i'm already a little bit stressed
+because 20 minutes are not going to be
+nearly enough time for me to
+dive into all the topics that i want to
+dive into because both you're upbringing
+in
+california moving to israel as a lone
+soldier to enlist
+a software engineer and then co-founding
+and being cto
+of a wonderful company that is is doing
+something that we all
+you know understand in different
+contexts this world of insurance
+but doing it for you know sas products
+and cyber security and
+you know it's things that you know
+didn't exist 20 30 years ago and so i'm
+excited to
+dive into all of those topics but before
+i do all that take me all the way back
+to
+you're moving to israel you're coming to
+enlist as a lone soldier
+what's going on over there
+yeah why did i do it um yeah i
+am my family is from israel
+um i i felt like that was the right
+thing to do
+so i uh you know came joined uh the idf
+and enlisted as
+as a lone soldier and uh and the rest is
+history
+but it's not it's that simple right
+because you you grew up in in the united
+states and
+you know i went through an american
+system and now i go to an american
+college it's not that easy to
+all of a sudden you know change
+locations and put on a uniform
+in a different language in a different
+atmosphere right oh yeah it's not easy
+um you know all my friends uh
+continued on to college i went to um
+regular public school there wasn't um
+a community around me that that went to
+uh
+the idf um i was definitely uh the
+oddball
+out uh but i think everything i do i
+kind of do differently so it's
+um it's quite normal for me
+and and how has engineering been a part
+of your life
+were you always curious about technology
+and engineering or is this something
+from the military where did it all begin
+for you
+yeah it started way before i've always
+been technological
+my mom actually uh chose a technological
+career path as well
+so um i think i definitely had a kind of
+a head start through her
+um and and it's just always been there
+throughout
+you know high school and even before
+that right and so you're
+you're you're you have various positions
+software engineer
+and others and now you're cto
+of parametrics insurance and it's a
+different type of insurance like i
+mentioned
+tell me a little bit even before you
+talk about what it is
+you're you're creating this company with
+some of the most amazing entrepreneurs
+i believe the former founder and ceo of
+tenbis is one of them
+what is you know how do you how do you
+get together and decide to form a
+company
+yeah so um i definitely have an
+an amazing team uh beside me and and
+i can speak a little bit about my my
+co-founders
+they actually everyone except for me is
+an experienced entrepreneur so this is
+their
+uh second startup including as you
+mentioned uh uh
+co-founder and chairman uh tamir who
+founded tenbis
+um for those of you who don't know it's
+uh it's
+probably the largest e-commerce uh uh
+website in in israel
+um with food delivery and kind of the
+status of high tech i think
+in in the tel aviv uh culture um and
+in addition to that um our ceo and
+co-founder jonathan hudsor
+uh who had a uh he was cto and
+co-founder of a startup that did
+a 3d modeling for construction sites and
+they still they're bootstrapped they're
+still around they're actually doing
+amazing
+um and ori our our ceo
+uh she previously had a um
+eco water solutions uh startup that also
+uh merged into
+um one of the largest in in israel and
+at that point we kind of
+took her out so um yeah i have an
+amazing team
+we met through some personal connections
+um and and got together and we just had
+this amazing click
+uh we were playing around with with some
+ideas and uh you know
+insurance is such a such a and it's
+such an amazing industry actually um
+it's
+a huge industry there's so much
+innovation to be done
+and um kind of there's amazing partners
+in the insurance industry and they're
+just thirsty for innovation and for
+partnering together
+was it stressful at all to start a
+company
+with serial entrepreneurs and
+i mean i would be i would be a little
+nervous i have to say
+um yeah maybe a bit uh but but i think
+this is kind of always
+been my path um like you know we spoke
+about earlier it's
+i do things differently um and so this
+was
+this was always kind of where where it
+was leading to
+um and uh there's just so much to learn
+from them you know there's so many
+mistakes that they have
+um avoided for us uh based on past
+experience and it
+it it really speaks for itself right so
+so cto are you know talking about going
+sometimes against the grain and
+you know it's not you know i don't think
+needs to be an elephant in the room
+there are not many female ctos
+let alone in such a technical and
+regulatory business
+and and you know there needs to be many
+many more and and
+you know i'm sure that you're also an
+inspiration for many young women out
+there but
+nevertheless a female cto of him
+of a upcoming insurance company in the
+tech space and you're doing insurance
+not the traditional home insurance and
+you know physical product
+it's a different type tell me a little
+bit about parametrics and what you're
+doing there
+yeah so um at parametrics
+uh so maybe we can we can backtrack just
+a little bit
+um parametrics is is the startup that
+creates a downtime insurance for sas
+pass and is
+uh downtime so that can be cloud
+computing payment systems crms
+web hosting isp cdns you name it any
+type of infrastructure that
+businesses build themselves up on today
+and
+when downtime happens on these pieces of
+their infrastructure
+they experience downtime as well and
+they incur the losses
+even though the downtime wasn't their
+own fault so in that we've actually be
+been able to identify this uh protection
+gap that existed in the insurance market
+and in this pain point that companies
+are feeling and create this amazing
+product around it
+now what powers that is technology and
+it
+it's the reason why this insurance
+hasn't um
+existed before because the technology
+hasn't been created to be able to
+empower it
+and for us what it allows to do is to
+eliminate the claims process
+so our insurance doesn't have a claims
+process
+um the claims process in insurance was
+designed
+in order for the insured to prove what
+happened
+during the incident so to prove their
+losses to prove
+um you know when it happened how it
+happened to kind of
+list out the incident where if you're
+able to monitor that
+and to know exactly what happened
+throughout the incident
+there's actually no need for for a
+claims process
+um and so that's what what we do that's
+what i focus on which is the the
+technology aspect of
+of the company we build really really
+robust monitoring systems that monitor
+sas pass and yas
+globally so we know exactly what's
+happening at any given time
+and there's no need for our customers to
+submit a claim
+so you're you know on one hand you're
+saying that yes technology
+you know is a factor in the fact that we
+need we you need to build great
+technology in order to be able to
+actually identify
+what's happening there but this also
+just wasn't an issue
+30 years ago right i mean literally it
+wasn't an issue back when
+and so you know we're talking about you
+know when homes were starting to be
+built in the world
+i'm sure it took a few good hundred
+years until they figured out oh we can
+sell insurance and
+and and do this give and take here and
+i'm you know it's amazing to me as a
+young entrepreneur
+seeing you know how the world is moving
+and how you know and a startup can now
+come up and say you know what we're
+identifying a gap we can create a whole
+new market
+and and potentially be a market leader
+for that now how do you identify though
+the the the you know the the costs that
+are incurred
+so i'm thinking to myself you know if i
+run a business and i have downtime
+how do i translate that to you know
+tangible losses
+that i would then need to you know come
+be compensated for
+yeah so um you would be surprised how
+much
+uh you know a business knows exactly how
+much downtime costs them they can
+really specify you know it can be a
+matter of the the direct revenue loss it
+can be recovery expenses
+um it can be a intangible cost like
+brand or
+sla liability to their own customers
+which is a huge huge huge cost
+um even if downtime is not their own
+fault so in most cases they actually
+know how to
+calculate how much downtime costs them
+and when um
+but since we have uh you know
+we have seen many many cases of downtime
+and how it affects
+companies we actually know how to
+calculate it so um
+we will give uh you know an estimation
+of loss and how much we think the
+business
+uh and loses per hour based on other
+businesses
+similar to it based on the type of
+business the industry
+uh their revenue things of that sort um
+and then they can adjust that if they
+see the number
+any differently than we do right so just
+like when you're
+giving insurance for a trip or a home or
+anything like that when
+you say okay how much is the home worth
+and your premium
+is based on that i'm guessing here
+similarly a premium would be based on
+you know how you know an agreement that
+you make with the businesses
+over what is a downtime worth per for
+example per hour right
+yeah exactly do companies understand
+this
+when you come to a sas company and you
+say we want to provide insurance for you
+do they get what you're talking about oh
+yeah
+oh yeah companies have experienced
+downtime and
+up until now there really wasn't um a
+financial solution
+for it so they they have definitely felt
+the pain
+um they know exactly what we're speaking
+about and there's actually a lot of
+demand
+um not even not only that but also um
+their brokers and kind of their um
+the people that deal with the risk of
+the company um
+have been hearing from their own
+customers kind of the
+the need for this type of insurance and
+it just hasn't existed up until today
+right and i'm guessing that you know
+these companies that you approach
+you know i'm you know i've never thought
+of this i have to say and i'm from the
+insurance space right now
+and i haven't stopped to think wow it
+makes perfect sense and especially
+you know my mom is dealing a lot with
+globalization and cyber security from a
+regulatory perspective
+and i'm saying like yes it's so obvious
+because it's not just downtime because
+of an error
+but you know i want to be insured if if
+there's a cyber security attack that
+causes you know my own technology to
+have downtime
+still not necessarily my fault and and i
+want to be insured for that so it makes
+perfect sense what is what has been a
+struggle here what has been a challenge
+you know on this journey that you're on
+[Music]
+um so i mean that that again i turned to
+my uh
+to my co-founders where um they don't
+see challenges they've seen so many
+challenges
+uh over their career where they're just
+not um
+you know they're not budged uh by
+challenges i will say the insurance
+industry um
+is highly regulated regulated which is
+something to take into consideration um
+there is regulation that you have to go
+through and licensing and all things of
+that sort
+um that but but that's not a challenge
+you know
+um and and i just do wanna do wanna go
+back to
+uh the point that you made about cyber
+um
+where cyber insurance is is also a
+market in the insurance industry
+um where cyber insurance is the market
+that's evaluated
+at uh over nine billion dollars and it's
+growing almost 30
+a year but if we look at cloud and i'm
+only talking about cloud i'm not talking
+about other types
+of sas pass and is um cloud
+consumption alone is the market of over
+350 billion dollars
+and it's estimated to be over 600
+billion dollars
+by the end of 2021 so it's a huge huge
+market and we kind of lie
+in between um both of these markets
+which is both cyber and cloud um
+and it's it's it's really growing very
+fast
+i mean both of those are amazing news
+because regardless you know
+that the transition is is not that great
+once you diluted to saying
+we want we we know how to identify your
+costs
+on downtime there could be a variety of
+reasons why you may have downtime you
+know potentially
+an employee can can push a bug to
+production
+i've done that a few times and and cause
+downtime for various organizations
+and you know that downtime costs and and
+it costs a lot sometimes like
+like you're saying here and i'm assuming
+that specifically what you're referring
+to in the technology sphere is
+your ability to to remove the claims
+process which i'm sure
+while i haven't find claims myself i'm
+sure that it's a really cumbersome
+process
+that really is the innovative part
+beyond the fact that you're entering
+into a really
+innovative market with an innovative
+approach right
+yeah absolutely um claims are one of the
+biggest pain points in the insurance
+market
+i think that's no surprise to anyone um
+it's
+it's just something that you know you
+can try and improve it as much as you
+can
+but if you're able to just get rid of it
+that's the best way to go
+now what what excites you really about
+what you're doing no
+is it is it the entrepreneurial journey
+is it the business the technology the
+people
+what is it oh gosh it's all of the above
+um it really it's it's just being a part
+of change
+um being being a part of change working
+with amazing people
+um and and kind of moving towards this
+vision that we have as a company
+and so and when you when no one asks
+this question do you think more about
+the day to day
+more about the marathon like how how do
+you approach
+you know this excitement how far ahead
+are you are you living in
+at any given moment um i think it
+depends when you ask
+so um i'd say both um
+as as a co-founder um i'm i'm
+living in in the vision of the company
+but you know as as my position as cto
+i'm also living in the present um and
+and you know we
+we need to execute uh in order to be
+able to reach that
+that joint vision that we have i love it
+neta are you ready for a few uh fun yet
+a little weird few weird questions i
+should say
+yeah sure let's go for it all right
+let's do it we'll start off easy
+uh one or more of your favorite subject
+in
+subjects in school but only k to 12.
+um okay i mean i think i think that's
+easy
+um you know computer science is probably
+the main one how young did you start in
+computer science
+um i think it was towards the end of
+middle school we had the opportunity to
+to start yeah
+start learning i think it was i think it
+was java back then
+intro that's that's amazing my first
+experience was i believe in 11th grade
+and uh i i wish i had opportunities like
+that in middle school
+that's really phenomenal one of your
+role models or somebody that
+inspires you on on a regular basis
+um you've probably heard this a million
+times but i
+i'll probably say my mom um and that's
+because she
+she took such a technological career
+path that i think
+inspired me and and kind of led me on on
+mine as well
+right and so did you grow up with
+sort of this engineering mindset in the
+house where you did she helped you know
+motivate you to go into that or
+was it just more of a comfort knowing
+that you know you can do it
+yeah i think it's just you know you can
+do it um and and we've always had
+technology around the house so it was
+just very
+natural um you know i
+i i just looked up to her it wasn't uh
+she didn't she never pushed me to it or
+anything of that sort
+i love that intrinsic inspiration and
+neta
+three words that you would choose to
+describe yourself and and why
+those three
+um okay um i think passionate
+um passionate
+passion is something that i i think any
+entrepreneur has
+uh it's it's something you have to have
+in order to succeed
+um i'm excited i'm
+i'm excited again for for what we're
+doing and always learning
+you just cannot stop learning
+are there some things that you looking
+back on your journey now
+you know whether it is in high school or
+the idea for later on
+that you're that you know some merely
+big ideas that you would take with you
+back then some things and perhaps not
+that didn't know and you know i as a
+young entrepreneur i always think about
+okay what what are some things
+10 years from now i'll say wow i wish i
+knew
+this or i had this perspective are there
+some things that you're observing now
+that you're
+you know you know co-founder of a
+company and you're looking back
+they're saying wow this is something
+that i that i only experience
+could have taught me
+um i i think just
+being brave enough to to have those
+experiences
+you know to to emerge out of that box
+that kind of society puts us in and do
+things differently
+yeah definitely neta today thank you
+very very much
+best of luck with paramedics insurance
+uh it sounds like a
+both a great mission a great market
+great timing and it sounds like a
+phenomenal team
+and so i i i wish you best of luck and
+thank you for taking the time to come on
+the show i know how busy you are thank
+you
+thank you i appreciate your time

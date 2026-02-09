@@ -1,0 +1,689 @@
+as a human for every click of a button
+that you have in your test which is
+thousands you can't remember oh wait a
+second
+i use this property but this is i'm
+going to change it so i need to
+you can't remember all the things for a
+computer
+that's like
+[Music]
+alvin loping thank you so much for
+joining me on 20 minute leaders it's
+been a while but i'm so glad that i
+finally caught you how are you
+indeed doing great my friend how about
+you doing fantastic you were so kind and
+gracious to invite me to a wonderful
+dinner
+a few months ago i don't know if you
+remember but you brought us you brought
+a great focus group
+we talked about testing we talked about
+research and development
+and we talked about the struggles of
+building beautiful
+products and it was very inspiring for
+me so thank you for the invitation for
+that
+uh you're welcome my friend any chance
+to see is great i love it
+oren you have a beautiful journey from
+ibm
+to wix to apple tools to now testimo
+with a lot of things in between that i
+didn't even mention and
+but it doesn't do justice to to the core
+of your journey
+tell me a little bit about yourself and
+how do you even get involved with
+with testing well first of all
+notice that it goes from bigger
+companies to smaller like ibm's 300
+i was employed 330 uh cadence that was
+completely number five thousand
+uh wix that was 151
+uh appleton that was employee number one
+and with testing that's
+employee number zero yeah wow okay so
+that's a beautiful funnel and slowly
+through that funnel you're getting
+closer and closer
+to to this idea of quality and
+architecture right i i think
+i think quality was always there in this
+in in the
+around me like for example at ibm things
+needs to be tested
+i love doing that and actually making
+shows when you as an
+engineer you want to deliver a product
+you want to make sure that it's high
+quality of course you want to with
+and also helping with the tools um as a
+young engineer it's like
+i love those actually so later with
+cadence
+um i was a compiler engineer there's a
+there's a
+there's a language there's two languages
+that was developed in israel
+so i was i was it was glad to be working
+on one of them
+but the nice part is it was a it was a
+language for hollywood verification
+uh so that means uh my users as
+they say uh were people that are testing
+so
+to understand what they're doing you
+need to understand a little bit about
+testosterone
+test automation or in this case how to
+do an automation
+so i always had this thing in the
+background and even then
+i went to weeks uh of course i did some
+side projects and that's how wix got to
+me and said hey we're moving from
+this spring from flash to html come and
+help us build this product
+um and everything was tested manually it
+says account as a person that came that
+saw that everything was tested
+automatically and even had a special
+special language for that i was like
+what no no no way we will
+are we going at weeks manually so then
+you start pushing in a company
+which a company already has few hundred
+people it's like uh
+it's not that simple to make the change
+uh but luckily you're amazing founders
+uh
+and i worked closely with uh anna
+davrami and yo ava vrami
+the more on the technical side i was uh
+uh everyone
+didn't get that i'm an engineer uh that
+turned into the dark side
+uh of product and business but um
+but back then in weeks i saw the
+challenge already and
+and um and how to change a company and
+how to make it from
+only manual testing for to be full ci cd
+what was the most difficult journey of
+taking a company of a few hundred
+developers
+you know hundreds of thousands or
+potentially millions lines of code and
+not slowly transitioning to automatic
+testing i know how difficult it is to do
+it
+when you have zero lines of code but how
+difficult is it to do when you have a
+lot of lines of code
+so so i think in weeks it was a little
+bit easier because they were just
+building a new product
+so that made it easier but you need to
+convince people of actually that
+right the way of cooking should be
+different and you need to
+find out who are the people that can
+move something inside an organization
+it's always like that that it's whether
+that's uh in
+in the technical side or not but you
+need to understand who are kind of the
+champions
+who are the people that you need to get
+them excited one by one get them excited
+and eventually you'll have you'll have
+the majority of people that
+are that are rooting for that and will
+start pushing toward that
+and we'll make the change okay so i have
+a challenge for you are you ready
+i want you i want you to get me excited
+about
+testing
+[Laughter]
+basically because where you work you
+already use testing are you testing
+about wait a second are you talking
+about test automation
+or test team. let's start with this idea
+of
+why testing is even important
+well you always test you don't even know
+about it but you always test the
+question is when
+the question is who's testing it are you
+testing it or your users
+but yeah so bugs hurt your business and
+it depends on the company
+that it hurts you in a different way and
+some bugs like
+uh like uh intel had that costed four
+billion dollars and the branding right
+wow i remember that
+oh yeah i'm not to mention uh spaceships
+that that exploded dude
+it's very it's critical to make sure
+that you're testing
+um you're making sure that your product
+does exactly what you want
+so some companies very few like netflix
+can say wait a second
+if something doesn't work you'll come
+back uh in 30 minutes
+but in a lot of cases think about the
+weeks that someone wants to pay now
+or paypal or anyone that wants to pay
+something for a product if it doesn't
+doesn't work
+for the next 30 minutes they'll go to
+the competition
+right so you lose money so okay
+i'm convinced the testing is important
+but you know when i started
+and my first uh my first few days as a
+software engineer i was told
+that before i deploy my product i need
+to write a bunch of manual tests on jira
+follow them manually and that's enough
+then i'll deploy
+what's wrong with that what's wrong with
+ideology that i'll just write some
+manual tests i'll repeat them every
+deployment
+and there's nobody better than my own
+two eyes right
+so i think there's a few things that
+that actually happened in the last
+decade
+um one is that you you find out that
+the earlier you find a bug the
+cheaper it is to fix it so if you find
+it just before production or a month
+earlier
+then it would it would that's a great uh
+improvement
+and roi so that's one thing the second
+thing is
+you actually manually you can't you
+can't you don't have enough people in
+the world
+i just say you're you're we both there's
+100 developers
+if you want to write run your tests
+before every pull request and there's a
+lot of those
+um and you'll need thousands of manual
+people manual testers that will go and
+click on stuff and you can't do that
+if you want to first of all if you want
+to uh go
+with with the paradigm which is called
+shift left you need a lot of you need a
+lot of tests
+and that means partialization and then i
+will get there's environment
+you want to run different houses
+different parameters
+there's not enough humans in the world
+uh and that's why we go to
+machines so and they do it much less
+much better and you're gonna miss some
+stuff
+and the machine is not going to miss
+that right even without coffee
+i have to say that one of the first time
+that i used the snapshot testing
+it was still back in the in the idf and
+i remembered that
+i was developing this website and and i
+ran my manual tests and everything
+seemed good and i
+had just started playing around with
+with taking the snapshots
+and through just i believe and and all
+of a sudden
+it showed me that that a part of the
+website i didn't even notice
+started shifting and and i could only
+imagine
+how this could roll and this bug would
+continue and cost me more and more
+or in i but i have to ask before we get
+to test mio
+you go through these companies you you
+do all sorts of different technologies
+and at the end you decide that you're
+passionate about
+automatic testing and helping
+organizations around the world
+to a better test and do it in a more fun
+and scalable way
+why do you focus on that why is that the
+passion at the end
+i think that it actually started with
+the second thing of what you said
+which is i wanted to help and say
+uh i love and so are you your life you
+we love help to help people and but now
+we need to understand
+how can i help and what is the best
+thing that i can do to help people
+and of course to affect much as much as
+more
+as possible because if you if you work
+for one one company you help them if you
+work at a company
+but if you deliver a product that can
+help
+thousands of companies then you get you
+you feel
+uh you can help the large scale of the
+world
+so it starts with that the fact that you
+want to help
+and the fact that you need to understand
+what can i do
+uh what can i do best and i think
+when i asked about different questions i
+would talk to before starting
+testing i talked to so many vp engineers
+in israel uh in the world and in israel
+it's more was much easier because
+everyone
+is like in a walking distance yeah or
+now the
+zoom distance um but you find out
+where's that where are those challenges
+what are their pains that's the most
+important
+thing and it's weird that a lot of i
+know a lot of engineers go to the
+the dog side of the business and we can
+start a startup
+the most important thing they need to
+remember that's
+someone that someone taught me a few
+years ago
+you start the conversation not about
+explaining what your product does
+is explaining what is the pain of the
+other person you never and everyone
+keeps saying things that
+uh salespeople are sleazy and like no it
+doesn't supposed to be like that
+have a product that answers someone's
+pain they'll want to buy it
+but usually a salesperson sometimes they
+have
+struggled to buy it the salesperson is
+just
+navigate that and make sure that they're
+going to make it in the most easiest way
+it all starts with hey you're selling
+you're
+uh you're solving a real challenge so
+how long did that take so so you entered
+the startup phase very convinced that
+you're solving a deep problem you've
+experienced it yourself
+you're talking to a bunch of vp
+engineers you're doing your research
+what is the solution that you come up
+with that could solve
+this this problem for a lot of people
+um i saw that most people
+didn't even get started with test engine
+automation
+and there i have noticed trends first of
+all there's actually a trend
+there's one that code is moving to the
+front end
+like every 10 years code is moving from
+the back into the front and it was
+mainframes then that's the back end then
+it was personal pcs the code was in the
+front end
+then the web came along and the servers
+and the code again was
+a lot of the most of the code was in the
+backend now we noticed
+react angular apps there's like so many
+of the code
+business critical business logic was
+moving to the front end and nobody knew
+how to test it
+so everyone i see that there's a channel
+everyone says wait a second
+i used to have one line of call in the
+front end which i tested manually
+now i have a million of those how the
+hell do i test it
+right and of course test end to end so
+we saw uh uh the trend first of all you
+see a trend
+and you're saying hey it's going to
+spike the testing on the front end
+is uh is gonna is gonna trend
+and what are the existing tools and
+existing tools
+if you think about that uh just
+understanding a megabyte
+20-15 years ago last time the front-end
+was in the center
+uh it was so much uh information
+like one one gigabyte it was like oh my
+god it's so huge we
+the method things like ai didn't exist
+20 years ago like
+think of the change that's been since
+and then you're thinking
+uh what what has changed and how can i
+use technology to actually solve
+something
+that that's needed so you start with
+that
+so you start with that and so what is
+what what is
+the product now that you've been working
+on for the past few years that i've also
+had a pleasure of playing around with
+quite a few times um
+so we and what we saw we said wait a
+second to
+help with end-to-end testing we said one
+of the biggest challenges
+was that the ui keeps changing all the
+time
+and the current all the current
+technologies use
+one property you have to say hey find
+this button based on
+i don't know the text you have to first
+you have to name it you have to do it
+yourself
+and that's literally i could do it
+calling it like almost like doing it
+manually
+um and the second thing is that it
+changes the application keeps changing
+but but you can as a human for every
+click of a button that you have in your
+test which is
+thousands you can't remember
+wait a second i use this property but
+this is i'm going to change it so i
+needed
+you can't remember all those things for
+a computer
+that's like that's like no-brainer they
+can follow and for every click you can
+have
+thousands of different attributes uh and
+features and you can say
+oh i can find it in more ways than a
+human
+things that a human didn't even think
+about i can think of a
+ways to argue find that element so in in
+here specifically
+uh we we took the pain that people had
+which is
+how do i test faster right i want to
+release tomorrow why do i need to
+write a test for a week i need it in
+five minutes and the challenge of
+in that case it's uh it's called
+testability or test flakiness
+and taking those challenges and saying
+hey how can i have a
+uh a solution that's that solves those
+questions
+right and that's so and that solution
+becomes
+a test mio and based out of san
+francisco
+that's yeah that's the beginning after
+that you see
+why people come to you and you talk to
+you talk the more customers you have
+you understand what exactly they want
+you see more challenges
+and and then you started seeing hey i
+can do more things
+i can help them i then they started
+saying hey there's duplications
+everywhere how can i find out and then
+you're saying
+oh we can use the same technology to
+find all the duplications or recommend
+you how to use a reusable component
+those things always come uh
+with with you know talking to customers
+understanding their challenges
+because they always ask one feature you
+talk to them you understand what the
+challenge is
+and then you say hey here's another
+feature which is much better so orin
+talk to me a little bit about this
+feedback cycle this agile methodology
+that you're using
+of of developing a product watching your
+users talking to them understanding the
+pain points obviously as somebody who's
+been doing it for years
+as an engineer yourself you can
+sympathize very very well with with
+these
+pain points how do you then translate
+that into a product that doesn't yet
+exist
+right because you're developing products
+that don't yet exist you're taking pain
+points that do exist
+and you're creatively finding solutions
+for them through test mio so how does
+that process look like
+um i i think in my case it it helps that
+have been in this domain for a long time
+right and first of all i there was a
+company that was willing to pay even
+before
+we had the product wow that was i think
+about 60 000
+contract and i showed them sketches so
+i think they trusted me because they saw
+earlier when i worked it out
+in april's they saw me building a
+product from
+from idea to a real
+real product and i think they trusted so
+that's you need to build that
+that trust with the community um
+but but i think it's it's working very
+closely
+with with the customers from day zero
+and ongoing all the time working with
+them
+you have one thing and that's in the
+beginning of a call let's just say
+someone's paying you already
+you have one thing that you have to ask
+them in the beginning what are your
+goals
+what are your goals and how can i make
+you
+the happiest person in the universe and
+and then you start thinking okay let's
+do this
+by the way the trick here the trick here
+is that sometimes
+um a person's goals and the company
+goals
+they don't necessarily all the time
+online i think
+i think it's very important uh when
+you're building a product it's also
+uh you need to start understanding
+how do people how do they think what
+makes them happy
+and where do they want to be and it's
+funny because it's like
+everyone asked uh where do you want to
+be in five years you have to know that
+right in in a 30 minute conversation and
+to
+understand that with that person where
+do they want to go and make them happy
+so there's two things you said we were
+talking about sell
+the only thing is trying to understand
+what people want as the as the
+individual
+second thing is what makes the company
+or the manager
+what would that make the manager happy i
+love that
+or and where where do you see this going
+in five ten years the industry not
+necessarily just testimo but but this
+idea of
+of of tests of tests first and test
+driven mentality
+what what what where do you see us going
+in 10 15 years in terms of development
+um first of all i think you developers
+there's always talking about the shift
+left that developers do testing earlier
+i think developers will also shift right
+developers will be much more connected
+to what's going on in production
+all the time when they see something
+when something
+something doesn't doesn't work i think
+that everything that's going on in
+production you'll understand first of
+all what are your users doing
+right now when someone's writing tests
+they don't even know what's going on in
+production
+that's crazy they don't know what what
+are the users we're usually doing
+imagine that you would that you do know
+what all your users are doing
+what are the things that you didn't do
+if something a bug happened that you
+know exactly what the scenario is
+automatically so i think those are but
+that's
+you only 10 20 years for that that would
+be
+that's going to be much sooner i think
+uh after that i think there will be
+um you will connect more the product
+level
+i think you'll be able to test more or
+define what the scenarios
+when you're talking about the product
+this is what i want the product to be
+okay here's my test automatically
+generated
+right those would have to come i love
+but it's uh
+yeah we i think it has to come it has to
+it will be there don't worry i i love
+that and uh
+and i had the pleasure of both
+developing with testing and without
+testing
+and i can definitely testify that it's
+it's a different world
+and when building the application there
+and the number of times that i found
+myself
+breaking my head against the wall when i
+didn't do test driven development
+it was it was awful so to all my friends
+at stanford every 200
+they're listening to this i'm a huge
+believer both intestine and
+testimony oh and thank you for
+introducing me to this world
+a lot of it is due to the work that
+you're doing with testament io that i
+got involved more and more
+and learn about it so thank you for that
+but oren before we before we finish
+i need to ask you for the most important
+question which is three words
+that you would use to describe yourself
+and i know that and i apologize in
+advance that i did not i did not
+tell you enough time in advance so i'm
+not gonna hold you accountable to them
+um do you have do you have to describe
+myself in three words
+however you'd like to answer the
+question yeah so i'm
+first of all i think like a lot of
+entrepreneurs i am i'm a person
+that loves learning i love and and i
+think
+uh i'm doing what i enjoy myself the
+most which is
+i'm learning every day even years even
+in the same company you keep learning it
+all the time so i love that
+and but things that i think the people
+don't know about me
+is that on one hand i play the guitar
+you always always play
+uh please dielectric guitar
+and on the other hand uh i love rock and
+on the other hand
+uh i play chase chess now every day
+actually not
+just regular it's bug house it's a
+chess variation uh two people versus two
+people
+so it's a little bit more you have to
+look at two boards
+and it's this is uh this this is the
+nice part when it's more
+it's of course you have to think about
+you know uh
+10 moves ahead and of course there's
+another world but there's also
+communication with other people
+so i think um so i think and i see
+you like that as well i can see that uh
+it's not just about technology and ideas
+and about cracking the
+the optimal just uh solution how to win
+your opponent
+you need you have a partner and you need
+to talk to them and tell them what you
+need
+and you need them to help you out and
+you help them which is i think this is
+this is uh uh what i love uh
+what i love most in is that working with
+people and having that
+building that all together and the next
+thing i'm gonna do right about this is
+two things is first invite you to a game
+on chess.com and the next one is looking
+up this two versus two game
+and because it looks wonderful oren
+thank you very much to raghavan this was
+this was just wonderful thank you ah
+you're welcome my friend
+take care

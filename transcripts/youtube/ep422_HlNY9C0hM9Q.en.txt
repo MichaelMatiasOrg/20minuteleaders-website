@@ -1,0 +1,704 @@
+you know we're human beings that are
+capable of changing right and
+when you label a human being as an int
+and saying you're not good at that focus
+on what you're good at and you tell
+yourself that story well that becomes
+your truth
+right i'm not good at numbers or i'm not
+good at sales well then
+you can be you just have to work at it's
+just practice right
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and
+in media partnership with ctec hiring is
+hard
+kovid made it somewhat easier somewhat
+harder
+but definitely showed us that there are
+opportunities to make it more scalable
+showed us that there are different
+biases that go into the hiring process
+and that is exactly
+what i'm talking about today with paul
+bilado ceo and founder at filtered ai
+paul bilodo is the ceo and founder of
+filtered ai a capabilities-based hiring
+platform designed specifically for
+engineers
+developers and tech talent that helps to
+remove unconscious bias from the hiring
+process through assessments and coding
+tasks
+paul started his professional career as
+a recruiter for a leading recruitment
+firm in boston
+it wasn't long before he identified
+major disconnects and
+inefficiencies when it came to the
+hiring process
+so in 2010 he created pangaea connect a
+video interviewing platform
+soon after he co-founded data science
+consulting company
+refactor ed and built filtered as an
+internal tool to ensure candidate
+authentication
+and more accurately assess candidates
+technical skills
+in 2018 the demand to license filtered
+as a standalone product led to the
+establishment of filtered inc
+and the continued drive to radically
+change the hiring process
+paul bilado welcome to 20 minute leaders
+all the way from boston how are you
+i'm good michael i'm happy to join i'm
+really happy that you're here
+and you know we thought about the
+connection
+with entering just a second ago and i'm
+really excited to hear about
+what you're doing with filtered.ai and
+and before we dive into the recruiting
+space
+and and you know the unconscious vices
+that we may have in the hiring and
+and the way data science plays into all
+of it i want to hear a little bit about
+about your journey into this because
+what i love hearing is how people got to
+where they are and it sounds like
+you didn't just come up with this idea
+and on a bright shiny day
+it actually evolved with your
+experiences from
+these different sectors so so paul tell
+me a little bit about your story and how
+did you get into
+founding filter.ai
+uh so basically um
+we were uh we started a data science
+consulting company in 2015
+and um we were trying to scale up teams
+um and uh
+you know we were doing the interview
+process and so
+two phone screens before a personal
+round of interviews looking at resumes
+having people come on site or doing
+something remote like this and
+and having some sort of technical
+exercise
+that was uh subjective at best um
+and realizing that uh
+a lot of what we thought about the
+technical performance on the on the
+exercise that we had
+um was uh due to bias
+right so we fall back to the resume and
+you know that no one from that company
+is any good
+no one from that school is any good or a
+flip side it's
+we noticed how there could be you know
+false positives you know if somebody
+worked at amazon you wouldn't question
+the solution
+like or in certain teams or apple or
+google
+and uh and meanwhile i looked at my
+partners like well
+you know if we hadn't worked together
+you'd have never hired me i'm an
+econ major and uh you know another thing
+that we realized was
+uh also was like just structuring an
+interview and and getting out of this
+what you know what we wanted to and so
+um
+so yeah that's kind of where where it
+all started and and uh
+and the other thing was like look we're
+going through all these steps in the
+process to realize that
+they can't do the work uh in the final
+step of the process
+like if we were hiring a chef would we
+go through all these steps to realize
+they couldn't cook
+after four rounds of interviews or
+should we just make them cook eggs first
+and then enter the hiring funnel and
+that's kind of where it all started
+really okay so so taking the higher you
+know into the
+hiring world and the recruiting world
+that you're in right now obviously
+things have
+shifted dramatically over this past year
+and
+but but it sounds to me like that what
+you're describing the process
+is pretty similar to also what's
+happening today maybe now it's happening
+more remotely but
+but it sounds like a pretty cumbersome
+process that at the end doesn't actually
+give a strong enough signal
+as to whether this is the right
+candidate for you and it just creates a
+bad experience for all parties involved
+with with a
+often a bad outcome as well so what what
+is
+sort of the hiring process that you're
+observing and that you're also trying to
+change
+through filtered dot ai and how does the
+ai's
+part help you do that yeah so um
+so we've uh we sit in front of the job
+application
+in most cases and uh resumes are never
+reviewed
+and so that's a big shift in what we're
+doing and and really what we've found
+uh is that the you know the app
+contracting systems and
+that are in place that are matching
+keywords from a job description that
+90 percent of the time the hiring
+manager didn't write
+um is matching to a resume in order to
+shortlist
+right and so the folks that are getting
+shortlisted
+um are usually just adding keywords
+right and so they're gaming the system
+and the folks that actually did the job
+aren't doing it and so you're screening
+in the wrong people and screening out
+the right people right so that's you
+know that's where we started
+and um and there's also we can anonymize
+it
+right so you could see hr could see pii
+data or video questions
+uh in a resume whereas you know sharing
+with the hiring team maybe they only see
+a technical exercise and
+surprise there's where diversity comes
+from
+um you know and even starting with you
+know some highly progressive
+large technical teams in the valley
+whereas we only hire phds from top
+schools in this team and then
+you know within 90 days it wasn't you no
+longer needed a phd
+from a top school we didn't need a phd
+to get hired in that team so
+um and really the ai for us has to do
+around
+um well one it was around fraud right
+and so
+uh with take-home there's a lot of fraud
+uh and so
+it was you know coding similarities um
+is it the same person taking the
+interview i mean things that we didn't
+think would have to build
+but you know somebody did a video
+portion and then that's a different
+person doing coding
+and or someone or someone you see me
+and then i hand over my laptop to
+somebody else sitting next to me on the
+couch and then
+finishing the exercise that's really
+kind of where it starts
+that that you've observed happening i
+wasn't even i didn't even think of that
+of hiring uh i didn't either um
+i didn't realize at this scale uh and so
+even today when you're using filtered
+for a take-home challenge and there's
+two different versions there's a
+take-home and then there's
+um then there's a live version which is
+similar to this
+but in recorded uh with coding pads like
+an id
+integrated as well as jupiter and r
+studio so you can do
+an exercise here um
+but uh 11 of the time there's two faces
+on the screen or the face changes during
+the technical
+portion of the exercise and so we know
+coding behaviors
+you know around we're not just doing
+inputs and outputs we're scoring
+you know is the code maintainable can
+you understand it
+and uh you know how many lines of code
+did it take to solve the problem because
+you know if you're not evaluating the
+coding behaviors as well as the scores
+um they're not really solving the
+problem here because you know for
+example like in a former life as a
+basketball player
+and um if we shoot free throws right uh
+and we both hit 9 out of 10 but i shot
+underhand
+am i really as good as you are right and
+so we kind of see that behavior
+that makes a lot of sense i'm here i'm
+hearing a few different things i'm
+hearing
+both this idea of okay so we have the
+resumes and we have the whole projection
+of of the whole short listing
+and then we have the actual you know
+onboarding and actual investigation is
+this the right candidate for us
+and it sounds to me but but tell me more
+yourself
+what has been happening over this past
+year from your perspective as more and
+more when remote i'm guessing that the
+problem just
+became worse because everything because
+everything
+went remote and people didn't know how
+to adapt but what have you been
+observing on this
+on actual field yeah the first so the
+first thing when
+shelter in place happened um
+the first thing was uh well the 470 000
+recruiting coordinators who are
+responsible for
+scheduling interviews with a candidate
+going to meet them at the front
+desk walking them in put them in a
+conference room
+going to get the first interviewer
+knocking on the window and there's five
+minutes remaining and they're going to
+get the next person
+and then debriefing and locking them out
+that doesn't exist and then there's high
+transaction costs
+when it comes to scheduling right and
+gathering feedback so
+we built live rooms with uh like it's a
+hiring workspace
+really and so it has workflows so that
+um
+if i need five more minutes for the kid
+i press but
+um it's also transcribed we have some
+analysis on it
+and so we're analyzing the interview as
+well right and so
+and really what we're trying to do there
+is is is to
+like stop subjective interviews like do
+structured interviewing like if
+you know you have multiple teams in in
+the same company
+hiring the same skill set asking
+different questions even though they're
+doing most the same thing
+and when you receive feedback such as oh
+you know i just didn't get a good
+feeling well that means
+you're not actually interviewing you're
+talking about
+um you know questions that uh really
+aren't gonna
+you know that create bias really like
+how did you like working at this company
+and things of that nature so we're
+analyzing those questions we're also
+um you know if it's a if it's a panel
+interview
+and three people on my team have
+had like really like the candidate i get
+a notification that
+instead of doing the interview
+i'm supposed to sell the candidate right
+shifting gears right away
+so that i know like i'm not letting you
+walk away with
+uh well they just grilled me for four
+hours
+and didn't sell me on the opportunity i
+don't even know how it is to work there
+i'm not going to take that role
+right and so it's really kind of being
+able to be actionable during the process
+that's really interesting because i i
+heard you know on one hand this idea of
+moving from subjective to objective and
+understanding that we have these
+different biases
+and i'm really into behavioral economics
+all these cognitive biases that you have
+with us
+constantly they're they're hindering our
+ability to really measure the candidate
+in an honest way
+yeah at the same time i'm hearing that
+you actually need that objectivity in
+the beginning phase
+to be able to move to the more personal
+aspect which is the actual onboarding
+and actually
+once you reach the right candidate
+giving them that good experience right
+yes yes yeah correct um because you're
+hiring humans right
+uh anybody look at the process for most
+of these companies
+we can't attract good people we hear
+from digital transformation fortune 500
+which is where we started
+it's not that you can't attract good
+people it's your process
+and if you want to attract the folks
+from
+the things of the world then have them
+in
+the interact with code first or doing an
+exercise with because that's what you're
+doing there you're not talking to
+someone and talent acquisition who asks
+why do you want to work here and
+technical questions they don't know the
+answers to and
+that takes 20 days to schedule that
+right
+um so i think it's more of a flawed
+process
+than anything and so trying to humanize
+this process
+using ai which is kind of an oxymoron
+but that's
+right so what is the biggest challenge
+here
+when you're you're talking about
+humanizing through ai
+and and rethinking the funnel from the
+resume all the way to
+the selling point of the candidate you
+know was you're observing this whole
+funnel
+what what's the hardest thing to crack
+here
+is change right um you know selling into
+uh companies that have been doing
+things for the same way for 30 years
+right
+um i'd have to go to the board of
+directors to change our
+job application process even though they
+know it's broken until only 10
+of the applicants finish the process um
+you know so it's introducing change and
+it's also um
+ai can feel like automation of your job
+and it's not you know so there's a lot
+of fear uh in the industry and it's
+really
+about helping them to understand like
+we're gonna help you cast a wider net
+we're not replacing you we're making you
+more efficient
+at your job by helping you do it on
+scale
+right and is this do you see this
+specifically relevant for
+more of engineering type jobs where you
+can easily
+quantifiably measure one candidate
+versus another
+what about the other you know i don't
+know 70 or 80 percent
+of of the positions that that also
+i'm guessing have a broken system of
+hiring and of measuring
+even probably more broken because they
+don't have a lot of the
+of the basic tools that tech companies
+today have
+yeah so i mean we started in engineering
+um
+just dog fooding it and and
+like we've and also we're under the
+guise of
+um you know as
+things are being automated right and and
+uh jobs are changing
+there's more technical jobs right so
+like even in marketing the the second
+most desired skill now is
+is data right um financial analysts have
+to write sql
+right and so you're beyond like
+non-technical jobs are now requiring
+technical skills
+and so um we've looked at other areas
+uh around uh evaluation but then you're
+getting it
+what we it has to be a practical
+exercise right
+and they wish we could do it with sales
+i mean uh we did a lot of interviews
+internally for sales folks um but
+you know i don't believe uh in the
+myers-briggs
+and those personality types i think
+they're
+general enough so you believe in them
+and like a horoscope um but you know so
+you get the barnum effect
+and i also believe that these systems
+you know we're human beings that are
+capable of changing
+right and when you label a human being
+as an
+int and saying you're not good at that
+focus on what you're
+good at and you tell yourself that story
+well that becomes your truth
+right i'm not good at numbers or i'm not
+good at sales so then
+you can be you just have to work at it's
+just practice right
+um but yeah i mean so we have
+looking at you know if it's project
+manager maybe it's looking at a document
+and then
+and then a project plan and and and
+highlighting areas where they would
+start first
+right or problem resolution and things
+of that nature
+tell me a little bit about the
+onboarding so you come to a company
+some some of your clients are big
+clients you're coming there and
+you're saying listen everyone we have
+this this new way of thinking
+and you know look at our insights you
+know
+and and i'm guessing sometimes your
+insights are contradictory to what their
+gut feelings are telling them
+about perhaps a specific person how do
+you then manage that
+yeah so um we have a lot of interesting
+data um
+like so uh
+we will show up with pass and fail rates
+based on
+day and time of the week but that
+normalizes by the end of the week so we
+know the worst
+times for candidates in days and times
+for candidates to interview
+conversely also know the best days the
+higher pass rates
+and you don't pick up on that because
+again it's
+it's the it's the week or the month and
+it's just normalized but the worst
+time of uh the worst day of the week to
+interview is
+is monday morning right for the
+candidate it sounds great scheduling it
+but you know
+the case of the mondays um right and
+or before lunchtime right and so like at
+11 o'clock
+and uh because we're humans and we have
+hormones like you get hungry
+and then your perception of the
+candidate changes so that's again it's
+not objective uh when you start to show
+your insights
+study with a with a court and they found
+that judges are much more likely
+to um to give a larger sentence
+to a potential criminal if it's right
+before lunchtime
+and has a lot of the same biases that we
+were just talking about
+yeah it's similar to um you know like
+back in the day
+um you know when you're buying an
+automobile like don't buy the one that
+was built on a friday
+you know um so to be have more floss
+yeah so again we're humans and so those
+insights help to kind of show
+oh yeah actually as yeah that does
+happen or
+um you know so it's really kind of
+winning them over and
+um and also it's the candidate
+experience right
+so right um it's you know we have 80
+completion rates uh for taking a filter
+versus
+an average of 20 filling like you're
+finishing an online job application
+wow okay that's incredible because at
+the end it's it's not just about whether
+the candidate
+is the right candidate or not it's about
+creating this funnel that is friendly
+enough to capture
+both types of candidates so that you
+don't miss out on them but then
+having it be solid enough to actually be
+able to make to make those interesting
+choices i i i have a few fun questions
+for the end but but a little bit of a
+deeper one before that
+from from basketball player uh both in
+college and overseas and getting injured
+but then moving into
+consulting and and then data science and
+now further
+what is it about this issue that you're
+trying to solve that that really gets
+you excited that you're saying this
+is the problem that i want to be working
+on on a daily basis
+yeah um so i think the problem
+is giving people a shot i think that
+they're very talented people that don't
+give an opportunity
+based on you know how their lot in life
+like where they were born where they
+went to school i mean that
+when you you this starts when you're
+young a lot younger
+and it prevents you or it makes it hard
+it doesn't prevent you like we're again
+we can work hard and practice
+um but it's creating a bridge right and
+um
+i mean i think you know even our team
+like everybody
+you know from engineering is has to take
+a filtered and and when we were being
+evaluated
+uh you know going through due diligence
+the feedback was you don't pay enough
+for engineering
+you you should it's a third based on
+your team size what we would see
+in the valley so they needed to do a
+code review
+to make sure it was real and scalable
+and that was really just the bias right
+it's like we're hiring for what we need
+and we're not over you know we don't
+need to check all like do consensus
+right consensus hiring uh checking all
+these boxes for where we are today
+we know what areas we need to cover and
+we know how to evaluate that
+and um and people are hungry right like
+um giving people the opportunity
+um that maybe they wouldn't have
+received based on if it was a resume
+like if you're evaluating resumes paul
+are you ready for a few fun questions i
+have three fun
+difficult non-committal questions okay
+okay all right number one yes favorite
+subject in school
+k-12 your choice
+ah
+history i love it
+any specific history point
+um i liked early american history i'm
+i i really like the some lessons around
+you know leadership
+uh lessons uh but yeah that was kind of
+my most most favorite
+wonderful one of role models that you
+look up to
+professionally personally
+um yes i'm gonna wow um
+well you know i played basketball right
+so um
+if i go back to somebody had an impact
+in my life
+you know it was um you know as my as my
+coach
+you know from prep school max good um
+that really influenced me and as
+a role model and really taught me how to
+be a man um at a young age
+um i had a big ego in basketball and
+in high school and i'm you know teaching
+that me that you know how you behave
+represents you know
+your friends your family your teammates
+and so it wasn't about
+you know you making a mistake and
+apologizing um
+and taught me that hard work was the way
+was kind of the way forward so
+um you know that's another thing that i
+haven't been able to shut off
+my if you asked my wife uh and i
+probably you know
+we share the bed with filtered and
+filtered and sleeps in between us
+but you know it taught me focus i love
+it okay
+last question three words that you would
+choose
+to describe yourself
+ah uh pragmatic
+um you're generous
+i'm inauthentic
+pragmatic generous and authentic paul
+thank you very very much for joining me
+from boston i really thank you so much
+filtered i i love the idea of of using
+ai to humanize the process giving a fair
+shot
+okay you know trying to trying to to
+lower the cognitive devices that we that
+we bring to the table so that we can
+actually
+bring on the right people and and and do
+the right process both efficiently but
+also in a way that's a win-win for
+everybody
+paul thank you very much and stay safe
+thank you appreciate it
+take care it's great meeting you thanks
+for having me appreciate it
+[Music]

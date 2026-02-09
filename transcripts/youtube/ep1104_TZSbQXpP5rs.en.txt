@@ -1,0 +1,636 @@
+because I love spreadsheets obviously
+because it's a tool for the brain but
+like I can't communicate with it it's
+impossible and you can't retrofit it you
+know it's like I can list a million
+reasons why you can't but you just can't
+and so I was like oh my God you know we
+have a window here to build a data
+narrative that actually work so you know
+like for your student audience maybe
+it's it's useful to understand how our
+careers always pan
+[Music]
+out Nuno job welcome to 20-minute
+leaders thank you so much for spending
+this time with me how are you I'm good
+thanks for having me thank you very much
+so you're calling from England today
+right that is true I'm calling from fair
+in England even though the palm trees or
+something make it look otherwise
+yeah amazing well well and you know I'm
+really excited to dive in with you today
+about you know all the context of of
+your company desie Pad but but in
+general your journey as an entrepreneur
+technologist um you've had a lot of
+experience doing many many different
+things a from the executive level to the
+entrepreneurial level to the engineering
+level and so a lot of different
+experiences that you've accumulated and
+um and in this short conversation I'd
+love to hear a little bit about your
+experience and what you take away from
+from your journey leading all the way up
+to to desad and looking at the way we
+make sense of numbers and business
+intelligence and and the world of of of
+organized number systems and and uh
+obviously this is the world which we as
+a society have have made such a critical
+part of our of our daytoday you ever
+since really I guess the birthing of
+Excel or maybe even earlier and so I'm
+excited to to hear a little bit about
+your vision for this world and and what
+opportunities lie there so again thank
+you very much for being here yeah thank
+you I think it that's it's a great Point
+I've I've always been very fascinated by
+numbers you know like and we use numbers
+a lot in
+advertising uh in media in conver ation
+we use it to make a point but somehow
+through the education system
+through how we relate to each other we
+we have this Chasm between the numbers
+that we love and the mathematics that we
+hate almost like that I know it's not
+true for everyone my son absolutely
+loves mathematics but for both of us you
+know it's the numbers that pull us but
+that we do not want to reason with uh so
+I think that you make a very fair point
+on on that disconnect can do you have
+some examples of where we may have this
+chasms that you're talking about I mean
+if if you look like um very recently uh
+a great man called Daniel canman passed
+that that won the Nobel Prize of
+Economics while being a psychologist for
+showing exactly this uh the the biases
+that we have with numbers and the way
+that we use to persuade people uh the
+way that we overestimate events uh when
+in reality maybe they're just on the
+news a lot with anent Statistics uh I
+think that there's a lot of examples the
+the way is people are so excited to get
+a discount but never want to do anything
+to calculate how for instance a a saving
+can change their lives in 10 years or if
+a mortgage buying or renting a house is
+important and I come from a humble
+background I would say and most of the
+friends I have and most of the family I
+have doesn't have the luck and the
+luxury of the education that I have
+and numbers are a big part of it people
+don't engage with it because that
+there's almost a belief that they are I
+don't know not smart enough to to do it
+and it's absolutely a fallacy so I feel
+like there
+is a very big divide in the world with
+numbers I know it sounds very conceptual
+but there's a very interesting fact
+which is if spreadsheets was a language
+I know sounds ludicrous um did you know
+that it would be the third most spoken
+language in the world so be English
+Mandarin spreadsheet something else
+isn't that
+absolutely lunacy and and to think that
+that's true and then you think oh but
+everyone knows spreadsheet no very well
+L people know spreadsheet but everyone
+loves numbers but not everyone can
+engage with it and I think that's always
+been something that is quite Central to
+what I have done uh throughout my career
+throughout my my life W so so if you had
+to then take AP part where really is the
+problem here so if everybody loves
+numbers yet very few or just the well
+off are able to leverage them in
+meaningful ways and there are some some
+barriers there what what what is in your
+experience is is this barrier I think
+there's definitely a lot that happens in
+the education uh system Michael I know
+you're This brilliant student I was not
+a brilliant student
+uh and the thing that I I I was great at
+physics and terrible at
+mathematics which is kind of an anote of
+itself and I always trug to to engage
+without esoteric of a concept it was and
+I think most people just don't go past
+that barrier ever uh and they just
+decide you know maybe I should be a
+writer maybe I should be an artist I
+just I just can't do this um so I think
+it comes from very early on and I think
+it just gets reinforced in people and
+then we have people that are knowledge
+workers feel comfortable with numbers in
+one way or another with one tool like
+Excel or maybe a different set of tools
+uh but no way to really communicate and
+that's really the the premise of
+desad it's a place where people can
+author their knowledge and others can
+consume it in a way that when they they
+play with a document they can understand
+what impact it has in their life in a
+way that hopefully inspires them to
+become the authors themselves and so it
+sounds like you're saying that that
+there's so we we have the numbers the we
+we exist in a world where numbers are
+all around us and and a lot of our
+day-to-day is based off of these numbers
+that we accumulate and we create the
+problem is then the translation of how
+do we make meaningful connections out of
+those numbers which I guess in the Excel
+world would be more the formulas aspect
+right yeah it's either static for
+instance you apply for a mortgage and
+you get a document right and you can see
+everything that it is based on one
+specific thing uh some times it's a
+spreadsheet when it's a spreadsheet it's
+a map of someone's brain you know a
+spreadsheet is the most scary thing a
+person can send us an atachment because
+it basically means look it's a download
+of my brain H and you just have to to
+reason with with that um I think that
+that's quite scary and what often
+happens is that in the meeting you kind
+of need to have the brain person in the
+zoom to kind of like give responses you
+know validate is this true or false true
+or false and yeah one one Trend that we
+saw when we started desad was this um
+rise of programmatic notebooks like
+Jupiter notebooks where people have real
+data analyst teams getting insights and
+giving it sort of in a document format
+but not really because you need to be a
+coder to decipher it and to actually
+have meaning of it and when we started
+Asad that's really what we were thinking
+there's a CM between the people that
+want to make sense of numbers and often
+these people are billage you know that
+there's people that have a lot of
+knowledge about a business but just
+don't engage for all the reasons we said
+before and the people that can actually
+create this knowledge and and when we
+started Desi that's where we were
+thinking like we just fought like with
+Jupiter notebooks with Excel with all of
+this who in their right mind would right
+now go and say okay if I need to create
+a tool that really helps this would it
+be a spreadsheet today you know would it
+be like these funky cells with like text
+in a corner as a yellow triangle that
+you Hoover on and then you read what the
+person meant and then you have to track
+back references I just don't think
+anyone in the world uh would ever start
+like that and that was like the starting
+point uh for dasad amazing so so walk me
+through the I guess the the experience
+that you're you're you want your
+customers to have so you know let's
+maybe even take a use case or or a
+situation and then what would be the
+experience from C from a consumer
+perspective of how they would engage
+with this product well right now we have
+teams uh that author documents that
+allow their clients uh their co-workers
+to to very simply engage and understand
+how different permutations of their
+offering uh could could change how they
+experience their product for instance if
+you're a solar panel company uh you
+might create a proposal that has you
+know uh something to split all your
+energy on downtime or you might want to
+optimize to do just load uh kind of uses
+of your energy and you can give that to
+your
+user that can look through the document
+make all those choices and see what's to
+return um in in five years as opposed to
+have something very very static or for
+instance if you're doing an insurance
+policy and you want to understand um
+very quickly how adding your partner to
+the insurance policy can affect your
+premium I think right now it's very
+difficult because every time you need to
+do one of those activities uh you just
+have to go in this sales back and
+forward uh and with dead that that can
+be instantaneous and you can see and
+really understand what the client is
+more curious about you know oh actually
+the client is interested in the discount
+more often than not the client is more
+interested in seeing what's the
+difference between a premium and a non-
+premium offering and now that gives Mari
+and how much that cost so it almost goes
+back to what you said with the with a
+mortgage document that somebody would
+get this document which would be static
+would be very hard to decipher I guess
+here is both the fact that it's that
+it's interactive and allows it to play
+to have a a play with the document so
+that until you get that actual to the
+bottom Insight which is what's important
+there yeah I mean do two examples that
+I've seen three that are really
+interesting uh I saw a p firm uh send a
+whole model to an entrepreneur where the
+entrepreneur can see what's the exit
+that they get on day one but also based
+on the performance of the business how
+much you're going to get after uh which
+typically is not something that you know
+an entrepreneur would just get like a an
+email and so that way the entrepreneur
+can say oh if I outperform how does this
+affect
+Etc and I've seen an hedge fund uh that
+actually modeled sensitivity analysis
+over a stock where they could
+go if it was a tech business so like if
+the price per developer goes down what
+does this mean for the valuation of this
+business while at the same go at the
+same time playing with the uh Federal
+Bank interest rate of the United States
+was like you know if the Fed rate goes
+down and the price the wages go up what
+happens and all for a hedge fund maybe
+they normally have like a data team
+doing that and they could just you know
+slide a little bit and have a a
+discussion not about the data but a
+discussion about the decision that they
+have to make should we or we not
+investment this come and so how do you
+measure your success here there's
+obviously the way that you know startups
+measure their success in terms of you
+know engagement and and the different a
+metrics but I'm curious from a product
+perspective how do you because you're
+also very driven by a shift in consumer
+Behavior or providing a new found
+experience how do you then think through
+how to assess yourself on whether you're
+actually moving towards your vision for
+a new reality here it's a really
+complicated balances complicated balance
+in products of this nature uh I've
+spoken with plenty of Founders that both
+very early on just made the decision of
+going you know we live by the client our
+clients are CFOs at companies between
+200 and 500 so we're going to build a
+fpna tool just for those consumers and
+it's going to always work with these gu
+Grails and that's our product and I also
+spoke with bunch of Founders that do no
+we're going to build the foundation the
+the Baseline of what this product is and
+then we're going to find the beach head
+that we're going to explore and we're
+going to go in a more horizontal manner
+the horizontal versus vertical both the
+founders I'm thinking about I don't want
+to quote them because I don't want to
+put them on the spot are very very
+successful and build like you know uh
+multi-billion dollar
+businesses um for desad we definitely
+thought that for us to achieve our
+mission or helping people have a better
+relationship with numbers we needed to
+go horizontal first now going horizontal
+first is I think I'm sure that the other
+people would say the opposite but it's
+like the most difficult journe because
+as you say like it's much easier to have
+metrics when you have a very concrete go
+to market and you are focused on a
+single person person and a single
+problem to solve as opposed to here is
+my
+tool now let me find this speach head
+that really
+works uh but for the mission and for
+what I've been working all my career it
+just it only made sense to try to change
+the consumer Behavior too that's what I
+wanted to do to give a tool that allows
+consumers to engage with numbers all
+very very nice tell me a little bit
+about the company the formation where
+you're at today yeah I know I think I
+mean that a lot of your audiences is
+maybe students maybe they're thinking or
+uh doing a startup um and if you're not
+I apologize but I'm mostly going to
+speak to the students because I was one
+myself um I I was a computer science uh
+student
+and I didn't really think much of
+Entrepreneurship maybe because I didn't
+even know what the word meant um and it
+only when I went to New York I really
+opened my eyes to to this as a reality I
+worked mostly in databases and in
+document
+databases and it it was really
+interesting to see because document
+databases unlike relational database now
+now they're popular with the term no
+sequel that showed up like around 2012
+2013 maybe earlier 2008 I don't remember
+but um document database were a very
+Niche thing and Publishers needed to
+integrate all these documents and I I
+saw the need to make sense of these
+relations between numbers and long St
+documents mostly financial services from
+what I was on those
+days um but it was it's so difficult you
+know like you need a database expert you
+need an app uh expert
+um and I I went through my career kind
+of hopping through database in New York
+in IBM to San Francisco and Mark logic
+and I was always seeing people with this
+kind of problems and they were really
+excited about using documents more but
+we live in a world that is for apps you
+know it's relational database and apps
+and documents are which I always found
+it was ludicrous because most of us live
+95% of our time in documents uh not in
+apps but somehow the whole ecosystem is
+built around apps and relations and not
+like this context that I
+have so for your students listening you
+know that that was kind of like it
+wasn't I'm going to start a company one
+day I kind of like went through my
+interest areas which I think remain the
+same today and always through the
+passion that I had for the topics that I
+loved um back when I was in in San
+Francisco I met a couple of people that
+were building this new technology called
+node.js so I decided to move away this
+small small new technology in the in the
+background yeah I mean it it was it was
+I I remember talking to to Ryan like the
+first time I met him and he he thought
+that I went to a FY University because I
+knew functional programming and I
+realized that the United States really
+has a gap there um but I remember
+telling him like JavaScript in the
+server right you stupid you sound like a
+smart man um but him and a bunch more
+people were really motivated to create
+this technology and I thought it was
+really exciting I started writing
+programs in it and I I created this
+company in in New York City called
+created I mean I I was hired by the
+founders became one of the executives um
+that um was the original no JS platform
+with a service you that quite a big
+footprint it got sold to go. in but I I
+was still in the same path you know
+before was do in databases and I was
+helping developers deliver these
+experiences so I just felt like the
+database you know there's a lot of no
+SQL databases like mongodb and cdb and
+can deliver these these really simple
+apps that unlike Java we just like you
+know turn key seven lines of code and
+you can do do something useful without
+being like miserable for 40 minutes
+while
+deployed and that was really really like
+a great time and you know
+as a student I I I look back and like I
+was still like from intern to full-time
+employee almost um I still look back at
+at those times as some of the times that
+I work the hardest and that I learned
+the most um then I I moved to
+London in because building no Jitsu was
+well it's always complicated when you
+build a business I didn't want to use
+Venture Capital again uh because I got a
+little bit burned there
+uh nothing wrong with it but different
+businesses require different things I
+kind of serendipit started a
+consultancy I by now I had lots of
+experience working with consume with
+clients and clients and I've always been
+a big fan of McKenzie which I know is
+not something very popular but the
+original McKenzie so I thought like I'll
+build a Consulting um software
+engineering like you know the they their
+their Consultants like what if software
+was a top level thing at uh
+at like the executive level um and yeah
+I I bootstrap that business from you
+know zero to about $20 million it it's
+still a family-owned business quote
+unquote um and once again now I had two
+parts of me that wanted to use this sort
+of software one was obviously I needed
+to give reports to clients I needed to
+do calculations which I just did in
+spreadsheets and like you know send them
+the down of my brain good ridd to them
+and the other one was I started as the
+business scaled very rapidly I figured
+out that that was a massive Gap in
+software it's like when you start you're
+kind of doing everything you go to 30
+people you're kind of doing everything
+and and then you need you you maybe you
+install zero or QuickBooks and you're
+kind of okay you outsourced to NFD
+you're okay but then you're a 50 or 60
+and all of a sudden people are banging
+on your door with crms erps all of this
+crap and and all you've built is this
+beautiful network of people that like
+working together and are really nice and
+smart and they deliver and some guy is
+telling you to install this Erp that
+they use to sell shoes or in North
+America or in Asia I'm like I couldn't
+care less this is you know like oh for a
+fee of
+$40,000 we'll install it and you can I'm
+like so I actually started like building
+a bunch of Google Sheets that integrated
+with like JavaScript and we had like a
+team of like five engineers at once like
+just doing this because I was as an as
+someone scaling a company I was like I
+do not want to use these Enterprise
+softwares you know like I feel like that
+software was built for the Auditors like
+you you're going to be audited you're
+big enough okay you have to pay for the
+software but no I just wanted skills you
+know I wanted to give people the freedom
+to have an operative system and once
+again that went that took me straight up
+to what Desa did the funny thing is
+through throughout all of this my career
+and I think for for most of your
+listeners like I I never cared about
+being a leader I actually always found
+it a bit uncomfortable to be perfectly
+honest I love helping people I don't
+like telling people what to do
+necessarily um I never focused on money
+um like you know even companies that I
+advised that went on to be very
+successful I did it like for nothing and
+luckily enough people tend giving me
+something back um and I always kind of
+follow the same path of the passions
+that I always had in one way or the
+other and I never thought of
+profiteering from it you know like even
+though this was like throughout my
+career um something I was just like ah
+well whatever you know it's like I'm not
+going to do something about it unless
+there's something to do then Co came and
+I took some time off um by that time A
+friend of mine uh which I helped from
+very early on to like an exit called
+rovski had sold his company uh which was
+a big exit for me personally because I
+was I think one of probably the first
+person to give that company money I I do
+a lot of Angel Investments I'm very
+proud of them they're great companies if
+anyone wants to check I'm sure you can
+share the link but I was I had an exit
+there wildy was a fairly established
+business so I had no requirements so in
+Co I was really thinking what to do next
+um and it was that finally then that I I
+got up to this idea um even though it's
+been building all of these years I I was
+like one thing that aggravated me in the
+consultancy I've done lots of digital
+transformation projects like you know
+the new fogue or you know I shouldn't
+list or the new Economist but um when
+when you you do all those projects one
+thing that I started noticing in the
+late years to 2019 20120 was everyone
+talking about Ai and me I started
+machine learning in cryptography
+in school so everyone talking about
+cryptocurrencies in AI really got me
+freaked out because I thought it was
+like these far-fetched mathematical
+things I had studied um so when covid
+came I decided to study it a bit kind of
+do a recap and I actually did a great
+course from Stanford called CS
+321n uh I didn't pay for it I just did
+the GitHub thing and that's deepal
+networks yeah yeah yeah and I I it blew
+me away that I did everything in a
+Jupiter notebook with no students uh
+like friends with no teacher nothing I
+just went there and wrote some stuff and
+I got I mean I probably don't know
+anything but you know I felt like I
+learned something or or at least recap
+my knowledge
+and maybe that's when I did the worst
+turn in my life because I could have
+focused entirely on AI and I focused
+entirely on the document I was like this
+is the gap that I've been looking for
+you can build a data narrative with
+these numbers I don't don't have to like
+go back to that spreadsheet and have to
+communicate there because I love
+spreadsheets obviously because you're a
+tool for the break but like I can't
+communicate with that it's impossible
+and you can't retrofit it you know it's
+like I can list a million reasons why
+you can't but just can't and so I was
+like oh my God you know we have a window
+here to build a data narrative that
+actually works so you know like for I I
+think like for for your your your
+student audience Maybe it's useful to
+understand how our careers always pan
+out it's incredible yeah I mean I'm very
+thankful for all the mentors I had and
+all the people I'm meeting one of them
+today that really gave me the
+opportunity to step up working with
+Incredible people was a big part of this
+but but I I always find it inspiring
+when I talk to people growing up and I
+see like this big smile that is
+connected by one single topic that they
+just love being good at and they just
+keep doing it and it can take you many
+different ways but it's normally people
+that are very happy no no this is a
+fascinating I wrote so much for myself
+over the over especially over the last
+10 minutes or so this is what a journey
+and uh something that I think every
+every entrepreneur should hear so thank
+you very very much for sharing this with
+me and I want to thank you for coming on
+this uh on this show and this this
+program I really appreciate it and
+wishing you best of luck with Dy pad and
+everything that you're doing and I'm
+excited to use a prod of myself so thank
+you very much for the inspiration thank
+you and by the way if any of the
+listeners uh needs anything feel free to
+shend me an email I'm very easy to find
+and I'm always happy to help thank you
+so much

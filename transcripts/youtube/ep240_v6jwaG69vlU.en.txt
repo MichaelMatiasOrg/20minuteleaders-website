@@ -1,0 +1,630 @@
+so i always prefer to do something than
+not to doing something so whenever
+even when i walk wake up in the morning
+i want to go
+jogging or not and i i'm tired i'm not
+going to talk today and but i remember
+that whenever i'm doing something
+when i do something i never regret
+[Music]
+thank you for joining me on 20
+milliliters how are you today
+good good nice to meet you we have
+thank you we have we have a lot to cover
+uh but before we cover
+all the mileage we have for this
+interview we have to talk about your
+bike journeys uh you know you started
+you by mentioning to me that you
+traveled with your wife with tents on
+the bikes
+all across europe and you even traveled
+with the whole family on a
+non-competitive cycling event through
+iowa right
+yeah yeah bike is me i'm the bike so
+also in also in the silicon valley i
+used to
+to bike every day to walk and back and
+here in united in israel now i'm in
+israel
+also we are we are on television because
+the television you can cycle also
+everywhere so i try to avoid my
+my my car and also it's good because my
+son
+is very he likes uh he he try his pro
+he protesting against all the climate
+change
+so i'm very proud to uh that
+that my son can be proud of me that i'm
+using bike whatever i can
+and yeah and as student i cycle with my
+wife for two months
+in in europe with bike and again then
+another trip in that was in scandinavia
+then another time in
+in in scotland and then in the united
+states also i cycled
+a lot and including with my family one
+week we crossed iowa from one side to
+the other there is a
+it's a big event called ragbrai um
+and that was very very constantly in awe
+the people that i'm speaking to like
+yourself you're so busy and you and
+you're so successful in your domain yet
+you have these incredible passions and
+adventures
+and you don't do them lightly you go all
+the way you you travel 2
+000 miles with your wife with tents or
+you travel all across iowa with your
+family
+i'm gaining inspiration for myself but i
+have to go to
+to the main event and to the main
+mileage you're a researcher at samsung
+you're an expert in computer vision and
+augmented reality
+and i'm especially excited for this
+episode because i'm excited to talk
+about
+what is augmented reality and where are
+we heading especially in the context of
+your work so the tan
+maybe can you take me back a little bit
+about your journey
+into this computer vision space and and
+then tell me a little bit about where we
+are
+okay so personally my background has
+more computer vision
+and also a bit of computer graphics and
+and for me augmented reality virtual
+reality we can discuss it but that's
+what i like it it's about the
+integration so you take computer
+graphics and compute the vision and
+and and and integrate them and have
+something
+uh that you you see and and for me also
+that's also something that
+for me is very important is is is the
+feedback
+so for me as a developer that i develop
+something and i get the feedback i don't
+need
+someone to tell me if it's better or not
+i see if it's
+it's better i see the reality in front
+of the user like
+it's not only a better algorithm that
+runs faster and someone say oh
+now it's faster more efficient i what i
+like is just the
+the interaction with the computer with
+the screen
+and if it's augmented reality virtual
+reality it's not
+only the screen it could be also glasses
+and
+and what drives you into computer vision
+starting out
+why why going i get to watch him what
+drew what
+computer vision again that's because i
+because because of visual
+aspect so because i see what's what i
+get and
+and and and understand the world and uh
+and how computer and how the computer
+can understand the world and how
+computer can uh can
+learn and it's got just no i started
+20 years ago even more 25 years ago and
+it was
+not so many cameras now everything is
+cameras every phone has camera amazing
+camera so
+the potential of computer vision just
+grew and grew and
+understanding of of of the image is much
+much better
+and and again the instant direction
+having been being able to to
+to to see what you're doing and that's
+what
+i like the most and what's also very
+interesting is no
+because for us the human it's it's you
+see something it's it's so obvious what
+you see and but to teach computer to
+understand what you see
+it's it's a big challenge um
+and that's part of
+now when we are for augmented reality
+ask about
+you have two parts one is understanding
+of the world because you have to
+to visualize so maybe i'll just give a
+few words about what is augmented
+reality is
+also there are several terms compute
+there's virtual reality where you see
+only
+the virtual only the graphics you don't
+see the the actual world you just see
+everything is graphics and there's
+augmented reality or mixed reality there
+are some differences between all that
+but
+but in general let's call it augmented
+reality that's
+you have the world but on top of the
+world you have some object that you add
+some information to the world it could
+be
+uh through the screen of of the of the
+phone
+like that on the phone you see the world
+with a camera and also add some
+information so
+um google has a lot of uh
+very good code tool code that
+gives you a lot of information you can
+use it and it just gets better and
+better because you understand the world
+you can understand plans you can
+understand what the
+um where everything is located uh
+personally i
+i prefer as a developer to work with the
+glasses
+in glasses like hololens microsoft and
+those other
+uh magiclip and other companies that's
+for me
+that's the magic because then you really
+see the world and then you also
+put again you put the graphics on top of
+that
+yeah but extra layer but that's even
+more challenging because
+you really have to understand the scene
+you really have to understand
+not only the scene and where to put
+something but you have to also
+track the the head motions you have to
+to understand how how the head moves
+because then you can really know how to
+render
+how to locate the object in the right
+thing and and if you don't do it right
+it looks
+it looks wrong so it's very we are
+assuming again
+it's very sensitive to that and um
+it's very difficult to trick us uh
+and and you know every everything it
+also it has to walk
+very efficiently in real time because
+you cannot have any
+latency that's another challenge with
+with augmented reality the the
+speed should be very very processing
+speed should be that everything has to
+be very efficient
+and like that every jittering every in
+virtual reality you can cheat in
+augmented reality you cannot really
+cheat because you see again you can see
+the
+road and and where it is now
+i think most of computers many many
+companies big companies
+they try and do something and
+for many years now it's it's it's
+considered as something that is the next
+the next thing but it's still promising
+more promising than then you know you
+have also
+also facebook and and then google
+and and i know some robots about apple
+and but no one really makes money of
+that so it's still
+potential because
+because whenever when you have it and
+once
+and they call it sometimes they call it
+like a superman once you have
+disabilities when you
+once you get even if you don't like it
+that's
+again that's the claim that in the
+future even if someone doesn't like it
+if for example i see you and i get some
+information that you cannot
+know about me i have some advantage of
+top of you
+so i don't really like the approach but
+in general that's that's
+reality so if i have something that with
+augmented reality you
+get more information than someone
+without it and so one day maybe you
+you'll not so you you'll have if you
+want to be
+in and know everything you'll need
+wherever you like it or not
+um so i i would love to i would love to
+spend the last five minutes or so
+talking about where we're headed because
+i am terribly excited
+and frightened of how of how our world
+is going to look
+in a few dozen years uh both in terms of
+you know people that are aging
+and loneliness especially with cobit i
+mean it's it's very
+it's become very apparent how necessary
+this technology is
+but before that i would i would still
+love to to understand a little bit
+better
+what is essentially augmented reality
+today so
+are people really actively working on
+this is this mainstream and i'm drawing
+a parallel to
+autonomous vehicles i had a great chat
+with a product manager at one of the
+leading autonomous vehicles company on
+this show
+and one of the things that she mentioned
+was that you know we we had a big surge
+of technology
+we've advanced a lot and we've reached
+this like 95 96
+threshold and now we're realizing that
+the last five percent
+is incredibly harder than we thought and
+so we're almost there but we have such a
+big way to go because that's
+that's the big threshold is that the
+same thing with augmented reality
+i think yes and no so i think it it is
+yes because if you want something
+perfect there's
+still a lot of things to do to make it
+work
+i think there's the problem with
+augmented reality is the awkwardness so
+there's no
+no killer applications so still why
+would people like google and google
+when they have the google glasses so
+right yes you get more information but
+you look awkward so if there's not
+enough
+extra information people so still people
+waiting for this killer application that
+is not there yet maybe
+you know just games but not it's not
+enough to just have
+games and entertainment um
+so i but but still there's a lot of
+uh that the technology is really it's
+it's getting it getting it's getting
+there so it's not too far for something
+that you can
+use but expensive so the
+glasses like hololens mediclip that's
+that's that's something that costs
+two three thousand dollar a piece that's
+too much for consumers so
+that's something that that that has to
+be solved before people can use it
+because with the
+expensive ones you have very good
+results very very good
+but if you want something that is much
+cheaper 10 times cheaper then
+tracking is not good enough and so but
+that's you know
+the hardware when hardware is getting
+better cheaper cameras getting
+cheaper then yeah it's it's i think
+technology of course there's more
+to do improve but i think we're in the
+right way and i get the killer
+application why would people do it
+you know in the future they're talking
+about also lenses instead of glasses
+it's very creepy uh
+i don't know but i think yeah
+i believe that that's something if again
+like even even if you like it or not
+i think it's gonna happen you have to
+use it it's going to happen
+yeah because i'm asking this very er
+very honestly because
+we had such a big hype and everybody was
+talking about and you had magic leap
+that was in stealth mode for so long
+raising so much money and then all of a
+sudden you stop really hearing about
+these advancements
+you do have oculus and hololens and
+those but but you don't really see
+me and my friends talking about these
+technologies
+as much as we did even five years ago
+which is counter-intuitive because i
+would expect that now we'd be talking
+about it much more than before
+i remember going to conferences and the
+person with the google glass was the
+most popular person in the room
+so so what i'm hearing from you is that
+there i can be optimistic
+and i should be planning for a nearby
+future
+when it will be less awkward and more
+and more beneficial to take part in this
+new humanity
+yes i i think that's that's their
+directions and
+because again there's so much things you
+can learn and do with that and
+so much extra information you can get so
+i think
+sooner or later maybe later but it's
+going to happen and again there's also
+the prices that's going to to drop and
+and i think so many big players out
+there so
+and like you said that it was very big
+hype and
+some small companies were closed because
+it's it's difficult to
+drive some air right but the big big
+companies are still there and i think
+it's going to happen
+maybe not as soon as they thought but
+it's going to happen
+so so now it's the part that i'm that
+i'm most excited about
+where are we heading so let's talk let's
+say 10 years down the line or 20 years
+down the line
+what what do you envision our world
+will look like with augmented reality as
+part of our society
+in in a modest expectation given the
+technology that you're expecting to grow
+how do you envision humanity operating
+or at least places like you know tel
+aviv silicon valley new york
+okay so maybe we have to so separate
+between what i want and
+maybe what i think that's going to
+happen because i want to hear that i
+like
+yes i like the technology first of all i
+made a duality like i said
+before from that technology side for my
+as a developer for because
+yeah but but not but i'm not sure that
+as a user i really like it
+so i i i because if if i just
+try to imagine all these creepy
+situations i'm not sure so i'm not sure
+i really like to
+have it in the future it's also scary
+for me uh
+but but um but but if we
+just mention this a corona thing so we
+uh you know
+sometimes you far from the former family
+being able to
+uh so that's the good thing so i don't
+so that's the thing that i really think
+that
+are beneficial so you want to have now
+everything is virtual we are in zoom
+right now but i want to make a meeting
+with you and we want to discuss
+something right here is on the table
+and with the air glasses we can discuss
+it
+again there's this it's already possible
+with some
+uh with more advanced uh headsets that
+are more too expensive like i mentioned
+earlier but
+now you can already look at the same
+object and and
+look at that around it so i think for
+for for high-tech for many other for
+professional
+use there's a lot of things that you can
+share and and
+and and be able to to gain a lot of and
+save like
+like zoom you don't have to meet to do
+it you can do it from home
+and like you also mentioned for the for
+the elderly people
+and maybe they cannot treat they cannot
+treat it's too small but
+now you can assume that you do that in
+the ui
+um simple enough and intuitive enough
+that's
+that's also a challenge because you know
+we know whether it was computer we
+use the mouse and the keyboard we're
+already used to it but with augmented
+duality
+how to use so there's a lot of
+challenges there that your ipad so you
+know the
+technology they have to head track and
+hand tracking and head tracking
+eyes checking none of this that was very
+useful so
+or not it works but it's not so
+something if you want to change you do
+something like that to change the screen
+or or do something like that or some
+science that are not very intuitive uh
+if we solve that
+so if i i just mentioned that because we
+think about old
+old people so how if you make it
+intuitive enough
+and maybe hopefully we'll find a way to
+interact with that
+so family that want to meet each other
+and
+know together with the holograms or
+things like that you can really feel
+like
+so every time you use augmented reality
+even more
+virtual reality sometimes i use it and
+then when i when i'm done
+i just take my glass off and oh whoa i'm
+i'm
+i mean you i'm i'm back to real life so
+i'm back to the boring world yeah
+it's so easy to forget about your
+environment when you're especially with
+virtual reality and that's something
+that's i think that's
+if we find again like some applications
+that something that can do a lot of good
+so
+no i'm i'm a i'm terribly excited about
+the about the prospect of being able to
+talk with my with my grandparents
+uh from afar due to covet i can't miss i
+can't go inside their house and visit
+them
+and and it kills me inside that that and
+i'm saying like why do we
+why do i need to use you know video
+conferencing on shabbat dinner
+to to to wish them shabbat shalom i want
+to be able to be in the same room with
+them because
+it's because it feels to me that you
+know we all we're almost there and
+and it's so relevant today and it's
+going to continue being so relevant
+moving forward and so i'm i'm incredibly
+excited about this technology
+are you and one more thing it's about
+the haptic there's a haptic as a
+hepatic feedback that's something that's
+is still missing and that's more
+expensive
+that's so that's part that is a bit
+behind
+because you also want to touch you want
+to hug your grandparents so if you could
+hack them or something feel that and
+there there's some
+some controllers that just vibrate a bit
+but it's not much
+more than that and the better ones are
+very expensive than right
+that's something that has to maybe thin
+like you might ask him for 10 20 minutes
+i
+i use i hope that this one will
+get much much better because that will
+make a lot of difference
+all right i just read an interesting
+review of the new playstation
+game console which the playstation 5
+introduces haptic
+feedback through the remote controllers
+so that you're more
+immersed into the game and one of the
+things that they said and i read a few
+of the gamers
+gamers designers um decision making
+process they said that they
+intentionally
+minimized the use of this new feature
+because they were afraid that humans
+will not be receptive to it yet
+it'll be too much for them so i'm
+especially curious given what we
+talked here about how we as humanity are
+going to accept this new reality
+and just like you mentioned that you
+take off those glasses and you're back
+into the
+the the boring world or the default
+world whatever every person will
+experience it differently
+i think that's fascinating the time i
+want to really thank you for for being
+so generous with your time
+i wanted to talk about j ventures and
+and and some of the work that we do
+there but we don't have time for that
+but i'd love to
+uh get from you three words that you
+would use to describe yourself
+so one is maybe active so i always
+prefer to do something than not to doing
+something so whenever
+even when i walk wake up in the morning
+i want to go
+jogging or not then i i'm tired i'm not
+going to talk today and but i remember
+that whenever i'm doing something
+when i do something i never regret so
+even if i'm alright
+it's it's i'm more i regret more times
+about things i didn't do than
+about something that i want to do so
+whenever i have to think about should i
+do it or not it's up
+my approach is yes do it even if i like
+like a startup
+just do it i love it um that's that's
+one thing
+and the other thing is just no i think
+i'm very calm so
+it's very difficult for me to to someone
+to make me
+angry or i'm
+i have my it's very my very very
+difficult to make me mad maybe that's
+why i'm not i don't have
+so much startups because i i like i'm
+i'm
+i'm calm you seem very fulfilled and
+calm
+and i'm taking a lot of inspiration from
+that from that first
+uh that first word being active and not
+regretting
+even when you're even when your
+intuition says maybe this isn't right
+but then you rationalize and say well
+i'm more often than not i don't regret
+i'm enjoying the experience
+and so i think that's really wonderful
+wonderful thank you very very much
+thank you for being on the show thank
+you for being so generous with your time
+and i'll see you around the j ventures
+meetings
+yeah see you bye-bye
+you

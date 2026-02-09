@@ -1,0 +1,658 @@
+the private sector will have to take it
+to the next level
+and we identified it back in 2016 uh and
+said this is the opportunity we can be
+to some degree that spacex of weather uh
+and thankfully today thanks to cloud
+computing with hpc specifically you can
+run models on the cloud
+thanks to the fact that
+the scientific community is more
+familiar with modeling you can create
+your own models
+and thanks to space technologies you can
+create sensors like what we're doing
+we're doing basically all of it
+and you can really push the envelope on
+the science and that's that's what we're
+doing
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel and in media
+partnership with ctek
+welcome to 20 minute leaders and today
+we're going to be talking about tomorrow
+welcome shimon alkabetz the ceo of
+tomorrow.io
+shimon served in the israeli air force
+for 11 years in several managerial and
+commanding positions multiple near-death
+weather related experiences during his
+service stoked a fascination with the
+weather that little things that affect
+us all
+he's also passionate about soccer and
+can recall any statistic whether you ask
+him to or not
+ximen holds a ba in economics from ben
+gurion university and an mba from
+harvard business school
+shimon alcabetz welcome to 20 minute
+leaders how are you
+i'm good thank you for having me
+thank you very very much for letting me
+host you on the show i am so excited
+about what you're working on with
+tomorrow io
+literally you know helping us understand
+our world better how it's impacting
+businesses and and talking about weather
+altogether through deep technology i
+think it's it's just a fascinating lens
+and so i'd love to dive deep into how
+how you
+you know got into this domain and how
+you've figured the integration of
+technology with with our world but i'd
+also love to hear a little bit about
+yourself so tell me a little bit about
+your own journey and following into
+tomorrow io
+great uh so obviously uh i grew up in
+israel uh in amoshav
+in the galil
+family of farmers uh i went to the
+israeli air force and spent about 11
+years
+i had the military career mostly the
+commander and strategic planner
+and
+at some point when i decided
+to pursue a different career it was very
+clear to me that
+the tech industry and specifically
+startups it's well is what i'm excited
+about
+um i was trying to kind of like um
+think about the biggest challenges i
+encountered and there were many many of
+them during during my service um i went
+to harvard business school right after
+uh i left the military
+um and reunited with good friends ray
+gopher taizlotnik
+over there in boston
+and um we all shared very unique uh
+experience related
+to weather
+it was a very personal experience about
+how weather was challenging us on a
+daily basis during our military service
+from a tactical level to operational
+management level and even a strategic
+level that we had an understanding
+how it really impacts every aspect of
+the operations
+what we did over there in boston is we
+spent many months uh learning the
+industry learning the the landscape the
+technology how it works why the
+solutions that we had in place in a
+relatively mild weather country such as
+israel uh wasn't sufficient enough and
+we learned about
+you know the status quo and we were
+amazed we learned that there is a
+significant
+technology
+impact and business opportunity
+and that's how we start we decided to to
+start a company
+at the beginning was very focused on a
+specific technique
+uh all along the way we knew that the
+the big
+mission is that we can create a huge
+impact in times of climate change and
+build a technology powerhouse that will
+help the world drive more accurate
+weather forecast and better decision
+making and over the years we evolved our
+technology stack and product
+to where we are today so that's how i
+got to
+uh doing what i'm doing today
+so talking a little bit more critically
+about weather
+why is why is it so important for us to
+understand whether on a scale not just
+for for farmers or on a military basis
+but but why is it something that may be
+relevant for things that are not so
+trivial if you could give me some
+examples
+for sure first of all we need to
+understand that uh climate change is
+here
+and the impact of climate change is that
+weather events are going to be more
+extreme
+and more
+frequent
+it's already happening
+i don't know if in the past you know
+israel had so many disasters related to
+floods like what happened in tel aviv a
+year and a half ago what happened in the
+south
+uh with the class of students uh two and
+a half years ago
+these are things we didn't see in our
+own country so now take this very small
+example and look at the global scale a
+couple of weeks ago we had
+phenomenal and unbelievable uh
+flood events in germany than in the uk
+in china and india
+and uh basically what we're saying is
+that the majority of the businesses and
+every country is going to have to deal
+with the impact of climate change
+and um
+we're saying that you know we're not
+trying to prevent climate change from
+happening it's it's it's a different
+scope of problem to solve but what we're
+saying is that we're already in the era
+of consequences right and every business
+from restaurants here in boston that
+cannot serve customers outdoor if it's a
+rainy weekend
+uh to insurance companies that have much
+bigger payouts
+uh to on demand companies that see
+spikes in demand
+because of the weather and people sit
+more at home instead of going to do
+deliveries to autonomous vehicles and
+and drones
+that need to reroute based on local
+weather conditions it's impacting almost
+everything um
+and now that you understand that it's
+impacting so many things you need to
+understand that you have to put systems
+in place
+why because without systems in place you
+cannot manage that challenge proactively
+and the systems in place the way we call
+it is
+weather intelligence it's more accurate
+in hyper local weather forecast but also
+software automation insights to help you
+make the decision in the right time and
+if you can automate the decision process
+and not not not have a manual process
+um
+so it's really endless in terms of the
+customers we're targeting it's so many
+verticals one of the challenges we have
+as a company is that there are too many
+domains from transportation aviation
+shipping
+rails to utilities and renewables to
+insurance companies on demand sports and
+outdoor
+more than we can go after i would say
+now obviously you know we've been
+getting weather forecasts for dozens of
+years you know uh whether it's a local
+through the local news stations or
+whether it's through obviously online
+you know what's what's wrong with what's
+been happening until now it because it's
+it gives the impression of being very
+local when in every city we have our own
+local weather man or weather woman
+yeah so uh i don't know how many people
+are aware of the fact that to generate a
+weather forecast
+you need to observe weather with weather
+stations radars and such then you need a
+model
+where into which you assimilate the
+observations and then you need the
+powerful computing
+to basically process the model the
+output of the model is a weather
+forecast
+all of that value chain
+is done traditionally by governmental
+agencies namely noaa
+in the us ism wf in europe the met
+office in the uk these are you know noaa
+is
+not far away from the size of nasa this
+is a significant investment in
+infrastructure
+how many technology domains do you know
+that are still led end-to-end by
+governmental agencies
+even in in space nasa has started to
+outsource a lot of its work to spacex
+and other companies
+and that has to happen the innovation
+is very much limited a lot was done
+don't get me wrong the countries those
+countries the europe and and
+and the us have done a lot to promote
+science
+but
+like in every domain we're seeing the
+private sector will have to take it to
+the next level
+and
+we identified it back in 2016
+and said this is the opportunity we can
+be to some degree that spacex of weather
+and thankfully today thanks to cloud
+computing with hpc specifically you can
+run models on the cloud
+thanks to the fact that uh the
+scientific community is more familiar
+with modeling you can create your own
+models and thanks to space technologies
+you can create sensors like what we're
+doing we're doing basically all of it uh
+and you can really push the envelope on
+the science and that's that's what we're
+doing
+um
+as a company and why wasn't it uh
+good i would i wouldn't say it's not
+good
+it has done a long way since the
+beginning but the problem is that
+even a country like israel
+doesn't have reliable radar to
+understand what's happening in real time
+the forecast we're using in israel is
+actually the european global model
+israel is not running its own model
+that is local to israel now we have a
+pretty mild weather but in the winter it
+becomes more challenging so right most
+of the world doesn't have reliable
+real-time information and forecast and
+that's a big challenge that we're going
+after
+now did you know you know while you were
+doing hbs and you were going around you
+know your own career did you know that
+you're going to end up dealing tackling
+the weather
+weather forecasting issues or is this
+something that you came across as part
+of an ideation process with your
+co-founders
+so um i was very familiar with the
+problem and it's something that you know
+throughout my military service you know
+was very challenging
+i will lie if i say that during my
+service i said i'm going to solve that
+problem i had no idea how to solve this
+problem but when we met in boston and we
+shared stories about it and started
+doing the research and identifying some
+technologies we can start as a hook with
+i was amazed that
+in this situation the government still
+created technology and the industry
+is basically repackaging the
+governmental forecast nobody really
+pushed the envelope yes there are big
+brands
+we all use them in the apps and in our
+phones and such
+but they never really created a unique
+technology of of unique sensors and
+unique models they just repackage the
+outputs of the governmental forecast and
+when i saw that
+and when i uh together with my my
+friends when we learned
+about the impact of climate change and
+what it's going to do the collision of
+the two
+was
+something has to be done something has
+to be done so we can have more accurate
+weather forecast in the world we can
+bridge that gap of lack of coverage in
+many many countries
+and and we can create a software
+solution to manage those challenges and
+we're doing both
+so what are some non-trivial questions
+that you're observing your customers
+asking
+you know more tangibly
+things that they perhaps weren't able to
+ask before to the traditional weather
+forecasting mechanisms what what
+questions are they now now able to ask
+using your new technology
+so um the most basic uh change in
+innovation that that we did is that
+if until today uh our customers had to
+uh have no solution just use apps or or
+the watch the weather channel
+or in the best case use a meteorology
+support via the phone
+or stationing a meteorologist on the
+customer location and asking hey well
+what will be the weather
+today
+our customers let's look at the example
+of the nfl
+they get
+business insights they get a calendar
+view that tells them hey in this stadium
+and that game that's what you need to do
+the game will be pushed you should
+cancel this game
+the fans will experience the following
+right or whatnot a city will get hey
+flood events is going to happen in this
+place you should open the sewage and
+that's what you should do so we're
+translating road data
+to insights via software and we automate
+that so you can even use data feed and
+api to your own systems you don't need
+even a man in the loop
+if if you want to go that far some
+customers do that
+um and it's uh
+it's it's a significant change so
+for them it's like okay until today i
+used to consume raw weather data or talk
+to someone
+now
+everybody in my organization is
+empowered to make decisions and they see
+what's going to be the impact
+right now walk me through you know from
+a founder's perspective you know you're
+building this technology and now you're
+looking for some use cases of of
+companies that may be interested of in
+leveraging this data what is the
+reception like right right from the
+beginning when before you're well known
+before before you've proven yourself
+time and time again
+what is the process that you have to go
+through look like
+look at the beginning
+people were very skeptic
+first let's think about investors
+yeah there's no way we could start this
+company
+in ecosystem that is not the us
+in israel we would never even get a seed
+round
+for for for the type of mission and idea
+and we tried
+uh
+we just we wouldn't have any chance you
+know now we raised 200 million dollars
+because
+i think there's more appetite to solving
+big real life problems
+in the u.s and specifically in the
+silicon valley
+with customers some of them were skeptic
+i remember our first customer jetblue
+we were meeting them and they said
+listen let's do a pilot but we don't
+believe you can actually help us but go
+start in boston logan
+if you solve this problem and you help
+us be more efficient and safer
+in this airport
+it it goes a long way for us
+and you know today we're serving all of
+the jetblue airports in the world
+uh we're doing the same thing with delta
+incredible
+um and at the beginning people were
+skeptic can you really push the envelope
+on whether no but everybody's saying the
+same thing everybody is wrong
+but
+when you when you teach people to use
+insights and to automate it and not to
+rely on apps and non-professional data
+and understand that if they put systems
+in place
+and they trust a partner like us to give
+them data they can rely on an insight
+they can act on
+then
+even if you don't change accuracy by a
+lot
+you create a significant business roi so
+the challenge for us is to focus the
+customer
+on the business decision process on on
+the roi they generate and not on is it
+more accurate or less accurate
+because this is just an input to the
+decision you need to make eventually
+100 now what what is really the the leap
+or the differentiator here that you've
+brought with you to tomorrow io that
+that is really the differentiator that
+pretty much no other agency in the world
+was able to accomplish
+with the dozens of years ahead of you
+so then don't get me wrong everything
+we're doing as a stand-alone can be done
+like it's not let's i'm not interesting
+myself and saying hey we did something
+nobody else can it's a matter of
+choosing a strategy and going after it
+and the strategy we took was to build a
+vertically
+integrated business model and the
+vertical integrated business model is
+comprised of three or four elements one
+is sensing
+observing the weather in a way that
+wasn't done until today
+and in that context we are launching our
+own satellites we're going to cover the
+world with active radars to sense
+weather
+why the government didn't do it
+because low orbit and small satellites
+technology wasn't available and the
+government cycle of planning is very
+slow
+in the next decade the government will
+still launch major satellites each of
+them cost three billion dollars our
+entire constellation that covers every
+point on earth will cost about 100
+million dollars so that's one thing
+the second thing is modeling
+the government is not supposed to solve
+business problem specifically the u.s
+agency noaa is incentivized to solve the
+taxpayer problems and save save people's
+lives so they run
+a local model in high resolution and a
+global model
+with relatively low resolution
+the fact that we run our own models on
+on the cloud enables us to fine-tune the
+resolution and choose
+whatever a parameter to focus on so if
+we work with aeromexico for example in
+mexico and they tell us they have a lot
+of diversions because fog in the air in
+the airport we say okay we will find you
+in the model to solve the fog problem
+for you
+so we can
+customize and configure the modeling
+capability
+and then the the third and fourth
+elements are the software instead of
+using the people support and and and
+you know apps and and things like that
+we're saying listen we built microsoft
+excel for weather
+a template for every job every vertical
+you can have your own tabs you can build
+your own dashboard that will tell you
+what to do instead of looking at the
+weather data
+and it will provide you the business
+insights now when you look at this
+end-to-end approach
+more accurate sensing with global
+coverage
+models that solve the problem
+with hyper local capability
+and software solution that provides
+business insights this is very powerful
+and i think it's very hard to replicate
+that entire approach it takes a lot of
+time a lot of knowledge a great team and
+and a lot of money to be honest
+and and it sounds like at the end you're
+you're it's all about also shifting the
+strategy and and helping helping create
+a new narrative for what questions
+should be asked and what questions are
+relevant for for the different business
+cases and helping them not just
+you know leverage the existing the
+existing information that we have for
+existing questions about leveraging
+similar information
+in a different way to consume it in a
+different strategy and i think that
+that's that that's really an interesting
+approach that you've taken and i really
+appreciate you coming and sharing your
+time and sharing it with me but but
+shimon and i would really love to take a
+step back and go back to your your
+childhood a little bit and and hear a
+little bit about what really fascinated
+you
+growing up what really sparked your
+curiosity you know before the army
+before hbs before tomorrow io
+so i remember growing up and being very
+passionate about
+starting my own business since i
+remember myself and i remember i have
+also big passion for graphic design i'm
+a terrible graphic designer but you know
+i was using photoshop since i was
+11 and it's very uncommon for uh someone
+who grew up in a moshav in a village uh
+and i just remember myself you know
+creating logos and imagining business
+stuff and and
+then you know i embarked on my military
+career and completely forgot it but
+eventually as a child it was something i
+was always passionate about building
+something that creates value for people
+and gladly amazing uh i'm very proud of
+the mission of the company and that's
+what keeps me up uh and motivated i love
+it and what what inspires you today so
+it would tangly within this mission what
+really is your source of inspiration as
+you you know wake up every day work so
+hard continue to to lead this company
+forward
+um
+honestly uh
+three things
+one is the employees
+i really want every employee that joins
+our company and is part of the the
+mission to have a good experience and a
+good outcome
+i'm not talking about financial outcome
+but really progressing the career and i
+work really hard mostly because of the
+employees um
+the second thing is the customers and
+the impact of what the company is doing
+it would have been very hard for me to
+work in a company that is doing what i
+call p2p privilege to privilege solution
+solutions
+uh i think what we're doing about
+improving climate security for the world
+helping countries have better weather
+forecasts helping
+federal agencies like the us air force
+make better decisions helping uh you
+know delta fly safer this is important
+this is about helping farmers in india
+uh these are the things we're doing and
+that
+that is very much motivating and the
+last thing i'll say is the investors um
+you know they believed in the mission
+they begged us when climate change
+wasn't a big thing and whether
+technology seemed like you know
+something for crazy
+uh folks to think of and and i wanted to
+be a good outcome for them as well
+perfect wonderful and what are three
+words that you would that you would use
+to describe yourself
+um
+it's very hard but i think uh execution
+very detailed around around that
+um
+i would say also uh um mission because
+that's really what's what's driving me
+and my my motivation
+and three sports i'm a huge sports
+sports geek and and if you wanna
+become my friend just talk to me about
+soccer and we'll find a way
+unless you're in the wrong side then
+exactly then it's a quick way to become
+an enemy shimon thank you very very much
+this is wonderful best of luck with
+tomorrow thank you for all the great
+work that you're doing i just love this
+integration of technology and our planet
+in the world
+and helping businesses make better
+decisions and stay safe and stay healthy
+[Music]
+you

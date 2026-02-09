@@ -1,0 +1,431 @@
+There is this technical excitement of
+how to really solve such a big
+challenging issue. But there is much
+more to it than purely a technical
+solution. Because once you build a a
+relatively uh effective detector, then
+you need to integrate it in a kind of uh
+enduser tool because we collaborate a
+lot with journalists and other kinds of
+professionals who want to use these
+tools. And uh there you face numerous
+other challenges. For instance, how to
+really explain the limitations of the
+model. Uh how to uh help them translate
+what you know an 80% detection score
+means. Uh and when to be cautious about
+uh the results. So things like that. Um
+that's a a very intriguing uh uh kind of
+uh collaboration we have with such
+people.
+[Music]
+Akis Papadopoulos, welcome to the human
+zero day. Super happy to have you here
+with me with us. Thank you so much.
+&gt;&gt; Thank you Michael. I'm happy to be here.
+You know, Akish, we've been talking in
+the series about human vulnerabilities
+and human zero days and um the way in
+which technology and society is
+developing these tools to both protect
+and attack the human mind and exploit
+human irrationality perhaps or human
+decision-m to to enforce some actions.
+Um, and much of it has been around deep
+fakes. H, and I'm really, really excited
+to get your take on the space. You've
+been in the world of the intersection of
+technology, synthetic media, AI for
+quite some time. Uh, really at the at
+the edge of it from from quite some time
+ago. I believe I saw from um 2020 a a
+slide point a shareepoint of a of a
+presentation where you were walking
+through the emergence of deep fakes and
+and the rise of them both in terms of
+the you know the the where they are in
+the world as well as how they evolve and
+technologically. So, a lot for us to
+unpack together and tell me a little bit
+about yourself and how you even got into
+this space of synthetic media.
+&gt;&gt; Thank you. You summed it up very well.
+It indeed it's uh a few years uh since
+uh I've been involved in relevant
+research uh on the topic.
+Actually the story goes a bit uh um
+back um we had a collaborative research
+project uh uh in in Europe with uh
+several partners uh including for
+instance Deutsche and BBC and um at that
+time um
+we
+recognized that a big opportunity is uh
+the application of uh automated means
+for extracting you know uh trending
+topics uh and uh monitoring uh
+conversations in social media. We're
+talking now about back in 2016 17 but at
+the same time uh we saw what happened
+with the US uh elections and the rise of
+disinformation.
+So uh this uh started becoming like a
+very clear risk back then. So uh uh
+digital disinformation and also uh
+augmented with the capabilities of
+digital platforms. a couple of years
+later this uh uh rapid development of uh
+uh generative models. Back at that time
+the main technology was generative
+adversarial networks which first appear
+already in 2014 but uh as of 201617
+we started seeing a very high potential
+for uh uh realistic images. Uh so you
+you may recall a website called this
+person does not exist. This was among
+the first to uh provide uh access to to
+such models. And uh quickly we saw that
+for instance adversaries uh created uh
+fake avatars and fake accounts using
+such images.
+And uh this led to the realization that
+uh uh this might be a quite uh quite
+important problem. The rest is I think
+history. You you um we've all seen the
+really rapid developments in generative
+AI over the last couple of years. And um
+what I think makes this uh uh extremely
+interesting is this uh um
+kind of arms race between uh
+new highly realistic synthetic media and
+at the same time new methods for
+detection uh to to catch up uh with new
+developments.
+&gt;&gt; Yeah. So tell me about a little bit
+about this arms race. Um because also in
+the in the presentation that I that I
+found, you're talking about these
+different detectors like um motion
+detectors and eyelinking detectors and
+and facial artifacts. What are the
+different ways in which we've been using
+different artifact finding in order to
+detect deep fakes? What's been more or
+less effective? And and where are we
+today?
+&gt;&gt; Yes. Erh well first of all there is a
+quite a general category of methods uh
+that um uh come from a more traditional
+uh forensics uh research um where they
+try to identify
+um inconsistencies in the in the visual
+content. So things that don't match the
+the natural uh uh objects or uh subjects
+of that are depicted in in image or
+video. And this includes things like uh
+biometric uh features like eye blinking
+uh um like um the position and direction
+of different facial landmarks.
+H there is also a category of methods
+called photoiththesismography.
+It's a kind of complicated term which
+tries to estimate essentially
+the pulse uh of of the subject by visual
+analysis of of how the lighting changes
+the reflection of lighting. So this
+requires quite high quality uh video or
+image in order to be uh possible. Same
+also for the reflections uh um cor from
+the um uh corneal uh part of the eye and
+these all um uh assume that you have a a
+relatively high resolution uh video to
+work with. uh if if if you can um uh
+find such uh version of a video then
+they are pretty powerful and also pretty
+as we say explainable because you can
+really see what's the problem but more
+often than not uh in uh in the internet
+you cannot really uh find a high quality
+version most of the times you see a very
+highly compressed uh video or low
+quality video and that's where
+&gt;&gt; and why is that by the way why is
+The primary reason is that uh first of
+all platforms themselves apply some
+standard compression when something is
+uploaded.
+There are very few platforms uh that
+typically are used by professionals but
+the mainstream platforms typically
+compress in some standard quality. Erh
+but there is also uh a tendency for
+people you know to download and
+re-upload and in that process you know
+they might use some uh tools and either
+on purpose or without uh knowing they uh
+really degrade a lot of the quality of
+the video and also uh through that
+process they remove the traces that uh
+could help us a lot in detecting uh
+video as manipulated or as synthetic.
+So that's one of the primary practical
+challenges
+and um this brings us to a second very
+big category of methods that are very
+popular the more uh deep learning based
+methods. So there the idea is that you
+give a lot of examples of uh uh
+synthetic or manipulated images or
+videos and also uh actual authentic
+videos and you try to train models that
+can separate uh between the two. This is
+uh supposedly a bit better because it
+can handle uh uh such uh degradations uh
+to an extent of course uh through what
+we call uh augumentation during
+training. So you might give an original
+fake video. When I say original, I mean
+in its original uh high quality or high
+resolution, but you can also
+artificially generate multiple versions
+of this that are of lower quality. This
+is what we call augumentation. So if you
+provide the model with this, then it
+learns to detect also the lower quality
+versions. Um but we see that uh these
+kind of methods are also uh sensitive
+um because you know there are new
+generative models uh that uh come out
+every day and uh not only that but there
+are also other kinds of transformations
+that uh when you train the model you
+weren't aware of so that's why we are in
+a kind of cat and mouse situation.
+&gt;&gt; I love it. So, so Akish, this this is so
+helpful to to get a picture of, you
+know, where we're at and a little bit
+about the ways in which deep fakes are
+emerging and then the ways in which we
+can tackle the the the detection
+process. So, so today you're a principal
+researcher with Cir and part of that
+you're you're leading the Mever group.
+Is that how you say it right? Mever.
+&gt;&gt; Mever. Mever. Whatever you prefer.
+Um, and so you're leading many engineers
+and researchers at this intersection of
+AI, synthetic media, bias,
+misinformation, etc. You've you're so
+you're really living at the edge of
+what's happening today. So give me give
+me a a you know, a bit of your
+perspective of where we're at today, you
+know, December 2024 with the state of
+deep fakes. you know what what are we
+seeing in terms of quality both in terms
+of the detection and the generation.
+&gt;&gt; First of all in terms of generation
+uh we are at a point where uh you know
+the level of quality and the realism
+is uh extremely high. Uh, of course when
+you see a lot of uh if we're talking
+about fully synthetic media uh like uh
+the kind in images like mid journey uh
+and uh Deli3 uh provide
+you can often get a kind of plastic or
+synthetic feeling when you look at it.
+So it's still a bit uh visible in some
+cases.
+uh although that could be said also for
+some kind of artistic photography that
+is authentic. So um there are certain uh
+boundaries that are very blurry for
+human uh inspectors and investigators. I
+guess very experienced people can still
+tell the difference but I think the
+majority of uh of citizens are not uh
+very well equipped to tell the
+differences in terms of video. Uh again
+we see really spectacular video um from
+services like uh Sora and Clink and uh
+there are uh many uh contenders runway
+and uh many other services on the market
+and many also open- source uh uh models
+that you know uh everyone can download
+you know some of them are quite
+demanding uh in terms of GPU power but
+still they are pretty accessible
+especially for people with some
+resources.
+&gt;&gt; And can you touch on a little bit the
+the pace of evolution of the deep fake
+generation because you know we've seen a
+lot of the these open-source models
+emerge like deepace lab and deepface
+live and and and those are at this point
+a few years old. I'm curious if you're
+saying that these these are evolving at
+the pace which we expected. Is it
+faster? Is it slower?
+&gt;&gt; In general uh uh the you know these very
+well-known tools like deep face lab they
+still evolve.
+So in terms of uh tooling uh yes we do
+see a lot of uh progress. There is a
+tremendous growth in terms of
+open-source models, gener generative
+models, especially text to image, but
+now we are also seeing text to video uh
+models. And uh these advances are picked
+up by very uh big providers of services
+like uh Adobe, like uh open AI and
+others. And uh uh they are again uh made
+available to to the general public in
+very easy to use tools that also offer a
+very good control nowadays because one
+of the limitations a few years back was
+that the process was a bit random. You
+couldn't really generate what you wanted
+to. But nowadays you have very fine
+control over the generative process and
+also editing uh tools. Uh so you can
+really uh create what you conceive and
+um uh this uh of course uh uh makes the
+risk of you know creating harmful
+content much higher
+course. So I I think the the pace of
+development at least in the last couple
+of years has been higher than I expected
+personally. It it was also very hard to
+keep up with the latest developments. Uh
+so yes it's it's in a way a bit
+alarming.
+&gt;&gt; Absolutely. And and let's talk a little
+bit about then the detection side. So
+how what what are you seeing in terms of
+the detection? are how good are we today
+as a society as an ecosystem in
+detecting deep fakes today? Erh I think
+it's we are striving uh it's definitely
+far from being solved uh even by
+bringing the best uh technology in
+place. Uh we have realized I think over
+the last couple of years that uh you
+know constantly training new models to
+catch up with the latest developments is
+probably not a kind of silver bullet. we
+were hoping for. So it's uh uh of course
+it is one effective strategy and it's
+something that we really need to to be
+doing
+but at the same time I think there are
+other promising uh uh ways of of trying
+to solve the problem. One of these that
+some people have already presented in uh
+conferences in the area is instead of
+trying to detect fakes to try to verify
+that something is authentic. So the
+reverse problem
+but this is equally challenging uh
+because you know uh there is a really in
+terms of machine learning when you try
+to learn a very specific class it's much
+easier when you compared to when you try
+to learn everything else. Uh so we are
+in the situation where you know trying
+to learn what is real is is a bit of a
+challenge. There is also some help in
+this by the uh foundational models or
+multimodel foundational models like uh
+for instance uh clip uh by open AI and
+uh other uh related uh uh big models
+that essentially have been pre-trained
+on essentially the whole uh
+web of images and videos. And because
+they have been trained on such a large
+uh um volume of media, they can encode
+the characteristics of what is a typical
+uh uh what is a typical uh uh media
+assuming that the majority of this media
+is not synthetically generated. So uh if
+if we pre-train them today uh uh on the
+whole web, I suspect that we have a very
+uh mixed uh um uh input of synthetic and
+real real media.
+&gt;&gt; Absolutely. And so I'm I'm hearing you
+talk about the arms race and the the
+fact that we realize that there's no
+silver bullet, but at the same time
+there are varying effective strategies
+that need to be used together and and it
+also sounds like the space is quickly
+evolving. So you're almost talking about
+it like we're in the beginning of it and
+uh not uh you know a lot of people are
+are are looking around and are saying
+okay you know where's this heading and
+what's going to happen and and in both
+the generation the detection and what it
+sounds to me listening to you is saying
+well you know it's it's evolving it's
+it's evolving and we're learning and and
+both on on every front. Um, you know,
+tell me in in a couple words, what do
+you get most excited by in in your line
+of work with SR and uh with me?
+&gt;&gt; You mean in this area or in general?
+&gt;&gt; Well, but either in this area or in
+general? Well, in this area, I think uh
+of course there is this technical
+excitement of how to really solve such a
+big challenging issue. But there is much
+more to it than purely a technical
+solution because once you build a a
+relatively effective detector then you
+need to integrate it in a kind of uh end
+user tool because we collaborate a lot
+with journalists and other kinds of
+professionals who want to use these
+tools and there you face numerous other
+challenges. for instance, how to really
+explain the limitations of the model. Uh
+how to uh help them translate what you
+know an 80% detection score means. Uh
+and when to be cautious about uh the
+results. So things like that. Um
+&gt;&gt; that's a a very intriguing uh uh kind of
+uh collaboration we have with such
+people. And uh of course uh there are
+also uh other uh other other challenges
+because you ultimately want to also help
+citizens be able to to detect uh or at
+least uh be protected by such uh risks
+and there I think we are still in a very
+preliminary
+uh stage. So, a lot of interesting stuff
+ahead,
+&gt;&gt; a lot of interesting stuff. And I think
+that we can certainly expect looking
+forward how
+almost every digital interaction we will
+have will include some form of new user
+interface or user experience that will
+help us engage with this question of am
+I looking at something that's authentic
+synthetic real fake you know there's so
+many terminologies to be used but but
+you know when it when it comes down to
+it it's really about do we have the
+tools as a societ society to be able to
+engage digitally either with information
+online or with the information we get in
+our business sense like a real-time
+communication like what we're doing now
+that we can trust it to be authentic. So
+ak with that I I want to thank you and
+sharing
+continue doing amazing work. I'm going
+to continue following from the side and
+thank you for an awesome conversation.
+&gt;&gt; Thank you as well. I was uh very glad to
+be a doctor with you.

@@ -1,0 +1,651 @@
+you know the the biggest thing in cyber
+security uh or the next big thing in
+cyber security back then
+was uh if you think about the war the
+digital aspect of the world right
+everything is connected and if you look
+at uh there is an interesting result
+that shows that
+83 of the internet traffic
+is api traffic welcome to 20 minute
+leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by jventures a
+community driven vc funded in silicon
+valley
+in partnership with lomi tech and
+sponsored by hippo insurance
+touring opposed labs and hillel hello
+stanford i hope you're ready for an
+awesome entrepreneurial story because
+this one is just not going to disappoint
+meet ruil yahoo co-founder and ceo at
+salt security
+rey is a former elite cyber security
+unit veteran that led development of
+high-end security systems
+to protect the largest network in israel
+of the idf
+and the government he went to lead
+development of security system projects
+at
+saigo digital systems a military-grade
+security systems company
+acquired by mellanox after cycle digital
+systems
+roy founded the cyber security college
+that trains the next generation of
+leaders and prepares them for serving
+the idf's elite security units
+welcome to 20 minute leaders how are you
+i'm doing great how about yourself i'm
+i'm doing fine as well thank you where
+are you calling from right now
+so right now i'm in actually in tel aviv
+typically i'm in palo alto but because
+of kobe du riley reasons i'm currently
+in tel aviv
+well it's a it's a great it's beautiful
+weather outside where just the sun is
+going to be setting
+while we speak and so we might not be
+too far away from each other
+and we're going to talk about you know
+this crazy journey that you're on
+uh as a sick as a cyber security
+engineer
+in the idf understanding that there's a
+gap in the market
+making an interesting trip to silicon
+valley and
+making it a with some of the most
+incredible investors
+and some of the most incredible
+accelerators like white combinator up to
+today and i'm really excited to hear you
+about your journey but i'm also excited
+to hear about the cyber security
+space in general and how you perceive it
+and what your specific thesis is
+around this industry so take me back to
+your army days well what gets you
+excited about cyber specifically why
+cyber
+yeah so i don't think cyber was really
+uh
+a choice i'll do say that i i started
+programming
+when i was very young i started
+programming when i was nine
+and i started to do a lot of freelance
+work and all of things like that in the
+age of 11 12
+throughout my high school years and i
+and i did a lot of things also in cyber
+obviously it wasn't really advanced
+stuff back then but right hacking stuff
+building stuff website monetization
+right a lot of like
+an entrepreneurship uh activity i didn't
+know it's like entrepreneurship right
+but
+like kind of building websites trying to
+monetize them right doing a lot of
+activities
+and one of the experiences i think in
+cyber that one day
+um what happened is that
+uh i don't remember exactly the
+situation but i was talking
+online some chat or something when i was
+like 14 or 13
+and uh someone said to me
+hey uh you know i can control your
+computer or something like that and you
+suddenly
+open the disk uh tray
+and i was like whoa like where is this
+uh coming from
+and realizing that the game that was
+sent to me you know
+uh a few days back uh was
+like an actual trojan horse and and all
+that and kind of started to explode that
+and it was
+it kind of fascinated me how how with
+the power of
+of cyber security you know of cyber
+attacks
+so it got me very interested in uh
+naturally you know
+um in the army uh
+you know the the elite technology units
+definitely
+you know where we will we our excel is
+cyber right so
+i got accepted to one of the best uh
+sound security units and there
+you know i i fell in love in south korea
+even more
+wow and so you're you're spending your
+time in the idf you're
+becoming more and more acquainted with
+the space walk me through the end what
+happens in the end that makes you say
+sorry what happens in the end it makes
+you say wow
+there is an opportunity here outside of
+the idf in the real world
+yeah so i'll tell you up front that um i
+always knew that i'm gonna start
+something
+like it's for me wasn't even a choice it
+wasn't even a thought
+like should i do that should i work
+somewhere
+like it's it was there was not even a
+question you know
+looking backwards it seems almost crazy
+what i did back then and
+flying over to the valley without any
+investors spending all my money
+you know looking backwards like uh wait
+wait wait wait you're just you're
+brushing off of this crazy crazy thing
+go back it's it's not very common for
+somebody from the other side of the
+world
+to just make that trip to silicon valley
+waste all their money without any
+investors so what what is actually
+happening there
+so what happens is that post army i had
+uh
+and another initiative uh in the cyber
+security space not a startup what was in
+cyber security kind of college and
+courses to help
+people uh kind of get accepted to to the
+to the elite south security units
+uh but you know uh while looking at the
+api space and kind of when kind of
+studying
+uh salt or starting to you know validate
+the idea
+and and realizing that you know i'll
+talk about it in a second how big
+our apis are taking over the world by
+being the huge attack vectors that
+nobody talks about
+um i decided to fly over to to the us to
+the silicon valley and
+i had no investors you know no money
+really
+so he was basically flying over um doing
+like an air
+bed and breakfast that literally
+sleeping with an air bag
+uh or like a sleeping bag on the floor
+uh
+because it was very extensive as you
+know to be in palo alto and
+when you don't have a lot of money just
+you know like two years after release
+from the army
+uh and uh so i find like a place in like
+that cost me like 300 bucks a month or
+so
+so try to understand what was the setup
+like a house with like 12 different
+people
+in it and sleeping on the floor but just
+for start to
+meet with potential customers uh you
+know potential investors i had no
+network back then so
+i came over i had a few meetings from
+some alumni from the unit but
+i was not really connected um i was 22
+not really connected and uh
+i started to uh expand my network
+so you know i i was joining a
+icon network so if you're familiar with
+them the nonprofit org to help
+israeli startups yes
+yes that by the way she's also she's
+probably one of our first investors in
+the company
+um and because yeah because we came to
+the
+the space and you know working 2 a.m 3
+a.m like every day and she was looking
+at us like wow
+that's amazing and then she's like i
+want to i want to invest i see your
+determination
+you know it seems like you're doing
+something here really great
+um and i then uh you know we started to
+i started to attend events started to
+meet people
+socialize right and and for one people
+to another intro and another
+introduction another interaction and
+suddenly
+you know if i move fury's forward you
+know two even three years forward
+you know suddenly i know probably every
+investors in the silicon valley every vc
+have a partner
+right most of them and kind of have a
+very deep network
+uh stunning from scratch absolute
+scratch um
+so what would be your big advice for
+people that you know might not
+might not have the privilege and
+opportunity to to know people in silicon
+valley or
+or in any tech city in the world and
+obviously there's
+billions of people around the world that
+don't have
+access to to these to these you know
+ecosystems
+what do you do what do you do when you
+land in a place that you're unfamiliar
+with speaking a little bit of a
+different language a different culture
+and how do you bring yourself to a
+position where within a year or two
+you literally reinvent yourself as a as
+a focal point
+within it within the tech ecosystem in
+silicon valley
+i i think it's uh first of all not to be
+afraid of that
+uh at all like people suddenly give up
+very quickly right i don't have these
+connections i don't know if these
+relationships
+everybody build them right so i used to
+go
+to a lot of events right uh icon events
+investor events whatever
+startup even right and and network and
+socialize
+you know uh very aggressively so i will
+not
+sit there and talk with one or two
+people
+in the entire event i will go around and
+i'll talk and develop a lot of
+conversation tell them about what we do
+and what's the idea what are we all
+about about screen apis why this is a
+super big thing and you know showing
+obviously i'm really passionate about it
+and then when people
+see that they people naturally wants to
+help others
+right they see if you have good
+intentions you have something there
+they feel confident that you know you
+obviously will not embarrass them right
+it's it's like there's a real thing here
+really unique
+right and then like oh i know someone in
+you know blah blah blah that i can
+connect you with send me something and
+i'll afford great
+uh or some investors you meet and you
+know
+it and it's kind of you meet another
+entrepreneurs and they have their own
+investors and
+suddenly it's exponentially going uh but
+you need to work for it it will not come
+by itself um so be proactive i would say
+not reactive uh and if you are
+passionate enough
+and you have something behind its people
+this productivity
+what do when you say be proactive
+obviously one can translate that for
+being confident and going to events and
+talking but
+it must be more than that it must this
+relationship building
+must be more than just going and just
+you know experiencing these events and
+just talking to a bunch of people
+so what is it that what are actually the
+factors that would determine whether
+you're successful
+in in doing that or not
+first of all everything starts with your
+goals right
+what you're looking to achieve i think
+in the very beginning when you have
+scratch everything is good because it's
+good to know
+people at companies like linkedin and
+microsoft and whatever and it's good to
+know
+investors community it's good to know
+other entrepreneurs i think
+you know other entrepreneurs are
+probably the best because they can
+really relate to where you are
+uh their work there as well so that's
+helpful as well
+to try to navigate um but but it's
+what's your goals
+let me give you an example my co-founder
+michael nicosia
+is you know originally italian born and
+raised and uh
+when he was 11 he moved to the u.s and
+is living in the u.s in the last
+you know several or probably decades in
+the us in the silicon valley
+and it's really unique right uh
+co-founders though not both israelis
+both technologies
+and michael is like a huge vp of sales
+marketing that was kind of
+driving huge success and amazing exits
+and when i started i thought wow i don't
+know a lot about
+enterprise sales inside of security and
+um
+i want to learn that uh a lot because
+i'm going to sell to
+fortune 500 type of companies uh you
+know south security products i never did
+this before
+and um i i looked in all the israeli
+successful startups and i looked who was
+there
+in the vp on the sales side like the
+first kind of vp of cell that kind of
+scaled the org
+you are the sales leader in the cyber
+community
+and my call was top of my list i looked
+at
+he was an adolem that got uh acquired by
+microsoft at the amazing exit he joined
+them where
+there were zero revenues and scaled them
+to um
+you know millions of millions of dollars
+and hundreds customers plus and so on
+and i looked and started to look okay
+who do i know that knows him and i got
+you know a few individuals that that
+knew him um
+that connected me with him and i met him
+in the microsoft office after the
+adolescent acquisition and
+and i told him let me tell you what i
+have in salt and and he was like wow
+that's amazing and he connected through
+a few csos that were custom lps
+what they think and and very quickly we
+we hit it off
+super well and he joined me as being my
+co-founder so
+just as an example how you set certain
+goal how you work backwards
+how you find the connection you meet
+someone and and bam you know i have the
+most amazing co-founder in
+in the world i i'm so inspired by
+hearing you talk about your co-founder
+this way and i wish for every
+every person to talk about their
+co-founder uh
+in in any similar way i think it's just
+so awesome roy
+you're you're in the epicenter of cyber
+security in 2021
+the world is digitalized in a capacity
+that
+no one has ever expected at the rate
+that it has a cyber security some people
+are calling it a bubble i'm calling it a
+really really really huge
+ceiling level bubble that you know is
+it's just infinite possibilities because
+there are infinite possibilities for
+attackers and therefore there are
+infinite possibilities
+for the defenders and so tell me a
+little bit about your perspective as to
+the cyber security market in general
+and then let's dive deep into what
+you're doing with salt security
+yeah that's a great uh question so
+in general i think as you as you said i
+don't think cyber security is a bubble i
+think definitely the cyber security
+landscape is continuously expanding
+and that's what you know proved to be
+you know you see the cyber security
+market growing every year continuously
+and consistently uh through pandemic
+through crisis
+because companies cannot afford gaining
+breach not even in pandemic time
+i will do say there is a lot of noise in
+cyber i think once there is a certain
+trend
+you see a lot of companies or a lot of
+startups try to do something around it
+or try to have some functionality
+related to some trend
+so there is a lot of noise and most
+companies thinking
+in silos versus thinking how they are
+playing a role in an ecosystem
+for a company and looking for a buyer
+perspective um
+so i think there is a lot of noise like
+there is a true growth and there is true
+need that continuously growing
+but in the same time there is a lot of
+noise
+and when i looked at you know different
+ideas in cyber the reason why we
+decided on like we thought salt and
+securing apis is the
+biggest big thing you know the the
+biggest thing in cyber security
+uh or the next big thing in cyber
+security back then
+was uh if you think about the war the
+digital aspect of the world right
+everything is connected and if you look
+at uh there is an interesting result
+that shows that
+83 of the internet traffic
+is api traffic just think about it it's
+the entire internet is api 83
+look at our podcast right now or the
+recording right it's an api based you go
+to your
+you don't zoom it's api based you pay
+something go into your mobile app web
+app it's api based
+uh you have companies integrating
+between each other right you go and
+schedule appointment to the doctor's api
+base they
+fetch you know medical data from other
+companies you have micro services
+kubernetes moving into the cloud apis
+are exploding
+and all of our data all of our sensitive
+data
+and personal data is being exposed to
+apis right
+you pay with apis you buy with apis
+you connect to your car with an api you
+buy insurance with api and the trend
+especially during kobe that everything
+is becoming more and more digital
+right so the more thing you should do
+digital and not physical
+without physical presence so the api
+landscape is continuously expanding in
+the attack surface
+where solutions in the space as i looked
+at them were designed for 20 years ago
+internet or in applications so i i
+thought wow that's
+that's huge you know this is you know
+the big is
+you know when the file was created when
+there was internet started
+kind of i thought wow api are exactly
+the next big thing
+uh for for cyber security and for the
+internet
+take me five years down the line what is
+it what is the grand vision where
+where are we headed
+so the game vision is and it takes me
+five years uh i look even earlier the
+grand vision is to
+you know we are building here and not
+very far away from it
+a multi-billion dollar company that
+providing a platform
+uh for companies to be able to address
+all of their
+api and application security needs um
+in a total kind of grand scheme of
+things
+we build our solution in a way that is
+not
+only to address specific use cases we
+build the architecture in our big
+database architecture in a way that will
+allow us to expand continuously
+to consolidate more and more needs and
+use cases
+towards our solutions so the customer
+will not need to use
+you know six different tools you will
+need just to have salt
+uh so we thought from the beginning we
+had the mindset of
+we are building something being here we
+are not him going to do a fast exit you
+know we passed on
+a few m a's offered uh you know along
+our journey we had a few m a offers
+we passed on all those because we when
+michael also joined me he told me
+i'm not looking to do another all along
+you know i did 320 million dollar exit
+to the company it's great it's amazing
+i'm looking to do something big and
+that's our mindset so we are always
+strategically thinking
+what's the end goal right and how we're
+building in uh
+a company an enduring company that can
+uh can consult they can build a platform
+and not just a siloed
+solution that will be sold for 300
+million you know exit
+i love that and i think that i need to
+hear it more i think that a lot of
+others need to hear this more this this
+this just this vision and this you know
+it's not even a vision about you know i
+asked you about the vision of the
+company
+you didn't even take me about the vision
+the the actual you know technology
+you're taking me a vision of
+what this company is going to be and as
+a part of the ecosystem and i just love
+that aspiration and i can't wait to see
+where salt goes
+i have a few fun questions are you ready
+yeah go ahead all right number one what
+was your favorite subject in school
+k-12
+um probably uh
+i was in electronics in the last two
+years and i built kind of robots and
+uh and i think it was the best teacher i
+ever had
+so uh they told me you can build
+whatever you want
+just think about something i'll help you
+to do that right and and i think it's
+one of the things that open your mind to
+you have no limits so i love that i love
+it
+all right and one of your role models in
+life who do you look up to whether it's
+a real or fictional
+um wow that's actually a tricky question
+because i think in
+from different people i take different
+things right not certainly i'm looking
+for the whole package but
+i love certain uh you know
+uh southern people for specific things
+uh i will say that
+i think people i go back and watch all
+of things i think steve jobs
+has a lot of inspirational things i
+think that his uh
+his speech on stanford by the way right
+uh
+is probably one of the video i watched
+the most most
+most times and i think some combination
+of elon musk that i think is also very
+inspirational about
+you know to to to think nothing is
+impossible and
+and just go for it so the combination of
+the two you know i can find all the
+things that i
+at least i see it very inspirational i
+love it and the way
+three words that you would choose to
+describe yourself or anybody would ask
+would choose to describe
+who is roi eliao
+wow it's hard for me to speak on behalf
+of someone else
+on behalf of myself i would say
+a quick learner um
+very persistent um
+um
+in uh social i would say right i really
+love people
+and interact with people so i i think
+that the whole story
+speaks exactly to that
+yeah exactly
+thank you very very much best of luck
+with salt security i love the
+the company but even more than that i
+love your outlook your vision
+you the way you were perceiving it it's
+amazing thank you toda and stay safe and
+stay healthy
+thank you very much thank you for having
+me thank you

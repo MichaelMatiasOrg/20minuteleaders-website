@@ -1,0 +1,883 @@
+computer science is so awesome because
+the fact that even in that first class
+of the second class right
+you're really in the need of it right
+[Music]
+julie zielinski thank you so much for
+being on my show how are you
+good thank you it seems just like a few
+months ago we were back in the lab
+working on our
+working in cs107a don't remind me those
+are the good old days
+that was a great quarter how was it
+online this past quarter
+well you know it it's uh i think for cs
+professors it was maybe
+you know we had one of the easier jobs
+because we already do a lot of our
+delivery right remote right we do a lot
+of students watching
+via video and time shifted and stuff so
+and so much of our
+expertise is in building tools and
+online sort of
+circumstances it turns out so we were
+able to adapt right we had an office
+hour queue let's say that we ran
+off of the web your average latin
+professor
+i bet did not find it as as easy to
+transition to move from their
+traditional in classroom
+sort of way of doing stuff to this i
+like the sciences right where you have
+you know all kinds of physical uh sure
+so i think we did a pretty good job in
+terms of transition our class was twice
+as big as we
+wow right which i think indicated the
+students also kind of voting with their
+feet in terms of
+you know where where can i make progress
+you know and work on my degree in this
+time of
+turmoil and so i we had a lot of people
+showing up in cs i think because it
+it felt like a safe place to make some
+good progress right
+i'm very curious to see what the trends
+are going to look like now that
+that you that it's transitioning online
+and how people
+what people's choices are going to make
+and you know but but nothing will ever
+be able to replace you know the the
+incredible mentorship that
+that you and pat provided at least me
+and my cohort you know
+coming into the breadboard and
+physically showing us how the wires
+i don't think we'll ever be able to
+replace that no matter how great you
+know
+we'll make virtual be but but julie i
+want to i want to go back about your
+journey you know one of the most
+popular computer science professors
+within stanford
+a renowned teacher you love teaching and
+at the same time you love code you know
+back at next and then apple experience
+with steve jobs and
+i want to capture everything in this
+talk and it's going to be impossible but
+we're going to start
+julie who are you taking me through your
+journey how do you come to be one of the
+one of the top
+you know teachers and lecturers at
+stanford after an incredible career
+it's it's all uh it's a master plan i've
+known since day one no
+i i
+california high school right i think
+without you know a lot of exposure to
+computers or
+the field or any of it right i was a
+math undergrad in fact all the way
+through and
+i kind of picked up a little computer
+science late right um thought it was
+really neat but
+it was it was uh it wasn't yet obvious
+to me that where this
+how this was going to lead it's just you
+know one step after another right you
+take one class you kind of like it you
+take another one you think it's a fluke
+you know i did pretty well that i like
+them a lot but
+you know i'm sure it gets a lot harder
+right it's gonna it's gonna
+um but uh you keep kind of making the
+progress right um
+uh i uh i ended up
+um at next next was just kind of getting
+started right when i was an undergrad
+and um so at that point they were still
+in the education only market so
+there was a lot of attention at the
+university level right and so i worked
+with
+um an actual next
+employee who would come to stanford to
+teach this class right um
+on how the next was programmed which i
+thought was super interesting
+and it just totally you know caught my
+fancy like the
+uh like the object-oriented program at
+that point was kind of relatively new
+and and when you saw the kind of the way
+it enabled certain kinds of problems to
+get solved
+like that it's so freaking cool okay
+julie i want to
+i want to talk about that why is it so
+freaking cool
+when the software is written well yeah
+because
+i mean like you know when you start to
+write code right you realize like oh
+they're parts that are kind of tedious
+right you know like oh you're writing
+the same kind of code again and again
+right maybe that that figuring out ways
+to capture that idiom
+right that commonality and and unify it
+and and debug it and and put it in the
+library and reuse it again right it's
+just such a huge leverage point for
+which you can then go on to build and
+solve for interesting problems so
+yeah writing a link list sure everybody
+needs to learn this as part of their
+kind of etude of computer science but in
+the end what you really want to be doing
+is solving these problems and you're
+like oh i want to be looking at this
+data and teasing out these trends and
+figuring out what's doing this or
+it's like okay i don't need to solve
+these problems anymore about a hash
+table hashtag that's super awesome and
+it's
+wonderful but somebody needs to build a
+really awesome sorting machine a really
+awesome hash table a really awesome
+graphics sub system right
+a 3d rendering engine and um and then we
+all
+get to build on top of that like
+starting on the 10th floor of our
+you know our 20-story building or the
+you know 99 form our skyscraper
+um and so the idea of figuring out ways
+our tools and our
+libraries and our systems can can
+promote reuse right and so we talk about
+it even in early in the sequence right
+we're always talking about the design
+i was about to say julie you have you
+have an incredible responsibility not
+just as a computer science
+faculty member within stanford but you
+actually teach often
+the huge introductory classes as well
+like the abstractions in computer
+science and this is really an
+introduction for a lot of students into
+the breadth of the complexity behind
+behind you know problem solving for
+computer science what is that like to
+have the responsibility of having enough
+400 students in an auditorium
+and julie is one of the first you know
+inventors and instructors they meet
+i mean i computer science is so awesome
+because the fact that
+even in that first class and those
+second class right you're really in the
+need of it right
+there isn't this really long
+prerequisite chain where you have to
+kind of spend a lot of time sort of i
+think on the background material before
+you can get going and do something
+interesting it's like from day one
+right in in our cs 106a courses right
+we're
+solving little problems right it's like
+okay maybe it's carol the robot it's
+kind of a little bit of a simplified
+world but you're thinking logically
+right you're thinking about
+you know repetition and and if else kind
+of logic and how you break things down
+into decompositional units and it's like
+every step along the way is an
+opportunity to learn a little bit more
+of good engineering practice right you
+know and so i feel like at the end of
+of those first two quarters right you
+have learned a lot
+that's actually very practical and and
+can immediately you can turn around and
+sort of start writing stuff and building
+stuff right and doing stuff
+people are going off to work to do
+internships at google and facebook after
+after taking these two orders it just
+it's so accessible right to everyone and
+that's so extraordinary right like you
+know i
+i mean i'm not a chemist or a biologist
+or physicist but you know i feel like
+there's these really long chains before
+you're able to do something with let's
+let's say chemistry right that where
+you're really kind of putting in their
+practice right
+um and if the cs it's like such a neat
+you know steep ramp from i know nothing
+to i can actually
+do some kind of pretty neat things in
+such a short time that's really an
+awesome place to be
+so so then what is sort of your your
+idea or your vision and also stanford's
+in terms of how do you get somebody who
+comes in and says i want to learn
+computer science within this
+incredible institution stanford how can
+you best prepare me over the next four
+years
+to be the greatest you know thinker
+problem solver that i can be because
+there's a very
+clear mindset into this you know logical
+sequence that we take and i'm i'm in it
+right now and i'm loving it i'm so
+impressed
+by how well thought out it is talk to me
+a little bit about that
+you know we it's it's totally a team
+effort right like i mean i think we have
+a very strong curriculum
+design committee right that that you
+know has is in place for the
+long haul right and and we're constantly
+looking at our offerings and there is a
+you know i mean one thing that's a
+little bit different about stanford
+relative to other r1
+uh institution is that we do have what
+we call ed group the ed affairs group
+right when there are like 10 of us right
+and that we are
+teaching only faculty right and so um
+the so the intro sequence cs106 and 109
+and uh 107 108 one like that are taught
+by this group of lecturers and
+uh teaching faculty and that means that
+we give a hundred percent of our heart
+and soul to making sure that that
+the intro sequence right how do you even
+know that that's amazing
+yeah and so and so and then as you
+transition sort of out of
+intro and into the upper division right
+so you start to hit compilers machine
+learning and graphics and stuff like
+that and so
+you'll encounter the the traditional
+research faculties and someone like pat
+pat you know there and most of those are
+also people who are very interested and
+care about teaching a lot but they're
+they're also have an extremely rich and
+in amazing career as a researcher which
+which necessarily means that you know
+their attention is going to be split a
+little bit more right
+um and they have more attention placed
+on mentoring grad students right and
+whatnot so
+so us being there right to make sure
+that like for example we do a ton of
+teacher
+mentoring we do a bunch of ta training
+right we have
+we bring our undergraduates in to work
+with us in the intro sequence right
+which kind of gives us a pipeline of
+people to step up to be graduate
+tas right um julie how do you improve
+how do you improve on this process
+because you teach a class of 400
+students
+you've just taught it for 10 weeks and
+you're about you know now you have a one
+week break and you're about to teach it
+again
+and as any good computer scientist you
+want to improve and learn
+for the next iteration so how do you go
+about doing that
+well every uh everything i work on you
+can ask anybody who's
+who's gone behind me will tell you that
+in the directory for the file where the
+files like the code or the write up or
+the
+uh rubric or any of the material
+software there's a file out there whose
+name is called for next time right it's
+in all capital
+and it's always named the same thing but
+i put it right there like it's right by
+the lecture it's right by the
+section it's right by the lab um and it
+reminds me of
+as we were doing it what was happening
+you know what was there something that
+students got tripped up on it was there
+something the tas told me about it right
+was there something i just felt coming
+out of the lecture
+you know or if i got a chance to review
+the lecture itself like oh you know what
+that just wasn't that clear or i need a
+different example and i
+make those myself and i leave them right
+there because the only place i'll
+remember it if i put it anywhere else
+right it's like it's
+not going to be where i am so at the
+point where i'm preparing that lecture
+i'm going to start with you know the
+last time i had it i'll be like oh
+look what i wrote down right this this
+example fell flat or this
+you know didn't didn't uh you know needs
+to be fixed we need to fix this
+explanation or whatever so i i i they're
+they're littered throughout everything i
+work on
+that's amazing it's it has to be there
+because you know
+you're right it is i mean everything is
+so in the moment for teaching right
+right right it's a it's a thousand
+little to do items right of this week's
+lecture this week's
+assignment this week's lab that exam
+right so
+um that uh you need a system to kind of
+keep
+each of them um and then i'd say bigger
+things like if you're thinking really
+about restructuring an entire class or
+really doing something like that right
+it's generally going to be something
+that we work on um more as a team right
+like
+there's a much bigger kind of let's all
+get together let's all brainstorm let's
+all you know think about whether
+we recently switched our 106 day course
+which has been in java
+right you know 10 10 years right to
+python right and that was a you know
+huge
+effort of a lot of people right to um
+survey what other schools are doing
+right to look at
+uh tools that are out there look at ways
+that would change our pedagogy look at
+the ways it's gonna affect other parts
+of our curriculum
+so how long have you been teaching these
+teaching these monumental classes within
+stanford
+uh so i've been here since 1992. wow so
+so what what
+what what changed since then so you've
+seen quite a few
+you know you've seen quite a few
+students go by
+are we different than than others you
+know it's
+uh in some ways it feels like nothing's
+changed because
+like the core of it is it's still as
+beautiful and as pristine and kind of
+heartfelt as it ever was which is i mean
+i'm saying one of the things that's
+that's really important about stanford
+is that our intro class is our intro for
+everyone
+um that we don't have a majors entry
+point and a non-majors entry point and
+an advanced student
+you know sort of thing like that it's
+like oh there is 106 a which is designed
+to be
+called the big tent right it brings in
+everybody we want everyone to give a
+chance to it and be taught in the way we
+want like to build a foundation for all
+computer scientists so having
+like some of these requests like physics
+for poets or something like that where
+it's like
+oh you're really not going on so we're
+going to give you a different uh
+white version and we really don't want
+to do that we don't want you to have to
+select
+before you've had a chance to really try
+it and so we want to give you the same
+grounding we give everyone
+we really try hard to get people to
+start in the intro sequence even if they
+have the background to sometimes jump
+ahead
+we often think that we can do such a
+good job with kind of setting the right
+foundation
+for you that we want you to give it a
+try that don't be in a hurry
+um to to jump ahead because there's
+even in the simple exercises where we
+can just imbue you with really good
+habits that we want you to carry forward
+definitely
+what did we change i would say we um
+we've changed the language we've changed
+the tools right
+our enrollments have gone crazy large
+right
+right um but in the essence of it i
+still think we're doing the same thing
+we've always wanted to do all along
+which is
+is show you how empowering and awesome
+it is to be able to control this
+computer
+and then give you this really good
+grounding in
+the fundamental sort of tools and
+technique and mindset that
+makes you be an excellent individual
+that's so cool julie what's missing from
+what's missing from cs education any you
+know at stanford or anywhere in the
+world where where are we at now
+and what what big milestones do you hope
+to
+for us to get to in let's say five years
+but i think we need to keep looking at
+the
+service uh part of the of the equation
+that um i think we serve our majors
+extraordinarily well right i think we
+have a great curriculum with a lot of
+flexibility
+and the undergraduate the master's
+curriculum the phd all of that is really
+really good
+i think we need to keep working at ways
+to give computing power to people who
+aren't computer scientists in a way that
+makes sense for them and so
+so as i said we we have this one
+sequence and it's for everyone and
+that's great and i do think up to a
+point we can definitely keep everybody
+together
+but at there are places where there's
+kind of jumping off points where i think
+we need to like for example a lot of
+people who want to get
+uh data science type skills machine
+learning type skills
+that aren't going to make computer
+science their number one focus
+and so maybe they're a biologist or
+sociologist right or historian right
+and so i think figuring out ways that we
+can be sure to coordinate
+and support sort of you know giving
+those skills to people who want like the
+way the writing center for example might
+be like everyone needs to learn how to
+write persuasively and
+attentively and so figure out how we
+could be computer science
+support as a service learning for all
+people right
+i'd say another big area for us is to uh
+dig more deeply into the ethical
+implications of the work we do that i
+think we've
+had a kind of a a little bit of a you
+know like hey
+we're technology we're neutral we're
+just teaching you how algorithms work
+right and how
+you know how to evaluate them for
+performance or for
+um robustness or correctness but
+um there's really growing awareness that
+there there are
+absolutely certain opportunities for us
+to be reflecting on the bias in the data
+sets we use
+and then the problems we're trying to
+solve and then the
+implications of our work in a broader
+social context which i think we need to
+figure out how to make that happen
+up and down across the curriculum like i
+think we've traditionally sort of had
+ideas there's
+a class that you know or two that's
+about ethics or social implications and
+i think we just need to weave that
+through our discipline all the way
+through
+to be sure we're making responsible and
+ethical choices
+incredible incredible julie take me back
+now to next and then apple
+now you're you're out of you're out of
+you know you're out of stanford
+yeah you're entering you know this tech
+scene you get
+to work with steve jobs i mean what is
+it what is this like
+it's so weird that i get to speak to
+somebody you know from the roots of it
+this is incredible
+yeah it it you know it's like i think
+it's like when i look back at it now it
+seems more amazing than at the time i
+i didn't know any better right it was
+basically my first job out of school
+right so like i thought it's completely
+normal that you have like a superstar
+right like i
+for the longest time like i had this
+kind of dingy car this datsun b210
+that was like you know kind of a uh an
+old
+junker of a car and i used to park a
+little bit far away from the building
+because i thought my car was kind of
+ugly and run down and i was you know
+still just paying off my student loans
+and so
+and i i parked kind of a way around the
+corner for the building kind of a little
+bit out of shape but i it was
+interesting how there was
+often a black porsche that would also be
+in this same spot i picked it had to be
+the kind of first one around the corner
+from the building
+and it was a black person with no
+license plates which at the time i
+didn't i didn't know these stories yet
+about how steve was kind of apparently
+like just
+couldn't be bothered to get a license
+plate for his car right and so
+it depending on who got there first like
+either i would have the spot or the
+black porsche would have the spot
+i didn't realize it was steve's car
+until one day right i come out and he's
+parked in the next spot over and he's
+standing by his car talking to somebody
+right and i'm coming out to my car
+and he and he scolds me for like parking
+in his spot
+yeah i'm like i'm like terrified i've
+been there i don't know
+not that long right like a few months or
+something but like i'm like i think i'm
+about to get fired over like
+you know but he was kind of kidding he
+didn't like care it was just it was just
+funny that like everybody else
+apparently all knew that stone park and
+steve spot right
+how many people were next when you
+joined over there uh
+so we were we were probably close to 200
+people at that point right
+i think we've had maybe four or 500 at
+our kind of biggest right when we were
+doing both hardware software but then
+kind of
+um we did cut our hardware business and
+scale back to the softwares were
+probably like so the time we got
+acquired we probably were back down to
+200 again so
+we were pretty small that whole time i
+would say wow
+what did you look what what are some of
+the most important lessons you learned
+from from that time that you
+then you took with you as you then
+transitioned back to education
+yeah um i loved working at next but uh
+the strongest memory of course was just
+the people right that you know
+the people who were hired there and that
+kind of their passion for what we were
+doing was just really infectious right
+and and and then maybe the biggest
+lesson i took away from next was
+i had to go back to grad school because
+i was working on so at that point i had
+an undergrad degree in math
+my training in cs was pretty thin right
+i was learning a lot on the job right
+you know i was working in
+engineering capacity but i was
+definitely a junior person right you
+know and i
+and there were all these people around
+me who just had you know a wealth of
+knowledge and experience and practice
+that i was super envious of right and i
+i can i can remember you know people
+would casually talk off
+toss off terms or tools or you know oh
+well when i was at sun we did this kind
+of stuff and
+and i just wanted i was hungry for that
+same kind of experience that
+the same kind of underpinning of what
+they knew that that helped them to make
+great decisions going forward and so it
+was great to work with them and learn
+from them but i also knew i needed to
+kind of go back to the source myself and
+kind of
+um strengthen up my own were you did you
+realize that at the time you were
+working with some of the greatest
+pioneers
+of yeah it seemed normal to me but that
+was because
+i i never had a real job before i was in
+high school i worked in a player piano
+place right you know like
+you know the idea that i i i thought it
+was super normal
+to have this just incredibly high
+powered
+um really dedicated really talented
+group of people incredible
+solved problems and and batted ideas
+around i
+i can still remember the way it felt
+like since we're so small like you could
+make decisions about things and
+it's like you keep looking for some like
+do we have to get some approval i
+remember going to bertrand celay who was
+the
+head of the workspace development at the
+time there was this decision we needed
+to make about how something was going to
+happen
+and um so i go to him he's
+relatively new too right so we have this
+conversation about what their options
+are
+we've got some ideas around that he says
+okay i think we should do this and i'm
+like well
+okay but like that's just you and me
+we're like just two foot soldiers here
+like don't we need to go get
+somebody else right for your mom i don't
+know what you like something
+you know you think we have to have some
+it's like no no we're that's what we do
+this is
+what we're hard to do is make these
+decisions and make this stuff happen
+i guess we just get to do that and that
+happened again again just lots of cool
+things to do
+and smart people to work with and so i
+had so from it i said i had to go back
+to grad school so i'm like i want to be
+able to go
+um deep on some of this stuff and and
+school is gonna be a good place for me
+to do that i mean i think there are
+other people who learn
+in different ways it wasn't wasn't the
+only way maybe they kind of catch up to
+that level of expertise but for me it
+was kind of a
+i had been a good student and i think
+school will kind of work for my mindset
+and my
+level of obedience maybe or something
+like that you know that is so cool
+julie as i go on my journey and a lot of
+my friends going on their journey you
+know into computer science or at
+stanford in general
+what is the one piece of advice you
+would give you know a young student
+as we're about to go and you know absorb
+so many classes from so many incredible
+instructors what are what are some
+things that i can keep in mind
+as i go through this journey and
+maintain perspective
+i
+wow uh i would there's so many great
+things
+about stanford right um and so
+so many great experiences right and i
+the one thing i would say is just be
+be mindful of picking and choosing right
+realizing that
+that saying yes to something right often
+means having to say no to something else
+and and
+and and kind of thinking about like you
+know as you look at things there's gonna
+be lots of things that
+that sound really awesome and are really
+awesome but if they're not right for you
+right they're gonna eat away from the
+getting on the things that really matter
+for you so like some of us
+it's easy to get people get get i think
+a little bit sidelined in the
+oh but i somebody else is doing this and
+that sounds really cool or
+that's you know this seems kind of
+interesting or i want to take all these
+classes i want to have a double major i
+want to do all this stuff and like it's
+like by spreading yourself too thin
+right kind of you
+missed some of the discernment of saying
+what's one of the things i really want
+to be sure i get from stanford and i
+want to make sure i don't miss out on
+and that really
+are going to kind of fuel me for the
+future
+and recognize that as i say yes to those
+things i want to say yes
+wholeheartedly and enthusiastically and
+that's going to give me the
+strength to also say no to things that
+would otherwise kind of cut into that
+um i love it i see i see a lot of
+students right who just seem like
+they're just really spread very thin
+and um and i i feel like that
+you know like it's it's they get very
+over committed right and then
+they're dealing with i think a lot of
+stress and a lot of um
+you know i think sub-optimal sort of
+results for that
+i agree i mean i think that one of the
+you know one of the things that i came
+in and was completely blown away but
+was by the number of opportunities and
+you know all of us everywhere you turn
+somebody's doing something so cool and
+coming in it's like in a playground you
+just want to you know go on different
+rides and get all the different fruits
+and and i think that one of the hard
+lessons that i had to learn as well as
+my friends is understanding that okay
+well if we really want to make
+enjoy this time and make it make it work
+make it work for us
+you know we need to we need to also be
+able to devote ourselves to the projects
+we commit to
+and it's not going to do service to
+anybody if we just you know go and do 22
+units and do five clubs
+so i completely out i take this with me
+uh
+different piece of advice next time
+right because that is a great thing to
+have already
+i'm gonna come back for many more
+advices along the way but julie i have
+to get
+three words that you would use to
+describe yourself okay
+i'm gonna give you curious all right i
+think that
+i think that's driven a lot of what got
+me everywhere i wanted to be was just
+wanting to know
+wanting to kind of see it through and
+then it comes with a heavy dose of
+stubborn
+because i think that's that's you know
+stubbornness and curiosity i think you
+know drive all the debugging in the
+world right it turns out right is
+i'm going to figure this out and i'm
+going to know why and i'm going to get
+there
+and then i think the what makes me a
+teacher i think is the enthusiasm right
+i love it the when i first at least i
+can say
+you know i think almost definitively why
+i'm a teacher is anytime i learn
+something
+right the first thing i'm thinking about
+is who am i going to tell that to wow
+you know like i read something in a
+paper or see it online
+or go to a talk and then i'm like who
+else wants to hear this really cool
+thing that i learned so that is
+so cool you see yourself as this conduit
+for like information to come in and flow
+out
+then teaching maybe the career you want
+to look at i love it
+okay julie thank you very very much this
+was inspiring this was
+you know i learned so much and and i
+can't wait to share this with the world
+thank you for taking the time to do this
+thank you and thank you for an amazing
+quarter of 107e and i can't wait to do
+more classes with you it was really it
+was like it was really inspiring
+really yeah yeah all right i like i wish
+that's a whole
+topic we can go off for a long time
+about is like how phenomenal is to work
+at the with the people at stanford right
+so pat anderson our co-instructor right
+who is
+uh touring award winner like i just
+never thought i would spend my career in
+in the company of such luminaries you
+know non-stop right
+so for a student it's a very humbling
+experience
+all of a sudden to be exposed to that
+julie thank you very very much have a
+great
+rest of the day and stay safe and stay
+healthy thank you
+take care bye bye

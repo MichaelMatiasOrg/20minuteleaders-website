@@ -1,0 +1,729 @@
+for me it's it's very interesting how we
+as people don't even take a step back to
+think on
+why we do that even like slack is not
+forcing us to go in
+but what happens is the notification
+sound or the color
+red makes your brain react before
+yourself in a way
+[Music]
+thank you so much for joining me on my
+20 milliliters show how are you good how
+are you
+fantastic it's so great to have you here
+some technical issues to start but
+that's part of the
+of the virtual lifestyle that we have
+unfortunately we can't be in the studio
+doing this face to face
+we'll settle for this emna a we have so
+much to talk about from your startup
+family
+and all the way to digital well-being
+let's start off easy and and then
+accelerate as we go along
+who are you amna gariani all right wow
+that's a long question so i'm the ceo
+and co-founder of the
+vmp is a unified workspace for
+developers our goal is to help them
+focus better stay in flow remove
+distractions uh so we give them a
+centralized workspace for all
+for their non-coding apps and we give
+them a smart feed of their conversations
+on top
+um are you uh are you saying referring
+to the fact that there are tr
+there are distractions when we are
+online yes
+so the problem is today all of us even
+beyond developers when we open our
+laptop our cortisol level is high by
+default our
+stress is high our focus is down just
+because we have so many tabs open so
+many apps and
+we get in traffic yeah we get
+interrupted every 11 minutes on average
+and takes about over 20 minutes to focus
+again so when you think about it like
+you know
+we're all the time in non-focused mode
+and we end up staying late and
+we're working over the weekend and
+burning out and we we don't
+second to stop and think pretty much so
+that's uh
+that's why pretty much so is this is
+this new so is this something
+if i look at the workforce you know 50
+years ago people are working
+everywhere is this a new problem that we
+have
+absolutely actually it's funny you say
+that because i always talk about the
+evolution of communication
+so 20 years ago 50 years a bit too far
+we didn't have a
+computers like we did today at least we
+didn't use them uh
+we didn't have computers like we did
+today so uh 20 years ago however
+communication used to happen via
+on two main channels uh of course that
+had a lot of issues like scattered
+information silo effects and
+in the past few years we've seen an
+explosion of collaboration apps and work
+apps and
+now there's literally an app for
+everything and there is no streamlined
+process
+so we are here not to streamline the
+process between all these apps and help
+people better
+leverage and optimize their time in the
+hope to help them get to their work life
+balance
+so yeah but what does that even mean so
+how do you go and help
+people avoid distractions optimize their
+time be more productive in the moment
+very good question so for us what we do
+in veeamly so it's a desktop app so you
+have access to all your different apps
+and on top you have your smart feed but
+we have a mode where you can go from
+sync to async
+so when you are in async mode you have
+no interruptions you still have your
+smart inbox being filled up with all
+your conversations and then we have a
+soft alert system
+to help users understand that they need
+to look at something but if they're in
+flow it's not going to interrupt them
+and then what we do is we bring them
+awareness on how they're using their
+time and we give them insights to help
+them really
+educate themselves better so with vmi
+they get at least an hour back a day
+wow so you know i think that's just
+fascinating because as i'm reflecting
+now on my experience
+i'm a software engineer at hippo
+insurance and i love i love the
+experience and one of the interesting
+things is that i've noticed that
+now that everybody's remote and there's
+no casual meetings i can't stand up and
+go meet somebody in the office
+my slack message is that i'm getting i
+almost feel the responsibility of
+answering them as if somebody came up to
+my desk and spoke to me
+and that that that is a that is
+distracting because as i'm
+coding or doing something else i feel
+compelled to in real time answer
+everybody
+it's not like an email where i feel okay
+it's fine if i take two three hours
+because i don't check my email every
+five seconds right
+so what is i love what you're saying
+because for me it's
+it's very interesting how we as people
+don't even take a step back to think on
+why we do that even like slack is not
+forcing us to go in
+but what happens is the notification
+sound or the color
+red makes your brain react before
+yourself in a way
+so that creates this fake sense of
+urgency
+and this also formal effect right the
+fear of missing out so
+before you knowing it's one of your
+colleagues sharing a puppy
+picture and it's not system everything
+is fine you're already distracted you're
+already looking at it you're already
+interacting with it
+beyond that you also have your comments
+on your jira tickets and your comments
+on your pull request and every single
+thing like
+comes and it's a notification or it's an
+interruption
+and today there is no way to prioritize
+to know what to focus on or not
+and it's very detrimental to your focus
+to your flow
+and it's stress that we don't even feel
+for me i will say this like
+there's two types of stress right then
+i'm not
+scientific or doctor i'm like there's a
+stress that you feel and there's a
+stress that you don't feel that's living
+everywhere in your body in your in your
+lower back and your wrists everywhere
+and you don't realize it's happening
+and all these small things contribute to
+it sure
+but we're not um accounting for them
+that's why we talk about my
+productivity in that sense so yeah so
+what is the actual solution it's a dash
+of application that i come in and i
+and i go into this new world this async
+world where now
+a lot of my messages becoming soft
+notifications and smart alerts systems
+tell me a little bit more about the
+experience that i'll have using using
+that
+absolutely as a developer you open
+veeamly you have access to your slack to
+your jira your github like we're not
+like anytime you need to do actual work
+and those you'll access them from there
+but on top we have a one single pane of
+glass where
+it's prioritized for you but what needs
+your action and what is your attention
+so immediately you know uh how to
+prioritize your time on what to address
+first so
+everything else that's not priority
+right now we'll put it in another tab
+and you can go look at it later
+also the way we prioritize is based on
+the user preferences so
+as they start they decide what goes into
+their feed we're not here to do that
+but also we have obviously some um
+algorithms to help prioritize it are
+some of their logical some of their
+smart based on behavior and semantics
+um and so that's the first level and
+then on top of that they have unified
+search where they can search for any
+information really easily
+and uh as i mentioned they have like
+this mode sync versus async
+and when they are in async mode then we
+have a soft alert system that doesn't
+interrupt them if they're in flow but if
+they're not then
+it will let them know there is more
+stuff to look at the thing is in
+an interruption or a distraction is not
+a bad thing that is actually proven it
+was great for creativity
+but it's an unplanned distraction or
+interruption is that's the one that's
+bad for you
+so for us we help you plan your
+distractions in a way
+and prioritize your time while
+streamlining all your communications
+so give me a little bit of the context
+and a little bit of statistics because
+i'm sure that that's something that
+you've been
+mixing around and so how many ever so
+how many
+notifications does the average developer
+get let's say a day
+or how many times how much time does it
+waste you mentioned something earlier
+very good so people get developers get
+at least 100 messages a day across their
+different apps so this is
+a combination of slack messages yeah
+and that's and and it's 100 is a very
+small number by the way it goes by very
+fast so
+it's 100 messages between their slack
+messages between their comments on jira
+tickets between their comments on their
+pull requests
+jira or whatever other app obviously
+they're using uh but they're ticketing
+apps so
+between those they spend on average two
+minutes on each so
+that's a total of three hours or 20
+minutes a day
+and then a couple hour meeting right
+especially in a remote world that's five
+hours and 20 minutes
+so theoretically in an eight-hour day
+that gives them an hour and 40 minutes
+of true focus
+time which of course does not happen
+unfortunately the developer
+uh community has always been guilty of
+not being great at their work-life
+balance
+so they tend to burn up really quickly
+they don't take days off they don't
+like they do they don't put themselves
+at the forefront
+at the same time every app out there
+that's about developers
+it's all about code it's all about
+products it's not about them as people
+so and for us we're like we come from
+that background we build products we've
+seen it
+and we want to care about them as people
+because as they are more balanced
+everybody everything else will go even
+better more productive better for the
+company better for everybody
+so and that's what you believe how did
+you
+get started with this whole this whole
+idea
+um so before this i used to run a
+company doing cpo as a service so chief
+product officer as a service
+so i'd act like an interim cpo to
+non-tech founders and i bring my team of
+designers and engineers and then we
+build the product and take it to market
+depending on the needs of the
+company and that's kind of where it hits
+me how the
+work is broken and um so yeah
+based on my background i have a large
+background in process optimization
+and communication and ops in general so
+for me
+uh it was a it was a no-brainer to go
+after this and before that i
+i i did help launch over 40 startups as
+a director at the founder institute
+wow so i've seen the problem elsewhere
+as well
+and that's what got me to like kind of
+my path was that way like i helped other
+companies then i want to start
+my own company but i wanted to figure
+out what they saw for the world
+and that's kind of how i got there so
+yeah right
+digital well-being it goes side by side
+with productivity in the sense that
+you're trying to understand how people
+engage with their digital environments
+not necessarily to optimize their work a
+productivity right or output but to also
+maximize their their well-being and
+talk to me a little bit about that i
+don't think i know nearly enough and i'm
+just starting out in my own career so
+this is definitely something that i want
+to take with me
+as i continue my journey as an engineer
+but also as an entrepreneur and
+hopefully leader
+great uh so digital well-being is
+definitely a combination of different
+things
+the problem is that when we try to throw
+software it's a problem
+i mean that was a weird sentence but you
+get my point like throwing software as a
+solution at the problem like this
+is gonna solve it i will say this like
+beamly as a software itself is a
+band-aid
+the true solution is going to be what
+comes with it which is
+what we help people achieve it's like
+when you buy a pack of cigarettes and
+says smoking kills
+that's kind of the goal to do for to to
+educate people
+on really how distractions and
+notifications are really um
+killing their day and their life and
+their well-being like for example
+i have been notification free for almost
+two years now
+and it's everybody's shocked i'm scared
+you're shocked exactly right you're
+scared you're shocked and people are
+like
+how do you do that right like how like
+you're a ceo you're running a company
+you're doing all these things
+and i always challenge people to try it
+for three days
+the first time you feel true withdrawal
+like for me the first time
+especially the first three days like
+when i started i felt like something is
+missing literally it was like almost
+like a drug
+that's how i realized how bad it is even
+more right so
+like uh for us definitely that's at the
+core of what we're doing in terms of
+helping people think differently
+about those but beyond that it's the
+small things that you implement in your
+day-to-day
+that help you do better so even being
+conscious about the problem
+disconnecting from screens
+like you know for me you'll never find
+my phone next to me and if you find it
+next to me
+it's all screened down right so it's
+like getting in the habit of
+reducing distractions so a lot of things
+enter
+in making us more productive and more
+balanced and that's your sleep quality
+your water intake
+even the weight but before we before we
+continue there i have to go back a
+little bit because i have to ask
+this idea of no notifications as a ceo
+you know
+at the end throughout this show and
+filming over 200 episodes one of the
+one of the really interesting things
+that have been coming up is this idea of
+being
+connected and being responsive a lot of
+people are really
+taking responsiveness seriously and and
+it always amazes me how very very busy
+people
+respond very very quickly to my emails
+or my messages
+how do you be how do you portray
+yourself as a responsive person
+and not miss opportunities or allowing
+people to count on you
+in a world where you're not even aware
+necessarily that they're messaging you
+so first i love this question because
+earlier in my career and not that long
+ago really like i obsessed over
+responsiveness especially you know when
+it's like somebody you qualify as
+important whoever that is right
+in your world that could be your boss or
+whoever it is so it's like you're always
+scared
+what if i don't answer they think i'm
+careless or not i like care pretty much
+we're all it's off here right
+it all comes from fear at the end of the
+day if you're missing out
+if you're being perceived wrong and the
+thing is i always say this even to my
+team it's all about intent
+that's number one so i think we put the
+wrong
+weight on responsiveness because we're
+not robots
+like you know if i'm not responding to
+you it means i'm probably doing
+something else i'm responsible
+right so if i'm working on a
+presentation or working on a product
+thing
+i don't need to be responding to you
+unless it's something super urgent and
+then you just call me
+right and interrupt me and so the thing
+is
+is you realize that most people don't
+care if you
+reply to something within 24 hours
+that's when it comes to email right
+when it comes to instant messaging like
+slack and other things
+like it's a matter of an hour or two
+which nobody dies unless you're in a
+collaboration
+mode and your collaboration will need to
+schedule that like i talk about
+structured synchronous
+communication right like there's a whole
+debate about i think versus sync i'm
+like sync can be
+structured right that can be in sync
+mode that's how we have this
+feature and if i'm in sync mode all
+modifications are coming in but it's
+fine
+because i'm a collaboration mode so i i
+never had any issues with responsiveness
+since i've been notification free
+because i still check
+my different apps on a regular basis
+right if i'm not doing if i'm done with
+the task at hand then i'm gonna go check
+my main channels of communication right
+so which is i used mainly trello jira
+slack
+and uh ina these are the four main ones
+for me so
+yeah and so when you're running your
+company now and do all your engineers
+have to use
+wembley to become to be productive i
+hope that for them they're building it
+so if they don't believe in it
+we'll have a problem right so it's uh
+it's not even like for us even the whole
+approach
+whether it's our engineers or other
+engineers out there the whole point is
+we're not forcing something on you we're
+bringing awareness for you it's kind of
+what you said about yourself right right
+now
+it's like i'm an engineer i see this is
+like yeah i want you to realize that for
+yourself
+and hopefully we help you be more
+balanced be more focused
+um and do better really so
+a hundred percent so back to this back
+digital well-being
+go back to a little bit to the the scope
+of what's happening today and
+and a little bit of where we can expect
+to be headed especially in covet 19
+times when things are a little bit you
+know a little bit
+tricky we're not really sure of what's
+happening and we're not really sure of
+our interaction with the virtual
+environment for years to come
+so this is actually kovit made this
+problem even more prominent
+and bigger because now we don't have a
+separation between our personal life and
+our work
+uh even though even like for me i've
+been running remote for
+years right like before this i helped
+launch companies remotely in different
+countries so
+but that always made it a point to
+separate my work environment from my
+personal
+home because it's very hard right that's
+why like one of the advice you get
+is like in order to be balanced try to
+have like your own space try to make it
+create some sort of routine et cetera
+so back to the digital being aspect of
+it in this environment we are in
+more than ever we need a sense of
+stopping
+creating a separation between our
+personal life or not for me i talk about
+the sense of accomplishment i say with
+veenly the whole point is to get you to
+that sense of accomplishment
+and remove fomo you know things are
+there for you so you can see
+data about how you're using your time
+you know what you have accomplished
+today
+you know what you need to be doing
+tomorrow everything is there for you
+it's not going to go anywhere so when
+you disconnect you don't have that
+stress of like did i miss something
+right so beyond that is bringing the
+other external factors
+more than ever taking care of our health
+and our sleep and all these different
+things that impact our productivity
+are important so for us
+when we talk about that and achieving
+digital well-being is by bringing those
+within being
+pretty much like how can we give you
+ergonomic nudges how can we give you
+like
+not just towards how you can improve all
+these different things
+about your day organizing your day like
+a pro pretty much
+in order to um get to that balance
+and so like i mentioned it goes from
+like for me my challenge two years goes
+notification free this year my challenge
+is a tap free so at the end of every day
+to close out all taps
+and that's harder because sometimes you
+go into a meeting and you forget to go
+back to do that so i'm still not perfect
+at it
+but it's so nice because it forces me to
+take just five minutes at the end of
+every day
+and make sure like you know i place the
+different tabs wherever i need to
+because
+ninety percent of the time you never go
+back to all these open tabs
+but it's just bad habits so it's like it
+takes time so that's why it has to be
+incremental we have to be kind to
+ourselves
+and to achieve true digital well-being
+you need to become aware
+of how you're spending your time so
+awareness it sounds like the number one
+key
+because for every person the
+implementation will likely be a little
+bit different
+fitting to their own personal needs but
+give me some more helpful ideas of what
+i can be doing in my daily life to
+have better digital well-being and right
+now i have to say it's tough because
+i'm in front of the screen sometimes 16
+17 hours a day
+you know both as an engineer but also
+running this podcast and
+and it's a lot of screen time and i want
+to make sure that i'm approaching this
+in the healthiest way
+so very good question so there are a few
+things you can start implementing from
+tomorrow first calendar blocking sounds
+like trivial but it's a very good tool
+because calendar blocking it will help
+you be more intentional
+about your time because awareness is key
+but intent is key too we have
+we are opted in by default in our daily
+lives today when you subscribe to a
+product you're up to them by default
+in your workout to them by default you
+don't take a second to think about how
+you're organizing all this
+so if you 10 minutes every night before
+the next day or like once a week to
+block your whole week
+and to make sure to plug your breaks
+like being in front of computer for 17
+hours
+like now what you're very young right
+earlier career
+what's gonna happen 20 years from now
+when you're gonna start having back
+pains and
+carpal tunnel and all these bad things
+like your eyes are gonna go to hell so
+all these things were not intentional
+about them so
+counter blocking amazing tool to help
+you schedule your breaks
+and realize also be even more focused
+because once you have that then you have
+that rewarding aspect that's how our
+brain works
+you have a trigger and then you have a
+reward so you know it's like oh if i'm
+gonna do this for two hours
+i'm gonna take a 30-minute break and
+then i'm gonna you know
+do something something else on that
+break work out or
+go for a walk or watch something
+whatever it is that you like doing so
+that's the number one two sleep sleep
+sleep
+that's super important we don't give
+enough um
+weight to the importance of having a
+good night's sleep it's
+it's important for everything for our
+focus but even like for
+our bodies our health like even our
+workout routine
+diet everything so um that's a quote
+easy one to also schedule part of
+calendar blocking to be like at this
+time and
+it helps to use technology right like
+for me i'm like technology is not bad
+it's about how you can leverage
+technology to get to your traditional
+well-being so
+technology is not bad but it can be
+misused and then people can
+write so if you have an alexa or a
+google home or something for a reminder
+put a reminder to go to sleep it sounds
+trivial but put that create a sleep
+routine
+like that's the time you okay before
+sleeping i want to drink water i want to
+read 10 pages of a book and do this
+thing
+what like create that routine and then
+little by little get back to it
+the problem is we're lost you know and
+we don't know where to get started
+that's where it gets really really hard
+yep
+so these are some of the few things you
+can start with they want
+i strongly recommend to organize your
+phone
+i know this is like the phones are our
+biggest stressors today
+notifications also like when you have
+you know five pages of 90 different apps
+that you don't use anyway
+so if you take five seconds like if you
+see my phone screen i have maybe ten
+folders like you know one that says work
+tools one that says social one
+finance and so and all these little
+things that are not too hard to
+implement they accumulate the
+accumulation
+and it will create that that incremental
+change will adapt to be something really
+impactful on you i'm not this is a
+wonderful
+thank you for being so generous with
+your time before we leave i have to ask
+you for three words that you would use
+to describe yourself
+communication process and data all
+around people i don't know
+so i'll say that's my holy trifecta so
+it's like communication process data in
+the middle
+people at the center so people at the
+center i like that amna thank you very
+very much
+best of luck with family stay safe and
+stay healthy and and i love the mission
+thank you very much thank you
+foreign

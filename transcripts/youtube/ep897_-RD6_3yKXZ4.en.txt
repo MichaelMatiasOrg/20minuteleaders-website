@@ -1,0 +1,504 @@
+if you ask the typical Cloud engineer
+would you like to use infrastructure as
+code in 100 the answer will be yes but
+what we see right now is that only a new
+project people are embracing
+infrastructure as code because they are
+as that technical debt of the stuff that
+they are already put in the cloud and
+they are not putting the time and effort
+to codify them and this is exactly where
+Firefly is coming handy so we're saying
+it's not just the Green Field kind of uh
+project when you want to use the the
+best of the technology like
+infrastructures code let's take the
+entire Cloud the stuff that you put two
+years ago three years ago and create
+infrastructure is good for you so you
+can enjoy all of the benefits of
+infrastructures code
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek hello and welcome to 20 minute
+leaders today I am with Iran Bibi the
+co-founder and chief product officer at
+Firefly with years of experience in
+anything devops he has earned a
+reputation as a cicd expert and an avid
+admin of cloud platforms and
+containerized environments
+[Music]
+Iran Bibi welcome to 20 minute leaders
+thank you so much for being here how are
+you I'm amazing thank you for having me
+though how are you thank you I'm doing
+very very well thank you where we're
+talking about a subject that I that I
+care about a lot we're talking about
+obviously Cloud infrastructure bringing
+clouds up to date today today with
+firefly but before that it's been you
+have had a long journey working the
+devops the ICD and being a strategic
+thinker in these areas and so I'm
+looking forward to get gaining your own
+perspective on where wrap the space
+where the different opportunities what
+are the different gaps that we've
+observed in the market and just recently
+somebody reminded me that still most of
+the world is on-prem which is kind of
+weird for me growing up to a world where
+I don't know what a server is I just
+know what AWS is yeah right so it's a
+it's weird to me as well because in our
+you know small ecosystem here on East
+well in specifically in the Tel Aviv
+startup area everything is in the cloud
+right and most of the engineers
+basically born in the cloud so yeah
+telling the fact that most of the
+compute is on-prem uh in 2022 is a bit
+weird
+right right so so how do what what is
+happening just gave me maybe a a broad
+picture of the world today
+2022 what's the state of cloud today so
+I think in the past 10 years there was a
+rush to cloud computing because all of
+the advantages of uh basically uh giving
+the provider to manage all the
+infrastructure and all the automation
+around that and this use Advantage uh
+were helping businesses to get uh more
+uh software delivery much much faster
+with less people involved in
+infrastructure and networking and
+storage and other kind of uh professions
+that we are nearly see today
+and
+if you tell me what is the state right
+now I will say it's a bit chaotic
+because the transition to the cloud was
+very very fast and
+something very significant in the
+landscape is the short of talent the
+shortage of talents that we have uh
+specifically in cloud computing and in
+devops methodology and this caused a lot
+of challenges new challenges that the
+organization didn't faced before that
+so I want to delve on this point because
+uh you're mentioning you're using the
+word chaotic and then you're mentioning
+that the transition to Cloud will happen
+very very quickly it almost feels like
+you're saying it was too quick it was
+too fast
+I think it was uh pretty much natural uh
+in the face that
+um
+organization decide to transition to the
+cloud because at the beginning there was
+some barriers around that because some
+security concern but because the vendors
+the the huge vendors like AWS and
+Microsoft were able to force that even
+uh government can host their uh
+facilities in the cloud so everybody
+understand that there is no uh any
+barrier to move to cloud computing the
+pure advantages right
+so once it's done and I think it was
+like the the main Milestone was around
+like four years ago everybody tried to
+build something on the cloud whether
+they have uh the the engineering
+capacity to do that and the knowledge or
+not they just put stuff on the cloud
+sure yeah and and then you mentioning
+that there is a you know there's a
+strategy to it there is order there's a
+different mechanisms that make it I
+guess a more healthy way of being in the
+cloud rather than not and so it all it
+felt like you're mentioning that at
+least to me felt that because of the
+speed at which we've transitioned to the
+cloud now we're stopping and we're
+saying wow okay actually we have to we
+have to think again about what
+infrastructure we built here how we're
+organizing our Cloud infrastructure and
+what are the best practices and we may
+not be using them right now
+right I think it's all about whether you
+are properly utilized in the cloud
+because everybody put stuff in the cloud
+very fast most of the times it was not
+that efficient it was not optimized it
+was not uh very secured that's why you
+see a lot of cloud security company
+raising uh nowadays and right now I
+think it's the phase that cloud
+computing and adoption become more
+mature
+so it's not just putting stuff on the
+cloud instead of putting it on Prem you
+just I should do it right how to do it
+in a scale how to make sure we have the
+right uh people and training for the
+people to do it properly yeah
+right and so
+tell me a little bit about your own your
+own background and entrance to to Cloud
+you know you as an engineer you can
+choose to to get excited about a variety
+of Technologies what is it about the
+cloud that that really gets you going
+so um I mean the business something like
+uh 17 years and in my background I did
+most of uh system engineering and
+infrastructure Administration and when
+Cloud became a thing uh something like
+10 years ago and you saw that software
+development development being involved
+with infrastructure and that was
+basically the concept of DeVos of how to
+automate Stuff how to do stuff using
+your engineering skill as a developer
+and I found myself very intrigued by
+this concept of
+uh not just doing the operational and
+the monitoring and the art core
+infrastructure stuff also doing
+software life cycle development like
+cicd and
+it's like devops was built directly to
+the stuff that I want to do in my life
+and I was uh basically embrace it and um
+just willing to be more and more
+professional on that specific uh
+methodology
+is that is it stemming from um this
+personal agency to affect great change
+within organizations is it stemming
+mainly from a curiosity about you know
+what these organizations are you know
+how what are the best practices so what
+is sort of the driving force for you
+what in relation to this technology I
+think it's for me it's like enjoying uh
+enjoying Both Worlds like from one end I
+really like infrastructure and servers
+and operating system and the stuff that
+is uh less development oriented but in
+the other end I really like scripting
+and light coding and this is stuff that
+as a system administrator did a lot like
+uh uh python scripting and shell
+scripting and stuff like that and devops
+is basically combining those two skills
+into uh um one achievement to make
+software deploy faster into the cloud
+got it and and is it is it in more
+watching alone working with the team
+what what do you enjoy more
+I really enjoyed uh enjoying the
+Education and Training around that as
+someone that did that profession
+um in the early stage of devops I really
+enjoy being involved in the community
+and doing talks and explaining and
+basically evangelist devops
+and telling the world why it's uh this
+is the better way uh uh to manage
+software in the clouds and all of the
+fractics around it and you know there is
+tons of Technologies involved and each
+year there is a new new kid on the Block
+like new technology that develops
+engineer me to master so it's really
+fast moving kind of experience for me
+I love it so and I'm and by the way I'm
+sure that also the conversation has been
+shifting over the last few years from
+that of cloud is good to know okay how
+do we actually make it amazed right so
+you we started the conversation saying
+me there's an agreement
+that cloud is undisputedly better than
+the non-prem for a variety of reasons
+but now you're saying the conversation
+the interesting conversation is okay but
+how do we do it really really well and
+that's where you come and you bring your
+own insights right right I think one of
+the main challenges that we are facing
+uh in the last year is uh the dependency
+that organization and development team
+uh add with
+those Cloud professions uh professionals
+devops engineers and that dependency
+cause uh stuff to be slowed down so
+instead of devops be the enablement and
+the the function in the engineering that
+will help to drive right faster
+it's become like a burden because you
+don't have enough devops in relation to
+the engineers and then you are slowing
+down so I think this is something that
+right now organization trying to solve
+it makes sense I mean it's sort of like
+this function within the organization
+that holds the key to the box and
+there's a deadlock on this key and we
+have to find better you know if we're
+going back to operating systems type of
+ideas how do we how do we create better
+better mechanisms for unlocking this key
+and for for allowing anybody to do
+things but but on the other hand I also
+saw that there were organizations that
+are going for more autonomy to the
+average engineer to be able to manage
+their own cloud service well that comes
+back to bite them in the ass in a
+different way obviously because they
+don't use the best practices right
+exactly because you know when you put it
+on paper it sounds amazing you say
+everybody should know devops because
+devops is not a profession it's a
+methodology it's a culture it's
+something that you need to embed in the
+DNA of the engineering team
+but then when reality hits you
+understand that the typical software
+engineer would like to write software
+would like to do business uh kind of
+feature
+and that devops task is basically
+a burden for him yeah so it's not for
+everybody yet there is a lot of
+Engineers that enjoying doing devops and
+uh don't need to be dependent on anyone
+because they have the right skills and
+the right mindset but the the majority
+of engineering when they have a new
+Sprint coming and they need and they
+have their assignment for the Sprint
+it's a business oriented and the devops
+is just you know
+some other tasks they need to do and in
+most of the case they will prefer to lay
+off that task to somebody else that this
+is his profession this is what he's
+doing for his living and this is like
+his expertise and he will do it better
+and quicker than him because he has the
+the access and the permissions and the
+knowledge
+and um
+so I think that concept of everybody
+doing devops is not really aligned with
+what's happening in in most of the
+organizations
+so Firefly where where does this catch
+you what is how do you see this world
+what is this sort of pain point that you
+identifying that you wanted to solved
+with a firefly
+so the story in Firefly
+um
+he's a very nice story I was uh in a
+position in my previous company where I
+was managing uh devops team and platform
+engineering and I did a very nice uh uh
+career on that direction of being a
+leader in the engineering team
+but then I was met uh you know which is
+my co-founder and uh Safi which is the
+CTO of uh Firefly and they
+well for Consulting with me about the
+idea that they have to automate some of
+the tasks for devops with the mindset of
+how to make the cloud better for devops
+engineers and it's more really
+pinpointing on some of the paints that I
+was having uh during the past decades
+about
+you from one end you want to put stuff
+very fast in other end you need to make
+sure it's properly aligned with the best
+practice and um
+Firefly is basically introducing uh the
+solution for that
+and so what is the actual product that
+you're building
+so we are scanning uh The Cloud of the
+user we are a multi-cloud multi-account
+system we are providing visibility about
+all of the configuration and assets that
+the user have and we provide a very nice
+metric that say
+how much percentage of the cloud is
+being managed by infrastructure as code
+versus the stuff that you created
+manually
+using like a click Ops kind of
+methodology like the the bad way of
+putting stuff in the cloud and then with
+our technology we were able to create
+automatically code for the missile fart
+or the cloud and what we are doing is uh
+going to organization and help them to
+increase the infrastructure is code
+coverage in an automated way
+and making sure that and by the way why
+is that useful why is why is this why
+have you identified that this is a
+critical piece of of the of of what a
+company should be doing
+because when you are talking about
+provisioning Assets in the cloud right
+now the best way to do it and uh this is
+something that we see in the past few
+years is using infrastructure as code
+you're basically leveraging all of the
+benefits that have a code lifecycle with
+peer review with cicd gating with all of
+the tools that you can put before
+provisioning into an infrastructure
+and there is a very nice uh and popular
+framework to drive this like terraform
+and Polo me and cloud formation
+and
+if you ask the typical Cloud engineer
+would you like to use infrastructure as
+code in 100 the answer will be yes but
+what we see right now is that only a new
+project people are embracing
+infrastructure as code because they are
+as that technical debt of the stuff that
+they are already put in the cloud and
+they are not putting the time and effort
+to codify them and this is exactly where
+Firefly is coming handy so we're saying
+it's not just the Green Field the kind
+of project when you want to use the the
+best of the technology like
+infrastructure as code let's take the
+entire Cloud the stuff that you put two
+years ago three years ago and create
+infrastructure is good for you so you
+can enjoy all of the benefits of
+infrastructures code
+and is the I guess this is selling it
+more top down in terms of go to market
+uh so because you're looking
+strategically at how a company operates
+from an infrastructure play versus a you
+know single spontaneous flick play
+so it's a great question and we are
+basically tackle uh both directions our
+platform is a field G oriented we have a
+self-service you don't need to contact
+anyone in Firefly in order to enjoy it
+we have a free tier that basically any
+any any small team can enjoy and we have
+our like unlimited offering open uh for
+21 days so you to explore and see all of
+the benefits of for a flight but we also
+doing direct sales like address trying
+to reach out to those specific uh uh
+personas that if those space like the
+director of devops the head of devops of
+uh a certain organization
+interested
+as uh as you imagine yourself
+integrating into more and more of these
+companies
+how do you see the cloud World shifting
+simultaneously do you see this problem
+getting bigger getting smaller do people
+are people converging
+on this idea do you find that they're
+diverging and you need to bring them in
+in other words how aligned is where you
+are now versus how the world is Shifting
+With or Without You
+we are in the infrastructure as code
+space right so this is right now uh at
+least as we see at the beginning
+of the transition so we see a lot of
+traction around it there is a lot of new
+startup in the ecosystem and we also see
+ashicor which is a great company that
+basically introduced terraform this is
+the most popular framework for
+infrastructure is code become huge
+company public company they they were
+ipoing uh six months ago
+and
+um
+from that perspective we see that we are
+in a very good place
+go back to your own uh to your own you
+know reason for doing this in your own
+your own interests and curiosity you
+know what what do you enjoy most and
+what you're doing now is it the you know
+entrepreneurial side
+um the the development side the thing as
+a thought leader in the space well what
+is sort of the driving force for you to
+go and start your own company
+there is few but I think uh the most uh
+uh major one will be the shift in from a
+position where I am more in charge of uh
+engineering execution for product
+management
+role where I need to uh be more
+in the business front and talking with
+customers and doing a strategic roadmap
+and stuff like that so this is the major
+shift at least for me and again as a
+devops engineer there is a lot of emails
+to link that we are building so
+I think I had a relatively good
+experience with building products but
+this is the first time that I'm actually
+uh doing a product management role again
+I am interested people that help that I
+recruit that helped me uh with this but
+this is um relatively new to me again
+I'm doing it in the past year and I
+really really enjoy it
+I love it and then it's I I it just
+sounds really cool how are you taking
+you know personal interest you're taking
+a shift in the world
+um identifying the potential then coming
+and bringing it together while learning
+new skills and and finding new things by
+yourself so that's just very very cool
+and I wish you best of luck with firefly
+Iran thank you very very much for being
+here in these 20s short but but also
+minutes so thank you very very much and
+best of luck with the Firefly thank you
+Mithun
+thank you

@@ -1,0 +1,564 @@
+eventually at the end of the day
+we are making sure that
+uh the end user will get a more secure
+product
+and and this is what excites me the
+understanding that
+if we would do right and and if we would
+walk
+uh in the right way and we do the right
+things inside of the product the impact
+can impact billions of people out there
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community community-driven vc fund in
+silicon valley in partnership with
+lumitec sponsored by homeward ventures
+hippo insurance oppos labs synergy
+global hillel at stanford leap
+birthright excel serona partners and in
+media partnership with ctec
+welcome to another episode of 20 minute
+leaders meet guy fletcher the co-founder
+and ceo of cider security
+guy has a rich 18 plus years of
+background of cyber security and
+management expertise with vast
+experience in sas and apsack an aif
+major retired guy held the position of
+apps flyer ciso for three years prior to
+founding cider and before that worked
+for lifeperson as part of the security
+team
+guy fletcher welcome to 20 minute
+leaders thank you so much for joining me
+today how are you
+i'm doing great thank you for hosting me
+and inviting me to to participate in
+this great uh podcast thank you thank
+you for joining me from the from the
+cider security offices and another
+exciting episode talking to an
+entrepreneur in a really exciting space
+today looking at security teams and i
+love the headline on your website
+security at the pace of engineering and
+something that is definitely not
+happening today in the world
+it's something that needs to happen a
+very ambitious goal we'll talk about
+that in a second and but so guy well
+let's start with you know you as an
+entrepreneur you've done some incred
+incredible things before
+previously you were information security
+team lead at live person you were
+information security consultant and
+comsec but most recently uh the cso and
+dpo of apps flyer a company that we all
+know of course and are very proud of so
+some fantastic positions across the
+ecosystem the transition to becoming a
+ceo what what is that about for you
+uh you can say you i moved to the dark
+side of 100
+but i think that
+i you can say that i've been in the
+uh
+cyber trenches uh for almost 20 years uh
+before the consultant before the live
+person i also have been part in the
+many years in the israeli air force in
+the cyber uh security teams uh
+so i grew up for almost 20 years in
+different positions in the in the in the
+trenches of security
+and then you know after a few years as a
+cso and dpo at uh
+ups flyer when i
+part of my
+a lot of my time
+almost day to day i met with
+startup with entrepreneurs and and i was
+really excited about helping them and
+and working with them and supporting
+them and i think that apps flyer has
+been
+an amazing ground for a lot of great
+startup
+startups to grow
+and
+after a few years i
+took a decision that
+i need to do this jump i know it's not a
+trivial jump for a lot of people that
+again to go out from the comfort zone of
+as of cisco and you know and organize
+the place and and everything
+but i felt that
+uh the opportunity is there uh the time
+is is for me is on a personal level is
+uh is uh this is the right time
+and also
+i felt that so let's let's let's delay
+on this point for just a second guys
+yeah the right time what does that mean
+the right time for you why
+why is now the right time for you to
+start a company i mean i understand why
+for a lot of people that are you know
+straight out of the army 23 24 year olds
+you know not much to lose you know
+you're you're a little you have more
+experience a little bit older you've
+seen more you have many more
+opportunities than the average you know
+person in the tech ecosystem why is not
+the right time
+uh there are it's a combination of a few
+things
+first of all my maturity level
+the fact that
+i'm much more
+grown up
+as
+a person as a person inside the cyber
+security industry you know i seen
+everything uh i i by the way part of my
+uh uh
+day to day is try to solve the problems
+that i experience
+in my day-to-day in my
+when i was a cso when i was a security
+team in part of the security team those
+are the problems that i'm trying to
+solve
+and in addition to that i feel that
+you know we are in
+crazy time
+for building a company and and you know
+with uh
+also from an ecosystem perspective the
+adoption of sas companies and you know
+it's becoming more more uh
+uh uh
+easy to consume easy to to
+adopt so i think we are in a very
+different area
+uh than we were like before by the way
+uh you know so so
+a good thing about the corona before
+corona time it was a different uh
+time and now it's uh it's good for
+company to as a sas company to be
+and also from a person a message but
+maybe it's also only from personal
+perspective but today
+as entrepreneurship as entrepreneur uh
+uh
+the ability to balance family and work
+is much
+uh
+better than before
+now you know we meet with hundreds of
+people
+on a monthly basis without leaving our
+amazing office here in tel aviv or
+leaving the house that we can meet and
+we can balance
+the life that we have and as a father of
+three amazing uh
+three princes i want to be with them so
+i think it's a combination of many stuff
+that
+happened and and
+helped me to take a decision uh to to do
+this uh uh uh jump into this uh
+new position and completely new life
+all right
+let's jump into the security world you
+know you have a lot of experience in the
+security space as you mentioned so
+obviously you've felt you've mentioned
+that you've felt a lot of these problems
+firsthand and that serves as part of the
+inspiration for the work that you're
+doing today
+cider what what is the cider you know
+that comes right before the security
+part
+i love cider by the way
+yeah so first of all everybody love
+cider
+it's it's a combination of few stuff
+that
+my co-founder and i thought about so
+first of all it's a five-letter catchy
+name um
+second it's uh it's
+close to cyber and insider but also our
+main domain that we are tackling is the
+ci
+so we're beginning off
+so this is the the beginning of our name
+so it's let's say it's a combination of
+few elements uh
+that help us to take the decision to use
+the cider
+beautiful uh okay so
+what is the problem that you've been
+observing with your various experiences
+you know before we even get to what
+cider security is doing what is the
+problem in high level that you're seeing
+and i imagine that it has something to
+do with the pace of security and the
+pace of engineering
+so the problem today that engineering uh
+engineering uh train you can say moves
+really fast
+and you know they they
+the technology the framework that the
+the stuff that the uh the
+engineering teams are doing is
+amazing and they are moving really fast
+and security teams are struggling to
+keep up with the pace
+and in a lot of cases security
+are
+struggling to to first understand what
+they need to do and and when when it's
+struggling to implement security and
+they are struggling to
+to uh uh
+uh to to adjust
+to new technologies to new frameworks
+and on top of that
+uh the engineering domain uh became um
+area where adversaries are more and more
+focused
+on on that we see in the last year
+numerous
+attacks aiming for that area from
+solarwinds to cod cove dependency
+confusion and just recently uh you know
+the the attack on npm and and the core
+and rca uh packages
+uh and
+and both those uh
+uh changes
+and and and and and
+issues
+uh uh require from the security team to
+think in a different way and to to build
+something that will allow
+engineering to keep up with their pace
+to move fast you don't want to slow down
+engineering engineering need to move
+fast they need to develop they need to
+to
+and and they need to develop as fast as
+possible to support the needs of their
+company
+but on the other end
+you want to allow security
+to be able to to add the security layers
+without interfering that job but
+the adding just adding a layer is just
+one thing you need to add the accurate
+layer you need to add the the relevant
+layer you need to make it uh
+a guardrail
+for the developers and not gates
+for them
+right okay so i'm hearing two shifts the
+first shift that is happening
+security is becoming a more prominent
+issue we're adding an an additional
+an additional you know sort of a
+bottleneck and within an organization in
+order to be able to deploy the the
+software quickly and that is a growing
+concern as we've seen and you have
+articulated in in the in the you know
+most recent years and i and and i i'm
+with you and the fact that it's just
+going to get more and more dramatic in
+in the coming years and then the
+addition and then you're saying okay
+well how can we actually you know reduce
+this bottleneck while maintaining the
+accuracy so my question to you guys is
+it more of a question of professionalism
+in the organization or is it more of a
+question of of of the amount of human
+resources you can have is it so is it
+quality or quantity
+in in how do we solve it
+so basically it's a combination but the
+issue with quantity the the resources
+it's it's going to be there for
+forever you know the
+uh uh the human factor in security teams
+is always be will be a barrier you know
+you will never be enough you will
+always going to be outnumbered
+for with the engineers and and the
+amount of processors and developers so
+trying to solve the number it's not
+realistic because you know
+not everybody know how to do abstract
+it's time to train them it's time to to
+understand
+and also uh
+the other side that when you have an
+obstacle or
+deaf cyclops
+security engineering person
+uh uh you need to make it
+uh more professional in what he's doing
+and making helping him to to
+to do his job in the right manner and to
+to assist them in taking the right
+decision and to be able to tailor
+the relevant solution and to to be able
+to add layers of security as part of the
+development processes
+in the
+accurate uh uh in accurate manner in in
+a fast manner and and with
+the minimum friction to the devops and
+engineering team
+beautiful
+so we understand the problem a huge
+problem that is just growing how in the
+world are we solving it with cyber
+security
+so cyber security uh took a a decision
+uh to build a unified platform that are
+going to to provide a single place
+to all the security activities
+inside your uh engineering environment
+what does it mean it means that we first
+and foremost
+giving you the understanding of what you
+have you can say the asset inventory you
+can say the technical dna again we're
+just giving you the understanding of
+this is what you have this is the
+processes this is what is moving inside
+your environment this is how the
+development environment looks like and
+and on top of that
+building
+all the relevant security layers that we
+have inside the platform from uh
+protecting the environment and and the
+ability to tailor uh the relevant uh
+security engines as part of it and and
+you know in understanding what is
+happening there and if something is
+bypassing your environment but
+everything is unified
+on a single place in a single place in a
+single connection without the need to
+integrate
+five six seven different solutions to to
+get
+or to try to get a a
+a decent program an upset program
+how do you even start a company like
+this so where do you even begin do you
+begin with with signing up you know
+potential partners that will give you
+the validation because essentially you
+only know how good you are once you've
+integrated into the ci cd processes
+you're integrated into the sprints and
+you're watching how you're reducing the
+toll on the security teams
+so
+um
+you know because my partner and i came
+from the trenches you can say we came
+with a lot of understanding of the pain
+so once we started to go into companies
+talk about their pain
+it's like was an immediate understanding
+of the pain so we first
+reach out to many companies that
+basically
+every company feel this uh pain uh to to
+start the partnership to start the
+design partner we assemble the three
+design partner
+uh that join us at the beginning of the
+journey
+and
+you know we started to build with them
+the product and and understanding what
+is more important for them and so on
+and
+and now we are
+in in different level and very easily
+once we are uh
+uh uh
+uh
+finished you can say the the the
+development of the mvp immediately
+managed to onboard many many uh
+companies we already uh
+around 30 different uh customers as well
+continue to grow
+incredible so what keeps you up at night
+guy you know if you're looking at where
+you are now or where you're going you
+know what's bothering you at night
+before you go to sleep
+um
+beside the baby that is crying
+so
+i i think that eventually
+what's keeping up that night is the
+employees uh eventually the
+understanding that we have already 45
+employees
+and they are counting
+on me and my partner
+to to
+to to understand that we are doing the
+right uh decision
+and and you know it's a different
+completely different uh
+weight on your shoulder and the fact
+that you know
+thinking about
+how do i make sure that you know they
+they they
+you know it sounds like very uh
+something that
+in this ecosystem can't happen but
+eventually make sure that they can bring
+food to their
+home on a monthly basis and everything
+is okay and the companies
+continue to move forward and you know
+and everything is uh and the the the
+lights are up and and and
+you know it's it's it's bothering me to
+on a daily basis to make sure that
+you know
+they have everything
+that they need
+and we are taking the right decision uh
+uh to support it
+so now i want to ask on the you know 180
+degrees of this question so not what
+bothers you now but you know what gets
+you excited because i see that you know
+and i can feel the energy from your
+voice that the way that you're talking
+about the security and absec world and
+that it's really it's a pain point that
+you're that you're working on and you
+know what what is most exciting for you
+about the journey and is that excitement
+different than what you've experienced
+before now that you're an entrepreneur
+uh
+yeah i think it's um
+if before that you know i change
+one company world uh yeah one company at
+the time
+now uh i'm excited about the fact that
+we're building something that can
+uh change a complete ecosystem and will
+impact
+thousands of thousands of companies that
+will impact eventually their user which
+are billions of users out there that
+will get
+more secure products
+at the end of the day
+eventually at the end of the day
+we are making sure that
+uh the end user will get a more secure
+product
+and and this is what excites me that the
+understanding that
+if we would do right and and if we would
+walk
+uh in the right way and we do the right
+things inside of the product the impact
+can impact billions of people out there
+because we're now working with companies
+that are serving
+hundreds of millions of uh people uh
+from different uh countries
+i love it if if you're thinking about
+the the way you're getting inspiration
+right now see with 30 customers the
+product is still you know it's a it's a
+never-ending changing cycle and
+where you know where are you in terms of
+the inspiration that you're getting you
+know do you are you you know is it from
+a specific place that you're that you're
+looking at or you you know are there
+different sources that you're using to
+enrich yourself and become a better
+thinker and a better leader
+um
+so uh i think that i i i can get i'm
+getting inspiration for many and many
+places one inspiration is that i'm
+getting this from you know from my
+previous uh
+guy from guys cecil
+trying to help
+guy and try to understand what will
+motivate guy what would make sure that
+guy will be happy
+about this product
+because eventually i'm reselling to
+security teams and cesars and the elder
+uh um
+i get inspiration from many uh
+amazing security teams that are doing
+crazy stuff for example uh netflix
+uh that they
+i
+also in my position as the cso and the
+apps flyer i got i drew a lot of
+inspiration from watching what they're
+doing and
+how they thinking about engineering and
+security
+um
+so this is the team uh that i'm getting
+inspiration from uh and and
+and there are some
+amazing managers that i'm getting
+inspiration about
+how big do you want to dream how where
+do you want to be
+how to to manage the team and and and
+where do you want to be
+at the end of the year in two years and
+and and few years from now incredible
+guy i really want to thank you thank you
+for everything i really appreciate your
+time your energy your insights the work
+that you're doing best of luck with
+cider security and thank you for
+spending these 20 minutes with me
+thank you so much for your time and
+thank you for hosting me it was a real
+pleasure for me as well
+thank you very much
+[Music]

@@ -1,0 +1,480 @@
+kahon is a product that will start will
+be the front door that starts
+communicating with the patient may
+either when a patient schedules an
+appointment or when a patient actually
+comes in to the clinic or it could be on
+a tele medicine uh uh consultation with
+a physician kahon will first take the
+the first step and and and have a
+conversation with the patient it will be
+in a chat b or some kind of digital uh
+interface and Kon will ask the question
+will really mimic the thought process of
+taking a history for a patient taking a
+history for a patient requires knowledge
+and understanding of what the patient is
+describing and what are the diseases
+that need to be suspected and and the
+follow-up
+[Music]
+questions mikal Kat welcome to 20 minute
+leaders thank you so much for being here
+how are you thank you thank you for
+having me I'm excited to have this 20
+minute I'm really excited to dive into
+your world in these 20 minutes you are
+the co-founder and chief medical officer
+at cahun Medical and you're looking at
+evidence-based clinical reasoning tool
+for Physicians so this whole integration
+of AI and humans especially when it
+comes to the medical scene I it's truly
+fascinating in a world in which AI is
+becoming such a prominent um you know
+um theme within our work and and such an
+integrator and and
+creating a step function for our ability
+to leverage these tools to to to do our
+job better and at scale of course and so
+I have a lot of questions about what
+you're doing and it's going to be really
+fun and interesting so tell me first a
+little bit about yourself how did you
+get into the whole medical scene I know
+you were previously at several hospitals
+within Israel I'd love to hear a little
+bit about your background okay great so
+we'll start there um so first it's it's
+true I mean what we do what I'm doing in
+what I'm ating my my life right now is
+to building tools to to incorporate the
+AI with with with a uh clinical thinking
+human clinical thinking of of medical
+practice and that's what I've been doing
+for the past few few years but it all
+started as as as you're trying to ask it
+way back I mean I started medical school
+after I was already a a um a programmer
+a computer scientist and and and I
+worked as a programmer for a few years
+and and then only then I started med
+school I started pretty late uh at the
+age of
+27 and and I think the whole medical
+education for me was shifted was a
+little bit different than your average
+medical student because I was already
+thinking how could we do this different
+I was always thinking how can we do this
+different how can we do this better how
+can I educate myself with all the
+uh uh knowledge you know when you study
+medicine you started by with a
+preclinical studies you you study the
+basics you study the the the the anatomy
+and the biophysics and the biochemistry
+and then the pathology and so on and so
+on it's it's a learning process that is
+in layers and it's very primitive um you
+get to memorize a lot of stuff and and
+and and then build it layers by layers
+until you get to the clinical
+understanding of diseases and I then you
+get into working in the words and and
+and and when you get when you complete
+medical studies and you go out into the
+real world as and when I started you
+know my residency really working in in
+in in hospitals and and using utilizing
+all the knowledge that I learned in the
+real life again you're it's it's it's
+amazing how it's only based on what this
+tool has and there is no there there are
+no tools that help me uh become uh more
+uh uh better at at what I'm doing so so
+it came from there uh it was a long
+process understanding that this um that
+there is a need to make us better
+because we are limited as Physicians as
+Ur and it's amazing how technology you
+know is is everywhere in every field of
+our lives but for some reason in in in
+medical practice it wasn't yet uh it
+hasn't yet uh um um was was never
+incorporated into that well let me ask
+you then you know you know to even
+understand what are the possibilities
+you know so you you understand the limit
+you're limited by Nature how do you how
+can you now understand what the
+opportunities are so how do what do you
+need to do in order to get from where
+you where you're currently at and to
+know how you can leverage technology to
+make that step function so it's a great
+question because it's not like uh you
+can take technology and and and and um
+make it do uh what we do as Physicians
+it's it's it will never take over uh
+everything all the aspects of being a
+physician but there are some parts and
+you have to understand that what kahun
+uh what what what the professional uh
+Physicians do is incorporate knowledge
+and experience and the clinical skills
+that you Pro that you build up and and
+grow uh as uh during your career and
+some
+tools can help in these different
+aspects it's not one tool that can help
+everything so it's first of all being
+open-minded to incorporating tools into
+into the way we work so there are tools
+that help us in the productivity and
+there are tools that help us um in you
+know in imaging and pathologies and so
+on but there are also tools that need to
+help us in clinical thinking and and
+this is this is what excites me and this
+is what excites me because this is the
+core of of practicing medicine is the
+decision making process it's it's what
+we do in every in every moment of Our
+Lives as uh when when we manage patients
+it's everything that we have to do is
+it's when we uh um question our patients
+and when we examine them and when we are
+thinking of which exams they need to be
+to do for for further work up and we
+will decide about the diagnosis and
+where we decide about the treatment so
+many decisions
+and and in these in these core decisions
+there are no tools right all right so
+let's talk a little bit about cun
+medical so what what is what are you
+guys doing and and how are you
+leveraging deep technology to to do
+exactly this okay so when we started um
+I was I was already um I was already
+completed my residency in uh inov in uh
+in saski medical center here in Tel Aviv
+and we started meeting together me T and
+aan there these are my two co-founders
+here at kahun and I know them we are
+friends from like way back because um
+when I was working as a comp as a
+programmer I was actually working in
+company that they founded and later on
+on and the company was sold to life
+person um if you know this company maybe
+and uh and and T Anda know each other
+from even way before like from uh uh
+high school but uh we also are friends
+for a long time and we started to talk
+about how we can leverage technology
+into what Physicians do and what we
+started at the beginning is we said that
+the core the the the biggest gap for uh
+for bring bringing tools into uh
+Physicians uh workflow is BRD bridging a
+gap between the knowledge the the
+scientific knowledge that we as
+Physicians base our decisions upon into
+the uh uh into a structured format so
+that you know we can use algorithms to
+use this knowledge but it had to be um
+very accurate that's you know medicine
+is about accuracy it's an evidence-based
+uh science it's not um it's not based on
+Big Data it's not based it's when when
+when I'm as a physician when I make a
+decision I have to base it on evidence I
+have to be updated with the latest
+evidence and and so this was what we
+started out doing is we started by
+building a a
+language that describes a structured
+language that describes medical
+knowledge between you know all the all
+the all the understanding of diseases
+their U pathology their uh
+pathophysiology which means their uh
+time course of diseases and their
+manifestations and all the statistical
+strength that comes from the literature
+and the epidemiological data that comes
+from the literature and all this is
+captured into uh a Knowledge Graph this
+is the core of kon's Technology it's the
+knowledge representation of of of
+medical literature and that was the
+beginning and then we started just uh
+using just uh building a very initial
+proof of concept before we started kavun
+before we started building the company
+we built a proof of concept and when we
+were like this took about a year uh that
+we we worked on this before uh we we
+started C and when we were convinced
+that this is a way that could work on a
+vast majority of of of uh disciplines in
+in in medical areas then we started uh
+building it from scratch in in in scale
+interesting and so what what is the
+actual product that you're providing to
+Physicians and in their workflow how how
+is sort of this human computer
+interaction taking place so now now that
+we have this you know and it keeps you
+know it keep getting updated and it's
+keeps uh growing all the time this
+knowledge graph that holds the knowledge
+and the algorithmic layer that mimics
+the thought process of a physician and
+this this this technology is and what we
+do with it right now is we buildt tools
+that are guiding the work of of
+Physicians when patients are coming for
+any medical uh services so kabon is a
+product that will start will be the
+front door that starts communicating
+with the patient may either when a
+patient schedules an appointment or when
+a patient actually comes in to the
+clinic or it could be a tele medicine uh
+uh consultation with a physician cahun
+will first take the the first step and
+and and have a conversation with the
+patient it will be in a chatboard or
+some kind of digital uh interface and
+kahon will ask the question will really
+mimic the thought process of taking a
+history for a patient taking a history
+for a patient requires knowledge and
+understanding of what the patient is
+describing and what are the diseases
+that need to be suspected and and the
+follow-up questions and you know we're
+working in a in a market that is very uh
+that has different tools like symptom
+Checkers and and stuff like that but um
+the the the aim of of symptom checker is
+more to to try and guess what the
+patient has or to give the patient
+information about their medical
+condition the conversation that kavun
+performs with the patient is not trying
+to guess what the patient has it's
+getting the raw information so that
+later you can leverage it in in a
+certain way I get that and and so tell
+me a little bit about you know what what
+you've learned about having meaningful
+interactions with patients so what what
+do you need to keep in mind as you're
+building an AI platform that is going to
+be speaking to patients because
+essentially what we're talking about is
+we have you know natural language
+processing is a huge field chat Bots are
+are you know hugely emerging we've seen
+you know the likes of CH GPT Etc over
+the over recent years what are what did
+you what is sort of the fine-tuning that
+you need to do for the medical space in
+order for this to be you know a good
+product this is I'm very glad you
+brought this up because this is um I
+mean what kahun does when kahun
+communicates with a patient it's not
+about the ability to communicate the the
+the language it's
+about performing the clinical reasoning
+that is needed to ask the questions that
+are that are most important that are
+most significant in the patient
+presentation so it's not just about you
+know a patient coming in and describing
+what they're complaining about and
+having a a a like you know
+conversational AI that understands what
+the patient is saying it's about being
+able to ask the patient questions that
+are relevant to what they're describing
+and as the data is accumulated during
+the conversation again the different dis
+es should be suspected and different
+questions need to come up so it's about
+it's like it's it's it's the engine that
+drives the questions not just
+understanding what the patient is saying
+but the engine that drives what we need
+to seek from the patient that's what
+kahon is is about it's not so much about
+the conversation on AI it's just one
+part of it it's more about the clinical
+reasoning the methodologic academic uh
+reasoning that is that is that is the
+the core of what kavun does and that's
+it's it's almost like complementary on
+top of conversation and I and natural
+language processing is is um you know
+it's they're they complement each other
+uh in a way and together we can really
+have an high level I can say even a gold
+standard history taken from a patient
+very and and this is just the first part
+um I mean collecting data from a patient
+in a conversation is just one part of
+data collection that needs to be done
+it's the subjective part it's asking the
+patient what they're feeling and what
+they're ex experiencing and what risk
+factors they have and so on it's just
+it's just one part of it and
+then H there's the objective data
+collection looking at the from The
+Physician point of view it's searching
+for which findings I need to look at on
+a physical examination again the same
+engine is used the same engine of kahon
+that drives what I need to look for
+maybe I need to look for an enlarged
+liver in this patient maybe I need to
+check if they have peritoneal signs in
+their abdomen and so on and then and and
+this goes on and goes on um this data
+collection process and kahun continues
+the whole path all the way to the
+diagnosis and later on the treatment
+This Not That this initial data
+collection in the chat bot is just the
+beginning of the journey yeah no that
+makes sense and so what what is your
+role as as chief medical officer in in a
+company like this and what what does a
+chief medical officer even do and then
+the third question is why is it the
+coolest job that anybody can
+have okay that's a good question and it
+is the coolest job ever um so I
+think okay um what do I do as a chief
+medical auor is you know I it's it's
+more um you know building a company uh
+that is trying to really uh bring or
+change something so fundamental in the
+process of how uh Physicians work and
+what Physicians use uh to to to improve
+their clinical decision- making is about
+uh understanding the needs of the of the
+of the of the providers understanding
+medicine and how complex it is and what
+and how we can capture all this
+complexity and in in in uh in the
+algorithms
+and working together with different
+teams so there's the development team
+which is fantastic and there's the the
+medical team at kahon and which are
+amazing also and and it's about you know
+communicating between the needs and the
+complexity of the medicine and the the
+way that we try to answer and and and
+and solve these problems technology wise
+so I guess I'm I'm all over the place um
+you when you when you people think about
+you know when your role you know in
+kahoun you know what is sort of your
+Lighthouse you know when when you think
+about the chief Med medical officer and
+specifically you within within your
+mission to provide these tools to be
+able to allow pH to to allow it scale to
+help more people so where's sort of your
+your core here in in this Mission what
+do people look to you for um so you know
+the healthcare Healthcare System and the
+good thing about it is there's so much
+to do
+um because uh so much can be uh improved
+to for for us to give better care for
+patients and the market is changing all
+the time um and you know we had the the
+pandemic and and and and we have and
+different technologies that that are
+coming out and and are opportunities for
+us uh and we have to look at it at them
+and and see how they can uh uh we can
+use different uh technology and uh
+aspects of of the market to really bring
+kahun to that vision of incorporated
+into the workflow of
+physician to to help them make more
+informed decisions along the the
+journeys of of of managing patients and
+I think in the company it's this is um
+this is this is how I I I feel that I I
+and there is always uh that point of of
+vision of how to what common is aimed to
+be be and we always have even in this
+changing Market we Al always have to
+keep on track and bring this to life
+because it is so important to bring it
+to I I completely completely agree um
+what enjoy most about your work um well
+I mean it's it has to be the people that
+I'm working with because we have a great
+team here and and we have you know it's
+it's it's such a joy working with these
+uh uh fantastic people who are dedicated
+to the mission that we are all working
+on together and it's fun and we have a
+very good environment here uh fruitful
+environment for everyone that uh can
+bring in their cre creativity and ideas
+and we'll have amazing discussions uh
+all the time on how to again how to to
+solve the problems that come up all the
+time and it's it's just working with
+these uh with these people this is what
+I love and it it definitely sounds like
+it and uh and uh it sounds like you're
+you're out to do a you know really
+positive impact with kahoun and and it
+sounds like your role is sort of this
+integrator and being the focal point of
+the medical scene with the AI scene and
+the development and the product and
+understanding the complexities of the
+patients and the complexities of the
+system and uh being at a time in which
+you know we're under an AI Revolution
+and you know a lot of the technology is
+being made accessible and you're you're
+specializing in how to bring it how to
+bring this layer of professionalism in
+the medical scene to the way that that
+the people can can converse with it and
+that at least that's part of what we
+talked about early on in the beginning
+but then having you know this the
+Professional Knowledge from your the
+domain that you're in to be able to
+actually leverage that and provide a
+higher level of intelligence than the
+traditional the traditional systems
+right yes wonderful and M I really want
+to thank you for coming here this was
+really great and and I really appreciate
+the time and and it can tell how how big
+of a Believer you are in in sort of this
+integration of everything that that
+you're doing and big believer in in how
+technology is coming in the intersection
+of this field and so again thank you
+very much for the time and for the
+inspiration I really enjoyed it thank
+you I enjoyed it so much thank you so
+much for having than you

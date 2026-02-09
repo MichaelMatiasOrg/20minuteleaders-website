@@ -1,0 +1,631 @@
+since the industrial revolution
+we didn't have a point
+of so much leverage
+but now even more than in the past
+a single individual a single contributor
+a single software engineer
+can have an amazing leverage
+bring its impact so think about the
+impact that one live line of code
+one
+file can have
+globally that's amazing
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community
+fund in silicon valley in partnership
+with lumitec sponsored by homeward
+ventures hippo insurance oppos labs
+synergy global hillel at stanford leap
+birthright excel serena partners and in
+media partnership with c-tech
+welcome to 20 minute leaders meet gal
+aviv the cto of digital turbine's ab
+growth platform and the general manager
+of the company's israel site
+in his role aviv leads the global r d
+team developing digital turbines mobile
+monetization and user acquisition
+solutions a key part of the company's
+independent mobile growth platform
+gall joined startup company interactive
+in 2013 and has led the building and
+scaling of the company's technology
+through two exits and acquisitions
+interactive became fiber in 2018 and he
+kicked off his career in the israeli air
+force as a software engineer and
+engineering manager serving as a captain
+in the r d unit
+gal is the founder of the non-profit
+devops training program cloud school an
+early stage investor and serves on
+several advisory boards including offic
+324 alumni association the apple seeds
+academy joined and spot io which was
+recently acquired by netapp he studied
+software engineering and holds an
+executive mba from the hebrew university
+in jerusalem
+gal your
+career that you've had is fascinating
+touching both on on deep research within
+highly bureaucratic systems like the
+israeli air force but also highly
+innovative transitioning also working
+with investments and being working a
+little bit with with jvp and being on
+the advisory boards of some of the most
+phenomenal startups in the in the
+ecosystem like spot io and later on vice
+president r d of interactive which was
+sold to fiber being cto of fiber and
+then which was sold to digital turbine
+and today
+obviously general general manager and a
+cto position within digital turbine so
+gal
+how do you describe sort of your thought
+process through the career that you've
+had
+okay so
+first of all thank you for this amazing
+intro i think i couldn't do it better
+myself
+and before we begin you know i want to
+say it like um being a cto of such a
+huge company and managing such a large
+operation but i want to make it super
+clear i'm i'm a software engineer in my
+mind and soul and and my entire heart
+and that's always my favorite part of
+what we are doing
+and
+you know i think that the the
+interesting part to look at when we are
+watching this journey for the last
+decade
+is actually
+the way you are doing from
+building
+the actual technology of a very small
+startup setting the foundations
+of what's going to be like a world-scale
+platform
+from their very early days of having
+almost
+like nothing very small team writing
+most of the code like you know handling
+production during weekends
+and
+and then you know scanning it more and
+more uh both looking at the team but
+also with their technology
+and our story begins like actually the
+story begins more than a decade ago
+i think i began my way and i began my
+weight coding in a very early age like i
+think maybe six years old or something
+i'm not sure um you know you asked for
+him
+for a funny story some funny facts about
+me and one of the things i got to
+remember was wow i was in zombit which
+was kind of an israeli tech show many
+many years ago when i was very young and
+i think i'm actually i'm writing code
+since i can remember myself
+but my my journey began at the
+the software research and development
+unit of the israeli air force
+today it's named the office 324 but it
+had like different name in the past it
+wasn't that popular as it is today you
+know when i when i joined um
+the israeli air force and the rnd unit
+the type of people who were joining
+those units
+uh were kind of different than what we
+see today
+and
+i i studied my my first my bachelor
+degree before it was like uh part of the
+academic reserve where you call it
+which is the plan where you study for
+your first degree before the military
+service
+and actually what i was building with
+during those years today i'm serving i'm
+still serving like i'm not serving now
+but but um
+in reserve the captain of the unit
+but actually what we were building in
+the unit without getting into too many
+details
+is extremely
+mission-critical or life-critical
+high-scale real-time systems
+and i think that the most interesting
+part is the way you understand the
+opportunity you have
+to use stuff you were building when it
+comes to like those
+hard criterias of being like mission
+critical and then translating it to
+what's relevant outside of those you
+know mission critical systems uh i was
+serving for about um
+seven years in total in the unit
+and after i left i i joined a amazing
+author who founded the small startup
+company in a field which at the time was
+almost unknown it's called ethic like a
+combination of advertising and
+technology and you know it was still
+like on the edge of like between second
+generation and third generation of
+mobile phones it was very early days and
+even the concept of like trading in like
+like ad space
+over what mobile
+devices like you had second generation
+mobile devices didn't mean a lot when it
+comes to headspace
+and these were very early days and i
+actually joined uh to build technology
+but make sure that that it's scalable
+and the interesting thing is about and
+again i'm i must say i was never
+interested in advertising when people
+talk to me about marketing and
+advertising and i'm like coming from you
+know building those
+mission critical systems like
+that's that's not interesting what
+like i was busy building stuff that is
+supposed to help saving people's life
+you know for example i was part of the
+team building the systems that knew how
+to alert on time when a missile is about
+to to
+impact like a
+specific neighborhood wow
+but the interesting thing is
+yeah but but the thing is that you could
+see that the potential when it comes to
+attack
+is the
+scale in real time
+these were also the kind of early days
+of
+aws and later on gtp becoming more
+popular
+when it comes to
+automatically scaling systems okay it
+was something that was not that familiar
+at the time again i'm talking about more
+than a decade ago and these were the
+early days of start building like
+automatically scalable systems
+and
+we just combined you know the expertise
+of like building mission critical
+systems you know talking in the terms of
+nines like
+uh
+talking about three nines or four nines
+like meaning 99.9 percent availability
+of a system it was something super
+relevant when you talk about um
+platforms that you are building is part
+of and like the military service or
+mission critical air platforms but then
+translating it into advertising
+technology making sure that you are able
+to serve like very a huge amount of
+traffic
+in with very high availability of your
+systems
+that was not trivial uh especially back
+in those days
+and
+one of the things uh we figured is that
+if we will be early enough
+at this like smart enough in this early
+enough stage of building the
+infrastructure
+it might be super beneficial in the
+future
+so we built the foundations of the
+technology it took us some years to have
+our first like a financial event or like
+you you know people like to call it in
+israel and exit uh but we will actually
+acquire we were acquired for the first
+time by a public company and then we
+went from being interactive a private
+privately held small israeli startup by
+the way i can call it a garage startup
+and it was actually
+like a garage startup it was like space
+between garages here in the industrial
+arena of peta
+which is kind of incredible
+industrial area of tel aviv i would say
+so kind of you know extreme
+way of
+naming it
+yeah it was it was cool and the first
+acquisition was
+for i would say it was about 86 million
+dollars
+and again it was some years ago so at
+the time 86 million dollars was supposed
+to be matched today you know it's like
+round day around before many startups
+but these were the different days
+and you were acquired by a public
+company it was named fiber it was traded
+in europe
+and shortly after the acquisition
+something kind of amazing happened and
+us as the leadership of the small
+startup which was the fourth or fifth
+one acquired by the huge fiber at the
+time
+we were nominated to lead the new
+company to to lead their fiber and i was
+nominated as cto of the acquiring
+company
+how does that happen by the way because
+it wasn't
+right how does that happen that you're
+joining a new company you know company
+acquires you and all of a sudden you
+find yourself yourself in a position of
+a leadership of the parent company which
+is publicly traded in europe how does
+that transition happen
+so you know i must say it was it was
+these were crazy days and for for many
+reasons one of them is that the company
+acquired four or five companies one
+after the other at the time like fiber
+acquired few companies
+uh interactive i believe was the most
+recent and the biggest one when it comes
+to the cost of the acquisition
+if i'm not mistaken again it was some
+years ago but the point was that we had
+like interactive head like really
+amazing financial and
+business and technological performance
+by the way also big part of the other is
+sub-products or companies which were
+acquired but we had the potential to
+lead this to the next step
+and few things happened it would be like
+too long to get into the details but few
+things which are related to three major
+aspects like products technology and
+business came together and created the
+opportunity for us to take the
+leadership for the entire company
+now the interesting thing was that
+now okay you have the result which is
+the acquisition of many uh
+the result of many acquisitions and now
+you need to integrate
+not only
+not only products like you need to make
+sure that you're building one integrated
+product suite but also that you are
+integrating technologies
+and the most complicated people you know
+different cultures
+you need to build trust
+and you know i must say that i think
+that the biggest challenge at the time
+was the cultural gaps
+uh not the technological gaps by the way
+you know always say technology
+technology is easy once you build trust
+and understanding between between teams
+technology is easy
+um
+but
+the different the gaps in culturing
+technology like in technical culture in
+personal culture between the states
+and europe and tel aviv that was big and
+that was like
+lots of work to to like to build and to
+make it like one solid ecosystem
+and i think that about for about two
+years starting the day i stepped into
+the position
+i was splitting my time
+mostly between israel and europe but
+also the states and that was crazy it
+was like actually you know um
+like this movie up in the air
+um when you like just travel
+um
+from from one from one destination to
+another i was spending like half of my
+time in israel and therefore my time
+just in other states and it was it was
+crazy
+um
+unbelievable
+that's unbelievable yeah so but but it
+did enable us to to integrate eventually
+and consolidate all of the different
+sub-products into one strong company
+which was just recently i would say
+about a year ago
+going for another financial event again
+another exit this time we're acquired by
+a nasdaq traded company
+a pretty famous one digital turbine
+its symbol is apps
+nasdaq
+and
+again it was the biggest and the most
+recent
+after a few acquisitions by digital
+turbine which included also
+ed colony and the israeli startup
+appreciate as well
+shortly after
+i was asked to take the leadership for
+the entire israel operation which
+includes also
+the appreciate technology and some
+former digital turbine technology based
+here as well
+um and in parliament to this also to
+take the position of the cto of the
+entire app growth side of digital
+turbine which is the edtech-related
+aspect of its entire technology
+so that's actually what we are doing now
+and that's what i'm building now
+um
+and
+i i need a i need a breath
+from hearing about this crazy journey on
+all the different transitions you've
+made here you know from
+a from interactive you know privately
+held israeli company to transitioning to
+now being multinational and being in a
+leadership leadership position in a
+publicly traded company where you're now
+and you as the cto and as an engineer
+from
+priestly when you were born you're
+basically saying that you know techno
+once you figure out culture and people
+technology you know technology gets
+there and that's a big thing for
+somebody from somebody in your position
+and then going through another shift and
+now being in a leadership position
+within a u.s
+nasdaq company a us publicly traded
+company and and and dealing all in a
+world of extreme scale but in a world
+that you never actually intended of
+necessarily getting into marketing in
+that tech
+yeah so you know i think that first of
+all it was an amazing journey and i must
+say
+that i think that there are
+very few constellations
+that can make somebody who is mostly
+about tech and engineering
+stay and and grow together with a
+company or companies but you know when
+you when you build a team and when you
+build technology and you build stuff for
+so long and you are so strongly invested
+um
+you really feel you have an opportunity
+to build something which is bigger than
+the sum of its parts
+i think that the most interesting point
+to
+understand you
+and looking a little bit about about the
+business so yes i'm not i'm not about
+marketing i'm not a marketing guy and
+they're not about
+advertising that's not my thing it's
+about technology
+um
+but
+i'm also
+um
+into engineering and i'm also into scale
+and we need to understand something when
+we are talking about a company like
+digital turbine
+investing
+so much in acquisitions most of them in
+israel but also globally just to to get
+a bit of understanding only in the past
+year digital turbine invested um
+about more than one billion dollar in
+tech
+acquisitions
+now looking at the core assets of
+digital turbine
+which is the presence yeah and and by
+the way today digital turbine has
+presence like code bases on device code
+presence
+on more than 700 million devices
+globally
+when you take this and you connect it to
+the scale
+of wow
+the ethics side of the company
+which is let's say hundreds of millions
+of live transactions every minute
+you get like amazing opportunities okay
+now of course there are aspects of data
+privacy and so on but
+this is engineering in scale right so
+when we are talking about technological
+opportunities bringing scale
+that's exactly where you made it and
+that's exactly when
+also israel like israeli engineers has
+the opportunity to be part of something
+like really global and much much bigger
+incredible
+incredible i have a question for you
+guys
+if you're looking at this engineering
+feat of global and scale and obviously
+you're in
+the space and you're both you know
+heavily investing in but you're also the
+technologies that you're building with
+digital turbine and having code run
+obviously on i can't believe how many
+devices you were mentioning before
+what do you what did you learn as a
+leader as an engineering leader and as a
+company leader when you're leading teams
+in the world of scale what is sort of
+the leadership
+um experience that you have to exude on
+other people and with other people
+to get to a point where you're doing
+skill properly because everybody loves
+the word skill but how do you actually
+lead it lead an organization to do scale
+in a way that maintains
+the quality
+and allows the organization to grow
+innovatively
+while maintaining its high scale
+okay i love this question i can i really
+love it because it touches
+the core essence of what i love talking
+about when it comes to engineering first
+of all
+the way i look at it there is a huge
+difference
+especially when i hire people but there
+is a huge difference
+between programmers and people who write
+code
+to software engineers
+and i'm a strong believer in software
+engineering okay and and it's different
+coding is not software engineering
+and how is it connected to scale
+so thinking about the numbers okay let's
+talk about the fact that potentially we
+are touching hundreds or millions of
+millions or even billions of devices and
+users globally okay once i try to
+analyze it it seems like 1.3 billion
+different users are going for our
+servers every month
+just you know some kind of idea now
+since the industrial revolution
+we didn't have a point
+of so much leverage
+but now even more than in the past
+a single individual a single contributor
+a single software engineer
+can have an amazing leverage
+bring its impact so think about the
+impact that one live line of code
+one
+file can have
+globally that's amazing you know we
+didn't have this like that that was
+the entire thing behind the industrial
+revolution in the past amazing but today
+it's much more
+like you you we we have no such
+situation in history with this huge
+leverage but
+with an opponent i always say with
+opportunity
+come the responsibility
+and the way i see it there is no real
+difference between a software engineer
+and the structural engineer
+and you know when you walk around the
+city
+when you drive over bridges
+and you look around you know you see all
+those sky campers scarpers and you see
+all those buildings and you go through
+elevators
+you know you you want to know
+that a solid engineer has planned and
+signed
+all this stuff around you right because
+if it was not done by solid engineers
+who understand the fundamentals
+behind the basics of what they are doing
+you couldn't
+feel safe right and we had like cities
+falling apart around us
+and that's exactly
+how i see engineering for scale and
+again that's our responsible
+responsibility building the next
+generation of platforms of global
+scale systems
+and making sure that it will not
+not only be good for
+a you know bringing is bringing some
+investors and money on board but
+actually serve us globally in scale and
+i think that that's the most interesting
+i think that
+i think that what you're saying here is
+is phenomenal and i i just love and and
+i'm inspired by your outlook as an
+engineer as an engineering leader as a
+coder
+and but and as someone who who's who i
+can see is so passionate about the way
+that the way that these organizations
+are being led and the way that you're
+thinking through so intentionally your
+own leadership style and so
+complementing that of the organization
+and at the end understanding the global
+complexities of what you're dealing with
+but at the end it all comes to people
+and it all comes to culture and it all
+comes to us working together
+it doesn't matter if you're a software
+engineer it doesn't matter if you're the
+ceo or president and and that is a huge
+takeaway of mine from from these 20
+short but very meaningful minutes and i
+really want to thank you for your time
+and for your effort and for your energy
+i know how busy you are and i can't wait
+to to share this with friends and family
+and and other entrepreneurs around the
+world so thank you very very much girl
+thank here thank you michael
+have a great day
+[Music]

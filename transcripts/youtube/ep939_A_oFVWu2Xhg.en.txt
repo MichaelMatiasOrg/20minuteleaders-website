@@ -1,0 +1,898 @@
+creative keyboard's goal is to to help
+people communicate better right most of
+our social lives today there's on social
+text apps on our phone and the thing is
+not everybody is as good as in
+communicating via text as everybody else
+right some people are very good uh
+person to person communicating like face
+to face but when they're giving texts
+given texting on a chat app it's not
+easy for them and they can't express
+themselves
+so that's what that's the problem we're
+going to sell we're trying to solve
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+hello and welcome to 20 minute leaders
+today we're going to be talking to noi
+Shulman all about Consulting with
+artificial intelligence the integration
+of artificial intelligence into
+Enterprise and how we can leverage Ai
+and NLP solutions for different
+mechanisms today he is running a new
+company which we'll talk about as well
+make noise a data scientist and AI
+algorithm researcher adapt in developing
+tailored AI solutions for companies
+noise specializes in helping companies
+integrate deep learning algorithms into
+existing products
+talking from a one of the best areas in
+the world of Ho Chi thank you very much
+for being here no you've been working on
+some really really fun things I have to
+say you know working a lot with with
+companies and integrating artificial
+intelligence into their into their
+Cycles into their technology stack and
+something that I'm that I'm deeply
+curious about because it's something
+that is so relevant in our life today as
+we have so much research taking place
+and into into these new models that are
+coming out some of them are are more
+generalized some of them are more
+fine-tuned and I'm curious to hear your
+perspective on the integration of these
+Technologies either either from research
+lead in-house or taken as a black box
+and then also transitioning to talking
+about yeah the new company that you're
+working on that is very NLP centered so
+thank you again for being here and I'd
+love to hear a little bit about your own
+background sort of how what is your
+background with technology how did you
+get into the artificial intelligence
+space
+uh uh I'm an electrical engineer I
+studied as a technical
+so I finished school about five years
+ago at University and I just fell in
+love with AI during school I just took
+this course on computer vision because
+somebody told me it was cool and I just
+fell in love with it immediately and I
+said this is what I want to do
+and then I quit my the other job that I
+had in chip design and I said I'm gonna
+find a job or I get to do deep learning
+and it wasn't that easy because back
+then every company I called was like
+we're accepting only PhD and we're doing
+that and I I just didn't let go until I
+found this company who gave me a chance
+and this was a
+very small company and what we were
+doing is the giving services to
+different Enterprises and also different
+startups they want to develop their
+machine learning or deep learning
+capabilities but don't know how to do
+that
+so that's what I did for about two years
+and then I just uh I moved out of that
+and just starting doing the same thing
+on my own so me and my brother started
+in business he's more of a hardware guy
+I would do algorithms and so we also did
+a lot of projects that are really end to
+end but you have Caldwell take actually
+the signals and also do the algorithms
+that uh we we were giving a whole
+solution enough for the past about six
+months I've been doing something called
+creative keyboard that we're going to
+talk about later amazing and so tell me
+a little bit about your store with say a
+little bit about your work you know
+what's your brother working with
+companies I'd love to understand a
+little bit better sort of the process of
+what you've learned about the
+integration of these AI systems within
+organizations what what you know what
+what types of
+of the I guess relationships do you have
+when you're when you're coming in
+outside and helping them do this either
+you know do you develop it do you mainly
+consult with them on what technologies
+to use how does it actually work
+so it really changes sometimes we were
+hard to do Consulting and sometimes we
+did the whole integration and
+implementation and everything
+and that
+more into that the the world has kind of
+changed I think uh introduction of gpt3
+style models like very large language
+models kind of change the world but not
+that much because they're not practical
+in every use case so even though I
+haven't been doing this for a long time
+like people say oh I've been doing this
+for 20 years I'm only about five years
+in this business the things change five
+years ago we didn't even have three
+solutions five years ago we didn't even
+have friends so your your before even
+you know the main big the big hype that
+we've had
+oh yeah so we think about now about the
+introduction of gpt3 as a very
+transformative technology but before
+that came built and Bert was really
+exciting because
+because it was the first time that
+people made a general language model
+that we can fine tune uh trade on a lot
+of data and fine tune on a different
+task I guess it's probably not the first
+time but it was a model that was very
+widely adopted but still when we were
+using birth we needed a lot of data from
+the company or the Enterprise that is
+specific to their tasks which is kind of
+different today with a very large large
+language models so what we would do is
+come to some organization
+talk to them about the task and
+understand if they can actually have the
+data because usually uh not usually I
+think 99 of the time and this world and
+it was true since even before birth that
+the models of Open Source you don't
+really invent any algorithms today like
+some people do but most people or the
+world is going towards data driven so
+it's a lot more important to have the
+right data and understand what does that
+mean because that's not an easy task as
+well so have me no an organization has
+and and tell me what you know you're
+mentioning the importance of data in
+fine tuning but let's let's talk to me a
+little bit more about why they
+generalized approach of gpd3 Jurassic
+Megazord Palm Lambda all these large
+language models that these huge
+companies are building why are they not
+and one size fits-all solution to these
+NLP types of questions that that
+companies have why is that not enough
+okay that that's a good question and it
+might be enough okay for some tests
+these modelers are definitely enough and
+there are two types of tests I would
+divide the answer that these miners are
+are not a good match okay the first one
+is is it a lot easier to understand it's
+about money these models are expensive
+to run so if you run your model A lot of
+times and you need a lot of answers and
+you get little value
+out of every answer they it might not be
+a good fit for you because it's just not
+expensive so it's not it's sorry it's
+very expensive so it's not it's just not
+scalable you want something cheaper so
+you want a smaller model than dp3 who's
+using it is very expensive because it's
+a lot of processing power okay so this
+is one uh one reason why not use this
+huge models and the other uh the other
+is that it's just they don't really
+always Supply the
+the right answers so maybe you can use
+gpt3 and also fine tune it on some of
+your own data to make it understand
+better your use case but in the end when
+you're using this very huge models you
+need to give them some sort of prompt so
+if this is a very easy task you can just
+use the prompt to tell the model what
+you want but if it's uh and it has it a
+little more complicated many times
+you'll be a lot better fine-tuning the
+model so if you fight you in this huge
+Megazord
+that's good and it will get you the best
+results but you usually can use not a
+lot of examples even tens or hundreds of
+examples to find you a smaller model
+maybe 10 times smaller than gpt3 and get
+better results than a non-fine-tuned
+gpt3
+I mean that makes sense
+in regards to to the data for fine
+tuning what does that look like what is
+fine-tuning what does that require from
+a company who come and says we want to
+be special we want to specialize in a
+specific context
+and they're thinking okay how do I make
+sense of fine-tuning generalized
+approaches what what do they do at that
+point
+literally tangibly Okay so
+so it it's definitely very different
+between different companies so let's uh
+try and think of an example
+so let's say there is a company and I'm
+sure there is a company that does uh
+that takes the doctor's notes from uh
+patient meetings
+and this doctor who writes the things in
+his uh free language okay yes free
+language the patient is feeling that and
+that right I saw this in this and they
+want to take an NLP model to make this
+into some kind of brackets for insurance
+claims okay so another uh software can
+process it later so data data for that
+can look like the actual doctor's notes
+and then the tabular data that we want
+to get out of there so where's the
+problem sometimes the com a company
+can't Supply that data because maybe
+it's confidential maybe they just they
+just didn't store it
+okay so that's how data looks like and
+it presents many challenges to different
+uh
+to the companies because let's say a
+company they think they're smart Okay
+first question I used to ask the company
+when I'm meeting them or tell me about
+your data okay and this company oh no
+problem we thought about that okay and
+then we have to die to dive deeper so if
+we go into that same question let's say
+they thought about that and they have
+this one Clinic where the patient said
+they sign some wavelet and you can store
+all the data from that plane okay but
+that clinic might be in some sort of
+neighborhood where they only have uh
+let's say uh
+old people and it doesn't really reflect
+in a different neighborhood where maybe
+they have a lot of immigrants or maybe
+they have a lot of young children
+so sometimes the company collects data
+but the data isn't diverse and it
+doesn't really reflect the real world
+problem that they want to stay I'll say
+so later so that's also very crucial
+make sure the data fit uh
+your test
+and that's it usually the data is the
+challenge it's not easy
+let's say we have the data right so
+let's say I have you know structured
+unstructured data whatever according to
+the problem that I want to solve I'm a
+clinic with a specific use case that I
+have
+now at this point do I need to have some
+in-house researchers that are doing this
+do I leverage generally I'll Outsource
+platforms how do I then actually take
+this data in fine tune it to a model
+that fits my use case what what type of
+what type of resources do I then need as
+an organization do I need to deploy in
+order to actually make this into a
+working NLP model for me
+okay
+so you will need somebody that knows how
+to to do this preferably in-house and
+not the outsourced facility things are
+very Dynamic and you wanna you want
+somebody that will uh go with the model
+and know how to improve it but the
+researchers resources that you need to
+do this are a lot uh smaller than it
+used to be because you used to really
+need a theme data scientists and
+algorithm researchers and do everything
+and now since open source platforms open
+such as the hugging phase where you have
+all the models and you can even train
+online you can do almost everything as a
+one-man show I think data cleaning it
+cleaning it training a model and doing
+everything and then integrating it uh
+just like 1000 person can do this and uh
+it's it's not very difficult today like
+the actual technical part of it
+taking the data putting it in some sort
+of format uploading it
+to let's say hanging face if you it's
+just a very popular open source platform
+and training the model the I think where
+the expertise come in is
+analyzing the results
+you can train the model but making sure
+it's good making sure you don't have
+biases which is our can be crucial in
+some companies
+and uh
+then building some sort of feedback loop
+where you can understand where your
+model is not doing good enough and
+improve it I think these are the crucial
+jobs of algorithm uh developers today
+not actually writing the algorithm as it
+used to be but building some sort of
+feedback loop to analyze the model
+get more data and improve it
+is the most important thing an
+organization needs to know and also an
+algorithm developer yes I'm sorry no no
+it's fine if we're looking a little bit
+ahead and we're and you're mentioning
+that there's shifts right before we
+needed some significant resources in
+in-house and researchers and data
+scientists we needed a team now we need
+a person
+you know we we had to create everything
+from scratch now we have these open
+source models that we can leverage and
+work off of and and you're mentioning
+another Trend that the the a big part of
+the job is turning from a focus of
+building the model and training it to a
+process of evaluating it and improving
+on it fine-tuning on it you know it's
+iterations
+where are we headed so you know the
+we're we're moving very very fast we're
+looking at what AI 21 Labs is doing in
+its effort to commoditize these large
+language models and and and a lot of
+developer friendly platforms like
+hugging face that are pushing the
+boundaries if we're looking towards
+three years down the line what what are
+we imagining or what really you
+speculate will be the process that an
+organization that is not AI focused from
+the get-go what will they need to do in
+order to create a tailored NLP solution
+for their own use case assuming that the
+gpd4 of the world will not be a will not
+be a black box ready for them to use
+so just like I said before it's all
+about data okay first of all I don't
+believe so I I now return to the data in
+a second I don't believe that uh
+algorithm developers are not going to be
+needed it's just like we had in software
+where people used to write and see and
+this uh very hard languages and today we
+have very easy to use uh libraries and
+languages such as python they just do
+abstraction for all the things that
+people had to write by themselves I feel
+it's the same thing okay you had to do
+the bits and bytes uh you used to do
+that in algorithms and now you're doing
+one level above that you but you still
+have to decide which algorithm you're
+using which model fits the task better
+best and all sorts of things now to
+answer your question and return to the
+data it's all about the data so
+companies even though they're not AI
+focused from the get-go they always need
+to be data driven like you need to save
+as much data as you can there's some
+limitations obviously the regulations
+and all that sort of stuff but if you
+have a lot of data preferably if you can
+tag it in some way and organize it then
+you will be able to implement AI
+Solutions fairly easily to your
+organization and what I started saying
+before is about feedback loops once you
+have that uh professional algorithm
+developer in your organization one of
+his main tasks will be to develop a
+feedback loop where you implement the
+actual AI in the product get feedback
+understand when it's working and not
+working and then get more data to
+improve it and that's not an easy task
+it's not an easy task to know when the
+model is not doing that well especially
+if it's in scale because you need people
+to actually look or evaluate it in some
+way it is not easy and
+and then getting more data to train the
+model again also not easy where do you
+come up with unit new data let's say
+this organization has been collecting
+some sort of user data for three years
+so now you understand you have
+this whole subset of the data that
+doesn't exist that you want to create
+it's not easy to create it to create
+something that actually is Meaningful
+and will improve the model
+interesting so I think it's a very
+holistic approach so you need to think
+of the customer the data the algorithm
+they're all working together towards
+making better models
+Now sort of to wrap up the conversation
+on on companies leveraging NLP for their
+own use cases before we transition to to
+this to your new company
+if we're looking at our sort of a
+timeline strategic you know today most
+organizations still do not employ NLP as
+a as a real resource of the organization
+some of them are you know are using some
+tools but it's not it's it's not yet
+appearing in our in our daily lives and
+and and I think we can both agree that
+NLP is going to transform fundamentally
+a lot of the way that organizations
+leverage communication text internally
+externally
+you know when do you expect we will have
+some significant increase in usage in in
+organizations that are you know the long
+tail of small businesses that are able
+to harness NLP how far away are we is
+this you know months is this years what
+and what do you think needs to happen
+for us to actually get there
+it's a great question uh
+I think there are different types of
+organizations right so the innovators
+will innovate
+organizations and companies that are
+used to adopting new technologies will
+adopt them just like let's say 30 years
+ago you had restaurants uh all the
+restaurants were taking the the bills
+and the orders by hand and and now you
+have everybody has tablets right but
+there are still restaurants that are
+still doing the same thing and writing
+these notes by hand sure so these
+companies that are not willing to
+innovate will not innovate that's we
+have to remember that right
+and then which companies will uh will
+adopt the NLP
+I I believe I I believe many companies
+it will happen I think not in the next
+month but let's say two three five years
+we will see a lot more solutions
+but it's also we need to remember that
+this is a means to an end by the company
+doesn't have to have an LLP it has to
+solve some sort of problem for this
+company
+and we can think of different problems
+that uh this technology solves but uh
+that's not the goal right you know
+adopting NLP to companies I believe a
+lot of uh small businesses there's some
+a lot of startups will build products
+for small medium-sized businesses that
+will make adopting this technology
+varies
+so so we will see a variety of solutions
+that are coming out that that are you
+know realize okay these are some general
+um General use cases that companies need
+to leverage in regards to NLP and we
+already see some of these companies
+coming up like copy AI anywhere that are
+leveraging sort of the copywriting
+aspect of NLP and then they're allowing
+organizations to use it as a service not
+everything has to be in-house I'm sure
+we can extrapolate on many more but no
+you're taking a more consumer approach
+to NLP tell me about what you've been
+working on the last six months
+so I've been working on Creative
+keyboard uh creative keyboard's goal is
+to it's not to use these models but it's
+using this models to help people
+communicate better right most of our
+social lives today is on social text
+apps on our phone right that is that how
+you talk most of your friends I guess
+most of the time WhatsApp Snapchat
+Facebook messenger that's just how we
+live right now and you and I are
+probably the same age with people 10 or
+20 years younger than us are doing that
+even more and I believe that's not going
+that's not really going to change uh
+it's just going to grow and the thing is
+not everybody is as good as in
+communicating via text as everybody else
+right some people are very good uh
+person to person communicating like face
+to face but when they're giving text
+given texting on a chat app it's not
+easy for them and they can't express
+themselves
+so that's what that's the problem we're
+going to sell we're trying to solve okay
+we want to help people communicate
+better
+through text on their on their phone and
+we're doing this by giving them
+suggestions okay so we're actually a
+smartphone keyboard
+that uses Ai and uh very large language
+models to give you suggestions on what
+to say so it can be something to start
+off a conversation it can be a reply
+something that somebody asked you and
+can be a compliment we have a few
+different features and uh we're just
+starting out and we're trying to figure
+out what's the best UI to make this
+possible how to make the user actually
+want to use this and uh we're actually
+all about users so I talked to
+there are users of the the app it's like
+it on the Google Play Store you can
+download it playing around and I talk
+with the users every day to understand
+how to make this better what are the use
+cases that are actually uh being used
+and uh that's about it that's creative
+keyboard what do you think is the most
+popularly used for Creative keyboard
+let me listen for you for me and well I
+and and then I have a few questions
+about creative people it's not a popular
+use for you
+what do you think people use it for not
+what would you use it for
+it's a great question
+the great question was popular is afraid
+of keyboard
+um so where do people really want to
+excel at communicating via text and it's
+crucial for them
+they really want to be good at
+for me it's uh for me would be automatic
+responding to things that I would
+respond anyways you know for me it's you
+know the very simple yes no or or you
+know responses that that I that I have
+to be online in real time constantly on
+my phone and respond to people and if I
+have a way of of personalizing that that
+mechanism for me but I think that speaks
+also to a larger question I had before
+of is this more of a generalized
+approach or a personalized approach in
+regards to now the NLP space how much of
+the creative keyboard is me versus how
+much of it is a is a generalized
+communication standard that you learn
+across a variety of people
+you just ask the best question it's a
+great question so thank you for that uh
+the goal is to have it very personal
+right but when you just start using it
+it's not personalized at all right get
+some kind of a generalized uh model with
+a few pictures but as soon as you start
+using it you start inputting data into
+the system that makes it very
+personalized so the choices that you
+make every time you use the keyboard it
+gives you three suggestions okay yeah
+every time you press on something it
+learns what how you like to sound like
+watch the tone watch the different
+things what you use most and very
+quickly it create a personalized digital
+well I kind of I would say companion
+that knows what are the things that you
+like are saying now this is a trap that
+you can also fall to because I don't
+want to always suggest you the same
+things because maybe in some other time
+you want to talk a bit differently so I
+also don't want the model to overfit
+stamps out of you that you won't all the
+time so I have to insert some noise and
+sometimes make it a little different
+so the goal is to have it very
+personalized but for that you have to
+use the keyboard and it has to know you
+interesting now if you're looking at
+autocomplete and the keyboard
+suggestions that we've been having you
+know for quite some time so obviously
+you're coming and saying listen guys
+this is not working we can do much
+better than that where where did these
+Auto suggestions fail I guess in your
+eyes that led you to to start this
+creative keyboard and I wanted to put
+the special emphasis on that on the
+creative work that you decided to put in
+the beginning of the product name
+so
+it doesn't it definitely sounds like
+we're doing something that's uh similar
+to Auto suggestion but actually when you
+use it you you realize it's uh
+absolutely different what suggestions do
+is uh complete you right you start
+typing something and they tell you
+what's the probable next word okay they
+don't invent anything from nothing and
+they're definitely not responsive to the
+person you're talking with they don't
+know what the other person wrote to you
+and so how to respond what we're doing
+is giving you actual suggestions let's
+say uh you know I got a a new dog I just
+adopted a new dog and so you want to ask
+me questions about the dog but maybe you
+just you're just not sure what's the
+right thing to say what what do I ask
+see you can write down in the keyboard
+press the button and it will offer you
+different suggestions different
+questions about dogs
+so let's say you and then you can pick
+one of them let's say you don't like
+these questions press again you'll get
+different suggestions maybe you don't
+like the phrasing of how it said it you
+can press on the paraphrase button and
+get a different phrasing for the same
+sentence but that's something that's the
+autocomplete it just they can't do they
+solve a different problem right they
+make your life more efficient we try to
+make you communicate better by giving
+you different sentences to different
+suggestions to say
+interesting when I get a new dog now
+diving a little bit deeper into the
+anulty scene I get I adopted you dog and
+now a lot of my conversations are going
+to be centered around that right this is
+a new information that the model wasn't
+trained on it doesn't understand this
+yet but how do you then technologically
+go and
+be able to personalize sort of a
+response to something that you may not
+know exists yet right how do I how what
+is sort of my interaction with with the
+model that you're building that allows
+it to then extrapolate on how Michael
+will want to respond in regards to a new
+Ascent that happens in Michael's life
+um you you mean people ask you about
+that new dog that you adopted well I
+mean perhaps I I mean in my in my in my
+daily communication I my communication
+changes based on my life's events it
+changes based on my for my Outlook
+during the day some days I'm more
+optimistic some days are more
+pessimistic it's the more optimistic and
+some days I have and some weeks I have
+something that I'm really excited about
+that that is sort of the center of my
+conversation how does how does a model
+or a creative keyboard adapt to my
+changing neurons that are changing based
+on experiences that that the model isn't
+aware of necessarily
+okay so we first need to remember that
+this is not some sort of boss that talks
+for you right this is a keyboard that
+gives you suggestions right like when uh
+when you ask the question I felt like oh
+maybe let's uh boss is not talking like
+me no that's not the uh that's not the
+situation no they were the one questions
+definitely so let's talk about replies
+because I think it so somebody asked me
+a question and maybe on Sunday I'm
+feeling very happy and grateful for my
+life so I want to give a responsive it's
+that on some other day I have a bad mood
+and I want to say something else right I
+want to reflect that in my answer
+because I don't want to give some sort
+of a wrong impression so creative
+keyboard is built around there when you
+press the reply button you get these
+Emoji emojis that uh you can pick one of
+them and get their replies on the modes
+of uh what you're feeling so you can
+actually try to press the Emoji of what
+fits you best today and you'll get a
+uh reply that fits your mode okay now we
+need to remember that this is also
+personalized so the keyboard will learn
+how you respond when you're in sort of
+mood because maybe some one person wants
+to share his feelings and talk about it
+and you and some other person
+acts differently and rather not talk
+about it and just make the other people
+person just know that he's not really up
+for a conversation today so we need to
+remember that there are different first
+sets and each one can have the mood
+button a little different sure sure so
+that's what we're doing we obviously
+can't respond to your life event without
+knowing what it is but we the keyboard
+has enough functionality to make you
+very easily
+uh teach it what's going on with you and
+I think this speaks to the important
+trend of the integration of NLP with
+different use cases which is this idea
+of what is sort of our our input into a
+response from from the model right and
+you're mentioning yes Michael you're not
+going to be I'm not trying to replace
+you with the bot I'm not I'm not
+recreating Michael what I am doing
+though is I'm allowing you to give to to
+create some some idea of how Michael
+responds and how Michael thinks and if
+you're able to guide me with some very
+very quick inputs into what where you're
+at right now then I can guide you
+towards something that will be closer to
+what you would have responded and and so
+I guess the the thesis here is that if I
+if I give you a few quick inputs that
+are easy for me you'll be able to
+provide me with the more comprehensive
+response that I would have responded
+with and and all I need to do is I I
+need to guide you with this you key
+inputs right and that's really the the
+the the creativeness here
+yeah uh
+I agreed until you said that's the
+creativeness yeah okay because what I
+thought you were saying is about uh
+recreating a digital micro but I can
+talk the same as Michael and just uh
+being about efficiency right you you
+pick the thing instead of actually
+writing it down but that's not really
+our goal because uh you don't need a
+digital you because you have you you can
+just type whatever you want sure I want
+to help you be more creative on your
+text conversations okay and so the
+keyboard actually suggests things that
+you might want to say but you didn't
+think of at the same moment maybe
+because you're not just that great at
+communicating via textures I believe of
+the face-to-face we talk differently so
+I want to suggest things that you want
+to say that will have a more meaningful
+conversation or it doesn't have even to
+be meaningful can be funny it can be fun
+I want you to have a better interactions
+using the keyboard so this button we
+have it actually is to just a cheated
+suggestions based on uh some subjects
+that you write okay
+so
+uh and so sometimes I talk with my
+girlfriend when I'm using the app and
+she's like uh honey can you bring some
+uh cheese home and then I put cheese
+into the suggestions and get some funny
+shitty sentences that I I tell her you
+melt me like cheese and these kind of
+things now she knows I'm not serious and
+it's the keyboard but it makes the
+conversation funny and fun and uh just
+makes the interaction I think better for
+both of us instead of it being just
+transactional
+I love that I love that so so that and
+so that's the creative part that's very
+very poor and and obviously we're
+getting into a world of communication
+and how do we you know obviously we
+don't communicate as nobody communicates
+as well as as we as we potentially can
+and and and I love that I love that idea
+I'm gonna I'm gonna play it out myself
+uh it's uh and I can only imagine how in
+in so many different contexts this
+creative piece it helps create more
+meaningful interactions it creates more
+interest it creates higher engagement
+with the people that we're communicating
+with so so creative keyboard and this
+company in general what is sort of the
+vision or what is a success in in your
+eyes
+uh a success is what we have when we
+help millions of people communicate
+better
+in their social interactions on mobile
+and hopefully long term not I'm not sure
+hopefully this will happen but I believe
+the world is becoming a lot more online
+if it's uh the metaverse or any kind of
+digital world that we're gonna be
+interacting with so hopefully we'll be a
+major product that helps you communicate
+better in any one of these digital
+spaces it's uh starting with mobile
+ending with this metaverse or whatever
+it will be called that I believe will
+happen in a few years fantastic okay I
+really want to thank you for taking time
+to just chat with me
+um I I love the perspective on the
+integration of these machine learning
+models into business use cases the
+generalist versus fine-tuned approaches
+where we're at to do with NLP moving on
+to sort of the consumer side of it and
+the different use cases that you're now
+adapting your toes in and leveraging
+your experience with so I I'm personally
+excited to try out creative keyboard and
+myself and thank you very much for the
+time and for the energy and and best of
+luck with with this company and with
+with everything else that you'll do hey
+I really enjoy this conversation thank
+you
+thank you Michael I had a great time
+thank you
+[Music]

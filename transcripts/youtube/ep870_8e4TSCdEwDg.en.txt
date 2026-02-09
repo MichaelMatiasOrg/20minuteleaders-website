@@ -1,0 +1,526 @@
+cebellum
+solution is is going to be or in our
+vision is the go-to product or the go-to
+platform for for product security teams
+where they actually manage the risk and
+the security of all their products
+throughout the entire life cycle from
+design through development to
+post-production
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret court ventures j ventures
+riverside fm
+fusion vc birthright excel
+j impact
+leap google for startups and hippo and
+in media partnership with ctec
+hello and welcome to 20 minute leaders
+this episode is with slava bronfman the
+ceo of cebellum
+slava is an experienced cyber security
+leader and entrepreneur as the ceo of
+cebellum he is responsible for the
+business sales and marketing operations
+working with manufacturers and asset
+owners worldwide on implementing risk
+assessment solutions as part of founding
+cyberum's development of a novel product
+security technology slava is the
+official representative of the standards
+institution of israel in the iso 21434
+standard technical committee leading iso
+21434 use case tf
+he is also a member of the sisa software
+component transparency committee working
+on the future standardization of
+software bom
+he holds an msc in computer science
+laude and a bachelor's of science and
+information systems from laude
+i'm so excited to hear why you do what
+you do and you know running cybelum such
+a cool company looking at the life cycle
+of connected devices end-to-end securing
+them
+in a such a weird world that we're
+living today where
+we have such a complex chain of the life
+cycle of the end-to-end of these
+connected devices and i'm excited to
+understand from you a little bit about
+uh you know what are the different
+opportunities that are there why and and
+most importantly why it's so exciting
+for you
+so slava to tell me a little bit about
+yourself and how did you get into the
+cyberspace the connected devices space
+and why you love it so much
+great so um great question michael so um
+i'll start by saying you know on
+personal level i like to to build things
+uh to build things you know especially
+when the there is a big challenge and
+there is um really a big problem that
+involves you know in the interaction of
+uh technological problem together with
+some business problem and the
+interaction of the two is really where
+i'm getting excited and i think that's
+it's something that we are solving today
+in cebellum
+um so as i said seven we are in the
+product security world which is um you
+know different from i.t security or ot
+security uh because we are dealing with
+uh mostly with you know when when you
+say product security it's really not
+about iot or small devices it's more
+about
+you know big safety critical systems um
+you know like connected vehicles and
+medical devices
+um you know industrial iot stuff like
+that
+and um i got to this field you know or
+in the cyber uh field in general from
+like i guess most of the
+cyber interpreters in israel from the
+israeli military right from the israeli
+army served in the um
+in the intelligence corps and we're
+dealing a lot with connected devices uh
+from different angles of that uh issue
+and when we started cyber we basically
+you know we
+we were looking for a big problem to
+solve and one of our uh let's say
+advisors he used to run the product
+security team in daimler dino mercedes
+today is already mercedes-benz it used
+to be daimler and he basically you know
+presented us the challenges that he had
+as the you know the head of the all the
+product security meaning uh leading all
+the vehicles security of mercedes
+and um you know believe it or not it was
+really funny for me then to to see that
+there is no regulation whatsoever and
+right if you look at all the i.t
+security there are tons of um you know
+cyber security practices and and
+regulation and standards and so on and
+when it came to um
+physical you know to real uh safety
+critical uh systems like vehicles there
+was practically nothing there and the
+other very interesting challenge is that
+this entire industry like automotive and
+others are completely built on a very
+complex supply chain
+meaning eventually right the
+manufacturer who we call the
+manufacturer like you know mercedes ford
+mazda you name it uh they're basically
+the biggest integrators in the world
+meaning they're taking all the
+components from their tiered one uh
+suppliers who then receive you know
+components from their tier twos and so
+on and eventually they are integrating
+all these black boxes together
+and traditionally they you know they
+were okay because it was only about um
+safety so you don't need to see inside
+those black box components to understand
+you know the the safety level of them
+you can just you know do some crash
+tests and stuff like that to understand
+if the the component or the system is
+safe or not
+but when it comes to cyber security um
+you know it is challenging to protect
+the system even if you have a full
+visibility inside if you if you are
+developing gate and have all the source
+code and so on so just think how
+complicated and complex it is when uh
+you just get the completely black box
+component and eventually the liability
+uh for the security of that is yours
+so um you know to me it was absolutely
+fascinating to understand you know to
+see both the challenges
+um and how complex it is and that there
+is no solution and you know the business
+part of that was that i understood that
+this is an emerging market a huge market
+uh with very few players that are um you
+know playing there and even the ones
+that are playing they're trying to take
+traditional i.t
+uh solutions and apply it to to the
+product security world and we basically
+thought differently and that's basically
+how we kick started cyber
+can you tell me a little bit about sort
+of the the early days of when you
+started this a little bit about you know
+you're mentioning coming out of the
+military and the intelligence and and it
+sounds like you have a different point
+of view on on the complexity of these
+connected devices and and and the way
+that you're you're going to solve this
+problem i'd love to hear just a little
+bit about you know your own strategy and
+thinking process first-time entrepreneur
+coming out
+you know starting this thing and saying
+no i i have this great vision i i have
+this problem that i that i truly love
+and a space that i love but but still
+there's a gap between creating a company
+from it today post series a and
+from an initial excitement so how did
+you fill that gap for you
+oh
+yeah you know it was actually a huge gap
+that i think i'm still feeling it slowly
+mainly by uh consulting with many other
+people you know many other folks that
+did it um you know greatly um
+a couple of times before
+and that's basically my strategy of for
+my philosophy of approaching things i
+know that
+i i just really try to identify what i
+don't know
+and that's you know one of the hardest
+things to do but uh one once you
+pinpoint what you exactly don't know
+then you can basically i wouldn't say
+delegate but kind of you know present
+this uh problem to someone that's you
+know um been there done that kind of
+um
+and that's
+i think that's what i'm i'm doing for
+the last five or six years i was lucky
+enough you know to
+to have around me um really a bunch of
+uh strategic advisors that i'm used for
+various topics so as i said um you know
+i identified i think the problem also
+you know using some one of our
+board advisors that actually is still
+working with us today the guy that i
+mentioned before who is to to run the
+product security for dandler
+and um
+yeah so i think you know the the main
+thing that i was trying to do throughout
+all this uh
+period is to ask the right question and
+then to consult with many other people
+and as you said there is a big gap from
+you know identifying an issue and be
+kind of excited about it and really i
+really believe in getting in love with
+the problem and that's what i think what
+um i really had you know early on when
+we started cybele
+but moving forward you know to to to
+forming the go-to-market strategy um
+and um you know building the sales team
+doing the first initial sales um
+everything about it hr and so on i was
+really consulting um on almost on a
+daily basis with other people and i
+think that's
+that that's really you know for me it's
+one of the
+secret uh you know to success
+i i love that and obviously there's so
+much more added complexity and from
+stemming from this philosophy of
+humbleness and and of creating the sort
+of personal advisory board of people
+that you trust that you understand to
+keep to keep those checks and balances
+and still you know being in love with
+you know with this problem space tell me
+a little bit about the the vision for
+isabellum and you know i'm translating
+your passion for this research and for
+the space to product to the
+productization of it and how you see
+cybelum interact with with the complex
+world around us well how does that
+happen for you
+yeah so something that we identified at
+the beginning or actually when we
+started it was just in a very few
+companies we identified there is a new
+role
+the role was
+we call sipso chief product security
+officer which in a sense is a peer of
+the cso that we all know from the
+security space the chief information
+security officer you know these guys
+that all the cyber security companies
+are complaining that they are very hard
+to sell to right
+um and uh so we start you know we call
+it the
+the beginning when we started cyber we
+called it the rise of the sip so
+uh because we understood that for you
+know for these uh huge companies that
+manufacturing cars and so on they have
+their biggest asset is obviously their
+products right and they invest so much
+on i.t security um and we understood
+that
+there is no chance that in you know in a
+couple of years uh the role of the cis
+of the sip saw and the budget that the
+you know that the entire product
+security team will will get uh wouldn't
+be at least equivalent to the you know
+to the i.t security of those companies
+um and we you know kind of identified
+this trend of the product security or
+the racing of product security and uh we
+really tried you know to build a
+solution around that practice and again
+when we started product security wasn't
+even a term i think and there is for
+sure no you know practices of how to run
+it what are you know the proper
+way to to you know a proper way to to
+conduct product security assessments or
+you know manage vulnerabilities for
+products
+and so on so we really identified the
+product security team and head of it the
+chief product security officer as our
+champions and tried to build a solution
+that will uh focus on this uh people
+that um and again that our thesis back
+then was that um it's a growing practice
+and it's gonna be a huge market as we
+actually witnessing uh today what
+the product security actually became
+and um our vision is actually to
+continue with that growth so and
+continue to support the product security
+team so um
+in our vision product security is going
+to be a practice uh by itself um really
+similar to i.t security and to ot
+security and so on and um similarly like
+you know like cso have all the tools to
+manage the security of of all the
+enterprise or even you know from another
+world like sales people have the sales
+force uh to manage all their operations
+so cebellum um solution is is gonna be
+or in our vision is the go-to
+product or the go-to platform for for
+product security teams where they
+actually manage the risk and the
+security of all their products
+throughout the entire life cycle from
+design through development to
+post-production uh and so on so that's
+basically where we're heading and um
+yeah
+now we're talking about a vision that
+you're mentioning is
+basically you're continuing on a vision
+that was set forth about five six years
+ago when you when you first started out
+now today in hindsight it's very easy to
+come and say yeah look we have an
+amazing market that is growing and
+everybody agrees that product security
+is is an incredible market
+what what what led you to that belief
+five or six years ago how did you how
+did you get that conviction where you
+were able to come up with this thesis
+and and say this is what i believe in
+and and we're going to build a company
+that will act on it and obviously you
+were right
+yeah so it was you know a combination of
+multiple things um one as i said before
+the first thing was that we saw a new
+role in the company a senior role that
+was reporting to the board
+uh or directly to the ceo and you know
+once you have someone that is very
+senior
+probably or our assumption was that
+budgets and a full team and you know
+responsibility will follow
+the other thing was you know the great
+connectivity
+that uh is actually was starting or was
+just you know picking up uh we all know
+you know we already talked for many
+years or about connected cars and
+connected medical devices and connected
+you know smart meters in the energy
+field and so on but we understood that
+there is no um you know there is no
+certain chance that in a couple of years
+there won't be any regulation and
+compliance for this you know basically
+um
+create safety critical systems so we're
+really um bet on it that you know there
+will be uh regulation and compliance and
+budgets of course will follow and the
+need for you know tool solution will
+come with that as well
+um
+and i think that above all it was uh you
+know um
+a bit of belief that uh
+that everything in uh you know
+everything that is connected needs
+security and eventually it will come
+there so we see every niche market in
+the iit security eventually becomes kind
+of you know
+a real market so
+you know this belief that it will come
+to
+those products uh was for us kind of
+obvious and that's we followed that
+fascinating now as a leader what is it
+what is the success for you here so you
+you you know you love the place you're
+building a great company how when will
+you
+sort of declare success on your own your
+own mission as lava well what does
+lava's success look like
+um yeah so um
+it's a tricky question um
+maybe you know that about six months ago
+or seven months ago we actually um sold
+most of the company to lg to lg
+electronics uh which is uh you know not
+many now but they are one of the
+big largest you know tier ones for
+automotive in the world
+um
+and for us it was actually you know it
+wasn't the end but just another
+milestone uh because uh we actually
+remained a fully independent company uh
+independent brand with our you know just
+we have
+change of uh board members um
+so and and the reason that we decided to
+leave the company independent and not
+just be part of lg or just some
+development center or you know something
+like that for lg is that we understand
+that this field um you know is just kind
+of scratching the surface we're just in
+the early very early days of product
+security
+so a success for me would be that cebu
+will be really the de facto um you know
+uh
+platform or the go-to platform for
+product security teams around the world
+where they are really managing you know
+the security of all their products so um
+you know it's really hard to put
+really
+very kind of
+a very clear milestone when i will say
+okay this is success but
+um but seeing more and more you know
+companies in more verticals like today
+we're focused mostly on automotive
+medical and a bit of energy so going to
+other verticals like telecom and
+aviation and so on and expanding the the
+solution and seeing that cebulum will
+remain kind of a sustainable company uh
+in all these areas for me will be um
+would be a success
+it definitely feels that it's this is
+not necessarily stem just from financial
+reasons and from from that type of
+success but it stems from a real
+curiosity about this field you truly
+believe that this is an emerging an
+emerging space that has big implications
+and organizations in in whatever they do
+and this is a growing a growing market
+that that is now appearing in every
+domain of our life and so it definitely
+seems that that that while you know the
+the acquisition of the majority of the
+company by lg is is a phenomenal
+milestone it sounds like you're treating
+it as a milestone in a more complex
+journey that you're on which is being it
+being a leader in the in the product
+security space and and and i think that
+that stems from you know both from the
+the uh the conversation that we're
+having here the way that i hear you
+speak about your work and why you're
+doing it but also from the way that
+you're presented outside and and
+that's pretty inspiring that's really
+cool meeting people that are you know
+that are truly curious about what they
+do and they're really excited about what
+they're doing to the point where they're
+saying yeah you know a financial
+milestone is another milestone but
+that's not the end goal and so i really
+appreciate that thank you
+no sure absolutely i am you know i'm a
+true believer obviously i'm biased but
+i'm
+i'm all in in that uh in that theory i'm
+true believers i get inspired by
+i get inspired by true believers and i
+really want to thank you for taking the
+time i know you're very busy and for
+coming here and speaking with me and
+sharing with me a little bit about why
+the wife for you and why you do what you
+do
+with cybele and congratulations again on
+all the amazing achievements and i look
+forward to continuing to see what will
+happen with cybelum and and with your
+own work so thank you very very much
+slava and stay safe and stay healthy and
+thank you for being here absolutely
+thank you michael it was a pleasure
+thank you for inviting me
+bye
+thank you
+[Music]
+you

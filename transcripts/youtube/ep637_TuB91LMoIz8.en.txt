@@ -1,0 +1,591 @@
+healthcare
+is all about
+behavioral change
+just because you develop diabetes
+doesn't mean you have to die with it
+right and
+right so
+diet and exercise can go a long way
+outside of taking the pill right so how
+do you how do you
+and it's hard
+it trust me it's hard
+my father was a diabetic i get it uh and
+uh and if you don't have someone to
+coach you outside of the doctor's office
+it's very very tough
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel
+welcome to 20 minute leaders today we
+are in the health tech space meet tom
+foley chief growth officer of genie md
+tom has over 30 years of experience in
+information technology he has led many
+transformative initiatives in and out of
+healthcare his strategic thinking and
+innovative approaches span across the
+wrists to cloud continuum to affect the
+manner in which delivery of care is
+imagined globally foley also moderated
+the health innovation think tank an
+executive collaborative made up of 50
+healthcare delivery systems pay
+organization and healthcare i.t vendor
+thought leaders who offer their insights
+leading to the establishment of best
+practices on a variety of issues
+associated with value-based care
+connected health and virtual care
+tom foley welcome to 20 minute leaders
+thank you so much for joining me how are
+you
+awesome thank you very much for having
+me thank you looking forward to the
+conversation thank you very very much
+for being here i'm excited to talk to
+you about genie md or today the the
+chief growth officer but you've been in
+the tele telemedicine space for a while
+and thinking about health tech and
+and especially you know during corona uh
+more than ever it's it's a
+it's evident this is something that we
+need and i'm excited to hear the
+founding story of genie md but also
+about the different struggles and the
+different things that are happening
+around the world that that you know they
+made this a necessity and so tom maybe
+to get started tell me a little bit
+about your own career your own life and
+then sort of the things that that guide
+you in the decisions you make about what
+things you do
+happy to do so so you know my career
+started long ago
+uh
+with ups actually uh so ups believe it
+or not
+uh in the
+mid 80s
+that's how long ago i uh my career
+started but in the mid 80s when you
+called ups to pick up a package they
+hand wrote that information
+and then they faxed it over to the
+package car center as they called them
+distribution centers and it got to the
+vehicle that said go pick up this
+package
+i started out uh so in in 86 they
+started automating ups
+uh so my very first project was the lead
+systems programmer on how to automate
+the telephone call center so instead of
+handwriting it put it in a computer so
+we did some very innovative things in
+the fall tolerance space uh using pcs
+again think about use of pcs in 1985 86
+versus what they do today um and uh and
+then that led to
+okay i got a i got a package
+how do i
+just like fedex you know at the time
+fedex you know you the fedex truck drove
+away and you knew that the package was
+delivered uh so i got involved in
+wireless data at ups and uh
+and and then and then just then joined a
+wireless data company actually we helped
+build one of the first national wireless
+data networks in the country i left ups
+and went to a company called ram mobile
+data and again think about it 1992
+to 95
+wireless data
+what the heck is that right yeah so the
+thing is about the cell phone
+and what it was then you know again a
+big brick you know
+it was like a backpack you needed with
+long antennas right it wasn't the iphone
+that's for sure and it wasn't an android
+device either uh but the point is that
+uh we built out a one of the ram mobile
+data built out one of the first national
+wireless data networks
+uh in the country uh it's now uh all
+that frequency and things that nature
+was uh uh sold off eventually it ends up
+being in the hands of 18t wireless data
+very very cool
+yeah and then and then from there i got
+involved in a number of innovative
+scenarios and in the early 2000s i made
+a specific jump to healthcare i was
+doing my own independent consulting for
+about seven years i read that i can
+remember reading this article about how
+all this paper
+existed in health care
+and um and that was a problem to be
+solved yeah obviously
+you know health care is always the last
+frontier
+to solve a problem right so
+so i got involved in uh consulting with
+uh the greater new york hospital
+association on transitions of care and
+and and things that nature started up uh
+thompson's e-health media division here
+in the u.s uh just prior to that and
+then i got involved in a number of
+different things as high-tech act took
+off i got involved in a number of ehr
+vendors uh and and helping them build
+out specific uh solution portfolios so
+tell me a little bit about you know the
+telehealth and health tech space from
+your from your perspective and your
+career trajectory and sort of leading up
+to you joining genie md
+what's happening and
+how did that all change when the cover
+broke out
+yeah that's a great question so think
+about uh let's go back 10 years
+in the high tech act right i talked
+about paper in healthcare at the time
+you know you when you walked into your
+doctor's office your your health
+information was on a paper wall
+in a folder and a couple papers and you
+got to look through you know there was
+never it was not online and it was not
+really accessible unless you were
+physically had that folder in your hand
+so high-tech took that paper off the
+shelf put it and computerized it and now
+here we are at covet
+and what kovit did for unfortunately uh
+kovit had
+did exist
+but what kovitt did with telehealth was
+made
+let me back uh we would not have been as
+successful in treating patients during
+covet
+uh not necessarily in the emergency room
+but uh but in the ambulatory centers
+because
+we would not have had access to the
+um primary care office again they were
+closed right so
+high tech actually was a saving grace to
+some degree
+in having your information online right
+and and then virtual care came along
+before covet virtual care telehealth was
+really a nice to have feature and it
+really wasn't reimbursed well from the
+uh from the payer side of the equation
+and so therefore
+uh covet went from a nice to have to a
+must-have
+uh feature within the delivery of care
+model and then what we learned was hey
+mikey liked it uh the doctors liked it
+and the and the patients liked it and uh
+and ultimately it they it started to
+find uh its own way in the value
+in which it brings to the delivery of
+care model so bringing now healthcare
+outside of the brick and mortar is now
+seemed as very viable
+uh and hence why and if it wasn't for
+cms at the time that changed their
+payment uh profile on what they would
+cover during covet
+uh it would not have had the success it
+did have
+so
+uh
+hats off to the cms team
+at the time for making that happen
+genie md
+what is that
+nene md uh the the uh the virtual care
+is out of the bottle
+with relative to
+genius so uh but the point there being
+is you know we provide a virtual care
+platform we're actually we have two hats
+that we wear on one side we are
+integrated with the uh genie md medical
+group so
+you can uh and they provide urgent care
+services online through a telehealth
+session
+uh so if you go to geniumd.com and click
+on the link you you fill out your cheap
+complaint and then eventually you might
+see a doctor
+uh that's one side of the equation
+the flip side and when i say might see a
+doctor is that uh you know you don't
+necessarily have to have a
+visual encounter with a patient between
+a patient and doctor to get a
+prescription written right so doctor
+might say hey i understand your g
+complaint got you got x y and z i just
+sent a script over to your local farm
+right
+so on the on the flip side of that
+equation uh gene emt provides a platform
+so we talk about we might be in a
+virtual care session right because it's
+video but virtual care telehealth is
+much more than just video
+so what so what geniumd provides is a
+full unified portfolio as i call it
+that allows a patient and a provider to
+engage in many different modalities
+modalities meaning
+asynchronously i can go on to my website
+fill out a cheap complaint not ever see
+you and then the doctor could respond in
+many different ways he could respond
+saying hey i get it as i just said or
+hey let's schedule a call let's have a
+conversation
+and then it escalates to
+you know something very new in the
+market is and part of virtual care is
+remote patient monitoring meaning you
+have a chronic condition let's just say
+you have um diabetes
+and uh so as part of being
+diagnosed as having being a person with
+diabetes then uh we might provide you a
+glucose monitor
+might provide you maybe a blood pressure
+cuff depending on the scenario and then
+and then you get enrolled into these
+programs and then we monitor you so
+the the issue is that in in in the
+classic model of delivery of care
+let me just say the average medicare
+patient as an example five chronic
+conditions
+five and sees nine different doctors in
+a given year and they only have face
+time with that doctor for 15 hours right
+right so the question that we try to
+answer and we leverage remote patient
+monitoring is what happens the other
+eight thousand seven hundred and forty
+five hours right that's really where i
+if and you know there's a big issue in
+health care where you've gone through
+the trouble of
+scheduling for the doctor's visit you
+are you know you got your diagnosis you
+got your prescription but i never went
+to the pharmacy to get it filled right
+so the care plan and the behavioral
+change necessary once you get a
+diagnosis is very critical well that all
+takes place in that
+8745 hours right when you're at and what
+not in front of the doctor right so
+remote patient monitoring allows you to
+have a device in your home
+you take a measure 16 unique days out of
+a given month
+and then we monitor that data so if we
+see that your
+your glucose level is out of whack then
+we can engage you
+immediately if you will
+and and and coach you
+uh relative to what you need to do to
+maintain a proper glucose level right
+so
+that's one of many different scenarios
+where remote patient monitoring and on
+top of that another
+feature set within virtual care chronic
+care management
+is
+is able to now provide a 24 7 care model
+and but still leverage your provider
+and still see them these 15 hours as i
+as i've said we just provide now uh uh
+coaching and monitoring services in
+those other like i said that
+8745 hours so now the delivery of care
+models suddenly changes
+right relative to
+uh hopefully better outcomes which is
+the intent less emergency room visits
+because you you're not managing your
+chronic condition properly and
+potentially even less remittance so
+we're lowering the cost of care while
+increasing the quality of care right
+that makes a lot of sense now as chief
+growth officer you're obviously tasked
+with the challenge of growth and you
+know we can all agree that this is an
+important
+problem and the the solution may be
+fantastic but how do you actually
+position yourself to grow
+you know especially at a time when this
+is you know great momentum because
+everybody's thinking about it
+everybody's aware of it what is sort of
+your strategic thinking around this
+well uh covet was good and bad for for
+the market right it was good because it
+highlighted the value of telehealth and
+it and it valued that there are
+uh different ways of delivering care
+outside of the brick and mortar and uh
+we're still waiting on congress to
+make them make all the changes they made
+jordan covet uh permanent so that
+because nothing happens in health care
+unless it's funded right there's no you
+know they're not it's not a charity case
+in in in the context of uh everything is
+uh for free but so the point there being
+is if there's no
+funding mechanism
+reimbursement mechanism the providers
+are less likely to engage in that
+practice so
+what we're doing is now defining what is
+virtual care because as i've said
+earlier
+it's beyond telehealth it's beyond video
+and
+and so the that whole continuum of a
+virtual care encounter inclusive of
+remote patient monitoring
+chronic care management
+and there's a new category that cms
+medicare medicaid is
+launching in 22 relative to the remote
+therapeutic monitoring meaning remote
+patient monitoring says
+you have to have a medical device to
+report your data
+therapeutic monitoring amongst other
+things says i can
+i can i can hand write up you i can type
+in
+my vitals right or other social economic
+uh in
+influences relative to the delivery of
+care so so think about it telehealth
+remote patient monitoring chronic care
+management remote therapeutic monitoring
+changes the whole dynamics so we're
+trying to define
+that
+plot that
+instance of virtual care
+and the and it's all about the
+differentiation our differentiation is
+we support that continuum and it's not
+about only technology but it's about the
+programs and the services that sit on
+top of the technology that ultimately
+allows a provider who doesn't have time
+anyway because they're seeing 25
+patients a day and
+they got their heads down in their ehr
+how do they now monitor those patients
+and engage those patients
+genie md helps solve that problem do you
+find that you that there is any consumer
+behavior that needs to be explained or
+shifted in order to make this the proper
+growth is that is that a
+part of the strategy that you're
+thinking
+it is a huge part of the strategy and
+that's ultimately the the role of the
+coach
+uh because again uh there's too many
+statistics and too many studies about
+what happens after you leave the
+doctor's office either
+your you forget
+what the doctor said no one wrote it
+down or
+you just don't go fill that script as i
+said earlier
+and
+healthcare
+is all about
+behavioral change
+just because you develop diabetes
+doesn't mean you have to die with it
+right and
+right so
+diet and exercise can go a long way
+outside of taking the pill right
+so how do you how do you
+and it's hard
+it trusts me it's hard
+my father was a diabetic i get it uh and
+uh and and if you don't have someone to
+coach you outside of the doctor's office
+it's very very tough
+to achieve your
+uh your goals if you're not willing to
+if you don't have one encouraging you on
+changing your behaviors
+to achieve to as i say to move along
+that awareness to wellness continuum the
+awareness is your doctor just diagnosed
+you with diabetes
+the wellness is i've got it under
+control and i've even got maybe even
+gotten rid of it but what do you do in
+the middle right behavioral changes in
+the middle and and that's how you
+progress towards a better a
+better state of health i love it take me
+back a little bit to your your journal
+so you start off in your program you're
+an engineer you move to networking and
+wireless communication transition then
+to you know to tell health a bunch of
+different things you're obviously
+extremely curious and lots of things
+fascinate you but take me back to you
+your childhood what really fascinated
+you as a child what really sparked your
+curiosity as a kid
+oh man that's a tough one uh i was one
+of six okay and we live and we lived in
+a uh small house three-bedroom house
+with eight people and one bathroom wow
+um so uh and we weren't the uh the
+wealthiest uh family on the block um uh
+good or bad um one would say uh
+good only because it it was a
+uh
+an eye-opener relative to
+um you know
+different ways of maybe doing it not
+getting stuck in the in the fold of
+thinking there's no way out right and uh
+but there's always a way out you just
+have to have a plan and you have to be
+diligent about it so i was always uh on
+the uh on the innovative front
+thinking a bit differently uh
+my mom always said that i uh i i uh i
+ran to a different drum
+uh and uh and uh you know just uh i just
+was very diligent i didn't take
+no was an answer i was uh very
+persistent and uh i i might have done
+things the hard way but it was
+i uh i had a i had a i had
+i had a dream if you will
+uh that uh there was a better side of
+life uh so um wow so that's that's a
+little bit about my background and then
+you obviously need a lot of inspiration
+to have gone to the career that you've
+gone through where do you gather your
+inspiration today what what is something
+or some things that inspire you today
+uh it's just you know healthcare is just
+a
+you know it's the it's the two ends of a
+spectrum right you have
+the bad side of care because you know
+there's a system out there that might
+not be working as
+best as it could
+but then there's so much opportunity for
+not to be in a system that focuses
+on um
+pain right i don't sometimes call it a
+pain management system because
+healthcare if it doesn't hurt you ain't
+going to the doctor
+right it's just
+when you have pain you go to the doctor
+and you're trying to figure out how do i
+get rid of it right diabetes doesn't
+hurt
+right
+and you might not even know you have but
+i will tell you a story real quick
+diabetes and my father had like i said
+had it last five years one leg amputated
+second leg amputated a third an arm
+amputated and a couple fingers right so
+it hurts in the end
+uh it's just a matter of when you're
+willing to accept
+uh that you need to change your
+behaviors and and find and find out your
+consequences so uh it so
+the ability to change a delivery of care
+model
+where you can be treated in the home
+and um and to and but and still maximize
+the ability to achieve wellness
+and encourage people to think about diet
+and exercise and and how it can change
+uh how it can change them first but how
+it can change their their family how it
+can change their neighborhood
+and how it can change frankly the world
+and and because a healthier world
+is is healthy for everybody
+and what are two or three words that you
+would use to describe yourself
+uh persistent is the first word
+uh the second word might be persistent
+i i won't go as far to say the third
+word is persistent but uh focus
+uh
+uh a focused persistency and uh and
+knowledgeable i you gotta do your
+homework uh and you gotta you know yeah
+you're normal a hundred percent and i
+can definitely say that you know like an
+incredible journey incredible career and
+just very very inspiring work
+and i want to wish you best of luck with
+junior md thank you for you know
+improving the lives of so many people
+around you
+and thank you for inspiring me in these
+20 minutes i really appreciate your time
+and and this conversation
+and stay safe and stay healthy and best
+of luck with jeannie md
+thanks for helping me uh having me and
+same to you as well the best
+you

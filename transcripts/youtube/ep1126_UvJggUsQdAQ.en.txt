@@ -1,0 +1,343 @@
+what if we can
+replace the
+electronics with fiber based photonic
+Computing that means to take a
+fiber which is a piece of glass
+elongated
+glass and somehow to turn it from a
+something that carries photons from
+point A to point
+B to something that processes the data
+when the photons pass through it
+[Music]
+he Al and welcome to 20 minute leaders
+thank you so much for being with me
+today how are you I'm very well thank
+you thank you for having me thank you
+for it's great to have an
+audience and through you I hope that
+people will understand many things that
+still seem like science fiction let's
+talk about science fiction a you're a
+co-founder and CEO of cogni fiber um in
+the space of photonic
+Computing what is that photonic
+Computing in the basic it's Computing
+with photons instead of electrons so our
+whole technology world today is based on
+electronics mostly but until now we
+didn't have any issue with it I mean it
+functioned very well we did amazing
+things with
+that until we reached AI
+and artificial
+intelligence is really challenging for
+any type of
+Hardware because the demand for
+trillions of operation every
+second is very heavy on on the
+hardware and you can see it in the cost
+of Hardware in the cost of
+operation and electrical builds and and
+the cooling it needs m
+mhm uh it's simply because when you want
+to transfer trillions of electrons every
+second through wires they heat
+up and they cannot move as fast as
+photons so 11 years ago I asked
+myself okay we have very nice Optical
+communication high speed very low power
+especially the fibers because they are
+really really
+efficient in transferring
+photons so what if we can
+replace the
+electronics with fiber based photonic
+Computing that means to take a fiber
+which is a piece of glass elongated
+glass and somehow to turn it from a
+something that carries for photons from
+point A to point
+B to something that processes the data
+when the photons pass through
+it and that's the basic idea so if I
+understand correctly um a big part of it
+is is adapting the the the photonic
+technology from just being a data
+transfer layer to also being to having a
+compute capability right yeah yes I mean
+we can look at the basic uh
+example if we want to implement let's
+say a gate and electronic gate simple
+end gate or
+gate or if we want to implement a
+neuron like in artificial neural
+networks so if we can do it in photonics
+it would be very fast
+it could reach let's say 100 Gig today
+200 gig 400
+gig and on the other hand it wouldn't
+take a lot of power it wouldn't heat up
+as
+much so that seems like a win-win
+situation and so so tell me a little bit
+about the where we're at in terms of
+productization and with just for that so
+that we have a good basis for the market
+Landscaping so where are we at today
+with with this technology with this with
+other with companies building on top of
+this of the promise of photonic
+Computing um and what timelines are we
+talking
+about so we have today in the world
+about two or three main Technologies of
+photonic
+Computing the first family is based on
+Silicon chips
+and they are called silicon photonics or
+photonic integrated
+circuits and that's adding additional
+layers on top of silicon
+chips so they can become a wave guides
+to guide
+light and most of the companies
+today use this these
+Technologies the main issue is uh the
+packaging of the
+processors and
+scalability so if we want to implement
+for example
+jgpt or other generative AI
+models we need hundreds of billions of U
+of processors or let's say U
+parameters mhm
+and the down the downside with phons
+it's their
+wavelength their wavelength is much
+longer than
+electrons that means that every uh
+component is much
+larger so let's say 10 x 10 microns for
+example as compared to a transistor of
+several hundreds of
+nanometers so that's about one one 1 to
+100 ratio could be 1 to th000
+ratio so things are
+bigger but they're much
+faster and lower on
+energy on the other hand when we look at
+fibers the issue of H packaging is
+similar but the
+scalability is much easier
+because we can uh just connect fibers to
+fibers in regular connection you can
+find the millions of them in data
+centers so we can actually physically
+build very
+large network of
+processors so is is this the world that
+we're heading into that data centers and
+the the the the data computation layer
+within our Hardware eventually will be
+um fiber and photons instead of the
+instead of what we have today so I think
+eventually if we look 50 years
+ahead we'll have three types of
+computing
+machines we'll have the quantum
+machines for specific problems which are
+let's say very hard very
+complex we'll have the photonic
+machines which can do uh let's say
+trillions of full operations every
+second that means accelerate about a
+million times from
+today let's say instead of millions of
+inferences per second we go to billions
+and
+trillions of inference per
+second and of course we'll still have
+the
+iics for control for training for a lot
+of things which are more
+convenient to to make it eventually we
+might go to fully
+photonics but it will take a lot of time
+okay so that's the
+vision so so yeah tell me about Give an
+example yeah go
+ahead one photonic
+machine let's say 10 years ago 10 years
+ahead 10 years ahead sorry uh will
+replace half of the data center
+today h okay that's the ratio of
+computing
+capabilities
+wow okay so a tell me a little bit about
+tell me about cogni fiber so the this is
+so now you're you're you're an
+entrepreneur in the space tell me about
+the company founded how the the journey
+so far and and really what is it that
+you're bringing to be part of the larger
+vision of photonics in the
+world yeah so cogn fiber is about a very
+unique
+connection between the world of Optics
+and
+photonics represented by our CTO
+Professor Zev
+zki which is a world-renowned photonic
+researcher
+and myself coming from uh both
+Hardware but also the brain research as
+my PhD was in
+neuroscience and I'm lecturing about the
+brain for 20 years
+now so this combination of
+Hardware brain
+neuroscience and Optics
+is is something which is unique to
+cognitive fiber
+and we use this uh Advantage so we look
+at the
+brain we look for how the brain does it
+efficiently how how does it
+compute I mean what's the difference
+between regular computers and servers
+and the
+brain of course we are not alone uh the
+field of
+neuromorphics is a very wide field deal
+with
+that uh but I think that stepping into
+the knowledge that I gathered about the
+brain for the last 20
+years with the knowledge in photonics
+they have an I
+bring that is the major advantage and
+the also the source of uh
+differentiators of the
+company so for
+example our V for inference
+systems systems where the data streams
+in from regular fibers in the data
+centers and streams through the system
+and and does the inference without any
+reading or writing to
+memory that is a unique um let's say
+strategy which give us a a very strong
+advantage in latency and throughput and
+what how does the product then come to
+Market what is the product that you're
+building for the
+Layman so for we we start with small
+networks and will grow uh
+gradually so we look at the next year
+we'll have machine Learning
+Systems which are very very fast
+especially low
+latency they could go for the market for
+example high frequency tra
+where they every microsc
+counts or they go to Data Center
+switching to make the training of AI
+generative models much more
+efficient is the play here to work with
+the larger Hardware companies to bring
+this to Market as part of their Hardware
+or how what is the play to Market
+here yes first we want to show the world
+that this actually works and works well
+so the first PC's will probably without
+a large
+partners and then we can get the
+traction um yes we are in contact with
+Intel with Samsung with
+Nidia and
+um and some of them are really waiting
+to see how our first uh products
+work they understand the
+value yeah so it's about the next two
+years
+yeah when you show the product and you
+try to express the value what what are
+the key metrics that that that you care
+about is it mainly the latency and the
+efficiency of the
+computation yeah if we look at the first
+uh product the simple
+ones it's mostly about real time uh
+pattern
+recognition and we talk about let's say
+two up to 10 nond
+delay m that's something which is does
+not exist
+today if we talk about future system
+which are
+larger we're talking about let's say the
+total cost of ownership of a query for
+let's say generative
+AI but also latency because the
+customers do want very short
+latency yeah so and people talk about
+throughput and uh how to divide
+the let's say the bandwidth possible
+bandwidth between customers
+Etc so speed is of the
+essence and but if you look also there
+are some
+fields that cannot exist today so we and
+we are
+enablers for example Smart
+City so today if a smart City wants to
+connect 100,000
+cameras they need a data center
+that's right okay and they cannot afford
+a data
+center most
+cities and if we can provide them a
+system let's say 3040
+million does most of the
+work let's say only a small
+room with some well several other
+pods that would be
+enough so then you can have a smart
+city I mean and the electrical bill will
+be you know
+about 20 kilowatt 50 kilowatt and not 20
+megawatt that's a you know
+basic Revol
+Revolution amazing wow so a what's
+coming up in the next couple months for
+cogni
+fiber we are very excited because we are
+going to present our first uh prototype
+and it's actually
+MVP and uh with this uh presentation
+somewhere along the next q1
+2025 we are going to present this
+technology the aim is at least one gig
+inference per
+second and with power consumption of up
+to 100 VT
+and that's like you know saying we are
+here there's a new technology in you
+know rising up and you better not miss
+it absolutely a thank you so much for
+coming and for sharing your journey um
+sounds like we're in it for the long
+haul and and especially it sounds like
+this is a very foundational and very
+fundamental um technology that will
+change how we experience a lot of
+different existing new is new use cases
+um and of course we're all getting less
+and less patient every day so the so so
+considering the the impact of latency
+and the speed I think that's really the
+key here so a thank you again and best
+of luck with cogni fiber thank you thank
+you too Michael thank you for the time
+thank you so much

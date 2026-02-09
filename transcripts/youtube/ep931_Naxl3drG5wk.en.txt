@@ -1,0 +1,625 @@
+money itself has a program written
+inside as smart contract which kind of
+like defines
+um how much money the person that owns
+the money can use and if the money is
+blocked in certain cases or where the
+money could be used and on what kind of
+things okay so theoretically you can
+with with smart contracts
+um program the money in a way that that
+you could say okay you've um I don't
+know what used up um your quota of
+cigarettes or flights for that matter
+then your money isn't going to be
+working
+um anymore that you could program that
+it's fairly simple to do that right
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello everybody and welcome to another
+episode of 20 minute leaders today I'm
+with me RAV was chosen as one of the 100
+most inspiring women in blockchain 2020
+with more than 20 years of experience in
+finance technology and creating
+award-winning fintech Innovation meravi
+is a world-known fintech blockchain
+digital disruption future of Finance
+investment and trading interfaces expert
+she was named one of 36 top women
+revolutionizing crypto 2022 worldwide by
+techround UK and twice chosen for the
+women in fintech power list by innovate
+Finance UK mayrov specializes in
+Innovative Technologies and their impact
+on the future of banking Finance money
+regulations macro economics and
+businesses as a director at Excellence
+trade and Excellence investment house
+may Rob is a sought after advisor and
+international keynote speaker on
+blockchain fintech 5G nft metaverse the
+feature of money Finance Banking cbdc
+cryptocurrencies and digital disruption
+she teaches consult
+[Music]
+welcome to 20 minute leaders thank you
+so much for being here how are you
+thank you for the invitation I'm great
+how are you
+wonderful you're a recognized expert in
+fintech blockchain webstery and
+everything in between just before we
+started here you were telling me a
+little bit about your upcoming travel
+plans and I got a headache so it's a
+it's quite it's quite an interesting
+position to be in you know in 2022
+um you mentioned a little bit about how
+excited you are about this evolutionary
+step that we're in and and the different
+things that are happening and so over
+these 20 minutes I'm going to pick your
+brain over these transformational
+changes how these different Technologies
+are impacting different systems in our
+lives and how things are evolving and
+changing as you see them so again thank
+you for being here and I'd love to start
+a little bit with your own background
+where are you coming from that that led
+you to be so excited and passionate
+about this space
+um so it's actually that two Geeks of
+mine kind of like uh became a thing
+um uh you know I've been in the finance
+and technology for over 20 years and
+I've um managed to combine the two
+before the name fintech was even created
+I started out as a programmer at when I
+was eight years old actually I started
+programming and I continued programming
+um till um during the.com era and when
+that Bubble Burst uh finding myself uh
+with um you know a baby and Pregnant uh
+I had to find another subject that was
+interesting and I went into becoming an
+investment consultant by
+um a licensed Investments consultant by
+the Israeli security Authority and
+um I did that for a few years and then I
+combined the two
+um as a product and business manager of
+Lumi trade one of the biggest security
+trading websites in Israel I did that
+for seven years and
+um around five years ago I kind of
+entered um the blockchain space as um
+you know it's for me it's just like a um
+you know cryptocurrency though just
+another a whole set of asset classes
+that you know they they're in the
+process of being uh um regulated but you
+know it's just more assets and on the
+other hand blockchain is just another
+kind of database it's just you know
+decentralized and has its up so you know
+it's upsides and it's downsides so for
+me it was a very natural transition and
+um during the last um
+five years I've been working with um
+Banks Regulators governments companies
+startups individuals
+um on everything that
+um has to do with the moving ahead I'd
+say with with these Technologies I was
+the CEO of a few blockchain um uh
+companies I'm a director at Excellence
+one of the biggest security trading
+investment houses
+in Israel and
+um
+I was awarded a few times for uh one of
+the women leading women in fintech in
+London and uh
+um I was chosen a few months ago as one
+of the 36 women revolutionizing crypto
+in the world so um and I'm very
+passionate about you know what's
+happening because I see it as uh you
+know for looking kind of like a
+historical perspective we're kind of
+like seeing I'd say the next step in the
+human evolution in the in the fields of
+finance and uh and it's very interesting
+to see
+um the different Dynamics and power
+struggles that are happening kind of
+like behind the scenes but they're
+they're kind of like pushing and they
+could be pushing in different directions
+on you know what's the future of money
+what's the future of Finance uh who's
+going to be owning um the data because
+you know as you and I know data is is
+you know it was named as the as the new
+oil right
+um so who's gonna be owning that who's
+going to be monetizing that is it going
+to be
+um centralized entities like the big
+Tech like what we're seeing right now
+and governments or is it going to be the
+individuals that are going to be holding
+their own data
+um and monetizing it themselves like you
+know in the and what we you know I'd
+call it the ideology of web3 right so
+it's very interesting to see kind of
+like where things pan out and the power
+struggles happening behind the scenes of
+um
+um uh you know and everything that has
+to do with the future of uh of of money
+and ownership and all the rest of uh all
+of the rest of these for me interesting
+stuff
+what's your take on on what's Happening
+Now you know so my thesis perspective I
+think this but the mirror the fact that
+you're calling it an evolution obviously
+or you're coming into the space from a
+very optimistic standpoint what's you
+know over the last few years we've seen
+a lot of conversation around sort of the
+philosophy of what's happening and this
+evolutionary step
+um how how do you see it evolve you know
+currently where where are we at what are
+the different challenges presented and
+what what is sort of the evolution that
+you expect for us to have with fintech
+in regards to web3
+so I think that what's happening
+kind of like um
+under the surface is that there are two
+kind of ideologies that are on a path of
+uh of uh of I'd say kind of like
+choosing between them and you can see
+when when they kind of like Collide and
+when that happens and
+um and it's interesting to kind of like
+look at the Dynamics because on the one
+hand we have
+um I'd call it the traditional finance
+and the power structures that that we're
+used to having for the last 100 200 300
+years where you have
+um centralized entities starting with
+central banks and Banks and um lately um
+to this to these centralized entities
+the big Tech
+um companies kind of like uh joined in
+and on the other hand you have an
+ideology that started with Bitcoin
+itself but kind of like you know grew
+and grew it's kind of like a ripple
+effect of of of people that come and say
+wait we're kind of like tired of these
+Central entities and we think that the
+power should be shifted into the hands
+of the individuals in various ways
+um you know that the basic way or the
+first way was you know with Bitcoin
+itself saying okay money doesn't
+necessarily need to be that I'm created
+by centralized entities when managed by
+centralized entities it could be
+um done
+um uh you know by by people working
+together on some sort of uh of Ledger or
+or some sort of consensus where people
+agree to each other and kind of evolved
+and evolved to the point where this
+money can be programmed with smart
+contracts and data comes into the
+picture and the ownership of data comes
+into the picture and the new generation
+of this ideology is web 3 that comes and
+says well you know if data is something
+that's worth so much money and the tech
+Giants are making so much money off it
+doesn't it make more sense or isn't it
+more I'd say fair or ethical that the
+individuals creating the data themselves
+would be the ones holding the data and
+monetizing it okay and and and then if
+you look at these two forces you see
+them kind of like you know they you know
+a few years ago I gave a lecture on one
+of the stages and that was I think like
+uh actually before the uh the blockchain
+bubble of 2017-18
+um burst I was talking I was saying you
+know like kind of like I work in Two
+Worlds and they even speak different
+languages I work in the traditional
+Financial world you know I've worked
+there for 15 years right in a bank and
+um and I said I'd buy banks on the new
+technologies and Innovation with fintic
+and everything and on the other hand I
+work in the blockchain sphere where I'm
+bringing I think that the organized
+methods and kind of like the traditional
+kinds of ways of doing
+um um of uh you know of having
+regulation all the rest of it and
+bringing that into into the blockchain
+space and these spaces don't even talk
+to each other and if you look if you
+talk to any of the sides each side is
+going to say why do we need those and
+why do we need those right and they even
+call Money different things these guys
+called Fiat and these guys call it money
+and you know so I was kind of like
+waiting for these two worlds to kind of
+like I would I was thinking they would
+combine into one which would create the
+next step um in finance but what I'm
+seeing you know fast forward four years
+um I'm kind of like seeing that
+it's not I don't think it's going to be
+combined so fast because I think that
+right now there's kind of like an
+ideological
+um uh um I'd say even a struggle between
+um these two ideologies and it's very
+interesting to see which way the future
+will take us right because there's power
+struggles and there's obviously a lot of
+money involved right and um and
+different interests
+um uh so that that's my take on on
+what's Happening and um and the question
+is which ideology is going to kind of
+like uh take the masses and and and
+produce I'd say the next
+um uh generation of money because if
+we're talking about the centralized
+entities the direction that that is
+going to is to Central Bank digital
+currencies which are um the new version
+of um of of of the money that we know
+only in the digital version which means
+that the money can be programmed and
+there are questions around privacy we
+can touch upon that and if on the other
+hand the decentralized as
+ideologies will win then that means that
+it's a big question that's disrupting
+the whole financial and monetary system
+that we've been you know born into and
+that had been has been around for the
+last hundred years of central banks and
+the banking system and um uh and there
+are implications to both sides and you
+know and it's kind of like is it going
+to be a bumpy ride and uh and what's
+gonna you know what's what's gonna be
+what's gonna happen after this bumpy
+ride right because right now it looks
+like they're they're in a collision
+course
+what's been happening over the last four
+or five years that what what shifts have
+you noticed in the market in the
+perception either more philosophically
+um culturally or tangibly well what has
+been some major shifts over the last
+four or five years that could give us an
+indication as to the path that we are
+expecting to take in this webstery space
+okay so I think that that what's
+happening is that
+um the technology is moving so fast and
+the then the use cases that can be built
+upon this technology are moving
+even faster and what's um kind of like
+uh lagging behind or where the struggle
+is at is is on the ethical and
+ideological
+point of view okay
+um if I'm looking at at what's happening
+with um with the um traditional Finance
+then as I said you know um the
+technologies that have been actually
+invented for decentralization are being
+adopted by the centralized entities but
+in a in a way that kind of like takes
+the ideology out and leaves only the
+technology and the use case and I'm
+talking about Central Bank digital
+currencies that um that um you know use
+Smart contracts which ethereum kind of
+invented right but they use them in a
+centralized way which means that the new
+versions of Central Bank digital
+currencies can be programmed that means
+that they can um theoretically
+um and there are there are um use cases
+of this already happening in um in
+different areas of of the world where
+the money itself has a program written
+inside as smart contract which kind of
+like defines
+um how much money the person that owns
+the money can use and if the money is
+blocked in certain cases or where the
+money could be used and on what kind of
+things okay so theoretically you can
+with with with smart contracts
+um program the money in a way that that
+you could say okay you've um I don't
+know what used up um your quota of
+cigarettes or flights for that matter
+then your money isn't going to be
+working
+um anymore that you could program that
+it's fairly simple to do that right
+um and in one of the pilots that that
+that China has done
+um this was done okay that the money was
+programmed and and not only that it
+wasn't the the the program did not
+enable people to save the money that
+means that if they didn't use it up in a
+certain amount of time okay then the
+money was taken from their wallet
+because it's a smart contract you can do
+you can program anything that you want
+right so that's one of the developments
+that's kind of like happening
+um from the one side of the you know of
+the of the traditional Finance I'll call
+that and on the other hand you have
+um um the the evolutions of of ideas
+um and and technology that enable
+actually people to hold on to their data
+and control
+um um uh what they do with their money
+and their data in in a more um
+significant way and I'm talking about
+um for instance nfts okay nfts have been
+used for the last two years it was a
+whole like you know kind of like uh
+there was a hype around it but in the
+fields of art right but
+um but art is not the only use case that
+you can use nfts for okay nfts are
+actually you know they're actually smart
+contracts right again programmed um
+tokens
+um and and and and the next generation
+of nfts are not necessarily going to be
+in and what they won't have to do with
+with the art necessarily and I'm talking
+about
+um for instance
+um the nft that Alfa Romeo created for
+their Denali car wouldn't car what they
+did was that for each car that came out
+they created an nft that holds the data
+of the owner and how much gas and
+mileage the car has been using it you
+know it was serviced and if there was a
+car accident and if a person sells them
+the car to the next um uh holder of the
+car right it's actually that the NF team
+moves on to the next person now this is
+very interesting in regards to the next
+generation of nfds because a this again
+disrupts centralized entities of who
+keeps track of who owns cars right and
+second of all it opens new opportunities
+for companies doing this let's say for
+instance theoretically Alpha Romeo when
+she when they enable
+um the the nft to transfer hands from
+one hand to the other they could you
+know they could start participating in
+the secondary Market of cars which is
+something which is a new Revenue stream
+that did not exist until nft came into
+the picture right
+so um if we're looking at and again I'm
+taking it to this side of the
+decentralized Technologies and what
+humanity is creating we're seeing more
+and more um ideas and and
+implementations of of how technology can
+enable new revenue streams and uh new
+control over over people's own data and
+you know so so these are kind of like
+the things that are happening and it's
+got like happening in parallel and you
+know each one is this developing
+um their own um uh I'd say solutions
+that that that match their interests and
+at some point it's it's gonna have to
+kind of like meet and and and raise
+questions of okay so we understand this
+happening on Sidelines this is happening
+behind the scenes
+the moment that it surfaces I think that
+all humanity is going to have to have
+make a decision of okay where is this
+going are we going to be going into a
+more centralized place where money is
+programmed and privacy is in there is is
+is is is not existent for for private
+individuals and um and it's only in the
+hands of tech Giants and and um uh
+governments and um and uh the
+traditional Finance world or are we
+going to be to the other side of it
+um where um where people are going to
+have I'd say uh more ownership on their
+data and companies are going to have
+more um
+I'd say I'm uh um abilities to create
+new revenue streams based on this data
+and liability for them to come and uh
+and I'd say program and tokenize uh what
+they're creating
+I hope that they weren't clear enough
+a clear on one hand raises a lot of
+questions on the other hand who are the
+main decision makers
+Personnel that are going to Define these
+strategies long term
+in your opinion
+um so I I would say that
+you know
+um again traditionally obviously uh the
+definition of of of
+um what's being created is is regulators
+and governments and um
+and I'd say them the traditional
+um Power structures that that we're
+aware of on the other hand the I think
+that the new technologies enabled the
+masses to kind of communicate with each
+other without needing the kind of I say
+permission
+from from these traditional bodies and
+you know look at people that are dealing
+with some uh with digital currencies and
+crypto they've been trading amongst each
+other whether it's with decentralized
+exchanges or even with centralized
+exchanges for what since 2008 2009 right
+so that's like what 12 years and up
+until four years ago The Regulators were
+not necessarily involved in that and if
+we're looking at nsds right now kids are
+are trading amongst each other with you
+know art and and uh and gaming nfts that
+are worth hundreds of thousands of
+dollars and The Regulators don't even
+they're not even necessarily you know
+aware of it I was I was um educating I
+was a lecturing and uh and uh and um
+kind of like teaching the Israeli tax
+Authority
+um about
+um the metaverse and web 3 and how do
+you tax these kinds of assets right
+because
+um you know when the tax authorities are
+are pretty ahead in regards to
+um uh you know to Innovation and
+regulation I think they're one of the
+I'd say the the most advanced
+um Regulators right so they wanted to
+understand how how do we tax
+um these kinds of assets and and one of
+the issues that that they that you know
+needs to be solved is how do you tell a
+13 year old kid that
+holds um an nft that's worth two hundred
+thousand dollars and he just traded it
+for another nft 200 000 with his friends
+that that's a taxable transaction right
+he doesn't necessarily know that that's
+attractive taxable to that transaction
+and when you go to his parents they
+don't even understand what he's doing
+because he's in his room playing on the
+computer right
+so um so it raises a lot of questions
+and and I think that if like who's gonna
+be shaping this so on the one hand we
+said we have the centralized entity but
+on the other hand you have masses that
+are communicating with each other and
+kind of like creating a new reality
+without asking anybody about it and the
+reality is just being
+um being created I'd say from the bottom
+up right so
+who's gonna be who's gonna be the one
+that that decides where this is going
+right so let's say the government's um
+decide that they don't want
+um digital currencies that they want to
+ban it can they do it can they shut it
+down can they shut down it's like asking
+can they shut down the internet I'm not
+sure about that right so um it's kind of
+like you you know
+the cat is outside of the sap right so
+how are they going to stop it now so
+who's actually going to be deciding on
+how the future is going to be looking at
+the regulators and the traditional
+Finance or is it on the other hand
+um you know the bottom-up and and the
+masses that are understanding and saying
+wait just a minute why is the data that
+I'm creating
+um being monetized by Tech Giants and
+I'm not getting anything from that
+wouldn't it make more sense for me to
+hold my data in a digital wallet and
+then decide who to sell it from and
+maybe I don't even need to work because
+the amount of data that I'm generating
+when I monetize it could be more than
+what I need for my for my personal
+living okay and if a lot of people
+understand that a lot of people realize
+that then and then they decide to
+migrate to solutions that give them this
+kind of monetization abilities you know
+then who's going to be deciding right is
+it going to be the regulator be like
+massive decided to behave in a certain
+way
+completely fascinating I really want to
+thank you for taking this time and
+sharing your your deep insights and um
+it sounds like when one hand while
+there's such a blue ocean that I love
+the way that you're framing your
+thinking around this strategically and
+you're understanding the different
+complexities
+um different from from decision makers
+to philosophies to different you know
+big milestone decisions that we're gonna
+have to make
+um as a society of where we're headed
+and it sounds like those are going to
+have some significant implications on
+the ways that that we're going to be
+experiencing the world around us thank
+you again for exactly for taking this
+time to to meet with me and I and I
+really am looking forward to continuing
+following your work
+thank you very much

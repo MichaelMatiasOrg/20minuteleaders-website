@@ -1,0 +1,536 @@
+most of our competitors um I would
+probably say all of them if not maybe
+just a couple um it's just straight up
+keyword monitoring. So you know you plug
+in a couple of keywords and it'll look
+it'll scrape across the internet across
+social media for anything that just
+contains that word. Um, and what that
+very and end very often ends up meaning
+for marketing teams is you're still then
+stuck with hundreds and thousands of
+things to look through um to make sure
+that is this even worth your time. You
+know, just because something mentions
+marketing doesn't mean that the context
+is right for
+um for you to like actually do anything
+with. Um so on the featurebased side um
+our whole stick um our big like value
+prop is that everything is prompt based.
+So apart from filling in the keywords
+that you want that the post has to
+contain these certain keywords you can
+give it all of that nuance kind of like
+kind of like how you would prompt chat
+GPT. So you can say like I'm looking for
+posts in which people are saying that
+they're having a very negative
+experience with a competitor. So it's
+not just that the competitor's name has
+to be mentioned. It has to be a negative
+experience. You can be as nuanced as you
+want to be about it. Um and so like that
+makes it much more actionable because it
+is something that is um purposeful and
+intent uh is an intent trigger for you.
+[music]
+&gt;&gt; Anna Law, thank you so much for joining
+me on 20 minute leaders. I'm so excited
+to have you here.
+&gt;&gt; Of course, I'm excited to be here.
+&gt;&gt; I I really love talking to founders as a
+founder myself and um those are the
+definitely the best episodes because uh
+what leads you to start a company and
+what leads you to have some insight and
+some conviction over some world is
+always fascinating for me. I think the
+way your background works, you know,
+coming from marketing and and and the
+and pitch ghost, the company you
+founded, I'm sure there was an
+interesting story there with some
+interesting insights as well as what
+you're actually doing today. So again,
+thank you for for taking these 20 short
+minutes with me. I appreciate it.
+&gt;&gt; Of course. Thanks for having me.
+&gt;&gt; What what led you to start a company in
+the social listening space?
+&gt;&gt; Um, so I've always been a marketer by
+trade. Um, and social listening was
+something that was punted to me to do
+manually across all the jobs that I had.
+Um, so I was the person that had to kind
+of like, you know, look at Reddit or
+Twitter or Facebook manually to try and
+find the kinds of like market insights,
+competitive analysis, find posts in
+which people are complaining about a
+competitor seemingly organically and
+then comment on it. Um, and the ROI on
+it was great, but it was an extremely
+extremely manual process and it took
+hours and hours of my time. Um, and at
+that time, um, you know, there were, we
+still have like a couple of like
+enterprise competitors. Um, but we were
+so priced out like I've been in the
+startup game. Um, and you know,
+something that costs like $5,000 a month
+was just absolutely not an option. Um,
+there was no way that any of my bosses
+would ever have signed up on that,
+signed off on that. Um, so it was just
+my part of my job. Like it was just I
+had to allocate a couple of hours of my
+day every day to do that. Um,
+&gt;&gt; so, um, kind of serendipitously,
+I bumped into my co-ound now co-founder
+at the Atlanta Tech Village. Um he was
+working on a different startup at the
+time and um he had built what is now
+Pitch Ghost as kind of like an internal
+tool just for himself to help market
+that startup. Um and so he put together
+this like just scrappy Twitter scraper
+um just to help him find posts for that
+company and that was like his outbound
+system. So he wasn't he's not from like
+marketing or anything. and he's like
+he's a developer so you know he even he
+was like I see the value and like you
+know that just sounds like great
+outbound like you know find the exact
+right post and if I comment on it it's
+kind of like SEO that also lives forever
+um and it's onetoone so he built this
+little scraper that would like find a
+couple of posts every single day for him
+and queue it up and give him a little
+drafted response and then he could just
+like copy that response and stick it in
+that post and that was like his outbound
+sales marketing whatever done for the
+day.
+&gt;&gt; Um, so he had built that as a tool for
+himself and just being in the village,
+this Atlanta Tech village like
+ecosystem, I guess other people around
+him um saw what he had built and what he
+was doing with it and that kind of
+piqued their interest. Um, you know, oh,
+like can I can I use that tool to find X
+Y and Z for myself? Um, and I suppose
+that enough people around him said that
+that when we met, he was in the process
+of platformizing Pitch Ghost and
+abandoning the other startup.
+&gt;&gt; Um, and so, you know, he was looking for
+a co-founder to come on to do more of
+like the marketing and sales, like all
+of the non-technical stuff, right?
+&gt;&gt; Um, and so when I heard about the idea,
+I was like, this is fantastic cuz it
+actually solves the pain point that I
+have. Um, and you know, marketing teams
+are doing this. They either have an
+extremely extremely extremely expensive
+solution or they're having to do this
+manually, but it is a practice across
+the board because PE teams are seeing
+value in social listening. Um, so yeah,
+I'm kind of I'm your girl like I'm the
+right person to talk in the same
+language as um the marketers and be able
+to position this in a way that's
+compelling in the marketplace. So when
+you talk about so one of the ways that
+you're positioning this is actionable
+social listening.
+&gt;&gt; Yeah.
+&gt;&gt; Why why the word actionable? Uh it
+sounds to me that every action that or
+every solution in the market for
+organizations needs to have some
+actionability to it. Uh why did you and
+why did you add the word actionable
+before social listening?
+&gt;&gt; So um for two reasons. One more
+literally featurebased is that um most
+of our competitors um I would probably
+say all of them if not maybe just a
+couple. Um it's just straight up keyword
+monitoring. So you know you plug in a
+couple of keywords and it'll look it'll
+scrape across the internet, across
+social media for anything that just
+contains that word. Um, and what that
+very and end very often ends up meaning
+for marketing teams is you're still then
+stuck with hundreds and thousands of
+things to look through um to make sure
+that is this even worth your time. You
+know, just because something mentions
+marketing doesn't mean that the context
+is right for
+um for you to like actually do anything
+with. Um so on the feature based side um
+our whole stick um our big like value
+prop is that everything is prompt based.
+So apart from filling in the keywords
+that you want that the post has to
+contain these certain keywords you can
+give it all of that nuance kind of like
+kind of like how you would prompt chat
+GPT.
+&gt;&gt; So you can say like I'm looking for
+posts in which people are saying that
+they're having a very negative
+experience with a competitor. So it's
+not just that the competitor's name has
+to be mentioned. It has to be a negative
+experience. You can be as nuanced as you
+want to be about it. Um and so like that
+makes it much more actionable because it
+is something that is um purposeful and
+intent uh is an intent trigger for you.
+Um and then secondarily um we help you
+respond to every single post that we
+give you. Um so we also haven't seen
+that on the marketplace really very
+often. um where most since it's mainly
+like a keyword tracking software that
+most competitors have um that's just the
+core functionality like they'll just
+surface these things to you and then the
+marketing team figures out like okay
+like what do I now like do I want to
+comment on it do I want to repost it
+whatever like you figure it out from
+there um whereas with pitch ghost we
+give you drafted responses to everything
+&gt;&gt; so if you opt into it we'll write like
+um we'll write the copy for you can
+always edit it we'll have that like in
+the tone of your messaging and your
+brand voice and everything. Um, you
+know, it's got all the context of the
+post of what you do, everything. And
+anything that you could do on LinkedIn
+or Reddit or Twitter or wherever, you
+can do those, perform those actions
+directly from within pitch. Um, so it
+helps you just like helps teams keep
+track of like what did they do with it,
+when did they do it, who said what, did
+anything come out of that. Um, so it
+becomes more of an ecosystem versus just
+a keyword tracker tool that you know is
+kind of off in the distance somewhere
+doing its own thing.
+&gt;&gt; No, it makes a ton of sense. Tell me so
+tell me you know the founding time of of
+of pitch ghost. How do you you you have
+the solution already because your
+co-founder has been using it internally.
+You are coming in with the insights of
+what's been lacking. what sounds to me
+more
+companies that their budgets for these
+types of solutions is lower. So you you
+it sounds like you want to penetrate the
+market for companies who are not
+necessarily spending the 50,000 or
+$60,000 a year for these enterprise
+solutions. You want to make it more
+accessible. Um how do you go from there?
+What happens then?
+Um so right now like RA IP has been
+defined extremely extremely narrowly but
+that took a lot of time. Um you know in
+the beginning you get as a founder
+everybody kind of tells you like oh I
+love what you're doing and like I want
+to buy that and that sounds cool. So you
+end up selling it to anybody and
+everybody. um which you know it's it's
+really hard to avoid because people get
+excited about things and you know in
+theory the idea of finding your
+customers online is a very exciting
+novel idea for any kind of business
+right um so it took us a lot of time in
+the beginning of like trial and error of
+finding who the right demographic is you
+know specific titles the specific types
+of companies that um we are a really
+good fit for um and any of the other
+qualifying behavior. So now we're at a
+stage where we can define that extremely
+well, but it took like a year of trial
+and error of having multiple different
+types of personalities and personas that
+we were selling to um and learning about
+their use cases and even that's been
+really interesting just seeing the ways
+in which people have gotten really
+really creative with how they're using
+Pitch Coast.
+&gt;&gt; Yeah, sure. and tell me a little bit
+about about that discovery process and
+the validation process that you did for
+for those use cases. How how did you
+actually go about that?
+&gt;&gt; So um in the beginning we started off
+with just Twitter. So we didn't do
+anything else. It was just Twitter. Um
+and that's when I joined. Um, and that
+time that it was like maybe like the
+first 3 months it was really hard um to
+find people that would get excited about
+just Twitter. Um, and that market was
+pretty narrow, right? Like um, so it it
+was difficult for us to kind of like
+think about like do I you know the
+people that really really love Twitter
+like let's say like the crypto bros,
+right? is that like do we want if we go
+down that route, do we want to be
+married to that demographic or do we and
+then do we build just for them because
+we're starting with Twitter or do we
+build for this like bigger vision of
+like we you know we expect to roll out
+the other stuff um and does that like
+isolate us out like does that change the
+messaging does it change marketing does
+it not you know um so we chose the
+latter option where um we you know We
+went after um some some like crypto and
+like some f like any of the demographics
+that did lean into Twitter very heavily.
+Um but we very very quickly um it became
+really just like the amount of feedback
+we were booking a lot of meetings. We
+were doing cold outbound a lot and we
+use pitch ghost every single day at
+pitch ghost. like you know I was getting
+a lot of meetings booked and I was
+speaking with um marketing teams and
+sales teams about pitch ghost um and
+everybody not everybody but like let's
+say like 80% of the calls I had would be
+like this sounds cool love the demo I
+want to buy it call me when you have
+LinkedIn
+&gt;&gt; um and so it was just the overwhelming
+number of people that that was the top
+choice they
+&gt;&gt; because what for what so what use case
+were they using it for for for sales for
+marketing on LinkedIn B2B I guess.
+&gt;&gt; Yeah, I mean it tended to be a little
+bit more on the B2B side but not
+necessarily. I think it was just it's it
+LinkedIn still is our highest like
+perceived value. So most people will buy
+us because we have LinkedIn and it's
+really really hard to support LinkedIn.
+Um most of our competitors don't even
+the enterprisegrade ones can't do the
+LinkedIn the way that we're able to do
+it. So, it's a big like value driver um
+for the sales cycle. Um but it's
+interesting like most people
+perceptually come come because we can do
+LinkedIn um and then they end up finding
+the most value in Reddit maybe or
+something else. Um but um but yeah so it
+was you know we we built LinkedIn it
+took some time um and in that time you
+know we were still doing a lot of the
+customer discovery. So initially um my
+co-founder when he had kind of like
+platformized pitch ghost he wanted me to
+test the theory of if early stage
+founders would be a good good fit for us
+because he was from that world like
+right he was like I built this tool to
+like you know I'm a solo founder this
+going to help me do my sales so we test
+that hypothesis of like is this a good
+tool for just like solo founder that has
+no team has no revenue um is this
+something that they will lose. So, in
+the beginning when we especially just
+had Twitter, we had a lot a lot of like
+solo founders. Um, and very quickly, um,
+that ended up not being a fit.
+&gt;&gt; Um, so, you know, they hung around for a
+month, 2 months, but then what we
+learned was just they churned like crazy
+because a founder when they have another
+team, they're doing like 500 different
+things, you know, like something else is
+always more important.
+&gt;&gt; Yes. And it it didn't matter how sticky
+the product was. It was just not as much
+of a priority as you know like building
+a cap table or going and doing a race or
+going you know like and that's fair like
+fair enough like you're just you've got
+500 different things to do. Um so it
+just wasn't um working out as that being
+the demographic. Um, so then we looked
+at teams that, you know, maybe it's like
+a maybe you have two to three people. So
+at least there's like one marketing
+person on that team and that's there or
+a salesperson, but it's like that's
+somebody's job and it's not the founder.
+Um, or it could be the founder, but like
+it's not it's not just one person on the
+team basically. Um, and so we tried that
+and that was a little better. So we
+still have a couple of customers that
+kind of fit into like a very under very
+early stage like under five people kind
+of company. Um and that's still it's
+been a hit or miss. It's been a hit or
+miss because we kind of run into the
+same issues of where like it's a little
+bit more sticky. It is somebody's core
+like responsibility but it's still if
+it's like only one person in charge of
+sales and marketing even that you can
+you you're a little touch and go of like
+if some if you know if a different
+campaign becomes more important you
+might abandon this product. Um but so
+we've kind of now found our sweet spot
+of marketing and sales teams. So like
+the rev ops or go to market team
+basically because it can be a
+combination of the marketing and sales
+people together um and really built for
+teams. So built for that collaboration
+um at you know companies that are
+startups really high growth startups
+that are between like five to let's say
+a 100 employee size.
+&gt;&gt; Um so you know there's an actual like
+marketing or there's an actual sales
+team where there's multiple people
+involved. um and and that way they see
+the most value out of it. So when they
+have they're a content marketer and they
+also have some B2B LinkedIn SAS person
+on there and they also have you know
+these just these different titles and
+they all see the value in it because
+they're all kind of collaborating on one
+platform but for so many varied revops
+use cases. That's been her first
+&gt;&gt; is social is social listening
+historically servicing go to market
+teams and sales teams because uh it
+seems to me that more of it we used to
+be targeting more so the brand
+&gt;&gt; the brand team the marketing team.
+&gt;&gt; Exactly. So they historically have
+served um the marketing team um at very
+very large companies or the PR or like
+PR firms. So most social listening
+software will be, you know, like let's
+say Coca-Cola wants to see how many
+times was Coca-Cola mentioned in today
+in Argentina or something, right?
+Something super super specific, but they
+see value in that because they're so
+massive and they're mentioned so many
+times that that data is valuable versus
+for a startup, you know, you might you
+might you're probably not mentioned five
+times a year anywhere. um and you
+instead just want to focus more on the
+lead genen and demand genen side to try
+and build that reputation and that trust
+in the market. Um, so we did that and
+that's kind of why we leaned he more
+heavy towards the rev ops and the go to
+market side for people um is that
+traditional social listening software
+was so heavily focused on brand
+monitoring and keyword tracking um that
+it only made sense like it there was
+only you could only see the value for it
+if you were an enterprise level
+customer.
+&gt;&gt; Mhm. Makes a ton of sense. What so where
+is this heading? Where do you see pitch
+ghost in several years? Um, so we're
+building like crazy. We're growing like
+crazy. Um, and so this year we're
+focusing a lot on integrations and
+becoming a bigger part of our our
+customers tech stack. So um, until about
+maybe like October of last year, um, you
+know, we didn't have a ton of
+integration. So it was like it was still
+a platform you use separately and you
+would kind of manually take this data
+somewhere else and do maybe like a lot
+of our customers do cold outbound for
+example. Um so you would kind of like
+export this information and put it
+somewhere else put it in your CRM put it
+in Apollo put it wherever. Um
+&gt;&gt; so we're building now more towards like
+how does this become integrated into
+whatever tech stack or whatever tools
+you're already using. So the information
+can transfer really easily. Um you can
+kind of imagine it being a little bit
+more like clayesque in that like we want
+the posts we give you to be this top of
+the funnel and it's all kind of in one
+platform that you can do a bunch of
+different things inside or take it and
+do something with the data we give you
+in a platform that you're more
+comfortable with. Um so with things like
+that, you know, we've released web
+hooks, we're probably going to release
+an API soon. Um, and we're just building
+tons of integrations. So, we're working
+on an Apollo integration. We built a
+HubSpot integration. Um, and we're
+seeing people do a lot of cool things
+with it. Um, so I think the vision is
+just that we live in a really happy
+place. Um, wherever our customer wants
+us to live, um, versus having to just
+rely on like our app, right?
+&gt;&gt; Um,
+&gt;&gt; and apart from that, I mean, we're
+growing our team. So, we brought on team
+members earlier this year and that's
+been awesome. So, we're just kind of
+ramping up um bisops on our side. We
+hired a developer as well to kind of
+keep up with all of our um feature
+requests and road maps and things like
+that. And yeah, um you know, hopefully
+we're kind of
+&gt;&gt; super exciting.
+&gt;&gt; It's exciting. It It's a grind, but it's
+exciting.
+&gt;&gt; I love it. Anya, thank you so much for
+joining me. It was a priv privilege
+listening to to your journey and the
+insights leading up to Pitch Ghost and
+what's up ahead. So, thank you so much
+for being here. Of course. Thank you.
+Have a good rest of your day.

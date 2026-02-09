@@ -1,0 +1,629 @@
+every vertical product today in the
+market and it requires
+the ability to translate what you know
+into actual products um
+so in protantics basically what what we
+want to do today is to allow those
+electronics in the simple words to
+communicate with us during both the
+production and using the in in the usage
+in the field
+and to tell us what hurts them and
+how they feel from like the deepest
+level of electronics before a failure
+possess
+like an elementary threat i would say to
+the safety
+of the driver
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hello at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to 20-minute leaders meet gal
+carmel executive vice president general
+manager automotive protein techs
+gal is an automotive entrepreneur with a
+proven track record of over 15 years in
+rapidly honing emerging technologies
+markets and opportunities both on
+business and diverse r d aspects before
+joining protein techs gyal served as
+chief technology and production
+engineering of samsung smart machines
+building from the ground up samsung's
+adas and av technology focusing on full
+stack platforms for automated driving
+systems prior to that he held key roles
+in some of the most innovative pillars
+of autonomous driving and mobilized
+acquired by intel a leading supplier of
+advanced driver assist systems including
+the first production of monovision
+camera aeb autonomous emergency braking
+reaching 5 star euro end cap rating for
+the most advanced production programs
+oems
+welcome to 20 minute leaders how are you
+i'm great thank you for having me it's
+great to be here i'm i'm really excited
+to talk about automotives in a really
+really deep and awesome way
+and and in general about you and about
+your life you've had some some
+incredible incredible things from being
+an entrepreneur yourself and and working
+in in a variety of companies but then
+being r d program manager at mobileye
+and chief technology and production
+engineering samsung smart machines
+europe and israel and then transitioning
+to being an executive vice president and
+general manager of the automotives at
+protean tx and so um you know
+crazy background
+make sense of it for me who are you
+oh um
+interesting question i think that um if
+i'm trying to translate who i am to
+oppose to who i was
+and people certainly asked me
+um how was as a child compared to today
+i'm actually saying that uh pretty much
+the same but smaller
+so i think i grew up in uh in really
+encouraging
+electrical engineering and electronics
+environment my father is also
+coming from electrical engineering
+and i think i was always fascinated um
+i think by the depth and knowledge that
+you need to be able to acquire in order
+to build cars
+so it evolved so many aspects mechanics
+physics electronics design and then back
+then i still didn't figure out what it
+requires in order to actually driving
+those machines
+my first car didn't really start so i
+spent most of my time fixing it
+to get to the air force base i wasn't
+allowed to drive a motorcycle back then
+today luckily i drive both motorcycles
+also build them mainly disassembling um
+because i don't have much time i really
+like it but when you're talking about
+you know fixing what are we talking
+about because i barely know how to
+change the tire myself so we're not
+we're talking about like more advanced
+things even right
+yeah yeah so um
+you know this is uh this is a hobby and
+that will uh um
+later take us to the question how the
+future will look like if you're gonna
+fix a bike in or a car in in ten years
+but today's just using a torque wrench
+playing with it and
+you know trying to to be creative and
+and what it is uh
+uh that you do assembling parts
+disassembling parts um
+and uh keeping in touch with the
+mechanics is always great
+right so you know that you know that's
+you as a kid now how do you explain that
+what what you know what is it about your
+personality or about your interest what
+was it that you were specifically
+interested in you know automotives or or
+was it there was a greater you know
+pattern to sort of the way that your
+your brain is wired or that the thinking
+that you that you have on a day-to-day
+basis
+yeah so
+i think i'm being called uh very
+analytical i'm coming from really
+engineering background and i see myself
+as as engineer very value driven i would
+say and i always loved
+advanced technology but not only the
+technology part of technology i love to
+see how technology is actually being
+translated
+to product and then deployed um in the
+real world
+which is very interesting to see things
+coming from idea to usage especially by
+by driver i love difficult problems
+um and personally i focus in
+in things that would produce a change in
+the world that i would love as a person
+um to see
+right
+so walk me through
+you know the remaining part of the
+journey and i want to reach you know
+that your current and your current role
+as executive vice president of
+automotives
+you know what what how does your career
+look and sort of what are the skills
+that you gain personally
+and later i want to also touch on your
+understanding of the automotive market
+and and where we are today and where we
+should be headed
+so i think i i i always wanted to be a
+pilot but i discovered that some of the
+things are really better to do i think
+as a hobby but i started my career you
+know printing cvs and trying to get to
+wherever i can saying
+i'm smart give me a chance and i spend
+most of the time in startup vision and
+optics and object tracking after that
+building chips
+and i think i scaled up my vertical
+knowledge um through the stages from
+electrical to software to application to
+to to product
+um but if i'm putting like a real
+emphasis of i think the juncture in my
+career it's um i think mobilize
+back then when a job mobilized was
+a beeping machine
+so i think it was really touched my
+synergy point combined
+um my engineering button up background
+and the top-down understanding of of
+uh the product and what driver would use
+in scale
+in the market um so i was super lucky to
+spend with mobility through the two
+pillars of uh
+of autonomous driving the first one was
+the first autonomous emergency braking
+the first time that the car with the
+mono camera actually breaks in front of
+pedestrians um and car
+back then it was only on premium oem
+today it's standard feet and you can
+find it and also going to find it in the
+future in every car so that was the
+first really pillar of sensing of
+autonomous driving
+um then the second one was a project
+called ram it's the first time that
+actually car
+communicated with the cloud using data
+so it's the first time that cars send
+data to the clouds aggregate data for
+mapping and for localization it's
+basically open
+a huge opportunity in the market for a
+data-driven approach for sensing
+um i think the post the ipo i moved to
+samsung i served as the
+cto of a group called
+driveline
+which basically the target was
+building semis to aid us building a
+semiconductor to aid us in in the shape
+of full stack
+especially focusing on really advanced
+nodes
+and processes in the market
+and i think that was the first time that
+i really saw from an entrance price
+perspective what it requires
+um
+to build a chip to the automotive
+market and how it looks like from a
+enterprise point of view
+um
+once i think when we finished that uh
+that project uh that was my decision to
+move from enterprise back to startup
+this is my court is what i love to do
+i'm always focusing in automotive my
+entire uh my entire career
+and i think that and that was the point
+that they met shy cohen and the former
+melanox team that basically live and
+breathe uh semiconductor
+um
+they were backed up by uh by world
+leading investors with a really proven
+track record like um
+viola kdt intel capital and later on
+porsche and vw a part of the vw group
+and they were super experienced in the
+data center world and it was amazing to
+see how we're taking the product from
+data center and communication
+um to automotive okay awesome so so gal
+you know you're you're finishing your
+time at samsung you've had a quite a run
+at mobileye
+where's your head at before you decide
+to go into your next journey how do you
+see the automotive industry and and what
+really excites you
+in the place that you're at
+um so at that point i definitely know
+that what i want to continue doing is
+something that is around cars
+um
+[Music]
+i said that car are a great thing not
+only on the practical level but but what
+i see um
+at the market at that stage is that
+they're currently going through
+a very interesting evolutionary process
+that on the one hand it's teaching them
+new language new language that is
+communicating between cars and clouds
+and chips
+but on the other end around they become
+a very dense environment
+of advanced electronics
+um
+now what happens because of that is that
+the reliability of the cars the
+electronics inside the cars towards us
+as drivers and oems
+um actually decreases the age on the
+road um and the control of how you you
+repair them basically moves from the
+private sectors to the big manufacturer
+of who if you're gonna ask them um they
+also uh lost
+in troubleshooting especially in real
+time finding what's going on inside the
+machine
+you can simply compare it to a washing
+machine that in the past was composed
+from three parts but today it has a full
+brain and if something goes wrong you
+basically look at that and say
+okay what's going on
+and i thought what's going to be in the
+market with
+companies or cars that is fully
+electrified fully electronic take tesla
+for example you cannot take it to a
+workshop in tel aviv and just lift it up
+and say
+okay i know what's the problem you don't
+have engine you don't have gear you
+don't have mechanical sensors anymore
+so i i think that in that point i saw
+that the there is a huge amount of money
+being spent because of the complexity of
+developing
+advanced autonomous platforms and that
+drive really high production cost and a
+very long time to the market and
+actually
+after that when it's
+already in the field the warranty cost
+and the the maintenance costs um um
+increase
+um opposed to that i'm looking at
+manufacturers that they see low
+controllability along the vertical
+manufacturing process and then no one
+guarantees to us
+the driver that the electronics
+reliability will actually maintain its
+characteristics um in the field when
+we're driving it
+um so that was my turning point and and
+my passion point um at that point
+looking on the next stage um of making
+cars better
+interesting so you're at that
+intersection and
+for the next opportunity that you're
+going to join are you approaching it
+with this understanding are you
+discovering you know this gap and this
+issue after you join it well how you
+know how how does this
+this thing happen
+so
+that
+when i'm looking at that at that point i
+already knew
+certain problems in the market looking
+from both application side and both
+system and electronic side and both
+understanding what the oems would like
+to see in the future
+and at that point i see a very
+interesting change in the market going
+from vertical integration to more of a
+triangle approach where oem's actually
+starting to look into chips
+um it was post corona and
+we had a major crisis in in chip
+supplying um and now oems would likely
+have better control better involvement
+in the process both in design and both
+building new architecture inside the car
+right basically their backward
+compatibility today
+needs to change
+um and i see
+warranty costs going dramatically and
+car equals goes dramatically so that was
+the point we saw that the problem we saw
+the vector and since that point it
+really evolved um to a very known
+problem um
+in the market right today
+so within that company you know you're
+solving a big point a big problem you're
+understanding you know the complexities
+that are non-trivial and they're not
+frankly they're really not intuitive for
+for somebody that's coming outside of
+this industry
+you know what is it like first you know
+transitioning back to into a startup
+mode
+uh and taking a leadership position
+there but but being in that mindset is
+again you know after you know being in
+mobile and being with
+being with samsung and you know what
+type of you know leadership style do you
+have to develop that may be differently
+from your previous experiences
+so
+i i think that um
+from challenging perspective that's
+definitely one of the hardest challenges
+that they've done like every vertical
+product today in the market and it
+requires
+the ability to translate what you know
+into actual products um
+so in protantics basically what what we
+want to do today is to allow those
+electronics in the simple words to
+communicate with us during both the
+production and using the in in the usage
+in the field
+and to tell us what hurts them and how
+they feel from like the deepest level of
+electronics before a failure possess
+like an elementary threat i would say to
+the safety
+of the driver and if you want to
+simplify it you can look at it as a
+digital sensor as a camera that if you
+rotate it it has eyes
+into the electronics and basically it
+produces data
+all the time from within the car to the
+cloud
+and this data is super valuable both to
+make manufacture better and both
+maintain
+the characteristic of those electronics
+in the field and create better
+trade-offs of those design
+where new as a driver eventually needs
+to spend
+the time not fixing the car driving a
+car that is 100 available um and 100
+safe um in the field and it needs to
+survive like that for 10 years um um in
+the road so
+that point requires that combination
+between knowledge what's going on in the
+market where the market is going and how
+um the car industry is going to to to
+change in and evolve and it's like
+working together it's an ecosystem that
+feeds each other and and and uh and
+evolved together i would say
+now
+i think that you know
+looking at the market today and if you
+ask most people what is the most
+challenging part of the ecosystem you
+would say it's talent right it's finding
+the right talent now i'm imagining
+especially in the deep tech startup is
+the one that you're that you're you know
+leading here
+it's it makes it it makes it even harder
+because the pool of people that you can
+potentially hire is also smaller but you
+know i can only imagine also that part
+of the hiring process is the brand of
+the company but also you know the the
+mission behind the company and the
+ability to really engage with that
+mission
+is it hard to sort of sell on a company
+that is sort of that is a little bit
+more complicated i would say in terms of
+its offering and in terms of the problem
+that it solves because you require both
+an understanding of the automotive space
+but also of the chip market and what's
+happening with autonomous vehicles as or
+as vehicles you know become more and
+more
+advanced
+yeah so
+um first of all the answer is global yes
+um i would say not specifically um
+looking at us as a startup but globally
+talent acquisition is is is hard we're
+producing less r d um talents um today
+and um
+but if i'm personally looking at
+protantics protantics basically evolves
+from the market of of of data center and
+communication
+and um it already served uh uh very
+important very big customers and the the
+product was already silicon proven so
+we'd be actually
+able to to to look at what they've done
+and and and see the the success criteria
+already in in day one
+um
+so it was from perspective of looking at
+it and and putting talented around it
+and also um
+um using talented uh person that worked
+with me in the past it was um
+i think at that point the vision
+was pretty straightforward to what it is
+that we're doing today
+and most of the guys especially in the
+automotive are very experienced guys um
+so and very talented we have also a
+region in in germany to be located
+um close to the uh to the oems
+but uh it's a it's definitely a
+challenge from uh from headcount
+perspective i would say yes
+what do you enjoy most about your work
+about your day-to-day about the industry
+so
+i think that um
+the the most enjoyable part so if you
+look at the
+on the micro level um doing startups is
+always hard um but when you see the big
+picture
+um
+i think most of the uh
+the fun that comes out of that is
+actually to see how it grows and how it
+grows with you both
+as a team that work together and both
+from product perspective
+and also um
+when i'm trying to look forward i'm
+personally um as my hobby i'm defining
+the act of you know driving as the
+communication between our sensors
+hearing feeling and it's like reflected
+very accurately through wheels and
+pedals to you and that what makes a
+great uh car
+the ability to reflect things
+authentically around that box to you as
+a driver
+but now when i'm looking at the new
+drivers um there is a new digital
+audience
+that just want to reach a destination in
+the most efficient way and the most
+accurate way and they are right and
+rightly so
+um but they are dependent on those
+machines under 100 availability on the
+zero failures
+and what i'm fascinating is actually to
+see
+how the car driving lovers would fix
+cars in the future with a laptop instead
+of a torque wrench
+and this is the
+uh
+the macro uh
+looking at things on the micro on the
+micro level you are very busy
+um
+in execution i i would say we're very
+execution driven and this is also my uh
+my way of managing things i love it i
+love it
+no
+where so being a figure
+in the industry now where you're
+thinking about the future and you're
+imagining the world where people are
+fixing their cars through the laptop
+not with the ranch like you did as a kid
+where do you get that inspiration from
+on a daily basis the inspiration to to
+innovate to be creative to lead in this
+in this view more futuristic state of
+mind
+so
+i i think that
+there is a lot of influencer today in
+that that market back then in the in the
+early days that we only started looking
+at that market was very tiny and small
+market today it's a huge consumer um
+also for electronics
+and it um also um accompanies with lots
+of people and lots of very interesting
+people that pushes boundaries um with
+very good intention to to make good
+and i also look at that as the the
+the interesting part for me to do things
+that actually
+um makes good um
+in the future and in our future in my
+small domains called uh cars and and
+autonomous driving i would love to keep
+doing um that and
+i was very fascinated by that i love it
+if you had to think of a few words that
+represent gal carmel
+what what what words come to mind
+um very tough question
+i think that the first one will be
+extremists in every aspect that i do
+second will be
+very analytical
+and i think the third one will be
+personal and emotional to what i do i'm
+taking things
+very light and very
+seriously all all together um
+and i'm doing things with lots of
+emotion um
+in it and a lot of passion um in it
+thank you very very much thank you for
+the great work that you're doing for the
+industry and i love the intersection of
+deep technology with you know consumer
+behavior and throughout this
+conversation you're not just talking
+about cars and chips and data you know
+data science but you're talking about at
+the end how the people are going to
+experience their drive and they're going
+to experience the relationship with the
+car and i love that and and you know
+your journey is so interesting and
+inspiring so thank you for sharing the
+time with me and stay safe and stay
+healthy
+thank you very much of course thank you
+you

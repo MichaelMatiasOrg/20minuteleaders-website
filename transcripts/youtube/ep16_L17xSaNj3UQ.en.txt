@@ -1,0 +1,600 @@
+[Music]
+all right
+shimon thank you for being with us hi
+it's awesome to be here thank you very
+much for having me
+all right so um at eight
+you disassembled the computer you became
+this this computer wiz
+went on to iron source now founder of
+the co-founder of a company
+and you did beauty and the geek which
+i'm a big fan of but
+we'll put that for another time what
+happened
+at the age of eight wha what's what's
+going on
+the age of eight so
+i remember this is my first encounter
+with the computer you know i woke up
+and it's after my parents they brought a
+computer home and i woke up
+and i saw this thing i was like what is
+this and i clicked the buttons to turn
+it on
+and like i didn't know that i need to
+turn on the screen
+like nothing happened so i didn't
+understand why so i like
+okay so i unplugged it and opened the
+computer to look at what's inside
+and to start to understand what's going
+on that was my first encounter with
+who does that i'm 24 and i still don't
+do that i was asked to do it and i still
+and i didn't want to do it well
+no i love it i love it but i think you
+know the the moment that the
+i'm the most proud and the most ashamed
+of is when i was 13
+i i learned about this thing called
+linux and i was really fascinated about
+it so i really i downloaded it was red
+hat 6
+i burned the iso and i was like that's
+it i installed linux on my computer and
+i was so
+fascinated by it and then i ran to the
+living room and i tell my mother
+i'm startling rocks i start linux and
+she was like
+yeah yeah it will be okay we'll find a
+keyword
+no problem
+okay so then okay so let's move forward
+and you go to iron source and you're
+managing
+what are you what do you do there you're
+doing something with 400 engineers the
+whole infrastructure
+yeah so iron source is a large media
+company
+today it's around 900 million dollar arr
+and i joined when we were 30 people
+and i left when the company was 800 and
+i was the general manager of the
+engineering infrastructure division
+so responsible for all of the cross
+company engineering
+cicd internal tools data collection data
+pipelining
+in it's all of the infrastructure for
+the developers
+and okay so honestly what's it like
+managing
+a devops infrastructure for 400 people i
+had to do it
+you know in the army for 12 people and i
+don't think i did a very good job at it
+and so i can't even begin to imagine how
+you how you can begin to think about an
+organization that has 400 people in it
+yeah so i think that iron source was
+exceptionally well
+and good in terms of which people it
+hired the culture was very good
+but at the end of the day it's really
+really hard just to you know collaborate
+400 people
+and as the company scale you know you
+start with those
+tribal knowledge we usually do that we
+usually do that
+why did you use this package we use the
+other one and then as you scale
+to be bigger and bigger and bigger and
+every day there's a new engineer being
+hired
+it starts to be un you know
+unmaintainable and i remember
+this one time a developer accidentally
+or not accidentally i think he just
+didn't know committed
+his aws secret keys into a public github
+repository
+and we got hacked and we were very very
+lucky
+because the hack was only automated
+bitcoin miners
+that spin up on all the aws regions
+so we were like okay and then the ceo
+was like okay shimon you run of all of
+our infrastructure engineering so let's
+make sure this does not happen again
+and then i was faced with the question
+so how do you
+align 400 engineers so i was very naive
+i sent them an email i wrote it in the
+wiki
+i you know i did a meetup i did a
+webinar but you know
+it doesn't really work it doesn't scale
+so what do companies do i mean you have
+to align you know
+google has dozens of thousands of
+engineers i mean
+not just google so many other companies
+already have thousands of engineers
+how do you align based and the another
+problem is that you know when an
+engineer moves from company to company
+there are different practices
+and you know i'm now i just did an
+onboarding as a software engineer at
+hippo and
+and i had to really study what their
+conventions are how do they handle the
+repositories what do i upload what do i
+not upload
+that's not even talking about how the
+code should be written
+so now that you have this experience how
+do you deal with that
+so what we see today is you know
+let's talk about like what what happened
+why is this so important now and what
+was so unique about my previous company
+the company was born in the cloud and
+it was born working in agile so today
+many companies
+if if they're a more traditional company
+they they felt that they're too rigid
+and if they're a new company they
+started from the get-go
+being agile so companies switched from
+waterfall into agile development
+so they gave freedom to developers then
+together with that
+companies are moving from monolith into
+a microservices or starting in a service
+oriented architecture
+which also brings a challenge by itself
+because you now have dozens and hundreds
+and some of our customers have
+thousands of git repositories and
+each one of them might have its own
+programming language
+its own structured files like docker
+file kubernetes file clcd file
+and it's like a whole universe inside a
+git repository and now you have 500 of
+those
+and you need to collaborate between them
+and thirdly
+is that today companies um
+give developer autonomy so it's no
+longer the days
+in many organizations where you know
+back in the day we used to write code as
+developers
+drink our coffee give it to some devops
+person
+operations person then they they will
+inspect it for one month and deploy to
+the cloud
+and the developers would you know come
+to work no today you have
+developer autonomy developers write the
+code test it build it deploy it wake up
+and four in the morning if there's a
+problem
+and the cross infrastructure teams
+devops teams security teams
+they can't keep up with the rate of
+change
+so they need to inspect every pull
+request
+it you can't do it so they rely on on
+you know on automation
+and on tools to help them do that
+and in many cases companies either try
+to build their own unmaintainable
+you know versions of the tree or like
+things to help solve that
+um or they try to do it manually
+you know and hope developers remember
+but obviously it doesn't scale
+and once they have an incident they just
+start putting on more and more
+procedures um and hopefully automating
+um i believe in automation so
+so so you so one of the things that
+dramatically changed over the past
+dozen years or so is the role of a
+developer right so now i
+enter a company i'm no longer
+responsible for just
+learning the language i'm assigned to
+and how to write logic in it but i need
+to know
+how does continuous integration work how
+to do proper code reviews
+how to format my code so that it matches
+others
+and are so on one hand it seems like
+developers are given more autonomy to
+express
+their creativity and their their power
+on the other hand
+they need to be more than ever we need
+to be aligned
+to a common structure is that is that
+conflicting
+those two ideas absolutely absolutely
+you know
+there are some companies they have holy
+wars you know tabs and spaces it's a
+it's a funny example but a proud we're a
+proud species right we
+yeah i think that um this is one thing
+but
+what i see in most companies is that
+it's just
+hard to propagate the development
+standard even if you have one at the end
+of the day it's important to have one
+and to stick with it
+and to change it if needed but in many
+cases you know
+poor bob doesn't be the person who takes
+production down
+sally doesn't want to be the developer
+who actually commits secrets right she
+doesn't want to be
+this person and you know that
+brings a security hazard to the
+organization but in many cases they
+don't know
+and this is why i believe that
+automation is the key and being
+integrated within the developer workflow
+and providing a shift left solution
+that as you write the code as you open
+up a pull request
+you see what am i doing wrong what
+should i do
+because it should be easy to do the
+right thing like
+if you if you disagree with some policy
+if you want to change a standard that's
+absolutely fine you should have a
+discussion you should you know talk
+about it
+that's great but in most cases people
+just don't know
+and they make mistakes because they have
+no way of knowing
+so shimano i mean you're one of the best
+entrepreneurs that i know
+and you you look to make an impact i
+know you and
+you always think about how do i make a
+large scale impact and you have a
+startup
+in the devops space you just finished y
+combinator how was that experience by
+the way
+that was amazing wow and i really
+recommend it
+yeah i mean if you can get in right mean
+it's crazy
+not even anybody can do it it's amazing
+that you did it
+yeah i'm very like before we went we
+also talked to other companies
+and and everyone really recommended it
+our company was a bit far along
+than other companies but it actually
+helped us because actually i met michael
+seibel the ceo of y combinator in israel
+and i told him like what we do is we
+help engineering teams enforce their
+development standards and security
+policies
+directly within the developer's workflow
+so it goes like
+so this is applicable to like 95 percent
+of yc companies i'm like yeah
+it's like like okay so we applied and
+we got it no i have to say i've been
+reading some of
+the some of and recent horror and
+dressing's um
+mark andreessen's articles recently and
+you know all he talks about is how
+software is eating the world
+and and and he starts talking about this
+recently
+which is a discussion that's different
+from 10 years ago i don't think 10 years
+ago people
+talked about workflows and and and
+structure
+so so a little bit about what what is
+that tree what are you doing
+and i'm curious to hear how how can you
+measure an impact of this on a large
+scale because
+you know when somebody builds a company
+that's i don't know trying to
+trying to find a vaccine for corona you
+can yes you can say yeah the impact i'm
+creating is
+saving is saving people it's very direct
+now your impact is a little indirect by
+helping a lot of other companies make an
+impact so i'd love to i'd love to hear
+your thought process on that yeah so you
+know
+it's like what is the impact of gmail i
+think it's huge
+do they create a corona vaccine no but i
+think their impact is huge right
+um oh they're allowing others to create
+scene by
+communicating exactly so i'll tell you
+what i think and answer would be a
+little bit
+devopsy in the field but i wasn't
+thinking less
+but like if you think of of of where
+we're at
+i believe that the solution like the
+tree is required and every company will
+have it
+and i'll give you the following argument
+let's say 10 years ago i would have told
+you
+listen um i'm gonna provide you a
+service that's gonna take your code
+compile it test it and ship it to a
+server
+you're gonna say what are you crazy i'm
+just making a zip file and
+scp-ing it to my server why do i need
+this and today everyone knows you need a
+ci cd solution
+yeah so the same thing is happening here
+i'm
+positively sure that every company is
+going to need to have a solution like
+the tree
+to take a hold of all of those
+distributed systems
+to make sure that they can move fast and
+execute at great speed
+while having operational consistency and
+having a security posture to be able to
+collaborate and move fast
+because otherwise every time we're going
+to be stopping and stopping and stopping
+and not working at the velocity
+that we want to achieve yeah and this is
+what i believe is going to happen
+i mean you know when zuckerberg changed
+uh facebook used to be
+known as move fast and break things and
+it changed a little bit
+uh in recent years so i think that and
+that's the reason why right because when
+you grow
+at scale and you want to maintain that
+velocity you're also
+sacrificing some of the quality and you
+start breaking
+too many quality things so so what is so
+the trees just is really a platform
+where you can enforce company policies
+for best practices
+on on git repositories and code base
+right
+yeah so think about it like at the
+higher level
+is implementing your development
+standards and security policies yeah
+some use cases include
+can be security make sure you don't
+commit secrets
+make sure that any research that you're
+creating in s3 with cloudformation for
+example
+is encrypted um make sure that all of
+your developers are following stock 2
+development practices
+or hipaa and the way the solution works
+we
+we hook on top of your source control so
+you install us as a
+for example github application we scan
+your entire source control
+extract the metadata from all of your
+structured files all the yaml json
+xml docker files and then we recommend
+the development practices and security
+policies
+for your technology stack so if we
+detect that using docker or kubernetes
+or serverless
+we're going to recommend the practices
+for you so gonna save time
+from researching what is the right thing
+to do you can just say okay
+don't run containers just use the root
+don't pull containers with the latest
+tag
+put a pin down version and it's sort of
+like a devops database of policies
+that you can automatically take those
+best practices and apply them
+in your organization and this will help
+you
+but you know you're i mean all these
+companies already have you know millions
+of lines of code i think
+nasa is one of those working with you
+right
+so how do you go how do you go to
+company like that and say
+let's now rethink how we're organizing
+our
+our policy structure how do you how do
+you even go about that
+so we don't do that so what we do is we
+say okay
+listen up so number one you need
+visibility
+you need to know what is going on you
+have problems everyone knows they have
+problems so
+just install our github application will
+scan your entire source control
+and you will see the report of what is
+going on like nasa is
+installed on their open source it's like
+public knowledge so i can say
+and so you can see what is going on now
+maybe there is a certificate in there
+maybe there are commits by admin at
+macbook pro
+who you have no idea who it is and when
+an auditor will tell you to get
+blame you will see that it's committed
+from admin at macbook pro and you have
+no idea who that is
+number one visibility see what you have
+number two
+prevent problems from happening in the
+future you you don't need to take a
+three months process of thinking
+what no peop there are some things
+people know all
+assets should be encrypted in motion and
+address so make sure every cloud
+formation has that
+um every a pull request needs to have a
+jira ticket in the pure request title
+because we're stuck to
+no problem so you can start by that and
+then we have a curated list of rules
+that you can choose and pick from
+and of course it's also everything is
+customizable so you can define
+your custom rules so start small and
+expand
+yeah i mean it makes a lot of sense
+you're coming in and you're saying let's
+let's
+i can think of it you're going to a big
+company let's start with the small team
+let's show that it works
+and i'm guessing just by word of mouth
+and by experience the next
+project that they start will include
+that and then one of the developers
+switches teams
+and they say hey let's use the tree also
+here
+is that is that a model that you think
+could allow you to
+sort of enter these bigger companies
+yeah so this is not
+exactly what we're seeing so what is
+happening is that usually our champion
+is like
+someone who's like devops or
+infrastructure
+those type of people you need by the way
+github administrator access
+so when i say by start small i mean
+start with a small amount of policies
+but usually they apply them across a lot
+of repositories
+okay so they take things that are like
+no-brainer like don't commit
+i don't know certificates right and then
+apply it across everything and then
+curate other rules that you want and you
+can apply them on some
+substance substances of your um
+repositories yeah now in terms of land
+and spread i agree with you but it's
+more of like a
+department by department not like small
+team by small team
+or the entire organization all at once
+so so
+where's the tree heading what's it gonna
+be like in three four years
+so i believe we're going to be in the
+workflow of
+many of the if not all of the best
+companies today right everyone's gonna
+rely
+on the tree to number one help with
+visibility see what you have
+number two help with governance to
+prevent bad things from happening
+but number three and it's something that
+we already have some features around
+is remediation and automation i know
+that
+you have a problem you did not run a
+certain set of tests or
+maybe your settings are incorrect let us
+remediate
+and fix it for you or let us suggest a
+fix
+that you can just automatically apply so
+this is the the way we're headed at
+so once it develops always it develops
+no because it's incredible because i
+mean you love do you love doing things
+and oftentimes you would think of
+somebody who's a devops
+as as a different on a different place
+than an engineer but
+honestly you're you're one of the best
+engineers that i know and i think it's
+just really awesome to see how you're
+you're you're
+on you worked at iron source you managed
+this problem and you
+said okay i mean everybody in the world
+has this and
+i honestly i it sounds like you just
+have the perfect timing because it
+sounds like if you came up with this 10
+years ago
+just when ciacd was barely starting it
+would have been meh
+two years down the line there's probably
+going to be three competitors who are
+working on this
+uh so i think you really got the sweet
+spot before
+before i let you go back to running your
+company i need three words that describe
+you
+determine the reaction i get determined
+passionate
+in a determinant passionate and i'd say
+um um
+i'm also pretty sensitive
+i love it i love it okay shimon next
+time we're talking about beauty and the
+geek
+okay simon thank you so much
+it's great thank you very much for
+having me it's always great to have you
+bye
+you

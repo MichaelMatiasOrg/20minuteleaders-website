@@ -1,0 +1,661 @@
+indeed a lot of people that just
+finished their studies
+imagine that we sit all day and we read
+papers and we develop algorithms and we
+talk about science
+and in practice data science is a lot
+about the business
+meaning we're getting paid to create
+models that make real impact
+on the companies we work at welcome to
+20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel stanford
+leap and birthright excel welcome to 20
+minute leaders in this episode we're
+going to unfold the role of the data
+scientist
+meet aviv benedi staff data scientist at
+intuit
+previously a lead data scientist at
+paypal she specializes in fraud
+prevention and cyber security
+and in the past worked at the prime
+minister's office in the cyber security
+field
+focusing on protocol analysis i've
+graduated from tel aviv university with
+the double bsc in computer science and
+life science
+while specializing in bioinformatics
+aviv ben airy welcome to 20 minute
+leaders all the way from the intuit
+offices at petertigva how are you
+i'm doing great how are you thank you
+very very much for joining me aviv
+your journey as a data scientist across
+multiple organizations
+including data scientists within a
+paypal now
+staff data scientist that intuit i'm
+looking forward to talking with you
+about data science
+as a as an industry as a vertical as a
+new
+as a new you know type of occupation
+that didn't necessarily exist
+you know before and and i'd love to
+start with a little bit about your
+journey and where you're coming from and
+how you even got introduced
+to data science and then we'll dig deep
+into what data science is and all that
+fun stuff
+um great so actually i began my journey
+more in the cyber security space not as
+a data scientist before data science was
+a very widespread occupation
+i in the army i was in a very large
+technological unit which is focused on
+cyber security and i worked at the
+israel prime minister office
+and while working there i studied
+computer science and i fell in love with
+algorithms research and data science
+and from there i learned that i can
+actually combine my two passions
+and work in the cyber security and fraud
+domain
+while being a data scientist so this is
+how i uh
+i got to my first data science position
+at paypal around five and a half years
+ago
+and from there i began my journey in the
+industry i'm still working in the fraud
+domain which i absolutely love
+and i'm really happy to do to combine
+both data science and this fascinating
+domain
+so when you when we say the word data
+scientist what does that actually mean
+to you
+so a data scientist in the industry is
+maybe different from what
+people imagine in academia for example
+people that are
+researching and creating new machine
+learning algorithms
+in the industry a data scientist would
+spend most of his time
+working on a specific business problem
+and deriving a machine learning solution
+that can somehow have a good business
+impact
+on that problem for example i work in
+the fraud prevention domain
+i receive specific tasks for my business
+partners to prevent fraud at intuit or
+paypal
+and i'm in charge of understanding which
+data i can utilize
+and how to leverage my vast knowledge of
+algorithms and machine learning
+to create a model that ends up in
+production meaning my models work in
+real time every time you hit
+login in paypal or send a transaction
+and these models specifically prevent
+fraud and this can be applied to any
+domain
+and so when you're talking about you
+know models and
+and predictive models and you know
+obviously we have anomaly detection and
+a lot of these you know ways in which
+data science and machine learning
+can be used within organizations
+historically what are we seeing so what
+how is the trend
+come about to be to to data science
+let's say in the last 10 or 15 years
+so i'd like to share my personal
+experience i
+started looking for my first data
+science job
+around six seven years ago and there
+were almost
+zero such positions in israel and tel
+aviv is a great
+high tech hub yes there were technical
+analyst
+jobs and things that were like in
+direction
+but only around i would say five four to
+five years ago it began
+began to be a position that every
+company wants to open
+and hire great data scientists so i
+would say that 10 years ago this wasn't
+really common practice in the industry
+and i feel that the trend is now that
+every company even small
+startups now have some data science team
+or even a group
+and it's something that really became a
+commodity everyone wants to use ai
+and actually as a data scientist i would
+say that my job
+gets a bit easier on the technical
+aspects
+um there's a lot of tools that when i
+began working
+didn't even exist a lot of the more
+advanced machine learning packages for
+example tensorflow or keras
+didn't even exist when i started working
+which is just
+goes to show you how fast this field uh
+advances
+so things have gotten easier maybe on
+the technical side and more advanced now
+we use platforms for example aws and gcp
+and cloud computing
+in the past training very heavy models
+was a very difficult task that only very
+wealthy companies were able to pay for
+and also i would say that people are
+looking to study this field more and
+more
+in the past the field was much less
+competitive than it is today
+i interview new hires for intuit and we
+have so many applications for every open
+position
+so i would definitely say this is still
+i would say i think it's still
+very trending i don't see any decline in
+um the number of open positions or in
+the number of candidates
+that we have um also universities
+started
+having started um opening master degrees
+in data science specifically where in
+the past it was just like one sub domain
+within the computer science um master's
+degree
+um now there's full trainings that are
+focused on
+training the best data scientists for
+the future
+um so
+this trend so so i understand that
+there's this great trend that we're
+saying in terms of
+you know the organizations and
+understanding that we have a lot of
+these new technologies that are enablers
+for people to become better data
+scientists what are we seeing a similar
+trend also in terms of the
+the people that are entering the
+workforce that may have to upskill in
+order to be data scientists or perhaps
+are looking you know at what to study
+now
+so definitely um as one of my uh
+my volunteering side jobs i would say i
+mentor
+female data scientists that are looking
+for their next job through an israeli
+community called extend
+and i'm very aware of the changes in the
+workforce
+as part of this mentoring program
+because i constantly
+are i'm in touch with people looking for
+their next job not
+only while i'm searching for the next
+position
+and i can definitely say that things are
+getting much
+more difficult for the candidates if in
+the past it was
+enough to have a bachelor's degree in
+computer science and some
+maybe some additional training today
+without a master's degree
+and a thesis in the very specific field
+of machine
+a specific field of machine learning for
+example nlp or computer vision
+it's very difficult um to obtain the
+first job
+and in general people are looking also
+for experience not only for theoretical
+knowledge
+so i i would say that the barriers are
+getting much higher it's getting more
+and more difficult to enter the field
+but also i think that there's a lot more
+trainings available there's courses for
+example itc
+and y data there's master's degree in
+the uh technion in tel aviv university
+so it's it's easier to obtain the
+knowledge when i studied it was very
+difficult to find the relevant courses
+and
+projects to really gain more knowledge
+and today i feel that it's
+becoming more easier to find the
+training to take it
+and then finding the actual job after
+may be a bit
+challenging and my best advice is to
+gain real
+work experience even if it's just a
+volunteer work or an open source project
+but
+um have something you can show in the
+interviews to prove that you really know
+how to apply the knowledge to real world
+world problems
+and so how what is the you know paying
+me a picture of them the day-to-day of a
+data scientist because i think that's
+also something that that is pretty
+interesting
+and could be a little bit different than
+what people may imagine well what is the
+traditional day of a data scientist look
+great question so indeed a lot of people
+um that just finished their studies
+imagine that we sit all day and we read
+papers and we develop algorithms and we
+talk about science
+and in practice data science is a lot
+about the business
+meaning we're getting paid to create
+models that make real impact on the
+companies we work at
+so a lot of my day goes into meetings
+with different stakeholders
+with my development team with my
+business analysts
+some companies have acute maybe qa teams
+and really aligning
+connecting all the dots to make sure
+that the models i'm
+training are going to solve the business
+problem in hand
+if i create an amazing model in terms of
+machine learning but at the end the
+business kpis don't go up or down as
+expected
+i didn't really do my job meaning my
+um the end the end goal of my model is
+always to push some business kpi
+um and not just uh make a an amazing
+machine learning model
+so part we have a lot of meetings
+a lot of alignment of course we do have
+a lot of i would say around half of my
+time goes into reading papers
+and actually writing code training the
+models fine-tuning them
+writing production code deploying to
+production this is also something that
+has changed throughout the years
+now data scientists are expected to be
+really well-rounded and be very fluent
+in
+coding deploying to production
+really own the entire pipeline not just
+know how to take care of the machine
+learning part
+so basically our work is end to end i
+work with the business i gather the data
+i clean the data i train the model i
+write the production code deploy to
+production write the monitoring
+make sure that all the business kpis are
+measured well
+and get feedback that if my model is
+working or not
+sometimes we have to do another round of
+training so
+we really have to take care of the
+entire pipeline not just
+the fun machine learning part
+right and it sounds like one of the most
+important things to to keep in mind
+especially for those that aren't
+familiar with machine learning or data
+science says you know in the ins and
+outs of it at the end
+it's the connection to the business
+purpose right and it's the connection to
+the kpis of the company
+and you're not just somebody who's
+sitting down and writing math equations
+you're actually the one who's receiving
+the raw data you have to clean it you
+have to
+to fine-tune it to your business needs
+and
+with if you don't understand the
+business needs you might create
+a nice model but it's not going to do
+what the business needs it to do right
+exactly for example um the one of the
+reasons i really love working and
+specifically in the fraud domain and
+when i moved into it i was specifically
+looking for a position in this domain
+is that i have a very rich background in
+cyber security and fraud
+and i feel that the combination between
+business knowledge and domain knowledge
+and
+my technical capabilities drives better
+results than
+a person that's an amazing data
+scientist knows machine learning well
+but has no idea
+um what what what the different fraud
+mo's are
+how people why would people commit fraud
+different techniques
+so i really feel that a strong business
+sense is
+makes a great data scientist as opposed
+to just the technical aspects of the job
+so if you have to go back and to talk to
+aviv
+you know five and a half years ago that
+is now joining let's say paypal or is
+joining
+you know her first data science role in
+a in a corporate
+what what what did you learn over these
+last these last few years
+that is not trivial but you're saying
+this is something that is key to my
+success as a data scientist
+so as we already talked about i think i
+had no idea how important um the
+connection with the businesses
+um i was very fascinated by the math
+part and at the beginning i
+didn't really understand the product
+enough
+so definitely get to know the product
+better
+into it is all about customer obsession
+and i think this is a really critical
+part for
+for any job but specifically for data
+scientists and really understand what
+the company is all about what the
+products are doing
+why is my model necessary and how it can
+drive
+impact and also keep learning
+and take on different projects
+don't say no to opportunities even if
+you don't really understand in the short
+term
+why they're beneficial for me or for the
+company
+everything i do is part of my job or an
+external
+volunteering work everything all comes
+together and sometimes
+two years later i come back to a small
+project i did
+and i remember some algorithm i used and
+um and the dots just click so i would
+say just be diverse
+take on everything try to learn as much
+as you can
+learn from people for more experienced
+people i think this is one of the things
+that allowed me to really advance
+quickly
+i always found mentors and people to
+learn from and it's much quicker to
+learn from success
+successful people than to make all the
+mistakes on your own
+and before you you you touched on a
+little bit this
+the growing trend of of the advancing
+technologies that are making the job of
+the data scientists a little bit
+different there's many more tools
+the the expectations are different these
+days and so
+you know share with me a little bit
+about where you think we're heading you
+know as a workforce and as
+you know is a data science vertical
+right and so what what are the different
+tools that we're seeing emerging and
+where do you think we're going to end up
+in terms of the data science experience
+and role
+so um i feel that a major concern of
+people that
+talk to me about this domain is the fact
+that automl i don't wish automatic
+machine learning
+um is gaining a lot of traction and
+people feel that this in 10 years this
+this profession is going to be redundant
+um i feel this is like a very major
+concern of people that are just now
+starting their studies and say okay i'm
+just going to enter the workforce within
+five years for example
+how many years will i even have to
+practice data science before
+this goes away um i i actually feel that
+this is a misconception because
+maybe things are going to get easier
+meaning training a model and deploying
+it is going to get easier there's
+many startups a lot of them in israel by
+the way that handle the
+model monitoring which in the past was
+very cumbersome
+today there's a lot of software
+different sas that
+enable you to just buy a small piece of
+software
+and get automatic model monitoring so
+things are easier
+but everything is in the perimeter of
+the job meaning
+business understanding and domain
+knowledge is not something that you can
+train a
+automl algorithm um to just know
+feature engineering even in
+again maybe some of our audience doesn't
+isn't very familiar with deep learning
+for example when deep learning emerged
+and started entering the industry a lot
+of the conversations were around
+is feature engineering going to be
+redundant because deep learning models
+are much stronger than the traditional
+tree based models
+and people thought that we would just be
+able to take raw data throw them on a
+deep learning model
+and get amazing results and practice
+shows that this really isn't the case
+meaning
+you still need a data scientist that's
+proficient in cleaning the data
+creating features tuning the model
+and also the human connection meaning i
+work very closely with the business
+and with developers and at the end
+everything
+is all around people like you can't just
+have an
+algorithm that sets expectations or
+negotiates
+um and i feel really feel that these
+parts are here to stay
+so well-versed data scientists that know
+how to handle
+um the business as well as the technical
+part i feel they're going to still have
+their jobs in 10 15 years but hopefully
+things will get
+faster and easier and i feel that really
+the velocity
+of the models we're able to deploy has
+increased if in the past it would take
+me six months to create a new model
+today maybe i can do it in
+two months maybe in five years i'll be
+able to do it in two weeks
+so i feel the trend is actually going to
+help the data scientists and not really
+put us out of our jobs
+and so what one of the key takeaways
+that i'm that i'm taking away from this
+is this idea
+that you know while technical skills
+are going to be more democratized
+because a lot of the things that we now
+have
+that we need intellectual property in
+order to in terms of knowledge in order
+to do
+they're going to be democratized by
+tools like tensorflow et cetera and
+automl
+but this connection to the business unit
+is something
+and obviously all of that granted that
+you know the really deep stuff the
+really
+you know hardcore deep learning
+complicated models they're probably not
+going to be
+in auto ml and we're going to need those
+functions in the company but
+for the average use cases where this
+business connection is going to be the
+key
+and and i think that's it that's a
+pretty important takeaway from here as
+well and
+aviva i really want to thank you for
+coming here and i want to spend the last
+few minutes going
+to talk a little bit more about you and
+i'd like to start by going back to your
+childhood and asking what
+really fascinated you as a kid
+um so maybe it's not surprising um as i
+ended up as a data scientist
+but i loved math ever since i could
+remember myself
+it was my favorite subject at school i
+was like i looked forward to
+doing homework in math and i think it
+was one of my
+greatest realizations is that there the
+world is
+so vast meaning every year we would
+learn a new subject a new subdomain and
+the fact that knowledge is endless and i
+can just keep on learning
+and think about new solutions solving
+riddles
+i think this really fascinated me and
+eventually it led me to the career i
+chose
+amazing and what is inspiring you today
+so today actually i'm interested of
+course in technology and algorithms but
+i would say that what
+really inspires me is the sense of
+community i'm part of a few communities
+both the data science communities
+female technologist communities as i
+said before i'm a mentor and mentee
+and i think this is one of the things
+that really
+the networking the the mutual help it
+really pushed me i started talking at
+conferences
+um really i would say this is something
+i would never have tried without
+the push of these strong communities and
+this is what really inspires me in my
+day-to-day
+i love it by the way regarding your your
+love for math
+you know i'm trying to imagine you know
+in elementary school you're going in
+you're you're studying math
+what what did you find so beautiful
+about it that just got you so involved
+with it
+i think two things one is that it's the
+only subject i
+i felt that i was really creating
+something in other subject at school you
+just learn you're passive you learn
+social studies you learn science
+you learn history you just like
+you have knowledge that's just thrown at
+you and you're expected to memorize or
+understand
+but math for me is something that you
+really can create with you can i can
+create new problems and solve them i can
+think of new things
+um so that's really what inspired me the
+fact that it's very productive and
+it's it's it evolves it's not just
+something you have to like
+understand memorize and go on to the
+next
+thing that makes a lot of sense and the
+last question that i have for you
+is three words you would use to describe
+yourself
+um so first i'm a data scientist of
+course the second thing that may
+surprise a lot of people is that i'm a
+pastry chef
+i studied for one year in parallel my
+full-time work as a data scientist um so
+i'm a fully trained
+uh professional pastry chef um
+and mentor i think i spend most of my
+non-work hours
+mentoring people and this has become
+really a strong part of my personality
+aviv thank you very very much this was
+wonderful and inspiring and
+i learned a lot thank you for your time
+thank you
+take care thank you bye

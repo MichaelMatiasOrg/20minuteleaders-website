@@ -1,0 +1,266 @@
+[Music]
+M Margalit thank you so much for joining
+me today h in startup Nation United I
+really appreciate H your time and H your
+your background is fascinating and I'll
+just say that we just talked about how
+you recently left after 19 years at Bap
+most recently you were CIO obviously
+holding incredibly important positions
+today you're at code value um also in in
+in a very very important position and
+and so you know putting aside for a
+second your your day-to-day you've also
+taken a very active role in October 7 to
+help understand how do we take what's
+happening in the war and and happening
+um here in Israel and locally but
+bringing it to other local geographies
+that don't necessarily experience what
+the local here is experiencing and and
+that's a that's an important um an
+important feat and an important Endeavor
+um and so I have here right in front of
+the you know the West is.org this
+initiative but before we even dive into
+what that is I want you to take me back
+a little bit about yourself tell me you
+know a little bit about your journey and
+then I want to get to what H where were
+you in October
+7 okay so first of all let me thank you
+for having this
+opportunity
+and as you said I was the most of my
+career I was in bank which isra largest
+bank I did a lot of roles H regarding
+infrastructure managing infrastructure
+Department including main front storage
+backups data
+infrastructure
+um mostly basically all the
+infrastructure things are they Avil they
+have in in the bank ER During the
+covid-19 period I was in charge of the
+business continuity of the bank ER
+including the IT department and it was a
+Fascinate uh period uh creating U the
+the possibilities to work remotely in
+the bank
+ER and it was a very very comprehensive
+effort and at the end uh the last role
+that I had was a digital transformation
+leader which
+basically completed all the digital
+transformation program of the bank uh
+today I'm at code value as you said H
+I'm a CDO Chief digital officer and
+basically my role is to help
+organization that are doing digital
+transformation joury to
+maximize ER the benefits that they get
+from the multi-million dollar investment
+that they're doing in order to be
+digitized and get a cost
+efficient competitive
+advantage on October 7th H I was at home
+like most Israelis it was Saturday
+morning and I heard the all the SMS not
+notification uh starting to alarm that
+there are rockets launched into Israel
+Israel area and in the first few days ER
+basically most of the Israelis were
+about were a bit
+shocked
+and there was a lot of in individual
+initiative that started to arise from
+the surface in order to help the country
+in this difficult hour a few days later
+the business sectors started to recover
+and understand that they need ER also to
+join and collaborate with the efforts of
+helping the country uh in this war
+efforts and when I came back to war
+basically I thought what code value with
+its capabilities can do in order to help
+and one of the things that I came up
+with is that we saw that the Israeli
+advocacy is not being able to transfer
+the feelings uh how is how it
+is sit in a coffee shop or at your home
+or in work and you the sounds of
+explosions and
+rocket rocket missiles fired at you
+and sirens and
+alarms and they don't really understand
+what we in Israel are dealing with
+almost every day even today we had a lot
+of uh missiles shed us and the idea was
+to take a a supreme software architect
+that we have in our company and to
+create a web application very fast that
+will take all the rockets that were shot
+uh into Israeli area since October 7th
+and try to uh simulate how it would look
+like if it were shot to London areas to
+Berlin to
+Los Angeles and every any other city
+that we felt that it is important to
+transfer the emotions
+into and we added some Sirens Alan so
+you can hear that H you should go into a
+safe place in greenage in London or in a
+Chelsea Market in New York and basically
+it would make an urgent sense of where
+matter that you need to go right now to
+a safe place
+and we also had information about the
+the missil the barage itself how many
+people were injured how many people
+unfortunately were maybe casualties and
+that
+and H it enable us to to create a
+feeling that would pass through people
+that are don't that don't live in Israel
+and uh we want them to feel what we are
+feeling after we published H this web
+application to press uh press websit and
+to advocacy leaders um we started to get
+request please add Berlin in Germany
+please add Cape Town H in South Africa
+please add some and more and more
+location and and who did these requests
+come in from a variety of people it came
+from uh advocacy
+leaders and it came from the Israeli
+ambassador of cap of South Africa send
+us my CEO Tali got a request from a CEO
+a co- CEO friend H in Germany that she
+knows and it's a friend and wanted to
+help and try to pass the feeling to her
+groups WhatsApp groups and a connection
+in Germany so it was from a variety of
+sources but um the most important thing
+is that we got responses that it
+helps H that it helped and uh we got
+responses from people that are not
+Israelis and they are not they weren't
+familiar with the thinging of seeing
+that your house is under Fire and they
+are mess M missiles and Rockets that are
+shot into your house above your house
+and they got the Feeling H how how it
+how how is it
+and it I think that it was very helpful
+for the Israeli advocacy I think that uh
+we got some points by being able to pass
+through this
+feeling wow why was it important for you
+personally to to do this so why why did
+you feel that you know being an
+impactful player in the in the advocacy
+domain is going to make a meaningful
+impact from your end I think that uh we
+Israelis are very
+frustrated H from the response that we
+get in the world uh regarding uh October
+7th not every every time but
+especially regarding October 7th event
+and what comes afterwards the world
+really seems not to understand more some
+of the world seems that he doesn't
+really understand what we are facing and
+what we are dealing with and they
+looking and I I can agree that there are
+other things that the world should look
+at but it also need to be understanding
+to what Israeli uh citizens are ER
+facing every day and the reality that we
+are facing and I I I personally very
+very frustrated when I hear H some major
+leaders in the world uh even celebrities
+or uh leaders in the United Nations that
+have um the opportunity to help and they
+don't see and don't understand the real
+the reality that we're
+facing and we thought that moving the
+this feeling that we are feeling every
+day and transferring it to their home to
+their places of going to work and going
+to coffee shops and and will make them
+better understand the ER the reality
+better understand that it's not H
+logical that citizens
+will sit and walk Under
+Fire 100% I I think that ultimately um
+what what you're touching on is probably
+one of the like you mentioned one of the
+most important parts of the the conflict
+that that are being F by I think every
+every citizen and and last question when
+you're when you're looking at the
+development process of this H how did
+this how' this jump you know come about
+so you know October 7th everybody's in
+shock how did this really come together
+this uh um the West is next you know
+this this from the development side I
+mean how did how did you operationalize
+it and and how long did it take you know
+when did it go
+live so basically as I said after
+October 7th most of us were in shock it
+took us a few day to recover a few days
+to
+recover and um basically I was involved
+a lot of initiative of moving drones
+from one place to an army unit
+individually and helping uh get
+some H devices and the equipment for
+military soldiers and doing some uh help
+for uh major bank and major Hospital in
+Israel in connecting them with a startup
+company that will help with AI and bi
+technology identify absence and
+Casualty and after we did all these the
+personal
+initiatives
+and the business my company we had a a
+management meeting and we said okay as a
+company what can we do in order to
+help and we had some areas that we
+decided that we can with our cap
+abilities be a major effect one of them
+was creating this web application and
+because we are a software company we
+have a lot of developers and software
+architectures it can be very easy for us
+to create a a a web application and
+Louch it via one of the cloud into the
+world and help and try to help so we
+conducted the team of the two developers
+and one uix architect and and basically
+with within two or three days we had the
+first uh the first uh version of this
+website up on the earth launched uh into
+the launched uh to the Press basically
+and afterwards we just inserted more and
+more ER
+capabilities uh as the request were
+coming
+in phenomenal again I really wna uh
+thank you for the time obviously I think
+what what we were speaking about here is
+very resonates well with your name um
+again H so thank you very much for for
+the effort and for all the work you've
+done with this but in general with h
+with everything in our ecosystem you're
+obviously a huge part of it so thank you
+so much
+for effort and best of luck thank you
+very much and I hope that we will meet
+in the better
+circumstances 100% 100 B
+[Laughter]
+you

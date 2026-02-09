@@ -1,0 +1,931 @@
+at the end of the day much like cyber
+security by the way
+it's always a balance between um
+being 100 secure for example taking your
+phone and putting it in a bucket of
+water
+in that point it's secure right it's
+completely secure but it's also not
+usable
+so there's this balance between security
+and usability
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media
+partnership with ctec welcome to 20
+minute leaders today i am joined by one
+of the cyber security leaders of the
+world
+meet omari lavi the co-founder and ceo
+of orchestra group
+omaree is a serial entrepreneur and an
+angel investor he co-founded nso group
+and is the co-founder and ceo of
+orchestra group a holistic cyber
+security platform for proactive cyber
+defense
+omri founded several technology
+companies in various fields
+specializing in enterprise sw telecom
+cyber intelligence and cyber security
+he is also the co-founder at founders
+group a private investment firm which
+invests in early-stage startups
+he is an active philanthropist
+continuously supporting numerous
+non-profits in education
+cancer wellness elderly and child care
+omri lavi welcome to 20 minute leaders
+all the way from new jersey how are you
+i'm well how are you i'm doing great
+i've heard your name
+way too many times over the over the
+last few years
+it is no secret that you are one of the
+founders of nso group which has been
+a source in the media and that that a
+lot of people have been have been
+talking about and
+from my background in 8200 obviously a
+fascinating aspect of the cyber security
+space
+you founded multiple companies most
+recently now co-founded
+a orchestra group and and working with
+with big companies to to figure out how
+how the hell do you even start thinking
+about cyber security in in a greater
+spectrum
+and and and you're going to you're going
+to say that you know what your
+co-founder calls it in a second so
+that's going to be a lot of fun
+but what i'd love to spend these 20
+minutes is going a little bit over your
+journey
+the different companies you founded the
+milestones and your
+your understanding of the market and
+leadership and innovation through that
+and then talking a little bit more
+broadly about orchestra and how you're
+dealing with cyber security in the world
+and i've spoken enough um
+tell me a little bit about yourself sure
+so happy to so first of all
+thanks for having me over uh it's uh
+hopefully going to be a lot of fun uh so
+i'm as you said i'm
+willa v i'm 40 years old i'm a serial
+entrepreneur
+i founded probably over half a dozen
+different companies
+and i invested in in dozens more
+over the last uh 15 years of of my
+career
+i think i probably most known for
+my involvement and being the co-founder
+of nso group who
+is one of the largest cyber intelligence
+companies in the world today
+uh i still hold a position of director
+in that company
+but i also founded founders group
+together with some of my partners um
+who who is a small investment group uh
+we've done
+over 40 different investments in the
+last decade
+uh all from our own capital uh we
+don't uh deploy fund capital it's all
+it's all funded by
+us and the uh and the amazing partners
+around it
+um all of our investments were in tech
+obviously uh i would say the majority
+are in cyber security and cyber
+intelligence
+uh which is where we feel uh most at
+home despite
+the fact that none of us is from 8200
+uh so you know wow it's the anomaly
+yes yes it kind of proves the theory you
+don't have to be from 8200
+uh or with a degree in computer science
+to uh
+to make it in in tech um and so we're
+going to start
+there because you were a combat soldier
+and how do you find yourself
+being how do you find yourself being one
+of the top cyber security experts in the
+world
+well first of all thank you for the
+compliment i i wouldn't go it doesn't
+make sense to me
+uh it doesn't make sense to me either i
+also wouldn't go that far i know from
+the
+one of the top cyber security experts in
+the world but i i know my way of
+creating one of the biggest changes and
+one of the biggest impacts through your
+organization so it is
+as far as i'm concerned the statement
+holds oh thank you so much
+um i i'll be honest with you i think um
+you know there's a lot of very
+intelligent capable people in israel and
+everywhere in the world and people are
+sometimes um
+lack the ability to dare me and chalev
+when we founded
+nso um despite
+everybody telling us that it's
+completely crazy um
+despite not having the right background
+not having the right connections
+um we thought there was a good
+opportunity it actually started from a
+different company that we founded called
+communitake that's still around
+um community initially in its early days
+did
+the equivalent of remote desktop for
+mobile environments
+uh so basically the ability to remotely
+connect to a mobile device and repair it
+and it's a solution that was sold to um
+telcos uh mobile operators uh to
+have the ability to let's say
+have a higher efficiency solution to
+repair devices remotely because their
+service centers are probably their
+their heaviest point of uh of uh
+expenditures most of the organization is
+people supporting people who have mobile
+devices
+and we thought if we can remotely
+connect to a device and fix it
+without having you come to a center or
+without even talking to a representative
+that long
+it would have been very effective we
+actually done so we were one of the
+first companies in the world to have
+that solution and
+um it was deployed in several places but
+um there was a one incident where me and
+shalev were
+in some sort of convention and we were
+standing in the booth like a million
+other startups um
+people do and we were approached by a
+certain individual from a certain
+organization
+and he said uh wow this uh this solution
+is really cool
+um so let me get this straight you ask
+for permission as the operator and you
+come into the phone and
+then you fix it and and we said yes of
+course and we started talking about how
+much we protect privacy
+so the operator can't see your
+photographs or your contacts
+and we just give him specific access to
+the operating system
+and he's and at some point we just see
+that he's kind of glaring
+glaring off and i asked him so
+uh what what is it that's interesting
+for you and he says well
+i was wondering if you can do the
+opposite of all that
+and uh and me and chella kind of paused
+for a second we said
+what do you mean he says well i was
+wondering if
+if you guys can take this solution and
+basically get into a device without
+asking for permission
+and if you think you'll be able to
+gain all the information from the device
+and being
+hungry startup people that we are we
+said of course yeah if it's a customer
+we'll do whatever is required uh
+had zero idea on how to do it and if
+it's even possible
+and uh we went i remember talking to our
+cto who looked at us
+and says are you crazy there's no way we
+can do this isn't possible
+uh there's so many things that are not
+even
+in the in the right place to have this
+ability uh this will require a
+completely
+different set of people a completely
+different set of of
+development software tools and we didn't
+give up we felt like there's something
+there
+because you know we started asking
+around and
+there was nothing of that sort and we
+said well if this organization needs it
+i'm sure
+there's other organizations that might
+need it and we started talking to people
+from the security
+space and they all said yeah this is
+considered the holy grail
+of uh of intelligence gathering um in
+fact at the time
+um back in the old days of of
+intelligence gathering it was pretty
+simple people use their phone just to
+make calls and send
+sms text messages so if you had a hook
+into the operator which
+99.9 of operators provide to
+intelligence and
+law enforcement agencies then you were
+you were pretty
+you had all the information you needed
+you had pretty much everything you need
+um if you had a suspect that was on the
+phone you can just
+ask the operator to listen in or to get
+the recordings
+and that was that but when smartphones
+became smart
+and it it's basically a little computer
+that has end-to-end encryption
+that is using the data stream and not
+the voice stream to communicate we all
+talk through
+digital means today over the internet
+right voice over ip and not voice over
+to the voice channel
+um so there was this global phenomena
+of what they consider blind devices
+meaning devices that
+communicate all the time and agencies
+with their regular connection to the
+operator
+had no idea what was going on so we
+figured okay if we can actually solve
+this
+and help police forces or intel agencies
+gain this information
+this would be significant so we didn't
+give up
+we went to our board and it all i
+remember
+is that it was an extremely
+emotional board um we were shouted at
+and being the pushy entrepreneurs we are
+we were shouting back we said you guys
+are crazy
+we have to do this we want it to be a
+division within community
+and the board uh completely refused they
+said there's no way that we're
+defocusing the company
+we have to stay on track and if you guys
+want to do this this has to be in a
+different company
+so we said okay and
+we left the company and founded nso
+group
+and um we got our first couple engineers
+that
+of course were former 8200
+who by the way it wasn't easy at the
+time uh
+we interviewed a lot of former engineers
+from 8200 and they all said you guys are
+crazy this is impossible
+this is not something that can happen um
+but we were adamant and uh we pushed and
+pushed and found people who believed in
+our vision and we started
+to build this solution which um
+turned into the basis of nso which of
+course today it's much broader and
+there's a slew of products and services
+that we provide but
+uh that was how it started
+so and so you know it's a more personal
+question
+around this area um you know you're
+when you're starting this out and you're
+creating nso group and
+and you're you're dealing with a new a
+new type of activity that you know the
+world has never even considered in the
+last
+millions of years that this planet has
+existed because you know the
+connectivity just wasn't there it just
+wasn't
+even able to be a question right and one
+of the things that i that you know that
+i saw in
+in the previous interview you're also
+mentioning that you know nso group
+operates
+you know with the law it's you know it's
+everything's clean
+and and you know everything's
+transparent to the extent that
+everything's
+everything everything that you're doing
+is okay yet at the end and you're help
+working with governments and
+intelligence
+is there a part of you that asks some
+difficult questions as in
+you know we're going to be developing
+technology that somebody else is going
+to be using
+and it is going you know against what a
+lot of other companies are trying to
+defend
+is there even a part of you that that
+asks these questions or is conflicted
+about that
+and and i'm asking as a former you know
+8200 engineer
+and and and with the context that i know
+that nso group
+with what you said is doing everything
+with the law
+so you know i'll i'll be completely
+honest
+um there's not a lot i can disclose but
+i can tell you that
+anyone who's worked at nsl or is
+currently working in nso and is exposed
+to the immense scrutiny and regulation
+that nso is exposed to
+uh sleeps very well at night
+company included um
+do we have look at the end of the day
+much like cyber security by the way
+it's always a balance between um
+being 100 secure for example taking your
+phone and putting it in a bucket of
+water
+in that point it's secure right it's
+completely secure but it's also not
+usable
+so there's this balance between security
+and usability
+you can always turn come to an
+organization and say hey let me make you
+100 secure
+close all the communications there you
+go full
+security but it's not usable so the same
+thing goes for
+cyber intelligence it's exactly the same
+do do we have the ability to have
+control over whatever governments is
+using this
+for no we we don't much like
+other manufacturers of of anything does
+a kitchen knife manufacturer
+have control if you're going to use that
+knife to make a
+salad or to hurt somebody with there's
+no control once we sell that product
+we do everything in our powers and more
+i think nso is probably the most
+regulated company
+not only in this industry but across
+several industries
+if you go to banking or to other
+industries that have heavy regulation
+and i think nso is
+even more heavily regulated than them uh
+so we do everything within our power
+to prevent and make sure that this
+technology is not misused
+of course being this stealthy type of
+industry
+we cannot always disclose what we do and
+how we do it but this is why
+we are selling to governments only and
+we've done so since inception we have
+never sold to anyone who is not a formal
+government that was approved
+by the ministry of defense and other
+agencies throughout the world the united
+states one
+defense department of defense the
+european export control committee
+um we're taking uh the regulation that
+is
+uh let's say put on our shoulders and
+taking it even
+further by having our own regulatory
+leaps and bounds and committees and
+people involved that
+try and prevent as much as possible
+misuse of this technology but
+i just want to add that
+nothing will ever be a hundred percent
+will governments misuse
+sometimes but if you know the
+amounts of amazing things that this
+technology has achieved
+the countless lives that it saved the
+terrorist attacks that were
+prevented the criminal organizations
+that were put down
+after decades of futility futility
+i mean it's all a matter of balance is
+it perfect it'll never be perfect but
+are we doing our best efforts
+one thousand percent okay i think that
+that is the key and i remember that i
+you know watching a lot of the articles
+and a lot of the news and and
+the the you know the the arguments
+around it i kept thinking yourself it's
+more complicated than what people are
+describing and of course
+there's going to be anomalies and edge
+cases but if but the problem is that
+you know all the lives being saved and
+the terrorist organizations that are
+being stopped
+that those are not being disclosed on
+the media it's not necessarily as sexy
+and it's not
+and and you know for security reasons
+you're not disclosing that
+and and so i think that you know that's
+exactly i think the perspective that i
+also wanted to share that
+you know at the end you know from just
+thinking of of the goodness that is
+being that this technology is being
+used for i think that's amazing and now
+only now you're on
+the different end of the spectrum so now
+you're a co-founder of orchestra group
+and you're working with companies to
+prevent cyber security attacks and
+provide and provide these solutions and
+so
+uh you know thank you for sharing you
+know your perspective on the nso group
+and i think that's an important
+uh conversation to have and just
+understanding the complexity and the
+side that is not being heard
+uh very frequently and and and i have
+note and and you know
+saying everything that you said i think
+that's just remarkable and tell me a
+little bit about or about orchestra
+group in the context of the greater
+vision of
+what is happening in the cyber world
+today so
+orchestra group was actually the birth
+child of
+our work in founders group so when we
+started investing in cyber security much
+like a lot of other people who think
+they know
+we thought that oh yeah we know cyber
+we're going to make good investments and
+it's going to be great
+and we invested in in several companies
+uh that we still believe
+are fantastic um but we saw that there
+is a recurring kind of pattern
+that these companies are struggling it
+doesn't matter how good the technology
+is it doesn't matter
+how amazing the team is um
+there's a problem in the market space
+and we felt that
+just by building another tech solution
+another tech
+company and kind of shoving it into the
+market we're not really going to do
+anything different and we spent a lot of
+time we spent
+on orchestra i'd say over two years in
+research
+uh and trying to understand yes uh
+before even opening the company
+um we tried to understand where the
+problems lie
+we spoke to countless csos chief you
+know information security officers
+of companies from huge like uh the top
+five banks in the world
+to small and minuscule companies
+and the reality was that there's a huge
+duality in the market
+that has to be addressed if you're a
+very well financed and capable
+organization
+say one of the biggest banks in the
+world
+then you're spending hundreds of
+millions of dollars in cyber security
+and you have a team of thousands of
+people
+just dealing with this day in and day
+out and what you do
+is you buy everything under the sun so
+these companies have
+what we call a security stack of
+anything between
+70 and 150 different vendors which
+anyone from any industry will tell you
+it's completely crazy there is no way
+that these 70 to 150 solutions work in
+harmony
+there's just no way in fact um some of
+the testimonials we got from these csos
+were
+statistics like for 40 of the stack we
+don't even know if it's on or off
+let alone if it's working okay but
+they're so worried from what they call
+the jenga effect so if i pull one of
+these solutions out of the stack
+they're worried the whole thing is going
+to collapse because everything is kind
+of
+put one on top of the other so
+they are in a position where they don't
+even know if some of their solutions are
+switched on
+or off but they just don't want to touch
+it because they've been there for 10
+years or 5 years or
+20 years and let's just leave it in
+there and hope for the best
+and we can just keep on adding and
+that's that's what we call rich people
+problem
+if you're a small company then you're in
+a completely different side of the
+spectrum you're basically still in 1996
+you're still
+just sticking your head in the sand
+saying i'm going to be underserved
+i'm going to take my chances and
+hopefully i won't get hit
+i have my antivirus firewall
+and some knack maybe a network access
+control system
+and that's that's about it but the
+threat landscape is constantly changing
+and what we're seeing
+is a massive increase in cyber attacks
+from small ones like ransomware to more
+complicated and
+serious ones like solar winds and the
+reality is that nobody can afford to
+stick his hand his head in the sand
+anymore
+um and everyone on all sides of the
+spectrum are saying
+you know we need something that gives us
+a more strategic view we can't just keep
+adding
+these tiny 20 people company solution
+out of brilliant israel and just adding
+them on to our stack that's that's not a
+viable solution and that's what
+orchestra was set out to change
+and so what i'm hearing the the clear
+distinction here is the idea of strategy
+on one hand you can you know aim to go
+and bring in these 70 vendors and really
+hope for the best without really knowing
+what each one is doing but hopefully
+you sleep well at night knowing that
+there's these 70 startups that are
+that are trying to solve these niche
+problems
+but there is no strategic thinking of
+okay are
+how do we get a grasp and a handle of
+what's happening here right
+right so that's what orchestra was set
+out to do we said let's try and focus
+on an area that we find most hacks come
+from which is what we consider left of
+bank meaning the
+the side before your company gets
+attacked
+and on left of bang it's it's a lot
+about visibility and control meaning i
+learning what you actually have in your
+network
+and controlling it the right way so we
+started
+looking for solutions that already exist
+that were already developed
+and trying putting them together
+truly not just on a graphic user
+interface
+uh level but truly at the lowest level
+of code
+and make them truly work together not
+just appear that they work together
+which was um quite a challenge our cto
+who's completely brilliant dr
+jacob buchelson he ran
+ibm's a research center in ithaca new
+york where watson came from
+absolutely brilliant guy had multiple
+exits in enterprise software
+um he said uh we wanted to draw him in
+to join us as a co-founder
+and i've known jacob for for over a
+decade and he said
+this is very interesting this is
+something that's truly interesting but
+one small challenge we have to own these
+companies
+and i was like well what do you mean
+because we thought we could just
+cooperate or
+or you know have some sort of sdk
+solution he said no no no if you really
+want to
+kind of weave this code together from
+all these different vendors and you
+really want it to work you need to have
+access to the ip
+so it's either we buy them or we find
+companies that are happy to share their
+ip which obviously
+is not very common so we started looking
+at this problem
+not just as tech people this kind of
+it's funny because it relates to the
+first thing we talked about
+not just being business people who come
+from a business environment from
+investments from financials
+from a variety of areas who are not just
+tech
+the solution to this problem that the
+way we see it
+wasn't just a tech solution it was a
+business solution
+just a one second do me a favor and
+let's go back a few sentences before
+just about the editing
+uh just the editing works out i was
+saying
+we need direct access to the ip to the
+code
+of those companies to actually enable
+them uh to work together
+um i i was saying that it was
+a little funny because we started
+talking about not being from 8200 and
+how does that
+uh entail and this is this is a great
+example because
+uh none of the founders of nso are
+former 8200
+uh and the the solution is is
+not just a tech solution it's not just
+let's build the most sophisticated tech
+we can do
+or find it's it's it's also a business
+solution
+so the way we did the math was
+there were at the time we found the
+company there were 1500
+funded cyber security companies in
+israel and the west coast alone
+which is which is absolutely crazy and
+if you know
+vc statistics that would mean that
+there's going to be
+i'm sorry to say about 1450
+uh bankruptcies within three years now
+this is not because these guys are not
+smart this is not because these guys are
+not capable
+or these companies are are nonsense this
+is
+just because the the the market space
+can't absorb
+all these small niche solutions
+so we said if we have the right funding
+we can go out and buy
+ready-made technologies that are already
+distressed because they can't they can't
+compete with companies who are already
+there
+like i said part of the market is over
+hydrated with solution and the other one
+is completely dehydrated
+so the competition is fierce selling to
+tiny organizations
+doesn't really get the get the results
+that you want because
+you're selling to 50 customers each one
+of them giving you 5 000
+a year that's not really getting you
+anywhere and to sell to
+i don't know jp morgan or goldman sachs
+is incredibly difficult
+and expensive so that gap in the market
+which
+doesn't derive from any training in 8200
+but purely from business
+understanding and financials we realize
+that we can
+buy great tech solutions who happen to
+have a challenge
+in their growth development and put them
+all together
+and that's what we started to do we we
+started acquiring
+smaller companies that had a good tech
+solution
+we started weaving them together and
+building uh our own
+um let's say single pane you know
+unified uh
+cockpit you know fine you you can you
+can choose your superlative
+um but basically this centralized piece
+that actually turns all these companies
+or their solutions to sensors so they're
+they're
+instead of being the whole company
+they're just a tentacle in a much larger
+more
+um sophisticated creature which is the
+orchestra platform
+which we call harmony i'm gonna
+i i love that and i'm gonna circle back
+now you circled back to the 8200 i'm
+going to circle back to my initial
+comment of being a cyber security
+expert and one of the things that i've
+been getting a lot of inspiration in
+this show is
+is understanding really what it means to
+be an expert and a game changer
+and i think that going back what i meant
+to say is not necessarily that you're
+the most
+knowledgeable in the in the zeros and
+ones and uh
+you know you know somebody better than
+anybody but it's the but at the end
+it's it's whoever makes the biggest
+game-changing moves and and whoever is
+really disrupting the markets and is
+really providing the most value and as
+far as i'm concerned that is the expert
+in my eyes and and i really appreciate
+you coming here i know how busy you are
+and i just loved this conversation i
+have three short
+questions before i let you go to to
+running a huge company
+and we'll start off going back to your
+childhood
+when you were a kid what fascinated you
+what what really
+you know got your blood going whether
+it's a subject in school or a passion
+hobby
+i'll i'll be honest it's atypical maybe
+but to me but it's very typical to other
+people but computers and machines
+i remember completely disassembling and
+reassembling
+tvs and radios and at some point when i
+was slightly older computers
+my first computer my second third fourth
+i remember my parents
+being completely uh nervous and worried
+when
+they would buy me a computer from the
+store and the first thing they do
+is look at me just completely
+disassemble it all over the carpet
+and then try and reassemble it back and
+make it work better
+uh and fit my my actual needs so i
+i remember that very distinctively
+amazing and
+some sort of inspiration along your way
+whether it's a person or
+or something that inspired you
+throughout your journey
+well i mean there's a lot of people that
+inspiration to me always comes from
+people uh
+and what they do but i think maybe
+somebody who is with me for the longest
+time is my wife
+um that despite not being
+um she ironically she is from 8200
+uh but uh from the from from another
+part of it
+um but i think my wife was uh kind of a
+uh a moral compass and a guide um
+she has been alongside me for almost my
+entire career
+and no matter how hard things can get
+and at the end of the day
+when you make you know when you do
+business it's it's with people
+and um
+there's there's really an importance to
+having somebody alongside with you
+to always kind of provide another
+perspective to keep you calm and
+composed
+because people can you know can be
+amazing and can be very difficult to
+handle
+and she has been my backbone
+she has been part of the reason that we
+arrived to where we are today amazing
+and what are three words you would use
+to describe yourself
+the easiest question of them all of
+course yes i i don't know this um
+i i remember these kinds of questions
+from job interviews that i i didn't do
+for about 20
+odd years so excuse me if i'm a little
+rusty uh three words that describe me
+when you think of um what comes to mind
+i would say i'm uh i'm creative
+um i think it's something that's very
+descriptive of me i really like
+to try and look at things a different
+way
+that's something that's i think very
+synonymous to me
+uh demanding um so if i'm
+set to do something uh and the people
+around me
+are grouping i want things done
+a certain way and it sounds a little bad
+but it's
+it's i think it's kind of a quality you
+need to have to survive
+as an entrepreneur and
+i would say you're curious
+um since childhood today it's just
+changed
+the scale but the desire to learn
+new things kind of overcomes every other
+thing so if you're worried about
+starting your own company because it's
+in a field that you were never a part of
+the fact that i'm curious about it is
+what pushes me forward to
+to go and try and do it even if it looks
+hopeless even if it looks uh
+completely out of character but i i just
+really wanna know i wanna
+i wanna be involved and see what i can
+do with it and
+that's the driving force i think behind
+most successful entrepreneurs than i
+know
+thank you very very much this was so
+much fun and
+and i gained so much inspiration and
+knowledge stay safe and stay healthy
+thank you thank you
+thank you very much
+[Music]

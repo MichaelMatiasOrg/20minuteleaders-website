@@ -1,0 +1,695 @@
+i know better what they want i will go
+and build something without talking to
+them
+right that is not the right strategy and
+will not work
+[Music]
+elon frank so good to have you here
+thank you for joining me
+thank you so much great to be here we're
+going to have so much fun over these
+next 20 minutes because this is
+hugely relevant to what's happening
+today vice president of product
+at slack a tool that i believe
+everybody watching this obviously uses
+and and slowly conquering the world
+but we're going to have an amazing
+conversation about enterprise software
+you have had 20 years of experience in
+the space in leadership positions and
+most recently now it's slack and
+one of the things that we talked about
+was that a unifying line throughout this
+journey of yours
+is the fact that you're passionate about
+collaborative software is that an
+accident or or is that intentional
+uh it was not an accident enterprise
+software
+is an accident i accidentally ended up
+in enterprise software
+uh because my my cousin was a venture
+uh capitalist back in the early days and
+pointed me to a startup that he invested
+in that happened to be in the enterprise
+space
+and that was my initial journey in
+silicon valley back in 1997
+and uh that's that's what started
+enterprise software for me but
+um but collaboration once i found
+collaboration
+um i really found a group um and a
+passion
+and i've been been pretty much there
+ever since okay
+but that's well so so take me back you
+know to the beginning of your journey
+you're just starting out you're you're
+starting your path
+as you're entering you know enterprise
+software what are some of the
+sort of the things that looking back you
+would tell yourself back then some of
+the earned secrets
+along the way we're back we're back in
+business the same place
+what are the earned secrets that you've
+over these 20 years if you go back 20
+years
+what would you tell a young elon uh with
+regards to
+enterprise software um it's really
+important to
+focus on the end users this is something
+that we didn't know 20 years ago it's
+maybe
+a little bit more obvious now but that's
+something that's that's
+critically important um i think what's
+more relevant now which is interesting
+is that everyone seems to know that you
+know enterprise software also has to be
+designed well
+and you know adoption metrics have to be
+taken into consideration
+um but we have seemed to forget the fact
+that
+enterprise software still has something
+different from
+consumer which is enterprise software
+has a user and a chooser
+and it is important the chooser is the
+the person who makes the budget
+decisions person who makes the buying
+decisions
+um and it's important to consider them
+in product management just as much as
+the end user
+why is that so in my mind this is
+i have a sales cycle i go to the
+enterprise i pitch to
+the director who has the the authority
+to sign off on a hundred thousand dollar
+you know license
+and but the users are the team players
+who are at the end are the ones you know
+running around and using my software for
+whatever they're doing
+right so the the dynamic is
+that this day um software enterprise
+software
+is more coming up uh sorry from the
+bottom up
+right then top down so rather than cio
+making a decision and saying everyone's
+going to use this
+enterprise software is actually being
+found
+by those ics those individual
+contributors that have the jobs
+and they want to be more productive at
+work they're looking for tools to make
+them more productive at work
+so that's why it's important to focus on
+the end user
+um but a lot of and on a lot of
+enterprise software companies
+um of course like slack are are doing so
+right but it's important at the same
+time one of the things that people maybe
+don't realize about slack
+is that we we focus equally on the the
+top down what is the
+what is it going to be important for the
+enterprise buyer and for slacking for
+productivity tools specifically
+that is productivity and innovation what
+are the tools that are going to help
+my employees transform themselves to be
+more productive to be more innovative
+so just going back to that going back to
+that now because it's fascinating to me
+what you're saying is that
+there has been a trend changing that if
+previously you go to the ico of the
+company they
+and your your the cio and you go and you
+pitch a product
+and you get them to buy into it and then
+from top down they disseminated into
+their thousand employers so today
+you're going after you after the the
+team players
+and if they love your product they'll
+start adopting it throughout the
+organization
+until there's no point but to actually
+you know get it get it
+custom for the organization right that's
+right okay and then it go
+it bubbles up into the cio the cio sees
+it as known maybe
+as shadow i.t at this point okay now you
+want to you know
+you as an enterprise software company
+want to sell to the cio
+this is when the cio is going to look
+for different things
+their requirements are very very
+different from the end users
+certainly they want their end users to
+be productive but they also have to look
+after
+beyond cost they have to look after
+compliance secure security
+and performance those are the things
+that really matter to them
+um when they're when they're shopping
+for software so you have to you have to
+make sure that your product
+also addresses these needs fascinating
+so it sounds to me like you're actually
+like you're almost developing
+two products because even you know with
+let's look at you know slack is a
+collab collaboration tool on one hand
+you have the end user which is myself i
+love sharing my files i love all the
+marketplace with integrations my life is
+nothing like it was five years ago if i
+had slack in high school my high school
+would look extremely different than it
+does now
+because now it's incred it's really it's
+incredible i'll just say that it's
+incredible
+but you know there's all of this in
+compliance and security that i'm not
+even aware of
+for example i work at hippo and you know
+i don't really know
+what security goes behind the scenes to
+make sure that the data that i pass
+along
+is secured but i'm sure that my cio
+knows it very well right
+exactly that that's incredible that's
+exactly right and
+early on in slack we actually did that
+we actually and i um i've spoken to many
+enterprise software companies
+that are starting up and given this
+advice is that early on we actually
+separated out product management into
+self-service
+and into enterprise and the self-service
+part of product management really focus
+on metrics like adoption um usage of
+different app you know features um nps
+and satisfaction of end users uh the
+love of the
+of the product and all that right um in
+the enterprise side the side that i led
+focus exclusively on you know making
+sure that new industries new geographies
+can actually obtain this
+software uh each one has a different set
+of compliance requirements security
+requirements administration requirements
+um so that's how we we looked at the
+market in a very different lens
+balira ilan your colleague has the
+luxury of having data from millions of
+users
+getting you know aggregating getting nps
+scores through logic through the usage
+you're coming in and you have a handful
+of you know large customers that you're
+you're trying to get information from
+how do you get an nps score
+from those individuals who are who are
+buying the software
+because you know what every time they
+every product class that i ever taught
+they told us
+your customers don't know what they want
+ask them what they need right
+so so how do you go about that because
+your matrix is
+is their satisfaction yeah that's right
+so
+um by the way the phrase that you just
+quoted
+has as many times been uh misconstrued
+and
+especially recently and i want to make
+sure
+that um people listening to this that
+are starting enterprise software
+companies
+um understand that yes that is true that
+customers don't necessarily know the
+solution they will
+ask for something that sounds like this
+solution um but what you need to do
+as a good pm is to bring them back to
+the problem state the problem and then
+your job is to come up with a solution
+but a lot of people
+misinterpret that statement that you've
+had to the customers don't know what
+they want i know better what they want
+i will go and build something without
+talking to them right that is not the
+right strategy
+and will not work um so the answer to
+your question it's a really good
+question
+with enterprise software it's different
+you can't do
+a broad you know surveys quant work is
+not going to really work because you
+just don't have that many data points
+exactly but you can certainly go and
+talk to people
+so the first thing that i recommend for
+enterprise software company
+uh product managers to do is to set up a
+cab a customer
+advisory board um bring in your you know
+top 20 customers meet with them on a
+regular basis once every quarter once
+every six months whatever makes sense
+for you
+present to them your what we do with our
+cavs
+and what we've done since you know
+really four years ago when i joined
+slack wow
+is um we we meet regularly we present
+the roadmap
+and get their feedback on what we uh
+have show
+are showing we have special sections the
+next section of the
+of the cab it's a one day session
+usually um the next section is really to
+talk about
+three different drill down areas areas
+that we're planning on invest
+in um recently arvina in the near future
+right we really want to get their their
+input on so drill downs into specifics
+and then the last section is really for
+them to talk to us
+and hear their feedback and to talk to
+one another so the best part of the
+of that day a lot of times is just
+having them
+talk to us and again to each other about
+things that are working things that are
+not working things that they've tried
+um and learning from one another and we
+learn from them as well
+that is so cool do they one of the best
+parts of the day all right are these
+pro users in the sense that do they love
+slack
+or do they is that something that's
+common among all of them or are some of
+them a little bit more hesitant
+so in this case these are all people we
+i
+that's not a criteria that i use it's
+not a limited test that i use
+okay getting people on the cab or not
+they happen to mostly love slack because
+they are responsible for rolling it out
+right there um
+in their organization one thing that is
+important to remember in enterprise
+software
+is that those admins they're your
+champions
+right those admins the people that are
+are working with your software and
+managing your software
+they've stayed they've um you know
+they've stayed their career
+on the success of your product because
+that's their career
+um and so it's important to listen to
+them
+um it's important to treat them well and
+so they do mostly love slack they do
+they are mostly
+that makes i mean yeah i mean obviously
+the more they like what i yeah
+i don't i don't ask that question how
+what happens when there's a clash
+there's a clash because you have a you
+have a road map for enterprise
+your colleague has a roadmap for the
+self-serve
+there's a finite resources as in any
+organization
+and now you have to make some decisions
+how do you quantify the impact
+of these two fields which are connected
+but disconnected
+yeah a lot of it is um
+art more than science um especially when
+you're talking about
+enterprise to enterprise you know
+security to admin is pretty easy
+right you just look at the tam or the
+revenue
+impacted or the pipeline that's blocked
+based on the features we have reports
+that show us exactly how much pipeline
+is associated with
+you know these big security features or
+big administration features
+that's easy on the retail side it's also
+pretty easy because the numbers the
+metrics you know tell you where to
+invest
+um you know we have a lot of experiments
+so we run there and see which one
+um you know proves to be better
+enterprise to
+to retail is a little bit more difficult
+and for that what we've done is
+we have company priorities um
+there are always always somehow there
+are three
+but there are three company priorities
+and your
+your initiative similar to a company
+pitching to a vc
+um we pitch internally wow it has to
+align to one of these three initiatives
+um and if you know if it does then
+that's
+you know those are the teams that they
+get the resources for the year so
+so cool i'm already i'm so upset i'm so
+upset that we
+were more than halfway through because
+there's i'm every question that you
+answer i have 10 more questions that i
+want to ask
+i'll try to keep them short no no no no
+no this has been perfect please don't
+uh elon you know looking back now or
+actually looking forward
+you know we can't avoid the fact that
+we're you know in the global pandemic
+and the world has changed
+forever and our workforce has changed
+forever
+and you know i love your take on where
+are we headed in terms of club
+collaborative tools productivity as the
+world is shifting more and more towards
+remote collaboration
+and con you know either slack or off
+slack
+how do you perceive our collaborative
+nature digitally as the years are going
+to go forward
+yeah well so certain this we're not
+going to go back
+to whatever normal was yeah um
+i do think that the office is not a
+thing of the past um we will have
+offices again we will all be in offices
+it will be slightly different i think
+we've all realized that people can
+actually just be
+just as productive at home it's not more
+productive
+minus minus taking care of kids and all
+that but
+we'll go to a world where you know kids
+are at school and and parents can do
+work
+um but uh but i think that the the thing
+that
+is um the trend that we've seen and this
+has happened before kobe by the way is
+that
+responsibility and authority to uh for
+decision making
+is brought down the um the org chart
+right it used to be that decisions went
+up
+um and they were made at the top um and
+then those
+those orders came down um but that's
+it's almost reversed decisions are being
+made in teams
+and what's important for executives is
+now to understand all the decisions that
+are being made
+so they can better align and and guide
+the team
+that is so cool that's a healthy thing
+that's good for large organizations to
+function that way and i see
+in my work with organizations that are
+transforming themselves
+that more and more of them are working
+to that but i think that that is
+that kind of reverse information flow is
+a new area that's going to be explored
+with tools
+i don't think that that's an area that
+really has been explored
+with enterprise software that is so so
+cool okay now you're you know 20 years
+later you're still an enterprise
+software collab
+collaborative tools productivity tools
+why are you going where are you going to
+go into your 21st year i mean what what
+make what what does it do for you that
+you're in this you know unique
+space and in your unique position yeah
+i'll tell you and i i don't mean to
+bring this back to slack we can talk
+about other things but
+um but specifically you know four years
+ago when i joined slack and i went and
+visited my my first customer
+um and it was it's a large bank
+um you know in the east coast uh and i
+met with an employee there
+and she told me i love my job
+more because i use slack not i love
+slack
+um which would also be great to hear and
+i hear that a lot but but i love my job
+you know i'm here nine to five i enjoy
+what i do day to day more
+because of this tool i'm happier here
+when you can have that kind of effect on
+most of the waking hours of a person um
+you know
+they their time away from their family
+um that kind of
+that that is rewarding um that's a
+mission that that i'm
+happy to get behind and um is just one
+example of companies that are doing
+things like that making people's
+um you know lives easier and better at
+work
+and are you is it more in the fact that
+you're more curious about enterprise
+software that you're just you decided to
+focus on that space
+or do you see yourself ever shifting to
+the self-serve
+i i get it i get enterprise software
+okay
+you know i don't get consumer software
+um you know you build something and then
+either someone likes it like
+you need a 14 year old to like your
+product and then all of a sudden
+you know other people like it i don't
+get that world um
+you know i uh i definitely get
+enterprise software
+i love it i love it okay elon you know
+give me you know the now
+the broad picture of of collaborative
+tools are we all moving more to
+real-time communication multiple
+integrations
+because it seems to me you know that it
+seems obvious this is where we're headed
+is it more that we're going to see
+greater productivity
+with using these tools or are we going
+to see more
+happiness levels or more satisfaction
+because i feel pretty productive right
+now i have to say i have you know
+about a dozen slack channels from you
+know like 10 different
+segments and and like work spaces and
+you know i feel pretty productive and
+i'm wondering whether there's now the
+aim is to increase my productivity or
+increase my happiness level
+yeah i think that both go hand in hand
+by the way
+um i i think that uh people
+can be both productive and and happy and
+i think a lot of times they actually
+uh complement each other so right if i'm
+able to be more productive
+i'm able to be you know get more
+satisfaction out of my out of my job
+um so so i wouldn't think of happiness
+as as like
+just socializing at work or happiness as
+right there's happiness from from doing
+the work itself
+um i think that as far as where we're
+going
+i let me first take a quick second i
+can't ever imagine going back to email
+i mean i can't ever imagine in fact i
+would use this
+as a as definitely a show stopper in
+any future company i go to wow
+i couldn't imagine coming in the morning
+and opening up an inbox
+and sorting through 100 or 200
+emails like i used to it just seems
+so counterproductive um to have my
+information sorted by someone else based
+on
+what subject they wrote and where they
+you know
+when they sent the message um with slack
+and channels
+i i dictate you know where i work and
+what's important to me i'm subscribing
+to the channels that are most important
+hundred percent you have it's it's a
+different type of control of my day it's
+just
+it's so backwards for me to think about
+email right now
+percent as far as where we're going in
+the future
+i think that there's no question you can
+see this with with slack you can see
+teams of course you know they copied us
+but whatever um
+you know it's um you can see the
+channel-based communication this this
+love this type of subscribing to the
+project
+and the the topics that i care about um
+is the
+wave of the future by the way email is
+not different as far as the information
+that i carry
+right email also had topics right every
+everything that you did in email was a
+topic you were hiring someone you were
+working on a project and when you had
+multiple ccs you had a channel you had a
+exactly right it just was it just was
+disorganized it was just organized
+you know chronologically based on when
+people sent you messages
+it just isn't organized well so so slack
+is not like
+this is new type of work it's just now
+organizing your work based on topics
+and one of the actually really inspiring
+things that i've experienced recently
+is using superhuman as an email client
+because they managed to
+to to reduce the formality of the email
+up until now i felt an email i felt
+this grave responsibility like it's so
+formal
+dear sir no no sincere michael i'm not
+with superhuman the way that they did it
+the chat based
+same thing with slack when my manager
+here at hippo slacks me
+i don't i feel the informality it feels
+like an ongoing conversation with the
+same content that i would
+that i would otherwise get in an email
+it makes me respond faster it makes me
+more confident
+all of a sudden i use emojis in my
+messages i love using emojis
+it sounds like a joke but it's a serious
+thing it makes everything a little
+it makes everything more fun yeah yeah i
+agree and
+you know and more productive um we use
+emojis by the way
+for productivity so when someone um
+wants my attention in a channel they put
+a file or something like that
+i will use the eyes emoji to say that
+i'm looking at it
+like calm down i'm looking at it you
+know i didn't miss your message
+um and then when i'm done i put a green
+check box emoji saying it's done you
+know i finished my assignment whatever
+it is and
+that way they know okay this is done i'm
+starting to i'm starting to employ that
+with with with the team that i'm on
+right here
+elan this was so thank you for your time
+thank you for the generosity this is so
+great i know how busy you are
+before we leave i need three words that
+you would use to describe yourself
+uh okay three words um uh can i get
+so one i mean there's one word however
+however we want to do this
+there's one word that actually means
+like all three together
+let's do it which is kibbutznik i mean i
+i
+i grew up uh in ed uh and
+you know moved to minnesota at age 10
+but
+um you know the hard working uh you know
+collaborative
+and humble are things that i aspire to
+be
+in in my job and i learned those all
+before the age of 10.
+wow well kibbutz nick said it all you
+gave me the three words anyways
+afterwards i love it
+thank you very very much we we didn't
+even mention the whole about j ventures
+and working together and i've been
+it's been such a pleasure doing some due
+diligence with you and i've been
+learning a lot from you and everybody
+else but
+but thank you for thank you for your
+time for this and for the fun
+and and i look forward to maintaining
+this relationship thank you
+my pleasure thank you take care bye

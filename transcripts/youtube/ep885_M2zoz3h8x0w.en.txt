@@ -1,0 +1,656 @@
+one of the things that technology can
+really help companies do is figure out
+how they have incredible product market
+fit not just in the early stages but
+then as they continue to grow and scale
+and keep innovating and the challenge
+there for most organizations is how sort
+of misaligned the sales in the r d team
+naturally is because of where they live
+the go to market team is sort of living
+around the universe's sales force and
+talking to customers all the time and
+your r d organization is probably out
+there you know writing code and
+orienting around atlassian geotype
+services and it's very very difficult to
+actually create the seamless
+interconnected tissue between these
+worlds which you very much need if
+you're going to put products in market
+that you're very confident that people
+can engage with when you're not there to
+shepherd them sort of during that world
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret court ventures j ventures
+riverside fm
+fusion vc
+birthright excel
+j impact
+leap google for startups and hippo and
+in media partnership with ctec
+hello and welcome to 20 minute leaders
+today i'm with matt darrow talking about
+enterprise
+software matt is the ceo and co-founder
+of viven
+matson is an enterprise software leader
+with experience growing businesses
+building global teams and delivering
+products before founding vivint he
+worked at zora big machines and deloitte
+i love turkey california and it sounds
+like the work they're doing is
+fascinating on multiple fronts
+purchasing
+consumer behavior is shifting rapidly
+over these last few decades and i'm
+looking forward to learning a little bit
+more about this piece from you and today
+running even uh you're
+you have so much interesting experience
+for from different
+um from different organizations that
+you've been a part of and and viven is
+obviously doing extraordinarily
+well with some some great news lately so
+congratulations uh for that uh tell me a
+little bit about yourself matt what what
+really excites you
+in in you know in the world or in your
+own career
+yeah it's a it's a it's a big question
+and uh yeah you know stop the squeeze
+into 20 minutes i think i think for me
+you know
+i i'm i'm always looking a to do the
+hard thing uh which is why i think i i
+went down ultimately the professional
+journey of becoming a founder but that
+parlays into my personal life too
+whether or not it's you know climbing
+mountains or learning to become a pilot
+or you know studying advanced degrees
+and getting masters of science and
+engineering this has been a common
+thread sort of throughout my time and
+tenure
+um and i think professionally one of the
+things that excites me if i take you
+know sort of that part aside just who i
+am and what makes my dna
+um the other thing that i that i really
+love to focus on it's like how do you
+build b2b companies that just look and
+feel different then i think a lot of the
+mold that comes out of silicon valley
+and ultimately getting to a place that
+you've got an incredible culture
+incredible group of people um and you're
+doing things you're setting the stage in
+a way that other companies can follow
+like for us
+we were 100 remote company before the
+pandemic necessarily made that um sort
+of a requirement or fashionable we do a
+lot of investment in culture and mental
+health and awareness we do a lot of
+different things and how we organize as
+a group and a person uh within our four
+walls so i think for us you know for me
+personally um i love a i love a great
+challenge whether that's a physical
+challenge a mental challenge
+professional challenge um and along the
+way i'm trying to do things that uh
+maybe other companies aren't quite
+pioneering but others can potentially
+look to for for guidance and to follow
+incredible and how do you find yourself
+looking into the buying space
+as a as sort of a pain point that you
+deeply care about
+well this uh you know starting vivint
+wasn't necessarily a foregone conclusion
+so i
+um you know even like yourself with an
+engineering background after doing my
+master's in engineering i was writing
+computer software in a very small
+laboratory all by myself for 10 hours a
+day and i very quickly realized this
+probably isn't a long-term career for
+myself so i figured well i need to sort
+of get out of this space of being uh
+sort of very very isolated and and was
+going to see what was out there and i
+joined uh deloitte consulting very early
+on in my days and that's actually how i
+got into the world of b2b enterprise
+applications i knew nothing about sap
+nothing about oracle nothing about
+salesforce.com
+and i learned it all there and i started
+to really fall in love with this uh with
+this area in this world which is
+software for some of the world's largest
+and leaning businesses the problem sets
+were really challenging um the
+opportunities were really interesting
+how you could actually change the
+behavior of a big company
+and i also very quickly realized doing
+deployments and being on the post sales
+side of the house
+also was not for me at all like we were
+writing custom software developments for
+sap and you know doing year-long plus
+implementations deployments and that's
+when i found my way into i call it the
+the best profession in technology that
+nobody's ever heard of which is sales
+engineering and at big machines at the
+time go to abel their ceo
+he had hired me gave me my first gig as
+an se and i'd been in that career then
+for the next 10 plus years and it was
+all of those core learnings that i had
+on that next journey whether or not it
+was companies that would get acquired or
+companies that we would take public
+um those core learnings form the basis
+for what would become vivint which was
+all the tools and the technologies that
+i wish that i had as i was building my
+teams and running my businesses
+they just didn't exist yet so there's
+this great opportunity to have these
+sort of first of their kind products in
+the marketplace and what i saw during
+that time
+was this big change in how b2b selling
+um
+actually needs to evolve from a world of
+sort of magic quadrants and golf and
+fancy dinners to you know folks that are
+very autonomous independent uh the
+product is really the center of the
+universe and that changes the dynamic
+for so many different companies too so
+it's a very very short uh sort of story
+around not only my founder journey but
+where i went from being very a deep
+specialist in engineering to say hey i
+actually want to do something a little
+bit more customer focused a little bit
+more business savvy focus and i found my
+way into this amazing career that uh is
+really starting to come into its own um
+that can really change the way that a
+b2b company not only goes to market but
+there's a great opportunity for
+technologies to actually help it and
+help those businesses too
+so maybe can you give me a little bit
+more of an overview as to how
+b2b
+sales are have taken place traditionally
+how they're taking place today sort of
+what are the big shifts that are
+happening and and then obviously
+transitioning into vivin and how
+technology is now making things much
+easier and better
+yeah well so my prior life before
+founding vivint
+you know i was always at b2b companies
+of different shapes and sizes before
+that was zora their you know publicly
+traded subscription billing system i was
+there from very very early days to the
+ipo before that big machines which was
+configure price quote really tackling
+the sort of quote to cash cycle
+ultimately they got uh purchased by
+oracle and a lot of these companies you
+know our sales motions and tactics
+were the tried and true motions that
+folks like ptc and bnc and oracle and
+even salesforce to some extent
+um made famous back in the early 2000s
+even late 90s
+which was very much again based on
+relationships
+and then also based on you know driving
+the customer through your process and
+then at the end because it's enterprise
+software hoping that the delivery team
+could somehow figure out how to make all
+this stuff go live and you know the
+customer actually gets some semblance of
+value of the vision that you were
+selling in the first place
+and i think the big change even over the
+last five years there's a bunch of
+things that have hit us i think the
+first is you know the pandemic has
+affected so many things in our lives one
+thing that it's really done is
+it's made buyers really really
+comfortable operating autonomously and
+independently uh the second thing is and
+you actually see this when you look at
+all the great publicly traded sas
+companies out there you know over half
+of them have motions that start with
+their products first so like half of the
+publicly traded sas market cap is
+actually on companies that make their
+product the entry point into a
+conversation with their business and
+then you also see
+brand new sales compensation models
+actually started to come out where that
+old world of hey i do a big million
+dollar contract and hopefully deloitte
+and accenture and the gsis will make
+this customer successful 18 months from
+now um but yeah i've i've gotten my
+commission check already so i don't need
+to worry about it that's right away so
+like a snowflake the reps and the team
+and stuff like you don't even get paid
+unless the customer's consuming the
+service so what all that like the big
+big change for me
+is that buyers now are pretty darn sales
+proof you can't medic them into
+submission they want transparency
+in the product in the process and that's
+putting enormous pressure on every b2b
+company to give them immediate access to
+products that just have incredible
+product market fit to be able to take
+the people that are the true experts in
+their solutions and actually not have
+that be a conversation 10 steps down the
+qualification process but the first
+thing that happens
+and then that has a whole host of other
+things that need to occur which is well
+then how do you allow that to happen
+when you're not in the room or on the
+zoom do that organically do that
+autonomously and do that with extreme
+transparency and collaboration right
+that's the really the opportunity in b2b
+right now is how do i address the needs
+of these salesproof buyers by giving
+them a different experience because
+going through you know sort of a
+traditional sales mode and methodology
+isn't isn't what uh folks are very
+interested in anymore
+so are you helping teams
+reflect better on on the core values of
+the products and and take you know
+existing value propositions and existing
+um you know features of the product and
+then
+and then create creating a better better
+channel for for transmitting that
+information or for communicating that
+because it sounds like you're saying you
+know the old sales approach where you're
+sort of making them surrender that's
+that's i think of the past now let's see
+how we can actually take the core values
+that you're providing and bring them to
+life is is that sort of the the way that
+the world is shifting
+well i think what one uh super tangible
+example would be in my prior lives it
+was nearly uh a fireable offense to
+allow the prospect to engage with your
+product and service before the deal was
+closed
+interesting that was because a whole
+host of challenges around he would it
+would add steps it would add time it
+would you know is it going to uncover
+something that potentially you can't
+deliver on so there there's this there
+was this sort of that that different way
+of being was that you know hey we would
+paint a great rosy picture of the world
+and then hopefully you know we can
+figure out how to make it all work so
+you know that no longer flies with the
+sales proof fire so for us
+one of the things that technology can
+really help companies do is figure out
+how they have incredible product market
+fit not just in the early stages but
+then as they continue to grow and scale
+and keep innovating and the challenge
+there for most organizations is how sort
+of misaligned the sales in the r d team
+naturally is because of where they live
+the go to market team is sort of living
+around the universe's sales force and
+talking to customers all the time and
+your r d organization is probably out
+there you know writing code and
+orienting around atlassian jira type
+services and it's very very difficult to
+actually create the seamless
+interconnected tissue between these
+worlds which you very much need if
+you're going to put products in market
+that you're very confident that people
+can engage with when you're not there to
+shepherd them sort of during that world
+the second like very very large dynamic
+too so that's one of the core things
+that we focus on is like how do we
+create an incredibly
+near real-time or seamless
+interconnected tissue between what we're
+building and how we're taking it to
+market so you can put products in market
+that just have incredible fit that
+customers are just really excited about
+and then part two becomes
+you know when we bought uh you know the
+very very famous uh security monitoring
+system sneak out there you know my
+co-founding cto um the very very first
+conversation that he had with somebody
+in the sales engineering team at sneak's
+side uh they were the expert right we
+didn't need to know about the company
+and their growth trajectory and their
+market and how much funding they've
+raised and you know who our you know
+account manager might be we have very
+very specific questions on how we
+thought this would help us against the
+two or three other competitors that we
+were evaluating with and what's
+happening is that there's this very big
+change that's happening all these
+companies that the folks that are the
+true experts in the product and the
+solution they're in demand like never
+before this huge operational burden that
+every b2b company is going through which
+is how do i give them a consistent
+workflow how do i how do i monitor and
+measure what they're doing and the
+impact that they're having that makes my
+flywheel drive even faster those are two
+very simple examples of some of the
+things that we do for for a lot of our
+clients
+and so what is the actual product that
+that vivint does with with these clients
+in respect to that in respect to those
+examples they just gave
+yeah so for us um you know we have a
+very similar long-term product strategy
+that you know atlassian has or zendesk
+might have or even salesforce to some
+extent where we have a platform which
+runs a whole family of products that are
+can be used independently
+right but when you use them together you
+get this sort of this great halo effect
+very similar to how i can be a jira user
+without using ops genie or
+without using confluence same thing for
+us right you might come in and use hero
+without using eval or eval without using
+you know our third or fourth products
+that we're bringing to market you know
+over time too so for us
+hero our very very first product that we
+ever brought to market was really
+focused on those first core two tenants
+which is how do we create this
+connective tissue between the c the
+field and r d so we become the conduit
+where all the sales post sales pre-sales
+conversations are thrown into the world
+of hero a bunch of data science said
+that that we've got you know patents
+that we're publishing on goes and it
+clusters all this information ties it to
+business value highlights the most
+important things that you want to push
+forward as capability sets and then
+because we plug into the delivery system
+when r d actually ships code in real
+time as ci cd is taken off we go and we
+reactivate the field these are the deals
+the counts the customers that we should
+go back and actually you know go back to
+this is a huge area for us that allows
+us to lift attainment for clients and
+and and sort of in that mode in the
+other core part of hero that's just part
+of sort of the job of running your
+business unit so for us like a client
+like a snowflake or a dell or an
+autodesk or whomever happens to be an
+elastic surge um you know their whole
+workflow and their process of how do we
+engage these new salesproof buyers runs
+on us the deliverables that we do with
+them how we staff our teams how we
+allocate resources how we measure the
+impact um and and those two things
+working in concert really forms the
+basis of what our first offering hero
+was and then eval right eval extended
+that further to say well
+when product becomes the center of your
+universe that means every evaluation is
+very hands-on so how do you and i come
+together and agree on my requirements
+and proving them out and knowing exactly
+what i'm signing up for holding each
+other accountable together and then
+passing all that information downstream
+for the rest of the organization to uh
+to use once you actually sign on board
+one of the things that i'm always
+curious about these companies that have
+multiple offerings that like you said
+advance one advantage is that they can
+use it independently because they serve
+different use cases a a challenge that
+they present is how do you create this
+homogeneous
+feeling of brand identity and trust
+between the company and
+viva and not the company and eval or the
+company and heroes how do you create
+that sort of brand identity where if
+they use one product
+they can then translate that trust and
+brand um yeah brand trust to the other
+features the other products
+i think one big thing in the approach
+that we've taken from the beginning is
+how do we go and build organically
+versus building through bolt-on
+acquisition and in companies in my past
+and prior lives i think because we had
+took the approach of bolt-on acquisition
+we ended up in the place that you're
+sort of describing the look and feel is
+different the lexicons are different the
+data models are different the motions
+are different even the potential buyers
+are different too
+and that causes a lot of that friction
+so for us
+you know getting to a point where you
+know our internal r d team builds all of
+our products and services that gives
+this that gives them this sort of
+amazing sort of
+feel of how they just naturally work
+together but the more important thing on
+top of that is is our main persona and
+champion is the same across all of our
+products so
+if you were the if you were the leader
+of the pre-sales organization at
+snowflake or at you know any one of our
+clients a hashicorp or you know an octa
+um you're the singular person that every
+single one of our products is relevant
+to
+so we we have not only multiple ways to
+enable your success but we have a really
+great ongoing conversation with one
+person that then when they use our
+products and services more and more
+users come into our world so product
+people sales people customer success
+people and uh but but because of who we
+talk to the problems we solve the way
+that our technologies work that's how we
+uh that's how we seek to avoid i think
+that challenge that a lot of folks run
+into
+so essentially and i miss me that each
+of these products that you have you have
+no dedicated teams working on them so
+they're almost sort of startups within a
+startup right
+yeah the way that we've and we actually
+went through that transformation
+relatively recently here after you know
+we we closed our our series uh c
+fundraising round uh we announced it
+back in may that we've got over 131
+million raised to really tackle this
+challenge and as our r d team is going
+to you know 100 plus across product
+engineering um we've moved from a mode
+where you know sort of there's one
+centralized area and and workflow for
+development and now there's core pods
+and thematic teams that allows us to go
+and say hey these core folks in this
+universe you know we might have three
+four five pods working on hero
+one or two on eval and as new products
+come online it's a very very um sort of
+organic way that you can see the group
+of folks that have a self-contained
+product engineering ux function that can
+bring new offerings to market too
+and it also sounds like an advantage
+that you can transition folks within you
+know within your organization to
+different products that based on you
+know needs or based on you know their
+wanting to try out different things so
+you also have the advantage of reducing
+the churn potential of somebody who's
+getting burned out on a specific product
+or a feature that they're working on
+yep exactly and then the engagement just
+is it's it's just so much different
+because now you have a collective core
+unit that is working to solve the same
+problems and has a mission of the
+charter where i think again some
+organizations that will run product and
+engineering as separate pillars you know
+engineering can sometimes feel like
+you know either they're not necessarily
+aligned with their product counterparts
+so they can feel like um it's just the
+queue of jira tickets that need to work
+through the system and there's not as
+much ownership in terms of the services
+coming to market which uh org structures
+can can play a big part of
+interesting interesting so so what do
+you get most excited about what you do
+today if you're looking at the various
+things that you get to deal with you're
+working on a variety of products you're
+working on building a crazy company and
+what what are you getting most excited
+about
+um you know
+to me i i loved the challenge of
+not only creating a company from scratch
+but we're building first of their kind
+products in a brand new category i think
+that's the most exciting piece for me
+which is we weren't necessarily founders
+that were looking for a business to
+create and said well what's a hot market
+that exists what are four or five
+solutions that are maybe a little bit
+antiquated let's build the modern
+version the sixth version that's the
+most modern version um that doesn't
+excite me at all it's been done before
+somebody else can tackle that challenge
+i think for us
+the creative process of saying there's a
+whole greenfield opportunity of
+individuals that need tools and
+technologies to help them there's a way
+that you can you can change the way that
+every b2b company is going to market and
+creating different experiences and you
+do that by building first of their kind
+products um that's what gets me going
+every single day and like the sub to
+that or it's relatively on even par is
+doing that in a way where we really
+think about culture and org structure
+and and how we build the company so that
+we don't follow the same patterns that i
+think end up especially when you build a
+business to business company could end
+up with um you know politics and
+bureaucracy and and a lot of the
+friction that uh that companies end up
+having over time
+math such a such a cool story i love the
+insights that you bring with you it
+sounds like you have some really you
+know deep foundational understandings of
+how these how this market works and the
+different pain points and the drawbacks
+of this interaction uh with
+business to business and um and
+congratulations again on the on the
+amazing milestones with all the
+different products that you've built and
+with the company as a whole so i look
+forward to continue following the
+journey and gaining more inspiration i
+learned a lot from you so i appreciate
+your time and thank you very very much
+matt
+thanks for having me this was great
+appreciate thank you very much
+you

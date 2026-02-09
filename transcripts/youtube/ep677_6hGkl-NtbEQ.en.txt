@@ -1,0 +1,582 @@
+if we solve it in this way would this be
+something that would be convenient for
+you to use
+right and well and we always try to
+think you know coming from from a
+development background like would i be
+okay with it like if if the organization
+that i worked at
+would have implemented this solution
+would i have any objection as a
+developer in the organization and we try
+to make sure that it would be solutions
+that we would also want to use and that
+they don't cause any you know
+um
+inconvenience to the developers that
+that's always something you would want
+to avoid and we want to let the
+developers continue to work fluidly
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jvengers a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opus labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec welcome to 20 minute leaders
+where back to engineering meet ronnie
+slavin co-founder and cto of sci code
+ronan is the co-founder and cto of
+scicode a startup that secures software
+delivery pipelines and provides full
+visibility into enterprise development
+infrastructure a serial entrepreneur and
+former unit 8200 officer of the israel
+defense forces prior to cyclode ronan
+co-founded philoc which was acquired by
+reason security in 2018 where he led the
+research and endpoint protection
+development
+bonanza welcome to 20 minute leaders how
+are you
+i'm great michael how are you good i'm
+excited that you're great because we're
+going to have a really fun and energetic
+20-minute conversation and what you're
+working on with sci code is co-founder
+and cto i think is is really important
+and it's important not just because
+you're solving an important pain point
+but i think it's an interesting example
+of how a market is developing a new
+profession is developing over a very
+short period of time and and and we're
+introducing a new complexity of user
+experience and consumer behavior that
+with sci code you're looking to to to
+help fix and help resolve and and help
+developer development teams become
+better obviously we know that pretty
+much every company in the world now is
+becoming a tech company because software
+is eating the world and and obviously if
+you're helping make software better then
+then psycho is destined to eat the world
+hopefully
+tell me a little bit about yourself
+okay cool so i am ronan i'm 33 years old
+i live in tel aviv
+and
+basically you know been fascinated with
+computers since i was a
+kid
+so actually actually i started my first
+degree during high school um
+sort of in the in the open university
+and
+then when i was 18 i i pushed my army
+service for a year to to finish the
+degree
+i worked in that time
+uh actually i got my first job as a
+developer at the company called delta
+yeah so they developed like their radar
+system for the iron drone yeah i don't
+know so it was a
+a really cool job to have at 18.
+and
+then after a year i joined the army i
+was drafted to 2800
+and
+i did there in total about a little more
+than five and a half years
+i started as a developer then i went to
+officer course i came back
+started leading leading a team
+growing it
+and also did my masters in computer
+science during the army at that time
+and
+then after this five and a half years i
+left to travel a little bit came back
+and looked for my
+to my second job as a civilian
+and so i started working at a tenniso
+group it was about
+seven years ago six years ago
+seven
+and so many doing a research there for a
+year and a half
+and then i left and opened
+my first startup that was called the
+firelock
+um the idea was that any device can be
+hacked so we wanted to build a solution
+that can protect data even if their
+device is hacked
+uh so we ran for about two years uh
+after that we were acquired by a company
+called reason
+and they developed a
+windows endpoint protection solution for
+the consumer market
+and so i moved there and i worked on the
+on the windows endpoint protection and
+and
+and the research
+had reason
+and
+and then after about a year and a half
+also i left an open cycle and it was
+about two years ago
+um
+and i'm still working on it
+and working the company yeah
+very very cool uh
+so software
+and
+you know tell me a little bit from your
+perspective
+what what has been happening you've
+you've been developing for quite some
+time and coding for quite some time
+what has how how has this industry
+evolved
+over the years to the point where we're
+at now where cycled is relevant
+so so there's all kinds of factors that
+contributed to it obviously the first
+one you mentioned the software is it in
+the world like if we look at any company
+that became huge and any company that
+is sort of still relevant um that they
+all the only companies that have very
+large development uh organizations so
+even if you look at mcdonald's and
+things like that they also
+do a lot of development and they invest
+in it a lot and this this is how they
+sort of uh evolve
+uh to stay relevant and um
+and that's one contributing factor to
+why software is hitting the world so
+that's one thing that happened
+um and then if you look at the other
+trends that happen so there's uh
+there's this devops trends or or a
+githubs
+and
+that sort of change the way that
+the way that we develop software
+uh so if you if you look at the
+companies like jfrog they like their
+phrases make software development liquid
+yeah so so it kind of changed like the
+the classic approach where you had like
+the development environment that was
+separated and then like you had a
+different environment for testing and
+you had all these
+manual transitions between the
+environments and and all these general
+controls because of the processes that
+were there
+um
+that now we don't have them like the
+moment that you do something in the
+development environment the sole notion
+of github kicks in and it takes what you
+what you just merge builds it
+test it make sure that everything is
+okay and it pulls it to production
+so some of the barriers that we had
+between the stations are no longer there
+um
+so now like first of all the developers
+they have much more power
+like if you if you are able to merge
+into let's say something that goes to
+production so you simply
+can go through all the processes
+so i think these are the main two
+factors that that basically
+you know made made the importance of
+protecting
+software development environments and
+software delivery pipelines
+and made it much more important
+and then like we got evidence over the
+past years with many
+attacks that targeted these specific uh
+scenarios and these specific processes
+so what i'm hearing you and i just want
+to make sure that i'm that i understood
+this correctly you're saying there's two
+contributing trends too you know the
+origination of cyclone one of them is
+the simple idea that software is eating
+the world and we can all agree on that
+that even that not just the new
+companies are they are software based
+but also the the incumbents are now
+transitioning to technology and we can
+see that from big pharma to to retail
+chains all the way to
+insurance companies right and then the
+second contributing factor that you're
+mentioning is the fact that software
+developers are becoming much more
+autonomous and independent
+having the power to deploy code
+themselves to production especially as
+we're transitioning from monolith to
+microservices and so software developers
+there's not as many checks and balances
+if you will along the supply chain from
+from the ide all the way to the
+production correct
+yeah and obviously there's lots of
+benefits to it i mean you know if you
+want to fix the bug in production you
+can do it in a matter of seconds and you
+don't need to wait for a
+very tiring process and on the other end
+like we need to make sure that we you
+know we we give them the enough
+protection and enough uh
+[Music]
+tools to be able to protect themselves
+and not to expose like the product or
+the code or whatever makes that makes a
+lot of sense now
+tell me you know you're so you're
+understanding this and you're sitting
+you know with leo and with the team and
+you're figuring out okay what in the
+world are we gonna how are we gonna
+solve this is is the product you know
+you know do you all agree on on what you
+need to be doing or is there you know a
+discussion or ideation around this
+so we started with you know sort of
+brainstorming and getting getting a lot
+of ideas on on if we want to solve you
+know there's there's lots of issues with
+with securing like software development
+and
+and related systems and obviously
+there's lots of solutions and lots of
+directions that that you can take so we
+start with brainstorming ideas
+but then
+the immediate thing we do after that is
+we start talking to
+relevant clients people that work in
+security teams and organizations that
+have software development
+that have software development processes
+um and we asked them like is is this is
+this uh a concern for you is this a pain
+point if we solve it in this way would
+this be something that would be
+convenient for you to use
+right and well and we always try to
+think you know coming from from a
+development background like would i be
+okay with it like if if the organization
+that i worked at
+would have implemented this solution
+would i have any objection as a
+developer in the organization and we try
+to make sure that
+it would be solutions that we would also
+want to use and that they don't cause
+any you know
+um
+inconvenience to the developers that
+that's always something you would want
+to avoid and
+we want to let the developers continue
+to to work fluidly and without
+interrupting them by the way how you
+know in
+i'm i know that i'm jumping around a
+little bit but if we're looking at the
+world of product led growth and
+you know you're building
+you're building a tool for developers by
+developers how do you what are some of
+the checks and balances that you have
+for yourself
+as you know cto but but a leader in this
+organization to make sure that
+developers do like the product that
+you're building that it's not something
+that you know they're resisting to as it
+enters organizations
+uh so obviously you know as a startup
+these are things that uh we sort of we
+mature at uh yeah
+so first of all the main approach that
+we took is that um
+like we don't wanna teach developers to
+use a new product we wanna integrate
+with the tools that they already use and
+really if you look at if you look at the
+platform that's that's already out there
+like look if you look at github for
+example right like they have they
+already have like a mechanism that you
+can comment and you can interact and
+there is like emojis i don't know
+whatever things like that and get github
+the emojis changed the whole the whole
+experience i have to say
+to me it's gifts i'm waiting for gifts
+to get to get them
+um so so we look at it and we say okay
+let's try to use this existing
+these existing capabilities and and work
+with them instead of like creating a
+product that now the developers need to
+learn and then i need to log into and
+visit every once in a while so really
+collaborate with them
+and obviously it also ties back to what
+i mentioned earlier that we we simply
+asked them we we talked to the security
+teams we
+um
+we asked them to to or to work with the
+developers i think it's also one of the
+trends that we see
+for example if you look at cubecon which
+was uh last time last month so there was
+a lot of security in it in a conferences
+that sort of the the origin of it is
+more it's more devops or more
+development and
+it's becoming clear that like security
+is not something that you can you know
+isolate from the developers it's
+something that's becoming a part of
+development itself
+um
+and something that that
+we all are understanding right now and
+we see the products responding
+accordingly going back to the to the the
+idea of
+you know developers you know
+having to take more ownership of their
+security as you're building psycho
+you're watching the organization grow
+from pretty much you know few people to
+now you mentioned 50 people more than
+half of them as engineers
+you as a technology leader how have you
+evolved do you think since the inception
+of sitecode up until now
+so to me i think like first of all it's
+you know hiring very strong people like
+obviously obviously it's um
+i'm not objective but uh like hiring top
+top talent and having smart people
+uh surround you and and
+and in the company
+and
+we're very open
+at cycle like we always want to we
+always want to hear
+everyone's opinion
+i mean
+eventually we develop a product for
+developers and we have developers in the
+organization so
+they have a lot of
+obviously they can they can contribute a
+lot to the product it's not something
+that is foreign to them it's something
+that they live daily and and they and
+they all
+have really good ideas and
+and probably there will be like the best
+um you know people to listen to when
+when we build this product
+um so which we try to we try to lean on
+that as much as we can
+and obviously
+um
+you know being
+trying to keep this open mentality and
+just like you know sharing uh sharing
+whatever we can
+even connecting them with clients
+whenever possible
+um really closing this feedback here
+quick
+and if you're looking internally with
+you and the engineers that
+you hire and that you manage
+you know what what how do you see
+yourself as a tech leader what are some
+of the guiding you know the north star
+for you
+as in your communication and your
+decision making
+so so there's all kinds of aspects uh
+related to building the product so um
+again it's a it's a different discussion
+of like the responsibilities of the cto
+versus the vp rnd and like how to divide
+divided responsibilities
+um
+we have we have a very strong heavy prnd
+here that he leads the iron dribble the
+rnd rnd group and
+you know obviously we started with some
+some initial architecture but
+is his leading and he's like that since
+then and my part is more to sort of
+follow the trends in the market um
+a lot of the
+a lot of the activity that happened over
+the past year if we if we look at 2021
+so there were
+really critical incidents that involved
+the software supply chain so solarwinds
+is the first one is you know this is how
+the year started then you had cold call
+you had an injection attack to php
+there's all kinds of
+um
+really devastating attacks that happened
+through the software supply chain and uh
+and the entire industry is now talking
+about what would be a possible solution
+there's a framework that google is
+starting to develop right now that it's
+called salsa that that is more like
+guidelines and things like that uh on
+what you should do and how you should
+build the provenance but i i try to
+follow like the trends on that
+understand where the market is going
+where the industry is going and then how
+we can incorporate it into the product
+um
+so that's sort of how we divide it
+well then take me back before the open
+university you know before
+you become an engineer middle school
+elementary school you know 10 years old
+what what and what you know where's your
+mind at what makes you curious what
+fascinates you as a kid
+uh so i like to learn a new stuff um and
+uh i'm originally from much dawn if you
+know the
+probably you know
+so obviously there's there's a
+there there were all kinds of programs
+you know for for children so i think it
+was a major contributor like you go
+every friday and you know we we had some
+robotics with some even japanese and
+things like that um but eventually the
+technical aspect is what uh
+is what i got
+you know sucked into the most
+and obviously i think you know as a kid
+you're not
+you don't make your decisions on your
+own obviously you know my parents they
+were a major contributor and
+um
+probably you know one of the one of the
+main reasons that i that i did it and
+and i have to thank them for that it's
+it saves me a lot of time in the future
+and if you look today at where you draw
+your inspiration from you wake up every
+day and you go
+to to lead psycho what you know where do
+you derive your inspiration so so first
+of all i i really enjoy it i enjoy
+working with the people in psycho and i
+enjoy working on the product it's it's
+super interesting to me so
+to me like the inspiration come with
+with like from working with awesome
+people and
+just really enjoying coming to work
+every day and
+believing that the problem that we're
+trying to solve is critical uh to us we
+got the proof this year we opened cycle
+there about
+more than a year before solar winds and
+before cod cove and a lot of the
+a lot of the
+discussion that we see right now
+are things that we were you know talking
+about
+uh i don't know a year and a half ago
+and it's it's a really great validation
+for us to see it coming from you know
+well-known organizations like gartner
+and
+google and i don't know
+nist and things like that
+uh so to me this this combo of having
+awesome people with you and um
+really believing that you're solving an
+important issue
+is what drives me i love it and three
+words you would use to describe yourself
+four two or four
+or two three or four
+um
+so i'm a
+technology technology
+junkie yeah
+um
+so that's that's the words um but also
+i'd love to i'd love to uh
+enjoy and have fun because we did it too
+best of luck with sci code i think it's
+you know an amazing timing it's an it's
+a real pain point that you know it's
+literally i think just the concept of
+understanding how software is hitting
+the world and and the the ripple effect
+that it's going to have on our
+methodologies and the way that we work
+just like you know i'm looking back at
+the industrial revolution and how people
+all of a sudden were placed by machines
+and the way that now you develop
+machines is changing and and how you
+have these inflection points where
+checks and balances have to be mitigated
+and and you have that distance between
+optimization for speed and efficiency
+but also the ability to make sure that
+you're doing everything properly and and
+and i think it's just an exciting
+exciting time to be an engineer an
+exciting time to to lead a company like
+sci code so best of luck and i can't
+wait to follow the journey and thank you
+for the time
+yeah i agree completely and thank you
+for having me
+i really enjoyed every great day as well
+thank you very much

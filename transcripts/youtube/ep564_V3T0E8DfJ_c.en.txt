@@ -1,0 +1,619 @@
+the people who've built these models
+which you've tested you're putting them
+in production and it's solving problems
+for end consumers but it's not happening
+in vacuum it's happening in the social
+contra construct of regulations
+standards uh new policies that are
+emerging so within credo ai we have also
+an extensibility platform that brings in
+pertinent regulations as well as uh
+policies so that you can make sure that
+whatever you're building and designing
+and thinking about and interrogating and
+testing is in the social construct of
+the regulations and policies that your
+enterprise is going to be exposed to
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+the world of technology is constantly
+changing more and more companies are
+focusing on artificial intelligence but
+are we really in control of the
+technology that we're developing
+meet navrina singh the founder and ceo
+of credo ai
+navrina is the founder and ceo of credo
+ai and a technology leader with over 18
+years of experience in enterprise sas ai
+and mobile navrina has held multiple
+product and business leadership roles at
+microsoft and qualcomm she is an
+executive board member of mozilla
+focused on the trustworthy ai charter
+navrina is also a young global leader
+with the world economic forum and was on
+their future council for ai guiding
+policies and regulations in responsible
+ai
+navrina holds a masters in electrical
+and computer engineering from the
+university of wisconsin-madison an mba
+from the university of southern
+california and a bachelor's in
+electronics and telecommunications
+engineering from india
+navrina singh welcome to 20 minute
+leaders thank you for joining me how are
+you i am great michael thank you so much
+for having me
+thank you very much for being here we
+have so much to talk about
+all the way from you know the the ai is
+a technology and an enabler but but a
+relationship of thinking through trust
+and governance with this technology
+you've had an incredible journey from
+director of product management at within
+microsoft previously qualcomm for many
+years a world economic forum board of
+directors of mozilla and uh most
+recently and for the last year and a
+half founder and ceo of credo ai which
+deals exactly with the issues that i
+that i started out before so now we're
+gonna as you as you look for your
+journey you're a technologist by heart
+an engineer by heart can you walk me
+through some of the big milestones that
+led to your understanding that we need
+to have a very solid and and and and
+very
+a proper relationship with the
+technology that we're building
+absolutely so michael i grew up
+in a very um you know middle class
+family in india
+and one of the cool things growing up
+was access to very diverse perspectives
+and viewpoints my dad was in the indian
+army for 40 years my mom is a fashion
+designer and between them as you can
+imagine there was zero ounce of science
+and technology but one of the things
+that
+they were very vocal about growing up
+was if you see a problem find tools and
+solve it
+and that's how you know especially in a
+country like india it's all about social
+problems and the solutions that you
+bring to those social problems so from
+very early stage i was always enthralled
+with this idea of
+how technology can be a great tool to
+solving for some of the social
+challenges that we are seeing and to
+really enable our communities to be at
+their best
+and i would say that has sort of shaped
+uh my entire career um and and you know
+one of the quotes from a stanford uh
+professor that i i it always resonates
+with me
+is what we make makes us
+and if we just like pause and think
+about it what we are building as
+technologists what we are making are
+through artificial intelligence through
+mobile technologies through augmented
+reality is really making our worlds it's
+making our societies it's making um you
+know
+who we grow up to be as humans and and
+the future generations
+so it's a huge responsibility as a
+technologist as a person who is building
+these technologies who is part of the
+ecosystem to ensure that we take this
+accountability very seriously and i
+would say over my 20 years career right
+you know i went from this build phase
+building cool things to solve problems
+to how can we take more accountability
+for what we are building and putting out
+in the world and that's where my
+obsession for building trust um with
+technologies and ensuring that the
+unintended consequences of these
+frontier technologies are managed well
+really came to being
+right and so obviously we're living in a
+society and at a time and really
+interesting time where you know things
+are pushing forward there's a lot of
+motivation there's a lot of money out
+there for for leveraging these
+technologies and interesting markets
+that i think you are that sometimes we
+stop to to consider okay are we actually
+doing the right thing but but what i'm
+curious about is what led you to the
+understanding you know after having such
+an incredible career at some of the most
+amazing companies in the world you can
+literally be working on anything and you
+choose to almost you know stop for a
+second and think okay how can i actually
+enable others to to take more ownership
+and responsibility over the technologies
+that they're building what what led to
+this understanding yeah so great
+question it started about maybe nine
+years ago
+where similar to you you know i was
+obsessed with startups and there was a
+startup that had sort of emerged on the
+horizon and the startup is called soul
+machines and it still exists
+and uh soul machines basically had
+created these amazing uh avatars uh
+which were very lifelike
+where they were using
+you know voice recognition technology to
+be able to interact with humans they had
+used
+camera as well as
+connect
+to really look at the humans and
+interact with them
+and they came out with the first avatar
+which was called baby axe
+and baby x i think now it's on version
+five or six but baby x was sort of
+created the same time my daughter was
+born and we you know jokingly called her
+baby z and she still called baby z after
+seven years um
+but what i saw was how this avatar
+powered by artificial intelligence so
+much so that the facial muscles were
+powered by neural networks that were
+sort of emulating the human uh that it
+was interacting with and then at home i
+was seeing my baby z literally
+adopting and learning from the
+environment and growing and then taking
+inputs in and forming her own world view
+and that for me was like an awakening
+moment in terms of when you see these
+technologies
+become so close to
+uh human-like intelligence
+what can be done and what can't be
+accomplished and at qualcomm at that
+time uh we were building the first
+robotics development platform
+that was powering collaborative robots
+and as you can imagine collaborative
+robots are you know showing up in supply
+chain and one of the areas we were
+looking at
+was a phone supply chain a phone factory
+where humans literally
+were looking at the lc lcd screens and
+doing pick and place and trying to put
+the lcd screens on the phones
+and then after that they were looking at
+dead pixels and as you can imagine
+that's burden on eyes we were looking at
+workers
+who were you know losing their eyesight
+uh who are working in these very
+challenging environments
+and through our technology at qualcomm
+we were able to bring machine learning
+on this massively uh amazing mobile
+device with high compute and high
+connectivity
+and be able to do that pick and place as
+well as dead pixel detection within
+matter of seconds
+so i could see the potential
+of how this technology could completely
+shape our work and our societies but
+then on the other side i see bbx and
+baby z and trying to understand oh my
+god how far are we from
+um
+these technologies not being effectively
+governed and resulting in unintended
+consequences and i would say that really
+was my foray into what can i as a
+technologist do
+to bring more responsibility oversight
+and accountability to these technologies
+and that's a lot of that work that i
+brought to microsoft
+when i was building conversational ai
+systems and happy to talk more about it
+as well
+i would i would love to hear a little
+bit more yeah so fascinating yes so
+after qualcomm i joined microsoft and i
+was
+very excited to be part of this amazing
+team building conversational ai systems
+and one of our core goal was you know
+going back to the democratization of ai
+that we were talking about earlier
+um
+you know
+the folks coming from business coming
+from
+marketing finance they don't have the
+same understanding of artificial
+intelligence which the technologists
+have
+and one of the big problems we were
+trying to solve at microsoft was really
+around how do you abstract that
+complexity
+from these systems and make it really
+easy for
+a non-ai expert to be able to build
+these systems so at microsoft we built
+the first low code no code chatbot
+experience
+wherein you could be a marketing person
+you can come in and build your own chat
+bots that can be deployed on your
+website within a matter of minutes
+but i would say it was during that time
+yeah it was during that time that i
+started to think about this notion of
+shifting from devops to intentional
+devops
+and and the intentionality was really
+critical because as we were building
+these chatbots and conversational
+experiences
+um i think there was a missing
+perspective around how do we comply with
+the right regulation how do we put the
+right controls in place are we sourcing
+the data from the right sources how are
+we making choices around the model uh
+types we are selecting how are we
+disclosing to the end customer around
+the capabilities of this product and i
+think there was this entire perspective
+that you know oversight professionals
+coming from risk
+compliance policies they can actually
+bring to the devops ecosystem that was
+completely missing and so what i saw was
+this massive uh
+ai governance chasm that was getting
+created between traditional devops and
+the need for oversight professionals to
+show him to this devops and that's where
+i would say
+the
+i would say the early seeds of credo ai
+got planted um i ended up creating a
+non-profit on the side which was called
+merit marketplace for ethical and
+responsible ai tools and through that
+non-profit got exposed to mozilla and
+with mozella we just realized that there
+was such a beautiful partnership between
+merit and mozilla so i joined the board
+of directors of mozilla to help guide
+their trustworthy ai initiatives
+and i just am blown away with how
+mozilla is
+thinking about you know open internet
+and now trustworthy internet and doing
+that through um a beautiful ecosystem
+approach around policy and technology
+and ecosystem building um so it's been a
+journey but uh coming to credo it's uh
+you know and slight digression here
+credo means a set of values that guides
+your actions and so as you can imagine
+for us it was really important can we
+bring the right ethos to technology and
+ai development
+so that we are intentionally developing
+it rather than just developing it for
+the sake of solving for some pain points
+right and obviously we've seen some case
+studies emerge over the last few years
+like compass and
+and and like the algae the algorithm
+that published by amazon for hiring
+which was obviously never used but but
+it showed i think that the unintentional
+consequences of of being unintentional
+and uh and so i think it's it's a really
+interesting uh and an interesting space
+and i think you know the interesting
+question to be asked here is obviously
+you can sit with engineers and with
+an entrepreneur and explain this and and
+walk them through us but how do you do
+this at scale how do you help people at
+scale uh solve a lot of these issues and
+create this this you know this
+understanding of a need for trust and
+good governance
+absolutely so michael i love to give
+this example of how do how does michael
+and narena build trust we build trust
+through communication you're asking me a
+bunch of questions i'm responding to it
+based on my responses michael is
+building a trust index about navrina
+indirectly about credo ai and then maybe
+indirectly about my family too
+but i'm doing the same and and over the
+course of this relationship whether it's
+in this podcast or extends beyond it you
+and i are going to have these
+conversations and continue to
+um sort of create that that index which
+will increase or decrease uh based on
+our relationship
+and i think that's a
+very powerful uh
+you know capability that we at credo ai
+believe that we are building and making
+it available to our customers so that
+they can build this trust with
+technology at scale
+and the way we see that is again through
+technology so we are building a sas
+product which basically breaks down
+this interaction into three core layers
+so when you're building technology what
+do you absolutely need you need people
+to build it so how do you build trust
+with the people that's our first layer
+trust with people and processes is our
+absolute basic requirement to make sure
+that trust uh in ai happens at scale
+our second layer becomes uh really
+around trust with the ai solutions and
+machine learning models and the way we
+build trust with these machine learning
+models is by interrogation can you do
+independent assessment of these systems
+using either sequester data or ethical
+ai modules to see what the bias
+characteristics of these models are to
+understand are they uh vulnerable to
+you know adversarial attacks are they um
+explainable based on the kind of
+modeling technique you've used
+so that becomes really the second layer
+of trust is through interrogation of
+these ml systems which is a very
+technical problem that we are solving at
+credo ai and that's where a lot of our
+ip resides and then the last layer of
+trust is the trust with the environment
+because at the end of the day
+the people who've built these models
+which you've tested you're putting them
+in production and it's solving problems
+for end consumers but it's not happening
+in vacuum it's happening in the social
+contra construct of regulations
+standards uh new policies that are
+emerging so within credo ai we have also
+an extensibility platform that brings in
+pertinent regulations as well as uh
+policies so that you can make sure that
+whatever you're building and designing
+and thinking about and interrogating and
+testing is in the social construct of
+the regulations and policies that your
+enterprise is going to be exposed to so
+as an example
+we work a lot with finance and banking
+customers and within finance and banking
+there's already plethora of regulations
+uh either through sr117 or through
+uh ecoa and others so as an example
+if you are sort of building a risk
+scoring system and this risk scoring
+system is determining how much you know
+uh risk do i assign to michael and that
+will determine what should be uh the
+credit limit that i provide to michael
+right so in that case it might be let's
+say taking into account your credit card
+transactions and if it is taking into
+account those credit card transactions
+and spitting out a risk score that is
+going to determine uh michael's credit
+limits what becomes really critical is
+to make sure that this mod this model is
+doing that
+without uh causing some disparities in
+in the way the outcomes would work so if
+this model is taking into account
+somehow uh your age or your gender or
+your zip code of transaction and
+assuming certain things about you
+and those assumptions get baked into the
+predictions that this model is making
+and because of those assumptions you
+don't get what you deserve that's a
+problem
+so that's where you know it becomes
+really critical that the three layers of
+trust we talk about in credo which is
+around people and processes who are
+building these systems who are governing
+the system the ai models that actually
+get built that are going to be serving
+the use case and the environment it's
+operating in whether you're pulling in
+the right regulatory guidelines around
+using these sensitive attributes becomes
+super critical and and that's what we
+are solving for
+what's been the reception like by others
+as as you're building on as you're
+building this out especially you know
+the people that are that understand the
+technology that all of a sudden you know
+they're they're thinking through these
+new issues that perhaps they never even
+considered how are they responding to
+this
+you know i think we are at a
+very interesting time in our life where
+um there is
+market factors social factors
+enterprise needs all coming together to
+sort of create the way for
+our responsibility and ethics as a
+differentiator and i think i spoke about
+earlier in this podcast that we are
+going to see similar to industrial
+revolution we are going to see this
+trust revolution which is now happening
+and this trust revolution uh the players
+that are going to emerge and lead are
+the ones who can uh really demonstrate
+good social proof of good governance of
+these technologies and i'm a big
+believer in that
+so
+however having said all that we believe
+we are at very early innings of ai
+governance of ethical ai so there's a
+lot of education needed not only for our
+enterprise customers for the end
+consumers for different stakeholders
+whether they are regulators whether they
+are investors around what does good
+governance mean and where does the word
+good come from what are the standards
+because there are a lot of standards
+emerging
+if i don't as an enterprise adopt
+governance what are the implications
+what kind of risk am i exposing my
+organization to so there's this
+conversation and category creation that
+credo ai is leading to really enable
+trustworthy economies and to enable this
+trust revolution um to be grounded in
+exactly what you said the core metrics
+of how we're going to measure that these
+technologies are in service of our story
+are in service of humanity and then
+that's what we are starting on
+incredible melvina thank you so much for
+coming on the show and for sharing your
+time with me this is really really great
+i want to take you back to your
+childhood for a second what really
+fascinated you
+growing up
+oh what a great question i am a very
+curious person so i would say that
+everything fascinated me how people
+think why people do certain things um
+how can we solve you know core problems
+um so from day one i've been a very
+curious person and plus i've also been a
+person where i would take things i've
+learned in one domain and apply it to a
+completely different domain uh as an
+example as i shared with you my mom was
+a fashion designer so she gave me full
+liberty to use our house as a lab where
+i could break anything as long as i put
+it back together in a new form and a new
+creative solution so you would see a lot
+of broken lamps broken jewelry broken
+utensils in our house but all created
+into new artifacts that would bring
+uniqueness to our household
+amazing amazing and what really inspires
+you today as you go day by day
+throughout your career your personal
+life
+uh people
+i am just blown away by
+human spirit the optimism the creativity
+the ability to learn the ability to
+unlearn the ability to adapt and the
+ability to show up uh with um you know
+conviction
+at the right moments
+we are just coming out of a pandemic and
+i would say that the human spirit during
+the pandemic really blew me away
+as a first-time founder building a
+company in the pandemic
+is hard building a company itself is
+hard but building it in the pandemic is
+even much harder but i would say that i
+would not be able to do it without the
+support of my amazing investors uh my
+team and and the people who supported me
+on this journey so again it's the people
+around me that really inspire me and
+inspire me to action
+amazing and what are three words you
+would use to describe yourself
+oh my god that's a tough one
+i would say that i am extremely
+resourceful um so you throw a problem at
+me i might not have the answers but i
+will find ways to make that happen
+i am extremely resilient uh
+you know as an entrepreneur by the way i
+know you want to be one uh you already
+are one
+it's really important
+to look at the bad days from a learning
+lens and figure out what you can do
+to really get up back from it and move
+forward
+and then i would say that i have a lot
+of grit
+so
+irrespective of what life throws at me
+i'm always finding ways to make it
+happen and continue on that uh you know
+trajectory uh with the
+hope and the goal and the optimism uh
+that i'm going to bring my
+resourcefulness and my resilience to
+make things
+happen
+amazing
+thank you so so much this is wonderful
+continue making a positive impact and
+and and really making the world a better
+place and through the through the work
+that you're doing i think it's wonderful
+and stay safe and stay healthy thank you
+so much michael for having me

@@ -1,0 +1,816 @@
+the operation side was essentially um
+tremendous boredom punctuated by moments
+of sheer terror
+okay because you basically sit around
+and hope nothing breaks and then the
+moment it does
+you know the fire bell rings and it's
+now you know 9 29
+and the market opens in one minute and
+you know clearly if it doesn't open
+you're a complete failure
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+imagine what it's like being responsible
+for part of the infrastructure that
+makes the new york stock exchange tick
+well meet andrew bach global financial
+technologies leader
+with over 30 years of experience andy
+specializes in network and
+telecommunications
+security and financial technologies andy
+has substantial expertise to lead
+strategic communication technological
+planning
+to achieve business goals by
+prioritizing technology initiatives
+and coordinating the evaluation
+deployment and management
+of current and future technologies as a
+global financial technologies leader
+he established strategic direction led
+all aspects of technology development
+and implementation
+and provided formal supervision and
+coaching for the architectural security
+and infrastructure functions
+while setting the vision to inspire and
+drive continuous improvements
+andrew f bach welcome to 20 minute
+leaders how you doing andy
+it's great day i'm glad to be here i'm
+really excited to have you here i'm
+really excited we made this work
+because i'm really excited to pick your
+brain into
+you know an industry and a world that i
+don't know much about
+uh it sounds really complicated it
+sounds like you do really important
+things
+and i'm excited to learn more about you
+because we had a really fun chat
+a while back and and and i got
+introduced to this really really cool
+person that i can't wait to introduce
+a lot of my friends and and colleagues
+too andy
+tell me a little bit about yourself what
+what do you do and
+how do you see sort of your journey
+oh it's been a fun journey and and i
+think the most important point there is
+fun
+uh technically challenging but then
+again i'm a techno geek at heart so i
+enjoy my technology
+so that's been good um i would like to
+say that it's always been brilliantly
+planned
+and skillfully executed as opposed to a
+fair amount of serendipitous good luck
+but i'll go with good luck um in terms
+of
+job opportunities and also more
+importantly meeting the right people
+along the way
+has really been fun so what do i do um
+in in you know two minutes or less i
+started off as
+a coming out of engineering school
+convinced i was going to design
+uh analog integrated circuits um that
+died quickly when i went to my first job
+where i had the pleasure of designing
+digital signal processing for sonar
+systems
+for the world's navies so anything you
+want to know about identifying either a
+whale that has
+some issues or an incoming torpedo i can
+run you through the mathematics
+not so sure it's a useful skill but it
+certainly was interesting at the time
+learning it
+and doing it wow so that was part of it
+yeah from there i really branched out
+and went to this thing called
+communications
+which not communications is people tend
+to think of it today you know that thing
+that you do with
+you know the pressers and the media and
+all that but rather
+networking telephone circuits and back
+in the day it was a lot of telephone
+circuits it was about
+mapping all your data that you wanted to
+send from one computer to another onto
+some sort of tele you know
+basically a conventional phone circuit i
+mean to show my age
+i can remember having a conversation
+about upgrading modems to 192 kilobits
+per second
+wow high speed transmission at the time
+yeah
+high speed so that's going pretty far
+back in time
+wow yep yeah and as i
+lucked out i had taken a job at a
+company called
+securities industry automation
+corporation sayak
+sure it's a company no one has ever
+heard of and never will probably
+but if you're in the financial industry
+they were a wholly owned subsidiary the
+new york and american stock exchanges at
+the time
+and their job was to provide all the
+technology to the exchanges
+and i joined them started off in their
+communications department that became
+the
+you know communications engineering and
+you know fast forward
+some 26 years and i wound up being you
+know the senior vice president
+and global head of network services
+which
+really translated to i had an opport
+anything had anything to do with
+communications anyway whether it was in
+the data center
+the networking precision timing using
+atomic clocks
+the cell phone that one of the
+executives accidentally dropped into the
+toilet in the men's room all of that was
+my problem wow from beginning to end
+including the operations got help
+gotta love those calls at three o'clock
+in the morning
+it has its moments i the operation side
+was essentially
+um tremendous boredom
+punctuated by moments of sheer terror
+okay because you basically sit around
+and hope nothing breaks and then the
+moment it does
+you know the fire bell rings and it's
+now you know 9 29 and the market opens
+in one minute
+and you know clearly if it doesn't open
+you're a complete failure
+so wow wow you know the operation side
+had its challenges
+the architecture and the engineering
+side was phenomenal i
+you got to build some of the best
+technology around
+so that's what made it really exciting
+now you really was um
+you had to i mean what people never
+realized is that the financial industry
+as a whole
+is the single largest consumer of
+technology
+and early adopter for a collection of
+very
+you know conservative operationally
+conservative people
+it was amazing how much technology would
+adopt on the bleeding edge
+and you know there's fun facts you know
+there were more phone lines
+in by 18 96 or so there were more phone
+lines going into the new york stock
+exchange that were in all of the new
+york city
+wow early adopters of phones huh
+so and it's just you know pick your
+favorite exchange pick your favorite
+brokerage house and you'll find lots of
+examples there
+at the exchange we were the first ones
+to use tablets and i'm not talking about
+a tablet from apple we're talking about
+this
+hacked together contrived piece of
+electronics that was custom built for us
+on the first wireless protocols it was
+amazing
+uh first flat panel displays were flat
+panel touch screen displays
+that were actually originally introduced
+into slaughterhouses
+and why did we use those because they're
+incredibly rugged
+in a slaughterhouse at the end of the
+day they come out with a fire hose and
+wash everything down with salt and
+chlorine water
+so we figured it might hold up for a
+little bit wow in our environment
+because you had a lot of
+very impassioned people on the floor
+yeah
+i bet now andrew i believe trade didn't
+go their way they would put something
+through it i really want you to
+to explain to you a little bit about you
+know the new york stock exchange and
+you're
+i'm i'm imagining myself in a position
+like you're describing here
+being responsible for a lot of the
+communication the networking the
+telecommunication that needs to go on
+to power what you know
+today millions of people around the
+world are taking part in
+every second that must be
+a big responsibility
+it is um fortunately it's shared amongst
+a few people
+at the senior level one i had the
+communications
+environment i had a counterpart who had
+all of security
+another counterpart who had all of i'll
+put in quotes databases
+another counterpart who had all of the
+server farms
+and you had to work together as a very
+close team obviously because everything
+was interconnected
+but you really had to be a leading
+technology expert in that respective
+vertical
+in my world in the communications i had
+to deliver quite literally millions of
+messages per second
+with for all practical purposes 100
+reliability
+and you had to do it in there was always
+the running competition to see how fast
+you could do it
+and we were down to comfortably you know
+into the millionths of a second wow
+with through with and striving to go
+lower
+that's just that's just incredible now
+putting me in that situation
+you get to work every day and you're
+mentioning on one hand the
+you know the perhaps not the
+apprehension it sounds like but but
+but i'm sure that it was it wasn't as
+dramatic but you know the bill ringing
+and
+you know is everything today going going
+to work well how at the same time do you
+balance
+making sure that everything runs
+smoothly to continuing to improve
+and allotting space strategically
+for both maintenance but also making
+sure that the new york stock exchange is
+always using the most up-to-date
+technologies with the best
+infrastructure
+and the best communication
+it's a very tough balance and you also
+need
+working with you or for you your team
+that's extremely good at you need a very
+strong leader on the operation side
+who really focuses on the day by day
+minute by minute
+is it up and running and dealing with
+that then you need
+the people that are just looking forward
+you have a couple that are the you know
+the true pie in the sky
+folks that are searching out
+you know new technology that might have
+some applicability
+in the next six months to a year or two
+years out
+and then you've got to have the core
+team of designers that will then take
+the dreams of the the lead architect
+and combine it with the realities of the
+operations manager who says
+it's not going online unless i can run
+it successfully
+and try to meld those two together and
+in between
+you need to whatever you set for your
+goals and expectations for today
+you know you look at your calories okay
+i'm gonna have six meetings yeah no
+you know you got six but you're going to
+lose two because you have to deal with
+the unexpected stuff that popped up you
+know there's always something that'll
+pop up somewhere someone
+did something or there's an operational
+issue or there's a technology challenge
+and it just
+you've got to carve out an extra hour
+for that so the trick
+to the job was to remain remarkably
+flexible
+which sounds difficult you had a general
+sense a general plan
+of attack but boy you had to adapt real
+quick and i'm guessing that as you go
+through
+you know the the many other positions
+that you've held this is just
+one of many experiences that you that
+you've gotten to to be had you know
+partially you know the vp and chief
+architect of financial services and
+juniper
+and a phenomenal company a chairperson
+of you know
+of wonderful organizations and and
+member of advisor of wonderful
+organizations
+what do you extract you know from a
+technologically leadership
+position what what are some things that
+you've
+found useful as you've gone through your
+your journey in terms of being a good
+leader in the technology world
+there's a couple uh i i i think you know
+thinking back on it
+i i got lucky or or maybe it was
+brilliant planning i don't know which
+you know
+i'll go with luck um i got the new york
+stock exchange experience was the buy
+side
+i was always buying technology which
+means i got to beat up on vendors
+regularly
+for their product and you know sort of
+tell them what they should build on the
+juniper side it was the exact opposite i
+was on the sell side trying to convince
+people that they we
+you know should use our architecture our
+technology
+and of course they would beat up on me
+but i
+think some of the key aspects especially
+on the leadership is one listen to your
+people
+you know clearly hire the best give them
+the freedom to succeed
+which means you've got to put a safety
+net under them when they don't
+um have faith in them because they
+really are good
+okay very rarely do you hire poorly
+you know you go through a normal
+interview process and most people work
+out well
+and then some work out exceptionally
+well and on a very rare occasion do you
+run into a dud
+but that's few and far between thank
+goodness
+but the key is to let them give them the
+uh the room
+to strive give them the room to go
+invent their own ideas
+you know dog you can't be that
+micromanager who you know
+stays right on top of everything they're
+doing just post the task and say i'll
+see you next week on that one and if
+you've got some questions by all means
+happy to sit and talk to you about it
+but you ought to be able to go figure
+this out
+and it's remarkable what innovative
+solutions
+people will produce when you let them
+give them the freedom to do that
+and then sometimes also accept the fact
+that
+they'll come up with a bright idea
+you'll agree that it's a bright idea
+and it turns out to be wrong it's a dud
+so
+the answer is you've got to leave that
+safety net in that cushion that says hey
+you know you got it right eight times
+and two times it was a dud that's the
+way it goes
+right you know it's especially on the
+technology front because you're going to
+try a new technology
+and the key phrase there is try and you
+know
+you're smart you follow it so you've got
+a sense that it's really going to be
+successful but once in a while
+yeah for all the best intentions it just
+wasn't you know a perfect fit for
+whatever reason
+so be accepting of the failures that's
+almost
+that's almost as important as
+congratulating the success
+and i think the big thing is don't be
+afraid
+to acknowledge success if your team does
+something good
+it's all them right just remind them
+that they're
+you know thank them for making you look
+good as a manager
+that's really nice that's what's really
+about i love that sentence thank them
+for making you look good as a manager
+that's that's a really nice way yeah
+because i'm only going to be as good
+as they are at the end of the day right
+right now how do you empower
+i'm not personally go ahead
+i was going to say i'm not on the front
+line making every single micro decision
+so i've got to trust and enable them to
+make all the right decisions right
+that's what it comes down to and now how
+do you empower people and then clear the
+way in front of them
+how do you empower them to to do exactly
+that to you know you're clearing the way
+in front of them
+in one in one place but you know it's
+easier said than done right i mean you
+can read a lot of leadership books about
+yeah don't be a micromanager and empower
+people and give them room and
+congratulate and accept the failures but
+at the end
+and a lot of it comes down to nuances
+right it comes down to how they perceive
+you
+as a leader and how you really mean and
+not just you know what do you say but
+also how you respond and how you act on
+the day-to-day life
+i see that a lot right
+yeah that's true so there's the
+mechanical part of it which is if they
+want to go explore something make sure
+that you
+secure the funding for them uh
+you shield them from whatever other
+management entities are there
+in terms of you know people questioning
+them you want
+valid challenges and valid objections
+but at some point you want to make sure
+that it doesn't cross the line to they
+just like to beat on your people
+right for whatever reason and then
+you've got to step in and say excuse me
+don't beat on him
+i'll take it i get paid the big bucks
+you can beat on me
+okay i'm a professional whipping boy for
+my people
+you have to do that you've got to defend
+and protect them right and
+that's true of any organization that's
+not unique to anyone
+but the more higher pressure the
+organization is the more likely you're
+found
+you know find someone who's going to
+come back and really go after
+your people right so you have to do that
+the other thing
+is and you've got to communicate this
+over and over again
+is you're available there for them and
+you're there to support them and make
+sure they understand that
+make sure they understand that it's okay
+to come in and ask the dumb question
+if it's i explain something to you and
+then you know 15 minutes they come back
+and say i didn't understand a word you
+said
+okay let's go back through it again so i
+have to be open to the fact that they
+didn't get it
+but they have to be you have to instill
+in them a sense that it's okay to come
+back and ask the question again yes
+i was just about to say that and also
+it's
+yeah yeah they um they they have to
+learn that it's okay to question you
+the last thing you want is someone who
+you know you say oh maybe you can do it
+that way and they take that
+as an absolute directive and you really
+need to instill in them and convince
+them
+that no you're you're allowed to come
+back and go excuse me boss that's a
+remarkably stupid idea you want to try
+that again
+it's okay i mean you know you got to
+learn how to and i'll use the
+cliche you've got to learn how to park
+your ego at the door
+right right and and the trick is
+managing those egos because we all have
+egos
+but when you're in a very high
+performing organization
+with very skilled and very talented
+people that translates to phenomenal
+egos
+i mean you think about it you're in a
+position where you wake up every morning
+and you believe that you're going to do
+a billion share trading day
+with no problem and the mere fact that
+you think you can do that every day
+already says you've got one heck of an
+ego wow and that's
+you know before you even get your first
+cup of coffee in you right
+definitely now as you go through and you
+look through
+the advancements of technology and
+you've seen a lot of them
+and going back all the way to the high
+transmission
+intern that we talked about before are
+you surprised
+is it weird for you to see how fast
+things are are moving do you feel that
+you're
+you've experienced a lot of these
+technological invasions because you've
+really
+seen you know in execution these
+technologies
+and all their phases until now you know
+ever since you started
+you know it's you know what it sounds
+like quite some time ago
+i not overly surprised
+uh and maybe that you know goes a little
+bit back to the era in which my parents
+grew up
+when my father was born there were no
+planes in the sky
+and yet he saw a man walk on the moon
+okay well if you think about the
+technology innovation just in that range
+that he lived through
+and the other thing that you need to
+accept is
+with every technological innovation that
+we
+come up with as a society that
+accelerates our next technological
+innovation you can always trace back
+what someone invented today to the prior
+three or four things
+that came before it and that pace just
+continues to accelerate and it has
+conservatively for the last you know at
+least four or five hundred years
+historically okay i mean you think about
+it we started with
+you know sharpening a p developing iron
+so we could develop a size so we could
+harvest wheat
+in the field and somehow we've turned
+that into
+a you know a john deere combine that
+sweeps across an acre of land and you
+know five minutes or whatever they do
+it's incredible wow you know those giant
+thrashing machines you see nowadays
+so pick any space you want and there's
+massive innovation
+um it's human nature you know we
+innovate or we die
+at the end of the day yeah and i think
+that
+yesterday i'm not surprised by it yeah
+today we're saying
+you know the things that i'm observing
+around and
+i grew up in a different era i grew up
+in an era where i'm i'm born into
+i'm born into a smartphone and i'm
+seeing it transform
+every single day and i get just so
+excited about thinking how it transforms
+but what i
+also question a lot is you know is this
+question of leadership or
+what we've been talking about when
+you're when you when you've
+harnessed this idea of technological
+innovation but now your job is to
+empower others to do it
+and and you had to do that in you know
+phenomenal circumstances
+that i get to talk very rarely to people
+who've
+gotten the chance to do it in in a
+similar circumstances
+or of similar intensity or nature that's
+just really really exciting for me to
+hear those insights
+i do have a few fun questions for you if
+you're ready for them
+sure go ahead okay we'll start off easy
+we'll get a little bit weirder along the
+way
+a favorite subject in middle or high
+school
+oh gosh um you're not going to believe
+this it would be engineering
+it would be technology um doesn't make
+sense
+i'll phrase this i'll phrase it somewhat
+politely i popped out of my mother as a
+fully developed
+engineer i mean it was i was born an
+engineer it's as simple as that i love
+it
+i mean yeah it is what it is
+one of your role models you know some
+people are born with vast musical
+talents right
+someone comes out and all of a sudden
+they're playing the piano by the
+time they're eight years old well that
+certainly wasn't me i have absolutely no
+musical talent
+but hand me a slide rule appropriate for
+that era
+and i was off and running i love it one
+of your role models
+or somebody that inspires you
+this there's i've had the pleasure of
+having a few
+but i think the one that's most notable
+was uh my
+last boss at the new york stock exchange
+was a phenomenal gentleman that was a
+pleasure to work for
+and inspirational now first of all he
+was
+remarkably brilliant to say the least um
+he made me look like i you know couldn't
+even tie my shoelaces
+but he never tell you that he he'd never
+you wouldn't he wouldn't brag about it
+but when you start to talk to him you'd
+hear little things like oh yeah you know
+i did my
+you know chemical degree and you know
+undergraduate graduate master's degree
+got a phd in this and i
+got a second master's in that and the
+third master's in that and i'm fluent in
+six languages
+and then he'd go from there and i'm like
+oh my gosh now
+again he wasn't this you know you didn't
+have the swelled head and you know i am
+great and perfect
+it was like having a conversation like
+you and i are having today just a fun
+chat
+but boy don't challenge him because he
+could run circles around you
+any day amazing yeah he could out-talk
+you and out-read you
+anytime he wanted to amazing and if you
+worked hard at it you could finally get
+you know tease that out of him but he
+was such a pleasure to work for and
+very inspirational and again he was the
+one that talked about
+giving people the freedom to succeed and
+accept the fact that once in a while
+it's going to be a dud and it was
+he was quite the character he's still
+rattling around the industry having a
+good time
+uh which is great and he also was highly
+diversified he wasn't just
+focused on the job he also did some
+teaching on the side which then i
+started to teach on the side which
+helps round out your career and
+objectives again it's not
+about showing off your ego it's about
+learning from the students
+it's really fun to try to explain a
+technical subject to a group of people
+who are interested in learning
+but they don't get it and it really
+reminds you and grind
+it grounds you in how you need to
+explain things
+there was nothing more educational for
+me than actually teaching a few classes
+at the college level i love it
+last question three words that you would
+use to describe yourself
+sure
+so i i thought about this a little bit
+uh because
+that question does pop up from time to
+time from other people too
+i guess one of them obviously is techno
+geek um i was born and raised an
+engineer from the get-go
+it is what it is you know like i said
+some people are master cello players i'm
+a really good you know i'm an engineer
+that's what i am second
+and well let me not say second
+in no order of preference family
+it's about raising the family caring for
+the family
+having that commitment to other people i
+have been blessed with a wonderful wife
+two fantastic kids throwing a grandson
+now
+you know it's all good stuff and what's
+amazing is we'll hang out together
+uh there are many tales that i won't
+recount because it's probably
+inappropriate
+of going drinking with my kids
+ah okay yeah
+so much so that maybe it was one of the
+kids that had to drive me home on
+occasion that sort of thing
+but that's about you know a fan a family
+bond also
+um again not by brilliant planning as
+opposed to it just sort of evolved that
+way and you sort of learn
+along the way but you see these families
+that just you know they don't get along
+they don't talk
+yeah this this family's you know
+fortunately quite the opposite
+and then i guess i i gotta throw in just
+for fun uh a little bit of a wino i am
+definitely cultivating the wine side of
+my um hobbies and business
+so i've got a nice little wine cellar
+going um
+i've put on my bucket list that i'm
+going to get to all the wineries on long
+island and try all their wines
+well there's about 70 wineries each one
+puts out about 10 to 15 wines you can do
+the math
+i'm going to be drinking for a long time
+sounds it sounds phenomenal and andy
+i want to thank you so much for joining
+me this was just a lovely insightful
+i really enjoyed it um and i appreciate
+all the insight and your time it was
+really great thank you
+thank you and i had a great time also my
+pleasure take care

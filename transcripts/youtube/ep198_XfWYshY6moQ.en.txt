@@ -1,0 +1,657 @@
+you know we have our core values and the
+number one value and by far the most
+important is
+is patience first and it's really about
+the patience
+[Music]
+david golan thank you so much for
+joining me on 20 minute leaders
+thanks for having me well you know
+artificial intelligence
+healthcare helping save lives a post-doc
+at stanford
+this is a complete honor of mine so i'm
+very very glad to have you
+david you're the cto of this ai i can't
+believe you just tell me
+you're over a hundred people across the
+us and israel
+and that's just insane david right
+before we go
+back to your personal journey give me a
+little bit of context
+what is this ai and how do you integrate
+artificial intelligence with healthcare
+yeah so our mission at vsai is
+to facilitate better care for patients
+by applying artificial intelligence
+detecting
+for example stroke or other pathologies
+that require
+immediate attention and alerting
+the right physician immediately using
+our ai and using a mobile platform so
+they can treat the patient much faster
+so just you know for context about the
+problem you know you're saying this idea
+of detecting
+strokes you know when i think of
+somebody having a stroke i think about
+the movies i'm thinking about somebody
+who's stopping in the middle of the
+street
+they're starting to realize that
+something is weird they maybe fall down
+and then eventually somebody will call
+9-1-1
+i'm guessing that the problem is that
+oftentimes it's too late right i mean
+that every second there counts
+yeah so stroke is the single most time
+critical condition in all of medicine
+with the exception of you know a kid
+choking on a grape
+every minute that goes by a patient
+loses two
+two million neurons that translate to
+over four days of disability free life
+so it's really a race against time and
+you know we all have these these images
+from for media of someone
+having a stroke and being rushed to the
+hospital the
+sad fact is that the delays typically
+happen within the hospital system
+so the largest delays are after the
+patient is admitted
+actually more often than not even after
+the patient is
+imaged so the patient was in a city
+scanner
+somewhere you know in a file system
+there's a sequence of
+bits and bytes that tells this patient
+is having a stroke
+but just the system it's a human-based
+very sequential linear system is not
+efficient at triaging those patients
+identifying
+who needs emergent care and who doesn't
+and sort of skipping the queue and
+making sure the right patient gets the
+right
+uh the right treatment so this is
+basically what we do
+right so it's not a problem of
+proficiency of taking care of it but
+it's a problem of diagnosing
+the urgency of the situation right
+exactly
+exactly so it's it's really not about
+you know the in the context of ai and
+radiology and interpreting
+scans and you know people also saying
+hey i will replace the radiologist that
+will not replace the audiologist who's
+better
+it's really not about being better it's
+about being everywhere
+24 7 being diligent never taking a break
+which computers can do and humans can't
+not to mention the cost
+right so the ai is always there in the
+cloud every single scan goes to the
+cloud we're
+at about i think 45 000 scans a month
+now wow going to the cloud being
+interpreted about one out of ten
+is a stroke oh man the ai identifies the
+stroke
+sends an alert the physician gets the
+physician by the way
+is more often than not in a different
+hospital or at home or driving or
+whatnot
+they get the alert they have a mobile
+platform they they can view the scans
+they can communicate with the team
+and this really changes the flow of
+healthcare from this
+sequential one stop after the other you
+know
+very slow process yeah something you
+know everybody gets the alert everybody
+sort of sinks in on the mobile platform
+makes a decision
+go go go and we treat the patient much
+much much faster
+so it just paint me the picture again
+where is the scan taking place
+how am so let's say i am the one who is
+experiencing the health condition
+where am i physically located while the
+scan is taking place and
+and why am i so disconnected from the
+from the whole uh
+health care system that you're talking
+about yeah so
+if if you're unfortunate enough to have
+a to have a stroke or to be suspected of
+a stroke
+you will be taken to a hospital right to
+an er
+and you will be scammed okay between 60
+and 70
+of the time the facility that you're
+being scanned at
+does not have the full capability to
+treat you as a stroke patient
+you will need to be triaged and
+transferred to another facility
+it's called a comprehensive stroke
+center right and
+i mean immediately you know
+if you've been in the hospital once you
+sort of know how inefficient this can be
+immediately you see there's a chain of
+handoffs that needs to happen
+and remember also you're in the smaller
+hospital right it's less experienced
+they don't see as many strokes so
+they're right practiced with them
+and and this is what you know due to
+human error due to overload due to a
+tired physician or just due to like
+random stuff like someone calling
+someone else while they're already on
+the phone with a third party
+right there's delays introduced and
+those drops drops in this process
+so we we completely eliminate this and
+you know actually
+if if you're okay with this i just want
+to share
+something from literally from from
+earlier today yeah
+of course on linkedin uh i can send this
+after what the post on linkedin
+um from piedmont we just went live with
+piedmont
+it's an exciting day for us at piedmont
+we have officially launched with ai
+across our health system
+our first case came through and lvo
+alert lvl is the type of stroke
+was received even before the images made
+it to the system
+physician notes that this saved us at
+least 15 minutes on this case
+15 minutes is 60 days of disability free
+life
+and saves 150 days of potential loss of
+functional independence
+right this is from today this is like i
+shared a tale david
+i'm i'm getting no i'm getting emotional
+here and listening to you say that
+how so so you're reading this post and
+i'm literally tearing up as i'm as
+i'm hearing this because this is
+probably something that i'm the most
+passionate about using technology
+to to literally save lives you know a
+lot of entrepreneurs go and
+and build products that are trying to
+make the world a better place or have a
+positive impact you're literally
+saving people's lives and you're not
+just saving them from life enough you're
+you're also saving their well-being it's
+not just about whether they survive but
+it's about their quality of life moving
+forward
+which i think is completely inspiring
+talk to me a little bit about your
+personal journey
+going into this so uh so you know you're
+teaching me attendant television
+university you're
+an algorith you're you're working
+algorithms at vmware you're at postdoc
+at stanford how do you go into this
+realm of artificial intelligence and
+transition into
+co-founding this amazing company yeah
+so i mean it's a good question and you
+know sort of my
+background has been a bit random uh i've
+throughout my adult life have been sort
+of gravitating towards what's
+interesting and fun
+and challenging and as you mentioned i i
+worked in i developed algorithms in the
+tech industry i did some
+uh cool stuff in in my undergrad and
+master's and
+phd and it came to stanford for a
+postdoc to focus on statistical learning
+and genetics and genomics and you know
+solve the world's problems and like
+i guess two two main things happened one
+of them
+is you know i guess everything depends
+on luck but
+i came to stanford exactly when
+the first time for the first time uh um
+a conversion neural network class was
+taught at stanford
+and i was like completely randomly i
+stumbled upon it and i said
+well let's let's go and listen what is
+this stuff that
+you know sort of keeps coming up
+recently everybody's saying this is a
+big deal
+um and i go there one or two
+uh you know lectures and it's obvious
+that this is a game changer it's
+obviously
+something really really big is happening
+here it's not
+you know another method another
+algorithm it's really something that's
+going to change a lot of things do you
+remember who was teaching the class back
+then
+yeah yeah it was andre andre kilpathy's
+famous
+cs 231a like everybody
+everybody's done cs231n it's a the
+notorious class of convolutional neural
+networks
+yes so i mean that was the first time it
+was taught at stanford
+and it was absolutely mind-blowing wow
+um
+so i mean immediately i started to think
+okay let's see how we can apply that
+uh in research in genetics and genomics
+and started you know dabbling with
+medical imaging
+so playing with with all sort of stuff
+um
+completely unrelated to that uh i
+actually
+you know the story i told you about the
+patient uh being scanned and so on i
+actually
+actually experienced it i was admitted
+about five years ago to stanford
+hospital with a suspected stroke
+which he actually yeah so actually it
+ended up not being a stroke and
+just a different neurological thing
+that's completely reversible and i'm
+fine and healthy so
+no don't worry um but like everything i
+tell you about the delays
+about the disconnects i literally
+experienced those
+being like unable to speak paralyzed in
+half of my body on a bed
+at stanford looking around saying what
+the hell is going on why are things
+taking so long
+um and and it is in one of the best
+hospitals in the world so whatever
+exactly it's like right it was like
+monday morning you wouldn't say like
+christmas eve or something
+it was absolutely absolutely um
+mind-blowing so you know half of the
+brain is like super freaked out that i'm
+going to be
+you know disabled for the rest of my
+life and half of the brain is like
+what the [&nbsp;__&nbsp;] is going on um
+um and i was fortunate to meet my
+co-founder
+uh chris mansi uh i was introduced
+actually following this
+this incident by a mutual friend chris
+is a neurosurgeon by training
+wow and he was in the business school at
+stanford and we
+actually met other friends you know
+sitting in his backyard
+on the bonfire um and i sort of told him
+my story and he looks at me like
+dude you're lucky you're alive
+everything is
+fine i lost like dozens
+of patients on my operating table over
+stupid stuff
+like someone not picking up the phone at
+the right time and i actually came to
+stanford
+to fix this wow and like
+how would you fix this like if
+everything was automatic
+if you know computers were there instead
+of humans things would have been much
+better
+and i remember we actually googled on
+his phone like some images
+and i looked and said you know i think
+you know deep learning we can probably
+automate this
+unbelievable when was this
+how beginning of 2016.
+wow so we're talking about four years
+ago and
+fast forward um and you're running over
+a hundred person company
+and you're already and you're saving
+lives so talk to me a little bit about
+about
+about what's happening today so you're
+you say you have 45 000 scans a month
+10 of those are are showcases which
+means
+that as that in the current state you're
+literally helping save
+the lives of 4 500 people either saving
+them from life and death or saving their
+well-being for hundreds of days right
+yeah yeah so i mean now we will fortune
+we've seen uh very rapid adoption in the
+u.s we're live in over 500 hospitals
+seeing a lot of patients um there's you
+know accumulating
+evidence that implementation of this
+software
+you know reduces the time improves
+patient outcome reduces length of stay
+in the hospital
+and all that coming from different
+hospital systems across the u.s
+so it's fairly robust um yeah
+it's really exciting we're launching new
+products we're expanding beyond stroke
+we have a brain bleed product we have a
+few others that are sort of
+coming down the pipeline and it's uh
+yeah it's actually been
+so david i i have to ask company culture
+uh because it's something that's
+fascinating for me you know as a
+as a young entrepreneur myself and
+thinking about leadership and what it
+what it means to really motivate people
+and
+and i'm seeing my class at stanford and
+my friends from 8200
+it's all about mission-driven companies
+right we want to join companies that are
+mission driven that have a purpose that
+we know that we
+feel a part of a community do i'm
+i'm assuming this but if you're looking
+at the hundred plus people that are
+working at this ai
+is there a shared goal here do people
+understand
+the magnitude of what you're achieving
+here
+oh i i think the answer is is yes like
+we
+put a lot of effort into it and it's
+super important first of all we have you
+know we have our core values and the
+number one value and by far the most
+important is
+is patience first and it's really about
+the patients
+um even recognizing that it's about the
+patients not about it not even about the
+users
+or paying paying for the product
+um we have different backgrounds in the
+company
+people coming from healthcare which is a
+lot of the commercial slash customer
+facing
+they get it immediately we have you know
+a customer success team
+many of them are stroke nurses and
+stroke coordinators
+who sort of jump chip because they
+understand that this is the way to
+really transform
+in israel we have the engineering team
+and you know we're slightly removed
+from what's going on so we do a lot we
+have
+uh you know in all hands we have what we
+call the magic moment section
+where we share two one or two
+you know stories like the one i shared
+with you earlier
+um we have our brain time session we
+call it we have
+it's a 30 minute every week where we
+just review interesting cases
+what happened did they use the app did
+they use it properly wow
+something strange happened um so
+yeah so we really try to connect uh
+even you know ev every single person in
+the company
+to the fact because i mean this is what
+differentiates from obviously
+this as as you know place of work you
+can go work in other places
+some may even pay you more money um
+but i strongly believe it's it's
+one of the only places where you can see
+a very you know direct line from your
+work
+to numbers of lives saved unbelievable
+so talk to me a little bit about this
+intersection of our artificial
+intelligence and and healthcare
+and medicine in general where is this
+headed because this is something that
+you know
+i guess 15 10 15 years ago there wasn't
+too much innovation going on with
+especially using these technologies
+and and completely transforming the way
+that healthcare is processed and just
+like
+you know the amazing things that you're
+doing there's other companies like like
+zebra medical vision that are they're
+doing phenomenal things
+and and other companies around the world
+what is the trend and
+how can people that are perhaps pursuing
+you know
+a phd in artificial intelligence or that
+are mathematicians
+how can they find this this smooth
+integration
+and implementing these algorithms into
+actual sustainable products that can
+actually improve people's lives
+yeah well i mean that's i guess that's
+the million dollar question
+um and i think there's few ways to
+attack first of all in terms of the
+trends
+um yes for a very long time not a lot
+has happened
+and again i think most of the the reason
+is
+that people focused on trying to make uh
+trying to beat humans at their own game
+like reading better there was a lot of
+focus in oncology for example in breast
+mammography
+um trying to be better than a human in a
+very hard task
+what we did at viz which was which was a
+first
+and it was a a new regulation created by
+the fda for us
+was not to compete with humans in their
+own game but say
+where do we have where does the computer
+have the advantage
+well time is of the essence right right
+so actually algorithms are not more
+accurate than humans
+humans like the expert treating this
+head scan
+they don't miss a stroke it's not about
+accuracy
+it's about getting them in front of the
+right patient at the right time right
+and there you can show very very
+substantial clinical benefit
+we convinced the fda they created a new
+regulation called computer-aided triage
+for this and now i just actually recent
+recently we did a survey there's
+about 30 devices in this category using
+us as a predicate and this has become
+the number one way for ai companies
+to to have like you know a foot in the
+door in the healthcare system
+so but what what is like what is the
+the lesson i don't think the lesson is
+you should go do triage um
+i think the main thing is that you have
+to sort of forget about ai and we have
+ai in our name here
+but let's forget about the ai for a
+second and you have to really find a
+problem that needs fixing a pain point
+that's so painful
+to patients to physicians and also to
+you know to the
+financial people at the hospital right
+because stroke is
+you know financially a very big deal
+it's actually the number one health care
+expense in in the uh um
+so you and then you say what do i need
+to fix it and ai
+may be part of the solution and by the
+way when i think of viz
+when when we ask our customers what is
+like the biggest feature of this that
+you like the most
+ai doesn't always come up first they
+it's part of the whole solution the
+solution is
+a technology a mobile viewer um a
+chat a skill chat they can use it's ai
+it's also a customer success
+representative that really understands
+stroke
+and works with them to improve their
+stroke workflow and how
+they leverage what viz has to offer to
+improve their own workflow and so on
+so it's really holistic it's so
+what i'm trying to say is if you're an
+ai practitioner
+and you um you have a hammer and you're
+now looking for a nail
+like everything looks like a nail don't
+do that first
+find a problem uh convince yourself that
+there's a clinical case a business case
+and then if ai can help you know
+wonderful 100
+and it's inspiring because it's what i'm
+gathering from this is
+and you're saying it's not the ai that
+is viz
+it's viz ai is a component it's it's a
+tale of vis and
+and you're providing this holistic
+experience that is that is trying to
+capture a lot of the misalignment
+within the within the industry or within
+the the the process of a potential
+stroke patient
+they all the ai is is sort of the helper
+tool to allow that to happen but it's
+all these other resources whether it's
+the customer success person
+or the secure chat or understanding the
+the problems of that specific
+organization
+and i think that's a pr that's a really
+big lesson that i'm taking from this
+because as a technology enthusiast
+myself
+i'm constantly reminding myself that
+it's not just about the algorithm it's
+not just about the code it's about
+how do you actually bring this to market
+and make it something that's useful
+david this was inspiring and insightful
+thank you for taking the time to do this
+i'm sure that it's you know running over
+100 company and doing the things that
+you're doing a
+this is a i'm definitely very very uh
+very honored that that you're willing to
+do this
+but before we leave i have to ask for
+three words that you would use to
+describe yourself
+so um okay so the first one i think it's
+two words but they still haven't been
+the same it's i would say
+naive slash optimistic like
+like people make fun of me into this all
+the time that i always think some
+things are like would be really easy to
+do um
+and they always turn out to be harder
+but you have to sort of believe that you
+can't do it and that it's possible so
+take the first step
+um and i think the second one would be
+you know some something you know big for
+me right now is being a father
+yeah i'm a father of three and we had uh
+we have a six month baby that was born
+just before the lockdown here um
+so you know kids have been a big thing
+but recently even even more than that
+and the third thing i would say um
+i mean i thought about like going with
+like a gig nerd thingy but i actually
+went with a statistician
+uh i'm i'm a hardcore statistician by
+training
+not the machine i mean do machine
+learning and stuff but like my training
+is in statistics
+and i consider myself a statistician who
+thinks with
+applied statistics to how he thinks
+about the world and that actually has
+been extremely useful uh at this journey
+and in life uh in general so
+yeah i guess i guess we'll go do those
+three david thank you very much
+keep helping save people's lives and
+i'll keep following the journey thank
+you very much
+thank you take care

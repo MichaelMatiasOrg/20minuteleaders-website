@@ -1374,6 +1374,7 @@
                     const featuredUrl = `episode.html?id=${latest.episode}`;
                     document.getElementById('featured-listen').href = featuredUrl;
                     document.getElementById('featured-play').href = featuredUrl;
+                    document.getElementById('featured-transcript').href = `episode.html?id=${latest.episode}#transcript-section`;
                 }
 
                 renderEpisodes();

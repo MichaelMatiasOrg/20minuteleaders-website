@@ -1,0 +1,670 @@
+it doesn't matter if you're a five
+people company or a 500 people company
+you're experiencing you know the same
+amount of
+uh horror and uh and
+fear and uh struggle and success
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+observability of technology in large
+enterprises is becoming key to crisis
+management innovation and control
+meet tomer levy the ceo and co-founder
+of logs io
+before founding logs io he co-founded
+and was the cto
+of antigua a company that developed
+innovative docker-like containers
+designed for large enterprises
+prior to antigua tomer spent six years
+at checkpoint where he led its intrusion
+prevention system ips product from
+concept to market
+generating a hundred million dollars in
+revenue in the second year
+thomas has an mba from tel aviv
+university and a bachelor of arts in
+computer science
+tomer levy logs io how are you today
+i'm great i'm great thank you for having
+me
+it is a beautiful garden you have behind
+you where where in israel are you right
+now
+thank you i live in a i live in a small
+uh i think it's a town called
+it's right by the waterline uh the
+benthanite junction it's not
+not too bad it's nice and is her quiet
+next to a beach by the name yeah it's
+like uh it's like a thousand meters from
+the uh from the beach
+yes it's not a community so now i
+understand your passion for kite surfing
+yes yes somehow i find myself i found
+myself next to the beach i don't know
+how that happened
+yeah amazing uh
+so tomer uh we can talk about
+kitesurfing in the beach but what i
+really want to get to is
+your time you know in the in the tech
+ecosystem a two-time
+founder and previously within tiguan now
+with logs io i'll talking a lot about
+open source uh talking a lot about you
+know productivity
+and you spend a lot of time at
+checkpoint as well so you're very
+much embedded in in the israeli
+ecosystem but but tell me a little bit
+about
+you know as an engineer and and
+entrepreneur here
+what guides you because it sounds like
+you know when you're dealing with open
+source and productivity
+you know you have some vision of how you
+see
+the engineering world yeah yeah for sure
+so for me it was always it was never
+about i want to solve the
+you know the most difficult problem and
+i'm passionate about you know getting
+these bits
+in the right order for me it was always
+from the checkpoint days
+until today it was about solving you
+know a human
+issue process a problem for a for a
+person for a human so i was a checkpoint
+i did this security product
+and i was i was passionate about hey the
+customer actually use my product that's
+amazing
+you know they're getting value they're
+upset and and this is what i love the
+most
+uh when when doing it and this is what
+guides me
+through time right integra was also
+about can we make something
+can we use technology to do something
+meaningful um
+i think now with logs io like just
+walking to a customer
+floor and seeing the screen it's all
+showing logs i o
+uh going to uh going to a call with a
+customer and telling them hey
+it's not about this feature helped us do
+something but the engineering work we've
+done
+that made their life better again we're
+not we're not curing world hunger
+and we're you know we have a place to
+make businesses more effective
+engineers more productive um you know
+application more
+more resilient and when they tell me hey
+this
+this really changed my change my my day
+my
+my boss was happy the ceo was excited
+about how we did this launch
+this is all i need from engineering and
+so
+logs i o when you're walking into the
+customers and and we'll talk in a second
+about this idea of not solving
+not solving world hunger my my
+perspective is that actually
+companies like you are actually the ones
+that are enabling uh you know the
+biggest solutions that are that are yet
+to come and so
+i i definitely so we'll talk about that
+in a second but what logs io what does
+that actually do yeah so we're uh
+we call it cloud observability you know
+in simple world
+words uh imagine that you're running
+like a very important health care
+application entire hospital is
+reliant on on this system to move the
+drugs to get the people in line in the
+right order
+if this system crashes it stops working
+it's a huge
+you know it's a huge mess it may even be
+liability it may
+even be people what might get hurt okay
+this is a
+mission critical application what we do
+is we put glasses
+on the eyes of the engineers and with
+these glasses they're able to see
+number one is there a problem number two
+what's not working
+uh exactly imagine behind this
+application there was like like hundred
+and hundred of cogs that all
+have to run in the same way you know we
+call the micro services they run on the
+cloud they run on prem they're
+interconnected
+and they drink they break every single
+day and we help them to find
+what you know where in the these cards
+where is the problem
+and this is a huge problem so imagine
+how do you do that
+so all of these code clocks are
+generating data
+a lot of data like you know a good size
+customer will send
+you know a billion events every hour
+okay so you the humans that have to
+process so much data are lost so what we
+do is we give them tools to say hey
+you can scan this data you can you know
+slice and dice it and
+then you'll know hey this is where it's
+broken i'm gonna fix it fix it as
+fast as possible so i can get the system
+up and running before anyone
+knows basically what we do so take me
+now you know 30 000 feet in the air and
+paint me a picture of this ecosystem
+because
+you know what you're describing here you
+know i think depicts also a greater
+trend
+for for for how software is being built
+you know across the board and and you
+know perhaps logs
+io wasn't relevant you know 10 or 15
+years ago
+but it is hugely hugely relevant today
+because of these dramatic shifts
+what are these shifts that we're seeing
+yeah and
+i think you're right logic could not
+have existed 10 years ago for multiple
+reasons
+it you know hey we couldn't have built
+this kind of company the skill we're out
+we are without the public cloud without
+amazon and
+azure to support us and scale us but the
+problem we're trying to solve is
+relatively
+a newer problem okay um so imagine
+even imagine pre-carving right you had
+so many businesses which were not online
+right you go to the laundry place and
+yeah you go you put your stuff you come
+back you pick it up whatever
+now in coffee people started to have an
+app right calling the app
+it's all working the delivery is online
+you see when it's coming you pay online
+imagine the transformation
+that companies even small companies and
+not just talk about large companies had
+to do it in a matter of weeks to survive
+this wasn't about hey we want to
+increase revenues this is about survival
+so these companies have to move from you
+know
+pen and paper to developing technology
+they all become social companies
+software companies and suddenly if their
+application is slow
+it gets stuck you you've all experienced
+these applications and it's annoying you
+just move on
+like i'll get someone else but if it's
+fast if it's performant if it's
+if it's working well you got it you're
+gonna use them more you're gonna move
+forward with them
+so suddenly you open business
+opportunities for that and they
+use log xiao with these glasses to see
+hey is it working
+how customers experiencing the platform
+and this is why there's a huge
+thrust in the market to use tools like
+dogs right and so
+what as you're starting logs io and
+you're thinking through this problem
+you're saying okay like
+wow this is a huge problem there's huge
+potential there's a lot of other players
+probably
+that are also understanding that this is
+a huge problem
+how as the leader of this ship what do
+you say to yourself what is the
+differentiator where
+why why logs io yeah it's a great
+question maybe i'll i'll
+show you a quick story but my previous
+company in tigua
+you know we had a great company like
+super sophisticated technology we solved
+the real business problem
+um and we did well we sold millions of
+dollars of this software
+until one day our customers started
+telling us hey
+you know tomorrow there is this open
+source that does what you guys do
+and they give it for free and we're like
+what do you mean what do you mean open
+source
+why would anyone give their software for
+free when we
+use we invested so much money and energy
+into developing it
+right and you know time went by and more
+people more people
+started telling us that and this really
+hurt the company like the company was
+really
+um affected by someone that's literally
+giving our software for free
+and and when that happened i said you
+know i'm not going to be against open
+source i want to be part of this
+movement
+and this is more than a technology term
+open source no one really understand
+what it means outside the
+developer uh ecosystem but but it is
+it's i think it's a movement of people
+that want to have
+control they want to have freedom they
+want to have the ability to be
+independent and they say hey i want to
+share my work with the world i want to
+be part of a community
+so when i look at the market we came to
+the market we
+there were like five very large
+companies billions of dollars of
+companies
+and people told us why do come why did
+the world what does the world need
+another
+you know monitoring logging company
+and we said hey you know what in the
+open source space there is almost no one
+and we believe this trend is now small
+but this is going to become a huge wave
+in the future
+we're going to be the best in open
+source and i think this was the right
+bet
+and i agree with you by the way this is
+a very crowded market we're not the only
+company that figured out hey
+people would need like digital
+businesses and
+we need observability but i think we
+have a very very unique angle
+and we were able to uh you know acquire
+you know customers and grow the business
+and influence a lot of people so
+you know i'm happy with where we are
+tell me a little bit about the
+onboarding of some
+either you know the initial customers or
+recent ones where
+where you really felt you know that this
+is a game changer for the way that
+they're that the organization
+functions whether it's in terms of the
+the software observability or or how it
+then translates later on to the business
+needs
+yeah yeah for sure uh so so
+actually two examples i think i think i
+think an early customer a company called
+dyn it's it's a dns company it's like a
+very deep technology company that does
+you know a very important uh uh segment
+of the
+of the the id stack and this company
+came to us we were two months in
+production so the product was literally
+you know barely working
+they came and said hey guys we need you
+we're gonna use you
+and they paid us a hundred thousand
+dollars a year like an amazing amount of
+money for us for such a young company
+um and we said oh my god these guys are
+amazing they're you know
+giving us so much and we just worked all
+year to make this customer happy
+and they started paying more and more
+and more money and then one day
+one morning on october 2015 i wake up in
+the morning from a phone call
+and uh it's the engineering team and
+they say hey the whole thing
+the whole system is you know
+experiencing some slowness
+uh diane is actually going through a
+cyber attack
+a ddos attack against this organization
+and on that day you can look at cnn
+across all the
+news outlets there was no netflix for a
+day no spotify for a day
+no twitter for a day this was a big day
+in technology like
+the whole internet was shut down because
+of that attack against dying
+and then when that attack was happening
+we were the company
+that they used to mitigate the attack we
+were the company that helped them
+isolate the attackers so
+you know when we when we looked back and
+we spoke to the team and they actually
+you know they came and they talked
+openly about that uh without lobzio
+maybe the company would have would have
+you know wouldn't have made it through
+that uh that huge prices um and they
+used us
+to really mitigate one of the largest
+cyber attacks and you
+saw at that time uh and for me it was a
+huge pride we helped to get netflix up
+we helped them get tweet around
+uh and then i realized it's not that
+they you know did us a favor or
+you know really paid us a lot of money
+they actually didn't pass enough money
+for what we did for them
+it definitely sounds like it so on this
+you know balance
+do you find that you know logs i always
+know what is is the value proposition
+more for those big
+areas where like you know something
+crashes and now
+everything's in crisis mode and logs is
+the place to to fix it
+or is it more in the day-to-day finding
+small inefficiencies finding small
+problems
+which of these two do you are you most
+interested in
+yeah so i guess it's both right uh
+it's absolutely for the you know oh my
+god the the you know the shitty the fan
+kind of day
+but it's also day to day like we see
+that most of our users use roxio every
+day
+so imagine we have we have companies
+where we the single company will have
+5 000 people that go every day to the
+local council so
+something we here in small israel
+develop you know about 5 000 people in
+some of the most successful companies
+in the world that use the product every
+day so that's
+that's uh that's and to do it every day
+doesn't mean they have a crisis right
+you just wrote a piece of code
+they you know they want to see how it
+works how it's performing they they
+deploy they shipped an application to
+production so they made it like
+available
+now they want to see how it's performing
+etc so that's uh
+that's uh that's what i like about it
+it's not a you know two people in the
+company use it
+it's like it's an experienced platform
+this is how we call it
+it sounds like a fairy tale almost where
+where's the poop how what what what went
+wrong what what were some of the
+you know biggest challenges as the ceo
+and founder that you're facing here
+no don't get me wrong the kitchen is
+always dirty
+um and uh i was always joking
+when i called other founders and i said
+how are you doing
+and they always joke everything is great
+and we all laugh like we crushing it
+it's like the joke because no one's
+crushing it no one is
+everything is great for them every ceo
+every founder
+it doesn't matter if you're a five
+people company or a 500 people company
+you're experiencing you know the same
+amount of
+uh horror and uh and
+fear and uh struggle and success
+right um so so i don't i
+i when people ask the i are you guys you
+know you guys are successful you said
+before
+you guys had success and i i don't feel
+like we had
+the success we are aiming for we're only
+i i
+truly feel like we're only getting
+started so what are the challenges
+i would say that there are always
+outside challenges right the market has
+been evolving a lot of competition
+that's definitely a challenge
+uh that we're seeing in the market and i
+think we're constantly evolving and
+changing it we're like the you know the
+slot team and they're the platoon
+so all of our competitors are very large
+companies uh you know multi-billion
+dollar public companies we're the
+largest private company in the space so
+we're trying to run as fast as we can
+wow
+uh but but the biggest problems are
+actually not outside they're inter
+like us the people you know what they're
+experiencing you know a great employee
+that is not happy that wanna leave
+um the challenge of bringing the best
+talent in the market
+i spend probably forty percent of my
+time with people like how do we make
+how do we make the culture better how do
+we make the best
+talent safe you know forever how do we
+bring the best talent
+and uh and it's it's so difficult it is
+so difficult especially in today's
+market where it's
+you know uh there's a lot of venture
+capital out there that people have a lot
+of money to hire other
+you know the best people it's a it's a
+challenging market
+and and you have to be more than you
+know place of pace about you have to be
+a place where people grow
+will be developed so i would say this is
+maybe
+uh like a huge challenge for us
+to to make loxio like an amazing and
+irresistible organization and this is
+something we spend a lot of time on
+i guess a day you just lost a customer
+though your whole plan goes to we
+take a lot of risks
+we take a lot of bet some of them do not
+do not uh are not successful it's it's
+difficult
+so when you spend as a ceo 40 of your
+time on people what what have you
+learned
+when it comes to people whether it's
+about motivation
+whether it's about you know um you know
+resilience and
+leadership and empowerment what are some
+interesting things that you learned that
+might not be
+so trivial to somebody from the outside
+who doesn't
+experience that yeah yeah and
+and really they're so first for me i
+learned
+that beyond experience beyond what the
+person has done before
+i'm a huge fan of passion like if
+someone is passionate and it's something
+they really want to do
+like they the likelihood of them being
+successful is so much higher so
+i think we can teach people everything
+but
+passion cannot be taught and yesterday i
+did this new higher orientation so the
+new team that came on board for long
+over the last you know couple of days
+and weeks i think we had about 25 people
+in the session
+and someone asked me so like what what
+makes logs are successful
+and and i i said and what makes me
+specific why am i ceo and not
+someone else and i said i just wanted
+more
+that's it i'm not smarter than anyone
+here in this room like everyone can come
+and have
+that this idea wasn't unique that people
+understood you need to do observability
+and you need to have a logging company
+i just wanted it more that's it i would
+find
+whatever it takes i would then not take
+no for an answer
+and again maybe it's a little bit biased
+but this is what i like about people
+when they really want it when they would
+you feel like they would move
+mountains like nothing else is is uh
+is as important as that so that that's a
+huge learning
+i also learned a lot about because i you
+know i have
+people i take advice from that you know
+i really respect their opinion
+i would i would advise people to take
+less advice i know it sounds
+counterintuitive but every company every
+organization even though you think
+you're similar to others you're
+different
+like no they're not in your shoes even
+though someone was a ceo a very
+successful one
+take their advice with a grain of salt
+like ultimately i think you have to
+trust your instincts
+and i would i would generally um you
+know recommend to take less advice and
+focus on what you think is the right
+thing to do and just believe in it and
+move on
+amazing this was so great
+i have a few more questions but they're
+not about logs i o or cloud optima or
+cloud observability or open source
+they're about
+to levy are you ready for them let's do
+it
+let's do it favorite subject in middle
+school or high school
+yeah i wasn't participating a lot in in
+middle school
+in high school unfortunately but i was
+in sports i always liked to be outside
+run volleyball was my thing at the time
+amazing
+and who would serve as a role model or
+somebody that inspires you
+uh yeah i know i know it's not
+uh it's not um what people would expect
+but i i'm inspired by my kids i have
+three kids
+and just the way they discover
+information they where they learn their
+you know naiveness about the world and i
+have them in different ages of
+different levels of naiveness but just
+the way they learn the way they
+imitate the way it's just an amazing
+amazing
+journey to have so if you have kids i'm
+sure you know what i mean
+amazing and what are three words that
+you would use to describe yourself
+uh i'm you know detailed
+like i'm all about the details of the
+details of the details some
+uh um second one is maybe
+uh persistent you know i i don't give up
+uh and passionate i i only do things
+that i'm passionate about
+so i believe amazing
+best of luck with logs io and and have
+fun
+kite surfing and it looks uh like you're
+like you're really living the life and
+and it sounds like you're the impact
+that you're making and we didn't get to
+circle back to this idea of you know
+solving world hunger and all that but
+at the end i i truly believe that
+technologies that enable
+other technological companies to to do
+better and to be better and to be more
+productive and to focus on the real
+things
+that that that impact is is unmeasurable
+on one hand yet it's uh you know that
+it's huge
+and and so thank you for all the good
+that you're doing
+and stay safe and stay healthy thank you
+someone this was fun
+really appreciate it
+[Music]

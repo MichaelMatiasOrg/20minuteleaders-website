@@ -1,0 +1,638 @@
+because i i can't direct the
+conversation if i don't know
+in and out the the technical limits of
+the product
+and what can be scaled and what can't um
+and also i need to understand who i'm
+talking to so if i'm talking to a vp or
+an analyst or
+or you know um investment relations
+person it's a different type of
+conversation so i need to know what
+makes them tick
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+today we're going to talk all about
+solutions engineering what is it about
+and why is it so much fun meet
+invalshalev
+the head of solution engineering of
+placer ai she is a creative solution
+oriented analytic expert
+and experienced in technology and
+intelligence environment she has
+performed across the life cycle from
+requirements analysis to solution design
+and implementation
+with hands-on experience in data
+analytics and big data applications
+she has a passion to bridge between end
+users and development teams
+technology-oriented intelligence officer
+she was a cabal
+with vast team leader experience in
+balsa lev welcome to 20 minute leaders
+how are you
+i'm doing great it's a nice sunny
+morning here in
+tel aviv you're in the placer ai offices
+right
+right right there we're sitting in the
+bullseye now
+um it's fairly crowded it's it's been a
+while since it was that crowded so
+we're now after our round b and starting
+recruiting so
+it's a it's a hustle here yeah yep so
+you know all over the israeli news
+recently raised over 50 million dollars
+in your in your round b
+and you're in solutions engineering and
+so we're going to talk soon
+about that and your role within placer
+ai but before we do that i'd love to
+get a little bit of context both about
+your own journey and and how
+how you look at your own career but also
+a little bit about placer ai just for
+the context of where you work
+great so placer is doing location
+analytics
+and location intelligence we are
+we are partnering with mobile apps and
+basically integrating location data of
+users
+it's fully fully private we're not
+sharing any information
+about the about specific devices but we
+take
+we take the location data of over 30
+million devices in the us
+so we have around 10 percent of the u.s
+population which is a great
+great sample and we then
+yes it's big and we're able to estimate
+how how many visits they did to various
+locations
+so it's very much like an election poll
+you have a sample you know how how
+much each panelist represents of the
+population
+and then you can give amazing reports
+you know to show
+all of historical foot traffic to a
+certain a shopping center or a walmart
+and and that information is super
+valuable
+we're catering basically to um
+commercial real estate brokers as well
+as
+hedge funds retailers we have amazing
+clients
+you know from a dollar general
+and target and to to hedge funds and cpg
+companies
+wow and and so what is that so what does
+head of solution engineering
+do in that in a world like that what is
+even solution engineering before we ask
+what does the head of it do
+so the way the way i describe it is
+we are kind of the mitigator we're the
+proxy between
+between the client needs and the
+technical
+the technical requirements and the
+technical
+um basically uh limitations right
+we're still trying to to cater to our
+customers and
+and be flexible with with the startup
+startup mode and we are constantly
+looking
+at at innovation so a lot of the time
+the product is defined to answer certain
+business questions
+but then a new client comes in and asks
+for things that
+we didn't think of and then we either
+provide it as a
+custom report or um add more
+requirements to the to the product
+and we're there to to help help out in
+these cases in these edge cases
+where they're either product gaps or
+some kind of risky situation with
+sales and customer success
+can you walk me through you know even a
+case study or some
+more tangible example of how what does a
+solution engineer actually do within
+within an organization where where is
+the solution engineer coming into place
+because it sounds from what you're
+describing that
+you're not necessarily involved in every
+you know every development operation and
+every feature that is being requested
+and there is sort of this you know
+interesting gray area where
+a solutions engineer can come and help
+mitigate a lot of this dialogue
+right so um in many
+in many companies solutions engineering
+are helping the sales team
+to to build decks and to build use cases
+to help sell
+um that's that's one piece of solutions
+the in placer it's a bit different
+because there are
+also we have an amazing sales team
+that's highly proficient and the product
+is amazing you only
+you get a demo on and and usually um the
+use cases are there
+and what i am pulled in to do is is
+these more advanced
+questions advanced needs it can be uh
+interaction with a data science team
+and and then you know the technical
+conversation is a bit a bit deeper right
+it can be defining a new defining a new
+vertical
+right so for example of our first
+airports
+that came in we didn't know what we have
+to offer and
+what's going to help them out so i was
+involved in that situation to understand
+if our solution is good enough what's
+our limitation
+how we can make sure that we're
+onboarding them and and you know
+not overloading our system and still
+creating value for them
+and so what is what is the day-to-day of
+this of this job look like so
+it sounds like you're working both with
+the clients you're working both with
+engineering teams
+you're doing also research in between
+how does it actually operate
+it's a great question i think it's it's
+one of the most centric
+i think i'm working with the most amount
+of teams in the company
+so on on one side i'm client facing so
+i'm working with
+the the sales team and the customer
+success team
+in front of prospects and customers
+and that is looking at those edge cases
+that we discussed
+but on the other side it's um it's
+discussing with uh with the product team
+understanding how our roadmap
+looks like how we can incorporate or
+push in a bit
+like more small stones that can be great
+wins with clients and prospects
+that will help sell more and help raise
+client satisfaction
+it's also working with the data
+analytics team so um
+that define and design piece making sure
+that
+that what we're actually doing is
+answering the use case of the client
+and i think you know that that requires
+a lot of
+a lot of technical understanding in
+addition to
+knowing how to package it all and frame
+it
+in a client-facing way now
+it sounds to me like what in what you
+mentioned before
+this idea of solutions engineering is
+not yet a very common one or is not a
+very
+well known one for people that are
+looking to decide what they want to do
+you know whether they want to be
+right certain researchers and engineers
+product managers
+why why do you think that is and what
+what type of personality
+do you think fits the solutions
+engineering role
+yeah it's um i i wasn't aware of this
+type of role
+um until the last let's say three years
+i didn't even know it exists um
+and to your question i think it
+it requires both highly
+highly um highly technical understanding
+so it's
+it can't be like a first position it can
+be someone straight out of the school
+and why not so what about this job
+requires that extra experience
+so in the on the analytics side
+you you need to see a few things that
+you know you need to be around to
+understand what works and what doesn't
+and you have to experience some
+success and failures in my opinion i i
+don't hire any
+anyone to this position that's in that's
+his first job
+um but it can come from many places i
+have
+solutions engineering that came from
+product that came from
+consulting that came from data analytics
+that's
+that's all valid but it needs to be a
+person that has that
+um that creative mindset i think that's
+the point you know you need to
+you need to see uh to be able to
+kind of pull out information from from
+who you're talking to
+understand where you want to lead the
+conversation and it's
+it's a it's a lot of soft skills a lot
+of
+a lot of soft skills and a lot of based
+on a lot of
+technical knowledge because i i can't
+direct the conversation if i don't know
+in and out then the technical limits of
+the product
+and what can be scaled and what can't um
+and also i need to understand who i'm
+talking to so if i'm talking to a vp or
+an
+analyst or or you know um investment
+relations person it's a different type
+of conversation so i need to know what
+makes them tick
+um and and help help them solve their
+their use case help them
+reach success with our data right
+and so one of the things that we we
+talked about before we started this was
+pretty much how much you're enjoying
+what you're doing and finding you know
+the happiness and the satisfaction with
+with the everyday position and i
+mentioned that you know
+this is a fascinating topic because you
+know what i'm saying around me and a lot
+of people
+you know we we we tend to run so fast
+and we we rush towards
+you know things and we sometimes we
+forget to stop and and enjoy the work
+that we're actually doing
+and so tell me a little bit about your
+experience either with place or with
+solutions engineering and what what
+satisfaction it brings you
+yeah that's a great question i think i
+think what i love about this position
+and
+is that it's never boring right it's
+like
+it's never repetitive i am i am
+i'm meeting new people and new types of
+challenges every day um it's not for
+everyone right
+some people need their routine and need
+to have a very clear
+clear defined goals but i like the
+action i
+i'm an adrenaline junkie i i need it
+right
+so so for me it's fun it's fun to get in
+a conversation and i don't know how i'll
+get out of it
+um i i don't know where it's going to
+lead me but
+but i'm excited about that relationship
+and
+what we can make and you know
+and coming into it with a smile i think
+it's one of the best
+advices i got right it's all about the
+communication and people relationship
+and
+so i think that's what's most fun for me
+that
+interaction and that um
+ingenuity and innovation in each
+relationship
+so i need to i need to get my brain
+going with each
+which each discussion
+right and so do you ever feel like you
+know
+almost an outsider to an organization if
+you're if what i'm hearing correctly
+that you are sort of this connector
+between a lot of different moving pieces
+within the organization but also
+with one leg outside of the organization
+because at the end you're bringing those
+solutions those
+so there must be times when you're you
+you might have an idea that is maybe
+not exactly what some of the engineering
+teams thought or what some of the
+clients thought
+and you still have to sort of connect
+those gaps and and find a common ground
+that that doesn't seem like an easy
+thing to do
+okay you're still right you know that's
+and i think
+the fact that i'm situated in israel
+with the team
+makes it so much easier because i've
+been in organizations
+where the solutions engineering team was
+based in another state
+away from that engineering side and and
+it makes all the difference in my
+opinion because before i
+before i promise something i go and i
+speak to our
+to email our data analytics lead i'm
+talking to the product i'm making sure
+that
+we're all aligned um and and not uh
+and i don't put this the company in the
+situation or the people in the situation
+they don't want to be within
+and but you know it's it's very easy
+in in organizations to to use
+authority and i don't believe in that i
+believe in in you know
+a partnership communication and and
+having that damn
+that open discussion before we reach a
+decision and do it together
+so sometimes i feel like an outsider but
+i'm also
+um i'm using my my skills to
+to make it to to create partnerships
+with
+with the engineering team with the
+product team with analytics team
+so that um they like helping me they
+want to help me and they see that
+that success later on and they're happy
+about it they're excited about it and
+we're creating that excitement
+internally
+now when you look at the team that
+you're leading wha what does this
+sort of internal training look like so
+how do how do you actually
+support the people that are working with
+you and and helping them become better
+or training this mindset because it
+sounds like this is
+you know a lot of these skills that
+you're mentioning these are not skills
+that you just gained from academia or
+from
+necessarily previous experiences you
+have to live through that
+indeed yes so we are because we need
+combined skills i'm combining a lot of
+the trainings of other teams
+so the team is going through
+many many types of of training with the
+support team
+so actually hands-on creations of
+locations looking at
+the under the hood how how all that
+system works how we're combining those
+the foot traffic and the location um so
+support and then data analytics um
+going and having even a day with each
+team
+to to get to know them and also to to
+understand what types of
+of reporting they're they're currently
+doing
+and a lot of shadowing with me and with
+the team
+the the customer success and the sales
+team there is
+at least 10 calls with the with sales
+and with customer success
+before and before we are even starting
+to talk about
+their own projects so and then you know
+ongoing projects to to create that skill
+set
+i'm also really really important for me
+to have people that can
+play with data and understand it so my
+requirements are
+as a baseline to have some kind of
+coding language and vi tools
+proficiency and so
+when you actually go through and how do
+you actually have
+every person running different you know
+different projects
+different features different
+integrations are you working as a team
+on each of them how does it actually
+work
+yeah because because it's so important
+to create um
+a relationship in this type of role we
+are assigning
+to each um to each solutions engineer
+a few accounts that are strategic that
+he's joining and you know making sure
+it's
+they're on the right track uh those are
+a lot of time
+high high demand ones right so they're
+helping out and making sure
+we're getting to a successful engagement
+yes and it's an ongoing game
+relationship building so yes everyone is
+assigned to different projects
+um but we we we have a lot of
+sales engagements as well and that's
+like quick in and outs
+i see and so do you do you think that
+the
+solutions engineering that you're
+experiencing at placer is this
+you know what is happening you know
+around the ecosystem around
+solutions engineering is this something
+that has been going on for a while
+because i i also i haven't really heard
+about
+solutions engineering pretty much until
+this conversation
+yeah it's it's been you know for me it
+was in my last position
+i was a head of data analytics
+and and i was managing tons of people i
+was
+i had 40 people in three different
+states and
+you know as a manager what i used to to
+do is is get that um requirements from
+um from a new account and and deliver on
+it
+and then when i i started an engagement
+i then
+understood that they they miscalculated
+the effort completely
+right um we might have sold it for for x
+but you know had to invest
+invest 2x in terms of of their money to
+deliver
+right and then we're in a loss
+and and i found myself because i was
+getting getting more and more involved
+in these in
+these spaces of um estimations versus a
+reality i i found myself more and more
+engaged with the
+with the sales process with with that
+onboarding
+piece and and i found that
+there is a big disconnect a big
+disconnect between
+what we are uh what we're selling what
+we're expecting
+and what's happening on the ground and
+i i did find myself very very passionate
+in help
+in helping and to to mitigate that gap
+uh and set right expectation because you
+know
+at the end of the day what do you do in
+that scenario you either
+reduce the content and then the the
+end result is an unhappy client that is
+not getting what he paid for
+or you are putting in much more effort
+and then you're in a losing position
+so i think in many cases that's the
+that's the the
+that's what's happening because
+solutions are usually
+on the sales and business side
+not very connected to the to the r d
+product and and that that side of the um
+that side of the world of the company
+world
+so i think and of course it's not like
+that in
+in every company that's just my personal
+experience
+i think when it works good there is good
+connection
+and and that's a that's a team that
+helps reduce
+friction and helps them really
+really create success with complex
+accounts and complex deals
+right now that makes a lot of sense and
+and in ballet you know i thank you for
+introducing me to this world
+it was it was really you know
+interesting for me to to get into the
+mind of
+of a solutions engineer and and find a
+new you know a new vertical that i that
+i didn't really think too much about
+before this conversation so thank you
+for your time
+i have a few questions about you and
+baal not not about place or not about
+solutions engineering and i want you to
+go back you know take me back to your
+childhood and
+tell me what what fascinated you as a
+kid what is perhaps a subject in school
+or a passion hobby
+that really fascinated you
+yeah i think i am i've always been
+i am a very creative person um
+i was always painting since i remember
+myself
+so that that was that the part that i
+was
+most most
+connected to i love paintings i love
+everything that's plastic art
+uh yeah that's that's my that's my love
+amazing and
+one of your inspirations along the way
+somebody a role model or somebody that
+inspires you
+in some way shape or form
+so the the thing i'm it's not a it is a
+real person
+but there is this book that was really
+that really inspired me as
+a child um it's called butterfly
+i don't know if you are familiar with
+that
+but it's about a french prisoner that
+was accused by
+a with a crime with a murder that he
+didn't commit
+and he was sent to to french's um
+colonies in in africa and
+and the whole story it's a real story
+there is also a movie about it
+um and that the whole story was about
+his
+um he was running away from prisons for
+about
+like three four times and and that
+really hit me as like the human
+nature of survival and your your your
+drive for freedom
+so i think that's a great inspiration
+for me yeah
+butterfly that person yeah very very
+cool
+and what are three words that you would
+use to describe yourself
+so i would say um creative
+of course repeating the subject here
+i would say that i'm friendly
+and smart thank you very very much
+and this was a lot of fun thank you for
+sharing this time with me and
+best of luck with placer it sounds like
+you're doing amazing things thank you
+thank you thank you for the time bye

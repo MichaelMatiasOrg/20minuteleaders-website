@@ -1,0 +1,499 @@
+from a team perspective um it's just the
+fit do you complement each other I I as
+I said before think that you should
+build a company with people that you
+consider better than you in different
+areas and you're very complimentary in
+terms of how you're going to build it's
+going to be a long path with a lot of
+ups and downs and you need to figure out
+that the your co-founders both
+compliment you and personally and
+professionally there going to be a lot
+of issues a lot of good days a lot of
+bad days that you can continue
+persevering enduring during the during
+that time and from an idea
+perspective look the ideas are diamond
+dozen you need to be passionate about
+what you're
+building you need to understand that
+you're solving a real problem and
+ideally you need to encounter that
+problem firsthand to understand what is
+the true impact of both the problem how
+it stands now and the solution that
+you're offering
+[Music]
+Michael nov welcome to 20 minute leaders
+thank you so much for being here with me
+how are you I'm wonderful how are you uh
+this uh cold morning in New York I'm I'm
+doing great from a not so cold afternoon
+here in Tel Aviv
+so the sun is coming down I'm looking at
+the ocean it's the perfect setting to
+talk about startups security by from the
+design stage and and your own Journey so
+Michael H we'll dive straight into it
+you know before we get into uh Prime
+security tell me a little bit about your
+own background how do you get to today
+if you look at the big pillars of your
+journey wow uh quite diverse background
+I'm a double immigrant so born in Russia
+moved to Israel when it was for kind of
+the first Aliah uh for those that are
+familiar with it spent my formative
+years of my career in the Israeli Army
+uh I did the equivalent of West Point
+ATA program so went to went to college
+before going to the Army and then spend
+six years as an officer focus on from on
+fpna out of all
+things knew that I wanted to spend some
+time in the US so transitioned via
+business school went to Duke if you're a
+basketball fan then go Blue Devils a
+fantastic year thus far and then after
+that spend a Deca decade in Enterprise
+software first I'm Consulting uh started
+working at deit spent five years there
+working on specifically with private
+equities on caral stand-ups which is a
+niche of a niche of a niche uh
+supporting technology companies how to
+build a net new business out of a
+business unit super interesting work
+teaches you a lot about operational
+excellence and how to you should think
+about businesses uh in general and
+always knew that I wanted to be an
+entrepreneur uh I had a bunch of
+entrepreneurial Ventures when I was much
+younger in my in my career so kind of
+pre- Army and embarked on my first
+Venture with a few good friends friend
+we started building a B2B SAS platform
+for large events unfortunately we
+started building that in Co just before
+covid and then covid hit so our business
+kind of pretty much died and out of that
+I joined a company called own backup I
+joined very early on um a backup and
+Recovery company out of all things not
+the sexiest area but uh an area that I
+saw a huge potential the company was
+doing very well and seems like a product
+that's very needed uh the hypothesis was
+simple SAS products need backup and
+Recovery as well not only Cloud
+environments just because they hold so
+much of your critical business critical
+information I joined first to build the
+corporate development arm uh which was
+classic
+m&amp;a and my role evoled very
+quickly and at scale after spending four
+years there I played multiple roles uh
+predominantly led the build by partner
+motion how do we deliver more
+capabilities to our customers so I
+bought through company's partner was
+industry industry leaders and build two
+new products um and the second thing I
+was the right-and person to our CTO and
+kind of that's where I met the problem
+and I can elaborate on that a little bit
+later um and a year ago after meeting
+the problem firsthand decided to leave
+with three good friends of mine uh to
+build Prime security so walk me through
+first of all awesome Journey really cool
+from the h upbringing ER and immigration
+to the to the military and fpna
+interesting yeah curious how that what
+lessons are learned there but maybe
+we'll leave that for for another episode
+but uh you know getting into obviously
+Consulting and and um and then in the
+backup and I got to know own backup
+story quite intimately as well which is
+a quite a phenomenal company obviously a
+very phenomenal um outcome uh just
+recently getting acquired 1.9 billion I
+believe cash to Sal 2.1 2.1 so Ju Just a
+$200 million
+difference peanuts of course's friends
+exactly ER and um and so today Prime
+security what stage are you in in your
+life and career when you think about
+embarking on this entrepreneurial
+Journey with two friends the cyber
+security Journey ER which of all things
+which is not so
+trivial you know I I don't think there's
+a right place in your career to Embark
+of that on on a journey of
+Entrepreneurship I think for each person
+it's going to be being ready whenever
+they are ready I think the most critical
+part for me was building a company with
+people I wanted to build a company with
+people that I consider better than me in
+different areas so on my end I waited
+until I had both the right team and we
+had the right idea and from a team
+perspective perspective I I was very
+fortunate to work with two of my
+co-founders at own so we uh came out of
+own together and the fourth one Dimitri
+he was um security operator for years
+and a good friends for good friend for
+years and he's also considering an Ural
+Journey so it just made sense for us to
+partner and to build Prime
+together yeah and so when you think
+through how to you know when the the
+questions of evaluating the idea and the
+team when you're ready
+what signals did you have knowing that
+you're
+ready from a team perspective um it's
+just the fit do you complement each
+other I I as I said before think that
+you should build a company with people
+that you consider better than you in
+different areas and you're very
+complimentary in terms of how you're
+going to build it's going to be a long
+path with a lot of ups and downs and you
+need to figure out that the your
+co-founders both compliment you and
+personally and professionally
+there are going to be a lot of issues a
+lot of good days a lot of bad days that
+you can continue persevering enduring
+during the during that time and from an
+idea
+perspective look the ideas are dime it
+doesn't you need to be passionate about
+what you're
+building you need to understand that
+you're solving a real problem and
+ideally you need to encounter that
+problem firsthand to understand what is
+the true impact of both the problem how
+it stands now and the solution you're
+offering and so how did these three
+elements uh come into play for you with
+prime security yeah team well two of my
+co-founders we worked together for close
+to three years we knew that we're a good
+fit we were good friends very early on
+when they joined on backup VN
+acquisition actually that's how I got to
+know them early on and the third one
+well one of my our my co-founders knew
+him personally from a previous life and
+work together and when they joined own
+he introduced us because well we were
+both ex Soviet Union Israelis living in
+New York around the same age he just
+said you guys should be friends and we
+became friends to the process so when
+this opportunity present itself that for
+all of us to work together it was a
+no-brainer now from a problem
+perspective again we arrived to it from
+two different sides I encountered the
+problem of lacking security at the
+design stage at own
+I part of my role was buying security
+tools and I had everything under the sun
+I bought every security tool to secure
+application because security was
+Paramount for us we stored insecure data
+for some of the biggest customers
+biggest organizations in the world we
+had to be secure but that friction
+between security teams and Engineering
+teams was always there and the reason
+for that was at the design stage at the
+Inception of an idea or a change to a
+product all security work was
+manual and that friction was always
+there causing us to miss a lot of
+product deadlines and not delivering
+product in
+time and as Kevin y says there got to be
+a better way so we started thinking what
+could be the better
+way while Dimitri used to be work used
+to work at PayPal where he led security
+architecture and thre modeling teams
+they're reporting to the SE to the
+ciso he saw the same problem on his end
+as an operator saying well I cannot
+support 9,000 developers there's no way
+for me to manually do that that was two
+years a year and a half ago and C GPT
+emerg into the
+scene how can you take that new
+technology and apply it to a process
+that is based all on instructure data
+all on ideation of how to build what to
+build in terms of a product so we came
+to the same conclusion of there got to
+be a better way here you got to do
+something differently to enable this
+from both the business Direction and the
+security
+direction to us it was a perfect
+fit so walk through the the the product
+or the the the vision for the
+product what it really is prime security
+all
+about prime security is about product
+security we see that product security
+has to start in the Inception of the
+product when you start ideating on what
+you're going to build what you're going
+to change in the
+future we provide Three core
+capabilities to our customers one we
+scan your entire environment and allow
+you to identify when security teams are
+needed when do they actually need to
+intervene in an engineering work and to
+provide engineering with guidance how to
+build securely and we do it with deep
+and immediate integration with platforms
+like jira confluence or G
+drive that prevents security teams from
+chasing after engineers and asking the
+like hey what are you building is it
+going to be built securely or Waiting
+For Engineers to come to them and tell
+them hey I need your guidance here
+that's friction causes a lot of
+incidents and balloons later mediations
+and pentest reports the second thing is
+what L do really well is
+contextualization we aggregate all this
+information cont contextualize every
+task for the security professional
+surfacing both business and security
+risks for the team security teams
+usually call it J tabell where they used
+going from ticket ticket to tickets to
+the design trying to understand what the
+heck is engineer trying to achieve here
+because there one security person
+usually for 100 engineers and it's very
+hard to dig deep into every single
+engineering task review it and provide
+good feedback to the
+engineers so Iden ify the risk we
+contextualize it well now let's drive it
+to
+remediation so provide and and build
+custom
+recommendations based on industry best
+practices or the policies that the
+customer follow for every risk and allow
+the security team to provide that to the
+engineer with a click of a
+button in our case is writing it back to
+the engineering workflow which is in
+most cases is it CH and so from the
+security perspect from the ciso
+perspective if you actually look in and
+we dive a little bit deeper into the
+value proposition for them how much are
+they do they care about the value
+proposition of the the sort of the the
+frictionless engagement where you're the
+you're the broker if you will between
+the engineering work and the security
+and the decision of a security teams to
+uh to jump in and and and lend their
+hand versus ident versus doing the cont
+the
+contextualization and and helping
+identify and do the remediation yourself
+where do you see the bigger value
+proposition
+here business velocity is everything in
+today's world for software enabl
+companies above a certain scale which we
+find around 100
+Engineers Building Products securely and
+quickly is extremely
+important and what we're solving is a
+process that's done everywhere but it's
+done manually and it scales also
+manually so many security
+teams decide to well are structure the
+process and continue throwing resources
+or in many cases deal with the outcomes
+or and playing wacka identifying those
+issues in pentests identify those issues
+in Productions which pushes development
+road maps backwards every time because
+you're asking developers to go back and
+remediate those issues before sending
+them back to before sending the product
+production we add scale to the process
+we allow you to manage the risks at
+scale and extremely efficiently without
+adding
+headcount if you think about the promise
+of new new AI Technologies this is
+essentially what you can achieve with
+newer AI Technologies you can scale
+extremely manual processes that are
+based on structured data something that
+was not never been done before in our
+case so what we see is a lot of very
+very positive feedback and a lot of
+adoption in today
+today wow so effectively if if you're
+looking at this the space down the line
+en Envision for me what the world looks
+like in your eyes let's say uh two to
+three years from now in the context of
+what you're saying so obviously AI is
+changing extremely quickly what what do
+you see possible in two to three
+years okay you're you're also running AI
+company that a lot so a lot of things
+are possible in in your in your world of
+course in the world of of of the llms
+the and the and the different things
+you're able to do with the security by
+Design in my world I see a lot of skill
+in for product security
+teams they need to add head count and
+continue growing your security team
+while development velocity is going to
+grow is going to get slower and slower
+product security Engineers which just
+get superpowers with new AI enabled
+tooling superpower that will allow them
+to identify risk faster and to resolve
+them much faster and much earlier in the
+life cycle of development is the do you
+think that there's going to be a market
+expectation or some sort of table Stakes
+environment where this idea that
+Engineers will will behave or will
+program with security inherently is part
+of the the Engineering Process that'll
+be sort of a a common methodology across
+Enterprises I believe so um we need to
+Define what an engineer will be
+engineering is also changing as as we
+speak AI agents are optimizing
+engineering as well and producing more
+and more features and more and more code
+much much faster than before that's
+going to continue adding pressure and
+security to review all of it because
+nothing is going to be perfect out of
+the box if we look at the the modern AI
+coding tools they are not yet security
+adapt out of the box and even when they
+will be security adapt from a code
+perspective they're not necessarily
+going to be adapt from a design
+perspective because understanding the
+design of the software requires deeply
+understanding the environment that
+you're designing the software
+and that's where Prime will come into
+play we will provide the guidance of how
+to build the software securely not just
+from a code perspective but from a
+design perspective and do it at
+exception
+absolutely what do you think are the
+biggest challenges are going to be um in
+your category for Prime security over
+the coming years Ai and Adoption of AI
+is always challenging a lot of enterpris
+are hesitant to adopt AI at full scale
+there's reliability issues there
+security issues there and trust issues
+in general those issues will be overcome
+with time we need to prove ourselves and
+AI tools need to prove themselves in
+general that they can be reliable and
+efficient and deliver on the pris that
+we have right and how do you find ways
+to mitigate that with the Enterprise
+so you know is it is it just a matter of
+time is it a matter of you know maturity
+for the technology are the things that
+you can you see are effective as an
+entrepreneur that you can do in helping
+bridge that Gap because obviously you
+you know it's our job as entrepreneurs
+to bridge that gap of course uh number
+one build securely from the GetGo um we
+are a very security minded and security
+oriented team that has built security
+products before so for us building
+security into the product is extremely
+important we started from that secondly
+reliability um we all speak about AI
+hallucinations how can you prevent those
+from happening and we take it on upon us
+to prevent it as much as possible but
+doing Ro embedding robust QA and
+automated QA in to our processes so that
+the output that the customer sees might
+be more expensive for us because we have
+to in this case run anms multiple times
+to make sure that the answer is
+consistent so we take the cost but
+provide the best output to our
+customers makes a ton of sense Michael
+what and that will be optimized with
+time too we see the LMS improving
+exponentially so we see this as a
+temporary
+issue yeah and uh I think yeah I think
+that's part part of the exciting areas
+of riding the riding the wave and being
+able to enjoy the fruits of of how the
+industry is adapting to to the to the
+emerging Technologies Michael H if you
+look at the this journey and in general
+and you look also the the up in the next
+phases of the journey what are you most
+excited
+about building a fantastic company with
+fantastic people and delivering True
+Value to
+customers it's also so it's it's always
+incredible to hear when you are actually
+being able to drive change and positive
+change in Impact with customers that's
+what gets me up in the morning that's
+what gets me excited and doing that with
+good friends and a phenomenal team that
+we built at Prime is is a joy that's
+when work becomes fun not just
+work love Michael best of luck with
+prime security sounds like a very very
+cool Journey sounds like a cool area to
+be in today
+and uh one that definitely helps
+integrate the way that AI is changing
+the landscape of of of security and
+bringing security more inherently is
+part of the day-to-day of the
+organization so thank you very much
+absolutely thank you for having me
+Michael thank you

@@ -1,0 +1,622 @@
+the technology is a tool the technology
+has to it's an answer it's not a
+question so defining the questions
+defining what it is you're looking for
+that's what drives me
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders today we're
+going to be talking about connected
+devices in the world of cyber security
+it's important meet iran find the ceo
+and co-founder of nanolog security he
+was a consultant to imagine that was
+sold to snapchat and was the co-founder
+and ceo of ore that was acquired in
+2015. he was a consultant just imagine
+that was sold to snapchat and was the
+co-founder and ceo of veri that were
+acquired in 2015 he was a senior
+consultant to tel aviv university
+nanoloc science center and singular
+university in beijing china's mit
+iran was also the co-founder of on eden
+that was sold to the formula group and
+created five comedy shows among them the
+highly successful show the leash
+eran fine welcome to 20 minute leaders
+how are you i'm very well and i'm
+already looking forward for only 20
+minutes
+feels so short we have so much to speak
+about
+we have way too much to speak about
+you're absolutely worried about that but
+but let's start with with two things
+first of all where are you right now it
+looks beautiful
+um it's our offices we are about 20
+minutes north of tel aviv
+um we decided that we wanted some um
+an experience which is slightly
+different from the big towers and so on
+so forth
+um that impacts immediately on the
+nature of the people team but coming to
+to work in the company and the dna of
+the company um there are birds around us
+it's nice although i have to say that uh
+we just concluded the financing round
+and since we're growing we have to go
+into a more conventional location soon
+well that's amazing and yeah actually i
+had to ask you to put on headphones
+because there are so many birds around
+you which are amazing for the daily work
+for podcast recording unfortunately it's
+a little bit harder
+but but this before we get into nanolock
+and what you're doing with security for
+iot connected devices take me through
+the journey of of landing in japan after
+16 hours in the wrong city and the wrong
+day i have to do that story i have to
+okay um
+so it's a 16 hours flight and two hours
+by by bus that's the way it works
+um
+and you know i've been going to the same
+city over and over and over we had a
+customer there so automatically i went
+to that exact same exact same city not
+knowing that i'm supposed to be in a
+different city with a different customer
+in a different hotel
+i was very very embarrassed i felt
+extremely stupid the people at the hotel
+were very kind to me they were i think
+they felt sorry for me for being who i
+am
+but um
+it was
+it was okay being in japan is so lovely
+so even if it's the wrong city if it's
+the wrong company i've managed but it
+felt very stupid
+but it was also the wrong day let's not
+forget about that because it's
+awesome
+they're so polite and they will never
+embarrass you so they were doing all the
+right moves but just on the wrong day
+um i and here is a story that still
+resonates about eight years later so
+it's you know it was it was an issue
+i love it
+so iran walk me a little bit through
+your experience in the cyber security
+space you you've done quite a lot of
+work there
+and and we'll get to that nanolock and
+talk about iot connected devices but
+walk me through some of the big
+milestones in your career and and what
+led you now to to deciding to open your
+company analog
+so
+it's a journey and and it was not cyber
+beforehand it was other companies so
+before nanoloc i had the pleasure and
+privilege of being a consultant
+to the nanoscience technology center of
+the television university and in other
+organizations and so on so forth and i
+came across quite a lot of interesting
+technologies one of them
+triggered my interest and i thought it
+would be a great solution to the market
+obviously i was wrong by the way
+so we came up with this idea we thought
+this is what we're going to do um we put
+it in front of decision makers in the
+u.s intelligence community they smiled
+politely and gently said okay
+like this but something we can use
+now and not 20 years from now
+but it was
+it was a good feedback that led us to to
+get analog
+price and i like i had the pleasure of
+starting my own two companies and
+selling one of them
+and so the journey didn't start with
+cyber but at a certain point in time we
+realized that we are
+probably solving a big problem in a
+market that is
+materializing as we speak so that was
+the
+point here's a great technology and the
+right market is the cyber world that in
+a second you'll have
+billions of devices lacking of resources
+computational power energy and so on so
+forth and nobody can serve them so that
+was the point that we took it into the
+cyber world
+right so we're going to be talking about
+obviously connected devices iot and the
+world emerging around us whether whether
+we are aware of it or like it or not is
+becoming ultra connected i remember
+during one of my army courses they
+brought us somebody from i think the
+technion or ben gurion to talk about how
+you can now do cyber on fat on ceiling
+fans which was completely mind-blowing
+and mind-boggling
+before we dive into nanolog specifically
+and what you do paint me a picture of
+the of the of you know where we are in
+the world in terms of connected devices
+where we were and where we're headed
+sure
+um we're becoming more and more
+connected whether it's the internet
+proprietary networks or people coming
+with usb that's also connectivity to
+have more and more ways for devices to
+communicate with people or communicate
+among themselves
+so you can start with 5g and and so on
+so forth and we have more and more
+connected devices because you have
+machines that need devices to support
+them and provide them with data sensing
+and so on support so the world is
+becoming more and more connected if you
+have data in you can have data out if
+you have data in to be corrupted data if
+you have data out that could be
+corrupted data so
+everything from ai and machine learning
+systems to
+the water industry to the electricity
+industry to wherever connectivity is the
+basics and the fundamental part of or
+our fundamental part of their existence
+and the way they operate
+more devices more connectivity that's
+one
+uh one path the second one um
+lack of trust
+so you have more connected devices they
+are not in your possession they are not
+necessarily next to you
+sorry if you have a meter it's in the
+street it's in the field it's not in
+your protected i.t environment and then
+somebody can touch it physically then
+one of your employees which is not
+necessarily one of your
+service providers
+can harm it so it's numbers connectivity
+and vast distribution beyond the horizon
+beyond the hill beyond your protected
+i.t environment these are the trends
+right and as and with that trend talk to
+me a little bit about the growing
+cyber security trend that is sort of
+parallel and accompanying this trend
+so
+uh well it's always about english
+acronyms so it's the movement from it to
+ot
+from information technology into
+operational technology so
+um you have phenomenal companies
+protecting the intellect the information
+technology the assets the the servers
+the data
+but when you have billions of devices in
+the field
+if those devices doesn't function you
+have an ot issue your operational
+aspects um are shying or are changing
+if you're a business relying on its
+operations like a energy company like an
+electricity company like an industrial
+company if your ortiz harmed
+you're doomed
+so the trend in cyber as we see that
+from our
+narrow world view
+is number one there's more and more risk
+at the ot side
+ot is a
+interesting combination of legacy
+systems
+a new design system so you have a
+it's a chaos it's a bevel uh tower of
+devices
+that you don't have anything in common
+if in i.t you have any commonality you
+say it's a window it's running on this
+machine fine ot is just one big chaos
+right and so
+with that growing concern
+is this something that you know people
+are really being concerned with right
+now or is this a concern that is going
+to be more relevant
+soon from the perspective now of an
+entrepreneur who's speaking to a lot of
+the people that are managing these
+connected devices sure well it starts
+from the definition of people is my mom
+concerned no and she's people by the way
+my mom is not concerned and people with
+with fans in their in their houses are
+not concerned
+are
+people working in the electricity
+company water industry
+uh colonial pipeline in the us concern
+yes they are um
+are the people with
+holding or working with a bunch of field
+engineers that they didn't hire and
+recruit that taking care of their device
+field devices yes they're very much
+concerned is that a mainstream among you
+know
+nine people not billion people in the
+world no but for the specific industry
+of connected industrial and energy
+devices it's a big thing
+right maybe you know before we get into
+the technology
+for those that don't are not yet
+concerned and and i am concerned and i
+think that anybody listening to this
+episode should be concerned
+what are some examples of potential use
+cases for how cyber can interact with
+ot devices around the world sure
+well let's start with the fact that a an
+engineer with access to smart meters can
+do something which is not
+is a fraudulent or a theft attack you
+can manipulate the meter
+to do something different so the bill
+goes down
+the bill goes down if the bill goes down
+the consumer is happy the electricity
+company or the water company are not
+happy so that's a cyber and fraud uh
+that's the fraudulent and theft attacks
+on the other side if you're looking into
+uh
+um industrial machines like what
+happened in honda or tsmc
+one can the industrial machines
+or the production floor and ask for a
+fee so we have all the way from
+uh something from the outside to front
+and soft and lastly at the state level
+uh or nation level attacks i can
+the
+in i can the infrastructure i
+can surge the
+energy consumption i can um the
+water
+consumption and water distribution
+so it varies from a frozen theft to a
+ransomware attack by cyber criminals to
+state level events that can the
+country itself
+so so the bottom line is that we should
+be concerned
+that's i think that the baseline that
+we're setting here
+aware concern is is being aware and you
+know uh coming from my very jewish
+family i come from we are constantly
+concerned so we're working with this to
+be to be only aware
+and not
+um but yes the the there's a motivation
+there's an ability and it's it's a war a
+constant battle between the two
+interests
+so
+nanolock you're coming in you understand
+this problem you understand the emerging
+world it's a market that obviously as
+time passes by is exponentially more and
+more relevant and i don't believe we've
+seen mainstream attacks yet that are
+prevalent to the day-to-day of people
+which makes it mainstream but but that's
+inevitable right and i believe that if
+you go to your website in the you know
+one of the first sentences that you see
+there is that you know things are
+vulnerable that's just the way that it
+is there's no way around that
+how does nanolock fit into this
+narrative that we're describing here
+there were quite a lot of attacks that
+did
+influence day-to-day lives of many
+people
+um were fortunate not to be a fact but
+many by by many of them here in israel
+but things happen
+number two the assumption we came up
+with is
+there so many vulnerabilities we cannot
+solve vulnerabilities because the
+vulnerability of a device can start by
+michael choosing the password one two
+three four michael which i hope you
+didn't
+um
+but
+oh yeah i'm sorry for revealing that but
+you have a variety of devices a variety
+of
+um
+of um
+do not stop cannot be stopped what you
+can stop is conversion of
+vulnerabilities into an attack
+or into a cyber incident
+that's understanding number one
+understanding number two is
+it's a very complicated world and
+probably the adversaries are smarter i
+they they're ahead of us
+so we we try to find what is common and
+what is simple
+and what is
+the
+most the last quality last or the first
+line of defense
+every attack that has to be synchronized
+is looking for a beachhead inside the
+device every attack
+you want to be persistent inside the
+device either way otherwise a restart
+will take the attack away so you want to
+be there right in a persistent manner
+you can call it apt advanced persistent
+threats
+understanding number one number two
+persistency in a device achieved by
+putting something inside the
+non-volatile memory the flash
+so we develop a technology that is
+looking on the communication between the
+processor the cpu and the non-volatile
+memory and we say if the command coming
+from the processor will change the
+behavior of the device
+in a way
+that is persistent we will not let it
+true unless it's being signed properly
+by a server that we also provide
+meaning whether you're an insider
+outsider or supply chain whether you're
+the owner of the device whether you're a
+field engineer with all the credentials
+unless the software is properly signed
+by the server
+your commands will not go through
+not only that we will stop them
+and provide forensic and alerting
+information at the server level to the
+cso and the owner of the device if
+everything is fine you can go ahead and
+do this
+we also developed a
+technology that fits electricity
+operated devices and battery operating
+devices
+as well as the variety of
+operating systems you can find in
+devices because you have all the way
+from windows and linux in the higher end
+but you find something called rtos
+real-time operating system and even
+things which are even simpler than this
+in the
+more than three billion smart meters out
+there in the market
+so that's what we do
+so who does nanolog sell to so you're
+you're developing this this technology
+you're you're understanding about the
+devices but
+how does this tangibly then get into the
+market and when how is analog then being
+interpreted into the real world
+so the guys who are benefiting from what
+we do
+sorry are the end customers the smart
+the um
+utilities
+the energy companies
+the industrial companies they are
+benefiting from what we do and we first
+sell to them
+you were talking about the stakeholders
+uh being the the infrastructure
+companies the
+you know the vendors that are then
+distributing those those devices and and
+are implementing them internally and we
+were we left off over there sure so the
+end customers are
+um the end users the electricity company
+the energy company the water utilities
+industrial companies and so forth and
+then since we need to be deployed inside
+the devices the others pack us in
+saying to their vendors please use an
+unlock because they serve a big problem
+uh they solve a big problem for us
+or in some
+rare
+cases we work with the end
+manufacturer and he brings us to the end
+customer but most of the time we're
+working with the end customer saying
+that's what i want
+dear vendor please find a solution to
+work with analogs
+that makes a lot of sense and obviously
+and you know the market is just
+beginning and we're just beginning to
+understand how the how this new supply
+chain is working and and you know cyber
+insurance companies are just starting to
+take a strong to to get a footprint into
+the market and obviously they're they
+have a big stake in what's happening
+here the end consumers which is me i'm
+at the end being impacted by the
+electricity company having issues so
+that you know at the end this is
+impacting a lot of people and and one of
+the things that i'm excited about is
+understanding uh where what is the world
+going to look like and how is this new
+economy and this new supply chain going
+to play out in the next few years
+so
+you
+in the day-to-day now dealing with cyber
+previously with nanoscience and
+different companies
+what are you really passionate about
+what really gets you going is it the
+getting things done is it the technology
+what is it
+um
+riddle solving so once you have
+so i like uh blank pages
+and i like riddles
+um
+the more complicated drill is it's more
+interesting the more
+parameters which doesn't fit it's more
+interesting so i i like that
+um
+and i like the fact that it's in it's a
+blank page and then you write one word
+and then you listen to the feedback
+so the creation is what makes me take
+that's what makes me excited
+that's my passion i had a different
+career in the past that was dealing
+exactly with that
+um
+the technology is a tool the technology
+has to it's an answer it's not a
+question so defining the questions
+defining what it is you're looking for
+that's what drives me
+i love it and i really want to thank you
+you you're right to say that 20 minutes
+is way too short and but but i'm happy
+that i got to to know you better and
+know analog a little bit better i want
+to take you back though
+with a few questions about yourself and
+i want to take you back to your
+childhood and understand better what
+really fascinated you as a kid before
+high tech before
+before academy what what what really got
+you going as a kid uh can i provide a
+nerd alert before i do that because all
+of my 100
+the answer to this question will nerd me
+completely
+i was
+passionate about
+history and um and
+well history
+i don't have a better hand on that
+well uh being a in the sixth grade
+reading all the books that you could
+find in the library about um yom kippur
+war and having a discussion about that
+and
+reading everything you can know about
+pre uh the three days of israel
+it's nice now
+uh try to have a conversation when
+you're 11 with your friends in the class
+about about history
+i see where this is going
+what inspires you today in your daily
+life
+um
+what who inspires
+me you choose
+um
+i'm i'm i'm well first of all i'm
+inspired by nature so that's
+whenever i can
+i'm an avid scuba diver i do that as as
+a hobby all around the world with
+the specific passion for sharks and
+whales
+um
+and i'm inspired by people who again are
+asking questions and
+not letting the physical boundaries stop
+them
+that's what excites me and and
+since i spent most of my time watching
+um episodes on tv on either sharks or
+cosmos
+season two
+that's what gets me excited terribly i
+love it and what are three words that
+you would use to describe yourself
+overweighted
+um no these are two words and i'll take
+it back now i'm just but i'll deal with
+that i promise michael i'm working on
+this too many flights um probably
+passionate probably um
+i would say passionate i would say uh
+curious that's if i needed to find one
+word that's curious so passionate
+curious and and um
+and and and knowledge driven
+so it's four but this is the way i would
+like to
+describe myself
+i'll take it there's a hyphen in the end
+iran
+thank you very very much this was
+wonderful and best of luck with nanolog
+security thank you for making our
+devices safer and stay safe and stay
+healthy so darabite was a true pleasure
+and thank you for having me
+you

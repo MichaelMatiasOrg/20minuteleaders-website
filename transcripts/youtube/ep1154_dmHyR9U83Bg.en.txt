@@ -1,0 +1,474 @@
+Some people look at the employees as the
+last line of defense. I I I don't
+hold this opinion. I don't think that we
+should
+rely on employees to be the the ones
+that are holding or preventing the the
+organization from falling into the those
+traps. You should keep the the basic
+cyber security, information security up
+to date, what we call cyber hygiene.
+make sure we have a if someone if
+someone fell for the for the scam and
+and that we you have a a malware coming
+into your system, you need to have the
+the right tools to detect it and and to
+eradicate it. So it would be it's nice
+if some if few employees really remember
+what they what they heard in the
+training in the awareness training and
+and report things but uh I don't think
+that you should rely on them because not
+not because they not because they are
+not reliable but because it's not their
+job they have they have their their
+daily job they are overwhelmed with that
+and and some one in one of the one of
+the awareness training that we did not
+the training but the drills the
+exercises that we did. One of the
+managers said I rely on the
+on the security professionals to prevent
+it. So I I go I come to work in the
+morning assuming that you do your job
+and I'll do my job and if I let clicked
+on something and something bad happens
+it's your your fault not my fault.
+[Music]
+Shuki Pelleg, welcome to the human zero
+day. I'm so excited for our
+conversation. This is going to be so
+much fun. How are you?
+&gt;&gt; Very well, thank you. It's Thursday. It
+can It couldn't be better than that.
+&gt;&gt; Couldn't be better than that. TJ Tuki,
+so happy to have you here. um because
+the the work that you've done over over
+quite some time really falls in line
+with with the world that we're going to
+talk about. H you've been in the
+security space for a very long time.
+I'll I'm going to let you go through the
+entire or or a majority part of the
+history because I would love to
+understand your journey better. but also
+you spent a very significant of time
+being CISOs of financial institutions
+like the International Bank of Israel
+and uh that's a that's a pretty uh um
+pretty large feat and today you're
+you're still operating in in similar
+contexts but looking at the looking at
+the larger space and advising and
+consulting and um and I would love to
+hear from you Shuki a little bit about
+how you got into security why did you
+stay in security and how has your
+journey your own journey evolved here.
+&gt;&gt; Okay, let's let's begin at the
+beginning. I started my my computer
+road map in the in the military
+us mainly with mainframes which is the
+last the previous
+decade or more than a decade last
+previous century even into security. I
+the actually the first time I had to do
+something with security was still at
+that time with the first access control
+systems to mainframe computers and that
+was around 1982 but that was an episode
+no one called it security at that time
+they they called it something something
+else
+after a long career with IBM in in
+Israel and and in the United States I I
+I moved to a company to a startup
+company which is which was doing
+security systems, security technology
+and joined few people that I I was in
+the army with them and that was actually
+the first time that I really was
+involved with security software and
+security
+procedures and after that in in with
+with other companies I did mainly
+security that is related to
+infrastructure and to what's called GLC
+governance
+and the and the in compliance.
+Actually the recent recent jobs that I I
+held was the CISO of the first
+international bank of Israel. It was not
+the international but the first
+international bank of Israel. It's for
+it was for about 10 years.
+&gt;&gt; Clarification. Thank you.
+&gt;&gt; It was for about 10 years. Before that I
+was the security manager for e
+government which is was part of the
+ministry of finance at that time and
+before that also another security
+position with
+let's get let's call it a government
+agency
+and now after being responsible to to
+maintain the security of an organization
+I I stepped stepped away a little bit
+and I'm I'm consulting to security
+regulation
+agency which is much more broader but
+less less stressful.
+I I love it and I love the uh much
+rather less stressful. Tell me a little
+bit about why security is exciting for
+you. you know what what does it mean for
+you to be for 10 years the chief
+information security officer for the
+first international bank of Israel?
+&gt;&gt; It's a very dynamic job. It's something
+that changes every day. It forces you to
+learn and and get up to speed of new new
+technologies all the time. It's not like
+being a program coal programmer on
+mainframe or a C++ programmer or a a
+Windows CIS admin.
+that can learn something and and stay
+with it for a year or two years, 3 years
+maybe more. With this in the security
+space, it's it's something that is
+changing all the time. And when security
+switched to cyber, it even got faster.
+So
+when I look at again there there was not
+much difference between information
+security and cyber security the
+beginning just to to make a marketing
+differentiation and try to bring in more
+new people young people to to the to the
+industry but it it really succeeded and
+now we are in cyber security.
+The basics are the same but the pace is
+much faster. the the environment is
+changing all the time. We we are dealing
+with things that we didn't even think
+about doing them a decade or two decades
+ago where we were managing information
+security like intelligence reports like
+looking at geopolitical
+actions and activities that happening
+worldwide and how they impact our
+security or our security posture. And I
+think that the dynamics is the is the
+most important thing for me.
+I I give lectures or presentations about
+security every couple of weeks or or
+months depends on on the audience that
+is requesting that. And every time I do
+the presentation, I have new new
+examples, new scenarios. It's it's it
+never I never have to to go back to the
+examples and information I had with me.
+a month ago or a year ago I was doing in
+the past while I was working for IBM I
+was doing workshops around the world for
+IBM products and I had those
+plastic slides foils that I could carry
+with me and and and do and make the
+presentation and I could use them for
+two years the same slides. This is not
+this is not the case with security. you
+have to to change all the time with the
+with the activities and with the changes
+of the industry. So it helps you stay
+young.
+&gt;&gt; It I love that. And so let's stay young
+with with human security, social
+engineering and fishing. Um you're
+saying you're mentioning that security
+is is constantly evolving. It's
+constantly changing. You have to remain
+up to speed. How has the human element
+in security evolved or changed over
+time? And how has the experience of the
+human element changed?
+&gt;&gt; It really depends of of what which part
+of the human element you're talking
+about. If you look at the human element
+as layers in layers you have the experts
+you have the people and I like to call
+it to be
+involved or to be
+say that influenced involved and and and
+aware the the public should be aware of
+security. the the the regular computer
+users should be involved and the and the
+technical specialist needs to be part of
+the they they have to be to to to
+interact and be really part of the of
+the security. One one word one sentence
+that security manager or CISOs like to
+say all the time is security is
+everyone's responsibility. So this is
+nice. This is one way to try to shift
+the blame to the users and to the
+customers when something happens because
+it was it's everyone's responsibility
+and if something wrong happened it's not
+only our fault it's everyone's fault and
+no one is taking the responsibility and
+in politics you see it a lot right now
+but uh but it's actually it's it's a
+real statement because
+the security breach can can occur from
+the
+mistake take or ignorance of almost
+everyone from a specialist that is doing
+a misconfiguration or a user that is
+clicking on the wrong link or someone is
+doing an interview and downloading a
+software that is not not even checked
+like like me for right now.
+How and and have you found you know
+during your time that the attacks have
+evolved or they've changed in some ways
+because
+there there's the common thread of we're
+click we're clicking on links and SMSs
+and emails and stealing credentials but
+has the space changed at all? Yes, it
+became more sophisticated or more
+reliable or I not say reliable but
+you can you can you can trust more the
+interaction with with the fraudster
+because they use better language and and
+they don't send you
+messages that are that are easily
+discarded.
+And this is the the human this is the
+human aspect. But if you're talking
+about attackers that are attacking
+systems, this is something completely
+different. And I'm not going to address
+it. They they really got much more
+sophisticated.
+It's and they're exploiting the
+vulnerabilities much faster and and
+there's a race between the system
+administrators or the system managers
+and and the and the vulnerabilities. We
+used to have vulnerabilities are coming
+let's say every few weeks and then we
+fix them we patch them and we we we do
+the the cycle again and if if you know
+the if you read the the the book the
+story the little prince the little
+prince goes one one day goes to the
+the planet of the of the lamp lighter
+and the lamp lighter complains that he
+used to have a very convenient job. He
+used to turn on the lamps in the
+evening, go to sleep, turn them off in
+the morning and and on on and on again.
+It took 24 hours and now now the planet
+is turning once every 1 minute and is
+all all the time is doing all off to for
+for the for for the lamps. So it's the
+same with the with vulnerabilities and
+patching. You don't have time you you
+get to fix one one vulnerability and the
+day after you may get two more. So they
+are really having a very hard time
+keeping the system safe and keep keeping
+the system secured. And if someone is
+negligent in in doing the patches and
+and the attackers knows what
+vulnerabilities are still there
+especially old ones that were never
+addressed during the time
+they can fool employees or customers
+into downloading software or clicking in
+the wrong place and exploiting the
+vulnerabilities. So it it's getting much
+much harder and of course with the
+advancement in in the tools for doing a
+imitation the what we call the the deep
+fake or not even the deep fake the AI or
+chat GPT really helped in in taking all
+the me the messages the SMS messages and
+and the and the mails and the creating
+them in a very
+professional way. So you cannot identify
+anymore and a mal malicious message by
+bad language or by bad grammar.
+Everything looks very very nice and very
+clean. And and the next stage of course
+is the deep fake in with with
+video. You you you can even get
+deep fake messages in conferences. You
+can get fooled by them as well. First of
+all, I don't know if you are real right
+now. I'm not sure.
+&gt;&gt; We'll we'll find out. I'll tell you
+later.
+Now, how have organizations
+dealt with this this rising threat over
+time? So, what I I imagine that you
+don't don't just sit back and say,
+"Okay, I'm going to let my employees
+fall victim to these on an ongoing
+basis." What do you do to help make sure
+that the employees either don't get
+exposed to the threats or if they do get
+exposed, they know not to click on them?
+&gt;&gt; Well, I I don't Some people look at the
+employees as the last line of defense. I
+I I don't
+hold this opinion. I don't think that we
+should
+rely on employees to be the the ones
+that are holding or preventing the the
+organization from falling into the those
+traps. You should keep the the basic
+cyber security, information security up
+to date, what we call cyber hygiene.
+make sure we have a if someone if
+someone fell for the for the scam and
+and we you have a a malware coming into
+your system, you need to have the the
+right tools to detect it and and to
+eradicate it. So it would be it's nice
+if some if few employees really remember
+what they what they heard in the
+training in the awareness training and
+and report things but I don't think that
+you should rely on them because not not
+because they not because they are not
+reliable but because it's not their job
+they have they have their daily job they
+are overwhelmed with that and and some
+one in one of the one of the awareness
+training that we did not the training
+but the drills the exercises that we
+did. One of the managers said I rely on
+the
+on the security professionals to prevent
+it. So I I go I come to work in the
+morning assuming that you do your job
+and I'll do my job and if I let clicked
+on something and something bad happens
+it's your your fault not my fault. And
+there is something in what we what they
+say because be they let something into
+the organization and we didn't detect
+it. So it's it's a shared
+responsibility. We we fed a little bit
+and they fed a little bit.
+&gt;&gt; Absolutely. But but how does that
+account to the situation in which they
+fall victim to the attack in the
+personal world in their external world
+right? I mean I have my own personal
+device. We're seeing these attacks go in
+on WhatsApp now and and on Facebook and
+and so they're beyond the perimeters of
+the organization. So how how do you
+think we should mitigate that?
+&gt;&gt; Well, I'll go I go once again to a very
+old TV series, The X-Files, which the
+statement was trust no one and and trust
+no one. That's be suspicious all the
+time. Keep in mind that that it's every
+place some there are there are fraudster
+or scammers that are trying to to get
+the advantage of you and if something
+looks too good to be true may it pro it
+probably is and and and
+even if you are very careful and and
+doing taking all precautions that you
+you should take sometimes it will happen
+and if you if you if you identify if you
+if you suspect that you fell for a scam.
+Don't be ashamed. Don't be Don't Don't
+Don't feel like a victim that needs to
+conceal that.
+Report it. Report it to wherever is the
+the right place. if it's the if it's a
+Facebook or or the or Gmail that you
+that you suspected something did not
+wrong happened, but also you need to
+make sure to take care of yourself and
+and use the the additional security
+features that all the platforms are
+providing multiffactor authentication
+and and the and the
+looking checking all the time if if you
+are if you are the only user in your
+environment and they provide all those
+features.
+But it takes a few minutes or a little
+bit time to use them and people should
+do it on their personal in their
+personal systems as well.
+So Shuki let's look a little bit into
+the future and um putting your
+consulting and advisory hat on. Things
+are changing rapidly. It's becoming
+multi- channelannel, more sophisticated.
+How where do you see the biggest
+innovation coming or or where do you
+think the biggest innovation should come
+in the context of fighting off these
+threats in the context of enterprises
+banking systems etc.
+Now what enterprises are supposed or
+should do is to incorporate risk risk
+scoring systems into all of their
+processes and activities. So they can
+identify a a risk while it's happening
+and see that if if there is an anomaly
+that is that is occurs in in their
+system. if it's if these are
+transactions or if these are
+simple
+interactions with with social media and
+alert the user if if the if the risk
+score is very high they should maybe
+stop it them by themsel and sometime
+sometime you get a false positive and
+and and the person gets upset because a
+session was cut or or a transaction
+didn't go through and and they need to
+provide additional information but But
+that this is the responsibility of the
+organization to provide more information
+and and to wave the flags when when they
+when they think that something is wrong
+and and it definitely depends on the on
+the on the risk appetite of the
+organization. Some will be more
+accept more risk some some will not
+this is one thing that the other thing
+is to to deploy
+try and find and deploy more systems
+that do automation and and definitely
+see how how can AI and the machine
+learning help in defense because I
+believe and it's not only my belief it's
+a it's a there was a survey with many
+CIOS and CISOs in in Europe done by the
+the World Economic Forum and most of
+them believe that the AI will first help
+the attackers before it will help the
+the defenders and we definitely need to
+take this in mind keep this in keeping
+this in our mind and and and suspect not
+suspect everyone but suspect
+look raise our suspicious bar. Let's put
+it like that.
+Absolutely. Shuki, I really want to
+thank you for taking the time to join
+me. This was a pleasure and a privilege.
+Thank you for sharing the insights,
+wishing you best of luck and continue
+making a positive impact. And thank you
+very much. Thank you very much.

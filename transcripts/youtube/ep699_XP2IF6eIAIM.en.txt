@@ -1,0 +1,586 @@
+aspective has developed an
+nnp technology that combines both
+linguistic and statistical approaches
+for deep language understanding
+analyzing product related information
+such as reviews customer feedback and
+product descriptions
+to generate recommendations for any user
+need for any type of product or category
+for example aspectiva
+provides recommendations on best
+products for picnics best laptops for
+travels
+best trawlers for beach walking and any
+kind of product recommendations that you
+can think about
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+this is a classic story of israel's
+startup nation meet ezra daya the
+founder and ceo of aspectiva
+ezra is the co-founder and ceo of
+aspectiva a startup company acquired by
+walmart in 2019 to establish its first r
+d and innovation center in israel
+ezra is an entrepreneur at heart
+constantly striving to connect the dots
+between technology and business with a
+spatial focus on ai for e-commerce and
+consumer applications
+prior to founding aspectiva ezra managed
+the text analytics group at nice systems
+he holds an msc in computer science and
+is the owner of publications and patents
+in the field of natural language
+processing
+ezra welcome to 20 minute leaders thank
+you so much for joining me from the
+aspective offices right
+right aspect eva walmart offices in
+israel aspectiva walmart offices uh
+such a unique story it's such a proud
+story in the israel ecosystem but but
+again a fascinating one for me you know
+as a you know as an nlp enthusiast as an
+academic enthusiast you know i just love
+when people take deep technology and
+really interesting problems in their
+life combine the two to find the synergy
+opening up the first walmart offices in
+israel and and and you know doing some
+really really cool things but before we
+talk about that i have to ask how does
+it how do you and your wife speak five
+languages to your kids uh how does that
+work
+yeah so
+my wife actually immigrated from denmark
+to israel
+so she speaks uh
+obviously hebrew english danish and
+french her mother is
+french wow
+and myself i speak uh
+english hebrew and arabic as a native
+language
+so both we have five languages that we
+speak at home with the kids yeah yeah
+it's fun how do you know which one to
+which one to talk at which point in time
+uh
+it depends it depends when we don't want
+the kids to
+to understand us so english
+doesn't work anymore so
+french
+with my lousy french
+uh
+but we get along
+and when i
+mad at the kids so arabic probably is
+the
+proper language
+i love it incredible ezra take me back i
+want you to take me back to 2013.
+you're sitting with your co-founder ayal
+you have a problem paint me the picture
+yeah
+so uh
+absolutely
+so um
+i started
+first of all maybe just to give you some
+you know very uh
+initial background about how did i you
+know
+find myself in the nlp area so
+i started my career as an nlp researcher
+and worked in several companies
+and
+in my last role before family aspectiva
+i led the nlp group in my systems for
+several years and the young was
+a team member in my team
+so
+since ever i was fascinated about the
+wealth of information over the web
+about anything and everything
+i always looked for
+more and more information about things i
+was interested in and of course
+before making any purchase
+so the thing is that i had to work very
+hard to find answers to simple questions
+like
+which out of the book or which coffee
+machine is the best for
+my taste
+so while i
+used my nlp skills
+and my team skills to solve business
+problems for companies i worked for
+i thought hey
+it's about time to use my knowledge and
+experience to
+develop advanced nlp capabilities
+for end users this time
+helping them
+make buying decisions by analyzing what
+people think about any product or
+service
+so i decided to live nice and i offered
+dail to join me in this journey
+and we both started the new exciting
+journey that's how aspectiva started
+what was if you had to distill the
+thesis that you had when you started
+aspectiva with your background in yahoo
+and nice and niels background and the
+problem that you're facing
+what was the thesis that the two of you
+agreed on which triggered
+your ability to to go and start on this
+journey together
+so on one hand the solution had to be
+automatic by all means it means it
+should work automatically for any type
+of product or category without any human
+intervention
+otherwise it's not scalable it just
+won't work an ecommerce website that
+sells everything like walmart right
+uh on the other hand it should be
+super super precise meaning that if your
+uh if the target audience is a simple
+user you can make mistakes
+no the target is not analysts in a
+company that can
+you know
+somehow deal with
+machine
+outputs but when it comes to the a
+simple user online you can't screw up it
+shouldn't work so on one hand it should
+be
+fully automatic and on the other hand it
+should be precise
+so we thought that we can make it and
+that's how we you know we got the
+courage to go to this journey i love it
+i so you're starting out
+with you know with the al walk me
+through some of the you know the
+exciting moments of this journey and
+later on i i have to understand what
+it's like getting acquired by walmart
+and and opening up the the walmart
+office in israel
+yeah so uh
+you know
+we started
+first of all we had to raise funding
+right but we had to work first on the
+solution uh
+but i was lucky enough to find very
+quickly
+uh the first 1 million dollars as a
+seeds fund from angel investors in the
+retail areas and
+we started to you know hire people that
+we worked with in the past in the nlp
+area
+and started to work on the solution
+uh it was an amazing journey so uh you
+know when talking about uh
+excitement and challenges uh so first of
+all fundraising and dealing with
+investors
+especially in the early stages is not a
+big fun
+right so it's uh
+quite challenging especially when you're
+used to dealing with nlp models
+throughout the day and now you have to
+to work with investors right it's a
+little bit of a different experience
+yeah yeah uh definitely
+and i would say that the you know one of
+the most exciting moments was going live
+the first integration in a global
+ecommerce website
+and see how the solution we created
+really works
+that was amazing so you know you you
+gave me the picture what was the
+situation like where you huddled
+together in a room separated your own
+houses what was going on
+yeah so
+we know we worked very hard at the
+integration
+and uh you know
+integrations doesn't work for the very
+first shot and it's you know
+from the beginning it's very frustrating
+you think oh gosh the solution doesn't
+really work that's it we're finished but
+then you realize that the problem is not
+with the algorithms it's not with the
+nlp
+it is with simple user experience issues
+you couldn't think about
+yeah and then when you do the you know
+the needed adaptations and fixes we
+went live in the first integration i
+think it was in shop.com
+global
+on the us
+website ecommerce website
+and
+you know it was amazing
+receiving the first
+the feedback from the
+uh chief revenue officer
+showing a clear impact on on the online
+shoppers and clear increase in sales
+and you start to see the traffic using
+your
+solution interaction with the aspect of
+this widget in the website
+and
+you figure out hey it really works you
+are making impact on the way people
+make shop online
+right and we help them to buy with
+confidence now with this with our
+solutions aspecting that solution
+incredible
+the the moment you understand
+that the part of the
+dissonance was the or the gap was a
+consumer experience
+how did that affect
+or change the way that you're
+approaching the future durations of your
+product especially as you're approaching
+this from a very
+academic very deep technology mindset
+and a deep expertise yet at the end
+you're building a product that consumers
+need to enjoy using it needs to provide
+them with this delightful experience
+right
+yeah yeah absolutely so um
+we started to build
+several uis
+for
+for example we had a specific use case
+user interface for hotels for booking
+hotel bookings yeah it's a different
+experience and we had a different one
+for uh regular e-commerce
+and for fashion we created a different
+one
+so that's how we started but still there
+is the first phase in the integration
+is fine tuning
+you always need the first
+stage of fine tuning and this is
+something that you have to set
+expectations with the customer that the
+it's not going to work the first job you
+have to do with the fine tunings until
+you find the right
+balance the
+you know the the most uh
+convenient way
+for the uh online shoppers to consume
+the data that according to the website
+right now the next phase
+beyond just understanding you know doing
+doing doing an lp was the ability to
+personalize the results and really
+change retail right so if you're looking
+at hotels and you're looking at
+e-commerce that's great but what was
+that shift to retail like with
+respective that eventually led to this
+great partnership with walmart
+yeah so aspective has developed an
+nlp technology that combines both
+linguistic and statistical approaches
+for deep language understanding
+analyzing product related information
+such as reviews customer feedback and
+product descriptions to generate
+recommendations for any user need for
+any type of product or category uh for
+example expectiva
+uh provides recommendations on best
+products for techniques best laptops for
+travels
+best trawlers for beach walking and any
+kind of product recommendations that you
+can think about
+uh we also figure out that we can
+generate
+actually answers to complex questions
+like what are the differences between
+two given products now
+why one product is better than the other
+one
+and so on so on many complex questions
+about products that can be used for
+example
+in
+devices like alexa for alexa shopping
+and
+uh before
+being acquired by walmart we were in the
+process with the in a plc with amazon
+using our technology for alexa shopping
+wow
+yeah that that was uh you know uh
+the first acquisition offer we received
+was from amazon by the way
+incredible
+incredible as i take me to the day after
+you're running a startup you're dealing
+with investors you have employees you
+have your burn rate you have your annual
+run rate your i know revenue rate but
+what happens the day after you get
+acquired
+you and they are what do you do how do
+you you know what changes what stays the
+same
+yeah yeah everything actually everything
+and everything is changed after the
+acquisition
+um
+so first of all
+you know uh
+um
+you had to
+you know
+there are very you know
+tough things you have to make first of
+all you have to terminate all this all
+the agreements we had with customers so
+before joining walmart we worked with
+various companies in the us including
+bedbath and beyond booking.com sony and
+others it wasn't easy to terminate
+the service of these companies
+especially with sony by the way
+they took it very hard
+and yeah yeah that's a good sign
+absolutely it is
+and
+um so as i mentioned uh before the
+walmart acquisition we were ordering
+acquisition process with amazon
+and then walmart came into the picture
+bidding against amazon for acquiring the
+company so
+it was really an amazing experience
+having negotiations both with amazon and
+walmart
+was that was it fast was it slow
+how
+you know how does it feel to be in the
+middle of all this
+so with walmart it was very fast
+we were you know we were about to close
+the deal with amazon
+wow and
+yeah and and just before closing walmart
+getting got into the picture
+and we run into a very quick uh
+due diligence process with with walmart
+it was crazy it was really crazy a
+process i didn't see my family didn't
+see my kids
+um
+[Music]
+but i think that
+the moment that you know that
+you realize hey this is the point we
+you know we worked for very hard
+is when you are
+negotiating
+the
+the acquisition price
+i must say this is
+this is something that you know i didn't
+you you couldn't believe that it's uh
+this is the point when you agree on the
+price
+and from that point everything is very
+easy
+and
+we are lucky to have uh two acquisition
+offers in order to make
+a bid between the two
+and um
+when it was clear that we are going with
+walmart
+and
+uh it was for many reasons by the way
+not just because of these size but also
+the potential of using
+uh
+the system using using the nlp agency
+that we developed
+had a lot more potential in walmart
+walmart is you know i'm sure that our
+audience you know are familiar with
+walmart but the numbers are
+you know
+astronomical
+absolutely there are 2.5 million
+employees in walmart
+that is a number that i think very few
+people including myself can fathom and i
+have to share with you ezra before you
+continue
+i took a course
+about a product and we were working
+closely with an executive from target
+about different technologies to
+incorporate and target
+a walmart competitor
+and you know we were looking at nlp we
+were looking at the different things and
+i was constantly mind blown
+at the size of these companies the
+impact that they have i think with
+walmart specifically there are stats
+about the proximity of a walmart to
+every american in the u.s the
+the accessibility is ridiculous the way
+that they're thinking about innovation
+is incredible and we don't hear enough
+about it in israel i have to say but but
+it it's something that for me i got a
+really big shock out of it so please go
+on
+yeah yeah i mean walmart is uh
+you know it's a fortune one company
+right it means that
+it's it's a
+you know it's a word of everything you
+have everything in walmart
+uh yeah as you mentioned
+90 percent of the americans live
+you know
+like 10 miles
+uh incredible
+walmart stores so the distribution is
+amazing
+and uh
+yeah yeah i mean there's a lot of
+potential in walmart and we decided to
+go with role models there were i i might
+say that
+the process was uh you know we felt at
+home with one
+right that's incredible visiting
+bennettville was
+very exciting
+very amazing you know at walmart
+headquarters i'm in benneville
+we felt very convenient closing the deal
+with walmart and
+that's what we did and and you know i'm
+glad that my investors also agreed that
+um no walmart should be the one to
+acquire aspectiva
+and uh yeah so we found ourselves as the
+first walmart acquisition in israel
+first tech office of walmart and israel
+this is very exciting i i love it how
+did they how did your employees take it
+you know your partners that worked very
+hard
+what was their reaction like internally
+what was the vibe you know i there
+wasn't slack back then but but what was
+the vibe before what would be the vibe
+on slack today
+um wow i can't believe it
+uh it's a dream that
+comes true we worked very hard for six
+seven years for to reach to this point
+that that
+that was the reaction of my
+employees and
+they were yeah it was astonishing
+you know i
+can also say that at the first day after
+the uh acquisition was announced my all
+my producers
+got a mail from amazon they didn't know
+that we're going to close with walmart
+um offering them to
+move to amazon it was
+yeah yeah so at that point
+yeah there was they really wanted uh
+to
+buy aspectiva and they were very they
+were very disappointed that it didn't
+work out so
+it was you know at the same time i was
+very happy to be part of walmart but
+again i also got you know we developed
+relationship with amazon team great team
+and i wish we could be with both teams
+right but it's not possible
+um to be realistic
+right 100
+the journey is so so fascinating and
+and i and i i personally i love it and i
+you know i wish for myself one day to to
+develop something that is meaningful
+enough to to go to you know have the
+success that
+that spectiva had but because really i
+mean what it sounds like is that you
+have this you know this this background
+you have this understanding of a
+technology you have this pain point that
+you realize you very accurately develop
+a technology to solve that pain point
+obviously that pain point is so big and
+is so relevant in a timely manner that
+there are various you know the biggest
+companies in the world that are that are
+posing a lot of interest in this and the
+way that you're talking about the
+humanity behind this acquisition and the
+way that you are approaching it the way
+that the other the bidders felt about it
+i think that really shows a little about
+who aspectiva is and the type of company
+that you've built and they're very proud
+you know
+very proud story in the israel ecosystem
+so thank you very very much and thank
+you for the inspiration
+and and just to continue doing amazing
+things for our ecosystem and developing
+great technologies thank you
+thank you michael it was a pleasure

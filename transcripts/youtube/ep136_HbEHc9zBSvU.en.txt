@@ -1,0 +1,747 @@
+and you would help people get to this
+what we call an aha moment they'd find
+some sort of
+magical value and if you're you're
+deeply technical it's a you know a super
+grep we're searching we're grepping
+across all the different boxes
+we're finding that log line we need to
+solve our problem
+[Music]
+jake flomenberg thank you so much for
+being on my show 20 minute leaders how
+are you
+good how are you great where are you
+calling from right now i'm calling from
+sunny menlo park wonderful so we're very
+very close by neighbors but you know
+with this kobe situation
+uh it's it doesn't matter if we're if
+we're two miles apart or a thousand
+miles apart
+and so either way thank you for being
+here very brief overview and then we're
+going to spend
+we're going to do a deep dive into your
+experiences you know worked with you
+know so you did
+upend and then harvard mba went on to
+working with the founders of cloudera as
+i think the first business hire
+and then running the splunk ui product
+which i've used extensively
+uh back in you know in my years of
+engineering and the idf
+and now moved on to uh being a venture
+capital partner at excel ventures in
+wing
+did i get that somewhere right roughly
+correct
+wonderful jake you know i i still can't
+do enough service
+to the incredible background that you
+have i'd love you to tell me a little
+bit more about yourself and then
+i'd really love to pick your brain on
+these experiences moving from
+engineering
+working with incredible startups early
+on like cloudera and splunk
+and then making that smooth transition
+into venture capital
+and some of your insight into your
+investment thesis and how you approach
+different opportunities sure so why
+don't i give you sort of
+a quick rundown on my my background and
+a few of the transition points i
+went through so so first i actually did
+my undergrad at
+duke um i did sort of hardware software
+and engineering and said to myself
+hey how can i try to solve problems in
+the real world and
+found lockheed martin um and had a lot
+of fun
+there for a few years had a lot of
+impact but it was also a conservative
+culture where it's hard for a
+21 year old to take on increasing
+amounts of responsibility
+so i went to business school to retool
+and this was in 2008 and i
+sort of came upon two trends i was
+interested in cloud and data
+and cloud it was the early days of
+things like amazon web services but they
+were
+they were a thing at that point and i
+said you have to be a big company to
+play in this game
+and data um and the more i looked at at
+this field of big data the more i
+realized
+hey i think i kind of know a thing or
+two about this topic i feel
+you know just from reading the trade
+rags like i could be useful here
+so for for when when summer came around
+i
+just found every single big data company
+i could
+um and one of them was called cloudera
+they had about 12 employees
+oh my god and i called them off and said
+hey you know
+can can i help literally i called a cold
+called the ceo
+mike and i spoke to all the founders i
+spoke to
+the cto armor and i think he actually
+thought i was interviewing for a
+software engineering job in the
+beginning
+and so i never had the heart to ask him
+how how that interview went i think it
+was pretty poor
+you know so they said hey come help um
+and it was just
+you know they were just they were just
+engineers and so you know
+as we thought about some of the initial
+product road maps or
+business packagings and things like that
+i got to play a really fun role
+in in that it was a lot of fun but at
+the same time it was
+sort of deeply deep technology for
+technologists
+and i said to myself as i was leaving
+business school hey
+how do we help mere mortals get some
+value out of data
+it's great to help people that can write
+lots of code but how do we help
+let you know less technologically savvy
+people
+uh benefit from these systems and i
+found splunk and i said
+wow splunk is sort of this vertically
+integrated big data application they
+didn't call themselves that but that's
+in effect what they were
+they were serving mostly assisted men's
+or i.t people
+right i'm still still deep but but you
+know maybe not
+quite as as deep and i saw
+you know i had a vision i saw the
+ability for them to use this platform to
+service even less technically
+sophisticated people over time um so i
+joined splunk and you know i was there
+for a couple years right up to their ipo
+and looked after pretty much anything
+you could touch
+um and then right around that time
+when splunk was getting ready to go
+public i joked that um
+the vcs were typing into their linkedin
+search box mba plus big data
+and i was one of the four hits uh you
+know and
+in 2012 there were only four hits and so
+a large number of people reached out
+um and i decided to make the move over
+to excel where i'd known some of the
+guys i met them
+you know through um sitting in a board
+meeting uh
+at cloudera um and um you know focused a
+lot on
+on data and analytics and so that depth
+of
+sort of knowledge and first-hand
+experience really enabled me to focus on
+a
+domain uh or or focus area and which is
+what i did when i started at excel i was
+there for about
+six years and then i came over to wing
+and at wing our focus is really trying
+to just
+build uh help entrepreneurs on that
+journey from zero to product market fit
+and beyond and so almost putting on
+my product monitor hat and saying hey i
+want to do one thing really well
+there's lots of ways as investors to to
+make money with you know consumer funds
+and growth funds and
+china and india strategies but let's
+let's build a product
+us as a vc firm around one thing which
+is helping
+enterprise b2b entrepreneurs
+on that initial journey wow okay i don't
+even know where to begin i want to go
+back to
+to cloudera and and splunk because those
+two are those two are incredible
+incredible companies
+you know really like innovators in in
+the field that i'm very passionate about
+and you know splunk how what was it like
+going into a company that has product
+market fit with a certain demographic so
+right you know sysadmins and people who
+are
+you know still you know there might not
+be necessarily the engineers of the
+company but they but they're
+very tech savvy today splunk services
+you know
+any person who's who's able to just you
+know to look at graphs and and just
+connect the dots right
+and so so what is that like coming into
+a company and thinking of this vision
+and seeing
+a product that right now serves a
+certain demographic but trying to
+extrapolate it on to
+you know a larger market yeah i can't
+take
+you know too much credit here but i can
+certainly describe the thought process
+going on as a modern company
+and you know it's roughly as follows
+people
+initially at the time they actually
+bought splunk for an i.t use case today
+if you look at their financials you
+might see it's actually a little bit
+more slanted to security
+in many cases but but back then it was
+it was mostly i.t
+um and you would help people get to this
+what we call an
+aha moment they'd find some sort of
+magical value and if you're you're
+deeply technical it's a
+you know a super grep we're searching
+we're grepping across all the different
+boxes
+we're finding that log line we need to
+solve our problem right and if you
+do that you know 100 times faster and
+splunk then logging onto each box you're
+very happy
+and most people actually did that with
+the free product with a free trial or a
+free download
+and see they were very excited by the
+time a sales person actually contacted
+them
+say like you know what you want to pay
+for this um
+is that all is that is that generally
+the case that you know
+so obviously this idea of the freemium
+model is that you
+you try to get your users to an aha
+moment
+when the as they're just you know
+risk-free taking
+a a stab at this software and then when
+the sales person comes around it's easy
+but is is that
+that sounds like very something very
+difficult to do right for any company
+look i think you have
+one i think splunk was one of the
+pioneers in the true enterprise space
+that sort of
+easy use quick value is something that's
+now become the norm the consumerization
+of enterprise that wasn't you know that
+wasn't the tagline
+back when splunk got started and there
+they made a bunch of very thoughtful
+product and pricing decisions but they
+also you know they had a great market
+they just had
+this opportunity where you could make in
+the moment of truth when the pager goes
+off you could help someone
+um if you're building a payroll system
+you can delight them but you can't
+you can't make them say aha and you know
+in quite the same way
+uh for the most part right it just sort
+of depends what space you're in and so
+you help them
+solve an acute problem in a moment of
+need
+um and you know off the back of that you
+were able to build a relationship you
+were
+able to you know eventually have a
+financial transaction that happens
+and then the way to think about serving
+other users
+is really to say hey you've put in x
+data
+what if you put in you know 1.25 x data
+just 25 more data and now you can enable
+use case y
+right and so that's what security was
+which was the clear second use case we
+have to build more
+content for the security practitioners
+some of them are very sophisticating
+code and write
+python and understand the splunk search
+language others need
+they need charts they need dashboards to
+do their job and so
+we'll build those canonical dashboards
+um you'll pay us for those you'll pay us
+to put more
+you know data into splunk and now we
+serve uh service the second use case and
+then
+so on and so forth and i think within it
+and
+securities bunk has done a phenomenal
+job and we'll continue building
+uh content to service uh many many other
+markets
+over time so now you're moving on to to
+wing vc and over there you're mentioning
+that
+your focus is on helping entrepreneurs
+get their
+b2b sas platform to to that product
+market fit and beyond right from the
+very early stages
+so what are some of the things that
+you're observing as you're going through
+this journey
+what what are some of you know the the
+you know the common challenges that
+you're observing
+because you're really seeing
+entrepreneurs very very early on
+as they might have an mvp and they're
+trying to get these enterprises to buy
+into it
+it doesn't sound very easy to me yeah
+well i mean so
+you know we have a tendency to work with
+deep technological founders who have
+an insight about a particular domain
+area and this might be
+core i.t or it might be in the real
+world i spend a lot of time looking at
+things
+like computer vision these days and i
+have to tell you that there's going to
+be some value in
+core enterprise but a lot of the value
+of these systems is
+out in the real world right where you
+can see things and
+and react um and you know
+[Music]
+some struggling there's a lot of
+struggles that these entrepreneurs go
+through hiring the right people is
+certainly a struggle
+most people don't struggle all that much
+in hiring the the tech talent on in the
+early days
+but that initial business model that
+initial
+go to market strategy sometimes that's
+something that the entrepreneur has done
+before often this is a new domain or
+that might be completely foreign to them
+and so that's an area
+where we really try to roll up our
+sleeves and
+not do but help and support right and
+say here's an example
+of uh ahead of sales for a company in
+adjacent space that's
+you know at public company scale you're
+never going to hire them but maybe
+they're great at
+you know a great advisor here's an
+example of the marketing candidate
+um you're going to want in another year
+um
+right and to try to surround them with
+people and
+and sort of thought partners that they
+can use to continually evolve their
+thinking
+and just encouraging people to take that
+experimental mindset
+sometimes people treat go to market like
+this black box where we hire a vp of
+sales spend
+a couple million dollars and see what
+happens and you know it's
+it's two years in and and a lot of money
+wasted before you can make any changes
+interesting and so that that's where
+the area for sure where we sort of most
+repetitively and deeply engaged
+it's not very common for institutional
+vcs to come in
+that early on right i mean i know a lot
+of a lot of vcs like to join and once
+you have
+some some some great returns and you
+have a good arr and you're
+and you're ready to take your series
+your series a and grow
+it it depends um you know you should
+check out the wing.dc blog if you want
+to see
+some pretty deep analysis by my partner
+peter that really unpacks those trends
+um what i'd say is as follows wing
+invests in
+in sort of three buckets uh the
+experimental seed bucket which is
+we'll call it a two million dollar check
+maybe there's some deep technological
+risk
+does can you even build this does this
+market even exist
+right um we invest in this round we call
+the power seed
+um which is you know maybe it's a four
+to six million dollar financing it takes
+a long time to build deep enterprise
+tech
+and some people are marketing these
+things as seed extensions or c2s which
+in my humble opinion is not great
+marketing someone says oh i've raised my
+seat extension and i say
+i'm sorry for your loss you know i think
+we could do better in branding these
+things
+and then the classic series a which you
+know fluctuates a bit it you know sort
+of ramped up really high in 2019 maybe
+this is that
+eight to 15 million dollar check size
+and wing actually aspires to invest
+across this entire spectrum wonderful um
+and i think you see some some other some
+large firms they sort of dabble
+um they'll play in this in this sort of
+experimental seed or power seed
+phase certainly in light of kovid we've
+seen some people
+redouble their efforts a little bit
+there but you're right a lot of people
+are waiting for the series a
+and 82 percent of the series a's these
+days have
+you are post revenue um and if you look
+at the valuations
+what are the series a's these are the
+series b's from a decade ago
+yeah is basically what they are and so
+this this
+power seed phase where you know we have
+a little bit of product
+we we have probably we're still
+pre-revenue in many cases
+um we've engaged with the customers um
+meaningfully that's an area that we feel
+really well equip
+equipped to play we're happy to roll up
+our sleeves we're happy to talk to those
+customers
+and figure things out um with the
+entrepreneur
+there's some firms that will participate
+and engage in such a process and
+there's there's many others that will
+say hey you know let's just wait until
+it's obvious
+right so investing in deep technology
+it's a different type of investment than
+then you know
+going mainly off of you know the market
+and the and you know
+just the financials you're actually
+looking sometimes at founders who are
+who are really you know
+they they think that they have they've
+understood their their niche
+better than others and they are able to
+develop something that is cutting edge
+and that is really going to to innovate
+on their domain they're not just going
+and trying to to take a similar
+technology that exists and implement it
+into another market
+how do you go even about doing proper
+due diligence on that and how do you
+as a venture capital firm support
+entrepreneurs who are dedicated to deep
+technology
+because innately they're spending you
+know years of research
+on these things and then you have to
+come in and you have to
+determine within a matter of days or
+weeks whether this is something that you
+believe in
+yeah you know it's it that the way you
+describe it
+makes it sound hard on the other end
+i don't know how hard it is right so i
+have i have enough of a technical
+background that
+i can't go toe-to-toe with these
+entrepreneurs maybe i can pretend for
+some period of time but
+i can i can determine whether or not
+something is real whether it's you know
+is this bs or is this
+is this real um and then if it's real
+you know
+we do the following one we're going to
+find the foremost
+domain authority to help validate you
+know the elements of risk that we see
+in the technology whether that's the
+computer vision or the ai or the
+containers or
+you know whatever it happens to be um
+and then
+you know depending on the state of the
+product we're going to go out and talk
+to
+the customers and understand what their
+perception is what it is that they have
+and haven't been able to
+validate what it is that they they need
+how it is that they're going to procure
+um and then we sort of line everything
+up and say all right
+here's you know here's the scorecard
+here's the the risks and opportunities
+we see
+um does this make sense and do we think
+that this entrepreneur is uniquely
+capable of navigating
+uh through this environment wow very
+very cool and
+you know you it really sounds like a lot
+of the experiences that you've had
+leading up to the venture capital world
+have really you know come together to
+give you this balanced
+and well-rounded insight into into the
+different things that you're doing do
+you feel and i'm now i'm speaking as a
+young entrepreneur and you know a lot of
+my friends who are who are following
+this they're also young engineers young
+entrepreneurs
+perhaps out of 8 200 in israel or
+perhaps out of stanford or mit here in
+the us
+and now my question is you've had a lot
+yeah a variety of different experiences
+both in engineering and then product
+management and business
+do you think there are some there are
+some experiences that are
+more that were more worthy of your time
+than others that
+you know because in my generation we
+have to make a lot of decisions all the
+time
+which companies do we go to what fields
+do we study how long do i want to be an
+engineer before i make my transition to
+product management
+just as an example it's something that
+i'm grappling with and a lot of my
+friends are grappling with
+which experiences do you think really
+tipped
+then it you know moved the needle for
+you well look it it all depends
+what you want to accomplish in in your
+career and i'll make
+two points one it's
+almost impossible to become more
+technical over time once you leave the
+engineering ranks
+you've left the engineering ranks most
+people don't circle back
+right um and so people often rush to
+get on with it or become a product
+manager whatever that is but
+for the most part that's a one-way trip
+so you know choose your decision path
+wisely
+and know that you know maybe 20 30 years
+ago
+people didn't really empower
+technical ics individual contributors in
+the same way that they
+do today and you sort of you had to
+become at least a manager right or your
+paycheck wasn't getting any bigger
+um and companies like google and others
+have done a great job really saying hey
+there's a path
+uh to become you know a level eight or
+whatever it is
+i see and get rewarded for it so like
+that that's a viable career career
+strategy
+actually one of the most one of the most
+incredible innovative things that i've
+observed in the israeli military is this
+is this exact same idea that you know
+and then if the israeli military was all
+it's known that you want to go higher
+you have to become an
+officer and you have to grow your ranks
+and get your different ranks or whatever
+and all of a sudden in in the
+intelligence unit they're saying uh-uh
+we actually have a new method
+you can you don't have to be an officer
+you can be a professional
+technologist and get paid just as much
+and
+actually they get paid more than the
+officers and they become this
+professional persona
+yeah well i mean like if you think about
+it you know some engineers are not the
+you know the most gregarious people in
+the world some of them love to manage
+love to talk to people there's others
+that don't they're
+two orthogonal skill sets and why you
+would forcibly lump them together
+um you know creates
+a sub-optimal allocation of talent
+resources 100
+100 um so so one like don't rush to
+become less technical
+two i think being a ceo or
+being a product manager is the closest
+that you can get to possibly
+um to preparing yourself for a career in
+venture
+and you know what i mean by that is
+simply that these people sit at the
+intersection of business and technology
+they're they're not just writing the
+code and
+they're not just selling it um and that
+ability to sit on both sides of the
+fence is
+is very important in evaluating a
+business i wish it was just build
+the right technology or the best
+technology and that wins that's
+decidedly not the case in in the real
+world so you really need
+both perspectives and i joke with with
+product managers that
+venture capital is sort of like meta
+product management in some sense you
+don't
+you don't get to write any of the specs
+you don't get to manage the
+ceos in the same way but at a different
+level that is
+sort of how i think about the space i
+haven't thought about this
+this transition and and that the product
+management
+side has such a big influence on on you
+know on the venture capital work
+and i don't believe that most venture
+capitalists
+have had a much product management
+experience i know some of them had
+a lot of them come from financial
+backgrounds right from finance and
+and or or potentially ceo but but this
+is something that
+is it's very interesting to me well you
+know particularly at the early stage of
+enterprise b2b companies i think it's a
+really relevant background to have
+definitely you're out raising your
+growth capital round it can still be
+interesting but there's a lot of people
+that
+you know are going to be a lot more
+facile with with the metrics and
+the spreadsheets but in that early days
+having
+you know a support system a thought
+partner um
+to help navigate some of those issues on
+the product side i think can be
+immensely valuable right and you know
+hopefully some of the entrepreneurs i
+work with have found that to be the case
+jake this was so enjoyable and time just
+goes by way too quickly on on this show
+i always joke that i wish i called it 30
+minute leaders instead of 20 minute
+leaders
+but now i'm stuck with the name so i
+have to hold on to 20 minutes but before
+we go i have to ask you for three words
+that you would use to describe yourself
+three words that describe myself um
+i'm diligent i i think i i try to work
+hard
+i'm dependable you know i'm there when
+uh
+i'm needed and i guess that's not
+something that you take for granted
+dependable it's uh something that i've
+learned i'm very good times and bad
+times there's uh
+there's a lot of stress as as being an
+entrepreneur and
+you you need uh you need folks that are
+going to show up
+when you need it you know and also i
+have to go for the alliteration so
+probably d
+i'm willing to get i'm willing to go
+deep to really understand
+uh what it is that people are building
+and trying to accomplish so
+there you go i love it so dependent
+diligent and deep
+jake thank you very very much it was
+wonderful i learned so much
+i really appreciate it i really
+appreciate you taking the time to do
+this
+absolutely thanks so much for doing it
+take care bye

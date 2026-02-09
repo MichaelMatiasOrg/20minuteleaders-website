@@ -1,0 +1,648 @@
+uh it was always like passive learning
+and reading the map correctly
+uh because again there's no instructions
+for how to be the best cto right there's
+like the superficial things right things
+need to be shipped at a great timing and
+uh engineering teams should be effective
+and technology should be picked in
+a good way right some common sense and
+some great way to trial and try us
+different options
+and to enable the business not for now
+but for the long term right
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opwest hillel stanford leap
+and birthright xl
+hello and welcome to 20 minute leaders
+meet dutan nahum ceo and founder of
+spectral
+dotan is an experienced
+multi-disciplinary leader in tech a
+four-time published author and an avid
+open source contributor he is the ceo
+and founder at spectral a devsecops
+startup and previously was cto at hired
+score clarana tlv and como conduit with
+a solid background in hacking reverse
+engineering and software engineering the
+tan has spent years bridging the gap
+between developers security and
+productivity from a developer's point of
+view
+co-founder ceo of spectral how are you
+today great how are you
+good thank you so much for being here uh
+i i love cyber security i love
+software development i love the
+integration of the two and it's such an
+incredible time you know in not just the
+tech ecosystem but in the israeli
+ecosystem in general and i'm excited to
+to pick your brain on your own journey
+and and what you're doing with spectral
+and how you're observing it so thank you
+for being here tell me a little bit
+about yourself you've done such
+incredible things
+throughout your career with some
+incredible companies and who are you the
+time
+sure i don't know like it's a bit
+strange uh
+you know testifying uh
+on yourself right so uh but
+yeah i mean on on the surface i've been
+uh mainly doing uh technical roles
+you know in the industry like latest i
+think uh 15 years
+uh something like that mostly cto roles
+and uh yeah in terms of my interest it
+was always around empowering developers
+and you know trying to build
+uh
+i would say developer effectiveness
+tools i mean today there's so many other
+names for that
+it's like automation and ci cd and
+all these things and uh
+ied ops and
+basically what i was doing throughout my
+career is just you know building tools
+for my fellow teammates
+uh whenever i was that's that's
+basically who i am yeah
+now
+having held
+you know leadership roles whether it be
+chief technology officer or lead
+architect or et cetera et cetera
+how you know in a few sentences how do
+you perceive your
+leadership in tech in your eyes
+yeah actually it's uh i think leadership
+in tech is very uh complex
+um
+there's so many books written about
+being a ceo
+uh right and uh so many books written
+about how to be a vp sales or vp
+marketing
+but actually there is i think there's
+just one
+about how to be a cto and that one was
+amazing to see uh i don't remember the
+name of the author but i can send it
+offline
+uh i think it was out like last year
+all right
+and there's no like there's no actual
+uh i would say career letter that is
+there's no boilerplate
+for someone saying i want to be a cto
+one day
+and kind of
+telling you this is this is the these
+are the milestones that you need to go
+through throughout your career
+and this is the the things you should
+you know pay attention to right this is
+how you can get there
+in the base best shape that you can
+right there's nothing
+you mentioned the word complex and i
+think that's a really good way of
+describing you know tech leadership why
+why is it complex in your opinion
+well so so yeah i mean
+so right now i'm in a ceo role so i kind
+of
+jump uh towards the other side kind of
+being a technical ceo
+but um
+for me it just meant um i want when i
+was a cto i really wanted to understand
+all of the size of the organizations
+right so when i was working
+with my uh ceos
+i would take extra
+extra care to understand their world
+right from the day to day to
+goal setting to understanding their
+frustrations
+and
+kind of being in their shoes
+to be able to do my job in the best way
+it was always like passive learning
+and reading the map correctly
+because again there's no instructions
+for how to be the best cto right there's
+like the superficial things right things
+need to be shipped at a great timing and
+uh
+engineering teams should be effective
+uh and technology should be picked in a
+good way right some common sense and
+some great way to trial and try us
+different options
+and to enable the business not for now
+but for the long term right so many
+things that you learn
+on the job
+and it's such a change that you have to
+learn this on the job and you know by
+basically failing so many times
+but really there's so many so many uh
+theory here
+that if i would go and write a book
+about it i i think i have
+a full book to fill
+just no time to write that book but
+there's actual like lessons that are
+that everyone are learning in parallel
+and basically they're all the same
+lessons and it's a pity that everyone
+have to fail the exact same way in these
+kind of roles
+right i i can i can completely resonate
+with what you're saying
+i'll go with the same transition that
+you did in your career today you're in
+the chief executive role
+and
+which means that not just you know
+looking technically but you're also
+responsible for leading the company's
+vision strategically financially and you
+know human resources everything that
+comes into play with that it's still in
+a very technical field
+spectral with spectral looking at you
+know developers and source code and how
+do you do security based on that
+where did the idea for spectral come
+from
+yeah so uh
+it's actually not an idea as much as it
+was a pain
+right like a growing pain and yeah
+you know the
+the sheer uh
+the sheer uh pain of it
+and if you think about it i was in cto
+roles mostly leading engineers
+building products
+uh building new technologies
+uh and this uh
+obviously the security aspect was always
+there
+and so what i saw is that
+this fantastic thing is happening where
+you have really i think the last three
+to four years
+is the peace in history that we as
+engineers
+have had so many options
+right so many great options
+and actually i can i i kind of lived
+through history long enough
+to remember each and every period
+uh this is by far the best
+best era to live in as a developer
+because you can choose your database you
+can choose your programming language and
+all today all program languages are
+great
+this is an amazing thing because mostly
+throughout my career you had this one or
+two programming languages that were
+not good but they were working you
+wanted to use and the great ones always
+had disadvantages
+always lack of tooling lack of
+documentation lack of something and
+today everything is just great i mean
+you can't go wrong
+and so
+when you think about it
+everything is just great and every
+option you go for
+you won't go wrong
+uh in so many options
+so
+you know why why not use everything
+right and so
+when things when options
+becomes vast and things kind of get
+complex because now you need to learn
+everything right
+so let's say you want to use mongodb in
+this project and then postgres on that
+project maybe cockroach tb which is
+completely different in other projects
+but then you have the option i mean you
+can move fast you can actually pick the
+right technology for the problem
+and then
+not waste time and then just shift
+things so much faster right so what's
+the downside so what is the pain point
+yeah what is the downside exactly right
+and and this is this is a question left
+unanswered
+because if you you know just uh
+take a view at any kind of startup
+you'll see there's no downside everyone
+are just picking technologies using them
+shipping to production just
+having a blast
+how is it possible that there's no
+downside
+right
+how is it possible so it's not possible
+and what i saw is that
+with all these choices comes various
+types of mistakes
+and they're often mistakes
+and
+what i was caring for is the type of
+mistakes that eventually bring a company
+down
+so a specific set of mistakes that cause
+a security breach data breach of any
+kind
+right uh and it can be a simple mistake
+let's say we just mentioned cochran to
+be i just
+uh picked it off the top of my head
+right
+do you know how to secure it properly as
+an engineer which is just playing with
+it
+i guess mostly no probably just yeah
+you're just filling out
+the system to see how you can what's the
+like what is it the document db is it a
+graphic b you want to find out so you
+just build some project and sooner or
+later you actually are finished like
+this is right the product is done wow
+poker gb is so great let's ship it to
+production
+right
+and and then and then i'm saying hey did
+we forget something
+through this whole amazing process and
+the answer is mostly yes
+go back i think that when you're right
+you know regarding exactly what you're
+saying i'm starting to introduce but
+it's interesting because you know you're
+what you're talking about is
+perfectly situated with the alternate
+with the trend where you're mentioning
+there's not it's not just that there's a
+surplus of potential potential
+technologies to use but but
+the way that these technologies are
+being brought to the world with the new
+ways of documentation and the different
+api systems they're actually engaging
+developers to use them from day zero and
+on day five already have them in
+production and obviously that is also
+the business model of all of all of
+these softwares right the idea is that
+you don't just use it as a free trial
+but you take it to production and so
+there's a dissonance here between the
+ability for the developer and the
+companies to really own what they're
+doing and have full diligence on on on
+the security of it
+versus what they're actually doing right
+and these projects are amazing i mean i
+wouldn't replace i wouldn't go back in
+time for for a second
+i mean these options are just you know
+they open up so many things
+uh and so also the people who build this
+project build them so well
+you have documentation for everything
+and it's very common to actually
+uh you know trace out the section for
+authentication and security and how to
+bring up this database securely and so
+on and so forth
+but it's really uh a tragedy of
+mismatched expectations like no one is i
+mean you don't really realize that it is
+very important
+to go over the documentation for
+security for this specific product right
+is it your role i am just a developer
+just quote
+is it the devops role is it the secops
+or role is it someone else down the
+chain
+is there actually a role for this or am
+i do i actually need to take this end to
+end is it all me
+right
+uh you know i bet
+eight out of ten
+companies you go and ask these questions
+everyone will answer differently oh i
+thought it's that person's role in this
+that's what right to actually go and say
+you know what this is
+uh yeah this is built to uh to a
+standard we've we've done
+uh the risk modeling and all this boring
+stuff right from a security point of
+view um
+i mean no one does this it's just a
+bummer right because it's so so much fun
+to just adopt a new new db and take it
+to production
+uh we need different approach
+approaches for this right we need that
+process it's still fun
+right
+and and here comes uh here comes
+spectral and and the product spectrum
+ops how do you make it how do you make
+this fun
+how do you maintain this approach but
+make it accessible
+so yeah so first of all it needs to be
+uh i mean through your process of
+experimenting let's take this this use
+case right of a database whatever a new
+cool database
+uh there's some zen here right when
+you're building you're in this you're in
+the flow
+you're experimenting right
+um you're not going to stop open the
+book and go section by section
+uh and go over all these and do uh
+threat modeling and right there's some
+zen here
+so there's need to be something that can
+automate all that
+and be as seamless as possible and not
+interfere
+and you know kind of take away all the
+risk all the mistakes that you can make
+right and that's basically is spectrum
+so it's just a single binary it's a very
+lightweight cool thing
+that you install on your machine just
+like docker for example just like
+terraform
+the vibe is the same vibe
+right and and actually think about a
+vibe of a tool that's also important
+right of a developer what's the vibe how
+does it actually look and feel what's
+the ux right yeah it's a terminal thing
+right it's
+it's a console app it's a terminal app
+but it has a ux
+right
+yeah just yeah and what's what is the
+strategy that you're thinking towards
+obviously
+the goal being that at the end this is a
+part of every developer's
+cycle of development and and daily
+workflow
+what is sort of your strategy as an
+early stage startup how are you getting
+there so yeah so basically uh
+you know there's like i think you said
+it um
+if you want to be the tool the developer
+uses
+uh
+you know i first of all i think of
+myself as an engineer first and as a
+cyber person
+very much later
+although i have the background
+quite a hardcore background
+uh i just i kind of
+put this in a very uh
+very distant place
+because if i think attack defense and i
+go to build a tool for developer
+it's not going to speak the same
+language right
+so
+in life first i'm an engineer i like to
+help engineer that's that's how i see
+myself yeah there's this component of
+security which i really like but i kind
+of
+suppress it mostly
+uh
+so
+so then uh first of all the tool needs
+to be honest
+and the value needs to be immediate and
+valuable
+right so if you just throw some port
+blah
+very cryptic
+and it's not immediate this is not
+something that
+you know is
+uh a developer will want to actually fix
+right now
+then it's not used it's not useful
+some other tool will get that the open
+port some others will get that right
+it's very easy to detect open ports
+so what we do for example
+again with a silly example of corporate
+gp
+we go to the documentation we open up
+the configuration we understand how to
+bring corporate gp in the wrong way
+and then we kind of look at the
+developer
+facing
+surface area so what are the flags here
+how do i do i bring it up how do i
+configure it to be production ready and
+so on
+and only pick these flags and let you
+know about them
+so hey you haven't turned on
+ssl
+right very basic
+some products have this embedded in them
+some of them some of these require some
+front end to handle the ssl because ssl
+encryption is kind of demanding and no
+one wants to do this in process and so
+on
+uh
+you know but there's either an approach
+right so if this is a very common uh
+mistake so there's one class of
+forgetting not knowing about it at all i
+don't know what is ssl i don't know what
+is why is it useful i know that we're
+regulated uh and
+and why we need this as a must
+maybe it's you know it's very uh it's a
+very honest uh
+uh
+unawareness
+right maybe i i build front end and now
+i i'm building a full stack thing which
+is a great thing because i feel very
+empowered this is the right thing to do
+and you know what i haven't even touched
+ssl in my life right first time
+or maybe this is a mismatch of
+expectations so you have a load balancer
+you have some f5 whatever this thing
+usually does ssl termination to take off
+the load of apps
+uh but this time it doesn't because
+someone deploys this some other way
+right and now you don't have ssl so all
+these small mistakes are always honest
+simple naive mistakes
+and this is basically what we want to
+discover
+while you're coding
+or
+actually
+any way you like it you just run it as a
+tool you just run it in your ide right
+into your ci and this is also part of
+the
+of the vibe but if you have a tool for
+developers are you going to dictate how
+to run this tool
+right must you run this in ci no this is
+not how i work as a developer
+first when i download something i want
+to run it on my machine just to figure
+out how to use it right
+and then i want to kind of have it in my
+id let's let's test write this right in
+my id
+and when i'm completely
+trusting this tool
+i put it in my holy place in my ci right
+this is how i work as a developer and
+mostly you know all developers that you
+know kind of have a little sense of uh
+paranoiaism or you know kind of don't
+allow everything in their in their
+toolbox which is
+no most developers
+i love it
+now
+where do you draw
+the inspiration
+so
+you know it's a question that i love
+asking a lot of entrepreneurs because
+you know to wake up every day and to go
+and and create these products and and
+fight the the alcohol battle you
+obviously need you know some some reason
+where why you're get so excited about
+what you're doing is it for you the fact
+that you just spent so much time as an
+engineer yourself and you saw this pain
+point emerge because like you mentioned
+this is not just an idea that you had
+this is a pain that you've experienced
+that you want to go solve
+yeah i think uh like every developer
+every engineer
+i'm naturally lazy in a good way if
+there was something already i would
+actually use it
+right right and the frustration is
+actually
+a few years building up of
+uh yeah this sucks i mean
+someone forgot the flag here right how
+do we fix this let's uh invent some
+process let's bring a pen tester that
+knows about elastic right oh how do we
+find this person is he really an expert
+in elastic
+right
+you know you're always in this
+vicious cycle of trying to figure out
+who's the expert in this technology so
+that we can bring it to production in a
+great way and the answer is
+ah you know new technologies have no
+experts
+because they're new right and today
+everything is new
+uh so yeah this is this is a vicious
+cycle of trying to figure out like
+what's the right thing to do and there's
+no right answer
+the time if i were to ask anybody who
+worked with you previously or today
+and
+you know what are a few words that they
+would use to describe the time
+what are some things that come to mind
+uh i don't know i know
+i know myself i'm not sure what they
+would say but uh
+i can tell you that uh something that
+people find strange
+is that uh i kind of
+self learn everything
+right so
+today i know how to design i know how to
+do
+machine learning i know how to code
+and so many things that i kind of
+set a target for that it's it it really
+looks bizarre to people mostly so this
+is the first thing that uh
+become it's a little bit annoying also
+because if there will be a designer i
+will be i will be there to actually give
+feedback and it's bizarre right
+and if there's
+someone building a uh an ai
+solution i will be there to challenge
+this uh
+this feature right and it's kind of
+bizarre
+uh so yeah that is mostly what what what
+comes off
+i'll take it
+on thank you very very much best of luck
+with spectral amazing pain point and i
+look forward to trying out the solution
+myself as a coder and and best of luck
+with the company and stay safe and stay
+healthy perfect awesome thank you
+thank you bye
+you

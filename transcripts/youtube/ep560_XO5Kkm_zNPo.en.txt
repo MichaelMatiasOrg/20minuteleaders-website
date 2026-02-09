@@ -1,0 +1,590 @@
+so what i tell my pms is always be
+passionate about a problem not about a
+solution same thing for entrepreneurs if
+you're passionate about a problem and
+you really focus on the problem and on
+the audience you actually are more
+likely to come up with a good solution
+because you're not married to a solution
+and you don't get stuck if that solution
+fails you can easily
+come up with another solution for the
+same problem
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders i'm joined today by a great
+great friend of mine an amazing investor
+entrepreneur
+product expert amir schwart head of
+product for the developer platform
+twitter amir is the head of product for
+the developer platform at twitter and a
+venture partner at innovation endeavors
+previously he held executive roles at
+amazon slack google and microsoft he is
+the author of two books on designing
+bots and building apis the developers
+love
+amir welcome to 20 minute leaders
+how you doing great great to be here
+again you were the first episode of the
+series i remember that it was a lot of
+fun it was a lot of fun it took a big
+risk from the middle of corona no risk
+it was just like crazy just to see
+people to have a good conversation with
+someone that was delightful amazing so
+in the next 20 minutes i want to dive
+deep into creating products that are not
+only good but they suck less yes
+definitely and you know i'm here your
+your history with microsoft google
+twitch amazon slack
+twitter having acquired reshuffle now
+head of platform for the apis and
+developers
+i can't think of anybody better in the
+world
+to dig into this topic than you and so
+i'm really excited to to pick your
+branding in these next 20 minutes or so
+what does it mean for you to create
+products that suck less
+i think it's um if i had to distill it
+into one word it would be empathy
+empathy is super strong you need to
+develop empathy to the person that
+you're building the product to so if you
+if i had to distill it to something is
+to develop the feeling of empathy with
+your audience uh and and build a product
+that they really need and they really
+love that's that's how i look at it so
+what does that actually tangibly mean
+you know to build empathy with your
+audience so i'll give you a few examples
+where i failed and then how i
+corrected my failure to build products
+that suck less
+so my first experience was at google i
+was responsible for the startup program
+at the time
+and
+we built a portal for
+entrepreneurs so the idea was
+entrepreneur would want to know how to
+work with google and they would come
+into this portal and learn about all the
+resources that we have and we did a
+design sprint and we brought and i
+designed the first uh page of course um
+and then we brought entrepreneurs to
+actually do some user testing and the
+most common word that they
+said to describe the site was confused
+wow they were super confused about the
+site about the value didn't understand
+anything
+and that was a big like oh moment
+for me like so can i say is that
+okay anything you want
+so that was like oh i didn't do my job
+right and i learned that it was my my
+early days in product i learned that
+that happens a lot um so we did the
+design sprint and we did we experimented
+with few uh with a few designs and we
+did a new data architecture and at the
+end we brought um different
+entrepreneurs back and the most common
+word to this describe is i get it i
+understand why google is good for me so
+that's one example
+i we developed a lot of empathy we
+understood during that design sprint
+what developers are what entrepreneurs
+are looking for what are they what are
+their motivations the fact that they
+have maybe five minutes to understand
+what is the value they can't dive deep
+into they don't need a lot of word they
+just like give them the value front and
+center so that was a very interesting
+learning experience but what happens to
+you as you leave the room with the
+initial entrepreneurs that are saying
+confused and now you're sitting back and
+you're reflecting and you have to decide
+on some action steps to to change things
+what does that strategy look like for
+you so we did a process that was
+developed in stanford called design
+sprints and the key here is to re
+release yourself from a solution and
+really immerse yourself in a problem the
+problem is entrepreneurs landing on a
+dev site and they need to unders the
+need is to understand how google could
+help them
+so instead of focusing on what is good
+for google and what are like the
+programs that we offer like you need to
+start thinking about what is the value
+that you're delivering and
+as a as an entrepreneur i landed what
+what's in it for me
+right so you switch your point of view
+to the customer's point of view and you
+start playing with different designs so
+now you go into ideation stage and you
+look at different design and now with
+the new lens you look at all these
+designs and you say okay this actually
+resonates and you bring other people and
+they share their experience and you get
+a lot of signals and then you actually
+uh verify those designs with new
+entrepreneurs right and you might get it
+wrong again and then you try it again
+but usually you get it more right
+because once you change once you develop
+this empathy once you change this slide
+from what is what is good for google to
+what is good for entrepreneurs you will
+create a much better product
+i can talk about another experience that
+was pretty interesting if you're
+still
+interesting for you um when i joined
+twitch
+we already spent a lot of time and money
+building a marketplace
+for integrations between twitch and
+other games
+um i think the amount of time that we
+spent before i joined was about five
+years of person time to develop that's
+enough so we were really bought into
+that marketplace but that marketplace
+performed really really poorly
+nobody went into that marketplace and
+even if they went into that marketplace
+they people didn't know what to do there
+and didn't find value
+and i was tasked with fixing that uh
+that problem
+um and the way i did it is again this
+the only way i know how to build good
+products is to immerse myself with the
+audience so i started interviewing um
+users and i asked them why don't you
+like the basic need was vetted they
+wanted to integrate their games with the
+experience of twitch but they didn't
+understand why they need the marketplace
+and they didn't care about going and
+sifting through different they wanted us
+to tell them
+what's the right integration so instead
+of building this
+big ass marketplace with search and
+recommendation and ai and all of that we
+created an experience that says the
+minute you edit your page will recommend
+three integrations that fits your needs
+and that moved from conversion of 1.6
+to 75
+conversion
+and our users were happier and they were
+more inclined to actually recommend
+these integrations to other users so
+and that cost us that experiment cost us
+two weeks to develop wow so we moved
+from like multi-year projects to a few
+experiments
+basically we moved from
+a project that took us multi-years
+to a project that took us two months but
+actually delivered the entire value that
+our customers were looking for and it
+sounds to me that a common pattern that
+we can start seeing in terms of these
+things is that sometimes these week or
+two experiments take taking a look back
+rethinking the strategy that you've been
+playing out for months can actually be
+pivotal to your success right 100 and
+it's usually you suffer from you know
+sunk loss fallacy is you have invested
+so much in this project and people are
+dependent they spend their time and
+blood and tears on this project wow so
+what i tell my pms is always be
+passionate about a problem not about a
+solution same thing for entrepreneurs if
+you're passionate about a problem and
+you really focus on the problem and on
+the audience you actually are more
+likely to come up with a good solution
+because you're not married to a solution
+and you don't get stuck if that solution
+fails you can easily
+come up with another solution for the
+same problem so as you're approaching
+now you know as head of platform within
+twitter previously co-founder and chief
+product officer of reshuffle
+you know beyond the the tangible
+actionable steps how has your thinking
+evolved when you're thinking through
+these strategic scenarios as a leader
+you know as a product leader so first of
+all the thing that you need to develop
+is uh being humble
+you need to understand through a lot of
+experimentation that you're mostly wrong
+in many cases
+and that you need to um
+experiment in order to decide you need
+to have a thesis you need to have a core
+thesis that you're really passionate
+about you need to focus on the impact
+that you want to deliver but that impact
+could be delivered in multiple ways and
+it's your job as a leader to show people
+where they need to be and to empower
+them to find their path because if you
+don't if you are very prescriptive
+you are going to lose you need to hire
+people that are smarter than you i
+really like to work with people that we
+talked about it last time i really like
+to work with people who are much smarter
+than me to give them a mission that is
+hard and to empower them to actually
+reach that mission and if you do that
+and you get enough luck on your side
+you'll be successful and so you you've
+seen both you know big corporates
+medium-sized corporates but also the
+starters yep i'm guessing that it's
+harder to do a lot of these steps as
+you're growing the company because you
+just have many more people with many
+more opinions
+but from from what you're seeing
+what are some interesting steps that an
+entrepreneur can do to
+to raise a culture that that is that is
+humble that is asking those critical
+questions so the first thing you need to
+do is hire the right people and empower
+them basically fire yourself from the
+role so if you're let's say you're an
+entrepreneur that's really passionate
+about product and you hire a vp of
+product you need to actually give them
+the power to make impactful choices
+places where i see this fail is
+entrepreneurs that hire people to
+execute on their plan instead of giving
+them the power to actually uh to be
+empowered to do this
+an example i do this in uh in big
+corporates is i let the people who are
+least senior talk first
+because they're closest to the problem
+and if the most senior person talks in
+the room then everybody aligns to that
+person but if you start from the least
+senior you usually hear the most the
+smartest thing that actually makes sense
+was people who have actually immersed
+themselves with the problem so you can
+build mechanisms even if you're a
+startup you can build mechanisms like
+that to make sure that everybody's heard
+that everybody's included and that you
+haven't spent too much money on people
+that just execute your job because if
+they if you're hiring people that just
+execute on a vision that you create you
+you probably need to pay much less now
+amir you know you're for the past so
+many years you've been dealing with
+product and you've seen product
+growing in different organizations why
+are you so passionate about product what
+is it about this world that just
+fascinates you i'm really if i'm sitting
+with you for coffee and i'm energized by
+how you talk about products uh i think
+it's because i come from a family of
+farmers and you need to grow something
+and i'm not really good i i guess i'm
+not good at farming i haven't really
+earnestly tried it but like for me
+product is uh is creation and when you
+create something from zero there wasn't
+something and now you did some work and
+now there's a thing that actually
+impacts and it doesn't matter when
+you're creating a physical product or a
+program
+i managed a google start i we talked
+about it i managed a google startup
+program and every time i walk in san
+francisco and i see someone with the
+t-shirts of the google startup program i
+get like wow and that's passionate for
+me like i i think that impacting people
+and giving them the platform to innovate
+is is something that is a core theme for
+in my life like letting people unleash
+their creativity so you you really are
+an expert now in this world of of
+developers and wow experience i don't
+know if i'm an expert i'll i'll use that
+title okay thank you but
+you've seen developers work with
+with the greatest companies and you're
+you're really immersed yourself in
+developer platforms where are we at with
+the world
+that you've had such a strong conviction
+that this that this is the thing you
+want to be working on so i think that
+developers
+are
+amazing they their creativity powers so
+many things if you think about
+our phone it's a new thing right it's
+been here for maybe 20 years and now
+everything we do is through that phone
+we pay our bills through that phone we
+do our banking through that phone we we
+take a ride through that phone we order
+our food through that phone all of this
+are things that developers uh built on
+top of a platform so i'm really
+passionate about developer platforms
+because it gives developers the ability
+to create things that i would never have
+thought of um eric schmidt has a like a
+very um good term he said like they
+built android without knowing that
+there's going to be spotify and uber and
+lyft and all these amazing companies but
+they knew that they're building a
+platform that will enable that
+innovation to happen and for me that's
+really revolutionary if you
+there's
+few times in your career where you can
+make an impact that actually enables all
+the people to make an impact and
+that's where i that's also my investment
+thesis i love developer tools i love
+developer platforms i love places where
+we enable these creative and productive
+people to do more amazing and so what
+are some things about developers that
+you've learned over the last few years
+that you know as a developer may not
+even be trivial for me when we're
+looking at the grand scheme of things
+when you're looking at a massive
+population of developers around the
+world so i think there's a few things um
+the developers are opinionated and they
+will tell you what's broken which is
+amazing because users usually don't
+right
+users usually say yeah i don't like it
+or i don't feel like using it developers
+will tell you hey this is broken and
+here are the three things that you
+really need to fix they might not be
+right but they're very opinionated and
+they're usually rights so listening to
+your developers is super useful if
+you're building a tool i ask a tool or
+service or a platform for developers i
+ask my pms to meet developers at least
+on a weekly basis really and they
+develop a lot of value from just
+listening to that audience the second
+thing is that we're just at the tip of
+the iceberg of what developers could do
+i think that the world is going to
+change to everything we do is going to
+be touched by software i think we're
+going to have software
+invisible in everywhere that we do we're
+going to talk to software we're going to
+interact with software in ways that we
+do not imagine um i've seen a startup
+that can actually uh they claim that
+they can actually
+listen to your
+thoughts if you if you vocalize them and
+not say them so if i'm telling you
+they can actually know what i'm thinking
+about if i'm vocalized because you're
+actually running the your words through
+the through some sort of system that's
+amazing and that's a that could be a
+platform for so many interesting
+innovations so i think developers are
+the future and i think
+that audience is underserved i think the
+tools that we're using still suck
+i think build still takes too long i
+think that our developer tools could be
+much much better i think we could spend
+a lot less time on testing and doing a
+lot of boring stuff and focus on
+creativity and that's what i want to do
+amazing now i want to close the loop
+from from the beginning of our
+discussion when we talked about making
+products that suck less and you get a
+few examples of transitions that you've
+done within both google and twitch tell
+me about an experience you've had
+where you came you came into the
+experience with the understanding that
+that you need to and
+immerse yourself with empathy and really
+understanding your users and immersing
+with the problem and it worked and it
+works
+yes um
+one thing that i did that was kind of
+successful was to bring developers
+into a product in the data stage
+and that worked really well because that
+brings the validation early on before
+you launch
+many times when you release a product
+you release it and it either is awesome
+or it's not awesome and you only know at
+the day of the launch
+but something that we did at slack that
+was pretty successful was to bring
+developers into the design stage of the
+product and then they gave us feedback
+before we launched and then they built
+the products that integrated with slack
+before we launched we did that with
+threads pretty successfully so when uh
+when we launched threads
+we actually had three partners that that
+showed what's the power of threads
+through an integration with slack
+and that was
+we got the validation very early on and
+we brought our partners and developers
+into the ideation and design and
+building the product and we built it
+together and now we had high conviction
+that that will be successful and we were
+right at that time i love it amir thank
+you so much for coming here enjoying
+having me i have three more questions
+okay and i want to take you back to your
+childhood okay
+what fascinates you in your day-to-day
+it's before there were developer
+relations and dev tools what i wanted to
+be an astronaut uh that really
+fascinated me the core experience that i
+had as a kid was either being extremely
+bored
+or extremely fascinated about about a
+topic
+so when i was bored i was depressed i
+didn't i did i i was super sad like the
+first few days of every vacation uh like
+school vacation i was super like what am
+i gonna do i'm gonna be super bored and
+then i fell in love with something and i
+just focused on it crazily so that was
+my experience as a kid now when you're
+saying focus on it crazily what does it
+actually mean back then for you does it
+mean just immersing yourself many many
+hours
+reading about being an astronaut and
+taking pictures of and thinking about an
+astronaut and writing a story about
+being an astronaut and like and and the
+second is like being a superhero what
+does it mean what are the types of
+superhero how can this superhero beat
+this superhero so like either being
+bored or super fascinated about usually
+useless topic uh that really delighted
+me but do you see that that same
+behavior of course i'm the same per i
+i'm probably not the same person but i i
+feel like i'm either
+super bored and i can't do boring stuff
+and that's my i just can't do them or
+i'm super passionate about a topic and
+then i look at it and i think about it
+at night and i wake up in the middle of
+the night and write some notes about it
+so i'm either super passionate about
+something or very bored with it i love
+it and today in your day today you've
+done so much already but what inspires
+you to continue you know you can really
+do anything you want in the world right
+now why why do you do what you do what
+really inspires you in your day-to-day
+it took me a lot of time to figure that
+out and i tried a lot of roles
+and what i found is that i'm a domain
+specific person there are people who are
+passionate about product there are
+people who are passionate about
+engineering i was passionate about a
+domain i might and my domain was
+developer platform so i did
+marketing and advocacy for platforms and
+i did i engineered some platforms and i
+did product for some platforms but i
+found that i'm i need to be passionate
+about a topic and the top and the topic
+of my career was developer platforms
+very very cool and what are three words
+you used to describe yourself
+yeah that's that's a good one um i i
+like douglas adams so i would say do not
+panic would be my uh three words
+because i
+i tend to think that most things should
+not cause panic uh and you should be
+chill and if you're chill about life
+then life treats you pretty awesome even
+if like there's hard hardship which you
+all experience
+this was amazing and thank you for all
+the inspiration over the years and being
+the first episode and and here and i'm
+inviting you to another episode in
+another few hundred episodes thank you
+for having me a lot of fun thank you
+have a good one

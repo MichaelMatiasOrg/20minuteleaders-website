@@ -1,0 +1,530 @@
+frankly as an insurance company a lot of
+times it's really hard to know what's
+going on
+under the hood
+so our pitch is to deliver a platform
+that really helps with data
+to solve these three pillars uh and on
+by using that will also create a great
+customer experience to the insured at
+the other side of things to um
+to help them you know fix their problem
+as fast as possible and on the best way
+possible
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel an in media
+partnership with ctec
+welcome to 20 minute leaders today we're
+going to be talking to michael crickely
+co-founder and cto of five sigma an
+ensure tech company helping insurers
+optimize claims handling processes
+through data previously michael was
+leading r d teams within the prime
+minister's office he worked on multiple
+ground-breaking projects including one
+that has received the israel defense
+prize michael is a data science and math
+enthusiast with a bsc and msc
+mathematics from barulan university
+hey
+michael crescelli welcome to 20 minute
+leaders how are you great michael uh two
+michaels at the same call this is great
+uh two michael's on the same call
+exactly i'm really really excited to
+talk to you about your own journey
+and
+and what you're doing today is
+co-founder and cto of five sigma
+you've had some pretty great
+announcements over the last few weeks
+with some exciting funding grounds to
+continue on your mission and i'm always
+curious about people's journeys and you
+know with the background primarily
+mathematics all the way to now working
+in the claims industries and free to be
+sas i'm excited to to hear a little bit
+about that and your entrance to this
+world and you also serve in the prime
+minister's office you a recipient
+amongst others on your team for the
+israel defense prize and
+which i was also honored to be a part of
+a couple years back in my own service so
+so to michael's and we share some other
+things and and i know how meaningful
+that is as well so yeah i can't wait to
+hear about you know your the great work
+that you're doing tell me a little bit
+about you about you know your interests
+and and how you perceive sort of your
+entrepreneurial journey
+well i was always an interested guy at
+tons of things uh and i was always kind
+of a geek
+and i really started as uh
+as a math geek uh
+so math was really
+was really my thing
+when i was growing up so
+you know frankly like computers i didn't
+really care about or didn't like
+i wasn't one of these geeks that had uh
+broken computers in their garages i was
+like solving equations and what i i used
+to do um and then
+somewhere i did my
+bachelor's degree uh during my high
+school days and then uh the prime
+minister's office opportunity uh came
+into play as my role uh in the army and
+really there is where i
+i dived into
+uh software right this is what this was
+really uh where i learned um software
+but
+what we actually learned there is not
+even
+software necessarily but how to use
+technology to solve operational problems
+that's like
+and this was the greatest school ever i
+think that i think it was uh an amazing
+pressure cooker for
+19 year old
+a guy from uh from batiana was like uh
+most of my days overwhelmed um wow and
+um
+but but the thing is like you get used
+to it right so then when someone comes
+and say hey please solve this impossible
+problem
+you need to do that by the end of this
+month and it has to work
+uh you kind of get used to it so this
+was kind of the rhythm of um
+of how uh how our things uh went there
+uh and i think that a lot of what i'm
+doing now and a lot of what we're doing
+with five sigma is bringing that
+mentality of
+finding an operational problem
+being geeks and like loving technology
+and mapping technology to solve these
+operational problems and i think that
+this is the best way to do things in the
+world uh a lot of
+you know a lot of things are coming from
+just tech uh and we were really wanted
+to dive into learn a world that we knew
+nothing about like insurance claims uh
+like i didn't even know that something
+like that exists
+then you know a few years later
+come and say hey
+you know you're doing it a little bit
+wrong let's do it better together
+this is the like the best um
+i think the best way to describe
+entrepreneurs right just
+deep dive into a problem sometimes you
+know something about it many times you
+don't and just use everything you know
+and uh and your
+skills to do something about it you know
+i love it i i love the mentality i
+couldn't agree more about the experience
+and both you know the entrance to it and
+the overwhelming nature of it but also
+getting used to it
+and not making it a part of just the
+school but maybe making it a part of the
+mentality of who we are and how we think
+through problems and following with the
+excitement of diving into something you
+know literally nothing about and and
+often i think a lot of people agree that
+they're real ingenuity comes from those
+that don't know about the industry and
+are coming to
+with with fresh new eyes tell me a
+little bit about it about insurance
+claims and how you perceived the problem
+that you're then solving with five sigma
+yeah sure so
+and um
+we can talk about the journey we had uh
+different words for it but now we can uh
+articulate it uh
+uh very crisp i think that uh we are
+solving a problem that's close
+that is called claims leakage claims
+leakage is basically uh the difference
+between
+this process the optimal process of
+handling claims uh right so how would
+you want to handle claims as an
+insurance company or as a user or as you
+know uh a broker or as someone that's
+part of this journey which is very
+complicated across multiple uh vendors
+and uh what's going on today in the
+world right what's the real uh
+the reality of handling claims nowadays
+um and there's a huge gap between these
+two um and this gap is called uh well
+the financial problem of this is called
+claims leakage um and i think that as
+everything in insurance this is a huge
+problem to solve
+right it is estimated at around 100
+billion dollars a year in the us only
+wow uh so this is our playground right
+this is the value that can be created um
+and then
+our our thesis is that a lot of what the
+the problems are not really about
+bad mentality or you know bad employees
+or people uh but rather uh outdated
+technology at the core right and our ph
+is that we can create a
+a core system a core claim system um
+that's uh based on data and that
+leverages data in three main ways one is
+automating away a lot of stuff
+uh that no one needs to take care of the
+other is helping with decision-making
+because there's so many decisions to be
+made throughout this process and then
+lastly
+showing everyone what's going on in the
+organization right this is
+the centerpiece of
+where your exposures are and where you
+your entire payout essentially is and
+where um
+your risks are and frankly as an
+insurance company a lot of times it's
+really hard to know what's going on uh
+under the hood
+so our pitch is to deliver a platform
+that really helps with data uh to solve
+these three uh pillars uh and on
+by using that we also create a great
+customer experience to the insured uh at
+the other side of thing to um
+to help them you know fix their problem
+as fast as possible and on the best way
+possible
+what what are some of the challenges
+associated with this so obviously
+anytime anybody wants to tackle a
+hundred billion dollar market gap
+and and anything that has to do with
+regulations let alone insurance a lot of
+challenges arise what are some of those
+challenges
+yeah i think that um
+the challenges are uh are varied right
+so insurance tech uh the technology
+right now in or in older insurance
+companies right there are
+a lot of already deployed systems uh and
+there's a lot of ecosystem around these
+systems so
+looking into hey i'm gonna replace your
+claim software uh a lot of
+a lot of both on the i.t side and the
+claim side really look at that and say
+oh my god but this is like the heart of
+my operation what are you talking about
+uh but you know
+right now insurtecus is of course a huge
+deal uh across the world right company
+great companies like lemonade and hippo
+and roots that they're created
+essentially a new way
+of insurance and with
+an entirely um
+an entirely new stack
+uh now
+other companies say oh okay so a it's
+possible and me i need to do something
+about it
+and i need to do something about it from
+the core
+and this is where we come in and say
+hey
+this is the way to go right we can do it
+fast we can do it in a sas way an
+iterative way and we can create so much
+value um
+during that process and i always tell
+everyone is that we
+uh we did a lot and we're just getting
+started right so
+this hundred billion dollar problem uh
+is not solved yet um
+but um
+we're really excited on exploring more
+and more of it you know
+right now
+five sigma very quickly where does that
+the name come from does it have a
+meaning with with what you're doing
+yeah
+not really uh okay basically it comes
+from uh
+it comes from
+high uh high certainty in physics uh
+and we were five founders when we
+started uh so you know it was a long
+discussion that ended up with five sigma
+uh which was um
+which was great and uh in
+when we began we really wanted to
+uh we're kind of looking for we're
+really passionate about data so we're
+looking at problems that uh data can
+help with right so data and data science
+can help with
+and then
+studying this industry we said oh
+five sigma sounds uh
+uh
+sounds academic enough
+so it kind of worked for us
+right i think that you know the the
+whole concept
+of
+of tackling a poem like you're tackling
+is something that you know makes me
+excited as a you know as a future
+entrepreneur something that you know
+just you know i can feel the energy
+resonating from you and then how you're
+excited about just not not even you know
+the financial aspects of it or but but
+just the impact that you can have on
+such a huge problem that you're facing i
+think it's i think it's really
+incredible now as your
+you know cto of a rising startup that is
+growing quickly and with some incredible
+investors and incredible partners
+what is how is your role shaping in your
+eyes how is your role transitioning you
+know from just co-founding the startup
+up until now and how do you prepare
+yourself for what's to come
+wow that's a great question and i think
+that
+you know startup
+companies are
+as you
+look at them throughout their timelines
+right they are just different companies
+they have the same kind of vision uh and
+there is the same goal but you know
+when we started off
+on the couch in my living room we were
+very different than uh a year ago and
+now we're kind of building towards the
+right so how is the organization gonna
+look like and i think that what really
+what's really unique about founders is
+that they cannot do what's needed right
+so they just
+pick things from the floor and say all
+right so we don't have that let's some
+someone do something about it
+and we had a lot of that um
+when we started and uh you know i was
+always very on the tech side on one hand
+but also very customer facing
+uh and i still am i i really like to do
+demos i like to talk to customers i
+really like to get their feedback um and
+then you know say all right so you know
+we started off with this is the vibe
+that i'm getting you know we had
+nothing but no this is feelings that i'm
+getting from from our calls and now
+we're really in a place where uh we're
+growing as an organization and we are um
+hiring um
+hiring everything basically uh but then
+uh this is where we kind of wanna build
+an organization that scales and
+my job really changes towards the right
+you're you're basically need to manage
+manage that team and rather than just
+doing demos uh i will definitely do some
+of them uh but that will not be my main
+role anymore you know
+obviously your work now is is quite
+different from the work you did in the
+prime minister's office and before that
+where you know where do you find your
+own inspiration or or your own
+excitement within what you're doing what
+what is it about your day to day
+that really gets you up in the morning
+and you know makes you so excited about
+what you're doing
+i think it really boils down to the team
+that you're working with the day-to-day
+i think is 100 the team uh
+whether you're working on
+uh
+uh something that you know that sucks or
+you're working on the most exciting uh
+task in the world uh if you have your
+co-workers and uh
+that you love you know
+working with drinking coffee with
+drinking beer after work with i think
+that this is the excitement that comes
+along with all right so everything that
+we're doing um
+really
+comes with a lot of learning because i'm
+a first-time entrepreneur so like i
+always say to everyone i'm a co-founder
+the first time basically i'm doing
+everything and i know nothing
+so
+i'm always kind of learning you know so
+i always learn and learn new things
+about myself and about the company and
+about you know what we're trying to do
+what we're trying to achieve this is
+exciting for me
+now if you go back a little bit you know
+before the army before five sigma
+obviously
+you know who who are you as a person
+who's michael as a person
+you know what are you really curious
+about what drives your fascination on
+the day today
+yeah i i think that
+i really love
+challenges i really love to do
+hard things and uh this was this came to
+math when i was a kid and it came to
+uh you know i was playing the piano uh
+for a while so uh i only pushed myself
+really hard to do better and better at
+everything right whether it's piano or
+sports or uh or math
+um and i was always kind of
+running towards a challenge
+and
+and this is i think how i saw things um
+and i was really a geek so you know
+i really like solving uh solving
+problems and learning things um all the
+time did you know that entrepreneurship
+is gonna be your route or that creating
+a company is going to be a route because
+you know i i also know a lot of people
+that are you know they're engineers
+they're mathematicians being an
+entrepreneur and being a co-founder
+isn't you know their top priority
+they're more excited to be you know in
+the in the weeds and the needles and and
+actually going and being mostly hands-on
+yeah frankly i had no idea if you if you
+would tell me that i'm gonna be an
+entrepreneur i would laugh at you
+probably like i don't know seven years
+ago we kind of wow i kind of stumbled
+into it you know i was just one day i
+was at my couch with uh a great group of
+people and we said can i all right let's
+do something you know and um
+and then it came
+everything came after that uh
+what's the most surprising thing that
+you learned you know about this journey
+that that perhaps you didn't know back
+then that maybe you know me or my
+friends don't know yet before we go on
+our own journey
+yeah i think that
+a lot of what i've learned is the power
+of community there's a huge community of
+entrepreneurs uh
+everywhere but in tel aviv uh especially
+and uh now what you're doing and hearing
+these stories and then uh talking to
+people that were uh there can really do
+two things one is help you with making
+decisions but even more importantly help
+you not feel
+uh stupid and not feel alone and not
+feel a failure uh which is especially in
+the beginning it's kind of if you don't
+talk to anyone it really stands this way
+all the time you know
+100 100 percent uh i and i think that
+you know the the journey is an exciting
+one and i can and i have to say that one
+thing that i just i get energized with
+this conversation it's it's the way that
+you perceive it empty and sort of the
+excitement that you bring with it
+because obviously you know there's a ton
+of issues and a ton of problems that
+everybody faces
+from hr to the you know the team that is
+the most important to the actual
+technology and the problem but the exam
+with which you bring with it is just
+exciting now if i were to ask any of
+your co-founders employees investors who
+michael really is what are some words
+that would come to mind
+um i think that they will say that um
+i'm kind of interested in doing
+a lot of things so i'm really not like
+all right i'm gonna be the best
+developer out there so you know i'll do
+marketing one day and sales one day and
+this kind of thing uh
+hopefully they'll say it all nice i hope
+and uh and i think that they also say
+that i'm
+always like a pusher so i'm pushing
+forward uh and i also
+i guess that i'm also kind of calm uh
+sometimes i can't see that
+yeah sometimes too much
+and there's a good balance between us
+in the group you know to wake me up
+sometimes
+when you need to go wake up you know
+wonderful michael thank you very very
+much this was so enjoyable best of luck
+with five sigma solving a very very
+important issue
+and i'm excited to see where where the
+company is headed and thank you for
+sharing this time with me i really
+appreciate it thank you so much michael
+i had so much fun
+thank you
+[Music]

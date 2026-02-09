@@ -1,0 +1,639 @@
+i started writing code when i was 10
+years old um it wasn't something in
+school something was just pure curiosity
+i had it fast forward um
+i got to the eight one unit in the in
+the intelligence forces here in israel
+um spent five years graduated as captain
+and then when they left the army
+it was pretty clear to me that
+i am going to open my own company
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret core adventures j ventures
+riverside fm
+fusion vc
+birthright excel
+j impact
+leap google for startups and hippo and
+in media partnership with ctec
+all right welcome to another episode of
+20 minute leaders today i'm with lyran
+hassan the co-founder and ceo of aporia
+a full-stack machine learning
+observability platform used by fortune
+500 companies and data science teams
+across the world to ensure responsible
+ai
+prior to founding aporia leron was an ml
+architect at microsoft acquired adelum
+and later on an investor at vertex
+ventures
+niran created aporia after seeing
+firsthand the effects of ai without
+guardrails certainly a crazy world we
+live in and i'm really excited for this
+conversation with lyran
+[Music]
+i get to ask you my favorite question
+which is why do you do what you do
+why do you wake up every day
+running this crazy startup looking at
+machine learning observability and data
+science in general uh what what is sort
+of your north star and why do you have
+the coolest job in the world so i'd love
+to hear more about you
+oh well
+uh yeah i have a lot to say about that
+so
+there are a few questions what you ask
+like why am i running a company from the
+very beginning then why specifically
+machine learning and effort what
+specifically observability for animation
+like so this is kind of
+the way it's here
+so first where do i
+why did i start my own company in
+general
+well i started writing code when i was
+10 years old
+it wasn't something in school something
+was just pure curiosity i had a good
+friend of mine who was able to build a
+website gave me a call
+really read to me at 200 characters
+address website address i remember
+typing it in my computer and then i saw
+his website and for me it was like
+mind-blowing the fact that he built
+something on his computer
+and i can open it and access it from my
+computer it was crazy
+um so it got me super curious about how
+do you create this thing
+and then i started really creating uh
+websites so learning um html and then
+asp and then other languages some of
+them are not in existence or it not
+being used today anymore
+but really
+what got me engaged so so much as a kid
+um was about
+having some things in idea in your mind
+and then really designing it back in the
+day i was using photoshop for depth and
+then really actually taking this graphic
+implementing writing developing it and
+make it real so people can actually use
+them
+um
+there were a couple of projects today
+that was a lot about creation it was
+amazing uh from my experience
+so
+fast forward um
+i got to the eight one unit in the in
+the intelligence forces here in israel
+um spent five years graduated as captain
+and then when they left the army
+it was pretty clear to me that
+i am going to open my own company
+i really like creating
+in general but more specifically i like
+creating products you know like creating
+teams um up until this date i'm still in
+touch with
+like one of my best some of my best
+friends
+where
+my my subordinates from the army
+wow
+so it was all about that and it was
+really every decision i made in my
+career was about
+what's going to provide me with
+more skills more experience that will
+make me a better ceo a better founder
+one day when i will open my own company
+was it a trivial um
+a trivial progression for you from from
+researcher engineer very detail-oriented
+very execution-based to now more of a
+leadership style that now you're you
+know you're being measured not by your
+own work but by the work of your
+subordinates or team members in the
+army's perspective or now you know by
+the company that you're running i guess
+you don't get to write much code in you
+know in the day-to-day
+yeah although last week um i was able to
+help in some engineering issues that we
+faced so
+oh but yeah i'm generally i'm not
+writing code today
+um was it natural it's a good question i
+feel like
+you know it's really about how you feel
+new you are as a personality um in my
+last role in the army
+um that was kind of the things i was
+doing so i was managing a team of people
+but i was writing code i was managing
+the people we had a project that
+included thousands of people that are
+really i was really leading the
+direction of this project
+um
+i wouldn't say that they did business
+marketing sales back in the day but
+then that's exactly what i looked for in
+my next positions right so when i joined
+andalon as one of the first two plays
+i was really curious to find a place
+where i'll get the first
+the this sit in the front row
+to see how a startup is being built
+but also on the business line um and i'm
+like super thankful for adolescent
+founders who gave me the opportunity
+to go travel to the us meet with our
+prospects
+uh you know it's not so obvious to take
+a software engineer
+and put him against like in the room
+with fortune 500 company and let him
+lead the technical discussion
+um so right this is an amazing
+opportunity that i have
+and really i think in adulthood i got
+exposed
+to how sales is done how marketing is
+done before at all like for me marketing
+and sales consider as the same thing
+um
+so i think adolin was amazing school for
+me to learn all these things
+and then moving on to vertex ventures
+more being on faster side allowed me to
+gain some more insight about why some
+companies are most successful while
+others are less um how should i evaluate
+different market opportunities as well
+as when building a company how should
+you you know
+choose your board members if you have
+this luxury um and stuff like that so
+right i did board with i wasn't born
+with you know all this knowledge but
+it's something i accumulated over time
+and i'm still learning i think the most
+important thing in the startup is really
+to learn every day
+so it sounds like through a variety of
+experiences you you got to to to really
+do a deep dive into these different
+aspects which now you're you obviously
+have to consolidate yourself as a leader
+and then transitioning more too to the
+machine learning aspect and sort of the
+domain that you've chosen to run a
+company you know you're you're at a
+position
+after being a principal investor at
+vertex which is a phenomenal phenomenal
+fund um and you you now say okay what do
+i want to do what is sort of the thing
+that i want to work on for the next 10
+years that will be the most meaningful
+and fulfilling for me and my team how do
+you converge on on your world why is
+machine learning observability
+and the problems that you're solving why
+are they so fascinating for you
+right so
+it wasn't the first
+option or the first time i was you know
+introduced with the idea of starting a
+company in a specific field but i
+actually waited from the moment i left
+the army till i started up for you for
+five years for the right moment and the
+right opportunity so what what was in
+there um and i'd say there were two main
+things
+so
+the first thing for me it was
+really about the opportunity to do
+something impactful
+right and when you think about ai
+um
+you really see ai taking over
+um and ai becoming as large as software
+and maybe the future is going to be even
+larger than software
+um and it's really getting into every
+vertical whether it's healthcare
+financials
+autonomous cars it's really everywhere
+in every vertical
+now
+when you think about the impact
+of all these models there of
+this technology it really allows us as
+society to do things that were
+considered as if possible or very very
+costly before right
+now if you think about it um very
+similarly to software ai
+will say like it's the unfortunate
+reality that we're living in and
+therefore every place that will in every
+organization that will adopt he's
+adopting and will atop the ai
+they will have to have
+something to monitor their machine
+learning models
+and really
+having an observability solution is no
+less than enabler for this
+technology
+so this is the first reason and then the
+second one
+is about the market opportunity here
+right
+so
+i was i was waiting for five views i
+really wanted to build
+a large company um not talking about
+valuation by the way not talking about
+either revenues or how many employees
+but rather
+having a company building a company
+where
+we build a product that our customers
+our users really enjoyed using it really
+driving and deriving value from this
+product
+when the question of for you all comes
+to place it's not a question it's pretty
+clear
+so this was uh one thing about it and
+the second is to build a place where
+people are coming and starting the work
+day with a clear understanding of why
+they're doing what they're doing what's
+the impact of what they're doing so
+clarify for me a little bit about this
+the notion of deriving value from the
+product because you know on one hand
+you're saying this is not you know when
+you sing big company we're not
+necessarily talking about valuation or
+or or market cap etc but because those
+are very quantitative are you talking
+about something a little bit more
+qualitative which is how much value are
+you getting from this how do you as a
+ceo sort of
+how do you explain now the value that is
+being given by aporia or whatever
+solution you envision as you as you grow
+this company what is this value that is
+dramatic for companies
+so i think the value is really about you
+know
+really leveraging ai whether it's
+insulin pumps that you want to know
+um how to use it and what is the exact
+um
+the exact ranges in the blood and so on
+whether it's autonomous cars which can
+save us a lot of times as humanity so
+this is the impact really enabling these
+things to
+be used in real life i think this is the
+true impact uh but for that really to
+happen
+it doesn't it it's not enough to have
+you to pay a lot of money for a company
+to do that for you but really to use
+this solution
+so when we look at a company about what
+we care about we care about the usage of
+our clients with the plot with the
+product and one of the things we are
+really proud of is to see
+our users using the product and not only
+they're using it they also
+advocate for it and you can see on slack
+communities in the envelopes community
+indeed communities that people recommend
+that you know if you're looking for an
+observability solution well you must try
+for it they promised he can be up and
+running in less than five minutes and it
+actually it's actually true so these
+kind of things
+interesting and so
+one thing that we were talking about
+here
+is the sort of the growth of ai into
+every vertical right and the fact that
+today machine learning models
+you know they're not just for the large
+companies that are doing the really
+complicated things it's really for every
+day
+every
+probable task that a company may need
+they can leverage machine learning in
+one way or another so just looking back
+to this because i think it's a really
+important note
+why why is observability important here
+i mean you know this is not something
+that people talk about often why is this
+something that we should that we should
+invest in that we should actually care
+about is either as a company or somebody
+who's using the product of the company
+right so let's say what happened if you
+wouldn't use if you wouldn't have
+observability or monitoring from school
+anymore
+which basically means that you're led
+you're you're creating the model you're
+not really looking too much about your
+biases your data you're just sort of
+letting it run black box and how we say
+nebraska
+exactly
+right so let's say you're very
+optimistic and you let them just run
+freely i'm an optimist
+yep
+oh well
+so
+there are a few examples uh really
+unfortunate ones whether it's zillow who
+found themselves losing 300 millions of
+dollars in revenues um as a result the
+very same week their market cap got
+sliced in nine billion dollars
+um so this is just one simple example
+but it's not really only about money um
+there were there was an example in where
+amazon tries to leverage ai
+to prioritize job resume because a lot
+of people you know submit their resumes
+to to amazon they really just want to
+prioritize the more relevant candidates
+and while they were actually able
+to come up with
+very successful models they later on
+realize that their models are biased
+against women
+and this was although they didn't use
+gender as an input to their model and
+this is really where the challenge lies
+right these models are black box it's
+not like traditional software
+uh so really how do we use this
+technology without discriminating
+different people with making sure that
+everyone has the same equal opportunity
+um these days right um how do we make
+sure
+that ai is being used for good and not
+for bad so
+it's really about all these questions
+why ml observability is so crucial
+right so now going going back to sort of
+you as the entrepreneur as a ceo and and
+a little bit about your take on this and
+growing a company what is sort of top of
+mind for you as you're navigating
+through this you know the awesome
+technology the great impact that you're
+building
+you still
+choose to go and fight this every day
+into and to create a big company
+what what are some things that you're
+thinking about what
+what what what do you think about before
+you go to sleep
+oh i'll think about a lot of things
+before i go to sleep
+um do you want to be more specific
+as if as the ceo of a fast-growing
+startup that is making a big impact and
+your position to hopefully be integrated
+into a lot of the work by a lot of
+businesses from large to small what are
+things that you're that that you're
+putting that you're prioritizing as a
+ceo as a leader here
+sure so
+listen we've been able to build an
+amazing product but it's not me saying
+it's the community saying that
+um pretty recently we closed our series
+a round and now we're growing very very
+rapidly as you mentioned no
+it does create some challenges of growth
+we have amazing culture here we have the
+smartest people here in israel working
+on this product
+i mean always we are expanding both in
+israel and in the us
+it raises some new questions right like
+how do we keep the culture
+as it was before
+how do we grow rapidly without breaking
+things like it's important to break
+things and create them quick but how do
+we keep
+the things that are important for us the
+same way they are or how do we update
+them to the new state of the company um
+i think this is kind of one of the
+things that i'm thinking and
+about a lot about
+interesting and as you're as you're
+obviously having to keep in touch with
+the cutting edge of technology and
+machine learning
+is this a you know a lot of research
+that you need to do
+how do you balance between your own
+offerings versus keeping in touch with
+sort of how the long tail of businesses
+are leveraging ai today because this is
+also changing dramatically year in and
+year out we've just seen what's
+happening with nlp and and you know the
+emergence of nlp now into small
+businesses which hasn't really happened
+yet but it will obviously emporia is
+going to be a a big part of that
+yeah absolutely so by the way lpf3 gets
+an amazing example right how
+in the past you were able to see
+democratization of this technology and
+when you think about it doing enveloping
+traditional software it's much it's it
+is much more complex than with tabular
+data and that's why you see a lot of
+adoption of ml with nlp related use
+cases
+so as for us
+you know and for our product the way we
+build our product roadmap
+is highly correlated with the market
+um
+we take a lot of the inputs from our
+existing customers as well as we talk
+constantly with the market now whether
+it's analysts whether it's investors
+whether it's potential customers of
+course
+um really to identify what are the
+trends
+and what is the best way for them what
+are they looking to get from a product
+like apporia
+and based on that that's how we
+prioritize the build up and
+in according with that we have also
+however an in-house research team which
+constantly conducts research for example
+in ancient nlp one of the things we are
+researching internally is to find better
+ways to investigate nlp issues and to
+gain insights about how to improve nlp
+models
+hmm interesting and uh yeah obviously
+you know we can all imagine what
+happened if a if somebody uses black box
+nlp on a
+with some bias or in some context that
+is not exactly what you intended and
+what are the implications of that
+as nlp is very human oriented in in the
+real world
+you know you mentioned that that you're
+in all of the the people that you work
+with whether it's their intelligence or
+their their nature and
+if so if you know there's so many
+amazing people around the world and i'm
+always curious how do you sort of
+position emporia as you're as you're
+trying to bring them on and and bring
+them to your team
+what is sort of your persona if you had
+to to envision sort of the person the
+type of person that you're attracting to
+a porya or to your own mission in this
+world
+what what is this persona what do you
+truly care about about the employees
+you're asking
+yeah who do you want to partner with you
+on your journey here
+yeah so first i'd say sole players
+people who are
+really passionate about what they're
+doing they care a lot about that
+um because really i think there is no
+one employee in our company that doesn't
+know what we're doing um so this will be
+the first thing being the sole player
+being part of a family i know there's a
+lot of discussion on this company family
+or not
+um i like i like to call a porya team uh
+you know even though we're a couple of
+teams um it's still a team it's not a
+group of people we're trying to a team
+collaborate together
+um so it's a lot about the personality
+um
+winners in their mind like people here
+will do everything it takes in order to
+win
+and you know we'll work the winners
+holy days we'll do whatever whatever it
+takes in order to win
+um
+and also people who are very very smart
+i usually like to evaluate people on
+three different aspects
+first would be motivation
+then it will be skills and for the
+culture of it
+so we do look for
+you know uh to fill in all these free
+chat boxes now when we are evaluating
+people to join emporia
+and in general when evaluating people i
+don't like to call it interviews um i'd
+rather believe it more fit and mutual
+fit
+yeah so
+that's kind of the way we also evaluate
+these kind of opportunities more whether
+it's a mutual fit for us in the
+candidate or not
+right i mean it sounds like in
+especially today rather than maybe even
+a few years ago it's much easier to sort
+of understand the benchmark of a person
+in terms of what they know and what
+their current skill sets are which
+perhaps was the main
+a pro injury process up until a few
+years ago but now we have so many ways
+of getting these
+off the ground that once you actually go
+and you start a site a ping pong with
+somebody you kind of as you kind of know
+that they're you know a right
+professional fit now the question is are
+you a part of the team and and there you
+go comes the winning the winner
+mentality the ability to to under to be
+truly passionate about what you do and
+so on thank you very very much i
+appreciate your time i love you know the
+problem that you're dealing with i truly
+care about
+um you know observability and machine
+learning and looking a lot as to
+fairness and figuring out how the hell
+do we make sense of this new world that
+we're going into where
+everything is going to be driven by
+machine learning models and ai models
+and
+we need a lot of support to be able to
+understand what's happening and and when
+to pull the brakes and when to push the
+gas and it's not trivial so thank you
+for your work thank you for your time
+and best of luck with aporia thank you
+very much michael appreciate your time
+thank you
+[Music]
+you

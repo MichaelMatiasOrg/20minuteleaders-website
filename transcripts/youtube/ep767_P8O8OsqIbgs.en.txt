@@ -1,0 +1,645 @@
+you have the people the technology you
+have the product which is amazing and
+challenging and the business that drives
+it through
+so you know it's a that's just a
+successful company and you see the
+people that come in and those are the
+people that you know they i think that
+they look at placer and they understand
+the story
+on our growth and they want to do the
+same they want to be part of the success
+which is just unbelievable
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with c-tech
+welcome to 20 minute leaders today's
+talk is about architecture but not the
+type of architecture that we're used to
+made avigabai the chief architect of
+placer ai
+avi joined placer ai in august of 2020
+as chief architect in order to help
+build a world-class physical market
+intelligence platform which helps
+businesses make data-based decisions avi
+was born and raised in a moshav in the
+center of israel then moved with his
+family to shanghai china where he spent
+his teenage years in high school avi
+became fascinated by computers
+programming and technology he later
+returned to israel as a lone soldier and
+served in 8200 as a group leader of
+intelligence analysts avi is an
+experienced software engineer and
+architect and has worked in many
+enterprises and early stage startups avi
+holds an msc in computer science and a
+global mba majoring in innovation and
+entrepreneurship from idc hurts leah
+your background is so fascinating from
+being a founding member at corelogix and
+then activision and director
+architecture platika and variety of
+other
+positions
+all around in between but today also
+architect at placer ai one of israel's
+cornerstone startups and they were all
+very very proud of in the scale of
+nation but
+i you know i have to say that you know
+besides having a common thread of them
+being deep tech software companies you
+know one of the things that make it
+really unique is the fact that you've
+been building architectural projects for
+so long and not the kind that we're used
+to seeing in the houses but more in
+software and and that you know i really
+want to start there avi what does it
+mean to be an architect in your eyes
+okay so
+you know in my eyes and um you know an
+architect um
+the first thing is uh is a plumber right
+and uh the end of the day you know like
+you talk about buildings it's it's about
+the plumbing first right and i also call
+myself chief plumber even though i hold
+the chief architect position and the
+idea is that you really need to
+understand how the piping on the system
+is connected
+where there are leakages
+how can you replace them with minimum
+collateral damage
+and
+how do you build right how do you add
+more to that building right
+so if we have a system so how do we make
+it plugable so that we can really
+replace parts of it while it keeps
+running with minimal downtime or even no
+downtime hopefully and uh and for that
+you need to
+to know the the real you know the stones
+the building stones of your
+of your company of your of your code and
+your system and as i and we always say
+you know in placer when me and my chief
+rnd when we discuss there's really this
+sort of like dolphin movement so an
+architect the one hand you know stays up
+high looks at everything and at some
+point he needs to deep dive he deep
+dives you know it takes a lot of errand
+days long it deeps dive into the code
+you know whether if it's taking a new
+project or to replace something existing
+or to solve a very specific problem
+and then after a while needs to go back
+up and look you know things that are
+more strategic to the company and then
+there's really this sort of like dolphin
+movement of going in and out the water
+um to push the company forward by
+understanding
+what is going down in the field on one
+hand and you know when visiting
+um what the day-to-day developers are
+doing the engineers and on the other
+hand you know go go up look at the
+management look at the business product
+and understand
+how we make sure that you know our
+architecture our system is able to scale
+and meet our customer needs um of course
+in a timely manner because time is
+always of the essence but but what does
+this actually mean in the day-to-day so
+you come into the office what do you do
+do you open the git repository and start
+code review do you go to the executive
+team meetings and and talk about company
+strategy
+how do you
+balance all these things
+so the day-to-day
+changes as i said um it really changes
+based on priority and based on the
+challenges that the organization is
+facing and that's what i love about my
+um about my day-to-day is that today
+didn't doesn't look like yesterday or
+the day before
+of course i'm right here today with you
+so that's completely different and
+special day but you know i come to the
+office first of all um today i'm acting
+as cheap architect so i have my team i
+have an r1 architect
+in my team um on one hand on the other
+hand i'm running all the production
+engineering they are really the arm of
+the infrastructure so there's two teams
+that i'm running as a manager today um
+so there is you know taking care of
+people making sure that missions are
+getting done of course i have team leads
+there but still you need to make sure
+that everything is moving on the other
+hand
+you look at problems within the
+organization we have new features coming
+out we have issues with our current
+features that we may need
+to rewrite and this is really when we go
+into design sessions or we understand
+that there's some sort of an escalation
+that happened whether it's because of
+the customer or because we see
+services keep on crashing or it might be
+because of cost is skyrocketing and then
+you're saying okay i need to go ahead
+and figure this out so do i do it myself
+is it a problem that really requires my
+attention or maybe can somebody else do
+it under my guidance
+and this is really what my team is for
+is so that they can you know sort of be
+the front line and on specific problems
+that might be very very tactical and
+they'll need some extra help um this is
+where i go in yes i go into the git
+repositories i code whether if it's uh
+infrastructure code and you know moving
+deployment um across the board and
+making them some sort of shared
+libraries or whether if it's like new
+products for example our placer api
+which we released um about three months
+ago um it was a project under my lead me
+and
+my architect ilya
+we did it we we did a blitz over a
+weekend and just you know wrote this
+whole thing and
+just like startups right we made a poc
+and mvp got a few customers to test it
+brought some more people on the team and
+at a certain point you know we left the
+architects leave you move it to the
+day-to-day management of you know great
+managers that we have in our company
+that can take this product and scale it
+but the building stones the ideas um
+how how it is designed and how it can
+scale and bring in more and more
+customers um this is of course the work
+of an architect uh even though i will
+say that you know i believe that
+everybody needs to be an architect in a
+way right all the engineers need to
+understand the bigger scope it's very
+hard not all of them have the
+capabilities yet but if we look at um in
+a world you know when everything is nice
+and green i would say that everybody
+does architecture the design is not my
+responsibility it's not my only
+responsibility right i i look at the
+whole system i look at strategy and make
+sure how we move it into something more
+tactical and operational
+but all the engineers themselves of
+course they need to know how to design
+they need to understand the impact of
+when they decide to you know to write a
+specific component and what are its
+limitation what is the critical chain
+there and um
+i do that by by leading by teaching as
+well and being there to listen to them i
+hope that they come to me and i think
+this is part of the leadership role of
+uh of an architect because it's not just
+as you said opening that git repository
+and being you know
+um a top a top-notch engineer and tech
+lead i think that an architect as well
+um because he usually you know i'm
+putting my chief um architect position
+at the moment but previous roles
+you're you're not a manager right you
+don't um have that authority over people
+you're a leader by example not by
+authority it means that
+when you want to come and talk to people
+and con you need to convince them we're
+all great engineers everybody has their
+own religion everybody has their own um
+way of thinking and they think that
+their that their solution works best
+however you need to convince based on so
+many different factors from
+product time to market and whatnot um
+scalability um and you need to convince
+those people that they should listen to
+you and it's very difficult because you
+know we're all a bit arrogant in our
+sense and we always think that we are
+right um and this is uh what i love
+about that position is that
+you know you get to talk to people you
+get to convince people and show them a
+different way which is
+not necessarily the um the regular
+leadership that we say you're not the
+boss you're a leader and you need to
+become a leader and in every
+organization
+it goes all over again the only
+difference is that you come maybe with a
+bit of a big a bigger record but at the
+end of the day people assess you
+on a day-to-day and every new you know
+software engineer especially seniors and
+technically that comes into our
+organization into the organization
+will look at you and say okay well prove
+yourself so you're in a bit of um
+continuous you know uh proving who you
+are what are the capabilities and why
+should people you know still keep on
+unfollowing you and following the way
+that you see this architecture and the
+system move um because then they you're
+really you're another manager
+right and so what i'm hearing from you
+is that
+you know
+part of this understanding of this is
+leadership by example and and the
+ability to
+you know you're not leading by authority
+you're getting credibility through
+actionable you know things that you've
+done and then you're working with the
+team and perhaps with a little bit of
+with a little bit of more background
+where you're able to actually come
+together and and and guide projects and
+with
+different thinking that than others may
+have and i think this
+leads me to the question you know when
+you're approaching a new project
+and obviously you have to balance you
+know the the customers the executive
+team the engineers the the current stack
+of the company
+what keeps you up at night so you have a
+team of five great engineers that are
+about to embark on this project and
+you're sitting there right now in the
+role of an architect and this is you
+know the role that you're holding
+what are you concerned with what are the
+questions that you may be asking
+yourself
+that
+based on what you just said you also may
+wish others will be asking themselves as
+they're about to embark on this coding
+journey
+so um
+at the end of the day you know you look
+at so many different levels right um
+first of all because i don't implement
+on the all the code um so it's it's
+really hard to say hey and we have so
+many engineers today it's not like a two
+three-man show when you can code review
+each other very quickly so you need to
+think of where the pitfalls and many
+times you know i write to myself on my
+to-do's um go ahead check this piece of
+code or go over with this person make
+sure that there is a database connection
+or that the way that we publish uh
+messages through our streaming uh
+processes that we do it the right way so
+this is you know maybe a bit on the
+lower level on the next level is saying
+do we really can we scale it can we
+really scale the system did
+the um component we're currently writing
+we know exactly where the bottlenecks we
+see them very quickly but then there is
+you know there is many things that we
+need to to decide on if we are going to
+keep going the same way with the same
+technological stack that we chose or
+maybe that we made a mistake because
+sometimes there's not enough time to poc
+so many times i go ahead and knight and
+i poc myself and i take a specific piece
+of code and the technology that we chose
+and i try to bombard it as much as i can
+to make to make sure that it makes sense
+right so things that are you know more
+on the scale side i do a lot of the
+testing early on um and i let the team
+focus more on the coding and the
+day-to-day business right and i go on
+the side and do some more you know
+exploring and making sure that it's okay
+um lastly there's a lot of things to do
+with timelines so you intro it's very
+easy to say let's introduce this new
+technology and it works great and then
+you reach
+massive scale and then it breaks and do
+you have the community we use a lot of
+open source because we love the
+community and we love giving back but
+then it breaks so did we choose the
+right thing and also you need to you
+need to ramp up everybody right we don't
+want to ramp up everybody all the time
+so you have to choose on something that
+has enough depth that can carry you you
+know a certain amount of years forward
+so that you won't have to change your
+technological stack every couple of
+years it's very wasteful and you see
+that it happens in many startups they go
+on the latest technology um it sounds
+great on their resume you know they
+sound very technological but they start
+when they have you know five ten twenty
+customers depending on the business it
+works amazingly or when they have a
+small amount of data and then they start
+growing and growing and growing and you
+say well that is not going to scale
+right and you you hit so many problems
+so an architect's position you know in a
+cto position as well
+is to go ahead and when you make those
+decisions to make sure that they're wise
+and you understand
+how far can they carry you and meet your
+business needs and the growth of your
+company and working at a company like
+placer where we over doubled ourselves
+last year and we tripled ourselves three
+years in a row where we have thousands
+of customers you know we grew by over 50
+times over like four years it's it's
+amazing
+the scale grows as well so how do you
+prepare yourself usually you say 10
+times but how do you prepare to grow 50
+times um it's not simple
+and this is really what startups are
+about you start but you explode right
+and you burn the money and you want to
+move forward as fast as you can
+but
+everything that holds this business
+together
+has to be driven on a technology that's
+um that's mature enough that
+all your developers your engineers can
+understand and can rely on
+and not to deal with crisis every day
+because your infrastructure fails and
+i have to say that luckily
+in placer we built an infrastructure our
+new infrastructure in the urea
+architecture that we're doing it doesn't
+fail as much anymore so suddenly you see
+a relief there's no more late night and
+going crazy on the databases and seeing
+how we can optimize suddenly there is a
+lot of more subtleness
+and
+and you know and then everybody's more
+happy of course but also developers are
+working much better
+so this also keeps me up and now at the
+end of the day to understand what kind
+of technologies we want to choose for to
+choose and are they the right
+technologies for us at the stage that
+we're at you know one of the things that
+i'm always fascinated by in this show
+it's understanding why people make the
+decisions they're making you've had such
+an incredible you know journey so far
+with with amazing companies that did so
+well and you know i'm looking at the
+point in time where you chose to join
+placer and you pretty much at that point
+you had the luxury of choosing you know
+where you want to work and and and what
+you want to be doing yet you chose
+placer what came into your your own
+internal process deciding that this is
+the next position that you're going to
+be holding for a few years
+so i i have to say that okay the it's
+kind of funny the way that i got
+introduced to placer was uh
+was
+based i one of my manager was moving to
+be a vp r d at
+placer and no i'm the ceo called me up
+for a reference
+and this is how me and noah and noah
+bentley our ceo got in touch and of
+course as time passed by i just started
+working at platika and tried to pull me
+and pull me over and you know after a
+while i finally got the guts of actually
+making that move because it's not an
+easy move you know small children two
+children at home working nights
+you know the day to day is hard um more
+than that you know there is a lot of
+challenges going on um there's also you
+know there are many other aspects of the
+work that are not simple
+and when i
+first talked to nom you know face to
+face with heroes in israel
+i you know it just i was i just fell in
+love with the person i see a ceo
+who comes from a technical background he
+still understands he's very analytically
+understands technology not maybe you
+know the day-to-day that you know me and
+my team talk but he understands a lot
+and he's so transparent right there is
+this amazing transparency open-minded um
+and he loves to share you know his ideas
+how he sees the company or see the
+company grows and then he tell me come
+meet with the rest of the founding
+members and you know and some of our
+technical leaders and this was sort of i
+was interviewing them in a way they were
+interviewing me was all very friendly
+and you're saying wow these are the
+people that i want to work with they are
+they're just so smart i can learn from
+each and one of them so many things i
+mean i i don't want to be the smartest
+person in the room right it's just
+completely boring and and over there i
+was okay this this feels just so good um
+so this was one thing right the people
+and i think that when you look at um you
+know a world-class team a game you know
+superstars whatever you want to call it
+i think that placer has that and it has
+that dna so that's a first
+um second is the technological challenge
+um definitely um at the end of the day
+placer was built on technology that was
+you know somewhere popular back in 2014
+or so and they made a pivot as well um
+to do what they do today which is
+basically
+location analytics for uh for the
+physical world
+and
+the this pivot basically we had no
+technology and they didn't have the time
+to change it because you know they were
+driving on a new business
+but there is a scale and there is growth
+and we're becoming a serious company so
+there is this all these challenges that
+you need to basically keep on going with
+the with the business but change your
+architecture as you go so it's kind of
+like replenishing replacing an engine of
+a moving car
+while driving
+and steering right
+um so this was so this was the challenge
+one of the challenges but the real
+challenge with the data you know this is
+the data company
+and the data is amazing because unlike
+most companies that their data is
+immutable our data is mutable our py the
+points of interest change it means that
+we need to go back in history and
+recalculate that's something that's
+usually never done right you're looking
+at five years of historical data and you
+need to calculate parts of it and you
+need to optimize which part you
+calculate
+and doing this calculation over and over
+again in an optimal and an optimal way
+is very difficult and most companies
+don't do that to do a rerun of your
+entire data and we are talking about a
+terabyte and a half of data of daily
+ingested data
+to do that in most companies no
+companies does that at all i don't know
+any other company that does that and so
+this is one huge major major challenge
+on the data side
+on the
+delivery side is well our report are
+completely custom i'm not sure if you
+went into into the website and try to
+play around of getting understanding
+visitation and this whole geospatial
+area which is it's very difficult anyway
+because it's hard to index
+so when we pull out data we pull it in
+real time and we do this distributed
+computation in real time so we're
+sometime pulling in almost at gigabytes
+of data doing all these calculations on
+tens of thousands hundreds of thousands
+of visitations and pushing it all to the
+ui as fast as possible of course all
+these aggregations
+and so there's also latency issues how
+do you pull data from databases do this
+calculation in a distributed manner and
+pushing them through um to the
+presentation layer which is you know
+that's another huge challenge so i love
+the challenges on both worlds in terms
+of the technology on the data side and
+on the presentation side
+and lastly just in short is the product
+market fit is the business
+i mean you see we grew so many times um
+year over year you know three times year
+over year almost four years in a row
+it just says it all so you have the
+people the technology you have the
+product which is amazing and challenging
+and the business that drives it through
+so you know it's a that's just a
+successful company and you see the
+people that come in and those are the
+people that you know they i think that
+they look at placer and they understand
+the story and on our growth and they
+want to do the same they want to be part
+of this success which is just
+unbelievable
+avi thank you so much for taking this
+time and
+gain a lot of insight myself as to you
+know a little bit of the thinking
+process that goes into being an
+architect and what i what i love most is
+how you're saying you know at the end
+everybody everybody should aim to be an
+architect and architecture and being an
+architect is not just a title it's not
+just a leadership by authority but it's
+leadership by example and it's requiring
+us to
+to think deeper about the work that
+we're doing and how does it integrate
+into the company
+as an organization and how does it
+integrate into the customer journey and
+experience and the product that we're
+actually building and how do we build
+infrastructure that actually is there to
+scale to the point where i can't believe
+that ingesting a terabyte and a half of
+data in days it's unbelievable hey avi
+thank you very very much this was so
+enjoyable and thank you very much
+stay safe and stealthy bye bye bye thank
+you
+[Music]

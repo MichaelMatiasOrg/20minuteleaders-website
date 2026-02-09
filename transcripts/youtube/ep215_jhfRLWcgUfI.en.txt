@@ -1,0 +1,762 @@
+we saved it for the last minute to go oh
+maybe we should call a data vendor and
+see if we can subscribe to some of these
+data feeds which was
+an absolutely deadly mistake
+[Music]
+rachel carpenter thank you so much for
+being on my show how are you i'm great
+how are you doing thanks for having me
+ah of course it's great to have you i'm
+very excited to hear about the story of
+entrenio
+and uh going i think all the way back to
+2012 right i heard you know another
+podcast mentioned
+starting out in a pretty interesting way
+and going through the journey of
+understanding the different limitations
+and
+working in the in the financial services
+space and running a high tech company
+but but let's go all the way to the
+beginning who's rachel carpenter and
+and why start a high tech venture
+great question rachel carpenter was
+actually originally a musical theater
+major
+believe it or not and ended up founding
+a data company
+which is a wide swing um but i grew up
+in wisconsin
+and i went to university wisconsin
+madison
+and i ended up getting uh dual degrees
+in finance and entrepreneurship
+and um the part of
+what i went through in college was
+recognizing that i never wanted to work
+for somebody else ever again in my
+entire life i had a pretty bad
+college level job so i knew i wanted to
+be an entrepreneur i didn't know exactly
+what i wanted to do yet
+um and so i met my co-founder while i
+was in college
+he was a cpa and i was studying finance
+so we had a lot of background in that
+space
+and the original business concept that
+we decided to go after was
+actually an online valuation engine so
+to do business valuations in a sas
+business model we wanted to build a
+software online
+where to start you would just kind of
+type in a ticker of any
+stock you were interested in and it
+would tell you it would run a
+valuation and then tell you is this
+stock overvalued undervalued is it a
+strong buy or sell
+we wanted to kind of build this stock
+app this investing tool
+um and so i came from a background that
+was not technical at all
+um but i'd always loved math and i kind
+of fell in love with finance because of
+that and that's why
+i studied that so part of what we went
+through was recognizing this is very
+complex
+if we are going to build a stock app
+like this we probably need to learn how
+to program to get it off the ground on
+our own
+um and so i took a year and between my
+co-founder and i we learned ruby
+uh for the back end and some of the
+front-end programming languages
+that we needed to get this thing built
+and so i went through this journey of
+teaching myself how to program i was
+sleeping on a couch we were making no
+money
+it was very uncomfortable and we ended
+up building this thing
+the problem was that we were illegally
+screen scraping data from 10 000
+websites
+because wait so so before we get we get
+into all this illegal fun stuff
+it yeah that decision to go and and and
+teach yourself how to program you and
+your co-founder
+it's very unusual in the sense that you
+know a lot of the stories that i hear
+and that i meet are
+you know entrepreneurs they might not
+even be coming from the tech background
+or the computer science background but
+they have this great idea
+that could be a software solution and
+then they go and they
+find people to build that for them but
+they don't necessarily teach themselves
+how to code i'm a coder myself and i
+advocate for learning how to code but
+but tell me about that that critical
+moment where you're deciding to take
+that whole year
+a very expensive year not just because
+you're not making any money but because
+you're
+you want to get moving with your ideas
+and you're choosing to teach yourself
+how to code
+yeah that's a great question and and i i
+tend to honestly not recommend it in
+most cases
+it i mean you you know this right it
+takes a decade plus to really become a
+proficient engineer
+and with most technology startups you
+have a short window to really beat the
+competition and get your product off the
+ground
+so you don't have time typically to do
+that um
+and then in nine out of ten cases i
+would say don't learn how to program go
+find a technical co-founder go find a
+team that can do it for you
+because you would be surprised how long
+it takes to get really really
+good and i didn't get there right i got
+dangerous enough
+to get this thing together but my cto
+today still tells me
+he's like when i took over it was there
+was just skeletons left and right
+underneath the rug
+with the kind of code that i was writing
+because i wasn't classically trained and
+i only had a year under my belt
+so i don't recommend it in most cases i
+think in our case
+what we were building was so iterative
+and we didn't know where we were gonna
+end up with it
+and it was so financially complex
+understanding how to do a discounted
+cash flow is hard enough with just
+for financial knowledge um and then
+figuring out how to program that and
+turn it into an app is a whole different
+story and so
+in rare cases i think if the if the area
+that you're working in
+is super complex and requires domain
+expertise
+it can make sense and you can actually
+move faster
+in our case like we would have literally
+had to have had a cpa
+over the shoulder of an engineer and
+that doesn't work very smoothly
+so there's unique cases like ours where
+it did make sense
+the caveat there is that i had to give
+it up eventually once we got this thing
+to the point where we were moving
+we hired engineers who had tons of
+experience and could really take it to
+the next level
+so if you are in the one out of ten
+where it makes sense to learn
+you you do have to recognize that you
+have to give it up essentially
+right okay so it's 2012 and you're and
+now you're you're running this iterative
+business you're figuring stuff out along
+the way
+and you reach the first roadblock where
+you find that you're
+illegally scraping data online so talk
+to me about that junction now
+yeah so any any application you're going
+to build in the fintech space the raw
+materials of that industry are data
+right i mean everything runs off of data
+we needed stock prices financial
+statements earnings estimates
+economic data comps we need it for for
+all the stocks in the universe
+of the united states and so you know you
+can go to places like yahoo finance or
+different companies like that to kind of
+scrape things down but that's a you
+can't publish a product that way because
+there's terms of service
+um and so we were we were kind of
+scraping for a while to get our
+prototype though but when we really
+wanted to launch this thing publicly
+we saved it for the last minute to go oh
+maybe we should call a data vendor and
+see if we can subscribe to some of these
+data feeds which was
+an absolutely deadly mistake
+because the companies that we had to
+call were bloomberg capital iq
+thomson reuters these huge huge
+companies and
+to put it in perspective for the data
+that we needed to launch our app it was
+going to cost anywhere between 60 and 70
+a month to get started so remember i'm
+on a couch i have no money
+i've just spent this horrible year you
+know dragging myself through the dirt
+trying to get started
+it was it ended everything for us
+instantly
+there there are no economics that work
+out for a startup at that stage
+to raise even raise money enough to
+support a 70 000
+a month data expense so we were pretty
+pissed off to be honest
+it was not a fun day so you find
+yourself with your co-founder it's been
+a year of struggling and running this
+iterative business you finally reached
+some sort of product that you're happy
+with and you're going
+to these data vendors so what's next do
+do you just give up do you
+do you pivot where do you go from there
+we got mad
+which was a good place to be and
+sometimes that can be the best start of
+something even better
+we got really really angry about all the
+time we had spent and so
+the analogy that i use to describe this
+this point in the journey is that
+we realized do we want to be in the car
+business or do we want to be in the gas
+business because that's a big choice to
+make we've recognized here anybody that
+wants to build a car or a fintech app or
+some type of solution for financial
+services
+they're going to need fuel it's going to
+be data but if it's that expensive and
+that restrictive
+for us to get our hands on it maybe
+we've uncovered a much bigger problem
+here
+an opportunity to kind of reinvent the
+supply chain of how those data feeds are
+made available um
+and so there was kind of two things that
+happened we realized maybe we should
+think about data as a business instead
+because we literally can't move forward
+unless we solve this problem and then
+the second piece that came together for
+us
+was this thesis that is
+definitely becoming true true and true
+every single year that we're on this
+journey
+but the future of financial services is
+very technical
+you know engineers are flooding wall
+street every bank is hiring a 19 year
+old data scientist
+right now every hedge fund's becoming a
+quant fund and that technical
+transformation of the industry is huge
+but these data providers aren't prepared
+for it right if you want to consume
+financial data
+most of these large data vendors don't
+even have sdks they don't have software
+development kits for you they have
+horrible documentation
+their developer tools are awful but we
+knew that there
+there were engineers and innovators out
+there that had ideas
+just like us for an app or a tool that
+could bring the industry forward
+if we could find a way to make data more
+accessible to them with the tools they
+needed
+we could serve that developer market
+really really well
+right at a time where it was about to we
+thought explode within financial
+services
+and that's exactly what happened and so
+when are we in the timeline of in terms
+of years
+what are we talking about now so 2012
+and 13
+we were building the engine that we had
+to
+kill and in 2013 was when we realized we
+couldn't afford the data
+2014 was the year that we really started
+thinking about data as a business and
+doing research and figuring out how we
+could start building our own data feeds
+um so 2014 and 2015
+we were programming a lot we were
+building our technology we were getting
+our first couple of data
+feeds built and then it wasn't until
+2016 that we really launched publicly
+so all this time 2014 2015 you're still
+work you're still the coder you're still
+the developer
+iterating through understanding okay now
+let's pivot and go into a new business
+wow
+that's pretty cool yeah yeah yeah that's
+very very cool
+so my next question was going to be then
+now you're in 2016
+what have you learned over those four
+years overall about
+about the financial tech technology
+services world so you mentioned the
+analogy to
+to the cars and the fuels and you can
+either be building the engine you can be
+building the data that's fueling it
+but but for somebody that's not coming
+from the fintech space what are some
+great insights that you have from there
+yeah so some things that we've learned
+is
+that you would be wildly surprised
+how far behind this industry is
+technologically
+the for example bloomberg is kind of the
+household name if even if you're not in
+finance you probably know what a
+bloomberg terminal is or you've heard of
+the company bloomberg
+that terminal is built on 14 million
+lines of fortran
+fortran which is a programming language
+that the oil industry
+stopped using 15 years ago but
+this critical piece of infrastructure
+that's used by
+hundreds of thousands of traders all
+over the world is built on fortran right
+i mean that's just an example of
+how these big big companies can't move
+quickly even if they wanted to compete
+with a company like us it's the classic
+innovators dilemma
+and it's not even just in the data space
+i mean you can apply that to lending you
+can apply that to consumer banking
+to um you know credit cards to insurance
+to any fintech vertical
+it's the same thing they all have their
+example of the bloomberg fortran
+issue and it's this legacy
+infrastructure where the fintechs are
+coming in and trying to
+to break that apart and modernize it but
+it's not an easy task because
+you're also talking about an industry
+where you've got a bunch of people who
+are really stuck in their ways um and so
+convincing them to use new technologies
+is not
+easy right and obviously converting for
+it's not feasible to convert 14 million
+lines of code of fortran to
+the equivalent of today's you know
+python and javascript or ruby
+it's that that's a challenge on its own
+so so how do you go about doing that so
+you're in 2016
+you're starting to to create these data
+streams yourselves
+and and then we'll we'll end by fast
+forwarding to 2020 where now you're
+allowing developers
+actually to to play with this data but
+what does that process look like
+so i'll tell you a story about the first
+data feed that we built because it'll
+help you understand how we approach
+building our data products um one of the
+core values that's true to our company
+is automation
+right we're like we'll never use humans
+to do any of this like there has to be a
+way to automate it
+and that and by having that foundation
+it means we can spend more resources
+towards making great tools and we can
+keep the prices down and make it
+accessible
+the more we automate the less money we
+have to spend on that the more money we
+can divert in other ways
+so the first data set that we ever
+looked at building was just financial
+statement data
+and so you take you know there's all
+these 10k reports that are filed at the
+sec
+but no two companies file their
+financial statements the same way
+so if you just went to the sec and tried
+to pull that data down
+oracle might be reporting cloud
+computing revenues hardware revenues
+software revenues
+the accountants over at apple just put
+revenues so there is no way
+to actually compare apples to apples
+between companies
+or even over time periods because
+companies change their lines of business
+and so there's this mess of data it's in
+a language called xbrl
+which is an offshoot of xml um and it's
+this really nerdy accounting programming
+language that not too many people know
+about but we're experts in it
+because we said wow there's got to be a
+way to use machine learning
+to clean that and so what the large
+companies like bloomberg do is they have
+10 000 people overseas that are manually
+normalizing all that data
+we took my co-founder who was a cpa
+between the two of us both had
+engineering skills
+and programmed that cpa knowledge into
+an engine that learns from itself over
+time gets smarter
+and we take an algorithmic approach to
+cleaning all that data so
+with the two of us our data feed number
+one with the two of us we were able to
+build that equity financial statement
+data feed
+with two people in an algorithm um and
+to this day it's still the highest
+selling data set
+on our entire platform and so that's
+been our approach right
+where where is the actual root source of
+this data a lot of it's at the secs and
+stock exchanges different places like
+that can we go straight to the root can
+we clean it and pipe it through in a
+much more efficient way
+um as automated as we can and build
+great developer tools around it
+and so that's what we so what is that
+what does that mean to build great
+developer tools around this data so give
+me some
+you know ideas of where where's somebody
+like myself or any young entrepreneur
+who could be using this data
+to create some meaningful products yeah
+so we've got a sandbox environment we
+can get you api keys within 30 seconds
+which is pretty unprecedented if you go
+talk to any of the large vendors
+they're not getting they're not going to
+be that fast so we'll get you api keys
+we'll get your sandbox access you can
+use
+software development kits in over six
+different major languages
+we've got test environments we've got
+jupyter notebooks that you can pop open
+and start playing around with the data
+widgets that you can test out with just
+tons of tools chat support seven days a
+week
+we just make it easy and i think a huge
+a huge reason for our success is that
+our company was built by developers for
+developers so we actually understand
+we were trying to build our own app
+right we know exactly what it what it
+takes
+to get off the ground and what's
+interesting is a lot of these large
+vendors that we compete against have a
+major conflict of interest they're
+terrified of people like you
+and me because they know we could build
+a better app than them
+and so if they open up those apis and
+those raw data streams
+might somebody maybe build a better
+bloomberg terminal so what they do is
+they slap these restrictions on that's
+why we got quoted
+as much as we did anytime an engineer
+comes to them and says i want a raw api
+data feed they're not in a position to
+do it because it could cannibalize
+a whole part of their revenue stream so
+we've taken the stance of saying we want
+you to build something cool with this
+data
+we're never going to be in the analytics
+or app building space we're just the
+plumbers
+and our goal is to get the data into the
+hands of these innovators as fast as we
+can so they can build awesome stuff
+with it no that makes perfect sense but
+i have to ask so you're eight years into
+this journey
+and coming from a very different
+background than a tech background
+why stick to financial services what is
+it about this industry
+that that takes you in some way that you
+said okay
+i'm gonna solve this no matter what even
+if it's gonna take four years of
+bootstrapping
+and writing code myself you know there's
+there's kind of two answers to that the
+first is just what i went through right
+a year of my life
+i'm angry right and then like there has
+to be a better way to fix this
+you know i want to solve this problem
+for other people and i'm
+pissed off that i i learned the hard way
+hopefully for everybody else so they
+don't have to learn that way
+so that personal attachment to just that
+time that i spent like
+don't get me wrong there's lessons there
+i'm glad i went through that experience
+but
+it shouldn't have had to be that way
+those resources should have been
+available to me
+and so there's that that personal story
+of what i went through
+and then also just the pure
+excitement of watching our data come
+alive inside of some
+really cool stuff i mean our clients are
+building
+chat bots ai investing platforms they're
+building
+their own trading terminals you know
+risk analytics software mobile apps for
+investing
+some hedge funds we don't even can't
+even see what they're doing with do some
+you know deep learning models there's
+awesome stuff and we get to be the fuel
+behind of that and so we just get to see
+the little phrase powered by intrinio
+at the bottom of this next generation of
+apps and so we get to feel like we're a
+driving force
+behind changing an industry that's
+really far behind
+technologically so it's fun
+so you are the fuel so you are the fuel
+to this whole new 21st century
+generation of tools
+that allow others to build apps based on
+this data right so
+so anybody who wants to build a chat bot
+or or a any ai
+machine that allows me to to invest
+better or get more information
+you're supplying that information
+because otherwise it would be very
+restrictive through
+the bloomberg terminal or the the likes
+of the giants right
+that's the basic premise here exactly
+you nailed it
+welcome to the sales team right you're
+hired
+very very cool so so now it's 2020 and
+one of the things that we mentioned
+right before starting this is that you
+are now getting this out there to as
+many developers as possible you're
+you've partnered with stanford to
+provide
+stanford students with uh with it with
+the data to play around with right and
+that's definitely something that i'm
+i'm excited to look at myself but but
+what is sort of the vision for this in
+the long run besides just licensing the
+data
+yeah we want to be the number one go-to
+data provider for anybody
+doing something innovative in financial
+services sometimes that is big companies
+right we have some
+huge hedge funds and institutions that
+have projects or tools they're building
+but it's more fun when we're selling to
+the guys in the couch that are building
+something cool
+so we're expanding constantly the types
+of data that we provide in multiple
+different directions right so we're
+going
+deeper which means what else at the sec
+can we extract can we extract risk
+factors can we go
+get different types of data how can we
+go deeper here in the united states
+to deliver more us-based data feeds and
+then there's broad right which is can we
+go to different countries these
+financial filings are everywhere in the
+world um
+most of them are digitized and
+structured and publicly available
+um so where can we take this tech that
+we've built apply it and have a global
+set of fundamentals and other types of
+data
+we have global pricing data but the
+fundamentals and the financial
+statements is
+something we'd like to expand on so
+we're going deeper in the united states
+with different types of u.s data we're
+going broader internationally with data
+and then we're also starting to branch a
+little bit outside of the quantitative
+into the qualitative
+so obviously there's been a lot of
+advancements in natural language
+processing
+over the past two years gpt-3 coming out
+we have a lot of demand from our
+customers who say you're giving us all
+these great data points
+that are quantitative but could you give
+us some qualitative information could
+you help us search through the filings
+and get other information that way and
+so that's kind of where our r d efforts
+are focused right now is
+how can we start to reimagine maybe we
+don't just have to be a quantitative
+data provider maybe we can start
+delivering some intelligence to our
+clients that is qualitative as well
+so those are some of the areas that
+we're exploring and where we're headed
+next
+that's that's very very cool so if you
+could go back now to 2012 and talk to
+rachel back then
+who's still bootstrapping through that
+first like first iteration of building
+this engine
+what what are some high-level things
+that you would tell her
+from the experience that you've gained
+over the over the last eight years
+you know that's a tough one because i i
+could write a book
+about the mistakes that i've made i'm
+keeping track of them and i might do
+that one day
+but i learned from all of them you know
+i'm happy that we took the path that we
+did it took
+those early pivots for us it took us
+solving a bad problem to find a better
+problem to solve
+so i wouldn't change anything but i
+think just to give myself a little
+reassurance to say i always use the
+phrase the roller coaster goes back up
+again
+there are so many times when the roller
+coaster goes down and it can feel like
+it's time to quit pack up the bags go
+get a nice job
+have health insurance different things
+like that um
+and it can be it can be easy to get down
+when the roller coaster goes down but
+um it always goes back up again so that
+would be something i would reassure
+myself
+um about because there are definitely
+some challenging times early on
+yeah i love that you know 20 minutes go
+by so fast but but it's it's so
+inspiring for me to always hear about
+these journeys
+especially the eight year journey that's
+that's incredible
+you know a lot of investors when they
+look at a pre-seat or receipt company
+they look at the founders and they're
+asking themselves you know is this a is
+this a founding team that i'm i
+am able to see them going through an
+eight-year journey of rollercoasters and
+and you know that's a that's a very hard
+question to answer a lot of the time
+especially you know today's generation
+that we're so you know we keep changing
+our mind and moving from one place to
+another
+so i think i'm getting a lot of
+inspiration from that so rachel thank
+you for thank you for sharing the story
+with me and with
+everybody that's listening here and i
+really appreciate you coming on before
+we finish
+i have to ask you the most important
+question three words that you would use
+to describe yourself
+definitely feisty i get i get told i'm
+feisty a lot uh
+i'm definitely fast i'd say feisty and
+fast
+um and probably loud i get loud a lot
+too
+kind of like a steam engine
+feisty fast and loud i love it rachel
+thank you so much this was really really
+great best of luck with intrinio
+i look forward to trying and playing
+around with it myself and spreading it
+with the stanford community
+but it sounds like you're doing a great
+service to the to the fintech sector
+uh i'm very excited to see where it goes
+thank you so much for having me

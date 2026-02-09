@@ -1,0 +1,469 @@
+uh we identifi the pain okay and this
+pain got actually Amplified over the
+years in different forms and this pain
+was around allowing people to create
+software that they
+trust and initially it was just this
+revolution of um creating software from
+reusable components mostly open source
+obviously and um and you know when you
+start to assemble your software from
+many many pieces and you don't have
+control over these pieces um it becomes
+a risk H and the initial risk was just
+uh maybe this open source software that
+you're using maybe it's going to um Get
+Off the Grid like vanish from the
+internet that what this event
+specifically was how uh the trigger for
+JE fog came to me for for for the main p
+Factory welcome to 20-minute leaders
+just sit back relax and learn from the
+leaders of today it's a journey each one
+is different unique inspiring let's get
+started 20-minute leaders is a proud
+supporter of makeawish Israel and Tech
+to peace and is in proud collaboration
+with secret cord Ventures Jay Ventures
+Riverside FM Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with
+[Music]
+ctech yav lman welcome to 20 minut leers
+I'm so excited and honored to have you
+here I've actually been very excited for
+this episode for quite some time so I'm
+particularly looking forward to these 20
+minutes thank you so much for joining me
+today my pleasure
+M so um you have um introduction has a
+limited n need here H you are the
+founder and CTO of uh one of the most
+incredible and um one of the most
+incredible companies and stories uh
+obviously of of Israel but but really
+globally you're you're the founder in C
+of jrog um a software company really
+looking at taking the leap of digital
+Transformations with thousands of
+customers and um a company that I think
+probably every entrepreneur and every
+engineer um knows about and so I'm I'm
+really looking forward to hearing your
+own personal Journey as a technologist
+your your vision 15 years ago in
+founding jrog and how you're seeing the
+world of digital Transformations and
+where where we're headed and and where
+you thought we were going to be and
+where we are and what we see for the
+future and all of that in the context of
+this amazing company so thank you again
+for being here yav tell me a little bit
+about yourself as a human you know how
+you know how do you think through your
+passions the things you care
+about yeah so um my actually I started
+my career not in computers I actually
+I'm a low graduate and I studied
+computer as my second degree after I
+found out that I don't want to be a
+loyer and my journey started with um I
+was a graphic designer and then I was U
+uh I moved to uh
+multimedia um doing a cdrom like
+interactive C ROMs which gives away my
+age um and then I uh I moved to
+Australia for a couple of years I did my
+masters in Computing I got connected
+back to my uh my childhood passion I
+used to um program games as a child at
+the age of 13 or something like that uh
+so I reconnected to my inner self the
+the to the computer geek and from there
+everything
+started came back to Israel continued to
+work in
+some Hightech companies in in the
+country and uh eventually found the je
+frog with uh with two of my co-found
+with two co-founders which we used to
+run a previous company
+together a
+consultancy h which we sold to um to the
+malam team group uh back in
+2005 U and then Jeff fog was created in
+2008 so that's in a glimpse my my
+journey okay so your starting jrog um
+and several months after starting it I
+remember 2008 very vividly because I was
+well from my end I was in eighth grade
+but I remember very very well the stock
+market class talking about what's
+happening in the world and so I'm very
+curious to hear about what it was what
+what the first year of jrog was like as
+you are unfold as you entering into a
+new world of U of of you know from from
+Financial perspective but before that
+what is the state of software and the
+state of of of global digital
+Transformations That You observe and
+what is sort of the vision that you set
+out as the three of you for jrog so
+we're jumping a lot ahead um um today
+many companies are at uh there are most
+of the large companies they already
+started the digital transformation uh
+moving away to uh to automation like uh
+really adopting Automation in the way
+they deliver
+software um I think and it's it's not a
+secret um and this was when jeug was
+started it was like the the initial BDS
+of this uh of this uh change in the
+market where software became so much
+engraved in the in the value proposition
+of companies like it's um for for many
+companies the software they are creating
+is really the value of the company
+uh sometimes most of the value that that
+the company delivers but um even for
+companies that which is not the case
+software still plays a major part uh I
+have some friends that moved Banks
+because they didn't like the the the
+application of the of the and the user
+experience that the bank gave them so
+uh again like because software plays
+such a major role in our life and it's
+no longer surprising to anyone uh the
+state of digital transformation is at
+its peak currently I think we used to be
+in the like early
+adopters um and now we're in a phase
+where um we're seeing this as as a major
+trend for everyone we we with jog we
+serve a lot of Enterprises so we have
+700 500
+7,500 customers around that number many
+of them are Enterprises and uh yeah
+we're seeing this as it happens we're
+seeing huge companies moving to the
+cloud adopting um
+[Music]
+automation all around um so I think
+we're at the peak of this uh of this
+transformation incredible still a long
+way to go for main for the large comp a
+lot of legacy to migrate uh but uh it's
+undoubtfully happening as we speak do
+you envision in 2008 that in the 20 that
+you know 2020 and 2024 is going to come
+in and you're going to have
+7,500 Enterprise clients I mean the I
+mean looking at three of you and you
+know how you I mean is that is that a is
+that what you think is going to
+happen no I I don't think
+I mean I think anyone that is starting
+the startup and I mean you may have a
+vision you may H aim to be larger and
+you you may want to be the next Google
+or Amazon or whatever but I don't think
+any entrepreneur can tell you uh from
+the kickoff date that this is where
+they're going to to read um what what
+we've done at Jeff and this is how the
+company started so you ask about uh you
+asked about
+how it all started uh we identifi the
+pain okay and this pain got actually
+Amplified over the years in different
+forms and this pain was around allowing
+people to create software that they
+trust um initially it was just this
+revolution of um creating software from
+reusable components mostly open source
+obviously and um
+and you know when you start to assemble
+your software from many many pieces and
+you don't have control over these
+pieces um it becomes a risk and the
+initial risk was just a maybe this open
+source software that you're using maybe
+it's going to um Get Off the Grid like
+vanish from the internet that what this
+event specifically was how uh the
+trigger for jog
+came to me for for for the main product
+for the factory um it was a was it a was
+it a specific experience or or um or
+just a realization that this is a a a
+hypothetical problem that could happen
+it was a specific incident of a very
+popular open source library that was
+hosted so this this is precl cloud days
+um and it was hosted on a desktop which
+went up in Flames at some point
+and huge companies couldn't work for for
+days trying to uh to scavenge those
+those component so
+uh that was the that was the like the
+the funding incident that uh came to the
+realization that you need to provide
+trust and I was surprised that uh there
+wasn't anything out there that you could
+just uh host your um your dependencies
+your your open source components
+internally and uh and reduce that risk
+risk and uh I mean this risk exist in in
+other forms today like if you are using
+uh open source software today or or just
+third party libraries you still run into
+a risk with where the quality of the
+those libraries can can change over time
+um either it can somebody sometimes
+people shut down an open source project
+sometimes the project gets overtaken
+sometimes the developer um kind of gets
+uh into a strange Zone like if you know
+the faker JS and color J libraries that
+where the developer changed the library
+to uh to support um I think it was the
+the the war in Ukraine H and the
+completely Chang the behavior of the
+library security issues like
+vulnerabilities that people are trying
+to inject into your software supply
+chain which is the main domain that jeug
+operates in today that's making sure
+that everything you build is trusted
+that you you have full visibility to
+every component of your software pretty
+much like in in the automotive industry
+where you you know how to recall a car
+because the a
+certain break is was not manufactured in
+an ideal way and you know exactly which
+cars are driving around and where they
+are with this faulty braking system H so
+it's the same in software you have many
+OEM components that you put into your
+software and lots of risk because that
+becomes one of the most critical value
+for you as a
+company H and most of the companies that
+are coming for us that they are coming
+to to gain this
+control the other side of it is that the
+world as we know it today is not such a
+safe place I mean we experienc it
+firstand uh here in Israel unfortunately
+but uh in in a global sense there's a
+lot of uh EV evil going going around and
+people trying to uh to gain benefits
+from from software like getting into
+your software supply chain and making
+like stealing
+information extorting companies that
+they manage to get into their supply CH
+or Wars the products there have been
+many incidents over the years uh of
+course cryptocurrency Mak makes it a lot
+more tangible for people to uh to uh do
+this bad stuff and and without getting
+caught um so that's that became like a
+government level concern today the trust
+in software and the risk that software
+no it's and I think it's it's quite um
+it's quite remarkable how already in
+2008 and I'm sure that there were I'm
+sure that there were key learnings
+throughout that had you understand not
+only this specific problem that you face
+but then how it actually extrapolates to
+every every software in every software
+company in the world and every digital
+transformation and understanding how
+these risks are operating on a global
+level and how to generate these tools
+that would be that could generalize
+across every organization and I think
+that's really just you know beyond the
+technology and Beyond the idea the
+ability to actually execute on a
+solution that can service so many
+customers and actually do it and I hear
+this over and over again about the fact
+that you know those that are actually
+using the software the solution you know
+it's it's just a great great product and
+I think that's one of the things that
+I've always know looking over the last
+few years as I've been inspired by jrog
+and and and your work it's it's really
+been not just the H the the vision and
+the scale but it's been the quality that
+you've been H honing in on which leads
+me to to looking you as a technology
+leader as a CTO how how many um
+Engineers or people do you have in the
+R&amp;D site of jfrog right now uh we have
+around 500
+Engineers so that's nearly third of the
+company uh
+today um obviously we're very engering
+oriented so you have um you're yeah
+you're you're starting this company um I
+assume that very full of people in in
+the in the beginning
+phases how do you grow to 500 Engineers
+how do you maintain a level of quality
+how do you see leading this organization
+and leading an organization to hundreds
+of Engineers while maintaining the
+culture maintaining the the quality so
+that 15 years later you can actually
+execute on thousands of customers yeah
+so it's a it's a great question um I
+mean
+uh and that's something uh um you don't
+testify for yourself but that's
+something I'm really proud of uh that
+sometimes when you interview people or
+you meet people they they uh they're
+surprised by the age of jeffro like they
+the fact that Jeff frog was founded in
+2008 uh is a surprise for them because
+they think the company is much younger
+so um that to maintain the spirit and to
+maintain um the The Innovation and the
+livelihood of the company and the
+culture of course that embodies
+everything uh this is something that
+eventually it um it comes from the
+people that you that you are working
+with it comes from the team that you
+recruit H and when it comes from the top
+it um it kind of trickles down to to
+everyone so um it's um it's a challenge
+it's uh it gets more challenging uh W
+with with size but uh as long as your
+leaders uh and the leaders below them
+are are the right kind of people
+are messaging this culture and behaving
+according to this culture then it
+actually works this is what I found
+out what was the most surprising element
+for you in
+leading R&amp;D or an R&amp;D organization
+whether from a human leadership
+perspective or from a technology
+leadership perspective a on the on the
+on the product side what what really
+surprised you in these 15 years that now
+looking back you would say to me let's
+say as a young entrepreneur now
+embarking on my journey that I should
+keep in mind in um over the next
+decade yeah another very good question
+um I think you know when you're creating
+a company or you're making a product and
+even when releasing a
+feature uh that you believe in so what I
+found out is that uh it always surprised
+me and now less but uh Still Still um
+still not trivial even today how easily
+customers are with willing to uh replace
+something they they have solved by
+themselves in in a h way if you solve
+their pain if you listen to their pain
+and if you come up with the and you get
+the feedb from the customers and you you
+build something to replace it how easily
+they they are adopting this solution
+over Homegrown Solutions uh because you
+would think there would be some uh job
+security and some uh and people would
+fall in love with what they built inh
+house uh but that's the the like the
+rare exception in most cases uh I'm I'm
+still a bit surprised by that how fast
+customers are willing to adopt something
+that solves the the pain they solve
+themselves and you have the most
+important question um especially for um
+from my perspective what has been the
+most enjoyable part for you um you're
+you know I'm sure it's I only this for
+year it's it's crazy roller coaster
+obviously everybody says that but uh
+what were the highest peaks for you as
+an
+entrepreneur
+um I think two things first is
+um it's just uh um getting other
+products out there so um we started with
+the with the main uh Flagship product
+which is still the flagship product
+which is artifactory which is our claim
+to fame and this is how we
+um we got to to a place to a very
+central place where we have full control
+over everything that goes into a release
+and um out as a release in a company and
+then when you start adding not
+functionalities but building a full
+platform and adding other
+products um it was a very educating
+process first I mean we were for warned
+by uh years about how difficult it's
+going to be and uh um and they were
+right and uh uh it was a a really tough
+uh process to to get out there with a
+platform rather than a single product
+we're still learning by the way but this
+was like a a huge achievement coming
+with a lot of uh of uh scratches and uh
+sculls um the other thing relates to the
+first thing I spoke about it's seeing
+customers uh see seeing a pain being
+solved seeing customers adopting what
+you're
+creating uh I think that there there's
+such a huge Joy there that uh and I
+think this is what keeps me
+thinking uh it's like somebody that you
+know like a chef in in a in a restaurant
+that uh enjoys seeing other people uh um
+enjoying their dishes so so I think it's
+the same way in software and it's not
+just myself it's the it's the whole team
+of course thatth when you create
+something that customers adopt There Is
+No Greater Joy than that it's like the
+biggest satisfaction that you can get as
+a as a software entrepreneur or or
+just the softw
+guy I love it y have thank you so much
+for for your time for the inspiration I
+know how busy you are and I really
+appreciate it we'll let you get back to
+Leading um and such an incredible group
+and organization thank you besides the
+20 minutes for as a now as a as a
+technologist and engineer as an
+entrepreneur myself thank you for being
+a sort of a spotlight um on my journey
+um to you and to your co-founders so
+thank you for that H this is why I
+started this show so I get to actually
+ask the questions that I care about um
+with the companies and entrepreneurs
+that I'm inspired by so thank you very
+very much and uh best of luck with
+continuing to with the next few thousand
+clients you too M it was my pleasure
+thanks for having me
+here

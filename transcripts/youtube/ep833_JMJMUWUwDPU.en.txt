@@ -1,0 +1,616 @@
+if you put your heart and your passion
+to something it doesn't really matter
+whether you studied this we now run a
+global software startup uh you know i
+neither have a business degree nor a
+software degree and we seem to be doing
+well enough so um i think everyone i
+meet i just want to encourage them do
+what you believe in and it will lead you
+the right path
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with c-tech
+welcome to 20-minute leaders i'm really
+excited for this episode meet dana
+vonderheide the founder and chief
+commercial officer of parcel perform the
+leading delivery experience platform for
+businesses covering more than 800
+logistics carriers worldwide
+she leads the global go to market
+strategies and expansion efforts
+alongside the growth and commercial
+strategy within her company
+the german-born entrepreneur and
+e-commerce logistics enthusiast worked
+in global strategy and regional business
+development roles for international
+logistics companies in europe and asia
+ghana is a member of the distinguished
+e-founder fellowship program by alibaba
+a network of international entrepreneurs
+and business leaders passionate about
+driving digital transformation she also
+co-hosts the logistics podcast series
+the logistics tribe and is an advisory
+board member of the german logistics
+association
+donna von der heiden welcome to 20
+minute leaders all the way from germany
+thank you so much for being with me
+today how are you i'm very good very
+good thank you so much for having me
+it's a pleasure
+it's gonna have um i'm gonna have a lot
+of fun in these 20 minutes you're
+running an incredible company parcel
+perform dealing with one of the things
+that i struggle most with deliveries uh
+and everybody else obviously in the
+world uh it's something that didn't
+really exist
+you know 50 years ago at scale maybe
+milk and newspapers to our doorstep but
+today we depend on it pretty much
+literally i'm personally the belief that
+deliveries are going to be a
+a root solution for some of the most
+strenuous problems around the world
+accessibility to medicine food etc but
+but that's one day and you're at the
+forefront of software with helping make
+it happen
+smoothly and effectively and so donna
+thank you so much for being with me
+today i am really excited for this
+thanks and yeah i'm excited too let's
+talk
+parcel perform very quickly what what do
+you do and and how do you deal with
+deliveries of the concept yeah so
+possible one we have software as a
+service company but uh we realized
+there's so many parties out there that
+deal with the physical part of delivery
+you know we see like the big brands like
+dhl ups fedex but also a lot of small
+players but the interesting thing is the
+more people that try to deliver
+something and we need them because there
+was the silver lining of cobalt
+e-commerce is booming the underlying
+parts of markets moving even more
+the more providers we have in this space
+and hopefully the more convenient they
+make the solution the more there is the
+need to get transparency
+so what we do here at passive
+performance we work with brands we work
+with marketplaces but even the carriers
+to have them have full visibility on
+where their parcels are and the most
+important part about this and the fun
+part about my job is that we can do it
+on a global level
+because we integrated 850 carriers so no
+matter who you ship with no matter where
+it's going no matter what language we
+aggregate it all we standardize it and
+we can tell anyone where the parcels are
+and then you can unlock this data for a
+lot of additional use cases as well
+now your personal entrance to this world
+didn't start from the startup you
+actually worked in logistics and
+deliveries beforehand in places like dhl
+and how how did those experiences shape
+your understanding
+the as to the domain of the problem that
+you're in right now yeah i mean it was a
+super good kind of learning experience
+to be part of a corporate setting detail
+one of the biggest brands but i also
+realized there's a lot of silos thinking
+right every carrier if we are lucky as a
+consumer they invest in a good delivery
+experience but they do it for themselves
+but the reality of the industry is
+anyone that ships processing serve
+multiple carriers from a risk
+perspective but also from a convenience
+perspective for everyone so
+no one has really built this middle
+layer that helps you to aggregate all
+these services to build transparency on
+top of it and that's what we really
+wanted to set out to do and we saw it
+when we started you know in the industry
+we were back then in asia
+super booming ecommerce market some of
+the marketplaces there they have like
+150 different carriers but no one was
+able to create transparency for them
+everyone just had like oh i have my
+little transparency uh tracking platform
+solution but that's not helping neither
+to the businesses that run it but also
+not to the end consumers
+so at the end you're distilling it down
+to this idea of transparency
+and the ability for you know there's the
+logistics part of it which is how do i
+get this package from point a to point b
+but then there's just as an important
+question how do i
+share this
+process with the end consumer
+that is looking to get valuable
+information as to where their package is
+right yeah exactly and the key point
+here is transparency for transparency
+sake it's not gonna get you anywhere
+right like we have a fancy dashboard but
+what do you actually do with it and
+that's why we built this data fundament
+as a company but we make it visible in
+different use cases clients want
+intuitive delivery notification
+also if something goes wrong so we do
+all this white label so they're also not
+confused but yet another bread
+communicating with them but e-commerce
+merchants can build loyalty we also
+embed it on the website so you don't
+have to send it away e-commerce people
+find that really great because they
+invest so much in targeting people to
+come to their website if you can keep
+them
+that's helpful but you know on the
+opposite side and i think this is often
+overlooked in the industry is yes we
+have end consumers but how do we help
+businesses to make better decisions if
+you're ahead of logistics right now you
+look at the quality you look at the
+price where a parcel can be delivered
+but you never actually know how well the
+performance is of the carriers because
+you're lacking comparatively data and
+that's what we do with price perform so
+they basically are able to see okay
+what's the transit times what's the
+issues then they are not stuck with
+basically excel sheets that they report
+at the end of the month or customer
+service manager saying oh yeah we get so
+many complaints but you're actually able
+to have the data and to then act on it
+and we can immediately see if one trade
+lane is slower if the carrier runs out
+of sla compliance so we really also want
+to enable these internal teams to make
+much better smarter decision and help
+them grow
+now you're talking about
+data over and over right i mean it's a
+theme that's that's coming across here
+stata has that always been a core part
+of your thesis into your career and how
+the world works
+you didn't start from
+engineering background or from a data
+science background necessarily no not at
+all i'm the odd one out i started
+psychology and political science back
+then i had very different plans for my
+life but then i became a real logistics
+nurse i happy to admit that because i
+realized similar to what you said in the
+beginning right logistics is what makes
+the world go round we all need it in so
+many different use cases
+when you know having everyone in silos
+and just doing their own thing is not
+good enough so we really wanted to
+change the industry and you know one
+thing i learned on my personal
+development is if you put your heart and
+your passion to something it doesn't
+really matter whether you studied this
+we now run a global software startup uh
+you know i neither have a business
+degree nor a software degree and we seem
+to be doing well enough so um i think
+everyone i meet i just want to encourage
+them do what you believe in and it will
+lead you the right path
+but still donna it can't be that easy it
+can't be as easy as saying let's just do
+it and make it work i mean you had to
+learn
+you know the operation you know you said
+you're understanding the magnitude of
+data
+in in in the way in the world that
+you're in
+it doesn't it doesn't seem like such an
+easy thing to just grasp and say okay
+now i'm going to transition and and and
+do something that i've never done before
+what was the process that you've sort of
+done yourself internally or in your own
+personal life that has allowed you
+to
+you know do what you're doing today yeah
+that's a good question and investors ask
+this a lot right what's our unfair
+advantage why do we know this better
+than others we were quite fortunate and
+my co-founder and i when we started we
+were already in a setting where we
+talked to a lot of merchants so we had
+real access to a very concrete use case
+right we had like merchants in
+asia that were shipping cross-border
+that were in a mess they didn't know
+where stuff is they invested so much
+money on customer service so that was in
+a way our unfair advantage we came from
+the industry we knew how passive
+tracking works from our industry
+experience and i think the other thing
+is also to appreciate that you don't
+have to do it alone right i think the
+biggest task for a founder is to build
+the right team around you find the right
+people
+and in our case we were super fortunate
+we found our cto very early on he was
+our very first back-end developer it's
+now our cto we have more than 80
+developers now working for us we have
+our own machine learning team you know i
+cannot say that i really understand
+everything in depth but you find the
+experts around you that have a similar
+passion and then you solve it together
+and and so and i can see the excitement
+you know exuding from the screen you
+know as you're talking about this
+journey that you're on
+what really is the most exciting piece
+for you now as the entrepreneur is it
+the problem that you're solving is it
+the logistics nerd that you're that
+you're getting your hands dirty there is
+it running the company
+what would it be so i think for me the
+biggest thing is all about impact right
+i feel like a lot of people are saying
+this but i think we can make impact on
+two sides right on the one hand we can
+really contribute to the e-commerce
+industry to be a lot more efficient to
+make more smarter decisions that are
+based on data again but like this is
+really a core belief and we feel like
+everyone deserves a better delivery
+experience but we can only enable this
+if they know everything they need to
+know right whether it's the end
+consumers or the carriers or the
+marketplaces and all the internal
+stakeholders in a business
+so that's definitely something having
+that impact on a global scale being able
+to work with all these merchants no
+matter where they're shipping that's
+something that really excites me
+but the other element on for me on a
+personal level is to also be able to run
+you know a global team to be there and
+be their leader motivate them and you
+know one of the things for me um that
+challenged me in the beginning and a lot
+of people challenged me on this they
+said hey you know you care so much about
+diversity if you start a logistics tech
+company how are you going to do that
+actually and i said look i think i i
+want to set myself the target 50 female
+and we will be as diverse as we can
+because it's not all about gender
+and i mean today we are way north of 150
+people with 19 different nationalities
+and uh 18 different languages that we
+speak and we are 50 females so i think
+my personal mission is also show people
+you know you can do it and you can do it
+across all departments it's not just my
+marketing and hr team you know it's like
+my client-facing key account management
+team some of our developers if you
+really put your mind to it you can do it
+but i think the one thing that's
+important for founders also is to
+appreciate everyone asks you to scale if
+you want to scale your team very very
+fast then you often make a compromise
+and we decided that the diversity anger
+is something that we will not compromise
+on same as like the passion that people
+need to have for our business so
+sometimes we're bringing people a little
+bit slower than we think we should um
+but at least we make sure we build the
+right culture and we stay true to what
+we really value the most for this
+business
+and so as you're and today it's more
+relevant than ever as you're building a
+diversified team and and i'll add one
+more piece to the diversification which
+we talked about right before um
+the show is this idea of you know
+credibility coming in and sort of these
+tokens like which university you
+attended and what'd you do before
+you know not necessarily as the most
+concrete signs of of of your execution
+levels and what you'll be able to do
+how do you
+balance between your you're wanting to
+be very diversified and very open to
+pretty much any experience because that
+just essentially means that your funnel
+is now much larger it means that you
+have a lot more work on your plate to
+really determine who is the right person
+because you're not solely relying on
+the work of of of a you know selectors
+before
+how does that shift how you look at
+candidates perhaps versus how another
+traditional start report so yeah a very
+important question so first of all
+we really invested in hr and recruiting
+so we actually have multiple recruiters
+per office if we can to make sure that
+we can really um give also candidates
+the time that they deserve to to be part
+of this interview process because what
+we try not to do is to simply just look
+at the cv right if you come from a fancy
+uni or you start exactly what you need
+to have for this role
+in my experience it's a little bit still
+the you know old school
+kind of mindset of a lot of corporates
+right you have to have your mba which is
+great by the way everyone that does it
+amazing
+but you know there's a lot of other
+factors that are very important to this
+and you know we look at people and we
+ask them hey why passive perform you
+know i think that's one of the most
+important questions and if we don't sue
+they see this spark or they don't even
+fully know what we're doing then they're
+probably not the right fit for us and
+uh yeah it's a lot of investment we have
+to spend a lot of time on this but it
+really pays off i'm very proud of our
+team across all the offices and it's big
+fun to work with them so i'm hearing two
+two key ideas that i'm taking with me
+here one is this idea that you know you
+do need to make it a personalized
+process and you need to give you you
+need to give the respect to the
+complexity of it and i think that i'm
+taking that through the mention that
+you're trying to have multiple
+recruiters per office right so it sounds
+like it's not just a you know a linkedin
+resume and then and and then a few video
+calls and you're done it seems that it
+is somewhat geographical and and there
+is this element of somebody a person
+who's who's taking you through this
+process which is often also more common
+to to the larger companies who have
+these complex processes which makes
+sense
+but then there's also the side where
+you're talking about passion and talking
+about the spark and and why they would
+want to join partial form which you're
+saying maybe from a data-driven
+perspective
+is perhaps even a stronger indicator
+than what their past experiences are and
+what you know fancy university they went
+to it is the passion that they have for
+personal perform right yeah exactly and
+you know i hope to be a living example
+of that not nothing on my cv says i
+should be the founder but we made it
+right and you know we have a great team
+and it's actually possible and the same
+was for our team you know some people
+work for us for like over five years
+already and we will forever be grateful
+and we will always value them and we try
+to develop them in new directions to
+keep it interesting for them as well and
+that's also something then companies
+need to appreciate that
+you know before they look outside you
+got to find a development path
+internally lots of stuff to learn there
+for everyone but um i think if you get
+it right you have a very good fundament
+for your business growth
+donna do you have any impostor syndrome
+ever
+i heard i've i've talked to quite a few
+founders here and i've heard quite a few
+people who who do have this specific
+degree or phd in their domain and they
+still have impostor syndrome running
+their startup which
+didn't get to the level that parcel
+perform got to
+now you're coming in and you're it
+sounds like you're very
+at peace and balanced with your position
+and you and you're very open saying that
+there are some things in the company
+that i don't need to be an expert in
+how how do you feel about that how do
+you feel in the day today as the ceo of
+this crazy startup now
+well um
+i'm the ceo of my co-founder anna and i
+think that also really helps because you
+have someone by your side that you can
+bounce ideas off i don't think i would
+have ever gotten this far without him so
+that played a big role i think the other
+thing is yes i think we all have it you
+know there are days where i'm like okay
+how do we gonna do this i never did this
+before huh but i think that my approach
+to things is like i i try to always have
+at least a hypothesis so i go in and i
+say okay i think it could be this but
+then again you have to stay extremely
+open to the thought that it might not
+have been this right and if you run a
+company like us now for six years that's
+also hard right because you got very
+used to doing it that way but for
+example for us we brought a lot of new
+people on board you know ahead of
+america stephanie just joined she has a
+fully fresh perspective to how to do
+things and i think then the role of the
+founders are to to kind of listen to
+this and you know some sometimes also
+throw away things on how we did them
+before you know sometimes i'm
+embarrassed if i think about three years
+ago how we managed excess sheets for
+certain things because that's obviously
+not the way to go
+um but i guess we're all learning and as
+long as we accept change even for us and
+we're open to feedback i think it can
+work i just want to loop back um
+before we finish
+at
+the data game and you're mentioning that
+you're a logistics nerd and and over
+time you've grown to understand that
+then it's all about data it's not
+necessarily just about
+how it looks and the pricing and the
+product
+tell me a little bit about your
+understanding of data in the context of
+of deliveries and and what sort of led
+to this understanding yeah so if we look
+at you know what happens to the puzzle
+right now it is this really weird
+situation where you kind of go to a
+carrier website to look up where your
+parcel is and then they tell you oh your
+person left a distance
+then it's in a sorting center who cares
+where the sorting center is actually but
+they still tell you and then you know
+it's loaded and if you're lucky they
+also tell you
+when it will arrive and then there's the
+interesting thing they're usually wrong
+so all these carriers that tell you when
+the passes arrive they are often wrong
+and often they are too conservative so
+they tell you basically it arrives in 5
+to 10 days but often they rise earlier
+or like on day 5 or 6 hopefully
+hopefully but i think then
+if you have the data in place and this
+is why we are so excited about machine
+learning you can actually very
+accurately predict when the password
+arrives and you can do that already at
+checkout if you take the warehouse into
+consideration because right now if you
+get an estimated delivery date it comes
+once the carrier picked it up but like
+amazon and other players have showed us
+people want to know this stuff i checked
+so if you're really good with data you
+can stop telling customers your parcel
+is in a salting center because frankly
+we all don't care
+especially if you drop ship from china
+whatever happens there okay great it's
+moving that's what that's a feeling we
+want to have but don't we all really
+just want to know when to plan our day
+to be at home to get the parcel and i
+think you can do that only with data and
+you need to be extremely granular in
+data mapping in order to make your
+predictions very accurate that's the
+nerdy side of it but the output is
+really meaningful and hopefully we can
+change the way people feel about
+deliveries which is painful and in
+transparent and you never know and then
+you drop it off when you're not at home
+but i think with data and machine
+learning and some expertise you are able
+to predict when a parcel arrives and
+that gives convenience to everyone that
+reduces your co2 footprint and all that
+really good stuff so um yeah even more
+reason for me at least and for many of
+our customers to be excited about this
+donna thank you so much for this time a
+parcel perform such an awesome company
+such an awesome problem your personal
+insights and your outlook to me is
+inspiring and it sounds like more than
+anything you're you're looking at it in
+such a balanced and healthy weight
+team first data driven mentality you're
+getting excited by the problem you're
+excited by the logistics of it in the
+data and the impact that you're having
+later on and you're doing it while
+proving
+and disproving
+a lot of assumptions that people make
+and so i i definitely get a lot of
+inspiration from this conversation and i
+and i think a lot of others will too so
+thank you very very much and best of
+luck with parcel perform
+[Music]

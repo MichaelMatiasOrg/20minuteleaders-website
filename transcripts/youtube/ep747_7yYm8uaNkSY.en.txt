@@ -1,0 +1,578 @@
+i like challenges i mean many people
+that i know like challenges and
+and when i
+when i don't have the solution to them i
+just don't rest until i find a solution
+something that is
+i don't know i was always like that and
+um
+it's just uh
+i never stop thinking of it never it's
+just uh
+and then i mean it's it's very
+satisfying and also very exciting to to
+try and solve a riddle
+and
+eventually solve it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+welcome to another episode of 20 minute
+leaders today i'm with avishai branski
+phd and ceo and co-founder of pixel
+medical and he's an expert in
+microfluidics with extensive industrial
+experience in applied physics software
+and systems engineering he is one of the
+inventors of the viscoelastic focusing
+technique cell analysis methods and the
+microfluidic based cartilage
+dr branske holds a ba in physics a bsc
+in materials engineering and a phd in
+biomedical engineering all from the
+technion israel institute of technology
+get ready for an amazing episode thank
+you avishai
+dr abhishai branski thank you so much
+for joining me i know how busy you are
+and so i'm incredibly honored to have
+you here thank you
+thank you it's my pleasure uh you know
+dr avishai um the work that you're doing
+is is you know
+we're a lot of times we're talking about
+impact on the world and and people that
+are making the world a better place and
+often it's a cliche but you're literally
+working on technology that in the grand
+scheme of things is going to make a
+tremendous impact on on billions of
+lives you know the way that you're
+looking at at blood diagnosis and both
+in terms of efficiency with speed but
+also with quality of care
+i think obviously the implications are
+enormous with the phd in biomedical
+engineering from the technion
+also as a software engineer and a few of
+the common companies that we know about
+and the founder and ceo of both
+hemoscreen and pixel medical solutions
+and technologies a lot to uncover here
+dr abhishai tell me a little bit about
+you know your university years and sort
+of what what guided you both
+academically and into the
+entrepreneurial world
+well i always liked
+physics so i
+studied physics and material engineering
+in the technion i had two
+bachelor degrees and then i went to work
+at elsin was which is one of the first
+heighted companies in israel
+an mri division
+but then i am very much was attracted to
+software engineering so i went back to
+the tech union and studied the
+computer science
+um
+and uh
+worked at qualcomm which is an
+international company as you know
+um but then again i felt that i wanted
+to have a
+a better um understanding more
+multi-disciplinary
+um education so i got back to the tech
+tune and did my phd in biomedical
+engineering
+and
+also did my postdoc there i
+mostly
+researched microfluidics and
+microelectronics
+and there actually is where we
+discovered this unique phenomena which
+the company pixel medical
+technology is based upon
+and so share with me a little bit about
+that
+so we're investigating the deformability
+of red blood cells you know red blood
+cells are very
+highly deformable because they need to
+pass through
+very narrow constrictions in our
+sinuses or small blood vessels
+and
+just
+accidentally we tried a certain
+fluid which has very unique properties
+and flowed the blood cells
+in this fluid
+and all of a sudden we didn't see any
+cells at all
+we didn't understand what happened we
+thought something went wrong and we
+repeated the experiment again and again
+we didn't see any cells
+eventually we
+recognized the fact that all the cells
+were perfectly in focus in a single
+plane
+and our microscope was focused
+in another position so we didn't see the
+cells
+this
+later on
+was termed viscoelastic focusing which
+is a new physical phenomena which
+occurs in microfluidics
+and causes particles or cells to
+perfectly align into a single layer
+plane
+now
+um this is was this was remarkable but
+it took me
+probably several months to understand
+that this could
+be very helpful in many applications
+where cells are analyzed and counted
+up to this date
+most
+analyzers that count cells
+maybe we'll talk about it later which
+are specifically hematology analyzers
+but
+there are many different types of such
+instruments they need all the cells to
+be perfectly focused in order to be able
+to
+measure them and analyze them so it's an
+inherent requirement for all cell
+counters
+but this unique phenomena which is again
+called viscoelastic
+focusing
+um is superior to all
+um preceding
+methods which are also used today
+it makes it very robust and it provides
+a much
+more
+pronounced focus
+and eventually uh yields better um
+results and a better measurement
+walk me through the
+you know from the discovery
+to understanding how this can make
+an applica implicative use in the real
+world and i i'm fascinated by that
+concept and you're making a a very
+important discovery but then there's a
+bread you know there's a vast world out
+there of different applications and how
+do you know
+what to do with this innovation that
+you've just created
+well i guess um
+when you read a lot of papers and you're
+into this subject
+into this world and you somehow connect
+the dots and you understand that
+um for many decades
+many researchers and developers have
+tried to
+reach a better focusing technique and
+then you understand that it's very
+important
+um
+the the the
+the main advantage of of our technology
+or this specific
+technique is
+that it enables
+um
+development and manufacturing are very
+simple and inexpensive
+disposables
+so bottom line it makes the the tests uh
+much more accessible because if you use
+the traditional techniques you'll end up
+with a very large and complex
+instruments that resides only in labs
+whereas using viscoelastic focusing you
+can
+use very simple inexpensive plastic
+disposables and attain the same
+level and even better the level of
+focusing
+right
+however it's this i mean as usually i
+mean as as it's
+usually the case is that you you
+discover a specific phenomena but later
+on you need to innovate
+a lot around this
+let's say basic
+science
+phenomena because
+there's a lot of technology that needs
+to surround it in order to really reach
+a product so it took us a decade
+over a decade of r d
+um
+just to to reach the product that we we
+now are commercializing
+um which has
+over 30 issued patents
+which have
+they have nothing to do with
+viscoelastic focusing but they have a
+lot of innovation in them so right
+before we talk about you know what what
+pixel is today and the technology that
+you're commercializing today
+take me up again 30 000 feet in the air
+and what's happening in today's world in
+terms of you know blood diagnosis and
+you're talking about the impact that
+this can have in the accessibility
+um you know what what is happening
+around the world surrounding this issue
+why is this even an issue that that we
+should care about deeply
+that's a good question i mean um
+specifically now
+i wouldn't say after the covet but we're
+still in the covid
+um
+diagnostics uh has has brought back the
+spotlight i mean the spotlight has has
+been
+drawn back to diagnostics
+whereas diagnostics was pretty much
+neglected before
+um the fact that the
+patients cannot go to the hospitals they
+refrain from going to the hospitals they
+need to be tested near
+where they live or even at home
+um you know pop-up units where
+testing is being done all this has now
+made a tremendous
+growth and an interest
+into
+quick simple accessible diagnostics
+um i think it
+goes without saying that people want to
+monitor their own health more than
+previously um and why not the technology
+is there so why not make
+all these important tests which actually
+monitor your
+overall health and more accessible and
+and closer to to to you to the patient
+right
+now if you're looking at today's world
+and depicts a decade after you know
+working on this technology and
+innovation you're mentioning that you
+have to create a breadth of technology
+to
+make this an application right
+the innovation that you had a back then
+what is that like well i'm i'm curious
+about this 10 year journey where you and
+a team are understanding that you have
+something meaningful in your hand and
+now you're working on a variety of
+different technologies around it to
+commercialize it into something that can
+actually be of use a great use in the
+world
+yeah it's a very long journey
+many ups and downs many challenges but
+very satisfying um it is something that
+i think very few people start from a a
+raw crude idea or discovery and
+eventually reach a a functioning and a
+and a selling product
+um it's funny when you look backward you
+see that we're totally
+not in the right direction we did so
+many mistakes and we uh
+um
+we tried so many different ideas
+uh
+we have a long
+list of
+prototypes that didn't work um
+and i also it's also funny to think that
+when you start you think that you
+you know what you're doing and you think
+that in a you have a solution but then
+you find yourself working
+on and on but eventually it converges
+um
+and you solve
+dozens and dozens of problems sometimes
+you you you feel that they won't they
+are not solvable
+um
+but we i mean at pixel um we have
+developed a totally new technology i
+mean all our concepts are totally new
+um
+um hematology testing
+was initially you know dive started
+developed at
+at
+1960s
+and um it still is based on the same
+principles today whereas
+our product is based on a total
+different principle it is based on
+machine vision and ai
+whereas standard hematology analyzes use
+laser scattering
+and an electric impedance
+um we use a disposable cartridge which
+acts like a small lab whereas all the
+current instruments use bulky
+instruments with large containers that
+are filled with reagents
+everything is very different
+and yet we
+we provide the same
+results as a full-blown blown lab
+instrument
+and in most cases more accurately
+wow that's a
+that really is incredible but from a
+leadership perspective
+you know you're mentioning that there
+were times that
+people that you were that they were you
+had to solve so many problems but
+sometimes you reached poems where you
+weren't sure that they're solvable
+yet as a leader of this you know group
+and organization how do you react to
+those moments well what type of
+leadership
+do you require to power through them and
+reach the end of a 10-year journey
+definitely
+every time you reach an obstacle
+you
+shouldn't give up you should show
+everyone else that you
+there's always we will find a way
+um sometimes you go back home you're
+very frustrated but then at night you
+always you need to be obsessed with it i
+must say that if you're not obsessed
+with it
+and if you're obsessed with it you'll
+find a way around it
+and
+and after
+so many times that you eventually find a
+way around it you know that next time
+you'll you'll encounter an obstacle you
+you know that you'll overcome it
+and where is the
+obsession where is the obsession coming
+for you is it is it from the discovery
+and this and the fact that you now want
+to see through this discovery is this
+something that you've been carrying with
+you since your phd
+where is this obsession coming from
+i think it's uh
+i like challenges i mean many people
+that i know like challenges and
+and when i when i don't have the
+solution to them i just don't rest until
+i find a solution something that is
+i don't know i was always like that and
+um
+it's just uh
+i never stopped thinking of it never
+it's just
+and then i mean it's it's very
+satisfying and also very exciting to to
+try and solve a riddle
+and
+eventually solve it so
+right and and so if you had to choose
+you know really the most meaningful part
+you know as a motivator for you because
+you're mentioning that there's a few
+different aspects here there's the
+intrinsic motivation of understanding
+this is a big problem of accessibility
+in the world i want to solve it i also
+love solving riddles and problems i also
+love you know being intellectually
+you know intellectually stimulated
+so i i understand the combination of
+these but but avishai who you know from
+your perspective you've been at this for
+10 years that's insane
+what made you stay here for 10 years
+well every time
+you you climb the hill and then you see
+another hill sometimes it's a mountain
+this is really i'm sure that most
+entrepreneurs feel the same and and
+so you even don't have time to
+rest and enjoy your achievement you see
+the the next challenge and you just
+head on to the next challenge
+and
+i mean if we were to stop somewhere in
+the middle without having a
+product that is in the market
+and getting the feedback from the users
+and that is
+so makes us so much happy
+then you we won't stop i mean
+until we we we reach the point where we
+see our product all over the world
+and is used everywhere
+that is really
+gratifying because it does help people
+we just had a recently an installation
+in papua new guinea
+which is
+everybody here was so excited that's the
+first time they have like in the jungle
+an instrument and that is um
+they're able
+to test the the the people over there
+and also in australia remote locations
+that had no access to these uh to this
+very important test
+so after so many years that's very very
+gratifying
+and so the the long-term
+impact that the company like pixel can
+have on the world
+how do you think through the impact you
+know in accordance to the vision that
+you're outlining for the company
+so as as you probably know we we perform
+the most common blood test which is the
+complete blood count so um
+they're
+almost a billion cbc's tests done in the
+us alone each year
+yet there's so many places around the
+world
+that do not have access to
+the full cbc um
+either they just don't do the test and
+um this test sometimes can
+detect blood cancers
+so it's not just uh you know general
+health but also could be very
+critical
+so this is one aspect um early diagnosis
+of of of severe
+disorders and also
+it
+may help
+prescribe antibiotics on a more
+substantiated basis
+versus not having a cbc done at all
+um
+helping fight the antibiotic microbial
+resistance again the cbc is so basic
+making it making it so simple and
+accessible uh would definitely make a
+large impact and i think that i know we
+can only imagine the ripple effect of
+what your
+you know what you're suggesting here and
+implying of of having you know access to
+these tests because you're just opening
+a wealth of of the possibilities for the
+world and i just get excited thinking
+about what's possible out there
+now i'm asking you know as a young
+entrepreneur myself you know looking at
+deep technology and
+aiming to work on me as hopefully as
+meaningful things as you've been working
+on the last 10 years
+you know if you're looking back at
+yourself 10 years ago as you're making
+these discoveries and you're starting
+out
+what do you know now ten years later
+that you would tell yourself and buy
+transitive property to me as young
+entrepreneur
+well we you know we we started from the
+technology which is usually it's uh
+not advised to start from the technology
+but to start from the business
+but on the other hand i learned that
+many large corporates you know start
+from the business but they
+end up um
+um
+not necessarily with a viable product so
+it's not there is no real you know
+guidelines to whether to
+uh
+to start from
+bottom up or
+vice versa
+i think that if you start from a good
+technology but you also have good
+business partners that could guide you
+um towards
+something which is commercially viable
+then you're on you know a good path
+no no dr avishai i really want to thank
+you for for your time here
+but more than that 20 minutes that
+you've dedicated to me the the 10 plus
+years that you've dedicated to pixel and
+developing technology that at scale can
+make a tremendous impact on so many
+billions of lives in the world and you
+know i think that a lot of times i and a
+lot of people around me you know we take
+for granted the access that we have to
+simple things like a common blood blood
+test and
+we forget that the majority of the world
+is unable to know whether something is
+going on even if they really wanted to
+for us it's often an inconvenience of
+scheduling the appointment but for them
+it's just not having access to an
+appointment and so i'm personally
+inspired by what you do and thank you
+for everything and thank you for
+inspiring me as young entrepreneur so
+and stay safe and stay healthy
+thank you very much
+take care
+[Music]

@@ -1,0 +1,640 @@
+the most important thing is how you do
+that without
+putting you know a huge burden on the
+user that all he wants is just to move
+100 dollars between
+[Music]
+thank you so much for joining me on 20
+minute leaders
+thank you for having me welcome
+wonderful okay so
+i messed up again and it's happening a
+little bit more often than i'd like it
+that i
+i we begin talking and then i just
+forget to record because i'm already
+fascinated about what we're talking
+about but i have the pleasure
+of speaking now to somebody who was one
+of the
+people responsible for the architecture
+of visas revenue streams
+and just to put that in perspective
+that's a company that deals with over a
+billion
+transactions a day a billion so
+quite a significant role but besides
+that office of the cto of silicon valley
+bank
+and lp at j ventures which i'm also a
+part of so i'll repeat the question that
+i had before your own
+what does it take to lead the enterprise
+architecture
+for visas revenue streams yeah great
+question michael and and
+you can probably guess being a part of
+visa
+pretty massive company um in more than
+you know countries all over the globe um
+and
+dealing with that mass dealing with that
+volume brings in
+uh huge huge challenges so some of them
+are related to the ability to process
+that amount of transaction in such a
+short time span right every day
+a billion plus transactions making sure
+that you process it in 200 countries
+sorry in over 200 countries you
+mentioned which is over 200 countries in
+over 200 countries
+all the protocols and mind-blowing
+mind-blowing um
+and what's even more mind-blowing is
+that you would need to apply
+more than 10 000 rules on each and every
+one of these
+one billion transactions and make sure
+that it's
+taken into account in terms of how you
+build it and how you service
+it and how you price it and how you
+aggregate aggregated et cetera et cetera
+et cetera
+so this this by itself is is you know
+two pretty massive challenges
+add that to the fact that everything
+needs to be well secured
+you know compliant everything has to be
+audited to the scent
+and and everything has to to really work
+and and play
+as in a concert uh with no disruptions
+whatsoever
+that really adds you know quite a lot to
+the mix i have to say that i
+recently developed a software that is
+able to make
+a thousand small calculations a you know
+in a few seconds
+and with microservices and all that sexy
+stuff and i was so proud of myself
+and now i just feel so small when you're
+talking about 10 000 rules
+over each transaction as a part of a
+billion so you ha
+you have my you have my appreciation
+everything is relative in life
+that's the first lesson from this talk
+fantastic okay continue sorry
+no no problem at all um so all these
+challenges
+and why you need to continue and develop
+the infrastructure
+in your software stack and the ability
+to innovate and
+to be open to innovation um
+dealing of course with very very um some
+of the
+systems that are super legacy
+modernizing that stack
+fostering you know the the ability to
+open up and and be able to serve
+different organizations internal and
+external that that was that was
+uh quite a wild ride yeah no i'm sure so
+so you know
+give me give me a little bit of you know
+the day-to-day of
+is it stressful first is it stressful
+and managing such a you know a
+critical piece of the of the financial
+puzzle
+there's there's a lot of stress involved
+yes
+again revenue systems you have to deal
+with money
+and money is really really critical
+so we got into situations when we were
+at some
+you know some occasions missing even a
+few pennies here and there
+even a few dollars here and there things
+did not match
+things did not settle and because of
+visa reputation and the
+commitment to be always 100
+up and accurate there were some
+stressful situations where we needed to
+make sure that everything
+is is well reconciled and and you know
+we were able to send the settlement
+files and and payments over or
+essentially
+charge the different clients the right
+amount
+so definitely some situations there in
+addition to the ability to process that
+volume
+within a short time span how many people
+are how many people were involved with
+this
+whole engineering feat you know there
+were not
+huge amounts of engineers involved
+i i you know i don't want to to sound
+like
+like we had 10 000 people on the ground
+essentially you know working to get this
+machinery going on
+um it was around 100 to 150.
+wow well let's see it's across the board
+incredibly impressive and i have to ask
+because i'm what am i staring at
+what where are you right now in the
+world so this is actually don guerrero
+pass
+which is northern part northern ireland
+of new zealand
+and i actually have a habit of keeping
+my virtual background in zoom
+rotating across all the different hikes
+i did across my
+you know 40 plus years on on planet
+earth incredible what
+what's your favorite hike that's one of
+the top five for sure
+it's like asking you know somebody who's
+your favorite your favorite child
+yeah i like them all they're just
+different is the
+is there what is the lake actually green
+when you're there
+no it's just uh it's it's kind of uh you
+know
+looks like it's green but it's not it's
+it's not actually okay great so very
+talented
+uh you know photographer definitely
+definitely
+so your own talk to me now a little bit
+about about silicon valley bank
+what what is that and what is your role
+over there as part of the office of the
+cto
+sure and you know going from visa to
+silicon
+valley bank i needed to do some shifting
+and silicon valley bank
+is a commercial bank which the
+population that it serves
+is the innovation economy
+in fact 65 percent of all the innovation
+economy money
+in the u.s is being processed through
+tesla bank
+um and we have you know a representation
+over all the main innovation hubs so we
+have a branch in israel
+and in the big one in the uk and in
+canada
+and germany wherever there is innovation
+spurring
+you're going to find silicon valley
+banks there what does that mean a bank
+that is
+that its main customer base is
+innovation
+what is that so we have we have a set of
+unique products that is really tailored
+and geared towards
+startups private equity firms and when
+we're saying startups
+is everywhere from you know there is a
+series b
+c all the way up to established
+companies that are already
+you know in the nasdaq and are already
+public companies
+so we do have products that are tailored
+towards that cohort or specialized
+in in products that are tailored toward
+that cohort and that that's really the
+um secret sauce so to speak
+right and and then what so so how does
+that differ in the mindset
+when you're creating when you're working
+at an organization that is
+tailored to innovation with all the
+dynamics that it brings with it right
+because i'm
+because i guess different from you know
+the average citizen
+or the average company that has a bank
+account you know startups
+go up they go down they raise 10 million
+they lose 12 million
+so so how how does that mindset shift
+exactly exactly right you just said it
+so
+you're talking about a cohort of
+clients that is very different
+because an early stage founder which has
+you know
+a team of 10 has very different needs
+from
+a corporate client that is a
+you know a well-established company with
+employees that runs on 100 million
+dollars cycle
+so they have different needs but they
+are all entrepreneurs they
+all have you know a need to to get
+uh banking financial products from us so
+that requires us to essentially have
+different facets of products and
+different lines of products that can
+cater
+towards these different sectors in
+addition we're working with
+entrepreneurs
+and we all know what entrepreneurs are
+are after right they need
+things that work fast they need things
+that work
+slick they need things that are tailored
+to their needs
+um and they want to do that from their
+mobile device
+right so having a stack having products
+that are tailored towards
+what entrepreneurs are after and their
+set of mind and of course they want
+things that change i mean today
+it's this tomorrow it's that they won't
+they don't want to wait for 12 months
+for somebody to come in and you know
+come up with a product that's tailored
+for ever-changing markets right and i
+mean you're so you're
+you're very strategically positioned
+within this financial
+uh tech industry is is what really
+excites you about it why
+why choose to go into banks you know
+with your tech skill sets i mean you're
+wanted in
+every tech company in the world so so
+why specifically
+banking and finance so
+i think because of that very close
+interface with
+entrepreneurs so silicon valley bank
+sees itself not only as a bank
+we're not that you know an atm you go in
+and get
+money from and that's it we're actually
+building relationships so i have the
+opportunity
+as an architect to speak to many many
+many companies
+really and explain to them and work with
+them and kind of give them an insight
+on what does it take to work with
+regulated financial institutes
+and that that is very precious
+information and something that
+companies really really value so we we
+do that we
+we have the ability to connect between
+different clients of ours because we
+know that client a
+might be well integrated with find b and
+sometimes we even adopt
+technologies that are coming in from our
+clients which we always look at
+favorably incredible so you get that
+ability to really work within that
+innovation economy that within the
+innovation ecosystem
+that was something that that was really
+appealing to me and that's something i
+for example visa was very different in
+that sense right and i'm guessing it's
+also a different number of employees
+around the world and
+the the whole the magnitude must be
+different right because the visa is just
+it's crazy juggernauts exactly so
+silicon valley bank is a medium-sized
+bank uh fairly small
+you know smaller presence in in
+california and in other areas in the
+world but
+i think the culture also because of the
+need and the ability to speak with and
+engage with our entrepreneurs
+the culture within the bank is very open
+very honest very authentic these are
+things that i really do appreciate
+but i have to really get to the bottom
+of this because you're saying that
+you're
+you're a technology architect within
+silicon valley bank
+uh so it's an engineering leadership
+role correct
+so the interesting thing with what i'm
+doing is i'm sitting
+right in the junction between
+engineering
+business and products and that's that
+that's my sweet spot
+right so talk so that sweet spot i i'd
+love to just learn a little bit more
+about
+what it means to to talk to the
+entrepreneurs and to your customers
+while having all these different hats on
+absolutely and i think what it does and
+what what requires you to do
+is to really think like a product
+manager
+think like an engineer think like a
+business person
+when you are trying to roll out
+technology changes and when you speak
+with entrepreneurs so you bring in that
+multiple angles to the conversation
+so if you you think like a product
+manager is
+all features what makes more sense to
+invest in
+what what will will you know kind of
+turn turn the needle or move the needle
+when you think like an engineer is how
+do you build your stack
+in an open way your apis that you want
+to expose
+so partners like silicon valley bank can
+work with you
+easily where your your encryption of the
+data that that you're going to save your
+sensitive data
+those type of of um you know uh
+specific areas that that you can bring
+to the table so you bring in a
+a meal that that's made out of few
+horses essentially not not just a
+one-dimensional
+angle yeah no definitely and then you're
+but so you're not just drawn to
+the entrepreneurs in silicon valley bank
+but also
+as a part of you know venture capital
+and you're an lp
+at the j ventures fund so where does
+that interest come from
+and and how do you balance that interest
+with you know being inside of a big
+corporate
+great question so the fact that i've
+been you know working with entrepreneurs
+in the last four years
+certainly helped me kind of getting
+close to that ecosystem
+right um i think that it really
+triggered my interest
+into the vc community and into the the
+capital community
+the capital funding community i also
+feel very strong around
+upon the the mission that j ventures has
+with keeping that the gap or
+closing the gap between israelis and
+american jews
+of course we definitely see you know
+opportunities there and i'm excited
+about that mission
+so a combination of those two together
+that that really was what was driving me
+over towards
+the eventual very happy so far a hundred
+percent no no me too
+but do you have that sort of like
+irkness or those like you know
+those goosebumps when you see the the
+entrepreneurs and do you do you have
+that sense of
+well maybe one day i i want to you know
+do
+do go on on an adventure like that as
+well or are you
+happy with the intersection of you know
+business and
+executive technology within uh within a
+large corporation while
+investing can't lie michael i i always
+have something in the back of my mind
+that says how about that idea how about
+this idea
+so i do have a few things in the back of
+my mind but that you know
+the opportunity just didn't presented
+itself yet and and
+it's it's all about timing and the right
+time and right uh
+you know the right location so
+my brother by the way is an entrepreneur
+so he's kind of adding
+a lot of fire or a lot of oil into that
+fire as well and all the shabbat dinners
+i'm sure
+exactly so so it's it's somewhere there
+um hasn't been materialized yet but life
+is short you know
+let's see let's see what we do in the
+future
+a hundred percent 100 no that's that's
+really fantastic and i'd love to sort of
+shift and
+and understand a little bit better about
+this about fintech and about
+you know the financial world as it is i
+know nothing about it except for the
+fact that i
+that i know how to swipe my credit card
+and and hopefully check
+pretty often to make sure that my
+balance is above zero
+i don't know much give me a little bit
+of your insight into what's happening
+you know in 2020 with
+with finance and and how consumers are
+interacting with their banks
+and where are we headed from here sure
+and digital is definitely
+the big thing um digital
+meaning that you don't want to call your
+bank you don't want to send your bank an
+email
+you want to be able to interact with
+your bank through digital means through
+digital applications
+you if you own a company if you want a
+startup or or
+a private equity company you want to
+have apis
+which are you know ways to interact with
+your bank without
+needing to even use a mobile app um you
+just hook in your systems through apis
+and you've got everything done
+automatically
+for some of your needs um so digital and
+observation are really big
+right now in the ecosystem um in the
+commercial ecosystem
+even more right so if you do have a
+business if you need to
+to do payments if you want to be able to
+to shift money
+in between accounts if you want to be
+able to pay different deals
+you want all that that to be very
+automated very streamlined very simple
+for you
+you also want to have different payments
+and different ways to pay
+and depending on how you want to pay
+sometimes you're willing to pay more to
+get
+things done quicker sometimes you have
+the ability to wait with some of your
+payments so you want to have the ability
+to choose between different types of
+payments you don't want just
+two two wires one hundred percent of the
+time
+cards is another great example cards are
+blowing up i mean
+the cards industry is is just and visa
+of course
+was is the main benefit of the
+beneficiary out of this
+but the the cards industry and the
+products on cards
+are right exploding so loyalty
+and the ability to do so many things
+with virtual cards
+and your vendors pay your employees with
+virtual cards
+that that's been a very hot topic as
+well
+so it's it really is a lot around
+digital
+from payments around automation um
+that's what i would say are our three
+main trends of what we see around
+and how how how does trust play into all
+of this
+especially as things are transitioning
+to paperless or they have transitioned
+but you know in some parts of the world
+you know i was just speaking i was
+recently visiting mexico with a friend
+and we were sitting with one of the top
+startups there who are now you know
+helping
+digitalize the the banking system in
+mexico and it turns out that most people
+there don't have credit cards yet and
+don't have
+digital banking yet so how how do you
+how does how much does trust play into
+this whole transition that the world is
+going through
+um i think so so we're a commercial bank
+so we don't work with individuals we
+work with commercial entities
+but i can look at trust from maybe a
+different angle for you
+when we talk about the identity yes and
+the ability so think about it right
+we're in a world where
+a fake reality is very much becoming
+almost the real reality in many many
+different occasions and you hear about
+use cases and occasions where
+you know folks were were kind of uh
+pretending to be person x and calling
+person y and telling him to to just you
+know wire a million dollars to that
+specific address and they were sure it
+was the ceo etc etc
+so being able to uh
+transact financially in a safe
+way is huge right and for that there are
+different technologies
+um some of them are coming in in a
+pretty big way
+such as voice recognition
+such as behavior biometrics behavior or
+behavioral biometrics
+in other ways that we are also thinking
+of of how to do that transactional
+journey
+how to do that identification
+multi-factor authentication yeah
+all that good stuff to make sure that
+you are you
+when you try to transact with us is
+critical
+and the most important thing is how you
+do that without
+putting you know a huge burden on the
+user that all he wants is just to
+to move a hundred dollars between his
+account exactly exactly your own uh
+that's just fascinating
+and we do have to end soon but i i'd
+love to ask you the the last question
+which is three words that you would use
+to describe yourself
+wow three words all right so let me we
+said we said two to four
+so three is a good medium happy median
+so how about we go with
+um humble yes very important to me very
+important
+for me to to be in a place where people
+are humble
+um curious which really goes
+hand in hand with humble being humble um
+and really wanting to to learn and
+understand more
+and i think i am very focused so i'm i
+got this maniacal focus that i
+i actually jump on things and i make
+sure that that things are
+are you know done and
+very very important to get distracted
+so that that would be my three keywords
+euron i think it's it's incredible
+and uh i can't even imagine what it's
+like to
+to to even be a part of a team that let
+alone lead it to that that manages this
+infrastructure of
+oh my god today it's a billion
+transactions a day
+i'm gonna have to go back to my drawing
+board of a thousand calculations
+uh yeah you can kill this baby up you
+scale it up
+thank you very much and i'll see you
+around j ventures
+thank you for having me take care have a
+good one bye
+you

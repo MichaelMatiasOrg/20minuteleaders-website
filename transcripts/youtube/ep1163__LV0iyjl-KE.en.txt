@@ -1,0 +1,769 @@
+cloud, data, apps, all of that. You
+know, is it a humanborn threat? We
+created the data. Now, you can sit here
+and say we created the system. Systems
+are creating the data. We can as you
+start getting into AI,
+AI, machine learning, you know, I I'm
+going just use the general term right
+now of of AI for generative AI. You've
+got AI generated data. Well, it's still
+humans created the AI, the AI creates
+the data. It's all humans. It's all
+people. Humans are humans are our
+greatest sensors because we still have
+intuition. But humans are also the
+greatest threat that we have out there.
+Whether it's insider threat, whether
+it's a activist, whether it's a nation
+state actor, it's still a person on both
+sides of the of the equation. We don't
+have machines attacking machines yet. We
+have humans attacking humans. And
+whether they're going after my data,
+whether they're just trying to knock me
+offline with a distributed denial of
+service, it's still humans attacking
+humans.
+[Music]
+Benjamin Coral, welcome to the human
+zero day. I'm so excited for this
+conversation. I've been so looking
+forward to it. Thank you so much for
+being here.
+&gt;&gt; Oh, absolutely. Excited.
+very much appreciating your time,
+Benjamin. Um, listen, you've had a lot
+of experience in the security space. And
+I'm I'm going to jump right in. Um, you
+know what? Before I jump right into
+human security, tell me why you got into
+security.
+So, saying I have a lot of experience. I
+think that's a subtle way of calling me
+old. So, I appreciate I didn't hear
+that. That's you.
+Now uh I really got into security
+so because I wanted to help people. I
+wanted to protect people and there are
+bad people in the world. You know it bad
+people do bad things and in order to
+stop bad people from doing bad things
+you have to have good people who are
+willing to stop the bad people from
+doing bad things. That is what really
+drew me to security is how do I stop
+this badness from happening? I don't
+have to go after bad people. That's law
+enforcement. But I need to protect
+organizations. That's what really drew
+me to security is that defender or that
+protector perspective.
+Incredible. Okay. So, there's many
+different threats to organizations. Are
+there particular types of threats that
+particularly drew you closer to this
+world?
+The in short when I started in security
+it was IP tables and it was antivirus on
+workstations. So when I came it was
+really the the hackists or the
+opportunistic hackers that were out
+there and yes all called hackers at the
+time we can say cyber criminals now but
+at the time it was more malware of
+stopping machines having to rebuild
+machines. It was a pain in the tokus. So
+that how do we protect how do we make
+sure and how do we keep people out and
+you know access control lists that that
+was pretty sufficient back in the day
+but that's not sufficient today. But
+that those are some of the threats that
+were there and then it became that cat
+mouse of as the attacks get more
+sophisticated because the attackers
+behind them more more sophisticated
+and really that mindset of it's
+something different every day. That that
+that was the other thing of how do I
+make sure that my program is sufficient.
+I don't have to stop every attacker from
+every type of attack from getting in. I
+have to make my organization
+just a little bit more difficult to get
+into that this opportunistic attacker is
+going to try to Yeah, this is a pain.
+I'm going move on to someone else.
+&gt;&gt; It's easier.
+&gt;&gt; It's okay. You know, if you and I are
+get if you and I are stuck in a forest
+together and I spot a bear that's
+running at us, I don't have to run
+faster than the bear. I need to run
+faster than you. And well, you you you
+need to move faster than me because you
+know I like you and all everything. I
+you're younger. You're half my age. I'm
+not going to outrun you. I'm going to
+trip you and I'm going to keep running.
+&gt;&gt; I love it. So, so Benjamin, many things
+to protect against lots of cat and mouse
+games in cyber from cloud to data to
+applications to um databases to to the
+code vulnerabilities,
+operating systems, humans.
+What's happening with humans?
+Well, everything that you just, you
+know, mentioned is it's all humans. So
+cloud, data, apps, all of that. You
+know, is it a humanborn threat? We
+created the data. You can sit here and
+say we created the system. Systems are
+created in the data. We can as you start
+getting into AI, AI, machine learning,
+you know, I I'm going just use the
+general term right now of of AI for
+generative AI. You've got AI generated
+data. Well, it's still humans created
+the AI. The AI creates the data. It's
+all humans. It's all people. Humans are
+humans are our greatest sensors because
+we still have intuition. But humans are
+also the greatest threat that we have
+out there. Whether it's insider threat,
+whether it's a activist, whether it's a
+nation state actor, it's still a person
+on both sides of the of the equation. We
+don't have machines attacking machines
+yet. We have humans attacking humans.
+Whether they're going after my data,
+whether they're just trying to knock me
+offline with a distributed denial of
+service, it's still humans attacking
+humans. And what are the most common
+attacks that you've seen, let's say, in
+the last two to three years in the
+context of humans attacking humans? I I
+probably most of it is financially
+motivated, but what what are practically
+the types of attacks that you're seeing?
+So it's all that financially motivated
+is generally what I'm going to see. But
+what are they trying to do? And you
+prevalence. I'm still shocked at the
+prevalence of ransomware. And we
+shouldn't be because you have ransomware
+as a service now. You you have for you
+know half a decade as well of these
+these it's a subscription model. So it's
+it's become commoditized. It's easier to
+do now. So that's but ransomware is just
+still malware. It's just one more
+version of malware or that malicious
+software things like that. This
+financially motivated and one of the
+things on that is business email
+compromise of you know I'm sure you've
+heard the adage of criminals don't have
+to
+to compromise you. They don't have to
+hack you. Criminals are no longer
+hacking into your organization. They're
+logging in to your organization. So, all
+I've got to do is get your credentials
+and if are you using the same
+credentials for all of your different
+accounts or are using a password manager
+with unique for every account that's out
+there, but if if they get access to, you
+know, it was years ago, but if they get
+access to LinkedIn and they get the
+credentials there, what other accounts
+can they log into as well? Are you
+resharing those passwords? So, those
+business email are compromised. they're
+able to get into Acme,
+but Acme third party. Now, Acme is a
+supplier to Amazon, to Cisco, to to
+Microsoft, to these to Apple in these
+larger enterprises, these larger
+organizations. Now, they can go in and
+they can say, "Oh, you you're a customer
+here." they can get in, use these same
+emails, use the templates, use all of
+those things and they can craft a very
+realistic looking and they now own this.
+So whether they're spoofing a domain,
+whether the or whether they're logging
+into the real domain here and sending it
+saying please change the the bank
+account and it's on the real right
+letter hag.
+everything looks right or they have a a
+you know they've comp compromised they
+can now create a rule inside this email
+so it's coming from the right email but
+any responses can be forwarded somewhere
+or it can be moved out of the inbox to
+where the real recipient or the real
+sender there the box that's been
+compromised doesn't even know that
+you're doing it and that you have access
+to their account really bad things very
+common now And I have a question, maybe
+a simple one, but it's it's still an
+important one nevertheless. We've been
+building really phenomenal services to
+help us combat viruses and malware and
+intrusions on so many different aspects
+which are seem quite successful in
+detecting breaches, right? The world of
+detection and response, the it's a big
+big space. Why isn't this the the sort
+of the big solution to what you're
+alluding to are as business email
+compromise social engineering attacks
+that you know if you look at them you
+can pretty much point to them and say ah
+we should be able to detect this.
+&gt;&gt; Mhm.
+And and that's the thing is there's no
+silver bullet here and there's no easy
+button that you can push and it also
+comes down to real adoption. Technology
+exists and if you implement technologies
+that are there with the defense you
+meaning you have multiple tools. If one
+tool misses the other catches if one
+tool misses the is the other one there.
+How well have you implemented? Are you
+properly monitoring? Are you reducing
+the, you know, not just the attack
+surface, but the blast radius? I did
+mess up. My machine got compromised.
+Am I connected to a network of other
+machines? Now, I'm sitting here on my
+home machine. If you compromise my home
+machine, can you get to my kids
+machines? Can you get to any of my smart
+devices on the network? Well, I have
+multiple networks in my house. You're
+not going to be able to jump from device
+to device because it's a segmented
+network. What are we doing? How do we
+reduce that radius that blast radius of
+if we can't prevent it? Can we at least
+minimize and reduce the impact? Now, of
+course, I want to to prevent it and
+there are other technologies talking
+about the business email compromise.
+Your credentials are out there. If it do
+we have the unique ones for every
+account? Well, how many login do you
+have? Well, if I go in my password
+manager, I have just shy of 300 accounts
+that it manages. So, I could have unique
+passwords and this manager will tell me
+if I have reused passwords. So, it'll
+give the passwords for me, but
+conveniently it integrates to my
+websites, whether on my mobile device or
+on my personal device. So you've got
+multiffactor.
+So all of my financial websites, my my
+retirement account, my where my direct
+deposit goes as well. All of those
+require multiffactor.
+And you've got other things of
+multiffactor is your username, your
+password, a biometric, something you
+are, someone you are, someone you know,
+something that you have, 502 with
+different things like UB keys is one
+more way of going about it of how do we
+reduce, but how do I know you are who
+you say you are? And all of this starts
+culminating into that defense and depth.
+But one of the things that I'm really
+really passionate about is stopping stop
+using yester year's technology
+and I really with the human factor
+everything that it's there. How do we
+use technology wisely and I'm an
+advocate of adopting zero trust models
+and not just buzzwords.
+We could throw a lot of acronyms out,
+but really, how do I stop connecting
+people to networks? How do I connect
+resources?
+Give me an identity to a resource. I'm
+only going to connect you once you've
+authenticated. Tell me who you are. Does
+the connection make sense? Where are you
+connecting to? How do I connect you only
+to a resource?
+&gt;&gt; And how do I tear that access down when
+that session's done? Now you want to
+reconnect, reauthenticate, but make it
+easy on the end user as well. Yeah.
+&gt;&gt; Is it the same person coming from the
+same
+make it easy but also make it secure.
+Now help me place
+the problem of
+human security related issues in the
+larger in the larger context of
+different risks in terms of in the
+context of cyber security and and I'm
+going back to you know in the beginning
+you said you know everything is human
+you know ultimately everything is
+generated by human everything is
+operated by human but but there are
+different different ways in which you as
+a CESO
+may think about protecting organizations
+from creating you know firewalls to
+looking at your cloud uh to to you know
+cloud security posture management to DLP
+systems right you're spending money on a
+bunch of these different things where in
+terms of the you know how big of a pain
+point where does the human
+susceptibility to social engineering
+fall in line with these other pain
+points that you're actively resolving in
+the day-to-day.
+&gt;&gt; Yeah. And I'd like to say, you know,
+we're getting better. And humans,
+humans are prayed upon and they pray
+upon us using our emotions. Humans, you
+know, humans taking advantage of other
+humans and a lot of the social
+engineering that that comes along. And I
+can give you examples of, you know, how
+I took advantage of when I was doing pin
+testing and red teaming and things like
+that, but a lot of it comes down to, you
+know, humans being duped because of the
+motions. We can talk about deep fakes
+and things like that are that are now
+becoming more and more prevalent. We can
+talk about the types of LLMs that are
+out there that are being used by cyber
+criminals to create more realistic
+looking
+more realistic looking so it's not chat
+GBT cuz if you go in there and use chat
+GPT but it's other GPTs you know rogue
+GPT for instance is something that
+within four or five prompts of things
+that you enter the things you're typing
+in that are the questions you're asking
+or prompts to the GPT within four or
+five prompts, you can write a whole
+campaign to take advantage to to repaint
+a website to make it look like a
+password reset for almost any account.
+And then you send that link and now your
+users are being duped into it saying
+your password has has expired. Enter
+your old enter your credentials, your
+username, your password, and your new
+password that you want to. And then all
+of a sudden, they enter that information
+and it's a prompt that comes up. We were
+not uh we were not able to process this.
+please try again later. But it takes
+your username and your password and
+sends it to the attacker who then will
+try to log on using your credentials.
+Yeah, all of those things become so much
+easier with some of these advances in
+and these GPTs that are out there. So,
+but also things that I did as a red
+teamer is people want to help and you
+sit there and say, "Can you help me out
+with this?" And how do you get into a
+building that has guards there? Well,
+you know, you don't go through the front
+door. You go to the back door and you or
+you go out to smoker's corner and you
+walk in with the people that are out
+there smoking. They all start walking in
+together. The the smoke break is over.
+People walk in. All right. You think
+you're going to be questioned, walk up
+with a couple boxes of donuts. Your
+hands are full. They're going to hold
+the door for you and let you walk in.
+It's little thing. People want to help.
+And if no one's holding the door for
+you, you ask. You put them on the spot.
+Hey, my badge is in my back pocket. Can
+you either reach in my back pocket? Make
+it things awkward. Can you reach in my
+back pocket or could you simply grab the
+door for me? You put them on the spot.
+Nobody wants to be confrontational.
+Nobody wants to say no. And no one wants
+to awkwardly reach into your back
+pocket. That's going to be empty. Oh, I
+must have left it in my car. Little
+things like that. People want to be
+helpful, but they also don't want to
+confront. So, put them on the spa. Ask
+them ask them to open the door if they
+don't volunteer to do it. So, that's
+another way uh of duping it. The other
+thing can can also come in of you are
+you know why would they hold a door for
+for people of they don't see the value
+in the controls. So, please you know
+don't allow people to tailgate behind
+you. But we're humans. Oh, that looks
+like Bob from accounting. I recognize
+Bob. I'm gonna hold the door for Bob.
+I'm not gonna let the door slam in his
+face. So, there's also that factor of
+not understanding that we still need,
+you know, the security team. I want to
+see Bob's badge. I want to know, you
+know, I need to know how many people are
+actually working in this building at any
+given time. If there's a fire, if
+there's anything, who do we need to, you
+know, can we give the fire marshall a
+list of employees we know are in the
+building?
+little things of from that perspective
+of knowing who was there. It's not
+because I'm trying to catch badges or
+count badges and know who was there and
+were you six minutes late. I don't care
+about any of that. But from a human
+accountability perspective,
+so yeah, but there's also the humans
+will go around our security controls
+that they don't understand if it's a
+convenience factor.
+&gt;&gt; And what do I mean by this? Well, those
+badges, USB sticks, you know, going
+around. I I'm tired, you know, I need
+this file. Yeah, I need to work on this
+file from home. I don't have a laptop. I
+mean, everybody has laptops now, but I
+have a desktop in the office. You know,
+I'm going to copy this and then I'm
+going to work on this from home. Uh,
+well, now this USB stick I copied on to
+it's my own USB stick. Did I infect
+malware now? inject malware because that
+USB stick or is it a data breach because
+I'm copying sensitive information onto
+it to work from home. Did my DLP catch
+it? Yep. Things like that. Oh, you can't
+use USB sticks. I copied to my own
+Dropbox.
+Well, now I have copy of sensitive
+information and I the administrator can
+no longer see it or my controls are
+inadequate. it different reasons. I
+don't think any of that was malicious.
+There's malicious insiders from
+disgruntled people as well. Or you can
+sit there and talk about corporate
+espionage of here's $10,000. Plug this
+USB stick in and you give that to the
+cleaning crew as they're going through.
+There's there's all that's that's
+malicious. That's intentional.
+&gt;&gt; Absolutely. So in going back to the
+question of how you prioriti how you are
+prioritizing your time thinking through
+these types of risks and you were
+talking a lot about the physical risks
+but I imagine that every each of these
+physical risks can be also asserted to a
+digital one right that just simply over
+email phone SMS can be the same same
+notion as can you hold the door for me
+you know right um how how do you think
+through how much time and energy you're
+spending your as a CISO or or as your
+others are spending at CESOS protecting
+from that versus protecting from other
+things. Well, that's the thing is
+everybody has this mobile device they
+carry with them everywhere and
+how do I get you know how do I protect
+and is it a corporate device is it a
+personal device if it's a personal
+device what type of data can it have on
+it you know do you put an MDM mobile
+device management solution on there but
+all of those things is
+I believe I have adequate controls on
+devices that I manage
+Now, if I'm attacking you and I'm trying
+to get into your organization,
+I know that I'm unlikely to get it
+through your corporate apps. So, I'm
+going to send you a, you know, I'm now
+going to Signal. I'm going to WhatsApp.
+I'm going to Telegram. I'm going outside
+the enterprise application and I'm now
+going to hit you up through that. I got
+your phone number somehow and now I'm
+sending you something through a
+non-corporate and I'm going to pretend
+to be an executive at your company and
+I'm going to say, "Hey, you work in
+finance." I'm going to say, "Hey, hey,
+Michael, I've lost Yep. This is Jim. I'm
+the CFO. I'm the controller. I've lost
+my corporate access. I'm about to jump
+on a plane.
+I need you to do this in the next two
+hours. I need it done before I land or
+we're doing a merger with this company.
+It's all hush hush. I've lost my
+corporate device. I need you to process
+this for me. Please keep it off the
+company because we This is still hush
+hush. It's still in the project phase.
+We can't have it going through. You know
+me. This is my face. This is where the
+deep fakes with the voices come in of
+I'm sending you an authorization via
+audio file. As soon as I as soon as I
+hit send here, listen, you're going to
+recognize my voice. This is your
+authorization to process it. Little
+things. This is in a digital world. You
+know that person. That's your boss's
+boss. And you get it in. Yeah, it sounds
+like them. Well, those are very easy to
+create now. very cheap to create as
+well. If it's not free, it's, you know,
+pennies or dollars in order to create
+something like this. And but how much,
+you know, validity or validation do we
+put into that of, yeah, that sounds like
+the CEO, that sounds like the chief
+operating or chief financial officer.
+Therefore, I'm now going to process
+this.
+&gt;&gt; So, what do we do about that?
+&gt;&gt; Train train people. let them know yeah
+better better controls better tools but
+I do believe this is at defense and
+depth if my technology fails does the
+human layer know that these things exist
+does it pass the sniff test have
+processes in place before somebody can
+pay a you know purchase order purchase
+release all of these things when it goes
+above 5,000 10,000 you know €50,000 or
+you know what whatever that is do you
+have things in place your processes in
+place. Does it need a second set of
+eyes? Does it now need a finance
+director to approve? Put put controls
+processes in place and train your people
+to let them know that these sorts of
+threats exist and to be be aware of them
+and when you receive them, how you
+validate. Is it from a known number? Can
+you now go on a an internal Slack? And
+you know that last one of that CFO hit
+you up. Can you at least say Mr. or Mrs.
+CFO?
+I received something through Telegram.
+Can you confirm that this is you?
+You're not asking any details. You're
+not giving out project names. You're
+not. But you are saying, is this truly
+you? Or you can get on with a their
+their executives. So, hit up their
+executive assistant and say, "I just
+received something from or purporting to
+be from. Is this saying they're about to
+jump on a plane? Can you confirm?" No,
+I'm in the meeting with them right now.
+I can confirm they did not send.
+&gt;&gt; How do you reliably
+create a training system that takes into
+account the externality
+of the way that these attacks are coming
+in? Because yes, we've had pre-recorded
+videos before. We've even had email
+fishing campaigns internally, but like
+you said, these attacks are no longer
+just limited in scope to the enterprise
+systems. They're out in the coming from
+the external world.
+&gt;&gt; Yes.
+and how do I train my people and make it
+relevant to them and sharing these
+examples of things that have happened to
+our organization in the past.
+&gt;&gt; This happened 6 months ago. This
+happened 6 weeks ago or what are some of
+the painful things that have happened in
+your organization? Even if it was from 2
+years ago, did it hurt bad enough? And
+in the US now with the new SEC
+regulations that are there of material
+breaches and materiality and stuff.
+Remember we had to do an 8K on an
+incident in 2023. I mean it wasn't
+reportable but still you can make
+mention of we are still rolling things
+out. This is the way that they were able
+to take advantage of. Therefore
+those are the types of things that are
+real and relevant. It's not happened to
+some other company somewhere in the
+world. This impacted us. It makes it
+more real. That's some of the things.
+But also you I used to get hit up of oh
+we have our annual security training
+coming again. We're going to have to
+watch these three five minute videos.
+And people would you know be groaning
+it. People would see me walking by and
+they would tell me, "Hey, you know, I'm
+helping through the videos." And others
+would be like, "Yeah, just hit play on
+the video, walk away, come back, you
+know, go get a cup of coffee, come back,
+it'll be done because you can't skip
+it." And then just answer the two, three
+questions. You don't have to really
+watch it. It's all common sense. So, how
+do you make it engaging? How do you make
+it real for them? Because at the end of
+the day, we're we're investing the time
+to buy those solutions. We're investing
+the time to have people take it. We
+don't want them skirting around a system
+because it's not engaging. So, what
+would be engaging? Ask them. Ask them
+what's going to be more engaging and is
+it going to be things that are real or
+relevant to them? And when does it
+become relevant to them? And one of the
+things I realized when I was chatting to
+different board of directors, different
+board members, is I had a board member
+coming to me saying, "I now have a
+teenage granddaughter and I remember
+that you were talking to me about social
+social media and I kind of zoned out
+because I don't use social media, but
+now my 14-year-old granddaughter is
+asking to get social media. Do you have
+training that I can take so I can have a
+conversation with her or do you have
+training for her? And it became real for
+her at that point.
+How do we make it real?
+And what have you found to be more
+effective practically?
+There's I know there is a few schools of
+thought when it comes to training.
+There's let me share with you a concept
+like fishing. Let me share with you a
+case study of something that happened to
+us and then there's let me let me show
+you how it actually looks like and
+depending on how you how you react then
+I will know where you're at and how to
+train you better but you will have
+experience that which of these is most
+effective and which of these do you
+think we can actually use tangibly in
+the context of these new and emerging
+threats?
+The short answer is yes. All of them.
+It's situational case by case basis. Do
+we do the training and then you know not
+once a year but how do we do it
+continuously giving it to the different
+teams? I'm giving the business email
+compromise more to my finance team. I'm
+going to give something different to my
+DevOps team. I'm going to give something
+different. You know account takeovers
+going to my DevOps team. Things like
+that. I'm not giving everybody the same
+training. They may get the same general
+overall introduction to to something,
+but I'm probably going to give the
+business email compromised things to
+finance or you know those types of
+organizations. My executives whailing,
+spear fishing, they're going to get a
+little bit extra. Same thing for my
+board members. They're going to get
+different. So, I'm not hitting everybody
+with the same thing over and over. Do I
+have frequent offenders? People who fail
+fishing tests? I want to praise people
+who pass it and then I want to engage
+those who continually fail. And we used
+to put up the seven signs of of seven
+indicators, poor language written that
+poorly that everybody should be able to
+discern that this is fishing. And I'm
+like, you're reading this from an
+American perspective.
+And what I mean by that is you're
+reading it as an American in broken
+English because most of the fishing
+messages were coming in written in
+broken English. And I'm like, you see
+that? But somebody with English as a
+second or third language, it is written
+by somebody with English as a second
+language and somebody else with English
+as a second language doesn't pick up on
+those nuances.
+Therefore, how do we train them? How do
+we, you know, I don't even want that
+message making it to their inbox. So, is
+it a technology issue before it's a
+human issue? So, let's improve our
+controls that are here yet. Let's also
+train our people relevant of what might
+be coming down and using your
+newsletters, using your internal ways,
+using your different ways of
+communicating, but that frequent
+offender now of I see for the last three
+times you had issues or you clicked or
+you even entered information into this
+portal and then you're having a
+conversation with them. Not to not to
+you're violating my acceptable use. Do
+it one more time, you're going to get
+fired. No, I want to train them because
+if I train them to be a better sensor,
+they detect more things and they're
+going to talk to others. Did security
+come and smack them? That whole carrot
+versus stick. I want to train them to be
+a much better sensor and now to be an
+advocate for me.
+&gt;&gt; Benjamin, this was such an interesting
+and enlightening conversation. Thank you
+so much for for spending this time with
+me and for sharing with me your
+perspective and excitement about this
+space. It really came through. So I
+really want to thank you for being here.
+This was great.
+&gt;&gt; Thank you so much for the opportunity.
+Thank you very very

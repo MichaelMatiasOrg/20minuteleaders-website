@@ -1,0 +1,590 @@
+i think we're seeing like a big increase
+all around
+you know the different segments not only
+on the automotive but in banking
+insurance critical infrastructure
+uh you know small even small and medium
+enterprises are being hacked
+and
+and cyber security becoming like hot
+topic on board calls and board meetings
+in in many of the companies and
+companies are spending more and more
+money to secure themselves
+and i think this is especially where
+everything becomes connected
+and this becomes more and more essential
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel and in media
+partnership with ctek
+hello and welcome to 20 minute leaders
+and hello you have levi co-founder and
+ceo of upstream security javi's leading
+upstream strategic direction culture and
+business execution with over 17 years of
+experience in multinational high-tech
+companies and startups he brings rich
+leadership experience in management
+marketing and business development of
+i.t and security products spanning over
+a dozen years of experience in category
+leading vendors such as checkpoint
+juniper networks and broadcom
+you have levy welcome to 20 minute
+leaders how are you
+i'm all good thank you very much how are
+you doing
+i'm doing great thank you so much for
+joining me you're the co-founder and ceo
+of upstream security but your
+your entrance to the cyber security
+world is you know it's for a long time
+now whether it's with amazing companies
+uh like checkpoints and many many others
+uh
+growing with different positions uh
+particularly in the r d space but but
+now also as an entrepreneur and i'm
+excited to hear both your journey but
+also about
+the about the automotive fleet space and
+cyber security with with the cars and
+fleets and and and how does that impact
+you know the car manufacturers the
+people that are working with the cars
+how is it impacting you know perhaps the
+you know where the world is heading in
+terms of cyber security with vehicles
+and so a lot for us to dive into you
+tell me a little bit about yourself and
+and and how do you find yourself so into
+the cyber security space
+yeah thank you very much for inviting me
+so um
+so i i actually started my career in the
+early days of this cyber days like more
+than 20 years ago uh
+working for checkpoint uh in its early
+days uh i think even before the they
+were using the word cyber
+calling like firewall
+cyber was not being used so so common in
+this time and actually met my partner
+jonathan that time
+um so and and i spent my career in in
+different
+startups and and corporates around cyber
+security data analytics uh different
+positions r d marketing product
+um and i think that i i always like i
+would say two thing one was my last two
+cars i really love cars and and the
+second is around cyber and i thought
+when i'm gonna do something myself it's
+gonna be the combination between the two
+so this is like how we got up with the
+idea around
+uh
+yeah you know connected vehicles could
+be could be uh
+could be dangerous if if they're like
+someone hacking a vehicle a connected
+vehicle while it's driving that could be
+a safety issue
+uh who is going to be responsible on
+that uh especially you know when cars
+are becoming much more complex so some
+of them are calling them like computers
+on wheel so you can see in the tesla on
+on the on the on the right side
+uh which uh like you know super
+uh super advanced you can see uh
+autopilot uh you can see connectivity ev
+uh everything is configured and
+everything could be done remotely
+uh there are they're actually able to
+solve issues
+remotely by doing over their update and
+and this is where we came up with the
+idea about upstream and about the need
+to secure the connected vehicles
+okay so
+we're almost
+we're almost five years ago when when
+upstream security starts and and this is
+obviously an interesting timing because
+this is when i think a lot of the hype
+in the bus around autonomous vehicles is
+beginning right so i guess that that was
+an interesting uh timing for you to also
+think through these ideas but please
+continue
+yeah exactly so so we started the
+company uh 2017
+uh and when we started the company we
+saw other companies that are trying to
+solve exactly the same problem around
+how do you make
+the vehicles more safe and more secure
+around the connected vehicles and as
+well as autonomous vehicles
+and so forth and and when we looked at
+at the other companies in india we said
+we believe we should solve this problem
+in a different way
+we we believe that we can solve the
+problem without deploying any software
+or hardware inside the beacon especially
+when we spend some time when we started
+before we started the company talking
+with car companies or talking with tier
+ones when we said
+this is a very complex
+process of adding hardware software
+inside the beacon that could take years
+and when we when we looked at other
+companies that were very successful like
+mobile and other it took them like you
+know seven ten years together the first
+vehicle on the road with their
+technology and said uh we don't have the
+dna of waiting too much time before
+getting to production we have uh you
+know we have uh
+uh we're impatient people we want to see
+results immediate so and this is when we
+came up with the idea about actually
+building a cloud technology
+which means that you know once we deploy
+the technology uh we can start
+monitoring the monitoring the connected
+vehicles start looking at data anomalies
+uh
+and combine the two things that we love
+the most
+uh cyber security and data
+and vehicles
+and this is how we came up with the idea
+about upstream
+so then obviously there's different
+challenges that you're presented with
+one of which is the manufacturers and
+how do you actually integrate with the
+cars you mentioned before that it's not
+simple to just
+put hardware software within the cars
+and
+long sales cycle long manufacturing
+cycles how do you go about solving them
+is leveraging leveraging the cloud
+right so so think about upstream as like
+an after sales type of solution like a
+solution that is not getting into the
+production cycle of the vehicles so
+there is a production cycle
+that you know you have to design
+vehicles you have the suppliers
+to you know assemble the vehicle test it
+it can take many years
+we are actually like a cloud solution an
+i.t solution that we deployed in the
+cloud
+of the car manufacturers sometimes they
+call it like oems
+or the fleet owners and and what we're
+doing we are leveraging data that these
+companies are already collecting from
+their vehicles so we're only talking
+about connected vehicles
+uh we're only talking about uh
+services that are running on top of this
+connectivity
+and we leverage the data that is already
+being collected in order to run
+data analytics or security analytics on
+the data in order to find anomalies that
+could be indication of compromise
+indication of attack and we're now
+actually building additional
+applications beyond cyber security that
+that can help us to detect anomalies
+that are related to failures of ecu's
+which are like computers inside the car
+or failures of different systems in
+inside the car and maybe also in the
+future we will build a predictive
+maintenance the ability to predict these
+faders so what we're trying to build
+here is a very strong data platform
+purpose built for the automotive market
+that will help our customers on one hand
+to secure their connected vehicles but
+on the other hand also to monetize their
+data
+so taking back to the founding of
+upstream security you want to deal with
+cars you want to deal with autonomous
+vehicles and how do you even get started
+how do you get started trying to even
+test to see whether a poc that you've
+built works how does one even enter
+enter a market like this
+yeah
+yeah so so
+first we actually went and did like a
+market validation so we talked to many
+of these
+car manufacturers still ones fleet
+owners and
+and we saw that this problem is
+something that there are you know there
+are people that call like csos the chief
+security officers
+where part of their responsibility is
+also to make sure that the vehicles are
+secure so i said okay this is good news
+with someone that is actually care about
+securing their vehicles
+and uh and if you think about
+essentially you know
+what we're doing we're actually securing
+the product that the company builds it's
+not securing their data center
+it's actually securing their product and
+securing the company itself
+and uh so what we have done we have done
+some uh
+market validation that included like you
+know small plcs different uh uh you know
+different conversation that we had with
+prospects
+and then we went and we saw okay there
+is a great potential here let's go and
+raise money
+and uh and we raised our seed round uh
+four and a half years ago from uh two
+venture capitals glilat capital and uh
+manila which are great partners from day
+one to the company uh amazing help that
+we're getting from these uh vcs
+um up until now we've done
+four financial rounds we
+we have just completed our c round we
+haven't announced it on e on it yet
+but uh i would say that the c round is
+significantly high amount of money we're
+going to announce in the next couple of
+weeks
+which is great so the company is well
+financed uh
+and uh
+yeah this is this is like how we started
+and so where are you today positioned
+with with the car fleets and with the
+technology
+where is upstream security today in the
+world
+yeah so so upstream today is definitely
+the leader in in this segment
+now we created the segment of automotive
+cyber security cloud-based we're leading
+this segment and today we have many car
+manufacturers that we have a production
+and commercial agreements with which
+means you know multi-year commercial
+agreement
+real vehicles
+on the roads we have millions of
+connected vehicles that we are
+monitoring today as part of our platform
+both in the us in europe as well as in
+japan
+uh
+and and it's actually growing so we
+expect to get uh
+actually double digit of millions of
+vehicles uh by by uh next week next year
+sorry so this is uh
+each of our customers
+are actually growing the number of
+vehicles they have uh organically
+because they are manufacturing more
+connected vehicles but also
+uh we're adding new new customers so so
+upstream by the way we have
+uh
+three large car manufacturers that
+invested in the company the renault
+nissan mitsubishi called the alliance
+volvo group and hyundai group
+but we also have other customers as well
+other than
+the one that invested in upstream
+so so once you have you know these three
+organizations invest back in upstream
+how does that impact your ability to not
+obviously with it with the finances
+you're able to then scale up your
+operations but but how does this
+partnership impact the way that you then
+position the product think be able to
+validate what what happens from that
+point on
+yeah so so you can think first you know
+it's a bit strange right you see
+companies that are competing with each
+other that investing in the same company
+which is not very common right because
+sometimes you know you want a company to
+invest to you so they want some kind of
+exclusivity but i think that for cyber
+security this is this is a different
+because
+what the car manufacturers are actually
+want is that we will have a lot of
+customers so we will gain a lot of
+knowledge and insight from the industry
+and then we can secure them better and
+we can do a better job
+so this is one thing the second is
+around
+you know in in the automotive industry
+it's it's uh
+uh
+having a car manufacturer invest in you
+it's a good sign of credibility
+uh that
+sometimes startups in this domain needs
+uh
+mainly because you know there are
+hundreds of different maybe thousands of
+different startups in the autotech
+industry
+now who's going to walk with you know
+with these large oems they need to pick
+one partner right
+uh
+better chances if we have you know
+three or actually five car companies
+and there are no nissan mitsubishi volvo
+and honda invested in upstream and we
+have other customers that are doing
+reference call for us
+to win you know new accounts so
+from their perspective you know
+seeing
+uh so many you know strategic investors
+invested in upstream
+uh is a good sign for credibility
+right so
+as
+cars are becoming more intelligent
+moving to the cloud the connectivity are
+you are you also thinking about other
+verticals perhaps that other young
+entrepreneurs can examine where else is
+the world shifting where cyber security
+is going to have to play an interesting
+role in the development of these
+connected devices
+yeah so we're looking at two different
+segments today one of them so one of the
+companies that led our c round
+called mitsui sumitomo insurance it's a
+very large
+japanese insurance company
+and we actually have another insurance
+company called nationwide it's a
+us-based insurance company
+and the reason they're invested in
+upstream
+is because our knowledge in connected
+car data and uh
+and how this data can be used
+for insurance use cases both on
+understanding better the risk around the
+driver like how do you drive
+maybe we can build a specific pricing
+for you based on your driving experience
+sure and second is like how do you
+handle claims like can we
+help you to be more efficient during the
+claim process
+uh by using your connected car data and
+you know detect car accidents in our
+platform
+um
+and help them to uh
+actually uh you know becoming more
+efficient in this area as well improving
+the customer experience and so forth
+so definitely insurance is is an area
+that we started building our technology
+and solution
+and the other thing that we're looking
+at
+is smart mobility a bit wider than just
+vehicles vehicles is definitely where we
+put like 90 percent of our effort today
+but we started to look at
+other things like uh
+uh you know everything that moves we
+call it smart mobility you know that
+could be
+connected drones connected boats
+connected the trains uh
+row boats whatever everything that moves
+and provides some kind of service
+and this is on our vision where we are
+going to go uh next
+yo tell me a little bit about your your
+relationship with cyber cyber security i
+think i know outside of outside of
+israel
+it's it's not that common to be working
+in the cyber security space
+what what is it about cyber security
+that really gets you going you've been
+in this space for from almost two
+decades now what what is it
+yeah so first i i really like the
+defensive part like uh
+um you know
+i think we're seeing like a big increase
+all around
+you know the different segments not only
+on the automotive but in banking
+insurance critical infrastructure
+you know small even small and medium
+enterprises are being hacked
+uh
+and uh and cyber security becoming like
+hot topic on board calls
+and board meetings in in many of the
+companies
+and companies are spending more and more
+money to secure themselves
+um and i think this is especially where
+everything becomes connected
+and this becomes more and more essential
+uh
+and becomes like
+something it's not like nice to have
+like it used to be like maybe a few
+years ago this is something that is
+mandatory
+and and i think what's really attract me
+around cyber
+is um
+is is the ability actually to help you
+know the organization to run their
+business
+smoothly
+and
+and uh and actually this is something
+that we understand and know you know
+best from all other areas so
+you know doing cyber for 20 years
+from the early days starting from the
+bits and dice you know in firewall
+network firewalls going into application
+level and now going into you know more
+complex big data and security analytics
+solution this is uh this is what i do
+best
+amazing okay so i want to take you back
+onto your childhood before you
+become a cyber security expert what
+really fascinates you what really sparks
+your curiosity
+um
+yeah it's i think it's a good question
+uh
+so
+i i think that you know putting aside
+you know the
+you know the startup what's really
+interesting me is
+i really love sport i really love
+surfing i'm actually a
+wave surfer kite surfer
+now i'm doing like stand-up pallet
+boards surfing on waves and paddling
+actually love it i'm trying
+the reason i love it is because you can
+actually do it very early in the morning
+and before you know before you actually
+go to work
+uh
+so so this is this is uh something that
+i uh i love you know in startup days you
+have less time so you need to be more
+efficient it's not like you know there
+is wind i can i can drop everything and
+go to the beach unfortunately right uh
+but uh
+but i i this is like something that they
+loved
+am amazing and if you look today and the
+things that inspire you to continue
+working so hard and drive this company
+forward you know whether it's personal
+or professionally what really inspires
+you yeah i'm yeah i'm actually watching
+you know the olympics yeah actually at
+the end of every day in the olympics i i
+watch the summary
+uh
+and i'm looking at these athletes and
+i'm inspired like you know they're
+devoting their life to
+you know becoming a pro and the medal
+olympic
+and
+you can see like what they're doing this
+is like
+so inspiring and saying wow how this you
+know
+this is what they're doing
+from when they were like five years old
+to now you know such a dedication
+and and you know mental mental strength
+and uh
+i think it's amazing so
+you know just remind me about you know
+i'm looking at these these athletes and
+and this is really inspiring
+i love it and what are three words that
+you would use to describe yourself
+yeah you know in hebrew it's called
+taktakan but i think that in english is
+like get things done
+uh
+not always like perfect but i get i
+usually get things done
+i love it so it's getting things done
+yeah getting things done
+i i love it great you have to dab thank
+you very very much this was a really
+really great and i'm happy to hear about
+the amazing progress of stream security
+and making connected cars be more secure
+makes me feel a little bit safer for
+when i'll drive in a connected car
+hopefully in the next few years and so
+best of luck and thank you for the
+inspiration for the time and stay safe
+and stay healthy
+thank you very much and thank you very
+much for inviting me
+[Music]

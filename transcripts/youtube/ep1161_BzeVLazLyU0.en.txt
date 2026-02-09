@@ -1,0 +1,470 @@
+I can have all the technology I want in
+the world, but if the people and
+processes that they use are broken,
+we're still going to have an impact.
+Like if you look at some of the largest
+breaches, right? It's a result of
+somebody doing something unintentional
+or because they didn't know uh like look
+at, you know, things like Target, right?
+Where HVAC system compromised the the
+payment card industry uh payment card
+information. So I when we look at these
+things, a lot of it's lack of awareness
+or lack of understanding of the risk
+that's present. And I think that the
+reason that most organizations fail in
+in the security space I had, you know, I
+have some peers that are excellent
+leaders in the education space for
+security and they the reality is if you
+connect it to them and make it personal,
+it becomes valuable. If I tell you, hey,
+don't leave your laptop in the car or or
+something that's you're like, okay,
+whatever. All you care about is the
+laptop. I'm going to do it anyway. But
+when you start relating to like the the
+risks of using things in public places
+or compromise of personal data and how
+it relates to their personal life or hey
+we even send out stuff in my company
+about hey it's holidays make sure you
+lock your houses when you're going
+traveling for the holidays right things
+like that you get people in the mindset
+of making security a part of who they
+are so that they think that way it
+shifts the culture in organization and
+it makes it much more effective.
+[Music]
+Joshua Scorpino, thank you so much for
+joining me for another speaker series on
+the human zero day. Really excited to
+have you here. H thank you for taking
+the time to do this.
+&gt;&gt; Yep. I appreciate it. Wish I could have
+jumped on sooner, but I'm ready to go.
+&gt;&gt; Well, we're going to get a lot done in a
+very short amount of time, so I'm really
+excited for this. Uh Joshua you your
+profile really doesn't need much
+introduction. I mean you've been around
+the block you've seen so many things in
+the context of cyber security and in AI
+uh from anything like organizations like
+for humanity to NIST which is really all
+about you know how do we think through
+the the different risks and evaluation
+methodologies for assessing them and
+different solutions and most recently
+over the last almost three years
+CISO of Trust Engine. So, so Joshua, a
+lot for us to unpack. Thank you for
+being here. I'm going to dive straight
+in. Human security, human
+vulnerabilities.
+What is this thing that we start hearing
+about more and more in the context of
+humans, in the context of security for
+organizations?
+&gt;&gt; Well, humans are our biggest risk,
+right? It's it's important to understand
+that the human element in security is
+something that constantly needs focus
+because attack methodologies keep
+shifting. And it's important for us to
+understand how does that change the
+dynamic with the human part of uh our
+organization, right? We have to be able
+to educate them. We have to be able to
+make them prepared to handle the risks.
+We have to ensure they have the right
+tools to address the risks and that they
+have the the the necessary uh the
+ability to identify threats, report
+those threats, and act accordingly to
+ensure that we minimize risk to the
+organization.
+&gt;&gt; Okay. Okay. So, I'm hearing a lot of
+responsibility on humans, which is good.
+But I also know that humans tend to be
+irrational creatures. We did a year of
+behavioral economics. Learned that much.
+And and I'm curious right before we get
+into the solution space and what can we
+do to help protect the vulnerabilities
+of the weakest element in the chain.
+Let's talk a little bit about the threat
+to vectors because they have been like
+you said evolving quite rapidly and
+differently and the fact that humans are
+are you know at the at the sort of the
+the forefront of these attacks and
+that's that's been around for for ages
+and decades. What are you seeing today
+in organizations in the context of the
+risks that are actually happening and
+making an impact on organizations?
+&gt;&gt; So, so the biggest threat today is right
+the onset of AI. We have AI that's a lot
+it's being used by adversaries to
+increasingly target organizations uh all
+things from improved fishing attacks
+right historically it's like look for
+the bad grammar look from this below
+with the onset of Chad GPT and large
+language models now attackers have that
+at their fingertips and they can
+leverage that to improve their their
+targeted attacks and ensure that what
+they're doing is relevant and those
+things that we would commonly tell
+people to look for they're not present
+anymore right uh I mean we even have I'm
+I teach also in college and the problem
+is in even the academic world they're
+like is this written by a person or
+written by a human and and the irony
+behind this is as a professor like you
+go on and you're like well you can't use
+AI but you can put your your assignment
+into a tool and then say humanize it
+right so it's like we're we're at an
+impass here uh and I think that the same
+thing applies in the in the security
+space actually one of the uh I did I sat
+on a committee for a a PhD student and
+he focused on training AI I models by
+using AI built built content. So it was
+an area of learning model that was based
+off of AI generated fishing. So these
+attacks are becoming increasing complex
+and organizations really need to
+understand how that evolves and educate
+their users that the things that worked
+previously to detect the threats are not
+going to be the same even even getting
+into uh impersonation right because
+obviously that's prevalent across you
+look across Hollywood now we have people
+they leveraging um you know movie star
+identities and impersonating them to
+sell their products or something like
+that and and this happens not only at
+that scale but it can also happen of hey
+I'm the CEO and uh I need gift cards and
+they can impersonate the voice of the
+CEO by a recording he posted online or
+by something else. So these threats are
+becoming increasingly complex and we
+need to educate users that you need to
+do more than your cursorary uh checks
+that you're used to. You need to
+understand how the risk has evolved and
+you need to relate that back to their
+personal life. Are you thinking
+differently as a CISO in terms of the
+tools that you equipped your
+organization in the context of the onset
+of these new threats? So is the way that
+you're thinking through adopting
+different types of tools from detection
+and response to awareness and training
+to procedures is that changing at all
+during these years?
+&gt;&gt; I wouldn't say the fundamentals are
+changing. I would say that there's more
+focus on understanding the risks better
+because the nature let's take vendors
+for example, right? Almost half the
+vendors now have an AI capability. So
+understanding that when we're onboarding
+these vendors, do they does the AI
+solution on by default? What are the
+risks associated with the AI technology
+using right are they or is the is the
+data being retained for training on a
+model on a third party service? These
+are all things that need to be
+considered as part of the the the
+evolution of our ecosystem and our
+vendor is that we manage and really
+understanding the the systems that our
+employees are using on a daily basis.
+How is that that threat landscape
+evolving? uh based on these these new
+technologies being deployed. So really
+it's a it's a focus on educating and
+saying look new things are coming out th
+this is the company's stance on how we
+use these things these are the ways they
+should be used these are the ways they
+shouldn't be used and also with the
+educating ensure that we're doing the
+proper diligence on the the security and
+compliance side and saying is this in
+alignment with what our expectations are
+as an organization and what the how the
+technology should be used or what what
+technology should be used and do we have
+the proper controls in place to mitigate
+the risk of let's a um confidential
+information being overly shared, right?
+Uh somebody uploading an excel of
+customer information and going, "Hey,
+let's sort this for me, right? That's
+not acceptable." Um but then also third
+party models with uh you know uh company
+specific uh information that should not
+be shared just for like development and
+design related stuff or intellectual
+property. Now I I'm curious Joshua I we
+I've heard also on this series different
+perspectives on the viability and the
+effectiveness of viability and
+effectiveness of training and awareness
+to get people to be more conscientious
+and to try and be human detectors for
+these types of things. So, I'm hearing
+on one hand that it's it doesn't sound
+like you're putting too much emphasis on
+technological tools to detect these new
+and emerging threats potentially because
+they are they don't look like machines,
+they look like humans. How do you find
+do you actually find the training and
+awareness is an effective tool to help
+mitigate the threats from an
+organization's perspective?
+&gt;&gt; Yeah. So, I I think it's a critical
+foundational component of a security
+program. The reality is I can I can have
+a lot of technology based tools, but it
+only takes one person to click on uh a a
+email with malware or it only takes one
+person to upload something somewhere
+they shouldn't. Right? So I can have all
+the technology I want in the world, but
+if the people and processes that they
+use are broken, we're still going to
+have that impact. Like if you look at
+some of the largest breaches, right,
+it's a result of somebody doing
+something unintentional or because they
+didn't know. uh like look at you know
+things like target right where HVAC
+system compromised the the payment card
+industry uh payment card information so
+I when we look at these things a lot of
+it's lack of awareness or lack of
+understanding of the risk that's present
+and I think that the reason that most
+organizations fail in in the security
+space I had you know I have some peers
+that are excellent leaders in the
+education space for security and they
+the reality is if you connect it to them
+and make it personal it becomes valuable
+if I tell you, hey, don't leave your
+laptop in the car or or something that's
+you're like, okay, whatever. All you
+care about is the laptop. I'm going to
+do it anyway. But when you start
+relating to like the the risks of using
+things in public places or compromise of
+personal data and how it relates to
+their personal life or hey, we even send
+out stuff in my company about hey, it's
+holidays, make sure you lock your houses
+when you're going traveling for the
+holidays, right? Things like that. You
+get people in the mindset of making
+security a part of who they are so that
+they think that way. It shifts the
+culture in an organization and it makes
+it much more effective. Our fish pone
+percentage of my organization so we do
+recurring tests regularly is extremely
+low. The industry benchmark is around
+3.1 to 3.5% for technology sectors of
+companies my size. My organization is
+around 1 and a half to 1.8% on a given
+day uh depending on what tests we're
+running. And that's because people are
+aware and our reporting is through the
+roof. like people report stuff and we
+actually have a a a system that does AI
+based uh testing which means it actually
+models and changes the test based on how
+often do they report are they more
+likely to detect these threats if so
+we'll make them more complex right so
+it's important that you tailor the the
+stuff to their level you ensure it's
+bite-size relevant and you make it
+actionable to their personal life
+because if you change their culture
+personally they're going to change what
+they do at work too and you have to make
+it a foundational component of who they
+are. Change changing a person's
+perspective is all you really have to
+do.
+&gt;&gt; That that that makes that makes a ton of
+sense. Now are the do so do you see now
+a shift in the way that training and
+awareness is done on employees that is
+and this space is adapt you see it
+adapting to the threat landscape because
+I know that you know traditional
+training and awareness has been mainly
+you know these pre-recorded videos and
+different modules and even the fishing
+campaigns were these you know big
+generic mails that were sent to the
+entire organization. Are you seeing a
+shift there? I I think that it's
+starting to I think there has to be and
+I think it's important to note like
+there is a natural evolution of security
+threats right if I you have to make sure
+that you're security training the balls
+with it perfect examples with AI now
+they're telling my kids that hey AI is a
+risk is is not a big deal but showing
+them that look somebody can take a 3se
+secondond audio clip of me and develop a
+whole campaign that targets you as my
+son my daughter right and and exploit
+you and makes you think, "Hey, it's me.
+I'm in I'm hurt and I'm somewhere and
+you need to come get me." Those things
+are real. But until if I didn't say,
+"Hey, there's a there's a check word and
+there's a there's a word you need to say
+or use something that only I would
+know," they're not going to validate
+that. But those are checkpoints that get
+people thinking like there is a natural
+evolution of security risks and we have
+to be proactive and ensure that we're
+thinking through those risks. And I and
+the one benefit that humans have over
+technology, right, is tact. So we have
+the ability to to understand things and
+decipher things more so than a computer
+system does because a computer system AI
+is generally based off learned model uh
+development or iterative learning based
+off something else, right? But it's all
+based off learned information. That's
+why if you put somebody's writing from,
+you know, published articles 10 years
+ago or 20 years ago into a system and
+say, "Hey, is this AI?" some of the
+published research comes back as yep
+written by AI but the reality is we
+didn't have large language models 20
+something years ago that was writing
+general published material so it's
+highly improper but that's because it
+was trained off of a system so I think
+that the there is a critical focus that
+needs to be placed on the evolution of
+threats and and as a result of you know
+new technology developments and I think
+that it has to remain a core part of who
+we are as a security org because
+technology helps but technology ology is
+a stop gap and it only goes so far.
+There's still a human piece to the the
+puzzle.
+&gt;&gt; So, so Joshua, it sounds like you have
+like really good thoughts on on the way
+that you're treating employees as, you
+know, they have these, you know, you do
+have a lot on their shoulders and it
+sounds like you're also equipping them
+with the right tools to be able to to
+stay alert, to remain proactive, and to
+have a personalized approach to thinking
+through these threats. If you had to
+envision what the the best way to train
+your employees in the most personalized
+way in the context of organizations,
+right? So not not not necessarily
+consumers but in in businesses. What
+would be sort of the golden ticket for
+the best training that you would want to
+provide your employees?
+&gt;&gt; I think the training needs to be
+relevant to what the organization goals
+are. A lot of times the organizations
+deploy blanket scarity training, right?
+So I think you can do that as like a
+stop gap. Hey, we're getting you on
+boarded. Here's a blanket security
+training. But I think really an ongoing
+manner like our organizations, we do
+quarterly bite-size training. They need
+to be small. Think of think of your, you
+know, your 5-year-old and they lose
+interest after 5 minutes. Same with an
+adult. If it's not what they do on a
+daily basis, they really don't care. So,
+they need to they need to have bite-size
+education components that are tailored
+specifically to the evolving risk
+landscape. We do quarterly updates and
+our our modules are usually between 1
+and 5 minutes. Uh, and they're focused
+on what are the current threats that
+we're facing. If we see fishing starting
+to, you know, increase from our baseline
+expectations, we'll do some training on,
+hey, do you remember where the fishing
+button is? Do you remember this? And
+then we'll give them targeted training
+that's relevant to uh them as a person.
+As I told you, we deploy things around
+the holidays. It talks about holiday
+safety, leaving lights off, even fire
+safety, which we are a remote first
+organization. So, physical presence is
+not really something that we worry about
+typically, but we do do it because
+getting people thinking from a security
+and compliance mindset in their daily
+lives makes them bring it into the to
+the workplace also, which for a remote
+first organization, it's it's good to be
+aware of what's going on around you and
+know know the adversaries are out there.
+or if you're at a coffee shop, right?
+Don't leave your don't leave your laptop
+unlocked. Things like that. Uh and we
+have foundational security tools to
+support support them achieving those
+objectives.
+&gt;&gt; Joshua, we covered in 15 minutes, I
+think, uh almost an hour's worth of
+conversation and opened up a lot of
+Pandora's boxes, which will eventually
+need to close, but I really appreciate
+your time and and the energy you've put
+into this. So, thank you so much for for
+being here and sharing your perspective
+on how we should be thinking through
+human security. It's all about the human
+and the and with the evolving threats. I
+completely agree with you that the the
+the most important course of action
+training and awareness and and making it
+personalized, making it in the context
+of the organization and making it
+relevant so that your employees actually
+want to participate and not just to
+check the box and move on. So, thank you
+so much for being here.
+&gt;&gt; Yep. Thanks for having me.

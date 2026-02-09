@@ -1,0 +1,658 @@
+the best lesson that I took or that we
+took as a company I think in humbleness
+is yes you have a big Vision you need to
+start small you want to make sure that
+you're creating value today for everyone
+in the value chain for the main user for
+the main buyer for the person that's
+around you but we got to that by making
+a lot of mistakes we made
+a lot of different changes in the way we
+spoke about it and the way we introduced
+it and the way we built it in the way we
+sold of Mater
+but it took a lot of time welcome to 20
+minute leaders just sit back relax and
+learn from the leaders of today it's a
+journey each one is different unique
+inspiring let's get started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+hello and welcome to 20 minute leaders
+today I'm honored to be joined by gal
+shaol the co-founder and chief
+technology and product officer of auguri
+a machine health company building a
+world where people can always rely on
+the machines that matter he oversees
+value delivery to customers via Services
+operations and products and drives
+technical Innovation at the company
+prior to founding augury gal was the
+head of software development at endymed
+and medical devices startup and a
+firmware engineer at Zoran a cheap
+Manufacturing Company he holds a BSC in
+computer science from the Israel
+Institute of Technology
+[Music]
+welcome to 20 minute leaders thank you
+so much for joining me how are you
+I'm doing well very happy to be here
+we're just caught a cold but other than
+that everything's great
+well thank you for joining me
+nevertheless it's going to be a great
+20-minute conversation and we're gonna
+in a second I'm gonna ask you about this
+uh awesome looking window behind you and
+what what is going inside on inside
+there but you're the chief product
+technology officer at augury and the
+looking at machine failures and over the
+last 10 years been building an
+incredible company that that is doing
+really really cool things and so I'm
+really excited to hear about You Know
+Your Role there and what the company is
+doing and the different the domain that
+you're in and the different insights
+that you've had so tell me what it is
+that's behind you right now and then
+we'll dive into your actual day job
+yeah so it's not very far from my day
+job but specifically this one's not for
+the company I work for yeah it's an
+alpha product for a company called agua
+Farm we had an amazing product manager
+that left to work there
+it's a
+growing for the family right so you can
+see there are a lot of green things
+growing and they're managing it from an
+app
+and I'm testing it and eating it
+for me and for the rest of my family so
+we're all having fun with that
+awesome okay so now I can and now I can
+be at peace with with my curiosity uh
+yeah just for context I didn't let you
+tell me before we started the podcast
+because I knew everybody would be
+curious okay take me back you know 10 11
+years or so what's happening in the
+world what what where are you at in your
+life that's getting into augury
+yes
+um so I was a few years after
+engineering pool working for a medical
+device startup
+with the background there's a naval
+officer in Israel
+and working for a small company
+relatively small startup roughly 20
+people or so leading software there
+trying to do different
+things most of the startups around us it
+was on late 2011.
+where
+might take you back in time because
+startups usually are not that
+long but we started where most of the
+things around us were a social mobile
+and gear location everyone was talking
+about that everything had to go to
+mobile everything had to add some
+localization aspect or understanding of
+that
+and we were looking at kind of The Next
+Step we're like right what's up
+after kind of this consumer phase right
+how does it go back to Enterprise where
+does it things are going to go Sarah and
+I met each other at the technion we were
+talking about startups
+forever
+um
+and then when this specific opportunity
+presented itself and we can talk
+specifically about that there was
+something about
+Industrials and real world problems kind
+of with the physical world and getting
+all the good things that happen with
+digital and nice screens and appealing
+interfaces and intuitive things
+happening that just didn't go back to
+Industrial didn't go back to Enterprise
+for so long
+and we started working on something like
+that right I was working in a medical
+device startup had a problem in a
+machine could you could hear it but
+nothing in the machine told you it's
+wrong
+so I was working on other things uh at
+the time and I called them to ask for a
+solution can we just put something there
+that would hear the problem right
+because that's the indicator that I'm
+hearing so why don't
+other Assad was working in similar
+correlations between
+physical sounds in AI it was at a time
+where kind of image processing was
+really moving forward in Ai and or
+machine learning was really involved in
+that and everything around sound wasn't
+really there around text and language
+that it was but
+around kind of
+physical sounds kind of things that come
+from nature from the surroundings of us
+wasn't a thing so cool
+um so we started working together and we
+understood very early on that we want to
+do something it's now right it's before
+we had kids it's before kind of families
+Drew we had just enough money from in
+order to get started we thought about it
+like an MBA program right we'll do kind
+of an OJT for an MBA we'll take what it
+would cost and spend it on our first
+company but we'll build it right right
+so we had a curriculum of learnings and
+we had things that we were doing for the
+first two years
+and we got a lot of lap
+for investors because we were pretty
+early on iot wasn't a thing Internet of
+Things wasn't a phrase yet industry 4.0
+wasn't coined yet
+Industrial Revolution wasn't there there
+were people still speaking about the
+previous Industrial Revolution right so
+a lot of the things emerged while we're
+already
+in there so it's a privilege to see an
+industry like that emerge wouldn't
+happen with us and around us
+tell me a little bit about your process
+as an entrepreneur in an emerging
+industry how how did you manage the
+tension or the dissonance between
+you know where you are seeing the world
+where the world is now and how do you
+help people whether it's customers
+investors employees how do you bridge
+that gap for everybody because you're
+sort of living on a different planet
+sometimes and you have to constantly
+come back down to reality and while also
+living towards division
+yes I would say that
+real real advantage of being there early
+is that you get to make the most amount
+of mistakes more than anyone else you
+start speaking about AI to Industrial
+people or to people on the ground on the
+production floor
+and they don't really understand what
+you're
+what do you want from them right so you
+learn to be humble very early
+and you start speaking some industrial
+language and
+with VCS and you understand again that
+it's not their realm so you're
+constantly trying to be this bridge not
+by yourself right but you need a lot of
+help
+important to make it happen in order to
+really bridge that Gap I think
+the best lesson that I took or that we
+took as a company I think in humbleness
+is yes you have a big Vision you need to
+start small you want to make sure that
+you're creating value today for everyone
+in the value chain for the main user for
+the main buyer for the person that's
+around you but we got to that by making
+a lot of mistakes we made
+a lot of different changes in the way we
+spoke about it and the way we introduced
+it and the way we built it and the way
+we sold it later
+but it took a lot of time
+and so during that time
+take me back really to the founding for
+a second of of how you saw what was the
+division that you had for this world
+what was the vision for augury back then
+and and then I'd love to sort of fast
+forward to today and where you're at now
+and how you're seeing the world today
+and obviously talking about what it
+means to be both Chief product and CTO
+yeah
+um
+so I would say that back then
+people
+maybe were not
+our main focus at least at the beginning
+but it was all machines are going to
+interact with each other they're all
+going to be connected
+and with that connection a lot of power
+would
+come to everyone who wants to use that
+right if every machine becomes a sensor
+in a way right every machine tells you
+what it's doing what it's trying to do
+how it's behaving
+um
+done a lot of big things would evolve
+from that
+I think that's where we started it's a
+bit of a technological vision of all
+right we have a take of this is where
+technology is going to head right every
+Center or every machine is going to be
+connected
+and entrance made backwards what it's
+doing
+I think where we
+evolve to is the understanding that what
+we can bring to the table outside of the
+Technologies though
+this interaction between people and
+machine
+and make the world better in every
+possible way right there there are
+things around kind of companies profits
+that needs to evolve and they can make
+production more efficient and be
+create more wealth while doing that and
+invest that somewhere else
+it can improve their employees life
+and everyone around them right so if
+they Empower people on the production
+line to be more data people they can be
+more autonomous in decision making they
+can learn more they can earn more they
+can have easier ships they don't need to
+come in the middle of the night because
+they're gonna know right so they're
+going to have a lot of prosperity with
+their people and they're going to help
+the environment right so they're gonna
+have less
+emissions and they're gonna have less
+weight
+while at it so they're gonna so then
+this balance of people
+profit and planet right so kind of
+something from the late 90s which always
+felt like a trade-off between kind of
+those two elements is all of a sudden
+not a trade-off it's an evolutionary
+step towards that that it goes together
+if you invest more in your people you're
+gonna
+create less pollution and you're going
+to make more profit and understanding
+that's even feasible
+today for manufacturing which is what a
+the biggest problems in pollution today
+and becoming a part of the solution for
+that is a big privilege and being a part
+of that vision and helping finding that
+Vision forward
+I would say to your question one more
+sentence go ahead
+that so what we learned along the
+journey is to dream bigger
+that it's not only a product it's an
+industry change that shifts right so as
+you stand at the position where you
+believe
+that everything you said at the
+beginning is actually feasible and it's
+actually doable and it's actually
+happening in the world right where can
+you look at the Horizon and the ability
+to dream bigger is something that is a
+big privilege to where we stand today
+so I want to take you back just one more
+time to you know September 2011 as
+you're starting as you're starting you
+know this company
+you were an engineer before that you
+know trained at the Tiffany on
+um did software engineering a couple of
+places and then started the company's
+co-founder and CTO and you're looking
+now
+you know a little more than 11 years
+down the line a lot of volume of capital
+you know in transactions a lot of
+different customers a big team that
+you're managing
+I mean what was that like for you making
+that leap from you know a software
+engineer to all of a sudden being you
+know a co-founder of a Visionary startup
+where a second ago you tell me that you
+know what you really learned is that you
+need to dream bigger than what you what
+you may be dreaming currently
+yeah
+I think kind of being a first-time
+founder especially coming from
+engineering school and having Sarah as a
+co-founder
+uh is that you assume that you don't
+know anything all right we know one
+piece of building a company and then you
+come with really fresh eyes to
+do a lot of new things right we don't
+know Finance
+now what all right let's see what
+courses should we take what should we
+learn how fast can we learn that can we
+be can we know enough in order to be
+dangerous right can we know enough in
+order to hire the right person can we
+know enough in order to build the first
+budget in order to get some funding in
+order to hire someone that would manage
+Finance right and go through for
+marketing and sales in Biz Dev and
+building a category and but it was
+constantly being very curious and very
+learning
+driven
+I think that what allowed us to be very
+diligent on product like hey this
+doesn't do what we wanted it to do I
+don't and being kind of not afraid of
+the answer no it doesn't work
+and then this
+correlation between we don't know
+anything but we can learn everything
+type of thing so this I don't know
+humble brag type of uh
+Behavior hey I don't know this but hey
+give me a Wii let's talk in a week I'll
+be a bit more educated in a week right
+what I can learn in 20 hours is a lot
+do you want to invest it in other things
+right what I took up from it for my life
+I start a new hobby every year and I
+decide if I want to keep it after the
+first 20 hours where you learn just
+enough to feel that you suck
+or that you don't know right or
+understand what are the even the terms
+of being good at this
+and then you understand kind of if you
+want to grow there if you don't if
+you're gonna
+bring someone else that is gonna do that
+you're gonna drop it then never do it
+again and it's true for the company and
+it's true for for me it's those truths
+for my life as well
+so now 11 years then where we're a dog
+breed today and what what is your sort
+of what is your role now in this whole
+world
+yeah
+um so I think very early on and I'll
+definitely today culture was a very big
+color of what we felt is important right
+so if we're driving for a great vision
+that includes people willing the people
+that are with us to be on board so a
+very vision mission vision and Mission
+driven company team that is very
+autonomous and works almost kind of by
+its own to make a lot of decisions and
+drives
+with that seeking of truths type of
+habit right it's kind of if something
+doesn't work just keep breaking it until
+it does or say that this is not the
+direction and built it towards somewhere
+else and you need to build a culture
+that is very safe in order to be able to
+say hey the thing that you asked for me
+that it's not it right we're not going
+to win with that it's not good enough
+right so so the ability to move a lot of
+the decision
+down the line or putting decisions close
+to where
+the action is actually going to happen
+or the operation is actually going to
+happen as a big task of what I'm doing
+today
+easier when it's a 10 people company
+it's a bit harder whether it's a 400
+people
+team that has driven across the ocean
+and some of it came within with an M A
+we recently had right so being able to
+drive that culture
+it is a big p
+I think what I'm doing today is is two
+things right it's making sure that our
+core
+stays very strong with product Market
+fit that we have on machine health
+and
+around supporting everything that our
+sales and marketing team need
+and on the side of it making sure that
+the incubation zone right or things that
+we're building that are new
+are not being Swept Away by the machine
+that we're building to scale right
+because the thing that you need to do
+for Innovation not necessarily the thing
+that you need to do in order to scale
+products and we need to be in in a bit
+of different tracks
+and kind of things that you're building
+for growth and think that you you know
+that are already growing and you need to
+feel that engine and perfect them it's a
+bit of a different plan I think that my
+role is making sure that at least the
+things that are net new are being
+protected this Innovation is still our
+biggest driver as a company
+and so if you're looking now at
+you know a landscape of young
+entrepreneurs going on their Journey
+regardless of what what companies you
+know they're building or their ideas and
+it sounds like you're definitely the
+right person to to be thoughtful about
+this and to reflect back because of the
+different lessons you've learned in the
+intentionality with which you you went
+on to this journey
+how are you thinking about you know this
+journey in retrospective to young
+entrepreneurs today and obviously the
+world is a little bit different than it
+was but people are people Innovation is
+innovation and and so what should young
+entrepreneurs be keeping in mind as they
+embark on this 11-year Journey where
+hopefully at the end of it they can say
+that now they're leading more than 400
+person team strong whose goal is to keep
+the core going and to continue
+innovating
+yeah
+um
+but I'll try to summarize some of it but
+I think it's a it's a broad conversation
+right but I think the very
+the founding team that you're
+that you're starting with co-founders
+maybe the first five people that you
+bring along really matters are really
+gonna shape your
+future because that's the people that
+you're gonna be inspired by most of the
+time yes you can watch an amazing Ted or
+listen to this great podcast but then it
+would be 20 minutes you'd listen to
+another one that would be 40 and then
+you spend another 14 hours with those
+two to four people in a room
+that are eating your brain and talking
+all the time and speaking and debating
+and that's your main source for
+inspiration so if they're bringing the
+best out of you
+completing you in many ways right making
+provoking your thought making you be
+angry maybe but right but then you leave
+and you come up with a better solution
+tomorrow
+that's a very good indicator you're in
+the right team in the right place
+uh so kind of being the best version of
+yourself
+if there would say that Tsar is a
+long-term thinker my co-founder and and
+I'm sometimes I made me more impulsive
+or when I get
+things for tomorrow but The Balancing
+Act of both of us there was a
+was a lot of good things and over the
+years sometimes it changed right I
+already started talking about too much
+about why or too much about hey let's
+think about it in terms of scale and he
+was like no we just need to get this for
+tomorrow and that's it then and I think
+that The Balancing Act and the ability
+to balance each other out in hard times
+when someone's afraid when someone's in
+a bad spot if they can lift you up
+and if you can lift them up
+when they need a hand I think that's a
+the best advice I have there
+learning curiosity is mandatory and how
+do you manage fear I think is is an
+aspect that I would uh not keep aside to
+call me a little bit more how you manage
+your fear
+um
+so I think at first it was something
+that I wasn't able to recognize I was
+doing it or it was just a part of
+the way we encountered most
+fears but one of us would take charge of
+it and and
+most of the time it was like turning on
+all the lights and driving straight at
+it it's not hiding away from it it's not
+putting it aside it's like all right
+it's called counter phobia but it's kind
+of it's a defense mechanism where you
+think that the best defense now is not
+to Hideaway it's not to start telling
+excuses it to just run at it they say
+hey this is a problem let's call it even
+a crisis and run right at it and not
+talk about anything else but that
+event
+um it makes you sometimes kind of very
+aggressive because people are not even
+willing to speak about it yet they're
+not sure you already have a fully baked
+plan of how we're gonna operate uh
+when kovitz started there was a lot of
+fear and tons of uncertainty around
+and it made sense so we gathered I
+gathered the kind of the team of people
+who likes war in my team I don't have a
+kind of a better way to describe it we
+have people that are good in peacetime
+and are great where they're saying
+drawing and flourishing you can cook new
+flowers and the offices there and now we
+need to renovate and now we need to do
+this event and we have some people who
+are there for wartime
+all right we don't know we don't
+understand how customers are going to
+join us we don't understand how we're
+going to the player solution we don't
+understand how to work remotely really
+well we're too small we need to raise
+money in four months how are we going to
+do that great per alive kind of and you
+have those people then you need to be
+able to recognize them that are there
+for this
+stressful moments
+and be able to gather them around build
+plan around that and then
+at the moment that it
+starts being created you already come up
+with a plan right you already have hey
+we already looked at this in the eye
+where they looked at horror movies and
+this is what we think is going to happen
+we're gonna have an all end
+every three days to start talking about
+that we're gonna freeze hiring tomorrow
+we're gonna stop coming to the and that
+became kind of like military right it
+was kind of something like that and we
+started preparing for that in January
+where everything closed in March right
+so
+it was kind of right here is a fear if
+that comes true so so that's maybe an
+extreme example but it comes in many
+other things or sometimes see
+entrepreneurs or companies kind of go
+around their problem or rate to say hey
+we don't have product Market fit for
+this product
+it's not working we can't pass the hump
+of uh early adopters to early majority
+which is not there something is missing
+right and the ability to stare at it at
+the eye add the model and say hey we're
+failing here let's put all of our
+resources to that problem
+I think that helped us in many
+situations and saved us even though it
+was hard the required a lot of sacrifice
+but it was uh for so far it's been worth
+it
+God thank you so much for this time and
+yeah the openness and authenticity I
+really really appreciate it and can't
+wait to continue cheering from the side
+and seeing all the amazing things that
+that you're doing so so thank you and
+best of luck thank you very much yeah
+thanks a lot and thanks for having me
+and good luck

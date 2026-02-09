@@ -1,0 +1,329 @@
+we start our process of first all
+transcribing the uh the conversations if
+they're Voice or video we actually
+understand what's happening in these
+conversations and once you understand
+the transcribed then it's a very short
+path actually making taking the next
+step to actually understanding what is
+good what is bad why is that salesperson
+succeeding where that salesperson isn't
+is this deal going to close or is it not
+and we've built a suite of applications
+that together make Revenue intelligence
+platform that take you hand in hand from
+the Inception of a deal stage that we
+call prospecting until the deal
+completion and the account management
+all of that is done within
+[Laughter]
+[Music]
+go P welcome to 20 minute leaders thank
+you so much for joining me H I'm really
+really happy to have you here Chief R
+the officer of gong H such an amazing
+company really a company that that led
+and and started this this whole cat
+which today is so exciting for all of us
+I think at this point you know pretty
+much it's become a common place for all
+of us to be using these different AI
+tools to be able to analyze
+conversations meetings experiences but
+gong really has been a Pioneer in this
+space and and a a big pride of of the
+Israel ecosystem of course and and I've
+always been so fascinated about about
+the engineering behind gong and the R&amp;D
+and and the novelty of what you're doing
+so so thank you again for being here uh
+thank you Michael thank you for having
+me and thank you for uh the words of
+praise for uh gong and our R&amp;D um I'm
+really proud to be part of gong and I
+feel fortunate to uh be part of and Lead
+uh the R&amp;D at gong I joined gong about
+four and a half years ago uh gong itself
+is has been around for over eight years
+um so we started uh doing AI when no one
+actually knew what AI meant uh and we're
+still doing Ai and we're at the
+Forefront of everything that's AI around
+conversations understanding them
+assigning meaning and also providing
+guidance and insights on top of these
+conversations so for those of you who
+don't know uh the gong story is is very
+simple uh it all started with Amit or
+CEO that was at the time he was the CEO
+of another company and he had a problem
+because he wasn't really um uh you know
+sure what is happening with uh his sales
+team you know he was getting information
+from the RM was getting kind kind of
+anecdotal information from his uh sales
+team but he didn't actually know why
+some of his products were not selling he
+didn't have the the actual data the lack
+of data is something that uh uh is is
+problematic if you need to make the
+right decisions so um um long story
+short he and Alon Rashi are a cheap
+product offer so they started gong gong
+is all about capturing all the
+conversations around the sales process
+and conversations that can mean you know
+calls emails
+um slack messages um sms's everything
+around that happens in the uh in the
+ecosystem around the uh uh the sales
+process obviously we combine that with
+the CRM information which gives you the
+context around the sales and then we
+start our process of principal
+transcribing the uh the conversations if
+they're um um Voice or video we actually
+understand what's happening in these
+conversations and once you understand
+the transcribe uh then uh it's uh uh
+it's a very short path actually making
+you know taking the next step to
+actually understanding what is good what
+is bad why is that salesperson
+succeeding with that sales person isn't
+um is this deal going to close or is it
+not um and we've bu built a suite of
+applications that together make uh what
+we call the revenue intelligence
+platform uh that take you uh um hand in
+hand from the Inception of a deal from
+the uh uh the stage that we call
+prospecting until the deal completion
+and the account management all of that
+is done within gong now the interesting
+thing about gong is that you know uh our
+engineering is uh uh you know actually
+I'll tell you an interesting story when
+I joined gong U about three months after
+I joined one of the engineers asked me
+you know why is it that you joined gong
+you know I came from Akamai an amazing
+company I moved to gong a small startup
+at the time and he asked me why did I
+join gong and and I told him first of
+all this is a very blunt question after
+I just joined um secondly uh I have
+three three good reasons and and what I
+answered then is is actually very valid
+today as well the first one is that GA
+has an amazing technology and we're
+looking at scale which is you know it's
+it's quite amazing millions of calls and
+conversations that we ingest that we
+process um you know we're best friends
+with AWS we run on AWS mostly on other
+clouds as well so the immense uh uh
+platform that we've built the resilience
+the scalability the stability and and
+the various features and and services
+that we run is is quite amazing
+state-ofthe-art so technology has always
+kind of attracted the second thing is
+the AI we have kind of world class Ai
+and that was you know even before geni
+which we're using heavily today and we
+can talk about that um and you know
+we're using AI we're using NLP we're
+using classifier we're using
+transcription state-of-the-art uh uh
+predictive modeling all of that is part
+of our um tradition and part of our
+culture and the third thing and this is
+where the magic is that at the end of
+the day everything is served to the
+customer in such a pleasant and simpl to
+use way which makes the whole process
+and the whole Ingenuity that's within
+gong actually seem as though it's very
+seamless and easy to consume and use and
+make you the seller much better than you
+would have been with Al cool so the
+combination of uh an amazing technology
+uh outstanding AI but simplicity at the
+end of the day is something that uh to
+me is is unique and very very rare in
+our industry and obviously to be part of
+this R&amp;D to lead this R&amp;D that actually
+takes this and makes this a reality is
+uh um to me it's it's uh it's it's
+actually almost like a dream come true
+what's been happening over the last a
+few I guess two three years with
+obviously the emergence of of tools in
+the context of of deep learning and and
+today generative AI how has you know
+gangs been operating well before that
+and fulfilling on a lot of promises is
+in AI before the before this this Spike
+now how how has this changed or or
+evolved you know gong's gong's Vision or
+or gong's day-to-day operations so the
+interesting thing is that our vision
+hasn't changed um the emergence
+emergence of this new technology is now
+enabling us to uh um Implement our
+vision faster than uh we would have been
+uh able otherwise because you know we've
+always um taken the the point
+understanding conversations
+understanding concepts within
+conversations uh understanding the
+semantics of the conversations uh but
+now with Gen uh we can actually take
+this uh a step further and actually
+generate uh content whether it's a
+summarizations of calls or
+summarizations of other uh aspects
+within you know a deal or uh um a a a uh
+an interaction but it's also helping you
+with generate you know emails generate
+content that you want to send out to
+your uh customers and Prospects now if
+you combine it all together uh the the
+important thing is that you know gen is
+used very you know everyone is using it
+uh today uh wherever you can but it it's
+in order to use it wisely It's a
+combination of first of all having the
+right data and gong has all the data
+because we have thousands of customers
+and we have the data so you can actually
+generate meaningful insights and
+meaningful data uh on top of the data
+that you created you uh using geni in a
+very you know moderate and wise manner
+because gen you know it has many many
+limitations and we can talk about that
+later it's I think it's a p for is a
+whole
+episode um it's also very costly if
+you're using it at the S scale. gong the
+music and it's also not consistent and
+the last thing is also understanding you
+know what to do when geni just fails you
+and because we have an amazing research
+group we can actually augment uh the
+concepts of J and the capabilities that
+J has in order to bring functionality
+into the world which genis is incapable
+at least at the moment in doing in a
+very reliable and consistent manner if
+you combine it all together you're
+actually getting an experience which is
+powered by gen but takes you to a
+different level across the whole uh uh
+Journey the sales Journey from uh you
+know from the uh prospecting phase until
+the uh a deal is closed and banag and so
+on so
+amazing sounds really sounds really
+fascinating Now take me a little bit to
+your background so you know your
+upbringing your your curiosity and
+interest in R&amp;D over the time and how
+and up until four and a half years ago
+when you joined gong H how has this sort
+of intersected with your own personal
+path and career leading up to here
+that's uh that's an interesting question
+be you know I I just checked before the
+interview and I've been in this industry
+for 7 years um and it's you know it
+daunts me when I when I say this number
+it's uh you know I I don't feel like I'm
+older than 27 um but uh uh uh I've been
+you know in the Army I was in in an
+intelligence scene that before that I
+just the regular uh matriculation I
+wasn't a computer geek after the Army in
+University I studied computer science
+and statistics and operations research
+and then I essentially started my
+journey and the wonderful thing I think
+about the uh the uh the job that we do
+is that you can actually jump from
+domain to domain from area to area and
+you can you know obviously you need to
+understand the domain but it's actually
+like entering a whole new world and
+bringing meaning and understanding into
+that world so I've I was fortunate to uh
+uh in you know beginning of my career I
+was part of technomatic which did uh
+Robotics and then I was uh uh uh doing
+some optimizations around uh um antennas
+for the mobile uh industry at at the
+time I was doing Insurance software um
+in uh actually in the UK so I spent four
+years in the UK and then I had a run of
+around 12 years doing cyber security so
+I was uh um um about five and a half
+years at impera uh I managed a group and
+then I was Chief Architect got perva and
+then after that I was managing the uh um
+the R&amp;D of the web security uh division
+in at Akamai so 12 years in cyber
+security after after 12 years I felt
+like I needed kind of a pause I wanted
+to uh to check my options I felt like I
+I was in my comfort zone so I took some
+time off and that's when I met Amon I
+never heard about gong before I joined
+gong but the minute I heard about the
+story it clicked and uh uh it's so you
+know kind of enriching uh to uh um you
+know I love cyber security but at the
+end of uh the the day cyber security you
+know it's always you know you chase the
+bad guys you try to find a way to uh to
+block them to to see how how they
+wouldn't be able to attack and penetrate
+your systems suddenly moving to gang
+it's all about creativity it's all about
+creating and enabling the salese to be a
+better version of themselves uh it's
+like a whole new world so I I feel
+fortunate to be a company like o that uh
+is so creative and brings so much value
+to its customers um and it takes us to a
+uh to hold deps obviously with the uh no
+we we store I always call it the crown
+Jews of our customs so as far as they
+you know we have their deal information
+their CRM information their conversation
+so having a background in cyber security
+always helps me obviously helps me to uh
+understand how you know we need to
+tackle security as well but in general
+this whole uh uh you know kind of a uh a
+journey um I'm very happy with where I
+am and uh I feel like uh gong is is an
+amazing Place uh to be and and to grow
+incredible thank you for for starting
+this with me and for sharing a little
+bit of the story of gong and your own
+personal excitement I I wish for every
+engineer whether it's an entry level
+engineer all the way to an engineer Le
+leader to to feel the feelings that
+you're expressing here about the company
+that you're with and that you're helping
+lead so thank you again for the time and
+for the inspiration obviously best of
+luck with everything that's happening
+with gong continuing on the rocket ship
+and uh thank you for making the time
+here my pleasure Michael and have thank
+thank you again for having me and uh I
+hope we'll we'll be able to do this
+again in the future absolutely

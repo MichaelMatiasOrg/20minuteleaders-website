@@ -1,0 +1,601 @@
+um you know if you think about all the
+things that you care about they're all
+managed by software today your money
+your health your government your
+elections
+your health uh you know like pandemic
+response like you name it it's managed
+by software and that software is
+ridiculously insecure i spent
+you know 12 years doing manual code
+review manual pen testing side by side
+with developers
+finding vulnerabilities looking at code
+and
+you know it's
+the number of vulnerabilities is really
+staggering
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by home adventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with c-tech
+today's episode is with the real cyber
+security star
+meet jeff williams
+jeff brings more than 20 years of
+security leadership experience as
+co-founder and chief technology officer
+of contrast
+previously jeff was co-founder and ceo
+of aspect security a successful and
+innovative application security
+consulting company acquired by ernest
+and young
+jeff is also a founder and major
+contributor to owasp where he served as
+global chairman for eight years and
+created the owasp top 10 oasp enterprise
+security api o application security
+verified standard xss prevention cheat
+sheet and many other widely adopted free
+and open projects
+jeff has a bachelors of arts from the
+university of virginia and a masters
+from george mason and a jd from
+georgetown
+you know
+there's a lot of cyber security startups
+out there
+but over the last more than seven years
+you've positioned contrast security as a
+leading cyber security company
+and you know if we're looking at the
+pretty much across the software
+development life cycle looking at how do
+we secure code and and what's happening
+with the world today
+i'm very much of the belief that no we
+haven't really seen
+the
+the importance of cyber security yet i
+think if you're in the industry you
+understand it and you see the dangers
+and what's happening but to most people
+in the world it's still a little bit of
+science fiction and still a little bit
+out there which
+is going to happen one day and so i'm
+very thankful for companies like
+yourself
+which are coming and helping keeping us
+secure and and i'd love to start there
+jeff yeah you know entrance to cyber
+security you've been in this domain for
+more than 20 years right what
+how do you explain that why cyber
+security for you
+uh that's a good question i i kind of
+got into it by accident uh i
+in the 80s i played around with
+computers all the time and uh
+so i got you know back in those days
+they used to copy protect software and
+i like cracking those those coffee
+protection schemes uh they're like
+crossword puzzles to me i don't know
+it's just it was fun to like see what
+they tried to do to stop you from using
+the software a certain way and so i got
+into cracking those and then
+i don't know just uh stayed with
+software and uh my first job was at a
+classified navy project
+where i learned about real security uh
+they were building a b2 level system in
+the orange book
+very highly secure and i just decided i
+was going to learn everything i could
+about computer security which back in
+those days was almost possible like you
+could learn almost the whole field today
+it's massive
+so it's changed a lot
+but still deciding to dedicate your
+career to the security side of things
+you know you can go building great
+applications great consumer products
+look at all these different verticals
+and you're looking at securing our
+software even today what what is you
+know what is going through your mind as
+you're rationalizing through this
+decision to continue in this domain and
+in this path
+i just think it's such a huge critical
+problem um you know if you think about
+all the things that you care about
+they're all managed by software today
+your money your health your government
+your elections
+your health you know like pandemic
+response like you name it it's managed
+by software and that software is
+ridiculously insecure i spent you know
+12 years doing manual code review manual
+pen testing side by side with developers
+finding vulnerabilities looking at code
+and
+you know it's
+the number of vulnerabilities is really
+staggering it's it's funny because
+people get outraged when a new
+vulnerability comes out and you know
+just today there's a new serious
+vulnerability in uh in spring uh they're
+calling it spring for shell it's going
+to be a big deal but
+people get all outraged when we find one
+vulnerability in a company like you know
+equifax or or whatever but
+every company has those kinds of
+vulnerabilities dozens of them in every
+application
+so you know we're just it's not that we
+couldn't build secure software if we
+decided to it's just that we don't and
+that irritates me so i've i've kind of
+dedicated my life to
+trying to fix that in the market
+sometimes i feel a little bit like ralph
+nader
+i love it take me back um
+seven eight years the inception of
+contrast security
+you're an entrepreneur and you're
+identifying that there is a gap in the
+market for an another leading cyber
+security company that is going to
+help us secure code across the software
+development life cycle
+what is your positioning
+back then as an entrepreneur and
+continuing in the cyber space but now
+creating a new company there well we saw
+a lot of changes in software around that
+time we saw we you know we did a lot of
+work with very large enterprises with
+thousands of applications sometimes tens
+of thousands of applications and
+securing application security and
+achieving application security at that
+scale is really difficult and the tools
+that
+the legacy kinds of tools in appsec
+static analysis dynamic analysis and
+wafts were all designed for you know the
+early 2000s that's when those products
+were invented that's when they came out
+and software changed a lot it became
+more agile it became more api driven
+lots more libraries and frameworks it
+moved to the cloud
+and devops the speed of software
+delivery changed a lot and so we just
+looked at it we said hey you know what
+we need a new different kind of tool for
+a modern kind of software and so we we
+created a different way of doing
+application security from the inside out
+so you know our product works more like
+a profiler or a
+you know an apm tool like a new relic or
+an app dynamics but for security not for
+performance
+right and so
+as you're building this company and as
+you're growing it you know there's a lot
+of different questions that come into
+play one of them that is very very
+interesting for me is the go to market
+in cyber security space and you're
+looking to create a solution that is
+going to serve different enterprises
+around the world
+was that did you have to think of it
+very intentionally from the beginning
+what was it sort of you know
+engineering-led cyber light or more
+go-to-market lead for you in the
+beginning
+well i'd say it's more engineering-led
+because
+you know
+we invented contrast inside my
+consulting company
+and
+then we spun it out as a separate
+company
+and
+but because of where we came from we had
+great relationships with lots of large
+enterprises and so the go to market was
+pretty obvious for us we were going to
+sell to the people we know
+and
+i mean that's actually probably a good
+good first step for almost any
+entrepreneur but uh
+we got a lot of guidance in the first
+few years on you know how to make the
+product how to get great product market
+fit and so on
+right okay so contra security if we're
+looking today at the cyberspace what i'd
+love to is you know go 30 000 feet in
+the air
+understand sort of the landscape of of
+what's happening today in cybersecurity
+and then where does contrast fit into
+this really complicated maze
+yeah
+so i like to to
+think about the
+the cyber security market
+according to a framework like if you
+think about either the nist framework or
+i like actually sunil u's cyber security
+matrix but basically you can think about
+kind of the
+phase of of security from you know like
+uh early on it's it's thinking about
+detection
+and uh requirements and and defenses and
+and later on it's about detecting
+incidents and response and so companies
+kind of array themselves across that
+landscape
+and then on the vertical dimension
+there's you know i kind of think about
+the software stack right there's like at
+the bottom there's like you know host
+and network security then there's
+containers and cloud and then at the top
+there's application security
+there's also people security and mobile
+and a few things like that but like
+uh
+if you think about it that way then
+contrast is
+out on the application security layer
+that's that's what we do and we cover a
+pretty broad range across sort of the
+the software life cycle and into
+production
+so that's kind of our goal is to be a
+platform to support almost whatever you
+want to do in the application security
+space
+right and and
+obviously you do have to go after
+specific challenges right even within
+that domain so you have to start
+somewhere what was sort of the strategy
+as you were mapping out the different
+offerings that you had for contra
+security because you can't start by
+saying we're going to offer solution for
+the entire life cycle right the first
+thing that we built was called contrast
+assess and it's this new way of
+identifying vulnerabilities from inside
+the running application as opposed to
+like scanning it from the outside where
+you don't have much context doing it
+from inside you have all the context you
+need so you have access to the code
+the data flow the http traffic the
+backend connections the libraries the
+config
+all of that context lets it be much more
+accurate
+and ultimately
+accuracy is the key here to scale
+because if you're not accurate you have
+to have security experts in the critical
+path
+and
+so by being super accurate we can
+empower developers to do it themselves
+and that's really when you get devsecops
+moving that's the big machinery that you
+need in order to scale abstract so
+that's where we started and then we
+expanded from there
+but that's not trivial
+getting access to the internals of the
+company to understanding how everything
+is integrating and to have visibility
+into all these different moving pieces
+what sort of what are the trade-offs as
+you're balancing your ability to
+integrate into those areas versus your
+you're wanting to be able to to read
+everything and to make some decisions on
+your own
+well just to be clear we started
+you know with a technology that would
+give us that full access to their
+running applications so like it started
+right technically and then once we have
+great data about
+vulnerabilities and exactly where they
+are what line of code what you know what
+http details and all that then there are
+a lot of integrations because a lot of
+people need that data
+it's not just getting it back to the
+developer fast although that really
+helps but you know management needs that
+data the security teams need that data
+operations teams can use that data
+there's a lot of places you're right
+with a lot of places where we had to
+integrate and that's uh you know been an
+ongoing process as we build out our
+touch points with all the tools that
+people are already using
+but but getting into
+the getting access to the internals of
+the company i mean you're coming and
+you're saying okay we're a new company
+contra security we've built this great
+product we're getting visibility we're
+going to be able to extract some
+insights we're going to become better
+and better over the years and by the way
+in seven years we'll become sort of a
+market leader in this space
+but back then
+why why did they let you in why are they
+opening the door for you this is their
+company yeah it's a great question i
+mean
+some companies won't do business with
+small smart startups because they you
+know they
+they want something that's more stable
+but
+a lot of companies are willing to uh
+you know investigate new approaches they
+want to do things that are better new
+and faster and better and uh
+you know they'll take a flyer on a small
+company and we had a really good
+reputation coming out of my consulting
+company we were established in the space
+we you know it's not like we were just
+like a couple of guys who'd never done
+any abstech before our shin and i had
+been doing this for over a decade and
+had really strong relationships with
+the community we'd we'd released a bunch
+of open source
+tools in the past uh through oasp so you
+know things that were really popular you
+know millions and millions of downloads
+a year
+and you know so we had that that
+reputation going into it
+the reputation so trust is in
+trust is an important factor here right
+and i'm guessing it's not just trust in
+the company because here you're saying
+well actually the fact that we as the
+co-founders had this reputation
+we are at this point we are the company
+the two of us and we have the
+credibility yeah that's right that's
+what investors invest in a round and
+early angel rounds they invest in people
+it's not the idea it's it's the people
+right okay and and so
+you it didn't sound like this was
+a significant barrier was there a
+turning point when you realized that
+okay it's no longer just about
+me jeff and my partners but our company
+actually has the credibility and has the
+you know the stance to be able to go and
+and sell into companies that may not
+know me jeff
+uh
+well it
+it takes some work i mean you know
+that's that's why it takes uh you know
+four or five years to get a cyber
+security company going is because
+you know you have to make some early
+sales you have to get great you know
+provide great value and measure it and
+then be able to get references that will
+talk about you and you know you can't
+just go from zero to to a hundred
+million dollars in air in like a year
+you've really gotta you know prove your
+value and get your name out there and
+you know it just takes some time
+right so if we're looking today at cyber
+security in in 2022 and like i mentioned
+before i think we're just starting i
+mean the i think that we're that we're
+going to be experiencing some really
+interesting things in the next few years
+and there's going to be a lot of more
+opportunities in the space
+where do you think is
+sort of the holy grail today in terms of
+cyber security what is really the most
+pressing thing
+that i as a young entrepreneur should be
+thinking about when it comes to the
+world of securing the cloud or securing
+software or hardware yeah i think so i i
+have said many times that i think
+application security is in the stone age
+and i think there's still a lot of great
+opportunities in appsec
+for the most part companies have been
+kind of doing the minimum in apsec uh
+you know they off almost every company
+has a program but they're not really
+you know
+they're not really reducing their mean
+time to remediate down they're not you
+know they're they're not reducing the
+number of vulnerabilities they introduce
+they're just kind of you know
+working it off
+what i would say is the big opportunity
+is uh i think we're on the cusp of a
+transformation in the market where
+application security
+uh
+becomes visible and transparent to
+consumers
+there's a lot of push from the
+government like through the the new
+cyber security executive order the
+implementing regulations underneath so
+there's things like uh you'll have to
+produce an s-bomb to tell people what
+libraries your application is using
+that's a software bill of materials
+you're gonna have to publish that about
+your software i think you're gonna have
+to also um
+publish more details about how you build
+that software like are you doing
+security testing did you train your
+developers uh why should i trust your
+software
+i'd be willing to bet that you bank
+online right interesting
+right well what do you know about the
+software that you're using to manage
+your finances
+yeah that's crazy right you're you're
+blindly trusting that software and we
+blindly trust all the software in our
+lives that's crazy so the market is
+broken
+if you can't
+but jeff i have a question i mean that's
+that but that's why we have brand right
+i mean that's why chase and bank of
+america you know that's why they're
+working so hard at building this brand
+of a secure
+wall brick wall that's good that that
+they're working so hard my question is
+you when you're talking about the shift
+to consumer transparency and in
+individual decision making do you really
+think consumers will ever want to read
+the software bill of materials and make
+and be able to have these independent
+thoughts on who's secure and who's not
+or is it mainly going to be a marketing
+play for who can position themselves on
+google as the most secure bank yeah so a
+lot of people's initial that's a lot of
+people's initial reaction about things
+like software labels uh and uh they
+think oh well consumers aren't gonna
+read those well guess what
+nobody read food labels for like 20
+years
+but they dramatically changed the food
+market
+because the effect early on in these
+labeling regimes is on producers like
+the their lawyers won't let them produce
+a product that has you know
+100 toxic chemicals in it because
+they know they'll get sued and the same
+thing will happen with software is the
+effect will be on the the producers
+first to live up to the labels they
+won't bring a product to market that has
+an f on it just like you don't see
+restaurants in new york city that have
+uh an f on the window right you well
+occasionally you do they get closed down
+like you only go to restaurants that
+have a's and b's right it's the same
+kind of thing here
+right
+fascinating and so
+if we're looking now specifically at
+this this idea and i think that's
+fascinating this transparency
+what what
+what shift do companies need to make now
+you know if i'm looking at the average
+entrepreneur what what kind of thinking
+or strategizing should we be doing now
+if we're going to if we want to align
+ourselves or position ourselves at the
+forefront of this new year many
+companies are already doing a lot of the
+right things many companies are training
+developers they're testing their code
+they're uh putting automated
+security automation into their pipelines
+and they are generating
+purchasing software like content right
+exactly
+so i think what they need to do is get
+get themselves comfortable with the idea
+of disclosing that information uh you
+know first internally
+and later when they're confident
+making it externally uh available i
+think i do think it will be a market
+advantage for the first companies that
+are brave enough to publish this kind of
+information uh
+i think that it will be really well
+received and i think it will create
+competition in the market and there'll
+be a race to be uh you know the most
+secure software producers and the the
+companies that do that well will win
+their sectors because
+being great at software is the key to
+unlocking your entire sector it doesn't
+matter what you're in it doesn't matter
+if you're healthcare finance or
+airlines or whatever it's being great at
+software is the key
+100 100
+jeff this was a fascinating conversation
+i think i can go on with you for another
+hour or two but you have a company that
+you need to continue running and so i
+really want to thank you for your time
+and your energy and the thoughtfulness
+and i i appreciate it and
+thank you very very much
+stay safe and stay healthy and best of
+luck with contrast security thanks
+michael appreciate it

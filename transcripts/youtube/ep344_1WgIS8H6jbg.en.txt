@@ -1,0 +1,624 @@
+if someone has already decided that they
+are going to churn
+it's too late to do anything but if the
+marketing force
+knows that uh chen is going to happen
+then they have a window and a time a
+time window where they can still act so
+you can act on it
+but you also get the insights welcome to
+20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with loamy tech and
+sponsored by hippo insurance
+touring opposed labs and hillel at
+stanford data is eating the world by
+storm
+meet zohar bronfman ceo and co-founder
+at pecan
+tsar is an entrepreneur and ceo with a
+phd in computational cognitive
+neuroscience and a phd in history and
+philosophy of science
+his passion is enabling businesses to
+drive tangible value with ai
+his expertise include analytics ai deep
+learning and computational psychology
+as well as a strong background in data
+science statistical data analysis
+and business analytics zarb bronfman
+thank you so much for joining me today
+how are you
+it's my pleasure michael i'm good thanks
+how are you
+i i'm doing i'm doing fine thank you i'm
+very excited to have you here
+and we have to start off with you know
+your two different
+phds how does it happen that you have
+both a phd in computational cognitive
+neuroscience
+and a phd in the history and philosophy
+of science
+how does that even how does it even work
+and what is history and philosophy of
+science
+yeah so actually the two questions are
+related because uh
+um at least from my perspective i think
+the two phds are
+quite complimentary so i started
+learning
+in parallel both philosophy and
+cognitive
+neuroscience and i felt that both fields
+are very interesting
+and had a lot to kind of
+say also about the other field
+and then i felt i want to understand
+better this
+aspect and i want to understand better
+this aspect i didn't want to let go any
+of those
+so i did those two phds in parallel
+uh history philosophy of sciences and
+ideas
+basically means that we ask ourselves
+what are the main
+uh constructs of thinking
+that are um applied
+again and again what changes not in the
+not necessarily in the content of what
+people
+think at a certain point in time but
+also in
+how they think what are the methods they
+are doing the structure the form
+it really helps to put things in
+perspective
+people always think that now they have
+uh like the one version of the truth
+and that they know uh specifically what
+is the
+uh kind of uh case and if you
+if you look at it in a more uh
+historical perspective and a more
+skeptical perspective
+many times you uh realize that uh we
+know
+far later than what we think we know
+right
+and so how did you actually go about
+doing these at the same time
+these two these two phds
+yep at the same time i split the week
+into half
+half of the week i was working on that
+on the other
+uh you know it's it sounds maybe crazy
+but it's actually not
+i think uh i think that uh when you are
+within the kind of
+zone of researching and uh and
+and and experimenting and testing and
+writing and so on
+then adding additional layer is
+far easier than um doing it separately
+so it was actually quite an
+amazing kind of experience that's
+amazing and i know i'm really excited to
+understand
+how this all plays into what you're
+doing today a year ago you came out of
+stealth
+with it with your series a right from
+from dell and from s capital
+talking about you know how do we provide
+businesses with with a
+pretty much drag and drop solution to
+gain predictive insights
+into things that they might not have the
+capacity to do it themselves right
+so a lot of a lot of places now that
+have you know
+specified a you know data science units
+to answer specific questions like why do
+our customers churn
+or something like that well not
+everybody can afford it or not everybody
+has the expertise for that and we know
+that we're
+you know mckinsey i believe said that
+we're gonna have a shortage of something
+about half a million data scientists in
+2025 or something crazy like that
+and so obviously there's a huge market
+here but zara
+bring me up you know a little bit you
+know 30 000 feet in the air what is the
+world of data-driven analysis look like
+and why do we need a solution like pecan
+for today's businesses
+yes so i think i think we can start from
+uh
+from the top here um we had revolutions
+with regards to data uh during the
+several last decades so first companies
+started
+gathering data then they started their
+kind of uh
+putting in place looking at it in a very
+simplistic way then we had the bi
+revolution
+where companies started like to dice the
+data slice and dice the data and kind of
+get a better understanding of the
+business uh dynamics that they have bi
+became
+uh both a necessity and a commodity so
+today
+it's very hard right to find an
+organization
+that's not running uh bi and
+um we believe but we are obviously not
+the only ones
+that uh the next evolution the next
+step is going to be uh
+becoming ai driven it's not enough just
+to understand
+what happened you have to run more
+advanced
+forms of analysis of analytics that
+gives you
+kind of a direction or a hint
+towards what is going to happen and
+um like you said doing this crossing
+this
+chasm like moving from retrospective
+point of view
+to kind of a proactive or future looking
+point of view
+is something that requires a lot of
+know-how
+both know how in terms of dealing with
+the data
+and know how with uh understanding how
+to relate those statistical methods
+into the business uh necessities uh
+what we found at pekin and how the story
+uh here uh kind of unfolded
+is that like you said there are many
+data scientists out there
+but the the the demand for data science
+the demand for ai capabilities
+is 10 times lower right and that's our
+point of departure we understood that
+this gap will never close
+through additional data scientists and
+what we decided
+to do and i'll explain why in a minute
+is to basically help the so-called
+data analysts business analysts
+wanted to help them cause this chasm
+they wanted to help them
+moving from just doing bi into also
+doing ai
+how did it happen it's a very so just to
+clear the field yeah
+just right right before that story so
+give me that give me the you know the
+analysis
+what is the difference between today you
+know you have people working in
+companies doing you know
+analysts doing bi and then you have data
+scientists what is really you know
+the core differences you see what is the
+leap that that
+you're talking about from simply you
+know observing
+bi versus you know creating doing
+predictive analysis using data science
+yeah so there are two probably um
+two different kind of aspects into
+moving from doing bi into ai
+uh that traditionally you will have to
+go through a lot of training
+and a lot of kind of uh learning curve
+moving from data analytics to machine
+learning into data science
+it will involve first and foremost
+transitioning from sql
+which is the basic tool of data
+analytics
+from sql to python or al or other
+data science oriented languages and the
+second
+thing which is a maybe even more
+important
+but for sure under discussed
+moving from a bi to an ai mindset
+in terms of how you look at the data so
+when you
+bring forward data to a state where it's
+ai ready
+it has to include many components
+that you don't necessarily do when you
+run
+bi there are many terms for that
+some call it feature engineering some
+call it ai structuring right
+but it's obviously very challenging
+difficult and has to you have to have a
+deep understanding of the know-how
+in predictive analytics so that you can
+do this
+data work that is ai looking
+right and so what what is the actual
+challenge with this is this
+really just you know the is it the
+manpower is it that
+you know companies have generally the
+same questions that they're asking and
+and
+so there's an opportunity here to to
+actually go and consolidate this you
+know this pattern behavior that a lot of
+companies are doing
+what what is really how because because
+we're seeing a
+crazy shift right now with businesses
+that are making these leaps
+are they asking the same questions are
+they employing the same technologies
+yeah it's a good question because um
+the the answer at least from our
+perspective is that
+it's neither white nor black it's um not
+exactly the same every company has its
+own
+specific business dynamics
+data dynamics exact needs so there is
+always a customized level
+of how you fit the ai
+algorithms to the problem on the other
+hand there are many commonalities
+so it's not like starting from scratch
+this was actually one of our
+realizations that you can take
+one or two or several use cases
+that are very important that are very
+close to the right business value
+and you can template them you can help
+the users
+walk through these use cases uh and then
+have enjoyed the commonalities but still
+have enough flexibility
+so that they can tailor it to their
+specific company's needs
+right so you're talking about you know
+common things like churn
+or how do we get people in e-commerce to
+spend more time or or to add more items
+to the cart
+and a lot of these things that you know
+are on one hand
+you know we can generalize them in a
+sentence to pretty much every e-commerce
+you know website or company at the same
+time every e-commerce company will have
+their own specific use case of how they
+want it done
+and how does their data work and what is
+the pipeline that they're using right
+so so that that is so the black and
+white are sort of like the questions
+but then how do you you actually want to
+go and employ those questions with
+solutions that's
+that's where you need the customization
+right
+exactly so what's actually happening
+today with pecan
+and how do you actually go about you
+know introducing this to the market is
+it is it easy to explain to companies
+like hey listen we have these tools to
+give you better predictive analysis we
+can transition you from bi to ai
+or are you getting some resistance for
+that
+so i i have to say uh um
+quite surprisingly obviously there's
+always
+uh you know healthy skepticism
+and uh when you bring forward something
+new people always look at it and try to
+understand
+whether it's real um how good it is and
+so on and so forth
+but i have to say touchwood
+we are quite fortunate to be able to
+resonate
+with the uh with our uh partners
+prospects and so on and so forth
+i think there's a very healthy
+combination
+between use cases that people already
+understand they need
+that people understand they want and
+also the pain
+of not having enough data science
+resources which is very evident this is
+these are like things that we don't need
+to
+educate the market and then we let the
+product talk for itself
+i think the the um the greatest
+um kind of thing that we bring to the
+world
+is that data analysts
+have a sincere desire in moving into the
+next step
+they are actively trying today through
+uh courses through academic degrees
+through um experience in the companies
+working with friends
+they are trying to find ways and how can
+i
+drive a more advanced analytics how can
+i move from bi to ai
+and in that regard we have a very strong
+pull
+from the market because the market is
+there
+it's now a question of the technologies
+that will enable it and this is what
+we are racing against obviously
+so do you see a future where you have
+where you have
+companies more employing these
+technologies that are enabling
+current workforce to to conduct more
+thorough you know analysis or do you see
+really
+investing more in data scientists or is
+it some sort of combination of both
+where
+on one hand you do need your internal
+data scientist to solve the meaningful
+questions but you can also use
+solutions like pecan ai to solve for the
+more for the more common questions that
+others might also have that same use
+case
+so i i think absolutely option to a data
+scientist
+will always be i think extremely
+important
+for organizations and when you can
+hire enough data scientists and when you
+can
+employ enough proficient data science
+expertise on
+core use cases that are very important
+for your business
+it is probably the right thing to do
+the thing is that it will ever just
+increase the fact that organizations
+have hundreds of questions hundreds of
+avenues of advanced analytics that they
+need to explore a need to kind of
+solve they will never have enough
+data science capabilities and then it
+will be a question of resource
+allocation here i'm taking
+uh this group of data scientists here
+i'm taking this group of data analysts
+sometimes i can cross uh talk between
+them that will become
+the natural um evolution of how data
+science is being uh done in
+organizations so sure right
+so one of the things that i enjoyed most
+was was studying the
+case studies that he showed on the
+website of how you're actually going
+about him with you know sometimes only a
+few hours of dedicated time you're able
+to create some pretty impressive changes
+in the way that an organization
+communicates with its users or makes
+decision decisions on
+how to upsell or how to show different
+different things to the users can you
+share with me a few of those case
+studies just to get a perspective of
+of what is possible when you when you do
+make that leap from
+you know bi to ai even with a software
+like p can ai
+sure so i think you you gave uh you gave
+kind of uh
+a quick example earlier chern is an
+example that is very easy to follow
+and like you said in direct to consume
+or in a
+digital commerce or environments like
+that
+we have a lot of customers a lot of
+users that have a journey
+this journey has all of the data
+footprints
+stored you have the data in your
+warehouse you analyze it as an bi
+specialist
+you provide insights look after 11
+sessions the user decides that
+he or she are not going to buy and they
+churn
+but if you start digesting the data
+through a data science oriented platform
+what you will be able to achieve is that
+even
+before things happen you can actually
+see that for example this user is very
+likely to churn
+uh uh um for example because of price so
+you also get the kind of
+underlying reason or factor that
+contributed to the prediction
+and the other user even if they have the
+same likelihood to churn
+are going to churn because of um
+customer service just as as an example
+so what you can get out of that are
+several layers of treatment
+first of all you can devise a very
+tailored
+very personalized action right to kind
+of
+preempt turn before it happens because
+if someone has already decided
+that they are going to churn it's too
+late to do anything
+but if the marketing force knows that
+uh chen is going to happen then they
+have a window and a time a time window
+where they can still act so you can act
+on it but you also get the insights
+that are different from the bi insights
+because they are
+forward-looking so the insights can
+guide you into
+what are the issues with the product
+what is the issue with the user journey
+what are the segments or the micro
+segments
+that quit for different reasons and uh
+eventually what we
+see in our uh cases in our real cases
+are sometimes reduction of
+more than 20 percent in generates which
+is
+you know it's strategic this is like ceo
+stuff that i like seeing the slides and
+i'm saying i don't believe it
+we are so happy to have these cases and
+obviously
+uh we are continuing to build those uh
+uh day after day i think one of the most
+impressive things that i'm gathering
+from this and
+and i've seen it firsthand you know in
+the you know in the industry
+is that at the end we're talking about a
+lot of low-hanging fruits right you have
+a lot of these
+you know you we're at the point where
+companies are now beginning to
+understand that you know data collection
+is the beginning
+so you you can you and you know pretty
+much every company is using enough
+of these ready-made tools the analytics
+tools to be collecting the right data
+and now they're really like you're
+saying the evolution is to take that and
+go from bi to ai
+and it's pretty fascinating how you know
+you have some things that are just
+low-hanging fruits that
+you know by employing you know
+relatively you know linear simple models
+you can actually
+do some some really great predictive
+analysis and and
+like you mentioned at the end it's all
+about again the personalization
+it's not about you know one size fits
+all but it's about you know how do you
+make personalized
+personalized flow and and space for
+every customer so that you know as a
+company how to allocate your resources
+if you have a thousand leads from today
+how do you know which ones to call back
+how do you know which ones to prioritize
+how do you know which ones
+you know you're probably not going to
+get in the first place so you should
+maybe not even
+not even worry or maybe even advise them
+for trust not
+to move on with the purchase so i think
+it's just it's just fascinating what you
+guys are doing i love
+data driven problems and i think that
+you know companies that solve this
+for on an industry-wide level uh are are
+just fascinating and so thank you so
+much for joining me today it was really
+really great
+uh thank you finally the most important
+question
+uh but actually i've i have two
+important questions first of all
+how how does one walk for so many
+kilometers in the day
+how how's that possible so yeah i'll
+i'll i'll say a word about that because
+uh maybe it will help others try and do
+that as well
+during the covered area because you know
+we had so much
+time spent sitting in front of the
+computer i decided that every
+call every session every meeting that i
+can take walking
+i'll do it working and uh
+first of all it's been an amazing
+decision one of the best decisions i've
+ever i
+ever made i've been um taking so many
+calls working
+it's a tremendous um
+help to me to be concentrated and kind
+of uh
+motivated invigorated so that's amazing
+and i've been
+uh averaging quite a lot of miles at 25
+miles a day roughly
+so um it's very much
+unbelievable very much recommended
+unbelievable it kind of reminds me of
+the imitation game i have to say
+just a little bit a lot of the scenes of
+touring uh turned running but
+you know we'll leave that comparison for
+another time it's all the most important
+question
+three words that you would use to
+describe yourself oh
+three words to describe myself um
+i think the it's it's it's a hard
+question to reduce one's uh
+uh entire being into three words
+i would say um determined
+creative builder love it
+thank you very very much thank you so
+much just the start of a long journey
+but
+already making a huge impact and thank
+you very much one step and then stay
+safe
+all the best
+[Music]
+you

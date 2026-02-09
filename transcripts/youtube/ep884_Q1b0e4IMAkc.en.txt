@@ -1,0 +1,645 @@
+and so we started thinking about using
+iot sensors in summer of 19 we
+discovered that most businesses didn't
+have sensors deployed inside
+Refrigeration because Wi-Fi and
+Bluetooth couldn't get a signal out
+reliably this the fridge or the freezer
+had a side with iron or steel or
+aluminum and the side of the fridge of
+the freezer blocked Wi-Fi and Bluetooth
+signals so we started thinking about
+maybe we can solve that and improve on
+that we developed a new type of
+connectivity where we used a new type of
+connectivity protocol a long-range radio
+to develop a solution that uses radio as
+opposed to Wi-Fi and Bluetooth so our
+sensors use Laura long-range radio to
+push signal out of the inside of
+refrigeration
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+welcome to another episode of 20 minute
+leaders meet Monique Suri Monique is
+founder and CEO of Therma a technology
+startup whose mission is to help protect
+our food health and planet
+Therma build safety and sustainability
+tools to eliminate food waste improve
+Energy Efficiency and reduce refrigerant
+emissions protecting consumers and
+combating climate change Therma is
+deploying across the restaurants
+retailers Distributors and manufacturers
+worldwide with leading Brands including
+McDonald's Starbucks NOW Foods 7-Eleven
+and Marriott Hotels
+previously Monique co-founded the
+governance lab and Innovation Center at
+NYU that develops Technology Solutions
+to improve government he has been
+recognized amongst the top 100 Harvard
+alumni in technology a past affiliate of
+Harvard's Berkman Center for internet
+and society and previously held
+positions at Global investment firm D.E
+Sean company and the White House
+National Economic Council
+[Music]
+I'm so excited to a Garner even more
+inspiration and now that we're talking
+you're the CEO of Therma and after some
+some really amazing experiences and
+education and some of the best places in
+the world and and you chose to spend so
+much of your time and effort dealing
+with sustainability and dealing with
+something that the world really needs
+your your product is operating in more
+than 5 000 restaurants looking at iot
+devices and how do we manage uh
+information within our food ecosystem
+and how do we know what's happening
+behind the scenes so that things don't
+go straight so I'm excited to dive into
+your own Journey as well as that of
+thermals and understand sort of what is
+it that you care about and how you solve
+it so money tell me a little bit about
+sort of your entrance to the
+entrepreneurial world how did you
+discover food waste and iot as something
+that is deeply important to you
+I appreciate the question and definitely
+something uh you know I think about now
+never imagined I'd be working in
+refrigeration and and the food supply
+chain I think
+um The Journey was uh you know kind of a
+long path series of twists of turns as
+life often is I started working on uh
+policy uh right out of law school so in
+college I thought I was going to study
+uh political science and go and work in
+government I ended up
+um going to work in the private sector
+for a few years at a big hedge private
+Equity Fund was an investor then went
+back to law school uh went to work in
+government doing economic policy in the
+Obama White House and
+um you know I discovered or learned
+about the space around tech for good
+partly through a colleague of mine there
+was a woman I was working with Beth
+Novick she was the deputy CTO in the
+first Obama administration she had also
+opted in law school and she jokes a
+recovering lawyer uh
+and uh she read she'd written a book
+called Wiki go uh the Wiki government
+basically the idea was that technology
+was transforming so much of Life are we
+dying how we date how we engage in
+everyday activity but law and government
+and big public problems were still being
+sold like it's 1950 and so the idea
+behind the book was that hey you could
+build Tech to solve some of these big
+problems that were broken
+and help improve sectors like regulation
+compliance and government so I read the
+book I listened to Beth's talk made a
+lot of sense it was really inspired this
+is 10 years ago and I decided to join
+her uh instead of going to work in
+government I left and when she left
+government we started a center together
+at NYU and MIT where she teaches called
+the governance lab or gov lab so that
+was how it got into Tech and the idea
+that one could deploy Network and data
+tools to solve problems uh that have
+significant social impact that was
+always something interesting to me
+um coming from a family that was largely
+service oriented my parents are both
+doctors three of my grandparents are
+doctors uh so I had a lot of
+um service in my culture and family
+culture so to speak there was always
+this idea that should do something with
+your life that's more than just you know
+making your own situation better
+um and so sustainability was not a
+problem I thought a lot about it as a
+kid I first heard about climate change
+in the 90s and I thought it was about
+the ozone layer getting depleted uh yeah
+Vincent skin cancer and then encourage
+this
+um you know this famous movie came out
+um called Inconvenient Truth by Al Gore
+um and I went and heard him talk he gave
+it talked at Harvard when I was an
+undergrad
+um wow movie but I thought his son was
+actually a classmate of my algor Jr was
+a classmate of mine in college but I
+thought that on Senator Gore's book um
+and the movie was really about a problem
+for the Future these were like problems
+that like 100 years from now people
+would have to worry about
+and I grew up in California largely in
+Northern California a couple hours
+outside uh San Francisco in the east in
+the Central Valley and I thought
+um you know sustainability was a problem
+at most in the developing world but more
+recently in the last kind of six years
+uh living in in San Francisco I started
+to experience some of this stuff
+firsthand
+um there were wildfires in Napa a couple
+of years ago one of the worst ever in
+the state and I was staying up there
+with my wife we got on vacation we
+actually evacuated in the middle of the
+night wow and drove through the
+wildfires with fire around wow so it's
+18 fire trucks went by us I mean at 2
+A.M my parents evacuated twice in Fresno
+California there were wildfires 35 miles
+from our house where I grew up
+um and it seemed kind of sustainability
+get worse and worse not just in the kind
+of news but also in California where I
+live and amongst many people I knew it
+became a top that people started talking
+about every year oh it's Fire season oh
+my God there's a drought there's you
+know lots of problems here but you know
+this one
+um you know around uh the growing
+urgency became one that I saw firsthand
+and so I guess
+there was a combination of
+intellectually knowing it was a big
+problem uh discovering it for the first
+time myself as a person living in
+Northern California and traveling around
+and seeing it in the you know in the
+land around us and then also I think
+from a technology standpoint when I was
+working on dogs lab we discovered that
+there was an opportunity to work on
+compliance and improve safety and
+sustainability in the food industry and
+so it's been working on food back in
+2015 around the time that chipotle was
+having a series of issues with um
+remember and we started scaling um the
+precursor to Therma a product called
+co-inspect and realized that a lot of
+the problem that businesses had was
+around managing temperature and all
+these perishables that they had these
+inventory were getting spoiled or thrown
+out or lost and wasted and when I
+started studying and researching food
+waste
+I didn't realize it was this bigger
+problem I had no idea uh that a bunch of
+drawn down one of the non-profit
+studying global warming says it's the
+you know fourth largest cause of global
+warming which is just crazy that uh whoa
+really I have to understand that better
+how is it the fourth largest cause well
+what is it what is it the you know food
+waste poor Refrigeration in inaccuracies
+why is that such a huge problem yeah I
+mean I think it's partly because
+everyone eats um so there's a lot of
+food in the world the supply chain is
+pretty large it moves trillions of
+dollars worth of inventory every year
+part of it is that we're just so
+inefficient we waste so much of what we
+produce apparently we waste around 33
+percent of all the food we made which is
+like an astounding number that's like
+wow one out of every three pounds of
+food that's made is thrown away
+um and you know when you think about
+that at scale given that we feed nine
+billion humans
+um you know I guess food waste as a
+country would be like the fourth largest
+emitter and you know the amount of land
+mass that's needed to grow that much
+food is like the size of all of
+Australia the entire continent of
+Australia so it's just a it's just a
+large and broken uh problem because the
+supply chain and the way in which food
+is consumed and sold has so much
+inefficiency in it refrigeration is One
+Source it's not the only part of the
+problem sure it's one of the sources of
+waste cold chain or cold refrigeration
+supply chain is not available
+a lot of the energy and a lot of the
+um resources have already gone into
+making it so if you're throwing product
+out right before people consume it so
+much has already gone into getting it
+there that steak or that Sushi or that
+protein or that Dairy is getting thrown
+out in the restaurant or the comedian
+store it's just uh it's extremely
+wasteful when you think about it from
+how much resourcing has gone into
+getting it there and getting it grown
+and so we're trying to catch and reduce
+the storage and handling portion of the
+food waste problem that's only one of
+the drivers but it's um it's a
+significant driver and so
+um that's kind of the skill at 1.6
+trillion uh dollars worth of food thrown
+out every year nine percent in storage
+and handling that's the 150 billion that
+we're going after with Derma incredible
+take me back to those founding days the
+coming up with you know in hindsight
+makes perfect sense great thesis a lot
+you know it makes it's perfectly clear
+it can it couldn't have been that easy
+to unfold and uncover from the get-go
+what was sort of your own ideation
+process slide because you're also coming
+from a legal background and you know you
+you get an entrance to Tech you realize
+that you can use tech for good there's
+sustainability that's actually a big
+problem and how do you actually combine
+all that to come up with an
+entrepreneurial thesis as a CEO so yeah
+it's definitely it's a journey you know
+these things are iterative the first
+idea we had in um in starting out to
+build tech for good in the food supply
+chain was around compliance and safety
+we were trying to help eliminate uh
+problems around uh food safety and
+quality by replacing pen and paper log
+books with a mobile app that was our
+first product co-inspect collaborative
+inspect mobile app with structured data
+and ability used to timestamp and catch
+you know and monitor stuff digitally
+instead of a clipboard we scaled that to
+a few thousand locations and we
+discovered that most of what people were
+checking was the temperature
+and so in the summer of 2019 we were
+watching users using this mobile app our
+first product and we realized that we
+weren't solving the problem that well we
+were replacing a paper clipboard with a
+digital supports but they still had to
+do this work every day so they were
+going from doing it on a piece of paper
+to doing it on the mobile app or a
+tablet
+and so that's what we started thinking
+well they don't really want to check
+this out they're busy they've got a lot
+of stuff going on and making them do it
+four times a day or eight times a day in
+some locations is still very inefficient
+what if we could automate it what if we
+could use sensors to replace the work
+entirely and make it continuous and so
+we started thinking about using iot
+sensors in summer of 19 we discovered
+that most businesses didn't have sensors
+deployed inside Refrigeration because
+Wi-Fi and Bluetooth couldn't get a
+signal out reliably this the fridge or
+the freezer had a side with iron or
+steel or aluminum and the side of the
+fridge the freezer blocked Wi-Fi and
+Bluetooth signals so we started thinking
+about maybe we can solve that and
+improve on that we developed a new type
+of connectivity where we used a new type
+of connectivity protocol a long range
+radio to develop a solution that uses
+radio as opposed to Wi-Fi and Bluetooth
+so our sensors use Laura long-range
+radio to push signal out of the inside
+of refrigeration as we started putting
+these sensors in the world
+two and a half years ago in late 19 we
+discovered that we were helping
+businesses Monitor and catch
+Refrigeration failure and by doing that
+you're helping them reduce waste and
+reduce spoilage and so we kind of
+stumbled into the problem around food
+waste because we were working on helping
+businesses catch and monitor
+refrigeration and replacing pen and
+paper first for the mobile app and then
+with sensors and so we discovered that
+Refrigeration monitoring mattered a lot
+to them because they wanted to reduce
+waste and also wanted to reduce
+Refrigeration downtime that's another
+big source of emissions Refrigeration
+has these chemicals inside call
+refrigerants well when they leak in the
+atmosphere they cause a lot of global
+warming their Ultra warming chemicals
+and so by monitoring Refrigeration we
+were helping businesses reduce food
+waste and in some cases reduce
+refrigerants and so we really discovered
+wow we're working on a climate problem
+this is n19
+um and that's that's when we started
+scaling so Thermo went from you know 100
+sensors so now over 10 000 a couple of
+customers now over a thousand customers
+and so now we're growing but we kind of
+you know
+stumbled into it if you will
+now if you're if you're looking at this
+company is this a you know it's sort of
+it's a very impact impact first you know
+type of company was that from the get-go
+is that what you knew that you were
+going to position a company that has a
+very impact-oriented Vision rather than
+a business oriented Vision because they
+they do go hand in hand but always sort
+of there's there's an intent component
+to it that you as an entrepreneur need
+to bring to the table so you know back
+then and today are you with the same
+intent and what intent is that yeah we
+are uh always and I think we have always
+been interested in the impact side Aaron
+my co-founder and I kind of decided to
+work together first at the gov lab and
+then when we left to start coincidence
+we wanted to work on Tech that had some
+kind of social uh significance that
+really solved major public problems and
+the problems we were looking at were
+problems that we felt the private sector
+wasn't solving wealth so they were
+originally around compliance and safety
+and then increasingly around climate and
+sustainability but the idea of helping
+the food supply chain uh was really
+designed around okay this is an area
+that's both very inefficient where
+businesses waste and lose a lot of money
+and also one that we can do some good
+that's been important to me since you
+know 10 years ago when I got into temp
+and I left government and that's partly
+I think what brought me and Aaron
+together both at the gov lab and then
+now you know as entrepreneurs
+now I can imagine going to restaurants
+and selling them you know different iot
+devices for their kitchen I imagine that
+a lot of kitchens still today are pretty
+low Tech in nature and they're very
+human oriented
+what was the receptivity of
+customers I mean obviously have more
+than a thousand different customers so
+so the reception is good but what was
+sort of the relationship that you were
+feeling with customers as you were first
+rolling this out and testing yeah well I
+think we certainly had a lot of empathy
+for our customers and a lot of
+experience because of coinspect we'd
+been working in the food industry for
+three years we've been scaling and
+selling into food
+manufacturers Food Distributors and you
+know food service and Retail so we had
+gotten to know and spent a lot of time
+with restaurant owner operators uh you
+know Food Service owner operators food
+manufacturers I think I went to 40
+States
+um doing skills and meeting corporates
+and the dewormer three times McDonald's
+store books toys Wendy's corporate
+Denny's corporate Choice I've been in a
+lot of places that I'd never been to
+when I went to Harvard for college and
+law school and certainly very different
+parts of the country but I think what we
+discovered with Irma was that we were
+solving a problem that was saving
+businesses money in a way that was very
+measurable we were catching
+Refrigeration equipment failure that was
+helping them reduce asset replacement
+and asset repair and helping them reduce
+food spoilage and that's measurable
+those are dollars that they need and so
+even though we started selling Therma at
+a really tough time we started selling
+Therma in early 2020. well you might
+remember a couple of books yeah the
+world literally fell apart covid showed
+up in restaurants and hospitality and
+Retail companies were not exactly having
+an easy time so the fact that we grew at
+3x in 2020 and again 3x and 21 was not
+easy but I think what we discovered is
+we were solving a problem that
+businesses cared about and it created
+real Roi for them it really saved their
+money we also did it in a way that was
+easy to deploy our solution requires
+about 15 minutes to set up there's no
+technician no installation it's a drop
+in place solution you hold up our mobile
+app you label the sensors and you're
+done and so and we don't charge for
+hardware and we don't charge for
+implementation it's a pure SAS model
+it's an entirely subscription-based so
+solving a problem that's measurable that
+saves them money where the installation
+is easy where there's not a lot of
+friction and on top of that having it be
+a climate way having it be a
+sustainability win that combination has
+made it attractive for big businesses
+and small and so I've been very excited
+that we've been able to sign up you know
+operators of McDonald's Pizza Hut
+Domino's Taco Bell Starbucks Burger King
+Wendy's and a bunch of others and a
+bleach of Independence we've got food
+trucks uh mom and pop pizzerias three
+location scoop shops independent
+breweries you know these are really
+folks that are not super well resourced
+they don't have huge budgets and so I'm
+really proud of that because I always
+wanted to build tech for good but also
+may get accessible to people you know
+regardless of whether you're Vic
+conglomerate or a small independent and
+um yeah I guess the last thing I'll say
+about that like was I grew up in a form
+town I grew up in an AG town called
+Fresno
+um that's why I really had forums behind
+my house we had like walled Orchards
+literally behind my home I think I
+always had this appreciation for the
+food industry uh that it's it's it's
+important
+um and it's everywhere you know we need
+food as one of the pillars of of modern
+society but it's kind of one of those
+areas that's considered unsexy you know
+most most people I know don't want to
+think about it or don't really spend a
+lot of time worrying about how we get
+stuff from Farm to Ford you know uh in
+places like San Francisco and New York
+you know you like eating fancy food and
+good food but you don't have to think
+about how it gets there and so I guess
+I've always had this kind of personal
+interest and appreciation just because I
+knew a lot of Growers and a lot of AG
+I love it how do you get a thousand
+restaurants to hear about you well what
+is it you know I'm coming from the deep
+Tech scene a lot of SAS companies you
+know there's different you know go to
+market strategies that I could do that I
+could think of but how do you go and
+create and sell a product probably one
+of the first iot devices that a lot of
+restaurants uh put into their kitchens
+how do you go and and and get it even in
+front of their eyes so that they can
+realize that they can not only make the
+world you know say full ways but they
+can also save money along the way
+definitely something I spend a lot of
+time thinking about because now we're
+trying to get you know from ten thousand
+to a hundred thousand sensors
+um I think there's a few different
+things that have worked well for us one
+is
+um e-commerce and and online we've
+actually had really good success with
+digital marketing and content so we we
+Market it and and advertise on uh
+platforms like Facebook LinkedIn
+Instagram
+uh Google of course uh and so the you
+know the reality is a lot of our uh
+buyers and a lot of our customers are
+digital natives or are at least checking
+out technology digitally before buying
+and so e-commerce has been a great way
+for us to drive
+um you know traffic and to uh Roi or
+landing pages with case studies or with
+testimonials where people can say oh
+that's a business like mine oh that's a
+win that technology might be applicable
+it's also a really low friction way to
+get to people it doesn't require a lot
+of you know uh massive capital
+investment and then we also have a
+traditional model we have a direct sales
+team our direct sales team includes um
+you know folks that are doing uh lead
+generation we've got people that are
+attending conferences we go to about a
+dozen conferences a year uh we do boom
+well uh we fly around the country I told
+you I've been to a lot of States
+um we definitely uh do some outfoundland
+field selling for larger accounts
+um that's what I think it was a
+traditional direct sales model so we've
+got an e-commerce digital marketing
+driven go to market and then a direct
+sales uh and now we're starting to
+pursue Channel Partners so now we're
+starting to work with some distribution
+uh internal partners that are looking to
+resell or cross-sell technology like
+ours that might have much larger armies
+a much larger Footprints customers and
+we're starting to work with them as
+partners but yeah those are kind of the
+three ways for go to market
+my name I love what you're doing
+with uh with Therma I I love even more
+the journey that you're talking about
+you know going from one path in life
+from one area to all of a sudden
+discovering this new this new vertical
+and discovering technology and
+technology for good in the golf lab and
+and then looking at that climate and
+going back to college and and figuring
+okay this is this makes sense with what
+I learned there and now I can actually
+leverage this for for restaurants and
+and build them some product but actually
+I'm stumbling onto something even
+greater that actually serves the purpose
+of of what I got excited about tech in
+the first place and now I can actually
+build a big massive company and I 150
+billion dollar industry so a awesome
+Journey I'm sorry that I left some
+pieces out in the summarization but but
+that's what come on and it's a it's a
+really inspiring Journey so thank you
+very very much and uh best of luck with
+Therma I'm gonna continue cheering from
+the side and uh thank you very much my
+pleasure thanks for the kind words
+um if you want to check it out
+hellotherma.com feel free to reach out
+to me Monica hello therma.com thanks for
+having me Michael

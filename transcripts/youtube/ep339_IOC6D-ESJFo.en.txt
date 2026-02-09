@@ -1,0 +1,596 @@
+from a certain perspective it looks as
+if there is a bubble around
+cyber security globally and definitely
+in israel
+but i fully agree with you that the need
+for advanced cyber security
+is here to stay and definitely is going
+to intensify
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with loamy tech and
+sponsored by hippo insurance
+touring opposed labs and hillel at
+stanford if you're into cyber you're
+gonna love this one
+meet nathan shukhami a managing partner
+at hyperwise ventures
+an israeli venture capital that leads
+seed investments in the cyber security
+and enterprise software domains
+he co-founded and led as a ceo centrigo
+inc
+acquired by mcafee where he became vp
+database security
+nathan later co-founded hyper-wise
+security acquired by checkpoint software
+technologies where he became vp of
+emerging products
+nathan shahami good morning how are you
+good morning michael um
+everything is well hopefully it's the
+same with you
+excited to be here i'm excited to have
+you here
+an expert in cyber security both as an
+entrepreneur but also as a venture
+capital investor
+yes you you're you've seen both ends and
+obviously you know
+from the start of nation in the world of
+cyber security and we're just seeing the
+industry
+boom more and more and while uh i've had
+some
+interesting discussions with uh fellow
+friends and researchers about maybe this
+is just you know one big bubble that is
+gonna burst
+and i really don't think it will and i
+think that you know we're in it for the
+long run
+and the more the technology advances the
+more we're gonna have this cat and mouse
+game
+and which obviously keeps it interesting
+given that we're the sort of the cat and
+and the red team is the mouse and so
+what i'm really
+excited to talk to you about is your
+expertise in the world of cyber security
+your entrepreneurial journey your
+investment thesis but also
+you know the way that now you see you
+know the industry from the side and
+and what what have been your
+observations over you know years of
+experience and watching
+hundreds if not thousands of of young
+entrepreneurs go through that
+so nathan get us started tell me a
+little bit about who you are and a
+little bit about your journey
+um so
+indeed throughout my professional career
+i had multiple experiences so i
+definitely consider myself to be blessed
+from that perspective
+uh i started my professional career like
+many others especially in the
+israeli high tech and cyber security
+industry
+by serving almost 11 years with
+8200 fulfilling multiple
+multiple roles having a very
+exciting career there then for a short
+period of time i was
+seriously considering developing a legal
+career
+so i was uh i was very technical
+yeah even though i was very technical
+in my background i was seriously
+considering studying math
+and even up until today this is
+definitely a soaring point
+but nevertheless i chose to um study
+laws i had a
+first and second degree in commercial
+law from the
+tel aviv university i was i did my
+internship in
+jacob weinroth law firm and then in the
+israeli supreme court
+i was even touched teaching contracts in
+the tel aviv
+university for three years but then
+i was lucky and i got a proposal from a
+guy that they used to serve with me
+with the 8200 that in the early 90s has
+established a startup and he
+gave me a proposal that i couldn't
+refuse and
+in the mid 90s i decided to join a
+startup by the name of enigma
+which was not a cyber security startup
+despite the name
+and i was i worked for enigma for
+nine and a half years primarily as a
+sales manager as a vp sales
+living for four years in boston and then
+moving to europe and
+becoming vp cells europe for four years
+out of munich
+but then in 2006
+i met a brilliant technical entrepreneur
+by the name of slavik markovic
+who later became the ceo of the misto
+and
+together we have established a cyber
+security startup by the name of centrigo
+focusing on database security we moved
+to the bay area in 2008
+we crossed the horrible crisis of the
+subprime crisis the meltdown in 2008
+literally three months after we both
+relocated to the bay area
+tough times i have to say nathan funny
+anecdote
+is that slavic was actually guest number
+11 on this show
+uh he is a very very good friend and i
+met him quite a few times at
+political network offices and and he was
+and
+in our episode he talked exactly about
+what you're saying about you know
+relocating to california 2008 crisis but
+please go on
+yeah slavik is an amazing uh brilliant
+entrepreneur um and in uh
+we we managed to persevere by the way it
+was very difficult i can tell you many
+sleepless nights
+and in early 2011 we got acquired by
+by mcafee and we became the the database
+security
+solution of mcafee i worked for
+mcafee as an executive for a few years
+after four years in the bay area i
+relocated back with my family to israel
+departed from mcafee and in late
+2013 the beginning of 2014 i met my
+current two partners
+both of them are young very ambitious
+skillful guys from 8200
+from the aram program
+and once they finish their military
+service they
+invented an amazing technology for
+identifying evasive attacks
+next generation sandbox harnessing new
+capabilities of the
+intel cpu framework
+and we established in early 2014 a cyber
+security startup by the name of
+hyper-wise security and a year later we
+got acquired by
+checkpoint and from
+2015 until 2019 the three of us have
+worked
+for checkpoint i was the vp of emerging
+products for checkpoint
+reporting to to the president of
+checkpoint i managed a team of about 200
+sales reps and sales engineers
+and i was focusing on the advanced
+security solutions of checkpoint
+namely cloud security mobile security
+endpoint security
+and advanced threat prevention the next
+generation sandbox of checkpoint
+by then a product by a family of
+products by the name of sandblast
+a target of about 300 million dollars a
+year
+did very well and by the end of 2019 the
+three of us we decided to
+to depart and to establish
+a proper venture capital six months
+we dedicated six months to raise funds
+for hyperwise ventures and in the
+end of february 2020
+so almost a year ago we launched the
+fund it's a 70 million dollar fund
+focusing on early stage sid investments
+we want to lead the
+seed rounds and since then we made the
+five
+investments and
+we are a very active uh you know looking
+for brilliant entrepreneurs to partner
+with them to establish amazing startups
+focus is on cyber security but also
+enterprise software
+so obviously we have a very strong
+background in cyber security
+but we are not limiting ourselves to
+only cyber security we do enter proper
+enterprise software as well
+so a very diverse career spanning more
+than
+five years uh and again i consider
+myself to be very lucky from that
+perspective
+so nathan even before we do a deeper
+dive into
+you know these different experiences and
+currently what you're doing with hyper
+wise vc
+tell me a little bit about the cyber
+security you know market in general or
+the industry
+and it's it's a uniquely you know
+different i think than than a lot of
+other industries
+um it's something that is you know
+obviously very special to us
+uh here in israel and with the
+background that we come with but tell me
+a little bit about you know how you see
+the cyber security world both you know
+from
+the entrepreneurs perspective of an
+early stage company realizing that
+there's this gap
+there's technological gap and
+opportunity to going and you know
+creating these companies and that are
+acquired by you know by fantastic
+companies like checkpoint and mccafe but
+also from the investors perspective
+understanding okay how does the world
+actually look
+you know from a bird's eye view on cyber
+security and
+where are we headed with it
+um it's a very good and important
+question
+because indeed from the outside and you
+were
+very right in your opening
+words saying that from certain
+perspective it looks as if there is a
+bubble around
+cyber security globally and definitely
+in israel
+but i fully agree with you that the need
+for advanced cyber security
+is here to stay and definitely is going
+to intensify
+the cat and mouse race that you were
+describing but it's important to stress
+out
+that the core capabilities around
+offensive cyber i mean the bad guys the
+the red teams in the last 15 years
+is financed by by government
+offensive cyber is definitely considered
+as a strategic arm
+today for nations because of its
+amazing effectiveness compared to other
+alternatives so today
+nations will invest their fortune in
+identifying the most brilliant
+attackers and to finance core rnd
+identifying zero-day vulnerabilities
+harnessing them
+to breach to hack to create uh
+potential damage and so forth uh
+a lot of that data and knowledge that is
+gained by by governments and nations
+will eventually leak to cyber security
+criminals
+and we will see the effect of that core
+knowledge on our day-to-day life
+even as consumers definitely as civilian
+enterprises and so forth
+what i want to now to now ask is this
+transition
+from entrepreneur to investor so going
+from looking at one problem really
+deeply
+to now you know expanding your reach and
+and looking at a variety of problems and
+trying to figure out how
+they piece together with the
+industry of cyber security not just your
+solution did you find that transition
+you know
+difficult easy did you have to change
+skill sets in order to do that
+so a big portion of my experience uh
+was definitely relevant because at the
+end of the day
+when it when it comes to establishing a
+startup
+not only the team needs to have a
+brilliant idea
+and a barrier to entry but at the end of
+the day the startup needs
+especially in a very competing arena the
+startup needs to
+execute and excel on the sales and
+revenue fronts and this is an
+area where i have right a lot of a lot
+of experience
+from choosing the right go to market for
+the startup
+moving through establishing an effective
+sales operation especially in the u.s
+from so from that perspective i
+definitely felt that the
+experience i have gained as a vp sales
+in the united states and in europe and
+later
+a ceo for at least two cyber security
+startups was definitely relevant
+but obviously as an investors there are
+additional
+considerations that you need to take
+that as an entrepreneur you don't
+always think about the financial aspects
+of the
+of the investment the ability to
+almost guess but it needs to be an
+educated guest out of
+tens and hundreds of startups ambitious
+teams that you meet who is going to be
+the the winning team
+this is something that uh definitely you
+know an experience that i had to uh
+we had to to establish so it is both a
+combination of past experience being
+entrepreneurs ourselves
+but also gaining
+financial and and investment skills
+along the way and this is something that
+we touched on
+a little bit before we have established
+the fund by uh
+doing some uh some angel investments
+before we have established the funds but
+obviously throughout
+the the the year that we've been
+operating this is something that we have
+gained and established quite well
+right and how do you then now you look
+at a variety of you know
+early stage companies you know wanting
+to lead seed rounds
+and you look at their their technology
+with the cyber security
+industry are there any patterns that
+you're seeing that differentiate between
+the ones that you feel more comfortable
+partnering with rather than the ones
+that you're that you're less comfortable
+partnering with yeah i mean
+i believe that we've been experiencing
+a certain pattern along many
+teams of entrepreneurs because on one
+hand because of
+the the amazing reputation of
+the cyber security industry in israel
+many
+veterans from 8200 and other
+technological units you know they are
+very eager to establish a startup
+however it's very very difficult to
+identify
+a brilliant idea a real need
+and a barrier to entry so many teams
+will go through a process which is
+called an ideation
+but very often they will come up with
+what i what we refer to as synthetic
+need
+so something that from the outside may
+look
+lucrative but when you dig under the
+hood you find out that it doesn't
+represent a really need
+an urgent need in the market it is more
+of a wishful thinking and this is
+something that we need to be really
+careful about because we invest only
+in solutions that solves a real need an
+immediate need
+that the market indeed needs
+and many teams that we met as explained
+unfortunately they come
+up with those synthetic needs uh
+compared to what we would like to invest
+in an authentic need
+ideally a need that was born throughout
+the la the the real life experience of
+the entrepreneurs so entrepreneurs that
+used to work for a commercial company a
+cyber security company for several years
+and from their experience and meeting
+with customers
+of identify a real need this is
+something that we look for
+or alternatively entrepreneurs that used
+to work for a cyber security consulting
+company again meeting with the customers
+with clients identifying a real need
+then coming up with the brilliant
+technological solution with a great
+barrier to entry
+this is something that uh that will be
+attractive for us
+so again because of the fact that there
+is so much demand so many teams would
+like to
+found and establish a cyber security
+startup
+we need to that's the phenomena that we
+often see
+and so then when you go into either do
+due diligence or think critically
+yourself about it how do you
+hope to to find you know real product
+market fit in the world of cyber
+security
+a lot you know mo like 99 percent of
+what i'm guessing is you know b2b
+and you know you're selling to
+enterprises you're offering
+similar yet different yet similar
+solutions that exist you have to do a
+lot of explanations right because a lot
+of the times
+even though you're selling to perhaps
+you know the security people in those
+companies
+they it's not you know it's not like you
+can send them to a landing page
+and they sit and look oh yeah this looks
+like something i want to buy right it's
+not like it's not the same
+purchasing experience so so what what
+are some struggles there and and what is
+the
+you know from your experience the right
+way to strategically go about
+finding that you know product market fit
+and whether it's there
+it's it's a very good question so it's a
+combination of the following first of
+all we ourselves
+uh uh bring uh many years of uh
+of experience uh uh working with real
+uh uh customers you know fortune 500
+customers across the globe for example
+when i was working for checkpoint i was
+an executive sponsor for citibank just
+as an example so
+obviously we bring a lot of intuition
+and experience from our own experience
+from our own background and experience
+coupled with the fact that
+our lps the investors of our with our
+fund
+are a world global leaders in the cyber
+security
+arena names like ashlomo kremer miki
+budai
+stuart mcclure and so forth these are
+guys that
+when we feel that we have the need we
+will
+we will consult with them and we would
+expose the potential startups to them
+and look for for their opinion but i
+think that the most important
+part for us is the startup itself so
+ideally we would like to invest in
+post-revenue
+so a startup that already gained 100 000
+200 000 worth of arr we are willing to
+pay the toll and
+and invest in a higher valuation
+in such situation because then we can
+really interview the customers that are
+using the product
+and after three four interviews you can
+when you ask the right questions of
+course verifying that the product is
+really used in the way that
+the entrepreneurs were planning it uh to
+be used
+but if the startup is based on a present
+a powerpoint presentation and a good
+idea
+that doesn't deter us we will ask
+and we will help the team to meet and
+present the solution to 10 15 20
+potential customers and then we will
+interview the customers
+for us again it is very very important
+to identify
+that it solves the real need an
+immediate need so not a
+futuristic need and a a
+a significant gap a significant
+risk that the startup is going to solve
+with a significant technological barrier
+to entry
+i love it nathan so dang about for for
+all the insights your generosity with
+your time
+i really really appreciate it and i
+think what you're doing with hyperwise
+vc
+uh spinning off of your long time career
+as an entrepreneur
+engineer and then now i learned a legal
+uh you know in the in the legal scene
+but so before we leave
+i really want to thank you for being
+generous with your time and i do have
+two really important questions
+one of them is the three words that i
+always ask but the other one which is
+even more important
+is what is your favorite beatles song
+um probably the the song by george
+arizon here comes the sun
+i think it is at the end of the day it's
+the the most favorite
+song even though it's very difficult to
+answer that questions it depends on the
+mood and how you wake up in the morning
+but probably
+i remember being in middle school and i
+was a beatles fanatic
+and i would be listening to the beatles
+from morning to night
+i think i was the only middle schooler
+in israel who was so obsessed with the
+beatles and
+what i think really it was incredible to
+me was both the authenticity behind the
+sound
+speaking of the cyber security the
+authenticity behind the sound
+but also the fact that you know for
+every mood for every time of the day
+there's
+one of a thousand songs that you can
+choose from that'll be just right
+nathan and now i need the three words
+uh so i think that the three words that
+can describe me are
+first of all i'm very devoted to my
+family to my friends
+and colleagues but definitely to the
+entrepreneurs that
+we invest in i'm a hard worker i believe
+in hard working
+and i'm very curious i always like to
+learn new things
+you know in whatever schools or arenas
+or philosophies
+i love that nathan stay safe and stay
+healthy
+and take care bye
+[Music]

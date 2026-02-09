@@ -1,0 +1,627 @@
+there's something about me uh that is
+incredibly attracted to the notion of
+something that on the surface sounds
+very very simple
+but under the covers is actually rather
+complicated is it actually extremely
+complicated and that was was like my
+kryptonite that was like okay
+or my intro drug as it were i needed
+more of that this notion of something
+being inherently simple but also complex
+that's what kind of got me really
+excited about being in the data and
+analytics space about being in the
+governance space
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeword ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders this
+episode is all about data management and
+data governance
+meet malcolm a thought leader in the
+field of master data management and data
+governance and has consulted with some
+of the most largest businesses in the
+world on their enterprise information
+management strategies
+he is a frequent public speaker on data
+and analytics best practices and
+cherishes the opportunity to share
+practical and actionable insights on how
+companies can achieve their strategic
+imperatives by improving their approach
+to data management
+this world is changing so quickly and
+data is becoming probably the most
+important asset for for any company and
+your expertise is in data and and
+data governance today you're the head of
+data strategy at prophecy previously
+senior director analyst at ed gardner
+amongst many other really interesting
+positions and so a lot to talk about
+here a lot to unpack and and what i'd
+love to spend these 20 minutes is to
+understand a little bit better
+you know your own journey and and data
+governance
+as a as a domain that we should be
+really thinking critically about both as
+entrepreneurs as engineers and as
+thinkers in general so thank you very
+much for being here
+thank you so much well my my data origin
+story i think is is what what you're
+what you're asking
+and uh
+i've been in the software space for the
+better part of 30 years it sounds
+amazing to say that
+um but it's true
+uh i've been in the software space an
+awfully long time but i really kind of
+fell down the data and analytics and the
+data governance rabbit hole uh about 20
+years ago just about 20 years ago when i
+was a consultant and i got hired by a
+two billion dollar publicly traded
+company
+as a consultant to hot to answer one
+question
+that question was how many customers do
+we have
+and i was at the time i was wait a
+minute hold on a second
+your publicly traded company you're
+relatively large company you have uh
+audited books every quarterly from from
+some large consulting company and and
+and you're reporting to the street what
+do you mean you don't know how many
+customers you have
+and when i dove into that issue and when
+i dove into that problem what i learned
+was that was that
+that was very much an actual real
+problem in that the system that they
+were using the company was using to
+report revenue and count dollars that
+had a consistent answer all the time and
+it was the system of truth at least in
+so far as wall street was concerned but
+there were other systems across the
+organization that completely different
+answers
+so the erp system that was counting the
+dollars had 100 customers in it i don't
+know let's just say 100 customers and
+the crm systems had
+140 and another system over here had 25
+and another system over here had an
+totally different number so there was no
+consistent definition of of customer
+there was no consistent customer
+reporting within this organization
+and and that again that was really my
+intro to to data governance data
+analytics master data management and
+there's something about me uh that is
+incredibly attracted to the notion of
+something that on the surface sounds
+very very simple
+but under the covers is actually rather
+complicated is it actually extremely
+complicated and that was was was like my
+kryptonite that was like okay
+or my intro drug as it were i needed
+more of that this notion of something
+being inherently simple but also complex
+that's what kind of got me really
+excited about being in the data and
+analytics space about being in the
+governance space
+on the surface governance is a fairly
+boring topic as
+it were not a lot of people are having
+cocktail party discussions about
+governance but
+a lot of people are having conversations
+about customers and customer data and
+their experience with products and what
+worked with one one company what didn't
+work with another company these things
+always come back to data
+right so they always come back to data
+so so yes governance is critical
+discussions around data management are
+critical
+you know there are companies talking
+about data as the new oil can certainly
+discuss that a little bit more but
+that's a little bit about how i got into
+the space
+so what what are sort of the
+the the dangers perhaps or
+the ramifications of not doing good
+governance i mean obviously okay so
+discrepancies lack of source of truth
+and
+that that makes sense but why why should
+we really care
+yeah well it depends on your industry
+but if you're in banking or your
+insurance you really need to care about
+data governance right things you know we
+hear all the time about high profile
+data breaches about personal information
+that gets spread across the internet i
+mean those are fairly dire and extreme
+uh examples of lacks a lack of
+governance
+um
+certainly you know just to make sure
+that you comply with the with the laws
+and regulatory frameworks i mean is is
+for a lot of banks and insurance
+companies and other regulated industries
+is the kind of the lowest bar from a
+governance perspective you have to be
+there otherwise that your entire
+business could potentially be at risk
+but a lot of companies these days are
+talking about digital transformation a
+lot of companies are talking about how
+to respond faster to ever-changing
+business dynamics a lot of companies are
+talking about how to realize and deal
+with changes related to what's going on
+in our global supply chains
+all of these things come right back to
+data right if you're talking about a
+digital transformation chances are
+pretty good
+your customer experience is an important
+part of that
+well how do you deliver a compelling
+customer experience if you don't know
+how many customers you have or if you
+have two records for the same customer
+right or if your customer calls into
+your support center and you don't know
+who that customer is and you don't know
+their past history with you right same
+is true from a supplier perspective how
+are you expected to optimize your supply
+chain if you don't necessarily know who
+your suppliers are if you don't have a
+complete you know 360 view
+of your relationship with a given
+supplier so everything from
+from a digital transformation
+perspective a supply chain optimization
+perspective a business optimization
+perspective will circle right back to
+data and if you don't have consistent
+trustworthy accurate data you're going
+to you're going to struggle to optimize
+all of those business processes that i
+was just talking about
+and is it mainly this idea of source of
+truth is that sort of the the holy grail
+of data governance or are there
+different aspects that we need to be
+considerate of
+it it's a part of it but it's certainly
+not the only thing so there are a number
+of various what they call frameworks out
+there from for data governance data
+governance spans yes a single source of
+truth it spans into data quality it
+spans into data access who can see what
+data it spans into ownership of data
+update rights those types of things it
+even gets into things like archival how
+long do you need to keep data around so
+security pii
+all these things together form uh data
+governance so it's not just about having
+a single source of truth but that's a
+big part of it right single source of
+truth is generally the domain of what we
+call master data management mdm which is
+one of the the kind of the operating
+tenants of the data governance framework
+mdm acknowledges that really can not all
+data is created equally there are some
+fields of data some objects of data like
+customer product supplier asset
+employee on and on that are that matter
+more than other pieces of data right so
+in any given customer record you could
+have hundreds of fields of data but the
+data that is shared widely across the
+organization that needs consistent
+definition that needs consistent quality
+and management and structure that's
+generally what we call mdm master data
+management uh
+and and that's again a sub
+sub component of governance but
+uh it's all together critically
+important for organizations to scale for
+organizations to meet their customer
+needs for organizations to to operate in
+in a way in today's days and times it
+keeps them ahead of their competition
+so if we're looking at the world today
+you know 2022 and the way that companies
+are managing this what are some
+different strategies that companies are
+employing
+that are that are that are good you know
+good strategies for
+for doing good data governance around us
+yeah
+it's a great question and i'll be honest
+michael and say you know given my
+years of experience as an analyst in the
+in the governance space i can say it
+remains a massive challenge for more so
+most organizations right most
+organizations are really really kind of
+struggling with
+two various different two approaches at
+a very very high level decentralized
+versus centralized
+right do you do you manage your data
+from more of a centralized approach more
+of a top-down heavy-handed approach to
+say
+these are our customers there's a single
+customer table that needs to be
+referenced by all applications all
+systems all workflows do you have
+centralized approaches to data
+management or do you have highly
+decentralized approaches to data
+management where you can have autonomy
+within an individual operating unit or
+application or group or business process
+and those are two extreme ends of the
+spectrum most of the organizations that
+i that i've supported over the last few
+years are trying to act in a highly
+decentralized way with some notion of
+centralization layered over top again so
+that at an individual operating unit or
+application you can have a decent amount
+of autonomy where sales can call a
+customer what sales needs to call a
+customer but finance can call a customer
+something slightly different
+one is how you sell the other is how you
+recognize revenue but at some levels
+within the organization when you move up
+the organization for more of an
+enterprise wide v view or corporate wide
+view some of those rules need to be
+consistent because again if your ceo
+asks how many customers do we have there
+can really only be one answer so what is
+this this this sweet spot for most
+organization is a hybrid between highly
+decentralized do whatever you want
+and highly centralized completely kind
+of top-down kind of edict-driven
+approaches to governance generally it's
+some hybrid in the middle of those two
+approaches right so what i'm hearing
+from you is like the word we're looking
+for is this balance where you're both
+giving agency to
+to the different
+you know agents within the organization
+to to work with data collect data and
+manage it but then there should be some
+governance as to
+what types of data do we need
+centralized and to have a source of
+truth where everybody's aligned on sort
+of the same answer right
+exactly exactly right and typically
+again that aligns more towards this
+notion of of master data right where you
+do need some commonality
+in order to have uh you know consistent
+views of consistent ways of managing
+your relationships with your suppliers
+or your relationships with your
+customers and on and on so so
+yeah the sweet part is is is some sort
+of of hybrid approach there and i love
+the notion of kind of decentralized
+agency uh of data
+but what you would just describe does
+infer a certain degree of maturity from
+a governance perspective because to do
+what we just described requires a
+reasonable set of business rules that
+says
+a bunch of if thens in essence you know
+if it's this data in this context and
+this use case then these are the rules
+and if it's a different set of data if
+it's if it's master data then these are
+the set of rules and and really that's
+what governance is data governance are
+the policies and procedures that need to
+be applied to an organization's data
+assets in order to realize the greatest
+value from them
+right and and so
+up to what level or down to our level
+should should people in their
+organization care about this or be
+concerned with this right i mean is this
+something that should be
+in the mind of of all the way down to
+the you know to the back end engineers
+is this mainly the data analytics side
+the vp stage
+where where are we on the spectrum of of
+an organization
+that's that's a great question and the
+answer is it depends
+right if if you are a software engineer
+you need to care about data because
+those are the fields that you're using
+to create your application right if
+you're a ceo you need to be caring about
+data now the perspective there is going
+to be very very different but
+a very effective data governance
+approach is one that makes the rules
+that makes the data relevant for where
+you are where you sit within the
+organization
+now really effective data governance
+organizations can can do this in a
+non-obtrusive way right where where
+where data governance and data quality
+and policies and procedures related to
+the use of data are just kind of baked
+in to how you do your job it's it's part
+of the standard operating procedure this
+is kind of
+the notion of what we call data ops
+right where where you know that data and
+data policies and data governance are
+just kind of hardwired into how you do
+your business day in and day out and
+very very good ones and high functioning
+organizations can make it such that it
+doesn't appear like it is all uh it's
+all rules like it's all constraints
+right a high functioning organization
+can put governance policies into for
+example a crm system so that if a
+salesperson is interacting in there and
+creating a new customer record
+that the the controls that are put into
+place are actually helpful
+right
+they they they make sure that you don't
+put in duplicate accounts they make sure
+that you are
+aligning that account to the right or to
+that to that customer to the right
+account and so that rev rec can be
+correctly applied so it really depends
+on the level of the organization
+everybody will have different views but
+when done the right way governance
+should be viewed as an enabler
+of business and not as some form of
+control of the business and and that's
+what that's what organ high functioning
+organizations are trying to get to is
+this notion again of
+governance is something that makes
+things better and not a way of slowing
+organizations down
+so we talked a little bit about
+centralization versus decentralization
+within organizations
+but now for looking at data governance
+is sort of a strategy and different ways
+to
+or different best practices to implement
+data governance are we seeing a new
+vertical of
+outside organizations that are mastering
+this in some sas product or some
+strategic way to then be able to go and
+integrate into organizations how were we
+at in terms of the industry
+and the opportunities for data
+governance in the world
+it's a it's a great question the short
+answer is there are lots of fanta
+fantastic technologies that can be sold
+to sas
+that can help automate a lot of data
+management tasks including data
+governance so data governance spans all
+the way from data cataloging like
+knowing what you've got out there data
+profiling you know where are all the
+fields of data and and how are they
+defined and what's all the metadata
+associated to them so there's there's
+gonna
+that's one aspect of data governance and
+then the other aspect of it is
+management of policies and procedures
+third aspect is execution of those
+policies and procedures making sure that
+they're actually enforced there are
+great solutions that are out there in
+the market that do all of those things
+but they're highly dependent on humans
+defining business rules for data
+management
+what's acceptable what's not acceptable
+even things like
+something called entity resolution
+matching
+joe smith joseph smith is that one thing
+or is that two things
+generally historically at the very least
+the technology solutions in this space
+have allowed him or who have required
+human beings to define those rules now
+we are seeing a pivot in this space with
+the application of newer technologies to
+allow for audit added layers of of
+automation uh uh in data management and
+so where you can see some use of ai and
+ml to start automating some of these
+decisions
+where you could in theory use
+ai to look at large swaths of data to
+understand when data is being used
+correctly versus when data is being used
+incorrectly based on things like was
+that was that transaction successful or
+was it not successful if it was
+successful that's indicated of of good
+data if it's not then that maybe
+indicates bad data it's a very very high
+level example of how ai could be applied
+uh to help kind of what we call augment
+uh some of the data management decisions
+so we are in the middle of a pivot uh
+with it within the software world away
+from truly human driven this gets into
+even things like data modeling like just
+relying on humans to build data models
+yeah where you can actually start to
+rely more and more in algorithms to
+define the data models another great
+example is graph
+graph is being level leveraged heavily
+within the data management space because
+it's really good at showing
+relationships
+right so relation hierarchies uh
+ontologies are are are intrinsic to data
+management right how do things relate to
+each other how do corporate entities
+relate to each other that's a perfect
+use case for a graph type application to
+go in and say ah here's how your data is
+all related to each other and we can
+actually maybe even take a first pass at
+some sort of a hierarchy here of a way
+of organizing your data that makes
+logical sense that doesn't rely on a
+human being trying to figure it all out
+so there's a pivot
+going on in this space a lot of the
+software solutions are moving towards
+more of these ai and ml driven
+infrastructures but they'll never truly
+automate uh the human factor here never
+truly get away from that so there will
+always be a role for some degree of
+human oversight when it comes to uh uh
+data management
+right it sounds like it all it also
+speaks a little bit to the trend of
+supervised versus unsupervised learning
+from ai models this understanding that
+you know some things we can
+you know um
+yep we can dictate the question or we
+can dictate sort of a a requested
+response
+and through supervised data but but if
+we're looking at unstructured data that
+we may not even we may be humble and say
+you know what we're not actually sure
+that we understand this data as well as
+we should maybe we should maybe we
+should leverage some algorithms to help
+us identify how we should be even
+interpreting this data so i think that
+that that speaks a lot to that and um i
+i think you know we're we're running out
+of time but this is a fascinating
+conversation what i really also want to
+get at is you know why are you so
+excited about this so why why are you
+you know why are you spending your time
+talking about data governance and
+mastery of data why is it something that
+you're personally excited about
+i i'm on a mission to make this easier
+for companies i i really really am i'm
+excited about it again getting back to
+what i was talking about before it seems
+simple but it's actually not and i've
+applied more than a decade of thought
+into this space and it's my mission to
+try to help people understand this and
+to help companies overcome a lot of
+these things
+i it's a sad truth that companies still
+struggle with with data governance with
+master data management but there are
+things that work there are things that
+we know work for example if you focus
+more on business outcomes
+instead of focusing on data quality i
+will i use when i was an analyst i used
+to ask all the time you know how will
+you know will you you succeeded how will
+you know when you fixed things from a
+data management perspective and i would
+hear people say all the time well our
+data will be better well nobody cares
+about that people care about business
+outcomes people care about more money
+lower costs or less risk right that's
+just one example of an approach that we
+know
+works so over the years through the
+school of hard knocks i've come to know
+what works and what doesn't work and i
+want to share that with as many
+companies and with many people as i can
+because when we do we know it can drive
+incredible value for organizations
+incredible and malcolm i really want to
+thank you for taking this time and
+spending it with me talking about data
+governance data mastery you know the
+motivations the the the journey that we
+run and and a little bit about you know
+how we should be giving respect to this
+world and to to the importance of it so
+thank you very very much continue making
+a great impact on our
+organizations and best of luck
+thanks so much michael really
+appreciated our time today thanks thank
+you
+[Music]

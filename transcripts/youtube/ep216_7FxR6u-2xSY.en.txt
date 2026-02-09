@@ -1,0 +1,546 @@
+we will overcome that barrier so we
+would want to
+answer the questions that the users are
+not asking
+or they don't even know how to ask the
+questions
+[Music]
+thank you so much for being on my show
+how are you i'm good michael
+thanks for calling yeah thank you very
+much for being here
+it's a it's a privilege to have you here
+a serial entrepreneur
+and you know i think that you are the
+definition of a sore entrepreneur
+with three successful companies behind
+you already all of them were acquired
+and some of them by companies that i
+that i value very much i think that i
+ice until
+until today i still use splunk on a on a
+pretty
+on a pretty regular basis and now you're
+on to your fourth startup and i'm very
+proud to be a part of the journey
+as a part of j ventures one of the
+investors in the in the company
+and so before we get to talk about what
+this latest company is about
+ramesh i'd love for you to take me back
+a little bit and and
+what is it about entrepreneurship and
+about building companies
+that really gets you so excited because
+now you're on to your fourth one
+so instead of calling it as an
+entrepreneurship
+i um let me just say that it was more
+about
+being passionate and being about trying
+to change the world
+in like a smaller way and when i
+was even before i was starting my first
+company
+i i thought there is actually a big
+product market gap
+in terms of what was happening with the
+evolution of the
+amazon web services were just started it
+was probably less than 50 people
+when i first interacted with them and i
+thought there is a big opportunity in
+terms of
+um say what the cloud could do for the
+world and
+how people can even get on to the cloud
+and
+coming from an experience and operating
+systems i started my journey in
+operating systems the first product i
+tried to
+add and build was the svr4 unix
+operating system
+i i spent about six years on unix
+operating system trying to add features
+make changes and then uh uh new
+new configuration things like clustering
+for ways so
+i come from the space um worked on os
+for about
+12 years or so across companies like sun
+microsystem storage deck etc
+and i thought there is an opportunity to
+migrate
+um enterprise applications from on-prem
+to cloud and also
+manage these applications when i first
+started
+selling the product to the customers not
+many customers even knew about aws so it
+was actually very hard
+for them to be convinced to even take a
+meeting
+not just as we used to partner with aws
+so even for aws sales reps
+and then we eventually succeeded we i i
+grew the business to
+about 40 million dollars yearly run rate
+and
+um cloud management platforms was the
+one that i created but it was
+less about being an entrepreneur trying
+to do something
+but but the idea was about being
+passionate about the technical problem
+and trying to
+solve it so when you talk about you know
+changing the world
+and and your in your capacity throughout
+these companies
+you it sounds to me also that while
+you're while talking about that you're
+all you're also excited about the
+technologies that you're building right
+these are things that you're personally
+curious about and personally passionate
+about
+yeah yeah so so all of these companies
+are very technologically centric
+companies uh
+think of it as an ip centric companies
+in a very positive way not in a negative
+way
+and i'm very passionate about using the
+technology to make a meaningful change
+for somebody and even in the second
+company i thought um
+we could use nlp in a completely
+different way to
+create a conversation and 2014 was when
+we applied for the trademark on
+conversational analytics
+and then that was the company that i had
+created and then we we were able to
+create a meaningful impact
+on enterprise customers of course we got
+an acquisition offer much early in the
+cycle
+which we could not refuse so we got
+acquired by splunk
+but um their conversational analytics
+meaning it was less about nfp we did not
+use any
+open source energy packages no stand for
+nlp no
+uh no other nap so we had we built it
+grounds app
+most of the code was actually done in
+assembly so
+times we we were probably only one of
+the four pi companies in the whole of
+bay area
+who were working on smg so we wanted to
+give that
+experience speed and performance on the
+nfp
+now i don't think it could actually do
+that but um
+yeah it is about being passionate to
+that level
+that that's just that's just incredible
+so passionate to level
+one of four or five companies working in
+assembly out of the bay area in 2014
+and that's that's just incredible so
+give me you know a spectrum of
+of technologies that today in 2020
+you're you're personally excited about
+i'm
+i'm very excited about nlp and i and i
+focus a lot of my time at stanford on
+artificial intelligence and the
+different applications that it's going
+to
+and but but i'd love to pick your brain
+on the different things that you're
+particularly excited about
+as we enter a new decade now um
+and as any entrepreneur has to do i'm
+very focused so
+it is not about ai in general but
+application of ai to solve a very
+specific problem
+in the current company in market we use
+ai as an architecture
+to give a play button for the enterprise
+data
+and also to solve a big problem in the
+bi end-to-end
+i'll explain what do i mean by um a play
+button for the enterprise data
+so think of it as we are bringing two or
+three different things in ai together
+to provide this benefit number one is
+the google like
+natural search experience and it is a
+lot more than
+nlp and it is about
+bringing in a natural search experience
+coupled with ambiguity corrections
+coupled with contextual search
+recommendations etc
+it means that when a customer is
+searching for sales in alabama we have
+to figure out whether alabama is a
+county or a city or a state etc so all
+that is done by us
+and second we understand not only the
+query we answer that instantly
+but we also get the raw data and apply a
+series of machine learning models
+and even though there are a lot of
+platforms where somebody can drag and
+drop the models and analyze
+but it doesn't happen for every
+enterprise user so think of it as a
+coffee store manager of a large uh chain
+that store manager cannot deal with all
+these models so we
+do this ml workflow ml operations on the
+fly at that point in time
+typical turnaround time about 300
+milliseconds
+wow and and we actually choose the
+machine learning models we do the
+feature parameter identification but
+some of this can happen in an offline
+basis too
+and then finally we use energy to
+produce english
+and then narrate it as an audio visual
+so
+i assume that a business user is on the
+go and he asks a question
+how many chairs do i order um say for an
+upcoming season so think of it as a
+retail customer and
+simply gets an audio visual on the
+mobile phone and that
+starts talking saying that these are the
+number of chairs that you need to order
+but along with the chairs you need to
+buy
+tables also because 38 of the customers
+buy tables along with the chairs so this
+is something that you need to look at so
+so that intelligence we try to bring up
+and then present it at that point in
+time so that is what we are doing at
+uh and we have built the product with ai
+as an architecture rather than
+as a feature so one of the things that
+i'm always curious about is focus and
+one of the things that you mentioned
+um when i met when i talked about how i
+enjoy you know
+exploring the artificial intelligence
+field at stanford
+you mentioned that as an entrepreneur
+you enjoy
+and as a ceo you enjoy taking ai into an
+application level
+and solving a real problem and not just
+with the
+not just with the artificial
+intelligence slogan but actually one of
+the applications of it so i'm curious
+within a software like like mackay and
+within a company
+that seems to be doing a lot right
+you're solving a lot of different
+problems in one
+how do you maintain focus on which are
+the really crucial problems to solve
+especially as you're just starting out
+and you're just exploring what your
+users are doing
+yeah so how do we identify the problem
+is
+um number one first trying to identify
+what is the business scenario
+so the business scenario or the context
+is business intelligence
+and business intelligence you define the
+persona and then you identify what they
+are and then try to do that say for
+example in this particular business
+intelligence as a market category
+there is no use of an image recognition
+just as an
+example and hence we don't do anything
+related to image recognition or image
+identification even though it is ai
+but it is more of understanding of data
+understanding or uncovering the
+intelligence that is in the data
+automatically to the user so that is a
+big business goal
+and the long-term vision of us is to be
+a personal business companion
+of any uh enterprise data as long as the
+technology can fit into the scope and
+the use case
+we try to stay very focused on that so
+if you're looking you know 10 years in
+the future about where
+how businesses are utilizing data to
+you know leverage both their day-to-day
+activities but also their forecasts and
+and their and and as they scale where
+are we today
+and where do you think the world will be
+in 10 15 years or so
+in terms of where the world is as of now
+or as of yesterday without makai is that
+a user has to uh or the entire data
+industry is in this paradigm of what you
+ask is what you get
+so i assume that the business user wants
+to know something
+say for example somebody is asking a
+question is how much was the california
+wildfires this year
+okay it is actually very hard to get an
+answer but you see uh can get an answer
+but
+we have finalists looking at various
+information writing a sequel etc
+but nothing more than what the user is
+asking and
+i envision that pretty soon say us or
+maybe other companies that are going to
+come up in the similar space
+we will overcome that barrier so we
+would want to answer the questions that
+the users are not asking
+or they don't even know how to ask the
+questions say for example
+um in this scenario of the california
+wildfires we may tell that
+the wildfires in 2020 has been little
+over 15 times
+of the last year or 2020 wildfires
+were greater than the sum total of the
+last four or five years
+so so that is an intelligence that the
+user doesn't know and then
+we we could tell that and eventually um
+what we are working on already is to be
+able to produce this intelligence
+without any questions at all so i assume
+that we will become a click less
+and and also search less product so i
+assume that if i know the business
+metrics and the kpis that the users are
+interested in
+we would want to produce intelligence
+even without them asking any questions
+and we do that to some extent already
+and that is how i think enterprise
+intelligence will move it
+so what have you learned over the past
+three companies that you've built
+about the life cycle of a company so
+as either as an entrepreneur or as a
+leader or
+or business-wise what are some really
+key insights that you've generated for
+yourself as you're now approaching or
+you're in the midst of your fourth
+venture
+as an entrepreneur and as a founder of
+the companies one very important thing
+to figure out
+is is there an existing market that we
+are going after or are we creating a new
+market
+new product category say in our case it
+is business intelligence as a
+market and and there are budgets and the
+customers have budget cycles and then
+it means that there is also a
+competition there is a legacy
+competition or an incumbent vendor and
+it is very important to identify the
+difference between
+these two existing or new because the
+market positioning
+customers budgets everything depends on
+them if you're trying to create a new
+product
+completely new category it's a longer
+sales cycle and customers don't have
+budgets they can only budget for a poc
+this year
+and then budget for them for the
+complete implementation in the next year
+or two years so
+so that is actually the first one that
+we need to decide
+and the second thing is what is the
+value add for a customer
+right you can build great but if it
+doesn't deliver a customer value
+again customers may not perceive a value
+in there
+and third is that can your product stand
+up on its own
+or does it need an ecosystem of other
+things
+that need to push the adoption
+so if somebody can understand these
+three things
+it's it's easier to say were there any
+challenges that kept presenting
+themselves that
+almost seemed to get easier and easier
+with every venture but
+they were the same in nature so the same
+challenge but you were able to tackle it
+with more and more experience
+it is not always this same challenge
+because if in case you see a challenge
+most of the times in the next venture
+you are better prepared and you don't
+see the same challenge it is probably a
+different challenge that you will
+encounter and in this
+company if i had to tell what is the
+technological challenge that we had
+to overcome was the asynchronousity of
+this machine learning models these makes
+some of these models can take a long
+time to execute
+and if i have to take the input from the
+search and then
+instantly produce the video 300
+milliseconds some models may not respond
+in that time
+so we had to build the audio or a video
+engine that works in a synchronicity in
+nature
+so it means that as the video starts
+playing we might start appending content
+to it
+so the progress bar can go backwards
+and not just forwards because the total
+time increased
+but um but we try to make sure that that
+experience is
+seamless and also uh present the user
+experience now
+very easy matter so yeah what what are
+some other
+interesting problems that you're excited
+about so
+obviously a lot of it is is in the world
+of what maca is doing now but
+what what are some other you know big
+picture problems that you think are
+worth tackling
+if for example young entrepreneurs from
+stanford already 200 are listening to
+this
+um i think there is a big opportunity in
+the educational space
+um coming from having built a company in
+educational space and
+in my select year or the third company i
+see that there is a lot more bigger
+opportunity
+the existing platforms and solutions are
+a bit monotonous
+and they don't personalize the content
+they don't personalize the delivery
+there is a lot of opportunity and as an
+entrepreneur somebody would also may uh
+have a guarantee that people would pay
+for this uh
+pay for the products that they consume
+so
+education in my opinion is on the top of
+the funnel
+and after that i think insurance and
+healthcare i think
+could go through a lot of uh change uh
+assuming that the
+governments don't stop um some things
+coming into the ai
+space 100 i mean obviously with
+healthcare we've seen a dramatic
+acceleration of change and adapt and
+adoption
+in 2020 and i myself am also a part of a
+hippo insurance and insure tech company
+based in the bay area so i can see
+firsthand that the revolution that
+insurance is going through
+in in these past few years and it's just
+remarkable ramesh
+thank you again for both for coming on
+on the show and sharing your insights
+but also for allowing
+and myself aj ventures to be a part of
+your hopefully your your new success
+story
+uh and it's still it's remarkable i
+think
+for me for me to think of sitting in
+front of somebody who's done
+it three times already successfully
+going on the fourth one
+but at the end it's not about the money
+and it's not about the fame it's about
+being passionate about the technology
+and passionate about about improving the
+lives of either people or companies or
+or
+or people that are that are working
+their day-to-day to ask the most
+meaningful questions
+and i think that it's i think that it's
+really remarkable before we leave
+i have to ask you the most important
+question which is three words that you
+would use to describe yourself
+and why those three words um
+so so the three words
+just thinking on the fly so number one
+is that i'm very passionate
+about trying to a problem whether it is
+working say 12 hours 14 hours a day um
+and the second thing is i'm very
+compassionate to the team and then i try
+to
+think from their perspective to
+understand them and then make sure that
+i help them i encourage them to to get
+things done
+and the third is fun part of it making
+sure that it's a fun experience every
+day
+i love it i love it ramesh thank you so
+so much this is so great best of luck
+with the company
+and and i look forward to keep it
+working with you over these next few
+years
+okay and then thank you for asking all
+the good set of questions and i
+appreciate
+all the involvement and then trying to
+do this and and
+good luck with your ventures thank you
+very much take care okay thank you
+you

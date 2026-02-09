@@ -1,0 +1,650 @@
+and this is another thing that i think
+most of us at the street don't recognize
+that in the last 30 years there is
+a big revolution in surgery that
+most of the procedures are transforming
+from open surgery which are the surgeon
+is opening the body and performing the
+surgery to what's called minimal
+invasive surgery
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitech and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders today i am being joined by dotan
+asshalman the co-founder and cto of the
+tour and we're going to be talking about
+surgeries and ai
+dotan is cto and co-founder of a leading
+surgical intelligence platform theater
+and has a rich background in
+entrepreneurship machine learning
+technologies and software engineering
+prior to co-founding theater he was
+co-founder and cto of computer vision
+startup ion and previously served in the
+elite israeli 81 unit where he spent
+several years as a computer vision team
+leader welcome to than
+[Music]
+astalman welcome to 20 minute leaders i
+am really genuinely excited about this
+episode we're about to have how are you
+i'm good i'm good thank you for having
+me here
+you know the intersection of ai
+technology in general and society
+fascinates me beyond what words can
+explain whenever i meet an interesting
+company that is doing yet again another
+interesting intersection of these two
+ideas you know that's just amazing to me
+and i'm really excited to now dive deep
+into the world of how artificial
+intelligence is playing in the world of
+medicine and surgery specifically with
+the actual surgical operations is
+something that we can all imagine how
+complicated cumbersome and sometimes
+disgusting it may be but thinking how
+technology may be revolutionizing that
+aspect i'm really excited but before we
+even get to that walk me a little bit
+through your life because you've worked
+on a few projects that have a common
+thread of doing good for the world so
+tell me a little bit about yourself
+so my background is in computer vision
+mostly i'm a computer vision researcher
+and research engineer and manager
+i spent around almost seven years in idf
+intelligence in 81 units in israel
+then i
+started my journey in entrepreneurship
+and startups i was like a bit out of it
+a
+consultant for many startups in israel
+specifically on computer vision and
+always my passion was to
+know how to like if you're looking back
+in my background in idf so we we did
+good we did like we did good by doing
+bad to bad people
+uh using technology and i try to do
+something that is more purely good let's
+say and
+ion is a good example of it a
+lot less of a good business but really
+really good uh
+something that can be
+very impactful and i think that in in
+theater we find like the common ground
+of both a very big big and strong
+business model combined with the
+positive impact that we can provide
+and so just in two sentences what you
+did with ion you were you created a
+safety solution for swimming pools
+trying to detect drowning using
+underwater cameras obviously
+using the computer vision
+experience that you have from before and
+and you know every time we hear about
+another drowning occurrence in the
+newspaper the heart breaks and obviously
+this is a huge problem that you tried
+solving tell me a little bit about about
+uh you know theater and and what your
+what your understanding is of the
+medical space especially what is the
+pain point that surgeons may be having
+today
+yes theater started from from the need
+and not from the technology and we saw
+that
+actually from a personal experience of
+my co-founder tamir that he is not a
+surgeon but a physician and he diagnosed
+two
+different uh people around the same time
+with the with the
+uh the need for for with an appendix uh
+uh
+like problem and they both knew that
+they needed an appendectomy
+and they both went to different
+hospitals around new york
+and they got a completely different
+treatment one was at home 12 hours after
+in recovery and the other almost died
+like three times and were like more than
+seven days in hospital
+and this is like really
+a
+resonates to us like how much
+of a variability there is in healthcare
+in general and specifically in in
+surgery care
+and we started to investigate this
+feeling we saw that it wasn't just like
+one random example this is something
+that happening all around there are huge
+differences in performance and this is
+like
+causing from the
+the basis of how surgery is being
+thought and performed
+er and this is this is the problem that
+we try to tackle we wanted to reduce
+variability in surgical care
+okay so you're talking about variability
+in surgical care the translation the
+direct translation of that is life and
+death right there's variability in a lot
+of things in life but here we're
+actually talking about you know whether
+somebody will will successfully come out
+of the surgery and live a happy healthy
+life versus potentially not and at the
+end whenever we have humans in the
+middle we have variability and that's a
+that's a common understanding but please
+go on i think i interrupted you
+no so i think that when you're looking
+at what is like what is causing the
+variability you are seeing that the the
+main cause of availability is
+decision making and this is something
+that i think most of
+us as patients doesn't understand how
+like how many decisions surgeon needs to
+take doing even like the most
+common and standard procedure like an
+appendectomy or
+a cholecystectomy
+and
+and i think this is one of the amazing
+part that
+decisions are not really being
+uh
+there isn't all there isn't a any
+information that being transferred in
+horizontal matter there is only your
+experience maybe an experience of the
+mentor that that help you
+during your residency but there isn't
+any
+anything that is structured that you can
+learn best practices from there aren't
+best practices in surgery oh really
+right maybe what you're actually
+what you're actually saying is that by
+by horizontal understanding you're
+meaning that there is no network effect
+of you know the more surgeons you have
+the more knowledge you provide to the
+next surgeon because it's it's very much
+siloed it's very vertical where you're
+learning from your superior and your
+mentor but you're not learning from your
+peers in in a proper way right and now
+multiplied by 400 years of modern
+surgery and you are getting like huge
+differences
+in in the approaches
+right
+yeah
+and today when you are talking about on
+like how best practices are defined best
+practices are defined by asking but by
+adelphi consensus so you are asking like
+the 10 most prestigious surgeons what
+are the best like the best way to
+approach a specific situation and they
+are voting on something and there are
+there is some decision out of it but not
+nothing that is really
+grounded by statistics and this is
+something that we wanted to change we
+want to to bring science into surgical
+best practices and this is what theater
+like this is in general
+the mission of theater
+and and how i'm as a computer vision
+energy engineer
+and researcher and entering this uh this
+domain is
+by seeing the huge opportunity that
+there is in surgery
+that and this is another thing that i
+think most of us at the street don't
+recognize that in the last 30 years
+there is
+a big revolution in surgery that
+most of the procedures are transforming
+from open surgery which are the surgeon
+is opening the body and performing the
+surgery to what's called minimal
+invasive surgery which are all like
+laparoscopic like all of the ex scorpios
+of the world or robotic surgery which
+means basically that the surgeon instead
+of opening the entire body they are
+doing like two or three
+or up to four
+holes small very small holes in the body
+they are pushing a
+camera and
+a two more holes for the for the tools
+and the entire surgery is being
+performed by the surgeon looking at the
+screen instead of looking at the
+specific patient and then this is
+obviously screaming to us computer
+vision computer vision computer vision
+so when you're looking at like what are
+the decisions that are impacting the the
+outcome the decisions are already being
+captured by the camera so yeah it's
+basically like you're saying this isn't
+this is like a lost opportunity there's
+so many decisions there's so many
+information
+that just being being lost and staying
+there in their world
+and and only thing that like the first
+thing that you need to do is like just
+press the record button and like start
+start to understand better what happened
+there and this is where i think this is
+like
+well a
+like starting point for us that we
+understood that there is a big problem
+there is a big need and also already big
+opportunity uh
+that the hardware is already exist but
+nobody is doing anything with it i love
+it okay so before we get to the
+technology which is the really cool part
+here
+consumer experience perspective you go
+to the surgeon
+what do they say when they're thinking
+of this idea of of bringing in ai to use
+this do they look at this as a black box
+as a competitor because you're talking
+about 400 years of modern surgery very
+horizontal where they're being taught
+that you know their intuition their eyes
+their brain their hands are what should
+guide the surgery how are they reacting
+to this idea that a lot of the decision
+making is now going to be replaced by
+technology whether it's through theaters
+or through somebody else
+so when we started it as an idea so a
+lot of like eyeballing and nobody
+understand how
+how it is going to be like but today
+right much more common
+we need to remember that there are
+a
+new generation of surgeons that uh used
+to be everyone is a visual learner today
+you don't like video is overtaking the
+entire internet right and
+even like in this interview we are doing
+using video
+and those like this is a generation of
+like youtube netflix surgeons also wants
+to
+uh to
+consume their knowledge uh using videos
+so it's like more common to them
+and we are seeing that they like huge
+transformation from
+three years ago that we we needed really
+to find the early adopters today that
+everyone understand that
+there are so many knowledge that we can
+gain from surgical videos that
+you can't like leave yourself out of
+this uh this next evolution
+okay so so let's dive deep into this
+revolution from theotor's perspective
+what are you using computer vision for
+in in the realm of surgery and how is
+this actually going to help make the
+surgeries better in the end
+yeah so we call it surgical intelligence
+this is a term that we have coined and
+we are happy to see it
+being taken from like other
+other companies and conferences
+and
+it's always cool to being asked by
+a customer if we are doing surgical
+intelligence which is the world that we
+that we defined uh
+amazing
+so the basic like the basic of statical
+indulgence is understanding best
+practices but we are we are
+doing
+a stepwise approach to uh providing our
+services
+at the basis at the core of the
+technology we can take a surgical video
+that can be
+very long could be like six seven hours
+long
+and we are we are breaking it down to
+the like the most common uh
+mom we call it moments the most common
+moments in the surgery so we are
+breaking into the key steps
+which are the the things that the the
+specific actions that the surgeons are
+doing
+events that are more in most cases like
+adverse events uh things that shouldn't
+happen but happening there in the
+surgery key milestones that you need to
+a certain needs to get to and we can
+detect whether or not you get to the
+specific milestones
+and the decision-making junctions the
+point in time of surgery that a big
+decision uh needed to be to be made for
+like one one or two options or maybe
+maybe more than two
+and think about it like on based on this
+a
+basic
+layer of
+extraction we are
+completely
+converting this unstructured wall
+footage to something that is much more
+structured
+and this is allowing us to provide a lot
+of services the first service that we
+provide and it always like very easy to
+er to understand is a surgical summary
+so you just got out of six hour long
+procedure you want to review your case
+you don't have six hours to to watch it
+but if what about like just just like in
+soccer you can just just watch the goals
+and like the main events
+so we are we can extract a surgical
+summary of like three to four minutes
+out of the
+uh the entire surgery that help you to
+review your case very quickly or maybe
+not you maybe maybe your supervisor or
+or a colleague that can can help you
+and provide you with some feedback
+so this is this is the start of it and
+we are starting to
+build an entire ecosystem around
+this core technology that help surgeons
+with any step of their daily workflow so
+it's from
+a pre-surgery you need to prepare for
+your surgery tomorrow what about us
+showing you similar cases similar
+specific events that will help you to
+be prepared to this not just for
+the causes tectum that you have to know
+but on the cause stack to me with the
+someone with spiral abdominal surgery
+that they have as
+obesity like you we have like the
+specific characteristics and we can show
+you like five to ten minutes of the like
+the main things that you need to be
+aware of so this is pre-surgery during
+surgery we are providing live stream of
+the video currently we are not providing
+any a
+although we techno like in the
+technology
+from technology perspective we are
+already detecting everything real time
+we are not providing any indication to
+the outside this is uh due to regulatory
+reasons at the moment but of course this
+is our our goal we want to help surgeons
+uh not by providing feedback about their
+decisions but helping them when they are
+like in the main key points that they
+need to they need to make the decision
+during surgery but we are providing live
+streaming to the outside and helping
+surgeons
+uh to get advices from from colleagues
+and post surgery
+the
+summary of course
+analytics on top of it
+and
+also helping with a documentation of the
+surgery
+and then think about it if you have a
+once you have this all this analysis for
+one procedure
+you can provide
+other views that can help you in a
+department level in a personal level
+maybe like seeing your weekly
+performance and trends
+seeing the department's performance
+bottlenecks and everything is very
+actionable and this is basically what we
+are what we are providing on top of this
+basic
+uh
+quality of extracting those structure
+out of the surgical videos
+amazing and obviously you know in in the
+pre-surgery in the poster regime it
+makes perfect sense and you know i'm
+already thinking about you know uh
+drawing the parallel to the briefing
+sessions of the israeli air force or
+through coaching sessions out post you
+know soccer games where you're sitting
+and you're either preparing by watching
+previous games of the team or you're
+debriefing later to watch what went
+wrong and what moves worked didn't work
+and it makes perfect sense and i can't
+believe that it's not happening yet i'm
+yeah go ahead
+no it's amazing that you you know you
+have any nba player have it but like
+less of an important job like surgery
+doesn't have any any of those
+and they understand like surgeons
+understand that you can't like you need
+to if you want to improve
+you need to to measure and if you want
+to measure you want to capture and this
+is the thing like getting back to the
+like the like the main question if you
+are going to a surgeon and tell you i
+want to start capturing all of all the
+things that you are doing without
+providing providing anything in return
+so they are getting defensive
+but
+for them they want this analysis they
+want to they they know that if you like
+if you can if you if you're not
+capturing you can't really measure
+anything
+pause with me dwell with me for another
+minute on on the on the during the
+surgery because obviously this is a you
+know the most interesting piece
+we're talking now about you know the
+live streaming and getting inputs from
+the outside
+i mean what is the vision here at the
+end in terms of of actionable insights
+during the surgery
+and is this something that you know
+what's the barrier is this a
+technological barrier or is this a
+consumer behavioral barrier an adoption
+barrier
+so it's all of the above i think it's uh
+there is the
+there is a regulatory barrier that we
+can we can put aside this is a process
+that needs to be made
+i think on technological uh perspective
+so although we we are
+running everything in real time we have
+we don't have the same with the same
+performance as we have post surgery of
+course
+and i don't and even if if we are we we
+need to get a certain
+level of
+confidence that we can really
+do like provide this feedback in real
+time that i don't think that we are
+there yet but we are in the process to
+it
+and the third you you cut it right i
+think that like there is a
+a consumer adapter even adoption a
+barrier that
+and and this is actually the connect to
+even what we are doing right now is kind
+of like a spaceship for a any medical
+profession professional because
+healthcare was so like so much in the
+past
+that uh just providing a
+what we are providing right now is like
+a huge huge advantage advancement for
+them so providing
+a
+really like ai assisted
+assistant doing surgery is
+even more than like a specific
+technology
+and you need you need the the surgeons
+to be involved in the process and this
+is something that we are doing right now
+we are
+involving this is how they feel they we
+have our customers
+they met us before surgery they met they
+are meeting us after surgery they are
+building their
+uh
+um
+knowledge they are building their uh our
+like relationship with our system
+that eventually will get get them to
+like a specific point that they can
+accept the feedback that we are
+providing during surgery and even even
+if the technology was ready i don't
+think that we were able to deploy it in
+this year because of those those
+problems you need to like
+the surgeons in the courses
+fascinating and and and i have to put
+the context of the whole conversation at
+the end that we're talking about an
+industry that is all around surrounding
+life and death this is not just you know
+a
+an adoption for better for for better
+use this is literally going to change
+the the sphere and and i just love the
+the understanding of how vertical the
+the whole learning environment is and
+improvement where you have 400 years of
+modern surgery behind you that that has
+been this way but but when we're missing
+out on the whole horizontal layer of of
+this expansion and this and this
+knowledge sharing in the time thank you
+for the amazing work that you're doing
+with well theater thank you for the for
+the great work that you're doing with
+with ion and uh and and i just love the
+the usage of computer vision for these
+types of problems i have a few more
+questions not about theater are not
+about surgery but about about you uh i
+want you to take me back to childhood
+something that really fascinated you
+before computer vision before the idf
+it was always technology around
+technology i think i always like to
+build stuff
+mostly hardware actually and maybe maybe
+i'm not that old but maybe because of my
+age so less less of a software uh
+stuff
+and
+i think yeah mostly like
+build stuff maybe like break stuff and
+try to build maybe them
+that that's muslim and something that
+inspires you today
+i'm
+so
+so it would be
+too easy to say theater but i think in
+general i'm always inspired by
+any
+so i'm really like like a product driven
+or like impact driven person
+and i'm i'm an engineer as well but i'm
+always fascinated to see
+how technology is being used for for
+positive impact in healthcare in
+agritech in many fields but this is like
+the main
+the main passion for me
+amazing and what are three words you
+would use to describe yourself
+oh well
+um
+i don't know i don't know to answer that
+um i
+i think i don't know if i can maybe i
+can do like in in
+in a world in one word it would be like
+a contrarian
+i love it i i absolutely love it and
+i'll take it
+i think that that's it that's a great
+description and i really want to thank
+you for
+for coming on and sharing with me these
+20 minutes um i i'm living very very
+inspired so thank you very very much and
+continue making a positive impact and
+stay safe and stay healthy
+thank you
+thank you for having me thank you
+hey

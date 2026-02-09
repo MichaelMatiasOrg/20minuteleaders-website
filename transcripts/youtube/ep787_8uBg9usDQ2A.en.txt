@@ -1,0 +1,649 @@
+majority of data in the world actually
+still sits in these repositories and so
+that's really the vision of how do we
+liberate this stuff or mobilize this
+stuff so that you are free to build it
+wherever you want now freedom comes into
+place though right you have to make sure
+that you're doing the proper things to
+it right that you're securing it that
+you're managing it so when stuff breaks
+or go sideways or whatever else
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+welcome to 20 minute leaders today we're
+talking about data mobility with gary
+hagmuler the ceo of archeon
+gary is the ceo of archeon the world's
+first true data mobility platform
+gary is a proven ceo who has created
+over 7.5 billion dollars in enterprise
+value through two ipos and four m a
+exits over his 20 plus years in the tech
+industry gary holds an mba from the
+marshall school of business at the
+university of southern california where
+he was named chef fellow as well as a
+bachelor's in business administration
+from arizona state university as the
+father to twin teenage boys he is
+clearly experienced in project
+management and negotiating skills
+you know we're talking about software
+engineering data pipelines and
+entrepreneurship at the same time this
+is the you know this is my world this is
+what i wake up in the morning for so
+thank you very very much for being here
+okay you know your entrepreneurial
+career your executive career is spends
+across a variety of organizations you've
+done
+fascinating things but but really in
+this 20 minutes i want to focus with you
+on picking your brain about this data
+mobility question of the world data you
+know
+mark andreessen said i think a decade
+ago software is eating the world but
+really it's all about data and this is
+how we make decisions
+from government to social to um the way
+we build companies and so yeah gary
+thank you very much for being here yeah
+of course my pleasure
+well data in your perspective choosing
+to go on another entrepreneurial
+endeavor yeah with archaean why data
+mobility what is this thing that you
+have with data
+well no look it's a great question and i
+love your you know software will eat the
+world analogy earlier the truth is that
+software all runs on data right and so
+if you don't get the data to the
+software you know the world doesn't run
+so the the the back story here is my my
+coming to archimonde and trying to
+figure out how to mobilize data uh and
+get access to stuff is really rooted in
+my background right which over about 10
+years or so of doing machine learning
+and ai that was you know building
+applications that were sold to financial
+services firms and all these large
+companies what i became aware of very
+acutely was the fact that all of these
+folks had lots of really interesting and
+valuable information locked up in their
+transactional databases
+didn't really have a good way to get
+there and it struck me it's like super
+odd because i'm like you know these
+transactions are the lifeblood of the
+businesses that they were running and
+yet they were relegated to seeing them
+on like let's say a a weekly or a
+monthly or some other you know batch
+periodic sort of update and for me the
+thunk was like look all the value or
+much of the value in that data is gone a
+week after the transaction is over right
+because think about all the things you
+can do very close to the to the point at
+which somebody interacts with your
+business
+so that's really the genesis of why i
+decided that archeon was the right move
+here because frankly what the world
+needs right now is the ability to tap
+into data in real time without affecting
+those systems and making sure that the
+people who can
+you know build applications or machine
+learning or whatever it is that that
+they're going to reap value out of that
+data um have access to it in real time
+and that's basically what we do and um
+it's been a it's been a great journey
+for the last couple of months as we uh
+as we start spreading the message
+phenomenal and so if we're looking now
+at
+this the question of why hasn't it
+happened yet right because this is an
+important question we have to consider
+and i'm thinking obviously data is
+running everything everything is about
+data and and obviously i want to have
+visibility transparency and integration
+with all the different data points
+especially you know those more obscure
+ones unstructured ones etc
+why are we in 2022 and it's still a
+problem that's not solved yeah so i
+think it breaks into two basic
+categories right so the category one is
+um really a function of the systems
+within which that data lives um and
+category number two is really a function
+of the nature of of the transactional
+data and all that so let's start with
+the first category right so while you
+and i michael are kind of
+entrepreneurial and we think of the
+world as like all the things that it
+should be as soon as you build one of
+these companies and and you know let's
+say you build like an oracle or whatever
+else you kind of have an incentive to
+keep the data in there as much as
+possible right because that enhances
+your value right so thing number one is
+there's a bit of a business driver or a
+structural sort of driver that has
+successful companies that build um
+repositories want to keep the data in so
+that's issue number one
+issue number two is is a little bit more
+prosaic right and that is the fact that
+you know when you have a transactional
+database you want to make sure of a
+bunch of things number one you can't
+afford to have that thing slow down
+right so you can't hammer the thing on a
+regular basis right
+the second thing is you want to make
+sure that it's highly secure right you
+can't have people dinking around in a
+production database because it's going
+to affect any number of things
+downstream right so there's some
+structural reasons why you want to
+create separation between the
+transactions themselves and the
+downstream things that will end up
+consuming it so when you put those two
+things together it really forms this
+thing that has helped perpetuate the
+silos that we all
+talked about and write papers about and
+all of that sort of thing right but but
+in reality unless you have something
+like which what archeon is which kind of
+sits just outside the production systems
+and taps into the logs
+and then reassembles things into kind of
+a database without necessarily the
+repository
+um you're not going to be able to get
+out those things in a way that works
+both for the structural elements of the
+company's motives as well as the
+security and performance characteristics
+that i t groups require right so so walk
+me through the process if i'm right now
+leading an organization and i have a
+bunch of transactional data it can be
+any organization any any business and
+and you are coming and you're trying to
+shine light for me as to what i may have
+blind spots and what i may be missing
+from not being able to leverage on this
+data that our kiana is able to put
+together what is sort of that pitch
+looks like
+well so i mean at the pitch basically
+looks like what my customers used to go
+through right so when we would build
+these applications all the business
+users or the data scientists or you know
+the data engineers would want to see
+this stuff come out in real time right
+because it would make their models more
+performant and accurate and everything
+else like that but what would wind up
+happening is their it groups would say
+like hey that's great but you're going
+to impact my production system you can
+have it maybe weekly in some kind of a
+batch or monthly which was a really
+common sort of thing
+so the pitch for us now is is kind of a
+two-step pitch number one we spend a lot
+of time partnering with the systems that
+consume our data so think all these
+cloud repositories snowflake data bricks
+you know the list is actually quite long
+we've got a number of partnerships right
+and so
+we work with them because they have an
+incentive to help these customers of
+ours or our joint customers get access
+to the data because they're the
+platforms that they will interact with
+um on it so they go to the data
+scientists or the data engineers or
+sometimes even the business users and
+say hey you know we have this way that
+we can go off and help you get access to
+these transactional things so you can
+build these really cool
+you know applications or whatever around
+them so then those folks get interested
+in it and there's a process that goes on
+within the larger organizations uh our
+customer organizations
+where they go to their the people who
+actually own the data repositories
+um and then it becomes an education step
+for us where we show them how we're not
+going to impact their
+um you know their systems and our
+security profiles actually far superior
+than anything that they might be able to
+do
+um and really what happens at first is
+there's kind of an adversarial hey don't
+touch my systems
+sort of stance that flips very rapidly
+to like oh hey i don't like writing
+scripts and batch updates and that sort
+of thing anyway so this seems like it's
+really going to solve a lot of those
+problems without impacting my world and
+they become advocates pretty quickly so
+that's kind of this this motion that we
+see in most of our sales cycles
+and the interesting thing is
+the id groups actually want to becoming
+our biggest champions shortly after the
+first implementation goes live because
+now a lot of the people who and nobody
+likes to write scripts by the way so a
+lot of the people who were in the it
+groups writing these query things that
+would go against the database break all
+the time would would turn around and say
+like i don't have to do that anymore
+this is great i can go off and do the
+things that i used to like to do before
+somebody made me go write scripts and
+other stuff like that so they wind up
+being our biggest champions for other
+people who have these sorts of needs
+incredible okay and if we're looking at
+uh if we're looking today at the the the
+bigger world and where we're moving with
+data beyond archaeon you know how is how
+is this going to impact the way that we
+are able to make sense of transactions
+of logs of data that is happening that
+right now we don't have access to well i
+look i think that's that's the really
+the end goal here and so you know from
+my perspective and from our company's
+perspective our view is
+um data it really goes back to the
+concept of mobility right you should be
+free to build whatever application or
+machine learning
+use or ai
+whatever it is in whatever
+you know uh platform makes the most
+sense for the application you're trying
+to build right and so you can see that
+happening today there's certain cloud
+vendors who are good at machine learning
+there's others that are good at bi
+there's others that are good at real
+time but our view is it doesn't matter
+right whatever your use case is go pick
+the right choice for you right the data
+should just come to you right um and it
+shouldn't matter where it's from like so
+today there's a lot of decent solutions
+if you want to get things out of let's
+say salesforce or you know servicenow or
+other things um but those things are
+already built to kind of give you the
+feeds right they're kind of event-driven
+sorts of things but the majority of data
+in the world actually still sits in
+these repositories and so that's really
+the vision of how do we liberate this
+stuff or mobilize this stuff so that you
+are free to build it wherever you want
+now freedom comes into place though
+right you have to make sure that you're
+doing the proper things to it right that
+you're securing it that you're managing
+it so when stuff breaks or go sideways
+or whatever else right you need a
+platform to basically manage that that's
+what we build and my view is look if we
+don't build a management layer over this
+sort of thing
+you're basically just going to change
+the profile of the resources you have to
+hire in these it groups into ones that
+build the pipes into this army of people
+that has to now go and debug stuff and
+you know make sure stuff is running
+and that feels like you should be able
+to very easily
+build a layer that will control that and
+make it pretty seamless that's what
+we're doing and when you do that you
+then get to a world where you can dream
+the big thoughts and you can come up
+with interesting things you can you can
+experiment better right i mean that's
+like half the battle that we were seeing
+with the the data science teams of our
+customers they wanted to go off and be
+creative and they would be stuck
+figuring out how the heck do i get like
+the data to get creative in right so
+that's kind of the big vision of what we
+want to do here and i think that
+creativity then drives lots of business
+value and lots of innovation
+i love it you know i spent some quality
+time as a data engineer and data
+scientists in various organizations and
+i remember you know that that thrill of
+being able to finally have my data set
+and being able to play around with it
+only to two days later saying oh no i
+i'm now i'm now i understand there's
+this whole of the world that i don't
+have access to let's go on this
+two-month project to get access to it
+just so that i can be creative
+and it's a you like come join my sales
+team that is exactly good that is
+exactly the pitch right and that's
+actually what the software does too we
+have this thing that we call inference
+where what happens is when you update a
+thing in a transactional database
+sometimes it goes to multiple different
+tables and there's all these interesting
+business rules but what's really lacking
+in a lot of the um
+the pipeline creation mode today is the
+understanding that like hey there's this
+rule and if you don't get all this other
+data your analysis is never going to be
+complete or it's never going to be
+accurate or performant right and so
+that's really one of the big pitches
+that we have to the data teams which is
+why go through this tortured process of
+iteration and then begging people to
+like give you more access to more things
+when you should just be able to say i
+want
+this set of things up front
+so transitioning more towards you know
+the leadership side of the startup this
+is not your first role
+as an executive within a within a
+company we've held so many interesting
+roles from director to see chief
+operating officer the chief financial
+officer and working at the and president
+and ceo of clara analytics and so still
+in the data space and then ceo of d
+graph labs for for several months and
+i'm i'm really curious what what you're
+taking with you
+from these roles as you're now entering
+a new you know sf based startup that is
+in one of the hottest spaces you know in
+the world today yeah what what are you
+taking with you as this entrepreneur now
+well so i think so the main things that
+i take so number one um i think
+for me like personally this
+entrepreneurial journey there's there's
+like a mental
+you know acuity sort of stuff i you know
+i'm kind of an adrenaline junkie right
+and like if there aren't like 15 things
+going on at the same period of time i'm
+going to be bored and then my wife gets
+mad at me right and so you know those
+are all those are all things that that
+drive me forward but in terms of like
+how to do this sort of stuff
+look a couple of things right i think
+the most important thing you can do as
+somebody who's entrepreneurial or
+building a business or whatever else is
+really focus in on the people around you
+right these things don't get built alone
+right and they get built with the team
+that basically is like-minded
+and is is one that drives each other and
+that doesn't by the way that doesn't
+mean that like everybody just is you
+know thinking the same way in fact i i
+actually really rather enjoy having
+people around who will push not in a
+rude way or anything else like that but
+we'll basically push him and say is are
+we really doing the right thing are we
+really spending the right the focus on
+the right stuff
+right so so number one the thing that i
+take with me from the experience in the
+past is making absolutely sure that
+you've got a team of great people around
+you um and i'm really blessed here at
+at archeon in that a number of people
+who i thought the world of
+um prior to coming here decided that hey
+this would be an interesting place for
+them to come and spend some more time so
+for me personally that's something that
+you know
+that really drives me and makes me feel
+great on that front
+you know and then the second piece is
+you know the the interesting thing about
+being an entrepreneur in a in a tech
+company is tech companies if you do it
+right you know they can do everything
+right you can you can build software
+that does just about anything the real
+challenge though is not doing everything
+right just because you can do it doesn't
+mean you should do it it's really
+netting down to what is most important
+be it customers
+be it developing certain aspects of the
+technology to make it strategically
+valuable what have you right it's making
+sure that you do
+just enough to create value but not so
+much that you create diffusion and if
+you combine those two sorts of things
+and it usually takes a mature profile of
+people who
+um will come and join you then you wind
+up in this this wonderful world where
+magic kind of happens and markets kind
+of move forward and you can transform
+stuff
+starting a new company in december
+you know you've also spent several
+months
+as an eir with red point ventures
+any big surprises that you're like okay
+now i'm going on this journey i've been
+on this journey before i've sat
+next to people who've been at this seat
+that you're in right now for many years
+what surprised you now so
+so the company first off i joined it it
+was started in december but that's okay
+um you know the the the main gist of
+surprise for me is well a couple things
+right so
+i think that the earliest form of
+surprise on this journey here was how
+receptive companies like i mentioned
+earlier like data breaks who invested in
+our last round and others the big
+surprise was how receptive those
+companies would be to partnering with us
+now having spent a bunch of years
+in startup sorts of companies the amount
+of partner interest in this firm at our
+stage is more than i've ever seen before
+right usually what happens in these
+partner discussions is you spend a year
+or two
+talking about stuff right without any
+real demonstrable movement forward right
+whereas in here we've got partners
+pushing up so i've got emails and you
+know slack texts from people saying like
+hey what is our connection going to get
+done when is this thing going to get
+done what are you going to jump on these
+deals right which is which is awesome it
+tells us that there's a lot of
+interesting things out there it does fit
+into the same uh prioritization bucket
+then too though right you have to go and
+pick the partners who you know you're
+going to be successful with now because
+you want them to be really successful
+and talk about you right and then you
+can move on to the others where maybe
+there's something that's a little bit
+more challenging or maybe the market fit
+isn't perfect or whatever else so that's
+been like one of the big challenges
+uh or surprises i would say
+um but you know it's a super positive
+sort of thing and you know i'm grateful
+for for the great partnerships we have
+with these people
+i love it i love it and if you're
+looking now at some some things that i
+can take with me as i'm going to be
+going on my own journey and myself my
+friends
+you know things especially specifically
+also in our space you know in
+engineering you know developer tools and
+for for the companies and you have you
+have
+so many different sides of this company
+you have to be both friendly
+friendly implementation for the
+developers you have to also speak to the
+business people you have to be very
+mindful of the sensitivity of what
+you're doing what are some non-trivial
+things that i should be taking with me
+from your experience as i go on my own
+journey as an entrepreneur yeah so look
+i think the the main takeaways i think
+as especially as you move into this ceo
+sort of role is
+you can't please everybody right and so
+a lot of the things that i said earlier
+in terms of making priorities sometimes
+there's going to be hard decisions and
+hard conversations that need to be had
+right so first off it's really
+identifying those things okay so we
+can't do this right then the secondary
+thing is never closing a door right
+because just because you can't do it
+today doesn't mean that it might not be
+the right thing to do in six months or
+nine months the trick and the essence of
+how to thread this needle
+is to figure out how to build a
+relationship with the other people who
+you're going to say no or not now to in
+such a way that they're not like okay
+well these guys are jerks and they're
+not going to do it you have to get to a
+state where they understand and this by
+the way this isn't my theory and
+management as well right you have to get
+to a place where the people you're
+working with up b-day managers partners
+customers whatever
+understand the reasons why
+you're making the decisions so they can
+buy into them right they may not like it
+right people don't like being told no
+but they have to understand okay got it
+if i you know like if i'm not gonna do
+this thing it's gonna like the the whole
+company is gonna be a problem or
+whatever else right it's up you need to
+make sure that you're diplomatically
+telling people
+the the things that need to be told hard
+or otherwise
+um and making sure they understand once
+you have that level of transparency your
+trust level goes up they respect you a
+lot more um and they're much more likely
+to call you uh and check in and say hey
+is the time right now right and so
+that's that's that's the thing that over
+time you have to learn and once you do
+you know it makes life actually a lot
+easier
+incredible gary i really want to thank
+you
+it's such an interesting perspective
+interesting career and i love you know
+the time and place that you're in and
+the way that you're running this
+show and the insights that you have with
+it and um you know i'm sold on the the
+problem space and i'm looking forward to
+trying out the product myself but but
+this is a pain this is a real pain and i
+think what i love about this type of
+company
+is that it's a pain that one that you
+know it's it's not trivial to understand
+the impact that this is going to have
+you know on the ripple effect but at the
+end
+software's hitting the world software
+runs on data this is enabling the data
+to actually be understood and so um you
+know it's all pyramid and this is a
+foundation and so best of luck with
+archaeon i hope that you can solve this
+pain uh for all of us and stay safe and
+stay healthy awesome thank you so much
+for having me michael it's a real
+pleasure all right
+thank you take care
+[Music]

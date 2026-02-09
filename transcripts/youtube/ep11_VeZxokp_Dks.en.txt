@@ -1,0 +1,570 @@
+[Music]
+slavic thank you for joining us
+of course happy to be here i have
+nowhere else to be
+are you talking from home now yeah i am
+a you know sheltering place and all
+right so how has it been the past few
+weeks have you all moved online as well
+all of the misto and powell to networks
+yes yes all of us are working from home
+in the last few weeks
+and we're being fairly productive i have
+to say
+um i think most of the mystic folks
+are kind of young folks you know don't
+have lots of kids and whatnot so
+they're like instead of going out in the
+evening they're actually coding so the
+productivity is pretty decent
+wow i have four kids at home right now
+so uh
+four kids uh interesting kind of uh you
+know bouncing
+between a they you know the online
+school
+and and kind of you know just managing
+everything is uh
+is a bit challenging but we're enjoying
+it as well
+wow so so what surprised you most over
+the past
+over the past you know month or so of
+moving remotely and
+working from home uh
+the amount of meetings just increased
+that kind of surprised me
+i i would i would have assumed that you
+know people would kind of
+focus on you know just their own work
+but they
+we actually found that they having like
+being connected
+because you don't have these
+interpersonal connections in the office
+it actually helps quite a lot and so we
+have like daily stand-ups
+and and so on and
+you know maybe it's not a compliment but
+we hear from some folks who
+usually works remote that now they feel
+a bit more connected
+it means that we need to do more you
+know during irregular times but
+still now they're actually a bit more
+connected you know what one of the
+things that i
+that i'm noticing in my work is that you
+know usually you have the meetings
+and you have to give a five-minute
+buffer between each one so you can walk
+to the next one
+all of a sudden you don't have to walk
+anywhere you finish so the calendar is
+still on default 25 minutes instead of
+30.
+and then you end up sitting there for
+five minutes and just waiting
+the whole the whole ship mindset has
+shifted yeah yeah we we set all of our
+meetings we tried to set them to 45
+minutes so we can actually move between
+meetings
+but now you're right here you have more
+15 minutes to make more coffee so
+exactly actually that's the other thing
+that kind of surprised me i'm drinking
+much more coffee
+there you go there you go it's right
+here right like right next to me so
+you know every five minutes i will go
+for myself coffee
+so slavik you sold two companies the
+most recent one
+de misto for hundreds of millions to
+paul to networks
+and we got to meet a few months ago and
+and i i fell in love with what you guys
+are doing in the way that you're
+you're really making the life of of any
+company
+that cares even a little bit about their
+about their cyber security much much
+easier
+much more automatic and talk to me a
+little bit about
+how did you even get into cyber security
+and
+let's start from the army the israeli
+army yeah and you're working with
+databases
+right so i i was in the israeli army
+in one of the you know computer units
+and
+uh i guess before that i was i
+i studied in the technion i made what's
+called today
+and so in the army i was in a computer
+unit
+and we actually
+developed a very distributed uh
+system around the oracle database so
+this kind of got me started with the
+oracle databases
+and they i guess
+we didn't have so i at least my job
+wasn't
+very much connected to security but that
+was something that i really found
+interesting all the time
+and since i was in the army i was
+a kind of a team leader of
+developers and
+we had obviously limited roles
+uh in our permissions this was the first
+time i actually got
+a a a
+court martialed by by somebody because i
+hacked into a system to
+elevate privileges to myself to actually
+do something that is a
+that they you know i was
+wanting to do in the system so it was
+not for malicious purposes but i didn't
+have the relevant permissions it was the
+weekend i actually had to get
+gain access i didn't get anything by the
+way so
+my punishment was that i needed to
+prepare a cyber security
+a presentation to the team that's what
+the army yeah
+all the punishments are our
+presentations to the teams yes
+so um so aft after the army i naturally
+went
+into kind of a large infrastructure
+consulting
+and database consulting and
+that was kind of a my first
+kind of thinking around why do we need
+security
+because we did a very large project
+for a sony playstation and that project
+was
+around the playstation online this was
+the playstation 2.
+so if i take you back in time like all
+the soccer games and
+and uh and so on by the way i have my
+name there in the
+in the credit roll really rugging rights
+yeah because i was
+the one developing the back-end solution
+for that
+and the apis for the games and so
+at the time i was still in israel and
+i was kind of working with the remote
+databases
+of the sony playstation production yeah
+you know i would ssh into the box and
+can do whatever selects i
+i wanted so i could see tens
+of millions of credit cards right there
+and nobody knew so i i was like a
+contractor from israel
+like how do they trust me with that it's
+so it was so weird
+and i i said oh my god so either i take
+this 10 million credit cards sell them
+on the black market and
+oh my god or for a lot of money or i
+should develop some solution for that
+so this was my first kind of thinking
+around a
+security and in particular database
+security
+and i actually started a company called
+centrigo
+that did exactly that did activity
+monitoring for databases
+to to make sure that nothing
+is against the policy so the dba is not
+accessing you know payrolls or or credit
+cards or things like that
+and so it's mostly you know both attacks
+from outside but also
+insider threats type of thing yeah so
+it's so it's not
+it wasn't just about cyber security was
+also about human security
+and enforcing privacy regulations
+within our organization indeed indeed so
+that was a kind of my my idea so
+in 2006 i i raised some money from a
+benchmark israel that no longer exists
+and they
+and then this is how we started the
+centrigo
+and it also kind of taught me a lot
+about
+the whole startup thing yeah because
+i i'm an engineer so my
+first instinct is to create a
+engineering hard to solve solution
+and that startup was all around
+very hard to solve problems
+because the way you monitor databases is
+actually
+very hard you need to reverse engineer
+the database understand the memory
+structures
+and then through the memory kind of
+understand what's running
+so it was reverse engineering of like
+oracle sql my
+mysql sybase db2 all of those relational
+databases
+and you know it's not documented so you
+have
+all over the binary do all the worst
+engineering ida pro and all of that oh
+my god
+wow and that was really challenging
+really tough but you know the
+go-to-market of that
+is even harder because you have to get
+the dba and the security guy in the same
+room
+agreeing on something and it was tough
+so
+it kind of taught me a life lesson about
+you know
+engineering and you know heart problems
+are interesting
+but you need to build something that the
+customer actually wants and it's easy to
+to kind of sell and and and market
+so uh do you think that
+the experience in the army when you when
+you were get when you had all the
+you were sort of like this this root
+user
+of an oracle database in a very high
+sensitive
+high impact environment is that a is
+that a unique experience that you think
+positioned you
+to really understand what's happening
+and and have that confidence in taking
+ownership
+over something as complicated as
+database security
+i think overall the army helps you a lot
+by basically giving you a lot of
+responsibility at a very early age
+right so you get a lot of responsibility
+and since you can manage that
+responsibility you gain confidence
+right and you gain confidence and you
+understand hey sure yeah i can do it i
+can continue doing it
+and and from that perspective definitely
+also there's there's kind of a a hacker
+mentality in the army
+yeah your dog is the background he just
+wants the toys
+so definitely there's a hacker mentality
+in the army
+so you try to get by with whatever you
+have if you have like a
+pin and paper clip and and and i don't
+know something
+you you managed to do something with it
+yeah
+and you know that you were you were in
+the israeli arms so no i i had a
+fantastic experience and i the no the
+number of times when we were just told
+you know this these are your resources
+we're not gonna get anything else just
+get it done
+that's all you have and you get it done
+because
+you're in the army and you have and you
+have that sense of responsibility that
+you're not
+you're not working you're serving and
+and and when
+you have that incentive then all of a
+sudden things become much
+much easier to to execute so you so you
+then
+so you join you join the mcafee team
+right as a result of the acquisition
+and then you go on to create an even
+bigger company
+de misto right right so i was say
+so we actually in central ego we
+we went through the 2008 crisis which
+kind of reminds me of
+yes so i moved to the us
+in 2008 july
+literally like a week before you know
+the entire
+economy tanked and
+i i like to think i brought you know the
+the whole crisis here to the us
+and it was a terrible experience and
+both in terms of you there's really huge
+uncertainty
+you know you you're looking at a you're
+looking at
+your customers yeah all of them
+basically just
+freeze everything and we were struggling
+we were struggling to raise money we
+were struggling to sell
+uh i had to immediately after i came
+here i had to fly back and fire
+a lot of the team wow we have enough
+money like
+they looked at the projections we didn't
+have enough money
+and that's you know we kind of tried to
+raise from here and there it was
+unbelievable that also kind of taught me
+um you know get enough in your war chest
+to make sure that you you can execute
+through the bad times as well
+and so when the opportunity presented
+itself
+in 2010 we actually engaged mcafee
+and in 2011 we sold the we saw the
+company
+and which was again because because of
+the whole crisis it kind of
+breaks your your trajectory so you kind
+of have
+and down and so uh we didn't we just
+said hey somebody's making an offer
+let's take it
+right and and they have to ask
+how is the experience you know coming as
+a core engineer
+and excited about difficult issues i
+mean it's not like you you're going like
+sergeant
+and it's all about like people here and
+all of a sudden you find yourself in a
+position where you have to go back to
+israel you have to
+fire some people who you brought on
+board and and
+all of a sudden it doesn't matter you're
+not an engineer now you're a leader
+and you're you're responsible for them
+so how do you work through that
+it was it was tough you know personally
+are obviously very tough
+for me but you know even tougher for the
+ones that we had to let go
+we actually really really tried to act
+responsibly
+um maintain like payments as much as we
+could
+we also found for most of those folks we
+found
+jobs alternative jobs because you know
+israel is very well connected so we knew
+pretty much everybody
+yeah and so but it's hard you know
+nobody you know not don't let anybody
+tell you it's easy this is like super
+hard
+we kind of we let go about third of the
+team
+which is which is quite a lot and all
+the rest
+took a pay cut as well so it was
+a you know but you try to do everything
+to survive so it's it's
+it's really tough i i like to think we
+handled it
+a you know correctly because i'm still
+friends with a bunch of the folks that
+we
+we let go uh but they but yeah it's
+it's tough and so that kind of also
+affected me
+moving forward we sold i think the
+company a bit
+too early but again this is what this
+was our kind of
+uh being scared of what's happening
+around the corner so we sold this in
+trigo to mcafee
+and then um i stayed with mcafee for for
+a while
+so i stayed stayed with mcafee like for
+four years
+trying to both
+well okay both do their notes as
+you know but they then also make sure
+that
+you know the team is landed correctly
+the the product is
+driving and so on uh
+but i guess after like two two years
+became boring though
+so i think like into
+2014 we were already kind of looking
+around so me
+what will become my co-founders in in
+the visto
+we were already kind of looking around
+thinking what we should do
+and we again this is like
+the first instinct is again trying to
+solve a really hard problem
+right so uh so i kind of convinced
+so my my co-founder rishi who was not
+part of the original
+centurico team he was actually the one
+who
+who managed the acquisition of us into
+mcafee
+so he had an office right next to me the
+office next to office
+yeah and they we
+every morning he would come in and they
+we would drink coffee had a small
+espresso machine in the office and then
+we would start
+talking about like what we should do and
+how
+what we should do next and so on so we
+started with this idea
+of a creating a
+an a like an edr solution like endpoint
+detection
+response but based on a distributed
+database
+and the um it's kind of a cross
+if if you're familiar with the companies
+between carbon black and tanium
+so you can do real-time queries
+understand what is the situation
+but also keep all the historical
+knowledge in a very efficient way
+so that was kind of the idea and we were
+like oh my god
+you started reading academic papers
+around
+peer-to-peer databases and started kind
+of developing this interesting
+architecture
+and in 2015 we had a
+rsa conference and we
+interviewed a lot of ceciles during the
+conference because it's a good time to
+meet
+obviously yeah i think we
+met like between 30 and 40 cecils and we
+kind of presented that idea to them
+and all of them pretty much unanimously
+said
+it's a crappy idea we are not interested
+in another endpoint
+and so we kind of had to stop for a
+second
+think and say okay
+what should we do and so we asked them
+so actually asked what are the big
+problems that they're facing
+and what is the you know what are the
+big
+pain points and and eventually we kind
+of
+landed on this idea of what eventually
+became the mystery which is
+uh kind of
+helping the security team
+cope with the too many alerts too many
+security
+tools not enough security people and so
+making the process as efficient as
+possible and
+as consistent as possible so that's a
+kind of
+the mystery in a very very high level
+and so
+i i i quit making a
+i think it was april 2015
+and i kind of started kind of working on
+that and then rishi then guy kind of
+joined me
+wow okay and then you know years go by
+and
+and it's and you sell it uh for quite a
+nice amount to palo to networks and now
+you're leading
+actually you're leading the demisto
+product within palo alto networks right
+right right and one of the most i mean i
+i i haven't seen too many
+too many integrations but from the ones
+that i've seen of a company acquiring
+another company this is a this is
+considered a very successful integration
+right right right i think actually palo
+alto networks did
+i think the the the best thing that you
+can do
+and in many senses left the team alone
+yeah so you kind of maintain
+the entire structure of the team and
+maintain the same kind of spirit of what
+they
+got you to this successful state and and
+it's up to us kind of the leaders to
+look around and say how this is
+a kind of merging into the existing
+businesses
+and definitely from the team perspective
+they're still feeling like this sayer
+matkal as you said
+still feeling like this elite team that
+continues to execute and
+and do what they what what they're best
+at
+and we kind of are the ones who kind of
+incorporate into the processes
+and do all the you know they go to
+market
+and the the npi process
+which is you know all the big company
+things that that you need to go through
+yeah wow that's slavic that's incredible
+i mean i i wish we had more time to also
+talk about the cyber security space in
+general but
+but you have to go back to running a
+company and
+and you're staying safe and healthy and
+with four kids at home
+and so before we leave i do need three
+words that describe you
+oh three words that describe me
+uh
+he didn't prepare me for that and i
+think
+i think i'm gonna make a lot of enemies
+after all these discussions
+i always trip people up i think
+um curious
+tenacious and i like it
+i like tenacious smart i guess
+i couldn't agree more slavic thank you
+very much
+thanks happy to be here

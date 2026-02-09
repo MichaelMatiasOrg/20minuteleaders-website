@@ -1,0 +1,699 @@
+and we thought how we can migrate this
+low-tech industry and make it um
+as as unique as we can and um
+and create it create a high-tech
+industry
+we didn't know anything about it welcome
+to 20-minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford
+leap and birthright excel welcome to
+another episode of 20 minute leaders
+today
+i'm joined by iran horowitz ceo of
+credit
+24. credit 24 is a fenta company which
+aims to create a one-stop shop for the
+online lending
+industry the company has developed a
+turnkey solution which allows fully
+automated underwriting operation and
+collection
+alongside kyc and in sales retention
+platform
+the company uses a proprietary solution
+which allows partnerships with various
+companies
+from insurance companies to retail
+giants to offer loans credit lines or
+pocs
+payments without the need to develop
+anything on their end
+nor setting up a call center the company
+was established in 2016 by iran horowitz
+assaf loft and ziv rosbach horowitz
+welcome to 20 minute leaders from
+credit 24. how are you doing today i'm
+doing great thank you
+very much for having me you know we're
+doing this over
+over a you know web video i feel like
+we're almost sitting in the same room
+but
+in these next 20 minutes i'm going to
+learn all about your personal journey
+into the
+into the fintech space the the online
+digital lending space
+uh quite a journey uh you know we're
+gonna go overseas to london for a bit
+we're gonna come back to israel talk
+about your experience and i want you to
+take me back a little bit and tell me
+you know your entrance to the fintech
+world what is that about and a little
+bit about who you are
+okay so actually when uh when i started
+um the online online business let's call
+it like that
+um we didn't start from fintech we
+actually started at the beginning of
+the early 2000s uh we started
+with online gambling which is something
+i'm
+a friend of mine in the army i served in
+my time which is uh i think everyone
+already know it
+so a friend of mine was was working with
+a company in cyprus which uh which did
+the online casino
+uh it was called build the dealer
+and we started from there he said there
+is something really interesting
+it's called online gambling you have to
+try it
+and and i started as an affiliate
+over the years this business was amazing
+people from the online gambling industry
+they went uh they started doing
+forex uh binary payday loans everything
+you can
+you can think about and then um
+one of my partners he came back from uh
+from the milwaukee
+one day and he said you know i had a
+friend over there
+and he he suppose uh he's working
+at a big company and he's supposed to
+get paid
+uh from the company but because he went
+to the milwain
+he should get the money from the from
+the state
+um and yeah he's gonna get paid within
+uh 45 days but he told me he needs the
+money now
+so i had an idea let's try and lend them
+money
+because it's uh it's a sure thing like
+uh i'm sure
+i'm gonna get the money yeah yeah uh
+no no issues are gonna happen with um
+with the state of israel paying you uh
+uh your uh your salary uh and that was
+the idea
+and then we started investigating
+uh this uh this um it wasn't even
+fintech it wasn't even
+online lending it just uh landing and we
+thought how we can
+migrate this low-tech industry
+and make it um as as
+unique as we can and and create it
+create a high-tech industry we didn't
+know anything about it
+uh we didn't know that there is uh
+fintech and online lending companies uh
+in other places in the world uh but um
+but this is what we do our our whole
+life so we said
+let's try it um amazing and then within
+uh we were sitting at ziv's apartment
+which is uh the
+the third partner and we were sitting in
+his room
+um it was a six meters uh room
+i think i even wrote something about it
+um
+and we said let's try and do something
+with it so we opened the website
+and um and we created uh we created uh
+something really simple and within 10
+days
+uh and a little bit of uh ppc
+we we sold a few hundred thousand
+shekels
+and each loan five thousand shekels six
+thousand seven thousand that
+that pretty much was the the business we
+said okay now let's stop
+and think what we're going to do with it
+because obviously we have a business
+we have a saying here between the three
+of us saying um
+one is luck and two is a business uh we
+started
+when we did online gambling we said if
+we can if we get one player
+it's luck but if two players are um
+registering and depositing money
+so we are right our business so we said
+okay we definitely have a business now
+let's see what we can do with it
+so we stopped everything and we started
+building
+um something from scratch we didn't know
+anything about it the the landing
+industry here
+is pretty much was pretty much banks and
+um let's call it the mafia i think it's
+uh it's the best word to describe it
+and the three of us was something
+unfamiliar
+within within this view
+and then when we started uh
+investigating the business and see how
+it goes we
+it was fascinating because we saw that
+no one is doing anything online
+everything is done manually and we have
+to do
+we had so many ideas we had
+we wanted to start working but we had
+nothing
+we had a little bit of capital which we
+wanted to invest
+at the beginning but we had to start
+developing everything around it and
+that's pretty much how
+how it started
+and from there we have a lot of stories
+so so now we're getting to the juicy
+parts i'm just going to let you continue
+because i'm just enjoying hearing this
+story
+um okay so so we started um so we
+started uh building
+a system from scratch and uh we thought
+okay what
+what we need to do with it and then we
+saw that the um
+the underwriting process is done
+manually
+like what you do is you get um the
+person's id number
+then you go and check it in on public
+records and you're getting his bank
+statements and his paper slip
+and you want to see what he's doing and
+how he's acting and the entire process
+can can take a lot of time uh
+so we we learned how to do this process
+manually
+uh over a lot of people and then we
+start building the technology to do
+everything automatically
+now israel is lacking
+i think every possible technology
+technological solution you can think
+about
+so there's no api uh there's no way to
+automate
+most of the things so we had to start
+developing
+uh bots which can
+which can act as a human so um
+so we build a bot that takes the id and
+goes to um
+public records and takes out all the
+information
+uh manually you download html then you
+have to pause it and then you have to
+and then you have to see what what it
+says and then you have to start
+analyzing it
+and putting it into a database and um
+and then you have the bank account so
+how can you
+how can you automate it because
+everything is manual via
+papers no one even no one is even taking
+pictures or sending a pdf
+um so we started developing this uh the
+technology
+around it uh which and
+the focus was was with the underwriting
+because that
+that was the first thing we saw um
+so we started uh credit 24 um
+at the beginning at the end sorry of uh
+uh after a long journey in the uk
+uh which i will tell you about and um
+then we focused the first two years we
+focused
+on doing underwriting as uh as uh
+as much as we can like uh everything we
+can do everything we had to do manually
+our competitors have to do manually we
+thought how we can do it um
+online and right
+um we said the banks have all this
+information so
+so they have so much advantage how we
+can
+how we can get this advantage and use it
+the same way how can we take the
+information the bank has
+and and analyze the same thing and get
+uh
+we think a better uh conclusion
+uh so the first two years we we invested
+a lot in building
+the underwriting model um and gathering
+as much information as we can
+and we always thought that every loan
+that someone takes like even
+let's start from the beginning when
+someone asks for a loan
+uh so he either gets it or he doesn't
+at that point right uh the company he
+contacted
+uh they forget about him like he's um if
+he didn't get the loan
+or he wasn't interested then he's um
+dead from uh from a company point of uh
+point of view we thought that
+actually and we got it from the online
+gambling industry
+no one is dead like you can register and
+then you can deposit
+three years interesting so let's do the
+same thing but with financing
+let's take the lead let's take the
+person
+and continue tracking everything he does
+everything we can see on an ongoing
+basis
+because today he's not interested or
+today he's not
+qualified for a loan but things can
+change over time
+and we don't want to lose it because we
+already paid uh
+for uh for this uh specific lead um
+right
+and the more information we gather the
+better the conclusion we have
+um so we took um so we took the the
+whole concept of
+sales and retention from from the online
+gaming industry
+and we implemented it with uh with the
+financial
+world um and then we saw that well
+we're getting information and then
+suddenly
+someone we we said he's qualified for a
+loan
+but he didn't get a loan uh six months
+later nine
+twelve months later he was he went into
+bankruptcy
+so we took the we marked it we checked
+the
+the bankruptcy uh checkbox
+and then we started analyzing manually
+if we at this specific at the specific
+time he registered if
+if we could uh forecast the bankruptcy
+what were the
+the signs if there were any signs of
+this person going into this thing um
+and then we we started building a model
+saying let's take all the information we
+have
+and and put it and
+put all those people in in the same
+place and see who went to bankruptcy who
+didn't
+um then try to
+make a decision when the user registers
+based on that information um
+right yeah we saw that there are a lot
+of
+um a lot of value a lot of
+data points um we can see
+and if this specific
+uh data point uh with uh a different
+data point
+uh altogether then the chances of going
+into a bankruptcy
+is uh let's say 12 and
+if none of this happens the probability
+of default
+is going down drastically and then we
+start
+building those those models and saying
+okay
+how much pt uh the the probability of
+default what is the probability of
+default we wanna
+we wanna have in our company so we saw
+that the numbers of
+um uh are uh pretty high when
+going into uh non-banking solutions
+because the interest rates are high um
+but we wanted to build a model which
+uh later on banks or big companies will
+see and say okay this is what we want to
+have
+um right we set a mark at about two
+percent uh default rate
+then we started analyzing all the data
+who is going
+above it and who is going below it and
+what are the connections between
+between all those people um this is the
+way the the first model
+started so and obviously the more
+information you have the more users you
+have
+uh the better the the the quality of the
+underwriting is is much much better
+right
+so this is how it started like we came
+from uh from a different point of view
+uh yeah and we came from a completely
+different world
+the online gaming industry and we said
+those
+those industries the the online gaming
+industry
+has so much uh they know they know fraud
+they know retention they know sales they
+are the best and this is what we did for
+more than
+for more than uh uh 10 or 12 years
+so so let's try and take all those
+things and do
+and implement in the in a new uh
+in a new new world for us um
+very very cool yeah so so we took a lot
+of things
+uh things people cannot understand
+even if we tell them give them those
+examples now
+and they still ask us how do you know
+that based on those six questions you
+ask how do you know that this person
+is dangerous so we give them an example
+and we tell them look with uh because he
+registered with this
+phone number i will show you what
+happened
+to 20 000 or 10 000 people who
+registered with this number
+what is the default rate and you can see
+it's going much much higher than what we
+thought
+so i know we're gonna have a false
+positive
+but when you're working on big numbers
+and especially on online lending which
+you have more people wanting money than
+money you can
+you can give then then we are okay with
+the
+with this decision um
+this is pretty much how the this uh they
+started
+two years i think about two years after
+we started
+we we figured out okay now we have this
+underwriting process we can which we can
+always
+improve we always add things the system
+is
+uh it's a it's an ai system so it learns
+a lot of things
+automatically
+but obviously this is not it
+okay so we are doing underwriting but
+everywhere we go people say
+we do underwriting pretty well uh we're
+a bank we're
+a big company so we know how to do
+underwriting so we said okay we
+we know we're doing things better than
+most people
+but i'm well sure it's not it so what we
+found out was actually something we took
+from
+someone uh who's doing uh he has a
+company he had a company he sold it for
+a buck or two
+um a forex company and
+when when he did it because i know him
+from the beginning
+he always said uh those companies
+they have hundreds of employees i want
+to do the same thing
+and have only a few dozen employees
+how can i do it and he figured out
+that most of the operational things
+are very time consuming and you need a
+lot of
+human resources to deal with it so we
+said
+okay if it worked if it works for the
+online gaming industry
+and forex is pretty much part of it so
+it
+must be the same here so we we looked at
+the company they are called mimoniasio
+and we saw they had hundreds of
+employees and
+and they are dealing with people moving
+from a job
+one job to another you have to train
+them you have to do a lot of things they
+have mistakes they don't work 24
+7. right we said okay how do we take
+this whole
+whole operational process and now we
+make this
+automatic as much as possible so
+we we learned what we have to do
+manually and we
+started wrapping it with technology so
+now pretty much
+just just to understand the numbers um
+kardi 24 has
+six employees including the three of us
+and we are dealing with hundreds of
+loan requests on a daily basis so
+and when you visit our office you won't
+hear the phone ringing
+you won't hear a lot of noise you won't
+see a call center
+and this is something you will see when
+you're going to uh any other company
+so what we did without it um
+building automatic process to everything
+like the first thing you see in a
+lending company
+is a call center we see a lot of people
+sitting on the phone
+uh calling people answering calls
+and then okay how can i make this
+automatic so we created an ivr system
+which does pretty much the whole process
+automatically so you call
+you call the number and no
+no one is answering just a and a system
+is answering
+it's taking it takes your phone
+automatically because there's no point
+of asking for it
+you just put your id and the
+entire process is starting from there
+then the system does
+follow up so no one has to call you and
+say okay how much you want what do you
+want to do
+and the underwriting process starts
+already on the phone so if if the user
+asking for
+a loan is not qualified based on
+the underwriting process there's no use
+there's no point of someone calling him
+it's just a waste of time
+and we saw that let's say 50 60
+of loan requests are being rejected so
+just imagine going
+uh scaling it up to the big numbers how
+much time you're spending
+on call centers speaking to people who
+are not relevant
+now those people are registering and
+they are not relevant
+for either they have problems with the
+banks
+they don't work at the moment they are
+too young whatever
+but those things are changing so
+we collect all this information we see
+the reason that this person was rejected
+and then we're just taking um
+well um like pinging this user
+every once in a while based on the
+reason he was rejected
+and then we see if something changed if
+something changed and now
+he's relevant for a loan he can qualify
+for a loan
+so the system changes his status and
+then
+sending him a message we're happy to say
+that you are qualified
+so now you can see a user registered at
+but his first loan with us is 2021
+but we didn't lose him he's not going
+anywhere
+um from that point we just moved to
+everything we can think about
+from uh collection automatic retention
+automatic whatever and we're just
+wrapping everything we can with
+with technology and uh that's pretty
+much
+how the system works amazing and it so
+it sounds like
+you know you're really looking at an
+industry here that is really age-old and
+you're taking
+you know something that is very very
+regulatory very manual
+and then what i'm hearing in the story
+in the theme is you're constantly
+figuring out which aspects of it you can
+draw on
+from the new world from the high tech
+and from from new technologies and
+implement
+to change the the even the you know
+psychological thinking of how this
+industry operates
+and how this product is being done and i
+think that you've given a few examples
+of how that's
+of how that happens uh and and you know
+there are so many things that we didn't
+get to even talk about yet which is you
+know you're you're starting in london
+and then
+and then coming to israel and with all
+the different regulations and the
+conflicts and and
+how you're perceiving the the fintech
+industry
+from from that perspective inside and
+out and where what's happening with
+credit 24
+uh today but but 20 minutes go by very
+very fast so i'm gonna have to ask you
+already to come to another episode
+and share the second the second part of
+the story
+but i do have a few questions for you
+again and i wanna and i
+you know i wanna ask to get to know you
+a little bit better so i want you to
+take me back to your childhood and share
+with me a little bit about your passions
+and and
+i i imagine you didn't grow up you know
+a fintech lover
+and so tell me you know what what was
+what fascinated you as a kid
+well two things uh space and computers
+um the funny story is that um my parents
+took my uh my computer
+when i was a kid and they said nothing
+good will grow from uh from this
+and they gave me a punishment by taking
+it because my
+uh well i wasn't doing that well in
+school
+um and this is something that i remember
+and i
+keep telling my parents you remember you
+took my computer
+um but you see something obviously came
+out of it
+so yeah that was my passion from the
+beginning
+um everything thinking outside of the
+box was pretty much it
+um and i think space and computers
+combining together
+you can figure out it's it's not uh
+something um
+regular like um it's always thinking
+about
+things like like an astronaut like um
+that's what how my parents called me
+so this is amazing and so if if
+you look through your journey was there
+a figure that served as some sort of
+inspiration
+or some sort of role model as you go
+through your journey
+i think it's it's still now that um
+almost
+everything i do i i speak with my father
+uh which i who i appreciate a lot
+and it's very important for me to hear
+is his point of view
+and um if i need to think about someone
+who
+supported me uh through my entire
+process
+um uh definitely my father
+no one i won't say any famous people you
+know about
+no one like that uh i i appreciate a lot
+of them respect a lot of them
+but the person who uh who had the most
+influence was definitely my father
+amazing and what are three words that
+you would use to describe yourself
+uh wow um
+dreamer i think um because i
+i vision a lot of things um
+yeah well i think it's very hard to
+describe uh three words it's the hardest
+this is the first word uh i could think
+about
+um i don't know
+it's hard i'm sure everyone say the same
+thing
+i'm very passionate and um
+very i have a lot of patience
+this is what some of everyone i was
+saying
+patience is that's very unique i don't
+think i've heard that one yet
+the patience yeah so this is definitely
+patience is definitely one of those
+things
+wonderful thank you very very much i
+really appreciate
+it and and i look forward to sharing the
+story and i look forward to hearing the
+second part of the story
+but until then stay safe and stay
+healthy thank you
+thank you see you soon thank you very
+much thank you
+[Music]

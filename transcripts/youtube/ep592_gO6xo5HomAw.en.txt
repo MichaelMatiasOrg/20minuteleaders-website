@@ -1,0 +1,621 @@
+it's very hard to get recognition
+as a business person or as an
+entrepreneur and not just as a scientist
+when i came up with this idea i i went
+to different people and different vcs
+and all of them thought that oh it's
+very cute it's very
+it's very insightful and i'm we're very
+glad to know that this technology exists
+but you are aiming to an unknown market
+you are targeting an unknown technology
+in that industry
+and of course you are going to face
+utilities or
+governmental
+entities which is very hard in the
+entrepreneurship world
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel
+welcome to 20 minute leaders meet lauren
+guy cto and co-founder of utilis
+lauren is an entrepreneur by heart and
+an avid fan of using the power of remote
+sensing to achieve the impossible lauren
+co-founded utilis in 2013 with a novel
+approach to finding water leaks from
+space with a master in geophysics and a
+bachelor in hydrology and geomorphology
+lauren wroten executed algorithms being
+used in intellis he possesses seven
+patents in remote sensing and sar
+lauren guy welcome to 20 minute leaders
+how are you
+great thank you for having me i'm great
+how are you
+i'm doing great i'm always excited when
+when i know that i'm about to approach a
+conversation where i'm going to learn
+something that that i that i definitely
+did not know before you have such an
+interesting background from a bachelor's
+of science and geomorphology and remote
+sensing you'll tell me what that is in a
+second from ben gurion university and
+then masters of science in atmospheric
+physics and dynamics from the hebrew
+university for the past eight years the
+cto and co-founder of utilities so so
+tell me a little bit a little bit again
+about about geophysics just so that we
+have a streamline a streamlined
+conversation so geophysics basically
+describes the relationship with between
+physics and different uh
+um interactions that happens in the
+atmosphere of the world around us and
+and space
+um
+together with the geosciences which is
+uh geology geography and geomorphology
+and everything that relates to geology
+and the interaction between them that's
+basically what geophysics is about
+and and so if we look today at where we
+are in terms of the world what are some
+what are some of the pending questions
+that geophysicists might be concerning
+themselves with that are really
+interesting
+so we can so we can divide that to two
+things we can start with uh other
+planets or
+space which is a big thing for
+geoscientists and this is actually where
+i came from so as i worked on my master
+and other studies and we were actually
+focusing on how we can find water
+on mars and because we cannot work on
+mars yet we use satellites
+uh
+to find water and then of course we
+cannot see water on on the surface of
+mars and if there is water or indication
+of water it has to be under the ground
+so as a geophysicist you try to find a
+certain wavelength like microwave
+that can actually penetrate the ground
+and you can see water even hundreds of
+meters below the surface
+and so
+i guess that's purely through different
+mathematic different mathematical based
+algorithms that you're trying to isolate
+you know what what's happening without
+actually visualizing it
+correct so so as you as we know the
+humans know how to take different
+wavelengths and to contribute them into
+our you know our day-to-day lives we all
+know x-rays which enable us to see
+uh
+through the body we along infrared which
+enable us to see heat or to see in the
+dark
+and what microwave is exactly like that
+microwave has other capabilities and one
+of them is of course
+penetrating the soil but it's also other
+very cool capabilities like locating
+water very very well
+it can uh
+it can actually
+move through clouds and different
+weather so we all know google satellites
+images where suddenly you want to see a
+certain place and there's a cloud
+blocking everything
+and with microwave this phenomenon will
+not happen because microwave can
+penetrate the clouds and basically
+clouds are transparent to it that's why
+by the way a
+microwave is big not only for
+geophysicists but also for the defense
+industry for apparent reasons
+uh so definitely uh
+all right okay and so obviously a lot of
+the things that we're talking about you
+know they're very heavily research based
+and you know looking forward um you know
+now into the more the you know the the
+actual business sector and and the the
+different
+you know opportunities that there are in
+the business world for asking such
+questions when you when you go back
+eight years as a scientist and a
+physicist
+what how do you go about thinking how
+can you actually commercialize some of
+this some of these understandings
+so when i finish my studies i actually
+look for a way to contribute what i
+learned
+into actual insight to something
+actually can help the planet
+and as a person go that grown in israel
+we always been aware around water we've
+always been aware of conserving water
+so water was a is it wasn't still a big
+issue in israel so that was my first
+go-to market
+but still we all know where there are
+water on on earth so it's not really
+relevant and then i dig even more and i
+learned an amazing number that 30
+percent of the water that we are
+transporting to the end customers are
+being lost into leakages which is quite
+an amazing number think about water we
+are taking from reservoirs even hundreds
+of hundreds of miles away from the
+client you transport them and just a few
+feet before the client is just go into
+the leak so think about about the amount
+of water that's being lost
+even more than that think about the
+energy
+an amazing number that i learned in
+california for example and it's quite
+similar in other
+states and even developed other
+countries
+that 17
+1 7
+of the energy of the country is pushing
+water now think out of those 17
+30 on leakages
+think about the huge amount of energy
+and water that we just waste into the
+ground so one two so once i found out
+that this vertical as
+actual issues with no real solutions
+that's how i decided to focus on the
+water leakages market and how we can use
+satellites and microwaves and sensors in
+order to solve that
+so so let's dive deep into that because
+that's fascinating how do you actually
+solve use satellites and and those
+microwaves to to figure out
+where the leakages are
+yeah so in 2013 i founded utilis and
+utrecht is a data company we do not
+operate satellites
+we do not operate outwards and so on we
+just rent airtime for different
+satellites around the globe uh more
+precisely microwave satellites there are
+some and that's that orbiting earth as
+we speak
+and what we basically say to the
+satellite please take an image of
+san diego for example the next week
+it give us the raw images in microwave
+sense meaning it doesn't look exactly
+like we all know in optical images it's
+basically
+a matrix of numbers of different returns
+or signals we're getting from the soil
+and we take this raw data and we analyze
+it and we actually
+looking for not only water but
+more precisely treated water we can tell
+the difference from space which i think
+is quite fascinating if the water that
+you have in your cup now is water or
+it's rain or it's treated water we can
+tell the difference
+and once we got to that
+capability we have the assumption that
+if there is little water under the
+ground it has to come from a leak
+and from a pipe and that's how the
+entire technology and solution and
+market evolved around that
+and so when you're when you're just
+starting out you know as a scientist
+what what steps now is on the
+entrepreneurial side how do you actually
+go about and and you know partner with
+with those operating the satellites and
+figure out who can you sell this
+information to i mean obviously there's
+a big gap between you know doing your
+bachelors and masters in the subject
+becoming a domain expert in this but
+then actually going and p and and
+piecing everything together
+uh and piecing the information together
+to actually sell it
+so i can divide it into answers actually
+so the first transfer answer is
+exactly what you described it's very
+hard to get recognition
+as a business person or as an
+entrepreneur and not just as a scientist
+uh when i came up with this idea i i
+went to different people and different
+vcs and all of them thought that oh it's
+very cute it's very
+it's very insightful and
+we're very glad to know that this
+technology exists
+but you are aiming to an unknown market
+you are targeting an unknown technology
+in that industry
+and of course you are going to face
+utilities or
+governmental
+entities which is very hard in the
+entrepreneurship world so that was
+the first barrier the second barrier
+which was i was quite surprised was the
+actually the clients i was in the
+beginning i was quite sure that when i
+will come to the clients with this
+solution clients meaning utilities and
+around the globe
+they will just you know the water
+providers the ones in the supply chain
+yes
+yeah i was pretty sure that they will
+line up to buy the solution because it's
+so cool and there are no other solutions
+for that
+and i learned that no one waited for me
+even though you can bring a new
+technology into a very old-fashioned
+market it doesn't mean they will jump on
+you
+instantly it's actually the opposite
+because they are used to doing things so
+old-fashioned and just doing it manually
+or actually even doing nothing
+you can come with the best idea ever
+it doesn't mean that they will
+necessarily buy your solution so
+actually the first obstacle was
+actually teaching the the market that
+this solution can benefit them does
+actual roi and it's not just cool
+and then slowly and surely
+uh the clients were more um agreeing to
+accept that technology
+and with a lot of with a lot of effort
+by the way by customer success managers
+and uh you know holding them or holding
+them by hand and showing them
+the actual meaning of looking for
+leakages yeah
+now what was it that turned the table do
+you think you know in this in this case
+was it you know when they saw a leak
+that they weren't aware of that they saw
+how efficient it could be what was the
+turning point
+so i can tell you the turning point for
+me and the turning point for the client
+the turning point for me was our first
+client in israel which was tel aviv
+we gave them but by the way they were
+very skeptical about that solution it's
+um like some charlatan coming from space
+and telling them where to dig with with
+a weird x-ray vision but they agreed to
+to be a part of a certain pilot and i
+sent them to a certain location i still
+remember the street it was on nordau
+street in tel aviv we went to that
+location
+the contractor on on site was was also
+very skeptical he told us there was no
+leak here i'm sure of that but because
+the utility agreed to take part of the
+pilot it dug
+and once he started digging there was a
+huge leak surfacing the surface and that
+was the first you know wow moment for me
+that this technology actually works
+that's for my side from the utility side
+was actually our first client in the us
+which is a very big utility on the west
+coast
+um
+and we delivered them thousands of leaks
+and they started to fix in those leaks
+and saying 12 months after that they
+actually reduced the
+leakages percentage from 25 to even 20
+or 15
+with only one year which usually the
+which usually they only decrease that
+maybe by half a percent a year so like
+20 times better that was a big wow
+moment also for the market and of course
+for me as well
+and so i can only you know i think that
+one thing that is important to to then
+understand here is that these leaks are
+actually happening under the ground you
+cannot visualize them as you're roaming
+the streets you know i i actually live
+on
+on nordau so and i'm i'm imagining
+walking walking on the street and having
+no idea that there's a leak underneath
+me but but i but going back to that
+story when you're digging when you're
+there and you're digging and you're
+seeing that there's a leak what is the
+reaction because you mentioned that the
+wow factor happened with the client in
+the us but i can only i can't imagine
+there not being a wow factor
+back in tel aviv when they're digging
+this hole
+so there was a wow factor even for the
+clients i cannot deny that but
+again the market was very skeptical in
+the beginning because we are a
+statistical solution meaning not every
+lick we send to the client is actually a
+leak
+and israelis love to focus on the bad
+things sometimes not just the good
+things
+so
+for example we gave tel aviv 10 lips in
+the beginning and only
+four of them were correct meaning six
+were nothing
+and that's created some skepticism but
+that's part of teaching the market the
+true value because let's take
+the solution before you till this game
+before we came they may be found one
+leak a day by just walking the streets
+and listening to pipes right vb acoustic
+methods and just looking for the lick
+and maybe maybe they found one leak a
+day
+now utilities came we give them 10
+locations a day and you know what with
+only 30 success rate they find three
+leagues a day
+this is still three times better than
+what they do now today we're around 90
+which is much much better but showing
+them the roi not just focusing on a
+single leak haven't we found it or not
+that was the true game changer for the
+clients as well it was very hard in the
+beginning very hard in israel
+by the way but eventually
+the number just popped out and you
+cannot deny the actual contribute
+to the system
+and so what's happening today so fast
+forward a few years
+you've been running for quite some time
+you have a lot of people working with
+you a lot of really amazing people what
+what's happening today with utilities
+around the world
+yeah so again i started the loan in 2013
+right now utilities are around is around
+60 people in
+in the us israel in the uk with three
+offices
+uh and although we started as a water
+leak detection company and my son called
+me a plumber from space
+we don't see ourselves
+we don't see ourselves as a water
+company we see ourselves as an insight
+as a service company meaning we are not
+only focusing focusing on the water
+vertical we're also focusing on other
+verticals where microwave can contribute
+to that
+mainly for infrastructure and mainly for
+earth sciences
+not defense or other stuff
+but
+indeed we give insights to different
+utilities or private companies or even
+bi insights to the to end clients about
+what's going on in the soil what's going
+on with different infrastructure on the
+soil
+uh soil moisture and so on and so on
+right now utilis is working in 55
+countries
+by the way the only way to achieve 55
+countries in seven eight years is remote
+sensing and again that's the true power
+of satellites right i can sit at my home
+with boxers in my backyard just telling
+the study like to take an image and
+that's it i get the data you analyze
+that and give the results even to the
+other side of the world and you know
+what we worked with dubai even five
+years ago where israel didn't have
+relationship with dubai so that's the
+full power of
+of using remote sensing uh we have
+around 400 clients around the world we
+found 35 000 licks
+wow which is a huge number we found
+seven billion gallons of water per year
+wow which also is the huge amount of
+water
+not to say the energy
+so the impact
+yes so we're very proud of the solution
+i i love it these are exactly the sort
+of companies that get me excited uh you
+know the the the impact is you know is
+huge and we can only you know we can
+play a really a really quick simulation
+of how this impact then goes and
+translates into the daily life of every
+person in this world and and the and the
+butterfly effect of it over the years
+and and i think it's just it's just
+incredible it did and and i think
+another very cool thing is that a lot of
+people always wonder why we spend so
+much money on space
+why we have the race for mars while
+we're spending money on satellites why
+would we just waste money when we have
+real issues on our globe and that's
+exactly the the reason scientists using
+you know space and and
+and research around space not define
+solutions to what we have here on earth
+because space or other planets give us
+insights that it's very hard to see on
+our globe and
+that's the way to do it so amazing it is
+a smart investment that showed dividends
+of course
+i i love it lauren thank you so much for
+sharing this time with me i really
+appreciate it
+i before we leave i have a few last
+questions to get to know you a little
+bit better and and i want you to go back
+to your childhood you know before you
+know like even with with geo with the
+geophysics
+is this really what fascinates you as a
+kid before you reach
+academia yeah so
+my mom always loved to say that i went
+to sleep since i was six with with an
+atlas
+so geography was always a big thing for
+me and i slept with the soil maps and
+theology maps and just maps of the world
+and actually collected atlas from all
+around the world with different
+versions so yes geography and you know
+the planet was always big for me since
+very very early early age and i'm glad
+i'm still operating in that market
+and if you go today even looked at in
+your life what what inspires you in your
+day to day
+so what inspires me and it might sounds
+like a cliche but when i look on other
+startups especially in the data industry
+it's very hard to see how those startups
+can really contribute the world and not
+just the shareholders of that company
+and that's not saying anything wrong
+about those companies but for me it's
+very hard to see the value of the end
+clients you know it doesn't have to be
+like the globe even even
+companies that give data for specific
+lines it's very hard to know what they
+are actually selling and what's the roi
+and that's what what's the value and
+what it inspires me and what's actually
+inspires
+our old team and actually
+and also the investors around my team is
+that our solution is very clear
+very intuitive and you can actually see
+the dividends of what you do
+uh
+to everything energy water
+carbon emission and
+stuff like that so that's for me it's a
+real inspiration
+and if i were to ask somebody that works
+with you either as a client or as a
+partner as an employee
+what how would they what words would
+they use to describe lauren
+so the first thing that everyone will
+describe me as is optimistics
+someone shows me an issue and i'm
+instantly finding on a way to solve that
+issue and
+that's compared to other
+let's say developers or other rnd guys
+which the
+favorite answer is no that's not
+possible i always try to think for a way
+to do that even
+too much or even amazing optimistics
+then my r d director always tell me why
+we are why we are wasting time on that
+thing
+and eventually it shows dividends
+because i think that if you really spend
+your time on finding a solution to
+something you can find it in a in
+in a certain way in one one way or
+another so optimism is certainly
+something that always evolved me
+and you say two more things right
+you choose
+any words that would describe you yes
+also i think i'm a very calm person
+uh everything is very laid back and that
+also shows how utilities operates we are
+not in a rush you know to get to the end
+goal or to the exit
+or to you know to really
+end this journey we're very calm we're
+very laid back
+our official statement is to help the
+resiliency of this planet and we are
+doing this very slowly and very surely
+without me you know a real speed to do
+that as fast as possible so i think
+that's a great way to describe me and to
+describe beautylists as well
+um
+and that's it i think i can think about
+the third thing right now wonderful well
+lauren i really want to thank you both
+for these 20 minutes but really for the
+last eight years and the amazing work
+that you're doing the impact that you're
+having on the lives of many others the
+impact that you will have and so i'll
+take this opportunity to think at least
+on my behalf and i and i just love this
+combination of deep research with with
+the commercialization and the and
+positive impact and stay safe and stay
+healthy thank you very much
+thank you for having me
+you

@@ -1,0 +1,588 @@
+where what is the state of play for
+Enterprises at that point so where are
+they what is their state of data how
+prepared are they for what's coming for
+generative AI it's it's amazing question
+because it was such a happy moment for
+me I actually thought it would come
+earlier than November 22 it's because
+Genera models were um rapidly evolving
+since 2017 so 22 was was a big a big
+bang for the industry and to me as a
+technology person is the biggest thing
+about that is it's the first technology
+forever since internet probably that CEO
+is coming to data people and asking for
+this thingy I want that tomorrow right
+so it didn't happen with cloud or big
+data or neural Nets technology people
+were always selling technology to to the
+business site so this is the first time
+it actually came the other way around so
+CE so Chief marketing officer were
+coming to to that data Department saying
+like I want this chat agentic analytics
+whatever I have we have like lots of
+buzs around that I want this experience
+this Vibe for me tomorrow right I want
+to change so the the the expectation yes
+expectation was high right and data
+people of course their knees were
+shaking just you know all of us know how
+data looks like in Enterprise and this
+is why it's it's manually catered and
+delivered within bi tools right
+[Music]
+Ina thank you for being here Mike thank
+you for inviting to me to this it's kind
+of a Deja I would say I have never been
+to a historic cense but being back to to
+the crime scene so to say it's it's
+interesting to be in this location yeah
+yes we're we're actually in the place
+where sense began I believe
+hon and humbled amazing H well you I'm
+really I'm really excited to to have you
+here and to talk about you know
+everything that that you're doing and
+with h with your company but also a
+little bit going backwards to your
+journey you've been at the Forefront of
+data and Ai and Enterprise and this
+intersection for quite some time all the
+way from sap obviously cens and today
+with your own startup so you've seen the
+the world changing but being really at
+the at the Forefront of it and so you
+know let's just go back to the beginning
+for a second tell me a little bit about
+how you got into data and also into AI
+well such a great
+question so young just finished my first
+degree in physics in computer science
+and it was like yeah so the world is
+full of possibilities and it's natural
+for for you to want to try everything so
+I thought it would be exciting to join
+shy gasi organizations at sap back then
+to to change the world right change the
+world of Enterprise yeah so what we did
+we actually invented this application a
+development automation before it was a
+fashion before Google invented it again
+so to say but for Enterprise for it was
+fun and so that was was that your first
+real experience diving into Enterprise
+systems and and this whole world yeah
+yeah I did start my career at a Converse
+in my Ramadan so this is like kind of M
+do and Converse where the major
+Enterprise Hightech companies in Israel
+for quite a while and just it proved
+that Israel can scale and can build
+companies not just startups and so I
+started in Commerce and it was quite a
+journey you know as delivery engineer
+what we call right now devops and
+especially T called traveling the war to
+know the most exotic locations and
+delivering this first wave of iPhone
+installation for example in Europe so I
+got to hold iPhone 2006 like one of the
+first one I'm like how many applications
+does it have it has a screen leaking cat
+right so it was it was pretty amazing
+start yeah tell me a little bit about
+your experience as a technologist coming
+into the world of Enterprise and
+Enterprise systems what was that
+experience like for you I felt there is
+Big disconnect about how technical
+people um perceive organizational
+systems you know being delivery engineer
+in Commerce and installing this billing
+systems and connecting them to
+operational system of Telco companies
+and then at sap where basically what
+happened is um we installed this huge
+operational Financial Erp systems right
+for companies like Walmart Pacific
+Builder and so on and then you bring
+this automation about how you develop
+interfaces but then you talk to business
+people and they perceive their data in
+totally different way and Technical
+people do so it was evident to me back
+then that there is Big disconnect about
+how data is managed and about how data
+is used and I don't think it changed a
+lot since then so let Let's uh help me
+understand the two aspects so data is
+managed data is used what what do the
+what do each of these mean so let's take
+sense for example business intelligence
+company people when they use dashboards
+and I love dashboards you know I open my
+morning with my Pipeline and everything
+looks great and or not great but you
+know this is something to fix being able
+to to basically comprehend your data on
+the daily basis is is just a you know
+prerequisite phone for making
+intelligent decision making the thing is
+usually dashboards are static and not
+flexible enough for for experience so
+for example if you do have more
+questions business questions you have to
+go to analyst and ask them to model new
+data right for you to be able to to ask
+a question and that usually takes
+between two weeks and two months really
+depends on your seniority and complexity
+of the underlying data and right now in
+this wave of Genera VII where everyone
+knows what GPT is capable of and like
+why wouldn't I plug GPT to my database
+and start asking questions and
+unfortunately it's not as simple and it
+was evident to me you know back then
+when I decided to start ILX to to solve
+this exact problem of productization
+about um how generative AI is used in
+Enterprise to support self-service about
+data analytics on scale so so take me to
+back to I guess November
+2022 we have Chad GPT comes out and and
+the rest is history but at that moment
+you sort of have these two big players
+looking at this technology from
+different lenses right you have
+consumers looking at this and saying wow
+wow I can't wait to start using this you
+also have Enterprises saying holy crap
+what's going to happen but also we can't
+wait to start using
+this what H where what is the state of
+play for Enterprises at that point so
+where are they what is their state of
+data how prepared are they for what's
+coming for generative AI it's it's
+amazing question because it was such a
+happy moment for me I actually thought
+it would come earlier than November 20 2
+it's because Genera VI models were um
+rapidly evolving since 2017 so 22 was
+was a big a big bang for the industry
+and to me as a technology person is the
+biggest thing about that is it's a First
+Technology forever since internet
+probably that CEO is coming to data
+people and asking for this thingy I want
+that tomorrow right so it didn't happen
+with cloud or big data or neur Nets
+technology people were always selling
+technology to to the business site so
+this is the first time it actually came
+the other way around so see so Chief
+marketing officer were coming to to that
+data Department saying like I want this
+chat agentic analytics whatever have we
+have like lots of Buzz wordss around
+that I want this experience this Vibe
+for me tomorrow right I want to change
+so the the the expectation yeah the
+expectation was high right and data
+people of course the KN for shaking just
+you know all of us know how data looks
+like in Enterprise and this is why it's
+it's manually catered and delivered
+within bi tools right so far so the
+analytics takes time to create because
+data is not in the shape it could be and
+then our favorite prospects uh companies
+already started to implement like paying
+for those tokens right deploying them on
+the snowflake red shift getting
+hallucinations and I'm like okay so now
+come to ILX what ILX does is is actually
+a automating context and reasoning for
+organizational structure data H and this
+is a you know mouseful way to say that
+you have your business core data and
+your supply chain and your Logistics and
+your data L and in your um Erp systems
+we can connect to all of them and
+basically buil in this semantics and
+context for your whole organization
+automatically but I believe in human and
+the loop I don't believe in Genera which
+takes human out of the loop what I'm
+saying is we should have this
+architectural representation of of
+organizational context but we also have
+to have workflows for people to
+certified certified definition check
+conflicts and all of that so we build
+this workflows on top of them they're
+not mandatory to deploy generative VI
+but it opens up the blackbox so it's
+kind of changing this Paradigm where
+technical people install Technical
+Systems or model data for business
+people in disconnect in disconnect what
+business people actually require it's
+it's building this technical part
+automatically and bringing business
+people in the safer environment
+augmented environment to to basically
+understand how how the cake is is baked
+H business people in augmented
+environments what does that
+mean which means um think about
+marketing right you want to have this
+GPT experience for your marketing people
+because like friendly speaking like when
+when a marketing person comes to me with
+this I want this budget for this survey
+campaign I'm okay bring me the numbers
+where's the numbers where's the data and
+then they have to to go to analyst and
+and ask for this data so imagine this
+word where they can have this chat B
+when they ask questions and get answers
+so for them to get this uh the setup
+usually they would go to data science
+department and data science department
+in GPT space right it will create
+something which is called rug rug is
+basically taking off the shelf model and
+fine-tuning it on organizational data
+let's say from from the hopspot from the
+CRM system and all of that so what we do
+is actually automating this rug right we
+automate the context and reasoning and
+then we say oh wow we found this
+conflict because this channel
+attribution is defined in different ways
+in even in the same system so dear
+marketer please resolve this ambiguity
+before we would like to you know to give
+your answer so this is what we we call
+augmented which means we Sur as
+conflicts of definitions semantics and
+data is always conflicted in big enough
+organizations and for hallucinations to
+not to happen we have to resolve those
+ambiguities usually they're even not
+picked up by technical people because
+they're looking at different parameters
+right and this is where we bring
+augmentation to business users we say
+okay we automate the hard parts of your
+organizational data preparation
+augmentation context building but then
+when semantics is already defined and we
+do find those dispares we bring you on
+the board to to resolve them okay so
+when you actually look at at the
+Enterprise environment and and the
+current state of play walk me through
+from From elex's perspective how how
+this would work so obviously you need
+access to the organization's information
+take me from there yeah so it's crazy
+enough but we as s solution and we work
+with banks insurance companies Pharma
+companies which means uh we do have this
+High degrees of of Regulation to to
+adhere to we only touch organizational
+metadata metadata basically definitions
+and usage information to build a
+semantic context and reasoning and then
+when it's built and the application
+layers are built as well when you start
+a prompting system we pass this
+prompting through the semantic layer
+which we automatically create and then
+to we create the query to data and the
+results are brought back to the user so
+the results or data will never touch ilc
+systems or leave the cloud s is a
+customer premises how does that how does
+that work in today's world where you
+have your assas Cloud solution but you
+get to work with incredibly regulated
+data I mean that's like one of the most
+difficult parts of uh of of working with
+these types of
+customers yes so to us being able to
+deliver this experience in hours not
+weeks is a prerequisite and SAS is the
+only model which allows that right on
+prise installations uh so much more
+cumers are to develop and deliver to
+those same Enterprise customers so for
+highly regulated Industries what ILX
+does is to combine
+VI implementation automation mhm data
+preparation and governance so governance
+is both built in in the data and context
+preparation but it also built in in
+interactions and we say dear Enterprise
+you want to generate AI coupled with
+governance we can deliver that and we
+can only touch metadata of your
+operational systems to deliver that so
+it's kind of risk management and total
+of ownership Enterprises are looking for
+and you know compare it to 80% of tokens
+which are spent usually on fine tuning
+as customization of a Genera VI models
+for your Enterprise data we provide very
+cost effective solution as well and
+being able to to be up and running in
+hours and not months it's something that
+also something which is very lucrative
+to to our prospects and so so tell me
+you know where are we heading you know
+from from the space so So today we're
+middle of December of 2024 so we were
+just about two years into the wave of of
+generative AI so maybe even before we
+talk about where we're heading where are
+we today in the way that you see that
+enterprises are adopting generative AI
+into their systems mhm so there are two
+two kinds of Enterprises those who are
+waiting for you know for for everyone
+else to to prove it works and Roi is
+there and so on so for and the ones
+which are running I do believe that the
+ones who already running is are going to
+be the leaders of you know of the new
+markets right and we see that Financial
+space Insurance farma very advanced in
+Genera VI usage where utility all and
+gas TCO to some extent are um lagging
+behind to to some extent not so much and
+I'm especially passionate about the
+acceleration the industry went through
+during the last year so
+I I do believe that we will have those
+three types of of environments for for
+Genera VI we will have this ad hoc
+prompting environment like this
+experience when you have ad hoc
+questions you'll have generate VII in
+your everyday workflows so for example
+in your CRM system in um in your supply
+chain so you will be using the same
+tools but they're going to be suggestive
+and bring insights and interact with you
+right and eventually will have also
+experience which I called application
+free future right so application free
+future is you have question or task and
+just throw it to Ether or launcher let's
+say and then you have to to have this
+microservices of different applications
+and data microservices to to basically
+combine an experience which can provide
+you the answer or execute your your
+question so this is called application
+free future and for that future to
+happen we do have to have this agenda
+itics workflows everyone speaking about
+but not many people know what they are
+it's basically ability of different
+generative VI agents to collaborate
+right so for example you in in doctor's
+appointment and this you might want to
+to have this re recognition writing
+recognition and you might want to have
+city scan and all of that are different
+agents and you want them to collaborate
+to provide you a recommendation maybe so
+this is a gentic collaboration that we
+do have to have shared context what ILX
+brings is this building context and
+reasoning for both humans to understand
+applications to interact with and
+generate to pass through right so right
+now it's different Paradigm the Paradigm
+is organization is building context for
+specific model for specific data set for
+specific workflow it's not very scalable
+approach it works for now for some of
+the scenarists of course it's not
+scalable and this is why organizations
+actually in majority of the use cases
+have small small tackle ins and not
+really big road maps about generative Vi
+at the moment so you ask me where
+Enterprise is heading I believe in 12
+months we will see all these systems
+which do have this agentic collaboration
+and gentic workflows where instead of
+having just one narrow task which is
+handled by generate TBI you will have
+this a application workflow experience
+workflow when you have a multiple agents
+collaborating and providing you service
+and so you see ILX being creating the
+context for the communication of these
+agents effectively creating a layer of
+context on the organizational data right
+which is obviously fitting from a
+privacy and security and governance
+perspective but also is tuned to take
+the business information and make it
+adaptable and communicative to both the
+humans and the Agents alike so that it
+can be used precisely yeah capturing the
+business acument of specific
+organization and the data data
+structures underlying and building this
+context which is which accessible by all
+involved and I also believe that data is
+going to be everywhere so right now
+organizations are mostly using the
+internal data we see industry clouds
+popping up especially Health cloud in
+Europe for example for insurance
+companies to share information I believe
+we'll have more and more industry clouds
+sharing data between organizations and
+we always see companies using weather
+apis you know to be embedded in in the
+like asthma treatment recommendations so
+we have lots of use cases where it's
+super cool to use external data as well
+so how do you as a startup then go and
+work on capturing this business Acumen
+because it sounds like a big part of the
+work is to actually be able to translate
+and and you said before that a lot of it
+is about conflict resolution in the
+semantics even or the terminology or you
+know defining these terms so you know
+you need to understand them yourself I I
+would assume how does that work from
+your perspective El captures two aspects
+of of this problem so content and
+context content is something which we
+call semantics right semantic model can
+capture the essence of your data the
+essence of existing questions and
+organization and context is where we use
+graph Technologies like graph neural
+Nets which capture the context of of the
+data usage of previous activities it's a
+little bit like intelligence you know
+you understand different former
+interactions to predict the new ones and
+what we also do we we basically train
+those graph models and those semantic
+models on domain specific ontologies we
+created we captured different knowledge
+bases around different industries of
+financial services retail iot and so on
+we capture terminology workflow
+processes metrics analytics and so on WE
+captured them in something which we
+called business
+ontologies big word for knowledge craft
+and then we changed a semantic knowledge
+cphs sorry and graph models on business
+ontologies for specific Industries so
+when we come and onboard new customer
+via the metadata we say okay so Mr X
+your little company but we actually
+capture that you have data which is
+related to you know to mortar Brien um
+you know stores and you do have those
+cpg supply chain information and you
+have some social aspects in your data as
+well because you have social campaign in
+your marketing so we capture all of that
+automatically and build this
+organizational semantics m
+I love it youa tell me a little bit
+about your own your own Journey Running
+Company going from highly technical
+leading teams leading groups leading
+units that are driving business from a
+technology perspective now now in the
+role of a
+CEO exhilarating I should have done it
+sooner yeah you feel that highly
+recommended yeah I feel that um we or at
+least I'm
+um hugely entitled right now to be able
+to bring this technology advancement to
+masses by building GX so I think it was
+so much harder a few years ago to build
+a company you know to and so much
+Capital required to to build deep Tech
+startup nowadays you don't have to have
+50 PhD you might have 10 right with all
+technology around and still you're able
+to deliver the Solutions which are super
+helpful to know to end users and improve
+their life significantly on a personal
+level I'm a married to my sweetheart my
+high school sweetheart and I have a kid
+and we live on beach of Tel Aviv so it's
+kind of it's nice environment to be in
+and combining this lifestyle of a of
+being entrepreneur and being part of
+this community of of um startups in
+Israel is just
+such a supporting environment so to say
+I believe that I'm only able to to build
+and scale ILX because I have support of
+so many people I love it in have an
+amazing journey with elx it sounds like
+a sounds like an exhilerating journey
+and it sounds like the the the vision
+that you have for for bringing
+technology to the masses and how to do
+that through looking at the
+opportunities that generative AI
+presents but then seeing the limitations
+that that we currently have have and the
+way that we've built our data models
+until now and the way that we've
+structured our the interaction between
+the business organization and the
+technical data and then bridging those
+gaps and and then the observation that
+you know we have this short-term road
+map that probably every Enterprise has
+adopted by now because everybody wants a
+piece of the cake but now but you're
+actually looking at it long term and
+saying okay well this is just the
+beginning of something much much bigger
+that happening and yeah we can have
+these short-term wins but the future is
+much broader and much more engaged and
+communicative than than we may even
+expect and it sounds like you think it's
+coming soon it's coming sooner than
+later but I would would like to say that
+ILX is is a Segway where we meet
+customers in different maturity levels
+from AI Readiness of the data to
+actually establish this augmented
+governance to to deploying gen
+all of them start from different point
+it's important to actually have the
+Segway from solution which can cater to
+to IMM medial me need of self service
+from data analytics and up to generative
+deployment and it's part for every
+startup I would say right to meet the
+customers where they are absolutely
+number one rule thank you so much Ina
+thank you sure thanks

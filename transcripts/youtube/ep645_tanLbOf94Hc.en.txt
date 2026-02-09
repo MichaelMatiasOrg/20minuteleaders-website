@@ -1,0 +1,739 @@
+building companies is a is is is a
+an ongoing fixing slash optimization
+process you're constantly running into
+things that either you think are
+completely broken and you're trying to
+fix or you're looking at them and you
+say we can do a lot better they're less
+optimized so that that's that's really
+what you know um uh what your role is as
+as as ceo he's trying to identify those
+types of of things and trying to you
+know provide directors and guidance and
+and and you know when it's you we need
+to roll up your sleeves and and do some
+of the work yourself that's absolutely
+something you need to do as well
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opwest hillel stanford leap
+and birthright excel welcome to another
+episode of 20 minute leaders meet mark
+gaffin ceo of isolate
+mark is a successful ceo entrepreneur
+and cyber security veteran prior to
+joining heist lake mark was the chief
+business officer at nexar and an
+executive in residence at bessemer
+venture partners
+in 2009 gaffin co-founded encapsula and
+after its acquisition by imperva led the
+encapsulate business as ceo to 100
+million dollars in run rate protecting
+millions of websites worldwide and many
+of the world's largest enterprises in
+telcos
+mark is a thought leader and has
+appeared before the us congress fdic and
+federal trade commission on cyber
+security and identity theft topics
+he holds an mba in bsc in computer
+science and economics from talvi
+university
+mark gaffin welcome to 20 minute leaders
+how are you today
+i'm well michael great to be here
+thank you very much for being here a
+leader in the cyber world i'm really
+excited for these next 20 minutes uh
+just like with a lot of episodes i know
+a little bit about where we're gonna
+start but i have no idea where we're
+going to end your career is so
+fascinating today you're the ceo of
+isolate but if i just begin to list the
+different things that you've been a part
+of and most importantly of course
+working at zapper 20 years ago i i
+completely filled my heart with that one
+before we started but
+you know very quick shortly uh you know
+board member of a few amazing companies
+chief business officer of nexar before a
+company that i love
+you are executive in residence in
+bessemer venture partners
+you were the ceo and co-founder of
+encapsula which was acquired by imperva
+and michelle lipscore from imperva was
+also on this show and so
+before the director of product marketing
+of rsa security and a bunch more things
+that i'm not even going to go into right
+now
+first i want to start off grand mark
+what what is how do you describe your
+career if you had to think about you
+know what your journey is like
+what are some thoughts that come to mind
+because you've done so much and you've
+worn so many hats
+you know i i like to describe my career
+as i started off as as a techie
+and you know over the years moved into
+product and business hats um i'm
+actually a big believer of that that
+journey especially in the in the
+high-tech world i think that that in
+order to
+um to lead you've got to have a sound
+technical or product at least uh
+appetite uh and i'm i'm you know if you
+look at a a career that i would try and
+plan that's those that come with some of
+the the the milestones i would look to
+build into a master plan
+i love it i love it okay so
+what i'd love to understand a little bit
+from your perspective is
+where we're at right now specifically
+perhaps in israel or the cyber world and
+the different trends that you know
+perhaps looking at the last
+dozen or so years and what's been
+happening or two dozen years and what's
+been happening and then i'd like to also
+transition a little bit to what you're
+doing today with isolate and more in the
+context of leadership and cyberspace and
+what does it mean to be a leader in this
+domain so take me tell me a little bit
+about the cyberspace in general and what
+you've observed has changed within the
+cyberspace in israel
+i've been in the cyber space since 2005
+my first cyber security company was a
+company called sciota that became part
+of rsa
+most of people don't know that name they
+call it naftali bennett's company but um
+essentially you know my cyber career had
+started about 16 years ago
+um
+and
+i would say that the as technology is
+accelerating so the cyber uh
+requirements or the the the uh the
+threats
+essentially have become um you know even
+more severe
+and i think like
+everyone else over the last 18 or 19
+months since curve is broke the
+acceleration or the digital
+transformation that we're going
+uh through the entire world
+is going to accelerate the need for
+cyber you know for additional cyber
+security measures there's new threats
+that are being introduced there's new
+formats of work with the remote work
+work from anywhere hybrid work uh these
+are all things this is a massive change
+in paradigm you know there's those that
+will say that we've leapfrogged 10 years
+in you know in 18 months in terms of
+progression
+when you have something like this such a
+tightened title wave that's um that's
+taking place there's lots of uh of lots
+of ways to try and address them and that
+that creates a
+great foundation for innovation
+i think i i love that and you know if
+you're looking now at this this idea of
+innovation and you're looking at the
+cyberspace what what have you found
+helpful as you're navigating through
+thinking about these threats and about
+where innovation is going to take place
+in this cat and mouse game what what has
+sort of been sort of your north star in
+thinking through what are the next big
+things that i should be working on
+because you've worked on so many
+different things
+so it's a good point that it very much
+aligns with what we're doing at isolates
+the you know the the title shift from a
+from an i.t perspective
+is the fact that
+so many people are working remotely if
+you know if two years ago
+um most organizations and most
+enterprises
+assume that 80 or 90 of people were
+going to be within the corporate
+firewall 80 to 90 percent of the time
+that's how they built their uh their
+threat their threat models and that's
+how they built their their you know
+their security strategies
+um that all changed so all of a sudden
+we went to almost a hundred percent of
+the people or a hundred percent of the
+time um you know outside of the firewall
+now that means that we are
+using our home networks way way more
+than we've used than before that means
+that we're using our personal devices um
+more than we've used them before for
+corporate stuff we're giving our kids
+often um the opportunity or not the
+opportunity but we need to render our
+corporate devices to to you know to
+members of our family our corporate
+advisors sitting on our kitchen tables
+because we're you know we're working
+from home
+and um i think that everyone's come to
+the realization
+that that's going to stay to some extent
+okay we're not going to go all the way
+back to the office and we're not going
+to stay at home 100 of the time
+we're going to be you know some type of
+an accordion essentially of of of this
+you know the hybrid work but what that
+means really from and if you're planning
+if you're an i.t guy if you're a
+security guy and you're planning your
+strategy you really have to address both
+extreme situations today or you know a
+situation where everyone could be
+working from home because i think no
+one's going to say never again about a
+pandemic because we've been you know
+we've been burned and we're also seeing
+that once you know even throughout this
+pandemic when we've uh uh ruled victory
+we've seen that things are not so uh
+we're we actually aren't so victorious
+and we're kind of back to square one so
+this whole notion of of having to enable
+work from everywhere is a new um
+theme or a new axiom that we need to
+take into consideration where as we
+build our ipn security strategies
+so i want to i want to
+you know dwell on this point for just a
+couple more minutes because i think it's
+fascinating and it's something that we
+all need to stop and think about because
+when i look back at some of the most
+incredible innovations in the cyberspace
+at least in the israeli scene let's say
+checkpoint for example you know we're
+thinking about these firewalls we're
+thinking about these protection systems
+on-prem you know within organizations
+that are going to help us
+be isolated within our organizations so
+what
+what's happening now and where do you
+think we're going to be seeing a lot of
+the cyber shift as we're transitioning
+now to you know working remotely and
+accepting that as a new reality
+especially in a world where we're also
+accepting that for example ppi and
+sensitive data is being used by a lot of
+people and a lot of employees on a lot
+of devices
+so first of all i think we all need to
+recognize the fact that data is a new
+gold or data is the new diamonds or data
+is a new oil call it whatever you want
+but data is the new
+um
+i would call it non-natural resource
+that is super super highly priced and
+highly valued and the same way it's
+valued by corporations and what we can
+do with the data
+that's how value it is by the cyber
+criminals they realize that getting
+their hands on the data has a huge
+amount of potential it's become a high
+priced
+commodity essentially so everyone's
+after you know the data essentially and
+all cyber attacks are essentially out to
+typically get data you do get scenarios
+which is it's totally um financial
+around ransomware we're not trying to
+steal your data we're just trying to
+extort right mostly people want to steal
+data or either to extort you or to use
+that data to extort others um there's
+always a financial incentive behind it
+unless it's it's it's you know nation
+state or or or espionage which is you
+know a big part of the the the cyber
+security space but i would say that you
+know b2b b2c
+is where most of us are focused and
+that's where most of our concerns are
+specifically around our own privacy
+um so assuming that data's the the
+center of gravity it's all about
+protecting the data and it's about
+protecting access to data because we
+need to give different people in the
+organizations and different systems
+access to you know to data the question
+is how do we do this uh securely and
+it's not you know now that there's no
+perimeter and where all of us are
+outside of the firewall um our laptops
+essentially have become our new offices
+so that's that's the new you know that's
+the new office for us so that's the new
+parameter which essentially means that
+there's no perimeter and the question is
+how do we give people the flexibility to
+um
+a do what they need to do on their
+laptop so that they can be productive
+that they can browse the web and they
+can communicate and they can collaborate
+but also how can they touch corporate
+systems and data which are most likely
+sensitive
+without jeopardizing corporate security
+right so effective leadership and in
+cyberspace you know you're coming in
+with your own background and your
+understanding of what's happening here
+and you know effectively you've managed
+to be a very successful executive in a
+variety of companies and so that's not
+by chance what does it mean to be an
+effective leader in your eyes
+specifically in the cyber domain whether
+it's in the interpersonal part in the
+visionary part and what how are you
+bringing that into isolate right now
+you know i don't think that the cyber
+security space is different from a
+leadership from a reader from a
+leadership role than than than any other
+space i just happen to find myself spend
+you know um a lot of time in the space
+become a
+um i won't i won't say i'm an expert but
+as far as i'm concerned i'm you know
+that's an area that i can that i can be
+most uh most effective in because of you
+know the the the experience
+um i think at the end of the day it's
+very much about the people that you um
+that you have on your team it's about
+building you know strong teams you're
+not going to do this journey alone
+building a company is something that's
+uh it's it's a marathon
+um it doesn't take you know typically a
+year or two or three it takes a lot more
+than that
+you need the right people around you the
+ability to execute with the right team
+is going to be
+key and i think it's all about you know
+how do you bring the right people on
+board how do you empower them how do you
+give them the ability to
+on the one hand execute but on the other
+hand and have you know latitude but on
+the other hand stay focused and all stay
+uh stay aligned
+um often there's conflicting interest
+and there's conflicting priorities it's
+how do you keep everyone aligned and
+keep you know keeping everyone on the
+same page but um you know and doing that
+effectively
+and i think that an important question
+though that needs to be asked is also
+why start another company you've you've
+started companies you've been an
+executive in existing companies you've
+been in the venture capital world why
+start another company at this point
+so i didn't actually start isolate i
+joined isolate two years ago as a ceo
+more of a you can call it a professional
+ceo as someone who's been in this role
+before
+so i didn't start isolate but i decided
+to join a very early stage company which
+is
+i i you know with all due respect it's
+way closer to the beginning of the
+journey than to the end of the journey
+um
+it's it's a part of the journey that i
+enjoy it's about figuring out you know
+what customers want what customers need
+trying to find out you know how we can
+um with the building blocks that we have
+how can we address this in the most
+effective way
+um
+it was you know it was also about
+meeting the right people so the you know
+meeting my you know my partner at high
+stall who was the founder of the company
+and the ceo before me and you know we
+saw that we could forge a really good
+partnership in wichita
+you know owns the technical and product
+side um
+and i you know i can focus more on the
+the the business and growing the company
+so you know we found that to be
+in not by starting a company but as we
+you know as we got to know each other
+and as we um
+we got to formulate the idea of me
+coming in
+um
+it sounded like the right you know food
+from us
+um
+i also you know know a lot of the
+investors on the team and i've had
+relationships with them in the past you
+know whether it's bessemer or the the um
+the partners on at teammate which i've
+had interactions with in the past so at
+the end of the day you know the the the
+partners that you that you join the the
+founders the management team the
+investors um a big part of the uh the
+decision is are you joining a you know a
+group of people that you um that you
+want to work with in addition to the
+idea and the potential in the market
+it's a lot easier by the way to pervert
+the product sometimes even to private
+the entire market
+but uh switching out the team and
+investors and founders is a lot harder
+um you know early stage companies as you
+know if i put my investor or my angel
+investor out here on you know for a
+second it's really about the team uh
+again you can change ideas you can
+change directions it's very difficult to
+change the team or the impact of
+changing the team is significant so you
+know that's uh that's why i decided to
+to to join isolate
+and so what what steps did you take to
+make it as smooth of a transition as
+possible no matter what a changing
+leadership or adding to a leadership to
+an existing company
+um you know it's it's not a trivial
+process and
+i'm really curious as to what you know
+with your experience what did you do
+as he transitioned into this role that
+you felt either helped or or didn't help
+make this process a smooth one not just
+for you but also for a lot of the
+employees that were already in the
+company and for the the all the
+different stakeholders that were
+involved
+right so i think that you know the most
+important thing
+to do and this is something that i try
+to do as much as possible is to spend
+the first few months and really learning
+um learning i would say the 360
+of you know what the company which means
+talking to customers understanding you
+know or talking to prospects and
+customers understanding what's you know
+how we're solving their problem
+um to what you know to what extent we
+can solve their problems uh
+understanding uh and talking to all the
+employees in the company understanding
+you know what's driving them are they in
+a good place uh are our teams built
+effectively are we executing and doing
+that you know um top down so
+talking to all the executives talking to
+you all the managers talking to all the
+employees understanding you know
+where we can where we can try and
+optimize
+um and then trying to piece things
+together from an execution perspective
+to see you know how are we executing
+building kpis understanding what are the
+most important things to do trying you
+know there's always
+in any in any business and and this is
+not just a new business that you join
+there's always there's always things to
+fix um companies are a you know all
+building companies is a is
+is a
+an ongoing fixing slash optimization
+process you're constantly running into
+things that either you think are
+completely broken and you're trying to
+fix or you're looking at them and you
+say we can do a lot better they're less
+optimized so that that's that's really
+what you know um uh what your role is as
+as as ceo he's trying to identify those
+types of of things and trying to you
+know provide directors and guidance and
+and you know when it's you we need to
+roll up your sleeves and and do some of
+the work yourself that's absolutely
+something you need to do as well but
+that's really what you know what ceos uh
+should be doing and that's that's you
+know those are the things that i did for
+the first few months
+you know until we built a new strategy
+um a big tidal wave hit us you know as
+we were formulating you know our
+strategy which was covered and you know
+one of the changes that we made um were
+driven by the fact that we anticipated
+that covert would change the workforce
+landscape and we decided to you know to
+address that with you know with with um
+with the product portfolio not the
+product portfolio but the product
+building blocks that we had
+we re-architected a product we built a
+product that would be you know um
+very very effective in a remote
+work type of you know scenario
+that's that's the new isolate for the
+last you know
+14 15 months since we made some of the
+changes we think that the world's
+changed and
+you know i'm i always say that
+building a startup is like is like
+surfing
+you you know you get on your board you
+paddle out into the water and you look
+for a wave
+um and if the wave comes in you can ride
+it great if the weight passes you
+don't try and catch that wave look back
+for other waves startups need to ride
+waves it's really difficult google can
+create a wave facebook can create a wave
+regulatory uh uh you know regulators can
+create waves a single company it's
+really difficult for a single company to
+create a wave if at all startups are
+about riding the wave and and you know
+disrupting existing waves um that's kind
+of my i've never by the way ever gotten
+on a surfboard um i grew up uh five
+minutes five minutes from the beach and
+i you know i i was i was never a surfer
+all my friends were surfers but not me
+no i'm laughing because i love this
+analogy i picked up surfing in the last
+couple months and you know when i'm
+there and i'm and i'm waiting for that
+wave and i'm seeing people try to paddle
+like crazy because they're they're about
+to miss the wave
+most of the time they miss it and what
+they don't realize is that if they were
+to just wait for a few more seconds and
+to look back and breathe then they would
+have time to prepare for this next wave
+that's about to come and sometimes it
+takes minutes sometimes it takes seconds
+but but it's all about that that perfect
+timing and having that conviction and
+doing it you know doing it calmly and
+with a lot of purpose and so i love that
+i love that analogy
+thank you mark take me back to your
+childhood
+before cyber before zapper before sayoda
+where who is mark you know that what
+what really fascinates you where what
+sparks your curiosity you know in
+elementary school in middle school
+i spent most of my my middle school in
+high school
+i actually didn't go to middle school by
+the way i had we we didn't have middle
+school where i granted we grew up we had
+we had priests we had we had school and
+we had uh you know a high school but i
+spent i i spent most of my schooling
+years on a tennis court
+um
+i i was infatuated with tennis i played
+tennis oh i trained you know four or
+five times a week i played tournaments i
+went abroad um it was it was really you
+know the biggest part of my childhood
+was you know was on the tennis court
+um
+so my you know
+great i did fine i did okay at school um
+i liked
+i like maths i like physics i did you
+know those were my majors in in uh um in
+high school i had a really easy path
+with the english um being you know being
+born abroad and growing up in an
+english-speaking house things
+were easy from an english perspective so
+i didn't need to spend a lot of time um
+getting a's for my english tests um so
+that's kind of uh fantastic
+you know
+i love it
+i i love it and if we had a few more
+minutes i would definitely i would i
+would be so happy to go into a
+conversation about tennis and why that
+is such a mentally rigorous game and and
+one of the most incredible sports ever
+as a tennis player myself i can
+definitely relate if you were to look
+today at what inspires you either on a
+personal level or on a professional
+level in the day to day when you wake up
+when you when you do what you do
+where do you gather your personal
+inspiration
+big or small
+but you know when i look at
+um at people i think that the people
+that give me the most inspiration who
+actually are people that have set
+ambitious goals and have achieved them
+and it could and it can really be across
+multiple fronts it's you know um
+it could be
+building a business
+and when i say building a business it
+could be building a successful lemonade
+stand which is not easy in a competitive
+environment or building a massive you
+know high-tech company um
+even building you know a hamburger place
+is is again far away from the the tech
+space it's so difficult to build a
+successful business today the
+competitive landscapes the ability to
+invent something new or to come up with
+a you know with a a a a new concept and
+to you know um craft your way into you
+know into the market make it successful
+those are the things when i when i you
+know when i look at people that have
+really achieved um those types of kind
+of builders i would say builders really
+get me
+excited
+i love it okay mark last question
+what if you had to choose a few words
+that you were to describe yourself
+or if i would ask any of your partners
+previous co-founders employees
+who who is mark what words come to mind
+when i think of mark what what would a
+few of those words be
+um so in no you know order of uh of
+importance i would say um competitive
+um
+yes i'm super competitive i don't know
+if i
+uh love to win or hate to lose more it's
+you know um i think there's
+being being competitive is as has got
+two components to it
+um
+my family is super important to me and i
+would you know articulate myself as a
+family person um my wife my three kids
+um
+you know definitely play a big role
+we've we've we've we've traveled the
+world uh as a family um for the last 15
+years we've lived in lots of different
+locations uh typically because of my
+work
+and that's kind of brought us together
+as as a family very very uh nicely
+um and you know my third i would say i'm
+super patriotic um
+i you know there's
+i i often tell people that i i made
+aliyah for those people that don't speak
+hebrew rasai i immigrated to israel
+three times
+um once as a kid i had very i have i had
+very little to say about it my parents
+uh kind of slept me here at you know at
+an early age their goal was to you know
+build a build a home and a family in in
+you know in israel um and twice after
+that we moved to the us and you know for
+extended periods and we decided to you
+know to move back israel's a big part of
+of my identity i'm super patriotic um
+super keen and and bullish about the the
+the tech scene here in general uh so i
+would say that those are kind of the
+things that uh that that i'm passionate
+about or that uh that define me as and
+and you know my beliefs
+mark thank you very very much todahaba
+this was wonderful
+i cannot wait to share this with
+everybody and thank you for the time and
+the inspiration i can't wait to follow
+your work with isolate and stay safe and
+stay healthy thank you
+excellent and just fyi
+uh moshe lipsco
+from imperva yeah
+he was my commanding officer in the in
+the in the out in the in the army so he
+was magnificent
+excellent um
+small world uh we we are super super
+super tight we've known each other for
+30 years
+incredible amazing amazing thank you
+very very much for a great episode mark

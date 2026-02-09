@@ -1,0 +1,905 @@
+there first of all um you need actually
+researchers who who really care about uh
+the the kind of the real world and
+aren't satisfied just by kind of
+experiments on synthetic data and things
+like that you like you need to be able
+to talk the language of value as in
+value for the customer with your
+researchers right or at least with some
+of them sure um so that was that was one
+thing I learned I learned a lot about
+the import of um
+assumptions um in terms of the
+assumptions that I make for my
+experimentations are they going to um
+are they going to still apply in the
+real world are they good
+assumptions um and I learned a lot about
+the importance of uh evaluating um
+models and algorithms on on real world
+scenarios and on real world data uh
+which by the way is a massive challenge
+When You're Building things that need to
+optimize versus an external system which
+you you can't control um um and that was
+another thing specifically at kenu that
+that if you can't simulate the real
+world then kind of you know either try
+to simulate specific aspects of it that
+you can simulate sure right but don't
+build something which then you know uh
+you're going to rely upon
+and um and then and then actually it's
+it's a you know you can't
+[Music]
+essentially yes cette welcome to 20
+minute leaders thank you so much for
+being here thank you for having me um
+it's it's a pleasure having you here and
+I'm really excited to talk about your
+journey and about you know not just the
+entrepreneurial Journey but the personal
+one ER and talking about everything from
+what you're doing today to to H stuff
+that works and and the different things
+that you've gotten to take a part of
+over the years it sounds like a really
+interesting Journey with a lot of
+different experiences touching on really
+high impact areas from from Health Care
+to accessibility so I'm excited to dive
+in and to unravel a little a little bit
+together so thank you for being here
+thank you thank you looking forward to
+talking so so take me back how did you
+find yourself even in the tech space
+originally so um I grew up in the UK and
+I moved to Israel uh when I was 26 years
+old uh just got married uh finished opan
+relatively quickly and I had come with
+this kind of uh dream of getting into
+kind of business Consulting and and
+things like that like had a degree in
+physics I had spent three years working
+for the Jewish community and um I wanted
+someone to kind of come along and train
+me and what I realized pretty quickly
+was that that Israel wasn't really set
+up for that as in there are a few kind
+of Consulting companies and places where
+they have kind of entry-level training
+programs but most of it wasn't that so I
+started thinking about what my skills
+were I knew that I would had strong
+analytical skills and so I started to
+look for roles in kind of the uh the
+data analysis uh space um obviously uh
+connections are everything here and and
+few uh uh through a few friends that I
+made through the amas CL and things like
+that eventually I found my way to a
+company called super derivatives who it
+was 2008 and they had a platform for
+real-time pricing of financial
+derivatives so uh options and things
+like that their platform was based on
+Market data that had to come uh from
+Brokers and exchanges and things like
+that and there were a lot of quality
+problems with the data that was coming
+in so they needed to come in they
+specifically brought me in for their
+interest rates product uh someone who
+could start to build processes for
+actually understanding the quality of
+data that was coming coming into the
+platform so um that was really
+interesting it was a very interesting
+time to join that kind of company
+because when was this this was in 2008
+so I joined them in August 2008 wow just
+before the uh right before December
+right before the
+crisis um I survived a couple of rounds
+of uh of cutbacks there and I also got
+to witness how the focus of the company
+changed so real-time derivative pricing
+become
+less of a thing when the market is kind
+of shutting down and no one's making any
+deals but
+suddenly it because it's all about
+short-term trading not just that it's
+also just in general the volume of
+Trades went down during the crisis but
+suddenly everyone needed to go back and
+reevaluate portfolios uh throughout the
+crisis and they had just kind of put put
+out a re-evaluation uh product and
+suddenly that got all of the focus and
+there were a lot of new deals that were
+based around that um so it was an
+interesting it was an interesting place
+to learn um I guess after a while I I
+found myself not so connected to the um
+the financial derivative
+space um and through another friend I I
+basically found my way into a company
+called kenu that um that had would had
+built a product for um management and
+optimization of digital marketing
+campaigns at the time specifically
+search engine marketing um and they had
+a budding uh social product and
+basically I joined there as an
+analyst um they needed someone who could
+come in and kind of connect with their
+work they were doing in research with
+their kind of with the real world and
+their customers um they had just gone
+from like a very simple rule-based
+algorithm to this model based we called
+it model based then what I guess we now
+call machine learning but it it was very
+simple linear aggressions and things
+like that but still modelbased uh
+bidding algorithm and it worked in the
+lab and it didn't really work so well in
+their field and no one could really
+explain why um and even for the small
+number of customers who were using it at
+the time no one could really also like
+have the conversation with them about
+what was going wrong and and what was
+the what was the hurle there well I
+think that the research team um it
+varied but I guess the driving force in
+the research team was kind of very um
+orientated towards statistics and and
+and research and with less thought
+necessarily about well the assumptions
+that I'm making here right so for
+instance I I'll give you an example in
+order to Model A and at the time it was
+bidding on keywords in order to model
+the performance of a keyword right as in
+if someone clicks on an ad that was
+triggered by this keyword you know
+what's the probability that they're
+actually going to go and buy something
+sure you need a fairly significant
+amount of data if you're just basing it
+on that uh keyword alone and the
+assumptions that were made for the
+models just didn't exist in the real
+world for the vast majority of keywords
+so it was it was that kind of thing I
+guess those were the kinds of insights
+that I brought in first on the level of
+figuring out who is this going to work
+for and then kind of why is this not
+working for for a whole bunch of people
+and through that we grad ually started
+to kind of rebuild the algorithm uh we
+introduced things like for the first
+time you know like not just learning
+about keyboard performance from one
+keyword but kind of taking a more
+machine learning approach and looking
+across a whole portfolio and things like
+that and I grew in that organization I
+went from kind of being an analyst to
+being more of I guess an algorithm
+developer to a team lead and it was with
+them that I then made the trip out to
+California for 3 years they needed that
+that function of a someone who who
+speaks the language of data I guess it
+was starting to become then a data
+scientist sure uh who can also talk to
+uh customers kind of in their own
+language um and make Concepts that are
+difficult to understand easier to
+understand they really felt they needed
+that in the field and they wanted to
+build a team so I I moved to San
+Francisco uh for a few years to kind of
+build up that team what what did you
+learn about this intersection of data
+data analysis and and the real world
+scenarios because it sounds like you're
+from both of these experiences with
+super derivative and also with canu it's
+a lot about how do you take data but
+then make sense of it in the real
+world yeah well so I think what I
+learned was that first of all um you
+need actually researchers who who really
+care about uh the the kind of the real
+world and aren't satisfied just by kind
+of experiments on synthetic data and
+things like that you like you need to be
+able to talk the language of value as in
+value for the customer with your
+researchers right or at least with some
+of them sure um so that was that was one
+thing I learned I learned a lot about
+the importance of um
+assumptions um in terms of the
+assumptions that I make from my
+experimentations are they going to um
+are they going to still apply in the
+real world are they good
+assumptions um and I learned a lot about
+the importance of uh evaluating um
+models and algorithms on on real world
+scenarios and Onre World data uh which
+by the way is a massive challenge when
+you're building things that need to
+optimize versus an external system which
+you you can't control um um and that was
+another thing specifically at kenu that
+that if you can't simulate the real
+world then kind of you know either try
+to simulate specific aspects of it that
+you can simulate sure right but don't
+build something which then you know uh
+you're going to rely upon and um and
+then and then actually it's it's a you
+know can't essentially makes a lot of
+sense so so what's next up on the
+journey so uh couple of years into my
+time in uh in California um we uh the
+leader of the research team in kenu uh
+left and um um by that point I had a
+very good relationship with the CTO and
+I had a quite a Clear Vision for what I
+thought research and kenu needed to do
+and so uh we had a conversation he asked
+me to come back and manage the team it
+was a little bit of a
+from a personal perspective the timing
+uh the timing of my moves in general has
+not been great as my wife will
+definitely tell you uh we moved to
+California with a 4-month old baby and
+we came back with a six-month old baby
+wow okay um but um but yeah so uh he
+asked me to come back and lead the team
+um uh when I came back the the kind of
+the key challenge the the there were a
+few key challenges that I need to solve
+one was a a product strategy challenge
+which was the until that point we had
+been entirely you know our Flagship uh
+products from the research team were
+very much about um bid optimization what
+had happened was that the Publishers
+like Google and Facebook they were
+starting to take care of bid
+optimization and they had more data and
+more uh capabilities they can do
+realtime uh bidding and so it started to
+reach the point where our algorithms
+could kind of no longer compete with
+them and there was this story well you
+don't want to give your data to Google
+you know and all of that sort of stuff
+and sure probably quite a good story but
+it's still not strong enough for for
+businesses not to want those
+optimization
+capabilities since then due to some of
+the uh anti- tracking stuff that Apple
+has has done the situation has become
+more complicated again but at the time
+we needed to kind of make a a bold
+decision of well actually we're going to
+start leaving some of that to the
+Publishers and come in on a higher level
+right so we need a portfolio
+optimization that can run on top of
+Google's bid optimization we need we
+need to start to build measurement tools
+that can help you understand the
+incrementality of one channel versus
+another so there was kind of a an
+attempt to kind of repurpose the team
+towards uh those kind of directions and
+then the other thing was that we were
+still very much in the place
+that as a research group the amount of
+research capability that we had didn't
+align with the amount of engineering
+resources that were available both to
+enable the research and then productize
+the research um and on the other
+hand um there were so many things that
+research had done that no one else
+really got that there was also a big
+burden of support on Research as well um
+and so uh during my my last couple of
+years there I I kind of led a process
+where we actually gradually moved
+towards more of a kind of Guild
+structure within the research team first
+of all so we had engineers and data
+scientists within the research team and
+instead of having an engineering team
+and a data science team and researched
+then we we integrated them and and and
+had Guild leads and then eventually we
+uh we actually integrated the data
+scientists into the R&amp;D organization um
+and maintained the kind of data science
+Guild but um moved all of kind of
+support and um moved all of support into
+the white art R&amp;D organization as well
+as um in making it so that the research
+road map was part of the product road
+map and so we were more aligned on
+engineering resources and things like
+that wow okay so quite a journey yeah I
+mean it was I I like um I owe a lot of
+my professional skills and experience to
+my time in in kenu and being given the
+opportunity to kind of be tested against
+all of these all of these different
+kinds of challenges absolutely H how did
+you end up in in stuff that works so a a
+a guy who had been uh at kenu uh uh
+several years previous he had been a a
+really strong kind of architect software
+engineer at kenu he kind of reached out
+to me and he said hey I'm starting to uh
+work on this uh uh startup in the um in
+their medical space and you know I don't
+know about you but for me it was it was
+it was good to to be able to start doing
+something good rather than just
+something in the marketing space and
+working with this uh um their their CEO
+uh founder who was ya Elish who uh who
+had come from uh who had come from ways
+and knew an incredible amount about
+about crowdsourcing and so sure um you
+know it was kind of an opportunity so I
+met him and then um and then I met yel
+and I was really excited by what they
+were doing and she gave me some insight
+into the some of the kind of data that
+um they already had and I was like yeah
+I also at the time was feeling an itch
+to be a bit more Hands-On again um and
+at the time you know kenu was the
+earliest startup I had joined and it was
+already 80 people and I wanted to see
+what it was like to kind of build
+something from the ground up sure uh so
+yeah so so so talking me a littleit
+about what what that Vision was and and
+what and what and the four you spent
+four years uh building it out
+what was the original vision and how did
+it play out as a story so um I think the
+vision was
+um I guess we could start with the
+problem sure the the problem is that um
+um so many people deal with chronic
+medical conditions um and all of these
+medical conditions they just have to be
+managed right and whether or not it's
+going to be managed well for you depends
+on a whole bunch of different things
+primarily the quality of your carer
+right whether you've got access to kind
+of an expert in the field or or or
+someone else and then also how well your
+specific you know presentation of a
+given condition fits with kind of that
+condition that condition in general
+right because you know no you know it's
+not like one size fits all here right
+and you know I I know this personally I
+don't mind talking about it I have I
+have a son with ADHD um and and and my
+daughter my oldest daughter also has
+ADHD and they have completely different
+ADHD she is she is inattentive right um
+and and he is is more hyperactive and
+impulsive right and the the treatments
+that are required for those two
+different types of you know ADHD are
+very very different and the
+the so the stuff that works for each of
+them is different yes the stuff that
+works is different um and so the idea
+was well if we can actually crowdsource
+data um from people who are actually
+taking the treatments and have had a
+wide range of experiences and then
+correlate that with some of the other
+stuff that they're telling us then maybe
+we can actually find uh treatments that
+work better especially for specific
+individuals or or sub so sounds like a
+very practical Hands-On approach let's
+get people out that are under the court
+that have these issues or that are using
+different treatments share I just
+recently learned about a somebody that
+has a a Parkinson's and their family
+members who who are assisting them are
+talking about how there's these forums
+these communities of people who have
+Parkinson's where they share these
+treatments and a lot of the times these
+are treatments that are not necessarily
+ones that are coming from the doctor
+these are coming from Real World real
+patients real people that are that need
+that are actually testing them out yeah
+and that was another huge part of the
+thesis that people are already doing
+this they're already sharing their
+experiences they're already on forums
+they're already asking questions but no
+one is doing anything to structure that
+uh data and kind of learn anything from
+it sure um so we started with a
+survey um actually yel started with a
+survey that she built on Google forms
+and and and sent to a specific Community
+a specific condition and that was the
+initial data that I researched and from
+that we came to the conclusion okay well
+now we need to actually build a product
+with a
+survey um so um and and you know it was
+a a team we had a a a physician on the
+team uh we had someone who was kind of
+more of an expertise in kind of data Ops
+and and and and things like that um we
+had a strong couple of strong front
+Enders and we kind of we went we uh
+built this survey um it was very and I
+mean I think this is y's Brilliance uh
+there um the thing that she's really
+good at is kind of getting people to
+share um so both in terms of how we
+built the survey the fact that it was
+the survey was very informal a lot of
+free text rather than you having to
+complex things where you have to search
+for a specific symptom and then select
+it and then move it into a list and all
+of that sort of stuff it was just write
+down your symptoms will'll deal with the
+problem of like normalizing them
+afterwards sure um and also she from the
+very beginning we had this kind of uh
+you know this this idea that you want to
+build your own community so that you can
+get more more data and more learnings
+from it so referral was a big thing
+bringing other people onto the platform
+getting them to kind of fill in the
+survey all of that sort of stuff um
+these were all um uh you know big parts
+of the system and and data started to
+come in
+um we uh and and very quickly it got to
+the point where I was kind of building a
+set of insights off of the data first of
+all descriptive statistics and things
+like that we started normalizing all of
+that free text Data symptoms treatments
+and within a few months I was kind of
+building the first I would say
+descriptive model of uh of kind of
+treatment Effectiveness not personalized
+at all just kind of based on what we've
+told us what might be the effectiveness
+range of a given treatment also
+considering the fact that about some
+treatments we maybe had 10 people who
+had tried them and others hundreds and
+we didn't just want to assume that the
+ones that we had the most data about
+were the best but on the other hand we
+did have to build in uncertainty for for
+the ones that we didn't have and other
+kind of potential biases mhm and so what
+what so so what happened in the journey
+so you know startup everyone wears
+multiple caps I was also very uh very
+involved in user acquisition that was
+partly because I had just come from a
+digital marketing company um so one of
+the things that we did very successfully
+in the beginning was um was Facebook ads
+um and getting people to sign up uh
+Facebook ads we had like in the
+beginning very low cost of user
+acquisition and all of that sort of
+stuff very quickly we were getting to
+tens of thousands and then hundreds of
+thousands of people who had kind of uh
+filled in the filled in the survey and
+that enabled me as well to kind of grow
+a team start looking at um both
+there were kind of two things that
+primarily the research focused on there
+so one was processing all of this text
+Data um llms weren't really there yet
+but Transformers were um and so doing
+things like named entity recognition and
+stuff like that kind of incorporating
+that into the platform so we didn't have
+to human normalize everything and then
+the other was very much you know um
+building out models for kind of specific
+insights that we were looking to get
+from the data where whe whether it's the
+whole question of treatment
+Effectiveness or detrimental treatments
+or uh you know what is the
+diagnostic um um significance of a given
+symptom right so so think about how
+there are some symptoms that are very
+common in lots of different chronic
+medical conditions like fatigue right or
+joint pain right what are the symptoms
+though that are very indicative of a
+kind of given a condition and then from
+there also to start building out a kind
+of diagnostic model or misdiagnosis
+model um that was really cool uh using
+Transformers to kind of directly process
+the text Data combine it with some of
+the categorical and numeric data that we
+had like people's ages and gender and
+all of that sort of stuff and then and
+then um you know being able to classify
+basically each survey to what uh
+condition it beong it belonged to um as
+part of that we built this visual
+representation this map of chronic
+medical conditions which is still kind
+of there on the homepage of uh of stuff
+that works where we basically took the
+the the hidden layer of that model and
+and uh which was an embedding and and
+did dimensionality reduction to kind of
+turn that into a map that was we learned
+some interesting interesting things for
+that about which conditions were
+actually similar to one another and and
+all of that kind of thing uh were there
+any major things that surprised you in
+your findings as you were looking into
+the space well first of all I guess um
+it surprised me the number of different
+things that people will try for a uh for
+a given condition both individually like
+some people will come and they will say
+they've tried 20 different things but
+also across the number of people who are
+who are you know who are in that
+Community I learned some stuff about you
+know eventually we got into the whole
+area of uh causal uh modeling but even
+before we got to that point we started
+to think about the kind of potential
+biases and the data sure right so for
+instance cannabis right was ranked
+really highly across a lot in treatments
+across a lot of different different
+conditions right so on the one hand you
+know I don't want be a skeptic and say
+that's all that's all bias like the
+medical community probably hasn't done
+enough in understanding what you know
+other the potential actual real benefits
+of cannabis but on the other hand you
+got to think if someone took cannabis
+then there's an ideological component
+there right like most people who take
+cannabis are predis for their condition
+are predisposed to taking cannabis and
+therefore kind of more likely to uh to
+kind of rank that as effective so it's
+kind of like how do you how do you
+isolate those kind of uh uh you know
+pieces of noise in the the data and
+things like that so I if that was a it
+it was something that I knew kind of
+theoretically but kind of actually
+seeing it in the in the data and
+understanding that we did have this kind
+of this thing that almost the more kind
+of the more esoteric the treatment the
+more likely it would be that the people
+who who who found it right and decided
+rather than someone telling them to take
+it they they they kind of came to that
+conclusion themselves the more likely
+they were to then become evangelists for
+that sort of thing and and and rate it
+really highly so that was kind of it was
+an interesting and it was an interesting
+challenge at the end of the day um for
+the whole proposal of of of kind of uh
+you know identifying uh treatment data
+another thing that I found really
+interesting was that um actually people
+weren't necessarily in it for the data
+um you would think that you know with
+face Facebook and all of these other
+social platforms people had enough
+spaces to come and talk about their
+condition but actually one of the one of
+the things that was most you know in
+terms of uh user um engagement effective
+was the discussion you know we built a
+discussion forum and a uh and a a a
+place to ask research questions and all
+of that sort of stuff and those things
+were were actually really really popular
+so it surprised me as well how much
+people were willing to put into this
+without necessarily getting out the end
+game of here you're going to find a you
+know a treatment that that works for you
+um how did you get to
+accessibility so so
+um at some point uh you know I could
+kind of see that I had reached the limit
+of what I could do I guess um in stuff
+that works and market conditions other
+things made me start thinking about okay
+maybe I want to move on um and on the
+day I kind of decided that I wanted to
+move on I sat down and I thought to
+myself all right this time I'm not just
+going to like I'm not going to keep
+doing this thing where someone reaches
+out to me with an interesting
+opportunity and I end up taking that
+opportunity I'm going to create a short
+list of things that I actually want from
+my next role and let's see if I can you
+know to what extent I can get them so I
+so I wanted to be in a company that was
+doing good I wanted to have you know
+really trust the founders I wanted to be
+at their management table and I wanted
+to join a company where there was
+already a research team because I'd
+always been it was kind of the opposite
+of my previous where I wanted to be more
+Hands-On now I wanted to see what I
+could do as a manager without the
+constant uh impulse uh to be to be
+Hands-On and so um that day a friend of
+my brothers reached out to me with this
+role uh um evinced um and I L you know I
+looked at the role and I met uh G first
+of all uh the uh co-founder in the GM
+Israel um and you know he explained to
+me what they were doing and what the
+setup was and it just it sounded really
+really
+interesting um and so we actually went
+through a very very quick uh kind of uh
+process like within a week I think I met
+G and then I met um Asia who was a data
+science team lead and um and uh Ben who
+uh was the CT who's the
+CTO
+um there was a i I think a good
+chemistry and uh kind of a good match
+for the things that I had done with what
+what they were looking for at the end of
+the day they wanted someone to kind of
+really organize and lead the research
+efforts and focus them on value on uh um
+and and so um and so I ended up joining
+um um joining events and um it's been
+really awesome actually um it's
+definitely the uh and when was this this
+was in uh
+2022 uh so two and a half years ago now
+amazing and so tell me what is the state
+of accessibility today in in the
+digitized world you're obviously looking
+at at the space from a bird's eye view
+and you have a quite a big quite a lot
+of data to look at so how do you what
+are you seeing here so um there's
+there's so many kind of different ways
+to look at that question so I guess um
+first of all um one of the things that
+it just stands out is how much
+accessibility as a need is growing and I
+don't mean the number of people who
+actually you know um need accessibility
+as end users but I mean the number of
+companies that have suddenly woken up
+and realize that this is something they
+have to do something about um mostly for
+regulatory reasons uh but not only just
+kind of continues to grow and grow so
+this is very much a uh you know a a
+growing area a growing need for for
+technology uh in in in my opinion I
+guess um and I say in my opinion because
+the other thing that you learn very
+quickly about accessibility is that
+there are kind of two extremes to trying
+to solve the the pro the problem outside
+I think of what we're doing one is very
+very reliant on um human Auditors human
+testers people who will go through your
+uh website or your mobile application
+and will tell you the problem is and
+then you'll turn that into you know a
+set of uh uh bugs or product
+requirements and things like that and
+then someone will go and do that and
+then you'll do that again maybe after a
+little while in the meantime you're
+still releasing features and stuff like
+that which have accessibility bugs in
+them and you just fix them you know um
+um going backwards um on the other hand
+there's a couple of um players who claim
+to you know one line of JavaScript on
+your website and will automatically fix
+all of your accessibility issues right
+and that's a technology first approach
+but unfortunately it's it's also a
+fantasy um because the thing about
+accessibility is
+that in the intention of the product and
+the developer is really really important
+especially around the more complex areas
+of assisted Technologies right so it's
+fairly easy to detect and solve color
+contrast issues right but if we're
+talking about the experience of a screen
+reader user or a keyboard user
+then in order to know what the assisted
+technology is supposed to expose to the
+user and how they're supposed to be able
+to interact with it you actually have to
+understand the in intention of the you
+know of the of the design and of the
+product right right down to the level of
+this UI component serves as a piece of
+site navigation or as an menu of actions
+they sound really similar but they're
+very different from an assist of
+Technology uh perspective interesting um
+and so where evinced has come kind of
+come into the market is that we we're
+taking a technology first approach to
+accessibility but with a big focus on
+helping developers and
+designers detect and prevent
+accessibility problems um so it's not
+about just send it to production and
+then either audit it and fix it or some
+magic will try and fix it it's actually
+about and run
+time yeah well in development so we as
+they're as they're writing the the
+website and as they're writing the
+product exactly it's uh you know how do
+you make sure that a design comes with
+all of the things that it needs so that
+a developer can build accessibly how do
+you then find all of the accessibility
+problems that might exist during
+development whether it's while I'm
+building a component or while I'm
+building a feature or something like
+that and that's where all of our
+technology is is those are the places
+where our technology is geared towards
+like everyone we've also seen the growth
+of um of geni and so we've also been
+opportunistic in those areas so if it
+hadn't been for llms I don't think we
+would have a AI chatbot in the market
+that is geared towards developers to
+help answer questions about
+accessibility which is kind of a bit of
+an offshoot of the work that we're doing
+but um um but our main focus is very
+much around detection prevention and to
+some extent providing remediation but
+not automatically runtime but rather to
+the developer this is how you might go
+about fixing this problem um and so
+educating the developers on on kind of
+how to solve that I what's been the most
+fun experience of being a part of this
+journey so far for you um well I'll say
+in general what I really love about my
+role at evinced is that it's not just
+one thing um and so um you know I know
+that there are some research managers
+who who are really in it for the uh kind
+of the I guess what you would call the
+data science side of things so models uh
+machine learning Ai and that's and that
+sort of thing my group kind of does a
+bit of everything from writing rule
+based algorithms in JavaScript to um
+machine learning using computer vision
+to for instance identify different types
+of elements on a web page to as I
+mention this kind of uh you know chatbot
+that that that we built so that that
+breadth of kind of different ways that
+we can bring value and impact the
+customer is something that I personally
+uh really enjoy it also gives me the
+opportunity to to as a group you know
+have both short-term and long-term
+achievements right so we can do
+things you know which are kind of
+perhaps lighter on the science side but
+provide immate value and then we can
+also work on longer term strategic Pro
+uh projects which are going to then
+change the way that we do things in the
+future so those are the kind of on a
+high level the most fun things I will
+say that
+specifically um we built a a new product
+uh called the unit tester component
+tester it's completely non AI it's pure
+kind of uh rule based and it just it all
+it took was kind of challenging the
+assumptions of our our product what if
+we already knew what was the kind of
+component someone was trying to build
+and what if we had the ability to
+interact with the page what we what
+could we do so we kind of started with
+that that question and then we built a
+whole product out of the the you know
+based off of those
+assumptions um and then the they just um
+seeing how you know seeing this new fi
+field of things like Rag and uh prompt
+engineering and stuff like that
+imerge um has also been really fun also
+like actually one of the most
+challenging things I've I've done but
+also most enjoyable was hiring a gen
+engineer um like uh which we did half a
+year ago and it took about four or five
+months um and and just the number of
+different profiles of people that kind
+of like come from that kind of role and
+finding the exact mix of what you're
+looking for um was really was really
+interesting I got to meet loads of
+really interesting people and the person
+who we hired to ear is amazing so you
+know it's uh it's uh that was very
+fulfilling and interesting sounds like
+an incredible journey all around you see
+thank you so so much for being here and
+for sharing these insights with me and
+for sharing with me your journey it's
+super fascinating and best of luck
+continuing with with what you're doing
+and whatever else comes in the journey
+as well sounds like very important work
+so thank you thank you very much thank
+you

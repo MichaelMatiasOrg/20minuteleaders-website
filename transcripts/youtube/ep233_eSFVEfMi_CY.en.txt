@@ -1,0 +1,668 @@
+i would sit down with the engineers the
+developers of the software and say
+explain this to me so that i completely
+understood it
+and only then could i write about it
+because
+i mean if you've ever tried to explain
+something you don't understand
+it doesn't work right but if you
+understand it you can take
+what is complex and make it simple
+[Music]
+welcome to 20 minute leaders thank you
+for joining me how are you
+i'm good thanks for having me and for
+inviting me of course thank you where
+are you calling from right now
+i'm in the san francisco bay area i live
+in marin county just north of san
+francisco
+wonderful it's a beautiful beautiful
+area i really enjoyed going hiking there
+before covert and hopefully after covet
+as well
+more than 30 years of experience in the
+tech and software industry
+but it all starts with nothing else but
+a major in drama in french
+how does that happen exactly
+how does that happen i'm not quite sure
+but i'll tell you i'll tell you the
+brief story of how it all went down
+so i got out of university with a degree
+in drama in french and
+you know realized that being an actor
+which i aspired to be is a really hard
+work
+and i hated going to auditions and i
+realized that wasn't for me
+so i had to get a job my first job out
+of school was being a french teacher but
+soon after that i got a job at the
+french trade commission in new york city
+where i was living when they introduced
+computers for the first time
+and i it turned out yeah this is going
+way way back this
+dates me i'm more than twice your age i
+think michael but this was like the
+original pcs uh the ibm pcs back in the
+80s
+and it turned out i was a quick study
+and i
+um i learned how to use them i figured
+out how to use them pretty well
+but what i was really good at was
+explaining how to use them to the people
+who didn't understand and who were kind
+of scared by
+and so that led me that was sort of the
+crucial
+step in my career that led me to the
+tech industry i
+decided to leave new york back in the
+late 80s and moved to california where
+i'd grown up in the bay area and i um
+decided based on advice from a friend
+that i was going to try to become a
+technical writer because what technical
+writers do is actually translate
+technical information into something
+digestible and understandable by a lay
+person and so
+this is like 1989 time frame
+and i was applying to the very few
+software companies that were around
+and one of them happened to be adobe and
+so
+back in 1989 i'm having this interview
+at adobe
+and they're asking me questions like
+what do you know about
+print reproduction and photography and
+the answer out to all of those questions
+was i know nothing
+but they hired me to be a technical
+writer and my first assignment was
+to write the tutorial for photoshop
+version 1.0
+no really seriously yes
+yes and if you give me a minute i'll
+probably i have a copy here i'm sure
+i'll pull it out of my drawer
+wow that is so cool can you see that
+yeah wow that was 1989 it actually came
+out in 1990 so that was my first job in
+tech
+you you wrote a book basically that was
+your first published book
+exactly exactly and i wrote several
+after
+for photoshop and illustrator and
+premiere and all sorts of adobe products
+and then
+and then what happened after that is
+because i was young and it was
+early days and there was so much going
+on in silicon valley as i
+moved around from company to company so
+i went from
+adobe to symantec um actually
+that's not the order i went from adobe
+to efi
+to a startup symantec and then finally
+autodesk so i basically
+in 10 years from 89 to 99 i was a
+technical writer at five different
+companies in the valley
+and then in 99 i i landed at autodesk
+and i ended up staying at autodesk for
+20 years
+right
+so talk to me about this crazy journey
+because you you end up
+as vice president at autodesk which is
+incredible by itself but i bet it's
+but it's always the journey that's even
+more impressive so talk to me about the
+different
+stepping blogs that you've gone through
+during your time at autodesk
+well as i said i started as a writer
+back in 99 and what happened
+pretty soon after i started is that my
+manager
+decided that she wanted me to be a
+manager she said she needed a manager
+she needed someone to manage the writers
+and she saw a potential in me uh for
+leadership and management and
+i hadn't aspired to that at all michael
+i was just you know i was happy doing
+writing
+and yet i said well i'll give it a try
+she kind of twisted my arm
+and so i started being a manager of
+other technical writers
+and then it turned out i love that
+because i'm very much a people person
+and i love the
+figuring out how people tick and that
+everyone's different and that
+you can't manage you know 10 different
+people in the same way and so
+i got into management and and then i did
+that for several years
+leading the technical writers and then i
+decided i was bored
+and you know i'd been doing technical
+writing for 10 years
+and i'd managed writers for a few more
+years and i'm like i want to learn
+something totally new this is
+kind of how i am when i that's why i
+moved around so much for those those
+first 10 years i just wanted to learn
+new things so
+i started looking around for a new job
+both
+inside of autodesk and outside and it
+turned out there was this really
+interesting job
+internally to lead a team of engineers
+um
+who were managing our software for
+localization
+so for those of you who don't know
+localization is actually getting
+everything translated and ready
+for international markets and there's
+this very specific software that they
+were managing
+that was really complex and they needed
+a new
+manager for the team so i applied for
+that job and
+that was for me a real stepping stone
+because you know going from managing
+writers where i could do the work to
+managing engineers where i couldn't do
+the work that they did
+was a real big you know jump for me and
+i had to
+you know interview with a zillion people
+to get that job and and i
+and i got it so that was my first job
+out of my comfort zone really
+that that's incredible and now i have to
+understand a little bit better this
+process of being a technical writer
+and for example taking the photoshop
+version 1.0
+a guide for the layperson well
+talk to me a little bit about that
+process i don't think neither myself nor
+most of my friends know really what what
+goes into
+writing these guides so so how does that
+process actually look
+yeah and you know what's so interesting
+i mean even the terminology i don't
+think we even use the term technical
+writer anymore it's often
+content designer content developer is
+much more common now
+right he's often seen as part of design
+and ux and all of that but
+but back in the day we call it technical
+writing but what it really is and
+you know you have all you and everyone
+else whoever listens to this
+has experienced bad technical writing
+it's when you buy something and you get
+the instructions
+and you can't follow them or they're
+just plain wrong or they don't make
+sense
+what what good technical writing is is
+that the writer sits down and truly
+learns the software
+like inside and out or whatever it is
+hardware software i spent so my process
+was
+i would learn everything i could on my
+own i would read whatever specifications
+i would play with the software
+but then i would sit down with the
+engineers the developers of the software
+and say explain this to me
+so that i completely understood it and
+only then
+could i write about it because i mean if
+you've ever tried to explain something
+you don't understand
+it doesn't work right but if you
+understand it
+you can take what is complex and make it
+simple
+and i think people i mean this is one of
+the things i really learned and as i got
+better as a writer is
+how can you take something infinitely
+complicated
+and make it as simple as possible and
+that was always my goal
+now one of your you mentioned to me
+before this
+that you know going back to your major
+drama in french
+it kind of played an interesting role in
+your career
+as it was unfolding into the different
+perspectives and
+and the skill sets that you had while
+they didn't seem to align with the
+positions and what you had to
+or you had to use they they actually
+were pretty beneficial
+tell me a little bit about how that came
+about yeah i thought about that over the
+years because it's not necessarily
+obvious but
+you know one thing i think is whenever
+you study and learn a
+foreign language and i lived in france
+and i'm really fluent in french so i was
+able to
+immerse myself in another language and
+culture i think that makes you just
+much more adaptable to
+different cultures and different
+perspectives because you've learned to
+think in another language
+i think that really helps in just i mean
+i've worked in very international
+companies so
+working with people from different
+cultures whose first language is not
+english and
+so to me it's always about communicating
+clearly trying to understand the other
+person i think that has really
+served me well and then from drama i
+mean drama is one of these
+underestimated skills i think because
+you know certainly acting you learn to
+you learn to listen to the other person
+you learn to improvise because
+unexpected things happen
+you learn to communicate in both verbal
+and non-verbal ways
+and you learn i think the thing that um
+certainly stage acting and i know
+i never did you know film but i know
+this is true it's such a collaborative
+process
+you know the actor is only as good as
+the director and the lighting and the
+costumes and everything else
+and what i loved about theater is the
+collaborative nature of it and
+i really saw the parallels in developing
+software because
+software is not just the software
+developer it's the designer it's the
+product manager it's the marketing
+people and the sales people and those
+technical writers and the qa people and
+all of that is what makes a great
+product and that's the same in theater
+all of those skills are transferable i i
+have to look back you know to my
+high school days i was a huge musical
+theater geek i still am
+a musical theater fan but i used to take
+part in every musical and every play
+that we had in school my
+my dream as a child was to be an an
+actor on stage for the rest of my life i
+turned out that i
+that i fell in love with computers and
+software and so that's where i'm i'm at
+now but
+but looking back uh i i see it in every
+single aspect of my life i see it in my
+relationships i see it in the way that i
+i communicate with people this
+collaborative nature of what you're
+saying and you mentioned that
+you're only as good as as you are as a
+group and
+being on stage remember in the shows you
+know we were kids we made mistakes all
+the time somebody would forget their
+lines in the middle of the play
+or this prop would fall from the sky and
+you
+we would find ourselves in this
+situation where we realize that you know
+we can't look good
+if we distance ourselves from the
+problem we have to go at it together
+and if we try to distance ourselves
+we're only doing harm both to ourselves
+and to
+and to everybody else and so i i really
+really appreciate this
+insight and i couldn't agree more with
+it yeah so
+so it's not obvious that drama and
+french are the perfect preparation to
+eventually become vp of engineering as a
+software company
+but in my mind it couldn't have been
+better honestly so if anybody's
+listening to this from stanford and
+they're studying cs
+consider moving to the drama or foreign
+language departments and
+you'll you'll get it perhaps to the same
+spot
+but along the way you you make this
+pretty radical transition from being
+vice president at an amazing company
+like autodesk
+to a starting to speak to others and to
+share some of the key insights
+that you've gained along your career
+some of it is about compassion
+about empathy about acceptance so what
+are what are some of those insights
+well i think i have to backtrack a
+little bit uh to tell you how i got to
+that so um you know we sort of stopped
+with my career at
+i got to manage some engineers and then
+many years went by and i ended up taking
+on
+a series of other leadership positions
+in the company but
+to get to that vp of engineering job i
+had i had gotten to a senior director
+role i led a big department in the
+company
+but to get to that vp role i had to
+uh basically that the guy who was hiring
+for that role
+said you know minette you know you've
+got a great track record here i know
+you're a good leader
+but you have two strikes against you and
+he was very clear about those two
+strikes you said one
+you were never an engineer so you have
+to gain credibility with the engineering
+community
+because you know although you've been in
+tech and you are technical you were
+you weren't the one developing software
+so you've got to gain credibility
+and two he said you're a woman and the
+engineering leadership here is a boys
+club
+and so you're going to have to break
+into the boys club and so
+what happened is i did not get the job
+right away i had to do a 90-day trial
+and during those 90 days yeah i did an
+acting role so i was acting vp for three
+months
+and yeah and during those three months i
+basically had to win the endorsements of
+all the engineering leaders in the
+company
+and they happened at that time to be all
+men
+wow so you were acting vp for three
+months you had to get the acceptance of
+that boys club
+okay that's that's incredible go on so
+i i did i have i mean it's a long story
+but i eventually i did get i did get
+that role and i did that role for about
+five years
+and during the time and my my goal
+what i was basically assigned to do was
+to transform engineering at autodesk
+which is you can imagine a huge task it
+says it was a 10
+i was about 9 000 people when i was
+there about 3 500 engineers
+and i realized you know none of this is
+a technical problem
+none i mean we had a lot of issues we
+had all these different you know
+platforms and
+we had to really consolidate tools but
+it was a behavioral
+issue it was a people issue and it was a
+call it was culture it was all about
+culture and how we behaved
+and i got as in that role is like yeah i
+can i had
+great staff i had very technical people
+working under me but what i needed to do
+was really talk about
+how are we going to behave differently
+how are we going to collaborate
+how are we going to work more
+effectively together and so i got myself
+a
+big education really through reading and
+you know being online and just reading a
+zillion books
+about human behavior and um and i also
+became a real advocate for women and for
+people of color because
+even though i am a white woman i was
+very much in the minority because you
+know engineering is so male and so
+i often felt other i often felt like i
+didn't fit in
+like i wasn't included and and i wanted
+to change that
+and so when i finally left autodesk
+after 20 years i left last year
+i realized you know autodesk is a great
+company but they're struggling with this
+all the companies
+are struggling with inclusion you know
+diversity inclusion and equity
+and so i wanted to bring my perspective
+and my experience
+and help others do better around this
+because honestly everyone's struggling
+and everyone needs help with it
+minette you're you're vice president of
+the engineering space
+3 500 engineers at autodesk and you're
+coming you're saying talking about how
+this is a behavioral problem
+it's culture at the end and of course
+you know in 2020 we've seen
+and not just in tech but around the
+world how how big of a
+of a part culture plays into our life
+and into our
+our ability to to thrive as just as a
+planet right
+and as a global community and i i'd love
+for you to share a little bit more
+into the insights of what how do you
+build
+a healthy culture in you know both in
+in large large corporation like autodesk
+but also in a small startup
+and i'm looking specifically you know
+it's selfish insights for me as i'm
+about to start my own entrepreneurial
+journey or for my friends that are in
+their journey
+what are some key insights that you've
+gained about behavior and about culture
+and diversity and inclusion
+yeah well there's there's so much
+and you know it's kind of hard to know
+where to start but what i will say is
+that
+the leaders really set the tone
+and i think especially you know big
+companies and small but when you're a
+startup
+um often and i've seen this so much
+startups go we're going really fast
+we're going to build something really
+cool we're going to get it out there
+we're going to try to get investment
+we're going to try to get customers
+and then later even you know even with a
+startup they'll say
+oh look we're all men now we got to hire
+some women and how are we going to do
+that and
+and it's almost too late even if you're
+just a handful of men because
+do the women want to come work there do
+the people of color want to come here
+so i think that whether you're larger or
+small starting up or a 30 year old
+company
+you need to be intentional and the
+leaders need to set the tone of
+being inclusive and what that means in
+terms of leadership and this is a lot of
+the work that i do is that
+leaders are not omniscient and they need
+to admit what they don't know they need
+to be vulnerable
+they need to be open to listening and
+honestly
+that is so much of what i think the
+problem is right now is that people
+don't know how to listen
+to their diverse employees and and to
+hear their true experiences
+because i've experienced this myself a
+senior executive
+will say don't bring me problems bring
+me solutions
+but honestly you need to hear the
+problems before you can even attempt
+the solutions and you need to be
+uncomfortable
+with that listening you need to be
+willing to be uncomfortable
+and to say i don't have all the answers
+but i'm i'm willing to listen and i'm
+going to make sure
+that this is a safe place where
+everyone's voice can be heard
+and to me that is the number one thing
+is that we have to we have to make it
+safe and
+people do not feel safe today speaking
+up and telling their truth
+right right and i love your take on
+being intentional about it as a leader
+and being vocal about it and and being
+willing to be uncomfortable with
+with the problem and not just sugar
+coating it or
+shrugging it aside i think i think it's
+wonderful how do you
+then make the impact now so you've left
+autodesk part of
+part of the motivation from what i'm
+hearing from you is
+understand that you've you've made an
+incredible impact at your
+company ultimates but you're then this
+is a global problem
+along with many companies and you're now
+looking to make that impact there so
+how do you go about doing that yeah
+well i started my own consulting
+business this summer during covet week
+because what else do you do during
+coverage right
+right i mean i i i took a break and then
+realized that's what i wanted to do
+but i've also for many years even when i
+was at autodesk i was a keynote speaker
+internally and externally so i've been
+doing recently a fair number of keynotes
+that
+there's a real appetite to hear about
+diversity and inclusion and so i have
+i had one last month i have one this
+next friday so i'm trying to get the
+board out but i
+i do have a new client and it's a
+startup and they're
+they're realizing that they may have an
+issue with equity and with inclusion and
+so
+we're just starting the conversations
+and so i'm doing both you know like
+just the one-on-one engagements with
+smaller large companies and that's just
+starting
+and then i'm also giving talks because i
+feel like people just need to hear and
+and one of the things is that you know i
+will be honest in those talks i'm not
+going to sugarcoat things and
+say that it's all perfect and i'll share
+my own experiences as well
+i love that minette i want to thank you
+for being so generous with your time
+and before we go i have to ask the most
+important question
+three words that you would use to
+describe yourself
+all right um i have to start with
+authentic
+because you only get you only get one
+minute i don't have different personas
+for different environments it's
+i'm always going to be real so authentic
+empathetic
+i can't even turn off my empathy and
+that's both a blessing and a curse so
+if you start crying it's likely that i'm
+going to be crying with you
+but you know that's just that's just who
+i am and then
+the third is i don't know if i would say
+energetic or enthusiastic i'll go with
+enthusiastic because
+i've just got a lot of i've got so much
+oomph and i have so much i want to share
+and i want to help people and
+i want to get at it wonderful minnett
+thank you so much this is wonderful
+and continue making a positive impact
+and helping companies
+regain the eco the equity and diverse
+nature that
+they all deserve and we all deserve and
+and i look forward to
+to seeking your advice and when i'm
+starting my own venture to make sure
+that i
+properly i'm leading by example and
+being intentional about it so thank you
+thank you i would love to continue that
+with you michael thanks so much
+take care

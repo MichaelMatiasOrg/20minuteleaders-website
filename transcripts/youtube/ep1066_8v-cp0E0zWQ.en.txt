@@ -1,0 +1,462 @@
+I think it's the breath of of
+applications and solutions uh within you
+know with the same framework of solution
+that we have we've been working with so
+many clients in
+different uh markets uh different
+geographies uh you know at the end of
+the day it's all around people so that's
+definitely the most enjoyable part for
+me is the interaction with people but
+then when you see the result when you
+see how they apply our technology that
+you know was conceived here by a
+relatively small team uh and you know
+we're we're we're helping to change the
+world welcome to 20-minute leaders just
+sit back relax and learn from the
+leaders of today it's a journey each one
+is different unique inspiring let's get
+started 20-minute leaders is a proud
+supporter of makeawish Israel and Tech
+to peace and is in proud collaboration
+with secret cord venture
+J Ventures Riverside FM Fusion VC
+Birthright Excel J impact leap Google
+for startups and hippo and in media
+partnership with
+[Music]
+ctec Assaf suic welcome to a 20 leaders
+thank you so much for joining me I'm
+really um excited to be talking to you
+about um your journey the Journey of
+iguazio um acquisition to McKenzie the
+whole world of AI application building
+and deployment within Enterprises and
+large organizations obviously we're
+we're all drawn to what's been happening
+this past year with the AR Revolution it
+hasn't passed any organization's mind
+and I've been particularly curious about
+how Enterprises um in part are adopting
+these sorts of Technologies and looking
+at it h so I'm I'm really excited to
+look to go back all the way to 2015 and
+before that even as to how you've been
+looking at data the data Science World
+in the context of organization so again
+Asaf thank you so much for being here
+tell me a little bit about your
+background because before iguazio you've
+actually had quite a bit of background
+and experience in the tax sector with
+some phenomenal companies so so share
+with me a little bit about your journey
+and what led to your understandings sure
+Michael first I'm really happy to be
+here and I'm glad uh we're talking um so
+if we go back uh in fact uh back in the
+80s that's when I started my journey and
+um actually my first experience with
+computer was pretty bad I was actually
+even programming as a kid with uh IBM
+Punch Cards I had the opportunity to do
+that and it wasn't that a great of
+experience but following that I had uh
+you know my ti99 that changed the the
+the experience but then uh already in my
+second year in the technium I had my
+first AI course that was by far the best
+experience through the whole four years
+in the technium um and I knew um this is
+going to be big you know AI had it uh
+fashion cycles that were you know I
+think we're now into the sixth wave of
+AI but AI has always been there but for
+sure uh chatu changed everything uh and
+made it accessible to so many people and
+you know it's not surprising that the
+economist picked generative AI as their
+Award of the
+year so um um going back um so u in
+terms of um my personal career um as
+many people in the tech sector on the
+business side uh they start their career
+on the R&amp;D side so I was actually uh a
+software developer uh leading teams um
+for the first uh eight nine years of my
+career um and then um switched to the
+dark side of business uh uh product uh
+product marketing um uh Partnerships u u
+business devel velopment marketing uh
+this has been uh the last uh I would say
+23 years after my MBA in IMD business
+school in Switzerland that uh was an
+amazing International experience um and
+since then it's been um an amazing ride
+uh first with uh voler a company that
+was already in the HBC high performance
+Computing and financial services space
+where
+um we that we took public in NASDAQ back
+in 2007 later got acquired by melanox
+that is now part of Nvidia that actually
+started our um all our relationships
+within
+Nvidia um before and after the
+acquisition of melanox by
+Nvidia um and um in between you know um
+we started uh just before starting uh
+iguazio I was uh for a couple years at a
+company called compass that uh we were
+in the Silicon photonic space um where
+physics and uh electronics and software
+meet each other very very interesting
+experience there but then in um
+2014 hooked up with my friends at from
+voler yon seev yon kiv and R uh Nissan
+messing and um we
+saw uh initially it was more around
+people trying to harness data but very
+quickly we realize that the top
+application that are trying to combine
+historical online data real-time data
+into insights and actions and
+predictions where um the the toughest
+applications were related to data
+science and the gap between that PC that
+you have in Ai and then taking it to the
+business upon this we actually uh
+founded iguazio and uh this is where we
+are
+today love it so first of all
+fascinating background and I can only
+imagine the the breath of experience
+that you get from from from going from
+your experience in Academia to the real
+world top leading software engineering
+teams and being a part of these um kind
+of groundbreaking organizations that
+especially especially in the Israeli
+tick ecosystem but but more but in
+general you know globally and really
+being at that always at that Cutting
+Edge and seeing the problems as they
+arise if you if you want to double down
+on that Gap that you've observed in the
+context of going from P's leveraging you
+know this data ingestion all the way to
+the Insight formation leveraging machine
+learning capabilities what what were
+those main gaps of going from POC to
+productionizing 2015 what did you see
+sort of come up again and again and and
+it was the was also what when that
+happened was there a distinction between
+sort of the Enterprises and smaller
+companies or was it more generally a
+paino that was true for
+everybody so this is where I
+differentiate between the tech Giants
+actually I I always use the term that
+you know uh AI is a luxury of the tech
+Giants they've been using it you know
+they've been
+know using our data for years and using
+AI Technologies uh extracting and
+monetizing it in in an amazing way right
+but it was you know a luxury of you know
+the the Googles of the world the
+Facebooks of the world um but it wasn't
+really propagating into you know the
+largest banks the largest uh um you know
+industrial companies and everybody
+everybody I mean already back in 2015 we
+playing with AI with AI they were uh you
+know actually um a few couple months ago
+I met with um a CIO of a company that
+said um that she had more pilots in AI
+than the pilots the number of pilots in
+American Airlines I mean say I mean she
+had pilot sickness because they were
+doing pilots and pilot and those Pilots
+were proving the business value of a
+particular technology and AI but you
+check a year later a couple of year
+later that project died on its way to
+production there is a huge gap and in
+fact generative AI increases that Gap
+because with generative AI the creating
+a demo or or starting to use something
+basic is very easy I mean the Gap I mean
+the the the ability to deliver something
+like a demo there is is relatively easy
+taking it to production generative is
+actually harder than before because you
+know we mentioned in video because of
+the usage of gpus which is non-trivial
+to say the least and and that Gap is
+increasing so you were asking me about
+particular reasons and I I think I can
+name several first with this whole thing
+that AI was considered some sort of
+magic so that group of data scientists
+that were you know typically phds that
+did lots of research and in Academia uh
+they continue to do this kind of
+research within those Enterprises and
+for the first few years most Enterprises
+were happy with the fact that they're
+doing research that they're
+experimenting what will be the future of
+their field with AI but then the the the
+fact that we're considered as a silo a
+technology Silo and were not integrated
+as part of the general software
+development life cycle that was a a a
+problem that I'm sure you're familiar
+with cicd all these technologies that we
+have now for for decades that are
+continuously allowing organizations to
+deploy applications into in the
+day-to-day cicd was not applied in the
+space of AI in machine learning because
+you have more Dimensions software cicd
+it's relatively easy I mean it's
+one-dimensional source code objects you
+know binaries versions that's it more or
+less but when it comes to machine
+learning suddenly you have the software
+you have the models that are integrated
+within the software and usually are have
+a life of its own of their own because
+they're uh progressing in a different
+pace than the actual software around
+them and then you need to also connect
+it to their data sets the original data
+set that was used to train that model
+and with the whole world of G governance
+and you know regulation that is coming
+upon us or already started with AI you
+need that you need that to be super
+governed and and people were not doing
+that it was a little bit more
+complicated um and they didn't know how
+to do that that's one of the areas that
+today we always zoom in when we work
+with large Enterprises see how you can
+actually you have your own cicd already
+we work we will work with you Mr
+customer on how to actually expand your
+cicd tools today to also be applied to
+machine learning and AI so that's one
+area um another area is the uh ability I
+mean people thought that okay just by
+using my um data sources you know my
+data warehouse my um you know my
+operational systems I can actually
+integrate all of that and uh and build
+an application it's very different when
+you actually run it in your development
+lab where your data scientists have all
+the time in the world to create and and
+you know massage the data into these
+large tables and you know csvs files
+whatever uh they're using uh and based
+on that uh run the the you know train
+the model run the model um and then when
+you look at it in the real world
+suddenly you have some of the data that
+is sitting in very old uh data
+warehouses that are very slow and then
+other sources of data very fast where
+you have streaming data coming from
+let's say credit card
+transactions and people you know in
+order to move it to production they
+eventually needed to rewrite their
+application so what we're doing with our
+clients we're actually showing them that
+there are ways to actually build those
+applications once and this is called you
+know feature engineering that the
+feature engineering can be done once uh
+and that will be applied both for the
+lab work and the day-to-day work this is
+basically using a whole field I mean of
+course we won't be able to get into that
+today with offline and online feature
+stores that's also uh a key part of of
+uh the work we're doing with with our
+clients so um these are two out of you
+know several big problem that people
+have you know around the data around
+their internal processes it's not just
+technology we always you know when we
+start engagement with with a client it's
+it's this triangle of Technology
+processes and people and it always it
+keeps moving all the time and we work
+with them now part of McKenzie uh you
+know we cover all
+three how has the conversation changed
+or evolved over the last nine years and
+then I'd love to get into McKenzie and
+the the integration
+there yeah it's been it's been it's been
+uh very interesting to see the evolution
+over the years and as I said before you
+know people were quite happy with the
+fact that they have a research team that
+shows uh what will be the future but
+that patience of the business side has
+actually over time uh got uh you know uh
+smaller and smaller and people wanted to
+see results and over time we saw that
+actually leaders in data science heads
+of data science groups that felt okay we
+need to show the value in the business
+not just to show a beautiful model that
+works great in the lab and uh we
+actually uh started working with those
+leaders within the technology sector of
+you know data science group that had
+that business affiliation to show the
+value and eventually we saw new roles we
+saw um the position of ml engineer we
+saw the position of mlops engineer we
+saw the term mlops evolving it didn't
+exist in
+2015 uh so um it's it's it's it's it's
+great to see such a you know this
+trajectory of a new technology that
+evolves with new positions and let's not
+forget to talk about the fact that
+Iguazu keeps hiring and we've been
+growing the team um so um you know it's
+um
+we will get to that too um and uh you
+were asking about the perspective of
+McKenzie how it all fits yeah how did it
+happen how did that fit and and how is
+this now augmenting what UI was
+doing so we actually started with a
+partnership with McKenzie um um you know
+uh friendship that turned into
+marriage um we um McKenzie uh not a lot
+of people especially in the Israeli uh
+um Market are aware of the fact that
+McKenzie has thousands thousands of data
+scientists data Engineers mckenzi may be
+one of the largest AI companies uh
+McKenzie acquired in 2015 a company
+called Quantum black that that core team
+has actually evolved into the quantum
+black operation Within mckin that
+delivers AI projects which are the heart
+of these large transformation project
+that mckeny does for you know the best
+Enterprises in the world if if you think
+about it the term transformation um in
+2023 there is always AI that actually
+sits somewhere in this big machine that
+actually is applied on a uh on a on a
+client that is actually moving through
+this transformation the transformation
+includes uh the ability to actually have
+within their organization uh the ability
+to adopt AI Technologies to actually uh
+deliver Concepts that come from the
+business into applications that are
+applied whether it's in as I said in
+manufacturing Banks um you know
+basically every every vertical Market
+that that you can think of there's
+always um opportunities with AI
+applications and U you know the
+acquisition happened in
+January um
+2023 a couple of months after uh chap
+GPT created this awareness around Ai and
+the the most discussed topic McKinsey
+had with its clients in 2023 was AI by
+far so the timing
+uh is amazing and um as you can imagine
+we're we're spending our time uh with
+with you know the the largest
+Enterprises in the world or um the best
+Enterprises in the world that are trying
+to adopt AI in a better way uh some of
+them are somewhere in their Journey uh
+you know most companies are doing some
+something already today but also most of
+them are very inefficient on how they're
+doing that they're seeing the
+potential um and it became a top topic
+for CEOs that you know eventually uh are
+propagating it down within the
+organization so I can say we're super
+busy what's been the most enjoyable part
+for you in this whole process I can see
+how clearly passionate you are about
+this topic and about the space and
+everything that you've been going
+through also today but what's been
+really the most enjoyable part for you
+you as you're reflecting on this last
+decade and looking into the next
+one I think it's the breath of of
+applications and solutions uh within you
+know with the same framework of solution
+that we have we've been working with so
+many clients in
+different uh markets uh different
+geographies uh you know at the end of
+the day it's all around people so that's
+definitely the most enjoyable part for
+me is the interaction with people but
+then when you see the result when you
+see how they apply our technology that
+you know was conceived here by a
+relatively small team uh and you know
+we're we we're helping to change the
+world well I think that it's a it's a
+unique experience going back all the way
+to this start of your journey in the 80s
+and and then teon and doing you know
+studying the space but then fting the
+six waves I guess as you're talking and
+and then being at The Cutting Edge of
+the latest one uh in you know triggered
+perhaps by CH GPT last November but but
+really being there with you know the
+best of the best like McKenzie over in
+January and getting and now working with
+you know the most amazing companies and
+and seeing the adoption and the
+adaptations so I think that's extremely
+exciting and ASA I really want to thank
+you for spending these 20 minutes with
+me and sharing your journey
+wishing you the very best of luck with
+everything that you'll do either with
+iguazio or anything else and uh and I
+can't wait for all of us to see what
+will happen in this new wave and and
+these exciting times and um very excited
+to be sharing the story of of your own
+Journey inazu as
+well wonderful thank you very much and
+as as I said uh you know
+um within 2023 that wasn't that easy for
+the tech sector in general uh we kept on
+hiring and we keep on hiring and would'
+love um to see people join the team here
+again it became it was an amazing
+experience before the acquisition after
+the acquisition it's even
+better wonderful thank you so much
+really appreciate your time and your
+energy thank you thank you thank you
+Michael
+byebye

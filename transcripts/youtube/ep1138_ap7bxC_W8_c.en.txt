@@ -1,0 +1,640 @@
+I think there are two key components
+there. First is uh knowing your asset
+inventory which almost nobody knows. Uh
+so that's actually one of the key
+foundations of our platform is how do we
+get you all of the assets that are your
+digital footprint uh and then aligning
+them to your businesses. So at the end
+of the day the CISO is uh you know a
+seale executive or a SVP level executive
+that is reporting to the board and they
+need to know the business of the
+company. They need to know what are the
+critical business units, which
+applications are the most critical that
+make money uh and what is the annual
+revenue. So risk quantification does not
+have to be a super complex PhD level,
+you know, formula and stuff like that. A
+lot of our customers at the beginning of
+this journey, they just basically pencil
+down, look, I'm I am a company that is a
+billiond dollar company and I'm at a
+high level. we have five business units
+and we know each business unit makes
+this much money and I know that these
+assets are aligned with this business
+unit these assets are aligned with this
+business unit and you can start from
+there and so the the key for any in um
+risk management is value at risk so what
+is your value at risk and if you don't
+quite exactly know right now look if if
+this attack happens I will lose 50
+million 100 million a lot of our CESOS
+in the initial part of the journey
+actually they just start off by
+penciling down the total revenue of that
+particular business unit as a starting
+point.
+[Music]
+Hey, Sumemed, welcome to 20-minute
+leaders. Thank you so much for being
+here. How are you? I'm doing well. Thank
+you for having me. I'm looking forward
+to this chat. Yeah, I'm really excited
+for this chat. So, Sumed, you I think
+you have a really interesting um job to
+do because um I I get to speak with
+CISOs and with company executives all
+day long at this point and I get to hear
+about their their challenges as they as
+it comes to different cyber security
+threats. And one of the things that we
+know is challenging is that cyber
+security is ever evolving. um
+quantifying its risk is not trivial and
+just over the last two years we've found
+ourselves in an agentic era where
+everything is changing old cyber
+security mechanisms are changing new
+ones are evolving and so I'm I'm
+assuming that you have your work cut out
+for you so it's going to be a fun
+conversation before we get into that
+tell me a little bit about yourself
+you've been with Kalis for more than two
+decades and so would really love to hear
+about your journey
+Yeah, thank you very much. Uh and yes,
+those are really interesting
+conversation. And I'm looking forward to
+uh having those because uh cyber
+security look I think we are in a a
+world where um digital transformation is
+accelerating at a pace we've never seen
+before and it's enabling businesses is
+enabling governments to provide uh you
+know amazing capabilities to their
+citizens which they were not able to do
+in the past and so the the securing of
+that infrastructure is super important
+but also at the same time we have to
+remember that cyber security is a
+riskmanagement exercise and so uh
+unfortunately we cannot just buy
+anything and everything that pops up and
+and try to uh to deploy it. We have to
+look at it from a risk equation
+perspective. So uh looking forward to
+that conversation. I think a little bit
+background for me. Yes, I I um I have
+been in qualis for 21 years. I like to
+say that uh sounds a little bit better
+than two decades because decades sound a
+little bit old but I feel like now I'm I
+am legal at 21 in the United States.
+Right. So it's there you go. Yeah,
+that's a good point. Uh but but I joined
+uh you know I of course I was born and
+brought up in India and uh I I came to
+the US and I worked originally for
+Northwest Airlines reservation systems
+and then um I I came to Qualis uh 21
+years ago. I was one of the initial
+software engineers that wrote the core
+on our scanner that we had back then and
+you know we were one of the crazy ones
+to to think that we can deliver security
+services on the internet which today of
+course cloud is a fashion statement.
+Everybody's cloud first, cloud fresh,
+you know, cloud native. uh but we we
+were really at the time pioneering in in
+that and um from that I have had the
+opportunity to really almost do every
+single role at qualas that you could
+imagine at a company and so I've done
+product management u after engineering I
+did customer support I need I did um
+even uh IT uh but it really gave me a
+really great perspective and then four
+years ago after being uh chief product
+officer for a while I got the
+opportunity to take on the role of CEO
+uh as a public of a public company in
+cyber security and we've really created
+a great brand. So I'm pretty happy about
+uh the journey so far. So cool. And so
+really it's a you know cyber security is
+all about risk right? So walk walk me
+through a little bit about how you how
+you think about risk in the context of
+cyber security. What is the role of risk
+quantification? What role does it play
+in the industry that we're in?
+Look, I think today we have to separate
+what is a little bit difficult from what
+needs to be done, right? And uh and the
+the role of quantification, I I almost
+feel like that's the only role of uh
+that you would have that is important in
+cyber security because when you say
+risk, what is the first question that
+comes to mind? How much how big is the
+risk? Right? And most people are today
+not really able to quantify that or
+haven't put the effort to quantify it
+that way. uh uh because you know the
+spend in cyber security for the last few
+years has been as one of the CISOs I
+talked to said that uh there was an open
+bar and in the cyber security spend and
+and now that has changed and you need to
+get your ticket for your drink from your
+CFO before you can move forward and uh
+and so it goes down back to the question
+of quantification uh risk quantification
+is I think absolutely paramount in cyber
+security because if you don't know how
+much risk you have you don't quantify
+that how can you know how much you
+should spend on bringing that risk down?
+Of course, right? If you have a $50,000
+car and you're spending $50,000 to to
+bring the risk down for that car, that's
+not good business, right? So, any
+business should be looking at well, how
+much is my risk? How much do I stand to
+lose in case there is a certain attack
+uh and how much of that risk and like
+with any risk there are sort of three
+components, right? One is risk
+mitigation. How much should I spend in
+proactively mitigating the risk? risk
+should never goes down to zero right you
+should really not at some point there's
+diminishing returns so how much risk can
+I accept and then the third part is
+whatever I cannot mitigate or accept I
+need to transfer that risk to a cyber
+insurance company so at a very high
+level if you don't get too deep into the
+excitement that vendors have about their
+unique technology from a business from a
+board and CEO and CFO level cyber
+security is a risk management exercise
+and it has to be grounded in
+quantification yeah and So you know one
+of the challenges I think of cyber
+security is that you have so many
+different parts of cyber security right
+I mean effectively you have dozens of uh
+of different postures that you have to
+manage there's thousands of tools and so
+what is qual's role within the cyber
+security landscape in helping
+organizations both understand where they
+should be investing as well as actually
+solving some of these end points
+themselves.
+Hey, you look I think risk management is
+a ever evolving um uh journey, right?
+because the the risks keep changing and
+so you know at the beginning you were
+just looking at maybe vulnerability
+scanning and patching and then you have
+then cloud security came about and now
+with AI you have uh you know what you
+guys are working on deep fakes and stuff
+and uh which is by the way I had a crazy
+experience where where one of my
+employees was contacted on WhatsApp and
+uh um you know that's typical they use
+my picture and stuff like that asking to
+spend money however this uh thread actor
+proactively offered the employee a zoom
+call and uh so you know the employee of
+course being cyber security employee was
+obviously caught on to it but he got on
+the zoom call what the threat actor did
+they took a video I had posted on
+YouTube where I was speaking about
+something and then played that video
+through Zoom as if I was on the call but
+the audio was muted so it was like hey
+I'm having issues with audio let's just
+go back to chatting on WhatsApp and can
+you spend me send me a million dollars
+right so the technology was just basic
+social engineering things something you
+could have even done 10 years ago but uh
+today the question is well how much does
+the company stand to lose if something
+like that happens right and so anchoring
+that is an ever evolving uh area of
+saying well what are the new as new
+digital um modes come about agentic AI
+is coming about what is the new risk
+that it is creating and by the way not
+everything creates a major risk right
+we've seen this with cell phone usage
+when byod for mobile devices was a big
+thing people were like, "Oh my god, this
+is going to be so bad." It turns out in
+the bigger picture of all the various uh
+uh risks that you could have that was
+not one of the major risk and so as a
+company you constantly have to evaluate
+the technology you're using, you have to
+evaluate the the risk that that can
+bring. And you know, so couple years
+ago, cloud security was sexy and now AI
+security is going to be top of mind. And
+by the way, by the time we figure out AI
+security, quantum's already knocking on
+the door. So everybody's going to be
+like, "Hey, what about quantum
+security?" Right? So it's ever evolving.
+So at Qual is what we really realized
+and we like many vendors in the space
+where like hey we we are going to have
+the ultimate platform that is the one
+platform that everybody can use and they
+only need this one thing. Uh and I think
+to be fair we have realized that in the
+industry no CISO wants to you know go in
+that direction. They want to empower
+their team to pick the right solutions
+for whatever that specific job is.
+Whether it's security of containers,
+whether it's security of cloud, but then
+they want to be able to talk business
+language. And business language is
+money. It's about how much money do I
+stand to lose if a particular attack
+happens. And then by the way, based on
+my current tooling, what is the
+possibility of that attack happening? So
+the conversation needs to be as an
+example we have a $500 million a year
+business unit. If there is a outage
+created by cyber security we're going to
+it's going to cost us 10 million a day
+for 7 days. So that's 70 million. And by
+the way based on the signals I'm getting
+from my cloud security and my uh you
+know on-prem security and all these
+different identity everything. If I put
+all of it together, I can come up with a
+score that essentially is a proxy to say
+if my score is 800 on a,000, that's
+essentially saying the possibility of
+losing that much money is about 80%. And
+you want to bring that down to say an
+acceptable 30%. And now you know exactly
+the four things you need to do to do
+that and how much it is going to cost.
+So today the conversation for cyber
+security leaders with the CFO is, hey,
+give me $2 more million and I will make
+it better. But they cannot explain how
+much better. Now the conversation can be
+by the way the the potential of losing
+$70 million today is very high. Uh if I
+spend $500,000 I can bring that risk
+level down from 80 to 30. And so now the
+CFO is that makes sense. Can I invest
+$500,000 to reduce the possibility of
+losing 70 million a day uh a week by
+80%. Yes. So that's the conversation
+that needs to have. And so call is we
+introduced the concept of a risk
+operations center. Everybody's been
+using a a security operation center for
+reactive threat detection. But what
+about proactive risk management? And so
+um instead of sort of trying to go and
+replace all the tools the customer have,
+we created a risk operation center that
+feeds in from all the existing tools
+that they have, provide risk
+quantification, provide the ability to
+aggregate uh findings, then provide a
+way to um report on that. But most
+importantly the most important thing in
+cyber security is remediation. So now
+provide a way to actually fix issues and
+uh you know back in the day when we
+started came up with the idea 5 years
+ago of uh actually doing patch
+management while doing vulnerability
+management people thought we were crazy
+to do that but just in 2024 qualis
+agents deployed 110 million patches in
+our customer environment in one year.
+So, at the end of the day, I I always
+say this, like you can spend $10 million
+in building nice dashboards and taking
+selfies with that, but if you didn't fix
+the issue before the attacker comes, all
+of that money was a waste. So, how do we
+create a operations center that
+operationalizes your risk management,
+prioritizes the things that are actually
+important, but not important because
+they are hot and sexy. It's important
+because it's going to impact your
+business by a certain amount of money.
+And then you focus on fixing those
+first. And that's really what we are
+been focusing on now with our enterprise
+tour risk management platform and the
+ability to provide board reporting using
+a risk operation center.
+Now I I have a you know I'm I'm
+considering the conversation that the
+CISO has with the CFO saying you know
+we're going you know we're currently
+vulnerable at a certain with certain
+attack vectors and you know we've seen
+the and and we have a perception that if
+we don't do something about it we stand
+to lose $70 million at a certain with
+certain um percentage and if we do a
+certain action we will reduce that. How
+do you help the CISO translate this from
+handwaving numbers that are abstract to
+something quantifiable? Because a lot of
+these threats are theoretical until they
+become real, right? That's the nature of
+the beast here. How do you then what do
+you see CISOs doing or maybe that Qualis
+is doing that it helps that helps
+actually ground the conversation to be
+much more practical and much more
+tangible.
+Yeah, I think there are two key
+components there. First is uh knowing
+your asset inventory which almost nobody
+knows. Uh so that's actually one of the
+key foundations of our platform is how
+do we get you all of the assets that are
+your digital footprint uh and then
+aligning them to your businesses. So at
+the end of the day the CISO is uh you
+know a seale executive or a SVP level
+executive that is reporting to the board
+and they need to know the business of
+the company. They need to know what are
+the critical business units, which
+applications are the most critical that
+make money uh and what is the annual
+revenue. So risk quantification does not
+have to be a super complex PhD level,
+you know, formula and stuff like that. A
+lot of our customers at the beginning of
+this journey, they just basically pencil
+down, look, I'm I am a company that is a
+billiond dollar company and I'm at a
+high level. We have five business units
+and we know each business unit makes
+this much money and I know that these
+assets are aligned with this business
+unit. These assets are aligned with this
+business unit and you can start from
+there. And so the the key for any in
+risk management is value at risk. So
+what is your value at risk? And if you
+don't quite exactly know right now look
+if if this attack happens I will lose 50
+million 100 million. A lot of our CESOs
+in the initial part of the journey
+actually they just start off by
+penciling down the total revenue of that
+particular business unit as a starting
+point and then get better at working
+with the team to say so as an example
+qualis you know the way we report to the
+board we have like 13 platforms globally
+in different countries and each platform
+we know has an annual cohort of
+customers and those customers we know
+how much annual revenue they make. So
+the way we report is to say look here's
+13 business units this is how much money
+we make per business or per platform
+every year and currently what is the
+score and what you want to see is that
+you you want to go from highest business
+uh annual business unit revenue down to
+the lowest but then you want the risk to
+go inverse the risk score should be the
+lowest risk score should be on the
+highest value business unit right and
+then each company based on their um
+domain has to has to work to figure out
+and this is an ev evolution this is a a
+part that everybody's now working to
+figure out but what is your possibility
+of loss now I say this a lot is today uh
+there is less and less of a concern from
+uh uh in the way that the business
+thinks from reputational damage because
+when was the last time you change your
+provider because they send you a letter
+saying that your data might have been
+compromised we don't so if we are not
+changing our provider the prov providers
+not feeling as much of a financial
+burden from uh reputation. However, they
+may be a significantly more concerned
+about an outage that can be caused by a
+cyber attack. Right? If a cyber attack
+causes an outage, maybe somebody heard
+of the crowd strike out and what that
+caused. So, it may make sense. Right.
+And and that could have been caused by a
+cyber attack. Uh similarly, right? So,
+the that is a big concern. So, you have
+to decide as a company. Uh however if
+you're in healthare you are more
+concerned about the healthcare records
+uh PII etc. Yeah, exactly. But uh if you
+if it's you know otherwise today fines
+and everything you know but what happens
+is that people know that there is a
+playbook if there is a compromise they
+get mandian they it's all happening on
+the side right you have a PR company and
+everything but your business is
+continuing you're continue to handle
+transactions and stuff like that the
+challenge comes when okay I I cannot
+handle transactions for for a day like
+that's really much more disastrous to
+the business so every company has to
+evolve to for the CESOS to start to
+figure out but
+at any company as a starting point like
+it's not that difficult to to start with
+quantification with some of the basics
+because as executive you should know
+what are the annual revenues from the
+different business units and then start
+to put pencil down some values but I
+think as collaboration between cyber
+cyber insurance companies and companies
+like us and quantification companies
+becomes more and more mature this
+information can be available directly
+through the platform where you can say
+like hey I'm a financial company of this
+size then we can say typically uh you
+know the payout for cyber insurance uh
+tends to be less than you know $20
+million. So like a $20 million policy
+can cover up to 92% of uh claims that
+come out from a company of your size in
+your area. So those are the points of
+evolution. However, it is it is we
+cannot continue to report vulnerability
+counts and how many buckets open in the
+cloud type findings to the board or to
+the CFO. It doesn't mean anything. If
+you go to them and say we have uh zero
+trust, uh doesn't mean anything. If you
+tell the CFO, we're going to implement
+multiffactor authentication, it still
+doesn't mean anything, right? All they
+want to know, and we see this in the
+boardroom, right? The CISO goes and
+gives an update. We spent two years
+implementing multiffactor
+authentication. And you know, then the
+board goes, okay, great. So, how much
+safer are we? But that I cannot tell
+you, right? So the CFO is thinking,
+look, if I give you a billion dollars,
+you're still not going to say we're
+fully safe. So I'm just going to give
+you $500,000 because the answer doesn't
+change. So now it is how do we anchor
+oursel because we cannot continue. There
+is no open tap in like where every year
+we just continue to spend 20 30% more in
+cyber security which means that we have
+to align the risk to how much uh to the
+business and then decide based on that
+how much to spend how much to spend in
+tooling and how much to spend in your
+cyber insurance. Absolutely. And that's
+where we partnered with cyber insurance
+to provide customers um with a uh
+additional discount on their insurance
+premium if they are able to showcase and
+show a unified scoring mechanism uh uh
+that basically tells the cyber insurance
+company that you know that this risk
+level is low. So these are all sort of
+new pioneering areas and as you can see
+this is not about some magic technology
+that we have which is going to find the
+malware in hidden inside a binary that
+is loaded in memory and stuff like that.
+I think those are all things that are
+tactical. Of course the the evolution
+needs to happen but at a business level
+the the need to have uh risk
+quantification and conversation around a
+risk operations center uh is very
+important. And the CISO should be able
+to walk into a board meeting and say my
+2025 cyber security strategy is not that
+I'm going to implement encryption on my
+desk. It has to be we are going to
+implement a risk operations center where
+we can fully operationalize our risk,
+collect assets and uh findings from all
+different tools. actually figure out
+what we don't need to fix because many
+companies are spending time fixing
+things that do not have an impact to the
+business which is wasted uh innovation
+which is wasted time from development
+team I mean these code scanners as an
+example these code scanners that do
+static code analysis will throw you
+millions of findings but like maybe only
+1% of those actually cause risk if you
+have your developers spend so much time
+fixing that so how do you anchor that to
+risk and and that's why we are so
+excited about where we are going with
+this journey Because now the
+conversation is not hey you have to
+replace your tool with uh what we have.
+It is really about how can I provide you
+a visibility across the tools that your
+team already likes but then anchor it
+into what is a real risk to the business
+and and what is a dollar value risk. I
+love it. So Med before we wrap up what
+what is the the biggest advice that you
+would give to cyber security founders
+and entrepreneurs today as the space is
+heating up is changing all the time risk
+is evolving qual is evolving h what is
+the biggest advice you would give
+them you know as a as a product leader
+for so many years the one thing that I
+have learned is you really need to
+listen to your customers and what is the
+challenge that they are trying to solve
+and you might have some absolutely
+amazing
+technology, but if it doesn't solve a
+customer challenge that that they uh uh
+that they really need to focus on, then
+it is not going to be something that's
+going to be widespread. And so the two
+things I tell uh founders when they look
+at is to say target for ubiquity like
+find the solution that's going to be
+needed by everybody. And so when I say
+well who needs risk quantification
+literally everybody that is actually in
+cyber security, right? You need to
+quantify your risk because that's the
+definition of risk. you have to quantify
+it. Uh so so that is something that I
+tell people to focus on is can you
+create something that can be ubiquitous
+and then the second thing is anchor
+yourself in the outcome for the
+customer. So I know people are excited
+today about AI and all of that but at
+the end of the day the the the customer
+doesn't necessarily care whether you're
+using AI or you're using u you know the
+thousand camels or whatever you know to
+do the work. It is at the end of the day
+they're looking for an outcome in which
+is uh which is accurate which is fast
+and which is cost effective and it just
+so happens that the particular
+technology can be uh helpful to them. So
+don't focus too much on the technology
+focus what the technology can achieve as
+an outcome for a customer uh and that is
+what is going to make you successful.
+Incredible. Thank you so much. I really
+appreciate your time your energy. This
+was a great conversation and I very much
+enjoyed it myself and I and I'm sure
+there are many others listening as well.
+So, thank you so much for being here.
+Thank you very much. It was a pleasure
+and I appreciate you having me on the
+podcast. Thank you.

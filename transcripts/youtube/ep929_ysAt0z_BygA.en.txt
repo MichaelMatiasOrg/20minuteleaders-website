@@ -1,0 +1,715 @@
+I think that the presence of artificial
+intelligence and natural language
+processing in medicine will first of all
+strengthen clinical decision support
+and also will as I mentioned will
+provide a more comprehensive timely and
+efficient and accurate prediction of of
+disease
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+welcome to 20 minute leaders this
+episode is with said Amal an assistant
+research professor at Northeastern
+University
+Amal was a postdoctoral fellow at the
+Stanford University School of Medicine
+where he focused on the applications of
+artificial intelligence to improve
+health care especially care for
+cardiovascular disease he received his
+PhD in MSC degree in computer science
+from the University of Haifa and a BSC
+degree in computer science from the
+technion
+Amal has vast leadership experience and
+applied research from the tech industry
+and is a former vice president of an R
+data medical startup in the field of
+Cardiology his research interests are
+the healthcare applications with
+artificial intelligence including deep
+learning and machine learning natural
+language processing and image processing
+[Music]
+welcome to 20 minute leaders thank you
+so much for joining me today how are you
+fine and fine thank you and thank you
+for having me thank you very much for
+joining my show hey I'm looking forward
+to And discussing and dissecting a
+little bit
+your own journey and today's assistant
+professor at Northeastern previously uh
+you've been doing some postdoc research
+on NLP with Stanford and which I love of
+course uh you're also with Dynamic yield
+and Carmel Tech and GE Healthcare and
+originally from with a PhD from the
+University of saifa which is right
+nearby and so I a lot to uncover said
+thank you again for being here and I'd
+love to get started with understanding a
+little bit your own Journey venturing
+you know from even childhood all the way
+into the AI and the NLP space What leads
+you to do a PhD in in realty space
+sure
+so uh
+first of all um as as you mentioned I'm
+a research assistant professor in
+artificial intelligence for medical
+research at Northeastern University
+and I'm a member of the Rue Institute
+and before that I was posted to our
+cello at Stanford University in the
+school of medicine department of surgery
+so in this period I was focusing on the
+use of artificial intelligence and
+multimodal data for improving
+cardiovascular disease here
+which includes early detection of
+disease of cardiovascular disease
+and given a patient with a specific
+disease
+we would recommend
+personalized and optimal treatment for
+this patient given the history of the of
+this patient
+so and then before joining the academias
+I was a research scientist at General
+Motors
+where I was focusing on
+replacing the rule-based dialog system
+in the core and the vertical
+so and this is of course using
+artificial intelligence for a
+for natural language processing
+and this is also uh very important in
+the communication between the the driver
+and the car
+uh it starts by using techniques like
+natural language understanding and
+artificial intelligence for
+understanding the
+what the uh the driver need and then
+responding in a natural language uh
+response
+and then in general I was in also in
+General Electric research scientist I
+was focusing on
+uh clinical building clinical uh
+language models using uh you know
+state-of-the-art artificial intelligence
+for uh for deep for a national language
+processing sort of using deep learning
+where we use the state of the art
+a worth embedding representation that
+can help us in understanding and
+modeling uh the clinical language
+and then using this of course we will we
+can provide a summary about patient uh
+help it can help us in the diagnosis of
+the other patients for a specific
+disease
+uh so this is for the this is where I
+had the experience in the medical
+research and LLC in the industry before
+by the way
+just to
+ponder for a bit about General Motors
+for example you're in General Motors
+2017 to 2019 this is I believe right
+around the time that Transformers were
+becoming a big hit in the NLP world this
+is the time where a lot of these new
+papers were coming out bird Etc
+how do you compare sort of you are
+living through that transition how do
+you compare sort of your work you know
+pre-2018 to post 2018 how would you how
+would you think through that
+yeah yeah so it's it was definitely uh
+starting with the attention is all you
+need paper which is like you know did a
+revolution in the in the domain of uh
+language modeling and uh the use of deep
+learning for uh for language modeling uh
+and it's uh mainly uh this is the the
+option to
+uh understand and model uh language
+using its context
+and not using you know uh the word
+itself or a piece of text
+and of course this is uh as part of the
+Transformers and this is like main main
+was main focus of my research that I
+used for actually generating uh
+prompt automation
+uh taking the the user utterance and
+taking it into a understanding of this
+utterance and then responding and all is
+O was based on the actual Transformers
+which are uh
+gaze uh you know uh
+a huge boost for this language modeling
+and dialogue system
+now we're saying within on General
+Motors and and G Healthcare I'm always
+curious about you know the real tangible
+impact that you know that integrating
+NLP into systems that are you know in in
+companies what is the the potential
+impact that they can make so maybe you
+can share with me a little bit about how
+you perceive the impact of the
+integrating NLP and and how that maybe
+transformed or or augmented some of the
+processes for GM or for GE
+yeah so up until up until that uh period
+these systems were based on as I said on
+a rule based so uh you know analyzing
+the input and then trying to using
+templates for you know as templates and
+tools for trying to understand what
+happened like what is the request or
+what is the the
+information about the patient by using
+real like you know uh rule rules which
+would say I try to identify okay this is
+a
+procedure that happened out of the a
+report that a clinician wrote and then
+uh using you know kind of a flow
+predefined flow uh which would need
+very specific handling of each disease
+and each flow and then uh and then using
+these new techniques which uh
+understand the context of as example a
+clinical text context you could
+understand uh
+um
+the coding of specific disease and how
+it appears in the in the sentences of of
+the clinical of the electronic health
+records
+this would uh the like this research
+that happened in the Academia gave a
+really
+um
+great impact on the industry and the use
+of This research in the industry uh both
+in the clinic on the clinical domain and
+on the as I said in the conversational
+AI
+so uh this this is uh
+this is a great impact that uh
+improves actually uh the industry
+now you transition from from being quite
+a bit in the industry and implementing
+NLP systems in in a variety of companies
+what what made you transition to
+Academia at that point why why make that
+shift
+usually it's the other way around yeah
+so uh
+it's mainly about uh
+using the artificial intelligence
+and given the large amount of clinical
+data available I wanted to I saw as a
+mission to save millions of lives of
+cardiovascular disease patients and I
+thought that with my experience and with
+my knowledge in the domain of artificial
+intelligence and natural language
+processing I could
+have a great impact and as you know in
+the Academia you have a more freedom of
+research that you can do and also you
+have collaborators as example in
+Stanford we have the hospitals of
+Stanford where you can have access to
+the data to the lot to the this big
+clinical uh Big Data big clinical data
+or you can
+uh have a real great impact as example
+one of the projects that I was working
+in at Stanford for predicting a
+peripheral Vestal vascular disease using
+artificial intelligence and natural
+language processing and genomic data
+these algorithms that were developed
+after uh you know hard work are now
+deployed in stands for uh systems and
+the surgeons as at stelfort use these
+algorithms to you know to get confidence
+on their facials on their on the
+diagnosis that they did on their patient
+and I think that this is uh this is one
+of the main reasons that causes this
+transition from the industry to the
+Academia
+[Music]
+so so diving in a little deeper you're
+introducing us into uh the other topic I
+wanted to discuss which was NLP and
+Healthcare and the Really tangible
+places where NLP can can be of use today
+so so maybe you can touch a little bit
+on you know sort of Health Care some of
+the limitations of today's processes and
+how and and what are the different ways
+even before diving into your own
+research what are the different ways
+that NLP can really make a significant
+contribution to health check
+yeah so uh I think that the presence of
+artificial intelligence and natural
+language processing in medicine will
+first of all strengthen clinical
+decision support
+and also will uh as I mentioned will
+provide a more comprehensive timely and
+efficient and accurate prediction of of
+disease
+and also given a patient with a disease
+it we would provide you know
+personalized treatment that would be
+optimal for this patient and not General
+at treatment or medication
+and then also uh
+I think that it will provide a more
+efficient ways of communicating
+information to their electronic health
+record systems
+one more uh important
+if I'm if I'm delaying on what you just
+said that this will allow for example
+better predictions or better diagnosis
+so how does NLP really play into the the
+life cycle of a patient how does this
+how does NLT help to get a regular
+patient and help go through a better
+diagnosis phase why where is the
+integration here tangibly so NLP
+actually for understanding
+you know electronic health records where
+all the information are that clinicians
+wrote Into the uh into the system
+uh when we use NLP it would help us
+understand these uh this textual data
+that exists this big big data big large
+uh textual data that exists in the
+electronic health records and model them
+and understand the context of each one
+of these uh
+uh Concepts and terminology of the
+clinical domain
+and also uh once we have this we we can
+understand and model uh the history of
+this patient and understand you know
+what uh medications what are the
+pathways that this patient has and
+understand giving all the information
+that available in the electronic health
+record
+uh to lead us to predict which patient
+can develop a specific disease
+so uh it could help us as I mentioned
+also in understanding the the other
+modalities modalities as their Imaging
+like CT and MRI natural language
+processing can help us in better
+understanding of these Imaging uh data
+that would also help us in the
+prediction process in in having the
+whole overview uh about this vision
+so if we're looking back to NLT is is it
+is it the the records that the doctor
+writes is that the The Simple
+Communications that the patient provides
+and and conversational AI so where where
+do these new language models how do they
+help us make those better predictions
+because some of the things that you
+mentioned they sound like traditional
+deep learning models where you can take
+a bunch of the structured and diagnoses
+blood tests uh different examinations
+and then output a prediction but here
+we're talking about taking perhaps some
+more of a of a textual conversational AI
+type of approach to create new insights
+leveraging NLP so how does that work
+yeah so
+okay
+what happens is the you know
+the history of the patient is a
+sequential data these visits are
+sequential and then
+with the with the domain of deep
+learning and you know uh techniques like
+uh lstms and that can understand and
+model sequential data
+uh we can
+in addition to the language models that
+we built we can model this history of
+the patient in a way that we can
+understand what happened in each time
+step
+and this way we can understand you know
+patterns in these in this history and
+understand
+uh which which Pathways can lead to
+specific disease and which Pathways can
+uh lead to Adverse Events
+uh sometimes we can use it after if a
+patient had the surgery then we would
+like to understand
+would this patient uh develop Adverse
+Events after this surgery and then we
+can probably try and and have a
+different treatment have a different
+surgery or maybe uh try to understand
+what is the optimal treatment for this
+patient so so the whole uh
+Revolution and the first evolving
+techniques and Technologies of
+artificial intelligence natural
+specifically deep learning
+and natural language processing is
+giving a great impact on the
+understanding of this clinical domain
+and uh helping in saving lives and
+making a lifestyle of the of the
+patients better
+uh and I see I think that what I see is
+like
+for me my mission is to
+saved millions of lives of
+cardiovascular disease patients using
+these artificial intelligence and
+natural language processing techniques
+and I I again I would mention that
+specifically given the recent uh large
+amount of clinical data available and
+the first evolving of the Technologies
+of artificial intelligence and natural
+language process today and also even
+image processing would provide a more
+comprehensive timely and accurate
+prediction of uh of cardiovascular
+disease and also other diseases
+if we're looking at the advancements of
+large language models Foundation models
+and how are how are they promoting or
+how helpful are they in the healthcare
+domain because to me it sounds like a
+lot of the you know the healthcare
+domain requires a lot of specification a
+lot of fine-tuning how do how do these
+larger models that are more One-Shot or
+few shot
+and generalized models are they relevant
+for healthcare or is it more of a
+defined-tuned ones that are more
+relevant here yeah so uh actually what
+we do is we start with these uh
+pre-trained language models uh
+and then but each time you need it even
+for clinical domain or some other domain
+you need to fine-tune it and you need to
+train these models to understand
+we talk about the clinical domain you
+need to move to fight unit and make it
+understand the context of these uh of
+these uh
+uh domain
+and and as I said if we talk about
+uh a specific disease like pad uh
+peripheral artery disease so
+we would like to model the context of
+how this uh specific like code or
+disease appears in the uh in the
+sentence and in the reports I did and
+this requires us to
+uh get the
+large-scale electronic health records
+and prepare new language models that are
+specific to this uh clinical domain and
+sometimes you can also try to
+have the you know even in this in this
+large scale the metal domain you can
+also make it specific for a specific
+disease and build language models that
+fit for this for this uh matter
+diet got it the
+if we're looking at regulations and you
+know clinical data hospitals their
+willingness or their ability to
+collaborate and and share this
+information for this research
+is that that it doesn't we know it's
+difficult and it's not trivial is it is
+it an a you know a blocker sometimes or
+is it just some challenge that you have
+to overcome but it's trivial to
+overcoming
+yes it's it's a big challenge like this
+is one of the biggest challenges
+actually that we face because
+uh this the data and the clinical data
+is you know uh has uh
+it's a it's a very sensitive and private
+data that
+sharing it and trying to use it even for
+you know for good matters because you we
+you use it to save the humanity
+but even though uh this is a prime uh
+private information
+and uh the process of acquiring and you
+know collecting this uh data is is
+really
+time consuming and sometimes a real uh
+required hard work hard work of you know
+all the uh what is it called that irbs
+and uh being able to have a HIPAA
+compliant uh servers and where do you
+save the data and how do you process it
+and how do you de-identify it so this is
+this is a definitely a big Challenge and
+um
+and also newly like the collaboration
+with the hospitals you need to find the
+hospitals that would like to be engaged
+in research because not every not all
+hospitals are you know are ready for
+this and would like to invest this uh
+time of their clinicians and of their
+staff for the for research
+interesting and if we're looking a
+little bit ahead so what what how how
+impactful do you think this technology
+tangibly will be in the next few years
+sort of right now from the outset it
+doesn't seem like too much is happening
+yet and the integration of NLP and
+Healthcare but but is there a lot going
+on do we expect it to happen soon maybe
+only in five ten years where what is
+sort of your prediction of that
+there's definitely a huge uh amount of
+research happening in this area
+and uh and the universities are
+investing you know
+um a lot of resources on this uh on this
+area
+as example now in northeastern we are
+building a computational medicine center
+and hiring uh you know assistant
+professors and research scientists to
+focus on this uh on this um uh you know
+very important mission for the humanity
+and I assume that all universities are
+also you know focusing on this uh
+combination of uh medicine and
+artificial intelligence in order to be
+able to be you know to deliver solutions
+that can save a lot of lives
+well and if we're looking at Academia
+versus private companies as catalysts
+for for this integration and Innovation
+how do you how do you see the role of
+Academia versus private startups or
+companies
+yeah so
+I was actually also as I mentioned I was
+in the industry also in the healthcare
+domain
+uh it's different budget it's different
+budget to engage you know hospitals or
+of course in the industry they they have
+uh the money to you know to pay for a
+pre-hospital like few million dollars
+just to get their stuff working on the
+project and you know deploying this
+project
+uh
+this is like this is the main difference
+but on the Academia you have you know a
+lot of uh
+researchers that are ready to to do this
+uh and
+to try and you know have the incentive
+for the hospitals to be able to you know
+to to be able to be engaged in this in
+this effort
+without these uh large-scale budgets
+that exist in the industry
+and
+yeah
+and from a from a research perspective
+is it more that you know if we're
+looking at what needs to happen make a
+significant impact is it or do we do we
+already have significant technology that
+is ready to be implemented today and we
+should be focusing our efforts there or
+do we need to be focusing our efforts in
+the healthcare domain on on further NLP
+research in other words if we had to
+choose where to divide our resources
+between you know Cutting Edge
+progressing NLP further as a nano as the
+as as a mathematical domain versus the
+implementation and integration of NLP
+into the healthcare industry
+how where do you think we are
+I think that we are in a very
+um
+uh critical and important place where we
+have
+the
+artificial intelligence and natural
+language
+processing techniques that are ready
+to be used in the in the uh in the
+healthcare and in the medicine uh domain
+and uh this is this is what we we are
+trying to use we
+use these techniques we apply them
+to solve uh problems and tests that
+exist in the uh medical research domain
+so and I think the the Technologies are
+well evolved and and are ready to be
+used in the
+in the medical research
+and tell me about your work as a
+assistant professor Northeastern well
+what are you doing there yeah so uh as I
+said I'm focusing on the use of
+artificial intelligence and multimodal
+data well the same multimodal data it's
+uh Imaging modalities
+uh like uh CT MRI X-rays and use and
+also modalities like uh the textual data
+which we extract from the electronic
+health records and we try to model it
+and understand
+uh these large-scale reports that we
+have written
+long time ago and tlr people are growing
+and the modalities as a genomic data
+for the matter of improving disease care
+and trying to predict uh Adverse Events
+try it after specifically one of the
+research that I'm focusing on now is how
+can we predict Adverse Events
+after cardiothoracic surgeries
+and we have hospitals that are uh we are
+collaborating with and they are really
+engaged in this uh
+in this important effort
+um
+and also I'm focusing on uh the use of
+this uh
+artificial intelligence techniques and
+natural language processing
+and image processing for
+uh recommending personalized treatments
+that would definitely help in the
+lifestyle and in the outcomes of of the
+of the future of each one of these
+patients when you when you try to
+understand even the history of the of
+the patient what is the best uh
+treatment what is the best medication
+what's the best surgery that you issued
+the it should be given
+you can uh meaningfully improve the
+process of his recovery
+and uh sometimes
+a lot of times it's saving his lives his
+life
+incredible it sounds like you're you're
+very passionate about what you're doing
+and you're very clear on sort of why
+you're you're in this space it sounds
+like it's coming from a very uh
+impactful part right yeah
+was there a a certain instance or reason
+why you sort of took on this challenge
+of of NLP with Healthcare you mentioned
+the beginning that you're doing this
+because you you want to to potentially
+save lives using technology but you know
+was this always from growing up what
+your attention was that's why you got
+into technology or is it something that
+sort of shifted over time
+uh well actually it's it's uh when I
+started to deal with uh it started of
+course with the projects that I was
+working on for the Hera for using
+artificial intelligence the national
+language processing for healthcare and
+then I realized how important this
+domain and how important
+uh this effort
+and uh I saw it as uh as you know as a
+critical mission that I need to take on
+myself
+and pursued these types of research
+yeah it makes a lot of sense and uh if
+you had to choose one thing that you're
+most excited about in the NLT domain or
+technology domain in general in the next
+few years what is something that really
+sort of blows your mind as as it's
+happening now
+yeah so uh I'm really interested about
+you know
+these uh these language models that can
+be adapted to the to the clinical domain
+as you know
+you need to always be up to date with
+the with the techniques for language
+models we had you know uh and in the
+last few years it was a real Revolution
+like we started with the word to vague
+on Google and then their attention is
+all you need and for Transformers and
+then bird and then gpt3 it's like it's
+the pace is really really uh
+wrist
+I love it say thank you very very much
+for for coming and for sharing a little
+bit about your passion on a NLP from
+even before you were doing with health
+care all the way to today you've seen
+some of the really awesome
+Transformations uh with the different
+seminal papers but then the production
+of them into the industry and it sounds
+like your work with Academia is very
+much aligned with your own personal
+mission and so it's a very inspiring and
+and I'm really excited to be following
+your own journey and seeing the amazing
+impact that you're going to continue
+doing so thank you very much for that
+thank you so much thank you for having
+me
+thank you

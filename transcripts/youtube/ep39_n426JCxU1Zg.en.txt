@@ -1,0 +1,659 @@
+[Music]
+mikey fisher thank you for joining me on
+20 minute leaders this is great
+thank you so much michael a huge fan of
+yours as well so
+thanks so much for inviting me on thank
+you so you're talking from campus from
+stanford right now right
+i am i am pulled up here for a little
+bit it's been great kind of working it's
+kind of like clustering in while i
+finish the last bits of my thesis
+right so phd at stanford and you're
+focusing on law artificial intelligence
+you're writing a book about regulating
+and artificial intelligence
+and tell me about your path what why are
+you what what is this intersection of
+law and ai where does this come from
+yeah um so it's a little bit so i
+originally
+started i love computer science
+obviously i've been doing it for a
+really long time i did undergrad here at
+stanford
+always been very involved in research
+and
+um you know learning about the newest
+things and then
+sort of ai came along and i got involved
+with that as that was sort of right as i
+was starting my phd
+and so i like realized quickly that this
+was going to be
+sort of a non-incremental thing that was
+coming
+and so i sort of switched gears a little
+bit and started going
+into um ai my interest has always been
+around sort of democratizing technology
+so thinking about like technology is
+this great enabler and how do we
+um make it more accessible and
+also and how do we use technology to
+also make it more accessible so
+the thing that struck me as being a huge
+need is right now
+programming languages are extremely
+difficult to use you know
+people c plus was it was interesting
+python
+javascript you know it's constantly
+getting easier and easier to program
+it's still it's still very tricky to
+actually understand
+to break down a problem to learn the
+syntax
+to learn how to debug something all
+these things require you know a year of
+expertise
+before you can even build sort of a a
+program of
+some size and this seemed ridiculous to
+me
+because um i envisioned a world i mean
+my dream is a world in which
+you know you can just talk to your
+computer and then it could develop the
+program for you why do i have to
+know how to tell it what to do in a
+programming language why can't it come a
+little bit closer to me
+and i can say you know if bitcoin goes
+below
+uh uh seven thousand dollars order two
+more
+and like i could build a program that
+can do that but i probably won't do it
+because
+it's too tricky to do so but it would be
+nice if i could just be telling my
+computer all the time
+um these different programs that i would
+like and they could then build them for
+me
+so i looked into so my research is on
+sort of how to you how to what is the
+next generation of programming
+languages going to look like and my
+vision is that it'll encompass a lot
+more natural language so you'll describe
+to the computer
+in in some in not totally bizarre terms
+but it's something that you can
+understand
+and then it can then use a translation
+sort of in a very similar way in how
+english is translated into spanish by
+google how can you translate
+english into a programming language like
+a very simple javascript or a very
+simple python that's sort of
+based around these sort of trigger
+action commands that people typically
+want to do
+so so you're literally doing a thesis
+you're doing a phd at stanford
+about what is the next generation of of
+human computer interaction going to look
+like but from
+a development perspective so not
+necessarily the consumer
+you know alexa buy me more toilet paper
+it's more i want to pro i want to
+think of a new alexa and i want to talk
+my computer through working it out
+exactly or demonstrate another one is
+we're working on is a demonstration so
+i just want to maybe show my computer
+what to do like click this button click
+this button
+but um only click this next button if
+the price of hand sanitizer
+is below ten dollars and if it's not
+then do this so you're sort of
+these these next generation programming
+systems that are
+allow either natural language or
+multimodal interfaces
+or um or programming by demonstration
+to allow you to build these sorts of
+programs that will run on
+um if i say alexa it'll pop up and there
+it goes
+it'll allow these next generation
+systems to run um on
+these virtual assistant type devices
+interesting and so mike you're writing a
+book called regulating ai
+what is that about yeah so i'm always
+been interested in ai and
+as i was uh doing more and more of it
+the the social implications became
+more and more pronounced and you know
+especially being in stanford stanford is
+all about
+the intersection between technology and
+um
+society for a lot of things uh it's not
+i mean
+there's other schools that are very
+technology focused there's other schools
+that are very
+human focused but i think stanford is
+one of the things that sort of brings
+those two
+things together sure and so i mean
+that's always been
+top of mind to me and uh i took a class
+a couple years ago
+on um regulating ai i did well in it and
+then the next time it was taught
+um the professor asked me to be the ta
+for it
+and of course i was extremely excited
+because this professor is a
+california supreme court justice so he
+knows the law backwards and forwards
+and he's been thinking about law and ai
+and this class got me thinking about it
+a lot and then being a ta for it also
+got me thinking about you know we
+obviously want
+ai we need ai out there but we need a
+little we need more
+um clear understanding for both sides
+for for
+from society's perspective from the
+people who are building it nobody wants
+to release a self-driving car if they're
+not sure
+what how how it's going to be penalized
+when something bad happens they want
+some clear
+it it's helpful for both sides to have
+some clear regulatory framework
+so that there is the law always the law
+always finds a framework
+i mean it's just not clear before it's
+if you want to make it clear before it
+happens as opposed to after it happens i
+mean someone will sue someone else and
+some judge somewhere
+will review the case and come up with a
+ruling on it
+it's just very um inconsistent or
+uh haphazard so it's better to like
+maybe think about it a little bit not so
+much that you think about it so much
+that
+makes so many rules around it that you
+stifle innovation because that's bad as
+well
+but just so that there's some framework
+around it so um i've been thinking about
+these ideas a lot i've been teaming the
+class
+um uh and so i thought it would be great
+to
+get these ideas out there more and i
+thought the best i mean even when i was
+doing the class i tried to disseminate
+the knowledge as much as possible by
+opening it up to um auditors people who
+had
+people could just sign up on it we had
+an email list where you could stay up to
+date with the class announcements and
+the wrong materials very trying to like
+mooc the course just sort of ad hoc
+and so that's good and so then i thought
+like it would be great to write a book
+and
+the law is so interesting so um treyas
+and pranab and myself are um writing
+this book
+and what we're doing is we're thinking
+about it in terms of like a primer for
+people who want to learn about law and
+also a primer
+for people who want to learn about ai so
+then we're sort of like taking different
+concepts
+um and then tying them together so we're
+looking at like
+self-driving cars and then we're tying
+that together with
+product liability and tort law so we'll
+give like a primer in what is a
+self-driving car how does computer
+vision work
+how does patching work and then tying
+that together with product liability and
+tour line these interesting areas a lot
+we're looking at like
+generative ai so how does ai produce
+like
+ideas and trademark trademark things
+that can be trademarked or words that
+could be copyrighted or things like that
+and then tying that together with patent
+law and copyrights and property law
+like sort of those things and giving a
+primer to both and then merging them
+together
+so michael let me i want to i want to
+pick your brain on this so i recently
+saw this
+this wide study about the trolley
+problem where they presented in very in
+many countries this question of these
+various scenarios of the problem i'm
+sure you're aware of the study where
+millions of respondents said
+whether they would uh have an autonomous
+vehicle
+uh go one way or the other let's say and
+and
+a grandmother or a baby right yes and um
+and what i what was very surprising was
+that for ever
+different countries had different
+responses to this based on their
+cultures
+and i always thought to myself how does
+what are the implications of this in
+terms of the law
+and how are different countries going to
+regulate sort of ai
+in their own sphere and what happens
+when one country develops
+technology that another country uses do
+you have some some idea behind these
+things
+yeah i mean a lot of countries um i mean
+like i think
+singapore it also like all these things
+are cultural too
+so definitely like um singapore is just
+a smaller place it has fewer roads
+there's not any
+rural um roads in which you know there's
+everything's well maintained
+the the dividers are all well painted
+things probably aren't it's all it's all
+very um
+res it's all very uh urban yeah um
+whereas the united states is just we
+have super urban areas like new york san
+francisco l.a
+we have suburban areas where it works
+and urban is really really hard just
+because there's so much
+inner lab of everything and people and
+then suburban suburban's fairly easy and
+then rural is just like
+actually super helpful because if you
+could just drive somewhere and so
+um it all these things i don't know that
+there is one sort of
+overarching thing because all this laws
+is a lot in time
+entwined a lot with cultural norms and
+how people like what it's going to be
+used for and um
+but certainly some places are further
+ahead and even some states are further
+ahead like
+arizona and texas are doing a lot
+um and i think nevada california is two
+um and if they're they're doing it in
+actually a pretty smart way they're
+doing staged rollouts
+um in certain areas with safety drivers
+which is beneficial i mean it doesn't
+always
+doesn't work with so we saw in the uber
+case where there was a safety driver but
+they weren't paying attention yeah
+and someone ended up dying but um it's
+it's still
+i mean if i had to say what they should
+do is they need to
+um have like i think the safety driver
+is is a wonderful idea
+and then they just need to have set up
+some sort of metric around
+when um their errors per
+uh mile is less than what you'd expect
+for a human driver
+and one sort of like right now the
+discussion is always around like oh the
+google ai car made you know x number of
+errors but then if you look at it it's
+like much much
+less than what you know of course would
+make and it's just in absolute terms yes
+it is bad but
+so many people are distracted with
+driving and you know
+a lot of the mistakes most of the
+mistakes that car accidents happen are
+a result of user error and um
+we're still coming to terms with like um
+is it okay like
+is it okay when a human hurts somebody
+there's we have a way of dealing with it
+but when a computer
+does people are still very on edge about
+that and and rightfully so because
+people are worried about sort of a
+dystopic future but they're still yeah
+definitely so mike you were also pretty
+pretty a pretty big advocate for
+for andrew yang and you got to both meet
+him and and advocate for him on campus
+tell me a little bit about how this
+comes into play with your
+love for for technology and innovation
+moving forward
+yeah well the thing that excited me
+about andrew yang
+was his he was the first politician
+that was really pushing the idea of
+technology
+um being an enabler in government right
+now i don't think the us is doing
+nearly enough we're so behind in so many
+areas
+um we should be doing things with
+electronic voting with cryptocurrencies
+with you know digital assets um laws
+that are all digital
+and we're not doing any of this and it's
+a disaster because other countries are
+doing it we're being left behind
+and so andrew yang was the first one
+that said look i'm a politician
+and i'm in technology and to me that was
+that was enough that said okay
+this guy is really interesting and i
+want to learn more about him
+um i had dinner with him in san
+francisco many months ago
+and after that i was like oh i need to
+be doing more to help at least even if
+he's not going to get elected
+i need to do more to just start getting
+these ideas out there
+and one of the and so his his main thing
+was this idea of universal basic income
+which i think is a great idea
+i mean it basically is gives everyone a
+x number of dollars a month
+um i think there could be some issues he
+was giving it to everybody but
+when i talked when i was talking with
+voters and everything um
+people that were written the idea that
+someone who is already making a million
+dollars a year
+would be getting ubi a thousand dollars
+a month really upset a lot of people
+so i think there's some areas where it
+needs to adapt that to maybe make it
+slightly more
+so that people are only making some
+certain thresholds something maybe
+more similar to what we're seeing with
+the payment protection program where
+it's tiered based on how much money
+you're making
+but the idea that automation um is
+taking away jobs and we need some sort
+of
+the safety net to keep people from
+becoming impoverished is a wonderful
+idea which i really stand which i really
+support
+and so he was pushing that and um i
+started the stanford gang gang on campus
+so we
+flyer we do talking on campus um
+we had talks about universal basic
+income
+we got up i was the representative for
+the remote iowa caucus here so we tried
+to
+get people to caucus for andre yang in
+stanford
+so it's been a great experience and it's
+also been a wonderful experience to
+get people a little bit more um
+political i think a lot of people here
+for the most part apathetic
+um and uh so getting some especially
+that we had a lot of people who are
+computer science people and also broad
+spectrum but
+we don't typically expect to see people
+who are in computer science doing it
+definitely so you know right before we
+started this show we we had a very
+interesting conversation about
+about education and technology in
+general and
+and i think that we we shared some of
+our some of some of the different
+confusion about where is this going and
+what would happen you know if future
+generations
+would uh use methods like we have
+in these weeks with corona times yeah
+and and
+tell me a little bit about how do you
+see this education through technology
+what are its shortfalls what are its
+what are the good upsides to it
+yeah well i mean anytime you go to class
+classrooms hasn't changed for 2000
+forever
+like it i don't think anyone would argue
+that having a professor
+give a powerpoint presentation at the
+front of the room is the optimal way
+for kids students to learn like most
+people you need more
+interactivity you need the stuff the
+content needs to be way more engaging
+powerpoints it's like it's like going to
+see a a high school play versus
+a um a hollywood theater a hollywood
+production it's just like
+when you add production value to things
+it makes it more interesting and like
+you look at things online like three
+blue one brown and the
+the content quality is just so much
+higher than what you'd normally see in a
+classroom
+like um master class if you know that
+yeah exactly
+exactly like the co the quality of the
+content is
+and it's engaging like they've thought
+about it there's a storyline around it
+it's interesting
+yeah and so a stanford i think like on
+there's something there for the online
+there's gonna be two camps there's gonna
+be people that keep going
+the way it's normally going but then
+there's gonna be the other camp that
+embraces this change and says okay now
+how do we really think
+about what's going to change like how do
+we make the content even more engaging
+and more interesting and
+and make people want to learn as opposed
+to but i think there's also as we were
+talking about earlier like there's
+something
+missing with like no one is no one is
+feeling it no one is feeling
+excited about zoom well mikey i think
+what he mentioned before which really
+touched me was
+you know classrooms are meant for us to
+go and meet people and interact with our
+friends interact with the professor
+if they're not meant to sit down in the
+wooden chair and just stare at the
+screen not doing
+and my computer science classes right
+now i feel like i'm learning just as
+much as i was in the classroom because
+it's a lecture based
+but then there are the classes which are
+about the interaction and about going to
+the professor after class
+and getting their input and getting her
+to to
+and and pinging questions back and forth
+with her which i
+which is not really yeah and zoom right
+yeah i mean more interact yeah so more
+interactive more group projects more
+like
+experiential learning definitions too
+just
+um taking notes online um
+right and just more interactive yeah i'm
+looking at you know augmented reality
+into this and uh
+obviously i i really and i told you i
+really hope that future generations
+don't
+i that they're not going to experience
+exactly what we're experiencing now
+because it's just not enough
+as far as this and it doesn't make sense
+to me that we have so much amazing
+technology
+that we could be leveraging for
+augmented interaction virtually
+that we're putting to other uses um
+that that i'm a little bit surprised
+that this is the best we can come up
+with
+uh although granted nobody really
+expected the whole world
+will transition to online education
+within a matter of a week
+yeah i mean i'm so optimistic for the
+future um there's gonna be such
+incredible things built out of this time
+there's like this is just the start of a
+huge
+opportunity in which there's going to be
+like incredible classes online and
+incredible
+change changes in health care incredible
+change like sometimes you need that
+that deadline to really it's like it's
+like a deadline for a paper like
+that but until like it's due on april
+1st it does it
+does things actually come to fruition
+like you know digital healthcare
+all of a sudden almost everybody has to
+be able to get their prescription
+medicine online
+yeah exactly that's not going to go back
+to normal afterwards
+yeah incredible i'm super curious about
+what are the lasting changes that are
+going to come out of this and what parts
+are going to go back tomorrow give me
+one
+guess for one lasting change that will
+stay afterwards
+um i would say zoom call like work from
+home could be much more the norm
+than it normally would have been before
+i think it was gonna be unless
+unless someone has a strong need to uh
+like unless you need a haircut
+or something similar like it's going to
+most people are going to do work from
+home and
+and to build on that there's going to be
+a lot more tools developed to make this
+sort of
+more interactive around it definitely no
+you know i think right now
+when you apply for jobs a lot of the
+times you look at the locations and you
+think do i want to work in san francisco
+or austin or denver
+and it might not really matter soon
+because you're gonna you're gonna have
+so many more opportunities especially in
+the tech world
+to work at any company you want because
+they will have they will
+at least enable you to work from home
+yeah because of this experience
+yeah mikey before we finish
+i want to put you on the spot one last
+time and i want you to tell me three
+words
+that you think would best describe you
+hmm
+good question i think
+i would say
+uh fearless because i don't think once
+you once you
+once if you are afraid of something you
+don't think you don't
+you don't go for it like you you would
+otherwise sure
+um judicious so thinking
+brings all the way through um
+and you know looking at weighing the
+different sides of
+an argument and
+[Music]
+exactly like a phd candidate at stanford
+and i would say uh another one would
+be now so there's this quote i like it's
+like
+um and along with now would be pithy
+these are sort of similar things
+pithier now um now there's this quota
+like it's like if not
+now when and i feel like that's an
+important thing it's like
+if we're going to do it like there's so
+many things that can always take your
+time
+but like what are the most important
+things so like now
+would be of course there's times to wait
+for certain things with exceptions but
+was now now is like an important thing
+so if they're not going to do it now
+when i love it mikey thank you so much
+namaste
+thank you mike namaste

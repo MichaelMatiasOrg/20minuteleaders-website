@@ -1,0 +1,659 @@
+there's a really interesting inflection
+point
+where folks start asking themselves wait
+a minute
+so is it really going to be 20
+online penetration in e-commerce for
+groceries or maybe it's going to be 50
+and if it's 50 it's going to stay 50
+maybe it's gonna be 80
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with
+c-tech
+welcome to 20 minute leaders i'm so
+incredibly excited for this episode i've
+been following this company for so long
+i actually visited their offices a
+couple times
+and really what they're doing is just
+revolutionary and we're just gonna
+continue hearing about them for so long
+meet elgam goren the co-founder and ceo
+of fabric
+the leader in automated micro
+fulfillment centers
+fabric partners with grocers and
+retailers to transform underutilized
+space into robotics powered warehouses
+that fulfill online orders in under 5
+minutes
+he has led the company from its
+inception in 2015 through its first
+deployments and now
+is at the helm of its rapidly scaling
+operations before co-founding fabric
+l-ram served as a major in the israel
+defense forces managing r d teams and
+multi-disciplinary operations in the
+intelligence technology unit
+el-ram holds a bachelor of science in
+physics and electrical engineering from
+the technion israel institute of
+technology
+and an mba from tel aviv university el
+ram goren welcome to 20 minute leaders
+fabric one of my favorite companies in
+the world i swear to god how are you
+doing
+i'm doing well and thank you for having
+us and thank you for having me
+i i've been following for so long uh
+talking
+uh for many many times with with draw
+berman and one of the investors and and
+visiting the offices and thinking
+critically about how
+fabric is is changing the way that we
+think about
+fulfillment and microfilm and and
+robotics and the future of
+of of warehouses and and it's really
+really exciting i'm already
+scared that i'm not going to get through
+all the things i want to talk about in
+these 20 minutes
+so all around very briefly before we get
+to talk about micro fulfillment
+tell me about yourself how do you find
+yourself the co-founder and ceo
+of a robotics company
+well um so i'm in my background i'm
+actually
+trained as a i studied electrical
+engineering and physics
+uh back in uh in israel here at carnegie
+mellon here in the us
+uh and after school i um
+i joined the idf uh spent there about 10
+years
+in one of the tech units there and that
+was before we we started what was then
+called
+uh common sense robotics and today uh
+fabric so that's that's kind of
+in short my background so obviously from
+the tech side
+uh but in time we kind of uh fell in
+love with this uh this field we're in
+and uh looking forward to spending some
+time on that
+with you today so you know when i think
+of micro fulfillment and the problems
+that we're facing with warehouses you
+know i think of costco i think of
+walmart of amazon these
+i'm thinking of you know huge huge
+populations that need the need solutions
+and here
+in israel we we have one of the most
+innovative companies in the field
+what makes you think of microfulfillment
+as a problem that that is worth tackling
+from where we are
+well i think that's a great question so
+you mentioned a few things in
+in in kind of the last minute or two and
+one was robotics and the other was
+uh you know warehousing and supply
+chains and things like that but
+for us um as founders we actually did
+not come from retail
+we didn't come from supply chain and we
+didn't come from logistics so we had no
+idea uh about the
+you know the depth and complexities of
+some of the problems that we would
+eventually face
+but and so the way we were thinking
+about this is actually from a consumer
+standpoint
+so fabric was born from a consumer need
+uh basically to get your groceries
+faster and cheaper than going to the
+supermarket that's how we start
+and that's what we wanted to solve and
+that's what we set out to do
+in time that evolved into hey
+how do i create the tools and services
+that would allow my
+you know favorite brands or retailers to
+offer me as a consumer
+these types of on-demand experiences and
+why is it that they
+can't offer that today and that's
+exactly what
+fabric is doing today so fabric was born
+from a consumer mindset of
+that's the type of experience that we
+would want to
+have as consumers but at the same time
+we looked at the industry and said okay
+so
+what would it take for those businesses
+to offer those types of experiences and
+and mainly
+why is it that they can't or won't do
+that
+today and solving those those
+problems those challenges is what we do
+today
+and that's how micro fulfillment was
+born right so everything you're going to
+see in fabric whether it's
+you know the algo or the data or the
+software or the robots or the real
+estate
+it's all it all comes down to how do we
+get to
+a solution that allows those businesses
+to create
+those experiences to the consumers
+who at the end of the day are you and me
+amazing and so take me take me a little
+bit back and 30 000 feet in the air
+why can't our favorite brands give us
+the on demand experience that we really
+really want
+it's 20 21 right so the answer is that
+they can
+but they can't do it while running a
+sustainable business
+and that's something that uh that's
+something that
+some companies can't afford to do
+meaning
+to lose money on their business on every
+order
+and some businesses can't and in time
+you know
+once you scale it's becoming more and
+more challenging to do that because
+you're
+literally losing more and more money as
+you grow your business
+and that's not a great business model
+um and so um
+and so the reason they can't do that
+isn't because
+you know there isn't the instacart or
+the postmates
+or you know whatever platform that's
+already available today to make that
+happen
+the reason is that at the end of the day
+retailers and brands need to choose
+between
+an on-demand experience that will allow
+them to
+compete and a
+kind of a negative or an unsustainable
+unit economics
+type of model or not being able to
+compete
+and running their their existing
+business model
+and what we're here to do is basically
+to combine
+the best of both worlds um and more than
+happy obviously to to kind of to get
+into the details of why that's not
+that combination is not available today
+um and at the at the heart of it is that
+in order to allow for speed you really
+need proximity right you really need to
+be close to your end customers and
+i think that's you know that's almost
+um uh almost straightforward it's not
+always straightforward but but
+let's assume we're uh we're accepting
+that
+that assumption up
+at the same time the closer you get
+to your customers it it is actually
+more and more challenging to run
+an efficient business because everything
+that we know
+or that the industry learned about
+supply chains is that
+the more you consolidate right the more
+you make your operations more
+centralized
+that's how to you know to drive more
+efficiency
+so if you're starting from an operation
+like
+online groceries in 2015 2016
+all the way to today or general
+e-commerce for that matter
+going closer only gets
+only makes the situation worse from unit
+economics perspective
+interesting and at the same time the
+starting point for a lot of these
+businesses
+is that they're already losing on their
+ecommerce business and that's
+especially true for for online grocery
+so when we came and said
+you actually need to go against
+economies of scale
+for for very good reasons a lot of
+people laughed
+because it doesn't really make sense the
+only way it does make sense
+is if you you're able to inject
+a new type of model a new architecture
+uh or a new stack of tech that allows
+that
+to to make sense you're effectively what
+we're effectively today doing is kind of
+changing the game from a game of
+economies of scale
+to a game of economies of density and
+once you have that density
+uh and that's already available in
+online groceries for example and we're
+seeing that in health and beauty as well
+once you have that
+it actually does make sense and that's
+what we're seeing uh
+in israel with the super farm we were
+just announced a kind of
+an extension of of the operation to
+kind of to uh to cover their entire
+business their e-commerce business
+and that's what we're seeing here in the
+us as well
+incredible and and how do robots play a
+part of this how does it
+how does deep technology impact the way
+that you're able to
+supply this microphone right no that's a
+great question so
+let's take one step back and say okay so
+you need to get closer but you also need
+to be a lot more efficient so how do you
+do that so
+right uh you need to be able to utilize
+low-cost real estate uh you need to be
+able to
+generate a lot of throughput in small
+footprints
+and you need to be able to uh be much
+more efficient
+in terms of your operating costs for
+this to make for this to make sense
+as it happens um you know robots are
+really good
+in two things uh they're really good in
+um
+in being efficient in space if you
+design it the right way and so if you if
+you enter one of our facilities you
+would
+notice very very early on
+that it's basically a 3d cube uh
+where we store things and so we can
+shrink
+the size of the facility uh quite
+significantly
+and and actually increases the
+throughput per square foot inch or per
+square meter
+uh which is a is a key metric for the
+business
+and at the same time as it happens
+robots
+drive labor efficiency right so um
+if you're able to um
+transition uh from a operation that's
+very labor-intensive
+to one where people still
+are an important piece of the operation
+but they're really focused on the things
+that people
+are very good at and most of the work is
+being done by robots
+then you're able to create that
+arbitrage as well and the combination of
+those two
+basically allows us to create this new
+operating point in the
+in the p l of the business that we're
+serving
+that allows again to combine what we
+wanted
+in the first place which is speed
+and efficiency and that's kind of the
+name of the game
+right and so as you're as you're
+building these these warehouses and as
+you're as you're thinking through these
+technologies how do you go and explain
+this to
+the regular retailers you know they is
+it is a
+common sense thing for them to
+understand okay this is the natural
+progression of how
+the warehouses are going to move to
+whether it's supermarkets super
+farm or or traditional retailers or is
+this or does this require a little bit
+more explainability
+well i i wish i could tell you that the
+person who's speaking to you
+is a great um speaker
+uh and a great marketer but i'm not
+gonna i'm gonna i'm not gonna choose
+that path because i'm not sure that's
+necessarily
+the case here i think that
+it's a combination of three things it's
+a combination obviously a vision
+and kind of a vision that actually makes
+sense
+um at least given certain
+circumstances it's a combination
+of um early adopters
+that are visionaries so i will i will
+tell you right now
+if if if we went with
+you know everything that we have right
+now which is a lot more than we had five
+years ago
+and we would pitch this uh in 2016 most
+retailers would not buy it
+interesting because it
+you know there are certain companies i
+i'm not sure we're definitely not the
+only ones but
+i don't think there are a lot of these
+companies that
+um that undermine
+some um
+very basic assumptions how entire
+industries work
+uh you know i think you know tesla is a
+good example for that and spacex is
+definitely a good example to that and
+i'm not i'm not we're i'm definitely not
+putting us uh in the same
+in the same league but conceptually
+if you're going to go and tell retailers
+that everything that they've thought
+of in terms of um consolidation
+is actually the wrong direction because
+consumers are going for on demand
+and technology will allow that to be
+sustainable
+you shouldn't expect um
+you know um you shouldn't expect
+90 conversion on day one
+and the reason is that it's
+it is it is somewhat it is somewhat
+different
+and most people it well put it this
+differently
+there are a few people that will go with
+that vision
+and you know these are the early early
+adopters and
+they're the the greatest champions and
+that's everything that you need
+once you have those and you're
+successful with showing that that
+actually works then you're going to see
+uh more adoption and i wouldn't even
+tell you that today
+you'll have 100 adoption rates but it's
+definitely very different than what was
+a few years ago third element
+is luck so um
+you know we when we started the company
+i wish i could tell you that we could
+predict
+in 2016 that a year later amazon would
+will acquire whole foods and and walmart
+will acquire
+you know a bit later would acquire jazz
+uh and that covid would accelerate
+everything that we know of in e-commerce
+um
+and i wouldn't i i wouldn't i would
+definitely not call
+covid um a lucky
+um kind of event for anyone
+uh but from a business perspective it
+definitely kind of shifted a lot of
+things
+and so there is an element of just being
+in the right place at the right time
+just you know you can't you can't run
+away from that
+uh you just need to be able to um
+to leverage that to accelerate right to
+the company
+a hundred percent now if we're if we're
+imagining the world
+you know a few years time i'm i'm always
+curious about the impact and and you
+know the impact has a butterfly effect
+obviously
+and it's not just this idea of being
+able of providing retailers with the
+ability to provide
+on-demand services and that are actually
+you know
+cost-effective for the business but but
+how does the world look
+in your eyes even just in a few years
+how does how does you know micro
+fulfillment work in the world
+i'm guessing that we're going to be
+seeing a lot more fulfillment happening
+from
+inner cities right a lot of you we're
+going to see things moving closer to the
+people rather than big warehouses
+outside
+yeah well i think that you know it
+depends on how far
+you want to look at right um i think
+that in the
+you know retail is pretty broad but if
+we if we
+focus on that for just one second i
+think there is an opportunity here
+not just to um
+to be more efficient and to create to
+create
+kind of more or an elevated type of
+experience
+there is really an opportunity here to
+create a
+what what i i'd refer to as a superior
+retail model
+meaning you could and i think that the
+world is is going that direction
+uh regardless of fabric where
+um you will you'll end up at a point
+where it's
+more um it's more convenient for a
+consumer
+to order online uh it's gonna get it's
+gonna be faster than going to the store
+it's gonna be cheaper than going to the
+store and they're gonna have more
+selection
+and at the same time and this will take
+time but
+i'm i'm a big believer that that's
+that's that's going to happen
+the side of the retailer would also
+uh see a better model meaning
+it's gonna be more profitable for
+retailers
+to run online operations
+than it is to run a store and that's not
+necessarily that's not the case today
+for most people it's very far from being
+the case today
+but i believe technology and these kind
+of
+novel uh operating models and
+architectures will allow us to get there
+and once that
+happens there's a really interesting
+inflection point
+where folks start asking themselves wait
+a minute
+so is it really going to be 20
+online penetration in e-commerce for
+groceries or maybe it's going to be 50
+and if it's 50 it's going to stay 50
+maybe it's going to be 80
+and so there i think you know the next
+few years i'm not sure if it's
+you know five years or 10 years things
+are going to get very interesting
+i think the beauty of it is that is that
+it's really up to the industry right
+uh because there is room to get there
+um it's just a function of you know
+uh is is tech in the in the mature place
+that it needs to be
+uh it also is a function of you know
+uh new new players that are entering the
+market
+from the retailer side like gopa for
+gorillaz or instacart or uber that we're
+we're seeing
+they're they're moving up they're
+creating a big dent
+into more traditional industries and i
+think they're gonna
+they're gonna have even a bigger dent
+than what we're seeing today
+uh the world is changing fast uh i often
+sit
+on the roof and i and i look at tel aviv
+and i'm looking at you know the
+thousands of scooters going by and i'm
+looking at the small businesses
+and i'm looking at the small
+supermarkets and the large supermarkets
+and and i can't help but get excited by
+by the idea of how many things are going
+to be shifting
+in the next few years just be below our
+eyes
+and and i think it's a it's honestly one
+of the most incredible
+times to to think through these things
+and and i can't wait to see where things
+are headed and i'm so honored to be
+speaking to one of the people that are
+that are making it happen and they're
+and are going to be a part of this
+of this incredible revolution and
+evolution so el
+thank you very very much i have a few
+more questions for you very short ones
+but but they are important
+and i want to take you back to your
+childhood what fascinated you as a kid
+perhaps a a passion hobby or your
+favorite subject in school
+i loved math i still love math
+i i i'm gonna i'm gonna be a bit nerdy
+now but
+uh it's
+i i found it to be so beautiful as a
+the the concept there you know not not
+trying to kind of to
+be too too romantic about it but i just
+love
+math and i know that's true you know
+terribly nerdy but
+that's uh that's the honest truth
+i'm right there with you and um perhaps
+a role model or some figure of
+inspiration along your journey
+uh professionally or personally a real
+or fake
+something that you know inspired you as
+you have been on your journey
+um that's a great question
+[Music]
+um
+i'm going to go with th there you know
+there there could be
+there there is a classical answer to
+your question which is probably
+um perhaps steve jobs
+or you know one of those figures and
+that's definitely
+that's definitely there um
+[Music]
+i'd go with uh i'd go with my parents
+uh i need a small explanation at least
+something
+i think i think you know almost each and
+every one of us
+will will understand uh we'll understand
+but
+um we're we just have
+we have two wonderful young boys and uh
+kind of seeing them grow up and seeing
+how much uh
+how much goes into
+that uh kind of uh period of time
+uh and uh especially their you know
+their mother and the love and care that
+uh that they're receiving uh just
+reflects on uh
+you know the earlier generation so i'm
+gonna go with uh with parents
+and especially moms i love it
+and three words you would use to
+describe yourself
+um that's a good one um
+so i haven't had a lot of kind of we've
+we've chatted before that so i i didn't
+i didn't prepare an answer
+no commitments at all but uh let's go
+with uh let's go with yes we can
+i'll take it i'll definitely take it
+thank you very very much this was
+wonderful thank you for the inspiration
+and
+both in this show but but for years
+before that uh
+stay safe and stay healthy and and i
+can't wait to see you know what fabric
+does to the world
+[Music]
+you

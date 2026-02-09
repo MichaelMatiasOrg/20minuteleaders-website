@@ -1,0 +1,601 @@
+i think early founders will be better
+off thinking about security earlier than
+later
+because it does become a blocker
+and the blocker becomes when for example
+they try to do a poc for one of the
+fortune 500 companies
+and then they get a huge security
+questionnaire that they have you know
+they're having a hard time understanding
+where to start right
+i think early founders should put more
+security budget more consciousness about
+their security because it is a blocker
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders today we
+have with us leo klisman co-founder of
+sentent
+leo is an entrepreneur hart co-founder
+of sentinet a successful and unique i.t
+security and compliance firm for
+startups and emerging businesses he
+takes great pride in his achievements
+working with and advising hundreds of
+expanding companies with sensitive
+compliance requirements through their
+journey of explosive growth to
+acquisition the sentiment team supports
+their clients with everything from cloud
+and application security to day-to-day
+iot operations lior is a lifelong
+technology nerd specializing in
+automation infrastructures and physical
+security systems
+[Music]
+welcome to 20 minute leaders all the way
+from san francisco how are you doing
+i'm doing great michael thanks for
+having me no no thank you for having me
+and this is going to be a lot of fun and
+i'm excited for these 20 minutes to talk
+about
+you know i.t and talk about consultancy
+and talk about sentence which you're a
+partner at and talk a bit about the way
+that you work with companies to provide
+some different thinking that they may
+not have in-house and and especially
+talking about you know today's world
+where we have so many startups and so
+many high-tech companies and the need
+perhaps for an outsider to come and
+provide this different level of thinking
+and consultancy so before we get into
+that leo tell me a little bit about
+yourself and your own
+path and journey which eventually land
+led to you being a partner at sentence
+awesome
+so i'm from israel as you already know
+was born into
+a family
+that worked for the government so
+security was uh in my backbone uh ever
+since i can remember myself uh security
+was a part of it uh whether it was
+intelligence privacy or secrecy
+uh grew up in tel aviv so
+very keen to see the environment
+my career started though of course as
+many of us in the israeli defense forces
+where i was in intelligence units
+helping create solutions for security
+systems
+won't be able to provide more details
+but i assume you can think of what that
+what that entitles to
+my career started
+in the us actually about 11 years ago
+almost 12 when i moved to new york i
+worked for private security
+organizations overseeing enterprise
+installations for fortune 500 companies
+and many consulates and embassies uh we
+did infrastructure security systems and
+the majority was access control at
+biometrics so that was a really fun and
+paradigm time for me to see how the
+world of security was from the typical
+old burglar alarm systems into a full
+video surveillance in closed circuits
+whether if it's biometric or facial
+recognition starting from 2d moving on
+to 3d against spoofing
+and that's where my career draws
+and then decided uh to open sentence
+with a lovely business partner uh to
+provide uh
+and disrupt the market of managed
+services providers
+uh we both have worked at other msps and
+other startups prior to sentence and we
+have seen a lot of things that's worked
+and we have seen a whole lot of things
+that didn't work so well
+so we tried to take both realms and
+combine them into a one-stop shop
+for all of our cloud clients technology
+and security and compliance needs i mean
+what we call total i.t compliance and
+security
+obviously we'll go straight for the
+interesting parts what doesn't work so
+what have you noticed
+across a pattern
+that didn't work for tech companies
+especially in your expertise in it
+yep
+the main thing that they didn't work i
+think it was the complete approach to
+the i.t and a managed services model
+the older model was
+based on a lot of legacy systems
+so if you know if we're talking 10-15
+years back the typical outsourcing it
+model was let's bring on customers
+charge them per user
+put on them
+our preferred softwares and applications
+for us to be able to better monitoring
+them and better support them basically
+simply said being a value-added reseller
+right
+we believe that in this day and age
+given that there is so many b2b sas
+company and all of them are pay as you
+go meaning you can go into their website
+sign up for the services choose your
+package and get going
+we want to be the same
+so we have completely moved away from
+that model and coming from a model to be
+a trusted advisor
+we want our customers to feel that we're
+just a part of their team that there is
+no difference between if they hired
+three or four people or if they hired my
+company sent it
+i think that's the biggest gap that we
+needed to understand how to bridge
+between really being there for our
+clients internally
+rather than being this outside
+consultant
+that pushing that pushes on them
+products software hardware
+and that doesn't have their best
+interest in mind
+right i think that's the biggest gap
+what are the problems that companies may
+face
+so that they would need this assistance
+and that you would be a good fit for
+them what are those types of problems
+we usually narrow them to three subjects
+one of them is if the company does not
+have an internal i.t
+team
+usually those companies are more
+receptive of either a cto or director of
+engineering head of people wearing those
+hats for scalability for growth of the
+team onboarding off-boarding or for
+security and compliance
+of course there are too many hats that a
+single person can wear so that's kind of
+our first entry to some companies
+is to save the time which is the biggest
+pain point for them they want to free up
+their plate so they can focus on their
+product and features which is more
+important than focusing on their i.t
+systems and just for clarification
+because you know today you know i t can
+mean for a lot of things so what
+tangibly
+would you be would you be would you be
+specializing in the world of i.t within
+within companies
+so we would take their entire day-to-day
+support and administration
+meaning a common task that many of our
+clients need our help with is onboarding
+and off-boarding of their users is the
+complete
+a to z of of that topic so the
+purchasing the provisioning of the
+accounts whether if it's a new person
+that got hired or whether if it's an
+existing employee that got off-boarded
+that's pretty much our number one task
+the second task will be to help
+customers achieve compliance
+certifications for example suck
+suck two compliance iso hipaa and to
+stand in those regulatory um
+so i think those are the two biggest
+biggest pain points that companies will
+come to us
+and that will explore the possibility of
+working with an outside vendor is to
+free up the time so they can focus on
+what they need to focus
+and provide a posture
+that is
+fits the
+this day and age security risks
+and help their team scale
+so
+well though you're coming into a company
+and you're
+coming from the outside you have
+expertise in the technology processes
+organizational behavior
+but you're coming into a new company
+you're interacting with new people and
+new cultures new leadership
+what
+share with me sort of the journey that
+you're on
+as let's say that i'm a new company that
+comes to work with you what is sort of
+the journey that you would have to go
+through yourself
+to come into my organization in a
+healthy way and very efficiently and
+quickly help me with the things that i
+need help with
+absolutely i think the number one most
+important will be to understand the
+company's pain point what's the reason
+for needing an i.t i think before that
+everything else is vague before
+understanding the pain point of if it's
+either free and up the time or needing
+more support because they have
+exponential growth or it's whether that
+they have a security questionnaire that
+their head of cells are blocked on that
+they need to close the deal
+those will be sort of types
+that we will try to understand at our
+very first conversations
+so we can better
+create a package that works for our
+clients intention
+when we start working with such clients
+we perform what we call a discovery
+phase the discovery phase is pretty much
+our first handshake for example between
+myself and you michael
+during that time we understand the lay
+of the land we get to see how things are
+laid out how's the architecture looking
+how's the infrastructure looking where
+is the company currently at and where's
+the company wants to go
+you know a couple of years from today
+because it's not only where you're at
+now it's where you're trying to be sure
+of course many startups as i don't need
+to tell you they're trying to either get
+acquired or become public whatever the
+business decision may be at the end goal
+we want to push them toward
+that goal
+so during the discovery phase it allows
+us to understand the lay of the land so
+when we actually start supporting a
+client
+we're very familiar
+and very knowledgeable on their
+environment to be able to make necessary
+recommendation
+to upscale their it poster their
+security posture and be able to support
+them on a day-to-day basis
+right so it sounds to me that you're not
+just
+helping them with the things okay so i'm
+coming and saying these are the it needs
+that i have right now but you're
+actually saying well that may be what
+you have now but where
+where do you want to get to
+and because we know that you're going to
+need abcd and you better start preparing
+now and we could be we can help you
+prepare for that even if you're not
+there yet but this is what you're going
+to need especially when we're talking to
+liquidation events acquisitions mergers
+and acquisitions etc
+absolutely and
+we have a big enough team with a lot of
+different layers of experience to be
+able to make those right decisions and
+write recommendations not just from just
+an it but i t security operations
+we understand how all the teams interact
+with each other at any given
+organization
+and we want to see what's their end goal
+where are they trying to get to
+now so a bit of outside about thing
+thinking
+what surprised you along the way as
+you're working on this and as you're
+meeting more and more clients and you're
+working with companies what what is
+non-trivial that that you're taking away
+from this experience that you perhaps
+didn't know before perhaps i couldn't
+know without you having gone through
+your experience myself
+i think the first thing that comes to
+mind when you've said it it was
+there was a huge bridge
+where smaller companies
+and smaller founders as they're so busy
+focusing on their product and features
+time was not put into it into
+consideration when it comes to security
+and i.t and scalability of the team
+because every startup as you well know
+want to scale their team and grow
+whether if they just got their seed
+stage or whether if they got their
+series a
+they need to make a lot of hiring right
+there's not a lot of thought process
+because there isn't there wasn't a lot
+of time to think about okay how can we
+now bring on 30 more people or 50 more
+people or 100 more people to our team
+a lot of things will have to change and
+there's a whole lot of new requests that
+are going to come from those new hires
+right so i think that's
+one of the best examples to give
+to your question
+right now as you're working with these
+companies do you usually find that you
+have to
+do a lot of explaining as to
+you know where especially without if
+we're talking about the greater scope of
+what they make what their it needs maybe
+down the line is it more focusing on on
+their current needs their future needs
+and how much of this is changing
+consumer behavior from your perspective
+that you feel that you need to do sort
+of in educating the market versus being
+the execution arm
+so i think it changes between that
+smaller companies and a larger company a
+larger company of most of the time faced
+with some of the obstacles so they know
+the biggest players if it's for
+provisioning or whatnot sure and they
+know a little bit from hearing from
+their other colleagues of what an
+architecture should be
+where smaller startups let's say just
+got their precedent or just got their
+seed
+we see there is a lot of
+miscommunication of what needs to be
+done and there's a lot of education that
+needs to be put in to explain okay
+what are kind of the best of breed
+things that an organization needs to
+have in order to grow from an operation
+and scalability and security
+perspectives again
+the smaller companies require more
+trainings if it's security security
+awareness training they require more
+hand helding
+through creating those processes
+creating procedures where bigger
+companies usually have at least a few
+implemented procedures and processes or
+policies
+that we need to take and tweak
+smaller companies we really created from
+scratch
+so that's the main differentiator in the
+distinction between a smaller company
+that just starting
+off out of the garage per se to a
+company that have has more than 50
+employees that has been in business for
+a few years and got the founders or
+other people in the company have got to
+experience some obstacles
+right so having worked with
+different clients
+what is sort of a common thread
+amongst startups and let's say you know
+obviously some people that are watching
+this are young entrepreneurs themselves
+or early stage entrepreneurs thinking
+through similar problems what are some
+things that i as young entrepreneurs
+should keep in mind as i'm thinking
+through my own iot or security
+frameworks within my own organization
+already from the get-go things that i
+may not be aware of but you can share
+with me through your experiences
+absolutely i think the number one most
+important
+will be security
+i think early founders will be better
+off thinking about security
+earlier than later
+because it does become a blocker
+and the blocker becomes when for example
+they try to do a poc for one of the
+fortune 500 companies
+and then they get a huge security
+questionnaire that they have you know
+they're having a hard time understanding
+where to start right
+i think early founders should put more
+security budget more consciousness about
+their security because it is a blocker
+and also scaling the teams you know i
+talked to a lot of early founders
+from five people uh 10 people 12 13
+and a lot of them
+have the exact same question
+hey we're about to get a new round of
+funding how can we grow our team
+fast with the least amount of resistance
+well there's few options
+to make sure that you can
+i think those are conversations that i
+do see a paradigm that early founders
+are starting more and more to think
+about
+whether if we talked five six years ago
+that wasn't the case
+i think enough vcs now
+do a good of enough job talking about it
+as well
+explaining the founders that that will
+become a blocker
+and thought should be put on those
+budgets
+uh so i think that's where the
+distinction between again a smaller
+company and a larger company that's
+earlier founders security should be
+taken in consideration because in the
+end of the day
+those are the sales that's what's
+blocking from the company to grow 100
+leo take me back a little bit in your
+journey and i'm i'm curious you know
+both what inspired you to go into this
+into this world and say this is what you
+want to do now but but even before that
+go back to your childhood
+free
+you know back before sentence
+where you know where does your curiosity
+lie what really fascinates you in this
+world
+so there's two things that fascinate me
+one of them was
+geography my parents took me as a very
+early age to belgium so i studied
+international school of brussels
+that's where i pride a lot of my
+entrepreneurship skills as i needed to
+meet people from all over the world
+and be able to uh to adapt myself into a
+new environment and make new friends
+earlier than that i really had a passion
+for technology because of course the
+dot-com boom in their early 90s
+thankfully both of my parents were in
+technology so i got to see a lot of
+hardware i would call it not yet the
+software but the hardware one of my
+earlier passages was
+taking hardware components
+if my parents would buy me a computer or
+remember the first playstation
+and literally taking it apart and
+rebuilding it back together
+nice to tell you most of the times i was
+successful absolutely not
+but that's where i started drawing my
+passion into technology and into problem
+solving how can i take something broken
+and unbreak it
+bring it back to its full self
+i think that's something that really
+stuck with me throughout my career and
+throughout my life
+is how can i take problems that i see
+happening from a technology perspective
+and find a creative solution
+to them
+that's i think the the majority of my
+passion when it comes to technology and
+so if you're looking today what you're
+doing working with with clients and
+working with your partner and
+you know seeing a variety of different
+problems in different companies where do
+you
+gather your inspiration in the
+day-to-day
+my the founders i work with
+the the amazing companies founders vcs
+that we work with
+some people that we talk with are just
+brilliant
+and it is amazing to see some founders
+passion into making this world a better
+place
+the excitement
+that comes out of them about their
+products and the things that they do or
+passionate about that keeps my drive
+going
+uh
+i love
+one of
+the best experiences that myself as a
+founder of my company
+have to go through is seeing a company
+that we start working from a very small
+stages being but or becoming public
+i think that's a completion of all that
+we stand for
+of being a family and understanding when
+is the time to let go and being proud
+and honored that we were able to take
+part of their journey from the garage to
+exploding i think that's what keeps me
+he keeps me going i love it
+i love it and if there were a few words
+that you would have to choose that you
+would describe yourself
+without asking anybody in your life
+who's leo
+what words would come to mind
+think reliable
+observant
+and disciplined
+reliable observant
+thank you very very much uh it's it's
+been a fantastic 20 minutes getting to
+know you know this world and definitely
+leaves me thinking about you know what
+types of things i would need as a
+founder and the way that i can leverage
+the environment around me not just you
+know do everything myself but think more
+critically who are the right people that
+could help me you know strategically
+place myself in the future and
+constantly figure out okay if this is
+where i wanted to get what are some of
+the requirements that would get me there
+things that may be maybe not so trivial
+and which goes back to the earlier part
+of our conversation so little thank you
+very very much
+stay safe and stay healthy and best of
+luck with the sentence and i can't wait
+to keep in touch thank you
+so thank you michael thanks for having
+me and i really appreciate a great
+conversation thank you

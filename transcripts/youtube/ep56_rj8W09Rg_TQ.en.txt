@@ -1,0 +1,541 @@
+i joined caldera and then managed to get
+this
+project off the ground at cloudera so
+this is basically the genesis of apache
+impala
+[Music]
+marcel thank you for joining us at 20
+minute leaders
+michael thanks for having me of course
+it's very gracious for you to give us
+your time i know how busy you are
+and uh you know i i would just love to
+go ahead and get right into tell us a
+little bit about
+your background where you came from and
+i'd love to go all the way up to
+the founding of apache impala sure
+happy to uh how far back do you want me
+to want me to go how i ended up in the
+us
+let's start let's start all the way
+there sorry that's benny my new
+my new dog he's just saying hi
+hello benny hi benny say hi okay i'm
+gonna go and meet while you talk just
+let him if he barks
+of course of course no worries so i
+ended up coming over here
+because i was um i was a um a student
+in computer science in hamburg
+university of hamburg which is where i'm
+from in germany
+and i was very interested in databases
+and in the work that michael
+stonebreaker did
+so i found a way to come over
+to berkeley as an exchange student and i
+ended up
+basically showing up on stone breaker's
+doorstep
+in his office and asking if i can do
+volunteer work
+which i then ended up doing so i ended
+up doing some bug fixing on postgres
+and became part of the
+ended up being a staff programmer in his
+research group
+and that was back in the mid 90s
+and then i left in order to finish my
+degree in germany
+and then reapplied as a regular grad
+student so this is how i
+uh ended up as a grad student at
+berkeley and i'm very grateful
+you know that i actually had that
+opportunity and um
+mike stonebreaker had been helping me a
+great deal
+so um i was then my professor then was
+joe hellestine stone breaker had left
+and gone to mit
+and as i was his first grad student i
+i graduated in 2000 that's when i got my
+phd
+um and then started working at a bunch
+of
+database related startups but in the so
+in the early 2000s it was a
+combust years and i had um a total of
+four jobs in three years the companies
+went out of business or you know things
+like that happened
+um so it was kind of a dicey time
+and so it's pretty much the same as
+today's
+software engineer when they bounce from
+from companies except back then it
+wasn't your decision it was because the
+companies
+basically you know let me find a new job
+um
+while i'm on my h-1b uh so it was a
+little dicey but
+eventually i joined google and so i
+ended up at google in 2003
+and was working there took a little
+break from databases before then i had
+only worked on database internals
+and execution and um
+started working on the ad serving system
+and seeing database technology
+more from a user's perspective so and i
+i then
+became um i then started to appreciate
+uh different aspects of it previously i
+had only worked on database technology
+from the producer perspective and you
+basically you
+work on shrink package software and then
+but you never see it deployed and how
+it's being used right so really
+so maybe outline quickly the difference
+between between
+the two types of consumers from the
+producer side and from the consumer side
+of databases
+uh how is that different well as an
+engineer
+i never had any touch points with
+the uh users of the software that i
+wrote basically that was like
+far away right i guess there were some
+sales people and their sales engineers
+and all that stuff
+i was far away from that so i didn't
+really see it
+and at like i said at google you know we
+um
+in ads there was a chart at my sql setup
+and so you start appreciating
+what really matters in a production
+environment and i also
+um in particular predictability and
+reliability are two
+um two different two things and also
+breadth right what i saw there
+was um google was basically using
+their shot at my sql setup both as an
+operational data store which
+it's where all the ads um the adwords
+metadata went
+but also as an analytic data store
+because
+all of the um usage like the click and
+impression data
+and the aggregates out of it were all
+rolled up and were
+were transferred into the same system
+and so
+there was a data warehouse and there was
+an etl pipeline into the data warehouse
+but it wasn't very well maintained and
+people didn't really like to use it
+because it was always out of date people
+really liked the conflict
+we're looking really at the early days
+of google ads right
+oh yeah yes we're looking 2003 2004
+right this is a
+while back um now things are different
+obviously of course yeah and
+we'll get to that as well but so that
+was kind of a i want to say an aha
+moment
+that what really mattered there was the
+um
+the breadth of the workloads the
+flexibility
+that the data management system gives
+you in terms of the workloads that you
+can run on it and the more workloads you
+can run on it the better
+right this was basically meant you
+didn't have to
+um etl the data you didn't have to copy
+the data again you didn't have to
+do things with it again in order to have
+it be useful
+so that in my mind is one of the key
+criteria for what makes a database
+system or the data management system in
+general
+useful for a company for a business
+right
+let's sort of fast forward from here and
+you are about to create
+you know one of the in my mind one of
+the most revolutionary technologies
+in the database world and that i also
+had
+had the pleasure of using quite a bit so
+talk to me a little bit about this this
+idea behind apache impala and
+and and what's been happening what
+happened in the years to come with it
+absolutely um i'll i'll actually go back
+a little bit to the
+sort of founding ideas i was then ended
+up being
+a google then an ads did a
+new internal database system called f1 i
+was the
+tech lead for the query engine side of
+that and
+i thought that was such an interesting
+and revolutionary system
+that i uh left google and i wanted to do
+something like that outside of google so
+i joined cloudera yeah that was kind of
+the
+the um the motivation i joined calgary
+and then
+managed to get this project off the
+ground at cloudera so this is basically
+the genesis of apache impala
+and back then you know the world was
+talking about hadoop
+hadoop was actually an interesting
+technology i think the
+from the technical side people made a
+lot about out of mapreduce
+and things like this but the real driver
+was really the commoditization of
+storage
+and how all of a sudden hadoop made
+storage
+very cheap and with very cheap storage
+people started building data lakes
+and so going back to the idea of
+flexibility
+it seemed um completely natural that you
+would still want to do analysis
+and you want to do analysis still with
+the tools you have right
+there is a very large ecosystem that has
+grown around sql
+both from the data management side as
+well as the
+um the user angle which is bi tools
+right they all rely on sql
+so it's clear to me that this wasn't
+going to go away and that the ability to
+collect
+more and more data means that you want
+to do more and more analysis not less
+what now what here about are we talking
+here we're now talking 2011.
+okay now i do want to point out then you
+know 10 years ago it wasn't very clear
+to everybody that
+you want to do this right i mean it was
+you're saying it was clear to you but it
+wasn't clear to the world necessarily
+it was i think um if you look back i
+think the world started talking a lot
+about mapreduce and things like this and
+no sequel there was a lot there was a
+lot of big push
+around no sql data stores but i think
+if you look back even farther from a
+historical perspective
+sql was what made analytics and
+analytics stores
+possible but before sql existed
+there was no such thing as bi tools
+because
+writing a moderately complex query that
+does an aggregate and maybe three joins
+writing that against a record api which
+is basically what nosql system is
+is extremely time consuming right so
+sure
+if you if you don't have declarative
+queries
+um which today means sql you don't
+really have analytics so it was clear
+that uh and also going back to to google
+right 80 of the traffic on the data or
+90 of the traffic was analytic traffic
+right you can always
+you can write only so much data but you
+can read the data and analyze it
+10 times over right so it was clear that
+analytic traffic would always dwarf the
+actual update traffic
+so to me it was clear that this was
+still extremely useful technology
+uh parallel database systems and that
+there would be absolutely a need to have
+that in this new hadoop
+world so that was basically the the
+driver
+behind saying we're going to do a polyp
+okay so now so now just
+give us a brief overview what is impala
+for anybody who doesn't who doesn't know
+the
+little details about it sure impala is a
+query engine at you know at the most
+high level at the highest level
+um it is an implementation of parallel
+database technology
+so the idea that you have when you have
+a large collection of data
+you have it sitting in a um in a data
+store
+the data store can be accessed let's say
+you know back in the days you had it
+sitting on hard drives
+you can have multiple computers talking
+to it and you can process the data in
+parallel this is the idea of a scale out
+parallel database system and there have
+been other implementations of that since
+impala was the um the first one in the
+hadoop space
+that i would want to say took
+performance seriously so
+we departed from the standards
+approach um and did it in
+c plus plus number one we were the first
+ones to
+also do it with runtime code generation
+right from the outset
+and we used llvm for that purpose and i
+think all those things contributed to
+the
+eventual success of the project so the
+the focus on performance
+which was very clear um you know given
+the growing
+size of data it was very clear that you
+needed to have a performance system in
+order to analyze it
+so right and then so how how did it
+scale and
+how did you even get people to start
+using it outside of of where you are so
+obviously
+it served your purposes but you know
+obviously it it went into
+so many developers tool sets it's
+i mean we ended up uh open sourcing it
+after the initial version it was open
+source i think that's obviously a big
+driver behind that right
+um it could be adopted by non-commercial
+entities
+people could fork it or you know use it
+for their own production
+purposes um whatever else so i think
+that's an obvious key
+key element for getting adoption outside
+of even then when you open source
+something i mean it doesn't necessarily
+you know the competition on github now
+to get the stars
+and it's not it's not that easy to get
+recognition for all the things that
+you're doing so
+was there any strategy behind getting it
+out there or did you just release it and
+say you know what
+it's good maybe maybe people will start
+using it and adopting it
+that's that's basically that wasn't
+really a strategy to be honest around it
+we just put it out there and we um
+worked on making it better right
+obviously there was a the commercial
+angle which was
+cloudera customers yeah asking for
+features improvements etc
+and then those improvements all made it
+into the public domain code base
+and i think eventually it was just
+recognized that it's a high quality high
+performance system
+and you know that's something a lot of
+people need
+so yeah that's why white and i ended up
+seeing adoption
+so i'm i'm very heavily invested into
+into
+working with data right now both in both
+with machine learning at stanford but
+also and as
+just a software engineer and i'd love to
+get your two cents on where are we
+headed
+in terms of databases and in terms of
+how we how we think of data and store
+data um
+you know it's still today we are still
+we still are kind of
+feeling limited by the amount of data
+that we can store and i have to be
+conscious of how
+how much am i enlarging and populating
+my data sets before i start incurring
+some some big charges you know even on
+my
+gcp or aws so what do you see this
+eventually not being an issue or are we
+going to see some different ways of
+storing our data
+i think i mean just talking about cost
+obviously the cloud providers
+are working on technologies that make it
+cheaper to store
+data primarily by tiering it based on
+usage patterns right right um that said
+you know if you compare storage costs
+today
+in the cloud to what you paid 10 years
+ago when you bought a san or something
+like this right when you bought
+enterprise storage
+it's a lot cheaper already of course i
+think the big
+thing here that you see today is again
+flexibility right the ability
+to first dump your data without
+buying and then paying for it
+incrementally right you i'm paying for
+what i'm storing
+i'm not paying for a gigantic storage
+array
+before i use any of it right so i think
+right i think that is a big driver and i
+think this also informs database
+technology right i think the
+um you still have data warehouses
+as a cornerstone of how data is
+managed and consumed today yeah but
+you can also see you know what started
+with hadoop the idea of the data lake
+becoming
+more and more popular the idea that you
+can aggregate and accumulate data
+before maybe deciding on um
+do having a heavily curated schema sure
+um before
+centralizing everything in a siloed data
+warehouse
+right which in my mind uh data warehouse
+technology is sort of a relic from the
+uh 2000s that's really how it started
+out right back in the days you had
+resource constraints
+and you needed to separate your
+operational data store from your
+analytic data store and this is how the
+data warehouse was born
+but there is much less of a need for
+that a technical need for that today
+and again going back to the aspect of
+flexibility
+um every business needs flexibility no
+business is set in stone
+and the ability to basically accumulate
+data
+collect data and then later on decide
+what am i going to do with it
+and then also add resources based on
+what you want to do with it
+i think that is going to become a game
+changer for database technology so in
+that sense i think
+seeing cloud databases
+and cloud analytics services
+is you know becoming so popular
+is an outgrowth of that right the desire
+for
+flexibility so what gets you excited now
+you know it's 2020. it's been quite a
+few years since safaichi impala where
+where are you now
+i'm still excited about uh like i said
+continuing on the trajectory of
+flexibility so making
+database technology ever more accessible
+outside of a traditional data warehouse
+environment
+so i think this is kind of what i'm
+pushing towards and also what i'm
+currently working on so that's one thing
+i think more
+data lake analytics is here to stay and
+it's going to become
+more and more of a force i think so
+that's that's one direction that i'm i'm
+also excited about it because
+i think it changes the user experience
+so far
+you still have um i want to say the data
+warehouse user experience is still
+shaped by
+the technology from the 2000s right the
+when you have these heavily siloed
+systems
+and i think um bit by bit
+that becomes less and less technically
+necessary
+and so going to a user experience where
+you can get analytic functionality
+regardless of how you collect and store
+data
+right you don't have to decide in
+advance so i need to transform
+everything into a column store
+and dump all my data into a data
+warehouse right you
+you're kind of getting away from that
+yeah i'm saying wherever i have
+wherever i have meaningful business data
+i should be able to do something with
+it definitely definitely so i i know i'm
+thank you again for your time and we're
+just about
+to reach 20 minutes and uh one of the
+things that i love doing is
+i love asking the different thought
+leaders three words that best describe
+them or how they would like
+others to describe them and i and i find
+it very interesting
+to sort of look back now and see how you
+know both the similarities and
+differences
+from tech world to the entrepreneurship
+world
+to the no education world and if you're
+comfortable with that i'd love to also
+hear
+what three words you think best describe
+yourself what three words
+okay um i guess that's also
+it's probably three words that others
+would use or that i would use i'll stop
+being myself
+um i would call myself thoughtful and
+uh premeditated nice um
+and analytical very very cool
+marcel thank you very very much for
+taking the time to do this all right
+thank you and look forward to speaking
+again
+definitely stay safe and stay healthy
+bye bye
+you

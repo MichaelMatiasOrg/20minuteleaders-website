@@ -1,0 +1,622 @@
+without the supreme computers that we
+have today we could not have developed
+the vaccines that we are using today for
+for helping us cope with the covert 19
+at the
+mimic
+that's because there is
+supercomputers and circuit computers
+need super chips and that's what we do
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tec
+hello and welcome to 20 minute leaders
+we're about to talk about chip design
+and semiconductors and i'm really
+excited for this episode with sandy
+saper asic design manager at ready group
+sandy saper joined reddy in 2020 as asic
+and fpga design manager he brings over
+20 years of experience in managing
+complex socs for wireless communications
+and automotive applications his
+experience encompasses all aspects of
+the soc development cycle from
+requirements specifications architecture
+design verification circuit back end and
+silicon validation
+sandy has a proven record of managing
+multi-disciplinary development teams and
+execution of projects efficiently and
+effectively prior to joining ready sandy
+was director of engineering at very
+sense before that he was r d department
+manager at freescale semiconductors
+sandy holds a bsc in electrical
+engineering from the technion institute
+of technology in haifa israel
+and talking about chip design
+semiconductors you know engineering at
+the end
+designing the thing that the things that
+power
+you know consumer behavior
+everywhere we go
+and kind of a black box for me until
+recently and and i kind of fell in love
+with it with what's happening with chip
+design recently and and and i'm really
+looking forward to hearing your personal
+experience you know your own curiosity
+and interest in the field and what it's
+actually like to design chips but before
+that i'd love to hear a little bit about
+yourself your career journey and how you
+even got into chip design in the first
+place okay thank you very much
+er well i'm sandy saber i've been 30
+years in the
+development of chips
+i now i manage a a team a hardware team
+that
+designs and develops chips for the
+semiconductor industry
+i work at ready
+which is a private company in israel we
+have
+200 engineers in the company
+half of the company is the hardware
+under my in my team and the other half
+is the software under the software
+manager
+which i'll get into later and to explain
+to you how important that is and the
+advantage that we bring
+into the market that we have in under
+the same roof hardware and software
+um
+that's a good question how did i get
+into that i was always interested in in
+electricity as a teenager
+and um when i signed up for the
+university i said okay let's go into
+electricity
+it seems that it was back in the
+the 80s 1980s
+and i said that's where i want to be
+i had no idea what chips were then
+uh but during my studies i started to
+learn about electricity and
+all the amazing things that it does and
+it started to learn about chip design
+and it just
+we clicked the two of us clicked me and
+chip design we clicked and ever since
+then i've been in uh developing chips
+and
+from the start
+and i've been in there as i said i've
+been in the uh
+now is this
+i have to ask the
+the curiosity
+and the interest for electricity and
+ship design
+did it stem from
+mainly the
+you know the academic side of things the
+challenge side of things or
+what what did you understand about the
+where where the world was going and how
+how big of a role this was going to play
+into society this idea of chip design
+what had more wait for you um
+i was more into the
+listen to the academics and more into
+the
+hands-on
+and
+do it you know we have an idea get it
+done
+and so uh
+it's a good question michael cause i
+really didn't think that uh back then
+as a
+in my early twenties
+where this was going to uh
+where it was really going back then
+the technologies were
+in their infancy and
+the chips that were being done in those
+times were very
+simple compared to what is going on
+today
+um
+but
+i would say that
+i had the insight maybe you could say
+and this is the area i wanted to get to
+and we started you could see in the
+beginning uh when it finished the
+university they're already
+low end microcontrollers
+for simple tasks
+and
+for computers just then the first
+laptops the
+the first uh
+desktops when the laptop was back and
+the first desktops were being
+uh produced
+uh
+and uh
+you could you could there was
+there's murphy's law if you know it
+murphy's law means every year or two
+there's another shrink where you can get
+you can pull you can combine more and
+more
+in in one single chip
+and
+uh as we know the development
+i think that's i think moore's law but i
+also love it you're right sir you're
+great moore's law exactly
+you're correct
+murphy's law is what happens to me every
+day when i leave the house that's for
+sure though so it's moore's law and it's
+been going on ever since right and we've
+been cramming more and more
+uh
+more and more functions in every chip
+which has enabled us to get where we are
+today and
+um cramming more and more performance in
+a single chip
+is more and more challenging for the
+design engineers for the architects
+and for the electronic engineers that
+have to meet that challenge
+okay
+and uh
+right and and why is so
+sandy you know very in a very um basic
+sense
+why is it critical to today's world why
+is chip design
+still relevant to what's happening today
+because we're you know i'm looking at
+you know this magnificent device you
+know the iphone or any or you know my my
+earphones and i have these tiny tiny
+chips that seem to be doing miraculous
+things why what what what advancements
+do you still have artificial
+intelligence it's just starting now
+super computing is just stunning you
+know it's it's there
+and we work on chips that are serving
+the artificial intelligence and sucum
+computer markets right
+and
+you meet artificial intelligence every
+day
+face recognition voice recognition for
+example and
+super computing for uh for medical okay
+without the super computers that we have
+today we could not have developed
+the vaccines that we are using today for
+for helping us cope with the covert 19
+at the mimic
+that's because there is
+super computers and circuit computers
+need super chips and that's what we do
+[Music]
+fantastic okay tell me a little bit
+about ready absolutely it is uh it's
+like i said a company that has hardware
+and software and when you want to
+develop a
+uh
+a chip for the high-end mascot or even
+for the low-end mask that you need to
+know you come with requirements and we
+understand your requirements
+and we have a
+there's a lot of disciplines
+in in developing a chip
+and it starts off with understanding
+your requirements to meet the
+performance that you need
+to meet your price that you need and to
+meet your power that you need especially
+today on in the
+in the handsets and mobile power is
+critical
+and
+and so you we have to have a team that
+understands the requirements and can
+execute on the performance that you need
+and there are a lot of disciplines to
+make a uh to make a a chip that meets
+the requirements
+it starts off with the architecture how
+do i put how do i even put these all
+these blocks together so that they will
+function
+and with each other what's going to be
+in hardware and what is going to be in
+software is very critical
+hardware is
+thousands of times faster than software
+and and still you want to be able to
+enable the software because software is
+what controls what we need
+etcetera but there is always there's
+always um
+uh
+certain areas and features
+that that
+a customer needs that has to be in
+hardware and that's where
+we in ready
+uh can can um
+decide for you for the customer what
+what can be in hardware and what can be
+in software we um
+we understand what the performance that
+you need and we do the partitioning
+and
+calculate what has to be in hardware and
+what can also be in software the more
+that's in software the more versatile
+your solution can be
+and but you won't meet your performance
+because a lot of it has to be in
+hardware okay
+and then there's the so the architecture
+team decides how we're going to put this
+chip together
+and to meet the performance
+and works and it can work on it for
+depending on the complexity of the chip
+between a month three four five months
+half a year
+to make sure that we we are gonna and
+the end product is going to meet what
+you need
+and then there's a design team which
+have their expertise on how to design
+each actual block to meet the
+performance that you need meet the
+frequency meet the power you meet the
+throughput bandwidth we're talking about
+bandwidth how much else how much speed i
+need to download and you need to hear me
+and has to be real-time and then after
+the design works and and has finished
+the design this needs to be fully
+verified verificate fully verified so
+there's a large we have a good
+and high quality verification team to
+make sure that your
+uh that what we have designed is going
+to fully work and there are no bags
+there's zero bugs we cannot allow bags
+uh in our um in our chips and i'll tell
+you that later why why it's so critical
+that it's fully verified and then we
+have to change all the code that was
+written we have to
+translate that into the physical chip
+okay
+and then there's a team the team there
+that does the um translation what we
+call compile
+into the physical
+chip
+and then we have to validate that the
+physical
+meets the requirements mainly of of
+speed the clock frequency
+and the power
+um
+and then after that every stage that i'm
+telling you about takes a few months
+depending on the size of the chip
+smaller chips can this time but the
+larger teams the ones for the
+artificial intelligence in the future
+take
+can take more time
+and and then we have to validate that
+what we have done
+is exact
+and then we then we ship it off to the
+factory
+and when we ship something off to the
+factory
+it costs millions of dollars millions of
+dollars depending on the on the process
+it costs millions of dollars to just get
+into the and prepare
+the the chip for the factory for the fan
+we call them fabs okay
+um
+so
+yes i've heard about that before uh
+oh yes now i understand
+like the highest technology um
+factories that they really have in the
+world
+super clean super clean super
+uh
+um
+high quality very high quality so here's
+the first thing i cannot
+ship a chip that has a bag because it's
+going to cost me a million dollars to
+fix millions
+millions dollars to fix it if i don't if
+i don't do it correctly plus
+the schedule the the time it takes to
+fabricate a high end
+chip in the fab can take three to four
+months and you want to get there time to
+market is critical
+so
+you will only if god forbid you have a
+bug in your chip you will only detect
+that when you get the silicone after for
+five months that's why it's critical
+that we have uh
+high quality teams that make sure that
+there are no bugs in the float and
+that's what we have it at ready a
+excellent team that does the
+verification the design
+the architecture
+and the final product there and then
+after it's gone through all the
+stages in the factory it needs to be
+packaged and then we receive the chip
+and we validate that what we
+uh before we ship it to the customer we
+validate that it meets all the
+performance
+that we designed it for
+and
+meeting the frequency power
+uh
+before we ship it to the customer and
+that can also take
+a few weeks to validate that everything
+is
+perfect
+and that god forbid you don't have a
+field failure
+i i think it's incredible and i can
+imagine how
+software you know i'm i'm coming from
+the software world and you know i was
+taught
+yeah you know if
+as long as the bug is not you know it's
+is not
+huge
+ship it you know get users to start
+using it and then roll an update in a
+few hours once you start getting some
+feedback but there's no reason not to
+ship at least part of the features but
+here you're saying the whole process is
+so lengthy and complicated and requires
+such
+you know such a detail and such
+orientation to detail that if you ship a
+bug the cost of the time to market that
+cost in dollars to revisit the stores to
+perhaps even recall things and to fix
+them is so grand that this is that that
+and and it sounds like the amount of
+detail that you're dealing with is an
+incredible amount i mean then these
+chips are meant to run the software
+right and our men to integrate into our
+into our lives or into some complicated
+machinery and so i'm i'm imagining that
+if my if i thought my software was
+complicated and had bugs you know
+designing chips
+to is the requirements and that's why we
+have we need good skilled engineers
+high quality design high quality
+verification
+and execution of translating it into
+into the hardware
+it's uh
+where you need a good high quality team
+and
+and managers to manage to manage that
+everything is
+is in
+fitting each other everything comes on
+time
+everything is working together in good
+harmony to make sure that it's
+what we call
+till the end until it works
+until we ship it off to the to the fact
+that
+right
+so
+the day-to-day
+of a chip engineer and the chip designer
+i come to work in the morning
+what do you do
+what is what does a chip designer do
+when they get to the office in the
+morning michael
+uh
+after having the first cup of coffee
+it's very it's great interaction with
+your co-workers is very important
+to understand the requirements and how
+do i implement them how do i implement
+the requirements
+so that it's efficient
+and it will function
+and uh
+there's minimum
+chance of the of a bag so the most
+uh
+the understanding you go to your work
+understand
+uh
+what is the functionality that i have to
+implement
+uh in this block
+or
+if it's a verification engineer
+and how am i going to efficiently
+test or verify
+that what the design engineer did and
+what the architect has defined that we
+have to do
+how am i going to write the code
+that is going to verify that the design
+is really clean and we have tools
+that we use the more experienced
+engineers
+know how to
+effectively use these tools and they
+write the code of the verb what we call
+verification test patterns
+and
+a lot of automation is in the process we
+always think how
+part of our part of the engine engineers
+job is also see how can we do this more
+efficiently because as i told you before
+every generation gets more and more
+complicate complicated because we can
+put in more and more we can cram in more
+and more
+features and performance so we always
+we're always in the back of our mind
+thinking how can i do this more
+efficiently next time or how can i do it
+even more efficiently now
+and how do we we develop
+tools
+of hand-on tools that we use to develop
+to develop to improve the development to
+improve how we do verification and much
+more and
+more and more efficiently
+which is very important since there's
+the demand for resources is is high
+and the more efficient you are
+also the the better it's the the the
+cost to develop is uh is much more um
+feasible and challenged and
+and challenging
+so
+revisiting the initial part of our
+conversation which we were talking about
+the the relevance of the field to today
+if we're looking at where the world is
+headed and you know i'm
+i'm looking at a lot of my my friends
+and people very are very you know very
+very quickly quoting mark andreessen's
+software's leading the world and you
+know obviously um computer science is
+one of the most popular degrees in in
+most universities
+where if as we're as we're you know
+transitioning to the future and where is
+where is semiconductors positioned
+with my generation with the younger
+generation as opposed to let's say
+software or other fields
+because honestly i don't hear enough or
+as much about semiconductors in my
+day-to-day as i would like to and just
+now i'm i'm properly getting exposure
+one basically to the awesome part of the
+axiom is that
+software
+has to run on hardware okay
+that's the basics
+i always tell that to my software
+colleagues without us you couldn't
+develop anything
+uh so where do i think it's going in the
+future i think that we're we are just
+going to have to um
+uh
+think about supercomputing and how do we
+uh manage
+to
+er
+weak this
+there's a
+[Music]
+upper border how much can we really cram
+into one chip
+and we need to think also us as the chip
+designers how do i uh
+think of
+super computing in other words uh
+and supporting
+multiple chips
+okay and that started already
+multiple chips where where we have to uh
+distribute
+all the performance requirements not
+only in one chip but on a farm of chips
+okay
+and how we're going to do that in the
+future communication between the trips
+chips is very critical
+which is also being uh worked on
+and uh
+that's the way i see it going forward
+forward
+we are going to keep on developing chips
+but because the demand is high we are
+now have to think about how we have more
+than one chip in the system multiple
+chips in the system how are they going
+to communicate with one another so that
+we can meet the higher demand for
+performance
+fantastic
+and sandy i really want to thank you for
+the time and the effort and the energy
+i learned a lot and
+really enjoyed this conversation so
+thank you very very much for joining me
+and best of luck with the you know
+everything that you're doing and it
+sounds fascinating and i can't wait to
+learn more about the field myself and
+stay safe and stay healthy thank you
+very much thank you michael for having
+me and i'll be glad to come back
+whenever you want
+[Music]

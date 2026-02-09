@@ -1,0 +1,654 @@
+you have to have some sense of
+dissatisfaction from the world if you
+wake up and you're happy happy and
+everything is great then you probably
+are just gonna
+go around your business and and
+everything continues as is but you have
+to have some sort of dissatisfaction you
+have to see on one hand the problem
+where other people don't but you also
+have to see an opportunity so for me
+building stuff is identifying some sort
+of
+change that is possible in the world and
+then going about and articulating that
+vision
+getting a team around it building in my
+case technology around it you could do
+that in art you could do that in cooking
+you could do that in writing you could
+do that in many different ways
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel
+welcome to 20 minute leaders if software
+is eating the world then ai is devouring
+it meet shai david the co-founder
+chairman and ceo of retrain ai
+dr shai david is a serial entrepreneur
+known for previously co-founding the
+video enterprise unicorn kaltura where
+he served as cto cro and general manager
+of media and telecom from inception to
+exponential growth prior to kaltura shai
+was a co-founder in destinator
+technologies a leader in mobile gps
+navigation software shai founded retrain
+ai to address what he finds as one of
+the biggest challenges of the workforce
+today the skills gap cheyenne his team
+created a platform that analyzes jobs
+occupations and skills and recommends
+personalized training pathways to bridge
+the skills gap
+hi david welcome to 20 minute leaders
+how are you
+i'm fantastic uh calling in from london
+today michael good to be here
+so good to have you i i'm just gonna
+enjoy sitting back in these 20 minutes
+and picking your brain
+over your incredible journey and the
+incredible things that you're doing
+today is co-founder ceo and chairman of
+retrain ai
+but your your background is just is just
+incredible from being a
+previously uh you know co-founder and
+director of kaltura and congratulations
+on on the public offering fellow ideal
+law school
+a phd in information systems from
+cornell
+masters of arts in in new york
+university so many incredible things
+that you've done that there i we can
+spend now two hours with my questions
+but i know your time is so valuable so
+i'd love to focus on retrain ai and and
+understand how throughout all of your
+experience you've sort of converged on
+on your own convictions of what's
+happening in today's world the role of
+ai with with jobs and occupations and
+and how you're building retrain ai to
+change the landscape so right before we
+do that tell me a little bit about
+yourself and about your personality
+because i'm always intrigued by the
+personality of the people that are doing
+incredible things like you've done
+fantastic so again great to be here
+michael and and happy to chat about any
+of these things um
+my background was always kind of on the
+verge between uh
+scholarship and
+entrepreneurship and i built and had
+built a few big companies last week
+project was cultura which just went
+public a few weeks ago
+because it was an exciting journey kind
+of started my living room and together
+with three amazing co-founders uh one
+michael and iran
+uh we built a big company um and anybody
+interested could go look at kltr
+yeah on the nasdaq but we built that
+business from from really from the
+ground up to incredible thousand
+customers and hundreds of millions of
+dollars in sales
+so pretty exciting um
+in terms of personality i'm a builder i
+like to build stuff so cultural was the
+last big thing before the run and i
+built another company called the
+destinator which was a gps navigation
+company before there a couple other
+startups and now my new baby is
+retrained together with two other
+co-founders avi and isabel
+and we're building what i believe is
+going to be a very meaningful platform
+that is aiming to solve the skills gap
+and i'm happy to tell you kind of more
+about it but it's all about putting
+technology to good use
+and
+letting machines do the hard work so
+that humans can fulfill their full
+potential
+i i love that mission statement right
+before we get to to what that actually
+means what what do you mean by builder
+what does it mean for you
+to call yourself a builder how does that
+come about you know in the in the
+everyday things that are not necessarily
+you know building companies because
+you're treating it as a personality
+trait and a characteristic
+yeah i think that
+you know there's a lot of creativity
+of
+the process of taking an idea and making
+it real
+it's about
+creating a vision and i think that
+that's probably true for every
+entrepreneur but you have to have some
+sense of dissatisfaction from the world
+if you wake up and you're happy happy
+and everything is great then you're
+probably are just gonna go around your
+business and and everything continues as
+is but you have to have some sort of
+dissatisfaction you have to see on one
+hand the problem
+where other people don't but you also
+have to see an opportunity so for me
+building stuff is identifying some sort
+of the
+change that is possible in the world and
+then going about and articulating that
+vision
+getting a team around it building in my
+case technology around it you could do
+that in art you could do that in cooking
+you could do that in writing you could
+do that in many different ways
+the way that i've been expressing the
+capacity to build is a building
+technology and particularly software
+systems in the last two decades
+a brief history of the way that ai is
+shaping the way we think about jobs and
+people's roles because i think that that
+your perspective on this is going to be
+critical to our understanding of how
+you're thinking through
+the role of retrain ai as an as a part
+of this new society that we're building
+with us
+yes so so i think there's a
+to get the background we have to
+understand that tsunami is coming to the
+world of work and that tsunami to bring
+you back to your high school physics
+about to kind of
+multiple waves converging what's
+creating this tsunami of three three
+major waves one is that there's a
+dramatic and dynamic shift
+in skills demand the nature of work is
+changing
+what used to be a role definition of a
+teacher where you had to write with
+white chalk on blackboard is changing
+now teachers need to use zoom to work in
+a warehouse you needed to lift boxes and
+now you probably need to operate a robot
+to
+a working supply chain you need to do
+certain things and now with the
+introduction of
+automation you need to do other things
+to work in transportation mean driving a
+lorry and now you probably need to
+operate a drone and of course i'm
+exaggerating because none of these
+things are happening overnight but
+the adoption of automation
+the adoption of remote work the adoption
+of transition and digital transformation
+is changing what work is
+that's wave number one wave number two
+is there's a very significant
+constriction in skill supply and we all
+or maybe not all of us but most of us
+intuitively we know that there are
+programmers that are missing and maybe
+pilots that are missing and maybe nurses
+that are missing millions of people are
+missing there's not enough talent around
+the world what people don't know this is
+also true for mid-skill and sometimes
+even for low-skilled labor there's a
+worldwide shortage of labor and how
+could that be how could we have on one
+hand all these headlines about huge
+unemployment on one hand and a
+consistent complaint by ceos and
+business land managers is not enough
+talent to go around the answer is the
+skills gap the people that are ready to
+work do not necessarily have the skills
+to be able to actually do the work
+and so that's wave number two and wave
+number three is that in most situations
+where there's a mismatch between demand
+and supply there's two approaches to
+solve it either you create a marketplace
+or you have a systems approach when you
+can create that match
+between those but in the case of hr both
+of those systems are failing there is no
+good global marketplace for talent on
+one hand and the systems that are
+designed to manage hr for the most part
+are quite outdated the human capital
+management systems in most organizations
+are quite outdated
+these three waves together create this
+tsunami where on one hand
+we're seeing this very significant shift
+in demand on the other hand a limited
+supply on the on the kind of third
+aspect lack of good systems and the
+outcome is a dramatic limitation
+company's capability to grow on one hand
+and a dramatic mismatch in the talent
+pool where unemployment
+is the symptom unemployability is the
+problem more and more people just cannot
+join the workforce so companies are not
+getting enough talent and people can't
+find work and this is the problem that
+we aim to solve because we believe
+that in such a data rich but information
+poor area ai which is no more and more
+no less than the capability to identify
+patterns and data can serve a
+significant role in in solving that
+skills gap
+now as you're thinking through what
+technologies you can build as a
+technology company and you're
+you're looking at a very general problem
+you know across the world how are you
+even beginning to think through with
+your team what kind of solutions
+are going to be to become enablers of
+this positive change
+so too i've said two things about that
+first is we think that this is a data
+science problems right we're all data
+data geeks and and data queens i would
+say
+and we think that
+there's a very significant data science
+problem here and the first order of
+business is to create a taxonomy
+and an ontology that could describe the
+world of jobs the world of people and
+the world of training pathways
+the logical jump here is that
+the skills gap problem is no more and no
+less
+than a problem of understanding what do
+employers actually need what are the
+skills that are relevant in today's
+workforce on one hand and where are the
+jobs that could use those skills
+right on one hand
+on the other hand what could the people
+do what do they want to do what are they
+capable of doing what did they learn
+how to do and now we can start creating
+those matches in some cases it could be
+a direct match and maybe we can
+put somebody to work in an area where
+they didn't think they necessarily had
+the skills or the talent but in other
+cases it wouldn't be a direct match and
+then we need to be able to map the
+training pathways
+in the same taxonomy to say
+you're at point a you need to be at
+point b and here's a pathway a different
+way to think about all this think about
+the creating the google maps or creating
+the ways of the labor market we're
+creating the map of occupational
+opportunity
+we're able to map individuals on that
+map we're able to charge the courses of
+where individuals need to be and want to
+be and potentially we can even show you
+where the traffic jams are by being able
+to create a layer prediction and
+optimization
+to be able to show how you get from
+point a to point b c and d
+so are you effectively redefining you
+know job titles and descriptions as we
+know them because from what i understood
+from you before part of the mismatch is
+the fact that you know over generalized
+titles don't necessarily fit a specific
+person but it could be that what the
+company actually needs are exactly what
+this person may have but they may lack
+some other skills that would
+traditionally be defined within the role
+that this company is sort of looking for
+for a lack of a better term for what
+they're looking for right
+that's that's exactly that's exactly
+right and there's a big trend in hr tech
+today which we are part of we didn't
+define that but there's a move away from
+job title job description into a skills
+framework
+right
+there's a second move from skills
+framework into career pathways and one
+of the things that happens because of
+this tsunami i was describing earlier is
+that the changes
+that are required both on an individual
+and organizational level are so rapid
+that existing systems just can't keep up
+so people historically have been hiring
+against job title that no longer works
+when the job title becomes
+empty because it changes right i gave an
+example earlier of teachers and
+warehouse employees but
+think about examples from pretty much
+every domain the title might stay the
+same
+but the actual content of that job is
+changing very rapidly so we're helping
+organizations move into a skills
+framework and a typical question that we
+ask is part of our
+sales process for example we would come
+to a ceo or a business line manager or a
+chro
+and ask him um listen michael do you
+have a bank account and you would say of
+course i have a bank account why do you
+have a bank account because i have this
+resource it's called money
+and i'm attached to my money and i want
+to see it i want to secure it i want to
+visualize it i want to make it grow but
+you also have another another type of
+resource you have skills
+right and you have organization skills
+or you have individual skills in the
+case of an individual how do you manage
+your skills portfolio oh i do that with
+sticky notes on the fridge in the
+cafeteria or or maybe i do that with
+excel well that doesn't cut it if you're
+a large employer you're a government
+organization or if you're an individual
+that's looking to define your career
+pathway managing your skills portfolio
+on sticky notes in the fridge
+is just not going to cut it so think
+about our system as the partner of that
+financial system to help you manage what
+is predominantly your most
+significant research which is your
+skills portfolio and kind of skills
+wallet
+so you've already had vast experience in
+building large large businesses starting
+from you know the living room all the
+way to to an ipo
+as you're building this technology with
+this conviction of okay this is what the
+world actually needs this is how you
+know a healthy job market should operate
+what what is sort of your thinking
+strategy you know in in you know 30 000
+from the air in in scaling this how do
+we get this to be a marketplace where we
+have you know potentially most employers
+and most future employees leveraging
+this new definition of skill based
+positions
+so i think
+i think there are multiple avenues to
+market i think on one hand there's a
+government aspect here and working with
+organizations around the world whose job
+it is to get people into jobs every
+single country around the world has
+employment services has a department of
+labor the chambers of commerce has
+professional associations there are a
+lot of people that wake up in the
+morning and their job is to train the
+workforce of the future
+and to make sure that that workforce has
+the right skills and then to help them
+find a job so one hand we have aspects
+of collaborating with government
+organizations and ngos and other
+ecosystem partners whose job it is to
+basically train people and helping find
+jobs on one hand but on the other hand
+and i think that's probably an even
+bigger commercial opportunity
+is to work with employers as they are
+changing right the objective is not only
+to help people that are out of the job
+markets to get back into the job market
+but to actually work with employers that
+are undergoing rapid transformation
+before they actually let go of the
+workforce
+think about a bank that is moving from
+physical branches into e-commerce and
+mobile banking for example right
+they have a lot of people working in
+branches
+and
+in contrast to kind of the capitalist
+the
+pig metaphors that you might read in the
+papers when we talk with business
+leaders they do not have an aspiration
+to just fire everybody and start fresh
+it's true in the headlines in the paper
+that's not the reality the reality is
+that most leaders they understand that
+the most valuable asset that they have
+is the people
+they are very sorry for every person
+that they need to go but sometimes they
+just don't know how to keep the talent
+so we're working with say big banks or
+big retailers that are moving from
+physical stores to e-commerce we're
+moving from
+people that are moving from
+say
+print publishing to digital publishing
+all these industries that are being
+transformed
+we want to work with the large employers
+and when i think about scale
+the goal that we set for the company is
+to have 10 million people find
+meaningful employments in the first five
+years
+we've been working for about a year now
+so we have four years left to achieve
+that mission and we're kind of well
+underway
+but we want to work with the world's
+largest employers to make a really big
+impact and we've been contacted by
+organizations the world over
+that are saying to us listen we want to
+preserve our talent we want to help our
+people upskill we want to gain new
+skills for our employees and for our
+organization as well how do we do it
+this is where the ai comes in what we've
+developed is a system that understands
+any language it understands english it
+understands hebrew it understands
+spanish then it understands any language
+and it could read
+job descriptions it could read cvs it
+could rent linkedin profiles it could
+read water that just understands
+the language and we've trained the ai
+models and language from the labor
+market so that you can start creating
+those matches and starts helping the
+organizations understand
+what are their own needs how does their
+own talent pool match against those
+needs and how do they solve the skills
+gap by either
+being able to retrain internal talent or
+prioritize external hiring um so that
+they could um
+solve that skills gap organizationally
+die i love it so much you know one of
+the things that i'm thinking about as
+you're as you're talking about it you
+know i'm thinking about how you know
+sometimes we can be sort of in our own
+bubble and we're seeing the tech
+ecosystem and we're seeing the way that
+you know jobs are you know people get
+jobs here and we we almost forget that
+you know the majority of the world the
+vast majority of the world it doesn't
+operate this way and and and the world
+is changing and and
+job security is changing and
+and i just love it when entrepreneurs
+take technology understand how different
+people interact and how the real world
+works outside of our own tech scene and
+and build technology that can scale to
+ridiculous amounts and and i'm so
+hopeful to reach that 10 million
+goal within five years and that's
+personally where i gain my inspiration
+and this is exactly why i'm doing this
+show so so really thank you for these 20
+minutes i have a few more questions for
+you cheyenne going back a little bit to
+your personality which also intrigues me
+and i want you to take me back to your
+to your childhood you mentioned that you
+know you've always been a builder you're
+always curious always um you know a
+computer a computer kid
+what really sparked your curiosity you
+know when it all started even back in
+elementary middle school what really
+fascinated you
+yeah i did part of my elementary school
+actually in the valley in in palo alto
+and um i got exposed to those early days
+of computing um originally i didn't even
+like the first personal computers that i
+had wasn't personal at all it was a
+public ti 99 computer in palo alto as a
+public library where you would get one
+hour a week so you had to write your
+code on paper
+get your one hour type it as fast as you
+can
+hope that the program runs and then your
+time was up
+what inspired me then was this idea that
+it was the early days of computing and
+the capacity of machines to go get the
+hard
+work done for the people so that the
+people could
+do the more interesting stuff
+and inspiring for me is to think about
+human potential
+and to think about how machines can help
+humans achieve that potential and i
+believe that particularly on the
+on the skills issue every person has
+huge potential our job
+as entrepreneurs as technologies and as
+builders is to make sure that the
+machines work for the people and not
+vice versa
+many of the ai
+companies particularly in the valley are
+about taking jobs away from people and
+we think that that same technology
+that's creating the disruption
+could actually help achieve human
+potential in much greater way
+i love it and if you look today at what
+you do whether it's retrain ai or or
+leading a new company where do you drive
+your day-to-day inspiration from
+i think it's from the capacity to really
+help a lot of people and i think that
+you're absolutely right to point out
+that sometimes we live in a bubble
+especially in tech
+we all had a great year during covet
+because business tech businesses were
+doing great and stock portfolios were
+doing great and all of us are ordering
+on
+takeout and working at home and life is
+good but for many of the other people
+that wasn't the case right it was a very
+tough year and many people lost their
+jobs many people lost their lives
+so what inspires me is the capacity to
+put technology to good use
+in the hands of a lot of people that
+might not otherwise benefit
+and to make technology consumable
+by large enterprises and by individuals
+and to make sure that the machines work
+for us and vice versa
+i love it and if i were to ask any of
+your co-founders either now or from
+kaltura before
+what are what are a few words that
+represent shai david and i'll start with
+builder but i want you to add a few more
+yeah i would say that getting things
+done is probably one of them
+but uh but i think that at the
+aspiration at the higher level i would
+say mind body and spirit it's all about
+embodied experience it's not just about
+building stuff but it's about building
+things in the real world
+that solve real problems and that really
+catered to the human spirit
+die thank you very very much
+this was inspiring and this episode is a
+perfect example of why i i love doing
+this show so thank you very much for
+your time i know how busy you are and
+best of luck and stay safe and stay
+healthy
+fantastic let's uh stay positive and
+test negative
+thank you for having me

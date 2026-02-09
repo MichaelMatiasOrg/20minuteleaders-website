@@ -1,0 +1,681 @@
+um in the near future
+uh technology is going to adapt to human
+beings so they're going to start
+understanding a natural language and not
+only voice so voice is part of it and
+also alexa and google home is one
+application but obviously when you call
+to the call center then not necessarily
+a human being is going to answer the
+phone
+as i said voice is one aspect but also
+texting and chatting and and the strong
+belief that um well the way that humans
+are going to communicate with interact
+with technology is going to completely
+transform to natural language interfaces
+so i think that's why what drove me to
+pursue this space so at least what
+changed in my view and potentially it's
+a bit controversial is that a virtual
+assistants of virtual they're not humans
+and hence they don't need to sound like
+a human being or they don't need to act
+like human beings they really need to
+help you
+focus on achieving the goal that you
+want to achieve or to find the
+information that you want to find so and
+the
+change that at least
+i've been seeing is this focus around
+goal completions rather than
+sounding more
+like a human being
+i can tell you that again in healthcare
+one of the
+most significant
+implementations that we've done
+especially during 2021
+was around automating uh conversations
+to the call center around kobe 19.
+um so
+form you know i'm explaining people what
+is this new disease
+that's even back in 2020
+uh to how they can protect themselves or
+what are the symptoms and in 2021 it was
+a lot about vaccinations eligibility
+so new information that always came up
+and and a lot of patients or people in
+the world had a lot of questions about
+them questions that this big health
+networks couldn't answer just because of
+staffing issues and we were able to
+automate in in one implementation 85
+percent of those interactions uh using
+the virtual assistant um and and that
+led to obviously like significant the
+results both for the business and also
+for the patients that
+were looking for this information so let
+me tell you a story that also helped me
+like
+um hone on on the idea of
+conversationality so i told you we came
+to the states so it was me and my family
+back then we have a
+one kid at the age of three about my
+oldest son
+and
+we went on a on a road trip
+and in the car
+and then bow from his back seat
+and shouted
+and i let some play wheels on the bus
+and and i was like what are you doing
+because um
+i'm like
+for this kid he doesn't know what the
+radio is
+for this kid he just says or asks for a
+song
+and and the song plays automatically
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+twenty minute leaders is a proud
+supporter of make-a-wish israel and tech
+to peace and is in proud collaboration
+with secret core adventures j ventures
+riverside fm
+fusion vc
+birthrate excel
+j impact
+leap google for startups and hippo and
+in media partnership with c-tec
+welcome to 20 minute leaders this
+episode is about conversational ai and
+i'm with israel brush
+israel founded pyro in 2018 with the
+goal of simplifying digital interactions
+for patients by enabling providers and
+payers to deploy conversational ai
+interfaces at scale
+since then he has raised over 15 million
+dollars towards bringing that vision to
+life building a team of 56 people in new
+york california and tel aviv who serve
+dozens of leading healthcare networks
+including wheel cornell medicine mercy
+health and novant health
+before building jairo israel accumulated
+over 15 years of experience in their
+emerging technology space including
+intel
+starting out as a software developer
+israel quickly moved up the ladder to
+manage engineering and product teams in
+various israeli startups and eventually
+ascending to head of product at
+a computer vision company which was
+recently acquired by walmart
+israel began his career in 8200 idf's
+elite technology unit and holds an mba
+from cornell university and a bsc in
+computer science and statistics from tel
+aviv university
+[Applause]
+four years ago you set out to
+look at conversational ai and the way
+that organizations and enterprises
+interact in two-way conversations with
+anyone really
+what happened there why
+why what is it about conversational ai
+that that sort of sparked your curiosity
+with an mba you're an engineer by
+profession what what what was it
+yeah so i think
+it's uh you know it's a long story but
+i'll try to make it as short as possible
+so throughout my career from 8200 to
+being in a bunch of startups
+i was fascinated with what's known today
+as a hci so human computer interaction
+um and i can tell you that in some of my
+previous roles i was a software engineer
+and product manager trying to understand
+how we humans communicate with
+technology and with screens and mobile
+applications and websites and so on and
+so forth
+and then as you said i moved to the
+states to get my mba
+and you know during this transition i
+got exposed to alexa and google home
+that was back in 2017. so this all a
+nice voice
+um assistant that they found the way to
+our homes basically
+so i got fascinated by them got very
+excited
+almost immediately very disappointed i
+would say with the lack of sophisticated
+use cases that they can solve
+but i became obsessed with this notion
+that
+in um unlike in the past where we needed
+to adapt ourselves to communicate with
+technology so to become familiar with
+websites and structures of websites and
+mobile applications and and all of and
+various gestures you know like pinching
+and tapping and in the near future
+technology is going to adapt to human
+beings so they're going to start
+understanding a natural language and not
+only voice so voice is part of it and
+also alexa and google home is one
+application but obviously when you call
+to the call center then not necessarily
+a human being is going to answer the
+phone uh so i said voice is one aspect
+but also a texting and chatting and and
+the strong belief that um well the way
+that humans are going to communicate
+with interact with technology is going
+to completely
+transform to natural language interfaces
+so i think that's why what drove me to
+pursue this space
+and luckily for me i met my co-founder
+at connelltech he did his masters in
+computer science and we actually met in
+the machine learning class and nothing
+related to the mba just something that i
+was able to take
+because of my background and and that's
+how we started the high row
+incredible and so as you're now you're
+you're four years and to ride a little
+bit more than four years into high rope
+where are you today in terms of your
+in your relationship with conversational
+ai has this
+understanding changed has your passion
+changed throughout the last four years
+as you've been diving more and more into
+it
+yeah absolutely okay i i think
+absolutely so i think that
+one of the main changes that at least
+myself myself is how practical i'm
+trying to be and when it comes to what
+type of problems the conversational ai
+is trying uh to help us with uh to add
+to human weapons so there are a lot of
+different
+you know companies in the world that are
+tackling various aspects of
+conversational ai
+so some of them for example attack and
+the speech recognition or the speech to
+text the type of aspect while many
+people think that this is almost a
+solved problem it's actually really far
+from it and and we see it especially
+again when we try to automate
+conversations in the call center but
+that's not where we focus we focus on
+the natural language understanding about
+on the nlu path
+and and for that we're trying to become
+very much a goal oriented so i would say
+that something that changed dramatically
+at least in my view is that virtual
+assistants are
+virtual they are not a humans right so
+um
+at least you're probably familiar with a
+bunch of uh
+of of
+implementation such as maybe google
+duplex which has this nice demo of a
+human-like type of interaction including
+uh
+pauses like
+when thinking so at least what changed
+in my view and potentially it's a bit
+controversial is that virtual assistants
+of virtual they're not humans and hence
+they don't need to sound like a human
+being or they don't need to act like
+human beings they really need to help
+you
+focus on achieving the goal that you
+want to achieve or to find the
+information that you want to find so and
+the
+change that at least
+i've been seeing is this focus around
+goal completions rather than
+sounding more
+like a human being
+now from from the industry perspective
+what what what is this is the impact of
+conversational ai in your in your eyes
+as we're developing these solutions so
+where you know why is this something
+that companies should should adopt or
+should even think about taking today in
+in 2022
+yeah so i think that uh
+so high low operates in in multiple
+verticals but the two main ones today
+are healthcare and the real estate and
+in healthcare especially with
+covenanting in the best two years i
+think that if they realize
+the contact center problem or at least
+like it become much more clear to them
+and so they were getting
+three x the volume sometimes even 10x
+the volume of chords that they were
+getting beforehand and they simply
+couldn't answer um all of their calls
+and now you as a consumer
+probably are familiar with the long
+waiting times
+that is something that you know in this
+digital world should be belong to the
+past
+everyone wants to get the information as
+fast as possible as immediate as
+possible and without waiting for an
+agent online 24 7
+from everywhere even like while texting
+so i think that they both like the
+the new expectations by by consumers by
+patients as well as
+the operational inefficiencies
+of these organizations on the contact
+center that drove a lot of them to
+seek for conversational ai solutions
+mostly to automate a lot of these
+interactions and become a more
+operational efficient
+uh
+i can tell you that again in healthcare
+one of the
+most significant
+implementations that we've done
+especially during 2021 was around
+automating uh conversations to the call
+center around copy 19.
+um so
+form you know
+i'm explaining people what is this new
+disease that's even back in 2020
+er to how they can protect themselves or
+what are the symptoms and in 2021 it was
+a lot about vaccinations eligibility so
+new information that always came up and
+and a lot of patients or people in the
+world had a lot of questions about them
+questions that this big health networks
+couldn't answer just because of staffing
+issues and we were able to automate in
+in one implementation 85 percent of
+those interactions uh using the virtual
+assistant
+and and that led to obviously like
+significant their results both for the
+business and also for the patients that
+were
+looking for this information
+well and from the consumer's perspective
+how do you see people not responding to
+conversational ai chatbots virtual
+assistants what what's been know do they
+treat it as a human do they
+you know are they playful with it do
+they trust it
+yes so in 2022 you know the initial
+reaction is agent agent right this is
+the initial reaction and then for a good
+reason you know like until now when most
+chatbots voice assistants kind of sucked
+um to to be completely honest and that's
+what we're trying to change and however
+however
+uh
+there are organizations today
+that will not give you access to a live
+agent without for example identifying
+you first
+and and and understanding your status so
+if you call bank of america
+there's no way you're going to get to an
+agent uh
+unless you
+give
+information about yourself then and they
+actually identify you as a member and
+only then you might get to an agent and
+that's out of an actual need right so if
+you want to talk with the bank and you
+don't want to get there physically you
+will talk with this virtual assistant
+whether you like it or not and i can but
+but this is maybe the extreme case um
+let's take a another case in the real
+estate the market so let's say you found
+an apartment apartment that you really
+like or a property or community that you
+they really want to check out and and
+you know it's a crazy market so you want
+to schedule a tour as fast as possible
+but you saw it at 10 p.m what would you
+prefer you would prefer to wait for 8
+a.m the next morning or talk with this
+virtual assistant that might not
+understand you as well as a human being
+sure but if it's good enough it will be
+it will be able to actually get your
+details and schedule a tool for you for
+the next day immediately so i think it
+really depends on what you're trying to
+achieve and what are
+your other options
+yeah
+but obviously technology is progressing
+right we've seen the the recent
+advancements of large language models in
+uh
+and i'm personally i've been following
+google duplex
+as a fan banned for since its inception
+well we will get to an inflection point
+where you're talking to an agent and
+you're not sure whether it's a real
+person or if it's a virtual agent
+how does the world change at that moment
+so obviously you're going to be at that
+intersection because you will be
+leveraging that that cutting-edge
+technology and you already implemented
+it with all of these enterprises and
+these right so you will be the enabler
+who is sort of
+making it happen how how how is it how
+are things changing if at all
+you know i think that like
+a lot of different areas where
+technology advancements
+lead to us
+human beings having more
+time to do some more complex tasks
+because we don't need to focus on things
+that now we get for free so let's take a
+waze as an example or like gps as an
+example
+once at least i remember myself going on
+a trip on a road trip with a map
+memorizing
+routes and and and then figuring out
+what's the best way to get to somewhere
+and that's something that they don't
+need to do anymore that's it like period
+it's it's in my phone i tap it i don't
+think about it and now i have one more
+hour to maybe
+plan like a nice game with the kids
+right uh because i don't need to plan
+this uh trip so why do i give you this
+analogy because uh for example on the on
+the customer success or customer support
+type of teams um instead of fans
+answering like the same
+uh
+i would say repeating the easy question
+that people can find online like what's
+your opening hours and how can i get
+there and do you have a parking spot
+and even like scheduling appointments so
+as i gave the example of scheduling a
+tour with a with a property that you
+like humans won't need to do that and
+and that will leave them a lot of time
+to focus on things that computers will
+have had time to accomplish so for
+example okay you know
+talking about the mischarge right like
+that's something that even an agent will
+take a lot of time to realize whether
+like this complaint is actually
+justified or not and they will need to
+open a ticket and whatnot so what what i
+believe will happen is that
+especially in these contact centers for
+support and success
+the human agents will be tasked and
+focused on on a much more complex set of
+tests and will
+and will have much more time to deal
+with
+humans whereas the virtual assistants
+will take the more
+mandated repetitive tests and now i can
+have a lot of like you know interesting
+discussions around well what happens
+when virtual assistants talk with
+virtual assistants actually our virtual
+assistant a couple of times talked with
+the google duplex assistant and that was
+quite funny
+so a lot of possibilities in this new
+world um and also gives me a lot of new
+challenges
+it's interesting because you what you
+were mentioning before about waze and
+you were basically describing
+this idea of adaptability right that
+that we humans we will adapt and you
+know we you know you probably when you
+were using a map it was very hard to
+conceive of a world where you're
+definitely not going to need to
+to do a to to spend any of that time
+there
+you know i'm thinking for myself i never
+used the map right i grew into a world
+so i'm thinking even for this new
+generation for them
+talking to a real agent would be almost
+silly what do you mean we had to speak
+to physical people to to to get care of
+our tasks and to give us information
+that an algorithm can find right
+so so let me tell you a story that also
+helped me like
+on the idea of conversationalize so i
+told you we came to the states so it was
+me and my family
+back then we have a
+one kid at the age of three a bang my
+oldest son
+and
+we went on a on a road trip
+and in the car and then bow from his
+back seat
+and shouted
+and i let some play wheels on the bus
+and and i was like what are you doing
+because
+and like for this kid he doesn't know
+what the radio is
+for this kid he just says or asks for a
+song
+and and the song plays automatically
+he doesn't care that it's a physical
+device that that his dad bought it best
+buy for for all he knows he says to the
+world alexa play a song and it plays
+correct correct exactly and i think that
+we talked about like the demands of of
+the consumers constantly changing so
+thinking about the next generation it
+it's really crazy
+to think about
+in their expectations from technology
+and form
+again the technology to be able to
+understand them and you look the other
+way around
+incredible i love it and so today with
+jairo tell me a little bit about you
+know where you find where you where you
+fit in as the ceo so not necessarily
+where jairo is but but where is israel
+in this whole thinking process what are
+you most excited about today
+uh
+yeah i think that one i'm very much
+excited when things happen in the
+company without me knowing it so
+you know the company at the stage of
+like three people 10 people 20 people
+you know everything you're in the
+details in in in each and every one of
+uh
+the the epics and and jira tasks and
+customers and today we have an executive
+teams and we have team leaders and we
+had a lot of super talented people that
+are just advancing the company forward
+and and that really excites me and i
+think that me as a ceo in this company i
+i care about like three main things one
+is the vision alignment so and and i'm
+constantly
+learning how hard it is to align
+everyone on the same vision and how many
+times you need to repeat it and make
+sure that like what's in in this head of
+of mine that is based on you know
+experience from the past four years or
+so and gets to everyone in the company
+um so we you know we move together
+towards like this
+very clear path this is like everyone is
+pulling uh to to a different direction
+so that's a that's a one thing that i'm
+really spending a lot of my time on uh
+the second thing is making sure that we
+have amazing people in the company
+and that means both to get them on board
+and then to create the culture to
+actually make sure that they're
+constantly you know challenged
+professionally and have a good time you
+know personally and obviously i'm not
+doing it alone but i think that
+i don't know if culture you know
+we're less than a 60 people team so
+culture is a very big world for me
+still
+but
+maybe creating this dna of like similar
+people that are enjoying working
+together and that are constantly feeling
+challenged professionally and and
+finally you know the the the
+uh the first thing that i'm doing as a
+ceo in this company uh is making sure
+that the company has money so
+it's both on the fundraising front but
+also
+being strategic with customers and
+controlling the budget
+and so i'm looking
+to understand you know where you know if
+you
+you know if before you go to sleep or
+when you wake up you know
+when your mind wanders does it wonder
+more towards the
+the technology or the consumer behavior
+shift that you're creating does it go
+more towards the health of the company
+and the growth of the company where
+where is israel in this whole eco
+chamber now and i'm sure it's all of it
+but but i'm wondering you know in the
+really core of israel
+where does your mind go
+right so obviously you know
+in the last couple of weeks i want to
+say we are we are going into a
+completely different market right like a
+downturn a potential recession
+so a lot of my mind is dedicated to
+how do we stay alive while our
+competitors are going to die
+um and not only to stay alive but how we
+can actually assess this opportunity
+when a lot of them die
+to capture a larger market share and so
+it's uh
+that's where my head's at and obviously
+that's also reflect on on the fact that
+today i'm much more go to market driven
+and execution driven right uh
+however
+i think that
+it is as you said all connected
+so um in order to
+you know capture a large market share
+especially in this market you need to
+have some sort of a an unfair advantage
+and a lot of the time you know from uh
+companies that come from israel uh it
+comes from the technology aspect so
+building a very unique technology that
+that allows you to get this unfair
+advantage but i i constantly think about
+how it serves the business like how can
+i prove that this unfair technology
+um serves the business purposes hence we
+are executing much better well capturing
+more market share uh than others and so
+on yeah i don't know if it fully answers
+your answer your question but
+i i definitely feel that i'm a little
+bit better inside your head and and i
+really enjoyed this episode israel 20
+minutes go by fast but i i really love
+the work that you're doing with
+conversational ai and thinking about
+consumer behavior and market shifts and
+it can to be easy being the ceo of a 60
+person company in in today's world and
+you have to both deal with the emerging
+technologies and and go to market
+strategies and educating the market
+while keeping track with what's
+happening in the most cutting-edge
+research at the same time you have to
+deal with the market that is basically
+telling you that it's a complete
+opposite of what it was a four months
+ago and so a interesting challenge and i
+look forward to seeing how you deal with
+both of these aspects and so thank you
+very much for being here
+thank you megan for having me it was a
+pleasure thank you
+[Music]

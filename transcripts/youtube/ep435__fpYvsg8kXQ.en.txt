@@ -1,0 +1,644 @@
+our eyes our window not to our soul
+necessarily but
+to our condition and
+and research shows that uh there's
+products out there using eye tracking
+to to identify concussion and a dementia
+and other
+kind of cognitive issues and there's
+research that shows that adhd
+can be seen from my eyes which makes a
+lot of sense if you think about it right
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctek
+today i have the privilege of talking to
+a world expert on one of the most
+important topics
+that is facing the younger generation
+and the older generation for that matter
+adhd meet adi diner ceo and co-founder
+of ifocus
+adi diner is the ceo and co-founder of
+ifocus and a physicist phd with
+extensive experience in product
+development in the biotech and medical
+device industries
+1 in 10 children and adults have adhd
+today the treatment relies only on
+subjective feedback
+do you feel it is working as a result
+many do not get treated properly
+eye focus will change the way adhd is
+treated by providing objective treatment
+efficacy measures adi diner from palo
+alto welcome to 20 minute leaders how
+are you
+great thank you for having me here phd
+in physics from the weitzman institute
+albert systems about 10 more companies
+that i'm not going to mention now
+but you're working on on some of the
+most exciting things that i can think of
+uh with with a passion for for hardware
+and biotech and medical devices and
+today focusing on i focus as a
+co-founder and ceo
+talking about an ai-based medical device
+in the adhd
+space a lot of us a lot a lot of things
+to unpack from
+this very short and and i apologize in
+advance bad
+introduction but we're gonna talk about
+uh
+everything hopefully who are you adi
+how how do you navigate through phd in
+physics to medical devices to adhd
+so i think the the the correlating line
+is i like
+to solve complex problems and i like to
+do that use
+actual data and you know scientific
+approach to solve them
+i think that takes the line through so
+one thing you learn when you do
+an experimental phd is you learn how to
+figure out how to solve problems
+in the uh and challenges because if you
+just
+guest work and shoot in the dark it's
+not going to work
+eh phd
+so i was uh working at the weizmann
+institute
+in a pretty complex lab with
+big vacuum systems and lasers and lots
+of things that can break down
+so the science is what is one thing but
+you learn that most of the time
+you tr you troubleshoot technical
+problems right and so
+as you go through then your journey to
+albert systems what do you discover
+about yourself
+you know on your journey that you know
+focuses you
+on at the end biotech medical devices
+and and your most recent venture
+uh you know it's a good question but i i
+think the first thing i learned
+is that i'm pretty good in
+uh communicating and not only doing the
+work
+so getting other people to do things
+communicating
+what should be done and kind of thinking
+through the process and then i spent
+i found myself in many companies i
+worked in working on process of product
+development
+and defining the process and they
+learned that many people don't want to
+do that
+why do you think so i think well
+scientists and engineers want to do the
+technical interesting part
+and the people that are not don't want
+to bother with you know
+working with these crazy scientist
+engineers
+so having both sides is important
+and i also learned that you know too
+much process is
+catastrophic no process at all is also
+catastrophic so you need to find the
+middle ground
+and working with hardware it emphasizes
+that because mistakes
+are much more expensive both financially
+and in terms of
+time skill you can't just do an upgrade
+with the customers in the field
+right so to take me up 30 000 feet in
+the air most of the
+people that i get to talk to here
+they're coming from the software space
+i'd love to to understand a little bit
+better hardware
+and and the way that it works and and
+you know the complexity behind
+working on hardware especially in
+biotech and medical devices
+what what does the landscape look like
+how does the how does this cycle work
+you know perhaps as opposed to you know
+traditional sas company
+so there are a few kind of if i want to
+hide at the differences that's
+the middle of the dead the first step
+is figuring out the technology and
+solving technical problems is
+fairly similar you know you iterate you
+try to figure it out
+there's another step that is a very
+important hardware and i think less so
+software is the translating what works
+in the lab to something that you can
+actually manufacture
+so the fact that the engineer can work
+on this for a month and make it to work
+then you need to make it again right the
+fact it worked once is still not good
+enough and that's a huge challenge uh
+and the other step is scaling right
+uh if i can make 10 doesn't mean i can
+make a hundred or i can make a thousand
+and then you usually need a different
+facility and a different process for
+each of these steps
+and that gets expensive and time
+consuming especially if you don't plan
+for it
+right and so and so while it sounds to
+me that today you know when we're
+talking about scale at least in the
+software
+space you know we've been trained almost
+and the ecosystem has moved towards this
+you know one touch scale
+and worst case you just pay a little bit
+more but but the services
+it doesn't require of you too much what
+i'm hearing from you is that
+is this added complexity of the supply
+chain here in manufacturing that you
+have to take into account when you're
+working with hardware right
+yes definitely and the cost of changes
+right so you get to out to customers
+right you want to do agile you go out to
+the customers and customer tells you you
+need to change something that's very
+expensive
+so you need to get creative with
+figuring out how to
+loop that information in before spending
+all the time to get the final product
+right now that makes a lot of sense to
+me and so as you go throughout your
+journey what what are some what are some
+of the guiding points for you
+when you decide on on what to work on
+when to work on it because one of the
+things that you know as a young
+entrepreneur
+i observe about myself and about others
+is this constant question of
+what is the right thing for me to be
+doing and how do you answer that for
+yourself
+i have to say i've keep asking myself
+what i want to do when i grow up
+that seems to be a constant question
+and it's changed the answer changes with
+time
+so the first step is kind of to let go
+of working in the lab i love working in
+the lab
+but at some point you realize i value
+more the big picture
+and being involved involved in system
+level and you know company level
+decisions
+and you can't do it from the lab you
+can't do both uh so that was the first
+step
+um and then i wanted to see okay where
+where can i i make an impact what can
+actually do good in the world
+that's fine no building lasers for
+research is exciting
+but and you can say yeah eventually it
+will make
+good in the world but it feels not
+strong enough and that's what kind of
+pulled me to
+biotic and medical devices and building
+a device that you actually know can help
+people later
+and save people's lives potentially i
+that
+makes me feel much more uh accomplished
+or
+it feels like i'm using my skills to
+something that will actually help people
+and you really want to do that makes
+much more fun to go to work in the
+morning
+right and so you know what started from
+what it seemed like a
+consulting uh you know turned into more
+now more of a you know concrete passion
+with with
+center around adhd so like i generally
+like to do
+let's start 30 000 feet in the air the
+landscape of the of
+of you know learning disabilities or
+adhd
+focus and then deep dive into what did i
+focus actually do
+yeah so what i'm doing now has nothing
+to do with hardware actually
+i know how hard it is and every time i
+had an idea in the hardware space i
+would disregard it because it was too
+complicated
+but it's interesting because a lot of
+the lessons to
+do work in software as well uh uh like
+how important it is to define your
+product correctly is a good example
+uh but going back to to the high level
+discussion
+uh i i was diagnosed with adhd during my
+phd
+and my son two years ago hd yeah so
+relatively late
+career uh you know when i was studying
+uh two exams in in college i would
+physically walk around the table
+but no i didn't ask why it was fine no i
+was working with a group and just
+walking around the table all the time
+because i couldn't physically sit down
+um and by the way women and girls are
+the population that is most
+missed in diagnosing adhd because uh
+they tend to be less distract disruptive
+type and more the dreamy type
+and if it doesn't bother anyone then
+it's not addressed
+uh that's that's a different part and
+and uh
+and and women's health is and and how
+that's been missed because research was
+done on men is a big topic that i'm not
+an expert in
+we could have a few episodes i think
+just on that
+but going back to adhd so one thing that
+a
+kept running in my mind throughout you
+know kind of as i was learning about
+adhd
+is the amount of misconceptions
+that are out there and the fact that
+there's not enough data so the best way
+in my mind to fight misconceptions is to
+have strong data and there's no data
+a diagnosis is done mostly by
+questionnaires and discussion there's
+some automated testing
+but in the end the doctor needs to make
+call so there's no
+do this blood test or imaging or
+whatever and get a result
+and treatment is even worse you get
+whichever treatment you decide to try
+the way the doctor knows it works is
+they ask you
+or the parents teachers parents or
+teachers
+that's the only tool and if i during my
+phd when i was diagnosed
+kept thinking or maybe i'm just lazy
+everyone that has a hard time
+focusing you know and i was already
+accomplished how can you expect
+teenagers to to be confident with that
+answer
+yeah so i kept thinking of
+for a while now what would be a good way
+to collect more data
+and then a kind of the immediate way to
+think about it is mris i know there's
+work to reduce the cost of mris but it's
+still way off
+having everyone be able to do an mri is
+is just not there yet
+i know people here that you know in the
+israel at least in israeli medical
+system you want to get an mri great we
+have an appointment for you for two and
+a half months from now
+and you better get ready yeah so there's
+enough work on improving that
+but that's a long time skill
+and then actually it's a funny story
+it's you know because we all move to
+zoom
+i realize teachers can't know if the
+kids are falling
+right because you have 20 kids or more
+and
+that's because they can't see the kids
+eyes right so i started looking at
+research on this topic
+and i learned yes our eyes our window
+not to our soul necessarily but
+to our condition and
+and research shows that there's products
+out there
+using eye tracking to identify
+concussion and
+a dementia and other kind of cognitive
+issues
+and there's research that shows that
+adhd can be seen
+from your eyes which makes a lot of
+sense if you think about it right
+right now mean that makes a lot of sense
+and so
+when you make when at that point in time
+in the intersection you have that
+understanding you have the discovery
+you're you're at an inflection point you
+have to decide what to do
+what do you have to what do you do with
+that information so what do you do andy
+so first of all i you know i was looking
+you know of course
+my initial topic someone should have
+thought about it it's out there no
+someone did it
+so i did some research i found something
+that were close but
+no one really took it to the direction
+i'm thinking of because
+in a way the advantage i'm not i'm not a
+psychiatrist i don't come from this
+field
+so i can see things slightly differently
+i'm also not a researcher so i'm not
+trying to understand the mind
+there are people that do that way better
+than that right i'm trying to get to uh
+and i saw no one else did it
+i also something else as being a
+consultant working with many startups
+i realized that you know there are great
+startups and startups that seem to be
+maybe not amazing right so you have all
+the range and the way
+i can do what they can do right
+i love that and and so you when as
+you're saying i can do what they can do
+what is actual course of action what is
+the plan to tackle this
+and you know both at scale but you know
+at the end to to make a positive impact
+so i started talking with people and the
+first an amazing
+uh advice i got is talk to a hundred
+people
+uh darya henning shaquille gave me that
+advice talk to 100 people
+which is amazing because it's a process
+you learn more as you talk to people
+and you get a better understanding of
+what you want and how you're going to
+communicate it
+i talk to people from the field to
+potential customers to parents lots of
+parents
+you know people with adhd
+and people from my eye tracking space as
+well so understand between the eye
+tracking
+kind of going back to my optics and the
+uh background
+so that's nice it's always there to to
+support
+uh and i managed to get a eye tracker
+from the leading
+eye tracking company a toby pro a for a
+month
+uh and one month is not a lot to learn
+about the new technology
+but it was a good challenge and
+because there are quite a few
+entrepreneurs and talented people with
+adhd i managed to get
+10 people around to help me test my
+theory
+so we had them read with and without
+medication a paragraph
+here at the garage i'm saying starting
+in the garage in palo alto
+it's always a good start and then that's
+always good that's half the battle
+honestly
+and honestly it was amazing so you know
+the summit was adults and teens so the
+the kid is reading i have the parents
+standing behind me and you can see the
+monitor
+with me and you can see how much harder
+the kids are working without medication
+and these are extremely successful high
+schoolers right
+right but without medication you can see
+they're going up and down
+reading again and again and with
+medication this
+it's just going and the amazing thing is
+if you would have
+asked them is it hard to read this
+paragraph without medication
+they would laugh at me right this was a
+middle school little paragraph they read
+books for fun so they don't know they're
+working so much harder
+and that's the amazing thing here that
+was the the real kind of aha moment
+it's you can see the difference without
+making the other side working so hard
+and failing a test if you want right
+and it makes it makes it so much easier
+to make medical decisions
+and for parents to kind of get behind
+these decisions but they said it's
+really effective
+it's making it's making my kids life
+easier right
+and so as you're going through this aha
+moment and
+you know we also have to give the
+context this is all pretty recent right
+i mean he started this back in around
+january so this has only
+been going on for a few months and so
+it's especially an interesting time to
+talk to you about this because
+this is a you know right when it's
+happening
+how do you go about you know envisioning
+a world
+after i focus has has made its
+dent how is the world different after i
+focus
+rather than before i focus so you know
+today if someone has high blood pressure
+for example the first thing that the
+doctor will do is send you good
+device to measure your heart blood
+pressure and measure it before you take
+the first treatment and after before
+that no one talks to you without it
+and blood pressure is a good example
+because there's fluctuations the fact
+that you had the measurement at the
+clinic is not
+a medical decision concentration is the
+same
+right we all know that not every day is
+the same uh
+so the way i vision it would be the same
+right you have this device it's
+a go to webcam based
+you software you go home you run the
+test a few times on your computer
+and or your kid runs the test and then
+you try
+first medication and you can see if it
+works there's no guesswork
+the stress that every parent okay which
+adhd feels
+of did they make the right decision goes
+away
+or reduces significantly right as
+parents always have a stress but it
+reduces significantly
+and then you think something changed or
+you go to a generic medicine because you
+change insurance
+no stress you just try it again right
+right i want this affected by your
+child's diagnosis
+of course that was a big trigger for
+thinking through this so so
+as i was kind of thinking if i focus we
+were also thinking about starting
+medication with my son
+uh and and we have started
+and i would love to have this tool now i
+have the advantage that i'm taking
+medication so i know how it looks
+and luckily he's been reacting similarly
+to the way i have which is not a given
+um but
+and and it's been we've been relatively
+lucky with with low side effects but
+that's not the average you know many
+people have a hard time finding the
+right medication
+uh and i would definitely want to know
+right as he's becoming more of a
+teenager right he's 12 now
+he will tell me less about how he feels
+and how school goes
+and teachers are great but
+they they are not they can't
+know exactly what experience every
+student has
+right they can see if something is
+falling apart and you want to catch it
+before falling apart
+and there's an important point to
+understand about adhd
+the way i see it is that what stops
+people
+with a moderate adhd kind of
+average from succeeding is not adhd
+it's losing confidence in their ability
+and and school is a bad environment for
+adhd because
+you have to concentrate on something
+that is not interesting for you
+in many cases right in life we all try
+to
+at least spend most of our time with
+things that are interesting for us in
+school you can't do that
+and so you put the kids there and that's
+where they define
+their the way they see themselves
+and how they perceive their capability
+now if you don't think you can there's
+no way you succeed
+i i love that the context that you're
+framing this says
+you know a motivate in motivation in the
+context of if curiosity
+not just the context of how fast you can
+read or or how many problems you can
+solve in an hour but it's
+it's all about it then this intrinsic
+motivation to learn and
+i i want to thank you for coming and
+sharing with me this marvelous journey
+and
+and i just love this idea that you're
+getting the this
+amazing domain expertise in in in
+different fields
+from physics to hardware to biotechnical
+devices but then translating to
+something that you're innately
+passionate about
+20 20 minutes go by very very fast but i
+have three
+quick and fun questions for you if
+you're ready okay
+all right favorite subject in middle
+school or high school
+i think i know what it is yeah it's it
+was physics but only the lab part
+not the theory only the only the lab
+part somebody who inspires you
+a role model of yours gosh i i think all
+the women that are
+uh broke the glassing at the ceiling
+every each and every one of those
+i love that i that that's a really good
+one and
+three words that you would choose to
+describe yourself or if i were to ask
+anybody who is adi dinero
+who are you a gosh that's a hard one uh
+yeah because i'm a a mother
+i'm a i think i'm a researcher
+in heart and not in the academic sense
+but i like learning new things
+and that looks really persistent i love
+that adi
+thank you very very much thank you very
+much continue doing amazing things and
+then
+making a positive impact on the world
+thank you thank you very much
+take care
+[Music]

@@ -1,0 +1,624 @@
+around us we have companies that helping
+cancer treatment and they use the
+platform and you see how they
+advance they researched and how they
+managed to
+to overcome all their own expectation
+with
+this explainability they managed to
+extract from the platform together with
+other companies that's running on
+autonomous vehicle and you've got to
+feel that you're part of their project
+right they're sharing with us the result
+they're sharing you guys the
+incredibles the incredible
+uh
+use cases and and insights they managed
+to get and you feel so
+given you this sense of of duty and and
+purpose
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret core adventures j ventures
+riverside fm
+fusion vc
+birthright excel
+j impact
+leap
+google for startups and hippo and in
+media partnership with ctec
+hello hello and welcome to another
+awesome episode of 20 minute leaders i'm
+really excited about this one this is a
+company that i'm personally invested in
+but the story is so cool about how they
+use deep learning to
+meaningfully impact research teams and
+of course i'm objectively biased but i
+still think this is such a cool company
+and specifically we're going to be
+talking to you thomas real the chief
+technology officer yotam is an expert in
+machine and deep learning with 10 years
+of experience in these fields he's been
+involved in massive military projects in
+the field of underground warfare and
+later on joined select nuclear research
+center as a key developer in machine
+learning projects
+following his army service jotum
+developed and led ai and big data
+projects from research to production for
+a few startups and acted as a
+professional consultant to companies
+developing ai technologies his expertise
+includes image and video recognition nlp
+i'll go trading and signal analysis your
+time is an auto deduct with strong
+leadership qualities and great
+communication skills
+welcome to 20 minute leaders thank you
+very very much for being here how are
+you
+i'm great i'm great thank you for having
+me it looks like an amazing project i
+look forward to
+get here with you i appreciate that very
+very much your time we've known each
+other for a while um i may personally
+also invested in in the company that and
+that you're helping run tensor leap
+looking at deep learning but while this
+conversation will also
+have components of tensor leap inside
+what i'm really curious about is to hear
+your own journey and to hear some of the
+bigger pain points that you've
+identified in the research arena and you
+know we're all aware that the machine
+learning and deep learning tools are
+taking over the world by storm if
+software was eating the world then ai is
+is really transforming it in in
+unprecedented ways and the process and
+the progress to to create a lot of these
+models and to fine-tune them is not that
+trivial and that's exactly the space
+that you're coming in and so obviously
+the work that you've dedicated yourself
+to um
+lends itself to have a dramatic impact
+on organizations that later on make a
+large impact later on so that's enough
+from me but yo tom tell me a little bit
+about about yourself and and some of the
+things that you're really excited about
+myself well
+uh i started my january in science
+way back like 10 12 years ago in a very
+small desert city
+in the south of israel
+um
+i started around physics uh i got
+familiar with uh
+with the science area
+after some
+inspiring school teacher
+got me into some open uh lectures in the
+ben gurion university
+i got there
+the first time i saw some professor
+lecturing about his own research and i
+understood that it's gonna be i saw like
+i saw how inspired you were towards the
+research you've been
+yeah so so so going back to a little bit
+about you know your upbringing and what
+what got you so excited about this space
+and about the space of neural networks
+well listen our network spaces is
+amazing you can see the things that
+people doing with it we're pushing the
+limits of
+what's possible every day a bit more
+and you know the sense of responsibility
+and duty is so visible when you when
+you're doing stuff within your network
+now i started my january long time ago
+like around machine learning classic and
+physics about 10 years ago a bit before
+the army i started to work for some
+small startup company called the
+powermat
+something i led the research around
+physics there
+and i started there as a mathematician
+physicist who started to simulate the
+physical rules in order to
+to improve some
+uh electricity transfer platforms
+uh from there i joined to the army to
+to
+help with the underground thunders
+detection research
+so
+and in the army we did some more
+advanced techniques than simply
+simulating the physics around us we
+started to use some machine learning so
+you could see
+how
+people became a bit less of domain
+expert because they used to you know
+they needed only to
+understand which feature were better and
+which feature less and doesn't need it
+to completely simulate the old physics
+around them
+um
+after the army i joined a nuclear
+research center
+for as one does after the army yeah
+this one that after the army well in
+israel it's uh it's possible you
+might work around and
+underground unless detection got some
+attentions um
+so yeah i joined this nuclear research
+center and we started to just to be i
+started to be busy with unstructured
+data which is a bit different problem
+than everything else right you you don't
+familiar with all the features that
+constructing some space you have to
+understand
+how to extract this information
+uh right and this is the first time i
+heard about those neural networks which
+is a whole process that that is
+essentially a feature extractor uh model
+that allow you to
+to apply these mathematics models on
+some unknown structure
+uh what was what was it about neural
+networks that so you see i mean
+obviously you're a researcher
+you're passionate about physics and
+mathematics and and the space
+but
+you know as you're going through your
+journey obviously you're identifying
+things that are you're more or less
+excited about and it sounds to me like
+something about this unstructured nature
+of of this work and neural networks
+really got you hooked well what was it
+about this space that got you so excited
+yeah it's the applications like in the
+end of the process when you want to
+solve
+genetic sequencing problems and you want
+to find mutations in in data that you
+have no idea how to access to
+the only way you can
+you can do it is with neural networks
+like on when you want to apply you want
+to solve autonomous vehicle or
+text generation or everything that is
+you know
+used to be impossible to neural networks
+you just enable all those different
+technologies so
+as you know from there from the diet of
+scientists
+eventually
+out of nowhere you can busy with very
+deep problems you can solve stuff that
+weren't solvable until then
+on top of that
+and so what was it was was it exciting
+to you from a from a from a mathematics
+point of view or from a world-changing
+point of view the fact that you can now
+apply this to a variety of applications
+that previously were not attainable
+until now well the answer is both the
+mass behind it it's amazing like the
+people that work on those fields are
+brilliant and the ideas and you know all
+these
+research is just incredible i
+used to have a habit to read at least
+one paper every morning and then so i
+used to every morning and yeah the best
+thing i could do for myself uh
+so the mass is amazing and the
+application is incredible and your
+impact is is huge so
+just exciting every day when you get to
+work on those incredible um
+me a little bit about the transition to
+the startup world so you're working for
+organizations
+and a few years ago you decided to go on
+on your own journey what was it about
+sort of this this mission behind that
+the mission that tensor leap is on
+that got you really excited
+yeah you know uh
+when you
+work in within all those different
+uh development teams and developing
+those cutting-edge technologies you
+you get in a different perspective and
+the way we used to develop machine
+learning and ai
+kind of
+require the changing like
+in the beginning like 2014
+uh you could train 100 model in 10
+minutes in and great search the model
+that is working best for for each point
+you could
+tear apart each model to 100 pieces
+understand completely how it works if
+something something failed
+you could work a bit and explain why it
+failed now in your network they enable
+so much but they're
+they're so complex and so big
+that it
+became so hard to understand how they're
+working and therefore so hard to
+adapt those technologies now you see as
+you see a technology that can transform
+the old world can solve
+you know can get us much much
+much
+far
+forward with neural net with uh cancer
+detection with cancer treatment with
+autonomous vehicle and
+uh
+and still it's impossible to adapt it
+because companies don't have the
+confidence that required in order to
+deploy to production because it's
+impossible to test today in your network
+they're huge in your network today
+applying
+on fields that there's too many edge
+cases and each hks doesn't get enough
+representation in this test set that
+everyone managed to build so they're
+building like 500 000 samples that set
+and each edge case may be represented by
+a few hundred or thousands of samples
+they will never move the accuracy enough
+in order to show the data science that
+it failed so
+you you get in
+a very hard time
+getting confidence on what you're gonna
+deploy to production or explain how it
+works so once it's getting to production
+getting some prediction outside and your
+users trying to ask okay so why you
+think that this is the result it's gonna
+be a huge problem to to explain how it
+happened
+so
+right so what and what you're describing
+here is sort of this this paradigm in
+which we have a very unique opportunity
+that neural networks present to us but
+the the lack of explainability and
+observability into understanding why
+why something is as it is
+um
+you know there's only so much trust
+there can be and and obviously as you
+get to the more fine-grained question of
+why did something behave the way that
+this specific element behave
+then it's getting a little bit more
+more difficult and complex to to solve
+so is that really the did i catch really
+the main pain point that you're
+describing here
+yeah so you have two kinds of
+explainabilities you have a local
+explainability which is trying to
+explain why neural network took decision
+in a specific place like for example why
+car crashed in a on that on the truck
+that looks like a bridge
+okay it's a locker it's a very specific
+example and you have global
+explainability when you're trying to
+explain how your network perceives
+reality in general like which cases
+looks looks alike and what dimension
+distributing the data sets and etc so
+we're trying to solve both we have
+a very unique technology that able to
+extract the most relevant information
+that the neural network managed to land
+in the training process and distribute
+all data set according that which allow
+us to find all the
+all the small use cases that
+counted as edge case because they are
+represented by very specific features
+that not that common for example so
+so give me maybe this can be better
+explained through some some specific
+examples of of how how different
+problems in the world may benefit from
+from sort of this
+a solution to this pain point that
+you're describing so what are some maybe
+some
+ideas for case studies that that this
+would be relevant for yeah you know it's
+it's also one of their reasons it's so
+exciting to found and solid you can see
+around us we have companies that helping
+cancer treatment and they use the
+platform and you see how they
+advance they researched and how they
+managed to
+to overcome all their own expectation
+with
+this explainability they managed to
+extract from the platform together with
+other companies that's running on
+autonomous vehicle and you've got to
+feel that you're part of their project
+right they're sharing with us the result
+they're sharing you guys the
+incredibles the incredible uh
+use cases and and insights they managed
+to get and you feel so
+given you this sense of of duty and and
+purpose which is amazing so what is
+their interaction with so so maybe you
+can share with me about you know what is
+sort of their their research pipeline
+and where does tensor leap interject
+into the pipeline of the work that these
+the this let's say this cancer
+this cancer treatment company how
+how how how does tensor leap integrate
+into a pipeline like that sure so they
+have a team of data scientists this time
+team of data scientists need to collect
+an asset out of data sets in order to in
+their case uh detect very particular
+mutations of cancer using liquid biopsy
+so in liquid biopsy you have
+uh
+a lot of
+dead cells in the blood some of them
+belong to cancer
+and it's a very
+few some of them like 0.1
+sorry how to detect it when you get in
+billion of rates billion of different uh
+gene sequences that you need to process
+so what they do they need to
+understand how to construct these
+datasets from the right amount
+of
+gene sequences now unlike images and
+voice and text stuff that people like us
+are used to process
+it's it's a black box for them they have
+no idea which sample looks like another
+like this gene of sequences looks in a
+very particular way and another these
+genes sequences looks in a very in a
+different way but are they similar
+we don't know to we can't see it with
+our eyes so what they able to do is one
+big training once the training in your
+network just finding the features that
+relevant to understand uh which
+samples look like each other
+they able to understand
+how their data set is distributed and
+what kind of samples they're missing and
+one kind of what kind of samples they
+have too much of and sometimes they so
+they collecting these data sets starting
+randomly and uh constructing some kind
+of neural network that should be able to
+extract the information from those
+sequences
+giving it the task of detecting uh
+mutations very specific mutation did
+they know how to
+uh treat
+uh and after the first
+training of the neural network tensor
+lip extracting within the development
+process right all
+the different features that
+distributing the data set in this other
+way and
+notifying the developed data scientist
+about edge cases that it found using the
+features that land within the model
+itself and by that they detecting they
+detected for example a list of packs
+they had in their own
+data generation pipeline so that the lab
+and the sequencing
+blood tests and they detected that they
+had a bug in a few areas that caused a
+very big bias in this neural network now
+they will never have any ability to
+detect those stuff without applying very
+deep explainability techniques
+to analyze the features that land within
+this neural network
+so
+we're sitting in those area where data
+scientists trying to
+improve these development cycles which
+is constructing the dataset
+error analysis and generating different
+experiments to solve very specific
+issues
+and with testing
+so before each time they need to deploy
+a new model to production they need to
+know if it's really solved several
+issues and that
+none of the new issues emerge into this
+new model so
+take me back to how
+everything you just described about you
+know um
+about the way that you're empowering
+researchers and data scientists within
+these organizations do their better work
+how does this tie into your own journey
+and what you care about you started off
+by talking about how excited you are
+both on the mathematics but the
+application layers of what all this
+research is doing
+going on to founding tensor leap how
+does this feed into your own sort of
+mission in life right now of what you
+care about in the advancement of
+research and the applications you know
+uh
+a bit
+before i i found a tensor leap together
+with my partners david anir i worked
+with david in
+autonomous vehicle company
+and we developed those technologies and
+it was
+hard we needed to detect obstacles using
+um
+passive sensors
+two kilometers from the target on dark
+on fork on snow
+uh with camera that's moving like crazy
+so we applied you know list of pipeline
+of neural network that was super
+advanced
+and
+each time it got to production it got to
+one of our clients it came back with
+okay it works perfect except of this and
+these days when
+we think that the sun were in some area
+in the sky
+i don't know now i need to take it all
+conduct experiments for months hope that
+i guessed right and and give my client
+confidence to use it again when i myself
+terrified that it gonna fail
+i'm using like i'm applying your network
+on autonomous vehicles i might kill
+people and you don't feel good with
+yourself when you're doing that right
+you don't have a lot of choice you get
+paid and you're doing we did the best we
+could we we did the best there is
+outside right we use the cutting edge
+technology i read every day a paper or
+two
+i i did everything we could no one did
+better than us and in any benchmark but
+still
+when i deployed a model i couldn't sleep
+it was terrible
+and you just
+just so hard to get confidence
+on
+the thing that matter when you have no
+visibility towards how it's taking
+decisions right now david used to came
+to me and tell me the tom
+is that really nothing to do like this
+is the reality that we need to
+to accept
+and the answer is no i told him no of
+course not but if you'll give me
+let's say five or ten full stocks and
+one and a half years i'll manage to
+build some
+mechanism that will allow us to extract
+the features and the information we need
+in order to query these neural networks
+and after it happened for six months or
+a year we decided to found tensorly
+[Applause]
+and that company using it today
+uh i love it
+that that is so cool you tom and i think
+that i i just want to
+constantly bring it back to sort of this
+underlying mission you know tensor leap
+is fantastic as an angel investor
+obviously i'm i'm i'm very objective and
+me saying that it's a fantastic company
+but
+you know i think the truth is that what
+you're touching on is a problem that we
+all need to be cognizant of and so it's
+something that we all need to appreciate
+and respond to
+this underlying question fundamentally
+how do we do research and how do we
+advance technology
+and these this is not you know child's
+play we're not building these next games
+that
+are just entertainment and you know
+these are literally life altering
+technologies whether it be cancer
+research to save lives or whether it be
+different medicines to be administered
+to people with and researching the side
+effects or autonomous cars that yes
+they're going to be taking over the
+world and hopefully the right networks
+are being used to train them and so i
+think that what you're doing here above
+all is is making sure that we have a
+safer future
+more resilient future with with
+obviously better
+results and more efficient research but
+underlyingly
+one that we control better because we
+want to do good in the world whoever is
+helping train the next neural network
+system for autonomous cars
+having that ability and observability
+and explainability
+will make it safer for all of us and yo
+tom i really want to appreciate you for
+this time and the energy for the great
+work you're doing for tenserly but more
+importantly for for for sharing this
+this exact message that hopefully it got
+right because it's a very inspiring one
+so thank you very much
+thank you thank you misshan it was great
+to be hosted by this
+yeah thank you

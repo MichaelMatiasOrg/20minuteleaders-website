@@ -1,0 +1,995 @@
+Everybody uh was saying that emotions
+are bad for decision-m and our
+hypothesis was if emotions are bad why
+are we making emotional decisions?
+Emotions that the decisions that we make
+comes from emotions plus logic logic and
+intuition. So if it was something bad
+during the evolution, we should have
+lost it. And the fact that we are still
+making decisions based on emotions shows
+that there's an advantage to that. Uh
+for us the uh humans, emotions are very
+complicated. We can just name a few of
+our emotions. But if uh I tell you to or
+any other human to describe their
+emotions, they can just map it to a a
+couple of words but uh that is not
+reflect reflecting our uh emotional
+status uh in a fair manner. Uh so what
+we did was uh was that we studied how
+emotions are processed uh in an area
+called liic system which is at the base
+of the brain. uh basically that area is
+responsible for uh processing all of the
+emotions and the majority of the
+decision making that comes uh in the
+mamalian brain
+[Music]
+nim so good to have you here with me at
+the human zero day really looking
+forward to having a really thoughtful
+conversation together about uh about the
+about the space we're in about your own
+personal journey your your expertise
+your understandings and how you view the
+world. So, thank you very much for being
+here.
+&gt;&gt; Thank you so much, Michael, for having
+me and uh it's a pleasure to be in a
+show with uh with you as we just were
+talking uh you have a very interesting
+background and uh it's a pleasure for me
+to be with you.
+&gt;&gt; Thank you so much. So, so Nema, you
+know, it's I want to jump right in
+because, you know, you're a pioneer in
+the context of emotional AI and and in a
+second we'll talk a little bit about
+what that means, but with an MD and PhD
+in in computational neuroscience, facial
+authentication systems, today you're the
+founder of Hummingbirds AI. Um, and the
+world we're living in is changing very
+rapidly. You you've been in the context
+of artificial intelligence for for for
+quite some time. So this is may perhaps
+a rather new phenomena for many many
+people but for you it's been a really a
+piece of your of your life's work. So
+you know tell me a little bit about your
+journey up until now leading up to I
+guess recently. How did you get into the
+space and what has been some of your
+core interests here until now?
+&gt;&gt; Absolutely. So uh by background I'm a
+medical doctor and neuroscientist came
+from the biology background. uh and when
+I was in medical school fascinated with
+uh with the word of uh our brain how
+does our brain functions which is uh
+still a fascination for me and for many
+of us uh and uh basically uh I was uh
+going to computer science class in order
+to understand how we can model uh the
+brain. Uh we started working on a
+project uh which was the first project
+that brought emotions into machines.
+Basically uh everybody uh was saying
+that emotions are bad for decision-m and
+our hypothesis was if emotions are bad
+why are we making emotional decisions?
+Emotions that the decisions that we make
+comes from emotions plus log logic and
+intuition. So if it was something bad
+during the evolution, we should have
+lost it. And the fact that we are still
+making decisions based on emotions shows
+that there's an advantage to that. Uh
+for us the uh humans, emotions are very
+complicated. We can just name a few of
+our emotions. But if I tell you to or
+any other human to describe their
+emotions, they can just map it to a a
+couple of words but uh that is not
+reflect reflecting our uh emotional
+status uh in a fair manner. Uh so what
+we did was uh was that we studied how
+emotions are processed uh in an area
+called liic system which is at the base
+of the brain. uh basically that area is
+responsible for uh processing all of the
+emotions and the majority of the
+decision making that comes uh in the
+mamalian brain. Uh what we realize is
+that all of these components in the lyic
+system they are having a certain ro some
+of them are in order to exciting other
+areas some of them are inhibiting other
+areas some of them are responsible for
+reinforcement learning. So uh at the end
+we created that model we put it in a
+controller a simple controller and uh
+which we realized that these controllers
+that has that emotional decision-m
+component first of all they make better
+decisions they have less noise they have
+less u fluctuations when an external
+noise is happening uh and they need less
+computation power because when you see a
+lion you just run away you don't think
+about your different options uh and uh
+they uh they are basically faster So
+that's that's a perfect scenario for
+control engineering where you don't have
+access to let's say cloud for uh making
+fast decisions. So nowadays they have a
+lot of industrial use cases u uh from
+robotics to uh to a lot of control
+engineering u uh use cases like for
+example washing machines when you don't
+have access to a lot of computation
+resources. uh uh during my uh PhD which
+is still ongoing um u is uh uh I was uh
+working on small neural networks uh at
+the stomach of the crab. So these small
+neural networks has only six to seven
+neurons but they are very complicated
+and they show behaviors that you don't
+see them in regular neural networks. So
+what we did was uh we uh studied we
+created models of that computational
+models of that uh in order to create
+more efficient uh uh neural networks.
+basically a neural network that has tens
+of layers, tens of uh or millions of
+neurons. You can shrink it down to
+smaller scale, more efficient when you
+learn from biological systems because
+again anything that comes from nature,
+anything that comes from biology has
+been passing the uh the uh the fight of
+the time and uh and it's the most
+efficient uh way that uh things could be
+could be done. So um again learning from
+biology uh
+transitioning to a company that we
+created called Bell research and then
+later on uh hummingbirds AI uh in
+hummingbird's AI what we do is uh
+learning from how visual perception is
+happening which is different from uh the
+legacy computer vision models. we were
+able to uh shrink those uh uh computer
+vision models to be more efficient and
+we use that for u automating access to
+the computers. Michael you come from the
+cyber security world so you know that
+the majority of the uh cyber uh or
+successful cyber threats are because of
+a human uh error uh and the more that we
+can we are able to replace humans with
+automation uh we are going to have more
+security. So what we are going to doing
+doing is that we get access to the
+camera in real time. We analyze who's in
+front of the computer. If that person is
+authorized, access would be granted. As
+soon as the authorized person leaves or
+an unauthorized person comes in front of
+the computer, access is blacked out and
+the information is protected. Um I can
+show you a quick demo. U so the computer
+here, the screen is blacked out. In
+order to unlock the computer, I just
+need to look at it. It's unlocked. I
+have access to my information. And then
+when I don't look at the computer for a
+few seconds, uh the screen is blacked
+out and my information is protected. So
+I don't need to think about like control
+delete uh locking my computer and then
+when I come back uh entering my password
+or multiffactor authentication. That
+being said, we are seeing that u uh we
+are going to the AI world uh AGI world
+soon and uh there are of course a lot of
+concerns about what would be the impact
+of AI in cyber security and we think
+that uh of course there are a lot of
+opportunities but at the same time a lot
+of challenges and we are very excited to
+explore them and uh creating guards uh
+around the negative side of AI to make
+sure that AI would be a force for
+positive impact for the whole society.
+&gt;&gt; Wow. Okay. So, so, so many things that I
+want to dive in. I I want to go a little
+bit into guacamole ID and and a little
+bit into, you know, I read somewhere you
+you were discussing sort of the
+amygdala's role in facial recognition
+and how you're how you and you mentioned
+yourself how you're rethinking the
+context of computer vision and how do
+you provide and how to do sort of next
+generation facial recognition. So tell
+me a little bit about this technology
+and where we're at today because it
+seems to me from a lot from you know the
+research world this context of facial
+recognition has in many areas considered
+a almost a solved problem but but I'm
+curious to hear how the when you're
+fusing it together in the context of
+nature
+how that changes a little bit the the
+game and and what new places we can
+innovate here.
+&gt;&gt; Yes. Uh so two things to u uh uh set the
+foundation. One is that u we have facial
+recognition and we have facial matching.
+Basically in the facial recognition it's
+one to n. You have like n faces. That n
+could be millions of faces and you want
+to find who is that one face that you
+are detecting among those pool of like n
+which can be a large number. That's
+facial recognition. in the facial
+matching with like face ID you have one
+face or just a couple of faces and you
+want to see if that m face that you are
+detecting matches with the face that is
+authorized. So the pool is different and
+basically the uh the way that you
+approach the problem would be different
+as well like if u uh in our brain uh we
+uh our brain is not designed to do
+facial recognition very well. Sometimes
+you go to a group of people and you have
+a hint that oh I've seen this person but
+doing knowing that who that person is
+very hard for for our brain but we are
+good in facial matching like if I show
+you two pictures and then
+five months from now ask you who was
+this person you can basically recognize
+them better. So this is this number one
+um and um and um I think it's very u
+important to see um there are many
+unknown unknowns where in our world um
+right now many of the systems that we
+have designed like facial recognition
+are from the known known like the human
+brain or uh or the engineers facial
+recognition started from 1950s or 60s.
+So in that time they started measuring
+like what's the distance between the
+eyes eyes and ears um and the nose and
+so these key points of the face and then
+try to recognize faces based on that. So
+it's a mathematical equation that you uh
+do and see which uh face is the closest
+one to the face that that you are
+detecting. But thinking about AI that
+would bring uh unknown unknowns or open
+doors for us that we didn't know those
+relationship existed. It can understand
+the faces better than these measurements
+like there there are unforeseen
+measurements that AI can detect those
+relationships way easier than the
+computational or mathematical approach
+that we are having nowadays. Uh that's
+number one and number two is that if you
+look at the way that our our brain
+functions so we have different modules
+right let's say amydala let's say
+orbital frontal cortex let's say uh
+talamos hypothalamus these these modules
+or these models they are each one of
+them is responsible for for one thing
+and do that thing the best way like for
+example the way that uh right now we are
+doing LLMs or or rag it's the same Like
+we are designing a system that is
+specialized in doing one thing, right?
+But that thing could be replaced like
+you can replace the uh state-ofthe-art
+facial recognition models with another
+one that a couple of years come uh come
+later with with the best one. So when
+you design the system, it's going to be
+very important to have that modular
+design so that you can always replace
+the components with the state-of-the-art
+models that that are coming in. Uh
+talking back back to uh or answering
+your question um the way that we u let's
+say you go with your significant other
+to uh to a large party u and you know
+that what she's wearing uh you don't
+need to have like her face to recognize
+her. You have a holistic view into what
+she's wearing, what's her hair color,
+what are all of those components. and uh
+when uh she's walking among tens of
+people or hundreds of people, you are
+still able to recognize that person
+among that large group. So this is very
+different than than uh the facial
+recognition system that requires your
+face in a frontal and a very specific
+manner to be able to do that that
+calculations. This is the fundamental uh
+differences that in the biological
+systems you are having a more holistic
+view into uh the shape of the person and
+in the facial recognition or more uh
+numerical based uh models that more
+legacy systems you are very much relying
+on uh on just those measurements and uh
+uh and the distances uh and the
+biometrics of the face.
+Okay, that makes makes a ton of sense.
+And uh and I can see how through through
+thinking about this modular design and
+the comparison or the analogy rather to
+to the human brain, you can see how
+different modules are performing their
+core tasks very very well and then by
+perfecting on those you can build an
+ensemble approach where you where you
+utilize the functions of different of
+different tuned approaches which makes a
+lot of sense. Talk to me a little bit
+about about hummingbirds AI and and the
+solution because now you're bringing
+your research and you're bringing your
+your learnings and understandings to
+real world applications. You're talking
+about security. You're talking about uh
+human is the weakest link. We're talking
+about humans as you know with the Z
+human zero day. Uh so tell me a little
+bit about the product more in the and
+also in the context of how you're seeing
+this play out into the market.
+&gt;&gt; Yes. So, so the product by itself is a
+software. So, it's a AI based software.
+You install it in your computer. Uh, for
+now, we have the Windows version of
+that. So, it's available on every
+Windows computer no matter what kind of
+camera you have. One of the limitations
+of technologies like facial matching
+that you have in your iPhone called Face
+ID or in Microsoft Hello uh is that they
+require a specific type of cameras and
+uh number two is that they only run one
+time to grant you access to the device.
+So these two shortcomings have some
+limitations like you cannot use them in
+every laptop and computer. With our
+system guacamole you can basically use
+that in any laptop and computer in any
+Windows computer as long as you have a
+camera no matter what kind of camera you
+have. So we have been able to bypass
+that first limitation to grant access to
+a large number of population. Number two
+is that because again the computer
+vision models are computationally
+expensive. If you want to run them,
+let's say 30 frames per second in in
+your device, you would heat up the
+device and um uh that would affect the
+battery life, that would affect the
+lifetime of your uh device and probably
+the user experience. With our system, we
+have been able to reduce the computation
+power to just a couple of percentage of
+uh the CPU. So, it runs locally in the
+device. There is no data is traveling
+outside. It's like a rolling window that
+uh analyzes every frame and go to the
+next frame and next frame and next frame
+u and so the data stays locally
+therefore it's compliant GDPR compliant
+hypo compliant you can apply that in the
+medical settings or any uh information
+any uh sensitive uh area because simply
+everything is contained locally in a
+closed loop and because uh the the uh
+the system wise we are using a very
+limited um uh computation power.
+Therefore, you can run that
+continuously. What that means is that
+you have a continuous view about who is
+in front of the computer. So, as soon as
+the person leaves, you saw that the
+computer is blacked out. If another
+intruder comes in front of the computer,
+we are able to recognize and blocking
+access. If you uh enable that feature
+and so these functionalities are not
+traditionally available in other facial
+matching technologies like Face ID and
+Microsoft's uh Windows Hello. Uh that
+being said uh uh as you can imagine this
+is um can be applied to any vertical
+like from healthcare to education to
+government side to private sector to the
+consumer side. So what we figured is
+that um um you are coming from the world
+of cyber security and you know that uh
+the cost of acquisition in the cyber
+security world is a lot like with all
+the competition that is uh between the
+cyber security companies and um the
+chief information security officers that
+are super busy with their um all the
+threats that they are facing every day.
+It's going to be very complicated to
+have like the sales team that can
+address this solution for the
+enterprises. So instead of that we said
+uh what would be the best approach for
+this type of solution is that it sits in
+the computer in the chips and therefore
+the name guacamole. So every computer
+has chips is time for guacamole and the
+vision is to basically bring that to
+every laptop and computer through
+collaborations with the chip makers like
+Intel. So that when you buy a new
+computer automatically you have this
+feature enabled in inside your computer
+and basically you can enable that and
+use that for regular usage purposes. So
+it's a B2P B2C play. At the same time,
+if you are an enterprise that would want
+to enable this feature, you can easily
+uh uh onboard the user. We have the
+system to that you can do mass
+deployment. We we have the dashboard
+that you can uh manage the users. You
+can add or new users uh or remove users
+and you can basically um use that in
+large enterprise settings. And and how
+would the onboarding work because it
+sounds like you are matching right
+there's a matching process so that
+you're you're able to identify an
+authorized user versus an unauthorized
+user. So how how how does that work and
+is that something that is adaptive to
+the changing circumstances of of a user
+or is and and how do you do that if this
+is a strictly onrem solution?
+&gt;&gt; Absolutely very good question. So um uh
+uh first of all the uh the the first
+part the onboarding is very easy process
+you know the onboarding of face ID that
+you rotate your face so that it has the
+uh side embeddings and all the angles
+but the way that we do it is even
+simpler than that. So you register your
+face with this uh with the frontal view.
+But the thing is that because we we are
+having access to the video, we can
+capture all the angles through the usage
+of the computer. So as soon as we find a
+better angle like in this side, we
+replace the old embedding with the new
+embedding. So the system is learning
+continuously from you from your changes.
+So if you grow a beard like me or you
+change your hair style, the system is
+able to recognize and update it
+continuously so that you always have the
+most uh updated embeddings for for that
+specific face. So that means that the
+system guacamole is knowing you through
+time better and better. Uh the second
+part of that is we have two systems. We
+have the standalone version which is for
+computers that you have a dedicated
+computer like a dedicated laptop and
+then for the enterprise settings we have
+something called the connected version.
+Uh in the connected version let's say uh
+you are working in a hospital or uh a
+police department or any uh uh work that
+you would change computers uh in a
+frequent manner like if you are a nurse
+you are moving between different
+computers many computers throughout the
+day. So the way that we designed the
+system is that you would register your
+face in one of the trusted computers in
+the network. The uh embeddings, the
+biometrics would be extracted, sent
+through the server uh to uh through
+through the VPN to the server of the
+hospital and then through the server to
+all of the endpoints that the IT team
+assigns to that specific person. That
+means that the IT team can assign let's
+say these 100 computers to that specific
+phase and as you are uh using the
+computer and the embeddings get uh
+updated there is a heartbeat mechanism
+between uh the computers and the server
+which broadcastes the updated uh
+biometrics to all of the endpoints in a
+regular and frequent manner.
+&gt;&gt; Amazing. And and so how do you see this
+play out from an enterprise perspective
+in the context of identity verification?
+You know we have different you know
+identity has ever since I guess 2015
+really has really taken off and has
+become a central piece in cyber security
+and we see companies like octa emerging
+and single sign on approaches. We see
+zero trust policies enforced across many
+different systems and multiffactor
+authentication being deployed and so
+this is a you know long and understood
+to be a a core problem from a cyber
+security perspective. Where does this
+fit into the enterprise workflow under
+what are the main use cases that you see
+and does it live alongside other
+solutions in your in your perspective?
+Does it replace some of them? How do you
+envision this?
+&gt;&gt; Absolutely. So we don't replace any of
+them. We are a supplement to them. So uh
+your uh uh uh traditional and legacy
+identity and access management stays uh
+the same. So you would do the uh the
+authentication the initial au
+authentication uh through those systems.
+Let me give you an example. Right now if
+you are again the same example you are a
+nurse you come to uh the the hospital
+you go through the uh multiffactor
+authentication two-actor authentication
+to get access to the computer then you
+go to the next computer you have to log
+out from this computer go to the next
+computer do this process again and then
+the next computer do this process again
+so uh so basically you have to go
+through that process 20 times 30 times
+50 times a day in this system you do the
+first uh authentication through that
+legacy system. So if you were using
+multiffactor authentication, you do the
+same thing. But as you are moving
+between different computers or you go
+back to the same computer, anytime that
+you are not in front of the computer,
+this uh the screen would be protected
+with uh with guacamole. Anytime that you
+come back, it's going to be unblocked.
+So you don't go through that repetitive
+multiffactor authentication process. You
+do you do that once and the rest of that
+would be covered with guacamole. So that
+means that you don't go to through that
+process over and over again. Uh and uh
+uh what was the first question or the
+missing part of the question?
+&gt;&gt; Well, now that you said this, I I
+already have the I'm already thinking
+about you know where you're taking me
+next. But if you're looking at the
+emergence of AI powered threats and so
+identity threats, fishing, social
+engineering, this landscape is quickly
+evolving and shifting. How do you see
+that? you you're you're living in the
+forefront of AI and I'm curious both how
+you see the emergence of social
+engineering threats to try to circumvent
+these types of solutions. So what are
+the most pertinent ones you're seeing
+and then how does Hummingbird's AI aim
+to resolve some of them through your own
+solutions?
+&gt;&gt; Absolutely. Very very good question. So
+uh again Michael you come from the cyber
+security background. I don't come from
+the cyber security background. I'm a
+very new person to this board uh of
+yours but uh you know that in the cyber
+security world uh you for the defense
+side you have to be right 100% of the
+times for the offense side you only need
+to be right one time right so there is a
+mismatch between the the risk uh uh
+between the defense and the offense side
+as AI comes it shuffles everything and
+it shuffles both defense and offense in
+the defense side of course there are new
+tools and uh very exciting tools that
+are able to help us but at the same time
+uh there are many tools that is going to
+be used on the offense side. So we are
+seeing a lot of new tools and a lot of
+new verticals of frauds that they didn't
+u uh exist just a couple of years ago
+like thinking about how easy it is to do
+voice cloning now deep fakes uh very
+easy and even the technologies of deep
+fakes when it comes to video the
+technologies that are available in the
+market um are just part of the
+technologies that exist but soon there
+are going to be more and more
+sophisticated ones that are coming out
+um I've seen some examples like that. Uh
+you can very easily generate u u a
+behavior or a video of a person not the
+ones that that are available in the
+market but uh uh be behind the scenes
+that how capable they are and it's going
+to be very impossible for regular folks
+to understand that this is a real human
+or a synthetic human. So uh nowadays in
+our fraud we see that somebody is
+calling from uh another country and
+calls and say oh I'm your doctor or I'm
+your banker and um usually like our
+older population or more vulnerable
+population they are very prone to these
+type of attacks and they answer and they
+think that yes any anything that anybody
+that calls and claims that okay I'm from
+this bank that's that's correct. So the
+amount of literacy that we have related
+to uh uh the fraud is very low. Uh
+especially uh I think in most of the
+world is is very low. Uh and uh media
+literacy is another one like the the
+when we see something in social media we
+believe that it's true but at the same
+time a lot of that you know that that
+could be a fraud or or uh another form
+of attack. So um so u I think we need
+and there's a clear uh uh cry from the
+uh community that we need solutions to
+simplify makes this more accessible for
+everybody to be able to understand that
+this is a real human or this is a video
+that comes from uh from u AI. So uh when
+it comes to deep fake um I I mentioned
+um bell research. So uh when uh in 2019
+or 2018 uh Facebook saw this challenge
+very early on and they created a
+challenge with like a million dollar
+prize for whoever can detect the face uh
+in a very efficient manner. We
+participate in that. We didn't win but
+we we had a good score and that was the
+aha moment to come to uh to the route of
+uh humming AI but um I think uh we are
+going to have a lot of challenges with
+the defects that are coming. uh we are
+very much concerned about that. Um I
+also started u an organization called
+Miami AI club uh u last year u a little
+bit over a year ago uh that we figured
+that uh many of these technologies could
+have a lot of impacts and we haven't
+foreseen that impact and we are not
+prepared for that impact. So the goal of
+this community is to uh basically create
+a positive impact through AI and figure
+out where AI can be misused and or
+appused and then try to build guarders
+against that. That being said, deep fake
+is one of the uh most important uh
+verticals in our focus. So we created
+the first communitydriven proposal for
+National Institute of Standard and
+Technology in the US uh to basically
+create guidelines for NIST to how to
+address some of these challenges with
+defects. For example, in detection uh in
+uh labeling u and uh different
+strategies in order to mitigate the risk
+of deface. We did u a research u a
+survey with uh global business leaders
+and uh public sector leaders in order to
+understand how much they are prepared
+for defects and the results we are going
+to publish that next month but the
+results I'm going to give you a hint uh
+the level of that we are prepared is uh
+very close to zero we we know that
+problem but we are not prepared for
+that. So uh I call it like
+&gt;&gt; so Nema tell me this is fascinating tell
+me let's talk about preparedness. So one
+I'm curious you know you've been in the
+deep fake space then from 2019 2020 I
+remember the publication of the DFDC
+challenge and I was following it closely
+during my studies at Stanford why so
+where were you at when this challenge
+came in you were you must have been
+thinking to yourself wow this is a
+really big problem that should be
+addressed and you're you're I mean when
+in talking about nature and biology in
+the context of humans I mean this is you
+know the the mimicking of human behavior
+and if not from just the visual but also
+the emotional sides. H what are the
+relevant solutions in your perspective
+detection or otherwise and how did that
+meet your own journey and your own
+decision-m as an entrepreneur?
+&gt;&gt; Absolutely. That's a very good question.
+Uh so when um uh we uh faced that
+challenge uh one of the biggest uh
+problems that we figured was the amount
+of the uh computation power that is
+needed in order to detect if this video
+is uh is a fake or or a real one. Uh
+like running these computer vision
+models for video analysis is very
+expensive and not something that can be
+done locally in the device the majority
+of the time. So we figured if these
+technologies could be having a real
+impact for defect detection, it needs to
+be very much lightweight and uh
+something that can be applied in regular
+computers so that we don't rely on the
+cloud because if it's on the cloud there
+are some complications with that like
+for example the cost is too much like
+imagine how much expensive would be the
+cloud cost of uh of of running all of
+the these videos uh on the cloud.
+Another one was of course the privacy
+security aspect of that the latency all
+of that would be some blockers in order
+to run these models uh on the cloud. So
+that uh was the aha moment to why not
+use the belt systems the emotional
+systems that we uh created in 2003 2004
+because what we learned from those
+controller was that the bioinspired ones
+they are way more agile way more
+lightweight they make better decisions
+and they need less computation power so
+it makes sense to apply them in this
+scenario. So we uh created a system uh
+based on the same structure uh uh of the
+base of the brain again the lyic system
+and if you look at it it does make sense
+Daniel Canaman the award-winning uh the
+Nobel uh prize winner I think he was in
+the Stanford too uh he also mentions
+that in his book uh the fast and slow uh
+pathways. So in our brain we have that
+fast pathway the fight orflight response
+when we see a lion we just run away and
+then there there is a slow pathway like
+when you go to a room at the in a in a
+millisecond you have a sensation that oh
+this is room feels comfortable or feels
+very scary or I should be uh very much
+on my toes to to run away or and then
+there there are like the slow pathway
+you start analyzing things okay who is
+in this room what's the color of the
+room uh what are the threats that that
+I'm that I might face. So that uh fast
+and slow pathway is very helpful here
+because then you can use the fast
+pathway in order to remove a lot of the
+scenarios that you would uh uh you you
+you are confident that these are very
+much fake and you don't need to put a
+lot of computation resources into going
+into the details of that. And then the
+slow pathway when you are seeing that oh
+this might be somehow in the gray zone
+and somehow I'm feeling halfway and I'm
+not uh completely sure. So you have the
+luxury of the time and uh more
+computation resources in order to
+analyze those videos uh in a more
+detailed manner. And so if we're looking
+into the future a little bit, you know,
+four or five years, uh, usually it
+wasn't, it didn't seem like to be a long
+time, but in today's world, uh, it we're
+going to be in a whole different society
+in four or five years, looks to be. So
+what are the right or relevant solutions
+to be fighting these types of AI powered
+fishing and threats that could really
+undermine, you know, society's ability
+to distinguish between what is real and
+what is synthetic? what what are the
+right approaches in your perspective?
+&gt;&gt; Absolutely. So, so what I'm seeing is
+that first you you pointed a very good
+uh thing that four to five years
+nowadays is looking a long time and and
+I do agree with you with like the AGI
+that is coming artificial general
+intelligence and the amount of the u
+it's a powerful tool. the more powerful
+the a tool could be, it can in the right
+hands it can be a good tool and then in
+the in the wrong hands it can be uh
+damaging to the society. So I think now
+uh the good side is behind the defense
+side is behind with with AI not even
+with AGI and AI is going to make that
+worse. So I don't think that we would uh
+this is my personal opinion I don't
+think that we have enough resources to
+defend ourselves for an AGI word. I
+think we are uh at the best scenario we
+are getting ready for the AI world. So
+we need a lot of innovators and a a lot
+of uh outside of the box thinkers in
+order to come and disrupt things see
+things differently and comes up with new
+strategies in order to mitigate that
+risk. That is a risk that cannot be done
+uh or mitig uh or uh be addressed by one
+person, one group, one individual or uh
+or one uh country or one government. It
+requires a lot of uh crossindustry,
+crossber uh communications and
+collaborations in order to be able to to
+mitigate that risk. And I think that uh
+with one direction with one solution is
+going to be very hard. We need to have
+like a syndicate. We need to have like a
+group of technology companies working
+together in order to uh to be able to
+mitigate that risk.
+&gt;&gt; And and and that speaks I guess to your
+own strategy which you mentioned about
+25 minutes ago in regards to glaci
+in that you're not fighting or not
+you're not try you're not pulling away
+from existing solutions. you're a
+supplement to the existing solutions.
+looking at how do you augment the
+already myriad of solutions that exist
+but but adding new new ones along the
+way that that and and by the way the
+demo looked uh very very cool when
+you're talking when in the context of
+enterprise security humans are the
+weakest link h and if we're looking at
+the evolution of deep fakes and social
+engineering attacks how do you find
+security professionals you mentioned
+that you did a you're going to release a
+you know a survey rather soon but how
+how do you see their awareness and their
+I guess willingness to innovate to adopt
+new solutions to think differently from
+before because there have been identity
+security tools in the past and there
+have been you know email security
+solutions up until now um obviously
+nobody's monitoring this call that we're
+here I I hope that you are you but I
+didn't see anything running to verify
+that
+where are security professionals these
+busy CISOs with this problem space
+&gt;&gt; I think u the CISOs know the fact that
+this this is a new vertical uh what I'm
+seeing is that um of course they are
+having a lot of threats that are coming
+and uh and uh the cyber security world
+is becoming um very complic complicated
+for for the CISO so I think uh the level
+of that they are prepared for this is
+not that much. They're hoping for the
+best. But this this is a problem that
+not only affects the CISOs. This is a
+problem that affects the elections. This
+is a problem that affects the integrity
+of the news media. So it's a
+multi-dimensional problem and a problem
+that needs to more of the u more of
+outside of the CISO people to also
+address this problem and try to stop
+that. Like for example I know uh that uh
+department of justice they are working
+on solving this problem right but there
+are many cases that they are seeing like
+in the courts that uh that uh there are
+videos of the teachers that they are not
+the teachers but saying something or uh
+doing something that is not right. So
+imagine how many new cases are going to
+the courts and bombarding the the court
+system. So it's it's not only the
+problem of security but it's a societal
+problem that we are going to face and
+for that reason I think it's not only a
+problem of CISOs but a problem of every
+layer of um it's a problem of the boards
+it's a problem of every layer of the
+executives like if you are CFO you would
+need to know what's a deep fake because
+we have seen cases that they're drawing
+like $25 million from a bank account if
+you are um u any person in or any
+decision maker in an organization, you
+need to be prepared for these attacks.
+&gt;&gt; Yep. And I think that we'll we'll remain
+curious to see how how the right
+solutions get implemented and and what
+are the right solutions that really
+integrate into the workflow because I
+think that what what's going to happen
+is that we're going to have to
+effectively reinvent a lot of the way
+that we've been thinking through digital
+communication and digital interaction
+and how do you create a layer of trust
+in the authenticity of the communication
+between people h that is in some level
+reliant on automations in the back in
+the backbone because our human ability,
+the ability of our amygdala to continue
+doing what it's doing. Well, it's still
+going to be good, but it's just not
+going to do what it needs to do because
+you'll just look exactly like you. And
+so, we weren't primed for that.
+&gt;&gt; You you said a key word that is very
+important and that's trust. So u trust
+that comes from authenticity because
+nowadays we are living in a digital
+world and soon in the AI world that we
+really don't know who we are interacting
+with and uh and if you're receiving a
+content if you are receiving an email
+who is it coming from so I think uh uh
+we need to rethink that we need to find
+ways to be able to bring trust back to
+our communication and you address that
+very well we need to make sure that the
+humans are real humans we need to make
+sure that uh whoever is on the other
+side is really who they are. It's not
+their deep fake. It's not their somebody
+that is impersonating them and uh and
+without that we are going to have a lot
+of problems. So that is the missing part
+of the internet or digital interactions
+that we have now.
+&gt;&gt; Nema thank you so much. This was a
+wonderful conversation and thank you for
+the great work you're doing with
+hummingbirds AI. I look forward to
+keeping in touch and uh thank you for
+all the great insights.
+&gt;&gt; Thank you so much Matias. It was one of
+the best uh podcast experiences. I think
+u your smartness, your achievements were
+uh resonating. It was like shining
+through the conversation and it was a
+very uh pleasant experience for me and
+I'm glad to be uh this morning with you.
+Thank you so

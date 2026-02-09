@@ -1,0 +1,579 @@
+at the end
+resilience is everything and if you're
+believing in what you're doing uh and
+you're keeping surrounding yourself with
+with the right people
+we'll nail it
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel an in media
+partnership with c-tech
+welcome to 20 minute leaders and meet
+guy barcelon co-founder and ceo of
+simpleio guy is passionate about data
+and the hidden gold inside of it he is
+dealing with data for the past 18 years
+business intelligence analytics and data
+science and in the gaming space since
+2010 before founding simple guy led
+platika's data unit on its data
+revolution time
+gaia has a bachelor of science in
+engineering of industrial management
+welcome to 20 minute leaders how are you
+i'm doing great and thank you for
+inviting me to
+talk to you thank you very very much for
+being here you know that i i love
+understanding how people evolve
+throughout their career gain insights
+into their different domains verticals
+occupations and then go and start a
+company based on those understandings uh
+you have a really really interesting
+journey from being from shanghai to
+being a business analyst to being a bi
+analyst director of business
+intelligence with platika vp mobile data
+at music lab and now a co-founder and
+ceo at simple with a bunch of other
+things in between that i that i skipped
+around and but but it looks like a
+really interesting journey from the
+perspective of of just gathering all
+these crazy experiences that lead you to
+some interesting convictions in the
+world of of decision making
+and now you're bringing that into simple
+so guy tell me a little bit about
+yourself how you perceive your career
+trajectory and then we'll dive into what
+simple does and and how it's solving a
+greater issue
+cool so
+you know i'm dealing with data
+somewhere
+since 2003 and i started my journey as a
+business analyst uh for a company called
+incredible
+and back then when i when you i need to
+to send like a management report a daily
+report
+you you went to your some kind of your
+database and you copy paste some values
+into excel sheet and then you run all
+kind of excel and then copy the
+information from the excel to an email
+like a very long process
+um
+and i i found that i really love the
+the the the data world but i don't
+understand how it works
+um so a few months later i joined the
+company uh who dealt only with uh
+building infrastructure for business
+intelligence
+and following the years i worked with
+several companies in several industries
+and and since i learned how to build the
+entire process from
+ground to
+uh to the top it become more and more
+interesting and i found myself that
+there are very similarity between what
+companies are facing in in all the
+perspective related to data
+uh and this is what serves me today i'm
+always
+trying to figure how what is the most
+efficient
+way to work with data because data is is
+a cold mind and if you know how to work
+with it properly it's a really important
+factor in your ability to drive your
+company to a better place and to be more
+successful
+what did you learn about handling data
+as you were you know working as both a
+business analyst but then a business
+intelligence manager across a variety of
+companies what what did you really learn
+about about the the perhaps right and
+wrong users of analyzing data
+it's a very good question i i think one
+of the the
+the biggest thing that i found is big
+data beside a fact type kind of a sexy
+term
+it it holds a lot of challenges and
+sometimes leads companies to generate
+store massive amount of data but at the
+end when they need to take decision
+based on this data that's where the
+challenge because big data requires you
+know the proper infrastructure and it
+requires the proper analyst that knows
+how to dig the important kpis out of it
+and i think that what is more
+appealing for most companies is working
+with the right data not necessarily the
+big data in today's world it's very easy
+to create a very small application that
+generates huge amount of data but the
+the smart thing is how to to decide what
+is important
+at the beginning of the journey and then
+at the end you can really work with
+a very concrete kpis that help you make
+them a better decision on a daily basis
+right okay so tell me a little bit about
+for me that's the question
+what'd you say yeah go ahead
+no no i'm go ahead that that's my that's
+my that's i think that's my biggest
+take-out from the daily world at this
+point
+before we started simple that then later
+on the journey i found that uh
+answering the what if and what could be
+if we've just changed that a simple
+factor three months ago we could do
+better
+that's something that came later for me
+at the process and not my career
+so take me a little bit later on then to
+this idea of you know guesstimating and
+and running simulations and being able
+to make decisions
+in advance for
+a possible outcome that will come later
+on
+and today you're working you're with
+simple
+and you're helping people make these
+decisions and run these simulations
+especially for game developers but
+otherwise it's very hard for them to do
+what
+what is sort of the big pain point that
+you're tackling here
+that you've
+been inspired for simple
+so
+the idea for simple
+was born in into the gaming space though
+we do not consider ourselves as a gaming
+company because at the end the
+challenges that we're facing today i i
+think can be found in almost every
+company over on every online digital uh
+business
+uh
+you always seek for optimization on a
+very very simple
+formulation
+when you acquiring users for a specific
+amount of money
+you need to re return to generate a
+positive return on investment
+uh and the big challenge how you get to
+this point
+uh in the gaming space when you're
+talking about millions of users with
+that can be divided to tens of cohorts
+and different classifications and
+clusters and different profiles of users
+uh each one of them is seeking for a
+different uh experience and the thing is
+that you know when companies are trying
+to find this point the classic approach
+you know it's running the whole concept
+of a b testing uh
+which used to be great and it still can
+be great but it's expensive right you
+must have these
+capabilities in your application to run
+a valid a b test which do not expose
+users to two more than two uh
+more than one variant and at the end
+when you're looking at to analyze an a b
+test results what's interesting is not
+what happened after a day or a week you
+want to see the long run you want to see
+that the user that was exposed to the
+successful variant
+actually retained and came back and
+continue paying
+and this time cost a lot of money and
+drive you as a company to spend a lot of
+inefficient media
+right at that point i thought to myself
+if i could only build a small thing that
+will help me to understand faster
+and just to give a general perspective
+what it could be if we just change this
+parameter and then the other parameter
+and what happened if we want to change
+to
+this is how this idea was born and i
+think
+and that
+when it's when it's running it's
+fascinating it's a groundbreaking
+uh strategy to the way you're making
+your decision and this is what is
+fascinating me for the past for the past
+years when we're when we start running
+simple
+so what i'm understanding from you is
+while you know we've been able to do
+traditional business intelligence
+especially if we're looking at the
+context of gaming
+the ability to to actually use
+to actually use some algorithms to
+identify the game patterns and to then
+through those patterns predict what is
+going to be the customer experience and
+then simulate on the different changes
+that's really the aha moment that you're
+bringing with you to to simple
+yeah because if you think it's it's just
+give you the general understanding what
+happens beyond being behind the corner
+if you just could have a general
+understanding and yes it relies on a
+very
+efficient uh classification of user's
+profile and identifying what is the root
+and what is the cause what is the cause
+and what is the effect
+uh and once you're having uh this basing
+on basic understanding
+what
+basically we're trying to do is just
+pasting this a user's profiles with
+different environment different reality
+and and the power of a stimulation as a
+service platform is that you're not
+limited to
+one linear a b testing or two linear a b
+testing that one after another with a
+two weeks iteration
+we're running dozens or hundreds of
+different uh what-if scenarios in terms
+of you know minutes or hours and and for
+us
+that's the big promise uh of what we're
+bringing to the world and i think it's
+it's not about simple it's it's in a way
+you drive your product team and your
+monetization team to always seek for a
+better
+uh
+performance not afraid to break anything
+which is a very big concern in a live
+and running game you don't you sometimes
+you don't want to change anything even
+even though you want to improve because
+you're afraid to break something uh and
+we want to break this friction give you
+this endless sandbox to play as you want
+get a general understanding of what's
+going to be
+and move forward
+that makes it like smarter
+yeah
+so
+from the analytics perspective
+what do you what have you learned with
+simple about you know games in general
+if you're looking for example the gaming
+market and the way games are built
+and the strategic thinking around games
+what are some non-trivial things that
+you've observed
+in the gaming world that perhaps a young
+new game developer
+may not even be aware of or may not even
+know
+to ask those questions as as they're
+strategically thinking through their
+game
+okay it's a very interesting essay at
+the end
+the games do not work as like as a it's
+not a one size fits all it's not like if
+you'll take
+some mechanics from one game
+applying it to a different skin and
+by magic it will work every game it has
+its own soul
+and
+this soul is generated from from the
+gener and from from the deepest uh core
+game blue and the way that uh you know
+that the interface surrounding it and
+then the way that the the the player
+experience the sound it's all part of
+the same party and i think
+one of the biggest stakeout that i have
+so far in the in in this current journey
+of most of my life and my my career
+is first you always try to to innovate
+it's not like you can do like a
+just another slot game or just just
+another coin master it doesn't work like
+that the the the users are too smart
+you know the millennials and then the
+teenagers taking us such a
+strong
+cluster and
+and portion of the active users and they
+need innovation so you always
+should look for them
+what's new how you can tweak something
+and then
+build the entire uh
+journey and experience around it and
+that's for me the biggest tip that i can
+provide for uh
+for new game developers or for someone
+who wants to
+you know to step into this journey
+uh despite the fact that
+you have to work with veda
+don't don't work with hunches
+right now this idea of working with data
+has it been is this a solved problem in
+terms of
+you know the acquiring the data and
+knowing to
+to take it from the customer actions and
+the different experiences
+so in other words are we at a point now
+where the layer of data observability
+and data collection has sort of been
+solved in in in and now we're
+transitioning that to be able to just
+use the most effective tools to analyze
+it or they're still gaps in in the world
+of just collecting the data and knowing
+which data to actually collect
+no no i i think it's it's not a solved
+problem i think and i see it almost with
+every company that we're working with
+it's the reliability of the data and and
+the definition of what is really
+important and what how
+uh
+the data pipeline looks like for me it's
+something that hasn't been solved from
+from the customer side and we can always
+see cases when the data is not always
+accurate sometimes it's missing
+sometimes you have to you know create
+all kind of
+work around just to give that like the
+basic
+business picture to your customers and i
+think it's better to have less data but
+a reliable one something that you can
+take a decision with it with
+confident enough that what you're seeing
+is is actually what happened in the
+market uh and in the battlefield of your
+users and then you can take decisions uh
+and what i can suggest for for for
+everyone for every digital business
+is is don't underestimate in the power
+of data it's better to have the right
+data rather than the big data
+and i think that once you have a solid
+layer of the basic
+uh
+foundation of your data infrastructure
+move to the next one
+make it step by step uh there's there
+it's there's an it's an endless
+journey of what you can seek to find
+from your data sometimes by the way
+important data pieces can be found
+outside of your your
+internal data pipeline and like
+environmental ones uh
+you know but probably this is um
+for a later later stage
+in a game development journey now if
+we're looking at a company whether it's
+big or small
+one of the things that you know i see
+from your experience that you've had
+such a wealth of experiences you know
+working in bi teams across so many
+different companies and organizations
+and seeing bi processes
+handled both i guess well and and i'm
+sure not so well
+if i were to now come into a company and
+start a bi initiative or create a new
+startup and think through bi from the
+get-go what you know obviously you know
+there's the common tools to use and
+there there's the best practices
+but from somebody who's gone through you
+know not just creating the bi but
+actually coming up with the with the
+insights from it which is what you
+actually want in the end what what are
+so what is perhaps the most important
+thing to keep in mind as i'm building my
+bi infrastructure and my company
+that the bi team
+could serve the business and not vice
+versa uh it's a mistake that i've that i
+i made somewhere in the beginning of my
+journey i was very ambitious
+to build something on where i joined the
+startup and we tried to to build
+something and
+we could have worked on a very simple
+you know standard way and you know
+making sure that the bus the data unit
+supporting the business
+and very early in the process we decided
+to build a rocket ship
+and i think it was wrong i think when
+you're starting i need a business
+intelligence initiative something on top
+of your business intelligence layer
+there is the business analyst team and i
+think that the biggest thing
+you should consider when you're starting
+is asking the business holders what is
+important for them what do they need
+when do they need it what is the
+granulation of the the data that will
+help them to take better decisions and
+from this point start to start
+structuring your your data layer and
+your data infrastructure otherwise it's
+just an end in loop within we sometimes
+you can find
+very ambitious data people
+but they're not focusing on what's
+making the money for the company at the
+end and you know this is the biggest
+thing for the company you need to grow
+your customer base you need to make more
+revenues that's that's the
+the growth drivers and that you know the
+data team should support this
+and once you're understanding this you
+are very focusing on your decision
+the big that you know what what which
+technology you should use what's the the
+size of the data which are the you know
+which
+data engineers or business analysts you
+need to recruit everything is coming
+from this route
+i love it were you always so fascinated
+about data also before
+also before your military service as a
+kid is you know an analysis and
+analyzing data is this always where your
+passion lied
+no actually no i think that
+as a teenager everything related to
+mathematics and studying was way way off
+my uh
+was my horizon
+uh
+even in my military service it was not
+focusing on the computers i i
+was more focusing on uh walking
+somewhere
+um but you know it came to me later in
+the journey somewhere i'm writing like a
+fourth year and
+as a student started working as on the
+incredible i found that there is a lot
+of information that you can find
+a lot of insight you can actually help
+the business and then it catch me and
+from this point you know the rest of
+history
+i love it and
+if you look today at really the core of
+your inspiration
+you know you wake up you're running
+simple you've been in the bi space for a
+long time where do you where do you
+gather your inspiration to continue the
+way that you're continuing
+i just have to win it
+it's something that i can't i can't
+explain i don't know
+there's nothing like i said it's not
+like i'm looking on someone
+and like steve jobs or
+no it's not from there there is
+something inside of me
+you know that i i'm coming in the
+morning and saying no i haven't sold
+that yet
+it has to be sold i have i have a goal i
+have a mission currently in my life
+uh and and i need to nail that
+and it's something that
+probably every entrepreneur is is facing
+this
+this feeling and it's something that you
+cannot explain but once you're feeling
+this
+you say yeah
+it's this one it has i have to win it
+and nothing will stop me to this point
+and that's that's what drives me you
+know
+this journey is so volatile but at the
+end
+moonshot that's our goal what are a few
+words that you would use to describe
+yourself
+uh i'm very stubborn
+sometimes
+maybe too much
+um
+but i'm very passionate for what i'm
+doing
+um
+and i think it's a key for for holding
+this you know being an entrepreneur and
+a
+family man and living this especially
+during the past uh 18 months with uh
+kobe which facing us with uh
+all kind of challenges
+yeah at the end resilience is everything
+and if you're believing in what you're
+doing uh and you're keeping surrounding
+yourself with with the right people
+we'll nail it
+and i will make a guy
+thank you very very much for the time
+and for the insights i loved it
+and i wish you guys a simple and thank
+you for everything thank you stay safe
+and healthy
+[Music]

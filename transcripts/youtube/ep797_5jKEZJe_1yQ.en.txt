@@ -1,0 +1,591 @@
+i think from day one
+it's a game changer you know it's the
+ability to detect diseases before they
+become symptomatic that is you know i
+think that in in the past whatever 200
+years
+we've kind of changed our perception
+about our bodies has changed you know
+our health
+is the doctor's responsibility it's not
+our responsibility anymore
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+health is rapidly changing all around us
+the digitalization of health is
+exponentially growing and the consumer
+behavior that is adapting to this change
+is just fascinating and this is exactly
+what this episode is about
+meet guy goldman the ceo and founder of
+olive diagnostics 100 passive continuous
+urinalysis sensor that mounts to any
+toilet and can be used to early detect
+thousands of diseases
+prior to establishing olive guy was the
+ceo of a number of technology and data
+science companies most recently i was
+managing a large transportation service
+provider company in london
+of the data science companies guy
+pioneered the advancement of churn
+modeling for telecom companies and
+software licensing optimizations both
+companies were bought out one by a
+publicly traded company on nasdaq a guy
+holds a bs in computer science from the
+university of san francisco
+i'm really looking forward to speaking
+with you about you know technology
+medicine telehealth digitalization with
+healthcare and and everything in between
+the work that you're doing with all of
+diagnostics i think it's you know it's
+it's so cool in today's world to have
+organizations and companies that are
+that are looking at the healthcare
+system that are looking at us you know
+humans and and thinking through
+technologies that will allow us to
+get the help that we needed
+accessibility
+better technology to diagnose and to
+treat and so thank you very much for the
+work that you're doing but specifically
+for coming here now and talking about it
+and tell me a little bit about you know
+yourself you've worked in quite a few
+organizations leading up to
+all of three diagnostics what's
+happening there
+yeah okay so um so i was uh i was moved
+to israel as a kid and uh
+upon finishing the military and
+everything i went back to the united
+states to study and i finished my uh i
+graduated in uh
+san francisco state
+um i studied computer science and
+physics and uh was kind of on that path
+for a technology kind of uh career
+but fairly early on i pivoted and
+understood that the real money is in
+sales um and so i moved over to sales
+and then into management
+and um
+i was kind of managing you know people's
+companies i was like a ceo for hire kind
+of thing
+and that's actually where the story of
+all of diagnostic uh actually begins
+because um what happened is i was uh
+i was
+imagining a really large company in
+london and i was doing kind of this 10-4
+rotation between israel and london so
+back and forth back and forth
+and um one day i get this call from my
+mom who's living here in jerusalem in
+israel i'm located right now in
+jerusalem
+and she tells me that she's been
+diagnosed with ovarian cancer
+and you know so your whole life flips
+around then how can it be you're so you
+know you run and you play tennis and how
+can that beat
+so whatever so she did a few surgeries
+then she started chemotherapy and i
+don't know anything about
+chemotherapy the only thing i know about
+chemotherapy is the big bad side effects
+you know and i find myself calling home
+three to four times a day
+to ask you know whoever was watching her
+that day like you know how's she doing
+you know is she eating is she drinking
+is she walking and she's sleeping just
+you know the basics because i'm waiting
+for these bad side effects to take place
+and um my brothers and sisters here in
+israel you know um
+they kind of said to me look it's it's
+great that you that you know it's
+heartwarming the care and all that kind
+of stuff but um
+either come back to israel or stop
+calling but something has to change now
+you know because i was driving them now
+you know
+and what happened was
+i started saying okay well
+london's awesome i don't know if you
+spend any time there so it's a fantastic
+place
+and i didn't want to come back to israel
+there wasn't any rush to come back so
+i'm like okay fine you know what it's
+2017.
+so there must be a technology that i can
+put to kind of you know monitor her from
+from a distance not i don't want to get
+blood test results and stuff like i'll
+understand that stuff right i just want
+to know the basics
+and um
+you know it's 2017.
+there should be something there you know
+it's not 1986 what do we have right but
+there should be something there so i
+start going i'm starting to look and
+look and explore and explore and explore
+and there's nothing out there the only
+thing that was closest were you know
+these those you know watches smart
+watches and i get footsteps and heart
+rate which is good but it's not what i'm
+looking for
+and um that was that my dad got sick so
+i came back to israel
+and um
+and decided that this is crazy because
+anyone who's my age has parents who are
+you know plus minus their age and i hope
+everyone's healthy and stuff but you
+know a lot of them aren't
+and this problem of being able to just
+you know just to know what's going on
+is probably a huge problem i know i
+faced it
+and um
+i always say that
+in order for technology
+you know to skip over the evolutionary
+curve right so you have an evolutionary
+curve of technology you know you got
+your emails and you got them on your
+computer then to your phone and to your
+watch you know that's evolutionary
+but for something to skip over there's
+got to be a really really personal deep
+reason why someone had to invent this
+technology you know
+and olive diagnostic with its
+sensor that mounts onto a toilet
+and allows for continuous
+urinalysis five to seven times a day
+we're introducing a new science to the
+world not just a technology it's a
+science that we had to to develop to
+overcome the
+tremendous amount of uh of noise that's
+you know inherent in the system
+so um
+i guess that's a long introduction of
+who i am but it kind of
+you know so when you're looking at
+the both on the consumer behavior front
+as well as the scientific front right i
+mean you have a few different things at
+play here
+because
+you know there was a way to continue to
+get updates but with your mom but it
+resulted in you know not such a good you
+know experience for for the different
+parties right and at the same time
+you're saying well even that i'm not
+even sure like even if i do get her the
+you know blood test whatever i'm not
+sure that i can even read that i need
+something that will be you know halfway
+and so
+how do you think strategically through
+the through the solution so when you're
+coming initially to all of diagnostics
+and you're thinking okay
+this is the solution that i want to
+to
+enable and to embed how are you shaping
+your priorities at that point
+so the priorities were really set as you
+say
+on
+and and the whole device is designed
+around a 74 year old woman
+okay
+so
+my mom with all due respect isn't going
+to change anything in her life to
+appease or nourish my curiosity you know
+she's not going to do anything you wanna
+know call me
+you know that's the kind of person she
+was which is fun i think a lot of people
+are like that you know
+so really when we when we designed and
+prioritized the feature set and the the
+look and feel and the um the way the
+device is installed it's all designed
+for a 74 year old woman
+to be able to install it and operate it
+and use it by herself you know and um
+there's a lot of features and when you
+kind of get into the deep depth of it
+you start to realize all these little
+noises that you need to account for you
+know
+um forget the use cases that aren't that
+you know right you know they use it for
+anything so you gotta really really kind
+of design it with that persona in your
+head
+and she's the one who's going to use it
+fantastic
+take me back to the initial prototype
+you're creating the initial device
+you're going to the market what are you
+what are you trying to prove initially
+what are sort of the assumptions that a
+company like all of diagnostics has to
+prove necessary to investors to the team
+to yourself
+that this
+this thing is actually working
+so that's a really funny story because
+when i first started this somewhere in
+2019 when i came up with this wild idea
+of using optics to to do
+molecular analysis
+um
+the the one of the advantages of israel
+is so small
+i went to all the universities and spoke
+to all the optic professors you know
+and all them thought i was absolutely
+crazy to try to do what's called
+spectroscopy it's the science behind the
+technology
+uh to do spectroscopy in an open
+environment
+because if you go and see a spectrometer
+a spectrum use like this huge machine
+it's a million dollars and you put a
+test tube inside a box and you close the
+box you put in this machine you seal the
+machine it's completely silent you know
+and also i'm like yeah i'm gonna put on
+the back you know on the side of a
+toilet you know they thought it was
+absolutely crazy
+and then the ones who kind of said like
+yeah maybe there's a chance
+but the minute i said yeah we're
+actually
+doing the measurements when the urine is
+vertical we're doing it horizontally in
+mo you know it's in motion and there's
+ink to the to the drops are going to be
+whatever shape they want to be you know
+i just got laughed out of almost every
+single room you know
+so when you ask what do we need to prove
+we need to prove
+that this was scientifically possible
+it's like if i told you okay can you
+build me a time machine right you have
+to prove the science that the science
+works and
+um we've had huge tremendous scientific
+breakthroughs you know and one of the
+things that we like to say but people
+really
+get it
+is we took the optics
+out of spectroscopy
+so we we've gone so far out
+that you know
+yes we're using spectroscopy but it's
+it's on this it's you know
+it's it's something else you know
+and so
+and i have to prove it you know to first
+of all to the investors and stuff like
+that which was really difficult because
+if you don't get deep into the equations
+it's hard to see it's going to work
+right right um
+but then i had
+you know anyone i tried to uh
+to recruit
+you know thought it was crazy i'm sure
+there were a bunch of us crazy guys who
+kind of got together and said well wait
+a minute let's give it a shot you know
+and
+it hit in hebrew there's a word called
+kutzba
+you know
+and our hood spies that we tried
+because it was against
+everyone's best judgment but we tried it
+and it worked
+um
+it took us probably about a year to get
+to an actual prototype or a proof of
+concept
+yeah that you can actually detect
+using light
+you know molecules because
+molecules are so small you can't imagine
+right
+um
+took about a year to do that then it
+probably took up another year to to
+get the spread so
+the person just urinates doesn't matter
+where they urinate doesn't matter they
+don't have to do anything my mom's not
+gonna do anything she's not gonna turn
+on or off the light or anything like
+that you know
+and um it took us about another year to
+get all the kinks worked out
+and now we have a device that we're um
+we're starting uh um operations sales
+already in the european markets um mid
+april it's going to be launched wow
+a hundred
+elderly homes
+so that's incredible hundred and six
+and at the so the phase that we're at
+right now right where the phase where
+you're saying okay we've built this
+product we
+we think we understand the consumer
+behavior we think we
+we get the value proposition and that
+we're making it happen now you're sort
+of on the route to find product market
+fit right and and so what is this you
+know this next 100 households what what
+is the the most important thing you want
+to learn
+from
+from the deployment of these units
+honestly
+just that people are okay with seeing on
+their toilet with this device as simple
+as that
+i don't need any i don't need anyone to
+tell me if i'm detecting stuff or not
+that we know that we've done it a
+billion times over
+just that people aren't afraid to sit on
+the device
+wow i love it so you say so i love those
+the you know the fact that you're
+narrowing it down and you say okay we i
+don't need them to tell me that it's
+providing them you know analytical value
+i just need to know that they're willing
+to use it not for the science saying
+just in terms of their human behavior
+their their day to day
+i think that's really really cool and i
+really do love that seeing their toilet
+and looking at their toilet the same way
+for you know 70 80 years
+and all of a sudden there's this new
+thing on the toilet
+you know
+for some that might be a little bit like
+wait what's this you know and i just
+want to make sure
+you know that uh that that works
+so how are you envisioning this you know
+down the line so once this becomes a
+full-fledged product and it's and you're
+you're taking it outside of you know
+your own control how do you imagine it
+getting to people's households and how
+do you how do you grow this thing at
+scale
+great that's a good question
+so our initial market and it didn't it
+didn't actually happen i mean it didn't
+happen purposefully this way so when we
+started our company and and we had
+funding stuff like that we started doing
+a lot of market research to figure out
+and there are so many verticals for this
+product you know from sports and
+nutrition to
+safety at work law enforcement you know
+you name it and that everyone needs and
+we know because we're getting you know
+we're getting
+pushed from the market on almost every
+you know we have like 15 or 20 verticals
+that each one's a three four five
+billion dollar market you know
+um
+and then we did all this analysis and we
+figured out that we're actually going to
+do you know um elderly remote
+monitoring you know which was kind of
+the the basis of the product and the
+initially that's where we started from
+but
+once we circled back and we found out
+that's actually our lowest hanging fruit
+because we can provide the the easiest
+most articulate
+message
+to a b2b sale so it's not even b to c
+it's b to b we sell it to the assisted
+living facilities so they put in that
+you know
+right
+okay good
+okay so you're just telling me you're
+just talking about the strategy
+for working with the on the b2b versus
+b2c and and the different you know pros
+and cons in that regard
+right so
+um so initially we're going after the
+elderly population we we believe that we
+get the biggest bang for our buck there
+um plus it's a b2b sale versus the b to
+c cell
+uh what we're doing for them is we're
+actually doing early disease detection
+so you know if you think about a 78 year
+old woman who gets a uti or you know a
+90 year old guy with kidney stones
+they go to the hospital it's not like
+just something you know they go to the
+doctor because right they had
+20 or 30 symptoms you know from you know
+fever and they're dizzy they can't walk
+and they can't eat you know
+so but by being able to continuously
+monitor someone you can actually
+pick up the disease before the symptoms
+appear
+okay and that's really what our we're
+coming out with the uh with the first
+device but like i said there's some
+special unique qualities to this device
+that makes it more appealing for someone
+older than someone younger okay
+so now we're going through um a
+mechanical and industrial design of our
+next
+you know our next version
+which is it's just a clip-on you just
+clip it onto your toilet you know so for
+younger people people who stand when
+they urinate versus sitting down near
+any because there's some there's some
+issues there
+um
+and there we want to go a lot more into
+the
+you know the health monitoring slash
+wellness
+you know so sports enthusiasts who were
+looking to see how well they worked out
+looking to see how their
+pre and post workout you know how their
+bodies reacting to their workouts
+you know
+alcohol levels are you drinking too much
+or you know so it's
+it's everything associated with that if
+you're thinking about you know when this
+will become a game changer how does that
+look how does how does all diagnosis
+become a game changer for humans you
+know around the world
+so i think from day one
+it's a game changer you know it's the
+ability to detect diseases before they
+become symptomatic that is
+it's it's a it's
+you know i think that in in the past
+whatever 200 years
+we've kind of changed our perception
+about our bodies has changed you know
+our health
+is the doctor's responsibility it's not
+our responsibility anymore you know so
+if you want to get i don't know you want
+to get an x-ray right you can't just go
+and
+buy an x-ray you know get an x-ray done
+you have to go to a doctor who gives you
+you know um a
+prescription for an x-ray you know so
+hope it's the doctor who does everything
+it's not you we've lost contact with our
+own bodies
+and i think from day one this is kind of
+giving us back that power to know what's
+happening inside our bodies without
+having to go through the whole doctor
+and all that kind of stuff we can just
+get it
+right in front of us you know
+um
+we also believe that this is because of
+doing early disease detection versus
+symptomatic detection
+right huge you know it's a huge change
+that everything changes you know
+preventative medicine and all those kind
+of things you know um although we don't
+like to say preventative because we're
+not preventing it we're just catching
+early you know um
+but it's early curing which is much
+cheaper and you know
+the lifestyle
+of of that is just you know huge
+i love it guy thank you very much for
+for coming here and for sharing the
+story and the work it's really
+fascinating and
+and i'm sure it will do so good for the
+world and for so many people that are
+using it and i love the specifically the
+intentionality behind
+you know at the end they just need to be
+able to be willing to sit on it right to
+be able to sit on the toilet and not
+feel like this product is not for them
+to use on their day-to-day this is you
+know there's there's a ripple effect of
+what happens there's a chain reaction
+what happens with the product right
+after they use it but for for this to
+work they just need to be willing to sit
+exactly and and i just love that
+understanding and that statement so guy
+thank you very very much and stay safe
+and stay healthy thank you thank you and
+uh it was really good being the call
+[Music]

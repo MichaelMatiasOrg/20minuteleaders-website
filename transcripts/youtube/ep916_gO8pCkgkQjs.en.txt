@@ -1,0 +1,631 @@
+in order to put the customer first knew
+has to be the person they talk to at all
+times we've noticed that with a lot of
+other products there was one
+organization selling you the policy
+another organization that would uh that
+you'd need to contact if you had a
+problem there was a third one if you
+needed to file a claim and there was
+just no consistency and everyone was
+motivated by different aspects of it so
+really the fundamental Insight was was
+first and foremost that that if you put
+the customer first and if you made it
+that you were legally and legally and
+practically allowed to handle every
+single part of the customer's Journey
+with you it was much easier to create a
+meaningful and memorable experience for
+them
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside fam Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with ctek
+welcome to another episode of 20 minute
+leaders today we're talking about travel
+insurance from an unlikely upbringing
+Faye is such an interesting company from
+the Israeli ecosystem and this
+conversation with Daniel Green is all
+about the formation of Fae how they
+figured what they need to be building
+the responses they've been getting and
+what they've been learning
+Daniel Green is co-founder and CTO of
+Faye the number one disruptor setting a
+new standard in travel insurance
+coverage and care this is the second
+startup he has founded with fake
+co-founder and CEO El ad Shaffer both
+previously co-founded Wiki struck the
+world's first crowd-sourced consultancy
+platform there Daniel developed the
+company's core Technologies including a
+real-time collaboration platform
+gamification incentification systems and
+its Flagship data model for predicting
+disruptions to countries and economies
+as a developer with 20 years of
+experience and a deep passion for travel
+Daniel enjoys applying his
+specialization in real-time applications
+to phase core mission of forever
+elevating the way consumers travel
+Dan Green welcome to 20 minute leaders
+thank you so much for being here how are
+you thank you for having me I'm awesome
+I'm really excited to uh to pick your
+brain on on these awesome things you're
+working on in the travel insurance space
+um you know travel is a such a big big
+topic over the last few years
+um ups and downs but obviously something
+that we all enjoy taking part in and
+it's a great privilege um and right
+before we get we start talking about
+what you're doing today I have to hear
+the story about predicting flight delays
+and what happened there because it
+sounds first of all it sounds awesome
+but it also sounds a little bit
+connected to to what you're working on
+sure so I've been lucky enough to be
+traveling a lot in my lifetime I started
+by working in in theater and I was
+traveling between two cities uh and then
+moved to Israel uh started a company
+with my my current CEO so we've been
+co-founders for like 12 years and we
+were having to travel all the time to
+meet clients
+um and at some point it got to the point
+where I was traveling overseas multiple
+times sometimes in a week
+um and you just started to pick up these
+little intuitions about uh what was
+making flights work and not work and you
+started having long layovers you talked
+to people at the airport I like chatting
+to people on the plane and you just
+start to learn that there's this whole
+crazy ecosystem of travel there's this
+universe of gamification that they use
+for their frequent flyer programs
+um and at some point it got to the point
+where I was able to get on a plane once
+in a while ask the crew what the
+consequences would be of a delay and
+they would say what delay and it would
+turn out I was right
+awesome and then one of those times they
+actually rewarded you for picking up on
+that right
+yeah the pilot was impressed enough that
+uh came out after we after we were in
+the air to ask Howe how I guessed it
+before anyone else did and I I explained
+what what my intuition was and and what
+I read in the radar report
+um and I was going to miss a connection
+on a flight to uh to New Jersey I really
+wanted to meet I had a I had a new niece
+that I really wanted to see and so what
+they ended up doing was because I'd
+become friends with the pilot he'd put a
+call into the ground so when we landed
+at Heathrow uh someone met me at the
+door uh with a car drove me across the
+tarmac we got to uh we got to the X-ray
+machine for the second flight they said
+if there's a bottle of water in this bag
+you are not going to make it we we made
+it to the flight they closed the door
+behind me and after we took off someone
+actually came up and asked who I was uh
+assuming I was a celebrity I think that
+held the flight for about 10 minutes so
+I could make it
+um and I wrote a few thank you letters
+after that and I used to be known around
+the airport that they actually had the
+photographs of me and the niece hanging
+out hanging up some running the airports
+I'd walk into the airport they'd
+recognize me as well it's a really fun
+world to be part of
+I I love it I love it okay tell me a
+little bit about travel insurance and
+everything in between what what is sort
+of the the underlying understanding that
+that your new co-founder had when
+starting this company
+sure so we didn't start by doing travel
+insurance we we started uh with the
+Insight that when things go wrong when
+you're traveling what matters the most
+is
+um having information available to you
+faster than everyone else so if there's
+five seats left on the next plane the
+first five people to know that are the
+most likely to get out of town and
+sometimes you could land at an airport
+where if you missed the train between
+terminals you're not going to make it
+but if you knew that there's a service
+passage that anyone can walk down you've
+still got a shot at making that flight
+and and you just need that information
+exactly when you need it so we started
+off as a smart travel assistant we
+launched in uh the very end of 2019
+really January 2020 so you know where
+the punch line of this is going
+um and and just as we were really taking
+off people were signing up for the the
+travel assistant uh on a daily basis uh
+suddenly covert hit and we we still had
+people continue to use us and we were
+collecting Amazing Stories from people
+who were traveling with a smart
+assistant that we nicknamed any at the
+time because uh made you more Zen and we
+really understood that the missing piece
+of what we were doing was it's all well
+and good to have the inside information
+it's all well and good to know in
+advance that there's a prediction that
+something will go wrong with your flight
+but what's next and really for us the
+missing piece uh was insurance so that's
+that was the birth of of Faye as you
+know today and we really understood that
+uh so many people saw insurance as a
+reimbursement service something that
+they dealt with only when they got home
+and we really wanted to change that we
+really wanted to be something you used
+uh even if something didn't go wrong on
+your trip and that was why we became
+about creating a consumer-centric smart
+offering that was top coverage 24 7
+assistance no excessive paperwork
+real-time alerts like everything you
+need to make your trip a success not
+just a reimbursing service when things
+go wrong
+what what did you figure out about
+creating sort of this trust with with
+the consumers you're mentioning that you
+have to create a there's a consumer
+Behavior shift here from thinking about
+insurance companies as sort of this
+reimbursory type mechanism to actually
+companion on travel what what what steps
+did you have to do that did you that you
+found were most helpful in creating that
+creating that distinction
+so I think for us the the single biggest
+thing we did from uh from a company
+point of view is that we actually built
+um the ability to handle claims which
+from a legal and Regulatory point of
+view uh is an incredibly complicated
+undertaking but we really started with
+this philosophy that in order to put the
+customer first knew has to be the person
+they talk to at all times we've noticed
+that with a lot of other products there
+was one organization selling you the
+policy another organization that would
+uh that you'd need to contact if you had
+a problem there was a third one if you
+needed to file a claim and there was
+just no consistency and everyone was
+motivated by different aspects of it so
+really the fundamental Insight was was
+first and foremost that that if you put
+the customer first and if you made it
+that you were legally and legally and
+practically allowed to handle every
+single part of the customer's Journey
+with you it was much easier to create a
+meaningful and memorable experience for
+them
+um and and you were only motivated by
+making the customer uh as comfortable as
+you can and looking after them as best
+you can and you're not worried about you
+know someone else down the chain you're
+not United Airlines selling a policy on
+behalf of another company or a
+Clearinghouse for claims working on
+behalf of an insurance carrier and and
+obviously you're the you're the chief
+technology officer here so tell me a
+little bit about the technology that
+goes into perhaps automating a lot of
+this personal personalized experience
+because then as you scale you need to be
+able to to offer that to a lot of people
+in real time and and create that trust
+sure so there's there's two parts to it
+there's there's actually when you go to
+buy a product and then when you need to
+interact with us afterwards so one of
+the things that people got very used to
+is the idea that you would enter uh
+dozens of pieces of information when
+buying a policy and then you'd be shown
+three or four different plans to choose
+from or different carriers that maybe
+there'd be a bronze silver gold version
+of the plan and so we actually made the
+decision to make you just one offer we
+asked you five or six questions about
+your trip we look into all the
+information that we might be able to
+gather about other people that have had
+similar similar itineraries we
+understand that someone traveling to
+London is not necessarily the same as
+someone traveling to Madrid which is not
+the same as someone traveling to Ibiza
+even though sometimes the insurance is
+rated the same so we don't ask you to
+choose from plans we present what we
+believe is the best coverage for your
+needs we don't let you buy coverage you
+can't use so for example cancel for any
+reason can't be used within 48 hours a
+week your trip so if you're traveling in
+36 hours we won't even offer it to you
+the only things you can toggle is are
+you traveling with your pet and are you
+hiring a car and so that means that you
+can go from opening our website to being
+covered by us in less than a minute so
+long as you know your trip dates uh
+which and we just took all the the
+thinking and questioning out of it if
+you don't like what we're offering it's
+okay you can go with other companies but
+we've offered you what we think is the
+best and most appropriate package and
+then the second part I'm sorry no no go
+ahead go ahead
+and then the second part is what happens
+after that so we offer you instantly a
+mobile app to download we ask you to
+enter your flight information and other
+bits of your booking so that we can
+start to send you alerts in advance we
+know there's an earthquake in that area
+we know in advance your flight's going
+to be delayed we'll even tell you that
+you're entitled to a compensation for
+let's say a delayed flight or a
+misconnection before you need to reach
+out to us when you have a claim and
+we're able to process some of that
+information instantly using computer
+vision and the like all the way through
+to actually pushing a credit card
+through to your phone so if you need to
+pay for something in trip
+um so long so long as it's approved and
+it falls in the right categories we can
+actually issue you an Apple pay or a
+Google pay card on the swipe for you to
+use before you even get home
+interesting and so obviously still
+people go to the website they have to
+choose between getting your services
+versus a lot of the incumbents that that
+while maybe there's you know they're
+more on the reimbursory type of mindset
+they're still you know there there's
+larger players that have that have long
+sustaining Brands is it is it was it
+trivial to get people to buy into this
+and say yeah we trust that Faye will be
+here when we need them besides the great
+brand and the great messaging how do you
+get them to actually believe that you
+are going to be there for them up to you
+know pre-pre-purchasing how do you get
+them to actually go ahead and choose you
+over over others
+so firstly I think covert was not just a
+massive accelerator for people wanting
+travel insurance in the first place like
+it was the event where a lot of people
+had really bad experiences with their
+existing travel insurance maybe they
+thought that their credit card would
+cover something and they didn't realize
+it wasn't maybe they thought they were
+covered for the entirety of their trip
+that they were only covered up to a few
+hundred or a few thousand dollars so I
+do think one of the advantages we have
+at the moment is we're not one of the
+incumbent there are a lot of people that
+had bad experiences the major brands
+during covert and they're looking for a
+new player that's pricing to make a
+difference and I think that's a really
+significant part of what leads people to
+trust us and I think the other part is
+we've worked really hard to create a
+friendly welcoming brand I think most
+travel insurance products look very
+corporate uh very generic they have
+stock images they all follow a very
+similar format and there's a lot of
+people that even coming to the home page
+of the website already feel like okay
+this is different to the incumbents
+let's give these guys a try
+interesting tell me a little bit about
+your own your own personal Journey you
+mentioned that you've been traveling a
+lot and you obviously seem really
+excited about what you're doing here but
+but what what role does this play sort
+of in your own personal journey in your
+own life
+so I grew up in Sydney Australia and
+there's everyone who grew up on on an
+island I guess a little bit like uh
+people who live in places like Israel
+there's a huge desire to get out and and
+travel so
+um even growing up travel was was kind
+of part of the ethos of being Australian
+uh I was lucky enough to work in the
+entertainment industry I did real-time
+programming for uh for film theater and
+television which led to all sorts of
+interesting adventures and that that in
+itself
+um allowed for a little bit of travel
+I've been lucky enough to interact with
+computers back in the days where they
+were black and green screens
+um you really had to tell it uh step by
+step in fact I think the first thing I
+used to save things on was audio
+cassettes produce them as disk drives uh
+back in the 80s and uh and so part of
+that became a passion for real-time
+programming when you worked in theater
+if something goes wrong you have
+literally minutes to fix it before
+people in the audience will start to
+complain and sometimes there's even an
+SLA that once once you've ruined about
+six seven minutes of a show people can
+start to ask for refunds and there's an
+amazing culture that comes from all of
+that wow um and then about 12 years ago
+uh moved to Israel started a company
+with my uh then and still current uh CEO
+um and we were we were building
+crowdsourcing systems for for
+governments and uh governments large
+corporations a lot of them that wanted
+to meet in person even though we were a
+remote company before remote was a thing
+uh they really liked to meet in person
+it's either you were real and so we
+found ourselves on the front end
+building this amazing expert Network
+crowdsourcing platform and then on the
+back end running a travel agency as we
+were getting everyone in and out and
+there was this real feeling you'd get a
+phone call you might be sitting in
+London having a meeting and someone
+would call you in DC and say hey I've
+got a great idea can we meet and so sure
+let's meet next week and let's say ah
+let's meet tomorrow and you just you'd
+figure it out and then inevitably and
+you'd miss a connection somewhere in New
+York at two in the morning and you you
+had to figure that part out as well so
+I've always I've always been fascinated
+by the systems that underpin the way the
+world works so travel travel was a big
+fun part of that
+um especially if you get into the the
+nice bridge between the psychology of
+travel which is everything from how
+people feel like when they travel to the
+frequent flyer programs and the
+Incredible World of gamification that
+underlines you know how we can get you
+to stay super loyal to one Airline for
+the vague possibility that you'll get to
+board three minutes earlier than
+everyone else
+um and and as you kind of go up the
+ladders of traveling you also get to
+experience that you start getting
+breeded on planes you start getting
+greeted at airports
+um and you get the occasional upgrade
+and all of that really gets you to think
+about the algorithms and systems and
+data that goes into Airlines making
+those decisions as well and so I've I've
+always worked in in sort of data heavy
+real-time
+situations and travel insurance is kind
+of the ultimate culmination of that we
+we get scenarios now where people
+sometimes call into the support center
+uh at the gate as their flight is
+boarding with a problem and they're
+asking us not just can we fix it but can
+we fix it in the six minutes before
+wow and so tell me a little bit about
+you know your role as the chief
+technology officer and sort of how
+technology how you see technology
+playing role here because obviously
+you're so passionate excited about what
+you're doing and you're talking a lot
+about the psychology of it and the the
+trust and the brand how do you see the
+technology being a part of it and what
+is sort of your role as a technology
+leader in making that happen
+sure so I'll break it into two sections
+so the most obvious side is when it
+comes to Insurance there is the entire
+world of Actuarial science and math
+that's known as underwriting and travel
+insurance has traditionally been uh a
+bit of a less sophisticated product uh a
+lot of them just don't differentiate
+between what airline you're flying where
+you're going to what class you're flying
+um and so so part of that is
+understanding can we start to collect
+and map and model the data today that
+will allow us to eventually approach a
+regulator in places like the US and have
+much more sophisticated underwriting and
+pricing and really just optimize at the
+end of the day the whole concept of
+insurance is we all put ten dollars into
+a pipe with the agreement that if
+everything goes perfectly well we we our
+ten dollars went paid for someone else's
+Misfortune and I think a lot of people
+forget that and then the second part is
+how can you scale customer experience
+right and how can you it's one thing to
+take a phone call from someone at the
+gate who wants you to troubleshoot but
+when it is uh the sort of claim again as
+some people are calling it right now
+with just how many things that are going
+wrong you don't want to be manually
+processing everyone's baggage forms can
+people take photographs can you take a
+GPS location what are all the things you
+can kind of automatically collect in
+advance so that you can still comply
+with all the regulation that comes with
+insurance that you can still get the
+paperwork uh prepared on the back end
+without the customer having to suffer
+through those processes I mean the
+number of insurance products that
+require you to write out your name email
+address and policy number on six
+different pieces of paperwork when the
+company that sold you the policy has
+known that from the beginning so it's
+been a really interesting challenge to
+build the team
+um here in Tel Aviv and a few other
+places of people that are super
+passionate about travel and are really
+thinking about how we can digitize
+common sense so that so that computers
+can make quick smart and legally
+compliant decisions wherever possible
+and the rest of the time it can just
+prepare something for a human to just
+sort of be in the loot uh tick off that
+it works and then only deal with the
+more complicated personal stuff
+awesome and so what do you think is
+going to really make Faye win at the end
+you know what how what is sort of this
+underlying underlying strategy that
+you're saying you know this is why I
+think Faye is going to be a market
+leader in in the travel companionship
+Insurance space
+so I think we're already seeing some of
+that now I mean we've only been in the
+market for four months and we have
+people returning for their second and
+third trip with us which is incredible
+um and I know it's not a technology
+answer but I really believe that that
+concept of caring about the customer as
+a philosophy has so many amazing side
+effects or Consequences for the company
+it means that people tell their friends
+it means that people come back uh in in
+America most people really think about
+trip and travel insurance as something
+they buy on a case-by-case basis they
+have no loyalty they don't remember who
+they worked with uh the previous time
+maybe they just kicked a box when they
+were buying their flight so I think
+having a brand having people know your
+name and care about you is is really
+what causes people not to think I need
+travel insurance but to think I'm
+traveling I better check that I've got a
+policy or a plan set up with Faye
+um and and I even see it now that people
+sometimes write in with a claim and the
+response that comes from the claim team
+doesn't start with Dear Sir it starts
+with oh no that's terrible can you tell
+me more about what happened which is
+right completely new experience for the
+customer and lead them to say we've had
+people who we've denied claims and
+they've still said wow just thanks to
+Kerry and I understand it didn't fit in
+with the policy and we've had people
+where we've approved claims and they've
+said just so you know the airlines just
+paid me back so I'd like to cancel the
+claim because you guys were so nice and
+so so powerful in the way you treated me
+as a human that I don't want to double
+dip and I can't imagine that happens
+with a lot of other companies right I
+think that we saw a lot of it you know
+especially from personal experiences you
+can always say like what's customer
+service I remember that was a big change
+in sort of A disruption of how you treat
+you know a lot of these a lot of these
+mishaps and I remember though you know
+sort of working with Emojis and the oh
+no type of type of mindset I think it's
+just I mean that's where we're heading
+and that's what people look for people
+want to be heard ultimately Beyond just
+the claim and it's sounds like you're
+working on some really really
+fascinating fascinating things and and I
+look forward to using Faye myself and
+thank you very much for joining me for
+these 20 minutes sharing your own
+stories sharing the story of Fame what
+you've learned and I'm looking forward
+to cheering from the side thank you
+absolutely my pleasure

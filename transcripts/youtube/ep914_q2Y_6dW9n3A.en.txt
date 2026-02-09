@@ -1,0 +1,585 @@
+i think that uh what
+makes me um be a good
+ceo in this business is that you know it
+i just speak from my heart and so it's
+something that i've been dealing with
+since i was a kid basically um so i'm
+building something that i really
+uh understand and uh and can talk to a
+customer on the same level and i think
+that this is the the most important
+thing
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20 minute leaders is a proud supporter
+of make-a-wish israel and tech to peace
+and is in proud collaboration with
+secret core adventures j ventures
+riverside fm
+fusion vc
+birthright excel j impact
+leap google for startups and hippo and
+in media partnership with ctec
+hello and welcome to 20 minute leaders
+today we're talking to a segy from front
+egg a company that i'm a very proud to
+be a small angel investor in but a very
+cool company that is looking at user
+management and sort of the
+standardization of software and how
+businesses are leveraging front egg to
+increase their ability to meet standards
+around the world
+meet seghiro dean the ceo and co-founder
+of frontex over the last 15 years segi
+has held senior product and software
+development positions leading
+engineering and product teams and
+engaged with ad hoc projects of building
+customer facing software applications
+transforming concepts into viable
+products
+previously a checkpoint now with fronted
+meet segui
+[Music]
+first of all congratulations on on the
+recent incredible announcements
+i know it's been a few months since your
+series b has closed um
+but congratulations on the recent 40
+million dollar race from some fantastic
+fantastic partners like like stripe um i
+am very fortunate to be a very small
+part of the journey as an angel investor
+but but but really with the platform
+that you're building here is phenomenal
+and what i love as an engineer myself as
+a person who who builds products that
+hopefully people love you know i
+understand the problem that you're
+solving user management and the fact
+that you know the different standards
+that the world is creating for how
+companies are are
+allowing users to to create this
+autonomous
+or or the personal autonomy of user
+management software so really really a
+fantastic product sigi tell me a little
+bit about what front egg is and then i
+want to go back into who you are and how
+that will whole thing ties together
+awesome thanks for asking so uh
+you know thanks for the warm words i
+think that uh um it's been an exciting
+journey so far and definitely you know
+we're growing and uh
+and seeing a lot of attraction and
+interest uh in our product so front deck
+and in essence uh you know as a user
+management platform
+we're enabling sas companies to go to
+market much faster with a product that
+meets the standard of modern sas
+applications uh most of our customers
+would be b2b sas companies at different
+stages so it starts with uh you know
+small companies and rising and we have
+unicorns and
+companies that already been acquired in
+fortune 100 so you know the spectrum is
+quite wide
+but we're aiming for uh you know for b2b
+companies that
+want to bring a great experience for
+their users and we're helping them to
+achieve that by providing product
+capabilities that they can customize and
+integrate within their app starting from
+the most basic stuff of you know
+authentication login signup experience
+up to the most advanced self-service
+management capabilities that they
+integrate within their products so
+that's uh i think it sums up a bit about
+us
+so take me back a little bit to
+something that i that i read on the
+techcrunch article that um first of all
+uh you know one of the one that saw some
+things i believe it was a partner at
+stripe who said what blew us away about
+farting was how much their customers
+love the product and and then it goes on
+to talking a little bit about market
+expectations and and standards so talk
+to me a little bit about the standard of
+what
+customers and companies are expecting
+these days and because i think that's a
+really interesting key point here is
+that you're not just building a product
+that
+that you that that is interesting you're
+actually solving a pain that is emerging
+due to a new standard that sort of
+people are expecting off the bat they
+get you know there's a there's a gap
+that you that you found here
+yeah definitely so you know i've been uh
+developing software and mainly focused
+on uh customer facing software since i
+was
+uh quite uh young uh since the age of 16
+and you know before it was called sas
+before it was called plg or whatever
+uh and um and you know we were focused
+on creating just um um great experience
+well when i worked in small companies
+and even in a large enterprise before uh
+starting front tech and i think that
+what happened in the last 10 years is
+that um you could see kind of a movement
+from you know uh um focusing on
+providing great experience for consumer
+applications where you know it's not a
+secret like 10 years ago we would hear
+about the great experience that facebook
+provides or um you know similar uh apps
+but
+yeah you know when i when i kind of
+pitch the idea of providing great user
+experience in b2b uh applications people
+looked at me like five years ago what
+but it doesn't matter like you need to
+bring great sales people right uh and
+they would uh do the rest you don't even
+have to have the features right you just
+you just promise them and that's it so
+uh you know and i think that what
+changed in the last five years that um
+today
+the uh the buyers of those software they
+would appreciate and they expect a
+certain level
+uh of product experience of onboarding
+experience uh they want to share their
+experience with other members within
+their organization and kind of you see
+uh that the borders between a great
+consumer experience and uh organization
+experience that kind of uh you know was
+almost erased and uh and today you start
+as a user uh and then you know you just
+you know in a second you become uh
+a business that buys software right from
+the moment that i invited the first
+colleague into the account so uh all of
+those experience became really really
+important
+and the thing is that for uh great
+companies to be able to uh provide you
+know both things both the core of their
+product which you know just as it was
+important 10 years ago it is still the
+main things and still like invest time
+effort into those platform
+experiences is something that you know
+is very challenging especially when
+you're a young team but think of it when
+you're in growth you would think wow
+it's not a you know it's not a challenge
+right i mean growth stage but no when
+you're in growth stage you're expected
+to provide those experience faster and
+the core experiences um even faster so
+uh so you're kind of always in this race
+or what am i doing here
+and um
+in front egg if you think of it um you
+know in essence we're actually uh
+solving that uh challenge uh in that
+paradox so this uh sas paradox of what
+do i do do i invest in the core or do i
+invest in those platform experiences
+which you know in the last two years we
+see that both of them are super super
+important how do you find people make
+that made the differentiation or
+distinction between something that they
+need to build in-house and develop
+themselves versus leverage on a standard
+that front deck provides so how you know
+i guess if i look you know
+many years ago
+authentication and login was something
+that companies would prefer to do on
+their own for for a variety of reasons
+and and today it's almost become a
+no-brainer that nobody manages their own
+user authentication how do you as sort
+of the leader here how do you figure out
+what things are doing sort of this shift
+movement where they're turning from sort
+of a proprietary technology that
+companies enjoy to now a commodity or a
+standard that frontec will provide to
+its customers
+yeah so
+you know let's let's uh put it like that
+nobody ever uh
+came to their boss like a developer and
+came to their team leaders said listen
+i want to develop user management like
+the next right
+amazing login experience
+um and i think that you know at the end
+of the day it comes because of several
+reasons first of all you know developers
+want to um do the cool stuff
+the second thing is that you know
+there's a lot of responsibility here so
+uh the one thing that i
+mentioned earlier and that's you know
+providing a great experience in that
+part of the product as well usually the
+company or the developer even the
+product manager they would not have the
+knowledge on how to provide a great
+experience of inviting new users of
+managing their permissions of audit logs
+of managing the security policies within
+your account rights subscription so
+that's one thing the second thing is
+that there's a lot of responsibility
+here because we're always dealing with
+the most sensitive assets uh of um you
+know of our customers that would be
+their uh
+usernames their emails you know all the
+information uh we are handling the audit
+logs for some of our customers that
+means that you know it's basically
+anything that goes on within the product
+so you know what taking into account
+those
+um
+you know the sensitivity and the fact
+that there's a product behind it makes
+it really hard for um
+for those developers or product teams to
+develop it in-house and provide
+a great experience for their uh
+customers
+incredible take me
+a few years down the line vision
+question in a world where front egg
+delivers on its milestones grows to
+where you want it to grow
+what what changes how how are things
+different in the world
+i think that a lot of the experiences
+that 10 years ago as you mentioned like
+authentication where
+i would just develop it in house
+people understand that there's a
+standard behind it now and that there's
+somebody there that can do it better and
+that's what my customers deserve the
+best
+and i think that more and more
+experiences like that are becoming
+standardized so uh when we think about
+the developer
+today they deal with
+very
+tough things to handle right with scale
+with machine learning with a lot of
+smart stuff that they need to develop
+and
+and they will find that a lot of those
+platform capabilities could be provided
+uh by
+people that you know do that all day so
+um so we believe that more
+of those experience will be standardized
+and if today we think about
+low code or no code as something that
+competes with developers uh i think that
+a few years and it will take five ten
+years down the line developers will
+embrace uh those platforms uh to help
+them focus on what they do best and on
+the more challenging and interesting uh
+problems to solve and this is where
+front egg even today will lay the
+foundation uh to uh to provide those
+experiences but but
+as we grow and as the market evolves
+we'll provide more and more of those
+experience up to a point where you can
+basically develop the best application
+out there um just in a few lines of code
+and uh and from day one provide the best
+experiences and that's enabling
+innovation at the end of the day that's
+what we do
+i love it and enabling innovation i love
+the sort of the butterfly effect and how
+you're taking this from a very sort of
+maslow pyramid type of idea you know if
+you're starting if you're able to solve
+sort of these fundamental building
+blocks or the bottom layers that's when
+you when that's when companies you know
+can reach that self-actualization
+uh you know a sort of bucket which which
+is fantastic
+but but take me back a little bit to
+your own journey your own you know
+entrepreneurial journey you mentioned
+that you've been you know you're an
+engineer at heart
+how does this play into sagi's story
+here yeah so
+it's simple as i was saying you know i
+started to develop when i was about 15
+year old i fell in love with web
+development because it touched the uh
+the end user immediately i so sure
+wasn't only about creating the the cool
+apis that run fast you know it was about
+creating experiences
+um but i also remember that you know as
+a developer almost any developer i would
+suffer from what we call over
+genericization syndrome right so we do
+everything very generic
+uh and they would ask me why do you do
+that you need to you know make
+everything uh stupid simple
+sure but uh but you know i think that i
+always wanted things to scale right i
+always wanted them to be secure and
+robust from the get-go uh but when you
+build uh a product sometimes that's not
+appreciated right you just need to focus
+on what uh the customer asked for so i
+think in a way this was a
+kind of fulfillment for me uh fulfilling
+the urge of uh uh building developer
+infrastructure right so because when we
+build something like that
+everything has to be very robust very
+scalable secure from the get-go uh so
+for me uh developing the
+developer infrastructure product is a
+way to uh to achieve that
+incredible and if you're looking at
+sort of the those early days the
+founding of of front egg what was it
+always sort of this clear vision was it
+always
+this really fundamental understanding of
+how the market is shifting and how
+organizations are shifting
+from
+you know sort of from from the
+infrastructure layer to innovation for
+you sort of the underlying premise of
+frontier was this from the get-go
+so
+we had a theory like uh any
+entrepreneurs right uh together with the
+viad but
+we never claimed that we know the best
+or you know so we went and asked so we
+asked other entrepreneurs what was their
+experience in building their products
+and the interesting thing is that they
+all replied with the same answer so we
+always knew how to make our own core
+innovation
+that's where we're good at
+but it was hard for us when customers
+came and kind of asked for you know to
+make a product out of it
+uh and the productization part was a big
+challenge for everybody and when we
+asked why
+it was because of those things that i
+mentioned earlier because of this
+tension between creating the core and
+creating the great experience that
+customers expect in a sas app so
+they just answered and then we started
+and we started with uh
+mapping what are those challenges in
+building a platform building a product
+and uh and we started actually to
+develop small parts of it small
+components and see how the market reacts
+to those components and then
+focusing on the um the components
+basically that got the best feedback the
+best traction uh and i think that this
+was kind of the the strategy some would
+say that uh it's a
+you know an anti-startup uh strategy but
+uh but i think that that's the only way
+uh when you have a very broad vision to
+kind of uh you know start broad and then
+focus and then from that point you can
+actually extend it um and and for us it
+works so uh you know i think uh
+i would definitely recommend uh an
+approach like that for uh for other
+entrepreneurs when it's applicable
+obviously
+and and so i think you're you're working
+today with more than
+150 different um
+b2b co
+customers and so obviously now
+i guess you don't get to write much code
+these days
+how was that shift from
+sort of engineer programmer to
+strategist leader not just an internal
+leader but but an external leader as
+well how how did that shift play out for
+you
+in my previous organization in
+checkpoint i managed the team of 60 70
+developers product people qa
+support and um
+and it was great and they asked me okay
+what do you want to do next you want to
+be a cto you want to be a ceo and i said
+it really depends
+on what's the product right so
+interesting but you know
+going to a cyber industry for example
+i wouldn't be able to be a ceo there i
+can probably uh
+be a cto in such a company or a vp of
+engineering and something around that
+but i think that uh what
+makes me
+be a good
+ceo in this business is that you know it
+i just speak from my heart and so it's
+something that i've been dealing with
+since i was a kid basically um so i'm
+building something that i really
+uh understand and uh and can talk to a
+customer on the same level and i think
+that this is the the most important
+thing at the end of the day i could
+probably pull off um
+being a cto in the other company but now
+i have a viad here which is uh great and
+i can never be as good as him in this
+business i love and how many people are
+you now at front egg
+so we are more than 50 people right now
+and uh growing so so not far from from
+the size of team that you manage the
+checkpoint so obviously you know the
+trivial question to be asked is you know
+what's different you were managing 60 70
+people it sounded like you were managing
+multidisciplinary verticals and and same
+goes now how how is it different that
+this is your startup and i'm sure that
+many many people who manage quite a few
+teams
+in different companies they're asking
+themselves okay i wonder how it would be
+if this if i were to start a company and
+be in that same position
+yeah so i think that checkpoint was a
+great school um and uh and it really
+enables people to uh to innovate you can
+just look at how many great
+entrepreneurs sure came from uh this
+company uh so you have a lot of freedom
+to uh to create um
+the difference is
+uh you have
+basically almost no one to uh to rely on
+so at the end of the day you're calling
+the shots and uh
+and that's the different thing uh you
+can consult with people right but at the
+end of the day you need to make uh the
+decisions uh that's
+i think a big leap uh
+obviously dealing with customers
+um all the time dealing with investors
+everything that uh you wouldn't
+uh probably do it uh at a bigger company
+or something that is not yours
+so that's uh a big change and i think
+that uh it's it's it's a great one for
+me like
+i love it away from your comfort zone
+and dealing with the uh exciting stuff
+so last question before i let you go
+back to running a crazy company
+what do you love most about what you do
+the the thing you love absolutely most
+the thing you wake up for
+what would it be
+so
+i'll give you an example uh please this
+weekend
+uh a ceo of a great valley-based uh
+company just approached me on linkedin
+out of nowhere and uh
+and said
+congrats on the funding i love the
+product that you're uh building
+and uh we started to chat
+and uh he said we signed up and uh
+invited three more members immediately
+into the account it was an engineering
+guy and the product guy and you know
+it's a company of i think around 40
+employees and he said
+it just ticked every box uh that we
+needed and we already completed the
+first integration and to hear that from
+somebody that understands product and um
+and here that we've been able even in a
+few days to accelerate a process for him
+and now we can innovate faster uh
+through our product that's just amazing
+so i think that at the end of the day
+we're doing that for uh for our
+customers uh we're enabling that's
+awesome yeah the acceleration of
+innovation for them so when you hear
+that you succeed in that there's no
+feeling that's better than that
+phenomenal siggy thank you very very
+much
+best of luck with uh front egg obviously
+i'm i'm
+i'm i i'm biased but uh but i but i can
+definitely say it's an inspiring journey
+and i think that those you know those
+moments where somebody who understands
+what's happening understands product
+understands consumers
+comes and says listen we generally love
+your product i think that's really what
+every entrepreneur hopes and aims for so
+again best of luck with fronting and
+thank you very very much
+thanks michael
+[Music]

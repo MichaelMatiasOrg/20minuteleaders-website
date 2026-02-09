@@ -1,0 +1,548 @@
+I started
+um my life as an engineer actually when
+I was 13.
+um building uh different things in
+electronics I was fascinated by it
+building you know different gadgets and
+actually trying to sell them welcome to
+20 minute leaders just sit back relax
+and learn from the leaders of today it's
+a journey each one is different unique
+inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside FM Fusion VC Birthright Excel
+J impact leap Google for startups and
+hippo and in media partnership with ctec
+welcome to 20 minute leaders this
+episode is very special on deep
+technology in a very very cool startup
+please meet raviv melamed prior to
+founding via rovivo's vice president of
+the Intel Architectural Group and
+general manager of Intel's worldwide
+Mobile Wireless group
+he joined Intel in 2004 as part of
+Intel's acquisition of envara a fabulous
+Semiconductor Company based in Israel
+where he served as vice president of r d
+prior to this he held several roles in
+the Israel Defense Force in the field of
+large-scale radar and communication
+projects raviv holds a BSC and an MSC in
+electrical engineering from Ben-Gurion
+University Israel
+[Music]
+welcome to 20 minute leaders thank you
+so much for joining me how are you
+good all good thank you thank you well
+thank you very much for joining me it's
+it's 10 p.m in nestsion where you're
+calling from and I very much appreciate
+your time and I even more than that
+appreciate the the amazing work that
+that you're doing with fire and 4D radar
+Imaging and you can only imagine or
+start to imagine the different
+implications this can have on on our
+world and our day-to-day and the ripple
+effect of this in the industry but your
+journey started long before that it
+started joining joining Intel for an
+acquisition where you were VPR indeed
+your previous startup tell me a little
+bit about yourself review how do you
+sort of look at your own path and
+entrepreneur or what time who are you
+where am I it's a it's a
+short question and a long answer but I
+still need to find out so what can can
+tell you that yet but um I started my
+life as an engineer actually when I was
+13.
+um building uh different things in
+electronics I was fascinated by it
+building you know different gadgets and
+actually trying to sell them uh
+different kits back then it was uh you
+know you could actually build things
+with your ads it wasn't like chips and
+things like that so that's kind of
+started the whole thing and then in the
+Army
+um I was doing more complex systems
+um then went to a startup and then uh
+startup that was acquired by Intel and
+then developed myself in Intel to become
+VP and GM of the wireless group there
+and then another startup called by our
+and and just I think a month ago you you
+announced that via achieved unicorn
+status with over 100 million dollars in
+fresh funding looking at 40 weight or
+Imaging but but looking back for a
+second we we had a short conversation uh
+just recently about your work within
+Intel it was really interesting to hear
+how you came in to an underperforming
+product or or vertical within Intel and
+and managed to to through leadership
+turn things around tell me a little bit
+about what happened there and what what
+you learn from that experience going
+into via
+yeah so I think in Intel I've learned a
+lot
+especially about how big organization
+work
+and what happens to an organization
+you know at the later stage of it of its
+life and let's call it
+um how you kind of form a way of
+thinking and how bureaucracy and not
+really understanding the values
+um creates you know a huge
+um gorilla that can't really move fast
+uh and basically missing things
+sometimes right so obviously Intel is a
+great company they do great things
+um but a lot of it is based on the
+inertia and trying to go into new
+markets that requires different sets of
+capabilities I would say and you know
+the ability to give freedom to people uh
+to go and operate but not just try it
+but really take it all the way uh
+through and not just throwing money on
+it just really
+um taking a real risk right so I think
+that's something that you've learned in
+your years as a as a corporate
+um what my teammate and I did is
+basically doing everything differently
+uh compared to what was done before
+um you know not really you know not
+doing things on little fast moving
+outside the retail to tsmc for example
+or changing cost structures things like
+that so there are a lot of things that
+I've done over there but I really
+thankful for anything to allow me to do
+that obviously it was beneficial for me
+to do but uh yeah that's kind of what I
+learned there
+and uh and then you I think you're being
+very very humble with uh with the
+different things that you've done over
+there but but we'll leave that to
+another conversation because I want to
+focus on on fire take me back 11 years
+ago you're after six years of being at
+Intel you're advice you're leaving as
+vice president you're about to embark on
+a New Journey at the Deep Tech space 4D
+Raider imagery what is what is the
+problem that you're observing in the
+world and and and where are you at with
+this problem
+yeah so so I think you know once I
+decided to leave until
+um I started to think about what's
+what's the next thing that I want to do
+um and I started to look at the market
+and uh for me there were like three
+routes one continuing with communication
+which I did for many many years and I
+really didn't find it interesting the
+second one back then Homeland Security
+was uh was a big thing
+um I did that for part of it in the Army
+so again wasn't interesting
+um and the market that was interesting
+for me was was the medical Market
+because that was something that they
+didn't do before and I thought that I'll
+be able to do good things
+um you know my knowledge Etc
+uh and it was really kind of intriguing
+to to go to that path so
+we started like thinking about that
+right and um I wanted to
+see if I can do something else something
+new
+um one of the things I learned over time
+is that uh that's not my enemy other
+people said that it's going to want to
+really create innovation in certain
+markets the interesting thing is that
+you can bring Technologies from a
+different Market
+to that market that suddenly good things
+happen that's uh kind of what happened
+over here
+so one of the things that that was
+asking myself
+is why can't I use very quick kind of
+frequencies to look into the human body
+um and that was based on something that
+they did in the past in the army that
+took into Worlds with the radio waves
+um and
+um I started to kind of check if that
+can be done what people did in the past
+which is very important
+um and I found out that they all got to
+the same kind of uh
+issue which was the cost of systems and
+because radio waves were extremely
+expensive to uh to do
+and I think like every new thing it's
+kind of uh everything kind of Falls the
+same time to the right basis the
+technology is there you know the idea is
+there
+and at that time my mobile
+radar basically it just kind of really
+started I mean people started to write
+more articles so that was one thing mimo
+Radars are multiple channels uh that you
+need in order to get better resolution
+um so my more radar was just at the
+beginning of it and then silicon was
+just starting to become very cheap for
+RF so what I did in Intel for example
+was mimo basically for wireless right
+so when I looked at all those articles
+and look at what people did in the past
+I said hey you know if you use silicon
+if you you come with silicon Concepts to
+this problem
+and then you can actually create Imaging
+yeah and that was the moment I I was
+like okay we have something here now
+let's see what we can do with it which
+Market is the right Market Etc and
+breast cancer Imaging was the right
+Market
+uh for that to start with by the way
+that we've just set the just to set the
+the picture here you're sitting and
+you're looking at this technology
+emerging you're looking at the market
+you understand that there's a time a
+timing you understand that there's
+knowledge that you have a team of great
+people that you conform to this when
+you're Imagining the world with your
+with this technology with the new
+devices what opportunities does it allow
+for the world in general with better
+Imaging and and better use of these
+radio waves well what what can we do
+potentially why is this interesting
+yeah so so when we started and started
+with uh you know with breast cancer
+Imaging but we we quickly understood
+that the same sensor can be used to
+multiple markets that's what we do today
+there's a whole philosophy why we're
+doing it this way but we're not gonna
+talk about it right now so when you look
+at basically 4D Imaging call it 4D
+because the fourth dimension is you know
+movement speed
+um but
+um the moment you have a sensor that can
+see through things
+with high resolution
+that can see in every environmental
+condition
+and it's very low cost then there's
+multiple applications right it's
+basically kind of having a Superman
+Vision at low cost right that's that's
+kind of it once you have super
+motivation you get the magic but you can
+do it right whatever you do with Optical
+there's multiple applications that you
+can use it for looking inside walls look
+inside human body tracking people
+tracking uh objects Etc so that opens up
+a whole new set of applications uh in
+the new modalities so that was the idea
+that's how we started uh and that's the
+first slide we showed to our investors
+like using One sensor to multiple
+markets
+so so when you start with breast cancer
+and what happens
+so we started with breast cancer and
+actually we started in parallel with the
+two or three applications
+um and we pitched four applications
+fifth uh because we knew that each one
+of them will take time and it's not that
+easy picked medical
+uh so when the student we need to run in
+parallel which was very unusual at that
+time today people are more kind of
+bolted to it but back then people
+explained to us that we need to focus
+and all of that stuff which is true to
+many other things but not specifically
+to sensors
+um and we started paralleling here one
+Imaging
+um testing
+breast cancer Imaging and also a Imaging
+in the in mass production of food okay
+to detect from family that things like
+interesting so I think we're done on
+four different applications that we're
+running in parallel and since then we
+added several more applications like
+Automotive Elderly Care etc etc now in
+the beginning of this conversation you
+mentioned that one of the things that
+you took with you from sort of corporate
+world was this idea of autonomy and and
+really supporting vertical new verticals
+or new domains within an organization
+even and it's beyond just the money the
+actual support and seeing it through end
+to end is that is that sort of what
+we're seeing here with you mentioned
+that we're doing things simultaneously
+and how do you as a CEO what do you
+actively do to make that a reality
+within your organization
+yeah so so first of all it starts with
+the structure
+of the organization
+so if you look at typical organizations
+uh you have CTO organizations but you
+what you find out over time is that the
+city or organization you know dealing
+with things like you know 10 years from
+now 15 years from now and then you got
+the bu's they leave the day-to-day they
+need to deliver they need to solve the
+problems today not
+in 10 years and there's always a gap
+between these ones and nothing that is
+the CEO comes but not nothing but a lot
+of the things that CTO do
+when they come to The Bu The View is
+like no no you're like totally not
+related to our architecture you're not
+related to the way we do things you're
+not related to the market which is the
+biggest problem usually uh Etc so what
+we've created is an organization that is
+self-funded
+that can bring
+a Innovation but that Innovation is
+Market driven Innovation it's not
+something that you know this we're not
+research we're we're trying to solve the
+next problems right and this is like
+think about it as a filter if BD comes
+with the market since that's the market
+then come and talk to the customers and
+we're doing proof of Concepts
+in that organization so they're kind of
+cleaning up the stuff that doesn't work
+and leaving the ones that that work and
+there is a customer in the market okay
+and once that happens then we know we're
+kind of vetting this then we know moving
+it into the r d stage
+um and then developing that new market
+right so it's always Market driven
+decisions
+um and it's moving very very fast and we
+fail fast okay and that's super
+important because those pocs allow us to
+you know do something doesn't work throw
+it away you know we don't invest too
+much time and effort in it it's not a
+big deal until you find the right you
+know thing that you need to really focus
+because you have a tool for the market
+to do the technology just like a startup
+and you uh make it bigger and that's
+kind of the the mindset by the way this
+is exactly how Automotive started in VR
+exactly how Elderly Care started to
+player
+um through that process
+and generally are those verticals
+entering bottom up top down who's coming
+with who's sort of the champion of these
+new verticals that are coming into VR
+and and emerging because I'm guessing
+that for every success there must have
+been a few failures so you've tested a
+lot
+yeah I mean there's there's several
+failures but uh the way it's done it's
+uh done in uh it can be bottom-up or top
+down it doesn't really matter at the end
+of the day so this morning you guys sent
+me one of our employees and we have a
+new idea for the for by Arcade we can we
+talk I said sure 30 minutes let's hear
+his idea and
+the first step of this idea is to go and
+check check it out in the market right
+so the BD guys will go and check it see
+if there's something about it if there
+is a customer is paying for a POC that
+will go to the next step and if the
+customer will pay for a project that's
+probably gonna go to the end of the of
+the road so so that's how we do it so it
+doesn't matter who brings that here at
+the end of the day it's a good idea it
+will survive
+I love it tell me a little bit about you
+know who what what are different
+interesting use cases for Via in the
+real world right for for non non-deep
+tax that don't necessarily understand
+the technology here what what how is vir
+positioned to change the way that we as
+humans interact with the world around us
+we mentioned you know breast cancer
+Automotive elderly care but but what
+arguably how is how are things changing
+so just let's take Elderly Care as an
+example is that okay of course I that's
+I I love that yeah
+so Elderly Care is a simple example
+where today there's so many old people
+in their homes
+and you have no question right so
+there's a very interesting psychological
+element here which uh it's interesting
+to talk about like for example you have
+parents probably how old are they
+right and if anything that your parents
+we live forever right of course they
+will that's how your money exactly and
+your parents are will always be healthy
+and all of that stuff and actually your
+brain refused refused to understand the
+fact that they're actually getting older
+getting weaker Etc so that's one fact
+the second part is they always look at
+you as their as their son and they don't
+want you to know what's going on with
+them right
+so actually the certain age 75 78 80
+they're starting to fall but you don't
+know about it because they're not going
+to tell you and you don't even start to
+think that they're falling okay
+and then comes the Big Four
+okay the big four is a folder they
+cannot hide it
+okay and then that thing suddenly
+switches right then you start to really
+really work be worried about them and
+they're like no no it's okay and you
+need to find some kind of balance where
+you know that they are okay but you
+still keep their dignity you still keep
+their you know their respects to them
+and all of that now you're not gonna put
+cameras in your parents bathroom or
+bathroom right but you will put a sensor
+that keeps their privacy but monitor
+them in a way that if there is a fall
+you will know about it right you already
+or they know about each other right but
+someone knows
+so that's the first step the second step
+is even more interesting
+so the Second Step talks about
+preventive medicine and preventive
+medicine means that you track a person
+over time and compare data now there's
+no single sensor today that can do that
+in their home so when you think about it
+talk about all people they're in a home
+all the time so if you had a sensor that
+keeps privacy for one here
+that's me right but I still get the data
+and I can analyze and alert
+then a super important two examples I
+give you one an elderly care facility
+that we are tracking
+um a person we found out that is sitting
+on the sofa more and more time right and
+the the
+the medical team was alerted they
+checked the guy and they found out that
+he has heart issues
+wow so basically that's classical
+preventive place right another case was
+with the woman that lost her husband
+and they found out that the device
+basically alerted them that that lady is
+staying in bed longer and longer
+basically she was kind of getting into
+depression again send the medical team
+she was getting into depression and
+obviously they took care of her so when
+you started to look at these issues
+there's tons of them right for example
+there's a clear correlation of
+deterioration of your health but we kind
+of in correlation with how many times
+you go to to the toilet at night
+so you don't know anything about your
+dad but when you suddenly see that
+suddenly he's going to the toilet more
+and more at night that's a clear
+indication there is something there so
+he better get checked now right so there
+is a very interesting bonus he wouldn't
+even know that he wouldn't even track it
+he wouldn't write it be aware of it
+right and that's gonna change people's
+lives dramatically right so love how we
+start the conversation
+talking about wireless communication to
+breast cancer to a little bit about you
+know the the technological piece of it
+but then we're going all the way back to
+human the human computer interaction and
+it's not just you know breast cancer and
+um Imaging but we're actually talking
+about behavioral Imaging and being able
+to to sense things that you know if we
+are just able to to observe them in in a
+sort of an unobserved world today they
+can have some
+direct implications that you know it
+would ask me you know how it's predicts
+what are the different behaviors that a
+person may have that indicate this some
+specific issue hey I think that's a
+that's fascinating I love you thank you
+so much for for spending this time with
+me and this it's it's it's inspiring
+what you're doing with vir I think that
+the structure of allowing for ideas to
+to be to to rise and to innovate all the
+way to the end of the cycle where they
+are full full-blown verticals within via
+is awesome congratulations again on the
+wonderful news and thank you very very
+much
+thank you and keep doing the great job
+you're doing thank you thank you

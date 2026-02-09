@@ -1,0 +1,527 @@
+you know as loud zoo mentioned one day
+he said
+that those who have knowledge don't
+predict
+and those who predict don't have
+knowledge
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with
+c-tech
+welcome to another episode of 20 minute
+leaders i'm joined today by dmitry
+gezerski
+cto and founder of click-ins ltd dimitri
+is a software architect and technology
+consultant with a proven record of
+building military-grade intelligence
+systems
+as the co-founder and cto of click-ins
+he has two patents spending on his field
+of research includes ontology
+domain-driven design graph technologies
+link analysis computer vision and
+artificial intelligence
+dema has created companies and worked
+with a wide range of customers from
+startup companies to government
+organizations
+he holds a bsc degree in economics and
+information systems
+engineering from the technolon institute
+of technology
+welcome to 20 minute leaders thank you
+so much for being with me how are you
+i'm fine thank you for having me are you
+calling from the offices right now
+yes yes we are ah i love postcovid
+and it's it's amazing and today i get to
+talk about
+visual intelligence and i get to talk
+about artificial intelligence is
+something that is very dear to my heart
+but i'm also excited to pick your brain
+on
+on the way this the implications that
+your technology is going to have on
+society
+and the way that you're approaching it
+and a little bit about your upbringing
+all the way from the tiffany on
+an engineer by trade and now
+running this amazing company so diva
+give me a short run down
+who you are before we get to the the
+amazing technology you're working on
+yeah as you pointed out i graduated from
+technion in 1999
+then i had six years serving in military
+and after that i was a software solution
+architect for multiple companies
+startups governments
+had a lot of background in military
+intelligence and
+architecting and implementing
+intelligent systems
+and i run professional services company
+consulting so with this knowledge i come
+to clickings and
+actually partnered with eugene ceo
+who comes from insurance industry so i'm
+bringing my background to solve the
+complex problems using their
+expertise here now tell me a little bit
+then about about clicking so your your
+co-founder eugene is coming from the
+insurance industry you're calling
+military intelligence you know very
+heavy duty engineering
+uh very you know very professional
+fields what do you guys decide to do
+together within click-ins and how do you
+decide to leverage deep technology
+to do something really interesting the
+click-ins was founded
+in 2014
+with with the goal to tackle insurance
+fraud
+so we addressed insurance fraud as a
+as much as terrorist activity and uh wow
+yeah so the fraudsters in in my mind are
+terrorists and they
+we address them exactly as those so we
+built
+we started building the platform for for
+insurance fraud prevention
+by employing the principles from a
+military-grade intelligence
+uh these principles actually are the
+fundamental things that we
+are using in click-ins and with the time
+we focused on
+on the vertical of automotive so we
+started working with the
+fleet managements and the dealerships
+and insurance companies so today we work
+operate in different
+verticals we do visual intelligence
+for those verticals automatic vehicle
+inspections
+by using images only images
+and now yeah i i have to
+zoom out a little bit for context uh
+when you're talking about fraud
+and you're you know saying you know you
+you have a you have a very
+unique perspective on on how to treat
+fraud and you know most of us in our
+daily life
+you know we don't experience that fraud
+right
+unless you're working in insurance
+unless you're you're you're actively
+observing it tell me a little bit about
+what
+what is actually happening around the
+world what is the scale of this problem
+uh i would the scale of this problem is
+enormous it's
+trillions of dollars that insurance
+companies and other companies
+lose to fraudsters and but i would
+rather maybe focus on on the
+uh on the domain that we are currently
+working operating in it's
+automated automotive industry so this
+is uh we are working in a in a
+ai playground where companies that we
+compete with they
+they are calling themselves ai companies
+so they use ai first approach
+and we are i think clicking is standing
+out of this competition
+because of uh uh really it's it's
+understanding of visual intelligence
+companies that call call themselves
+visual intelligence companies use it as
+a buzzword
+we really mean this because we come from
+this background
+so a visual inspection visual
+intelligence actually the way to
+make ai more accurate
+and um ai has
+limitations okay so there is
+actually i would say maybe a
+controversial thing but there is no such
+thing as
+artificial intelligence uh sometimes
+it's confused
+with machine learning deep learning
+and even basic things like automation
+okay so in order to gain
+intelligence or call the system
+artificial intelligence system
+the computer must think and act as
+humans
+and they act and think rationally
+and this thing is not achieved yet so
+the ai systems
+vary and they depend on the training
+they have
+very very few limitations like
+accuracy of those systems compromised
+and the
+security and the privacy is compromised
+there is a huge bias in ai systems
+as you know there was recently a hype
+around this
+in insurtech industry about the
+bias in in ai so in order to
+so to overcome these limitations uh we
+use the
+intelligence principles so uh
+you know as lao zoo mentioned one day he
+said that
+those who have knowledge don't predict
+and those who predict
+don't have knowledge so what we do we
+bring knowledge
+to our domain we don't rely on
+ai or on deep learning things only on
+deep learning results
+actually we check and double check the
+results of ai
+and validate with them with using
+a very strict and accurate precise
+engineering disciplines
+like photogrammetry remote sensing god
+and
+so on and so forth now tell me a little
+bit about the actual
+user experience of this so you know how
+does
+your technology click in with visual
+intelligence how does that actually
+then get translated to a changing of
+consumer behavior
+whether it's from the fleet management
+services from in the insurance
+perspective from the
+from the end customer's perspective who
+are filing the claim
+yeah the process is very seamless some
+of our competitors
+work with the video do very complicated
+stuff using
+hardware special equipment we actually
+ported
+remote sensing industry that uses
+sliders and uses very heavy equipment
+we ported it to a regular smartphone so
+we don't rely on any hardware
+we get an image from any source any
+image made by digital camera
+or a smartphone device and
+we gain the intelligence from the image
+so we build information extract multiple
+pieces out of this and build a puzzle
+and make the let's say the intelligence
+picture
+of what we see so
+our detection is then backed by cad
+system
+so we don't only rely on ai that let's
+say this
+car has a dent on it okay
+we have an ontology of the car that uh
+running through multiple rules and
+reasoners
+we can eliminate multiple false
+positives and we can
+eliminate a let's say
+non-logical results okay so
+so the every time the vehicle changes
+exchanges hands
+in everywhere everywhere like in fleet
+management in insurance
+our technology will be there to capture
+the state of the vehicle
+and to produce a condition report of the
+vehicle
+and compare it to any other state this
+is something that a
+very few companies can do compare the
+situation the state of the vehicle
+between different stages
+only based on images and our patent
+pending technology
+actually is creating a unique signature
+of the damage
+we call it a damage print it's inspired
+by criminology
+you can see the background all the time
+and
+this is a damage print this is like a
+fingerprint of the damage
+regardless of the location camera and
+light conditions
+the same damage will be detected exactly
+as
+it is okay and we can say okay if
+someone tried to
+to defraud insurance company for
+instance and they
+takes the broken door and mounts it on a
+new vehicle
+and takes a picture we will catch him
+there
+okay because this damage print has
+already been seen before
+so this now obviously this is hugely
+relevant across
+you know a variety of industries not
+just the automotive uh
+where is this headed so where where do
+you see this technology being
+implemented in our life
+across different industries this
+technology will be implemented not only
+in the
+automotive industry which is the
+overwhelming in the the market is the
+huge
+and the actually decoded made it even
+more relevant
+our technology because people don't do
+not want to have a contact with the
+adjuster with the you know with the uh
+going to repair shop they want to take a
+picture and
+get a quote and this will this
+technology will be
+implemented across industries and
+property it will be implemented in
+construction
+because say our unique
+unique technology allows us to actually
+connect
+between ai world 3d
+and cad so we can measure things based
+on
+single image and let's say calculate the
+length of a dent
+or area of the dent or length of a
+scratch
+even if it's a smallest scratch on the
+ferrari car we can do this
+we can measure it okay and this is a
+pretty
+much unique because before you had to
+use
+special equipment very expensive one
+okay and today you can do it with a
+click of a phone
+and the next thing it will be
+assessment on the property before you
+buy it or before you insure it
+you name it we have a lot of
+implementations of our technology in hls
+industry
+so we works with government entities
+that trust in us and our technology was
+chosen
+as the best one today to
+tackle special problems of them
+i think that it's uh you know i can
+still remember
+up until now every time i go and rent a
+car i have to take papers and somebody
+comes with me and i have on the paper
+they mark the the scratches and the
+dents and i'm looking at it and i have
+no idea how to read this thing
+and i have no idea how you know if
+somebody makes a claim
+there's no information here to to be and
+to have any substance it's
+you know some one one's word against the
+others and so
+you know obviously you're touching here
+not just on you know replacing
+a manual behavior but you're actually
+talking about augmenting it
+in a really meaningful way that that the
+human eye sometimes just can't
+and we can't take one dent and compare
+it to the other
+and and and it sounds like what you're
+then you know abstracting and you're
+saying well this is not just relevant
+for automotive this is relevant for
+anything
+where you want to determine the state of
+it whether it's comparison across
+time or even just looking and then
+knowing from previous experiences
+what this damage looks like whether it's
+estimating or for feedback i think
+that's incredible
+exactly we can we can mimic the
+perception of a human
+and we can detect things much better
+than a human can
+but the computer is not tired you know
+it's not
+the human make mistakes and these
+mistakes
+because uh a lot of money to
+to car rentals and car sharing and
+although the computer can predict things
+in the right way
+but that of course they say
+you are right this is this the potential
+of this technology
+is is great and we were approached by
+multiple
+players in different industries
+but as a startup you must be focused on
+your core domain
+and as such we are very much focused
+currently on this vertical
+okay amazing and now give me a few stats
+about the company so when did you start
+what is the what is the status of it
+today how many people are you with today
+the company
+hires about 30 employees we have a
+team of data scientists we have a team
+of r
+d team and we have a 3d team which is
+very unique and special
+and we work with
+[Music]
+the team is distributed in multiple
+companies
+we also hire people in the in the
+palestine palestinians
+okay
+we hire them we work with uh like with
+this in the synergy with them and
+we like their work and they think we are
+very satisfied so they
+they are and the uh
+we have submitted two patents of patent
+applications
+and the more to come i have some more
+ideas
+and yeah the companies uh as strategic
+investors and
+partners design partners like industry
+leaders like floma6
+and the avis they are all both
+customers and investors in the company
+so the the
+company is now i think in a
+very good place on the on this landscape
+i love it and they might think that you
+know we're just starting to
+to to talk and we talked on a few
+different things whether it's
+you know the artificial intelligence
+it's role today whether it's a
+being used as a buzzword being used as
+an actual technology as an augmentation
+of today's knowledge and the difference
+between prediction and knowledge
+all the way to uh to click ins and how
+we're talking about the fraud industry
+automotive but then
+to real estate and property and this
+whole idea of standardization
+and actually being able to leverage the
+technology and core mathematics to be
+able to
+to do things that the human eye simply
+shouldn't and
+ultimately you know making things just
+much more standardized and fair
+and especially when we talk you know
+fraud
+i have a few questions for you dima
+about who you are less about
+visual intelligence less about click-ins
+and i want to take you back to
+middle school or high school what was
+you know what fascinated you as a kid
+what was one of your favorite subjects
+playing guitar definitely playing guitar
+yeah i played it i had a rock group so i
+played in a rug group
+i was a guitarist and i also played
+drums and
+when i was a kid before school i played
+chess and
+i was a first runner up in in
+in ukraine in chess when i was a kid
+whoa yeah but that is so cool
+by then i revealed the world of music
+and guitar and
+actually was fascinated by this so until
+now this is my
+passion music wow and who would be a
+role model of yours throughout your
+career personally or professionally
+somebody that really inspires you
+i mean professionally i'm inspired by
+eric evans who is one of the biggest
+architects
+was a domain driven design and
+architect and his book is the
+best seller in in this area so i learned
+a lot
+and martin folder all these guys are
+just played a fundamental role in the
+architecture and software architecture
+wow
+[Music]
+very very cool and three words that you
+would use to describe yourself
+i'm i would say i'm a technology
+enthusiast
+uh solution architect
+that's it i love it i bring the right
+technology to the problem
+that's and that's the real magic here
+dima toda
+thank you very very much this was
+wonderful and i can't wait to see what
+this technology is going to do to
+society
+and obviously you know fraud is
+important uh rental car insurance a
+automotive real estate but but i have a
+feeling that what you're touching on
+here this
+the question of leveraging visual
+intelligence to be able to augment and
+standardize
+a lot of the things that today are just
+subjective because we don't have better
+tools of measuring simply because we're
+human
+that's going to make a big difference
+stay safe and stay healthy thank you
+thank you for having me
+of course thank you

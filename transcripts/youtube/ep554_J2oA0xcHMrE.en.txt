@@ -1,0 +1,528 @@
+it's like you integrating with the emr
+systems of the hospital to receive all
+the information about patients and
+sometimes you would like to do some
+changes to receive additional
+information or maybe to filter out
+information or to have some
+clarification of the information because
+it's not very formatted data not very
+clear data and it's difficult because
+not it's like not in the high-tech world
+that you can have like immediate
+response
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillary stanford leap
+and birthright excel
+welcome to 20 minute leaders today we're
+going to be talking about the us health
+care system meet dina fein the vice
+president of r d of taylormade a
+comprehensive software solution with a
+mission to help patients and healthcare
+providers tackle the financial
+challenges of care delivery prior to
+telemedicine she was vice president of r
+d data collection and b2c it's similar
+web she brings almost 20 years of
+experience in building high performance
+scalable and robust systems
+she's passionate about leading high
+paced r d departments setting up solid
+and effective development life cycles
+with a focus on technological excellence
+and high standards
+dina fine welcome to 20 minute leaders
+vice president of r d at taylormade how
+are you
+i'm fine thank you michael thank you for
+having me
+thank you for joining me we'll dive
+right into a really complicated
+cumbersome but fascinating subject the
+u.s healthcare system
+really a complicated monster that you
+know technology in the recent years is
+is helping transform through startups
+like taylormed and i have quite a few
+friends that are working in telemedicine
+so i know that i'm in good company right
+now and so i'd love to hear from you a
+little bit about your your understanding
+of first what is the complexity that you
+know that we're aware of in the u.s
+healthcare system but then specifically
+we'll dive into how taylormed is helping
+to fix some of those issues over there
+yeah
+so i was actually um very unaware and
+during my life about the complexity of
+u.s health care i mean of course you
+know from the movies that you watch
+that there's a problem within challenges
+and breaking bad rights he has the bills
+he doesn't know how to pay for it
+but it's actually so broken from the
+from the root like the root system of
+supporting people when they are in a
+health scale problem it's just amazing
+you know last year
+my father was a diagnosed with a brain
+cancer
+and i was just you know thinking the
+whole family we had all the stress of
+researching about the disease and what
+to do and hospitals and treatments
+and
+putting on above this complex situation
+in the family also the concern for
+financial
+payment like how do you pay for this
+treatment or should you choose between
+living
+and
+maybe breaking your financial stability
+of your family and leaving them without
+the home or
+choosing the treatment it's awful it's
+awful this is one of the reasons that i
+joined element from the first place
+wow so a what we do here in telemed we
+develop a software solution sas
+for health providers to help the
+patients to find the financial
+assistance for their treatments for the
+drugs they
+should they cover on their own
+and what is interesting in here that no
+one
+usually when he started the treatment in
+the united states actually knows
+what will be his um
+it's called out of pocket it means what
+is the patient himself will need to pay
+and not his insurance okay it's very
+unpredictable you don't know okay you
+get to the hospital you start getting
+some treatment you never know what will
+be the final the final
+a amount of money you should personally
+pay okay now i i want to just dwell on
+dwell on this point for just a second
+because you know to the to the average
+consumer listening to this this is
+ridiculous obviously you know we're
+going to be talking about thousands or
+tens of thousands of dollars what is the
+problem with simply knowing how much am
+i going to pay for the treatment
+why why is there this inefficiency and
+by the way as a us you know citizen
+myself having gone through this process
+i too know how i didn't know how much
+i'm going to be paying for whatever
+treatments i got it's horrible
+well because in every insurance and you
+don't have some very clear format
+and some standard that everyone is using
+there is a lot of a little
+eff
+yes the letters and you don't really
+know and also it's really complex it's
+like some are covering just in
+particular drugs and not in other drugs
+and some covering doctors only in this
+network and not in another network so if
+you come to the hospital which supposed
+to be in the network but all of a sudden
+the doctor that treated you is not in
+the network then you get a huge bill to
+pay even that you didn't know he's out
+of the network but your insurance will
+just not cover it okay so it's very
+complex this is just an example on on
+how complex it is okay but the insurance
+plan is very very complex and if you
+take like an average american on the
+street he will not know
+what his insurance really covers and
+what not all right so we know that
+there's fragmentation we know that
+there's lack of transparency there's
+fine print there's a lot of confusion
+lots of different formats which leads to
+consumers not knowing how much they're
+going to be spending when we're talking
+about you know life-changing amounts
+right so where do you fit into all of
+this
+problem um
+so when the patient comes to the
+hospital for example
+and he's starting to
+get some advice also from doctors and he
+has his diagnosis and now he has the
+treatment
+and we calculate um trying to predict
+his out of pocket
+expenses and based on that we can flag
+flag out a patients on high risk that we
+need to help them in first priority okay
+and then the hospital
+employers
+will attend this patient on first
+priority uh
+using our system okay so we also giving
+a length in this high risk patient
+and we're also building a plan how we
+can help this patient
+okay so so so and that's solving an
+additional problem correct
+um
+yes you are when you know that someone
+has out i mean if you don't have a very
+high out of pocket you probably don't
+need our help right you will handle on
+your own because you have insurance and
+different
+other solutions but once a patient have
+a very high out of pocket he needs help
+so what we do now in united states
+apparently there is like thousands
+thousands tens of thousands of different
+assistant programs all over the place
+and no one single place that you can
+access this information and to
+understand
+uh what is the system program you are
+eligible for
+and what is not so
+um there is as i said there is a lot a
+lot a lot of different assistance
+programs in the united states and no
+single place
+to find all of it so what we're doing
+telemet in addition to the prediction of
+out of pocket and different suggestions
+uh for the patient you're going and
+searching
+um the internet different sites a
+pharmacist
+um government plans federal plans uh
+private funds
+um and we have all of this like a
+programs in hand okay due to this
+activity
+and then automatically
+we
+search for every patient in the system
+research what are the system programs
+that he is eligible for and there are
+very different criteria for this a
+assistant program sometimes it's income
+what is your insurance type
+where you live
+and what disease you have and what
+treatment you should get and we do it
+all in automatic way
+and
+also in addition these assistant
+programs they are very
+dynamic it means that one day you have a
+funding for some assistance program but
+a lot of people already applied and it's
+finished so now it's closed and we need
+to wait till this system program will be
+opened again and once it opened we send
+a lot of notification and a length to
+the hospital say
+so they know that for this particular
+a disease this particular patient the
+fund is open now please apply now for
+them please help them now because maybe
+a half day later it will be too late and
+will be closed okay so it's a very
+dynamic world of assistance programs and
+different kinds that we sell the
+matching between the patients and
+the programs and we can help them like
+real time
+now
+you know obviously one of the most
+complicated parts about this whole
+system is the is is how fragmented the
+supply chain is the different
+stakeholders the different incentives
+so you're you're helping obviously the
+customers the patients
+how does this how do how do the
+different stakeholders react to this and
+where where is taylormad actually living
+in in the whole system is it integrating
+it with the with the hospitals with the
+healthcare providers do the cut do the
+patients come and and and use the the
+software how does it actually work
+yes we integrate with the health
+providers because there is a need that
+there are two needs that we need
+to answer first one and this is our real
+mission as telemed is to help patients
+okay
+but the second one is the very
+a big problem of american hospitals
+because they are private hospitals and
+if they give care and they must give
+care of course that everyone that is
+coming to the hospital they receive
+receive help but if the patient cannot
+pay
+hospital has a problem because he
+provided service which will be unpaid
+and
+it may lead it to loss of revenues and
+even to bankruptcy
+right that makes a lot of sense and so
+tell me a little bit about you know the
+the the life cycle of taylormade and
+what perhaps you learned from working
+with hospitals working with healthcare
+providers because i think that's really
+you know there's a lot of insights to be
+learned from just interacting with such
+complicated organizations
+well yes
+the hospitals say i think that um
+what character the hospital is it's like
+a bit of heavy organizations
+and itc stems and administration on the
+i.t system it's not
+a very easy to move to make changes and
+this is one of our challenges it's like
+you integrating with the emr systems of
+the hospital to receive all the
+information about patients and sometimes
+you would like to do some changes to
+receive additional information or maybe
+to filter out information or to have
+some clarification of the information
+because it's not very formatted data not
+very clear data and it's difficult
+because not it's like not in the
+high-tech world that you can have like
+immediate response sometimes you think
+it can take months
+to move like the integration technical
+project
+but
+from the administration a perspective of
+the hospital itself that's working with
+our system they are very happy that they
+have this opportunity automatically to
+help patients because they are trying to
+help them but it's like manual process
+which is very very slow
+and using our system it can actually
+scale
+the ability to help much more patients
+right you know that makes a lot of sense
+now what what is the
+you know why is this a good time to do
+this so in other words why
+you know what what where is the
+technology coming into play here that
+perhaps a few years ago or more than
+that you know it wasn't this this is
+something that wasn't really able to be
+done
+well i think it's ability to work with a
+lot of data
+and the ability on our perspective the
+ability to work in the cloud to be sas
+organization because if we needed to
+deploy some
+devices or local on-prem
+solutions it's very very hard with
+hospitals and with the organization as i
+described before so bank sas in the
+cloud web application that
+the hospital
+administration can just log in and start
+working on the system it's amazing
+progress that we didn't have like 10
+years ago maybe so easily
+right
+and of course
+such big data it's like we have
+hospitals with
+a
+hundred thousands of patients and we we
+pull all of this data like nightly and
+we process this data and the
+er er producing insights on this data
+like daily this is an amazing progress
+in which technology allows us to do
+right and so as vice president of
+research and development
+how do you go about thinking
+you know the
+how to leverage technology really and r
+d
+to really make
+make the biggest impact here what where
+do you see your role in the strategy
+of taylormed
+um
+well i would like to take this system to
+be much more sophisticated and be
+starting to do so i would like to
+involve much more a machine learning
+artificial intelligence in predicting
+out of pocket and predicting high risk
+patient or even much
+more practical
+problems tactical problems like how do
+you map all of this data from the
+hospital to formatted data because it's
+not like very formatted and this is i
+think this is our direction now to make
+the system much more sophisticated and
+smart
+and so as you're navigating within
+taylormad um and you know you're working
+with the leadership team to
+to work on the strategy and how to then
+continuously work with the different
+stakeholders
+how does the r d fit into the discussion
+about the strategy of where taylormade
+is headed next how much of that is being
+guided
+by r d versus the incentives of the
+stakeholders because here we're talking
+again about a a very special ecosystem
+that is very very complicated regulated
+and and has a lot of different
+incentives
+yes i think that when working with the
+stakeholders i mean especially in
+startups it's usually the matter of
+balance because
+um there is a lot of urgencies when you
+work in startup and a lot of different
+requests from different customers that
+you really would like to keep them happy
+and this is a versus the the long-term
+solution that i just described such as
+how do you invest rest of says in such
+long-term solution like a.i because it
+doesn't have like one month to develop
+this feature you need to invest in it
+and to research and to bring a
+specialist
+and this is this is a bit tricky but i
+think this organization as a leadership
+um
+we all in the leadership team understand
+what is it that we want to achieve the
+next year
+and how we get to it and this is the rnd
+responsibility to push for long term
+solutions and not only solving crisis
+and that makes a lot of sense and uh you
+know obviously that there's a there's a
+llama whether we can talk about whether
+it's the health care system
+or or taylormade specifically or your
+work
+but but i i have a few more questions
+about you dina and i want to get to know
+you a little bit better and i want you
+to take me back to even your childhood
+what really fascinated you as a kid you
+know before perhaps you you were an
+engineer and what really fascinated you
+in your day-to-day
+well first of all i'm originally i was
+born in
+russia siberia
+and it was a very a tough place to grow
+in
+and it's a most of the time it's a
+winter and very cold like minus 35 is
+the average a temperature and they um i
+think that one of the first thing that
+really fascinated me that it's like
+every october we had the fell snow after
+the summer a period
+and um
+the flakes you had this huge flakes of
+snow falling down from the sky and as a
+kid i was really fascinated about it wow
+what was it about the flakes that
+fascinated you
+the structure i just couldn't you know
+it's perfect and you just look at it and
+you
+fascinate how it was created in such a
+beautiful way
+very very cool i love i love that
+fascination and what inspires you today
+as you go about your day-to-day whether
+it's within taylormade or elsewhere
+well in telomere actually it's very easy
+because there is such a huge impact on
+patient lives and we even measure
+ourselves like on daily basis our kpi
+that we like display everywhere in the
+company is the number of patients today
+we got helpful for them okay and it's
+really inspiring you see this number
+like five more 10 more 100 more and it
+gives a huge
+sense of satisfaction
+and so these are clients that you
+actually were able to match
+with
+some with with some
+organizations that can help finance or
+help them know
+it's actually already approved the
+system not only the matching because
+when you once you match you also need to
+enroll the application and to wait you
+know to if there's some process of
+enrollment and approval of the
+application this is like what is
+approved already it means that the
+patient got help
+okay very very cool and so that is that
+is that something that is being
+displayed to all of the employees that
+everybody can see yeah
+we have it on the monitors in the
+company
+very very cool and dina what are three
+words that you would use to describe
+yourself
+well um yeah i'd say it's a tough one
+um i think it's a
+probably am
+strong-minded i'm very curious
+fun
+and blonde i guess
+wonderful dina thank you very very much
+toda thank you for the great work and
+thank you for sharing the time with me
+and this is great stay safe and stay
+healthy
+thank you mike

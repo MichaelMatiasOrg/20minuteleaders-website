@@ -1,0 +1,641 @@
+cyber security has many phases
+and also many faces so you need people
+that
+are willing to read very long
+documentation to understand how things
+work
+and to write some specifications to make
+sure things work as they should
+and take care of all edge cases
+but you also need people that are let's
+say
+maybe less patient and just want to
+receive
+some black box or some product some
+piece of code and just want to tear it
+apart and to play with it
+just like a child and to make it do
+things that it was not supposed to
+be doing welcome to 20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+this one is all about low-level research
+and the beauty of it
+meet urite lanzette lead security
+solutions architect at saimotive
+lolita is originally a low-level
+security researcher from 4-9 center in
+she has been working in sai motive since
+its earlier days as the diskin
+advanced technologies and among her
+roles in the company she served as a
+penetration testing team leader
+she is currently leading new
+opportunities with automotive industry
+clients from europe and the usa
+and supporting the incubation of
+innovative product ideas inside the
+company
+her passions include understanding how
+things work and making them work
+better she likes understanding motives
+and seeing through the outer shell of
+either people animals and businesses lit
+lancet welcome to 20-minute leaders all
+the way from the
+simulative offices i'm guessing by your
+background right
+yeah you're right thank you i'm really
+happy to be here thank you for joining
+me
+we have a lot to talk about we have a
+lot to cover uh you know
+from the the world of the deep world of
+cyber security
+and you know the really what's happening
+there in the day to day and i and i'd
+love to pick your brain and share a
+little bit about what what is the cyber
+security space for you
+you know as a researcher and as an
+engineer
+and also going back a little bit to your
+time you know in the army
+and and the things that obviously you
+you you can share
+you were instructor and perhaps the most
+uh elite and luxurious course for
+computer scientists and researchers
+in the in the israeli defense forces in
+the cyber in the cyber industry
+uh i'm excited to pick your brain on
+that as well being an instructor there
+that that's an amazing experience i can
+only imagine
+but wait walk me through a little bit
+some of the big milestones
+as you see them in your path and then
+and then we'll dig deep into
+some specific areas and we'll have a
+good time
+sure gladly um so i think
+the first milestone um is always your
+childhood
+and how your parents approach you as a
+person
+and your education and what you're
+capable and maybe incapable of doing
+and for me this was a very big thing
+because
+i always felt that i can do anything i
+want to i always felt that
+i should work hard and i should learn
+and i should excel
+but they were very supportive of me
+studying and
+succeeding in the fields that are
+interesting to me
+um and also um i really appreciated my
+father for being
+um always the devil's advocate so if i
+would come excited about a specific
+topic and i would
+say you know like any child i want to do
+this forever and then he would say
+hmm but what about the complete uh you
+know opposite side
+um maybe if we talk computer science
+what about biology biology is
+interesting maybe you should also look
+at that
+so i think this is a very interesting i
+think parents are um really important on
+this regard
+um and i think i always uh felt
+comfortable
+with things that are let's say very
+accessible
+and that i felt that i can do from my
+own home
+um i was curious about understanding how
+things work
+and also for example i really liked
+physics when i was in school
+um and i really appreciated that things
+having
+some meaning maybe it's you know some
+existential meaning
+or um optimizational meaning or
+something you can
+do something with um so
+i had an opportunity when i was in my
+first high school year to go and study
+um a degree in computer science at the
+haifa university it was it is called the
+it's gal program it is still running
+today
+yeah and yeah so you report
+for context you're 14 years old right
+right in your
+and you're already starting your first
+year in
+university yeah and i think this was
+great for me
+um because it really opened my mind to
+the the lengths at which you can gain
+education and knowledge and
+you know there were the internet and
+computers there then but
+it was a little more scarce than it is
+today
+for sure and it was an amazing
+experience to be there with you know
+older people and the the adults and to
+study with them
+um and to be given this opportunity and
+to be treated like an adult
+and so this was my first encounter with
+computer science
+and i really really loved it i loved the
+setting i loved feeling like i loved
+feeling like you know a grown-up person
+um and i really enjoyed my studies in
+the haifa university
+and i think it gave me it gave me
+better um fundamentals later on when i
+um when i was let's say tested for my
+military service
+and i was back then in my studies i was
+um really curious about you know the
+actual low-level stuff
+compilation processes and assembly and
+everything like that and that led me
+actually to to the course that i uh had
+gone through and later on
+guided as well um and during my military
+service
+um i also served as a security
+researcher
+um and performing binary analysis and so
+on for sure
+um for low-level devices let's say
+and later on i had the opportunity to
+um be a guide in the course and i was
+really excited about that because
+again i was curious about how does this
+thing work
+um who invented it and why how can we
+change it to be better
+how can i learn from it from my future
+for the things that
+work already and i think the combination
+of um high technological
+capacity with the um more
+let's say psychological work and the the
+empathy that you should have as a guide
+really attracted me then um and it was
+amazing amazing and just for context
+because i think that
+guide is you know i think that for
+somebody who
+doesn't experience this course it's it's
+a it's a different mindset because
+you're a commander
+for for any purposes you're a commander
+and you have
+you know fellow soldiers that are just a
+couple years younger than you they're
+brilliant but they're a couple years
+younger than you
+and essentially you're working with them
+to train them to be some of the best
+researchers in the world
+within a few months in a in a different
+location that is not
+their comfort zone not your comfort zone
+and and so what was that like for you
+having both that that commander
+perspective at the same time
+that intellectual curiosity that you're
+there with them
+working on some of the most interesting
+problems that anybody in the world can
+work on
+yeah so so thank you for the
+clarification um
+for me it was an ongoing challenge
+because these people
+they know what they're doing so of
+course you know the
+each and every one of them lacked some
+experience or knowledge in specific
+topics but
+you could always be standing up to a
+challenge every day every hour of the
+day
+um it can be also you know just a
+challenge that someone maybe broke a leg
+because of some madas or
+exercise during the course wow this is
+also a challenge but
+it is interesting because i was also
+serving as
+a teacher for assembly and also for
+other topics and this was not the first
+time
+i was teaching i was also teaching i was
+also prepping students for
+their baguiot at the high school for
+computer science but this is completely
+different
+so i think this challenge of how you
+know
+you cannot you can in my eyes you can
+never be the most professional person
+and know everything
+but how do you approach this you know
+sometimes
+full of ego environment even if it's
+from people younger than you that are in
+a course
+and how do you show them it's okay to to
+be mistaken and you should ask
+questions if you don't know something
+and that technology says
+means that you always learn something
+new you can always learn something from
+someone else
+and you're going to make mistakes and
+otherwise you're not going to study so
+it was a lesson for me as well
+elite how old are you when you're an
+instructor in that course
+um i believe 21 maybe
+so a sophomore or junior in a
+traditional
+college in the united states and
+because i think that the context of what
+you're describing here
+those personal experiences of both
+leadership but also intellectual
+curiosity and professionalism
+they don't come to a lot of 21 a lot of
+most 21 year olds don't
+don't get to experience you know this
+level of commitment and and resilience
+and
+you know i i remember i was an
+instructor in in a course not as good as
+alum
+but i was i was also an instructor and i
+remember
+you work 22 hours a day on everything
+and anything
+and it's it's it's you know it's just an
+unbelievable boot camp also
+you know in in leadership and so i can
+definitely relate to a lot of what
+you're saying here
+but you you finish the instruction in
+this army phase and and now you're
+inside motive
+tell me a little bit about your personal
+experience
+with the cyber security world a lot of
+things a lot of people
+that don't really understand cyber
+security they have these preconceived
+notions of what it is
+and it's sort of like a black box so
+tell me a little bit about your
+take on on what is cyber security and
+why you're so excited by it
+sure um so i think cyber security
+um is exactly this combination of
+understanding or aiming at understanding
+how things
+work and why and how they can work
+better
+or how can they be modified and used to
+do things that they are not supposed to
+do
+um and this quest is never ending um
+this definition shows it because you're
+always on the run to
+solve and solve a problem and then
+someone finds a way another way
+um to approach it so
+i would say it should be a more um
+holistic approach
+um and cyber security is a never-ending
+endeavor so
+it's the means to understand
+how my things are affecting my
+uh business goals let's say for for a
+company or how
+my um code or my services
+or even my product affects
+other people or businesses around and
+how
+can they be modified and used against
+what i am trying to do
+and cyber security has many phases
+and also many faces so you need people
+that
+are willing to read very long uh
+documentation to understand how things
+work
+and to write some specifications to make
+sure things work as they should
+and take care of all edge cases
+but you also need people that are let's
+say
+maybe less patient and just want to
+receive
+some black box or some product some
+piece of code and just want to tear it
+apart and to play with it just like a
+child
+and to make it do things that it was not
+supposed to
+be doing and i think in the past it was
+more uh like this race
+of you we have the attackers and they
+are um
+finding some exploits or trying to
+attack some institutions
+um or to break down a software product
+or maybe a hardware product
+and you want to you know put a patch on
+that and solve it
+and i think the world is now approaching
+at a more holistic
+uh way that it should be embedded in
+your
+overall development process and this is
+i think what cyber security is all about
+it's
+it's exactly like um other business uh
+processes that are an integral part of
+your business it cannot be ignored
+right and so when you no walk me through
+a little bit about your day-to-day
+so as a researcher what what what does
+that even include
+do you like do you know how the day is
+going to look do you have
+deadlines do you how does even research
+take place
+yeah so the deadlines is an interesting
+point because there's always this
+um conflict between just letting a
+researcher do what i want what he wants
+to do or what she wants to do
+and between uh giving strict timelines
+and so it really depends because some
+research project can
+be spread out along many many months
+and for sure the mostly the more time
+you have
+you will find you will find more things
+so it can be linear let's say
+in in findings uh manner but
+sometimes the ability to focus so for
+example if i know i have a certain
+program that i need to check for issues
+um
+and if i am sitting with maybe my
+colleagues or maybe a manager
+or maybe even just a friend from the
+field
+and i wanna try to understand what
+scopes can i look at so what is the most
+interesting part
+um for me to test um is it more related
+to
+input validation or is it more related
+to
+um internal protocols inside the
+the institution let's say or in the
+internal network
+um so this can also uh give you good
+results
+so there are a few approaches so one
+approach is you just
+you spray you try to attack ever to
+attack everything that you can
+maybe some fuzzing techniques you're
+just uh reaching maybe the things that
+you're more proficient at
+so for example maybe i'm good at a side
+channel attack so
+it doesn't matter what this product is
+about i love doing side channel attacks
+and i will just go and do them first
+um or it can be like we learn to perform
+here um very organized so you have a
+list of
+all the possible roles
+of the product or software all of its
+inputs and outputs and you just need to
+go one by one
+and maybe sort these out to the relevant
+skills that people have in the team
+so for me let's say i would be a person
+in a in a research team and i would be
+um supposed to check a certain protocol
+stack
+so i can do it in a you know in the more
+static analysis
+way so again this is going uh function
+by function or area by
+area and um you know in a serial manner
+or i can say okay i want to do it in the
+more dynamic way
+the program in a certain manner i want
+to sniff the the network uh activity i
+want to see what is really happening i
+don't care about all the code
+and i just want to go to this specific
+code and try to attack it
+so for example
+right no no i think and i think that's
+very very helpful
+i can't believe tai moves so quickly in
+such a cool conversation
+so i want to address a you know a topic
+that is really important to talk about
+and that is
+you know your role being a woman in the
+cyber security field
+we do see some you know we we see
+things shifting and we see more women
+involved and i don't know how many
+how much improvement in the technical
+scene but but regardless of the bigger
+picture
+i'd love to hear your personal
+experience i can't imagine there being
+many women with you in in the aram
+course or or in in the cyber security
+space today so actually
+in my course we were three women so
+it was it was impressive and uh it was
+great to see that
+um i will stay
+out of home okay well we can live in the
+middle romania um
+and i will say that um this for sure
+still needs improvement
+i can say that i see a lot more women in
+um development roles even very
+you know the most technical and
+mathematical and
+um specific uh specific uh development
+roles
+i do see um less researchers
+let's say uh security researchers but
+for example now
+uh we we are three women researchers in
+in the company which is a lot for the
+team
+and i would like to see um the
+environment or the people around
+more supportive of uh of women and girls
+wanting to do these things and yeah i
+agree with that and i think but i think
+that
+more women um leaders and
+technologics are speaking up for that
+and
+now you have more role models so it's
+easier than
+in the past
+right and so what what do you think you
+know in your perspective
+what what is going to be the big shift
+do you see there being some
+something that can happen to make a big
+shift do you see it more of a linear
+slow
+paradigm shift including the women in
+researchers
+environments so yeah
+from what i see there's been passing a
+lot of decades
+with slow improvement in women included
+in many sectors
+and i think in israel it's sometimes a
+little easier because we have the
+military service and it can help to
+shape
+this and the lives of many girls um
+and boys for sure but i think
+that more emphasis should be put on the
+earlier stages
+so i believe in education and i believe
+in
+giving children even when their babies
+like a few months the ability to choose
+between a doll and the car the ability
+to choose between
+um talking with friends about computers
+or talking with friends about
+something else so i believe that this
+should
+i mean as long as we are not doing
+something big in our early
+earlier time education this is going to
+continue be dripping
+and not the mass that we need
+right no that makes a lot of sense and
+i'm already sorry that i called this
+show 20 minute leaders
+time passes by very very quickly and i
+want to you know
+take a side step from from this research
+and
+and it's emotive and what are you doing
+there and go back a little bit back to
+you
+going back to your childhood what was
+a topic that really fascinated you
+perhaps in middle school
+or you know right in the beginning of
+high school or a passion
+so i think in high school or in middle
+school i
+i was really um enthusiastic and happy
+to start with physics
+i studied in moffett class and you have
+tasks to to get
+um involved in this kind of classroom
+before and i was really excited to start
+the the pre-school
+plan to learn physics i don't know why
+it was
+again it was understanding the life
+around us um
+but in a more uh technical manner let's
+say
+so i really liked physics during my
+studies um
+and i was really fascinated with the
+computer science
+um but not because i had a lot of let's
+say experience in that
+just from maybe my father had some
+relevant experience let's say
+very very cool and who would be a source
+of inspiration for you as you go through
+your personal impressions so i am
+less of a you know some um someone
+famous
+as a role model i am not that much into
+that
+i like to find inspiration around me
+so i can say nowadays um
+one of the founders actually of say
+motive um i really appreciate
+um how he moves around the world how he
+goes on
+with his um let's say business
+relationships and
+he is he is also he was um
+a professor at the university at the
+states and i really like his unique way
+to
+approach business relationships and to
+learn new topics and to view um
+strategical
+advancements in companies and also he
+lives
+everywhere in the world so he just
+shifts between countries and he shares
+this with his children
+and i really appreciate his way of
+living so he i think he combines well
+uh the work uh and the you know
+the fun in life and i really see him as
+a role model
+beautiful and what are some words
+two three words that you would choose to
+describe yourself with i would say
+optimization for sure um
+variety and and balance
+beautiful thank you very very much
+and thank you for the inspiration for
+the time and stay
+stay healthy thank you bye
+bye

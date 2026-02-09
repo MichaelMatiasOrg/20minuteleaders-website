@@ -1,0 +1,682 @@
+AI has different uses and there's
+different ways to interpret its results
+and those also depend on human ability
+to interpret things. So let's say if
+you're using AI to do object detection,
+you draw a square around the thing and a
+human can't tell if a square is wrong,
+right? If you're looking for a car and
+the square is on a can, okay, like this
+is wrong. You understand that?
+um we go slightly a different way. Uh if
+you're trying to do a bird
+classification algorithm and the
+algorithm tries to explain its reasoning
+to you. So it says a robin. This bird is
+a robin. Why? Because it has this kind
+of a beak. It points out at a beak and
+says beak and you kind of as a human
+understand okay the beak is different
+because different birds have different
+beaks. Uh the color etc.
+[Music]
+John Sorowardi, thank you so much for
+joining me today. I'm so excited to have
+a conversation with you about the human
+zero day. Um, really honored to have you
+here. Thank you for joining all the way
+from Rochester, New York.
+&gt;&gt; Oh, yeah. Thank you for having me. Very
+excited to talk about what we're going
+to talk about.
+&gt;&gt; Absolutely. So, so listen, John, you
+know, we've been covering in this series
+a bunch about social engineering, human
+vulnerabilities, zero day attacks. One
+of those zero day attacks is deep fakes.
+&gt;&gt; And why do I say zero day attack? Well,
+maybe you can explain it better than I
+can because you're you're also looking
+at from a cyber security space. So, so
+why why are deep fakes effectively a
+potential zero day attack?
+Well, they're new. We're not prepared
+for them. I mean, by we general public,
+I would say, and ourselves as
+researchers, there's lots of research
+suggesting that I no matter how much we
+do research, for a lot of times, we get
+blindsided by deep fakes. And
+&gt;&gt; honestly, these are not new. Um,
+photoshopping's been around for years,
+but deep fakes are not photoshopping.
+They can the quality can vary a lot and
+the amount the kinds of deep fakes I've
+seen recently like oh
+like we question what the real
+information is these days cuz I'm like
+oh is this compression or is this a deep
+fake
+so yeah
+&gt;&gt; it it seems it's it reminds me a lot of
+the way that malware came about in the
+2000s and you have malware detection
+which effectively looked for signatures,
+right, in the in the malware. And now
+the the types of signatures that one may
+be able to find on deepixes has such
+high variance that uh that it's not so
+simple to to detect. How did you get
+into the space of deep fakes?
+&gt;&gt; Well, I got into space through my PhD.
+So about when I started. So uh my
+adviser was doing research in um network
+traffic analysis earlier on actually and
+he did some uh stuff in uh usability of
+passwords authentication.
+But my PhD started in 2018 and defakes
+came about in end of 2017. So the timing
+was great. There was a call for from
+Night Foundation
+um about helping journalists detect deep
+fakes and my advisor suggested like I do
+think we should go for this. I'm like
+this is super interesting. it uses it
+might use two things that I'm very good
+at um understanding users and building
+technology
+and I really wanted to go dive deeper
+into AI around that time and diving
+aligned and we started working on it and
+since 2018 I've been working uh deep
+fake detection we've started worked with
+journalists uh we worked with um
+intelligence analysts which is a
+different but very interesting group of
+people. And we're also starting to work
+with law enforcers right now and sort of
+creating this ecosystem where we're
+trying to sort of merge how people
+understand deep fakes and we're
+approaching it from a user side most
+mostly while building technologies is
+also important but there's lots of labs
+who do that pretty well as well and
+we're trying to plug the gap of hey
+these are new technologies how would
+they fit into your workflow how would
+you do you understand what you're
+reading or They're just happy cuz people
+built tech and it looks fancy.
+&gt;&gt; So I think this is an awesome awesome
+point to to double down on this you this
+question of user experience
+in the context of truth seeking on
+potential deep fakes.
+&gt;&gt; Mhm.
+&gt;&gt; Can you help me understand
+from your perspective
+what does that entail? You know, there's
+many many worlds of AI models and
+classifiers.
+Most of them don't necessarily get the
+attention of the need for user
+experience like what you're saying here.
+So why why deep fakes?
+&gt;&gt; Um so AI has different uses and there's
+different ways to interpret its results
+and those also depend on human ability
+to interpret things. So let's say if
+you're using AI to do object detection,
+you draw a square around the thing and a
+human can't tell if a square is wrong,
+right? If you're looking for a car and
+the square is on a can, okay, like this
+is wrong. You understand that? Um, we go
+slightly different way. If you're trying
+to do a bird classification algorithm
+and the algorithm tries to explain its
+reasoning to you. So it says a robin.
+This bird is a robin. Why? Because it
+has this kind of a beak. It points out
+at a beak and says beak and you kind of
+as a human understand, okay, the beak is
+different because different birds have
+different beaks. Uh the color, etc. Now
+let's dive into things that humans don't
+really understand. Well, and deep fakes.
+So now you can traditional explanations
+are heat maps generally or drawing
+squares over things. Uh the first part
+would be drawing a square around the
+face and say making it red and saying
+it's a deep fake like okay I understand
+cuz deep fakes mean when face there's
+something wrong with the face and
+generally deep fakes do extract a face
+and try to identify whether it's real or
+not. So that doesn't really tell much to
+the user. You might as well have a
+number which most detectors have like
+87% and that's what you get from a deep
+fake detector generally.
+&gt;&gt; So that doesn't really tell like why is
+it a deep fake which is super important
+for all three groups we work with. For a
+journalist it's a deep fake. You can
+write an article saying oh we ran
+through a detector. It's 80%
+uh deep fake. And we called some people
+and they said, "Yeah, this is not real."
+What people can lie to how what did the
+model tell you that about this video
+that it's a deep fake or the audio or
+the picture now and now even text is
+people use deep fake for text as well.
+The terms very broad now. So the second
+thing you do is heat maps as I
+mentioned. Now, you could do um it seems
+like a great idea to use heat mask for
+deep fakes. Oh, this is a deep fake and
+it focuses like there's lots of red on
+the eyes. Okay. Uh user who's excited
+about the tool. I say, "Oh, great. I I I
+understand now the eyes." But then you
+ask them like, "So, what about the eyes?
+What do you think is wrong with it?"
+Like, "I don't know. It's the eyes."
+So, right. And that's where the question
+is like and also
+one people one thing people don't really
+talk about but also do talk about is AI
+can be wrong very confidently I am AI
+this is 97% I'm 99% sure confident this
+is a deep fake it's wrong it's a false
+positive animals also give you a really
+nice heat map like it's the eyes again
+of course and there's research showing
+that people even if people don't get
+biased by a number and they do more
+other kind of analysis. If you provide a
+heat map, they might be more convinced
+about a wrong result from AI. And here's
+the problem with heat maps in this
+space. Like I said, people we don't
+really understand what the model's
+talking about. The heat map is short for
+deep learning researchers. It's great.
+We understand that the model's focusing
+on the ice to come up with the number
+it's giving. But from interpretability
+perspective, from regular users who need
+to make decisions based on this, you
+don't really understand what's
+happening.
+At that point, we need to sort of
+understand what kind of information do
+we give users
+to make their decision. Yeah,
+&gt;&gt; I I think you're touching on such an
+amazingly interesting point. Um, and I
+fully get your assessment as to why,
+you know, numbers alone are not going to
+cut it, obviously.
+&gt;&gt; Mhm.
+&gt;&gt; But then you're saying, well,
+intuitively, many go for the heat map.
+Not only does it look cool, it actually
+kind of explains to you, you know, where
+the fake is, but then you actually say,
+well, not so much. It explains to you
+where the where the AI focuses on and
+what led to the derivation of the
+number. Still doesn't explain why this
+is a deep fake.
+&gt;&gt; Mhm.
+&gt;&gt; And and obviously there's the there's
+the the what happens when when it's a
+when it's claiming something with a
+false positive or a false negative which
+is which is obviously also detrimental.
+&gt;&gt; Let's talk a little bit about
+interpretability.
+&gt;&gt; Mhm. So what what's what's there?
+&gt;&gt; Um well there isn't too much in
+interpret interpretability. Oh god the
+word of def fakes these days. Um we're
+trying to make progress. So
+um we did some research on the existing
+deep learning methods which is your grad
+cans and everything. U but we're moving
+more towards a statistical understanding
+of images. what's at least trying to
+get to what we can do right now and we
+sort of got that idea from studying um
+intelligence analysts
+um in our studies which
+works is in re under review so I won't
+talk too much about it but um what they
+suggested is like can you tell us what's
+normal and what's abnormal about this so
+you can use certain statistics to do
+that. So through statistical
+understanding you say regular general
+images in this kind of category should
+have these kind of statistics whether
+you talk about color space whether
+you're talking about compression you are
+talk about um I guess movements if you
+go into physics
+so this is what a standard is and this
+is what's wrong with the current content
+you're looking at and there's research
+labs who do biometric meth based methods
+like um honey fared's lab and Berkeley
+does a lot of that work
+um where they've done papers which
+analyze normal behaviors of people which
+have strengths and their own weaknesses.
+So as long as I guess an intelligent
+person is using the tool and understands
+the weaknesses and strengths of and each
+method they could use various methods
+that are available in research to sort
+of build a case around a video. So
+there's a lot of what traditional people
+do really if a journalist tries to um do
+a report and analyze information they
+don't use just one tool and say oh this
+is it we asked we talked to a person and
+the person said this is false and hence
+we publish it. No we build a case. Same
+kind of approach should is what we're
+asking to be used in the fake detection.
+But also you have to be informed because
+again a lot of vendors these days just
+throw a lot of tools at people. Oh this
+is what this is still is doing because
+we told you so and here's four different
+results from AI image detector but
+there's very little to explain what are
+the limitations strengths weaknesses
+performance metrics of those things.
+So, not maybe not many people need to
+know that, but
+from our experience, a lot of the people
+we deal with do,
+&gt;&gt; right? And it sounds like you're you're
+dealing with a population and use cases
+which are not only critical, but they
+rely on the on the forensical approach
+to to verifying information. and you're
+dealing with the most fundamental part
+of their job which is the actual
+information
+&gt;&gt; for verification right
+and so it makes total sense why you need
+this forensical approach and I can also
+understand why in other cases as in with
+perhaps enterprises or organizations
+that are also concerned with deep fakes
+why they may be okay with less
+explanability
+in many cases because perhaps they will
+know event pretty quickly whether they
+were right or wrong, right? Because this
+would be used more in the context of
+real-time communication, identity
+verification, and if you get attacked by
+a deep fake, well, you'll know in an
+hour when you actually meet the person
+in, you know, face to face and they'll
+tell you.
+&gt;&gt; Um,
+how good are we today at detecting deep
+fakes?
+&gt;&gt; How good are we today at detecting deep
+fakes? That's a good question. And well,
+if you look at research space and data
+sets, we're quite good at you'll always
+see lots of papers with 99.98. We
+ourselves published a paper where we did
+100% accuracy on some subsets of data
+sets, which is great, but I will
+probably won't champion that work to be
+used in open world. So, we still are
+quite weak. So even there's research
+showing um even though uh we're still
+very bad on um out of I guess
+distribution data and by that I mean if
+you're trained on a certain type of deep
+fakes or a group of certain type of deep
+fakes that you know about and if you try
+to test it on unknown deep fakes
+on unknown techniques specifically it
+does pretty bad your 100% or 98% sense
+dive bomb into uh 65 68 70% confidence
+levels accuracies and that's bad. But
+beyond that, sure you could pat it with
+multiple techniques and that does help a
+lot like cuz the more you use but those
+techniques have to be intelligently
+applied intelligently applied. You have
+to understand limitations of each tool
+and sort of try to pat it as much as you
+can like oh if one tool you're using is
+weak against against certain things you
+have to use another one that is strong
+against those specific techniques.
+That's one. But even then um we recently
+did a workshop with law enforce law
+enforcement
+uh with a law enforcement group and we
+did a hands-on study with we let them
+use some unnamed defect detection models
+I mean tools that are out there in the
+world to be used by people and there
+several people ran the same video
+through and that tool let them select
+different uh models They didn't really
+understand much about the models because
+there isn't much description of what
+they do and if they want to learn more
+they have to read a huge paper which few
+people want to do.
+Um and two different groups got two
+different results for the same video
+using two two different I guess
+combinations of uh tools. And that kind
+of tells you a lot about I guess the
+space right now.
+And I guess I'll leave it at that. We're
+doing a lot of good progress and I would
+say vendors are trying.
+&gt;&gt; No, I think that I I mean know the
+reason I'm curious is that
+the and by the way, you know, we I the
+I'm coming from the background of more
+of a forensics approach. You know, we
+got to work very intimately with CNN on
+verifying media. It was incredible to me
+to see the the intricate detailing that
+you go into when you make such an
+assessment
+and you have simultaneously tools that
+are it's important to have these
+automated tools that can spit out a
+result quickly because well I think that
+ultimately we're going to have to embed
+such tools across every part of our
+digital interaction
+whether it's in the detection part
+whether it's in the authentication part
+you know and I'm looking at the majority
+of the space today and I'm seeing quite
+a few making very bold claims 99%
+accuracy
+I'm getting even some of them claim that
+they they'll give you insurance
+&gt;&gt; yes
+&gt;&gt; right if you so where is that confidence
+coming from because I'm hearing you say
+that Yeah, these are the right these are
+the numbers in a constrained
+indistribution environment, but in the
+real world things are way different.
+&gt;&gt; Um well, it's honestly it's no different
+from the world of antiviruses and
+malware.
+Um and malware companies know that there
+will be new attacks they can't um detect
+or predict.
+And there's also what they sort of I
+guess how it's a little different from
+malware cuz certain malware companies a
+lot of them use handcrafted features cuz
+there's lots more research and
+understanding going into that field and
+deep fakes
+um early 2018 is when the detection
+started. That is not many years,
+especially given that we are in the age
+of deep learning where we just throw
+stuff at it and let it decide what it
+wants to do where most groups are doing
+that and it will mature and we will
+reach a place where we can give
+and actually give an insurance. I don't
+really know how the companies give
+insurance right now cuz I have thrown
+videos at tools that I knew were real or
+I knew were fake. Let's talk about the
+example of um in America that Trump made
+a speech after he was announced that he
+won about
+um attacking um targeting the deep state
+though that was a long speech which a
+lot of people started saying that it's a
+deep fake. I have gotten people sending
+me like, "Hey, is this real?" Like,
+based on my understanding of deep fakes,
+I'm looking at it seems very real. It's
+like it's high quality. I don't see any
+weird glitches. Uh the lots of giveaways
+like the teeth look real. And if
+somebody made this this quick, I feel
+like it's real. I ran it through tools.
+Some tools said it's fake. Some tools
+said it real. And I'm like, "Oh god." If
+somebody runs through this one and now
+it goes through a Twitter and say, "Oh
+my god, this is a deep fake like it
+starts a whole thing." Thankfully, it
+didn't or I didn't really see it that
+much on social media.
+But
+tools are good. For most cases, they do
+really well. But in those cases also I
+can just look at the video and it's and
+can really tell people because we work
+um from our lab we collaborate with some
+certain organizations where we sort of
+provide them with our expertise. They
+send us videos like, "Hey, can you take
+a look at this and tell us what you
+think?" And we sort of tell them like a
+lot of the time it's most of these
+videos are lip-sync videos and general
+scams saying, "Oh, you'll get this much
+money back." And people still sadly fall
+for it, but and Nigerian princes still
+probably get people to send them money
+through spam. And so that that's not
+surprising.
+So and and and what so what types of you
+know you mentioned before in
+distribution out of distribution what
+types of deep fakes today or what types
+of media today is the industry
+getting really good at detecting is
+there can you can we classify a use case
+where this is becoming you know a a a a
+place where real value can be derived
+with with a low false positive false
+positive rate. Um, I would say the lip
+sync cases,
+um, at least the generic lip sync videos
+are very one, they're v they're
+relatively easy to identify manually,
+but
+uh, the models are also very good at
+that. There's very low I guess false
+positive ratio for that for a model
+that's trained well. I wouldn't say all
+of them
+but carefully wellbuilt model
+well-trained model is quite good at
+doing that. face swaps certain in
+certain cases it's good but there's so
+many like for each category there's so
+many techniques these days it's very
+hard to say like that we're getting good
+at this category
+like for lip sync there's wave to lip
+there's a method you would know uh
+that's super popular mostly because
+there's lots of like there's hugging
+phase there's GitHub repository that
+gets you started up really fast even cuz
+the for face swaps you need to learn up
+certain things to do good work for wave
+to lip you you just give it an audio you
+give it a video and you're done
+a lot of time it does good a lot of
+times it does terribly but scammers
+don't really care cuz the whole point of
+it is just quick and dirty attack and
+you distribute it if you get five people
+giving you money it's a
+So
+&gt;&gt; sure,
+&gt;&gt; it's really hard to say what we're
+getting good at. And trendwise, I
+haven't seen that we're super good at
+this one type. Maybe a a company is
+better suited to tell you that because
+they have they constantly collect the
+data.
+&gt;&gt; For us in research, I haven't seen us
+&gt;&gt; be good at any of the categories, I
+would say.
+And from your perspective, you know, a
+lot of people are talking about the fact
+that this is an arms race, right? This
+is like in the antivirus game. It's it's
+an arms race. And in an arms race, you
+have the two sides moving fast.
+Generally, one side is moving faster.
+Rarely, it's in equilibrium.
+What's moving faster here? the
+generation of new improved diverse deep
+fakes or the resiliency and robustness
+of detecting deep fakes.
+Um I would like to say that from
+research perspective
+the research of detection is moving
+faster at least there's more keeps
+coming out and addressing this or
+understanding people's perception of
+these fakes or understanding the
+weaknesses
+and I guess the generation is there's a
+little less papers and generation coming
+out
+but
+We're still stuck behind
+an understanding how people outside of
+the research space, the malicious
+adversaries, what kind of things would
+they be using to avoid us is what I
+guess the research is still struggling
+with. And again, that's also because
+there aren't that many adversaries in
+deep fake detection. There aren't any
+groups that use deep fakes to attack
+nation states or something. There's been
+pretty like out there videos in the
+Russia Ukraine war of Putin and uh
+Zillinski announcing things but that was
+also debunked within a day. Yes. I mean,
+even if it was debunked within a day,
+there could have been lots of effects of
+that of people dying in
+because they looked at the video and
+listened to it. But there are no unlike
+malware where the known groups and
+there's lots of malware constantly being
+built and you can sort of build an
+understanding of what the adversarial
+community uses
+um what kind of things they use. For
+defects, we don't really have that yet.
+We have what researchers
+use and we ourselves try to attack
+ourselves of sorts and this is great
+like the from the security and the blue
+teaming red teaming thing works really
+well but I guess for if you look at it
+from that perspective I feel like
+um the generation's moving faster by not
+moving that much
+because we have the we don't really know
+what to expect right now
+and for two elections in a row we
+thought defakes are going to play a huge
+part in the elections and they really
+didn't like there were lots of
+expectations fine there were lots of
+images generated
+of um the
+candidates and weird things and there
+was a popular video not very popular
+video of Biden talking about a magical
+pistachio. I don't know if you've seen
+the video,
+&gt;&gt; of course,
+&gt;&gt; but yes, but beyond that, there isn't
+there wasn't really much that you could
+say, oh, this is a headline. Oh my god,
+this has happened.
+&gt;&gt; Yeah.
+&gt;&gt; And we try to and and when do you think
+we'll get there? If you think we'll get
+there. If I think we'll I mean
+it's hard to say like disinformation is
+such a complex
+field and def fakes fall in under that.
+So it's like asking a question. Do you
+know if you're a part of a
+disinformation campaign
+and or
+have do you think your narrative has
+been artificially changed by a national
+state nation state and it's a hard
+question to answer like I don't know
+so similarly maybe there are certain
+deep fakes that we aren't aware of that
+were crafted super well then built into
+a really good narrative and we don't
+know about that yet. But from general
+disinformation perspective,
+I don't really see
+much that's super super concerning. But
+that doesn't say we should stop working.
+We need to make sure that doesn't
+happen. Maybe we are doing a good enough
+job that it doesn't reach that point.
+Hasn't reached that point yet.
+&gt;&gt; Exactly.
+Well, John, I think that uh obviously
+you've you've been around the block in
+the context of deep fakes and I love the
+thoughtfulness that you give to
+and the respect you're giving to this
+space and uh very curious how it will
+continue emerging. I'm curious how the
+arms race will continue curious about
+how user experience will come about
+within different within different types
+of groups. And we didn't even get to go
+into the how from a user experience
+perspective. It it it can work with
+within the context of journalism and the
+context of law enforcement and and I
+think that that merits a whole separate
+conversation because this is it's a
+fascinating field and I really want to
+thank you for your time and for being
+here. So thank you so much. Really
+appreciate you.
+&gt;&gt; Thank you for having me and good luck
+with uh clarity as well. Hope you guys
+&gt;&gt; prevent a lot of deep fakes.

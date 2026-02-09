@@ -1,0 +1,575 @@
+what i did find out
+um is in these conversations
+i can keep on trying to educate or
+convince or sell write to someone and
+it's just the message doesn't get
+through
+but when the customer has the needs that
+i'm talking about
+it is crystal clear like that's a
+customer that usually does not need any
+explanation
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by jay ventures
+a community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+welcome to 20 minute leaders today we
+are back in the cloud with mati lerna
+the co-founder and ceo of ridge
+mati is co-founder and ceo at ridge the
+world's most distributed public cloud
+mati invests and advises early stage
+companies and he has an mba from london
+business school
+mate lerner welcome to 20 minute leaders
+i'm really excited to have you here
+thank you so much for joining me how are
+you
+that we're excited to be here uh
+hopefully we'll have a good uh good talk
+i'm sure we will because pretty much
+everybody's in the cloud and if they're
+not in the cloud then they're thinking
+about the cloud and if they're not
+thinking about the cloud then they
+really should be thinking about the
+cloud and so we're at a really
+interesting inflection point where we
+have all these solutions and we have
+this technology we understand the
+potential we sort of understand the
+deployment and we understand how to
+manage it but now we're in the process
+of actually making it happen and so with
+with ridge
+you're doing some really interesting
+things that are they're non-trivial in
+relation to to the cloud and so i'm
+really looking forward to you know
+hearing your personal perspective on
+this industry what you're personally
+doing with ridge and what excites you
+about it so so thank you for spending
+these 20 minutes with me
+tell me a little bit about
+cloud computing from your perspective
+even before ridge where where are we at
+i mean
+i think we're at um a place that
+you know to us is
+you know people who are around startups
+and are kind of digital and modern
+cloud is a no-brainer it's a total
+commodity today
+you know the majority of people we
+interact with in a day-to-day don't
+think about things you know that used to
+be called i.t
+you know it's uh it magically happens uh
+when in fact i t and cloud is just a
+form of i.t you just consume it on
+someone else's resources
+is a huge hassle
+i think the beauty it's a massive asset
+right and it's uh kind of the
+underlining of every single company in
+the world digital or not digital it has
+massive i.t operation under it
+and things that you know used to
+you know just give you an example when i
+started my career i was at 888 in israel
+the first floor i don't know 150 people
+only dealt with i.t for a mid-sized
+company it's not even a big company
+globally
+um
+you know and what cloud did is changed
+that right so essentially you can
+consume all of the it best in breed on
+demand scalable secure
+performant without the need of dealing
+with something that is external to your
+business you know ideas in the same way
+that you know a company doesn't build
+its own building you outsource it to a
+constructor um
+the idea is i shouldn't be dealing with
+the physical servers and the connections
+and the
+gateways and the load balancers because
+maybe there's uh someone that in a
+centralized way can fix it
+so
+while we as kind of a cloud native
+generation
+think about cloud as mostly the only
+thing
+um the reality is that 85 percent of the
+it in the world is still consumed
+outside of a public cloud public cloud
+to me being aws gcp microsoft azure
+and a long tail of other providers that
+are also quite big uh
+digital ocean ibm oracle cloud there's
+quite a few that all of them making the
+few billions a year is in revenue but
+definitely there's three main players in
+the market so 85 is the consumed outside
+of a public cloud and
+there's all these companies that are
+working super hard on it and there's
+many reasons why that's the case it
+might be because of
+mostly technical difficulties
+so legacy applications you go to siemens
+bosch and all those companies i mean
+they have real requirements they have 40
+50 years of id spent in whatever they're
+doing and just they can just take
+everything and chuck it onto a public
+cloud
+um there might be regulatory
+considerations so data locality the
+residency that are very very specific
+there's uh performance issues like
+sometimes you need your servers to be
+very close to wherever you're doing the
+um you know wherever the application is
+deployed that you know close to your
+customers close to work data's being
+generated um and while the big
+hyperscalers are again phenomenal
+they're quote unquote only in 20 odd
+locations around the world
+best locations but only 20 while the
+world is slightly bigger than 20
+locations
+so
+what ridge does
+right what what is the problem that
+we're trying to solve if you take uh you
+know those three facts that i just
+mentioned
+majority of it vast majority of i.t
+consumed outside of public uh the
+hyperscale at the public cloud
+um
+kind of the second
+underpinning of this is that the world
+is moving to cloud native while perhaps
+you
+you're not considering it on a public
+cloud you still want to have all the
+good stuff that comes with a public
+cloud um
+you know cicd pipelines devop tools you
+know fancy logging elasticity pain on
+demand you know all of those things that
+you know come with the public you want
+someone else to take care of the
+underlying i.t
+um
+and the third fact is there isn't an
+easy way to consume
+resources cloud natively
+outside of a public cloud and what
+region's done it's created a full stack
+of full cloud
+operator that is agnostic to the
+underlying physics of where it runs
+right so what it means is that we're
+able essentially and this is the core
+technology that we built with a lot of
+capabilities and features but the core
+technology is that we're able to overlay
+the reach cloud that looks and feels a
+lot like
+gcp aws azure um on top of anything that
+any customer might have and that goes in
+two ways we can take private instances
+again as i said we can go to a bosch
+icms right like a multinational that has
+ip environments scattered all over the
+world an overlay solution
+without installing anything without you
+know making them buy specific hardware
+with you know just through very fancy
+api and a lot of capabilities on our
+side and have them a private and private
+instance that looks like a public cloud
+the other thing that we've done for
+cloud native companies right so if
+you're a startup you'd say like i don't
+have any servers because i don't think
+that way i'm working on aws
+but i need to be in
+istanbul for whatever reason or in the
+uae or in
+brazil or like in many places where
+perhaps aws is not enough investors if
+azure are not enough so in that case
+what we've done is we've partnered with
+hundreds of different providers local
+providers so those would be the top tier
+providers for each market so you think
+from anyone from like the equinixes of
+the world like the biggest
+infrastructure providers you know the
+entities the deutsche telecoms down to a
+local provider in a specific country
+where perhaps a global player is in
+but still very good kind of high
+reliability in most cases even higher
+than the public cloud because they host
+the local banks the local insurance
+centers the local government
+so essentially we also created all these
+partnerships that allow us to serve our
+cloud in a modern cloud way where you
+can pay by the minute on demand
+um yeah that's about it
+so if first of all it sounds it sounds
+really interesting because one thing one
+trend that you're describing here is
+taking the very generalistic approach
+that says
+let's create a solution that with a
+click of a button you can deploy however
+many resources that are you know
+independently scalable and have pretty
+much no limits on this public color and
+you're saying wait but but actually you
+know the way that a lot of problems are
+built is that you need this granular
+approach where you need to to have
+control and you need to have preferences
+over the location over the different
+types over the different activities that
+are happening there and so you're taking
+the generalistic technology or the the
+new consumer behavior that we've adopted
+which is the general public cloud but
+you're assimilating it to
+specific nuances the different companies
+like like these large companies that you
+mentioned that they have themselves did
+i get that right you're exactly correct
+so you know flexibility is a key point
+here um
+again aws gcp and azure are phenomenal
+for many reasons but that they cater for
+the
+80 that are good to come to them and if
+there's anything specific it's great but
+it's not what they can solve um and
+that's where we try so you know in fact
+public clouds are we're we're riding the
+tailwinds of public clouds they're
+creating all this massive cloud adoption
+right
+and you know
+100 of the customers that are using
+bridge
+also use
+a hyperscaler right no one will move to
+cloud because of reach what they're
+saying is like
+hey like the public cloud is phenomenal
+but i need it to do more than it
+currently does
+how can i do that without kind of
+re-engineering or reinventing the world
+and reaches that easy way of doing that
+i love it so essentially you're saying
+you know we understand that there's this
+market education that's been happening
+over the last few years we've understood
+that there's a big gap here in the
+market that while they're catering to 80
+percent of you know of the providers
+there is a tale of those that need this
+specific granular approach and we are
+able to provide them the solution but
+but take me now to sort of this you know
+this moment where you're working with
+this executive from from a large company
+that you you know you realize that they
+have this need they share with you their
+you know their different specific needs
+that that it happens to be that ridge
+you know
+perfectly answers them
+now they it sounds like they need to
+decide between ridges startup and using
+one of the three top providers that you
+mentioned
+and you know this is talking about their
+you know their their uptime it's talking
+about their reliability about their
+deployment how do you deal with that
+conflict of of trust and experience
+great question so i have two answers to
+that uh
+you know our sales team does
+qualification calls with you know a
+devops team any the first question is
+like hey are you guys using the cloud
+usually the answer is yes
+who are you using let's say one of the
+big providers like do you have any needs
+that are not being met
+all the stuff that we just spoke about
+before and if the answer is no we're
+kind of happy then you say it's like
+good then like you're not our customer
+right so the point what i'm trying the
+point that i'm trying to make is like
+we're not competing with them we're not
+trying to take us or not because we i i
+like i wouldn't wanna it's just because
+those are great offerings but as i said
+um put it in just in numbers right the
+id market is over a trillion dollars
+worth of spend per year
+okay
+aws gcp and azure combined
+depends on how you measure it's quite
+complicated to to measure that but there
+are about 150 billion in revenue growing
+like crazy but 150 so that's 15 or less
+than what the world spends on id and
+when i say i think i mean
+telcos banks you know insurance connect
+healthcare providers people that are not
+usually or not deeply into aws gcp and
+azure
+any and there's a correlation between
+size
+and
+complexity
+right if you're a 20 person startup
+usually your application is just limited
+in its complexity i'm putting aside the
+edge cases of someone doing for
+something super super complicated uh id
+wise
+um
+the second thing is that a lot of our
+big interactions don't happen directly
+right so as you mentioned we are about
+three years
+old we're i don't know 40 50 people with
+growing we kind of want to double this
+this year but at the end of the day it's
+still tiny compared to big-ip players so
+think of anyone like vmware ca
+you know like the biggest kind of
+companies in the world so what we do is
+we need a partner with those so these
+guys have massive problems that they
+cannot answer around
+measures not niches but particular use
+cases of what our
+system is capable of doing distributed
+cloud edge cloud those things they don't
+really
+have a good solution to
+and probably more interesting is the
+biggest solution and integrators in the
+world so the si is what they're calling
+the it industry if you think of you know
+the accentures infosys
+cognizant kindred that was just fun out
+of um ibm um we were kind of quite close
+to and looking into some
+fascinating technological projects all
+of them have you know 75 each one of
+them separately inserting about 75 of
+the fortune 500 type companies and the
+equivalent in every local market um
+trying to answer these crazy use cases
+without the tools so there isn't a true
+competitor to what we do i.t is
+complicated and there's many ways of
+doing the same thing you can brute force
+a lot of the problems
+but you know the truth is that like the
+world was operating quite well before
+public cloud was invented you know so
+can things be done yes but they cannot
+be done easily and this is i think like
+the 10x of where we take ip environments
+into a cloud era with the simplicity of
+a public cloud without the need to rip
+out everything you've got and install
+everything from scratch so
+um
+it's kind of i tried to establish before
+we're not exactly
+playing for the same market as uh an aws
+region would
+there aren't great
+ways of solving the scent that what i'm
+describing here right so these guys are
+saying hey we're dealing with these kind
+of problems
+this is insane and we're at the
+beginning of this wave right like
+there's a lot of education a lot of
+conversations that we need to do for a
+million technological reasons that we
+need to kind of
+the other side says listen this is what
+i've been dreaming about i have a few
+problems on my side to adopt this you
+know i'm not ready my i'm not
+containerized i'm not this i'm not that
+but i think in the next five years which
+is like infrastructure companies look at
+things a little bit differently than
+perhaps you know a classic sas company
+would right like adoption-wise um i
+think there's going to be a massive um
+take in the next five years of these
+capabilities
+so then you know talking a little bit
+about scale and growth if we're looking
+at a more granular approach and those
+that need
+a different offering than what a
+you know a self-serve product may be
+able to give them at this point
+then how how do you strategically grow
+ridge with customer base that that kind
+of needs guidance and needs you know the
+a little bit more of the hand-holding
+approach to tailor the exact solution
+for their specific needs which sometimes
+may not be
+that coherent when you just talk to them
+great question i'll start from the last
+comment so
+it was totally not coherent for us for
+the first you know a year and a half
+we're still building again as you can
+imagine is quite a heavy undertaking to
+build this product
+um so it took a while to kind of
+put it in a place that it can work in
+production with like again big-scale
+company large-scale companies working in
+production um
+so um
+what i did find out
+um is in these conversations
+i can keep on trying to educate or
+convince or sell right to someone and
+it's just the message doesn't get
+through
+but when the customer has the needs that
+i'm talking about
+it is crystal clear like that's a
+customer that usually does not need any
+explanation he's just because he's
+experiencing it himself and
+and it's like super clear to them what
+we do and like now now it's details can
+you how do you connect the network how
+do you do that how do you do the app
+like it's it's so let's kind of just
+start from the
+last bit of the question
+i think
+again the other thing that we found out
+is the traditional also companies feel
+comfortable buying from who they've been
+buying before so it's precisely not a
+self-serve
+three clicks optimizing for quick
+onboarding like we are unfortunately in
+a world of heavy enterprise sales
+through big resellers and big uh um kind
+of uh so it's not middlemen but like
+engineering groups that help us kind of
+distribute the product usually we are
+part of a broader solution that they're
+offering
+sometimes a physical solution sometimes
+um
+development capabilities right like a
+project that is and this is like a layer
+in that
+usually the heart of the system um but
+what that helps us is surpass that kind
+of uh um
+the need to convince massive companies
+that
+not even us that this is the solution
+that is the the the direction that they
+should be even looking at um so kind of
+going through massive players like those
+that you know the end customer already
+knows and trusts
+makes our lives a lot easier
+amazing it sounds like
+you know beyond the under the
+technological undertaking it's the
+the true understanding of these
+different use cases and being able to
+generalize them internally being able to
+to come up with a coherent strategy as
+to how to to make it happen and and grow
+this company and i love what you said
+before
+even before we started about the the
+magnitude of what you're building here
+and you know the the give behind the
+moon shot but but if it works and
+and and it sounds like it it is and you
+know it's a it's a great undertaking for
+you know for the economy and for
+changing the
+thought process that it's okay to have
+different use cases and while
+everybody's screaming okay move to the
+cloud just deploy single serve
+you know at the end there's complexities
+and and different organizations need
+different things with different
+technologies and it sounds like ridge is
+a is a fascinating journey and and i
+really want to thank you for taking the
+time to join me in sharing with me a
+little bit about your strategy and about
+how you're thinking through this world
+and you're definitely making me go back
+in a few years and think
+how i'm looking at this this world of
+cloud and and how it's being projected
+to companies and what's going to happen
+in the actual wave of cloud adoption
+because we're just at the beginning and
+and a lot of the players that that need
+the solution that you're talking about
+my i understand that why they may have
+hesitations of
+just transitioning to the current
+solutions because
+right now they're their on-premise
+serves better than
+than this generalized solution and so it
+sounds like a really fascinating journey
+and thank you mati very very much for
+joining me
+thank you very much
+hey

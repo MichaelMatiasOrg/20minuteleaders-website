@@ -1,0 +1,625 @@
+i think it's you know it's scary at
+times because you uh you really are
+you know potentially uh influencing the
+way hundreds of millions
+of people think a month
+[Music]
+thank you so much for joining me how are
+you how are you good how are you
+wonderful hey where are you calling from
+right now oh i'm in palo alto
+you're in palo alto and i have to
+congratulate you
+on a pretty big transition right after
+many years at
+cora also quite a few years really four
+years of vp of product
+you've recently your your service there
+and you're and you're on to some
+different things and and i'd love to
+chat about your experience with cora and
+some of the really interesting things
+that you've done both that are
+mainstream today but also that weren't
+necessarily mainstream back when you
+were working on them
+and but i'd like to start all the way
+back and going back to stanford you're
+you're doing your phd over there in
+economics and you're working on some
+really interesting things that
+that i just love both matching theory
+and political economy
+tell me a little bit about yourself and
+what led you to do that research
+at stanford yeah a great question
+um so i'm uh you know i've been curious
+about economics for for years kind of
+before coming to stanford i was
+doing uh my ba and masters at the hebrew
+u
+in jerusalem and was mixing math and
+econ
+throughout and i was really interested
+in this
+kind of intersection where the theory
+and kind of the beauty of mathematics
+can be applied to real world problems
+maybe like the epidemic of that is
+as auction theory which won the nobel
+prize a few weeks ago
+motivating uh kind of energy coming in
+and a chance to be in quite a few
+lectures by milgram
+uh this past year and i i have to say
+that i didn't understand much
+but but it was still fascinating
+nevertheless
+yeah i was in a reading group with with
+him uh for kind of a couple years it was
+really fascinating to kind of see him
+like think and kind of uh you know
+appreciate his his point of view on the
+world it's it's quite it's extraordinary
+so yeah so you can talk about your
+research yeah yeah
+um anyway so i i got curious uh you know
+what else
+what other kind of beautiful mathematic
+applications can be used to
+understand the world or maybe improve
+the world uh
+and kind of matching markets was a
+really fascinating thing it was
+kind of blowing up and within economics
+at the time people were
+innovating on matching theory to do
+things like kidney donations and
+matching kids to schools in a really
+efficient way
+and some of those uh kind of techniques
+were actually implemented then
+in the you know kidney donation market
+uh or in actual school systems like in
+boston and new york
+which were changing how they were
+running things using uh economic theory
+and with like you know broad
+economists as kind of the the people
+planning these systems
+so that that was kind of how i got
+pulled into this uh like area
+so i have to spend some time talking
+about the beauty of mathematics
+and you know and enlighten both myself
+and
+and a lot of my my viewers that aren't
+necessarily you know leaning into the
+mathematical world i am but i know a lot
+of my friends who are excited about
+innovation aren't leaning there how
+how does mathematics play a role into
+our lives whether it's matching theory
+or political economy i'd love to really
+understand this world a little bit
+better and and show some of the
+excitement
+yeah so for me a lot of it comes from uh
+and
+i think this is kind of the modern way
+to view economics is from incentives so
+if you can
+uh describe with a little bit of math it
+doesn't need to be
+super sophisticated what people's
+preferences are
+and what kind of outcomes they prefer uh
+then you can uh you know model the world
+again with fairly simple
+primitives and and use uh
+this description of incentives to
+predict behavior and if you can predict
+behavior
+then you can go one step uh higher and
+describe what kind of systems would
+actually
+push for better behavior on the part of
+the economic agent
+so in the case of let's say school
+choice
+if people have you know preferences over
+schools and they they want to be matched
+with
+uh a specific school for their kid and
+that may involve many
+uh different types of considerations
+like what are your you know the other
+kids in the family are they going
+already to schools in the in the system
+uh what kind of focus areas does that
+school have and you know what is that a
+good match for their child or not
+how close is the school to where they
+live and kind of model all of that out
+and again this is not you know rocket
+science is
+kind of fairly simple uh uh ways of
+creating kind of lists of preferences
+uh then you can think of okay if i ask
+people and have
+incentives that are aligned in the sense
+that the system will
+actually respect your preferences and
+give you the best outcome for the
+preference as you you stated uh then you
+can think of designing these systems in
+a way where
+matching is quote unquote optimal and
+you can get the the best outcomes for
+the most like the largest amount of
+people
+so that's you know for me a really neat
+thing where you can take mathematical
+models
+uh and kind of solve them in a way which
+uh generate better icons for people
+you know on in in their real lives on
+the things that matter most of them
+a hundred percent i'd have to say that
+i've i've been getting exposed to the
+process of of
+residency and and doctors people the
+people in medical school
+that are getting there and and you know
+on one hand it seems yes matching is a
+problem it's a little bit longer
+sometimes it's not ideal but then when
+you meet
+the person that's actually going through
+that process and this is not a
+life-threatening situation right
+like kidney donations or stuff like that
+but you can still see the impact of
+what mathematics and algorithms can do
+to help ease the process
+let alone save lives that is that is
+beautiful as you mentioned that is
+beautiful mathematics and i'm extremely
+excited to continue my studies and get
+and get to those levels and then what
+about the political economy how does
+math play into
+uh you know politics and what's yeah i
+got pulled into it through my wife who
+was also doing a phd at stanford at the
+same time and she was uh in the
+political science department
+but actually had a very similar
+background from kind of a game theory
+and
+mathematics perspective um and we were
+both kind of curious this is this is
+like again a really good timing because
+we were doing this uh kind of pre-arab
+spring but we got really curious on this
+topic of protest
+especially protests in authoritarian
+regimes so these are people who are
+taking a big chance and risking their
+lives and going to
+voice you know their concerns or their
+objections to the regime under the
+threat of you know arrest
+or execution and kind of why are they
+doing that what kind of dynamics
+contribute
+to them taking that chance what are they
+looking to get out of it
+uh and so we were using a kind of a
+mixed approach of both looking at
+empirical data but also building a
+mathematical model
+that would try to explain under what
+conditions would people actually take
+that chance and again take on
+meaningful costs uh to to get an outcome
+and that that outcome is political
+and so kind of uh reached uh a model
+where you know the economic conditions
+were often
+a strong determinant of when protests
+might happen
+and what's the probability of that
+process actually having an impact
+uh and again the timing was really
+opportune because we were doing this
+just before the kind of arab spring
+where we saw this actually play out
+with you know many many regimes being
+toppled or at least
+shaken by mass protest movements
+something that wasn't
+seen for basically decades so when we
+were originally taking on this research
+it was kind of out of
+like vogue to to study protests because
+it was like this never happens or this
+isn't
+meaningful and then we a year or two
+later we saw this unfold so it's really
+a kind of a fun experience to to be
+thinking about these problems
+so yeah you're working on these
+mathematical models
+you're thinking about about about all
+about all this and
+all of a sudden the arab spring springs
+happens and and you're watching this and
+and i have to get into the into the
+perspective that you're at
+i believe it's like 2010 2011 2011 right
+how how does this all play out are you
+surprised are you
+do are you anticipating does this does
+this research take on a greater role
+what happens there yeah so
+uh we definitely were surprised again
+this was not something that we we
+had seen since probably you know the
+fall of the soviet union where
+people work on muppling regimes uh by
+going out into the streets
+uh so so it was a shock i mean it was is
+kind of
+you know very relevant or like eerily
+similar to what the dynamics we
+described in in our papers
+because uh ultimately the logic was kind
+of very simple if things get kind of bad
+enough from an economic perspective
+or people are desperate enough they'll
+take that that chance that was like the
+the heart of the model
+uh but really connecting it to like the
+um the empirics and actually kind of
+being able to predict this was was the
+neat part of the research
+uh and so it was it was both surprising
+but very kind of consistent in the in
+the same
+uh at the same time and i kind of
+both my wife and i were in the process
+of kind of leaving academia but for
+uh the professor we were working with uh
+in the political science department this
+was
+a very good boost for her career
+unbelievable
+and so you're at at that point you're
+living academia
+and you have a series of different
+experiences throughout your professional
+career
+leading up to your up to your job at
+core now i know quora
+as this beautiful website that i go to
+to answer
+all of the relevant and irrelevant
+questions that i may have
+uh but but walk me through a little bit
+your your life path
+that led to being vp of product at such
+an awesome company yeah
+so i i it can it may seem random but i
+think there is a thread connecting
+everything
+or at least i'd like to believe so uh so
+for me kind of what
+uh i've enjoyed or what i've been
+attracted to is how do we kind of
+again use kind of math or uh you know
+logic to unlock a lot of value
+and that that's something that's kind of
+always driven me or i was i've been
+passionate about
+and with quora as an economist this is
+actually a fascinating
+thing to dive into because uh you can
+think about quora
+um and i think this is true of knowledge
+more more generally as
+a market there there are people who need
+certain answers to certain questions
+those may be
+very important or trivial that's all
+fine
+and there are other people in the world
+who who know the answers to those
+and kind of how do you connect the two
+sides of this market
+uh and how do you unlock value and how
+do you create the right incentives for
+people
+uh to be kind of sharing that online and
+in a public way
+that was like the the key question that
+that motivated me and actually my first
+project
+uh that i got put on was we had a
+concept at the time that we later
+kind of deprecated called core credits
+which was a way for people
+uh to accumulate kind of virtual money
+this is kind of pre-bitcoin bringing
+you know that everything about virtual
+money um
+so accumulate this this kind of uh point
+system
+and be able to spend it by uh asking
+the people directly for their question
+for their answers on a question
+so you you basically got a an ability to
+kind of
+uh buy some someone's attention by
+sending them a notification and an email
+saying hey can you answer this question
+and and so each person had kind of a
+dynamic price
+of you know how much is their attention
+worth and that was based on supply and
+demand
+dynamics in the marketplace and uh
+again if you were a good member of the
+community and you had supplied value
+yourself
+then you were able to kind of utilize
+that and kind of get value or get
+knowledge out of somebody else's head
+that was like a kind of a beautiful
+concept to me and something that really
+pulled me into working for for the
+company
+wow so you know a marketplace of
+knowledge
+in an age of misinformation and you know
+you
+your vp of product i believe all the way
+back from 2016 right you're seeing
+what what is happening with the election
+and then and you know when i look on
+on social media and and and those sorts
+of those sorts of areas
+i it's very hard for me not to be
+pessimistic about about where we're
+headed with
+with misinformation and and i it's
+almost like a promise to myself that
+i'll
+only really accept knowledge when i see
+it
+you know cross-sectioning from various
+sources and i take pride in that but how
+do you as vp of product
+approach this you know mentality that we
+have a real issue on our hands and it's
+growing exponentially right
+i mean it's getting out of control yeah
+uh this is a great question and i think
+for us like
+we were actually very uh kind of in some
+sense
+validated by all this happening that
+this is kind of sounds ironic
+but we have we at that point had been
+worried about you know
+kind of misinformation or just generally
+what's true or not for many years
+for us you know under like our mission
+is to share and grow the world's
+knowledge and
+by that we mean real knowledge that is
+useful to people uh misinformation
+something that undermines
+as you were saying people's trust and
+knowledge so for us it was a
+existential threat if you know the
+platform can be manipulated
+uh into you know showing or prominently
+or spreading
+uh information that's not actually true
+that undermines trust in the
+in the platform that reduces the
+incentives for people to suffer for
+knowledge and because of these
+marketplace dynamics
+i was describing it also reduces the
+incentives of you know good people to
+actually share
+the the right information because
+there's all this other junk
+out there that might drown out uh you
+know what they are saying or what they
+are sharing
+so for us we were thinking about this
+problem uh kind of years earlier one of
+kind of the
+uh key moments for me and that journey
+was uh we had a digest email or still
+have it i just seen this was one of more
+popular kind of um kind of emails out
+there that go out and to you know
+hundreds of millions of people
+and has personalized information for
+them something we had invested a lot in
+and there was uh i believe this was in
+2014 or 2015 we had sent
+out uh to were collecting hundreds of
+thousands or a few million people
+an answer at the top of their email that
+had basically kind of a 911 conspiracy
+theory content in it
+like featured prominently and that was
+like a real wake-up moment of hey if
+we're
+approaching this purely algorithmically
+with you know all these algorithms that
+uh you know try to understand what
+people like but we do this on the base
+of fairly kind of
+shallow signals like clicks and you know
+uploads we may fall into these traps
+and we really have to put in some
+guardrails and make sure that we don't
+let
+that kind of uh you know quote-unquote
+information to take over
+and so we had been thinking about this
+for years before the election
+and for us kind of seeing the rest of
+the industry suddenly realizing hey
+there's a massive kind of problem here
+and we should start kind of you know
+being a lot more careful
+about you know free speech quote unquote
+uh was
+was again validating in some sense
+because we had been working on this for
+for years
+wow that's a lot of responsibility isn't
+it
+to sit in that chair and understand that
+the things that you're working on are
+the
+core of information absolutely i mean i
+think it's you know it's scary at times
+because you
+uh you really are you know potentially
+uh influencing the way hundreds of
+millions
+of people think a month and you know
+that those
+uh you know subtle nudges towards you
+know believing things aren't true
+are risky from a political perspective
+you know if social stability perspective
+uh you know medical advice like all
+these areas are are
+hyper important to people's lives and if
+you're uh you know pushing the wrong
+stuff out there
+that is uh that is you know the opposite
+of our mission that is that is dangerous
+and so uh that that's kind of a fear or
+a concern
+uh again we were like occupied for
+with for a long time um and it's just to
+call out and be kind of a little um
+charitable to
+other platforms it's a really kind of
+tricky area you don't wanna it's very
+hard to
+uh be the voice of kind of truth and be
+an arbiter of hey
+every little fact you know we're talking
+about millions and millions of answers a
+week
+uh what's like what's true or not nobody
+can kind of sift through that and make a
+decision you even saw this with the
+pandemic or the early information that
+you know the most credible agencies were
+pushing out was actually false
+and at that time it was very hard to
+kind of again make that call so
+you need to strike this balance of
+allowing debate and allowing uh you know
+enough spectrum of views
+uh to kind of have its you know fight
+out there and kind of
+have that evolution of ideas but at the
+same time the stuff that's kind of
+intentionally false or deliberately
+misleading or it's kind of the
+conspiracy theory realm
+have a really hard line there and have
+the mechanisms in place where you can
+squash that when it arises
+so it's really unfair that i'm asking
+you this when we have uh
+literally a minute and a half to the
+interview but where are we headed what
+needs to happen
+so that you know when i watch as i watch
+my niece who is six years old
+as she grows up and she gets more into
+social media and she's
+so curious how how can i help her how
+can the world help her
+gain curiosity in the right way yeah i
+think that's a really key question and i
+think that you know this
+is a really interesting interesting
+intersection of regulation
+uh kind of corporate responsibility on
+the side of platforms
+uh and frankly a lot more i think debate
+that needs to happen there so i
+i don't have like a magic bullet but i
+do think platforms needs to spend
+a lot more thought and time about uh
+kind of striking that
+balance and making sure their algorithms
+don't
+kind of trend or have these feedback
+loops that end up in these you know
+places where people become convinced of
+flat air theories
+for real because of like some rabbit
+hole they went down through
+in youtube so i i honestly think that
+you know the right
+solution is some regulation potentially
+not a massive amount
+but a lot more kind of corporate effort
+uh to
+kind of squash these these pockets of
+the internet that are really dangerous
+and we've obviously seen the the
+sensitivity behind this
+the the the intersection between
+regulation and and private companies and
+what's happening especially as we've
+seen in the most recent election
+some of twitter's actions some of
+facebook's actions that you know even a
+single action
+could like like flagging a comment by a
+an official in the white house as
+something that may be not correct
+that stirs up some very meaningful
+conversations about debate the
+foundation of
+of what is the responsibility of these
+private companies
+as well as what is the responsibility
+for for their own company but also for
+the citizens and for the integrity
+of a free and fair election or democracy
+uh
+yeah i want to thank you for being so
+kind with your time it's so generous
+i could go on this for another two hours
+because everything that we've touched
+here
+is so fascinating and so remarkable
+so thank you for sharing that with me
+before we leave i have to ask you for
+three words
+that you would use to describe yourself
+optimistic persistent
+and curious
+so after all of that optimistic
+persistent and curious
+i just love it thank you so much here
+this was just wonderful tadaba
+thank you so much

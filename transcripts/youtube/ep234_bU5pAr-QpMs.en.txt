@@ -1,0 +1,647 @@
+i feel like i'm i'm just using i'm
+abusing technology just
+to make a business uh so like the with
+software
+think about like software it's uh you
+can make copies of it
+right and it doesn't cost you anything
+[Music]
+stephen blum thank you for joining me on
+20 minute leaders it's been
+almost seven years since we worked
+together last
+through the hacking generation y company
+that i ran how are you
+so good amazing that was the same
+response he gave me seven years ago so
+i'm glad that
+you know so much has changed you're
+being consistent so i just love that
+stephen you're the chief technology
+officer of pubnub i'm
+incredibly excited to learn more about
+what you guys are doing
+and diving into some of the things that
+really make you excited about the
+technology you're developing but before
+that
+i always love starting with the journey
+of the entrepreneur
+and the journey of the leader because
+you have a phenomenal journey you've
+worked at quite a few companies
+as lead as senior developer and
+architecture so tell me a little bit
+about what you're
+what you're passionate about and and
+taking all the way back to your college
+days how do you get excited about
+technology
+to the point where you are now oh wow
+yeah uh it's it's it's a lot it's a lot
+it's a lot yeah really it's really it's
+all about that means to an
+end so technology sure it's great
+and it can get you to where you want to
+go from from what gets me excited
+what really excites me is that business
+model right i'm
+really attracted that this is a way to
+like yeah attract you
+you don't hear that so much from chief
+technology officers right
+um yeah that's a that's actually a good
+point and uh
+i feel like i feel like i'm i'm just
+using i'm abusing technology just
+to make a business uh so like the with
+software
+think about like software it's uh you
+can make copies of it
+right and it doesn't cost you anything
+right
+i like that idea that means production
+costs are pretty dang low
+so how can we make that a business uh
+and then how can we make that easily
+consumable if you just press a button
+and you magically get say pubnub for
+example
+that's like the best possible business
+because it's like money in
+easy oh no problem uh and it takes a
+little bit more than that like with uh
+with a
+company like pubnub there um there's of
+course
+that freemium model right so it's like
+give you the taste make sure that
+it's what you're looking for and gets
+you that aha moment
+oh wait a second i didn't know that's
+something that could be done
+like that's that's like that's what one
+of my challenges is trying to educate
+the market saying
+this is something that you can do and
+especially now with you know a lot of
+the work from home
+we've seen a massive increase in in our
+graph or
+our traffic okay so since we started on
+pub now what what is pubnub what service
+are you providing and what is that aha
+moment that you're referring to
+that people already in the freemium
+model are getting
+uh yeah so this uh so we're a
+communications platform that allows
+uh multiplayer gaming or delivery
+or peloton bike experiences where you're
+shared in a classroom
+and uh there's just so many things like
+we have delivery services that use this
+so it tracks the map uh the car on the
+map as it's going by
+like how how close is my chipotle order
+i'm hungry i want it
+i need it now so that's the kinds of
+things that we we take care of and we do
+it really
+we're better than everyone else doing it
+and uh we've got we're actually the
+world record holders
+actually in the largest online events
+yes what what does that mean tell me
+about these world record holder
+holdings uh for the largest number of
+concurrent
+uh audience members in history in human
+history
+we hold uh for sporting events in a
+subsidiary of disney
+uh we we powered their television
+televised event and
+millions tens of millions of viewers
+were all
+connected with this shared experience
+and power through power through our
+network this sort of like
+a nice little badge of honor that we
+have stephen that we've achieved
+you're sitting either at home if it's
+coveted or in your office if it's
+the regular life and in real time you
+have tens of millions of people
+that are getting their data getting
+their their experience
+through pubnub and it's a technology
+that you're responsible for
+you are the leader of it you are you're
+you're holding the technology stack
+right
+is that scary is that fun
+oh it's it's uh it's exciting there's
+just so much
+those but it's also a little like you're
+saying scary
+um yeah because we we actually power
+uh we power airports and the feeling of
+planes
+and we make phones ring and
+really important messages they go
+through the system and we can't lose
+them
+like if we if we lose them some
+catastrophe is awaiting
+and if like some big like we have
+and we have to keep the innovating right
+we have to keep software moving so we
+need to build a system
+right that is able to be updated
+while not dropping a single message
+wow that's hard that's scary that's
+challenging and
+that's that's like that's what we're
+that's what we're doing and that's what
+we're really good at
+you you mentioned the term educating the
+market before
+actually a lot of the things that you've
+been referring to in this talk so far i
+i feel like
+i i think that i've you know been
+learning through all these different
+entrepreneurial courses at stanford
+or venture capital courses or
+entrepreneurial courses and andreessen
+horowitz articles and you've condensed
+it into your
+pubmed journey which i think is just
+inspiring what what is educating the
+market to you and how did you need to
+educate the market to get pubnub to
+where it is today
+so it's a it's the same it's the same
+challenge with every company you know it
+doesn't really matter if you have like a
+very specific product
+or sort of a horizontal communications
+network like we have
+the challenge is finding a way to
+communicate with
+a specific industry and use case right
+so how i was describing
+the car on the map right that's going
+through you can see how close your
+chipotle order is
+you need you need to have those stories
+you need to relay them
+in a digital fashion in a way that's
+consumable for your audience right your
+target audience
+right that's that's like the hardest
+part and it also feels
+it feels scary to do that because now
+you're sick
+you're like siloing your market and it's
+like but we're only going to capture
+this
+level of revenue and then it's like what
+what about all this other
+sea of revenue over here you're leaving
+it on on the table
+actually no you're not because you
+you're gonna laser focus and you're
+going to nail
+that target you're going to get those
+customers so that aha moment you're
+going to
+be able to bring in more qualified leads
+and then you can take that pattern this
+is a cool part this part i love i love
+this
+you can repeat it you can repeat that
+pattern and go after
+all the rest of those industries and all
+those markets and
+and win at a much better rate and that's
+that's critical you have to do that
+verticalization so from what i
+understand a lot of
+the majority of people fail at that
+laser-focused part right so they have
+they may have a good product they may
+have a good idea they have a good sense
+of the market
+but they failed to have that laser focus
+and i'm thinking back to
+a first-run article about superhuman
+where they talk about how they how they
+nailed down on their on their target
+market and and really
+were laser focused what was that
+experience like for you how do you
+become laser focused on a specific
+sub-market of the sub-market
+uh truck it's trial and error but also
+it's there's there's a bigger there's a
+bigger hurdle it's ourselves
+it's ourselves because convincing
+ourselves to do it
+of course is is the biggest biggest
+challenge and we're we're a big team
+right
+and a lot of folks are responsible for
+getting those those keep those key
+metrics
+successful right we got to tart we have
+targets and goals and we have to hit
+those
+and then if you just focus on one
+particular area
+[Music]
+it's worrisome so trying to like get us
+all on the same page to do that that's
+been the
+number one challenge i love the hardest
+problem i love it
+steven take me back 10 years you're
+starting out uh
+pubnub what was that like tell me they
+told me that the
+the founding story of provenance
+uh so i was always been entrepreneurial
+right my uh my my family my grandfather
+they owned a local
+a local business in in the city and they
+sold
+you know uh pipe fittings and uh and
+other types of utility
+utility uh systems that that uh
+i don't know if that inspired me or
+ingrained me
+into just being oh this is the way it
+needs to be
+we just have a business and you go for
+it and finding like an approach there's
+always had that
+always had that a desire uh wrote so
+with pubnub just uh it was like
+oh this is a new way here's a problem
+making i need i want this phone over
+here this
+this phone like i want this phone to
+talk to that thing over there and i want
+it to be as easy as possible
+how can i make that possible how can i
+do that well i didn't know much about
+networking i didn't know much about
+yeah i was like i was like it was like
+how could i make that
+easy okay uh i need to learn about this
+i need to learn about
+linux kernel apis i need to learn about
+networking pas what is an ethernet frame
+what is
+uh what does it look like on what's a
+tcp tuple right
+can we do udp what is that what is even
+that right
+so i had to figure all that stuff out i
+didn't i didn't know i just and but i
+wanted to be
+i wanted it to be the best right i
+wanted it to have like
+all these technologies out there that
+allowed you to do communication had
+limitations
+right like uh like the att network they
+have
+so much hardware because the software
+has limited
+i'm like i want i don't want that limit
+i don't want
+my when i make phone ring across the
+world i don't want it to wait three
+seconds
+because it has to go through all these
+switching boards i want it to do
+as soon as you press your finger on the
+phone the call button i want it to ring
+on the other side
+like that's that's what my goal was so
+like having having that objective
+for like high quality and efficient and
+then just being able to sell it as well
+without having any overhead that was
+that was the goal it's like creating a
+business that could do that
+and get people really excited and then i
+could take it and then show people how
+cool it was
+on every single possible use case that
+was that was the vision that was a
+driver
+so i'm going back to the beginning
+you're saying the technology for you
+as the chief technology officer is a
+means to an end what you're really
+excited about is the impact that you're
+able to make
+whether it's connecting tens of millions
+of people and a single
+point in time or over the span of 10
+years really educating the market and
+becoming a market leader
+and and and this multiplayer
+communication
+so back then when you're talking about
+you know figuring out tcp udp
+ethernet frames i mean that's
+complicated stuff that's not the eddy
+stuff that the average person would just
+you know on their friday night sift
+through wikipedia and you know um
+research papers and learn about so there
+has to be a deep technological curiosity
+beyond
+just the means to an end right
+you would think really
+uh maybe is it so like would i do this
+for fun
+just for the heck of it right like that
+would be kind of like the question
+uh maybe i mean i did i did some game
+development back in the day and i
+thought that was pretty cool
+right getting into video games you're
+breaking the whole conception of what i
+think
+of a chief technology officer stephen
+this is this is very difficult for me
+yeah yeah yeah it's uh i mean i think
+even if no matter what your like
+approach is
+and your stance on technology and and in
+your your field as well
+i think it comes down to what's what's
+mo what's driving you what
+what's pushing you forward what's going
+to make sure that you're
+you're you're succeeding and you're
+always at the forefront
+it happens that technology has to be
+there in order for you to accomplish it
+if it was wizardry and magic i would
+probably
+i'd probably be doing that but it's this
+is as close as we get
+technology so andreessen wrote the
+famous piece software is eating the
+world you're evidently
+a you know a key figure and improving
+that software is eating the world i love
+the analogy that you made
+to att's you know hardware solution
+versus a software solution
+and obviously andreessen that's that's
+what he touches on that the fact that
+you can scale
+at practically no cost and get
+exponential
+increase in usage for a relatively
+linear increasing cost i mean that's
+that's the name of the game
+but but it must not be that smooth of a
+journey over 10 years it can't all be
+i'll be you know butterflies and
+whistles right so so
+what are talking about some of the
+hurdles that you passed through and how
+you overcame them
+well yeah we're software and we make
+we're human since we make mistakes but
+we're really good at
+realizing those mistakes okay and that's
+probably like the best part of humanity
+is like
+i would say that's our strongest asset
+right
+is being able to recognize mistakes and
+fixing them
+uh and we're we're not available we've
+made mistakes
+some of our client sdks are connectors
+to our network
+we're running on att phones
+and there was an upgrade that they made
+which caused some sort of
+incompatibility thing
+and it it made the device connect and
+disconnect
+over and over and over and we had to
+create new cipher
+uh cipher keys every single connection
+because we're
+we want to make sure the connection's
+secure and then it cost
+and it was a slow rollout and they
+didn't upgrade and
+eventually all the phones all the 18t
+phones in america
+were doing this they were doing connect
+disconnect over and over and we're like
+what's going on we can't
+we didn't have any logging at the at
+layer 5 and we didn't know
+we just we just saw that the the cpus
+were going to the roof like what's going
+on what's going on
+it turned it turned out that we had a
+faulty reconnect
+logic inside of our sdk for the
+particular sdk that
+t was using on their phones and in order
+to
+to solve that we had to get all att's
+ip block space that they owned for the
+cell network
+and then route them to a specific
+destination so that way we can get the
+rest of the traffic healthy
+it was that happened this year
+wow that was this year yeah and it was
+it was very tragic and it was very
+heartbreaking uh
+and we we did we did hurt we did harm
+some of our customer relationships but
+we we were able to figure out what the
+problem was and we solved it and
+in the future if we run into this again
+we have
+we have the tools ready right i i i love
+going back to what you said that as you
+know humanity we're really good at is
+identifying the mistakes we're making
+and hopefully solving them and i don't
+think that
+you know all of humanity is good at
+doing that i can think of a few key
+examples
+we're not necessarily good at doing that
+but but but i love
+the i love the fact that you are
+taking the lessons and and being very
+direct about it being very
+intentional about the lessons that
+you've learned there
+owning that mistake and and improving
+upon it and and i think that's that's
+the responsibility of being a leader and
+a market leader
+in something as crucial as multiplayer
+communication what were some of the most
+enjoyable moments
+of this 10-year journey as an
+entrepreneur
+that's uh working working with the
+customers that still still
+still is today being able to see them
+like wow is it really that easy yeah
+it's if i could make it easier
+i would i would and i am working on that
+right now making it easier faster better
+stronger
+that's we're not done yet but just
+getting like some of our biggest
+customers are
+multiplayer games for mobile phones
+they're they're
+huge and they have the largest player
+base and the most loyal player bases
+right
+and so we need to make sure they're
+happy right because we want to keep
+their revenues growing as well
+our customers revenue and just just
+being able to provide that and say this
+is us we can do that for you
+uh is is very satisfying right it's very
+satisfying i don't know
+right are there are there some lessons
+that you learned as a technology leader
+in the company because they're both
+obviously you're you're you're leading
+people but you're also leading
+technology and and sometimes it feels
+that there's this like
+weird intermixing between the different
+roles of the you know the ceo the cto
+especially in record technology
+companies how how do you look at your
+role as a cto in terms of leadership
+what's uh by example i would say
+probably i mean i kind of like think of
+it from that i mean if you're kind of
+going down like because there's
+different flavors of ctos if you ask and
+this is this is actually common
+questions like what do you what do you
+do a cto those kinds of kinds of things
+like
+well really what what are you asking
+really like what are you what are you
+trying to get at
+like usually these are other technology
+folks who are asking me this question
+that are in that role or about to go in
+that role
+and it's very different some are are vps
+of engineering and they
+operate the team uh and sort of manage
+managers and and sort of help
+structure that out and create like uh
+you know trajectories
+and career paths right right there's
+there's that kind
+uh there's also um innovators right so
+at a larger companies you've got these
+principal engineers or
+ctos and they they look for
+the frontier they're like what's new
+what's what's amazing
+what can we do to our company to make it
+more secure
+make it a billion dollars richer right
+with
+modern technologies how can we inject
+those texts into and so there's
+for me though i'm an entrepreneur like i
+said it's a little different so i
+i focus on what can we do what metrics
+can we
+monitor over the years and
+for our teams to be able to be more
+successful right and to know
+that they're successful even before they
+get like
+a review right the annual review type
+situation
+how do we do that how do we make the
+business scale how do we solve
+training right because for for us though
+it's really hard because
+the language is different yeah every
+single customer they come to us
+like we need we need real time geography
+map updates and now you've got a wholly
+different than
+multiplayer multiplayer connectivity and
+i need to make sure that we have these
+technologies and we can filter these and
+we have this number
+it's just a different conversation each
+time so it's hard so that's kind of
+things that we solve i love that stephen
+i wish we could talk on for another hour
+about this
+it's just so fascinating but
+unfortunately i for some weird reason i
+called the show 20 milliliters instead
+of
+hour minute leaders so thank you for
+being so generous with your time
+i love to end with my favorite question
+which is three words that you would use
+to describe yourself
+ah wait that's like your whole hold on a
+second
+that's one that's a really hard one to
+do you should have like
+prepared me for that one so maybe you
+did and i didn't read the email no no i
+i apologize but but it is my favorite
+question obviously i'm not holding it
+accountable for those three words
+off the top of your mind what words come
+to you when you think of
+who who what is the type of leader you
+are how would your co-founder
+you know think of of stephen blum
+uh about realization
+and overly excited i love that i'm
+holding back i love that i'm holding
+back right now
+i love that stephen thank you so much
+this was wonderful
+really inspiring and and i love
+following your journey thank you for
+being a great supporter seven years ago
+of my projects
+i'm very very thankful for that and stay
+safe and stay healthy throughout this
+pandemic
+yeah it's been great thank you thank you
+for the time and
+same to you thank you very much

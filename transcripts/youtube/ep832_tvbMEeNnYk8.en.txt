@@ -1,0 +1,595 @@
+in that eventually the question is
+pretty simple i'm giving a loan to
+someone will i see the money back with
+the interest or not
+by the way it's not an easy answer but
+at least when it's coming you know if it
+was a good investment or not
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homework ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+welcome to 20 minute leaders i am with
+yerev omel today the co-founder and ceo
+of rego he brings 22 years of software
+development and product management
+experience and more than 17 years of
+leadership of software groups and
+companies
+before joining rhaego yariv served as
+the general manager and founder of
+technicolor israel in addition he held
+positions of head of r d at jungo
+managing software deployed in more than
+70 million homes
+he also as the large-scale rnd product
+executive at cisco and radcom yariv
+holds a bs in computer science from tel
+aviv university and an mba in philosophy
+yadiv omer welcome to 20 minute leaders
+thank you very very much for joining me
+today how are you good great thanks for
+having me you know this intersection of
+machine learning ai and
+um and any new vertical that pops up i
+think is is super ultra exciting and uh
+and i'm really excited to hear the story
+of of rhaego and your story of how
+you're using data and and and really
+interesting technology to try to
+identify
+short-term um real estate debt and
+investing and it's a world that i know a
+little bit about and and i'm coming from
+the ai space and so i'm excited to hear
+these 20 minutes how it unfolds into
+into your world and so thank you very
+much for being here thanks great you
+don't come from the real estate
+area you know as a right for over years
+what led you to start a company
+in real estate correct so my background
+is tech i mean i'm doing taxis i
+graduated at aviv university 23 years
+ago
+most of the time in telecommunications
+and networking i started also a company
+doing machine learning for wi-fi
+optimization eight years ago
+and a partner i have a very good friend
+of mine he based in atlanta is doing uh
+real estate investments for the last 20
+years
+and for for a decade is asking me i mean
+how can we combine you know real estate
+investment expertise on one head
+software machine learning automation on
+the other end to put them and to get a
+better result really give some a
+scientific consistent angle to real
+estate investments
+and when i after my last company
+was purchased then we decided okay let's
+try and do that let's try to figure out
+in which vertical and how can we utilize
+new data science technology also into
+the real estate investment world
+so we have to take a step back and and
+you know a lot of people keep asking you
+know why do we also need ai here or why
+is this even relevant for the
+why what is sort of the problem space
+that we're dealing with in the in the
+real estate world that you've identified
+that we're lacking perhaps some some
+some important tools to make some
+assessments you so think about let's see
+the market that we are active in right
+so there is a real estate developer that
+wants
+to do uh to do a project right he
+acquire a home rehab and sell it or
+require land to to to do some
+constructions and you need to find
+something so think about the the
+institutional investors that really
+finance this loan need to do the risk
+assessment right they need to decide
+eventually if to invest or not invest do
+they see their money back with the
+interest or not and what tools do they
+have today
+so they have their archive xl model with
+20 parameters that
+never
+almost never changed i interviewed
+dozens of analysts in the last three
+years i always like to ask them when was
+the last time you changed your excel
+model and the answer is
+basically never and why
+and why people are not changing their
+their models because it's hard i mean
+let's assume let's figure out i need i
+think that i know a new parameter a new
+data point that i think it's important
+how do i know the weight do i have a
+crystal ball to tell me and let's see
+even if i have had a crystal ball to
+tell me what is the weight of the median
+household income or the new amazon store
+in the neighborhood how do i test it how
+do i convince investments committees so
+eventually what is really happening is
+that the investments committees and the
+analysts are basing their decision or
+personal you know experience which is
+ultra reported
+and mainly derived from previous
+failures but not on consistent
+data and algorithms so i just want to
+clarify make sure that i understand what
+you're saying here is that we have we
+have all these parameters that we
+generally know about right we know about
+new neighborhood
+status you know education systems you
+know these are things that for for
+dozens of years we've known to determine
+you know a value
+properly evaluation of a house but now
+you're saying there's all these other
+parameters that are coming in that we
+should be taking into consideration for
+example the proximity to the next to the
+nearest
+micro mobility station right i mean
+that's a that's an important factor that
+right now i'm guessing is not a
+parameter in these in these hard-coded
+excel sheets right exactly exactly that
+and now and real estate analysts believe
+that for example what you just said or
+let we just added a new parameter which
+is the mean time uh commute to work in
+the zip code which is important but you
+know
+if you ask analyst how you're going to
+model it he just don't do that so he's
+deciding eventually by by knowing that
+something inside of him right from his
+personal experience or around the
+investment committee table but how can
+we take this experience or understanding
+of real estate and model it with you
+know big data stuff and
+statistical models advanced statistical
+models to a real decision making which
+will allow him really to do much more
+accurate and mainly much faster than
+what he's doing today right and so
+especially you're taking a lot of these
+heuristics that we we are probably
+bringing to the decision table ourselves
+and we're modeling them so that and i
+think the keyword here is consistency
+and and you shared something interesting
+with me before that you know if you take
+a team of analysts in a given
+firm and you perhaps replace them with a
+new team of analysts it could be that
+the portfolio is very different
+is that
+is it right or wrong i'm i'm a little
+bit confused
+by the way our investors so we have a
+few very big institutional investors
+that one of the reasons that they picked
+us although we are more like the new guy
+in the in the neighborhood and with less
+track record this was exactly about that
+they said that they said that you know
+you need to have a consistent model
+based on data that can be uh you know
+evolve we had i mean we saw it by the
+way by the way now we're seeing it what
+going on and now with the interest in
+inflation and we saw it in back in 2020
+when covet hits everybody knew you know
+unemployment is a big issue maybe places
+that affect by tourism is a big issue
+but how do i model that in a in a
+scientific matter this is this is a hard
+thing to do and this is exactly what
+regal brings to the table a new way
+people might say a smarter way to
+underrate it and you know be adaptable
+uh to the market so i think it's also
+important to make the comparison here to
+let's say to the venture capital market
+you know
+i'm i'm coming from the vc world and a
+lot of people in following the show are
+in the vc world where there is often
+this sort of like this magic sauce that
+you meet a founder and you say you know
+what i don't all the all of the
+statistics are saying not to do this but
+i think you can make it big and you'll
+make a big company in real estate it's
+not really like that right you're not
+looking for the 100x
+on your investment you're looking for
+some margin that hopefully you can model
+scientifically correct correct and we
+decided we caught that and i by the way
+i believe from my experience that really
+building it for equity investment is
+much harder but this way we went to the
+debt in that eventually the question is
+pretty simple i'm giving a loan to
+someone will i see the money back with
+the interest or not
+by the way it's not an easy answer but
+at least when it's coming you know if it
+was a good investment or not and i think
+building uh
+machine learning tools for that
+is more i mean and you see it in in
+other places you see it in consumer
+loans you see the small medium business
+loan sure we brought this you know to
+the archive real estate investment
+how did you decide specifically to the
+to the short term real estate debt world
+well why not
+yeah first it's true we're talking about
+or if people call it the fix and flip
+world which is basically a one year or
+two years long for real estate
+developers to do their project we needed
+there was few reasons for that first we
+needed something that ends pretty
+quickly because sometimes real estate
+investments can take five or ten years
+so
+unrelated to the fact that you build
+model or historical and you prove your
+model on historical
+track historical data you still
+everybody needs a real track record
+proof right where you put the money and
+how it went and now after three and a
+half years we already invested in more
+than
+a thousand loans 500 have been repaid in
+full and already recycled without any
+lost touch wood so we decided to go for
+something that we can prove pretty
+quickly this is one thing a second thing
+is that we wanted to get to something
+that is in real estate again because we
+have the asset is pretty secured from
+the beginning so we look for something
+that when you develop something when you
+build something there isn't a more like
+unknown compared let's say for a regular
+mortgage right that people take for 30
+hours from their home if i'm building
+something you know you you don't really
+know the value after the rehab you have
+like risk on the on the on the plan and
+etc so there is a greater risk and we
+believe the technology the greater risk
+technology can benefit more so this was
+the main tourism going that this
+direction
+what what is sort of the
+the engineering process that you're
+going through you're you know you're
+you're thinking okay how can i
+improve my model
+and given the changing world what what
+is sort of you know the
+the the iterations that you're doing to
+try and add more parameters or fine-tune
+your parameters here so so usually i'll
+take about three verticals how you
+really improve your models so one thing
+is about the data so unfortunately or
+maybe the opportunity in our world the
+data is
+very untrustable unorganized
+unstructured not clean so there is you
+need to bring clean trustable order data
+and so this is what is more low
+historical loans that you know how the
+perform you bring is better as more as
+data points you bring is better as long
+as they are trustable and you know how
+to track them so this is one that we
+have a team a data generic team that all
+the work is bringing more and more data
+try the data try the model second thing
+is about the technique itself so we have
+few phds in the team that they need they
+try to improve the techniques should i
+use a different statistical algorithm
+should i tune the algorithm right so i'm
+trying then every time i need to to test
+all the kpis all the statistical kpis
+and the third thing which is also very
+important is the real estate expert
+people that we have in the team that
+give a constant feedback to the team
+does that work does this make sense
+and the combination of you know the data
+engineers the algorithms guys and the
+real estate people
+sitting together on the same table this
+is the real process the the loop that we
+are doing in order to improve the models
+right and so i think you're touching on
+something that i'm that i'm also very
+curious about which is this idea of you
+know the human
+human machine learning right i mean the
+human computer interaction and
+and it sounds from what you're saying
+that the real estate people here have an
+important piece of the puzzle
+that it would be difficult perhaps for
+engineers simply scientific engineers to
+come and build models for this problem
+without the involvement and advice of
+the real estate sort of gurus right
+correct even i mean we like to call it
+here in the company like iron man suit
+for the for the real estate analyst so
+real estate analysts are good experience
+but if they have the right models to
+complete to give them as you mentioned
+before consistency data-driven decision
+that you know a lot of risk mitigation
+et cetera this will give them powers to
+decide
+faster which is maybe you know the most
+important improvement that we are doing
+compared to others instead of days we
+can do it very quickly and second you
+know touch areas that maybe others are
+not touching uh so this and again this
+is built in a feedback loop but
+eventually gives some we call it super
+powers for the real estate analyst in
+real time uh you know to react to
+opportunities
+right what what are some what are some
+interesting things you found through
+your through your work that if you were
+to ask you know real estate analysts
+five years ago whether they think this
+would be an interesting parameter to
+take a significant look at they would
+maybe not agree with you
+yes so maybe i'll answer in two things
+one of them is sometimes a very you know
+trivial parameters let's say the credit
+score of a person which is a very
+important of course parameter
+usually but sometimes it's not maybe if
+i tell you sometimes a very bad it
+doesn't matter if you have a good credit
+score or best credit score if you tell
+it to a banker you know they will be it
+will go mad yeah but how machine
+learning works is about correlations of
+parameters so we take 300 data points we
+build a profile which is eventually
+collaboration and correlations between
+different parameters so sometimes or
+usually credit score is imported but
+there are times that because of
+additional 20 other parameters value the
+credit code doesn't matter at all and
+this gives you sometimes it's very hard
+for an analyst to understand that
+because there is some compensation this
+is one example one one sort of example
+another source let's say and i just want
+to make sure that i understand because i
+think that that was fascinating because
+we're saying that it's not necessarily
+you know the example that you give it's
+not necessarily that we're coming up
+with a new a new parameter that but that
+on its own
+provides a strong signal for between the
+zero and the one
+rather it's actually a it's it's a it's
+a
+pattern of of the parameters that coming
+together give provides some story you
+know if it's exactly or coupled with 15
+other parameters of certain range values
+that's another indication
+and that is something that we as humans
+no matter how smart we are we just
+cannot fathom because we can't have as
+we can't hold for sure you cannot wait
+them for importance so and this by the
+way gives us a lot of ability to land
+sometimes tomorrow or to project that
+didn't get you know uh financing without
+us so because you know some we just we
+just like a week ago we found an
+opportunity in a rural place you know
+not with a lot not a lot of transaction
+most of the institutions are never lent
+to such places but it were like
+additional 20 other parameters that
+compensated on that which is still a
+very strong deal and we did it so this
+is one sort of way
+which is interesting way
+if you want more like exotic thing or
+something like that we just added an
+interesting uh thing we bought
+there is a company that uh what what
+they do they
+they uh
+calculate a quiet score how quiet
+from noise point of view is a home okay
+if you ask analysis i mean what does it
+mean what do i care how quiet it is but
+but we found that many times this
+parameter was pretty predictive in a way
+and uh and what we found out and when
+because we wanted to investigate how did
+they really calculated the quiet score
+and then you find real real estate
+thought how far it is you know from
+roads from public transportation from
+places etc which has real their real
+estate stuff okay so sometimes you don't
+get it but once you dig into it you find
+it and usually statistic doesn't lie
+yeah
+incredible what have you learned
+about the implementation of
+of a data-driven decisions and ai into
+places that previously
+were sort of strangers to this because
+you know the world is moving there and
+and over time more and more industries
+are going to be
+sort of
+integrated with with machine learning
+and with all these different you know
+mathematical tools
+what what have you learned about your
+own process of creating this integration
+so
+i thought it was uh
+it's interesting i'll answer it in a few
+levels so first i mean i think it's uh
+at least in the the real estate
+investment world is a very
+you know let's call it archive so people
+knows what they're doing they have been
+successful in the last 10 20 12 years
+things were good it's very hard to and
+this is the real
+core take an investments firm and asset
+management right this is the core of
+what they do it's not like you're
+selling them
+some tool helping people this is what
+they what they do okay they decide so we
+found it not easy to go inside and say
+you know this is better this will help
+you in your core really core asset value
+of your company and it took us
+i think a lot of uh
+you know
+took us a lot a lot to prove the point
+and by the way also internally also
+internally and also outside so i think
+uh i found that and even sometimes you
+know people and by the way to the other
+side as well you go to the data sites
+people write to the people that all
+always only local data they don't care
+about what is really behind it and you
+need to convince them that sometimes it
+doesn't make sense and i think the
+combination of these two worlds
+it's pretty interesting to see how you
+can you know benefit from one each other
+and eventually
+proving uh you know uh
+proving the models it's very interesting
+to do that and see
+you know
+more and more
+traditional institution investors and
+essential you know firms that invest in
+real estate that knows what they do for
+a lot for decades uh are you know
+adopting these kinds of new techniques
+and then sort of the strategy with
+rhaego you know growing it and scaling
+it
+it doesn't sound like it necessarily is
+a traditional startup model where you're
+supposed to see this hockey stick growth
+but what is sort of what is how do you
+position through
+you know strategies and and where you
+want to take this company
+in this world we we look ourselves as a
+as
+asset
+technology asset management company
+which eventually we hope
+to be to leading this uh asset
+management in real estate debt not just
+in short real estate but also for
+mortgages also for short-term you know
+like uh airbnb and others and many
+verticals of real estate that we love
+ourselves eventually the platform that
+the money will flow from the
+institutional from the capital markets
+to the borrowers and to the you know and
+all the and all the people uh that needs
+to use it with a smarter and hopefully
+more efficient a way of underwriting
+so we're not going i mean we're not
+really
+have a sas model of this kind of fire
+you're right about it we are more a
+technology asset manager that eventually
+help institutional investors to decide
+where to put their money
+fascinating and i think that again the
+the way that you're looking at the world
+and and i love how you understand how
+fundamental you're really touching the
+core
+piece of their business right i mean a
+lot of today's products and a lot of
+machine learning tools oftentimes they
+they go on and they provide features or
+some insights that are nice to have or
+they're secondary and a lot of the
+conversations tend to be around okay but
+should do we actually care about the
+value that this brings here you're
+literally changing their perception of
+where to deploy the capital and that is
+the single most important factor that
+they're being measured on and and it
+also sounds like the the way that you're
+bringing yourself to the technology side
+and your partners from the real estate
+side
+is a very healthy combination of putting
+this iron man suit on the analysts and
+so i think it's a it was a very very
+enjoyable conversation getting to know
+reagan getting to know you and and what
+you're doing and and i just love this
+world so thank you very very much
+and best of luck with frago
+[Music]

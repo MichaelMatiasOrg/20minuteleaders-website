@@ -1,0 +1,665 @@
+The conclusion I've come to is you do
+not have a technological and here I'm
+going to be uh rude but it's on purpose.
+There's no technological solution to
+stupid. People are going to believe what
+they want to believe. You can deep fake
+Donald Duck on Camala Harris or Donald
+Trump and if they want to believe what
+they say they're going to believe it.
+You can put a box around it. You can put
+warnings on it. It doesn't matter. So
+the purpose for us is a to identify the
+markets where they actually need our
+tech to help them. B how to
+uh uh combat the the what's the word I'm
+looking for? The cognitive bias which is
+the confirmation bias you have when you
+go online to see what you want to see.
+And there's a new branch of of cognitive
+science. I believe it's called cognitive
+immunity that people are talking about
+where at the end of the day like in
+everything cyber you're a cyber security
+specialist I'm not the weakest link is
+the individual so at the end of the day
+everything we supply is a tool to
+empower an individual to know if
+something is real or not but the
+decision the reality
+that you say in German the real the real
+fuse is in your brain if you don't want
+to believe or you want to believe
+There's no amount of technology that's
+going to to solve that issue.
+[Music]
+Anthony Sahakian, thank you so much for
+for joining me today. Uh really excited
+to have you with me at the Human Zero
+Day. Um, and you know, I we we just
+talked about how you pretty much you're
+uh one of the first people in the world
+to be looking into deep fakes and deep
+fake detection before uh practically
+they existed in many regards. H but
+we'll get into that in a minute. So, so
+I'm really excited to to dive into this
+world with you. Thank you for being here
+with me. My pleasure. Thank you for
+inviting me. Absolutely. Anthony, how do
+you get into deep fakes all the way back
+in 2016? What what prompts that? First
+of all, let's be clear. Deep fake is a
+term that was coined in 2017, I think.
+So, this journey started actually where
+you are in Israel where a very good
+friend of mine and my co-founder came to
+me uh and said, I want to build a
+company to detect real from fake in the
+digital world. At the time, I had spent
+101 15 years in Russia and Central Asia.
+Uh I've I've dealt with misinformation,
+malinformation, and disinformation. I've
+lived it as a foreigner living in very
+authoritarian countries. And to me, it
+was a no-brainer that we would need
+software to distinguish real from fake
+in the digital world. And I was an
+investor. I put money in. Uh the company
+started in Tel Aviv. It didn't work.
+They were using signals processing
+technology. This is 2016.
+Um didn't work. Couldn't work. Couldn't
+scale. At the time, I didn't know what I
+was doing. I'm a political scientist. I
+made my money in bricks and mortar
+businesses in Moscow and Central Asia.
+But I like the idea and I got on a
+train. I went to EPFL which is one of
+our top learning universities.
+There I met and got to know the chairman
+of JPEG. And at the time he looks at me
+and Taj, a friend of mine. He said,
+"Yeah, I think there's something here.
+The way to do it is with a Swiss
+government grant. Let's apply for a
+project detecting real from fake
+multimodel, but you need to use AI." And
+this is 2016. I mean, nobody nobody was
+using it. So, we wrote the project and
+in the middle of the project, the whole
+deep fake thing exploded. And we found
+ourselves researching an issue. At the
+time, nobody could predict deep fake.
+Now, anybody who tells you they could
+have predicted what happened, I think,
+is lying. It's But we could
+see that they would be
+exponentially better tools. At the time,
+we're looking at Photoshop to to change
+things. So, my partner originally wanted
+to do this in social media because he
+has five kids and he was very worried
+about what they were seeing and the
+influence they were getting. Uh, I was
+sitting in Switzerland and I thought,
+okay, it's a good idea, but how about we
+do it B2B? I'm too old to roll the dice
+on a one in 10 chance in success. Let's
+do a B2B project focusing more on what
+we thought would be the use case
+insurance claim management. uh we're
+still looking at that and
+opportunistically ID management came to
+us too. Is it real passport, fake
+passport, that kind of stuff? So um it's
+a very big space. It's not going away.
+And you know when they came to me as an
+angel investor in the very beginning, it
+was a no-brainer. Yeah, we need this
+now. Can we do it? How do we take it to
+market? That's all secondary. And I went
+all in as I usually do in everything I
+do. I hope that's um
+and is that explanatory enough? Well,
+absolutely. But there's still a path
+from from being from being an angel
+investor to actually being a a founder.
+I took the company over. I took the
+company over. So, we couldn't do it with
+a technology. It means that we sent
+money to Tel Aviv. They couldn't do it
+with signals processing. So, I founded a
+Swiss company. I took the company over
+and uh we decided to do it with an AI
+approach. This is 2017, very early 2017.
+2018 we got a grant from the Swiss
+government to research and develop this
+issues. And I think if we'd have to
+check this, but I think deep fake, the
+term was coined in the middle of 2018,
+something like that. Yeah. Research.
+Yeah. That I believe the term first
+appeared on a on a Reddit thread
+somewhere between and and 2018.
+Obviously deep deep learning. Deep
+learning. Yeah, exactly. So before we we
+planned the project before this all hit,
+but we're in the middle of it. So we had
+the correct vision. Now let's see if we
+can execute. Yeah. Abs. So so you've
+you've been at this for a while. So So
+what are some of your what what are some
+of your intuition back in 17 about 2016
+2017 about deep fake detection? So
+you're seeing this thing coming. You're
+you're identifying opportunities in B2B
+and particularly in insurance and
+identities.
+They came to us identity. We didn't
+think about that. I mean, every day I
+have people contact us with use cases
+that we hadn't thought about. And the
+biggest problem we have, I'm sure you're
+facing it too, is when we engage with
+customers. They want everything in the
+kitchen sink and they want it in real
+time. They want the results yesterday
+and they want it for free. So, you know,
+it's it's managing expectations is a big
+part of of what we do. I'm sorry I
+interrupted you, Michael. I apologize.
+Please go ahead. No, no, all no. This is
+this is the nature of it. Uh, but what
+what are your what are your intuitions
+back then? So, you're taking over.
+You're going to now run the technology.
+You're going to use AI in 2017. You get
+a grant from the Swiss government to use
+AI to provide good signal processing to
+to distinguish real from fake. How do
+you go about this? In what sense? Well,
+what what are some of your is it is it I
+mean how do you approach this
+technologically? I guess not not just
+not necessarily from the neural network
+architecture, but you mean you're
+sitting with your team in Switzerland
+and and what is sort of the mission? Do
+we do any deep fake detection video
+audio? How do you go about it? No, no,
+no, no, no. We wanted to build a a a a
+model that was agnostic and could be
+trained up for the use cases here. I'm
+not giving you anything proprietary. I'm
+sure you know better than I do. The real
+problem is the data and the real problem
+is the focus. Because you could maybe
+envision
+something like a large language model
+architecture that could detect a lot of
+different use cases, but it won't detect
+it precisely. And when you're dealing
+with things like insurance or ID
+management, they're asking for less than
+1% false positive, false negative. These
+are very difficult nuts to crack. So
+what we learned is the more focused you
+are on what you're doing, the better
+your product. And it's a mistake to try
+and do everything for everybody because
+you can't. So we are now focusing on one
+or two uh uh uh uh products that we're
+rolling out very targeted uh and very
+specific to certain sectors. We made the
+mistake of going too wide wanting to do
+too much. And what you find is you can't
+do anything properly. None of the
+clients are happy. So we had to pivot
+come back to something a bit more
+focused. I won't go too much into detail
+about that and the real key is the data
+and with Europe you have GDPR you have
+data constrictions uh it's not easy but
+we figured a way to do that. So the real
+question as a business is one is where
+can we bring the most uh where can we be
+the most useful but also we have to
+monetize it and it's not that easy to
+monetize uh you know as I'm sure you're
+Go ahead. Yeah. I mean, so you've
+watched the world adapt to this concept
+of deep fakes over the last eight years,
+right? So 2016, the term isn't even
+being used. I guess 2020 is when you
+have Obama, right, with Peele and the
+and then deep Tom Cruz. So, and only
+really in the last, I guess, two years,
+you're seeing mainstream conversations
+about deep fakes. only at the beginning
+of this year you see the first real
+mainstream
+significant attack of millions of
+dollars worth um and probably you and I
+both know that there have been attacks
+before but this was the one that made
+the biggest the biggest um headlines
+where has where how have how has the
+world adapted in your eyes okay to the
+deep fake threat walk me through the
+eight-year journey for you I'm going to
+tell you something feel free to edit out
+or deep fake by by my audio for this.
+The conclusion I've come to is you do
+not have a technological and here I'm
+going to be uh rude, but it's on
+purpose. There's no technological
+solution to stupid. People are going to
+believe what they want to believe. You
+can deep fake Donald Duck on Camala
+Harris or Donald Trump and if they want
+to believe what they say, they're going
+to believe it. You can put a box around
+it. You can put warnings on it. It
+doesn't matter. So the purpose for us is
+a to identify the markets where they
+actually need our tech to help them. B
+how to
+uh uh combat the the what's the word I'm
+looking for? The cognitive bias which is
+the confirmation bias you have when you
+go online to see what you want to see.
+And there's a new branch of of cognitive
+science. I believe it's called cognitive
+immunity that people are talking about
+where at the end of the day like in
+everything cyber you're a cyber security
+specialist I'm not the weakest link is
+the individual so at the end of the day
+everything we supply is a tool to
+empower an individual to know if
+something is real or not but the
+decision the real
+you say in German the real the real fuse
+is in your brain if you don't want to
+believe or you want to believe there's
+no amount of technology that's going to
+to solve that issue. So, it's a
+double-edged sword. One, you want to
+make the attacks more expensive uh than
+the defense. Two, you're never going to
+have something or at least very
+difficult to uh that's 100% efficient,
+doesn't exist.
+And three, you got to target it for your
+market and you got to build a product
+around it for them. So then you run into
+the issue of how do you build something
+that can scale that has potential to go
+to market and at the same time be
+efficient and save your customers time,
+money and in your case in Israel. I mean
+you have a lot I mean I'll give you an
+example. We were speaking with the
+governments of Indonesia and Pakistan.
+You can imagine the damage that a deep
+faked uh was it Malala Yusf was another
+young lady who was falsely accused of
+burning a Quran. and she never, you
+know, now, now if you actually have this
+on video,
+they're very concerned about that. Now,
+what good would it do to tell people
+half an hour later that it wasn't true,
+it didn't happen, they're not going to
+believe it. So, it it becomes a very
+difficult difficult not to crack. We are
+not focusing on that because I don't
+think we can solve that issue. That has
+to be done by local governments. Maybe
+technology like yours or ours can help
+them, but that's an education process.
+you know, you're not going to stop an
+angry mob from storming something
+with a targeted deep fake, at least not
+sitting in Palo Alto.
+And so you're making, I think, a very
+clear distinction between social,
+society, cognitive biases, the
+perception of distinguishing truth and
+and you reality from from lies and fake,
+right? And then there's the world of
+business and the world and you touched
+on insurance and different use cases
+within I guess the the businessto
+business perspective of where you really
+want to defend the human as the weakest
+link. And it sounds to me like pretty
+early on you you were you navigated
+towards the B2B landscape in the context
+of protecting the human. And am I am I
+correct?
+Um, how about giving the human the human
+giving a human the tools necessary to
+protect himself or giving an added uh
+arrow to his quiver
+um to detect things quickly because now
+you can't tell. You know, you can have
+one of these large language models fake
+something and there's no way the human
+eye can tell this. You know, I'll give
+you one simple example. one of our
+softwares can detect a use case. We
+we're in the data rooms of our clients.
+If you do it by hand and if you have
+experts, maybe in half an hour they can
+tell you that it's it's it's it's a fake
+image. Our software can do it in 3
+seconds. So that's the kind of thing
+we're focusing on where we streamline a
+business process. We make it move faster
+and we give the client the tools to
+detect real from fake quickly in a
+situation where they need a room full of
+30, 40, 50 people at least and they're
+not even sure of being able to do it. So
+that's the kind of thing we're focusing
+on, Michael. Right. And who who are the
+early adopters of this in your eyes?
+That's a very difficult nut to crack.
+Now you have to decide as a business
+where you're going. we have a a
+direction that I'm convinced is the
+right one after having made a lot of
+false starts. I'm not going to share
+that too much in detail, but I would say
+you would have to come to the US for
+early adoption of this technology. I'm
+not sure about the business environment
+in Israel. We had offices there. I've
+interacted with Israel, but I I I can't
+speak for it because as I was telling
+you on our call earlier, the US has one
+superpower. You better be doing 1%
+better than you did yesterday. Be it in
+your personal life or your corporate
+life, you're judged on next quarter's
+results. You have an incentive because
+you have a stock option that's vesting
+because your earnings are tied to to to
+to bonuses in equity. That doesn't exist
+in Europe. So, it's obvious for me.
+That's why I moved the company and
+myself here. You got to start in the US
+or if not the US. I I can't speak for
+China or Southeast Asia. I don't know
+it. But the issue we had in Europe too
+is Europe is the illusion of a single
+market. We were pitching to big
+insurance companies and you're pitching
+to the same company in Paris, Madrid,
+Berlin,
+different politics in each office,
+different decision makers. Half the time
+because it's human nature, they think
+their nephew can do it or their cousin
+can do it or the people they've been
+working with for years. So if you're
+going to start somewhere, you might as
+well do your PC's in a country that's as
+big as the US where if you sign one
+contract here might be more difficult,
+but at least you get the whole country
+and then you come to Europe saying,
+"Hey, this is what the Americans are
+doing. We suggest you do it too." The
+other way around just doesn't make to me
+again. I could be proven wrong. We might
+have to pivot again. But having been
+studied here and being educated in the
+US, I've forgotten what this country is
+really about. And it's about efficiency,
+you know. You don't have August off. You
+know, you don't have kids that were
+paying above market in Paris machine
+learning guys. The first question is how
+many weeks paid vacation do we get?
+Which is fine, but maybe not in a
+startup early early stage. I can give
+you a bunch of anecdotes on Yeah. Well,
+Anthony, it sounds like a an immense
+amount of learning under your belt over
+these last eight years. But if I'm
+looking now at the at at the areas in
+which so let's look at human security in
+the context of businesses and I'm really
+curious to hear your perspective. Sure.
+There are many ways in which humans
+engage with digital media, digital
+content communication like we're doing
+now. Here we are in 2024. Where are the
+areas where do you think businesses
+should be most concerned about in the
+context of the the the cyber security
+warfare on the human mind where in what
+where is the business that that CISOs or
+security professionals should be really
+concerned with okay well here I have to
+be a bit careful because I don't want to
+give away uh what we're doing exactly
+but what we're talking about basically
+in our space I think aside from all the
+processes you can automate, I mean, you
+know about these. There's nothing
+nothing magical about that is the social
+engineering aspect of deep fake. But the
+problem you're going to have is as a
+subsection of great apes,
+I think humans for the most part are
+reactive.
+We have to wait for something to happen
+in order to take action to you know uh
+to cont to stop it. One one of my
+biggest questions I met a guy who's
+Amazon is going to compete with Starlink
+soon. They're putting up satellites
+fast. They're buying land. So I met one
+of the heads of the project and I asked
+him so not that I know anything about
+this subject but top of my head is so
+what are you doing to ensure that your
+satellites are rugged? What do you mean?
+and said, "Well, you know, I think it
+was a Carrington event, 1849, 1859,
+solar flare, wiped out most of the
+telephone or telegraph cables around the
+world at that time. We're overdue. What
+happens if a solar flare hits your
+satellite? Are you ready for that?" And
+the guy had no answer. So, he hadn't
+even thought of that.
+So, it's very difficult to sell
+something to people before the problem
+is it's coming is a real one. I will add
+to that that I'm aware because some of
+our clients have spoken to us about deep
+faked social engineered spear fishing
+attacks that have hit CEOs. They've lost
+tens of millions in this. But you're not
+going to hear about it. You know, no
+company is going to come up and say,
+"Yeah, we we sent the fake CEO 30
+million last week. It it was a deep fake
+call." It's happening and it's going to
+happen more and more. So, we're thinking
+about products to defend people about
+that. Sorry, against these type of
+attacks. We're thinking about how to do
+it. Uh we we have our thoughts and and
+that's what we're focusing on. We want
+to be able to produce a tool that will
+help uh people
+uh uh uh resist spear fishing attacks.
+Uh so we have a strategy that that's
+what we're focusing on. Do you think
+that and again it's not not necessarily
+not not to give away any any of the way
+things that you're specifically doing. I
+obviously understand the the sensitivity
+behind it, but in from the insights
+you've gathered, do you think that the
+right approach is more so in helping
+teach humans to be better listeners and
+better skeptics of reality? Or is it
+more so in let's provide more
+anti-ishing automated,
+you know, detection solutions? because
+those are neither of those have been
+hugely successful in the context of
+social engineering, right? Email
+security has has some great successes.
+Uh awareness and training has
+historically been primarily for uh
+compliance purposes. So h how do you see
+you know businesses actually protecting
+people from from social engineering and
+spear fishing because they're getting
+really really good. That's a very good
+question. Obviously, education is at the
+core of all of this, but you can't
+educate everybody all the time. The risk
+you have if you step in with software is
+to be accused of bias one way or the
+other. Um, it's a serious risk. Whatever
+you're doing, whether you're you're on
+the right or the left or the middle, it
+doesn't matter. Any human engineered
+tool will have some bias if if it's even
+just unconscious in it. Um, I think at
+the bottom line it's to interact with
+your customers to teach them to be
+skeptical about everything and to give
+them a tool that they can click on or
+that works automatically in the
+background to help them with this if
+there's even a shadow doubt about
+something. We're working on that right
+now. How we're doing it that I will keep
+um under wraps for the What are you guys
+doing, Michael? What's your point? How
+what's your thought? Well, we're looking
+at how businesses are experiencing the
+pain. So, we've been really looking at,
+you know, the way that deep fakes are
+impacting societal issues from news to
+legal and forensics and and really
+really really proud of the work we've
+done in forensically analyzing the deep
+fakes and being able to reliably uh
+determine whether an identity is is
+synthetically generated or or lip-synced
+or phase swapped. And I've been growing
+more and more curious about the way that
+enterprises are experiencing these pain
+points because I think as you said it's
+it's a curious problem when you you have
+to experience the the problem as a
+mainstream issue before you proactively
+take measures against it. It becomes an
+even bigger issue when you don't
+necessarily share when you're
+experiencing the problem. And so it's
+almost like every business would
+potentially have to experience it on
+their own before they proactively look
+for solutions, right? And I will add to
+that if if you're the employee at the
+company that's victiming of it, you
+probably if you can get away with not
+reporting it, you will because it's not
+in your interest. You'll probably lose
+your job. So um that's something I think
+we figured out a way to fix. And I I
+won't share that on this podcast, but
+I'm working towards something now. Well,
+I'm I'm wishing you I'm wishing you best
+of luck with with it with what sounds to
+be like a solution that you thought long
+and hard about, especially since you've
+been at this for eight years. So, I So,
+I really do think hope that you that you
+succeed with it. Um I I'm I'm curious to
+hear your perspective on the future of
+of the space. Well, there there's
+there's there's a thought out there. I
+read a book. I think it was called
+convergence that everything is
+converging.
+Now if you add an exponential curve of
+technological growth which is coming now
+will it have what will you call it? Will
+it be will it be the hockey stick curve
+or will it be like this? We don't know.
+Quantum computing is coming it might be
+in 50 years. It might be tomorrow. We
+don't know yet. We have to look at a
+period of exponential growth where I
+think just defining what is real and
+what is virtual is going to be very
+difficult in 20 years. I mean you have
+all of these VR AR it's coming. Will we
+integrate with technology? You know will
+we all have a neural link embedded or
+something similar to it in 20 years?
+What's the world going to look like? I I
+can't answer that. The same way at the
+time we were looking at this, we were
+looking at tools like Photoshop who
+would make uh image and video
+manipulation child play. We never
+imagined in 2016 that you would have
+DALI or or any of these things out there
+where you could just talk to the damn
+thing. I mean this was so what's coming
+I would be a fool to say I know but I
+know something is coming and this is a
+space we have to be in unless we decide
+to merge with machines and merge with
+the virtual space and and live a matrix
+life or you know neurommancia type
+future that might be what's there I hope
+not you know I haven't enjoyed walking
+around Silicon Valley and see kids have
+more intimate relationships with their
+smartphones than with other people I
+don't think that's Good. I think
+arguably our first encounter as a
+species, and this isn't me, this is
+something I read somewhere, is with the
+AI algorithms on social media. And how
+did that work out for us?
+So, it's going to be a challenging time.
+You know, the trick for a company like
+yours and mine is how to develop
+technology that we think is for the good
+of humanity
+and keep it monetizable at the same time
+because as you said, uh it's not that
+easy to convince people that it's
+necessary or it's needed until it's too
+late. Anyway, that's my two cents,
+Michael. Sorry, Anthony. Thank you so
+much for taking the time to uh My
+pleasure, sir. to share this with me.
+honored having one of the very very
+pioneers of deep fake detection and we
+fell into it backwards by accident. That
+was this is pure pure pure you know pure
+luck right time right place but yeah
+wishing you best of luck with your
+integrity and excited to see the
+solution you let me know when you're in
+Palo Alto Michael please I'm in Palo
+Alto myself when you're here let me know
+we'll have lunch or dinner sometime be a
+pleasure thank you thank you so That's

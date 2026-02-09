@@ -1,0 +1,604 @@
+and you know what what the sad part is
+there's also about 120 billion dollars a
+year spent on security services software
+and hardware
+and that doesn't it helps but it doesn't
+stop the issue right you still hear
+about attacks every single day of the
+week you know we deal with ransomware on
+a daily basis you've heard you've
+probably heard about colonial pipeline
+the big cyber attack a few weeks ago
+that left the southeast of the united
+states without fuel you know uh you know
+few gas stations had like riots going on
+it was crazy and that was a cyber attack
+okay so this is the world we're leaving
+it
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright xl
+welcome to 20 minute leaders we're
+talking about the cyber security space
+but from a different angle this time
+from the insurance angle and digital
+risk this is going to be a great one
+meet roman itzkevich founder and chief
+risk officer at adbay
+roman is the co-founder and chief risk
+officer of adbay a cyber insurer digital
+risk is complex and constantly evolving
+with breaches in the news all the time
+driving trillions of annual losses to
+society at bay helps businesses prevent
+cyber loss before it happens and insure
+them for when the loss couldn't be
+avoided their modern approach to risk
+management has kept at bay ahead of the
+pack anticipating new threats and
+identifying vulnerabilities to help keep
+insurers secured
+roman izkovic welcome to 20 minute
+leaders at bay how are you
+i'm good thank you and thanks for having
+me this is going to be fun thank you
+this is going to be a lot of fun over
+these 20 minutes
+i love the industry that you and i love
+it when people come and are disrupting
+an age-old industry from the bottom up
+rethinking through technology how we
+should be interacting with the industry
+you're the founder and cro of at bay but
+previously you've done an incredible
+incredible amount of things from
+mckinsey to bain to iberi to harvard
+business school at tel aviv university
+so really it's extraordinary journey and
+and what i'm curious to start with is i
+want you to explain to me what what are
+you doing at adbay what's what problem
+are you solving and then what i want to
+do is i want to understand how does your
+journey throughout all these amazing
+companies how how did it help you
+understand that this is a problem worth
+solving and the right way to solve it
+okay sounds great so let's start with
+adbay and edbay is a cyber insurer so
+what we're trying to do is we're trying
+to provide companies with security
+against cyber attacks and you know to
+understand why this is needed i think we
+need to go a step a step back right uh
+so
+you know one of my highlights of my
+career at that bay was telling mark
+andreessen from recent horowitz that
+cyber risk is eating the world because
+it's coming on the back of software
+eating the world
+and i really believe that's true you
+know every business is a technology
+business every industry now uses more
+and more technology in their day-to-day
+operations which means that
+the risk to your technology right now is
+the main risk to your business you know
+companies are more worried about cyber
+attacks than they are about you know
+burglary or earthquakes or fires or
+whatever it is right and look there's
+about a trillion dollars every year lost
+because of cyber crime
+one trillion dollars and you know wow
+i thought it's in a few years i didn't
+realize it was already here yeah no it's
+it's there and you know what but the sad
+part is there's also about 120 billion
+dollars a year spent on security
+services software and hardware
+and that doesn't it helps but it doesn't
+stop the issue right you still hear
+about attacks every single day of the
+week you know we deal with ransomware on
+a daily basis you've heard you've
+probably heard about colonial pipeline
+the big cyber attack a few weeks ago
+that left the southeast of the united
+states without fuel you know uh you know
+a few gas stations had like riots going
+on it was crazy and that was a cyber
+attack okay so this is the world we're
+living in and because technology can't
+fully solve cyber risk we think we need
+to approach it as any other financial
+risk you know technology doesn't solve
+earthquakes as well and that's why you
+have insurance
+uh so
+so you know so the premise is okay how
+do we help with insurance and then we
+asked ourselves uh you know can
+traditional insurance deal with it and
+the answer for us was
+no and look there are two components
+here okay
+uh which are which are required and i
+think we should be dealt with separately
+one component is
+you know
+how does cyber risk behave and how do
+you tackle it and i would argue that
+it's a lot more technical you need to go
+into the data you need to collect
+information you need cyber analysts you
+don't need actuaries uh or you need
+cyber analysts in addition to actuaries
+we have both by the way
+uh to deal with this and traditional
+insurance has a very hard time the
+second issue with cyber risk is that
+it's incredibly dynamic you know i'll
+give you an example i like to give
+reinsurers when i talk to them you know
+fire is a static risk fire burns wood
+faster than stone and it was true 500
+years ago it's true today it's most
+likely going to be true in 100 years so
+when you insure a house against fire you
+know that the stone house is going to be
+more secure than a wooden house full
+stop
+we don't have this privilege with cyber
+you know when we underwrite a company
+and we look at their technology stack
+today it might look great but tomorrow
+there might
+be a new attack a new threat or they
+might change their technology stack
+because suddenly they need to move to
+the cloud or they need to start working
+remotely like many companies needed to
+do during covet and it's a very it
+becomes a very bad risk the company is
+at risk right your traditional insurance
+model when you meet your client once a
+year for renewal or twice a year if they
+have a claim is just not good enough
+this risk is way too dynamic so if you
+really want to help companies you need
+to be able to be very responsive on top
+of it and help them not only with
+coverage when they have an event but
+also try to help them understand
+when they're susceptible to attack and
+how to deal with it and i'll give you
+another example from traditional
+insurance you know let's take hurricanes
+for example okay
+so
+we know a hurricane is coming a few days
+ahead of the hurricane heating right and
+we also know the path waterless so if i
+were a property insurer imagine how cool
+it would be if i could tell everyone in
+a certain zip code on the path of a
+hurricane you know what guys
+move your houses from florida to texas
+for just three days you know and three
+days go back and everything's gonna be
+fine and you're not at risk anymore you
+know that that's science fiction in
+traditional insurance that's exactly
+what we do with cyber because many times
+the vulnerabilities are things that if
+you know where to look and what to do
+are pretty easy to overcome so so this
+is where cyber is okay and the other
+part is the infrastructure so you know
+in order to be as dynamic and responsive
+you need to use technology you can't you
+can't be manually processing data
+if you want to to adjust to what the
+attackers are doing and just to give you
+an example you know we aim for a insight
+to implementation cycle of two weeks so
+from knowing there's a new attack and
+until our portfolio is is safe and our
+all our underwriting and
+pricing models are updated as a two-week
+cycle for us that's our aim you know in
+traditional insurance that's 18 months
+okay
+you can and the problem with traditional
+insurance is they have a lot of legacy
+software which means that if you want to
+shorten those 18 months to 10 months you
+need to spend hundreds of millions of
+dollars and in numerable years and even
+then you'll find yourself with new
+legacy systems so i think that that's
+kind of the second part of what we're
+doing that is really cool and that is
+because the risk is so dynamic you now
+need a new infrastructure to be able to
+deal with it and that's like super cool
+and that's where you know that's the
+part of our business that is similar to
+other insure techs that you probably
+know that invest in technology and user
+flows and data to be able to be
+responsive to their customers
+so so i does that mean that adbay has to
+be a cyber expert
+in its own entity right to be able to
+both identify the vulnerability not just
+not just reading about it and
+understanding it but then also trying to
+really
+piece together how does our how is our
+portfolio going to be affected by this
+yeah so um we at bay have a cyber
+research team we have threat
+intelligence we have data engineers we
+have folks who were in military
+intelligence running offensive cyber
+projects because the best way to know
+where attackers are coming is to think
+like an attacker and then you know again
+what i like to tell richards is that we
+do all the same things an attacker would
+do in the first uh step of an attack
+project which is reconnaissance it's
+just with us it doesn't end with a
+breach it ends with a price you know
+it's different it's a different ending
+to a very similar mindset and work that
+we're doing
+now going going back to your journey how
+you know the the insights that you have
+here are are fantastic and i think that
+right now also we're getting to
+understand this but you've had these
+insights for quite some time what what
+led to those insights so what what in
+the journey that you've done as a
+learner and as an entrepreneur enabled
+you to come up with these realizations
+look so first of all uh i need to be
+completely honest with you look we are
+two founders today uh me and rotten my
+co-founder rotten is the
+i'm the finance guy okay so
+and
+you know my background if you look at
+what i've done i've done a lot of
+different flavors of finance i've done
+investing with being capital
+i've done online lending with ibry
+which is a very similar mindset of how
+do you take risk in an online flow use
+data to make decisions and try to
+optimise for like the flu the journey
+but also the loss ratio and growth
+right but so i'm coming at it from a
+very financial viewpoint and you know
+and and so cyber i had to learn over the
+last few years from you know brought
+them and from the teams we've built and
+but what's exciting for me about this is
+that you know if you think about it as a
+security problem
+only your the way you can react it
+becomes very constrained right and what
+i liked about it is like the
+cross-functional view of i think about
+it as a financial problem i think about
+it as how do i minimize loss in my
+portfolio and how do i minimize loss for
+our insurance and i think about it in
+dollars
+and you know that's kind of my
+background and i think that that's new
+that's a perspective that only insurance
+can give you and that's why i think
+insurance has a very strong uh
+part to play in cyber security as an
+industry as a whole and then protecting
+businesses against cyber attacks so so
+my my learning you know if you will i
+started with you know and just just to
+be completely happy with you when we
+started i knew my co-founder wrote them
+from way way back before we started this
+uh and at some point we said okay we
+should do something together you know i
+was doing lending he was doing uh
+incident response work for like a he
+built instant response teams on the
+cyber side and then he had an insight
+that you know insurance is the way to
+solve this but
+insurance companies he tried to to work
+with the ig to help them figure this
+stuff out and it just didn't work and we
+were like well i'm a fintech guy he's a
+cyber guy what do you do together well
+you do cyber insurance because that's
+like exactly the middle ground so that's
+kind of how this company started
+uh amazing
+and look but i think that the the core
+jesus hasn't changed and the court jesus
+is that you know software is becoming
+more and more important for business
+operations across the board and the
+risks to software are also becoming more
+important on the back of it so you kind
+of need to manage that that tension and
+that's what we're that's what we're what
+what nba is about
+so what what have you learned
+you know while we're while you know
+running adbay from the way that others
+other businesses are are understanding
+the cyber risks and are and are willing
+to even pay a premium to to get a
+coverage on this because this is
+something that is really non-trivial
+it's something that pretty much didn't
+people didn't even think of 20 years ago
+yeah look i mean
+um so when we started um
+cyber cyber insurance had very low
+penetration so not a lot of companies
+bought it and typically only the
+companies were most aware like you know
+healthcare providers finance
+banks that kind of stuff
+and now everyone understands and you
+know
+the the thing that is amazing is that
+how short-term
+the thinking is in the market where
+you know as a company like three years
+ago it was hard to convince folks to buy
+cyber insurance because they were like
+well yeah we've heard about the target
+bridge or the anthem bridge and all the
+news but those are very large companies
+no one is going after us you know mid
+market on small companies like who cares
+about john the manufacturing of which
+widget from uh from michigan uh but
+attackers care and you know and once you
+see see more activity folks are suddenly
+a lot more sensitive to cyber
+uh to cyber the other thing i would want
+to say that you know that i've developed
+over the last few years is a deep
+empathy for those businesses look you
+know
+they you know cyber is not their core
+capability they don't know what it is
+just like they don't know how to write
+code to use the email or office like
+they don't care and and if you don't
+know how to code uh your you know word
+to create word you can still use word
+and there's no like catastrophic risk to
+your business directly from that but if
+you don't understand cyber and you're
+not aware of that you know your business
+could end you can end up in bankruptcy
+because of one attack uh you know that's
+something that i don't know that any
+other financial risk to businesses has
+as much impact uh these days so one i
+think 100
+now how does this impact your go to
+market because i'm trying to imagine you
+know the first few phone calls to
+businesses that don't necessarily think
+that they're that they'll be susceptible
+to attacks because they may not be you
+know they haven't seen other attacks so
+how do you how do you position yourself
+as a chief revenue officer thinking
+through a go-to market strategy on this
+so uh i'll make small correction i'm the
+chief risk professor
+officer sorry about that my uh my day
+today is actually figuring out how do we
+keep folks safe and as profitable but i
+can i can talk to go to market uh and on
+the go to market side
+you know so
+in commercial insurance in the us is by
+and large sold through brokers and
+and i think that that's here to stay
+and the reason i say that is because
+once you clear the very small end of the
+market like the micro smb end of the
+market
+larger companies
+don't understand like you have it's a
+very technical buy you need to
+understand the insurance right so you
+kind of almost need a lawyer to help you
+understand what's covered what's not
+otherwise
+especially in cyber where the coverage
+has changed a lot and there's a lot of
+new stuff going on and there's a lot of
+garcia type of policies out there and
+the risk itself is very technical so
+even answering the question of how much
+limits do i need to buy like what is a
+big event for me as a business is a big
+question that a lot of businesses have
+no idea so so that's so we think that
+brokers is the right path for this type
+of coverage it is more sophisticated
+than your standard coverages
+and you know our issue has been over the
+last year or so not how do you find
+businesses and convince them for fine
+brokers and convince them to work with
+you our issue has been to actually
+keeping up with the demand we have uh
+that is coming from the market you know
+because now people are really realizing
+that going bare that's the insurance
+lingual for without coverage is is
+really scary especially on cyber uh so
+so you know so we have the opposite
+problem it's like how do we make sure
+that we underwrite businesses well how
+do we make sure that we have enough
+resources to make sure that our
+portfolio is safe even you know keeping
+up with our growth which has been super
+fast because of this
+wow and so what's the next layer where
+are we headed as a either as a society
+or an ecosystem when it comes to
+and to businesses dealing with potential
+cyber attacks
+that's a very good question um look
+here's how i think about it you know
+let's say you are a pizza shop in new
+york and suddenly you know a chinese
+tank shows up on the street and and aims
+their gun at you right you would not be
+expected to protect your business as the
+business owner from that yeah right you
+have the u.s military you have the coast
+guard you have the new york police
+department all those people
+people's job is to protect you from that
+harm right but when it comes to cyber
+attack you might have international like
+nation states going after you a small
+business in the middle of uh of the us
+and you're expected to protect yourself
+not only are you expect expected to
+protect yourself the government will
+fine you if you don't do a good job and
+you know they get access to customers
+and i think that that's deeply unfair
+okay and not only do i think it's deeply
+unfair i also think that you know
+insurance playing the only protection
+role in there is also unfair and i don't
+think that that's a sustainable position
+i think that you know i would expect
+governments to start protecting you know
+businesses that are operating within the
+country against those international
+attacks so i think that you know the
+discussion or whatever i've read about
+the discussion between biden and putin
+about cyber attacks was on point and i
+think that that will escalate and i
+think that over time governments will
+take a deeper and deeper role in this
+and i do want to say that you know going
+back to the colonial pipeline attack
+one of the things that these are most
+amazing about that attack is that
+kodian pipeline had a ransomware attack
+they stopped operations they couldn't
+supply gas to a bunch of the us and then
+they paid ransom about four million
+dollars in bitcoin to
+uh get their systems back and then a few
+days later i've read that the fbi i
+think
+went and closed back most of that ransom
+money from the bitcoin wallets of the
+attackers
+and that's a first
+uh but that's also how you know
+governments typically deal with
+organized crime they go after the funds
+because if you make the business very
+unprofitable
+you kind of close the incentive and i
+think that that's a first you know i
+would expect to see more of that uh and
+i'm actually surprised that more of that
+haven't happened before that because
+the colonic pipeline is by far not the
+biggest ransom ever paid or the biggest
+impact on society that ransom had
+ransomware attacks had over the last
+couple of years
+well i think we're in the beginning of a
+new age and i think you're completely
+right and i'm
+both interested and frightened to see
+what what will happen uh but it sounds
+like you're at the right place at the
+right time and and really thank you for
+taking the time to come and share your
+story and your insights with me now
+roman i want you to take me back a
+little bit to your experience again back
+to your childhood what what really
+fascinates you as a kid and are you
+always fascinated with financials even
+in middle school let's say
+as a kid the thing i cared most about is
+science fiction books
+and
+more specifically uh the better science
+fiction writers are the ones in my mind
+who invent a new technology and then
+explain the impact of that on society
+and i think that what what we're seeing
+happening with cyber is is a is a very
+similar thing so that's gonna i've read
+a lot that's all i did for many years
+amazing and and what inspires you today
+either professionally or personally
+um
+i i you know
+trying not to be uh boring here but uh
+our team our team at bay you know we
+have an amazing team and one of their
+main challenges is those are people who
+come from very different disciplines and
+try to american a traditional insurance
+world with cyber security and data and
+it's not a trivial marriage
+it's very you know sometimes it's like
+speaking foreign languages and i think
+our team does an amazing job of
+navigating that so that's always
+inspiring to see very very cool and what
+are three words you would use to
+describe yourself
+uh that's a tough one um i'll choose
+thoughtful honest and ambitious as those
+three points
+thoughtful honest and ambitious woman
+thank you very very much this was
+wonderful to talk about this was so much
+fun and enjoyable and insightful and
+frightening all all at the same time
+so i really wish you best of luck with
+that bae and stay safe and stay healthy
+thanks michael have a good one
+thank you
+you

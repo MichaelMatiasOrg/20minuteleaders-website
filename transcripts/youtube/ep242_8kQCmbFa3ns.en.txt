@@ -1,0 +1,664 @@
+we visit all the pages of the web we
+actually render each page in a real web
+browser so that
+our ai can see the page just like a
+human does you can see
+the actual pixels the look of the page
+so it's more than just a text of the
+page
+[Music]
+mike tong thank you for being on my show
+how are you all the way from
+a silicon valley i'm doing well thanks a
+lot for having me
+i'm very excited to chat with you about
+ai about your entrepreneurial journey
+what you're doing at diffbot but we have
+to go back to
+being a child musician playing at
+carnegie hall
+what is that about how do you get to
+play carnegie hall as a child
+well um i think my story is similar to a
+lot of
+um chinese americans uh they're sort of
+forced to play an instrument at a young
+age
+uh by their family but i i think um
+you know the the main purpose of that is
+just to learn discipline and learn
+practice so yeah as a child i played
+the violin for maybe i don't know about
+18 years or so
+before before college and i ended up
+playing with the group at carnegie hall
+that's that's remarkable so you you grew
+up in taiwan right you're an immigrant
+from taiwan
+tell me a little bit about your
+background and and moving
+along with that background through
+carnegie hall to a
+to get to doing ai at stanford for your
+masters
+um well it's a lot to compress and a lot
+of years to compress but but basically
+i was born in taiwan i immigrated to the
+us when i was about two years old
+so don't remember too much about taiwan
+from from back then
+but my parents my dad came to the us as
+a grad
+student studying biochemistry and
+he later on taught at universities as a
+professor
+in pathology and later
+off spun and founded his own biotech
+company you know that he's developing
+actually
+vaccines for um hiv and
+even one for covid right now over in
+atlanta
+georgia wow and so i grew up in a very
+entrepreneurial
+family growing up in a very
+entrepreneurial family what does that
+mean you immigrated from taiwan you were
+telling me about
+what your father was doing but what does
+it mean being in an entrepreneurial
+family
+well it just means i guess it was
+something accepted you know or at least
+not
+not crazy to be an entrepreneur since it
+ran into family i guess
+um however you know while the rest of my
+family is sort of like in biotech
+in biology and i i worked at my dad's
+lab actually growing up and i realized
+that you know it's
+i wasn't cut out sort of to do biology
+um
+i spent you know many hours waiting for
+centrifuges to run
+you know extracting dna and building
+viruses and
+watching various kinds of clear fluids
+um develop and
+uh you know i needed a faster iteration
+cycle than that waiting days and days
+for an experiment to run
+and not knowing where you messed up
+maybe like in day two
+and that's kind of how i came to
+computer science
+so you so you're looking for this agile
+approach
+where you get to see results fast
+iterate
+pivot iterate and and get to and get to
+deeper results and and you find your way
+towards
+stanford masters nai working in the ai
+lab talk me a little bit about what
+you're doing there and and what draws
+you specifically to artificial
+intelligence then
+well i mean so it just started out
+playing with computers developing
+video games i think like a lot of the
+typical story of a lot of computer
+programmers
+and after high school actually i instead
+of going
+directly to college i worked for about a
+year at microsoft
+as a software engineer because i thought
+growing up you know microsoft is the
+place where they really invented
+software development right and i read
+about bill gates story and then so uh
+i went there i got to meet him like all
+the interns are invited to his uh
+house like over the summer i think back
+then
+so i got to go to his backyard and check
+out his place
+um and i learned a ton when i was at
+microsoft so um
+you know aft but i also realized i
+probably don't want to work in a big
+company for the rest of my life
+um so after microsoft
+what was it about the big company that
+culture that then you said okay maybe
+i'm
+more into the small company space
+well first i thought it was a great
+experience actually working at microsoft
+you know
+i i learned an incredible deal about how
+like professional software development
+is done
+but you know i realized you know i i
+want to do something of my own i want to
+uh
+i you know my bosses and mentors when i
+was working at microsoft
+you know i had to really think do i
+really want to be like that in 20 years
+or 30 years
+right um kind of doing doing that kind
+of work and
+i just wanted to do more um
+and i wanted to work in a place that was
+i was not constrained by the the
+organization
+where i was sort of like i think that's
+why a lot of people do entrepreneurship
+because um they can't really work for
+anybody else
+so throughout these experiences you're
+you
+are getting into the inter in more into
+artificial intelligence
+what do you actually do at stanford what
+is your master's in and
+what leads you then towards this idea
+for div bot
+yeah so i was i was interested in ai
+i guess way before it was popular from a
+pretty young age like when i was even in
+high school i was like
+developing neural networks to like to
+trade stocks and stuff from
+reading like a sentiment on on the very
+nascent internet at that point in time
+um so i had always been fascinated by ai
+and building
+intelligence systems at berkeley
+you know i finished an undergrad at ecs
+in about two years and then
+quickly moved to um grad school at
+stanford and i took a heavy
+concentration in ai
+and ai courses um and so
+it was at around that time when uh there
+was this data set that was being built
+at stanford called imagenet which was
+basically like a
+you know a large collection of labeled
+images um of
+they basically used amazon mechanical
+turk to label all these images that
+are from google image search and i was
+thinking okay how can we build like an
+image net for
+language because unlike vision right
+like
+the the human language what we're using
+right now is what distinguishes humans
+from animals right
+like even my dog has computer vision he
+can tell the difference between his bowl
+and a toy you know a grassy field but
+animals don't have anything like human
+language right so i was thinking about
+this problem and
+why is there no like imagenet for
+language even today there isn't really
+something like that
+and it's because there's way more
+concepts that humans have created than
+there are
+you know like a thousand image classes
+and it would take up to 50 man decades
+in order to
+uh build such a data set right so that's
+when i started thinking okay what if we
+could use ai to automatically construct
+actually a structured data set of all
+the concepts that human beings care
+about
+um and what greater resources there than
+the internet itself and that
+you know the internet i view is
+basically kind of like the world's
+largest man-made sensor
+anything that's uh an important entity
+someone's created a page for on the
+internet
+right and the only problem with the
+internet is that it's not in a
+structured format that's needed for
+machine learning
+and ai to use so i i started thinking
+back then about
+how can we actually convert the internet
+into
+actually like a structured data set that
+then applications can use
+wow fascinating so so you're starting so
+that's the research that you're going
+towards
+and i i'm also aware that you've given
+quite a few guest lectures at stanford
+about knowledge graphs and about the
+different work that you've done
+in this field so so take me through this
+entrepreneurial journey
+how do you take a research question that
+you're so excited about and translate
+that into
+a company that you're running along with
+the work that you're doing at stanford
+um well i wouldn't say it was a very
+direct journey
+so i don't think you you just start on
+such a task like that directly
+um during stanford um i was you know
+doing this research
+uh and you know uh sort of
+i guess trying to delay from writing a
+thesis
+because it's very hard to come up with
+like a breakthrough machine learning
+algorithm
+and so i was doing a lot of side things
+like i was um actually working as a
+patent attorney
+taking the the patent bar and helping a
+friend you know right past
+to basically make money on the side as a
+side hustle
+um i actually ended up working for a
+startup that one of um
+my professors at stanford uh dr uh
+professor uh prabhakar raghavan who's
+now
+um a very important person at google um
+he um
+he said i was taking his information
+retrieval class
+and then he pulled me aside after
+basically the end of the class and said
+hey i'm doing the startup
+that i'm an advisor of you know and
+would you join us i joined it as one of
+the
+sort of the founding engineers of course
+that's what happens
+yeah it's a it's a very common story at
+stanford um that startup
+um years later gets acquired by facebook
+i also had um sort of did a project with
+some buddies
+uh called quick.tv that was like a video
+search engine
+that then we later sold to cisco right
+so i had a couple acquisitions under my
+belt and i had worked as a consulting
+scientist at yahoo
+on their search and on ebay on their
+search so
+um the trend here is i got a lot of
+experience in building a search engine
+like from scratch
+um and uh these connections sort of paid
+off later like ebay one became one of
+the first customers of
+different there's actually um a group in
+ebay
+in israel called the structured data
+group that uses define
+i actually i i'm good friends with that
+group i worked with ebay closely
+on some projects that i did and my
+transition between high school and the
+army
+and and it's a really fantastic team
+yeah well they they were a user of
+diffbot and then
+um some of those engineers there um
+basically um just bought replaced
+their work and then later we hired them
+to join define
+from one of the guys from ebay israel
+fantastic
+fantastic so so what is deathbot
+and and i'd love to spend some time
+hearing uh
+another amazing founder story so you
+know taking thinking through your
+inner like you know the personal journey
+that you're like you know
+from descending from the company what
+are some of the biggest hurdles that
+you're going through
+along what are some of the most
+enjoyable moments of creating this
+company
+okay so the first question what is div
+bot so basically diffbot
+is um a search engine now how it differs
+from google
+the same how it's the same as google is
+that we crawl the web right so we
+we visit all the pages of the web we
+actually render each page in a real web
+browser so that our ai can see the page
+just like a human does you can see
+the actual pixels the look of the page
+so it's more than just a text of the
+page
+and then what we do is how the ai comes
+into play is
+on every page on the web we're able to
+classify that page into what type of
+page is it is this a person page is it
+an
+organization page is it a product page
+is it an image page
+and we're able to automatically convert
+this into structured information
+right so like a structured record about
+a person place or thing
+and then what we build is what we call
+the knowledge graph which is essentially
+you know a structured database right so
+how it differs when you
+um use google for example what google is
+is you type in a query
+and then google gives you back a sorted
+list of results right so google is
+similar to a card catalog in a library
+where it's directing you to other pages
+to read right and then
+uh google's business model is to auction
+off basically your attention to the
+highest bidder and advertisers
+there's a trade-off i guess between
+relevance and advertising
+right and then um but google doesn't
+actually contain the knowledge
+it's actually just routing you to web
+pages which you read
+and then you gain knowledge from reading
+those those results right
+diffbot is actually doing the reading of
+those web pages you know using our ai
+assembling it into this structured data
+set
+and then returning back those facts
+directly from
+our index and so the reason diffbot is
+useful
+especially for people building
+applications and businesses
+is if you're building an app let's say
+you
+um cannot just directly access a search
+engine
+you need structured data to show in your
+app and to use it in your app right
+so for example like snapchat is one of
+the customers of diffbot they
+we power like the stories features those
+articles news stories inside snapchat
+we also power other search engines like
+duckduckgo when you see like those news
+tiles or
+organization tiles if you are
+like a business that has like a crm we
+can actually
+take every record in your crm and
+automatically enrich and enhance it
+using the information we have in the
+knowledge graph
+so think of it almost like um you know
+like a professional
+search engine that a business
+application can use right
+all of your other business tools that
+you use um are not generally like ad
+support supported
+software um that's like consumer
+software right
+like your microsoft word uh or zoom
+doesn't have like
+a pop-up ad inside it and that's how
+it's like supported
+how do you how do you get to the to the
+realization that this is even something
+that's needed
+so you know i if i were to even you know
+as i am studying artificial intelligence
+at stanford and i'm working on all
+on a lot of these questions i wouldn't i
+would never imagine like maybe i should
+build a
+competitive search engine that could
+create structured data out of
+the world wide web well so
+you said the ai so you know that there's
+basically like three
+drivers right of improving ai
+performance there's the hardware
+the software and then the data right um
+so i realized early on that the hardware
+i can never really compete there i'm not
+going to compete against intel
+or you know tsmc or samsung and come up
+with better hardware right nvidia
+there's already billions of dollars
+invested in that area writing that
+better
+the software well i was trying to
+compete in that in grad school
+developing new algorithms right and but
+then
+there's like google tensorflow there's
+you know pi torch there's all this
+the software is always getting better
+and there's so many people coming up
+with better algorithms all the time as
+well
+right but when you start to think about
+data and you want to build an
+intelligent system
+you need structured data well what does
+everyone do they end up just collecting
+their own data
+they end up just kind of rolling their
+own for their own application using the
+data they have
+there isn't really like a kind of a
+knowledge store where you can just kind
+of say i want to import this data from
+this source
+and i have a core set of people
+organizations or articles
+or information to start out with that i
+can tap into
+and so that's an area where i saw there
+is actually a gap
+and looking at things like imagenet you
+can see that it was actually this data
+set that
+resulted in this new revolution in deep
+learning it wasn't actually any novel uh
+new algorithm right that was invented
+um because neural networks have been
+around you know uh
+since at least the 60s and 70s um
+so it's what i realized hey um
+why can't we build like an everything
+store of data
+um and structure the world's knowledge
+and um
+build like a new kind of search engine
+for sure these intelligent
+applications can use right so share with
+me let's say a use case that i'm
+building application that has something
+to do with
+sports right and let's say that i'm a
+that i'm dealing a lot with uh with the
+fifa
+soccer tournament or with the nfl and
+and i want to make use
+of of of this knowledge database that
+you're accumulating
+by taking the world wide web and making
+it into structured data
+what would how would that use case look
+like from your perspective
+uh if if i were to want to use this bot
+for example
+yeah so um i can show you an example
+um i'm not sure
+so so with sports one of our customers
+is called um
+sports innovation lab and what they do
+is basically they produce business
+intelligence
+for owners of like sports teams and
+sports executives
+right okay so they're using the
+different knowledge graph in order to
+track
+like um what's developing all these
+events in the sports world
+the players the teams um they're using
+it to track like which teams have like
+covet covid
+of which things are shutting down how
+are things like reopening so it's
+helping sports executives re-navigate
+sort of the reopening like postcovid and
+so they're using the knowledge graph to
+keep track of all these things right
+because
+uh it seems like things are changing in
+the news on a daily basis with each team
+and each player
+it's too much for like a human to keep
+track of right amazing
+we crawled the web keeping track of all
+that what i'd love is that is that as
+you explain this
+we're going to put write a box right up
+right above your head of how it's going
+to look so
+so how how does a company like that
+interact with diff bot
+on the on their day to day as they're on
+on both of the application level but
+also on the
+on the consumer level yeah um i
+i shared with you a link to basically
+the
+what how it looks like to the end user
+but you can see basically
+um there's this dashboard that shows
+um a visualization across time
+of various um
+sporting world related events
+you know as they relate to covet and
+sports and so you can see
+it's um it's sort of curated by the team
+uh on each team it shows like you know
+when
+that see that uh that league was
+postponed when it reopens like
+um athlete data like whether a player
+has covid
+um wow
+that's very and that's very very cool
+that's
+very very cool what was the what was the
+most surprising part of the
+startup journey for you until now
+uh well i mean startup journey has so
+many
+surprises in it i guess um um i guess
+with diff bottom
+i'm i'm surprised by different use cases
+of of
+our technology at all the time right
+every day you hear about
+um one of our customers using it in a
+way that you didn't expect the
+technology
+to be used in so i think that's one cool
+thing about building like a platforms
+kind of company
+is that um the people are free to use it
+in like lots of different ways that you
+wouldn't have imagined
+and it creates more innovation 100
+it also requires some open-mindedness
+and some creativity on your end to
+accept it and
+and to and to roll along with that
+understanding that this is
+that you're seeing these radically new
+use cases that you didn't expect but
+you're embracing them and now you're
+now you're able to understand the
+magnitude of what you're building mike
+this was
+really wonderful and i love what you're
+doing i know that you're also hiring so
+i'm guessing that if anybody here
+is is into this kind of stuff and would
+like to reach out i i can make the intro
+that's okay with you
+yeah definitely we're we're probably the
+best place in the world
+if you care about building automatic
+knowledge graphs using ai
+right from the whole web besides google
+and bing we're the only other us entity
+that crawls the entire internet so we
+have our own
+entire facility here in the bay area
+that crawls the web and has a copy of it
+how many people are you the company
+right now um we are
+a little less than 40 people right now
+wow that's it
+very very impressive it's mind-blowing
+to me a team of less than 40 people
+making sense of the entire internet
+crawling the entire internet
+and that's it that's just you know it's
+a it was unbelievable when
+larry and sergey attempted to do it in
+1998 when the internet was it was this
+small
+it's even more impressive when you're
+trying to do it when the internet is
+this big mike before we leave i have to
+ask you for three words that you would
+use to describe yourself
+um this is a tough question um to reduce
+like a human just to like three bits but
+i would say um if i were to only choose
+three words
+in the my entry in the different
+knowledge graph it would probably be
+machine learning engineer
+um because that probably most describes
+what i do like engineering machine
+learning systems
+that describes the core of you know what
+i do as a ceo
+i i love that mike thank you very very
+much and this was really great i learned
+a lot thank you for
+being so generous with your time and
+best of luck and stay safe and stay
+healthy
+great thanks for having me michael

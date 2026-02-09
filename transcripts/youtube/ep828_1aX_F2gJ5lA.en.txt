@@ -1,0 +1,618 @@
+if
+you know 10 years ago we would speak
+about exchanges you would again think on
+a nation national grade exchange but
+today you and i can open an exchange and
+launch into one launch of tomorrow
+morning and it's not necessarily a
+crypto exchange it could be a new
+futures derivatives equities something
+with a different topology and every
+financial instrument has a different
+topology hence also the fact that the
+infrastructure is so outdated today that
+it cannot sustain those new instruments
+that are being introduced
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+hello and welcome to 20 minute leaders
+meet guy milamed a co-founder and ceo of
+xberry the exchange technology pioneer
+that is revolutionizing the traditional
+capital markets and digital assets
+guy is also a venture partner and the
+only blockchain hedge fund in israel
+finova capital and he is experienced in
+developing go-to-market strategies
+product market fit and business
+strategies
+guys a seasoned expert blend of
+entrepreneurial pedigree with corporate
+strength he launched xberry to reshape
+opportunities for all market models from
+the biggest exchange in the world to
+startups and anything in between
+guy milamed welcome to 20 minute leaders
+i'm so excited to have you here with me
+how are you
+um great michael thank you for having me
+i'm pretty excited as well
+20 minutes to spend on another topic
+that i know very little about talking to
+somebody who knows a lot about it
+uh what a gift that i have and and and
+today
+talking about exchanges and marketplaces
+and your own
+journey um
+guy get me started a little bit about
+you know yourself and sort of
+just a little bit about your journey and
+how you ended up in exchanges and
+marketplaces as a field
+so it's it's so it's a long slap it's
+been it's been a it's really a long trip
+i've been 20 years in the tech industry
+started my career originally as a
+product and product strategist worked in
+education technology mass consumer
+products natural language understanding
+various technologies shared mobility and
+in the last 12 something years i've been
+in the fintech sector and since
+2016 deep interest also in crypto and
+blockchain
+um always looking for the right use
+cases and the right implementations of
+technology that could really uh you know
+revolutionize or revolutionize certain
+industries
+um and i've had the chance to encounter
+my uh
+let's say partners in axiory
+and uh when they shared the initial
+thoughts and and
+and the demo that uh they've built um on
+a certain let's say hypothesis
+i started diving deeper and deeper i
+didn't know anything about capital
+markets i knew what everyone knows on
+the street but um
+but suddenly when i started analyzing
+the market and analyzing the tech that
+exists there you know i was attracted
+into this world
+um
+and actually i found everything that as
+an entrepreneur and i've been a serial
+entrepreneur all my career
+these are the right elements that
+connect me to a certain
+to find the right solution for for a
+certain industry and certain problem
+um so once i got in it just sucked me in
+it was like the perfect timing present
+the perfect solution with the perfect
+technology uh to an industry that
+you know once every 25 years is going
+through an evolution and we're simply
+living at that time right now
+incredible and and tell me a little bit
+about this industry and and about this
+cyclical nature of these revolutions
+you're talking about
+so
+as we look at the world of exchanges and
+marketplaces and i think you know when
+we when we speak of exchanges everyone
+knows the national stock exchange
+but the world has been changing
+drastically it's been growing
+exponentially and and changing in in its
+the infrastructure
+is the in its majority ruled by the big
+birds by the nasdaq of the world and and
+millenniums of the world the euro next
+and the cmes of the world
+um but the infrastructure
+haven't changed for the last 25 to 40
+years you know because i've been using
+mainframes uh and this kind of solution
+so one momentum was the infrastructure
+is totally outdated
+um the other momentum is that everything
+happens
+on-prem and the dream of moving to the
+cloud has been there on the table for a
+while now but
+the way of solving it is pretty complex
+for many reasons regulatory performance
+scale robustness and i think another
+interesting momentum and that's the
+momentum of the market the market is
+being diversified in its many
+instruments financial instruments that
+are being introduced once we used to
+have only stocks option uh commodities
+equities today we have futures we have
+nfts we have cryptos we have assets new
+assets that are being created today
+today in extraordinary we see everyday
+assets that surprise us by the
+creativity of the new entrepreneurs and
+the new markets i think last but not
+least
+if
+you know 10 years ago we would speak
+about exchanges you would again think on
+a national national grade exchange but
+today you and i can open an exchange and
+launch into one launcher tomorrow
+morning and it's not necessarily a
+crypto exchange it could be a new
+futures uh derivatives equities
+something with a different apology and
+every financial instrument has a
+different topology hands-on so the fact
+that the infrastructure is so outdated
+today that it cannot sustain those new
+instruments that are being introduced
+um into the market i think another thing
+that was very interesting in the world
+of problem and we speak for a second
+we're trying to sketch the world and the
+world of problem that we're touching
+here
+um
+is the fact uh not only by the fact that
+we're moving into the cloud
+but um that we need to
+build something which is asked agnostic
+okay we need to be able to take every
+instrument and be able to launch it this
+market has been very slow up today in
+order for us to launch an exchange it'll
+take you three to four years put aside
+all the regulatory and financial issues
+wow okay so
+you know in in the way we live today uh
+you know when we speak about email
+systems or things that have been
+revolutionized in the last you know 20
+years
+um
+it's it's unacceptable for us as
+entrepreneurs or businessmen that'll
+take us four years to touch the market
+um so there are many challenges serious
+challenges
+and on the other hand uh there is a
+serious opportunity as well because the
+market is looking for this for that
+change you need also a vast amount of
+capital to launch an exchange which is
+also you know if only you and i are
+opening an exchange
+we cannot expect everyone to have four
+to 15 million dollars to launch exchange
+and pay for tech again on-prem cost of
+ownership with it which is very heavy
+um and buy your own servers and manage
+your own service so there has been some
+small successes in launching parts of it
+to the cloud
+but it hasn't happened yet in the way
+expert perceives the market and it's not
+only the market in in on the capital
+markets but it's almost going to macro
+and looking at the economy what's going
+through right now
+no no that it's fantastic but taking one
+step back to to this idea of exchange
+and and what motivates
+new organizations or new
+personnel to create new exchanges
+well what does that effectively mean for
+both the people that are building the
+exchange and how does it impact at the
+end those that are taking part in this
+new marketplace
+yeah so i think first of all like every
+other business um let's let's speak for
+a second about the existing exchanges
+they want to digitize the assets okay so
+have a faster ramp up introduce new
+assets today when you're introducing new
+assets it's not being supported you'll
+need to wait another year a year and a
+half before you get the right release of
+the software and again we're going back
+in time in the way we speak about it
+okay this is another way we're a
+full-size company we push everything as
+us
+um
+so software as a service um
+the second thing is is it's time to
+market i don't have four years to spend
+now only on launching a market
+um
+the third point is the cost of ownership
+okay why do we need to spend millions of
+dollars to hold servers on-prem and 50
+developers that will accept that when
+you serve me at last
+um so these things
+first of all will help you switch and
+revolutionize from your existing legacy
+or proprietary technology it doesn't
+matter one of the bold
+okay and the second one for new
+exchanges
+they already start
+creating much more sophisticated markets
+sophisticated markets could be connected
+to the full supply chain okay so if you
+invest in gold so you'll be connected
+with supply chain collateralized on a
+real gold and you'll be connected to the
+real warehouse which controls the gold
+and you'll have michael's name on it and
+you know when you put take a position on
+a goal it's a collateralized assets and
+you see more and more sophisticated
+assets like these today
+and really creative entrepreneurs that
+are either starting new markets or wanna
+evolutionize their own existing
+traditional markets
+and
+you need new infrastructure to do that
+if you stick with your own one your
+margins will kill you your high cost and
+until you touch the market you'll be
+outdated again
+um so these are only small the you know
+the major the major uh things that will
+motivate you either to switch tech
+and you know i'm not here to say to an
+existing market which is running a
+billion dollar base switcher all day the
+tech in one day you know we've been
+we've been in business for a while now
+um
+but there are ways of doing that so we
+will take your most innovative assets
+that cannot be implemented in your old
+school tech and you will start it and
+you rather juxtaposed to your existing
+traditional ultrawide again you can see
+suddenly that you run faster
+you get all your features in a matter of
+weeks days okay you launch your market
+within days
+um
+and you're being able to scale up and
+scale down and not pay millions of
+dollars for a farm or of hardware
+uh so if we have only 100 trades today
+because we only started the market
+united
+so we'll pay for the 100 trades you
+won't pay for 100 million trades
+i think last but not least is the
+technological um
+gap of being able to run high frequency
+low latency trading in the cloud
+and today experience the only one that
+is capable of running a million and a
+half transactions per second in
+microseconds latency and wow being able
+to do that and improves the time
+and the cost
+by more than 50 compared with your
+compared with existing leading on-prem
+solutions and that is and and that is a
+great achievement uh uh for us for ample
+and we see again
+we see what's happening out there and
+the big birds has been doing an amazing
+job for for the last years but they take
+some time to know um a fresh start to to
+be able to to build maybe something else
+incredible so so really
+spell it out for me you know how does
+xberry play into this play into this
+ecosystem how does it play into these
+you know these existing exchanges and
+marketplaces by reinventing the
+technology or by cr or creating new
+exchanges um i i'm completely blown away
+by by the numbers you're telling me
+about it then about about the
+the ability to make further transactions
+per second but
+what is actually experience role within
+our ecosystem today
+i think that's a great question so we
+started everything by
+understanding where the heart of the
+market is and the heart of the market
+is in price discovery so the matching
+trading tech is one of the most uh
+complicated place
+uh that could take place on cloud
+so we started from the uh from that
+component component these engines are
+highly complex
+uh and highly advanced
+and what we did we built an engine which
+is first of all asked agnostic
+it's cloud native it was born in cloud
+it's not born on an on-prem architecture
+that has been exported to the cloud and
+still have a problem with cost hence you
+have a problem with robustness and scale
+this one was born again with the most
+advanced tax tech that one can find
+today
+um
+so we're asked agnostic um
+if you're a small exchange you can run
+on multi-tenant and you'll pay only a
+small portion of the space that you're
+using and if you grow to become a
+monster doing a million transactions per
+second but you don't have that many
+markets today i have to say
+um
+then then you you will scale up with you
+um we're blockchain agnostic and that's
+very interesting that's where the future
+markets are entering why because today
+the settlement
+uh process in regulated markets uh is
+running on the t plus two on the this
+place seven
+it takes time before actually the the
+process of an acquisition is being done
+um
+and today we have instruments financial
+instruments that as you know are highly
+liquid
+and you would like to have a real time
+or a near real-time settlement process
+the only way i'm doing that today
+is using blockchain and there's nothing
+that i like more at last is to use
+blockchain for real use cases and we see
+that happening more and more today
+and hence also when you connect to
+markets that are tokenizing if you want
+to start tokenizing certain assets then
+naturally you will need to have also
+blockchain in one of the layers of the
+infrastructure but again i always say
+when i meet people from the industry
+also from crypto industry again we serve
+well i'll give you in a second an
+overview of some of the clients that we
+serve and you'll understand why the
+range is so wide and that's why we
+decided to create something which is an
+asset agnostic and can actually touch
+all the markets which created expiry to
+touch the most
+extreme highly regulated national stock
+exchanges through digital securities
+crypto nfcs whatever you decide and
+unregulated markets sports um esports
+gaming uh fish market wine market art
+market whatever you want to tokenize
+whatever you want to start trading using
+a central order
+and why is that we believe in x-ray that
+the only way you're running a market
+and
+when i say we were born in a high in the
+enterprise regulated world
+we thought that that would be the right
+package for what expertise brings to the
+market
+we believe that regulators eventually
+will work only with centralized
+i love b5 and they're an amazing b5
+solution out there but the regulator
+will have serious issues with working on
+big fights uh with big files um in in
+regulated
+locations definitely tier one steer
+tools
+um
+so
+going back to direct your question the
+first part was the matching trading tech
+um and once we had that we created
+something which was highly robust and
+scalable
+uh with all the features that i
+mentioned and many more
+again you get everything in the service
+you don't worry about your tech you
+don't need people to accept to develop
+upon it you need a feature you get it
+pushed to you and you and you manage it
+you upload the market and believe me
+mikhail within five minutes you and i
+can upload the market show tomorrow to
+all our shareholders and within
+five days maximum two months you could
+be up and running production
+including a ui and that's when we came
+with nebula nebula is our next
+generation offering that went out to the
+market
+a couple of months ago and nebula is the
+first end-to-end solution
+so we've developed extra components from
+tokenizing an asset
+running the ledgers the operating
+management system
+the trading and the matching all the way
+through white label ui so basically
+we took out the state of the loan
+industry and we said listen if you want
+to build your own market and you want to
+you know mikhail will take care of your
+regulation guy will do business or vice
+versa
+that's it don't worry about your tech
+don't worry about your i.t okay you'll
+have your market operation naturally
+things that that bother you
+and and that was a very big notion to
+the industry
+this specific product product was a
+solution was
+meant especially for ditch securities
+and digital assets so digitized assets
+is regulators and unregulated
+so so what what are some
+examples of players today that are that
+are using experience
+so um so first of all highly regulated
+markets uh so commodities futures
+equities um one of the world
+unfortunately
+if you compare it to other ventures that
+i've managed in the past and you know
+one of the things you know
+that i've always used to say you know
+focus on one location let's let's see
+that we have a product market fit the
+product market sheet we had was idiot it
+was the fastest one that i had in my
+career within three months we closed the
+phase of the product market tree
+uh wow and um
+so our our our location of our clients
+is an apac is in the gold um is in um us
+naturally uh europe and central america
+um and we've got so i said regulated
+markets uh we've got several pocs
+running already with with with the
+leading national stock exchanges around
+the world which is which is nice but the
+future markets that we serve today
+are are crazy and pretty exciting i have
+to say because there you see the real
+assets so uh there there is a new
+there's a new futures market on music
+which is going to come out soon which is
+pretty exciting um
+[Music]
+approved by an american regulator um and
+there's an influencer index that is also
+going to come out in the us in the
+coming two months which is very exciting
+we've got an esports marketplace uh
+which drives us all crazy so we're gonna
+start a competition soon with the most
+attractive assets being traded by
+experience um so we see them all and the
+fact that there are acid agnostic again
+that that's the place where we see also
+most of our competitors
+um fall off the table because they
+cannot take this kind of topology i
+couldn't care less what we trade if we
+decide to trade now you know whatever we
+do and and that's the thing the price
+discovery uh because you said in the
+beginning i'm have very happy on that
+michel you've mentioned marketplaces
+and the way we see marketplaces and and
+when i look at gmc at gen z's today okay
+they want fairness
+the thing about exchanges that we love
+most that it's fair you know if you're
+entering a stock exchange right now with
+the nice elastic oh whomever okay and
+you buy a stock or an option
+you don't worry about your money you
+worry about whether you took the right
+decision or not that's something else
+especially states
+but you know you see the price discovery
+so you see the history of the certain
+stock and the price and the supply and
+the demand imagine you do all your
+shopping like that imagine when you go
+into a
+an online shop you'll see the full
+history you'll be able to make a smart
+decision when you buy when you shop
+things and these are also some of the
+clients that we see today selling
+minerals or or
+rare wines
+um
+and and
+and it's uh it's amazing it's amazing
+way to to do your uh your business
+well
+it's a guy i think naturally i didn't
+mention
+go ahead no no go ahead sorry
+yeah i forgot the crypto exchanges that
+we run as well a month and a half ago we
+just won the the number one uh engine
+for crypto exchanges as well
+uh
+nfts naturally uh also uh a lot of a lot
+of a lot of buzz but you know we're
+trying we're trying to keep it real um
+hence also the reason that we work with
+regulators and we go hand in hand with
+our clients through regulators
+i have a guy i feel like i got a boot
+camp of information that i can now take
+with me and and go and explore this new
+world that i that i already
+know then the other way around i'm
+thanking you because this was this is
+exactly why i i started this show and
+and and i really love it and i'm
+it's amazing to me
+how technology
+is used in in such a such a variety of
+ways and it to to change the way that we
+interact with our world around us and so
+i i really appreciate you coming here
+and sharing with me your journey and in
+general as an entrepreneur but also
+specifically with xberry and uh and i
+wish you best of luck on this journey
+and i can't wait to dive deeper invite
+you for another episode in the future to
+talk about what's happening and uh stay
+safe and still healthy in the meantime
+thank you midfield for inviting me it's
+been a pleasure and it's great to meet
+you and i hope i'll talk to you soon
+thanks for your time
+i appreciate it very much thank you guy
+thank you
+you

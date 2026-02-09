@@ -1,0 +1,618 @@
+we have so many new challenges around
+using ai because it's not only about the
+business performance it's also about
+brand
+risk because a algorithm could expose
+you to a lot of biases like there's the
+famous case of
+when apple the apple card rejected
+or was biasing a male over famous
+regarding the level of credit that he
+was willing to get to put so there is
+biases this compliance there are so many
+new risks that come with ai that
+supervise is here to solve them and to
+let organization to scale effectively
+while reducing those risks
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+hello hello and welcome to 20 minute
+leaders today we are in the ai space
+meet oren razon the co-founder and ceo
+of superwise the leading platform for
+model observability
+with over 15 years of experience leading
+the development deployment and scaling
+of ml products oren is an expert ml
+practitioner specializing in mlaps tools
+and practices
+previously orrin managed machine
+learning activities at intel's ml center
+and operated a machine learning boutique
+consulting agency helping leading tech
+companies such as sysens gong at t and
+others to build their machine learning
+based products and infrastructure
+organ
+welcome to 20 minute leaders the
+co-founder and ceo of superwise ai thank
+you very much for being here yeah thank
+you for inviting me i'm quite excited to
+be here
+you know there's this new thing that
+that popped up in the last few years
+called machine learning very few people
+have heard of it by now but but you
+chose to to spend your your career at
+this point
+dealing with it um and
+really looking at
+a natural problem that has emerged as
+algorithms developed and we have these
+different use cases that have become
+common to many different organizations
+we have these these black box algorithms
+that we just inherently accept and we
+put in but we don't really know what's
+happening and this is part of the
+problem that you're tackling with super
+wise ai so olin i'm excited to talk to
+you about your own background about
+superwise about this greater challenge
+that we're dealing with thank you very
+much for being here
+yeah great so thank you for the having
+me and yeah exactly i think as you said
+in the recent years everybody talk about
+machine learning but actually you know
+the basic concepts of it were there
+already for a long time back then i
+think 17 years ago 20 years ago we were
+calling it data mining or statistics or
+any other
+uh
+non you know sexy name that you can find
+and i think that's maybe to talk a bit
+about my background i think that i'm
+always saying that i'm doing supervised
+for the last 17 years
+because uh as a software engineer that
+started at intel actually we founded
+like a small group of people that
+thought that the idea of doing something
+with data mining on top of
+data could be interesting could be
+interesting for a great company like
+intel uh where i was starting my you
+know my official grown-up
+job
+and
+quite fast we saw that we could do quite
+an amazing stuff and we could actually
+solve you know strategic
+stuff for winter so quite fast we were
+evolving from being five people doing
+some kind of initiative that nobody
+heard about to the beating the
+competitive center of machine learning
+for intel globally and that's what quite
+an exciting experience seeing that
+europe as a it was like being a small
+startup inside a giant like inter so you
+have the back and you have the ability
+to to execute but we were like bidding
+think from scratch and seeing what we
+could do with machine learning
+so i was doing that for a lot of time
+and then i've decided to go outside and
+help other companies to achieve the same
+so i've started to work i've started my
+own data sciences service company
+helping other companies to start and you
+know embrace it embrace ai and to start
+and put it in real life because
+everybody wanted to start to do that but
+nobody really knew how to do that so
+i've helped other companies to do the
+research and to do the heavy lifting and
+seeing it over and over and over again
+that
+companies really understand that the
+potential of er is huge and ai is really
+becoming
+whole business inside any core business
+operation whether you're doing your
+marketing base on it whether you're a
+bank that decide how to spend or to
+approve loans or whether you're a gaming
+company it's a course vertical everybody
+really starts to do that but seeing it
+from the first hand from the trenches
+that whenever it really comes to
+production and whenever you really need
+to start and use it like people pouring
+a lot of money to develop the algorithms
+but whenever they rubbery the road
+whenever you need to start and see the
+value out of it then like everybody
+start to
+hesitate wait a minute will i let this
+black box to drive my business
+and after seeing that of over and over
+again working with companies like att
+materials such as others and seeing that
+everybody's struggling with the same
+issue i've decided to fund supervised so
+it was really that from the trenches for
+so many years
+until i've thought hey that's a great
+idea we need to do something about it
+and that's what really led me with the
+mission to help to bridge the gap
+between the technology and the ability
+to use ai level ji to the ability to
+really to trust it and to bring uh the
+optimal results to the business with all
+the inherent risks that come with ai
+talk to me about the risk so
+what are the challenges of just using
+this black these black box solutions
+um and and i'll and i'll make an analogy
+of this because
+you know let's say when i use it and
+when i when i use software like
+salesforce right or any software for
+that matter you know i have somebody to
+talk to and i have this offering i don't
+necessarily know what's happening in the
+back end but i know that it sort of
+works because others are using it and it
+has a lot of you know customers or
+people cited the algorithm et cetera
+what is the difference between that and
+you know using one of those out of the
+box algorithms in machine learning
+cool so i think the analogy for
+other software type of application is a
+great analogy because
+if you will take it if you will go and
+ask some software engineer from the
+street
+uh really deploy something to production
+without putting some kind of a
+monitoring you will tell you hell no i
+must put something to make sure that the
+cpu is okay that the memory is okay
+everything is functional and everything
+is working so of course whenever we let
+software to drive our business we want
+to be sure that it's working as expected
+now i think that while 10 years ago the
+methodology and the tools around devops
+were really on the rise to let us build
+better software faster in a more
+scalable way which part of it also means
+to gain full observability i think we're
+experiencing the same things exactly now
+in the ml ecosystem we're seeing more
+and more companies that want to embrace
+ai want to do that faster in a much more
+standard way
+and still to have you know full
+confidence that it will work as expected
+so we see the need for model
+observability which means
+it's not enough
+because ai is a new type of software
+it's not enough to understand that it's
+working from a factual perspective you
+really need to understand whether it's
+work as expected because if in the past
+for example if i'm a bank and i was
+using the best for using some kind of a
+basic rule engine to decide whether to
+approve or to reject a loan it was very
+simple for me to understand whether it's
+working or not but now when the
+algorithm is leveraging so many data
+points it could be dozens hundreds or
+even thousands of different data points
+and then it used some kind of advance
+you know mathematical calculation that
+even the data scientist is not sure how
+it behave exactly
+those results there is high risk the the
+dependency on that like there is the
+potential of using and leveraging the
+data but it comes with the risk it means
+that you're totally depend on your data
+so if something will start to change for
+example covid the behavior will change
+of the external world or maybe even
+something internally something in your
+internal technical pipelines will change
+in something that we you we're using to
+get in a one format change to a
+different format the algorithm will
+still work
+from a function perspective but the
+quality of this of his decisions will be
+very low and you know the problematic
+thing about it is that he won't know
+about it until it's too late because
+algorithm are doing what we want them to
+do they are predicting stuff that will
+discover later on so they will approve
+the loans and after a few months or even
+years you will start to understand that
+your business was impacted from taking a
+lot of or proving a lot of loans that
+shouldn't have been fulfilled from the
+first place so just that's just one
+example but we have so many new
+challenges around using ai because it's
+not only about the business performance
+it's also about brand
+risk because a algorithm could expose
+you to a lot of biases like there's the
+famous case of when apple the apple card
+rejected
+or was biasing a mail over famous
+regarding the level of credit that he
+was willing to get to put so there is
+biases this compliance there are so many
+new risks that come with ai that
+supervise is here to solve them and to
+let organization to scale effectively
+while reducing those risks
+one of the things that uh that you know
+i've been thinking about it you said was
+this idea that you know if we're looking
+at most
+processes around the world or that we're
+used to if something changes along the
+way something changes about the world as
+we know it about the situation
+oftentimes the process will break
+right i mean when will we'll be forced
+to make those adjustments and what
+you're saying is really interesting is
+it is that some of the problems with
+these algorithms is that you know
+something may change about the world
+some very fundamental premise that we
+understood changes
+and nothing will change in terms of the
+process the output will be different and
+and it will be very difficult to get
+alerted when when something changes and
+it could be even minor changes
+some minor changes could have a ripple
+effect and make tremendous business
+implications it could mean obviously
+disastrous effects but but but i think
+that what you're alluding to is also
+these minor changes are just as
+dangerous
+because essentially it means a lack of
+control and it means a lack of ability
+to actually know what's happening tell
+me about super wise as a company so how
+do you actually go in and tackle this
+problem of observability through these
+algorithms
+um
+so
+the way that we tackle it is actually
+again looking on the ecosystem of
+developing machine learning applications
+and embracing ai at i scale at
+enterprises we see that companies use
+all kind of different platforms to
+develop the algorithms so we're not
+there we're not part of the research
+environment we let the researchers the
+data scientists to develop the same way
+that they are used to develop their
+algorithms we are we know how to provide
+mode observability as a service which
+means that instead of giving the teams
+internally again whenever we come to a
+new potential customer he didn't had
+supervised before that
+he had to develop after he deployed to
+production it was enough to then do that
+you need to monitor that so we started
+to develop all kinds of dashboards
+internally so we come with our solution
+we know how to integrate to any kind of
+platform so you are still totally
+independent on supervised in the ability
+to deploy your machine learning in way
+that you want to deploy it and we know
+to connect with a super easy connection
+to any kind of platform in five minutes
+and to show them value immediately in
+value it means that first of all you
+gain visibility once you connect to
+supervised immediately you get ice into
+production you would understand what is
+the performance of your
+machine learning based process you
+understand what is the level of quality
+of data that come in you understand what
+is the level of risk that your algorithm
+is now exposed to you understand what
+biases occur at the moment
+you talked about
+all those things that go under the radar
+that's a super important thing because i
+gave earlier the example of kovid so
+kovit is a very
+classical example to understand the idea
+that things could change and things
+could
+start to behave differently but actually
+when you talk about kovid everybody knew
+that covid is changing stuff but with
+our customers a key ability in superwise
+is to understand all those things that
+go under the radar which means we know
+to pinpoint and to say you know what not
+only that i could measure the
+performance the quality and everything i
+could tell you and monitor and detect
+stuff on a very
+high resolution to tell you know what
+for specific sub-population
+that live in a specific area in united
+states that as a specific demographic
+your algorithm is now underperforming so
+we gave we give them the visibility in a
+super high resolution and also the
+automation around it to reduce the level
+of noise and to be able to detect those
+issues as they occur and then of course
+to lead them with the troubleshoot and
+the resolution process until it's been
+fixed
+talk to me a little bit about timing
+because um you know undoubtedly this is
+the the age of ai or or perhaps we're
+not even there yet but but we think
+we're there yet but in any case we say
+ai proliferation you know it's it's
+astounding how many organizations are
+making use of these algorithms and we
+have an abundance of these algorithms
+and so obviously there's a market for
+this but but why is this the right time
+for super wise ai to emerge and to grow
+that's a great question that i think
+i've asked myself so many times when
+i've started super wise
+and i think
+eh
+if the problem was there 10 years ago
+so there wasn't a place for supervisors
+because there was already a solution out
+there
+i think it's a great timing because the
+problem is already
+there the market is already very big
+like you you can see
+so many companies especially enterprises
+that leverage already ai inside their
+core business operation
+but actually it's still an emerging
+growing market that growing
+exponentially every day because the
+market mature everybody started to do ai
+companies that didn't did ai before
+started to do that right now even the
+ones that are doing that starting to use
+it for more and more use cases because
+once you saw that
+well you get appetite and then you want
+to use it for your marketing department
+for your sync department so everybody
+start to do ai even more and as we speak
+because of those new challenges even
+regulations start to kick in and the
+european uh committees just started to
+form a new standard regulation around
+what you should do whenever your company
+leverage ai inside your business so the
+fact that all of those things are
+already there but actually forming right
+now it's a great environment for us as a
+startup to build ourselves to be the
+product to work with our customers
+closely to make sure that we're building
+the right product for this new amazing
+market and to be thought leaders and
+market leaders as this market mature and
+become you know
+the standard tool
+in the coming few weeks in the coming
+few weeks for any company that level ji
+and so it's not necessarily just limited
+to to companies that are
+leveraging out-of-the-box algorithms
+it's it's essentially
+because you can you just say okay well
+any any functional team within an
+organization that is developing an
+algorithm that is becoming the effective
+black box for the organization and
+perhaps the people that are looking at
+the insights from superwise they don't
+even need to necessarily be those same
+machine learning engineers they can be
+data analysts even on other functional
+teams of the organization that have a
+deeper understanding of where the data
+is coming in and where the data leaves
+later on and not necessarily the
+mathematicians that are that are writing
+the algorithm right
+and there's something quite exciting
+what you're saying right now because the
+number of stakeholders that are being
+involved in the process of what we are
+calling mode objectivity
+as
+like an amazing potential because right
+now mostly we're talking about the
+technology teams that are still owning
+the process and still everybody look on
+them when something is not working but
+actually we start to experience it
+ourselves and with our customers that we
+see that our the risk analyst the
+marketing analyst everybody from the
+business start to ask you know what
+maybe i'm not the person that will fix
+the algorithm but if you know about
+something that is misbehaving if you
+know about a specific sub-population
+that our model which means that actually
+our business is underperforming i want
+to know about it because we are
+monitoring not only the black box from a
+technical perspective we are actually
+being monitored we are monitoring the
+business process which means there are
+so many potential stakeholders and we
+and as i mentioned earlier even
+regulation we start to kick in so we
+have compliance officers we have
+security officers we have so many
+potential stakeholders that start to
+emerge and start to understand that
+having observation about the process
+that it's being driven by ai is also
+their
+problem and they need to be aware of it
+and they want to consume our insights
+and so as you're deploying the
+supervised platform across different
+organizations what what are what are the
+ways in which you're measuring the
+success of this platform besides
+obviously
+being able to alert when something is
+happening which
+which obviously would be a strong kpi
+but what are different things that you
+would
+that would make you feel valuable to an
+organization
+as you're deploying and obviously you
+want to get there as quickly as possible
+so i think that the main kpi as you said
+is to a lot about stuff that
+happening and the way to measure it is
+actually they reduce the time to detect
+and fix issues for example some of our
+customers
+in the fintech or marketing tech
+industries it took them sometimes two to
+three months just to discover an issue
+and then it took them at least two to
+three weeks to analyze and understand
+what happened and to solve it so we do
+think that time is our main kpi the
+ability to detect stuff and instead of
+fixing it detecting it and fixing it
+after three months to do that after one
+day so that's amazing that's the most
+promising business kpi
+but then come like the secondary kps
+which i think are interesting not uh
+not less than the primary one which are
+any monitoring company know that one of
+the
+things that could kill your value
+proposition is noise is alert ratio
+alert fatigue yes
+in in order to try and catch those
+issues we'll alert every day about so
+many things nobody will use that
+so a very important kpi for us is not
+only to show that we are able to capture
+those issues but we can do that with a
+very low force positive rate and that's
+really reliable a lot about our
+technology we lie about all kind of
+internal statistical algorithms that we
+leverage in order to make sure that we
+know
+how to detect anomalies the right way
+and how to
+fix them so that's something super
+important and the second thing that we
+see as a important step is the fact that
+now that you have visibility to
+production using supervised
+the ability to develop new algorithms is
+really an iterative task which means
+that now that we started to be there in
+production we see that data scientists
+are starting to use supervised to start
+and plan the next iteration of model
+development because now instead of
+leaning on beliefs i think that it's
+time to retrain our algorithm they could
+use supervised to take those uh
+decisions which is quite amazing and
+understanding that you could flip the
+order of things you could start with
+production first mindset and then to go
+and develop the algorithm in a better
+way
+incredible oven this is a this was such
+an enjoyable conversation we we barely
+scratched the surface of of a
+observability model and model
+understanding and
+and pattern behavior but but most
+importantly i think to take away from
+this conversation is this idea of focus
+and control over what's happening and as
+the world shifts more and more towards
+complex technologies and algorithms
+and the the
+the dissonance between those that
+understand it and other those that don't
+grows
+people that make use of these algorithms
+today
+a lot of them don't necessarily
+understand the math behind it or have
+the right tools and skill sets to
+analyze them
+these same algorithms are then being
+used to
+affect anything in our daily life from
+credit score to loans to insurance to
+to e-commerce deliveries anything right
+and so i think that um if we're looking
+at impact um definitely supervised as an
+impact company
+and so thank you very much for taking
+this time to share with me and uh thank
+you very much
+thank you

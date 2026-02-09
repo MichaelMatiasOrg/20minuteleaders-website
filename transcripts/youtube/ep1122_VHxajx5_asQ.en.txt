@@ -1,0 +1,444 @@
+you know being a customer Centric
+company that is led by the market
+basically what we've done is we've taken
+our insights and we transform them into
+smart prompt so we basically engineer
+prompts and then we use those prompts in
+variety of different gen models both
+llms contextual models and diffusion
+models meaning visual models so we
+cannot just come up with the data points
+the insights the recipes the
+recommendations we can come up with
+actual meaningful valuable marketing
+materials marketing
+[Laughter]
+[Music]
+outputs Asaf yanai welcome to 20min
+leaders really excited to be sharing
+another episode with you here on on my
+show I'm I'm particularly excited about
+you know the the space that you're in
+the journey that you're in so so really
+thank you for for being here and thank
+you for taking the time sure thank you
+for having me and uh I'm excited uh uh
+about the opportunity as well amazing so
+so before we dive into Alice and Ai and
+what are you doing with video analytics
+and helping organizations with really
+understanding what what really makes for
+great engagement and and uh and great
+user experience in terms of human to
+digital media interaction tell me a
+little bit about yourself and your
+connection to the space yeah um so first
+I'm uh I'm I'm almost 37 36 years old uh
+married one kid um my professional life
+was always around online marketing um in
+the past 15 years that's what I've been
+doing um and actually Allison is the
+third company I'm I'm co-founding around
+that around that space um so the the
+online marketing uh area is no stranger
+uh to me uh nor you know
+entrepreneurship around uh online
+marketing um but actually you know we're
+going to speak about Allison today um
+actually the the concept of Allison the
+the the idea behind it uh came to me uh
+through my
+experiences you know working in again in
+the past 15 years with some of the
+biggest brands uh in the world from
+Proctor and Gamble unil to you know big
+traditional Banks like Bank of America
+and HSBC through online first companies
+from Tinder and okay Cupid and ways and
+hellofresh and others um and my
+experience as working with them actually
+kind of sparked the the idea and sparked
+the uh the concept of
+Allison okay so so what is the really
+the the the core problem that that you
+identified with organizations like you
+un lever and others what was the
+obviously the the context of user
+engagement and engaging with customers
+in in meaningful ways that's that's top
+of mind and and and I guess is is a big
+driver for for creating results in terms
+of product engagement what is the big
+gap that you've identified working with
+them yeah good question
+um so look um from what we're seeing it
+what actually happens uh today online is
+that um every single brand every single
+company every single Enterprise that
+wants to scale sell their service
+product Etc to their um users Target
+audiences um they have to use online
+marketing right that's uh that's one of
+the main uh the main focus areas for
+marketing today um you know Facebook
+Google Tik Tok Snapchat and and other
+types of platforms these are the main
+drivers for uh sales revenues and even
+brand awareness and brand positioning uh
+these days now what we're seeing today
+is that
+90% okay of the creatives that we see
+online are actually videos so there is a
+clear focus on videos from platform side
+right Google YouTube uh meta Instagram
+Tik Tok Etc they they're all
+prioritizing video content over other
+types of content to us as Brands as as
+advertisers or Enterprises we prefer
+those platforms and we pref fa video to
+to engage with our audiences because we
+can deliver multiple messages because
+it's interactive because we can hyper
+personalize the videos and the contents
+and also us as users you know the other
+side of those platforms the other side
+of the advertising is meeting the users
+and also us as users we prefer video
+content to engage with so here comes the
+value or Here Comes The Challenge right
+how do we as brands or as advertisers
+how do we know what's the right video
+composition or what's the right video
+content that we should be engaging with
+our
+audiences so the simple answer is that H
+we don't really know we think we know
+but we don't really know typically we
+have a concept in mind a theory or
+hypothesis and we want to put it to test
+we want to see if it's if it's actually
+performing so every every single company
+on Earth are basically bound to use a
+wasteful inefficient even ancient
+process that's called AB test right
+that's the best way of testing creativ
+video content um ads
+today but again AB tests are a thing of
+the past um and let me tell you maybe a
+a a very quick short story about uh
+about yeah about
+that so uh I I come from a family of
+entrepreneurs myself but my father he
+studied Marketing in the80s now he's a
+marketing expert marketing veteran and
+when he studied everything and when he
+practiced online Market sorry marketing
+everything was
+offline so a few years ago I had an un
+unconventional unorthodox chat with my
+dad not about what I'm having kids and
+you know what's up with a family but
+more about work so I kind of questioned
+them like that back then in the 80s when
+you had marketing campaigns how did you
+validate how did you test how did you
+you know brought your concept or
+hypothesis to life when it comes to the
+marketing activities so he looked at me
+in a very funny way and he said Asaf
+it's easy we AB test
+and this was in the 880s right so what
+we're learning from this is that you
+know 40 50 even 60 years later
+everything is digital everything is
+online ones and zeros but we are still
+using you know wasteful inefficient
+manual processes like AB test and this
+is exactly the first concept or the
+first mission that we set to our that
+Allison to completely revolutionize and
+replace this entire process with data
+and AI how do you do that in
+video because there's one thing to AB
+test then in websites you can create
+cool heat maps and see where the user
+goes and the the mouse clicks how do you
+do that in a world where there's a piece
+of content sometimes it's long sometimes
+it's very very short it's expensive to
+create maybe you'll share that it's
+getting less expensive but that's a
+teaser but how how does that work so
+you're absolutely right it takes a lot
+of time to create a Content it costs a
+lot of money you need skills and
+expertise um and also um AB test and and
+this is my humble personal Theory anyway
+but I think that in the past few years
+the reason we saw marketing teams grow
+so much and eventually consist the
+biggest department the biggest teams the
+biggest exp expense
+within uh an Enterprise is because of
+those operations that are extremely
+heavy in terms of headcount time
+resources that you needed to put into
+place to create a successful well just
+an AB test operations so again at Alison
+what we do is completely different
+instead of testing multiple creatives we
+basically plug in to your existing ad
+account and we scan every single piece
+of creative that you ever tested ever
+experimented with ever launched or ever
+tried then using 10 different AI engines
+we run a process called feature
+extraction we're basically identifying
+thousands of thousands of features from
+those videos like sound voice over
+background colors buttons logos emotions
+facial expressions card face
+Etc and then we're basically correlating
+those features with the actual
+performance so once correlated basically
+this mechanism completely replaces the
+ab test but it generates a lot more
+efficiency because we can tell our
+customers exactly but exactly what's
+driving their performance within
+specific campaign domains areas products
+use cases Concepts Etc so they don't
+have to test they have to create a
+version then we already know that it's
+going to succeed and then the platform
+basically feeds itself with a ongoing
+feedback loop so even our
+initial um outputs that are already
+optimized are then being able to uh
+optimize again and again and again in a
+in a in a in a feedback loop so that's
+how we get it on videoos hey can you
+show an example of what an actionable
+Insight could look like for an an large
+organization as a result of of of
+Allison ai's product what would be a I
+guess if you're are you working with the
+with directly with the creative
+directors or is it with the advertiser
+campaigns who who is sort of the Persona
+that makes most use of the insights that
+you're Gathering so it's a good another
+good question that also leads me to
+another Gap that we see today in the
+industry so another Gap is that
+typically the media team the marketing
+team are completely detached from the
+design or the studio teams so basically
+there's a disconnect between our
+research or optimization or media uh
+operations and the creative on so I'm
+get I'm guessing you already know my
+answer but Allison another you know
+extreme value that we bring to the table
+is that um both U marketing or media
+teams and the creative or design teams
+are both the personas and both the users
+within the same platform so first they
+can communicate between each other
+between the two different teams but it
+also Bridging the Gap the language
+barrier gap between
+media um language and media metric and
+design or visual uh components and
+elements absolutely so walk me through a
+little bit what you're saying in the
+space I think one of the interesting
+drivers that that are happening is that
+there's the notion of AB testing is only
+as useful as the Velocity in which you
+can experiment and and get the insights
+but then actually put them into practice
+so if you're creating one creative per
+month then the the the the velocity
+which you can improve is is is low but
+in a world in which generative AI
+potentially helps you generate a lot of
+creatives and you can actually guide the
+generation based on the insights that
+you that you have then then you can
+actually really really re reap the
+benefits of of AB testing is this
+already happening I mean are we where
+are we at in terms of the technological
+progression and Adoption of of of
+creation tools do you think that empower
+the inside to reap the benefits from the
+insights that you're generating so yeah
+I think it's already happening we're at
+Allison we the Forefront of this uh
+Revolution or the Forefront of this uh
+change uh basically what we're seeing is
+that um most of the companies they're
+still using those uh
+manual um heavy you know operations like
+AB test although for example in Allison
+we already you know bring uh new tools
+new capabilities that are far more um uh
+efficient uh quicker uh takes less uh
+cost and
+expenditures um and you know it's
+already live but let me maybe give you
+another uh example uh of one of our
+customers so I think it will help you
+understand how this really benefits our
+customers
+so um you know we're working with with
+some of the biggest names you know in
+the industry Fortune 500 companies from
+LG Electronics to BOS to Warner Brothers
+and Ferrera Kendy company for example
+now imagine that they run AB tests all
+the time
+now let's say they have five creatives
+in an AB test and eventually one is the
+winning creative right so typically they
+throw away all the four other versions
+that they've tried and this becomes
+complete waste but then comes again the
+question I started with okay this is the
+winning version of the ab test how do we
+know if it's the optimal
+version so we still don't though so
+again there is a continuous AB test
+going on there now one of output that
+Allison is this inside this
+recommendation we we talked about and
+imagine that the level of granularity is
+infinite okay so for example with LG we
+can help them understand that they need
+to create 15 seconds videos for Facebook
+and those 15c videos should have four
+scenes in total and we can tell them
+exact L what is the composition what is
+the story The Script but also the
+elements the visual features that should
+appear in this type of video so think of
+it as a as a recipe right as a recipe
+for a winning video
+or a successful video based on your own
+business goals kpis audiences users Etc
+but there's another thing here because
+we've also realized that in every online
+marketing campaign that is successful
+there is a part that is done manually
+and takes a lot of our um uh attention
+and this part is called competitive
+research or competitive intelligence
+looking at our direct competitors
+creatives and understanding from this
+what they're leveraging if it's working
+for them and if we as as the brand if we
+tried those things before and what was
+the outcome this this entire process is
+man is is done manually today
+and it's it's broken because you have to
+Mally go to different platform different
+areas and with your bare eyes try to
+understand what's going on it's almost
+impossible so I'm very proud to say it
+and more so in this in this podcast but
+Allison with the only company in the
+world that runs this entire process not
+just automatic or but at scale so we
+scan every single one of your
+competitors creatives and we'll show you
+what are the gaps between you and your
+competitors and then we'll uh push it uh
+uh uh to the recommendation as a form of
+an insight as a form of this uh
+ingredient in this recipe and when we've
+asked our customers if they're using the
+insights if it's helpful if they're you
+know they're being enriched by it they
+said look this is phenomenal there's no
+way on Earth that our teams could even
+you know digest or or come up with this
+level of granularity and those level of
+insights but these are insights these
+are data points this is not a tool and
+we need a tool that I've seen to our
+existing workflow so we can manage the
+entire process and not just fragments of
+this process by different uh tools so
+you know being a a a a customer Centric
+uh company that is led by uh by by the
+market basically what we've done is
+we've taken our insights and we
+transform them into smart prompts so we
+basically engineer prompts and then we
+uh uh use those prompts in variety of
+different gen models both llms cont
+textual models and diffusion models
+meaning visual models so we cannot just
+come up with the data points the
+insights the recipes the recommendations
+we can come up with actual meaningful
+valuable marketing material marketing
+outputs for example a brief right how
+long does it take us to write a brief
+and do we have data actual data points
+to back up our briefs typically not
+really so at Allison it's not just that
+it takes a second to generate a swad
+brief but it's based on billions of data
+points correlated with the business
+goals and kpi are trying to achieve
+think of it as a brief from the
+future and then after the brief there's
+another process that is typically being
+done manually and it's called
+storyboarding or storyboard taking the
+brief and bring it to life right
+visualize how the video is going to look
+like this is typically done by the
+creative teams and again based on their
+subjective experiences based on
+brainstorming Etc and Allison we
+completely automate this entire process
+uh as well based on the briefs and based
+on the prompts we also generate
+automatically on demand storyboards that
+are far more visualized far more
+exciting and far more relevant for uh
+your audience say as a customer and
+lastly you know the Holy Grail of of of
+advertising the holy gril of uh closing
+the loop between the research the
+analysis and then the production we are
+now also producing generating a video
+not just a video not just the raw
+footage
+but actual commercials and actual ads
+that are also editable and be able to
+modify the um the output the videos not
+not by creating or designing but by
+playing around with data points and
+insights awesome so so effectively
+taking the taking you know the the core
+generative AI use cases combining them
+with the analytics that you're already
+that you're already creating using the
+predictive AI model and then combining
+them to create better engaging creatives
+um so very excited to see where the
+space is headed very excited to see
+where where Alis and AI is headed thank
+you again Asaf for for taking the time
+to meet with me and for sharing your
+product and your and and your vision and
+the journey really appreciate it very
+timely um it's all happening now so uh
+run fast and I'm excited to see you in
+action thank you very much thank you
+Michael thank you for having me thank
+you thank you

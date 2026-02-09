@@ -1,0 +1,665 @@
+once we started looking at that in that
+way it wasn't like finding a news
+article that said file a class action
+against some company it was finding a
+lot of information clustering it
+together to find an event and then
+understanding what was the legal value
+of that specific event right
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+hello and welcome to another episode of
+20 minute leaders this is a very very
+special episode it is being released
+with some really amazing announcements
+about this company meet evie talbot
+narcy co-founder and ceo of dero ai
+aviatago or evia is the co-founder and
+ceo of darrow an ai startup on a mission
+to uncover injustice evia served as a
+combat officer in a special unit of the
+idf and later on went to study law and
+cognitive science at the hebrew
+university of jerusalem he clerked at
+the israeli supreme court for justice
+uzi vogelman where he met co-founder
+ellar spiegelman elvia is also one of
+the founders of yahov an israel youth
+movement for social change teaching
+young activists about the democratic
+values of zionism
+aviator nazi welcome to 20 minute
+leaders
+thanks thanks for having me it is um
+quite unique that i get so excited about
+a company
+i am honored to be a small part of it
+from from the get-go but just
+understanding what you're doing and
+following your journey
+and not just what you're doing but the
+social impact journey that you're on
+doing it in a very non-conventional way
+that that's really inspiring and that's
+what i want to talk to you about in
+these 20 minutes i want to understand
+you better i want to understand darrow
+better and how you're using deep
+technology to make significant changes
+in the world where technology didn't
+really exist before
+yeah well
+first of all again thanks for having me
+but i think like
+the issue with doing something inspiring
+or something like that i think we just
+started out with trying to do something
+right um we we were looking at this
+world where a lot of legal violations
+existed
+issues where companies or corporations
+were harming a lot of people
+by doing something illegal
+like privacy breaches or environmental
+acts that were polluting or
+contaminating the environment
+and and we were thinking about that and
+saying like
+gosh how many cases are there in the
+world
+that are never detected and never really
+reached court
+it it it shocked us um and then once we
+saw that then we said well
+maybe this is a dramatic moment we
+should change the way that we're
+thinking about this so
+it all came to be when i met alad my
+co-founder and ceo at
+um
+we met together in law school actually
+he interviewed me to the law review wow
+um and and he made that mistake of
+accepting me and okay um but once he
+accepted me then then we got to that
+position where we were thinking about
+the same problems kind of like he's this
+like macroeconomics guy you know
+and um we thought about a lot of
+problems that were like near to the
+justice area right um now is this in the
+context of starting a company so you're
+in law school
+it's not that traditional for somebody
+who's in law school to be thinking about
+problems at a scale of what a startup
+might look at them is that the intention
+that the two of you are engaging already
+no i i really wanted to be like a public
+attorney
+wow i i really didn't think about like
+starting a startup at all and i think
+allah didn't as well we did have some
+thoughts about the world of tech and how
+law wasn't like progressing enough
+but it wasn't that we were thinking
+about starting a company and we like
+the best evidence for the fact that we
+weren't was that we both went to clerk
+for the same supreme court justice like
+on the track to being lawyers right um
+and and we both became lawyers we both
+took the bar and we both worked as
+lawyers um but during our time in court
+i think there was one like
+point where everything changed like that
+singularity point right um where i
+brought a whiteboard into our like
+office we had an office together we
+would sit about 16 hours a day together
+um
+i i think today i have more hours with
+the lad than his wife yell sometimes so
+we got really close and then
+we started looking at that white board
+and everything that we were seeing in
+court
+was like we would see
+many cases a day and we would dismiss
+most of them
+but on the outside when you just sit on
+a break and look at your phone you're
+like
+there are a lot of legal violations
+they're untreated they don't get to
+court ever most victims of the illegal
+action don't really get their day in
+court right and so
+we had that thought of like these cases
+should come to court somehow we started
+drawing
+on the whiteboard
+the problems what are the bottlenecks
+what what's making like those cases
+outside that information not get to
+court to the supreme court right there's
+a lot of instances in the way
+um
+and once we met gila we understand
+that this was like a problem of
+intelligence gathering so gila is this
+cesar cto um
+genius she's a genius yeah she's a
+genius and and when we meet her i think
+she was 24 at the time she just got like
+released from the army she was a
+software developer and data scientist uh
+she was in the ram course before that
+and then got to the a200 unit when we
+were in the officers academy together
+yeah yeah exactly so
+we meet gila and and she's like i like
+this idea because i have the feeling
+that it's going to like a social impact
+kind of place and that's the kind of
+startup she wanted to do so we got
+connected over ideology but at some
+point we start talking and we understand
+that there may be a technological
+solution for the problem here
+um so so we start working on something
+that was very primitive um but it was
+this data pipeline that allowed us to
+find new information about cases that
+were never brought to court right um and
+when i mean a case then the first thing
+that we saw was like this huge data
+breach a massive data breach in israel
+that just no one sued over
+so why is that how do you explain a
+situation
+it's 2021
+all these tech companies they obviously
+have all these personal information
+about us there's no real control over
+how they're being disseminated and we're
+observing that we have data breaches and
+obviously this is illegal
+why aren't we seeing it in court where's
+the bottleneck so we thought the
+bottleneck at the get-go we thought the
+bottleneck was
+that people were not seeing the
+information
+then later on we learned that it wasn't
+that the evidence wasn't online and it
+wasn't that people were not seeing it
+they were just seeing bits and pieces of
+it
+the problem is that you don't have like
+no one's shouting at you a coherent
+factual story saying
+this company had a data breach in this
+state and that's wrong because of that
+law and therefore it should be sued
+there's no information like that out
+there
+what you really get is a url with some
+information about the company in some
+place and another url where you see oh
+they just released this product and
+another url where you know oh this
+product doesn't have a password gate and
+another url where there's some
+information about the problems of the
+data and how sensitive it is and and
+combining all that information together
+fusing that data from different data
+sources getting to one factual story
+that's coherent and people could
+actually read and take action upon that
+was the problem once we started looking
+at that in that way it wasn't like
+finding a news article that said file a
+class action against some company it was
+finding a lot of information clustering
+it together to find an event and then
+understanding what was the legal value
+of that specific event right
+that makes a lot of sense now if we look
+a little bit broader
+and we're looking at darrow as you know
+with the vision you know how many how
+many people are you daryl today we're 43
+today holy crap 43 today i think when we
+met it must have been like 10 or 15.
+yeah unbelievable yeah
+where's the vision at well if you're
+looking at the legal word endearo and
+the social world where are you headed
+yeah so
+well i do want to say that like
+on the legal side of things we started
+looking and said like we don't want to
+be another legal tech company we don't
+want to make the process that attorneys
+are going through um in their day-to-day
+lives more efficient we want to bring
+justice to the world
+that was the vision so
+simple yeah it sounds simple right so
+the vision for us is creating a world of
+frictionless justice we were looking at
+the world
+and saying like wait
+we have people people are electing
+officials these officials are making law
+and that law is supposed to spill on
+reality it's supposed to become reality
+but to do that you need enforcement
+we don't have enforcement it's not
+optimized at all right so we want to
+optimize that justice economy to make it
+so that we actually get all the cases
+that should be filed to court to court
+and we get them resolved as fast as we
+can so the mission for darrow is to find
+every legal violation and resolve it
+that's what we're doing today and and
+the methods that we're using are methods
+of building a data platform for lawyers
+for litigation professionals that can
+actually use that platform to source new
+cases share them inside the firm and
+then take them to court and act upon
+them and also like the major thing that
+we we discovered during this is that
+you need to underwrite these cases you
+can't just like
+bring someone a case right you need to
+actually tell them what's the action
+going to bring here what
+can you quantify justice in a sense so
+you want to tell them this is the damage
+caused to people this is the probability
+of success in court based on previous
+case law and this is what you're going
+to make in some kind of probability
+if you show that to attorneys and you
+get them enough cases they can make
+their model more stable and they could
+bring in a steady stream of cases to the
+firm and i imagine that until now the
+real way to do this would have been
+intuition people that have had you know
+years of experience with seeing perhaps
+hundreds of legal cases while he along
+comes there and now you're seeing you
+know thousands or hundreds of thousands
+of cases and you're able to then make
+the quantify the potential outcome
+versus also the probability or chances
+of success
+where's the impact side going into this
+so how so you know well going back to
+gila's motivation to come here what what
+is that about so
+the the north star for daryl is how much
+money we bring to victims right we want
+to make it so that victims of illegal
+action
+get back what it is that
+was taken from them it could be
+well-being right right it could be that
+that someone took your right to to live
+with clean air or clean water but it
+could also be money that was actually
+taken from you uh whether it is that you
+bought a product and didn't get it or
+got like a defective product it doesn't
+really matter but the issue is that we
+want to get that money back to you or
+that well-being back to you and the way
+to quantify that in a capitalistic
+society is money right so we're
+measuring how much like fraudulent
+transactions if you will we're
+discovering on the market and how much
+many of them are we getting to attorneys
+that could do something about it right
+um once we get the case to court then we
+also help the company or the law firm in
+a sense we help them build their case
+and get it
+resolved as fast as possible through the
+data platform yeah through the data
+platform and through our actuarial
+support of settlements
+right that makes a lot of sense now
+this episode is going to go out after a
+lot of the a lot of the great
+announcements so i'm going to allow
+myself to talk a little bit about that
+and the growth of the company you're
+mentioning that untraditionally you
+started you kind of started daryl
+without knowing that you're going to
+start a company you sort of came
+together with a lot and you ideated
+through what are the bottlenecks and
+then you realize that okay there's
+actually an opportunity and then along
+comes gila and and and brings the
+technology side and you're building a
+great company what is the north star for
+you as a ceo
+as you're entering the towers every
+morning and you're opening the office
+where where are you at
+so
+i think when like some introduction to
+this uh
+both aladdin i and and also gila
+actually we got into this whole world
+through this
+um thought of how we look at people and
+what kind of corporation do we want to
+build what kind of company
+and when we looked at that we we sat
+together on the beach i think it was
+august 2020. wow we thought about a
+company that was going to be
+human-centric in the sense that
+we want to like our mission in the world
+is to find every legal violation and
+resolve it why do you solve legal
+violations why do you want to bring
+justice to the world it's because you
+think that with justice people could be
+their selves could be whoever they
+really want to be and and be the authors
+of that life story that they're telling
+and we thought well we're going to do
+this in the outside right we're going to
+help victims of illegal actions resolve
+their problems and live the life want
+tell their story but we also want our
+employees at darrow we want darylers to
+tell their life story and in that sense
+i think my mission as a ceo is to make
+sure that the employees at daryl are a
+hundred percent into telling their own
+life story they're authentic they bring
+themselves to to the place of work and
+and they live a life that they're happy
+about if that's true then i think
+everything will be true like sales
+marketing um we'll get the number of
+cases that we want production would be
+good r d would be good engineering
+everything would be amazing if everyone
+at daryl were feeling that they could be
+the real self and they were on this
+dramatic kind of journey into their
+lives and all those journeys combined
+all their stories are the daryl's story
+right our stories are our story
+how do you measure that kpi how do you
+go to sleep at night knowing that i am
+building a company whose culture is
+human-centric bottom-up approach for you
+know for justice within darrow how do
+you how do you even go about resolving
+okay am i actually doing a good job here
+it's hard
+first of all i'm not sure that i have
+like one kpi that could really be
+the best for this
+it's hard to find one um when we tried
+to quantify it in the first like
+iteration here then we said something
+like let's check the net promoter score
+we'll ask employees uh exactly one more
+square of zero within there yeah within
+daryl we'd ask
+would you recommend uh um darrow as a
+place of work for a friend right
+um and and we ask that and we get
+results from that and and they're high
+of course and that's how i know that
+things are going in the right direction
+but i think the major thing that that we
+need to do is
+discuss this discuss our culture and
+make sure that people from within are
+building it and not like this top-down
+approach of building a culture where
+we want every event we want every value
+to be
+manifested
+by the employees at daryl we want people
+to build what it is that we're doing
+here in the sense that they feel
+ownership on culture i think a lot of
+the time when i talk to like fellow ceos
+fellow c-level people from from
+companies culture is is discussed as
+this leadership issue right and and we
+don't believe that we have we had an
+offsite like two weeks ago for
+for the executives and our thought was
+like let's talk about culture
+the conversation started with everyone
+in the room agreeing that we can't make
+any decisions about culture if we could
+talk about it it's nice that we could
+decide about a lot of other things as
+executives at daryl but we can never
+decide anything about culture without
+everyone that's involved being a part of
+the decision right deciding things about
+a company's culture means that you are
+the culture because you're building that
+story and we want everyone to bring
+their own story into that terror story i
+love it
+take me back a little bit about evia i
+want to learn a little bit more about
+you yeah sure um born raised in israel
+grew up in uh in herzliya but actually
+in in the nearby kibbutz
+um and i was like this yelled hoots an
+outsider kid in the kibbutz so that
+usually means that
+you get the feeling of
+um
+you're different from from your peers
+but also you come from a different
+culture so
+my parents were capitalist pigs and and
+the people at the kibbutz were
+some sort of socialist
+um of course it has changed uh uh right
+within years but but yeah definitely
+this this like
+differentiation between the places that
+i grew up in that duality that normative
+duality of two types of of social
+structures brought me to think about
+social structures like very early on and
+i was a very annoying child i think by
+the age of five or six i would ask a lot
+of annoying questions
+that made me
+i think into the person i am today and
+you can see how that transforms into law
+right 100 and the whole reason that we
+were the keyboards for the first place
+was that um
+my parents were both in the military and
+they needed someone to take care of the
+kids until late at night so when when my
+my father retired from the army a few
+years after we just went back to the
+city and and started studying there
+and and that was something entirely else
+because you would think that you go back
+home right you're from the city so now
+you you go back to the city and
+everyone's supposed to accept you as
+part of it
+but still there's something about that
+that people feel like well you're from
+the kibbutz you didn't study with us
+earlier um and and that difference made
+it so that i understood that that
+outsider position was something that i
+would hold for a long time
+um and then i went to the army i went to
+givati
+and and same happened there most of my
+team were religious so we had this like
+uh issue of also being like the the guys
+that were secular right had that feeling
+of okay we are
+we are part of another culture right
+we're the minority here which is funny
+because mostly in israel secular people
+are not the minority um and then that
+brought me again to think about culture
+and inclusiveness and then i was i had
+the privilege of being a part of
+the founding team of of a unit called
+ramon um i i got there a bit after it
+was founded and and had the chance of
+building the culture there as well and
+that was also something that taught me a
+lot about being included being part of
+the unit and uh i think we can do a
+whole episode just on the funding of
+raymond this isn't yeah it was it was
+amazing this was a desert commando unit
+um in the border of sinai it was very
+interesting
+the operational uh things were
+interesting but also i think building a
+culture there was interesting and yeah i
+can talk about it for hours and then
+later on um i went to study law and
+cognitive science and i fell in love
+with law
+but it also reminded me a lot of tech
+because law had that promise of
+authorship of your own life story right
+we'll give you all your rights and
+you'll just decide who you want to be
+and you'll be free to be whoever and and
+tech had like information technology had
+the same kind of promise at that time i
+grew up on windows 95 and it was all
+about that right it was like we'll line
+up all the windows for you and you'll
+decide who you want to be um and it took
+me a few months to see that because of
+the interference of capital
+both promises were not really real um
+law was being controlled and still is
+controlled by capital
+and so a lot of the people that don't
+have enough money just don't get to
+whatever it is that
+it seems to be justice for them um there
+is this justice gap which is a capital
+gap and the same goes for tech like tech
+had like for most companies they had
+these consumer propositions which were
+amazing but during the life of the
+company
+capital starts interfering and then
+the proposition changes a bit and shifts
+from
+helping the consumer and the user be
+empowered to
+changing their life in a way that was
+controlling and and not giving them the
+authorship of their own life story so i
+i thought of ways to mitigate this and
+after two years of researching um i
+found a lot and he helped me take it to
+a different place and i thought i think
+that's how we got to daryl in a sense we
+were thinking about how to use law to
+regulate tech in a sense but then we
+thought of it in the other way around
+the other way around let's use tech to
+build up law to to make good on its
+promise of helping people be the authors
+of their own life story right i love it
+i just love it
+if you had to
+think of how other people
+would look at evia how would they
+describe you in a few words if i were to
+ask ella or gila or any other 40
+darrowers who's evia what would they say
+i think the the the like for darwers it
+would be
+weird
+that that would be the word
+um we use in hebrew we use yet
+sure
+um so i definitely am a weird person uh
+i also think i'm a hopeless romantic wow
+i i i haven't heard that before and i
+love it i i believe in what we're doing
+like from within
+and that makes me into uh someone that's
+susceptible to
+uh be disappointed when something bad
+happens and to be extremely happy when
+something good happens so i could like
+for me that roller coaster of
+founding the startup is it's personal
+and it happens like every day right
+every day when something goes bad or
+something goes good that then i have
+those feelings and
+they're strong and i think like it's a
+life worth living you want to live a
+life where you you really get like
+strong feelings about everything so yeah
+i think that that would be another word
+romantic sounds like you sleep well at
+night
+no i not
+not most of them but for different
+reasons yeah for different for different
+reasons yeah yeah definitely
+it's so interesting and inspiring
+and i just i love these stories of
+leveraging tech to in this case bring
+justice but to literally make the world
+better i mean it's a nice phrase that
+people like to put out there but then
+what you're talking about the
+quantifiably being able to measure and
+having
+a succinct kpi
+that their wars can sort of have as a
+guiding north star helping victims and
+seeing how are you actually translating
+your work into helping them tell their
+story i think that's that's an amazing
+piece so thank you very very much thank
+you for having me
+hmm

@@ -1,0 +1,560 @@
+people believe that they know their
+where
+their area where they live and they
+actually don't that much not as much
+uh they know their street they but they
+don't really understand the patterns
+enough
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+to 20 minute leaders i'm excited about
+this episode for a variety of reasons
+but one of them is because we all hate
+parking
+meet ayal amir the ceo and founder of
+park nav a growing startup that offers
+ai technology to find parking in real
+time
+[Applause]
+welcome to 20 minute leaders all the way
+from munich right now thank you so much
+for joining me thank you mikhail
+first of all thank you not for the
+podcast but but for helping or trying to
+solve one of the most important problems
+in our world it's something that
+frustrates us on a day-to-day basis
+something that frustrates me especially
+living in tel aviv
+parking a an unsolved crisis since 100
+years ago when cars were first
+hit on the road
+and so i'm excited to hear about you
+both your personal journey with a phd
+from stanford in computer science and
+then also as an adjunct associate
+professor in illinois
+and working in in remarkable positions
+across some of the some of the top tech
+companies until you're now the ceo for
+the last few years of park nav so ayal
+welcome to the show thank you
+take me back you know seven years ago uh
+because i really want to spend the
+majority of the time talking about
+parking what made you start park nav
+parking
+uh i was uh a while ago i had the chance
+to be in in tel aviv while i was still
+in a tenure track at uh
+university of illinois in urbana and i
+was uh there uh for i've been doing ai
+for at the time like 15 years
+and
+i
+couldn't find parking of course my dad
+won't come to my place and uh
+it's uh in i was living in tel aviv
+right next to the city hall and it's a
+terrible
+you know
+terrible place uh to find parking in uh
+you know you you come back uh at like 7
+p.m you will spend 30 minutes looking
+for parking if you come at nine you just
+forget it you know for the next two
+hours just sit in the coffee place
+somewhere
+and wait for somebody to to leave and
+then go park it one in the morning and
+uh i've been doing ai for all that time
+i was thinking you know there must be
+some
+something that i could do
+i tried actually to do with a couple of
+partners tried to do some sort of a
+market making mechanisms where people
+would leave and then they will sell you
+they sell to you the information that
+they're leaving
+but uh we found out that uh long before
+uh somebody found out that they you know
+tried this idea
+and uh people want to buy the
+information but not enough people want
+to sell the information
+so
+we uh you know i looked at other
+approaches a lot of people back then
+told me uh you know sensors will conquer
+the world everywhere will be with
+sensors forget about you know don't
+worry about it sensors will solve the
+problem
+but you know i by that time i was living
+in chicago and it was like
+what's what's going on i mean i i cannot
+find parking it's ridiculous let's find
+you know let's solve the problem so uh
+started walking the streets with a
+clipboard
+you know
+well in this time there is a there is
+like two spots and
+the other time there is like four spots
+and other times there are zero spots and
+yeah and and started putting it into uh
+some models and uh there was some
+pattern so so what i mean what i'm
+hearing from you is that uh you know if
+we're looking at if we're considering
+sensors as a solution we're looking at
+dedicated parking spots and
+understanding that in this exact
+location there's a parking space and you
+were looking at it from one level higher
+and saying well let's look at the macro
+trend on a street level
+or on a location level and say okay can
+we make a prediction on how many spots
+there will be in a given area given that
+i don't actually care if it's here or
+here as long as it's close by and it's
+also you know it's a you know it's a
+common thing that that
+people say i think reid hoffman said it
+many people say that you you have to
+really focus on the end user's problem
+and i was the end user
+there are no sensors in the streets and
+you know and even if i put
+i was you know don't tell anyone but i i
+put like a camera outside my my uh my
+window and you know
+filmed the street
+and then you know my neighbor complained
+that i'm videotaping people and all of
+that and
+you know and but it solves the problem
+for only one street and i needed to then
+convince all of those other homeowners
+to have a solution you know and and i
+needed to find parking next to a coffee
+place randomly like just up north in the
+city
+you know that's a big
+a big investment not to mention a big
+problem and i needed to solve the
+problem now so it's very pragmatic kind
+of uh
+share with me this journey the you know
+years of journey of of trying to solve
+this problem for and and i'll just skip
+for a second to the end to give context
+at least according to the most updated
+version i saw uh running in more than a
+thousand cities with more than five and
+a half billion parking slots um
+fulfilled almost the number of people in
+in the world so amazing amazing really
+but
+this it didn't happen overnight it
+happened over several years what was the
+journey like for you
+well you know uh there are many many
+stories right i think many founders
+would tell similar stories uh
+i i'm
+i'll tell just you know one example is
+um
+yeah you know i ran out of money i had
+uh you know i burned a hole in my credit
+card and it's uh it's kind of uh you
+feel a little bit weird you know hey you
+know i i used to be a tenured professor
+in a top five university it's like what
+what is this
+and uh you know at any day i could maybe
+hopefully can find a job
+how can i be without money and so
+you know in retrospect i'll tell you i i
+just really did not know how to do my
+accounting well i should have taken
+accounting 101
+you know it's really one of the best
+advice to to all new entrepreneurs take
+accounting
+very important
+we actually have a class at stanford
+where you did your phd by adam nash who
+was vice president of dropbox and ceo of
+wealth of wealthfront and he it's his
+class for for engineers and
+entrepreneurs it's sort of accounting
+101 or how to understand money because
+he said you know you're all very smart
+but you have no idea how to count your
+money and how to do anything with it so
+i can see that you're very much in
+agreement with him yes and you know i
+i'm a mathematician in my training and
+you know it's like
+what do you mean it's just mathematics
+right
+it's a little bit more
+yes right a lot of nuances so what
+happened so so you're burning through
+the first of all why you know why didn't
+it work in the beginning what what did
+you what did you find
+that didn't work in the journey well you
+know the the the the easiest the
+observation is that you know i built the
+company together with my co-founder
+segay at the time it was uh
+i i did uh you know i assumed it would
+be like in the 90s the end of the 90s
+some of my friends created google some
+of my other friends uh created other
+companies it's like yeah you know just
+build it and then it happens right
+no so uh that was not the case
+so
+uh the technology worked i you know it
+was like whoa i couldn't believe it it
+actually works but um but yeah but the
+business model took me a long time
+uh yeah in retrospect we just needed
+very different people you know i didn't
+have experience in building startups
+none of us did
+and
+i really underestimated how much it it
+matters
+yeah
+incredible incredible and and obviously
+you're referring you know your friend
+you know you did your phd from 95 to
+2002 and there's some overlap with some
+very interesting people
+who've built some of the most important
+companies and search and algorithms in
+the world
+but
+what where are we at today so if you're
+looking at you know not even park now
+but if we're going 30 000 feet in the
+air and we're looking at parking
+solutions
+in conjunction with ai and mathematics
+how do these two things converge into a
+solution that is viable both in terms of
+unit economics but also in terms of
+consumer behavior so
+the unit economics is really cool uh
+meaning
+that people have value to finding
+parking
+and finding it quickly uh but different
+people have different value right so if
+i'm going to a business meeting
+then my value is just parking the
+closest the most convenient
+and just the fastest and it doesn't
+matter so much how much it costs and and
+when i go to uh meet some friends uh for
+for coffee then it does matter and i
+will park maybe a few blocks away
+and save the money and just walk so
+so there is value and the the problem is
+really well for there are two problems
+one is how to deliver the value
+to the end user and then how to
+uh capture the value so yeah when you so
+so delivering the value
+uh the the natural ways is through
+companies that already approach the end
+user with with a complete solution like
+car manufacturers they have a complete
+solution you know or you know google
+they have a complete solution so these
+or or pango let's say a mobile payment
+app
+they have a complete solution
+that the user already uses why not just
+add the information to that solution
+so that's you know that sounds great
+from from how to deliver it to the end
+user but how to capture that was the
+capturing that's right and why would the
+those companies give you that value you
+know that
+so
+turns out uh depending on the market
+there are different ways of providing
+value to those companies so
+the the easiest and that we've had the
+um
+forgive me for a little bit of uh kind
+of like details in inside the company
+but uh we did have a good success in the
+last year uh with providing the
+information to companies like pango so
+companies that provide uh uh data to
+uh so provide mobile payment solutions
+to to end users and so for example pango
+in uh poland
+uh which was founded by similar uh uh
+people who came out of pango israel uh
+they have a mobile app before payment of
+parking for parking and we provide them
+with information
+now i'm not gonna go into all the unit
+economics specifically for that deal but
+in general the principle is that every
+time that somebody pays for parking we
+get a little bit of value from that uh
+payment
+so and it makes sense because we improve
+the experience of the end user we make
+them more sticky in your app we make
+them more likely to use your app for
+many other services
+exactly the one has a distribution
+channel and one has an additional value
+that you're creating on top of it that
+makes perfect sense yeah and and the
+same goes with car manufacturers by the
+way car manufacturers were the earliest
+adapters our first first first customer
+was bmw uh and they uh really were
+fantastic
+of course fantastic partners they they
+really care about the
+the the
+how do you say
+the
+uh the precision of things the quality
+and so it really matched with our values
+and and they helped us a lot in refining
+what how we think about the product
+um and they also again they have a way
+of capturing the value they have a way
+of of uh
+using the value that you provide to
+capture more value on their side and
+they provide an end user with a
+navigation unit that costs more
+but is worth more for the end user and
+the use and user pays for it so again
+exactly and so obviously you know
+looking looking now at
+more than a thousand cities that's great
+i'm guessing that's also a part of the
+technology but then you're looking at
+the five and a half billion parking
+slots fulfilled which is the
+distribution so the model is obviously
+you know there's there's validation for
+it right
+going back to the technology identifying
+these five and a half billion slots i'm
+very very curious about that how does
+that work so i mean that example that i
+give at the beginning with uh this guy
+walking with a clipboard
+uh
+it's a scale up from that so it sounds
+it sounds like this is ridiculous but uh
+it is i think
+we there are a couple of observations
+that i noticed along the way that still
+to this day people don't believe me are
+true
+uh i'm ready
+one is um that there is much more
+order in the world of parking
+it's much more predictable than you
+think
+and the second thing is people believe
+that they know their where
+their area where they live and they
+actually don't that much not as much
+uh they know their street they but they
+don't really understand the patterns
+enough in the neighboring streets ah
+so
+okay uh
+uh we can run some experiments but uh
+you'll see you'll see we did run
+external i'm already thinking back to my
+own to my own neighborhood and figuring
+out how many streets do i actually know
+and what the parking habits are and i'm
+pretty limited to my corner and if that
+doesn't then i go to the parking lot
+right right yeah no and so the the when
+you combine this with
+uh
+they
+the ability to to really create precise
+models
+uh but really really precise up to 90
+precision without any additional data
+that becomes already some powerful thing
+and then you add data to it and you
+really get to 95 98 precision which is
+way more than what the the end user
+needs
+so
+incredible
+the journey for you ayala looking back
+how do you summarize it for you because
+it sounds like you've gone through a lot
+it sounds like you're
+you're celebrating the wins you're con
+you're reflecting on on some of the the
+things that that didn't go well
+but it also sounds like you're you also
+very much embody this an engineer
+mentality right an algorithm algorithmic
+person's mentality but how is this
+experience for you i have to say the
+biggest biggest i think growing uh you
+know
+it's a growing experience let's start
+with that
+um i lost you well i the biggest the
+first growing experience was
+losing some of my um
+uh uh ego
+so
+at least being able to put it on the
+side learning a lot of humility
+um
+you know justin is a simple example of
+just a personal thing at exactly the
+same time that i started the company
+my
+ex-girlfriend she moved our son to
+germany so
+it was a crushing moment for me and i
+learned a lot of humility but it ended
+up being very
+you know
+similar uh lesson to some things that i
+experience in the company a lot of
+humility there wow um
+how does that humility translate to your
+leadership style as the ceo of this
+company
+so it connects to the second thing i you
+know i in 2020 last well now a year and
+a half ago a
+year and a little bit ago
+we really uh said goodbye to pretty much
+half the company and and hired really
+a different house
+and it's uh
+you know the humility played a lot there
+because i think it was the
+the
+first moment that one of our lead
+investors from village global she she
+said to me
+and she said to me that uh hey you you
+need to learn
+to
+not do everything
+and so i learned not just not to do
+everything but to recognize that really
+all these people they know how to do
+this so much better than me
+you know everything i started with sales
+which was the easy
+thing but now it's also technology it's
+product product was the biggest
+revelation it was like this guy simone
+uh
+that we uh hired last year
+amazing revolution it's like oh my god
+that's how it should be done
+and oh my god
+and how long how and how long how many
+years did the company run until simone
+came and and provided sort of these this
+aha moment about the products i mean
+it's uh look last year it was really a
+revolution we we got eagle in the sales
+simone in product serena in marketing
+and and now we we have
+who's a
+ceo he's he's the guy who actually built
+companies and sold them
+as founder ceo
+and so you know i actually have people
+who know what they're doing
+and
+that's like okay
+i can just focus on
+telling you guys roughly where to go but
+you know what to do
+i love it i love it and i love how it
+connects to humility and too and and and
+obviously i can't imagine it being easy
+you know growing this baby and then
+letting and and coming to an agreement
+with half the team that it's not working
+and and shifting things i mean i i can
+only imagine how how difficult it is
+especially given the the these
+incredible things that you've done
+before which i'm guessing turned out a
+little bit different than the first half
+of the journey of this company oh yeah i
+mean the the last ha the last year has
+been very very different very different
+but but also it's not you know the the
+previous guys were amazing they were
+really really good at what they were
+doing it's just that they were
+not the right guys for the next stage
+and it's
+you know you bring the right people for
+the stage and it's like the it's all of
+a sudden the machine is like a
+well-oiled like purring machine so
+i love it i love it
+i think that this journey is
+i i you know i came in here wanting to
+understand how to how can technology
+solve parking but i'm leaving uh hearing
+a remarkable journey uh from somebody
+who who really you know embodies
+humility and going and going through a
+lot of these experiences and really and
+i appreciate your openness and
+vulnerability and be willing to speak to
+about these things that i and i it was
+just fascinating so thank you very very
+much for your time and for your energy i
+appreciate it a lot and and stay safe
+and stay healthy and best of luck with
+park nav thank you michael thank you for
+the invitation great to meet you and
+thanks for the time
+wonderful thank you very much
+[Music]
+you

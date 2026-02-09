@@ -1,0 +1,447 @@
+think about it while you know in
+financial services or different
+verticals data is what drives the
+business here in these critical
+infrastructure organizations the
+production lines are driving the
+business these OT operational technology
+assets are driving the business the iot
+assets these physical assets the
+controller in a manufacturing floor
+production line a PLC or in a fusion
+palom in a hospital
+these devices are really driving the
+business serving our lives right if it's
+a water utility or electric utility or a
+hospital the way we uh we get these
+Services is through these physical
+assets so that's the hardcore of the
+businesses and not protecting the
+hardcore of these businesses and just
+focusing on the data centers servers
+laptops what have you the manag
+devices that obviously creat it's a
+bigger
+risk Yaniv vardy welcome to 20-minute
+leaders I'm so happy to have you with me
+how are you excellent thank you so much
+for having me Michael phenomenal to have
+you here Yan today you're the CEO of I
+think one of the most interesting cyber
+companies probably in the world
+Clarity because you're dealing with the
+cyber security in the contexts that are
+not trivial they're both both in the
+terms of the complexity and how
+important they are effectively in
+critical infrastructure H but also just
+Thea the the path of clarity I think has
+been fascinating and one that's very
+very much in line with the startup
+nation and and what we embody a little
+bit before we get into your work today
+tell me a little bit about yourself your
+the way you came into cyber security how
+do you end up leading this company yes
+of course sure um so um you know before
+Clarity um I spent about 10 years in the
+US in New York graduated from industrial
+engineering there and started my journey
+one of the companies there spart
+systems um ending up um leading the uh
+um the company um um also here from uh
+from from Israel uh for um for about
+eight years selling the company and
+later on uh managing panoramic power
+which was focusing on Energy Efficiency
+and operational efficiency um which I
+sold to centrica British gas um and
+managing the international business for
+that company um I was approached by the
+board and um I thought very highly of
+the opportunity one because you know
+it's um it's a great mission statement
+that we have protecting cyber physical
+systems in critical infrastructure
+organization ations and two I was very
+intrigued by the um by the opportunity
+to really understand the
+challenges of protecting these
+industrial manufacturing and healthc
+care
+companies um and understand how to go
+about that I think very highly of the
+opportunity because we protect people's
+lives if you think about that we're not
+protecting just data or you know
+personal information or credit card
+information we protect people's lives
+there day in and day out if it's a
+hospital if it's an industrial or
+Manufacturing Company um people lives
+are at risk there um and you know we're
+very much proud with the mission
+statement that we are pushing forward
+and this is what was for me very very
+attractive to take it one from a
+business perspective and build a
+business here um that uh that is a
+market leader and two with a mission
+statement that is truly critical and
+important in today's world I love it so
+let's take a step back for a second and
+you know cyber security comes in all
+shapes and sizes and I think the
+majority of of categories in the cyber
+security space are leaning much more
+towards the digitized space you know
+that we we went from the the networking
+firewalls in the 95 to to the semantics
+and malware detection for operating
+systems to cloud and identity and zero
+trust and and and we see what's
+happening with AI today where does this
+physical security fit in here and you
+know how you know place this for me in
+the cyber security context sure I'll
+take a step back actually think about
+the world today digital transformation
+is really pushing industrial
+manufacturing health care companies to
+connect connect all their physical
+assets to improve their business to be
+more productive to be more efficient to
+more competitive so if you think about
+industrial companies manufacturing
+companies Healthcare um the race to
+connectivity to get all these benefits
+is clear but by far outpa the ability to
+secure it you know I compared that um to
+years ago where the internet was coming
+up the the need for the internet and the
+value and benefits for the internet was
+great but obviously at the beginning not
+secure
+that's what we see today today there are
+more unmanaged connected physical assets
+than number of people and it's growing
+significantly think about it Michael we
+think that in the next few years we'll
+exceed 30 billion devices physical
+assets that are connected for these
+companies to obviously be more
+productive but not secured and that
+creating a bigger risk that expending
+the a attx surface that's basically
+really putting these companies and
+people at risk where we are not secured
+mostly um and with these critical
+assets and what's at stake so 30 billion
+so the the race to connectivity yes the
+upsides of course the what what is that
+stake here if these devices this this
+connectivity maintains unmanaged and
+unsecured what what what what could we
+be facing or what have we experienced
+that could help us understand why this
+is a mission critical area sure so think
+about it while you know in financial
+services or different verticals data is
+what drives the business here in these
+critical infrastructure organizations
+the production lines are driving the
+business these OT operational technology
+assets are driving the business the iot
+assets these physical assets the
+controller in a manufacturing floor
+production line a PLC or in a fusion
+pump in a hospital these devices are
+really driving the business serving our
+lives right if it's a water utility or
+electric utility or a hospital the way
+we uh we get these Services is through
+these physical assets so that's the
+hardcore of the businesses and not
+protecting the hardcore of these
+businesses and just focusing on the data
+centers servers laptops what have you
+the managed
+devices that obviously creates a bigger
+risk and hence the uh unfortunately the
+number of attacks that we see today that
+is increasing and the risk if an
+attacker is getting to an HMI and a
+PLC um that is changing the chemical mix
+um through a water pump or a controller
+that can kill people if an attacker is
+getting to a production line of a car
+manufacturer and now manage the robots
+there that can create a huge risk when
+you see Vol typhoon the Chinese uh
+government and the program that were
+that they deployed on critical
+infrastructure in the US that's creating
+you know a risk to people's lives when
+networks in
+hospitals are are down because of a
+ransomware attack and the hospital is
+not functioning anymore and patients are
+moving from One hospital to another
+because of that that's killing people if
+a sensor in a hospital is not
+functioning anymore because of an attack
+that can cause a risk to live so we're
+talking about critical infrastructure
+organizations that they're hardcore of
+these organizations are these physical
+assets that let them you know provide
+the services and push forward to
+basically have us you know benefit from
+these services so they can sustain our
+lives so it it sounds like there's a
+huge fragmentation of systems that are
+vulnerable to these attacks right so and
+and I'm curious if you can help me
+understand the stack so there's always
+you know the the I guess the the
+electricity running and then there's the
+operating system and and networking how
+maybe can can you walk me through the
+stack for these physical devices and
+where Clarity fits in in terms of its
+security alongside this Tex teac sure so
+think about you know the industrial
+manufacturing there's the Purdue model
+with different layers but the way to
+look at that Michael is first the um the
+need for visibility and I'm using the
+Gardner
+uh customer journey to kind of describe
+to you where we sit in the stack but
+also how the customer is looking at the
+journey so first is visibility we have
+the ability to really orchestrate the
+different ways of getting the data to
+map the entire network for our customers
+if it's active or passive configuration
+files Integrations we collect the data
+map the network for our customers and be
+able to show the uh full visibility of
+all physical assets and all connected
+devices um in the network and then we
+start to provide exposure management to
+our customers identifying the risk and
+vulnerabilities but also helping these
+customers to prioritize the
+vulnerabilities on these critical assets
+where the asset purpose is key to
+understand as part of the critical
+process that we are focusing on so
+prioritizing the risk and the
+vulnerability
+and then provide Network protection to
+our customers through Network policies
+for example taking actions as far as
+zones and segmentations the ability to
+really reduce the risk with actions and
+not just showing the risk and the
+vulnerabilities for for our customers we
+provide thread detection continuous
+thread detection obviously connecting
+with the sock and making sure that we
+are embedded within their
+ecosystem that they have and making sure
+they have the data from us in real time
+as well as securing the remote access
+into these assets as part of our
+platform and I think today as opposed to
+few years ago the value of having one
+comprehensive platform the holistic
+approach is critical because customers
+have enough Solutions out there to
+integrate and service and all that and
+so like I said securing the remote
+access into the network and not just
+identifying these assets but securing
+the remote access into these Assets in
+the network in a very secure way with
+Pam and ztna capabilities is critical
+especially today with a third party risk
+that everyone is talking
+about I I'd love to double click with
+you on this context of risk assessment
+on the attack surface because I think
+that's one of the things that I would
+imagine and you and you mentioned that
+the values they providing here is the
+ability to look at the to look at the
+landscape and and come to the Security
+Professionals and say here is where we
+believe you may be vulnerable and here
+is what could happen if we don't take
+action and um and and I think especially
+as you look at these different devices
+that are doing different actions it's
+because also because of their fragmented
+nature and what they're aspiring to do
+it's not as trivial as another database
+in the cloud another laptop another
+another router or switch what have you
+found successful in being able to
+articulate the risk assessments or the
+risk levels to Security Professionals
+that help them be most effective in
+communicating it so that they understand
+it and then take action yeah that's a
+good question Michael I think first of
+all it's fair to say that these guys
+look at a traditional ways of securing
+their networks and thinking it's just
+not effective anymore so to that point
+point the ability to identify the risk
+and the vulnerabilities on specific
+assets is not enough because you can
+have thousands of
+vulnerabilities on your assets and in
+iot you can have hundreds of thousands
+of
+vulnerabilities and 22% last year for
+example of this huge number were
+critical so if you're a customer if
+you're a sis and I'm telling you you
+have thousands of vulnerabilities and by
+the way it's all critical what do you do
+with that you cannot go and Patch
+especially not in production lines
+manufacturing or hospitals you cannot
+just go and Patch these thousands of uh
+of assets with these critical
+vulnerabilities but we are focusing on
+these critical processes we understand
+the asset purpose the actual asset
+purpose Within These critical processes
+we see what vulnerabilities were
+exploited we are able to prioritize
+these vulnerabilities and the risk risk
+and show you the risk hygiene and the
+factors that can actually help you to
+reduce the risk and the actions with
+zones and segmentations for example that
+can help you to reduce the risk the
+significant risk reduction with specific
+actions and not just bombarding you with
+all the vulnerabilities and the risk and
+everything that everyone is doing
+because it's just like I said not
+effective anymore but being very focused
+on what actions needs to be done what
+are the network policies that should be
+enforced and how to do that and I think
+that's very unique to Clarity to
+leverage our domain expertise with the
+asset Purpose with the critical
+processes with the critical and
+exploited vulnerabilities and the
+network policies combine that with
+threat detection and remote access
+security that these are the domain
+expertise that are bringing us to the
+table and usually why you know customers
+are choosing Clarity over the others so
+how important really is domain expertise
+in in this context uh you see a lot of a
+cyber companies with great technologists
+many of them are generalists that are
+able to create good technology for
+detection or assessments or reporting
+Etc um it feels like Clarity is
+operating in a domain that does have you
+know the that you can leverage domain
+expertise how but but how how really do
+you feel it is important here from your
+customers perspectives that your domain
+experts and and what is the domain
+expertise really on sure so the domain
+expertise are on the actual assets their
+protocols communication what a good
+communication looks like between these
+assets what are these specific
+proprietary protocols that are Simmons
+or Schneider Rockwell protocols that we
+need to actually identify to be able and
+identify the assets I'll take take a
+step back without these domain expertise
+Michael first it's hard to identify
+these assets and how can you manage or
+protect what you don't see and so first
+is really identifying these assets and
+you need this domain expertise to
+understand and have these proprietary
+protocols to understand these assets and
+the asset purpose and so on second like
+I said the traditional way of doing
+vulnerability management and risk
+management is just not valid anymore
+especially with physical Assets in these
+critical infrastructure organizations
+and so if you don't have this domain
+expertise you have hard time to
+prioritize these actions and these
+Network policies for these customers and
+you end up being a very generic
+solution that every cyber company can
+come try to do everything to everyone
+that's not working for these
+manufacturing folks or the industrial
+folks or hospitals in healthcare they
+understand the need for domain expertise
+and they will try to avoid these generic
+Solutions out there what do you have
+most fun in in your journey so far what
+what's been the most exhilarating part
+of of running Clarity wow that's uh
+that's a good question look I get my
+energy from uh meting customers
+customers and partners to be honest I uh
+I just came from uh I don't think I can
+um you know share the the name of the
+customer but one of the biggest
+Industrial company in the US just
+understand what's the value they get
+from Clarity and how they improve their
+business and operational efficiency not
+just is cyber and and the way we protect
+but operational efficiency I get my
+energy from from these customer meetings
+to be honest um customer and partners
+and that's for me that's great that's
+fun um I also to be honest enjoy the
+team we have a great team and we like to
+um you know work hard play hard and uh
+at the end of the day I also enjoyed the
+team so you know time that we spent with
+the team just came back from New York we
+spent a few days before the board
+meeting um with the team together kind
+of uh you know finalizing the plans for
+next year you know we enjoyed that I
+love it you I really want to thank you
+for taking the time to to join me here H
+this was such an awesome conversation I
+I learned a lot on the personal level
+and uh thank you for all the amazing
+work you're doing obviously it's it's
+not just about for you not just about
+making money and building a successful
+company but the impact that you're
+having both on the the the the impact
+specifically on the cesos that are
+experiencing the product but then even
+more broadly I think the the first
+sentence you said in this episode is
+that you know you really feel like
+you're you're saving people's lives
+which I think is a it's obviously a
+great motivator H Yan thank you so much
+and uh best of luck thank you so much
+Michael take care

@@ -1,0 +1,624 @@
+things doesn't possibly dramatically
+change you still need to find a problem
+okay and once you find the problem you
+need to search for people that have the
+same problem and wants to solve the
+symbol
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to 20 minute leaders let's talk
+about research and innovation meet
+ranilani head of emerging technologies
+at innovation etni at cisco israel
+ron is also co-founder of porkshift io
+acquired by cisco a pioneer in the cloud
+native security market
+prior to port shift ron held executive
+leadership position with checkpoint
+software technologies leading network
+security appliances business line
+earlier run co-founded blade fusion the
+first industry standard for multi-bladed
+security appliance for enterprise and
+prior to that he managed an engineering
+team of exceptional researchers and
+developers in distributed computing at
+main control acquired by ibm
+ron is the inventor and author of more
+than 10 patents most of which are in the
+field of cyber security he holds a bsc
+and an msc in computer science with
+honors from the technology
+[Music]
+ron ilani welcome to 20 minute leaders
+thank you so much for joining me how are
+you
+i'm great uh thank you for for having me
+and great to have this uh little chat or
+fire slide chat so to speak it's gonna
+be it's gonna be fantastic
+ron you're a serial entrepreneur
+you're an inventor uh you're a
+technologist you're a researcher
+and you know your curiosity you know is
+you know runs through your journey and i
+know and i'm looking forward to picking
+your brain on some of the some of these
+experiences that you've had and the
+insights that you've gained and both on
+the entrepreneurial side on the
+invention side and the curiosity side
+but even before we do that i want to go
+back in time to growing up in africa and
+tell me just a little bit about about
+your very non-traditional upbringing as
+a kid
+yeah so uh well right you can say that
+literally i was uh well i was growing
+with the monkeys
+during the 17th
+late late seventies i'm joking of course
+so uh actually my childhood was uh in
+west africa nigeria i spent uh several
+years with my parents there were
+there was actually some
+i would say uh from the ministry of
+defense
+you know uh being some positive there
+uh so i spent there uh you know most of
+my childhood but you know until the i
+think the
+fifth grade
+um
+and uh yeah it was an interesting
+experience i can say that you know uh
+uh it was very interesting in the sense
+that uh
+you know uh actually
+what you have
+as a kid okay uh in israel and what you
+had as a kid
+in africa but then was very different
+uh
+you know both fine you know growing up
+uh learning studying by the way i i
+studied the first grade
+it in a class with
+another single student so we were two in
+the first grade
+yeah so it was so it was pretty
+interesting pretty unique
+and yes when i arrived you know in
+israel uh i've actually arrived with a
+language actually with two languages
+with both english but also the native
+evil language so yes this is also
+another interesting story that uh
+i can definitely i don't know how to
+speak today but it was very cool to
+speak when i was a kid at least with the
+native
+yeah so quite an interesting uh
+experience i can say and uh i think
+you know growing up in a untraditional
+classical
+environment um
+to some extent contribute uh to the way
+that
+uh you know you can cope with different
+situations in a different way okay it's
+not it's not a classical growing up
+experience if you you know if you travel
+between
+countries specifically africa
+specifically in the late 70s back then
+so yeah that's the story
+if you had to go throughout your journey
+and to
+pinpoint the time that
+that that sparked your curiosity as an
+inventor and as a scientist
+um
+is there a moment like that were you
+always from childhood that curious or or
+was there something that changed
+the way that you saw your own curiosity
+that led you down this path
+i think well the number one
+sort of pillar okay that
+at least for me personally was that
+every time that you are um sort of uh
+introduced to uh
+something that you learn
+you want to do it a little bit different
+you find something that you are
+you are not okay with it i mean it's not
+it
+it's it's you are not okay you could do
+some improvement and the improvement
+will make it better
+i mean this is something that is almost
+fundamental not only you know in
+startups and you know being an
+entrepreneur but but even on a
+day-to-day
+uh and for me you know it's on a
+personal basis you you you know the way
+that you uh drive to work the way that
+you raise your kids the way
+on the little things in life or you know
+that that you have
+and do um
+this is probably the number one i would
+say parameters that you know sort of
+takes you uh down the road
+talk to me a little bit about
+the different things you've done so
+you're you're curious about cyber
+security you're curious about devops
+you took that curiosity to the
+entrepreneurial world
+you've been a part of some phenomenal
+organizations like entrepreneur
+residents of the phenomenal
+team eight you've founded two companies
+that were very successful and today
+you're you're head of emerging
+technologies and innovation at cisco
+israel
+is there sort of a common thread amongst
+these things are you more of an
+entrepreneur are you more of a
+researcher
+what sort of you know
+how do you describe
+who you are you know within this
+ecosystem
+yeah i think it's it's really a
+combination of several things uh
+let me give you an example and and it's
+always
+you know and
+it always starts with with something
+that really binds to what i described
+formally that you are not quote-unquote
+happy with okay and you want to create a
+change you want to make something that
+will change the world or change the way
+we are doing things in a traditional way
+and i'll give you a very simple example
+well i have several of them but you know
+the most i was i would say prominent one
+is the one for instance with portrait
+okay so i've been with
+um you know checkpoint almost 10 years
+and i was leading a pretty large
+engineer organization of several
+hundreds folks that did you know
+firewall and network security and what
+what i learned that
+uh you know every time that you sort of
+deploy when you speak with customer and
+you want to do a new project it's always
+sort of almost an open heart transplant
+for a lack of better term uh
+it's always a project that you need
+acceptance and it takes a lot of time
+and you are always the persona man grata
+as the security officer when you want to
+uh to you know to deploy a new firewall
+into the actual uh operation environment
+and then we start i mean
+in the modern uh application environment
+where you have containers you have
+kubernetes you have serverless amd
+uh network classical network security
+network segmentation can it be so i
+would say um
+none i would say operate operationally
+sensitive and you you need the solution
+to be able to be a
+decoupled from the network to some
+extent
+and also uh
+to be able to uh be provisioned to the
+developers and devops in their own tools
+you cannot really do it in the old way
+that you know you did you did things in
+the past and and and this is what you
+know how you know portrait was born by
+the notion of doing some sort of uh um
+application based uh and segmentation
+but the couple from the network without
+again without you know putting a lot of
+uh i would say
+friction with with the developers even
+the name portrait by the way is like
+part is really left it's like shift left
+but also shifting from ports to
+something else and something else is a
+different notion
+of you know uh sort of micro
+segmentation this is how the company
+started to change the way that you do
+network segment segmentation we actually
+chose you know being on the cloud native
+environment we chose
+underlying infrastructure which is
+called easter service mesh as you know
+as the
+underlying technology to be able to do
+this type of
+i would say operation but we learned
+very fast that
+it's not enough okay which is by the way
+it's always it's not enough to have a
+great technology and fall in love with
+your idea of your product you really
+need to see where the market is and back
+then
+serve and i'm talking about like four
+four and a half years ago uh service
+match was really cool
+technology really cool cool product but
+we didn't really see a lot of adoption
+in the market because you know users and
+customers were coping with how can i
+secure my containers and my kubernetes
+let the law on them in the service mesh
+let me let me have something which is
+much more basic
+so again we we change okay we we
+understood that the vision is is is good
+but we need to change a little bit the
+focus we need to address the same point
+which is much more fundamental much more
+basic but in the same principle no
+frictions and obviously and being able
+to and being deployed with uh i would
+say with the double stool so we started
+doing uh i would say a concept of uh and
+taking the same i would say
+product and technology infrastructure to
+uh to provide the same functionality
+which is
+what we call the pyramid of necessities
+something with the very something with
+the very base uh i would say requirement
+which is let's say
+uh vulnerabilities and visibility for
+those containers and then configuration
+management and only then i would say you
+know the more advanced functionality and
+with that actually and we went to the
+market which proven to be very very
+successful because again we turned out
+to be what we call a one-stop shop okay
+for kubernetes security but again
+starting from the very base the idea is
+that
+for that again that the main id well no
+friction no agents for you know to
+install not a lot of effort to for the
+developers and devops in order to deploy
+the product and this is sort of how you
+know the
+um
+you know the company and the technology
+grew and the lesson learned is that
+there are two you know
+first you you need to to to have the
+drive okay
+uh
+to
+not accept what is being introduced by
+current solution in the card market and
+the second thing is that
+you know if there is a wall which is
+like 9
+90 feet high i mean if you run
+um much more faster it doesn't really
+mean that you will pass it so
+you need to find another way to pass the
+wall and in our cases was to understand
+that you know for instance in this
+example service mesh is something that
+is not adopted and we need to change a
+bit okay our direction
+in order to hit the right mark and then
+there are users and this is the story of
+portrait by the way
+and this was also the story of blade
+fusion okay which was another company
+that i founded but again the least
+common
+dominant nominator there is to find
+something
+uh which is not okay in the car
+technology okay to try to fix it
+and but to do it in a unique way
+if you are targeting i would say
+a hyperscaler market
+it has a great advantage for instance uh
+we actually decided to go with cloud
+native containers and kubernetes because
+we find out that you know the adoption
+we sort of um
+assumed okay that this would be like uh
+the new form factor that inherit the
+earth so to speak so it worked out very
+good for us okay and but again it's
+now when you when you started porch
+shift and you made that decision or you
+you sort of made that prediction that
+this is going to be the the bread and
+butter for for future cloud native
+companies was that trivial because today
+everybody sort of you know agrees to
+this but was that was that already
+trivial about that it's what's
+absolutely not true because when we
+talked with uh
+you know with with csos okay which are
+the owners of the uh you know
+you know the security uh sort of uh
+realm
+kubernetes and we have actually
+containers or something that is on the
+edge okay it was something there but you
+know nobody really sort of
+understood that this is going to be one
+day a huge issue
+first to be able to visualize to
+understand what i have deployed and
+second of all obviously to secure them
+then the same story came with kubernetes
+okay kubernetes started very small with
+google
+yeah and uh
+and very fast grew like you know
+uh
+gigantic uh you know uh uh dimensions
+and so
+in some cases we sort of
+we gambled yeah i might say we gamble
+obviously but it was an educated guess i
+would say um that being said
+you know
+every educate educated guess usually is
+based on the on on some working
+assumption our working assumption that
+if we are talking with let's say
+then organization and without those
+organizations we see like uh we're
+talking with the right persona with the
+devops and we are hearing the same story
+all over again it makes sense that it
+will happen down the road so yeah so we
+definitely gambled on those on this
+domain and marketed it you know we were
+we were
+i love it and i love the intentionality
+behind it but but this this dissonance
+between
+the you know you as an inventor and as a
+researcher you as an entrepreneur you're
+talking about this
+sort of the there is a difference
+between creating this innovative
+technology that is meant to do something
+that has never been done before but do
+it in a way that that cons that the
+consumers will enjoy will fix their
+fundamental pyramid of needs
+and
+was that easy sort of balancing those
+two worlds for you on one hand
+developing innovative technology and and
+assimilating it to consumers behavior or
+or did you find that challenging
+bridging those two worlds together
+yeah so
+it's always challenging okay it's always
+challenging
+you know to bridge between those two
+worlds from one hand but from the other
+hand this is really really
+the
+one of the main problem one of the main
+i would
+being able to bridge between
+what you want to bring
+as a technology to a real pain point and
+in some cases the pain point is even not
+clear to the user itself himself
+uh in some cases you need soda to uh
+educate the market that there is already
+pain point there and if it doesn't see
+it today he will see this you know
+tomorrow right yeah obviously it's much
+more challenging to you know to cover
+those type of uh you know uh of uh i
+would say challenges that being said
+uh the merit is much greater because if
+you are right
+then what starts today is something very
+small can turn out to be something huge
+down the road in our cats it was very
+clear with containers kubernetes and
+service mesh and all of those you know
+put cloud-native technologies obviously
+but uh yeah so this is definitely one of
+them i would say major tasks that you
+know i see ourselves as you know
+founders and entrepreneurs as you know
+mustering it's almost like an art so you
+know
+and and so following on that art today
+is his head of emerging technologies
+innovation at cisco but but also sort of
+bring together your time as
+entrepreneurial residents at team eight
+and the ideation process for blade
+fusion
+what is sort of your day-to-day like so
+how do you what is sort of the the
+persona that you have to bring as you're
+evaluating these new opportunities and
+these new technologies yeah so yeah one
+of our just you know decision to to join
+cisco you know our acquisition is i
+think it's also pretty unique because
+we didn't really join cisco just in the
+corporate we we joined what we call the
+ethnic emerging technology incubation
+group which was
+which is a fairly new uh division within
+uh
+within cisco and the uh
+and the charter of this division was
+within cisco is essentially to bring
+sort of the next generation
+technologies and product that we take
+cisco i would say to the you know to the
+to the next phase in in the cisco
+journey
+and the opportunity was really to take
+what we have with worksheet that was
+done and i would say in a fairly limited
+scale and to turn it into something
+grander
+uh as part of what we call the cloud
+native
+uh you know security
+domain but also as you know
+you know is leading the etna site here
+in uh
+in israel
+opening new ventures yeah
+and one of the very interesting buckets
+that we we are also
+sort of entertaining is the machine
+learning ai specifically more
+specifically mlabs and this is something
+that
+does not really relate to security or
+cloud native security it's totally on a
+different you know bucket okay so to
+speak but you know
+that being said
+very interesting and this is again
+another very unique opportunity to take
+to take our experience as you know as a
+founder of company and bring it and
+create a new ventures and by the way
+we have moderate the same journey with
+uh
+uh the mlaps uh that we're doing today
+with cisco as we have the portrait i
+mean i mean that things doesn't possibly
+dramatically change you still need to
+find a problem okay and once you find
+the problem you need to search for
+people that have the same problem and
+wants to solve the symbol and then once
+you find those people those are your
+audience or your
+design partners usually you think of
+this solution that you would pitch to
+them and once you've pitched them the
+solution you ask them whether they would
+like to use this type of solution and
+then the third layer of you know
+validation is okay once you use this
+type of
+solution whether you want to pay for it
+so this is again so the main fundamental
+question stays the same doesn't really
+matter whether you are
+running a startup you know uh but
+even doing a new venture within uh
+you know corporate
+cisco the difference i think and what
+we're doing today is the fact that
+we can fail one and four
+we can decide that uh
+we want to restart i mean that this idea
+wasn't good we need to we want to change
+the idea
+uh
+and in you know in etna cisco again if
+it's nobody really wants to fail don't
+get me wrong but
+the the implications are totally
+different i it's more like a playground
+i can decide that i want to move to a
+different story in a different venture
+nothing will happen and startup you know
+the the pivot or the journey that i
+described to you as moving from
+something
+from something very
+that we decided to do to something else
+was not an easy task it was not as an
+easy decision this is you know the the
+decision has a lot of implication of
+budget and the company and the focus
+again because the resources are much
+more i would say
+smaller in the extent
+but
+incredible the bottom line is that you
+still need to answer the same question
+and every venture that you you you you
+start regardless whether it's like you
+do it on the startup or or and
+and this one by the way this is one of
+the reasons why we decided to join cisco
+in dni
+uh because
+this brings that an opportunity for us
+as a team
+uh to create more stuff and as a team by
+the way we weren't you know we weren't
+distributing the organization we are
+still working as you know the porsche
+team we extended obviously we have more
+people we are we are growing here
+dramatically
+but again uh this is where we see the
+opportunity in
+creating new products and new things and
+this is where we have the excitement and
+we are
+we are we are it sounds uh it sounds
+extremely exciting both on an
+entrepreneurial level but also on an
+inventor and research level bridging two
+distinct but but amazing worlds together
+and ron i really want to thank you for
+taking the time to to share these 20
+minutes with me talking about both the
+entrepreneurial journey of blade fusion
+and port shift but also a little bit
+about today's role within cisco and how
+you're thinking through these this
+problem solution mindset and i can't
+wait to continue following your work
+and seeing what what new things you come
+up with and thank you very much for your
+time fantastic and thank you for having
+me today
+thank you

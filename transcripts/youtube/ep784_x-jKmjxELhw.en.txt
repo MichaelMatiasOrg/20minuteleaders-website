@@ -1,0 +1,569 @@
+i truly believe that the culture at the
+low heart is uh is very unique uh we are
+all mission driven i mean uh most of the
+people that join aloha join it for a
+personal reason or for a passion to this
+fielder to do good
+to the world so we have a mission and we
+we work together
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctek
+welcome to 20 minute leaders this
+episode is with mikhail goodman the cto
+and cso at hello heart a healthcare
+startup that helps patients track
+understand and improve their chronic
+conditions
+before joining hello heart michal worked
+as r d manager at trusteer an israeli
+cyber security company acquired by ibm
+for nearly a billion dollars
+michal has over 15 years of software
+development and research experience
+which enabled her to lead along with her
+colleagues the largest peer-reviewed
+research on digital health that was
+conducted by the company michael holds a
+bs in computer science and biology with
+an emphasis on bioinformatics before
+that served in the elite unit 8200
+making such a huge positive impact using
+technology
+literally the reason why i entered tech
+in the first place you know
+understanding how to use deep technology
+to work with consumer behavior to to
+make a positive impact here in the
+health space your engineering background
+spends well beyond health and into other
+verticals as well and and as a leader
+i'm i'm excited to hear a little bit
+from you how you've seen your own
+personal development and and how you
+bring those experiences today to the the
+incredible mission that hello heart is
+on a fantastic company post series c
+company with some incredible investors
+on board resolute and coachline and some
+amazing amazing partners with you and so
+um i can only imagine what it's like to
+be on this rocket ship and at the same
+time saying the the awesome ways in
+which you're helping people take control
+over
+their or over their their ability to
+manage their diseases and so mikhail
+tell me a little bit about yourself and
+and you know a little bit about your
+journey
+sure
+uh i was born in a
+recent here in israel
+and as a younger sister to two older
+brothers i grew up to like video games
+more than any other game
+because i wanted to play with them
+and basically i wrote my first video
+game at the age of 14. it was tetris in
+a visual basic
+and my first website at the age of 16
+which was a way to communicate with my
+girlfriend imagine a time before what's
+up facebook and stuff
+so technology was always a part of my
+journey part of my my life
+after that i served in the elite unit
+age 200.
+when i completed
+my service i started my bachelor's
+degrees in computer science and biology
+with the emphasize on bioinformatics
+basically i yeah i already i
+always had a passion to computer science
+but i always also have a passion to
+biology
+and um and the medical field in general
+had small dream to become a doctor but i
+killed it
+back then
+so when i found out about this degree
+which was relatively new at the time i
+understood that this is uh
+this is the perfect fit for me
+after i graduated i
+spent several years in the cyberspace
+field
+which was amazing experience
+working in cyber security every day you
+have a new challenge and the amount of
+data you're working with is crazy
+and
+every day you need to solve some problem
+but you need to solve it yesterday
+and one of the startup i worked with was
+a trustee that was also acquired by uh
+by ibf by ibm sorry
+uh but
+but after like more than 10 years um i
+decided to
+search and see if i can find the
+companies that will combine
+biomed and uh technology and then i
+found uh hello hearts and i'm enjoying
+the ride ever since
+so walk me through the inflection point
+of
+joining hello heart first on on a
+personal level so you know you're
+mentioning the search
+and you're looking for what else to do
+you've already seen
+success numerous times throughout your
+career whether it be in academia or in
+startups or in the idf
+really meaningful positions and
+meaningful verticals what was that
+search for really
+so
+it was a very
+particular search i knew exactly what i
+wanted
+i didn't search for any title i search
+for a company that will work in
+in the biomed field if it's healthcare
+or
+genetic or something about that and back
+then in israel
+the numbers of companies and that and so
+that was not a lab
+and i also search for a small company
+where i can really influence and make an
+impact and feel like i contribute to the
+company's success
+and actually a friend of mine introduced
+me to hello hearts and
+and they were like super small 10 people
+back then they didn't have even have
+like
+um career page in their website
+so i found the co-founders dave meltzer
+on linkedin and i found his personal
+email address actually oh and i just
+sent him a message yeah
+like hey
+your company sounds super interesting
+let's meet
+wow yeah and they agree
+so so what about the company that point
+really drew you in because that's quite
+quite unique because i'm sure that with
+your expertise and your experience you
+had a lot of people knocking on your
+door at that point to come and and you
+know join their journeys yet you send
+you send a message what what prompted
+you to do that
+um
+i
+read and i checked my network about
+mayan coin which is the ceo and steve
+meltzer and their experience really
+resonates and
+and
+when i met them i
+completely
+was
+amazed by
+by the product they built by the company
+they built the culture they have at the
+low heart and i really
+believe that they can take this company
+further
+and again we were like 10 people now we
+are 130.
+so i hope i made the right decision but
+it looks like i did that definitely did
+tell me a little bit about the pain
+point of hello heart and the
+you know the solution that you're
+bringing
+both from a technological perspective
+but also from a consumer shift in
+consumer behavior perspective
+yeah
+so before we explain about the people
+and that we have at hello heart uh and
+in the journey that we had uh
+a bit about the love hearts uh so
+basically our mission is to empower
+patients to understand and improve their
+heart health using technology
+today the average person use
+his cell phone about five hours a day if
+not even more so uh
+what we want is that we want to leverage
+that in to actually saves life so we
+started with the hypertension which is
+the lead cause death in the us and heart
+conditions in the world in general and
+now we're expanding to improve leukemia
+and also to erythria
+um
+basically what we are doing is we have a
+mobile device that comes with a blood
+pressure cuff wireless part pressure
+cuff the cuff measure the user is able
+to measure his vitals using the cuff the
+cuff sends
+the results to the to the mobile app and
+now the magic
+begins and we start with the simplest
+things which is to actually explain the
+user what the numbers even mean you will
+be surprised how many usual does not
+know what is the big number or the small
+number or
+or is it good is it bad uh where should
+they aim to
+so we start with that so you're saying
+by the way you're saying and i'll touch
+on this later on a little bit again
+because you're mentioning this is the
+simple thing but i think you know like
+you're mentioning it's not that simple
+and also from a company perspective yeah
+being able to do it well that that is
+probably the hardest part of this whole
+thing right
+yes uh this is true it's not really uh
+it's not really simple because you need
+to build the trust and you need to make
+the user believe in your device and
+those devices are pretty new they're in
+the world for like 10 years
+and
+most people
+prior to covet wanted to see their
+doctor they don't want the app the
+mobile app or even or technology in
+general to to explain to them what they
+have
+so uh we needed to spend a lot on making
+sure that the user experience is flow us
+and that we explain to the user that
+this product actually works and we are
+and we have uh
+accuracy the same as you will have in
+the doctor office
+and of course of course the privacy when
+you are working with the medical data
+and especially when for us because we
+are working in a b2b2c model which means
+which is business to business to
+consumer which means and we sell our
+solutions to uh in our case to employer
+in the u.s market and the employers give
+the solution to their employees so the
+privacy is super important and
+many
+many of our users
+want to make sure that their data will
+not be shared with their employer that
+it will not impact their
+their health status their health
+insurance
+uh so yeah now it sounds simple but we
+had uh quite a quite of a ride and to
+make sure that our users will feel uh
+comfortable measuring their blood
+pressure at their home so what are the
+you know the challenges that are being
+presented when you're working on a b to
+b to c company where trust is such an
+important figure here you know the brand
+and the recognition that people feel
+safe and secure with with with both
+using
+and understanding and agreeing with the
+product how do you what are the biggest
+challenges this presents
+basically now
+um i would say that our company is
+divided into two we have the b2b part
+and we have to be to sip the b2c part uh
+because
+in one in one
+for our customer success for our go to
+market team their client is the employer
+but for our product design
+uh user marketing their client is the
+end user so basically we have
+two marketing departments one depart one
+marketing department that aim for the
+end user but one marketing departments
+that end for the clients
+so it's a it's a big of a challenge and
+it's also a challenge because in some
+places the
+the
+the business the clients the ones that
+pays they want you to do something they
+want uh to influence the roadmap so they
+have some kind of idea but
+the user will not actually want it you
+know that they will not use it or it
+will not help the users improve their
+portal so why should they do it so it's
+like a bottle and you need to decide
+which one to take um
+and also the sharing of data it's also
+an issue because
+the
+the business like the clients they want
+the data they want that just to get all
+the information that they can uh but we
+always
+we build our products from the patient
+side not from the medical side so we are
+here for the users our users come first
+and this is something that we will never
+do we will never share data
+even if it will cost us some clients
+right and so with technology being at
+the forefront here what is technology
+really enabled
+you both as you as a leader but as an
+organization to do that wasn't available
+you know even 10 years ago
+uh i will give you an example of one of
+our latest uh features that we launched
+last year which is a
+irregular heart detection
+basically now we can detect the regular
+heart which is uh it's it's a very uh
+complex condition that you cannot detect
+all the time it's not something that you
+have 24 hours
+and so if you will go to the doctor to
+check that it's not necessarily means
+that at the right moment that you you
+will see at the doctor office you will
+have this uh irregular heartbeat
+but when you can measure it every time
+when you are at home so for example if
+you feel fatigue or dizziness and you
+have your device near you so you will be
+uh more able to catch
+those events and it's a life-threaten
+event so this is basically what we did
+using technology uh to be able to
+measure the heart rate and to find like
+a best line baseline into um to see
+abnormality in your heart rates and
+according to that to detect irregular
+heartbeats
+incredible and so if you're looking at
+technology as an enabler here you know
+moving forward and where you know even
+in general with with the medical space
+and and the way that customers are able
+to
+interact with their illnesses in a in a
+different way
+what how do you see this advancing how
+do you see you know the new technologies
+that are being developed now
+specifically you know with machine
+learning and and our ability to really
+make sense of lots of data how is that
+going to change the consumer behavior in
+the health space
+wow the technology is involving all the
+time and it's crazy uh what we have now
+is the wearable devices it's amazing you
+get so many
+uh data points on you how you sleep how
+you snore
+um how you walk if you will fall
+it's
+your
+your oxygen level your temperature level
+and so using all of that i really
+believe that
+we can um first of all uh reduce
+unnecessary uh medical intervention like
+surgery but even medication
+and the fact that
+in for example in the united states many
+users are suffering from overdoses of
+medication because
+no one was um
+because no one really take the time to
+give the specific doses or maybe after
+like four months of using this uh
+medication for a chronic disease we can
+change
+the the prescription i mean it can
+happen so using something that will
+monitor you all almost all the time will
+help us solve that and now we can
+actually see that
+people are being more engaged people
+have the trust now and technology people
+understand now that they don't need to
+go to the medical
+office uh although aloha does not intend
+to uh
+to to be instead of the medical uh of
+the doctor uh we just
+want to a to tell the user when is the
+right time for him to actually seek a
+medical condition
+a medical assistant
+how is this journey different for you
+now so you've done the searching and you
+reached out to this company you're more
+than 130 people now after you were 10
+people
+been with us since its growth well how
+do you see
+your journey different here than before
+uh
+being at a low heart
+from a 10
+people company to 130 and counting we
+are growing all the time
+it's a credible journey my role has
+changed
+every six months
+the
+the task or the job responsibility i had
+when i started and the the ones that i
+have today is completely different your
+job all the time involving and changing
+and the people that you work with all
+the time changing and so it's crazy to
+be part of a hyper growth startup it's
+it's something that uh
+i
+you need to try it i
+really recommend it to everyone to try
+to be part of startup would do you see
+yourself going back to
+the previous verticals that you used to
+interact with you know look at this a
+cyber security space or traditional b2b
+says is that something that you see
+yourself doing again
+post hola hard or has this experience
+changed a little bit your ambitions
+within
+your career or the tech space
+yeah
+so this experience changed a lot how i
+see
+using technology when i first
+in my first month at the low heart i
+couldn't really understand the
+difference of blue color like
+i mean one shade of blue was the same
+shades for me
+the user experience was not something
+that i thought it's so
+crazy and so important
+uh but now i understand that it is it
+can actually make a product successful
+or to fail
+so um i think that i all i will always
+want to be in to work on a product that
+uh
+that put emphasize on the user
+experience and to it to continue to
+research user behavioral and
+to use that to create even
+even better products
+so to go back to
+to cyber security there
+i
+i think i will stay with the
+medical space
+the
+today you know everybody's talking about
+culture and the vibe and uh
+you know making a positive impact
+what is the feeling within hello heart
+you know is there is there a feeling of
+of mission driven of you know people
+working towards a greater goal is there
+a sense of that
+of that culture there
+yeah um
+i truly believe that the culture at the
+low heart is is very unique uh
+we are
+all mission driven i mean uh most of the
+people that join our heart join it for a
+personal reason or for a passion to this
+field or to do good uh to the world so
+we have a mission and we we work
+together um beside that our culture is a
+is a very open to feedback which is
+something that
+i didn't find in every place that i
+worked with
+we think that feedback is a necessity
+and not and nice to have
+uh
+we make a decision based on data and not
+based on seniority or titles
+so
+basically the company really uh listen
+to
+uh to the employees and not just telling
+them
+what to do and i think that in this uh
+culture the employees at a low heart
+feel like they can speak their mind
+share ideas and and contribute to the
+success of the lower heart
+and
+it translates to
+to be an environment where people really
+enjoy
+coming to the office uh which in those
+days it's not something very common i
+agree
+mikhail this is so awesome and i'm so
+inspired by your work with hello heart
+you have incredible partners and
+incredible
+people that are making such a positive
+impact and uh and like i mentioned in
+the start this is you know the reason
+why i got into technology myself is to
+find those interests points of
+intersection
+where you have a challenge of a con
+consumer challenge
+that through behavior that we can alter
+we can improve the lives dramatically
+and we can provide more information in
+it but in a different way and it's just
+exciting so can't wait to see what's
+happening with hello heart and thank you
+very much for joining and stay safe and
+stay healthy thank you
+[Music]
+you

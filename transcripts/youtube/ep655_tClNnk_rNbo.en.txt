@@ -1,0 +1,542 @@
+therefore like you know it's all about
+the people
+we brought people that
+could make fortune in other companies
+but they like the mission of like
+solving hard problems
+everything is cognate is open we're not
+we're working with open spaces and open
+rooms everybody knows what everybody's
+doing although we're like close to 70
+people already
+so we're like kind of like both of the r
+and d and their product and marketing
+and the sales they know what are the
+problems where we are trying to solve
+how we are going to do it and are
+communicating all around it's kind of
+like an open way of communicating what
+you do and people love that
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillary stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders let's talk about the autonomous
+driving space meet danietsmon ceo of
+cognata
+danny is a seasoned technologist and
+subject matter expert in the domains of
+machine learning computer vision and
+automated driving leveraging this unique
+expertise danny has been in the business
+of launching high-tech products for more
+than 20 years
+he served as harman's now samsung
+director of advanced driver assistance
+systems and senior director of machine
+learning and has co-founded several
+technology companies operating in the
+intersection of artificial intelligence
+and automotive technology
+daniel welcome to 20 minute leaders how
+are you
+i'm great thank you michael great to be
+here how are you
+i am doing fine thank you so much for
+joining me i love talking about
+autonomous vehicles and really i love
+talking about deep technology in general
+that you know that manifests itself
+towards a greater future that is both
+saving a lot of lives on the road but is
+also just just really really really cool
+and with kokonata today you're really
+you know enabling
+the development towards autonomous
+vehicles and you know if i think about
+you know what kind of thing people would
+think about in autonomous vehicles in
+their day-to-day it's probably not what
+kognata does which i think is also a
+really cool aspect of what you're doing
+because sort of behind the scenes of how
+this whole thing is operating so i'll
+let you explain the rest tell me a
+little bit about yourself and then we'll
+transition to talk about autonomous
+vehicles
+okay so i'm daniel smoan i'm
+the ceo and founder of cognata uh i'm
+what's called like a serial entrepreneur
+it's like my third company uh
+in sirius
+the last top companies were like in the
+field of computer vision and the
+the company before cognata was acquired
+by the t1 harman it was a company called
+iron road
+it did
+advanced driver assistance systems
+on a smartphone became quite successful
+and was acquired by t1 and i ran
+advanced driver assistance functionality
+like know the generation that you have
+currently on your vehicle this was what
+i was developing and
+something like you know six
+years ago five years ago i like talked
+about like the whole problem again and i
+understood that the way that the
+industry is like
+the way it goes it would never converge
+and solve the problem without a good
+simulation platform like you have like
+tons of sensors
+a lot of inputs you need to learn
+driving behaviors of humans and like
+anticipate the unknowns unknowns and
+there was there wasn't any systems that
+could handle that
+so i left my very cozy uh walk in
+harmony
+and they know we call it to go to the
+desert and now start from scratch
+everything the problem how we can solve
+it
+better in a much more efficient and
+explainable way and that was the forming
+of kugnata meaning of the name
+cognition and data
+in order like if you think about
+autonomous driving you're talking about
+deep learning
+based technologies
+and this is the kind of technology that
+learns by example
+you show it like uh
+annotated or like bounding boxes of
+people in an image or in a lidar view it
+will learn how to generalize that
+and the way that it was done
+like
+when i was developing was
+to take
+a manual snapshot or videos and do like
+manual labeling of that stuff
+and you need like billions of images
+like to generalize that and this is not
+the way to go
+you need some kind of like scalable
+manner of doing that and
+that was like the idea behind forming
+not an automatic way like a realistic
+simulator that will enable you to create
+this data it comes fully annotated with
+full ground proof that you can learn
+from and get much faster uh to what you
+need i love it why
+there were there were two parts of this
+question first it was why the automotive
+industry why mobility and i want both
+parts of the answer and then i and then
+a little bit about you know the startup
+journey and being a serial founder in
+the space
+yeah okay so let's like three questions
+try to remember all of them so
+um
+why mobility
+it goes a long way with me like it's one
+of my
+favorite things like my mother told me
+that as a kid when i was three years old
+i was recognizing
+all the
+all the vehicles
+logos um
+out there on the road it's something
+that i loved
+uh and then
+[Music]
+when i got uh you know
+older
+uh i kind of recognized there were like
+three platforms that you could like
+bring innovations
+uh the first one was like uh the pc
+then the pc was exchanged with the with
+the smartphone
+and then came the vehicle like uh you
+see like the issue of generation like
+you know you're like adding more and
+more compute so you got into kind of
+saturation with pc and like
+uh the mobile and now the vehicle is the
+next a platform where you can bring
+innovation
+and now
+regarding like you know starting from
+scratch
+oh
+i'm come i'm coming from a family of
+entrepreneurs like
+i kind of investigated that with my
+accountants like we just try to
+understand if there was any kind of like
+um in any generation of my
+my family if there was like you know
+people that there weren't entrepreneurs
+and we tried like four generations you
+know into the past and they didn't find
+any
+so
+this is like one it's like you know
+it could be that you're like warning
+with like uh
+that urge the second thing is the
+when i'm seeing a problem like seeing a
+a
+technological problem that can have a
+solution is from like a very young age
+i'm trying to bring
+new solutions to that
+and uh i really love like the
+the um
+the process
+of innovating and commercializing
+innovation
+and
+so
+you can say it's like you know
+family background you can say it's like
+you know the way that i was born like uh
+but this is like this is me
+right
+let's let's dive deep into kognata and
+specifically into the autonomous vehicle
+space and the enablement space
+where you know pin me a picture of the
+landscape of the of this autonomous
+vehicle world
+and what what is the gap that you've
+observed as you were found in coconata
+yeah like
+my my background
+is with the
+computer vision algorithm design
+that that was my expertise i started
+like you know working on that like seven
+years 17 years ago
+and it's the main issue
+when you are developing
+an autonomous vehicle autonomous vehicle
+cannot be wrong
+or it can be wrong like a human being
+and like a human being
+almost does not do any arrows you do not
+like go
+intentionally into red lights or like
+you are crazy and will do it or would
+not stop on a stop sign you would do
+intentionally doing that but a computer
+can not allow himself to not recognize
+the stop sign or like the red light
+um
+and bringing a
+computer vision
+or perception tasks like that to the
+level of the human being is a very
+hard task
+you need to find
+all uh
+the variations
+of the stop sign or of this red light in
+order to teach the deep learning system
+that we've
+talked like in the beginning of this
+call
+and this variation as a human being you
+see
+billions
+instances of death
+when when you're growing up and like
+it's easy for you like to recognize
+because you saw it you know how it looks
+you are like 18 you take your the
+vehicle you understand it
+you take like a vehicle with a with the
+software you need to teach him
+and uh
+this like for what what i'm
+understanding is that
+this perception tasks
+and the the need of like
+data
+which is fully annotated and tell you
+this like a stop sign or red light
+you need those billions of instances
+which are diverse enough and interesting
+enough to teach your systems is
+something that the industry is lacking
+and it's really really hard to create
+those
+uh
+and
+those data sets in order to teach
+autonomous
+systems how to see
+so this is like the first stage and as
+you can see like there's like a full
+industry around it
+you can see camera manufacturers you can
+see lidar manufacturers radars all of
+these guys are investing billions of
+dollars in order to bring
+a computer to the level that it can
+recognize every obstacle that
+a human with two eyes
+is doing and
+the second
+level that i i see is kind of like
+what stops us
+uh is
+that
+you need
+like a human eye it's only like let's
+say these two eyes
+uh i think much better than any
+combination that i saw of like cameras
+plus sliders plus radars and you have
+like a processing power which is 1 000
+times faster than any supercomputer that
+you know out there
+so you know you need
+some kind of like balance this uh
+equation
+and then
+from what we think today
+uh like you know five years ago in
+established cognitive everybody was
+saying
+we'll do it in two years in three years
+there will be like weimar's all over san
+francisco but it didn't happen because
+this is a hard problem what we're seeing
+today
+in the industry
+is that uh
+there's
+there are like autonomous vehicle
+applications but they're limited
+you see that you know in agriculture
+you see it with some
+construction and mining you sit with
+some small shutters just and like you
+see like the big investments from waymo
+and cruz and the zoox
+investing billions into getting to
+robotics which i think they will succeed
+in like you know three to four or five
+years uh we'll start to see it
+commercially
+very very cool as you're running this
+company how much of your of the culture
+and of the perspective sort of the
+mission of where you're at
+is
+you know based is rooted in this idea
+that you're enabling the future of
+autonomous vehicles rather than you know
+a a very cool computer vision deep
+technology company if you're looking at
+sort of the culture or the people that
+you get to work with at coconada what
+where are you on that spectrum that you
+know where sort of the the motivation
+for what you're doing
+people come to work with in general for
+the challenge
+like i'm trying to solve hard problems
+i'm not trying to
+i'm not trying like to take like you
+know ed tech or fintech i know this
+stuff
+we could have been there but i never
+liked it i'm trying to solve something
+that you know would serve humanity at
+the end and i think uh they think the
+mission of like bringing autonomous
+vehicle which is safe
+is
+an actual
+interesting mission something that they
+can work with and can um
+um
+identify with like they
+they like the tasks like uh and and they
+feel like that you know what at the end
+uh
+cognate brings to the market
+a
+safer
+auto autonomous systems
+and it's really
+cool to see our clients
+uh
+satisfied with what we're giving them
+and and and and their success is my
+whole team succeed when where some
+customers do like you know uh improving
+their perception detection by 30 which
+is huge
+and like pedestrian detection of like
+small kids we enable them to do that you
+know like my team
+this is what you would like to bring and
+not like another like you know cookie
+cutter for ethic
+right i think that makes a lot of sense
+how do you cultivate this
+challenge-driven mentality of solving
+difficult problems whether it be
+through you know your leadership style
+through
+the way that you approach those problems
+so as a leader i'm asking
+what do you do in order to really
+cultivate and make that you know a core
+foundation of the company that you're
+building therefore like you know it's
+all about the people
+we brought people that
+could make fortune in other companies
+but they like the mission of like
+solving hard problems
+everything is cognate is open we're not
+we're working with
+open spaces and open rooms everybody
+knows what everybody's doing although
+we're like close to 70 people already
+so we're like kind of like both of the r
+d and their product and marketing and
+the cells they know what are the
+problems where we are trying to solve
+how we are going to do it and are
+communicating all around it's kind of
+like an open way
+of communicating what you do and people
+love that
+i love it take me back a little bit you
+know you mentioned that that your mom
+tells you about you already as a kid but
+if you go back in time a little bit what
+really fascinates you growing up you
+know all the way back to elementary
+school middle school years
+what really you know occupies your brain
+yeah like
+um as a kid
+[Music]
+growing in the 80s and we just don't
+know like the pc you know the personal
+computers coming
+i remember going with my with my
+brothers to see the the the new tech
+uh
+in the stores because we could not
+afford and when we could afford i i
+learned english by by programming when i
+was seven or eight
+uh so that really fascinated me how how
+you can
+program and bring like games and like
+you know some fun stuff into life with
+that
+uh when i was older
+uh i was starting on to work as really
+young kids
+like when i was 13
+as a programmer
+uh
+if i'm looking like in high school what
+fascinated me
+like i liked physics and math of course
+but i think i had like one class
+on a very old programming language
+language called prologue
+i think it's the first time that i've
+heard about artificial intelligence
+and how how you like you know
+uh uh teach your computer to think
+that's really fascinated me as like you
+know a 16 years old
+kid
+and
+and going from that after like you know
+serving in in in the army in like a
+famous 8 200 unit
+i started my entrepreneurship stuff when
+i was 20
+finishing bc and so
+and tried like you know to bring some
+something new to the world
+i love it
+and where do you draw your inspiration
+from today so what what in this you know
+either your day-to-day in the challenge
+in the mission
+and in the work that really inspires you
+today if i'm thinking about inspirations
+inspiration from
+the wisdom of like
+other entrepreneurs these days
+and
+looking at the
+the work of
+jensen wang in nvidia
+how he
+he
+this guy is just amazing like you know
+he brought a full technological uh
+roadmap nobody believed it was possible
+it was
+insane what insisted insist about you
+know all of his air processor for like a
+a decade until it's like finally reached
+the point
+and today they're like huge company
+amazing technological entrepreneur
+driven by a mission and knows how to
+execute i love this guy this guy
+and i met him several times
+brings a lot of inspiration of how to do
+things right when you are a
+technological
+entrepreneur like me
+um
+other than that my kids and my family
+know
+like they are bringing the innovation
+home
+there's a lot to learn from these guys
+i love it
+thank you very very much and best of
+luck with natasha thank you for enabling
+what's going to be one of the most
+amazing revolutions that that i will get
+to observe and then i'm very very
+excited for that so thank you for all
+the hard work and for the inspiring
+conversation and stay safe and stay
+healthy thank you michael it was a
+pleasure for me thank you
+you

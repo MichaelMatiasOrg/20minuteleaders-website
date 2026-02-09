@@ -1,0 +1,656 @@
+there's microprocessors practically
+anywhere and
+most of them are hidden most of the
+people don't even know
+and
+[Music]
+thank you so much for joining on 20
+minute leaders
+thank you thanks so it's good to be here
+so we're going to talk about metal
+today right bare metal yeah bare metal
+you know as a young entrepreneur going
+through
+stanford here in palo alto we see all
+the sexy things on the news and all
+these new and shiny devices
+and and really really cool things but
+sometimes i think we forget to look back
+and really the
+you know the the core of what's
+happening in the core of technology
+which you've been dealing with for quite
+quite some time now
+as you know in vp engineering positions
+is cto positions
+let's talk about metal but first giddy
+tell me a little bit about where you
+come from
+okay so i've been a cpu architect pretty
+much my whole career i've
+uh started way way back
+uh in israel and was having the
+computer architecture team at national
+semiconductor
+moved to the us with national worked for
+a
+good number of years for another cpu
+company called mips technologies
+and until this morning i was working at
+a semiconductor company called
+advesto which today was acquired by
+different
+semiconductor companies
+thank you very much yeah we're all happy
+about you're saying it's so
+so casually really yeah thank you
+how many how many acquisitions of this
+so now have you been a part of
+oh a good number of acquisitions there's
+a lot of stuff that's happening in the
+semiconductor business now it's not as
+visible as the
+software business or the apps business
+but a lot of
+uh things are happening i was admitting
+it was acquired
+i was uh consulting a number of uh
+startups that were a bunch of them were
+acquired and now this company that i'm
+in was uh the deal was closed this
+morning
+unbelievable get on why is this not in
+the news
+why are i mean this is obviously in the
+news you just have to to look a little
+bit deeper than
+you know another autonomous vehicle
+company being acquired
+but why is bare metal not in the
+headlines
+well first you just don't read the
+correct uh you know
+sources of media right that's 100 true
+um well uh it's uh it's not as sexy as
+uh
+as a software uh it takes us much longer
+to
+get to an exit in this business uh
+this business requires significantly
+higher investments
+so two people in their garage
+cannot really get a company
+to an exit within a couple of years that
+doesn't happen
+attesto which is the company that i was
+part of has been around for 13 years
+before it was acquired about
+eight nine years before it got uh it
+went public
+wow so it takes much much longer
+and the problem is we're building
+semiconductor devices you call it bare
+metal but uh what we're doing is
+designing semiconductor chips that are
+pretty much the the baseline for pretty
+much all the software that's been
+used in the world and we have to do a
+lot of things
+uh to make this happen and it just takes
+time and money okay so you know
+let's dumb it down for me because i know
+nothing about this what
+is what what is the semiconductor
+business what are these technologies
+what are you what are you building on a
+day-by-day basis
+so it depends different companies are
+building different things you know
+everybody knows about the intel which is
+building you know the cpus that are
+driving the the pcs and now apple is
+going to be building their own cpu
+that's going to drive the new mac
+machines uh so these are the things that
+are typically much more in the news then
+there's another tier of companies that
+are building
+products that go into cell phones so a
+lot of people know about
+qualcomm and other such providers
+but then you go deeper and for example
+the business that we're part of which is
+uh
+the industrial iot uh
+these these devices are done by a whole
+bunch of
+smaller companies and uh
+most of them you just don't have a clue
+that these devices are sitting within
+your uh
+your printer or your uh you know
+food processor so we're literally
+talking about the chips
+the chips that are in almost everything
+that we see in our day today right now
+exactly and many of them include cpus
+inside so
+a lot of them at the end of the day are
+running softer so there's
+a lot of uh design that goes into
+these systems first building the chip
+then building the software around it so
+even the software people that are
+building the software that goes into
+that are not engineers nobody knows
+about them but that's what
+actually is driving your car and that's
+what driving pretty much
+every one of these devices that you know
+you're
+buying at amazon right no that's that's
+just incredible and
+you know take me back a few years
+because you've been in this space for
+quite some time and you know i grew up
+into a world that
+iot internet of things devices are
+prevalent and almost everything i touch
+has a has a brain of its own but
+i think when you started in this
+industry it wasn't like this right
+no no no no no uh when you know i've
+been in this business about 30 years and
+uh you know even at that time computers
+were
+relatively scarce you know there was a
+typically a car had
+one processor that was controlling the
+the engine and that was it today a car
+will have
+you know hands and tons of
+microprocessors that are doing
+everything from rolling the windows down
+all the way to
+showing you the way uh you know even a
+cell phone has a number of
+microprocessors inside uh
+dealing with different functionalities
+so there's microprocessors practically
+anywhere
+and most of them are hidden most of the
+people don't even know and and this
+uh what the internet of thing is doing
+today is what used to be called in the
+past embedded systems which were
+you know systems where the software was
+deep inside nobody knew that about this
+software it was just done by whoever
+built this system but there was no way
+to update or upgrade it
+uh now with uh the internet of things
+pretty much all these pieces are capable
+of being upgraded and updated
+over time which makes it beautiful it
+allows you to add features
+later in time tesla is made a whole
+business of
+upgrading your car pretty much after you
+actually
+bought it which is something that was
+unheard of in in the car industry before
+incredible so what is there to come
+because it seems that now
+you know everything everything is
+already connected and everything is
+pretty much communicating with itself so
+what what are you know the big
+milestones that we can foresee
+in the next few decades big thing that's
+happening right now is actually taking
+ai
+and driving it all the way to the edge
+of the network so
+your uh you know the camera in your uh
+in in your door uh will actually be able
+to
+figure out whether it's your somebody
+else so and
+a whole bunch of other applications
+where the
+knowledge to know how the processing
+power
+whether it's standard processing power
+or even ai
+will all be at the end of the network
+the edge of the network without the need
+to go back to the servers
+and make decisions and do that requires
+that
+first for you to be connected and second
+there's latency you don't want
+uh stuff to go up to the network and you
+don't really want
+amazon to actually take all the uh
+words that are being said within your
+living room and send them up to their
+server
+you want you want to get the service but
+you want it to be done
+locally without amazon actually getting
+that information and storing it on their
+server so
+a lot of this in intelligence coming
+down
+right to the edge of the network will
+make a big change in the way
+uh these devices are operating right so
+and it sounds to me that
+there are some hidden difficulties or
+hidden challenges that
+you know a software engineer like myself
+may not even under
+realize because you know i could be
+developing artificial intelligence
+models
+pretty easily either using you know auto
+ml by google or just tensorflow
+with python or pytorch but it sounds
+like what you're saying is that the
+challenges of of running these
+models on device on the camera that's on
+the door
+is not just the software there's a lot
+of you know the the processing power and
+the memory
+those are all challenges that we're
+still facing today right i can't afford
+to put a
+you know a server farm in my house so
+you have to figure we have to figure out
+ways to make these algorithms more
+efficient to make the hardware more
+efficient so it would be able to run it
+in many cases you need to be running it
+with a limited amount of energy
+right for example the battery-operated
+devices so there's a lot of innovation
+that's going on right now
+into building devices that are smarter
+and capable of doing these smart things
+at the edge with the limitations of cost
+power
+and um pretty much everything else that
+uh that is uh what you expect
+at the end of the day to have in your uh
+you know
+right next to your front door definitely
+so and and your
+the things that you're building are they
+are are these the challenges that you're
+working on
+making these things possible yeah we are
+working on uh we're working on
+ai at the edge we're also working on
+security
+at the edge so all these devices need to
+be secured
+and uh you really want to make sure that
+nobody manages to
+penetrate in your house into your bank
+account through your uh you know
+through your uh connected fan right so
+there's a lot of work that's being done
+in these areas as well
+yeah i believe that it was a somebody
+shared with me a paper from the technion
+of a couple of people who managed to to
+actually hack
+a fan a ceiling fan and get some
+personal data about people through that
+right right right yeah pretty
+fascinating so you know
+what excites you about this i mean this
+does sound exciting now that you're
+explaining
+what it what it allows but at the end
+you know you're not working on the
+camera
+of ring and you're not working on the
+ceiling fan you're working on on the
+technologies that
+then companies can use to make their iot
+right
+right but what what's happening is that
+the
+engineering uh uh companies that are
+building the end product
+uh are becoming trying to become leaner
+and leaner and what happens is that the
+semiconductor vendors that are
+offering devices to these applications
+are providing significantly more
+software
+and more of the application within
+the device within their offering if you
+look today
+at the tv for example the chip that's
+actually controlling the tv
+uh comes from a vendor that provides not
+just the chip but the operating system
+and
+okay a lot of the software at the end of
+the day uh
+the various oems uh you know the main
+difference between their devices would
+be just the brand name
+on that pops up when you turn on the tv
+uh could easily be that ninety percent
+of the software is the same
+software that was built or provided by
+the semiconductor vendors so
+semiconductor vendors are actually
+becoming much more of a vertically
+integrated
+suppliers of a lot of the software and a
+lot of the solution
+we're providing these the devices we're
+providing the software
+we're providing even boards that include
+all the
+pieces together and then in many cases
+oems in china and
+in taiwan would just take these designs
+and
+pretty much take them to production
+fascinating and you know
+are there you know demographic shifts
+that you're seeing in the industry in
+terms of
+you know young people coming into it
+because i'm just thinking about my
+experience at stanford
+it's much sexier to go into software and
+just to use python to write these
+you know machine learning code and
+honestly most of the companies that are
+coming to hire on campus that's what
+they're looking for
+i don't remember a single company that
+came that had a standout and said come
+work with us in the semiconductor
+industry
+so what's happening with that well uh
+it's
+our industry is actually becoming older
+you go and visit the offices and you'll
+see people that are
+you know slightly older than the people
+that uh you would see at uh
+typical uh google uh um you know site
+right
+um yeah that's true although we're still
+uh getting a lot of young engineers uh
+there is a shift
+of engineering uh from the us
+into other places where people value
+the semiconductor business more so
+you'll see tons of
+startups in in china really uh you'll
+still see
+a bunch of startups coming up in israel
+oh yeah
+uh by the way why why is why why was
+israel a hub or
+still a hub for this why is that
+that's a good story uh has to do with uh
+with multiple uh different things but
+one of them was
+intel intel uh came to israel in 1974
+and started the design center and then
+within a few years engineers from
+intel's
+start moving to to other companies they
+thought they'd have
+better opportunities with still with
+american companies so
+motorola and national conductors father
+design centers
+but then in the late 80s people started
+realizing that there's
+opportunities with startups and money
+came in a lot of people got to a
+pretty much a glass ceiling in terms of
+uh as a subsidiary of a big american
+company couldn't get
+any further so what happened was that uh
+and and money was relatively abundant
+and
+so startup started and
+i can tell you that in the early 2000s
+uh
+israel was but probably more startups
+than
+practically any place in the world maybe
+with the exception of
+silicon valley um even now i think there
+are
+more semiconductor startups in israel
+than practically anywhere
+in the world it's not the same numbers
+as there were in the early 2000s
+but it's still a huge number so it's not
+that it was you know more common just to
+go to the teflon and study
+the space it was more so that the
+industry by chance
+came to israel in 1974 people saw the
+opportunity
+and it got it got everybody excited
+yeah and it was an exciting uh business
+uh
+think about it at that time the other
+businesses were mostly you know built uh
+boxes for you know elta or elbit yeah
+and uh
+so people uh some of the top people
+in the industry uh or actually the top
+students out of the technion went to
+to work for for intel national and
+motorola
+at the time i remember you know i joined
+a little bit later than that much later
+than that about
+15 years later but at the time for
+every job at national we had about 100
+people that were applying
+wow we definitely rejected people that
+were extremely good
+some of them are ceos of companies that
+exited with millions and millions of
+dollars and we told them no you're not
+fit for uh working for us we just
+could just pick whoever we wanted to to
+work at the company
+unbelievable and is there now is there a
+scarcity
+and and good engineers in the
+semiconductor space
+i think there's always been scarcity in
+terms of uh
+good engineers good engineers are not
+growing on trees and
+it's always been a challenge and then
+now
+there's definitely a bigger challenge
+due to the fact that there's
+a lot of people that are going to uh
+other businesses
+and i don't think that the universities
+are generating enough engineers neither
+in the u.s nor in israel
+right no it's and and it's interesting
+to hear that there's it seems that
+there's there is a shift
+to asia for a lot of these for a lot of
+these businesses
+as opportunities are rising and i'm
+really curious to know about leadership
+in the semiconductor space
+i talked to quite a few uh you know
+executives and leadership positions in
+the software space where i'm at
+what what is it like leading technology
+and leading teams
+in the semiconductor space from your
+experience is that different than in the
+software space or
+are these you know sort of two similar
+animals
+i think that pretty similar animals
+there's
+obviously a little bit of a difference
+in terms of what you need to achieve
+right also the length of time that it
+takes to come to production right i mean
+it takes years versus months there's
+also the risk software doesn't have to
+be perfect
+when it comes out of yeah factory you
+can update it and upgrade it
+and uh you know people invented this
+model of
+let my customer debug my code uh
+you can't do that with semiconductor
+with semiconductor you take
+chip out meaning you take it to
+production and then if you have a bug it
+will take you about six months to fix
+that box so
+and the cost of fixing that bug could be
+hundreds of thousands or could be
+millions of dollars so
+you can't really afford to to have bugs
+um
+so the result is that the complexity of
+semiconductor devices
+is not as big as a complexity of a very
+of a big
+uh software system where you know
+there's
+hundreds of people working on the same
+project
+i think the biggest projects are you
+know intel's microprocessors probably
+you know one or two thousand people wow
+on a program
+most programs are much much smaller with
+you know
+tens or hundreds of people uh but uh
+and and then but so i think at the end
+of the day
+software systems could be significantly
+more complex and more
+uh difficult to manage
+however they manage it to just operate
+not be
+bug-free where in the semiconductor
+business you have to
+uh figure out a way to to make it
+bug-free and
+the result was a lot of tools that were
+designed to
+uh help uh the engineers actually
+figure out ways to to clean the bugs you
+know bugs are always
+inherent you just need to figure out a
+way to get most or all of them out of
+the
+design before you you roll it out it's i
+mean it sounds pretty scary
+you've got to experience quite a few
+roll outs and deployments of these chips
+i mean you fin you deploy them and
+you're like okay we did it like
+we did our thing i guess we're working
+on the next thing and let's just hope
+that we don't wake up and see an article
+that says that there's a huge bug in one
+of our chips
+yep yep well you've seen what happened
+to intel with some of these
+security bugs you know yeah this is a
+disaster you know the the
+the number of chips that are deployed
+and the time that it was found which was
+in
+some cases years after the chiefs were
+right the market
+and now what do you do about it so in
+many cases you find some workarounds
+some of them are
+uh you know reducing the performance of
+the device and some of them
+[Music]
+are not completely full uh full growth
+and and you have to live with it
+i think i recall that there was an
+interesting case study from one of my
+business school classes of
+a time when a chip it was found that it
+made it once
+every million calculations it had a
+miscalculation error right
+and and it was a huge deal of how does
+the company you know do they
+do they collect all the chips back but
+you can't because they're already in all
+the computers and
+and it was fascinating right right right
+right yeah it's a huge huge problem and
+uh there's tons of money that's involved
+in that both for the
+semiconductor vendor that's building the
+chip and for the oem that sells it
+at the end of the day not an easy
+problem to deal with
+i think it takes a lot of courage to go
+and sell something to millions of people
+and
+and hope that nobody finds anything
+wrong hey it's
+much easier than being uh you know uh a
+structural engineer that's responsible
+for
+bridge that falls or a doctor that
+is actually doing surgeries on the
+spectrum it's it's not that bad
+i love it okay get on right before we
+leave i want to thank you again for the
+time that you're giving this and we
+didn't even talk about
+you know i'm very curious you're also
+part of j ventures
+as a limited partner there so you're
+also you know active with early stage
+startups
+and and you're active also in helping
+you due diligence and and i love that
+you're also you're balancing
+these two worlds very technological yet
+also on the investment side but before
+we leave
+i have to ask three words that you would
+use to describe yourself
+okay so i would say
+innovative problem solver that's
+probably the
+easiest way to describe it innovative
+problem solver i love it it's all about
+solving problems in the end isn't it
+yeah i love it you don't thank you very
+much
+and congratulations on the acquisition
+from today morning
+yeah amazing amazing all right take care
+bye bye bye

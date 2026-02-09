@@ -1,0 +1,518 @@
+people hear the words pathology they
+usually usually think about the law and
+order or the pathologies investigating
+some kind of uh you know
+death or murder etc and but um and i was
+also thinking that but four years ago
+when we started uh doing projects in
+digital pathology i actually came to
+understand that
+pathology is actually the science of
+uh i think which actually cherishes life
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeword ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel an in media
+partnership with c-tech
+welcome to 20 minute leaders and let's
+dive deep into one of the most important
+verticals in the high-tech sector
+pathology meet ken segev the co-founder
+and co-ceo of deep pathology ai she is
+also the founder of sagivtech and
+surgeon ai ken is a phd in applied math
+from the tel aviv university
+specializing in computer vision she
+loves math and the mix of algorithms and
+health care she lives in gosh with her
+husband twin girls and two dogs
+penn stage welcome to 20 minute leaders
+thank you for joining me
+thank you for having me mikhail a
+pleasure to be here and uh super excited
+to participate in young ram show
+thank you i'm i'm super excited and
+honored to have you here because the
+work that you're doing you know it's
+pretty rare that i get to sit with
+somebody that that really you know the
+work that they're doing on a very deep
+level is changing paradigms and it's
+changing ways in which we interact with
+the human body and thinking through
+humanity and and how do we actually
+tackle some of the most challenging
+problems and so in these 20 minutes i
+want to talk both about your your
+experience with with the pathology and
+sagivtech and surgeon ai obviously
+you're deep into the artificial
+intelligence space when it comes also to
+the human body and research and and i
+think it's going to be fascinating to
+understand first you know on the high
+level context what is pathology and then
+how are you translating ai technology to
+go and and make make a strong impact
+over there so take me a little bit
+through your journey up until deep
+pathology and then we'll get into those
+fun subjects okay great fantastic so
+um so i'm uh i was born and raised in
+israel and from when i was a kid i
+always
+loved mathematics so when i graduated
+from the army i i was actually
+i was adopting before between physics
+computer science and medicine and i was
+lucky enough to be accepted to all and
+then i said okay i'm afraid of blood and
+and i i'm going to cry all the time as a
+doctor so i cannot harm anyone with
+physics so i did my first and second
+degrees in physics and then i i was
+lucky enough to do my phd and apply the
+mathematics and in between work in
+israel in the netherlands uh in
+algorithms the development in the
+medical domain but not only and then
+12 and a half years ago
+and my husband and i so my husband
+nissan is from the uh more business
+oriented field it was uh
+over seeing the business units from um
+business perspectives sales money etc so
+when we decided to join forces after
+raising twins who are now at 23 so after
+you raise swings
+you know running companies is just
+much much simpler
+and this is this is true and uh
+and then so we joined forces and started
+as a process company
+specializing in computer vision and gpu
+computing at a time
+uh i think that like um six seven years
+ago the ar revolution really swept the
+industry and we really shifted our gears
+towards
+ai and computer vision and also
+tech was some kind of an incubator to
+both the pathology and surgeon ai which
+are both uh private companies
+uh so and i think the pathology is more
+immature so where it's already alive and
+kicking and selling and
+staying
+on its own two feet and i think that if
+you like i can also go into pathology
+please do
+okay fantastic so
+uh when people hear the words pathology
+they usually usually think about the law
+and order or the pathologies
+investigating some kind of uh you know
+death or murder etc
+and i was also thinking that but four
+years ago when we started uh doing
+projects in the digital pathology i
+actually came to understand that
+pathology is actually the science of
+uh i think which actually cherishes life
+because um when people go through
+biopsies for example and so there's a
+tissue
+it's a slice it's colored because uh the
+the cells are not incoming in colors and
+and then the pathologist the expert
+pathologist is actually uh looking at
+the biopsy to see whether there is
+cancer uh where there is some kind of
+infectious disease to give the diagnosis
+and also to recommend a treatment and
+the role of pathologies is crucial in
+the diagnosis and in um
+actually
+providing the right treatments and this
+is in
+diagnosis but also in formal research in
+developing new drugs to evaluate the
+efficiency and the toxicity of new drugs
+you also need to evaluate
+the biopsies and the biopsies could be
+in pre-clinical trials or animals or of
+actually you know in large clinical
+trials of humans where you want to see
+how the drug is actually
+working and you need in order to do that
+to quantify different kind of cells
+tumor cells
+immune cells etc and all of this
+has been done analogue in an analog way
+under a microscope where people were
+counting things you know one two three
+four five
+and
+uh the introduction of digital pathology
+is actually you know it was a game
+changer and and i think the introduction
+of
+digital information you know it sounds
+so trivial trivial for someone from your
+generation because everything is digital
+but you know i i was there listening to
+to to records and you know and then was
+there using the
+pencils to to to fix my cassettes so for
+me digital is far from being obvious
+and it's fascinating to see how
+digitation is invading so many fields in
+medicine
+and it actually is an enabling
+technology super super important because
+you cannot apply ai
+on analog information
+you need digitation and radiology was
+first
+then pathology
+surgery and i'm just thinking what will
+be next i i don't know i mean all the
+medical data is being digitized and this
+i i think that this is uh like you know
+um
+a revolution which is as important as
+antibiotics as vaccination wow
+yeah i i really believe that and i think
+it's fascinating to to be a part a small
+part of this fantastic revolution
+so how is this first of all
+what how how is this revolution actually
+taking place when is it taking place is
+it already finished is it are we where
+are we in terms of it both the
+digitalization but but then you know
+what you're working on is actually the
+layer on top of the digitalization right
+actually now data-driven insights and
+technologies that actually help do
+research not just through what we
+studied in academia from our personal
+experiences but but through software
+that can look at millions of data points
+so so what's happening so so yeah i i
+think there's a lot going on there's
+really a lot going on it's unbelievable
+it's the ecosystem for radiology for
+pathology and now for surgery i think
+it's booming and still
+there is
+um there is a gap between i think the
+state-of-the-art technology which is you
+know
+just
+unbelievable and what is happening in
+real life and i want you to address
+three points here the first thing is the
+enabling technology that the bringing
+i.t to the medical world is far from
+being trivial because it's not uh i mean
+i t issues which are so like fundamental
+the bread and butter in so many domains
+they still need to make their way into
+so they did make their way to the
+radiology because in radiology with
+dicom
+things are more strongest
+but in pathology uh most technology labs
+in the world are still not digital
+and there's still it's it involves a
+huge amount of money of resources of
+change of um the way that things are
+being done
+and then you know
+doctors are really i think suspicious
+because they want to know that when they
+use a digital system that what you see
+on the screen is actually what you see
+under the microscope and this is really
+fundamental it's it's
+way before you apply any ai algorithms
+to it
+and and i think that um
+to make a revolution you really need to
+go with the medical doctors so that you
+are flowing you are within their
+workflow you are not interrupting their
+workflow so
+the digitization in the western world in
+pathology labs is still something which
+is uh
+needs to be completed when it comes to
+surgery so i'm talking about
+laparoscopic surgeries where you
+actually the the surgery is being done
+when the surgeon is looking on the
+screen now these videos of the surgery
+are just
+not existing after the surgery is over
+because
+nobody is archiving them
+and nobody is using them not for ai not
+for nothing
+and just think about
+so so you know in pathology you're
+talking about slides there are huge
+slides but you're talking about frames
+in surgery you're talking about videos
+so just think about the amount of
+information that you want to archive
+it's it's unbelievable so so just
+building a reasonable infrastructure
+in terms of archiving solutions of in
+terms of the
+uh smart video summarization techniques
+this is like a fundamental uh
+infrastructure which is still being
+built it's not it's not over yet at all
+now once you have a solid enough
+infrastructure you can start thinking
+about algorithms ai computer vision all
+these good stuff and
+and while i know so many companies both
+in israel and in the us and just in the
+in the in the scandinavia in india
+which are my competition
+but
+are part of a very thriving ecosystem
+and you know there are such huge tasks
+to be solved that no single company
+even even a large company no single
+company can actually provide solutions
+to all the problems that medical
+profession has to offer so i strongly
+believe in an ecosystem
+which that that can communicate that so
+that as a physician i will be able to
+say okay i need one two three and i can
+and all these solutions can interact
+with each other so my vision is not only
+to have
+great solutions of my own company but to
+be to to have solutions which are smart
+enough to integrate into
+an ecosystem and this is i think there's
+still a gap here because it doesn't make
+sense
+that you will have to
+really um
+right now it's
+the solutions are out there some of them
+already had fda approvals but it's very
+difficult to have them in the usual
+routine and usual workflow and i think
+this integration is the big big
+challenge
+and the first thing is i think to to
+really see um
+these solutions
+as part of the routine work of the
+physicians so our vision in deep
+pathology is to bring ai capabilities to
+the hands of the doctors
+because the way that we envision that
+ai should not be in the sole domain of
+computer scientists of engineer or data
+scientist but ai tools should be
+available
+uh as as as as
+as a very sophisticated computer
+uh or uh
+to be to be part of what pathologists or
+surgeons of radiologists can actually
+work on explore investigate because in
+in our vision
+that the right way to move forward is to
+join forces between the
+ai experts and the domain experts being
+that topology of radiology or surgery
+and all these such um uh and let's say
+working together can really bring
+meaningful and and and you know and and
+the
+results that you can actually implement
+in practice
+and so today what is the balance like
+for you between you've been you as a
+physician you as an entrepreneur as a
+researcher
+as a visionary and a pioneer in a field
+which what it sounds to me from your
+description we're really just beginning
+right we're really in the roots of of
+where we're going to end up in so so
+it's it's a lot of responsibility that
+you're also taking on yourself to to to
+run through with this domain and
+and so how do you balance all these
+different characteristics um
+so so i think it's an excellent question
+i think you know i think that uh moving
+towards balance
+know
+is a life mission
+in so many levels personal levels
+professional levels i think that here in
+order to um
+to really
+balance out things i really i strongly
+believe in communication so
+i i i i know
+you know fantastic people who come with
+superb ideas with super capabilities but
+only uh by um
+really understanding the needs
+and so i think for me uh somewhere when
+coming from mathematics and from
+algorithms i need to really understand
+the problems the language that the the
+the the mindset of the medical doctors
+otherwise i i i it doesn't make any
+sense to make a technology which is not
+rooted in a real clinical needs on the
+other end i strongly believe that the
+clinicians should at least understand a
+little bit about the technology so that
+they i don't expect them to start
+writing in pie torch or knowing
+tensorflow or whatever um
+but they do need to understand
+the principles the limitations
+the way to evaluate think and the way to
+be critical and this is by the way the
+reason why i started my my course ai for
+pathologists because i i was thinking
+well you need to make some kind of
+common grounds where pathologists um
+medical doctors can actually talk to the
+ai experts to mathematicians and this
+collaboration i i you know without
+respect to artificial intelligence
+i believe that human intelligence
+is something that will actually will
+make things uh move forward and and part
+of being
+an intelligent human is to listen
+to other humans and and to and to really
+understand
+um
+what they need and what will bring value
+because eventually if you don't bring
+value to your customers to patients
+uh then then you don't do anything
+meaningful
+now is artificial intelligence already
+making it a dramatic impact on pathology
+and research today and or or
+where are we at i think is the question
+because i think that we we both agree
+that it's inevitable and it's going to
+be very transformative i'm wondering
+where where are we at with this timeline
+of of this transformation uh so yeah so
+i think artificial intelligence actually
+uh um started to be meaningful in
+pathology i think
+from about four to five years ago you
+know when when when
+uh people started experimenting i think
+that nowadays you see already a solid ai
+based solution for diagnosis you see uh
+how pharma companies are using ai to
+develop new drugs and to evaluate the
+clinical trials and to really extract to
+to to make the most for
+extracting valuable
+information from from data
+i think that yes it does make an impact
+i think that um four years ago
+uh
+we i talked to a lot of pathologists and
+four years ago they were really
+reluctant and you know very suspicious
+and why shall we embrace that it will
+replace us
+and nowadays i think that they really
+see it as a decision support system that
+will allow them to um to get rid of the
+time consuming tedious
+you know unpleasant tasks and really
+focus on the higher
+uh
+level tasks so i think that at some
+point maybe you can view
+medical
+experts as pilots that they have a very
+sophisticated machine but they control
+it and they make a decision where when
+it will be autopilot and when
+they are needed in a riskier
+in places where you need someone to to
+really you know balance out the the the
+ai and to bring the human intelligence
+thing so so i think yes it already has
+some impact it already
+and it's not only in the state of early
+adapters i think it's
+gradually um entering the the mainstream
+but don't forget
+uh the the
+when you look at poor countries when you
+look at smaller hospitals
+the the
+in order to jump
+onto the ai train you need to invest a
+lot of money and i think that this is
+why uh this is something that is being
+done
+uh is strategically by governments
+because to become let's say ai ready
+is is something that uh that countries
+should to strive for and this is why we
+need to build an ecosystem uh which is
+not only made of uh small or large
+companies but also that the the medical
+stakeholders and also the the the
+countries which should take care of the
+regulation so that
+privacy issues are really really uh you
+know kept in the strictest way and that
+patient's rights are kept but also to
+to make an infrastructure because
+eventually a.i i believe in in the
+medical field will make us
+live longer we'll make our life
+easier because i think that we will be
+able to diagnose diseases much earlier
+and
+provide
+a a medications or treatment which is
+personalized so so i really believe that
+this is a tremendous revolution
+and that that they will help people live
+better i really i really believe that
+i i love it and i can
+no i think the beginning of the
+conversation you helped answer my
+question of what fat what fascinated you
+growing up and i think you just answered
+my question of what inspires you today
+and thank you for everything
+and stay safe and stay healthy
+foreign

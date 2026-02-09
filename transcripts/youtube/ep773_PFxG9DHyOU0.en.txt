@@ -1,0 +1,542 @@
+new professions are born to understand
+how much a single
+component single customer will cost in a
+complex cloud environment
+and it's it's becomes very complicated
+to manage to efficiently manage
+your infrastructure while maintaining
+the business needs
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with ctec
+let's talk about developers
+meet maxim melamedov ceo of zesty
+maxim is a husband and father of two
+sons he aims to surround himself with
+people who are passionate about shaping
+the future love to learn about work and
+life and see the joy of being a part of
+a great team
+today he is the ceo of zesty and started
+it with a clear mission to help
+engineers automatically keep their cloud
+infrastructure up and running while
+staying within budget on a personal note
+maxim definitely curses too much and
+waffle between believing that it's a
+gross deficiency or a great trait for
+which his grandchildren will fondly
+remember him
+meet maxim
+i really appreciate you coming because i
+know how busy it is and i can only
+imagine how
+how busy it gets
+running a company that has raised a
+significant amount of money 35 million
+dollars just in their in the most recent
+series a round
+for some fantastic partners in the
+ecosystem doing something that that is
+not just innovative but but i think it's
+also just interesting in the in the way
+that that is enabling other companies
+around the world to develop technologies
+cloud-based infrastructures we you know
+we've been hearing in the last few years
+about what's been happening with devops
+teams and the shortage of understanding
+and and manpower that we have in in
+managing the cloud infrastructures and
+so i'm really curious to pick your brain
+as to where this industry is headed and
+what's happening today especially with
+zesty so maxim thank you very much for
+being here
+awesome thank you for having me
+founding of zesty and you yourself were
+you always into cloud infrastructure and
+and this type of work
+no actually my background is is
+is
+a bit different than your typical
+entrepreneur especially in the
+in the in the cloud infrastructure space
+uh i come from an entrepreneur family my
+dad is an entrepreneur he was he founded
+the business in the soviet union which
+was a capitalist a socialist state
+but you know it was always in the veins
+and it was always in the family so my
+mom had a business and my uncle has a
+business so it's always was i was always
+surrounded by entrepreneurs
+and i started my first business after i
+i finished my army service
+it didn't work as well as as i wanted
+and
+then i spent five and a half years
+in homeland security traveling to
+interesting countries
+doing fun
+and after that i decided that well it's
+time for me to learn what it means a
+startup what is a startup how a startup
+is structured how it's built
+and i spent around three years in the
+startup world doing customer facing
+positions i went from
+a support team lead to
+vp customer success
+and
+at that point i understood that well
+there is a problem that
+i saw in in in both
+in both chairs i saw the impact of the
+problem in both chairs
+i understood that
+the partner that in this journey is the
+right partner
+through the same mindset but a very
+completely skill set completely
+different skill set
+and we understood that well
+if there is a challenge
+that everybody's facing and it's big
+enough and it's in the most
+innovative proven
+technology well this is time for us to
+jump out and start our own journey
+right and so
+you're you're entering this journey
+besides you know with a great team and
+with a great place where are you
+specifically in your own sort of career
+trajectory as you're starting this
+journey are you starting it out with
+with anticipation for what type of
+milestones you personally want to
+achieve or what types of things you know
+what types of strengths and weaknesses
+you may come in with
+yeah we i understood that at the end of
+the day
+i've learned a lot from my previous
+managers in i would say most of them
+in all of my positions
+two of my higher two of my managers that
+hired me and managed me
+throughout my career are actually
+currently working with me at zesty
+amazing uh
+at the end of the day the weaknesses
+that i have
+are
+i i
+know most of them
+and the way i overcome them is i bring
+people that
+their strength is my weakness
+so it it creates kind of a puzzle where
+we complete each other
+from a skill set standpoint
+but
+the
+the bigger value the most the more the
+important things the mindset is very
+very similar
+and very very cool it's it's kind of
+creating this puzzle of mapping the
+right people
+and getting to know them getting to
+understand their priorities to
+understand that your priorities meet is
+identical to their priorities or as
+close as possible
+and this is in a way how we build the
+company
+amazing now
+if we're looking at zestina from 30 000
+feet in the iron we're looking at the
+cloud
+infrastructure space
+how would you define the space today or
+the problem space that we're in as we're
+now entering 2022 and pretty much
+we understand that the vast majority of
+the world will if not is already on
+built on cloud infrastructure
+so
+if we go back a bit in time you would
+see that aws came and said well we have
+a lot of spare computers
+we needed to have that for amazon let's
+try to you know to offer that to the
+market
+and with the same philosophy of
+amazon aws was actually born
+of
+offer new technologies more efficient
+closer to the customers and the
+customers will come
+and on that philosophy you have
+microsoft azure
+google cloud ibm and other cloud
+providers are actually pushing new more
+efficient more innovative technologies
+distributed all
+over the globe trying to get as closer
+as possible to the end user
+trying to achieve a better performance
+and a more efficient way
+that would support innovation
+and this this has been going since day
+one of of
+the idea of public cloud
+with that in mind with that in mind
+the adoption of the new technologies of
+the or the new infrastructure
+this is where it gets interesting
+in order for a company to say hey i want
+to use this i want to use that i want to
+i want to do something i want to try out
+it's it's
+it's lands on the plate
+of an engineer
+now if this lands on a plate of an
+engineer it lands along with
+with development with testing with
+security with compliances with all
+a bunch of other aspects that he has on
+his plate
+and it it comes down to
+well i have this i have that i have to
+prioritize
+what should what is more important
+for me to maintain my business to
+achieve
+what is business requiring for me to do
+and
+the struggle of the engineer is actually
+deals with prediction
+because
+cloud in theory and in reality you have
+unlimited scale you can scale as much as
+you need you have a limited
+infrastructure
+but it's down to the engineer to predict
+how much infrastructure
+the business would require at any given
+time
+on a cpu ram block storage level
+now it's hard because you know business
+is changing you have different trends
+you have different use cases you have
+billions of other
+of different capabilities of different
+workloads that serve different purposes
+on the cloud but all of them in essence
+run cpu ram
+gpu network
+block storage
+and
+it's hard right and and and the pride
+and the mistakes that the engineers are
+doing
+the humanly the human mistakes
+the price for them are happy one
+because if you under pro if you under
+provision right if you guessed
+wrong
+and you don't monitor that
+part of your application
+you would have degradation of
+performance
+your application would not work as fast
+as you expect you have customer
+frustration
+it may actually crash
+waking up you in the middle of the night
+and you have to figure out how to
+firefight that
+and the way to firefight at the city
+well i don't want to do it anymore i
+would take a bigger buffer
+and when you take a bigger buffer
+you have the finance team you have the
+budget controllers coming it's like hey
+listen we're like we're not utilizing
+that so you have to shrink it back
+now not everything can be shrunk
+and you constantly located in this
+endless loop about
+you predicting you provisioning
+infrastructure
+you're not being an engineer
+because to predict and provision
+infrastructure
+when costs are associated with that
+is a completely different
+skill set
+than a typical engineer has
+so new professions are born to
+understand how much a single
+component single customer will cost in a
+complex cloud environment
+and it's it's becomes very complicated
+to manage to efficiently manage
+your infrastructure
+while maintaining the business needs
+because at the end of the day
+engineers are there to serve the
+business
+right completely
+now i if we're looking at the the space
+today
+obviously you know a lot of people are
+understanding that this is where the
+world is headed and this is what needs
+to be done how do you make sense
+of of everything that's going on around
+us because like zesty we have we have
+other players that are coming in
+offering similar tools and sometimes
+even for me as an engineer and and and
+you know i love this type of thing it
+gets confusing making sense of what is
+the right solution for which company so
+so even putting zesty aside for a second
+how does one you know perhaps a
+r d manager or manager of the of the
+devops team within an organization how
+does one even go about trying to assess
+what is the right tool for them and more
+importantly than that what is the right
+issue that they're trying to solve
+within their organization
+so
+in regards to cloud costs
+it's
+i hope it's not far-fetched but it's
+kind of similar to security
+you have more than one place that you
+need to do something to make sure that
+you are in a happy place
+you have endpoint security you have zero
+trust you have you have different lever
+the layers
+same goes with
+with the infrastructure you have your
+application layer you have your
+infrastructure layer you have your
+kernel layer you have a lot of you have
+your operating system layer we have a
+lot of layers
+where one can say hey i can do x and if
+i'm doing x i would be
+able to save money save time be more
+efficient get get more for the dollar
+i'm paying so it's not
+a one-stop shop for everything
+it's complicated
+right and so if you're looking at now
+zesty and your strategy
+to
+be a player within this market as you
+communicate with customers what is sort
+of the
+the process that you go through with
+potential customers as you're trying to
+discover together
+what is the right solution for them and
+whether zesty is the right solution
+so the way we are going with customers
+is we're trying to to identify the pain
+because it always comes with
+how often does that happen how often
+does this happen how how uh
+how successful are you by doing
+achieving this
+at the end of the day it's very easy for
+us to explain technology to the
+engineers by saying hey do you do x y
+and z
+yes how often do you do that
+like once x amount of time often what if
+i'll tell you that we have an algorithm
+that does that
+every minute
+every five minutes so it's more accurate
+right it gets you lower smaller
+granularity it achieves but it achieves
+better results
+so it's not something that i'm telling
+you like a black box that that does do
+the magic it's on the contrary i'm
+saying this is exactly what our system
+does or as much as possible in proximity
+levels but it does it more frequently
+in smaller granularity achieves in
+achieving better efficiency
+so
+try it out
+right what what is a growth strategy for
+a company like this
+what if we're thinking you know two
+three years you know into the life of of
+zesty
+so
+in a way we have i would say three three
+main
+main drivers the first driver is the
+cloud provider themselves
+they are very keen
+to make sure they have
+happy customers
+so we are leveraging
+cloud providers marketplace and we're
+leveraging our connections
+with them and
+actually they're promoting us
+so this is one pillar
+the second pillar is to build
+a relationship with managed service
+providers
+that are helping
+small medium enterprises to actually
+build their product
+in a right way during the initial parts
+of the cloud journey
+and the third which i would say the most
+important one is actually focus on the
+journey and the brand
+we
+decided that
+we need to
+go and understand and live
+engineers day-to-day
+how they think how they like to consume
+information what types where
+we understand that engineers the last
+thing they want is to have someone else
+picking into their infrastructure
+looking in what they're doing because
+it's sensitive data
+so we're trying to create
+as lean and a simple
+exploration process where
+don't give us anything just go look into
+something that you already have and
+possess
+look at your reality but from
+our point of view and if you don't like
+your reality
+well you can
+have us look into your you can invite us
+to look at your reality and show you how
+we can make your reality a bit better
+right
+the role of of brands within the types
+of companies such as zesty
+you're talking about you know trust and
+brand identity and
+it's it's it feels like there's a
+dissonance here on one hand you know
+it's not a traditional d2c or b2c
+company and it's a deep tech company on
+the other hand you do want people to
+trust you as the ceo as you're moving
+forward and striving forward
+how big of a part is this when you're
+trying when you're focusing the company
+on on brand identifica identity versus
+you know the importance of the
+technology or the importance of the
+growth of the sales teams
+where is it in line with all these
+different priorities that you might have
+so
+when you're small
+you have to win
+i cannot expect to have
+company people that identified brand
+they identify the logo can go in and log
+and then start reading content
+it doesn't work like that from day one
+so you have to write your content you
+have to start positioning yourself as
+be as
+a company that knows the pain that
+understands the pain and understands the
+day-to-day of a devops that understands
+data of engineers
+that speaks engineering
+now while we do that we do
+need to have
+a go-to-market team that
+does traditional b2b
+because we need to get the logos the
+first the early adopters the early users
+to validate that the story we're telling
+it has roots
+and this is how we are actually be are
+able to scale having validation from
+cloud providers
+saying hey this works we have happy
+customers that can validate that zesty
+ads value
+we have
+people who are reaching out to prospects
+we and we're trying to build a brand
+from uh
+an outbound perspective
+with that being said we are
+creating content we are
+doing thought leadership pieces
+on
+how we perceive the world of what
+challenges we see and how other people
+see the challenges and what means
+innovate what it means to innovate
+and hopefully
+we would be able to
+build
+a
+a user journey that is compelling enough
+simple enough that resonates with a with
+a large audience
+of our community
+fantastic
+hey maxime i really want to
+thank you for spending this time with me
+and like i said in the beginning i know
+how
+very busy you are and and it sounds like
+zesty is a
+is another amazing story here from our
+ecosystem about about building amazing
+companies that are that are leveraging
+very very cool technology to enable
+other companies to also do the same and
+and at the end having an impact within a
+ripple effect and obviously zesty has
+seen some tremendous growth recently and
+congratulations again on your recent
+raise and it was fantastic getting to
+hear a little bit small part of your
+story and your unders and your
+value of what's happening now and so
+thank you very much and stay safe and
+stay healthy thank you so much
+[Music]

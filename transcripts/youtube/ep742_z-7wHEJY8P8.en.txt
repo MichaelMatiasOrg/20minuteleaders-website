@@ -1,0 +1,606 @@
+like salesforce build the platform and
+put everything uh businesses need
+we are gonna build the platform around
+the instant messaging channels and put
+everything that businesses need so this
+is the next generation of customer
+engagement
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with lumitec sponsored by
+homeward ventures hippo insurance oppos
+labs synergy global hillel at stanford
+leap birthright excel serona partners
+and in media partnership with c-tech
+get ready for a very special episode of
+20 minute leaders with yanir khalissar
+the ceo and co-founder of wattsley he
+has more than 12 years of
+entrepreneurship background and vast
+experience in the management and
+development of b2b sas solutions in 2009
+yanio became the first employee of an
+israeli startup called insitera which
+was acquired by mariquetto the leading
+marketing automation solution in 2013.
+he later founded kalistar solutions ltd
+a marketing solutions company that aimed
+to solve marketing teams tech pain
+points by building integrative tools
+that help them automate their business
+and marketing operations
+yanir khalasar welcome to 20 minute
+leaders i'm so honored to have you here
+thank you for being here
+yeah thanks michelle for inviting me uh
+it's great uh being here today
+we're gonna have a great time um you
+know i'm so curious about startups and
+about startup journeys and there's a lot
+of media around there's a lot of news
+and hype in today's world and it's and
+i'm so excited when i meet somebody
+who's developed something that actually
+creates value and how do we know that it
+creates value because you've
+bootstrapped this company for so long
+and creating actual product market fit
+with limited resources proven what your
+product is doing and and recently
+announced the phenomenal 11 million
+dollars seed around uh which is just to
+say the validation of the hard work that
+you've done led by the incredible zef
+ventures by oren zev amongst an
+incredible list of of investors one by
+one top of their industries so so first
+of all janier you know huge
+congratulations on on the journey so far
+and thank you for coming here to share
+it with me
+uh thanks i think uh the journey was
+very exciting so far and um and the
+future is very bright so we'll actually
+disrupting uh or actually we do not
+disrupt
+an industry we actually build a new
+category that does not exist so this is
+kind of very very it's fascinating uh to
+be a part of this kind of a journey um
+and uh yeah and i think that nowadays uh
+when we hear about many companies going
+ipo and you know we were all there when
+they just started and they were
+operating as early-stage startups
+and seeing them growing uh that much and
+becoming unicorns this is very very
+exciting and it's great to be part of
+this ecosystem i love it in here you
+know you're talking about defending a
+new category what is this new category
+that you're defining here
+yeah so i was uh actually uh you
+mentioned our uh
+fund fundraise that we just closed in
+november last year just two and a half
+months ago and i think that um
+during the the process of raising the
+fund so it was very very interesting
+because until this point of time we were
+running bootstrap so as a bootstrap
+company for uh two and a half years uh
+you know it's just uh
+handling whatever you have on the way
+and just focusing on doing sales and
+developing the best product uh you can
+and then at the point of time when you
+say okay uh we are going to raise funds
+so
+suddenly you start like thinking about
+the messaging and thinking about uh you
+know the bigger picture and how like
+what next you're gonna build right so
+this is a very interesting process and
+then it uh really helped us to uh
+understand and to see the bigger picture
+and to understand that what we're
+building building here is not just a few
+millions of dollars a company this is a
+potential to be a billion a multi
+multi-billion dollar company uh and the
+fact that we are building a category so
+let me just briefly tell about what
+we're doing so today we have a platform
+that connects what's up in salesforce so
+we are the only ones in the world that
+provide this kind of solution i mean
+there are other uh solutions for
+chatbots over whatsapp and then you can
+integrate these uh chatbots with
+salesforce in that way or another but we
+are the only ones that covering the
+one-on-one uh engagement sales people
+have with customers directly from their
+own personal or business whatsapp
+so
+if you think if it sounds to you like a
+small plugin so um it might it's kind of
+true right because this is how we
+started it was supposed to be a small
+plugin a small connector uh so two and a
+half years ago when i thought about this
+idea uh it came from a challenge that i
+i had back then like i was talking with
+customers a lot over whatsapp and then i
+said there must be a tool or some
+solution that i can use in order to be
+more productive and you know to know the
+history of all the customers that i'm
+chatting with so this was the pain point
+that i was trying to solve so i started
+the company by myself i was one-man show
+for almost a year
+and then i came up with this plugin yeah
+so i came up with this plugin and it
+took me like a few weeks to develop it
+like just the poc right just the basic
+product but then very quickly i started
+closing more customers and more
+customers and not just like the first
+customer was from israel i didn't know
+this company uh a ski deal so i i'm not
+um so much a big fan of uh doing ski i'm
+a bit scared of it actually but um uh
+they approached me and the sales force
+administrator there he told me wow i was
+looking for a solution like you provide
+for two years
+wow like there is a validation yeah so
+and you know at the beginning it was
+like more of small customers small
+companies that were reaching out to me
+and tell me and told me like you're
+solving a very like a big pain point
+that we are having sales people are not
+uh productive enough and they cannot
+focus on doing sales because they need
+to do manual work all the time right
+copy pasting the chat from what's up to
+salesforce so this was kind of the poc
+but then very very uh uh quickly i
+started closing more and more deals and
+in latin america and in europe and in
+many many countries around the world
+and slowly i started getting even
+enterprise customers
+uh asking about the product and starting
+the process with them so
+then slowly it became from a small
+plugin from small connector to platform
+and then um a year after i was running
+by myself um
+wait wait wait wait i have to to dwell
+on this year by yourself
+you know they say a lot that being a
+founder and being a ceo is very lonely
+at the top but there's no top here
+there's a top middle and bottom and bo
+all of them are you
+wha what's the both the rationale of
+running by yourself
+in that moment and what was that like
+um so i think this is uh uh
+the answer to this question starts a few
+years before so uh maybe it's good to to
+tell to say a few words about myself so
+in the past 13 years i'm in high tech so
+i i started my career working for a
+small israeli startup company called
+insightera i actually joined the two
+co-founders i was the first employee
+that they hired
+and then we developed a web
+personalization platform
+for b2b companies and we were like back
+in 2009 we were the only ones that uh
+that done that
+and um we were growing very very fast
+and we sold the product to many many big
+companies around the world and three
+years after we launched it marketo which
+is a global marketing automation uh
+market leader
+they acquired us
+and then uh being a part of marketo i
+was a very interesting and very uh uh
+insightful uh journey because i had a
+very interesting position i was engaging
+with some of the top the largest
+customers of marketo had back then and i
+was listening to their pain points their
+technological pain points and i was the
+person that actually delivers custom
+solutions tailor-made solutions to help
+them solve these uh pain points so that
+led me to understand how big companies
+think what pain points what challenges
+they're trying to solve and how to uh
+make transform these pain points into
+micro solutions and then after marketo
+got acquired in 2016 i transformed this
+into my own business and i started
+developing more and more micro solutions
+mainly in the marketing sales and crm
+integrations and i had more than 15
+solutions like that that some of the top
+companies in israel and in the us uh
+were using so uh waxley was supposed to
+be another plugin
+at the beginning but then very like a
+matter of few weeks i realized that
+something much bigger than that is
+happening and this is when i said okay i
+need to be focusing on this
+so i think that the experience the
+background of how to build to take
+something small like a pain point that
+is very very uh big for companies and
+then build a solution and also i think
+i'm a big fan of um
+working with customers getting the
+feedback and implementing it into the
+product now when you're a small startup
+like small typical startup we're talking
+about 10 people right so like getting
+the feedback from customer and
+implementing it and making a feature or
+a module in the product might take a few
+weeks few months if you're a bigger
+company it takes years right or it never
+happens but uh when you are a one-man
+show so uh i got to a point where i'm
+ending i'm i'm hanging up the call with
+a customer and then 45 minutes later
+there is a feature in the product
+i think that uh yanir what you're
+touching on here uh really amazingly it
+sounds a lot like the shayed mentality
+the navy seals of israel and
+i i have a colleague now who was in the
+shed and so i've come to understand this
+mentality of a small cohort of people
+that are so
+decisive and they're so agile and but
+they're also skilled enough to be able
+to execute themselves and the the pace
+at which you can run is just so much so
+much faster and i think that that that
+is something that you're going to leave
+me pondering here right after the
+episode as well but what i do want to
+touch on i just i just want to share a
+tip that i always give to uh i'm
+advising to many small early stage
+startups maybe in the first days they
+run and my tip is always you know when
+you have an idea so it's very easy and
+you know all of us are very very uh
+creative and innovative like to start
+saying ah we can do that we can make it
+look like that and also let's integrate
+with that and i think that bottom line
+if you just stop and you say okay let's
+put all the ideas in one place but the
+minimum like the mvp model i think this
+is a great model uh to follow when you
+are starting so just do the minimum you
+can uh just to be able to deliver the
+value the basic value that your
+customers ask and need
+and then whenever you have this poc
+suddenly and today 99 of the product is
+based on what we got from customers
+right i just started basic stuff and
+then everything uh came later along with
+the customers
+product like growth and in in the most
+in the most real way possible and i
+think one of the most you know
+incredible things that you're doing here
+is you're connecting two worlds that
+have
+two worlds that have emerged in the last
+few years
+that we that sort of grew
+very distinctly apart we have one is
+this instant messaging phenomena that
+we're used to right that now everywhere
+we go where we're instant messaging with
+each other this is how we get things
+done we expect customer service this way
+because it's the most friendly way on
+the other hand we expect businesses to
+be to be had be more data driven to
+collect more data points and use more
+enterprise software like salesforce and
+now the question stems how do you do
+instant messaging experience while
+allowing the business to have that
+enterprise data driven mentality and you
+touch exactly uh so you asked me about
+the vision what what where where we are
+going to um
+you you touched exactly on the point i
+think that
+i had a call with um one of uh
+one of the top vc's in israel
+that really wanted to be a part of this
+round of the recent round but
+unfortunately uh they could like it
+didn't uh work uh uh for this round but
+hopefully they will be part of the next
+round and then on the call um the
+managing partner there she told me
+you know you are disrupting the market
+like salesforce done it uh 20 years ago
+and i asked her what do you mean because
+no one told me that uh before and she
+told me look 20 years ago there were
+many crm solutions in the world right
+but then salesforce came and said you
+know we're going to put our crm in the
+cloud and it's not just the crm in the
+cloud we will be that platform and we'll
+put everything that businesses need in
+order to support their first road uh
+inside the crm so they want to need to
+leave the crm the sales people will let
+everything inside it and they disrupted
+the market right and this is why they
+are so successful 20 years later and i
+think that as you said
+today and especially post pandemic
+everything is going to instant messaging
+everything is being done over instant
+messaging and i started saying before
+that at the beginning like it was small
+companies but then slowly i started
+seeing more and more companies coming
+from latin america asking about the
+product and then i i started doing the
+research and i understood why
+specifically latin america so look in
+israel we do everything over whatsapp
+right
+in latin america they do everything only
+over whatsapp so they don't
+they don't use emails they don't do face
+to face because it's covered and if you
+call your customer
+you might lose the deal because it's
+good to do it so volkswagen other
+automotive companies subaru
+they are using
+whatsapp to sell cars
+completely on whatsapp they are selling
+cars over whatsapp and you know it took
+me a while to to digest that but then
+and then if you think about it they have
+all the customer data inside the crm but
+the missing part is what happens
+throughout the journey right how what
+led to the uh deal being closed
+they don't have any visibility so they
+use waxley today
+to help their dealers uh sell more cars
+and also to finally have the visibility
+because the instant messaging are
+blackbox is blackbox they don't have the
+integration with the crm and with other
+systems in the organization
+so
+uh like salesforce build the platform
+and put everything businesses need
+we are going to build the platform
+around the instant messaging channels
+and put everything that businesses need
+so this is the next generation of
+customer engagement
+beautiful the name watsley how i get the
+watts from whatsapp perhaps but what's
+the lly
+um there is not so much meaning so i was
+awesome
+i was identifying yeah uh it was the
+first name that i had in mind when uh
+you know we talked a minute ago about
+moving fast like not stopping uh to
+think too much like of course we've done
+a lot of thinking all the way but you
+know about the critical things and uh
+yeah so far watley like played uh well
+um uh with the product that we currently
+have but as i said like now the vision
+is to integrate with other instant
+messaging channels with other crm
+solutions
+get to new industries and i think like
+soon we're gonna we're gonna change it
+we're gonna do a rebranding but uh yeah
+this wasn't the priority
+well i love watson so please consult
+with me before you do a rebranding and
+i'll kind of be sure if you get a phone
+call i i'll what's up you when we're
+changing ah there you go and i'll and
+it'll go straight into my sales force
+you know a lot of companies today
+they don't like to be compared to others
+they don't like to say oh you're like
+google for that or or you're like
+facebook for that
+you're hugging the comparison you're
+hugging the integration
+that is watsly right a lot of startups
+are fighting you know oh you're
+integrating with that so you're just
+doing that you're actually hugging it
+and saying this is a core our core you
+know existence
+is there any resistance from that any
+any thoughts about that or is it just
+you know a natural thing for you the
+fact that you're that your slogan is
+saying we're connecting whatsapp and
+salesforce so you know you have other
+companies names in your slogan which is
+quite unique in today's market where
+founders often try to disengage with any
+other company in their branding
+so so i think um the logo and the
+messaging so far was very very niche
+right i was very specific i was very
+tailored to uh the pain point or the
+challenge that we help companies uh ask
+for
+uh as i said like now the next
+generation the next phase the next uh um
+um uh a part of our life life
+the journey is to do the rebranding as
+we are just
+switching off from um uh just the
+integration between what's up in
+salesforce and we will be a platform
+that helps
+companies to improve customer experience
+over instant messaging channels help
+making their sales people much more
+productive in their work
+much more successful in closing deals
+and
+keeping this the systems of the com the
+company updated and also for management
+teams to have the visibility into these
+customer interactions that today they're
+completely blind about um i also wanted
+to
+mention one more use case
+that we have with many of our customers
+and this is kind of uh very uh scaling
+up in the past few months
+um
+specifically when we're talking so
+like the fact that customer facing
+people are using instant messaging
+channels it creates many many challenges
+some of them what i mentioned before but
+i think that there is a much larger
+challenge or a risk
+um you know when we're talking about
+finance companies or healthcare
+insurance even telecom
+there is a huge risk of compliance right
+there is a record-keeping regulation on
+like every country
+and these companies must document every
+interaction that they have with
+customers in any channel so if you go to
+the bank over here
+um
+you meet your person over there or some
+representative of the bank he will
+document every word that he tells you
+and also anything that you reply to him
+also when you're calling them they
+always tell you this call might be
+monitored for uh training and uh
+regulation
+so
+it's not happening today over what's up
+and you know what is the interesting
+part i don't know if you saw the news uh
+last month um jp morgan chase got to 200
+million dollars fine for not monitoring
+for not documenting design interactions
+over whatsapp so again this is a huge
+pain point and um we closed we closed uh
+we have a cast a few customers in the
+financial industry already um a few very
+uh huge uh financial advisory companies
+in brazil in latin america
+that are aware of this regulation and
+they did know that they must solve it as
+soon as possible so these are the more
+large deals that we're closing these
+days um
+i do think that the story about latin
+america is very interesting as well
+so uh you know all
+every generic uh every uh standard
+israeli startup company when it starts
+so it's they say like yeah we're gonna
+build the product we're gonna build the
+r d team over here in israel and then
+business development in palo alto
+and i think that many people don't know
+the latin american market and i didn't
+know it either right um
+they're only in brazil which is the
+largest economy in latin america
+you want to guess how many medium size
+and larger companies are there over
+there you want to guess i love guessing
+games
+how many medium
+small medium-sized businesses in brazil
+and larger yeah
+i would in brazil i would go for
+maybe 50 000.
+5 million
+no yeah
+so the economy over there is huge there
+are 200 million oh my god there are 200
+million people in brazil now live aside
+the fact that this is the second largest
+market for whatsapp around the world
+this is why we're focusing there um
+you know many companies
+like and also 82 of the businesses use
+whatsapp to engage with customers so
+this makes a lot of sense for us to
+focus in brazil
+yanir i want to ask for a favor
+i have about 50 more questions that i
+have in my mind right now to ask you and
+i call the show 20 minute leaders and i
+have to abide by by the rule that i
+unfortunately said but
+i already want to book you for another
+episode and i want to hear the story of
+of breaking into the latin america
+market
+from somebody who didn't know it before
+researched it came across it product led
+growth validation came in inbound and
+now is doing some incredible things
+there
+and so i want to book you for another
+episode just on that and and ask the 50
+questions i have in my mind but for now
+i want to thank you for being here and
+for sharing with me your journey this
+was fascinating and i absolutely loved
+it and and now i love watsley and it's
+incredible and thank you very very much
+in here thank you very much for inviting
+me and looking forward for the next uh
+for the next time
+i'm excited thank you
+[Music]

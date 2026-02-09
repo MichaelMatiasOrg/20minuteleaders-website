@@ -1,0 +1,631 @@
+founded code value with 10 architects
+wow and yeah from the very first day
+and people just joined just wanted to be
+part of this group
+this elite group
+wanted to do wonderful project and also
+customers came because they knew that
+they will get
+the best solution
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serona partners and in media partnership
+with c-tech
+welcome to 20 minute leaders today i'm
+with alon flice and we're going to be
+talking about architecture software and
+everything in between
+alone is a global authority on multiple
+technologies and platforms cloud
+computing windows internals c plus
+windows programming dot net with c-sharp
+or c-plus plus he is the co-author of
+the windows 7 microsoft training program
+and the books introducing windows 7 for
+developers published by microsoft press
+for his proven expertise in community
+leadership alon was awarded microsoft
+regional director and microsoft most
+valuable professional status as a result
+alone is an in-demand speaker on these
+subjects at major international
+conferences such as tech at europe tech
+ed usa ndc and more
+beyond heading up most of code value's
+complex strategic consulting and
+development projects alone is a code
+college top faculty member bringing to
+the job many years of training
+experience both in israel and abroad
+alon received his bsc in electrical and
+computer engineering from the technion
+israel's prestigious institute of
+technology
+[Applause]
+[Music]
+i've been searching for people that are
+truly happy with what they're doing and
+innately they're excited about what
+they're doing and i i i can't think of
+that many people that where i look at a
+profile like yours and your background
+and the things that you do in the day to
+day and the things you've done and the
+companies built now that really embodies
+the true passion of yours and i want to
+start over there before we even get into
+code value and what you've done as the
+chief architect of many organizations
+talk to me about this passion of yours
+software
+so i started to program when i was a kid
+i think i was the first person in my
+small town i live in binhamina and i was
+the first high-tech guy when i was young
+in binhamina
+um
+i think i started when the
+first
+personal computers arrived to israel i
+have uh
+the the first computer that i started
+was the zx80
+um of
+sinclair and then i i bought this this
+is some you know a machine that they
+found
+in one place and i started to code and i
+liked it so much so i bought
+i asked my parents to buy me
+um the commodore vic-20
+it was a 5k
+uh computers you have three and a half k
+for to do your programs and i started to
+do basic but i saw that
+it went too slow
+so i was like 12 and i moved to to
+develop using assembly
+of the uh
+it was an 8-bit computer
+and
+this is where my love to to code and
+program began
+and since then this is what i do
+um
+so um
+i i moved from you know from the 8-bit
+to 16-bit and 32-bit
+uh
+used to use
+commodore omega and then moved to
+unix the one the operation that came
+before the linux
+and from unix to windows
+um i started my first
+actual
+job
+uh when i was
+a student in detecting but started to
+work was
+using windows 95
+and then i moved to windows nt
+and to the internal of windows
+when i could see the engineering of the
+operating system
+and this is where you know started to
+when you see um
+and great stuff and and you dig into the
+system you understand the system this is
+where you start to love
+uh the system the architecture of the
+system
+and it took me to
+you know i used to be
+a non-microsoft guy
+and once i started to use the internal
+of windows i became a microsoft guy so
+and um
+um
+so it was like
+to developer but also to understand the
+system
+and since i love to share and i love to
+talk
+i started to speak about like everything
+about software about systems
+and this is how i became speaker
+um
+and um
+and
+you know the combination of uh
+uh
+what you love to do and the combination
+of sharing what you do um i think maybe
+what i am today
+uh i still
+uh
+still speak and still and and continue
+to to
+to get into the details to understand
+the system to understand requirements
+and to build architecture of the system
+and nowadays it's much it's
+in one hand it's much more complex
+because you have so many
+requirements and you need to serve so
+many different uh customers and the
+scale is huge it's internet scale it's
+cloud scale
+so in one end it's much more complex in
+the other hands you have all the
+facilities you have
+um and many different kinds of
+technologies you have the cloud with so
+many services
+so you can build this system
+which are more complex in one hand but
+then you have more tools to build them
+phenomena um and this is actually what i
+what i'm doing today you know
+going back to
+you developing as an engineer and here
+i'm trying to distill
+what transition you've made from being a
+software engineer a developer to being a
+leader right and it sounds like there
+were a few things along the way but one
+thing that that i was hearing is a theme
+is this question is this idea of
+progress right that the the world
+progressed technologies progressed and
+you yourself progressed with them
+and you became
+a deep
+having a deep understanding of these
+technologies that are emerging and where
+they're headed talk to me a little bit
+about that
+that aspect of your personal growth
+yeah when you start
+um you need to learn a lot because
+usually you start and there is the kind
+technologies that you somehow need to
+gain all the knowledge in order you know
+just to become a developer
+for me i was lucky because i started
+when the first uh personal computers
+came
+uh came to me and i you know could go
+with them go with the technology
+um
+even though you know there were
+computers from the 50s and the 60s there
+were there were mainframes and for me
+when i was a kid is to look at these
+machines and try to understand what are
+those missing how you you work with them
+for new developers today they need to
+learn so many different technologies you
+know just to get started so so i was
+lucky
+and since i really like to know how
+things work you know not just the
+abstraction not just use the software or
+use the uh um
+the sdk the stuff the development kit
+all the language but also understand how
+it how it was built how things worked
+i was uh into the details from the first
+uh um
+from for my first uh learning um
+uh
+and um so if we'll take for example
+um
+after you know using basic and and
+an assembly i moved to c and then to c
+plus plus
+and c bus was very young uh uh
+programming language when i started
+and then in 2000 i moved to dot net
+and c sharp from the
+beta version of c sharp and dot net from
+the very beginning and any new release
+you just learn you know just the delta
+just what was added to the release so
+again it's much easier
+than to get into something and you need
+to learn you know from now and backward
+um
+of course there are some
+times that you need to learn also the
+history and everything because if you
+get into new technologies that you get
+that you didn't do before
+like for me is is uh using web
+technologies for example so i used to do
+html back then when you when there was
+no
+blogging systems you just had your html
+page
+incredible but nowadays if you want to
+do something you know you need to learn
+react and angular and all this stuff so
+yeah there are some sometimes that you
+feel like a beginner because you need to
+get into new technology but
+even though you get into new
+technologies there are many things which
+are just the same so
+you learn something you see yeah this is
+some somewhere similar to other
+technology you just need to to learn the
+different tiny things but you know how
+to use it and you have a very good
+understanding of how things work so
+again
+it's easier to
+to grasp new technologies
+but
+the places that i have the expertise
+which you know an expert is somebody
+that knows everything about nothing
+so
+the the areas that i have the expertise
+is
+those areas that i just grew with them
+like windows internals like uh c plus
+plus like dot net c sharp
+um
+um the cloud you know started when uh
+aws and azure just started and so you
+again any every release you uh study
+about the new release even though
+today's there are so many different
+services so you cannot know everything
+and there are areas that you just know
+about them you know a bit that you can
+talk about them but you are not in the
+details like for me
+something that i really want to know but
+i just play with is like machine
+learning and ai which is another field
+another area that you need
+to get into the details so i can use
+them but i'm not you know consider
+myself as an expert in the area but now
+is that the transition that you've made
+personally from saying okay i'm going to
+go into the internals and i'm going to
+be able to speak about the ins and outs
+and the zeros and the ones and
+understanding that okay now i'm actually
+going to have the super power of
+understanding a lot of technologies
+understanding their pros and cons and
+being able to delegate also
+responsibility and finding the right
+people to be able to dive into those
+zeros and ones
+right
+so when you become an architect
+you cannot understand everything but you
+you at least need to understand the
+abstraction layer you need to pick the
+right solution the right service for the
+job
+so you need to know the um
+after architectures is made from many
+different components you need to know
+the
+uh properties of the components and you
+need to know how you need to connect the
+different components together and you
+need to know the properties of the
+connections of the components but
+it doesn't matter which you know system
+you build even if you build a car or
+building there are components that are
+somehow connected and the properties of
+the connection and the component so this
+is architecture and if you want to be a
+good architect then you need to
+understand
+or you need to know many different tools
+and you need to know how to pick
+the right tool for this for the uh
+the requirements that you need to
+fulfill
+one thing which is i don't know if don't
+know if it's good or bad i think it's
+bad in software is that even if you
+write a bad software it will work
+but it will not work good
+so
+you order a pizza
+uh
+ten times you know you succeed order but
+then in the 11th time then you get
+please reorder
+and something is wrong though somebody
+didn't
+pick the right tools or didn't use the
+tool in the in the right way well you
+know in this example specifically it's
+pizza but you know we have a whole
+netflix document documentary on boeing
+and it's a little bit of a different
+story
+right
+right so so yes so
+when i teach about software architecture
+um
+i teach about
+all those quality attributes
+uh our reliability security privacy
+scalability
+uh um
+all the different concerns that you know
+you can it doesn't matter what you build
+it's the concern that comes in any
+system
+um and i build not just
+about these qualities but also how to
+get this and how to use the tools to get
+these qualities
+that make your software much better
+and
+and uh
+one of the thing is that um um when you
+start usually you just want to do the
+mvp right you you want to have the
+minimal viable product the minimum
+system that you can build
+and many startups they just do like this
+kind of quick and dirty job let's just
+have something that we can sell
+and the problem with this startup is
+when they succeed when they have the
+success then they have the problem
+because the system is not built
+with these qualities they cannot scale
+their problem of security and stability
+and today with the cloud
+uh
+you can build using the same effort the
+same time but choosing right you can
+build
+systems that can scale and that can have
+much better qualities just by using the
+right architecture and picking the right
+tools
+and i think this is something that you
+know you know for me when i uh when i do
+the analysis of this kind of project and
+i talk with the
+uh um with startups and with uh um
+junior developers
+um
+you know this is my passion how to uh
+tell them what to do and how to assist
+them with building a system that will
+last that will have these
+great qualities without you know putting
+much more effort just by choosing right
+incredible tell me about code value
+so
+code value we founded code value about
+uh 12 years ago wow um yeah
+and we wanted to build a place
+for developers and architects that they
+will feel like
+it's you know that they are not coming
+to work
+they are coming to do what they love to
+do
+one of the problem with the high tech
+and maybe today's is less
+maybe today you can find other places
+that uh our the same approaches as our
+approach but
+back then
+if you want to
+uh proceed with your
+career usually you have to become a
+board a project manager team leader
+somebody that most of the time sits in
+meetings and not
+you know doing actual coding and and and
+architecture and buildings building
+systems
+and we wanted to have a a home for this
+kind of people the people that still
+wants to
+to to stay professional
+to to do what they love to do
+uh a home that if they say something
+somebody else will listen to them you
+know they will not need to fight for the
+for the right to do the right thing
+um and also for young developers that
+want to become this kind of person you
+know this kind of architects and and uh
+senior developer
+uh and this is why you build uh code
+value we founded code value with 10
+architects
+wow and yeah from the very first day
+and people just joined just wanted to be
+part of this group
+this elite group uh wanted to do
+wonderful project and also customers
+came because they knew that they will
+get
+uh the best solution
+um
+used with with with us with
+these
+professional architects and developers
+so this was the base of code value and
+you know from there we
+uh continue to grow uh we uh we go with
+you know people but also with different
+uh areas
+um
+we started when they went when i when we
+started and we and we came to companies
+we told them
+we think that you need to be
+to uh to use the cloud for example they
+ask us what the cloud what is the cloud
+why do you think that we need to be
+there today you know it's obvious
+unless you have a very good reason not
+to be in the cloud you're in the cloud
+it's same with was with mobile
+so we wanted to be a mobile first cloud
+first
+and we always look at new technologies
+because we know that our people like to
+uh to use
+the best and you to be first that uh uh
+you know that use the technology but
+also with caution because you don't want
+to use something which is
+halfway baked or might not be a success
+so you know always the cautious but but
+but yeah but to to to use the the best
+tools and the new tools
+and
+um and and this would happen we we now
+have people that
+um that there are web developers and
+backend cloud developers we do a lot of
+iot um solutions
+uh we are multi-cloud companies so we
+build also for aws google amazon
+um
+yeah so
+now looking
+at you know your journey until now and
+obviously code value is a is a huge
+company and you're doing front of all
+things
+if you look at your passions today
+and you know going back to the theme of
+growth and how you grew as an as an
+engineer and an architect and a leader
+where is the passion today the passion
+is still with they say mentoring
+it's you know not just learn you i
+every day i learn new stuff probably
+also forget some but every day you learn
+something but it's not just learning
+it's also to share what you learn and to
+share your experience
+so i learned you know by doing stuff i
+learned also by looking at other
+systems that other people
+built you know for good and bad
+sometimes you even learn more from you
+know that you see something which is
+wrong
+um but also to share and my passion
+today is not just to share my knowledge
+with uh
+um with this senior developers and other
+architects and starter company companies
+but also with junior developers
+i think that our mission today
+is
+to
+somehow fill the gap of taking new
+junior uh journal developer that just
+finished uh um any kind of study you
+know you have boot camp you have
+universities you have college
+colleges
+and they are not ready to get in you
+know to start their work when you when
+you uh
+when you ask somebody to get a junior to
+his team
+usually they will say that they can't
+use the
+they can't have the junior because it
+will take more time and more effort
+because you now need to assign somebody
+from the team to
+mentor this uh
+junior and um
+and you will not get the productivity
+that you need
+but i think that with the right
+mentoring before or during the studies
+or just after but before starting the
+actual uh
+employment
+um you can uh by
+applying by by
+providing the means of how you use the
+tools
+how you
+become part of a team
+how you get a task and you fulfill the
+task how you can learn by yourself you
+know instead of going to somebody and
+and
+interfere with their work
+um
+and provide this mentorship
+so they can start in a much better
+uh you know better level of uh
+of knowledge and expertise and this is
+something which today i'm passionate and
+this is one one of the thing why i am
+a microsoft mvp you know um
+most very professional go to the
+community speak with the community but
+today i want to focus also uh not with
+the you know uh
+um expert and and uh
+senior developer which usually what this
+is what i used to do because i'm an
+architect you know i talk in this
+level now i try to talk in this level
+and somehow fill this gap because we are
+missing so many different developers we
+are missing like 50 000 developers today
+in israel
+incredible
+incredible just incredible and alone i
+think that
+the way you're talking about you know
+your own journey coupled with code value
+and where you are today and this idea of
+mentorship and mvp
+it's a
+it's really
+it's it's really awesome for me to hear
+and it's it's just it's inspiring and
+it's refreshing meeting people that are
+so excited about what they're doing and
+so passionate about it and building
+incredible products and incredible
+companies and i really want to thank you
+for your time and your energy i learned
+a lot and thank you for coming on the
+show thank you and stay safe and stay
+healthy and best of luck with code value
+thank you
+[Music]
+you

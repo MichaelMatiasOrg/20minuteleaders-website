@@ -1,0 +1,662 @@
+an information gap can always be solved
+by more data and when we looked on the
+us market and we looked about the
+residential market in the us there's so
+much data everywhere you can know
+basically everything you need to know
+about a uh us property if you know where
+to look and if you know where to buy
+your data from and if you can utilize
+this and use machine learning algorithms
+and ai to take all this data and to
+pinpoint exactly what you want to know
+which in our case is the property value
+the collateral it's the net operating
+income the cash flow that comes from
+this property you can get very accurate
+results in a matter of seconds
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to another episode of 20 minute
+leaders and hello yairbinyamini
+co-founder and ceo of landai
+yair is the co-founder and ceo of lendai
+prior to founding landai yaeur headed
+the cross-border transactions and the
+business development of one of israel's
+leading law firms in that capacity he
+took part in global multi-million dollar
+transactions in north america europe
+asia and the middle east gaire has more
+than 15 years of experience leading
+large-scale operations including in the
+idf and several ngos here is also the
+chairman of space girls and non-profit
+organization promoting space and science
+studies for young girls aiming to build
+the next generation of women scientists
+[Music]
+welcome to 20 minute leaders how are you
+thank you for being here it's a pleasure
+joining this uh
+i was listening many times to the show
+and now being here is uh it's a great
+pleasure for me
+well that's uh that's a huge honor for
+me to hear so thank you very very much
+you know you're working on some on some
+really fascinating things in the fintech
+space specifically leveraging ai to work
+with with financing and lending for
+foreign investors in the united states
+residential markets you're using deep
+technology to make the process seamless
+and easy you know i go to the website
+and immediately i see you know within 10
+minutes you can see whether you're you
+have the the right conditions to get to
+get funding
+from land i your company and so i'm
+excited to dive deep into you know the
+founding story of landai where you're at
+today and a little bit more about the
+domain that you're in and so perhaps
+let's start there you take me back to
+the founding of landai you're not coming
+from the real estate space tangibly i
+believe or the ai system tell me a
+little bit about your transition there
+and then how you how this company came
+about
+yeah so the easiest way to understand
+with the story on how everything came
+together so
+around two and a half years ago uh boss
+our cfo and one of the co-founders had a
+conversation with a finance professor
+from idc one of israeli universities
+actually my school as well
+and
+they talked about foreign investment in
+the u.s in europe boss and myself
+together we met around the real estate
+transaction in athens to be exact and
+this professor told him that he has
+three single family properties in the us
+and he even has a bank account in chase
+from the sabbatical year that he did
+and once we last visit in the us it was
+pre-covered we wanted to buy more
+properties but this time said well
+i'm done with buying all cash let's get
+into the bank and get a mortgage so you
+knock on the door open chase where he
+has his account say hi i want to buy
+more properties here where do i need to
+sign the mortgage that's all i need to
+do and this banker just looked at him
+smiled like a yes banker knows how to do
+then well we know the properties here
+just well we know how to evaluate them
+how to put a lien on them how to
+foreclose them if we need to how to sell
+them afterwards basically we know
+everything we need to know about the us
+property we have a slight problem and
+it's you you have no credit scoring here
+you don't know who you are in your
+origin country as far as aml kyc
+processes goes what are you saying
+israel is on the map he said somewhere
+in the middle east i don't even know
+where it is actually so thank you but no
+thanks you won't see a dollar from us
+when he came back to israel before you
+continue with the story i just want to
+pause here for a second because we hear
+the story a lot about you know
+foreigners coming to the united states
+no credits for no credit system no
+background making it difficult why can't
+just give me a little bit of an overview
+why is the u.s system based on this on
+this idea of background checks why is it
+so important for the bank as a lender to
+to be considerate of your background
+before they make this landing process
+so basically every every lender whether
+it's a bank or a private lender need to
+mitigate this risk and when you become a
+new client even
+more if it's not a client that works
+with you on a day-to-day basis so you
+don't you don't get if it's not a us
+residence so it's it doesn't have a w-2
+it doesn't get a seller in the u.s
+you as a lender or a bank just doesn't
+know enough about him so the credit
+scoring system is a tool for them to use
+say okay there's some other guy that is
+evaluating this person he gives them a
+score i know that they have a good
+algorithm they have a good system
+i for the one who sees this client for
+the first time i can count on this
+system and it makes me
+easier to to decide basically it's
+mitigating my risk because i know okay
+he has a 800 points sql score
+what can go wrong somebody checked him
+before i did and it was okay now i will
+do my double check and i will make sure
+that everything is fine but i already
+know that i'm talking with a good client
+when someone comes with poor credit
+scoring or no credit scoring
+it's just almost impossible for the bank
+to evaluate the risk so then if he needs
+to
+put all his effort into let's say if an
+israeli or a german guy or a chinese
+coming with his bank statement in his
+origin country language who knows how to
+read chinese in a us-based bank or
+german and or right and the process is
+just too long and it's too much of a
+hassle for them and it doesn't matter if
+it's a car loan
+mortgage a credit card you see this
+problem going all the way into the
+industry and there's different types of
+fintech lenders and think the companies
+each one of them is targeting a
+different audience of those
+thin file no credit for investors name
+it
+however you want to
+because the u.s system is based on those
+fico scores and those credit scoring
+there's so much good people that are
+just left out outside of the credit
+system
+uh in the ordinary day-to-day life
+right
+so so go back now to the funding story
+so now that we understand this problem
+it'll give a little bit more context as
+to how you're actually going about
+solving it because you're actually
+leveraging deep technology to to
+sort of bypass a lot of a lot of these
+issues exactly so just to finish the
+story so after he came back from back
+from the u.s to israel in this case
+and he said in the u.s they told him no
+he came back to his back to illumi bank
+in tel aviv
+and you tell hey i'm a client in the
+bank i want to get a mortgage to buy
+more properties in the us the israeli
+banker told them the exact opposite they
+told them well we know you just fine you
+have a great salary from the university
+you're a client of this bank for many
+years we would love to work with you but
+we have a small problem we have no way
+how to evaluate how to foreclose how to
+take a property overseas so thank you
+but no thanks you won't see a shekel
+from us
+and that's the problem that we're
+solving and the same problem goes with a
+canadian investor buying the us a
+mexican over the border coming to the
+u.s or german or of course for any other
+place in the world
+once we realize this problem is existing
+it was after the school where that was
+held with the guy we said it was 2019
+and how come it could be that this
+informational gap is causing this
+financial gap when we're talking about a
+good investment property in the us a
+good foreign investor because it's
+someone that have enough money in his
+origin country to go and diversify this
+portfolio to the us we're not talking
+about someone from the street we're
+talking about high net individuals mass
+affluent clients people that have money
+those are good clients and in their
+origin country everybody loves them in
+the banking system in the us nobody
+knows them
+once we understand this we thought how
+can we solve this problem and the idea
+that we came up with we said in 2019 an
+information gap can always be solved by
+more data and when we looked on the us
+market and we looked at the residential
+market in the us
+there's so much data everywhere you can
+know basically everything you need to
+know about a us property if you know
+where to look and if you know where to
+buy your data from and if you can
+utilize this and use machine learning
+algorithms and ai to take all this data
+and to pinpoint exactly what you want to
+know which in our case is the property
+value is a collateral it's the net
+operating income the cash flow that's
+coming from this property you can get
+very accurate results in a matter of
+seconds and from the other side a u.s
+bank that group is looking on a foreign
+investor doesn't know exactly what to do
+but if you know how to assess
+a client in his origin country based on
+information from his origin country so
+we know how to assess the canadian based
+on canadian information the uk guy on a
+information from london the israeli guy
+from tel aviv and if you know how to
+take all this information and put it
+into one system that is basically an
+underwriting and a pricing machine that
+evaluates the property value the
+property and ui and the foreign investor
+credit scoring you can get what we call
+a point of sale mortgage based on this
+triple digital underwriting system
+this system is what enabling us to get a
+point of sale mortgage
+because you talked about 10 minutes it
+takes around three minutes to get a loan
+offer not even 10 minutes and
+the guy can sit in his home in montreal
+in toronto or in sydney and get a loan
+offer fully online say i accept and
+gonna move forward doing the entire
+process based on our platform and from
+application to processing and closing
+even the signing of the mortgage
+documents everything goes on the online
+sphere and you can get a loan of 300 000
+dollars on your portfolio in ohio when
+these sits on the couch in tel aviv for
+example and this is basically what our
+technology is enabling us to do
+so now obviously here there's a sort of
+chicken and dig problem you're talking
+about building a model that is able to
+assess and mitigate those risks but what
+i'm what i'm considering here is you
+know how do you actually prove that the
+model works because you know until you
+actually
+lent somebody money and saw that they're
+able to pay it back and you don't know
+whether you've done a good job so how
+how how do you go about as the leader of
+this organization think critically about
+okay when are we ready with our own
+model to go and actually use this to
+predict
+the the the chances of of our clients
+paying back the mortgage
+so first of all due to the diversity of
+our funding system funding team we have
+ellis dicker who is our cto he's a 33
+year veteran from the tech side of the
+banking system he build credit scoring
+system and origination system in the
+israeli banking system we have team elon
+of wizard chief data science who is 15
+years in the fintech industry
+hall is doing they
+dusted down is just building ai
+algorithms in the high frequency
+algorithm ecosphere in the property
+value aircraft in the last few years and
+we have bosnic guitar cfo was the
+sec the head of the credit market the
+capital sector in the third largest bank
+in israel so we have a team that knows
+how to evaluate risk we took all this
+knowledge put it into the machine and
+put it into the platform
+and because we wanted to show that we
+know what we're doing the first
+mortgages we issued we issued from our
+own capital we gave our own money to our
+investors to the foreign investors based
+on the algorithms that we built and from
+the second mortgage actually and in
+onwards the banks were on board with us
+gave us the credit lines and i think
+we're maybe the first fintech lending
+company that as of the second mortgage
+that it gave or the second loan they
+gave it was already bank
+debt uh and it's not because we have
+pretty eyes because we have good
+reputation we have great collaterals and
+br and we built a very smart and easy to
+use system that the banks can just
+understand how it works but not just
+that we're not a solution because if i
+would need to go to let's say wells
+fargo say hey take this mechanism and
+build it into your own system it's a
+cell cycle that takes years this is why
+we decide to be the owner originator
+ourselves and we take the risk and once
+we show that the risk is okay and
+mitigate in a good way
+now all the big banks that we work with
+or and funds that give us the funding
+are just know that we know how to
+deliver because we showed it and we
+proved the model time after time
+all right and so
+i'm imagining that one of the big goals
+of the company is to be the go-to place
+for foreign investors to come to get to
+get this margin mortgage and to get this
+financing and so it's a question of
+scale and and one of the kpis is
+probably to get more and more customers
+on board and how do you then
+strategically think about doing that how
+do you know when to when when to push it
+when to hold back when to evaluate what
+is sort of the thinking process that you
+go with
+so i totally agree with you and when we
+started building the company we thought
+what type of model do we want to build
+is this a b2c company and if it's if it
+was a b2c company how do we get to
+hundreds of thousands of foreign
+investors work that are spreading
+worldwide and this is why we chose to be
+a b2b2c type of business so we have a
+huge partnership networks we work with
+realtors loan brokers property managers
+developers uh entrepreneurs everybody
+that has a us operation working in the
+real estate industry in the us and sell
+or manage or working with for investors
+they get from us a system that they can
+use either to manage your portfolio and
+with a click of a button to connect
+their clients to our loans so basically
+what we're doing we're financing their
+clients and empowering them because once
+their clients have more money they can
+do more transactions with them so it's a
+very simple easy to use win-win
+situation system they bring the clients
+we bring the money and everybody makes
+more
+and this is why we can get into
+thousands to tens of thousands of
+potential clients from 100 partners that
+we have and we're getting new ones every
+day
+so so far it sounds like a true
+cinderella story but where's the poop
+well what's been really challenging in
+your journey you know from the get-go
+into where you came to now
+so it took us we started working on in
+2019 we launched the platform in 2021
+and we work full-time all the time just
+to build the infrastructure basically
+because we couldn't take anything
+off the market say okay there's a loan
+origination system let's take it and use
+it because the questions that are an
+american origination system asking are
+not relevant to the foreign investor and
+if we're looking on our algorithm let's
+say zero our algorithm evaluating a
+property value it's looking on the
+property as an investment property so it
+looks how money does it worth today and
+how high it will go but what we are
+looking on is how low it will never go
+because it's a collateral it's not an
+investment so we have to build
+everything from scratch
+from the legal side of it this is i'm a
+lawyer by profession and no one no one's
+perfect so i spend hours and hours and
+hundreds of hours just to build the
+right
+legal structure to make sure that we can
+operate in an easy way and to scale from
+state to state now we're opening a new
+state in the u.s probably every three to
+four weeks uh if we haven't built the
+right
+legal network and legal system this
+couldn't be happened so
+there
+it's it's a it's a it's a watch with a
+lot of variables and a lot of tools and
+and screws inside of it
+and we have to make sure that everything
+is work
+fully automatically inside of it this is
+where we four founders you don't see
+many many indie companies or other
+companies that have four founders
+each one of us has
+10 to 30 years of experience in this
+field efforts but this because what
+we're doing is very complex
+knock on wood we're succeeding
+now a little bit more personally about
+you so you've been in the legal space
+for quite some time you you've you've
+managed
+very significant deals
+and you know you said you launched this
+you found the company in 2019 launched
+in 2021
+what happened in 2019 that you decide
+that it's time for you to become an
+entrepreneur to become a co-founder with
+other three folks to build a company
+what what was it a sudden decision was
+it a lengthy process for you so it was a
+lengthy process i was working as a
+lawyer i loved what i do
+and i was actually in the middle of
+negotiation becoming a partner in the
+law firm that i worked i i actually had
+the agreement and i gave like notes if
+there changed this change that and then
+i met boss
+came to me with the story of the idea
+around this transaction
+and you know when sometimes something
+just click you said this is the right
+person
+i'm
+it's either being a lawyer for the rest
+of my life or trying to do something
+else now and two weeks later i put in a
+notice and left the firm within good
+terms but
+i said goodbye
+and we found in landai and a few weeks
+later wasn't i said said we need to
+build a tax system here so he called
+us told hey i'm just today i'm leaving
+the bank after 33 years said great let's
+meet tomorrow the next day he joined
+and tim was actually working there and
+he said team come and join us maybe be
+the first employee they said you know
+what they changed something on the
+company that i work in they're they're
+changing the technology he was the head
+of rnd in a high frequency training
+company i'm looking for something new
+i'm coming i'm joining and then we just
+said okay but just
+everybody join and from this day onwards
+we're working together
+uh and boss was the glue that gave the
+bring all of us together was was working
+with errors in the banking system with
+team you know on his last uh fintech
+company that they had and with me on
+this real estate transaction so buzz
+just collected good people from all
+kinds of places and
+the rest is history as we say
+so it is you do you have a prior
+relationship with the fintech space
+specifically
+foreign investments ai based solutions
+or is this something that you grew into
+as a part of your role as co-founder and
+ceo of this company
+so many things i learned as an
+entrepreneur investing in the us is
+something that i did as a lawyer as a as
+a foreign investor myself so i knew the
+problem as a as a lawyer i managed a lot
+of transactions in the us for israelis
+for some european companies so i knew
+the market i knew the cross-border
+transaction market i did it with
+cannabis farms in canada hospitals in
+china
+and many other
+kinds of transactions so i knew the era
+and i knew how real estate in the us is
+working out i'm married to an american
+girl
+um so so we have family in florida and
+we're just moving to florida actually
+next month
+um so i knew the market i just needed to
+connect the dots with the technology
+into that and say okay this is the
+problem this is how the market is
+working how can we solve it with
+technology
+and
+i'm glad to say that this is what we
+managed to do in the last two years
+i love it yeah i want to take you back
+to your childhood and go back and
+understand a little bit you better what
+really fascinated you as a child what
+really sparked your curiosity so as a
+child i raised in the golan heights
+inside the not far north of israel
+i'm a far coming from a farmer family we
+raise mangoes and bananas and whatever
+you want to
+uh basically as a child that was so far
+from the tech world i was
+raising you know uh
+kite surfing on the kinetic in the golan
+in the sea of galilee
+i was working in the fields with my
+family
+i was so far from this tech world after
+i finished the army it was for quite a
+few years in the army as an officer
+today as well i'm a major i'm a company
+commander in the israeli special forces
+and i came to the celia to the idc to
+start learning and once i opened to the
+world of what happens you know in in in
+the city let's call it like this and i
+saw where technology can take people
+i was just amazed and i said this is
+where i want to be 10 years later this
+is where i am this is where i am with my
+family
+and i just love the ecosystem
+but it's very far from where i begin and
+to where i am today
+that's what it sounds like and so if you
+look in your day today right now what
+what what inspires you whether it's a
+specific event or something that's
+ongoing
+so it's the small success that we see
+you know a client that says hey you
+solve the problem that i have for many
+years i have portfolio of properties and
+i i tried everybody told me no and we
+know he's a good client it's working
+with the team this is what i always
+wanted and part of the reason why i left
+being a lawyer
+is because being a lawyer is is a very
+soul you get yourself the computer
+you're managing a transaction maybe
+working with an intern or two
+but i i'm an army guy i like to have all
+my team in a row and charging on the
+enemy or on the market whatever and this
+is what you do in the startup you put
+everybody in line and just running
+forward together and i really wanted to
+be part of a team
+and this is what i am today i'm a part
+of a team of amazing people and i just
+you know we work 18 hours a day but we
+do it with a smile
+i love it i love it and what are three
+words you would use to describe yourself
+that's a good question
+so i'm very positive and i think i
+couldn't be an entrepreneur if i wasn't
+hopelessly positive
+that as my wife will tell who will say
+it
+i'm very much trying to be uh
+multidisciplinary so i know i know where
+i came from i know what i know today and
+on the road i learned how to manage
+people how to work
+how to develop businesses how to manage
+funds so i'm very very much
+multi-disciplined this is why i went to
+the idc to learn multiple things so i
+learned law and government and business
+and many other things
+and i'm very determined uh once i set my
+mind on something
+nothing will stop me
+i love it yeah thank you very very much
+best of luck with landai and i can't
+wait to see this company grow and
+continue
+following your journey and i really
+appreciate the time and stay safe and
+stay healthy thank you very much stay
+safe as well and good luck for uh people
+and and the success for the team
+thank you pleasure being here thank you
+very much

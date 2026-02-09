@@ -1,0 +1,639 @@
+i'll tell you what
+works very well for me
+um
+that
+probably wouldn't if i would only be an
+engineer okay
+and that is
+thinking like a user one of the things
+that they learned in optimal for example
+which was a marketing company it was
+like you're not
+building a product for yourself
+you're in you're building a product for
+a module you'll be taking a product for
+it for use
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homework ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with c-tech
+hello hello thank you for joining us at
+20 minute leaders today i'm with jolie
+rosen the ceo of armos cyber security
+charlie has over 15 years of technology
+b2b management and business development
+experience with the bsc major in
+communication systems engineering and an
+mba from wharton school of the
+university of pennsylvania
+he is passionate about entrepreneurship
+securing cloud-native frameworks and his
+amazing founding team
+his primary interests are building
+products businesses and teams the latest
+is a fantastic armor
+armor brings promise to cloud native
+environments embedding visibility and
+security into every workload and
+building security products the devops
+love
+prior to founding armo choli was the
+chief strategy officer and startup
+company optimove where he built the
+go-to market strategy sales department
+and business team and raised 20 million
+dollars of growth round from israel
+growth partners
+before that he was a management
+consultant in the boston consulting
+group and a new product initiatives
+director within mdocs building startups
+within the company in security
+virtualization cloud and big data
+[Applause]
+welcome to 20 minute leaders thank you
+so much for being with me and we're
+going to have a fascinating conversation
+about security developers in the whole
+chain thank you very much
+thank you for having me
+such a fascinating background all the
+way from ben gurion to wharton
+mba to
+boston consulting group director of
+product strategy at i'm docs chief
+strategy officer and general manager
+opsimov and then uh entrepreneur and ceo
+armholm with that with some phenomenal
+investors behind you and a really really
+interesting
+problem that you're solving
+and so i hope i captured at least some
+of the journey correctly but but the
+reason why it was important for me to to
+go through it is because
+you know you have a lot of different
+you've had a lot of different roles
+whether it be strategy consulting
+research engineering
+business and now entrepreneur and so
+walk me through a little bit your your
+sort of what connects the dots
+throughout all these different
+experiences
+well
+you know it's kind of interesting that
+i'm i kind of ended up where i should
+have started right um
+everybody does that to begin with that i
+ended up doing it um and i think
+you know very very honestly
+you know it was just one thing led to
+another and they ended up winning
+you know a little bit by chance as
+everything in life you know um every
+step i made
+from one point to another made sense at
+that point there was an opportunity
+something new to learn i was always
+looking to diverse and do and don't know
+new things
+and you know eventually the opportunity
+to do your own thing it came up to join
+uh two you know remarkable entrepreneurs
+and ben and leonbee who are my only
+co-founders and while the brains behind
+you know this this venture
+and
+you know just first it was the right
+time to do that and that i you know one
+of my experience can be actually leading
+me into doing this and
+you know chances but it's usually chance
+right and then the your ability to
+actually act on it
+so so i'd love to
+to to to talk a little bit about rmo and
+the founding but then i'm going to ping
+pong back to to some of the previous
+experiences you've had and how those
+play a role in your understanding and
+let's start with
+simply the strategy behind what you're
+doing i mean you're you're in a new
+field
+today it feels not so new about it but
+it really is new you know in comparison
+to to the world in tech you're looking
+at kubernetes you're looking at devops
+security developers and the whole
+process what is armo what problem are
+you trying to solve here
+well what we are trying to establish
+is really what we believe is going to be
+or is already starting to be the first
+you know end-to-end open source
+kubernetes security uh been for for
+developers and before diversifies to be
+more specific because you know
+today there is there you know there is a
+reason to being specific about it
+and
+if you think about the strategy it all
+started with the devils you know if you
+think about
+you know when when we just started we
+knew we wanna
+change things uh for security we knew we
+had like my team as probably the best
+security and development background and
+and we knew we wanted to solve
+kubernetes security problems
+and we started with scissors that's the
+reality
+and what happened is that
+you kind of like get
+it this you know it was so obvious that
+every sister would speak with about
+credit security
+the
+immediate reaction is i need to get my
+devops team involved i need to get the
+development team involved and
+um it was so clear
+that they
+do not grasp that environment in fully
+and it was claimed that there is a big
+shift that is happening in the market
+where therefores specifically
+get more and more security
+responsibility
+and
+and and you know that that's when it
+clicked and we knew we we need to create
+a solution with which is speed for
+developers and for devops and from that
+minute on
+we built the strategy of okay so if
+you're looking at devils you know what's
+the best way to go about it and and open
+source came into mind and doing a
+bottom-up approach where the tool is in
+the platform is built for developers
+that they can try it's a very very
+different buyer
+um and and the reason i love it
+because it's us right we are developers
+uh we are engineers we actually and you
+know collaborate and and our customers
+and users
+are much more like us than they used to
+be very very practical very very down to
+earth very you know
+fact-based and engineering based
+decisions so if the tour is good if it's
+working well that's what we're gonna go
+after
+and it is a refreshing approach you know
+you talked about my history i used to do
+b2b sales in a very kind of like
+b2b
+go to the meeting put
+you know put your suit on you know and i
+had the tie and everything and you go to
+those meetings and then and you sell
+and
+it is refreshing to drive your product
+sell for you and drive buyers who are
+actually you know very very
+straightforward no type buyers
+where yeah so what what does your
+product do
+you know and um
+that's that's actually what writes me
+this by this point
+and so so we're understanding this at a
+high level strategy and and going back
+to sort of understand consumer behavior
+and how this is playing out into
+companies and
+the role developers are playing within
+organizations and the shift of
+responsibility for who owns the
+knowledge and security infrastructure
+how did your how did your previous
+background impact that because it's
+beyond just building a good product for
+developers you actually have to
+understand
+the the supply chain or the development
+cycle within organizations and see how
+you can create a trusted product that
+intersects that right
+yeah so it really depends how far we go
+um but i started as an engineer i always
+say that i'm an engineer and a team
+businessman to have an entrepreneur and
+i think you know that cycle is really uh
+what gives me the opportunity to have a
+good view of what's happening here and
+you know even though it is a very
+practical cell it is still a study and
+it is still something that you need to
+to nurture and you need to have you know
+some of the
+i'll tell you what works very well for
+me
+um
+that
+probably wouldn't if i would only be an
+engineer okay
+and that is
+thinking like a user one of the things
+that i learned in optimal for example
+which was a marketing company it was
+like you're not
+building a product for yourself
+you're in you're building a product for
+a module you've been taking a product
+for the foreign user and i think
+building yourself and and i am an
+engineer
+but even if there is many times when
+they create a product for engineers
+they they think like not as a consumer
+but as a developer of the product so
+being painted and putting the the
+mindset of the customer on the user into
+play
+i think is that you know it's a huge
+advantage for any company who's trying
+to go uh with our approach
+so for bringing deep dive into armor as
+a product
+talking to me sort of through the
+development lifecycle of a company today
+with our mo and how does rmo's presence
+uh within a company tech stack impact
+anything that has to do with security
+with uh
+with any with any debugging or review
+processes
+what does armel actually tangibly do
+yeah so um usually the way we get into
+into the company is we have a devops
+engineer
+or a devops leader that cares about
+security
+and you'd be surprised i think it's a
+one of the biggest misconceptions that
+sometimes i hear
+is developers don't care about security
+okay that's just not true yeah they do
+care about security uh they just think
+about it as engineers uh so they're not
+thinking about it is okay what kind of
+solutions can i buy they want to build
+stuff
+and usually they get into our data page
+and and they see um a
+a project that can help them and in the
+development process into actually five
+big issues in the development process
+and in the clusters uh without adding a
+lot of of of burden um you know we pride
+ourselves with the the ability to show
+your first results and give you value
+three minutes after you started working
+with us
+and that's exactly what happened they
+take the two they install it they run it
+once they get the report and then the
+idea
+of albo is to give them this capability
+and show them very quickly the value and
+then increase
+the engagement with with our platform
+through more and more functionality so
+you you start using us you see what's
+wrong with your cluster and then you say
+okay but maybe i should also see
+how the vulnerabilities in my cluster
+connect to those configuration issues
+that i found
+and you go into our south version and
+you find it there and then we bring
+those two together so the more
+the more users get acquainted with us
+they get more and more functionality and
+they get a single pair of glass into
+everything that is happening in their
+cluster and in their development cycle
+and this is putting so this is putting
+the developers at a unique position
+within organizations right and this is i
+think speaking to the shift of
+responsibility for developers and agency
+the developers have today in in bringing
+a new product and ensuring the the
+healthy life cycle of the company
+can you show a little bit from your
+perspective what's been happening to to
+developer agency within organizations
+and and how critical is that for for
+armor
+well i think
+you know devops works defaults are
+becoming
+um a very key junction
+for everything that is happening in the
+company um if you think about it they
+basically kind of like operand the data
+center of the of the company it's no
+longer the data center it's it's now now
+the cloud it is fully distributed
+it is fully automated
+um
+but then
+everything needs to be tied in together
+so you know you see
+you know even financial responsibility
+guaranteed to devops with cnops using
+security according to devops you saw
+development and operations going into
+devops and they are becoming very very
+sad one but one of the biggest problems
+that they face
+is that they are experts in development
+and operation but they are not experts
+in finance right and they are not
+experts in security sometimes
+and the magic that those tools really to
+them is you know how can you serve the
+security function without being a
+security expert
+so and how can you serve the funds
+function without being a finance expert
+so the challenge that you know we have
+is as people who create tools for those
+users is to help them reach that gap
+easter eggs you know speak the right
+language disturb them become security
+expert without being really a security
+expert and syllables for finance etc um
+so i think it's a very unique position
+where the developers and the developer
+agency within the within a company
+it is becoming you know much more than
+just development they start to manage
+different functions which are usually
+you know moreover even sometimes
+logistic functions
+and and they need to manage that
+so
+as as as you're putting in armor into
+organizations and you're you're getting
+the engagement from developers so
+one thing that obviously has been taking
+the world by storm is you know product
+led growth and the ability for
+for developers engineers or any function
+within within an organization to come
+and bottom up bring in the product use
+it have the product to grow with the
+development cycle and then create
+increased engagement with the
+organization through through that
+initial hook
+how do you how do you see product like
+growth as a core part of armor and i'm
+sure that this is a guiding factor as
+your building on the product
+yeah definitely so for that growth is
+you know it's basically a a building a
+product development methodology that
+helps you build the product that users
+love while
+you you keep testing and you keep using
+the data to put in the functionality
+that users prefer and it gives them the
+most value
+um so the way i look at it product-led
+wealth is just
+a way
+um or a methodology to continuously
+creating gated with the product and and
+get more and more
+uh you know in my mind to me and that
+you know it's if it's some some people
+that
+use this word as simply but you need to
+get
+your users in love with your product
+right they need to
+to actually um feed that then that it
+provides them value that they love it
+and that they use it on a daily basis
+and that's what we're trying to do
+that's what we're getting that's the
+type of engagement that we get from our
+users and the way you see that it's not
+only in usage when when people start to
+tweet about your product and you have
+unsolicited content about look how this
+is how i use your scalp to do this and
+that and and users are doing unsolicited
+videos and blogs about your products
+this is you know
+that that's what you want to get when
+you do a product like growth now having
+said that you know i'm also
+um
+i think that extremism and being an
+extremist is is never uh the right
+choice so nothing is one or zero
+um so giving me product yet growth it's
+not that you don't use sales it's not
+that you don't use customer support you
+need to
+you know
+some people are saying you know
+everything should be automated your
+product is gonna learn and change no i
+don't do just that i speak with my
+customers i give them calls if i see
+someone who's using the product a load i
+set up time with them and learn what
+they love about the product it's not all
+automated it's not all like here put a
+credit card and go in it's something
+that you need to
+you know um continuously nurture and you
+mean you still need to speak with your
+customers
+ugh don't confuse plg
+with okay everything is going to be
+automated i'm not going to speak with
+the customers the product is going to
+convert by itself and everything is
+going to be completely automated because
+i just don't think that's on the reality
+ever
+right and so you're starting to touch on
+on a really interesting topic which is
+sort of like the pitfalls of of where
+people may go wrong i think that a lot
+of the dangers of these
+these terms is that it creates a lot of
+hype and and it almost no it's not a
+shortcut but it but it allows for for
+people to think that they can sort of
+isolate themselves from some other
+strategies and and that they found this
+holy grail and maybe it's maybe product
+like growth isn't even the right
+strategy for their product
+as you are
+doing it day in and day out and have you
+noticed some other non-trivial
+non-trivial behaviors or instincts when
+it comes to to this type of strategy
+that that you've improved on or overcome
+over your career
+even specifically about photoclip growth
+product light growth or or the develop
+or or any strategy for the development
+life cycle of a product really
+well what i've you know
+let me tell you what you know i think
+there are not many ultimate truths
+in the world but one ultimate truth that
+i still stick on with
+is you can't develop anything without
+customer feedback or without user
+feedback
+and this should be always in your mind
+and you can you can you can automate
+user feedback right you can uh put
+trackers in your product to see
+where the users spend most of most of
+the time and you start
+um
+but maybe i'm old-fashioned i still
+believe that speaking with the customers
+and speaking with the users
+is a key part of building any product
+now the channel may change right so we
+have a discord channel with over 300
+people like are using it and we are
+engaged with them there you know maybe
+five years ago i didn't know what this
+world is
+okay and
+um and today the channels are very very
+different
+but still the concept of speaking with
+the users
+listening to the users um is you know i
+still think it should be the main
+focus of any company developing any
+product
+and
+i want to end uh on a on a different
+note so transitioning from
+product and product like growth in your
+background i want to talk a little bit
+about you and understand you know really
+you know where you find yourself in all
+this right so you know
+where does your passion lie is it is it
+in that going back to where we talk
+about engineering is it in the product
+is it in in in being innovative in this
+world that's that's that's changing
+really really quickly in front of us
+where do your passions lie here
+so
+you know i started
+with being an engineer and like doing
+this circle where i now
+you know built a product that is very
+very um engineering driven
+i think and i have to admit that was the
+that's where my passion started but in
+the last year
+you know i think that like one of the
+major changes that i'm going through and
+maybe maybe i'm late to that but this
+open source notion
+and the you know the power of open
+source
+the the
+the power of the community
+they
+you know it's exciting to be the
+community it's almost like you know and
+if you think about only it's almost like
+in the movies where you create a cult
+right it's it's something that
+you know the level of engagement that
+you get invented of excitement that you
+get from you know growing more and more
+users and getting more and more you know
+feedback and getting more and more
+engagement
+and you know the level of creativity
+that that you can get when you have a
+community and then they give you all
+kind of recommendations and thoughts and
+actually managing that community
+is uh is something which is really
+really refreshing and and yet you know
+you start to work with people that are
+so much cooler than i am you know you go
+to kubecon okay and the people who walk
+the floor
+are not the people who walk the floor
+with rsa
+or in you know a retail
+in in new york while it's uh
+it is so you know the stickers that the
+guys created you know and the level of
+creativity that you need it's
+you know you know what it is
+let me leave you with that
+there is a generation change in the
+world right
+and you know either front seat to that
+generation champion they see those kids
+they're not really kids anymore but
+those new decision makers new power
+houses of people and capabilities and
+knowledge and innovation they're so
+unique and that that's for me is the
+most exciting thing
+a lot of people are feeling very old
+listening to this now
+jolie thank you very much this was so
+cool rmo is such a cool company and
+congratulations on the fantastic
+milestones with fundraising and with
+unbuilding and phenomenal product and
+and i look forward to continue following
+armos journey in our ecosystem and uh
+really really great thank you for the
+inspiration and stay safe and stay
+healthy
+thank you thank you so much for having
+me it was a pleasure
+thank you

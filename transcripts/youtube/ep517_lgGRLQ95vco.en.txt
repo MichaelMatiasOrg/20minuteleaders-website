@@ -1,0 +1,686 @@
+and then one day i was sitting at my
+home and drinking a glass of a
+fine liquor and looking at the website
+and seeing the book a demo
+button i was thinking to myself i
+would never click this button i would
+never book a demo to my own company
+why would i do this i would never buy
+something like that
+and then i knew something had to be done
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey
+each one is different unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance
+opposed hillel at stanford leap and
+birthright excel
+welcome to another episode of 20 minute
+leaders i'm honored to be joined by
+shimon thortz the ceo and co-founder of
+the three io
+shimon established and managed the
+software engineering infrastructure
+department for 400 engineers at iron
+souls
+also as an aws community hero shimon
+runs the largest aws
+user group worldwide and as an avid
+speaker at conferences
+today shimon is the ceo and co-founder
+at datri
+an automated policy enforcement solution
+for kubernetes
+the cli tool prevents kubernetes to
+misconfigurations
+by ensuring the manifests and helm
+charts follow best practices
+as well as your organization's policies
+welcome to 20 minute leaders hey thank
+you so much for having me
+this is the second time that i that i'm
+having the first time was on zoom during
+covet
+and now i get to be in your beautiful
+offices and which unfortunately you
+can't see too much of with these walls
+but but it's
+but behind there there's a group of
+amazing engineers and amazing people
+that are working
+on building this really awesome product
+and while last time we talked about
+infrastructure code is infrastructure we
+talked about
+the world of devops there's going to be
+a really interesting story to hear this
+time because you've had a lot of
+different things happening over this
+last
+year since we had our last episode and i
+can't wait to learn more about shimon
+and a lot more about the conviction
+that you came in with that i think i as
+a young entrepreneur and many young
+entrepreneurs can learn so much from
+so shimon in a few words about the three
+and then take us a little bit through
+your covert journey that you had
+wow so it's really fun to be here thank
+you very much and we're really honored
+to have you here with us
+it's much better than last night
+using zoom um in a few words what we do
+is we prevent misconfigurations from
+ever reaching production
+in kubernetes based environments
+so basically you have developers that
+are writing code making changes working
+on different kubernetes manifests helm
+templates
+and then they're shipping them into
+production and many times you can
+make mistakes you can forget to put in a
+memory limit the liveness probe and so
+on
+and then this can affect your production
+so what we do is we apply
+automated tests that run every time that
+there is a
+code change made by a developer and if
+he or she makes a mistake and forget
+some policy
+we prevent this change from reaching
+production
+and causing great issues now this is not
+something that
+necessarily would have been relevant six
+or seven years ago and so
+what what happened in the world of
+computing and cloud that that enables
+this problem to be so significant today
+and that wasn't before yeah so i think
+that the main changes that happen
+is our shift into developer autonomy
+you know breaking up the the teams and
+making it
+possible for anyone to deploy into
+production
+and before those days we used to have
+the ops teams they would take everything
+into production and we had the
+development teams who would just write
+the code and maybe qa teams
+that would test it now in the devops
+world it's all
+meshed together and together with that
+the cloud
+and the cloud native technologies like
+that came from the cloud native
+foundation like kubernetes
+which is actually i call it an
+abstraction layer
+and on top of all infrastructure
+it can be amazon google azure no matter
+what
+you can use kubernetes in order to
+actually operate
+your data center and this is a common
+language common api that everyone uses
+now in the world in order to do so
+because the world started shifting into
+a very fragmented place
+where you would have the amazon apis and
+the google apis and azure apis and so on
+so now everything is being brought back
+together using the cloud native
+foundation
+amazing and so you're working in that
+domain and you're
+understanding that the autonomy of
+developers is introducing
+different problems to the world that
+didn't exist six or seven years ago so
+with all the goodness
+that we have from the autonomy now
+there's different
+different prone to airness and and this
+is where the treat comes in and it's
+really relevant to any
+any uh company that is living in the
+cloud or moving to the cloud which is
+everybody and so take me back
+a year or a little bit more than a year
+you're in y combinator last time i was
+here you were doing something a little
+bit different a little bit more general
+tell me a little bit about the journey
+that you took on yourself to understand
+really what you want to be doing
+okay so a lot of happened as you know in
+the coveted world is
+obviously changed a lot just to
+refresh your mind you know before i
+started the tree i was a
+head of an engineering department at
+iron source and which is a great company
+they're now
+ipoing for 10 billion dollars um
+so despite you being heavily seen
+and what happened there is i was leading
+the infrastructure division
+and we had 400 engineers and one day an
+engineer made a mistake
+we all make mistakes like mistakes you
+make mistakes and we post more to it and
+we found the problem
+but then we had no way of propagating
+these development standards to the
+entire company
+we started sending emails and trying to
+do you know conferences but
+it wasn't scalable and this what
+actually prompted me and my co-founder
+er
+to quit their jobs and to do it in an
+automated way that
+is seamlessly integrated within the
+development workflow
+so every time a developer makes a code
+change like when you write a word
+document
+you have the small spell checker that
+tells you hey there's a problem
+imagine the same thing only in in our
+world with code and kubernetes
+and the interesting part is that when we
+started
+we started the company as a top-down
+organization
+sales led and now after the caveat year
+we've actually
+made a a huge change and we're now a
+product led growth company
+and we focus on bottoms up and there is
+no more schedule a demo there is only
+get started and you get to experience
+and evaluate the product
+by yourself but you're skipping the
+whole fun part here i want to know the
+shimon journey because you're sitting
+there
+and you shared with me before we started
+that it was almost a moment a eureka
+moment as an entrepreneur that i think
+is
+so lacking from what we hear today about
+entrepreneurial stories this overnight
+success which doesn't exist
+well now you mentioned that within a
+month you already have you know over a
+dozen companies subscribed to this new
+product
+well it's not an overnight success
+because we've had a year and a half of
+the journey together
+i want to know about that journey so it
+was very
+very strange to me because when i back
+in the day when i was an engineering
+manager i would never click on book a
+demo
+i'd rather jump off a cliff then click
+on book a demo
+why am i crazy like in engineering you
+go you test the things out if it works
+you put the credit card and
+if you need to talk to sales you talk to
+them but it works the other way around
+and when we started the company this was
+the
+intuitive thing for me to do but it was
+in 2017
+everywhere i looked around every vc i
+talked to
+most of the entrepreneurs and by the way
+israel
+is very much influenced by the
+top-down security oriented companies
+which the default playbook is the
+security enterprise sales
+selling to the cso so everyone i talked
+to it was like okay how many companies
+did you meet how many dinners did you
+have
+how many pocs did you start and it was
+it was all you know everyone was talking
+in top down
+um terms and i was like
+am i the only crazy one here like and i
+was like i must be crazy because
+everyone that i was talking to is just
+okay get get sdrs
+call to people email people go to
+dinners and so on
+and we've always wanted to do a
+self-serve platform a true plg
+but but we've always said like in the in
+the future in the future in the future
+and then what happened is as covid
+started we already had more than 15 to
+15 companies as customers paying
+hundreds of thousands of dollars
+in the biggest organizations in the
+world yes and they
+and at this point we couldn't meet them
+anymore
+everything became zoom and you couldn't
+go to conferences
+you know just before that in reinvent we
+had 90 demos in four days
+it was crazy it was really i wrote a
+blog post about it we can link to it
+it was totally crazy and then in one
+second everything turned
+and and i found myself thinking how are
+we supposed to continue driving the
+business
+if we can't meet customers if we can't
+present it
+at it you know shows because this was
+our main mo
+and then one day i was sitting in my
+home drinking
+a glass of a fine liquor and looking at
+the website and seeing
+the book a demo button i was thinking to
+myself
+i would never click this button
+i would never book a demo to my own
+company
+why would i do this i would never buy
+something like that
+and then i knew something had to be done
+and me and er we talked about it
+and we discovered this wonderful thing
+called product led growth
+now and i was reading through it and i
+was like oh my god this is how i was
+always buying software
+this is how i want to sell software this
+is actually how
+i want to go and solve the problem that
+i felt in the way that i would want to
+buy this solution and this prompted us
+to make a huge change
+close the us office go back to israel
+make a lot of changes and work on
+reducing friction and launching as
+product led growth and now you're saying
+this whole you know
+in three sentences you're skipping over
+you know weeks and months of labor and
+i'm
+guessing as an entrepreneur it's not
+that easy to just close the u.s branch
+for an israeli startup
+to open the u.s branch it's a big
+milestone also for the vcs it's a big
+it's a big vote of confidence that we're
+progressing forward and you almost have
+to counter intuitively
+you know put your ego aside and say no
+no we need to go a few steps back so
+that we can run much faster forward
+you're absolutely right and you know i i
+lived in tel aviv for 10 years as a
+television
+and i really love tel aviv and i did not
+want to move to san francisco but i was
+like okay
+this is the company this is the move
+this is the classical top
+down the ceo relocates to the valley
+opens up a sales office sdrs and so on
+and this is what we did
+and then as i got there and we actually
+opened the office and hired people and
+so on and covered hit
+actually we're fortunate that we have
+great great investors like rona segev
+and your father
+and ival cohen and many many others and
+angels
+and they all immediately told me shimon
+just come back
+we want you to be safe this is what's
+important now like no
+i want a mission here i moved here
+because we need to do this this is what
+we're going to do
+and i was very stubborn and then i found
+myself
+months after month after month sitting
+in my apartment looking like this and
+like doing zoom calls
+and like not meeting anyone not talking
+at any conferences
+and then after some time i was like okay
+i'm going to
+fly back to israel because there's
+nothing for me to do here
+and we fired our wonderful salesperson
+who now works at another company and
+he's amazing
+and we changed our marketing to someone
+who has more
+experience in this bottom-up sales and
+bottom-up motion
+and we're really really fortunate that
+our investment team and leadership
+team was really supportive of us and
+i met many people who looked at me and
+told me you did what
+are you crazy and
+we just couldn't not not do it this was
+like
+we felt it that this is the right way
+for us to do it
+in most companies they do growth motions
+and then they add sales on it
+so we've already proven that people want
+to pay money for it
+they need it there is a need and now
+we're working on the adoption effort
+and a month ago we launched an open
+source
+go go project that you can actually run
+on your laptop and put in your ci cd
+and every time that the developer makes
+that change
+in helm or kubernetes configuration
+that the three cli runs and scans for
+misconfigurations
+and those misconfigurations are central
+are managed in a centralized way
+through the three dashboard and then you
+can also
+mix and match and adjust the policy
+according to your organizational
+standards
+and it's it's really wonderful because
+you know after one month that we've
+launched we have dozens of companies
+and i'm just thinking you know in a
+top-down world getting dozens of
+companies it's like sending
+500 emails and cold calling and here you
+get people from the internet
+they just come in and and you work
+really on
+on crystallizing the journey and
+understanding the pain point and we had
+to remove a lot of features from
+our product in order to make it really
+really
+clear as to what is the value that they
+are getting
+and at this point you see people that
+come in
+go to the marketing website go to the
+docs install it in their computer
+play with it put it in their production
+apply to their cicd processes and and
+it's amazing
+and then we we talked to them and we're
+like hey i would love to talk to you and
+they sent scrolls of feedback
+this is great it's good this is awful
+please fix this those are the problems
+like
+amazing now we have real user feedback
+that we can use in order to improve our
+product
+right so you you can literally wake up
+in the morning and all of a sudden you
+see you have
+two new companies that have that you're
+on board today this is what happened
+today
+amazing so tell me a little bit more
+about product-led growth so as the ceo
+now
+you're leading this ship and how are you
+thinking about this product
+you know as a sort of derivative of what
+of the responses from the market
+and from the from the developers outside
+how how does your mind wrap around
+around this
+so i think that um the key aspects of
+looking at the plg
+is understanding the shift from the era
+where we used to sell software to the
+cio
+or the cso then the next shift after it
+was
+selling the software to the executives
+and now here comes the end user era
+which is the plg era you're used to
+using instagram
+you're quite uh influencer there and the
+all different apps and you used to a
+certain experience and then you come and
+you use classical
+enterprise software and you go like oh
+my god what is this
+awful bad ui bed ux doesn't work well
+and also
+like what is this and and the shift in
+plg
+is that you cater the product to the end
+user
+not to the buyer not to the executive
+not to the company
+to the user great examples of it slack
+great examples of it a twilio you
+you want to send sms you go and it is
+catered
+for the engineer to actually send the
+messages
+and when you think about
+working as plg and as a company that
+made the transition
+from a sales driven organization to plg
+you need to change the way of thinking
+from there's a customer
+and they want feature abc in order to
+close the deal
+it's the other way around we see x
+amount of companies
+we think that we can do this feature
+according to this
+their feedback and this will reduce the
+friction and
+you have to constantly reduce the
+friction
+and be data-driven i was just about to
+say it sounds like this approach is much
+more of a data-driven approach
+it's much less subjective to your sales
+ability or to the vibe that
+the other person got because you're then
+you're here you're selling a value and
+if you're go you're gonna sell it
+because they're coming to you and the
+other way around there's a lot of
+different factors that may go into them
+buying it
+and you never really know whether it's
+whether you're actually providing real
+value right
+absolutely you know when you're in a
+top-down organization and by the way i'm
+not saying that everyone should just do
+plg
+and there are no companies that need to
+do sales approach
+[Applause]
+so of course if it suits your
+your product and you need to and the
+product has to
+to cater to a very fast self
+ability to evaluate the product and if
+it brings value to you
+it has to show you the aha moment really
+really fast
+and for you to understand it and if this
+this fits your your um
+your products category then you can do
+it
+[Music]
+and i think that one of the most
+important things is to measure
+because as you said it's not like in
+top-down organization where oh we had
+three dinners i guess it's 50
+but here we actually know how many
+people come to the website how many
+people come to the docks how many people
+install it how many people use it
+how many invocations they do every day
+every week every month
+and then we sit as a leadership team and
+we look at it we go like okay
+where do we think we should optimize now
+this area
+this area this area and what do we think
+has to be done
+in order to perform those optimizations
+and by the way i gotta say
+from my my experience for example our
+engineering team
+all of a sudden they're really involved
+in the business because they see the
+numbers
+they see the data they see the influence
+of releasing new features
+fixing bugs and seeing the numbers go up
+and understanding exactly their impact
+i can imagine the you know the front-end
+engineer coming in saying that there's
+this drop in conversion between page two
+and three
+and i can i can see them you know
+staying up at night thinking why why is
+this happening maybe if i shift this
+around or if i play this experiment
+it's going to shift and and i just love
+this approach completely and it's
+you know it's almost like mixing
+together a b2c
+in a b2b world and and it's such a big
+mishmash i think
+i think it's amazing shimon we can go on
+for hours talking about a product like
+growth but i have a few questions for
+shimon
+and 20 minutes is not enough time nearly
+and i want to take it back to your
+childhood
+what fascinated you truly and it can't
+be kubernetes i already did this joke
+before and he cracked it up so he
+cracked up
+completely but what fascinated you as a
+kid really
+i think that what fascinated me as a kid
+and it still fascinated
+fascinates me today is understanding how
+things work
+and this i remember like when i was in
+fourth grade i saw my first computer
+that my parents brought and i remember
+seeing it and i was supposed to be
+asleep and then when they went to sleep
+i woke up and i and i and i looked at it
+and i started clicking all the buttons
+and opening it up and looking what's
+actually inside what is this thing
+literally opening it literally yeah yeah
+literally not not turning it on opening
+it up
+yeah it's like what is here most people
+don't do that
+for me it was natural you know and and
+this fascinates me
+how to understand how things work and
+and it's i guess it's curiosity in a way
+because i'm very very curious
+and and this leads you to also
+understanding how things work and then
+applying it in order to achieve
+greater goals for yourself so amazing
+along your journey
+some role model and a figure of
+inspiration for you either
+professionally or personally so you know
+what i think that
+what i take with me almost every day i
+would actually say
+the founders of iron source really and
+there are nine of them
+which is a lot and everyone has their
+own flavor but
+to me i would really really like would
+like to have a culture that is similar
+to it
+they have radical trust they really
+really trust in you the first day they
+give you the keys
+you also get the responsibility but you
+get all the credit and to do amazing
+things
+for me iron source was the land of
+opportunity from a developer to a team
+leader to an r d manager to a general
+manager of an in
+of a division and really to grow up
+and and for me i always try to enable
+every person in the company and to never
+say no
+in a way like you want to try something
+you want to do it you want to achieve it
+you should do it and this is the spirit
+that i got from it and they really
+inspired me when opening this company
+amazing amazing and what are three words
+or two or four that you would choose to
+describe yourself
+so i think i'm very very curious i think
+that i'm
+a very ambitious at it achieving the
+things that i really strive to get
+which by the way can also make you a bit
+tunnel vision
+which is not always so good um
+and i really really believe in karma i
+don't know if it fits in there
+but really i really believe in you know
+meeting with young entrepreneurs and
+helping them like like people helped me
+and and always you know meeting great
+people
+and trying to to help without any you
+know at the end of the day
+things will turn out good and i really
+really believe in good energy and karma
+shimon
+you

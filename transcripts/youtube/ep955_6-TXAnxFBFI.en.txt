@@ -1,0 +1,483 @@
+so our vision was to create a tool that
+would very easily integrate with all of
+the different data sources but all of
+the most common data sources bring the
+data together do what is called identity
+resolution or see that um you know
+Michael is the same Michael on the
+website and on the CLM and so on and
+then
+um allow business professionals to do
+this very deep quantitative analysis so
+with machine learning and statistical
+modeling in order to get real insights
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+foreign
+ERS I'm with Arielle geifman today
+co-founder and cro of dealtail the
+revenue science company Arielle was the
+CEO of dltel from founding until the
+acquisition by Vianney at the beginning
+of 2022 he is an avid entrepreneur and
+an expert in Tech go to market
+[Applause]
+Ariel geissman welcome to 20 minute
+leaders thank you so much for being with
+me today how are you
+[Music]
+I'm doing well Michael how are you
+doing very well now that now that we're
+speaking because today I'm gonna get to
+learn not just about your own
+entrepreneurial Journey which it looks
+quite a incredible having been in so
+many different organizations in a
+variety of different positions involving
+entrepreneurial positions consultancy
+positions marketing positions uh and so
+where we're gonna unpack a little bit
+about yourself and your journey and then
+dive into the world of Revenue Styles
+which I'm really excited to hear about
+how no code or low code Solutions can
+help different organizations around the
+world with their revenue science and
+decision-making processes Ariel tell me
+a little bit about how you perceive how
+your journey unfolded and how you found
+yourself in this world
+uh sure so um you know I was
+um I think I always had the
+entrepreneurial State all the way from
+childhood when I was I was the guy when
+you know with the um lemonade stand and
+later and you know always kind of
+dreaming to
+um you know start businesses and grow
+them and so I always
+um had the urge to do something
+um amazing
+um but
+um you know I didn't start as an
+entrepreneur I actually
+um you know started as a journalist so
+in my military service I went to uh
+Israeli military radio
+and then you know after I am graduated
+from my um bachelor's degree I went to
+uh pursue an MBA at University of
+Virginia in the states and I think there
+um like all
+um Israelis uh kind of in the same
+career path I went to do the Consulting
+gig and so I worked for a large
+consulting firm in the states and worked
+with um
+um large Enterprise customers who um you
+know were looking for you know a lot of
+quantitative advice around how to
+optimize the go to market incentive
+compensation a lot of very interesting
+projects and I think that was a real
+eye-opener towards
+um uh towards Big Business and it took
+me and I came back to Israel took me a
+little bit of time to you know gather
+gather the college needed to do my own
+thing but after a few years I started my
+own company and
+and then it was more of a consulting
+company and where I consulted to a lot
+of different startups and only after
+that I actually had the um had the
+opportunity to meet some amazing
+co-founders and style detail which was
+my first product Centric company
+tell me about dealtail Revenue science
+what is that about
+and so
+um at the intern we actually
+um as I
+um as I walked and consulted different
+organizations I've noticed that it's um
+there's kind of a theme uh that um while
+we always think that organizations are
+very data-driven especially on their go
+to market side uh the real truth is that
+um you know it's today it's very very
+challenging to actually do the analysis
+that you need in order to be successful
+and there are a few challenges in the
+space the first one is that the data is
+spread across different platforms across
+different uh Thanos so that's the
+website and that the CLM and the
+marketing Automation and then a lot of
+other tools or databases that the
+organizations use and so the data is
+spread out and and then there is another
+there's another which is the skill Gap
+because the business professionals are
+actually
+um needing this analysis or wanting to
+do this analysis are not very skilled at
+writing SQL code so it's very hard for
+them to actually bring the data and then
+unit fight and aware that would allow
+them to to get insights and they're also
+not very familiar with and you know a
+lot of the data science techniques that
+are needed in order to get from you know
+the raw data into insights so our vision
+was to create a tool that would very
+easily integrate with all of the
+different data sources but all of the
+most common data sources bring the data
+together do what is called identity
+resolution or see that um you know
+Michael is the same Michael on the
+website and on the CLM and so on and
+then
+um allow business professionals to do
+this very deep quality everyone Alex
+says or with machine learning and
+statistical modeling in order to get
+real insights and that was the vision
+and
+um
+the vision and there were a few
+pillars that were key you know to
+realize that the first one was no code
+again we wanted to go to the business
+professionals the people who
+um you know didn't know how to write
+code or didn't have time or didn't even
+want to know the second thing was to be
+able to you know do it very very quickly
+so in terms of our benchmarks we wanted
+to be up and running within a day if you
+uh if you're a little bit familiar with
+data projects usually they take months
+sometimes you know six months to a year
+in order to
+um get materialized and so we wanted to
+do it within a day and the last thing is
+to actually remove the barrier to entry
+it's also allowing smaller organizations
+to do the same type of analysis that
+large organizations can do
+um
+so at the beginning and when you
+actually start a company it's a real
+challenge because
+um you want to create something that is
+truly revolutionary in the um in this
+space
+but then you know it's uh basically four
+entrepreneurs and you know needing to
+create a tool that is takes many hours
+and I would say very long many years of
+um you know walking walking order to
+create and then you need to find some
+um ways to and to move faster and create
+an MVP that would allow you to prove
+that there is a product Market Street
+here
+what was the
+what did you learn about the consumer
+Behavior or the key insights that you've
+brought together
+as you were testing out dealtail in the
+first place
+so we learned a few things we learned
+that
+um
+companies uh organizations
+um
+you know they have a real mean
+for analytics
+um which is
+um
+you know kind of gathering the data and
+being able to drive meaningful insights
+um another thing that we learned about
+our consumers is that there is the
+challenge of maybe getting the data and
+doing the analysis and getting the
+insights but then there is another whole
+new challenge of actually doing the
+change management in order to put these
+insights into into work where you know
+they and Champion so the people doing
+the analysis then they need to go and
+spread Awards and you know make sure
+that and you know people are actually
+um able to
+um
+bring the insights and make them into
+business value
+and how do you follow through taking
+insights that you're bringing together
+through the integration of the data in
+your own algorithms how do you then how
+do you then make that leap towards the
+business value that perhaps is more
+fine-tuned to businesses or perhaps it's
+or maybe it's not it's fine-tuned as I
+think I mean well how how do you close
+that loop with the business value
+a great question so I think the um the
+key here is simplicity so maybe you're
+doing a very sophisticated analysis okay
+for example one of our attribution
+models uses a Markov chains in order to
+calculate the incremental value on and
+you know marketing campaigns and touch
+points because at the end of the day we
+need to give it to our customer in a
+very simple and understandable way for
+them to be able to take it and you know
+share it across the organization and see
+how they can actually make it work for
+them
+right and so even that process of of
+getting how did how do you how what was
+the process that you had to go through
+to take a product that you know it's
+kind of in a blue ocean there's so many
+different things that it can do and you
+can look at how do you what what steps
+did you do running the company that
+helped you both simplify not necessarily
+the algorithm the tech but to simplify
+the user experience of the ones that are
+using it
+so
+um I think as a small company one of the
+most important thing was Focus so you
+need to there are a lot of problems that
+we can solve but you need to focus on
+the one or two that are most pressing to
+your customers and that they're willing
+to pay for and that you can actually
+solve for them on in a scalable manner
+with your limited resources
+so now two things in play here first of
+all
+um you need to see that the important
+that you're solving is actually an a
+meaningful custom a meaningful problem
+for your customer but also on the other
+hand it's a problem that you as the
+entrepreneur can actually solve within
+the resources that you have at hand
+otherwise you run out of money before
+you actually solve any problems and I
+think
+um this process of you know getting more
+and more focused on the problems that
+actually matter uh was what allowed us
+to actually do and get a product to
+Market that added I think tremendous
+value to our customers very very fast
+do you remember specifically what were
+some of those key features that you've
+identified as those big those meaningful
+problems that you were focusing on and
+you knew that there were a lot of other
+things you could do but you were
+focusing on those and those are the ones
+that got the stickiness
+yes so
+um we realized that
+um there were a few so the first one was
+to actually identify
+um the customer Journey so
+um companies were very good at you know
+identifying where customers came from
+but they weren't very good at actually
+seeing the full customer Journey
+especially in cases where they had
+multiple touch points so this was a
+repaint and and then the other pain was
+actually optimizing budgets and so these
+two were pains that we identified uh
+when we were talking to customers and
+when we were showing product and and
+quickly we realized that we should be
+focusing on effort on
+delivering these Solutions and doing it
+in a way
+um very effective and very fast way
+and and what's the connecting that
+because those two things are are also uh
+quite separate naturally right but what
+is sort of the connecting line between
+them so so not necessarily so when you
+have the customer Journey then you can
+apply algorithms in order to optimize it
+so you can actually when you know what
+the customer touched all the way to
+becoming a customer you can actually say
+okay this touchpoint is important
+Another Touch point is less important so
+yeah you can actually calculate things
+like our why and allow the customer to
+optimize budgets based on nowhere every
+dollar works the hardest
+that makes sense tell me a little bit
+about your own uh your own perspective
+as an entrepreneur what did you learn
+about yourself throughout this journey
+so
+um I learned that um
+another few things so first of all I
+think that um
+you know kind of on the um
+on the personal side I really like it it
+allows you to do a lot of very
+interesting things and really the um
+the creation of a new idea and bringing
+it to life reading it to Market I think
+there's something that I really like
+about it and this is something that um
+you know has been a lot of fun we're
+kind of taking things like
+um it's like a baby you know seeing it
+from the moment that you initially
+conceive it all the way to you know
+growing up as a as a company you know
+bringing more people to
+um your vision customers and investors
+stakeholders and convincing them I think
+there's something that's you know really
+allows you to to shine uh as as person
+through this process
+um I think there's also
+um kind of in a way that um
+you know in a in a way that um what I
+see
+um making an impact myself making an
+impact I think that entrepreneurship
+allows me to
+um you know really take my core skills
+which is innovation and creative
+thinking and put it to play in a very
+um uh impactful way in order to
+um you know bring something that is is
+new and Innovative and solves people's
+problems
+are there some things that really
+surprised you about this uh about this
+process that you've gone through you
+know things that you you thought of one
+thing and all of a sudden you're facing
+this entrepreneurial journey and you
+realize that there's something that's
+dramatically different than what what
+you were expecting yourself
+um
+oh you've probably heard it before
+entrepreneurship is a roller coaster so
+um one day on top the other day you know
+you're having the worst day of your life
+um so it's always
+um you kind of expect it but when you're
+on the roller coaster it's always hard
+and it's um
+I think the um
+as an entrepreneur you have
+um
+the role of actually
+um it's myself and my co-founders you
+know doing the impossible so you know
+bringing a product to Market
+uh with very little budget uh without
+the ability to get top talents uh
+without any proof customers are asking
+who the hell are you and why shouldn't
+trust you why should we even
+um you know let it touch our data and
+employees
+um are questioning whether you're going
+to be them be there tomorrow so you have
+to overcome
+so many challenges on a daily basis and
+that you know sometimes I am I'm asking
+myself whether you know
+um I was you can actually make it but I
+think this ability to you know
+get to these challenges one by one solve
+them as you know move the company
+forward I think that's what
+differentiates good entrepreneurs with
+the ones that eventually give up
+I love it and so so just following and
+closing the loop on on sort of the
+reflective piece of the of the
+interviews looking back
+going on the next Journey let's say you
+start another company or if you were to
+go back and talk to yourself as you were
+starting it out what what are some key
+ideas that you would hold really close
+and they can be very specific they can
+be more generic or mindset related but
+what are things that really you would
+you would keep close to your heart
+so
+um before you actually launch I think
+preparation is key
+so you have to be focused and I think
+you need to be
+um dedicated as many hours as you can to
+doing research I think people have the
+perception of
+um you know you can change things as you
+go but it's much better to actually have
+the kind of the rights and or at least
+do enough research in order to have
+pretty much what you want to do uh when
+you start
+um I think that dedicating the time in
+order to do the research and doing it in
+a very slow way going out there speaking
+to customers doing mock-ups and
+understanding that
+um what you're about to deliver actually
+delivers value would save you so much
+time interesting for station later on
+that
+um you're gonna appreciate every hour
+and that you've spent on it and every
+dollar that you've spent on it and I
+think that um before you actually you
+know launch before you start the raid so
+go on a roller coaster and it's better
+to come prepared and I think this is um
+my biggest advice
+Arielle thank you so much this was a
+very enjoyable conversation both talking
+about detail and revenue science but
+also about your own personal journey and
+what drives you to detail and the ways
+that you're looking now at the journey
+that you've been going through and so
+very much appreciate your time and your
+your energy bringing here and best of
+luck with everything else that you're a
+part of and thank you very much
+thank you very much Michael

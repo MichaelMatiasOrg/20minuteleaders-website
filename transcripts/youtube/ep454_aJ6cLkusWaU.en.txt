@@ -1,0 +1,623 @@
+for us we're taking it you know 24
+7. we we're living it uh throughout the
+day and it's kind of
+it's kind of the second child we have
+three three kids
+we have a alone and then we have anima
+and now we have a area of the area so
+yeah it's one of one of the you know
+part of the family
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+welcome to the world of developers today
+we're talking with savishai cohen
+the ceo and co-founder of anema as a
+developer then team leader then
+vp rnd avishai saw again and again
+that the way we're building front-end is
+broken there's plenty of grunt work to
+automate
+that's why he started anima and designed
+to code platform
+allowing r d teams to convert designs
+into developer friendly code
+skip the boring parts and build front
+end 10 times faster avishai coin
+welcome to 20 minute leaders good
+morning
+good morning good morning happy to be
+here thanks for having me
+thank you for coming we're going to
+start off in your army days yeah
+i i usually like to start going
+backwards a little bit
+you flew an f-16 jet but there's also a
+really a
+fun story with with how you know your
+your second position in the army
+actually brought you all the way to what
+you're doing today to anema
+right right right so um
+i actually started coding as a kid um
+but then i didn't get to do it uh in the
+military i
+i joined the joined the air force um
+first i went to to cool styles to pilot
+first
+um and then i dropped after one year
+and i went to be an air traffic
+controller and
+it's a very interesting uh job you get
+to do a lot i did get to fly
+uh nf16 very exciting
+and yeah i did pluto jack on
+on course like pilot course but this was
+this was a thrill um and actually as an
+atp
+i i met my wife uh michal
+was today my my co-founder at anima uh
+so yeah it did lead me all the way here
+so we're gonna talk about uh you know
+co-founding a company with with your
+wife
+and did the two of you also go through
+the y combinator experience together
+yeah yeah so we are actually three
+co-founders uh
+after the air force we we both went to
+bercheva university
+where we met our third co-founder or or
+our bill
+and then or and i studied computer
+science and we had studied business
+school
+later on she went to shenkar became a
+product designer and or and i are more
+technical
+yeah and we so we all worked at
+different startups early on we
+we also went to to work at big bigger
+companies we
+understood very fast that it was for us
+and then we worked at different startups
+um i was
+before anima i was vpr d on a 60 percent
+startup called mobley
+and and yeah well over the years
+in different you know position we felt
+it's huge fandom it's really hard to
+build front-end
+um and ux today is super important
+um and i guess we'll talk about animal a
+lot but
+but yeah we did uh start anima on 2017
+and went to do y combinator on 2018
+uh all of us yeah it was amazing and
+so obviously you know it's not a it's
+become also almost a cliche
+or a well-known phrase you know software
+is eating the world by by andreas and
+horowitz and
+and you know the the idea of prototyping
+the
+the intersection between front design
+front-end development and backend
+development you know the
+this idea of full stack and and the
+ability for somebody to experiment
+has become so pivotal and in the life
+cycle of a startup
+that you know you're really and
+especially i'm assuming that in y
+combinator one of the things that you're
+most measured by
+is your ability to experiment as much as
+possible right i mean that's essentially
+the essence of the of this program
+right definitely definitely so
+yc was a great ride um
+we've we stayed at stanleyville uh at
+the secret conventi uh
+for six months and we lived all of us
+together uh
+oh michal and i my kid
+and orr's dog and it was pretty intense
+but it was
+really fun because we got to do what we
+love 24 7
+which is like you mentioned iterating
+the product um
+and yeah i think i think you you touched
+you know you you asked me about
+one thing like a lesson learned i think
+this is the
+the one thing that i take with me or
+maybe you know to tell people that start
+now their own startup uh to iterate as
+fast as possible and we always talk
+about mvp's
+minimum viable products but um yeah
+as faster as you iterate is as fast as
+you build something people want
+that's why he puts it yeah um
+and so anima you're actually
+facilitating that or helping facilitate
+that
+on the on the no code world for
+designers and front-end
+people tell me a little bit about this
+this pain point that you've
+you've been thinking about always since
+uh 2017 and how did you even get
+to to think through this pain point and
+and become so passionate about it
+sure so again i'm i i did multiple parts
+as a developer then team leader then vpr
+d
+and also consulted at track and
+and you see it all over you see when you
+try to deliver
+you know uh software and today
+the ux expectations are really high
+and and building front-end is a
+you're a full stack engineer uh well you
+spend
+half your time doing you know logic
+algorithms back and etc
+and then half your time pushing pixels
+so
+yeah it doesn't make any sense time
+pushing pixels
+yeah exactly so you know as
+both as an engineer and then as a leader
+you see smart people
+and their time is really expensive
+spending half their time pushing pixels
+staring at images pushing pixels and
+again you mentioned the no code the no
+code movement and the
+low code movement and this problem has
+been solved
+in worlds of no code if you're building
+a landing page
+or you know e-commerce you have webflow
+or shopify or wix
+or squarespace but then if you have an
+engineer involved
+again they stare at images
+and coding them and so we automate this
+part instead of
+sharing images designers keep working
+with tools like adobe or figma
+but then instead of sharing images they
+actually share code
+with engineers allowing them to deliver
+10 times faster
+so this is what we do um
+and yeah that's that's the gist of it so
+i understand
+one of the one of the you know it's at
+least from the way i see it you know
+you're you're taking
+you know they say this world of
+engineering and you're changing the
+the journey you're changing the the
+expectations of
+of the users and you're changing the
+life cycle of how engineers are
+interacting with designers
+and the code that they're getting when
+you're starting this out in 2017 and
+you're starting to
+to work with engineers and you're an
+engineer yourself and you've facilitated
+a lot of engineering
+how do you how do you get the feedback
+from from this new interaction
+because you're really sort of almost
+educating a new market that's
+that's a really solid point because
+everyone that starts to to solve this
+problem and we're not the first ones
+start with a weekly week tool so
+including us
+by the way um so we started we said all
+right
+we want to allow people to create really
+rich experiences
+uh and then produce code that makes
+sense for engineers not
+only for the browser um and so
+it will be the easiest if we give them
+our own environment
+and this is what we started doing uh
+and really early on people were really
+excited about it
+um but after we were released
+um they ditched it after one week
+so like you said you you go don't get to
+change people's ways
+uh that fast so really fast you realize
+you need to
+you know to embrace the way they're
+already working um and instead of
+building our own design tool
+we connected to the tools they're
+already working with so
+be it catch or figma or adobe
+we connect to this tool they already
+design
+you know the front end there and then on
+the other end
+we also don't want to tell engineers uh
+how to write the code
+so we are you know we don't have an
+opinion uh on how the code should look
+like
+an engineer tells us that they are
+working with react
+uh they're working with style components
+or not or tailwind etc
+and how do you know what set of
+conventions they want their code at
+um and that way it's easier uh
+because you don't change the way too
+fast
+right and so where does this actually
+impact in the life cycle of a startup
+because
+i imagine that at the end you know
+regardless of of
+how great the code that you manage to
+automate
+and then the code that goes into
+production is going to go through
+various cycles of code reviews and is
+going to adhere to the conventions that
+that you know you're not able to tailor
+and personalize to every specific
+company
+so where in the life cycle of the
+product development
+do you help expedite this 10x right
+so uh maybe we will zoom out about uh
+what we do we started with
+giving value to to the design team
+to the product team building the first
+plt
+prototype and now that those prototypes
+we translate figma into html react
+they can actually do crazy stuff they
+can create
+responsive designs and add videos or
+maps or any you know embed code in it
+and that's the first touch giving value
+to a single designer
+later on they share it with engineers um
+and engineers today the most of
+like most of the value they get is if
+they're building
+um new products like green field
+applications
+um yeah and and
+like to quote one of our users uh they
+got to deliver
+you know six months worth of work in a
+matter of two weeks
+so literally 10x faster
+for a new version but down the road we
+will actually integrate with your github
+and first pushing code like creating
+pull requests
+to be approved by an engineer but then
+we will actually pull your existing code
+base
+and you know embed your existing
+components
+in new code so that way it makes it the
+whole thing continues
+does that make sense right
+it does make sense and i think that what
+makes most sense to me is
+is going back to this idea of agility
+and this idea that you know even today
+we're looking at big companies
+and you know they have their their line
+of products but you know their their
+their existence is going to be limited
+if they don't continue
+iterating on new products and empowering
+teams and
+and individuals to go and create demos
+and it sounds to me that the huge added
+value here in the aha moment
+is this idea that within a large
+organization you can still
+iterate quickly and be agile and create
+mvps
+that even if you know even if that
+second step that you're talking about
+doesn't complete the cycle even that
+part of being
+able to deliver a product that one can
+actually experiment with and even
+you know potentially work with users and
+show users within a matter of weeks
+that's pretty amazing thanks
+we chat with paul graham uh practicing
+the pitch
+and one of the things that he mentioned
+that we we should uh
+realize or emphasized is that
+product market fit isn't binary here we
+first
+we well it's it's gradual so
+if the pi and you first give value to
+the most basic use cases
+and designers are really happy about
+anima today they get huge value out of
+it
+and today we focus on r d teams that are
+building new products
+and they are getting really excited
+about it and down the road it will be
+more and more complex
+use cases if that makes sense no that
+does make a lot of sense now
+talk to me a little bit about you know
+this idea of co-founding a company with
+it with the friend and the wife
+oh how does that work you've been you've
+been doing this i guess for
+three four years now yeah yeah how how
+how does that how does that even work so
+it works great
+for us at least people some people uh uh
+look at milan like uh look at that like
+we're crazy but uh
+for us um you know it's something we
+both
+are really excited about and mikhail
+coming from the
+the design world me coming from the
+technical world
+um and so for us we're taking it
+you know 24 7. we're living it
+uh throughout the day and it's kind of
+it's kind of the second child we have
+three
+three kids we have a alone and then we
+have anima
+and now we have a area of the area so
+yeah it's one of one of the you know
+part of the family
+i i love that and so you know when
+you're when you
+as you're you know co-founding obviously
+there's going to be some
+not not conflicts but there's going to
+be disagreements on on vision or or
+how the product should look or how the
+pitch should look or how much money to
+raise and the strategy and the vision
+how are you able to separate that from
+you know the the life that comes after
+work
+yeah so actually um i was speaking with
+the founders of
+honeybook they're also a married couple
+um
+and they told me um that
+the thing the the interesting thing is
+you always have conflict of conflict
+with co-founders
+right um and you have different opinions
+and then
+when you're a married couple you have to
+make it work because
+you you spend the you know you don't
+break it so fast
+it's easier for you know for uh
+co-founders to split but not for a
+married couple so
+you're together in it no matter what
+uh and also to be honest or is also like
+family we we all go back
+more than i don't know 14 years now uh
+a good friend so yeah we're family by
+now
+i i love that analogy i especially know
+that
+i i don't know the recent statistic i
+think it was the 35
+of of uh of early stage companies
+uh closed because of founder
+disagreements the founders split
+uh well here it's not it's not that
+simple exactly i guess it's
+i which is exactly what you're saying so
+maybe it's actually an advantage so
+maybe we should start looking at more
+companies funded by couples well it's
+been working for some of
+us yeah yeah
+what has been the most the most exciting
+for you
+throughout this journey the past four
+years you've you've done quite a few
+you know meaningful positions in various
+organizations
+as you're now running this company what
+has really been the most exciting part
+for you
+so we started animating the bootstrap
+company uh
+we haven't mentioned it by now but we've
+been iterating a lot
+on the product before you know before we
+found red
+and so i think the most exciting point
+was
+after iterations and iterations was
+you know when it all blew up so we
+released the first version
+our own design tool uh which was the
+spaceship
+not an mvp at all and so
+we had to iterate really fast and take
+only the parts that people liked about
+it
+iterated iterated and then at one point
+we when we allowed design we took one
+feature we allowed the designers to
+create responsive designs
+uh with the existing design tools uh
+again because we translate it into code
+if portable
+so so then we published it on product
+huh and it went viral
+and then like this was you know
+building a startup in the rollercoaster
+this was one of the most exciting parts
+seeing it blew up um and it leveraged
+you know the whole growth came
+afterwards
+um and yeah we we iterated of course
+a bit more than we did y combinator and
+then we actually
+was cash flow positive uh a year and a
+half ago at the bootstrap company
+wow yeah really exciting uh and at this
+point we
+we had to think hard if we want to
+involve uh
+investors or not uh but then
+it's a huge space and we need to you
+know we need to go
+as fast as possible so we decided to
+raise funds
+and we grew the team from four people to
+20 today
+um and yeah it's wow it's been really
+exciting also by the way we grew up a
+lot during
+during coverage which was also a crazy
+you know crazy experience um
+yeah i love that we do happy hours no
+very
+we long yeah we basically grew from four
+people
+like three co-founders and the first
+employee
+uh pablo uh into twenty so
+almost everyone was there all during the
+during the yeah yeah
+wow yeah and we're we're a hybrid
+company
+like most of us are in israel today but
+we have people all over
+from barcelona to morocco to uh
+portugal and california we're all over
+incredible incredible avishai it sounds
+like you're doing really
+really fascinating work and then the
+story behind it is is is no less
+fascinating and so
+and best of luck with anime thank you so
+much and i have a few fun
+all right before we end we'll start off
+easy
+favorite subject in middle school or
+high school all right so
+i did mention that i loved computer
+science early on
+but i actually didn't study it in high
+school
+i i did it you know on my own so
+i studied electronics and physics and
+the number one would be physics
+because of the feature it was super
+interesting uh and and
+you know a brilliant person that passed
+it and
+physics is the the number one pick for
+me
+wonderful and er one of your role models
+somebody that inspires you
+so i know that people are saying it a
+lot but
+those would be my my both parents uh
+who are also entrepreneurs uh build
+their own business it's not
+intact but they build their own business
+uh
+multiple businesses and today their
+gurus
+in their own fields um have their own
+huge business
+[Music]
+so my parents and what are
+three words that you would use to
+describe yourself
+all right so uh one would be family
+like i'm a family guy uh and first the
+father
+and the husband and uh you know
+and we're very we're very close to the
+family
+um and and that
+that's really one second would be um
+well well i chose software because
+i love software uh like building it but
+what is the name of that you mentioned
+software is eating the world
+and all of our especially uncovered we
+we've seen that
+we our lives transferred into the
+virtual space
+and it's it's amazing and i think the
+potential is huge and
+and i just love it and that's the reason
+for what we like
+that we're doing what we're doing we're
+enabling teams to create it
+better a better virtual world
+so i have family i have software and i
+need one more one more
+so actually i chose
+traveling so before covet hit
+and maybe also before anima mikhail and
+i
+going back from
+back to from the air force we got to
+travel a lot so
+i think we traveled over you know if you
+accumulated
+over two years uh in south america
+middle
+and central america and on the in the
+east we did
+uh united states europe so we love to
+travel
+yeah this was wonderful best of luck
+with anima thank you so much
+continue helping companies be more agile
+and the designers and developers and
+everybody in between
+it sounds like a it sounds like you're
+doing really great stuff thank you for
+sharing
+your journey thank you so much for the
+opportunity likewise bye-bye

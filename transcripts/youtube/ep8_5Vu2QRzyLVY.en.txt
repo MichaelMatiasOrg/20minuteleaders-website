@@ -1,0 +1,629 @@
+[Music]
+foreign
+cliff weitzman how are you
+i'm very very well i'm excited to be
+here with you how are you my man thank
+you for joining me in these crazy crazy
+times are you safe and healthy i am self
+safe and healthy up in uh northern
+california wonderful
+um yeah riding out the self isolation
+with my family so
+finding the silver lining finding the
+silver let's talk in a few months and
+see the silver line
+all right so we met on and off over the
+years
+i've been um i've been a fan for many
+years
+and i just want to go back to your
+childhood
+because i just love it's one of the
+stories that i love most uh
+way before brown way before speechify
+you have dyslexia
+you're very open about it you wrote a
+lot about it
+tell me what is it like growing up with
+dyslexia and the challenges it brings
+sure so um so i grew up in israel
+and i moved to the us when i was 13.
+yeah
+um and when i was in preschool i was
+like the most precocious kid
+that they could be i was in all the
+school plays
+i was like dancing i was writing songs
+um and
+then in first grade i couldn't figure
+out how to read
+in second grade i couldn't figure it out
+either and in third grade i couldn't
+figure it out either
+and um i really wanted my parents to be
+proud of me
+and especially my dad and they really
+valued education
+and so i did too but no matter how hard
+i tried i couldn't get this whole
+reading thing to work
+and my teachers started to think that i
+was slow or or lazy
+and i didn't think i was either one of
+those things i thought i was awesome
+i just needed to figure out how to make
+the outside world realize this about me
+and i um
+just started practicing really hard to
+try and figure out how to read
+and i guess to the point where i could
+read well enough but not
+um you know the average reading speed in
+the united states is 200 words per
+minute so i got to roughly that speed
+and though that speed is average it is
+not adequate
+if you reach a that average reading
+speed you're not going to be an avid
+reader and you're not going to like love
+books and while reading
+but eventually i found audiobooks and
+initially what happened
+is i really wanted to read this one book
+um harry potter
+and no matter how hard i tried i
+couldn't figure it out so my dad
+actually took pity on me and he sat with
+me in my bed
+and he read this book to me and i loved
+it so much that he started
+recording himself in a cassette tape and
+he would walk
+and i would walk around the house later
+listening to the harry potter in hebrew
+and right before we moved to the u.s we
+found an audiobook with harry potter in
+english and so my dad got that from me
+and i started listening to that
+audiobook
+but i did not speak english at the time
+but i knew the story really well
+and i listened to harry potter and the
+social stone 22 times in a row in
+english and that's how i learned english
+and so when i first moved to the states
+i had a british accent aloha more was my
+first vocabulary word
+sadly i lost the accent um but
+from that experience i fell in love with
+audiobooks so i listen to two audiobooks
+a week
+every week and i've gone for about 15
+years
+um so more than 100 books a year and
+when i started college i realized that
+most
+textbooks didn't have an audiobook right
+most wikipedia
+pages didn't have an don't audiobook
+audio books yeah my emails essays i
+wrote
+the majority of things that we read
+don't have audiobooks
+and so i started using text to speech
+and
+yeah that changed my life too because i
+was
+a and there was no good text-to-speech
+software at the time
+and so i cobbled something together that
+worked much better than the existing um
+things i remember that robotic
+text-to-speech that
+windows has right where it's like the
+robot you insert a sentence and it reads
+it out in a very monotone way
+i think the office made a joke with it
+yeah yeah exactly he's like i i'll
+compute dirt i can talk to you
+and the big problem is you can't easily
+enter text into that like if you have a
+physical handout right you can't speech
+on that yeah you can't change the speed
+you can't play and pause
+yeah um and so i built this software for
+my computer it let me highlight the
+text click the keyboard shortcut and it
+would start to read it to me i built an
+iphone app let me scan physical
+textbooks and physical handouts
+and it would read that too and then i
+built a news integration into this
+feature file that would actually scrape
+the internet
+and i could just open the app and it
+will read anything i want um and
+did it using deep learning um to create
+really high quality voices really high
+quality optical character recognition
+at ocr um really high quality nlp
+and it was amazing it didn't matter that
+i was dyslexic from that point on
+and so i actually went on to i founded
+the renewable energy engineering major
+at brown
+and i built about 36 products when i was
+in undergrad uh
+because i didn't need to spend my time
+doing homework um i would
+long board to breakfast while listening
+to my book eat breakfast for listings
+for my book
+um like work out show up in class and i
+already knew everything because i
+listened to the reading while most of
+the people
+um and with that spare time i just
+started companies so
+so cliff let's go back because you know
+people are saying some people are visual
+learners some are listeners
+some are are you know you have to you
+have to do something
+active so are you do you have a gift of
+being able to learn
+uh through listening very very well and
+is this
+or or do you believe that just it's a
+capacity that everybody has because you
+know for me it's still
+a little difficult focusing while an
+audiobook is running
+i find myself drifting off and all of a
+sudden i'm 20 minutes in and i have no
+idea where i left off
+so if you look at it right we've been
+listening
+for 150 000 years we've been reading for
+only about four thousand
+and evolution doesn't move that quickly
+when you start elementary school
+no one expects you to read fast and no
+one expects you to have high reading
+comprehension in fact we expect it to
+take a decade because before you become
+a good reader
+and listening is the same way just
+slightly less extreme
+so when you first listen to an audiobook
+you're still not good at listening you
+have to practice
+and so what we find for people who use
+speechify is they improve over time when
+i started listening to those harry
+potter audiobooks in
+english i didn't even speak the language
+so i wasn't listening at the 1x speed
+i was listening at 50 xp and then 0.75 x
+speed yeah the first couple of times
+and then when i speed and then it was
+natural for me to go to 1.25
+and so i know many people who had the
+same experience
+for when they started it starts at 1.75
+and then 1x and then 1.25 and 1.5 and 2x
+and here's what will always happen
+it takes about 10 audiobooks but on the
+11th audiobook
+you'll get to the point where you have
+now learned this mechanism
+and so retention goes up ability to
+listen faster goes up
+ability to multitask and do other things
+while your listening goes up
+and comprehension goes up and so for
+most people
+if you start your first audiobook you
+can't expect yourself to be able to
+drive and listen yeah or listening to xp
+and listen
+it's something that you have to practice
+now like most things in life there's
+predisposition
+so i'm predisposed to not being very
+good at doing uh the visual comp
+um what is called decoding of words yeah
+um therefore i compensate by being good
+at listening
+um and so there is a segment of the
+population that is naturally better at
+listening and a segment of the
+population that is naturally better
+your senses are heightened in one
+direction to compensate for another
+makes
+perfect i have many friends who are
+exceptional
+as visual learning my friend max can sit
+in one sitting finish an entire book in
+two hours
+but max consumes ninety percent of his
+information the audiobooks
+because he also practices listening
+because we were really good friends
+and he got into this and so he listens
+to nearly as many audiobooks as i do per
+year
+um and it's just the case that because
+when you listen
+you have two hours of passive time every
+single day when you're on the toilet
+you're brushing your teeth you're
+cleaning your room you're eating dinner
+you're driving to work and in that time
+you can listen
+yeah but you have to make dedicated time
+in order to read
+and that's really hard um and so it is
+important to be able to do
+both um and so that's my experience so
+for anyone who says oh i'm not an
+auditory learner well first of all
+that's fine but you have to listen to
+books or read books at least consume
+books in any way you want
+right but for me after my parents the
+number one thing that's most impacted in
+my life
+is books and i attribute so much of who
+i am and what i've been able to
+accomplish at my age
+to that so that's fine if you're not an
+author learner
+fine but you need to be reading at least
+like five books a month
+if you're not reading five books a month
+then you can't knock it you need to go
+practice
+listening as well totally okay so you're
+so you started a company called
+speechify
+talk to me about the talk to me about
+the growth where is it at now
+and what what some of your responses
+because at the end of the day if you go
+on your website
+and the first thing you do is you hear
+your voice reading a book
+right which is i think genius and
+and one of the amazing things that you
+can actually use this app
+to not only read audio books but you can
+read anything that your heart desires
+from emails texts
+to articles to physical handouts that he
+just scanned
+and he showed me how in two seconds you
+can scan 10 pages
+and have it read to you even in cliff's
+voice and
+so so talk to me a little bit about what
+you've seen and what what what have you
+learned
+about this this consumer behavior
+around listening yeah so right when i
+was in college i built like 36 different
+things
+in a bunch of different categories yeah
+skateboard breaks biotech supplements
+payments companies websites apps etc
+and when i was about to graduate i did
+this experiment with myself and i was
+like if it's a billionaire right now
+what would i want to work on yeah and
+the conclusion was i want to solve this
+lesson
+and so i took this product pretty
+seriously and we could talk later about
+how it came to be and how it got product
+market fit
+um but essentially it does exactly what
+you describe
+you can scan anything you can upload
+material um you can change the speed it
+has an automatic speed ramping algorithm
+that improves your speed over time
+and so speaking right now yeah so by the
+way what speed do you listen to now how
+many words per minute
+when i when i listen if i'm doing it on
+my computer i listen at
+750 to 800 words per minute so the
+average
+reading space is 800 words a minute 800
+right where the average reading is 200
+words a minute it's 200. so i listen
+four times faster than most people read
+um but that's what i'm reading on my
+computer
+and if let's say you send me an email
+i'm following with my eyes as i'm
+listening with my ears
+and that's reading in order to respond
+it's not reading for pleasure or
+for uh long term so it's dedicated
+concentrated reading
+dedicated concentrated reading and i'm
+getting the email from you it is in
+context
+and then i immediately responded if i'm
+walking around and i'm driving i listen
+at like 550.
+um and so that's the equivalent if you
+listen to like podcast
+at like 1.256 that's like listening to a
+podcast or an audiobook at 3x speed
+that's what my like
+pleasure listening is um and and the
+specified will coach you to do this so
+what we find is usually
+people when they start speechify they'll
+listen to 230 words per minute
+and a month in they'll be at 300. and
+two months in they'll be at like 350.
+really that it's that fast yeah
+it is like a logarithmic logarithmic uh
+it's awesome um and
+here's a couple of things that were not
+obvious to us uh that we learned over
+time number one
+you can practice listening and as you
+practice listening your speed improves
+yeah number two the reasons why people
+were not using texas teeth before is
+number
+one the voices were so mechanical that
+it turned people off
+and so what we did is we focused on a
+group of people that did not
+care about the quality of the voices
+people with dyslexia
+apd low vision concussions the people
+like me
+reading is a hair on fire problem and so
+if you can solve it in any way possible
+they'll put up with anything and so we
+just build by far
+the best solution for like speech that
+exists in the world um and that's why we
+just had
+tremendous amounts of adoption so people
+listen to billions billions of words on
+speechify every month
+um and we get like 20 messages a week
+but people will tell me hey i down i saw
+your app i downloaded it i started
+crying yeah
+i see that yeah you have these reviews
+on the app store it's crazy
+um i don't know i don't know many app
+reviews that
+that have the sentence i started crying
+when i discovered this
+yeah um and
+it's interesting too because um yeah no
+it for for us it's like
+it's the coolest thing in the world and
+so we ended up building a very strong
+team around us so now
+we're 30 engineers and we're actually a
+distributed team we're all around the
+world
+um and so we worked really uh we weren't
+very affected by the situation we have
+right now and i can go later about uh
+about how hiring works this future but
+now it's feature files we actually
+recently started to do news within the
+app
+and so within uh two weeks of doing news
+we're now
+uh ranked the number four app in the
+magazine
+uh newspapers category of the app store
+oh my god
+and number four number four yeah we're
+above the wall street journal and above
+uh washington post okay yeah
+wow insane wait cliff you know i
+have to do i have to take a a diversion
+here because you're one of the most
+accessible people that i know in terms
+of response time
+and willingness to help willingness to
+collaborate at the same time you're one
+of the busiest people that i know
+how how do you how does that happen how
+are you so responsive
+how do you how do you make yourself how
+do you characterize yourself as a
+persona that
+as a person that people want to be
+around because i want to learn from that
+so when i was finishing school i wrote
+this paper
+it was 30 page paper about my world
+views and
+it started with a summary of my
+childhood and then it ended up at the
+conclusion of like
+what i believe uh there are things that
+i believe that other people don't
+believe
+and so i made it into like a 20 bullet
+point list and
+really i concluded that i was shaped uh
+by
+being very lucky to be born to the
+family that i'm part of so my siblings
+my parents et cetera
+my experience overcoming dyslexia uh all
+the books that i read
+listen to speechify and um the fact that
+i have a tremendous bias towards action
+uh i'm the type of person that always
+raises his hand in class i think that
+like at least
+fifty percent of the time if i'm in the
+audience or like ten thousand people in
+the audience the cool person i was on
+stage
+i somehow end up on the stage um if i
+have an idea i just immediately
+go and do it and so i get to like
+reality check myself a lot
+um and one of those principles that i
+realized over time
+is if i have the opportunity to
+significantly improve someone else's
+life
+with a short period of time do it yeah
+um and it takes very little effort
+for me to do that because number one i
+just have a lot of energy in general
+um so i don't sleep as much as most
+people do uh number two
+if i'm interacting with other human
+beings boom it's like i have like three
+extra engines that take into power um
+and so that makes it easy for me and so
+and i'd rather do something now than do
+something later yeah and i have this
+philosophy and i
+developed it in college that when i have
+a cool idea
+ride that initial wave as fast as you
+can and so you message me hey let's see
+the signals are great how about this
+time
+this is another rule which is never ever
+ever if you're trying to set a time ask
+the other person
+uh if they're like oh would you want to
+do this yeah sure
+what time do you want to do it no
+you just wasted everybody's
+time
+always responds with absolutely how
+about this time this day at this time
+you always have to suggest the dates and
+like two available times of the days
+um and if you don't in my book it's rude
+um
+yeah and so if i have the opportunity to
+help people i do
+and usually it's in the form of helping
+other people um
+develop new habits or look oh habits or
+learn new information
+yeah and no because you know i think
+it's just
+in the in the age that we're in now
+everything is so online and
+and sometimes i just it's i find it
+incredible how there are some people
+that are online and they're so
+responsive and you know how busy they
+are and you know that they're doing a
+million other things but they still find
+a way to be very responsive
+and you know one of my personal mentors
+dana really he
+he's i know him for any time i'll send
+him something within 20 minutes i have a
+response
+and it blows my mind how can i get a
+response that quickly from one of the
+busiest people in the world
+and my dad told me when i was young if
+you want some if you want
+something done give it to the busiest
+person in the room and
+so that's that's something that i've
+been trying to adopt myself and thinking
+okay if there's something that i can get
+done within two minutes
+then i just do it now i don't delay it i
+don't write it down
+because just writing it down to do will
+take me about as much time as just doing
+it
+and and i definitely get a lot of
+inspiration from the way that you
+that you deal with everything around you
+and and how proactive you are in doing
+these things
+a cliff you have to go back to helping
+uh helping dyslexic people
+learn and and be and be successful in
+the world
+but before that i need three words that
+describe you
+so many people are familiar with the
+idea of iq intelligent quotients
+intelligence quotient eq emotional
+intelligence
+there's a third one that most people
+don't know about which is aq adversity
+quotient so adversity quotient is the
+measure of how good you are
+when faced with an insurmountable
+insurmountable challenge
+um if you look at the population people
+with alexia in the world
+about half the people in prisons have
+dyslexia
+and forty percent of billionaires have
+suffered wait half the people in prisons
+have dyslexia
+um because that's what happens what
+happens is when you're young
+if you're seven years old and you fail
+the one thing you're supposed to be good
+at
+um eventually you end up stopping out of
+school
+um unless you have this gigantic motor
+inside of you
+then when everybody else tells you
+you're lazy you're stupid
+you're a failure wow i'm awesome
+you just don't know it yet and then you
+work your butt off to make sure that
+everybody understands them
+um and so once you build that internal
+clock inside of you
+um that feeds your confidence and
+gives you perseverance to that degree
+you're unstoppable
+and so it's almost like trial by fire at
+a very young age
+so the first one is i'm a person who
+just has super high
+adversity portion
+the second one is i would either say
+like confidence or charismatic
+um and that's also something that's like
+cultivated over time and you know what
+books have been super helpful for that
+um i highly recommend how to win friends
+by dale carnegie yeah
+um and the third one
+part of me wants to be like
+intellectually curious or like
+introspective but actually kind-hearted
+is more important
+so kind-hearted would be the third one i
+love it
+cliff thank you so much this was this
+was a pleasure

@@ -1,0 +1,663 @@
+and these companies are now worth each
+over 30 billion dollars
+where what they're doing is
+fundamentally providing a solution you
+just
+put in your own system hey developers
+you need a payment solution for your app
+stripe makes it easy you can handle sms
+messaging
+video chat twilio has apis for that
+jeremy glasenberg thank you for joining
+me on 20 minute leaders how are you
+i am doing well how are you doing i i'm
+great are you ready to talk about apis
+developers developer relations
+always in i am extremely excited
+i've been talking to quite a few you
+know technology enthusiasts
+entrepreneurs investors about all sorts
+of different customers in different
+markets
+i'm excited to dive deep now into the
+developer market and what it means to
+build
+products that developers love what do
+apis mean
+not just on a technical level but also
+you know historically how have they
+shaped our use of technology and
+creating a more integrated world but
+before all that jeremy tell me a little
+bit about yourself and
+and throw in there a little bit about
+you know being the mascot for
+firefox i think that would be
+fascinating oh right that little
+side side item all right well yeah high
+level been uh doing the product
+management thing for a little over 12
+years now
+um with a specialty and uh it's kind of
+irrational obsession
+with uh with apis and developer
+experiences
+uh what i'm most well known for is is
+box i was
+basically the first hire for their
+developer platform as a pm
+and basically over time built out
+everything necessary there to
+get a developer ecosystem going i've
+also built out a developer platform over
+at a trade shift that's the other
+unicorn company i'm allowed to talk
+about
+as a consultant i've helped so several
+other now unicorn companies
+uh either build and launch or redesign
+re-implement and relaunch their their
+apis
+we're working really in a range of
+industries enterprise software education
+software drones even the private space
+industry
+it's a nice thing about working on apis
+you really just can
+can help out many many spaces so
+the firefox mascot how did you even get
+involved with firefox mozilla
+and and what what did you end up with
+the mascot yeah um
+and if you want the full story i
+actually interviewed at mozilla while in
+grad school
+uh got got rejected um
+i kind of i accepted the the decision
+because at the time i had very little
+work experience and that that was the
+concern but i just
+really liked the people i met i got i
+learned a lot about their
+open source community and i want to get
+involved afterwards
+and uh and so i did that actually was a
+great story of overall just
+how you know just you know karma can
+really help out with your career because
+at one point they were interested
+in hiring me again and at the time i
+wasn't about to leave the startup i was
+at
+so they understood i was genuinely just
+helping them out because i want to help
+them out
+but the recruiters who remember that
+actually went on to become talent
+partners at vc firms
+so my time at mozilla unintentionally
+helped me out
+over over the course of my career but
+the firefox mascot
+at one point i was invited to i think it
+was firefox's fifth birthday party
+and uh whoever was supposed to be in the
+costume
+basically got overheated so someone
+asked if i was uh
+willing to help out and uh you know sent
+me the photo long story short and
+firefox is one wild guy
+i i love that i completely love that
+jeremy
+you mentioned that you have this weird
+obsession and passion for api
+so before we talk about you know the
+history of apis and how critical they
+are to our
+to our you know developer economy today
+tell me a little bit about what apis are
+you know even for the people that may be
+non-technical listening to this
+yeah and i have to emphasize that my my
+focus has been mostly
+on web apis but apis
+application programming interfaces
+they're basically a way of letting
+different programs talk to each other
+in the web what that can mean for the
+semi-technical folk is you when you go
+to a browser
+and you're going to google.com you're
+going to get back some html javascript
+some stuff that tells chrome this is
+what to show to the user
+in an api we're just returning we used
+to return xml
+now we're returning json but it's a
+format that basically tells
+another program what's going on
+so it's just a way of letting apps
+interact with each other
+more than the users having their direct
+interactions that allow some
+more automated operations to happen in
+the background
+and as we've seen in the use cases a lot
+of companies basically
+enabling more for their customers than
+they ever could
+by by partnering with other experts by
+partnering with other services
+right so tell me a little bit about what
+opportunities this opens up because
+because you know if we're looking at the
+world until let's say 1970 1980 even
+before the internet
+every company technology company needed
+to build its own on-premise technology
+that serves itself right
+what has this communication and
+integration
+what opportunities has this opened up
+for the world well you know we've seen
+before the days of the internet
+the benefits of opening up your
+operating system that was you know the
+big thing for for microsoft windows
+and they said we're gonna let anyone
+write apps on top of our software
+we're gonna be cross-platform we're
+gonna be open to others to to build and
+write apps
+and uh what happens there is then you
+enable much more functionality for
+for your users there are many other use
+cases for apis though
+but if we get into your web apis uh when
+i joined box
+back in in we actually had several value
+propositions
+for the the apis uh box is on its
+simplicity it's way to upload files
+download files do other stuff good too
+it's basically it's an online
+content management collaboration
+solution
+boxes marketing team is going to hate me
+for saying this but many will say we're
+the enterprise version of dropbox
+but basically we had actually three key
+value points for our apis
+one was having our apis as a feature
+solution
+for channel partners so it could be a
+mobile app that needed to get content on
+and off
+of their application or utilize sharing
+functionality
+and so through our apis they could
+enable that if they just let their users
+connect with box
+so we were a feature benefit and then
+those sort of partners could bring us
+new users item two was then
+we had customers coming in asking do you
+have
+this capability and maybe we didn't
+maybe we weren't even going to build it
+because it was either one off or was
+going to be too difficult
+but hey can somebody else do it and we
+would find someone else who could
+provide a solution help us close these
+300 400 000 plus deals
+and then number three was where our
+customers had their own infrastructure
+their own internal network and they want
+to connect their existing internal
+software with what we had a box to
+further automate the experience
+so very often it's uh it's for internal
+tools there are
+many many value points for a developer
+platform many ways to
+to monetize john muster who's the
+founder of programmable web he
+regularly gave a talk at this conference
+glucon
+we would highlight all of the new ways
+of monetization and his
+just diagram keep getting bigger and
+bigger every year
+um but among others we could talk about
+you know a box
+box was a customer facing product with a
+complimentary platform
+what we're seeing now are stripes and
+twilios and these companies where the
+core
+product is an api and these companies
+are now worth each over 30
+billion dollars or what they're doing is
+fundamentally providing a solution you
+just put in your own system
+hey developers you need a payment
+solution for your app
+stripe makes it easy you can handle sms
+messaging
+video chat twilio has apis for that
+right so what i'm hearing for you jeremy
+is that one of the biggest shifts that
+we've seen
+especially in the last 10 years is
+companies understanding there are these
+software
+needs that a lot of different
+organizations have these
+needs are quite complicated convoluted
+and and they cost quite a lot of money
+to maintain and make sure that they're
+really scalable and
+and secure as well so if we can provide
+those solutions
+in the form of an of a web api then
+others around the world can then just
+license it from us and enjoy them
+where are we headed with this
+integration are we just opening
+ourselves up to
+you know an explosion of a marketplace
+where do you see
+the world of apis moving you know when
+it comes to marketplaces i happen to
+actually teach
+a course on that and this isn't to
+advertise let's give a disclaimer that
+course is two and a half hours long
+so uh that's a whole other other topic
+but marketplace has certainly come up in
+the world of apis at marketplaces
+salesforce's app exchange
+and that's one business model where apis
+come up
+um in general i like to just at the
+highest level categorize the businesses
+by
+those companies that have a core
+customer consumer facing product
+with a complementary platform and the
+stripes in the twilios of the world
+where the platform is the product
+and also api tooling now
+for any of these marketplaces
+come up api tooling by the way is more
+when you're actually building an api
+there are these tools to help you build
+the api and that's been trending very
+well over the past
+few years but among the trends we've
+seen were
+in category a many companies whose
+business model are
+very much dependent on having those apis
+at some companies it's 30 percent of the
+revenue and other companies it's 99
+of the revenue requires the the api as
+an enterprise tech
+it may not be fundamentally enabling a
+company but they need it for every deal
+they're closing
+um and if and when it comes to the api's
+only companies
+you know we've seen multiple decacorns
+30 billion
+plus companies forming the last few
+years and so
+you know we only anticipate more of that
+many vcs have spoken with me about that
+and
+yes i anticipate more of that right and
+all the while there have been these um
+you know hipsters in api world who were
+trying to whip up these solutions to
+make it easier
+and that's the trend i like to talk
+about of the general trends and
+expectations and product quality what it
+takes to actually build apis today
+um but the api tooling space has really
+taken off in the last couple years
+we're just starting to see some unicorns
+it's not as big
+as the you know api's core companies
+but the tooling space is is doing well
+as the demand for apis rise as the
+expectations the standards now um
+for developers they're expecting better
+standards for their apis
+and then they need to be able to build a
+good api as well that's coming up more
+and more so we are seeing more demand in
+the api tooling space
+so tell me a little bit you know give me
+a broad understanding of what is this
+tooling space that that you're talking
+about what does it mean to to an api
+tool for those api centered companies
+so at its core there's usually the api
+gateway it's basically when you're
+building and ready to launch an
+api there's this tool to help you manage
+the api
+it sits the front it takes in those api
+requests
+and it can filter for you it can handle
+ddos attacks
+it can handle rate limiting or maybe an
+app that didn't have any malicious
+intent
+is just doing something wrong they're
+making too many calls and maybe can
+catch some errors for you
+but beyond that there are these other
+tools to help you with the design of the
+apis
+and the developer community aspect
+itself
+it goes to what i call the api product
+lifecycle
+and uh let me know if i'm going off
+topic here but something always
+emphasizes when it comes to no no this
+is fantastic
+and this applies for tooling for api
+only companies
+for anything when you're working on an
+api i've seen a lot of success
+i've also seen many spectacular failures
+and the number one reason for failures
+are when these companies
+get the idea of if you build it they
+will come
+which we know doesn't work anywhere else
+in product management for but for
+whatever reason that's still lingering
+in the world of apis uh and
+and by the way as a chicago one i have
+to note if so the movie where this
+actually comes from
+a field of dreams uh what actually
+happens is they build this
+uh a baseball field that attracts the
+ghosts
+of the chicago white sox players who
+took a bribe to throw a world series
+when you think about it even in the
+movie where this comes from they didn't
+really attract the kind of customers you
+want
+but sometimes they think it's by
+developers for developers so
+the business spoken so let's just throw
+this problem at the engineers and the
+engineers are saying like
+what do we do i mean we have some
+internal apis let's slap some
+documentation on that we don't really
+know what we're doing here
+and they start and that's where you come
+in right that's where we come in and so
+what i encourage
+is the api product life cycle and
+something very interesting is happening
+is uh there's this trend of encouraging
+api standards
+making it easier to design certain
+consistent quality apis
+and some of the tools originally were
+helpful for developers who are whipping
+up internal apis
+but now it's about supporting the api
+product cycle which i should
+clarify it's basically treat this like a
+product problem
+it's just that your customers happen to
+be developers
+so and what does that mean jeremy
+because i think that's an important
+distinction because
+there's very different in i think that
+first of all obviously developers we are
+a
+special kind of species and we have
+different expectations and we absorb and
+we
+give feedback in a different way what
+does that mean to have
+to have developers as your primary
+customer so
+let's take box as an example this is a
+company
+where we had a core customer facing
+product and then
+the apis were for partners various types
+of partners
+okay well who are the partners we're
+going to be working with
+what are the sort of apps they're going
+to build how do we make it as
+easy as possible for them to build those
+apps
+sometimes it's in the design of your
+apis sometimes it's the
+it's in the additional tooling of the
+apis
+around the apis uh for instance over a
+box we found that there are many
+um web services who just want to let
+their users move a file in their web
+service over the box
+rather than having to download it to
+their desktop and then uploading it to
+box
+now in order to do this with a basic api
+that says you can upload files
+you can get a user's you know folder
+structure and display that to the user
+you can handle authentication
+it would still take a decent number of
+api calls to do this
+but we saw enough companies doing the
+same thing so we figured can we just
+make it easier for them
+do we give them a script in their case
+we actually had at one point just a url
+box.com import uh you put that
+link in front of the download link and
+it would just send the user over to box
+we would authenticate the user
+and let them you know pick a folder and
+upload for them so we just made their
+lives easier
+as another example i once worked in in
+the supply chain in invoicing
+and this was a company that in principle
+was apis first eat your own dog food
+also restful i shouldn't shoot too much
+detail around that but rest is basically
+a
+common standard for way to design
+structured scalable apis well
+and they had all of that and they had
+this elegant api that didn't fit for
+their use cases
+in say the world of invoicing it should
+take
+you one have one api call say create an
+invoice it took five api calls
+um because you can apply these standards
+of rest and everything else
+but if you're not thinking through what
+are the sort of apps that are gonna be
+built what are they trying to do
+and then make it easier you're not going
+to have a good developer experience
+so it starts with understanding your
+developers knowing the kind of things
+they're going to do and then designing
+your apis
+according to use case then implementing
+the apis
+and that's really where the product side
+of things comes about right that's where
+you're
+you're saying that it's not just you
+know take whatever existing apis we have
+let's slap
+slap on some you know documentation on
+them and just release them it's really
+understand
+putting that putting it as a product
+facing a agenda
+understanding what at the end of the
+primary use cases and
+is our do our api satisfy those
+product requirements that our users
+actually want they obviously don't want
+to call those
+five apis to get to their end result
+they want to call this one restful api
+right
+yeah and you have known the twilio folk
+from their early early days
+and i knew they were going to take off
+because they understood this they had
+you just says any good product
+management customer empathy they had
+developer empathy
+and they designed api as well and they
+designed
+a good developer experience stripe was
+famous for this as well
+they actually did it without product
+managers it was by engineers for
+engineers
+so twilio i was a company i've known
+since the early days and i could tell
+they were going to take off because
+they have what we call developer empathy
+which is just like customer empathy for
+any other area of product
+and stripe as well you could see it they
+designed their apis based on use case
+they designed their developer website
+accordingly
+stripe was famous for this really
+elegant style of documentation
+they did it without product managers it
+was by engineers for engineers at stripe
+but it wasn't by engineers for
+themselves it was engineers
+who understood what their developer
+community needed
+they listened to that community and they
+built it accordingly
+right that makes a lot of sense jimmy
+before we first i have to thank you for
+being so generous with your time and how
+busy you are
+i also have to ask why are you so
+passionate about this you know there's
+all sorts of different things you can do
+with your skill sets
+and and with technology in general what
+makes you so excited and passionate
+about
+building great tools for developers and
+creating this integrated
+workspace yeah you know i've been in api
+since before the 2009 api craze when
+when apis got cool
+but i'm i'm not a hipster definitely not
+a hipster
+but basically if you want the story it
+goes back to i guess late 2005.
+do you remember igoogle
+wow remember this thing it was an
+alternative home page for google
+where this customizable page where you
+can install these third-party tools and
+everything was i-framed-in
+wow and i saw that and i was thinking
+can i make the web
+work like an operating system when i had
+to say
+the idea was basically igoogle on
+caffeine it's called a web top
+afterwards a few companies tried it we
+had a web page that looked like a
+desktop operating system
+you could like install web apps and run
+them all but
+enough sense to figure out that that
+idea wasn't actually valuable
+um the web as an os was not going to be
+like a desktop but one way or another
+the web could be an os if services could
+talk to each other more
+if it was less about the website and
+more about the apis to allow these
+services to to talk to each other
+so i was just in in grad school which
+was an mba program hacking away whatever
+apis i could find i was actually at one
+point top 15 i googled gadget developer
+and uh eventually i found the first time
+ever a product role was focused just on
+apis that a company hadn't heard of at
+the time
+i actually found the job listing on
+craigslist
+which was which was box and aaron levy
+there was excited about apis before they
+were popular too
+and we demonstrated value in the company
+and apis just you know
+took off as a bunch of other companies
+demonstrate the value as well
+i love that jeremy thank you so so much
+for this hey before we leave
+the most important question three words
+that you would use to describe yourself
+uh i should take more more time to think
+about that
+but um i could just say um whatever
+comes to mind with this is not a hard
+commitment
+i don't want to say irrationally
+developer obsessed i think i need to
+have
+obsessed in some way a developer
+experience obsessed how about that
+i love that and i think it fits
+perfectly to what we've been discussing
+these past 20 minutes jeremy thank you
+very very much
+and stay safe and stay healthy and
+continue promoting apis and developer
+tools for the rest of the world because
+that's where we're headed
+and i just love the collaboration i love
+that everything is at our fingertips and
+almost anything that i need to build i
+can pretty much
+call on an api and and somebody much
+smarter and more
+talented did that for me so i think
+that's just it's remarkable to me so
+thank you for
+taking the time to do this with me happy
+to chat
+happy help thank you take care everyone
+foreign

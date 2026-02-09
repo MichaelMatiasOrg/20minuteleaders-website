@@ -1,0 +1,496 @@
+eight five percent of the attacks
+nowadays are based on compromised
+identities machines or users so I think
+that the world and the situation shout
+out loud and said okay we need a change
+and this is where we uh gave birth to
+resonates that resonates security into
+identities and from identities to the
+entire business cycle here we are
+challenging the uh the old systems and
+like bringing a new approach to cyber
+security
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures J Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctec
+[Music]
+thank you very very much for being
+yellowy I'm really excited to to talk to
+you today about about your journey about
+resonate and looking at Cloud resources
+and infrastructure core and identity and
+access and previously you're you're the
+vice president of product and incubation
+at Cyber reason you were also in the
+prime minister's office in the global
+cyber defense operations and and of
+course education from MIT MIT Sloan and
+so really an amazing background and I'm
+excited to to under to learn with you
+how you've channeled a lot of your
+learnings and understandings into
+resonate and what's happening today in
+the Cyber Cloud environment so again
+thank you for being here that sounds
+awesome thank you
+so so talk to me about the for
+foundation of of the resonate I mean
+you've you've done a lot in the
+cyberspace where are we at in 2022 that
+lead you to create this company
+well there's a major shift to Cloud
+nowadays like it's uh the shift started
+a few years ago uh but it's like soaring
+and soaring and even with recession is
+going up and up for cost saving for uh
+increasing the velocity of building the
+business and this shift from endpoint
+Centric and network Centric to Cloud
+Centric kind of like called out for
+changing the party game of security and
+an identity of users and of machines
+became the new vantage point for both
+attackers and Defenders now we've
+challenged the uh the current approach
+and we saw a lot of retrofit of
+Technologies of the old days like into
+the club doesn't work 85 of the attacks
+nowadays are based on compromised
+identities machines or users so I think
+that the world and the situation shout
+out loud and said okay we need a change
+and this is where we uh gave birth to
+resonates that resonates security into
+identities and from identities to the
+entire business cycle
+um yeah and like here we are challenging
+the uh the old systems and like bringing
+a new approach to cyber security
+incredible okay and so you've you've
+gone through you know different Cycles
+with organizations and so you're you're
+starting resonate tell me a little bit
+about you know really the pain point
+that that resonate is coming to solve an
+identity and access
+great so uh in the shift to cloud and to
+soft Centric businesses we kind of see
+that there's a shared security model
+that has been changed with transitions
+tons of the security responsibility to
+the vendors of the apps of the cloud
+native of the third parties I've been
+working with
+the only thing that left that we are
+fully controlling or on is the
+identities which is who is the user who
+is the machine that we allow to get
+access to our data to our infrastructure
+to our processes what can they do and in
+what circumstances what are their
+Privileges and how do they use it right
+now when we shift it to the cloud the
+permission management and the access
+management dispersed it means that there
+was no only one person in security that
+granting permissions because we're
+building the business and velocity now
+devops and developers delegate access to
+machines and to users all the time so
+there's a full mesh of managing this
+world of identity and what can they do
+and when can they do it there's no
+Central orchestration uh party game that
+allowed to to play with it and it leads
+a lot of exposure like the changes in
+identities and access are being done in
+a very periodic contemporary view which
+opens a lot of exposure that hackers
+today are exploding and using in order
+to get access to your organization
+right so uh what resonate brings to the
+world is the ability to discover all the
+identities in a very uniformic way to
+create one storyline per identity per
+user per organization to find these
+areas of exposure and to fix them
+automatically together with devops and
+security teams and to protect meanings
+to detect attempts to compromise this
+identity and use them against the
+organization and shut down these attacks
+so it's a full-blown Suite uh that
+covers identities from the day they are
+born to the day that they are dismissed
+and so if we're looking at you know
+identities as a growing threat can you
+touch a little bit more on you know
+different use cases of where that may be
+happening and and why this is a a bigger
+than ever pain point right now
+yes of course so uh we're delegating
+nowadays A lot of the permissions and
+responsibilities to machines right we
+have virtual machines we have longer
+functions Cloud functions and other
+compute resources that are working as a
+matter of fact uh the the ratio between
+human flesh and Bone users and machines
+is one to twenties with that now
+um imagine you know the most common use
+case there was a machine in the cloud
+that were that was penetrated right the
+attacker gained access to this machine
+and now it acts on on its behalf it
+grasped the role the credential the
+service role that allows this machine to
+operate in the cloud and laterally move
+to other machines with this idea the
+switching identities through the cloud
+and getting the access to whatever uh
+resource data or infrastructure that he
+wants right until he owes the entire
+account so the transitions is no longer
+between machines and between network if
+between identities and their
+capabilities this is what happened in
+Uber for example
+um and a user a very strong user was
+compromised his OCTA account was
+compromised by an MFA fatigue attack
+right the adapter triggered him to allow
+the access then the attacker laterally
+moved to the SAS portal okay with other
+identity and then get access to all the
+SAS applications and then it delegated
+to another identity of this user in the
+cloud in this case in AWS and
+proliferated or moved laterally across
+the network and across the cloud itself
+the ability to connect these dots to
+monitor them to respond promptly when
+one is compromised and not allowing the
+attacker to go to another this is the
+main challenge that we're seeing today
+incredible all right so so tell me a
+little bit about why you're you know
+you've been in the cyberspace for a long
+time what is it about the cyberspace
+that he gets you so excited about I mean
+I you know after a long tenure in the
+Cyber domain you went in into MIT Sloan
+and it's obviously you're exposed to a
+variety of different things around the
+world that entrepreneurs would be
+excited to tackle why what what is the
+side or your relationship with cyber
+here
+well you know it goes long back to the
+age of six and seven when I started to
+program and the main thing was to change
+the way that things are done right to
+to tweak to overclock to change the
+way that software is being delivered or
+or Hardware is being delivered uh so
+like this is this core this powder that
+comes with me to every challenge or
+everything that I look at is still here
+right it's uh tweaking a game to add the
+superhero like some more power and
+stamina then you know like it's kind of
+like dressed with other things when I'm
+going to tackle a problem now when I
+look through the MIT lens and through
+the Cyber reason lands and other lenses
+to the world we saw a shift a huge shift
+that can you know have been done once in
+a generation the cloud is the in the
+next major ship after the internet that
+we introduced in the 80s or 70s and as a
+Defender I saw that all the old stuff
+just doesn't work like I I sense the
+pain of the big organizations are being
+attacked and it took me back to the days
+in the government that we have the same
+problem so major like vast number of
+attacks uh and we knew that we need to
+change the party gum so the opportunity
+choose to get a new thing into the
+security world that will solve the major
+problem that just like have been created
+right like the new thing the the first
+or second more Advantage here uh the the
+need to change the way that we're
+looking at the security world nowadays
+this was the thing that drive me to do
+what we're doing in resonates
+wow okay and so if we're looking at sort
+of a greater vision
+for resonate with what you're talking
+about how would you pay this greater
+Vision as resonated part of the solution
+so we believe that the identity will
+become will have greater and greater
+responsibility in the way that we're
+looking at security today
+we started with Cloud infrastructure
+which was the most complex that needs to
+be demystified for uh for both devops
+and security people through the identity
+lens but identity serves in estas world
+as well right so we're getting you know
+licenses and credentials to applications
+like Salesforce and live uh netsuite and
+others and then it comes to the dev area
+as well as machine today grants
+permission to other machines to work so
+the greatest vision is that the resonate
+will be uh the platform that will
+Aggregate and that will recalculate the
+way that these identities are working
+together and near real time we'll decide
+if a specific identity can get access or
+not based on its posture based on the
+threats that it has
+um but it will or it will look and
+orchestrate across all the silos that we
+can see today in the identities and it
+will empower the security teams to do
+the work much better due to this visual
+and automation
+and so how how is the standard being
+created for how identities should be
+managed is there some uniformity or some
+consistency across the world is there a
+need for new types of thinking around
+identity management and posture
+management and and who's responsible
+today for sort of setting the standard
+well that's a great question like uh I
+wouldn't say that it's a chaotic word
+right now with just like super dispersed
+and super siled
+um and this is uh where resonate and
+other vendors are starting to speak with
+gardeners with the identity security
+alliances with a lot of Trials to set a
+standard over here
+um we're basically doing this together
+with our customers and the other vendors
+so for example we have great number of
+customers that works with octaves and
+identity providers and with AWS as an
+identity providers so we're bringing
+them all in and trying to find a way to
+unify uh the an orchestrate both the
+data structure and the decision making
+over there but there's no one single
+soul today that is setting the standard
+it's kind of like you know being shaped
+as we're sticking right now based on
+customer choices
+and so in regards to
+um in regards to their ability to create
+thought leadership and Trust so that
+your standard or your yours your your
+sort of approach becomes more widely
+acceptable is there are there different
+things that you found to be more
+effective or less effective also
+considering your previous background in
+understanding the cyberspace and how
+security teams create Trust
+yeah absolutely so like there is two
+phases that we're taking or two layers
+that we're working on the first one is
+to be on every stage uh and every
+conference and every uh webcast speaking
+about the way that we believe that that
+identity should be managed should be
+treated across vendors and across
+platforms but the second and most I
+think the impactful area is to come with
+true customers use cases and tailor them
+down together with the vendors that are
+related to this use cases for example if
+Uber was penetrated through opta to AWS
+and
+um and security posture fell between the
+lines between these two we're actually
+solving this problem together with the
+vendors okay we're bringing customers
+that are concerned and we're building
+this together and this is how do we
+shape both from top down and to from
+bottom up the approach to security of
+the identity we also also have our own
+uh code or like Manifesto or however
+identity should be crafted what are the
+best practices to manage it all across
+security and devops and we're simulating
+it right now in in the in the platform
+is starting to spread the rumor across
+devops teams with all sorts of social
+media
+um not channels and more
+phenomenal so being a cyber entrepreneur
+you know what what is that like so sure
+there's many different types of
+entrepreneurs but you've been in
+cyberspace for quite some time and so
+this is almost looping back to the
+question of why you're excited about
+cyber but what is it like being
+a founder or an entrepreneur in the
+cyberspace do you think it's different
+from other spaces is it similar
+I think there's like both similarities
+and differences the main difference is
+that we have the uh the theme uh of of
+the good guys and the bad guys over here
+right like the heroes save the day and
+the vast amount of people are trying to
+compromise your organization in a very
+super opportunistic way there's like
+opportunism versus a very structured and
+systematic way uh there's uh the the
+market forces are a little bit different
+when it comes to cyber this is one two I
+think that um cyber is more challenging
+and this is what drawn me in because
+there's a lot of different approaches to
+solve one problem like look at the
+Identity or like other markets it's it
+seems saturated but it's not right the
+market yet to be decide what approach to
+take so uh I think that the difference
+the other difference in cyber
+entrepreneurs is that you need to be
+very diligent in the way oh we're like
+in the approach for yourself to solve a
+problem you need to be very convincing
+that you are the plan platform right
+across like I don't know like a dozens
+of offers
+um and the similarities is that this
+this is like a a roller coaster on
+steroids right there's one day that
+you're getting in front-end customers
+and blowing with their minds and the day
+after you have deployments and
+conversion and everything worked good
+and there's another day that you can
+just like speak with someone that says
+like listen we're we're in a recession
+we don't have about like we're focusing
+on the basics right now
+um so with this roller coaster of
+validation this roller coaster of
+building things right on or focusing uh
+of challenging other approaches of super
+talented smart people to solve the same
+problems that you're solving these are
+the things that get me excited every day
+right
+and so you know the types of people that
+you enjoy working with how do you how do
+you design them order what do you who do
+you find that you that you most resonate
+with in terms of you know the the types
+of people that you like building with
+well so first of all the political say
+that I like that the variety right like
+the idea is this diffuse some minds of
+of devops of our security people and
+Security leaders together to tackle the
+problem I think that there's no uh
+specific person that can solve this
+problem uh you know by itself but the
+ones that I really like to speak with
+are the ones that are not looking for
+the best practice that existing out
+there and then to to deploy it and
+employed and then create a God that
+they'll be secure like the more
+open-minded can be like devops can be
+csos can be cios it can be a security
+practitioners like Defenders that's like
+the type of people Tech or non-techy
+that says listen we cannot work with 330
+40 security products and and pray to God
+that it will happen and to work toward
+one practice we need a new approach and
+this early adopters needs
+um mindful
+um buyers that are looking for this
+solution for the world long term these
+are the ones that I I really like to
+work with
+um
+and so if you're looking at the next
+year or so for resonate where are you
+headed
+so we're built we're finding that sweet
+spot right now and building The Sweet
+Spot between the cloud infrastructure
+world and its identities machines or
+users which can be hundreds or thousands
+27 you know we're speaking even in a
+small organization
+to the SAS area in which you have some
+sort of uh let's say islands of private
+clouds of companies again like
+Salesforce like o365 and others and to
+connect them both together to unified
+area this is what we're focusing on in
+the in the coming year and moreover we
+believe that you can not only do
+security posture or preventive actions
+you need to be in line you need to be in
+real time you need to detect the
+attempts of attackers to compromise the
+identities you need to shut them down
+based on what you're doing so the launch
+of threat Detachment response on top of
+the other things that we already have
+um and serving different and other
+personas and the more reactive world
+this is where we're going with the
+resume so it's like uh a vertical
+approach sorry vertical approach and uh
+in horizontal approach uh for this
+problem identity 360. this is how we
+call it I love that well I I really want
+to appreciate and thank you for this for
+the time you came here and I want to
+wish you best of luck with resonated
+sounds like uh you know this new type of
+world where identity and access are you
+know a critical part and the
+responsibility is moving more to
+machines it's it's obvious that uh that
+you're that you're right there on the
+you know in the right timing and and it
+sounds very with a lot of intentionality
+to bring your experience and excitement
+towards making a big impact here for
+organizations and security teams and so
+I really want to thank you for spending
+these 20 minutes with me I look forward
+to cheering from the side and and
+wishing you best of luck on the journey
+thank you very much
+so thank you very much it was my
+pleasure thank you I appreciate it
+[Music]

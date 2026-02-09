@@ -1,0 +1,558 @@
+figuring out the best way to motivate H
+other people through you know through
+these short meetings through the emails
+through phone calls whatsapps you know a
+corridor making coffee talking with them
+in the morning understanding that the
+whole work and progress is done and is
+done not only you know in time but also
+in the way right and fashion that you
+believe that things should be done is
+you know is very hard H when you start
+managing man and you're not the direct
+manager of you know the individual
+contributors right welcome to 20-minute
+leaders just sit back relax and learn
+from the leaders of today it's a journey
+each one is different unique inspiring
+let's get
+started 20-minute leaders is a proud
+supporter of makeawish Israel and Tech
+to peace and is in proud collaboration
+with secret cord Ventures J Ventures
+Riverside FM Fusion VC
+Birthright Excel J impact leap Google
+for startups and hippo and in media
+partnership with
+ctech hello and welcome to 20 minute
+leaders today we have Alon Jackson the
+CEO and co-founder of ASX security and a
+great friend of mine Aster security is
+the first appto app security solution
+prior to founding asteris Jackson served
+as head of R&amp;D group at Automotive cyber
+security startup Argus which was
+acquired by Continental AG he also
+previously served over 12 years in
+strategic roles in the cyber security
+division of the Israeli military
+intelligence unit 8200 where he led the
+cloud security division Jackson received
+an MSC in computer science with honors
+specializing in
+[Music]
+cryptography Alon Jackson welcome to 20
+minute leaders hey hey how are you good
+how are you today I'm do awesome well
+you're you're relocating in about 2
+weeks so you you must be hectic and it's
+a it's 1 p.m. right now wherever you are
+doing this interview so obviously uh
+life as an entrepreneur is is fun and
+interesting um alone you're working on
+some uh some really really cool company
+H we know each other from from our um
+you know IDF uh Service uh where you
+were managing some some phenomenal work
+and quite quite a lot of people and so
+it was no surprise to me when when
+shortly after you left you you announced
+that you're um you're building an
+amazing company with with phenomenal
+investors and and an amazing friend of
+mine is working with you and so that
+that's all I need to know that what
+you're building is incredible tell me a
+little bit about asterisks and then I
+want to go back to you and your own
+journey and then connect all the dots
+together yeah amazing first of all
+thanks very much for the worm words and
+uh yeah I think uh first and foremost
+with Asis what really makes asteris is
+of course the people like you said so
+not only good friends but amazing people
+um and amazing technology so really what
+we're doing we're creating the first app
+to app security platform to really
+change how applications today integrate
+and connect H to Enterprises um you know
+how you have all these apps today on
+like your mobile phone right that asks
+for permissions um to access your
+contacts or access your uh uh photos and
+you're like why does this flashlight
+actually need to you know delete my
+contacts you know this kind of
+permissions um so it's really that but
+on the Enterprise level right with th
+finding hundreds and thousands of such
+Connections in between different third
+parties in between different apps right
+to core systems of organizations and
+this is really what we're here to secure
+that's kind of in a nutshell amazing so
+now take me back a little bit to your
+own your own background you know a
+technologist by training then you know
+manager for for quite some time in a
+very high high paced you know critical
+environment what what has your own
+Journey been like leading up to
+asteris yeah so yeah before asteris
+actually you know I left A200 the the
+cyber security unit and I joined Argus
+um Automotive cyber security company so
+I led the Rd group over there um really
+what we did is kind of you know hacking
+into cars and then trying to fix it of
+course um and I learned a lot there from
+amazing group of Founders uh so that
+that was the last couple of years I
+think it was important for both myself
+and my partner Adan um you know to leave
+the A200 bubble and learn a thing or two
+outside in the industry um before
+building our own baby um yeah and before
+that so over 11 years at A200 so quite a
+long arm career there left as a miniator
+yeah I think A200 you know I'm sure you
+know it and most probably lot of the
+audience is really the best school in
+the world for technology right and for
+really Management in you know in in
+stressful situations in a lot of
+uncertainty situation so it's a good
+it's a good school you know to grow up
+as both both a technologist and a
+manager I think um yeah my last position
+there so I was really in charge of the
+cloud operations so this of course has a
+lot to do in what we're doing with as
+just from the other side of the coin um
+yeah for that so many different
+leadership position and on position I
+can see your smiling you know a lot
+about what's what was going on there um
+yeah so that's a kind of you know if if
+you're taking me into your brain and
+you're taking me into the way that you
+know Jackson is thinking about things
+what what do you get really excited
+about in general you know when it comes
+to these professional this professional
+world where where do you find your own
+join excitement if you look over these
+let's say last 15 years or so yeah I
+think that's a good question and maybe
+maybe despite you know the world
+professional despite the world
+technology everywhere I think what I'm
+excited the most is really the
+generations of team leaders and you know
+people that I've worked with um both in
+Argus manag like four teams and all team
+leaders are good friends of mine today
+some of them you know grew to be their
+own entrepreneurs today CTO um head of
+groups their selves amazing people you
+know you kind of H take with you along
+the way also before that to day 200 so I
+managed a couple of teams with you know
+amazing people who you can see them
+really progress right you could see them
+sometimes start as tech leads then
+become first
+managers um yeah I think that that's the
+biggest thing it's all about people
+right and uh and growing together and
+growing your network together I think
+that's the part part that really excites
+me the most and thinking about being a
+Founder um I think it's really the
+opportunity H to build something from
+the ground up right build the
+organization you always believed H You
+Want To Have and Have you know a good
+company that people enjoy right enjoy
+coming into and fulfilling themselves
+and yeah I think that's the biggest kind
+of opportunity and and joy that I kind
+of you know the privilege that I had
+both here and before all right are you
+ready to dive deep into what you're
+doing sure let's
+so app TOA Integrations let's paint
+painted picture um so that we just
+everybody's on the same page what is the
+world that we're living in now that
+makes app to app security an important
+part of what's Happening yeah so really
+apps are becoming more and more like
+platforms today so they enable end users
+to build and connect on top of them um
+it could be you know from the business
+side that add you know extensions
+add-ons plugins stuff like that it could
+be engineer Engineers that generate API
+Keys tokens these are all really
+different words that actually mean
+abilities to integrate and uh work in a
+more automatic way and not for and not
+Manual of course um with our with our
+apps and really this is important for
+the large applications because it makes
+them sticky right uh building on top of
+them makes you know really they are sure
+that you know you won't be able to leave
+very very easily um it's a growth engine
+for them cuz there's a lot of innovation
+being built on top of these platforms um
+yeah and the end users today they just
+add new apps from bottom up right the
+the it is really
+democratizing um so there's not always a
+procurement process there not always
+always a security process when they
+adding new third parties new apps on top
+of a on top of a Enterprise accounts um
+yeah and really no app today is in you
+know worth when in in Silo right data is
+only worth when shared um this is the
+kind of world we live in where
+everything is interconnected with
+everything via API and this is the kind
+of world that the ASX is enabling um to
+both map monitor and
+secure right so it's obviously it's you
+know it's critical that we that that we
+have that security layer how do you
+productize something like that so when
+you actually think about you know the
+world and and where ASX is coming into
+these
+organizations what what what are some
+potential products that that are
+relevant in in the space here yeah I
+think the easiest way to kind of think
+about it is that there's so many
+solutions out there for user access
+right um but there's nothing to help
+organizations today manage and secure
+all the nonuser access that they have
+right and there's single sign on there
+there's tofa all these kind of security
+mechanisms that help today uh manage and
+control really how users access core
+platforms but the apis really go under
+the radar right there's nothing to help
+security managers today um get
+visibility um into what's going on there
+and really what we're doing in asri is
+enabling them for the first time right
+both get the visability governance and a
+first automatic remediation into how all
+their third parties are interconnected
+with each other um yeah and actually
+there you know the last year was crazy
+in terms of a different kind of hacks um
+we had GitHub that was a hacked via
+third parties from auku and Travis yeah
+it was a quite a famous One not long ago
+before that we had mail CH before that
+we had OCTA before that we had COV all
+these just names of incidents of third
+parties right that were hacked and
+really we call it Service Supply Chain
+that's the kind of of what's going on
+right it's different services that
+really interconnect with each other
+right and so as you're approaching the
+market and and obvious ly you know
+you're you're growing fast you mentioned
+you're more than 20 people now you know
+just a year later so it's pretty
+phenomenal but what's the reception like
+I mean where are there you know is is
+the market ready for this do seos and
+people just generally really understand
+the pain Point here and what are you in
+terms of the timing on your analysis
+yeah yeah so really you know we're
+seeing the API ecosystem exploding right
+and the last attacks like in the last
+year are crazy you know we kind of
+laughing sometimes at saying you know
+may maybe asteris is behind some of
+these attacks uh but no you know it's
+actually just a huge wave um that on the
+one side you know it's not a good thing
+right but it really means that there is
+a place for that um yeah we already have
+you know large paying customers uh
+public companies really amazing
+amazing companies so far and you know
+it's becoming easier and easier as also
+we progress right um today I find you
+know when I ask C you know do you manage
+user access to your critical systems and
+the answer is like 99% yes of course I
+do and then you ask like do you manage
+API access to your critical systems not
+like Jackson what are you talking about
+right let's Talk's right so it's kind of
+that easy um to understand that there is
+a a a big gap in most organizations uh
+simply because they don't have the tools
+um to actually deal with it right um so
+a lot of the time they know that they
+have the problem and we did we did talk
+actually with with some Enterprise that
+you know really looked for this kind of
+tool tried to build it by themselves
+right tried to manually figure out and
+when we came over it was like yeah you
+know this was something that we've been
+struggling with in the past year and
+that's I think the most amazing response
+a Founder can get yeah I I love it so so
+take me the vision of Aster few years
+down the line what what is the role that
+asz is playing in the security space and
+you know because essentially what what
+also part of the you're saying you know
+we understand that there's this trend
+where we have these growing apps as
+platforms you know it's this whole
+decentralization process that now every
+company is using the an abundance of
+these third party apps and and and
+you're tackling one of the underlying
+issues that are going to perhaps inhibit
+some companies from growing as fast as
+they want to grow um or to get the
+compliance that they need Etc so you're
+you're effectively pushing you know the
+envelope to to to allow companies to do
+that can do this faster and safer what
+is the vision for as down the line and
+and what is the impact this is going to
+have on the industry if you had to
+imagine yeah sure so really we're going
+into world where we're going to have
+more and more third parties right and
+the value is only provided when you know
+integrating them with each other and the
+and them playing with each other and the
+Enterprise level um and this is really
+what pushes automation this is what
+pushes H productivity H forward
+and you think like of the cloud Wars
+right so we have these big cloud
+platforms and theyve been challenged by
+more and more other platforms so it's
+it's going to be fragmented and they're
+going to have to learn to play with each
+other just like we're seeing H that is
+happening and asri is really going to be
+the glue right H between all these
+different cloud services because each
+cloud service may may do the best job
+right with itself and its platform and
+how things work with internally but
+between them that's that's a hard place
+to manage especially for large
+organizations um so really being the
+integration Hub right being the port in
+which Enterprises are connecting with
+third parties CU this is where
+Innovation comes in this is where
+productivity comes in you can't really
+stop that you can't really stop the
+business um from running forward and
+it's you know it's complex it's a mess
+and this cross Cloud e connectivity
+really is only going to get even more
+complex as as times goes by and really
+want to help CES so so security manager
+progress from being you know Gatekeepers
+into productivity enablers right so
+enabling their businesses to actually
+adopt enabling them to connect and build
+right in a more secure way uh in regards
+you know to what they can do today today
+it's a either yes or no right um it's
+kind of B binary and now they can say
+yes but you know through asteris right
+um so that's a big thing that's a big
+change in like you know the physics of
+how of how things are enabled today
+so you you've gotten a chance to to
+manage reset manage and reset again
+quite a few teams over over these last
+15 years right and you you've had these
+opportunities to sort of reset your
+management style and rethink because
+you've Jo either joining a new
+organization creating a new organization
+so if you're thinking now about what
+you've learned about yourself your own
+leadership style the things that are
+important to you things that you realize
+now are less important than they thought
+they were
+you know take me into alone's world of
+leadership what what what have you
+learned over these years yeah I think
+the most important thing I learned is a
+is Letting
+Go um that's the truth kind of
+delegating and thinking you know do I
+really have to be here do I have to be
+the one that does this um this really
+empowers right ER empowers your folks um
+to do more by themselves and really
+enables you H to look forward so so this
+is something you know as as the first
+time managing managers um you have to
+really practice and uh kind of get into
+the State of Mind of delegating um but I
+think the more maybe interesting I thing
+maybe a good story I remember H the
+first time I managed the team leads so
+we had you know a big u a big meeting at
+my office and there were maybe you know
+10 people some of them were my team lead
+some of them from other teams from other
+groups and everything and you know we
+planned how we're going to break down
+this project and make it happen then you
+know in no time we have to win right
+that's how things are always
+done and then you know after like maybe
+half an hour quite a quick discussion
+everybody kind of left the room and I
+stayed there by myself I really remember
+the kind of loneliness of U of staying
+by myself in in the office and everybody
+was you know running out there in in
+their different offices H doing what we
+just decided we have to do and I
+remember thinking to myself okay so are
+they actually going to do it the way you
+know I want them to do it or I believe
+they should do it be is the spirit there
+right um what's going on in the other
+rooms um and kind of figuring out the
+best way to motivate H other people
+through you know through these short
+meetings through the emails through
+phone calls whatsapps you know a
+corridor making coffee talking with them
+in the morning understanding that the
+whole work and progress is done and is
+done not only you know in time but also
+in the way right and fashion that you
+believe that things should be done is
+you know is very hard H when you start
+managing managers and you're not the
+direct manager of you know the
+individual contributors right um I
+remember this kind of a a first time and
+from then um you really start thinking
+you know via culture U what kind of
+culture do I build um what kind of
+mentorship do I provide to my managers
+right for them to H to really um guide H
+their guys uh what kind of kpis right do
+I point to and put them as as general
+and as far as possible right um that's
+kind of I think the basic tools that you
+really develop across the
+years incredible Alon um if you had to
+think of what what do you enjoy most in
+your day to-day
+the thing you enjoy most in in your
+journey and what what comes to mind
+where what do you find the most
+fulfillment yeah yeah so I think it's
+kind of a motive that goes really
+through a lot of this talk but really is
+people right first and for the team the
+team uh really a team of amazing people
+who joined the who joined the journey
+first of all I'd say you know my partner
+start with that um so we know each other
+for a long time and when I say actually
+a long time it's not five years or 10
+years it's over 15 years now so we were
+recruited yeah we were recruited today
+together to an army like Excellence
+Military Academy called Kat salot um so
+we spent a long time we even lived
+together you know six years half of that
+you know the Army enforced us the other
+three years was you know our own free
+will of U of living together uh we did
+we did quite a lot um Edan my co-founder
+and CTO he also served over a decade in
+in A200 actually left the unit also
+joined the cyber security startup over
+here um deep Instinct the company does
+machine learning based endp Point
+protection um in the last couple of
+years so so kind of joining forces after
+that you know we learned a lot both at
+the unit and from the industry and we
+brought more importantly maybe from the
+kind of a technological diversity is the
+network diversity right amazing people
+who kind of H came very quick and just
+like in maybe two weeks we had eight
+eight guys joining us and you know uh
+the first I remember the first customer
+deployment in only three weeks U so
+everything kind of runs very fast when
+you have amazing people with you um yes
+I think the first and foremost is the
+co-founder right the team um then
+amazing customers H that really start up
+as good design Partners right that you
+trust and you see eye to eye and believe
+First of and foremost again us people
+right your ability to execute your
+vision um and really enable you to you
+know they give your time their time
+right they give you their data in the
+beginning you don't really have a
+product right um just the will and the
+vision um so that's you know an amazing
+an amazing um Step of trust um from
+customers and then amazing investors um
+so both the guys from F2 here in Israel
+and and besser also the Israel Israel
+guys in besser followed by venrock a um
+um a Bay Area um VC fund and some
+amazing cyber security Angels uh that
+joined this round so really so happy you
+know to have them as our backers and
+yeah and again it all comes down to uh
+to people people that believe in you
+believe in their ability to execute um I
+think that's the best thing you know
+spending most of my time um really
+talking inspiring
+motivating H pushing forward um everyone
+I think that's the that's the main role
+right and that's what I enjoy the
+most alone best of luck with as thank
+you so much for for the time and such a
+such an awesome Journey amazing a
+problem space can't wait to to see what
+happens with this company and hope to
+the hope that makes a large impact on
+this industry so thank you again best of
+luck and uh stay safe and stealthy and
+good luck on the relocation
+thanks very much M thanks for having me
+here

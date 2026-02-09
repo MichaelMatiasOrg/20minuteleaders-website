@@ -1,0 +1,424 @@
+building the right procedure from day
+one was actually essential because
+without that there will be so many other
+problems now when the CTO come to me and
+and it was tell me look I don't want to
+have code review as a mandatory in the
+early stage because it's uh it's it's
+making things move slothing and I don't
+want that I might have disagreed but in
+that stage we find some compensating
+control other okay let's say that we not
+going to have a code review as a
+mandatory but you must have uh what's it
+so-called segregation of d is so every
+time someone wants to merge a new code
+change into the master Branch there's
+must be another pone involved in the
+process just to reduce fraud and human
+[Music]
+mistakes mean Galis welcome to 20 minute
+leaders and the Maas experiment I'm so
+excited to talk about your hypothesis
+your validation and and the value that
+you bring thank you so much for being
+here and we're going to talk about
+something that I'm really really excited
+about which is uh something that I got
+to experience myself in the context of
+compliance and security um and um I'll
+uh hopefully be able to contribute at
+least with my energy that the the the
+experience that I've had over the last
+uh over the last few months an
+experience that you're helping resolve
+and turn from a a big Ketch in the
+stomach to something that's actually
+bearable and and maybe even enjoyable
+but I'll let you tell me more about that
+so mean thank thank you again for being
+here thank you for having me Matas it's
+pleasure to be here I have heard many
+great stuff and uh you yourself very
+interesting person amazing thank you but
+we're gonna we're gonna focus on you now
+so uh thank you for the kind words so
+Miran first of all give me a bit of
+background because you don't just end up
+working on on making compliance fun um
+how did you get here and how did you
+become an entrepreneur how did you get
+to compliance
+um actually a funny story I was
+um I didn't count from an intelligence
+unit in the military yeah like many
+startups in Israel does um me
+establishing startup in the security
+space actually I when I finished my
+study I'm a b of science I stopped
+working in a in a company called
+ey um it's a small firm you know uh that
+based all over the place and I was
+getting into the technology Department
+I'm doing something called talk to and
+other type of security audits I was
+focusing on technology R so work I
+worked mainly with security uh uh uh
+mainly on security compliance with uh
+technology companies from the United
+States and Israel and long story short
+after a couple of years I ended up
+managing of Engagement myself had many
+many different U customers CTO VP ands
+entrepreneurs founders co-founders
+cisters mainly the Silicon Valley New
+York Boston area and Tel Aviv uh so I
+was uh on the line doing many different
+Audits and I just experien to see myself
+the difference between doing it for
+small startups which the CTO need to run
+everything like get a project without
+any uh planning in advance and you know
+they need to have sock to because they
+need to sign some deals and that's a
+deal blocker but he doesn't have too
+much resources time also whe to learn
+how to do sof two and compliance which
+is to be honest very different from
+doing compliance in large organization
+like checkpoint and Google and sales
+Falls and I just saw the difference I
+felt there is a big pain over here I
+thought there is um something that I can
+contribute in simplify the process
+automate the process make it it cost
+less money and and here we are so uh
+that was at least the beginning where I
+start feeling that there's might be a
+gap in the market and I might fulfill
+the Gap I love it okay so so paino is
+clear and I mentioned I may be able to
+contribute something that paino is very
+very real um I I I didn't have the the
+privilege in my own journey to to use a
+solution like scel or one of those in
+the industry um and so I got to
+experience I think at least from from a
+CEO's perspective I got to experience
+what my team was going through and what
+that meant also on our deadlines on our
+deliverables and and the complexity and
+more important than the complexity May
+was for us the changes that we had to do
+in our workflow which all of a sudden
+became it was a little bit um it was a
+little bit confusing in in in many ways
+understanding that okay it's not just
+tactical things we need to do but it's
+actually we have to change some things
+in the way we work and so can can you
+help me understand a little bit better
+the process of getting these
+compliance um processes in place what
+are the main hurdles that a a startup or
+a company would have to go through to
+become compliant in these worlds yeah
+for sure so look um early days um a
+company let's say raise some money at Le
+see Dr press BR even so FR um they're
+looking for design Partners or they're
+looking for the first customer or they
+want to get their platform into uh thews
+or Zoom or whatsoever
+Marketplace and or they wants to raise
+the next round and you know many
+different incentive to go for security
+compliance like sock too um but at one
+stage or another they will need to get
+compliant and they not if this is first
+time father they not really show how the
+process usually work like it might be a
+little bit intimidating because uh it's
+like a task for the company and the
+company needs to um uh pass the test
+successfully and actually this process
+might be very painful uh very painful on
+the one end if you don't familiar with
+the process um and also the approach
+that fals have in the past in till this
+day they they want to move fast clearly
+um minimum they want to do the minimum
+at a minimum time minimum cost and and
+just get the certification they've been
+looking at this process actually like
+checking the Box you know they didn't
+really believe in the process they just
+want the certification in so to it's
+actually anation report so they can send
+it for their cast so they might be able
+to move all the side of deals but what
+they don't know is that they need to
+Define many different processes fors
+policies stuff like that let's just take
+one example uh the S softw development
+life cycle um or access prage how it
+work in a startup small team everyone
+sit in the same room um code reviews not
+mandatory uh stuff are not
+documented um if you want an access you
+just uh telling your next friend that's
+sitting in the next T can you give me
+access and that's that's just about it
+the problem over there is that it's not
+scalable it's not secure and it's not
+compliant so this is where companies and
+startups M need to adjust their
+processes and procedure from very early
+stage in order to build the foundation
+for a company for for a a healthy scale
+up
+when it come for uh for their security
+and compliance in order for customer to
+trust on their organization and not
+creating any risk for their customers
+you know it's this is like in haare so
+companies can have in order to reduce
+their risk in some cases just the first
+stage that they need to do in order to
+uh um to start an engagement start
+working with one of their potential
+customers absolutely I mean listen I
+mean there's there's so many situations
+that I hear about out and experienced
+myself that you go and you build and you
+say okay there's this amazing solution
+that I want to build as a company I I
+even raise funds and I bring the amazing
+researchers we build amazing technology
+and I come and I sit with in in my case
+it was a few banks in Canada and the US
+and we're sitting and we have an amazing
+meeting amazing second meeting third
+meeting we want to do a PC together and
+and and now let's and and then they okay
+great and and here just the security
+compliances we want to make sure that
+you have and I'm looking at that and I'm
+saying oh wow okay so I I guess we're
+not ready and uh and you know we we had
+it I guess easy year because we caught
+on to that just maybe nine or 10 months
+into development um and it's an
+interesting question by the way and I
+would love to see pick your brain I
+asked my our Engineers whether we should
+have started that process earlier let's
+say on day
+Zero they said they're not sure and it
+was because I was asking them you know
+we just spent about 3 weeks weeks heads
+down doing this should we have just
+started the beginning and they they gave
+me an interesting tradeoff when it comes
+to the speed of development which got us
+to this point I'd love to hear your take
+on when is sort of the right time to do
+this um look first I would love to
+usually it's every case is a stand alone
+but when I speak with Prospect I I my
+first question is that why do you need
+so to in the first place like I know
+it's good I know it's can reduce a risk
+but why do you need it like that's is
+something that you need to put up your
+resources on um it's might hold you a
+little bit back why do you need to have
+it and um this is how I usually start
+because I know there is a trade-off and
+you need to balance between um building
+a strong Foundation of compliance for
+the one end to um still moving fast with
+the business and development and how I
+look at things is that I believe as long
+as you start earlier it's going to be
+easier down the road um now I know
+developers and Founders want to move
+fast um and having your CTO uh spending
+his time on sock 2 rather than building
+the architecture recruiting Talent you
+know uh uh developing
+some new features or fixing some bugs
+you know it's might still secondary but
+the time that you're going to get some
+kind of a humano which a custom
+might get a disclose information which
+they shouldn't allow to or you might
+have any security incident that's the
+point that we're gonna miss you know so
+heartbeat and you're gonna say Oh Why
+didn't it start earlier and balancing
+between the R&amp;D requirement and moving
+fast on the one end to compliance does
+it necessarily needs to be that
+complicated can give you an example that
+they work with the company um they grew
+very fast in like for 50 emplo es to
+almost 4,000 employees in three years
+they acquired many companies and there
+was massive massive uh uh um scale up
+and growth and for them building the
+right procedure from day one was
+actually essential because without that
+there will be so many other problems now
+when the CTO come to me and and was tell
+me look I don't want to have code review
+as a mandatory in the early stage
+because it's uh it's it's making things
+move slothing and I don't want that I
+might have disag read but in that stage
+we find some compensating control them
+okay let's say that we not going to have
+a code review as a mandatory but you
+must have uh what's So-Cal segregation
+of Duties so every time someone want to
+merge a new code change into the master
+Branch there's must be another person
+involved in the process just to reduce
+fraud and human mistakes so building
+this up from day one actually now when
+they have like not a a team of the of
+eight people in the development team but
+uh I think almost I don't know like 200
+or maybe even more F built up good from
+day one and and you know it's it's
+continuous improvements it's never stops
+you all the time wants to to improve you
+want to optimize you want to move faster
+and you wants to be more secure
+absolutely so walk me through site
+tailes Journey so you going back to to
+you identifying the pain point and
+saying okay I think I can I can create
+value here um you you obviously are um
+and you you've been at this for a while
+now so to walk me through a little bit
+of the story of of SEL up until today
+all right look in the beginning I didn't
+even think about stopping SEL I was
+writing a Blog about Saku because there
+was almost no information at all about
+Saku and I just found this very like
+interesting and that there is no
+information so I was writing my blog
+it's called sock to .io was the first
+blog maybe in the world about talk to
+and you know I start thinking about how
+I can improve the process on a product
+perspective and then uh I've been
+introduced to an investor from the re
+Tech space based in the UK and they have
+a large group of of compliance companies
+many financi space and um it sounds
+interesting the idea of security
+compliance and not Financial compliance
+it's still very good with the portfolio
+so uh uh we start discussing about that
+and and that's how I actually started
+you know uh that's how I raise money and
+I I stop building the company but I had
+in mind not a solution that's limited
+only for the technology which is crucial
+and it's majority of our solution but
+giv closing the loop for companies for
+startup for snbs when it come for they
+need a platform of course to automate
+use a single source of proof to simplify
+the process to collaborate and so on and
+so on and so on but they also need
+someone to manage the platform so in
+many case that's going to be the CTO but
+then you're just giv another
+responsibility for the C and you already
+have so many others responsibility like
+build a platform you know build features
+um so what they want to do is to give a
+hybrid solution from the one end given
+the eois platform so they can do it by
+themselves but if they want an
+integrated solution with also someone
+that can take the
+from from engineering team we also
+Supply an expert that can uh prepare the
+company from early days do 90% of the
+work from them navigate for the process
+VI a pmo also uh uh manage the audit for
+them and just make sure that they are
+compliance and then we start getting
+more requests for penetration testing
+and audit so we created a a an integrate
+solution that close the load for for
+startups when they need everything like
+they need to have pentest they need an
+audit they want someone to help them and
+consult them and they need an automation
+so we that's that's our service software
+we actually providing everything on this
+single roof and uh in order for to
+enable companies to move fast to cut
+approximately 50% of the total cost of
+compliance and make the time to
+compliance three times faster because
+most of my customer when I asked them
+when do you need the sock too they told
+me yesterday you know how it
+is I I have absolutely know and know how
+it is H I love it and I and I love how
+you are describing the Journey of of
+what you're doing first is it sounds
+like it it's starting off well your your
+your experience with thei and and
+security compliance I mean you you've
+lived through the processes you've seen
+it firsthand you're going You're about
+to to bring value to the world through
+something as simple but but meaningful
+as a blog post where you're where you're
+bringing your own thoughts and your own
+ideas and realizing what what way I can
+actually do this now and and not just um
+establish the pain point but I can go
+and solve it and then you're describing
+how the growth of the company is very
+much structured by the demand that
+you're seeing firsthand and it also
+sounds with the notion of putting in the
+pmos but having those expert opinions
+you're you're effectively creating a a
+fe an immediate feedback loop for your
+own company on what works what doesn't
+work how do we continue optimizing the
+process whereas you mentioned it at a a
+you know a sentence at the end there
+which was you know and that person is
+there to make sure that the company's
+compliant right so so your the value
+that you're eventually providing the
+customer is is really the core
+fundamental value here um and and
+everything all the bells and whistles
+you're doing are to help just optimize
+to get that faster and and obviously the
+expansion to different elements so I
+know I just caught a bit of the a bit of
+the journey but Mir I want to share you
+know extended thanks for sharing with me
+your your experiment your hypoth is and
+uh and I really appreciate your time and
+your energy I think it's super super
+cool space having lived through the
+paino myself and and I want to wish you
+best of luck with SEL and uh we'll
+continue touring from the
+side Cole thank you so much M was
+pleasure meeting you thanks for having
+me thank you Mayan thank you thank you

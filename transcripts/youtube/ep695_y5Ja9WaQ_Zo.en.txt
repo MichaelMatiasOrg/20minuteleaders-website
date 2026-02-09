@@ -1,0 +1,605 @@
+so maybe there is a little bubble but in
+the end of the day there's so many
+companies they all of them are selling
+something um so i don't think i think
+the bubble that's going to explode is
+actually of the people who's not aware
+not dealing with the cyber attack in the
+companies
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+episode is powered by j ventures a
+community-driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opus labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+welcome to 20 minute leaders let's talk
+about cyber security with umri segev
+moyal the ceo of profero
+omri is a highly successful entrepreneur
+nationally recognized speaker and as of
+recently a forbes 30 under 30 achiever
+he is also the co-founder of profero
+omri's passion for empowering others
+through public speaking stems from the
+many years of experience building
+successful companies of his own he is
+dedicated to sharing his knowledge and
+proven skills with others in hopes that
+he can provide them with simple
+solutions that can solve complex
+problems and help to remove any barriers
+that stand in their way
+his intense focus and drive for success
+has positioned him to be one of the top
+thought leaders in the entrepreneurial
+and startup space
+[Applause]
+sega
+welcome to 20 minute leaders thank you
+so much for joining me today thank you
+michael i'm really happy and honored to
+be here i'm i'm so excited because you
+know you're taking something that i
+spent quite a few years in cyber
+security and and you're literally facing
+this this world
+and what i think is probably the most
+interesting part of the cyber security
+space which is the actual incident
+response you know we work tirelessly on
+this cat and mouse game but at the end
+of the day hits the fan something
+happens and then the question is okay
+what do we do now right and we don't
+talk about that enough we don't hear
+about that enough and so in these 20
+minutes
+i want to first understand you know your
+you and your perspective in the
+cyberspace why you went into incident
+response and then try to figure out how
+do companies actually react in these
+situations and how do you with your
+company help them get through it so omri
+thank you for coming
+share with me a little bit about
+yourself and why cyber
+cool so why cyber it's actually going
+before it was called cyber i think it
+was called maybe information security um
+i started quite early around 12
+my grandfather was which was a
+retirement from the idf uh retired from
+the idf he at the age of 60ish plus
+decided he was really good at math and
+he decided that computers are the next
+big thing and i'm going to teach all my
+grandsons uh granddaughters uh
+everything i can about computers so he
+self
+self taught himself he learned how to
+program things like pascal and c etc and
+he bought
+every
+uh
+granddaughter or grand
+grandson uh he bought a computer
+so it's actually divided half of us are
+technophobical hate computers don't want
+to touch an iphone or an on android and
+the other half just
+super in love with anything related to
+tech so it's like either you push them
+too hard and they didn't want it and
+they hate it or it's something we all do
+and i was pretty much into it pretty
+young age
+i am dyslexic so uh it actually really
+helped me when i was young really really
+helped
+i'm i i spend most of my childhood
+either outside making problems or on the
+computer i almost barely went to school
+i'm a dropout
+uh i don't even have a bagrut i'm not
+sure
+yeah it's you know like it's like you
+didn't you didn't finish 12th grade
+right you didn't take yes
+nothing uh so i didn't do all of that
+but i either self-taught myself a lot of
+other stuff
+and
+or just went outside with a lot of you
+know pranks and like nothing illegal but
+you know just a kid uh having a lot of
+free time not going to school uh so
+what how was your family at that point
+you know you're obviously you know
+you're such a curious person and in a
+second you're going to be sharing with
+me the way that you're helping you know
+work through the most complicated
+scenarios in the world
+and yet you're not finishing high school
+and you're doing pranks well how you
+know there's a quite a big dissonance
+here you know when i was young some
+people said it's a lost course and i
+don't know what we're going to do with
+him but my parents were pretty much
+listen it's probably because it's this
+is selective it doesn't feel comfortable
+at school let's not push and let's make
+sure it just doesn't go anything illegal
+he doesn't do anything
+bad and let the kid live now whether
+they were right or wrong i know it's
+almost like flipping a coin i think what
+they did and i fell on the right side
+that i can't wait more credit than that
+yeah
+that's the way i still feel about it
+today
+um i don't know if i will raise my
+children the same but it does
+at least
+looking like backward in time it does
+feel a bit like that um
+you know i could have done a lot of
+other things and ended up in a whole
+different place but you know it worked
+well it's hard to judge you know what i
+mean uh 100 100
+so
+i i want to jump to understanding a
+little bit better you know within cyber
+they you know so you you get into it
+great but incident response how do you
+get into that realm because you've done
+quite a few things in the cyberspace
+yeah cool so
+one of my first
+rodeo in actual cyber security was my
+own company called snagbite and we
+basically did some kind of what it's
+called today threat intelligence bot
+hunting which is basically trying to be
+proactive monitoring hackers
+it wasn't called exactly like that in
+the day but this is what it was um
+and at certain point
+it was
+all on me i had around five employees
+and i felt that it's too much for me at
+that point of time i was around 23 24
+and i said listen it's too much
+so i joined a bigger company called
+clear sky and kliska had it was a
+service company and it had a lot of
+customers and right from the start the
+thing i found myself and i always did i
+did that in the army and i did it you
+know when i was younger i'm really good
+on the stress and under when everybody
+is crying and running out and there's a
+lot of pressure this is where i work the
+best it's just i don't know why and how
+i got to be like that but
+if it's boring or
+being static this is actually where i'm
+not good at when there's a lot of
+advantage a lot of pressure i thrive so
+it was really easy for me to be pushed
+for an instant response that's how i got
+into it
+and i realize i'm
+i might be okay in that field like i'm
+actually enjoying the stress i'm
+enjoying the atmosphere
+uh following that i
+i founded a company called mineoverlabs
+which is kind of like if i'm not
+pushing it too technical some kind of a
+next-gen
+malware prevention system
+i was the head of research there
+but also in minerva
+i
+also been really drawn to the incidents
+the big incidents that we have in the
+largest customers for example one of
+them was the very notorious case of city
+of atlanta
+i think it was in 2017 if i'm not
+mistaken or to i know since covered
+everything has become
+hard to go back in time and went what
+year was it uh but i think was 2017 or
+17.
+and i was really drawn into that
+so i knew right from the start the next
+thing i'm going to do and when i'm doing
+something is going to be an instant
+response and when i left me never i was
+just you know
+really into it and
+and there's a lot of work in our field
+it's just uh instant response for people
+who is not aware what it is
+uh it's basically when an organization
+an enterprise a company or even vips or
+personal people
+get in any kind of way from you know
+wire transfer fraud to run somewhere uh
+denial of service attacks a lot of any
+hack
+uh instant response the general term of
+the team or whoever helps you solve the
+case uh this is how it calls for cyber
+incident response i think that it's it's
+it's a very interesting inflection point
+right now because there's the common
+question at least in the israeli
+ecosystem are we in a bubble right is
+this a cyber bubble and my immediate
+thinking says well there's only one way
+to check let's look at the incidents
+that are happening right but but but
+people don't really talk about the
+incidents that are happening and it's
+and i can only imagine that
+the companies often have the most
+incentive to quiet down the incidents
+right and so you have this dissonance
+between
+you know people who understand the
+industry that they're working tirelessly
+like you to prevent the incidents and to
+tackle them there's the incidents that
+are happening that people don't really
+hear about and then there's everybody
+else who doesn't really who's not
+involved in this thing and saying like
+why is everybody work talking about this
+if it's not happening
+is it happening is it a common thing
+that's happening
+so there's a sentence uh
+it was said in it's really famous in the
+wall street bets and they said whenever
+someone says it's a bubble they said
+it's a boomer wall it's a boomer wall
+and i think it's the same listen
+i know they saying there's a huge bubble
+around cyber
+i let down uh every so every customer i
+take free we have to let down because we
+don't have enough resources we're still
+expanding we keep expanding and
+expanding so
+you might say
+bubble but look we have companies that
+you know our company was emerged two
+years ago we're already selling over 4
+million are uh in revenue and we are
+fully bootstrapped i don't know many
+fields where it would have done the same
+uh look at tweeze everybody's speaking
+you know oh it's a big bubble company
+they have almost 30 million er in i
+don't know one year and a half two years
+um so maybe there is a little bubble but
+in the end of the day there's so many
+companies they all of them are selling
+something um so i don't think i think
+the bubble that's going to explode is
+actually of the people who's not aware
+not dealing with the cyber attack in the
+companies and how it's exploding it's
+not going to be some huge market bubble
+that everybody's going to suffer it's
+going to be very personal to either your
+own computers or your own organization
+and this is what we see those small
+well huge bubble personal bubbles though
+are exploding people are almost losing
+their businesses i can't count the many
+the amount of times i got to
+organization and they're nearly off the
+verge of crying i'm literally crying
+because
+they're either going to close their
+business if they don't do things right
+um i for example we have a
+factory that we assisted uh pro bono we
+got a call from them they said listen uh
+we're already in so much that we have no
+money to pay you if i don't get
+recovered in 48 hours i'm just shutting
+down my own life business and we're like
+okay listen
+will help and and we managed it was hard
+uh but we managed so these are the
+bubbles that we're going to explode and
+i don't think the stock exchange cyber
+companies bubble is going to be i
+yeah i mean i think you know i'll allow
+myself to say my own two cents about you
+know this idea of the bubble i mean at
+the end we're talking about
+you know a lot of people are trained to
+look at the world today and say does
+this make sense today
+but at the end you know you're saying
+that you're saying this from the inside
+right and you're saying what's happening
+and where you know together we the two
+of us can experience you know the growth
+of the opportunities for for cyber
+defense and offense and it's becoming
+scary right every time we talk about
+digitalization of anything
+you and i can think of okay there's well
+here are the million other ways that
+this thing can be exploited which makes
+room for companies like perfero but it
+also makes room for for big valuations
+and for big opportunities for companies
+like quiz and the likes
+what happens in an incident
+how does an incident happen who
+discovers it
+you know it's a big question but walk me
+through sort of this journey that you're
+on
+let me tell you a story uh i can't name
+you know the companies etc but uh
+let's
+look back a certain point of time it's
+somewhere between around april
+the whole world is on the lockdown of a
+strange covered virus coveted 19. nobody
+really know what it is
+and you you are the administrator of a
+company in hong kong
+if you remember what happened in hong
+kong and april people couldn't even
+leave the house there were riots because
+the uh chinese administration riots uh
+etc
+and you get a call from one of your
+business admin hey whatever his name i
+can't access anything it's like okay i'm
+at my home i can't do anything and he's
+trying to access and only thing he gets
+in the end is a one system all the web
+servers are down the entire organization
+is down and all he gets from remote is a
+message saying listen your files and
+everything is under ransom
+pay us
+a lot of money with eight million
+dollars
+or
+um or suffer the consequences we're
+going to leak all your diet oh my god
+they can't even drive to the data center
+because of the lockdown to risk like to
+even even put new servers not even let's
+say we don't care about the incident
+think how devastative it is for the
+business they are a way they are remote
+we are a company that baseball we have
+people all over the world with people in
+new zealand with people in the u.s but
+in the end of the day we all live in the
+cyberspace doesn't matter we are a fully
+remote company
+we can't reach hong kong even if we
+really wanted to
+we can't log in into the systems because
+the attackers actually
+gain control
+what do you do in this type of of case
+this is one of the only times we have
+used actually offensive capabilities
+to get back in the servers the actors
+attacked game control
+now look at how many things you need to
+take care of first of all i need to
+verify somehow that a person in hong
+kong i'm speaking to actually owns that
+system
+it may be someone pulling a prank on us
+or the really illegal right so that's
+number one number two i need to pray god
+that we actually have the right
+offensive capabilities and you know we
+to actually gain control and then i need
+to kick out the attackers and give the
+real people back access
+in the end of the day in this specific
+case actually run some more space um in
+the end of the day even though we kicked
+the attackers the best for the
+organization to get back during that
+time and not lose the entire business
+was to pay ransom so you go to sleep one
+night
+uh you care of your family you know you
+collect a lot of food and stuff that
+will happen in april and you wake up in
+the morning where
+you know there's riots in the street and
+you need to drive to a data center and
+try to get
+that's how hard cyber attacks can be
+now moving forward to 2021 almost 2022
+coffee is a bit more relaxed people can
+leave the house you know it's still
+dangerous and everything i'm not putting
+anything you know uh not down playing
+coffee but
+you still can wake up and not having
+control over your own business or
+even an ancient state like that there is
+some cases where everyone
+nations they decide to target your small
+little business
+maybe you sell clothes for example and
+they just target you because they want
+to shame your country and they will lick
+all your data run some all your files
+now
+what are you doing these type of things
+like most people
+don't know what to do both business also
+tech it's not something you usually deal
+with there's a lot of panic
+there's a lot of bad choices
+and this is this time usually when
+people call us
+and that's where we get involved that's
+where our team
+putting all the relaxation putting all
+of our experience to first
+handle the situation at the best way
+possible during that very stressful time
+getting the customers out of that
+situation
+and after the incident making sure it
+doesn't happen again to them so become
+do people prefer work you know the nine
+to seven nine to eight hours how does it
+work because you know i'm getting you
+could get a call at 10 p.m and say
+listen you know we need to pay ransom
+within 24 hours or we're get or they're
+going to leak the credit card numbers on
+our system
+you're you're the ceo of this thing
+right you're the entrepreneur you're the
+leader
+obviously have a very talented team with
+you but they have lives as well how do
+you manage this whole thing
+so at the start it was really hard
+because you know it wasn't many of us
+and it was
+24 7 doing everything you know and with
+all the people we had but as the company
+grow we have people from all over the
+world we
+we call it like people used to call it
+follow the sun i don't really like that
+um there but we basically have people
+everywhere for example the actual day
+started in new zealand uh it's 11 hours
+different from israel so it's whenever
+they have daylight we have you know uh
+we're we are during our night etc we
+have people from the us we have people
+from india we have people from england
+so it's not really 24 7 because you do
+your usual day work
+the benefit from it is first we have
+really good capable people all over the
+world and second when you finish your
+day someone else
+start of the day or at least halfway
+through and then someone else's start of
+the day and therefore
+although it's really tricky business and
+it's people really under stress
+for us it's a day-to-day work so in the
+end of the day people are used to
+shifting over
+even if it's a very major incident we
+can shift it over to the next crew etc
+so we're actually dealing with it like a
+normal day work
+and then weekends as well we do like
+normal shifts between same ways
+production team are doing shifts et
+cetera what are you enjoying well it's
+becoming very interesting field of work
+is it the the excitement of a new case
+sort of like a sherlock holmes is it the
+leadership part of it
+is it the technology part of it
+i think not just myself but the entire
+company even people from the dev and
+business and the office admins
+i think the best thing is the feedback
+we get from customers and it's not that
+the feedback you will see on a message
+freaking out that was deployed the best
+ever and you know we
+i i i can't really show yours or you
+know we don't have testimonials because
+it's not something we want to share with
+the public because but
+it's you saved my business
+um
+you i was i was gonna jump out of the
+roof and whatever you did is just magic
+uh you know people
+the way we get yeah we're getting
+standing presents
+uh we're getting setting a lot of things
+after and you know i've been to many
+companies before i never had that very
+very emotional
+i think doctors might have gotten into
+that you are a doctor you know feedback
+in a larger way your tech is amazing or
+you know i wouldn't make myself a doctor
+essentially uh but but
+i it it is the same feeling
+yeah it is the same feeling and you know
+especially if you do pro bono cases and
+stuff like that it's it's really really
+emotional um on the other side what
+keeps our living it's you know building
+a bigger company yeah um leaving the
+tech side and being a ceo it's one of
+the only challenging you know for me
+almost the daily most companies they
+create products that are sold when other
+companies do well right most sas
+products most things that you get that
+you that most tech companies that are
+building are built for so that the
+successful companies pay
+you know to become more successful here
+you're saying we're building a product
+that
+you know we we that when the company is
+most distressed when they need us most
+that's when we're there we're at the
+lowest point and and i think that's
+awesome i think that's a really really
+awesome place to be at and and as a
+future entrepreneur and a as a thinker i
+i get inspired by
+you know this type of company and by
+your work and the stories and and you
+know i'm sure we can talk about this for
+hours but but i want to thank you for
+being here and for sharing this time
+with me and and i can't wait to share
+this with with my friends with my family
+this is such an exciting journey that
+you're on so thank you only thank you
+very much
+[Music]
+you

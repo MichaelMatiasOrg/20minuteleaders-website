@@ -1,0 +1,560 @@
+[Music]
+foreign
+ivan lee welcome to 20 minute leaders
+thank you thanks for having me on how
+are you doing where are you calling from
+i am reaching you from sunnyvale
+california today sunnyvale california
+okay so not too far i'm in southern
+california
+and are you keeping healthy everything
+everybody's okay
+yeah things are going all right finding
+my own new daily routines
+um yeah adjusting to the new norm i'm
+sure and i'm sure that having an early
+stage startup with
+this new norm is is quite challenging
+even though you're a software platform
+i'm sure it still has its challenges so
+i'd love for you to give a little bit of
+a background about yourself
+just as a quick spoiler you know product
+management at
+yahoo and apple uh you sold the company
+to a yahoo before
+and now you're a ceo of data soar
+so ivan where do you come from
+what excites you sure um so i'll give my
+my quick background in a nutshell here
+um i grew up outside of seattle
+i came down here for school um studied
+computer science at stanford for
+undergrad
+um and i was starting my masters there
+as well uh but as is stanford tradition
+i dropped out
+and started a video game company with
+some friends i've been a lifelong gamer
+and so it was always a childhood dream
+to build that out
+had a ton of fun with it built out a
+profitable game and ultimately sold the
+company to yahoo in 2013.
+what are your favorite games my favorite
+games
+um right now i've been playing you know
+to this day i still play league of
+legends but i grew up playing smash
+brothers halo age of empires
+how do you balance that with it with a
+ceo position
+it's you know i think it's really
+important for ceos to have hobbies to
+help keep them sane
+um so league for me is is a social
+outlet works really well on quarantine
+um other than that i actually still play
+ultimate frisbee at the stanford oval
+every single sunday
+and so that's kept being seen for the
+last decade oh wow okay that's that's
+pretty incredible
+so tell me you know a little bit about
+this this interesting
+experience you've had being moving from
+a ceo of a company of a gaming company
+to then being
+a product manager at yahoo and apple how
+was that transition for you
+i was actually really grateful to have
+the full spectrum of experiences
+um starting your own company
+you have to figure out how to do things
+on your own that was my first real job
+right outside of internships
+and so you know we were for engineers
+straight out of school
+i had to basically reinvent the wheel on
+what product management meant for our
+company
+and i'm somebody who learns by doing so
+that was an interesting first start
+obviously made a ton of mistakes but
+when i arrived at yahoo
+i was really lucky to be part of the apm
+program the associate product managers
+program there
+and they gave me training on how a
+professional does it right
+and what that allows allowing me to do
+is pick and choose and say well
+i like the way i did things better on
+these fronts but i also really like
+learning how professionals have
+approached this problem in this way
+and so that gave me the the perspective
+to
+to balance out you know my personal
+learnings with
+what others have institutionalized and
+said this is how things should be done
+at large successful companies
+and was it a similar learning experience
+between
+apple and yahoo or did you find that
+things were radically different between
+the two
+uh certainly very different i think that
+different companies
+not only different companies but even
+down to the organization the manager
+that you have
+you will just find completely different
+experiences at companies
+right so yeah between between yahoo and
+apple i still had
+a diverse set of experiences yeah i
+think it's
+always interesting for me to to sort of
+understand these differences and
+and know that there is no you know white
+glove that fits every hand
+where you have one playbook as a product
+management i'm
+experimenting now in in a company that i
+work for with product management
+and i see all these different
+challenging sources
+and there is no one one said rule but
+what are some of your key takeaways
+from these two times if you were the
+advice you would give
+any product manager at any company
+oh man so i think in addition to the
+fact that different companies and
+organizations are different it gets even
+trickier when you talk about product
+management in particular
+because just by definition the the pm
+job
+is one that varies completely from
+from team to team and you need to
+fill in different roles no matter where
+you go right
+and so i guess if there's one key
+takeaway um
+i'm a big believer in servant leadership
+right this is this is a philosophy
+that that many articles have been
+written about but
+in particular when it comes to product
+management
+success is defined by being able to
+enable your team
+making sure that your engineers are
+unblocked making sure that your
+designers uh
+are connected with the business
+objectives
+of the broader team right and so
+whatever
+you know whatever organization or team
+you're joining i think it's
+important to just dig in and figure out
+how can i best um
+enable and support this team and throw
+away
+all previous conceptions of like what a
+pm was at your previous job
+yeah i think that that's that's very
+interesting take on you know
+looking at a pm as a leadership role and
+understanding that as you transition
+between teams which is inevitable
+you need to put on these different hats
+and empathize with the people that
+you're working with and the product
+you're working on
+and i'm sure that it's also extremely
+different between you know when you're
+doing something for
+an enterprise team versus a b2c
+team which is also fascinating so let's
+move on to
+artificial intelligence labeling nlp
+data soar yeah so
+um actually segwaying into that topic um
+the reason that i ended up working on
+machine learning and ai in the first
+place is because
+my manager understood that you know i
+had a lot of experience as a front-end
+pm um i like thinking about design
+and user experience and all of that but
+i had no experience on a backup so he
+assigned me
+to replace you know yahoo's 15 year old
+search algorithms with a machine learned
+model
+and my team was able to accomplish that
+you know within a matter of months and
+that blew my mind
+and so that changed the trajectory of my
+career um i i was no longer working in
+games i became an mlpm for the next
+seven years
+right wow okay yeah so that was a really
+meaningful transition
+um and so yeah i became a convert this
+was early on in the ai hype cycle as
+well
+yeah i came to better understand just
+how powerful
+uh you know ai technology could be
+but i also got a peek behind the scenes
+as to how all this works
+and it turns out you know in order to
+power all these ai algorithms you need
+a lot a lot of uh training data
+you need to feed it a lot of examples so
+they can learn and build an
+understanding of our world
+and and expectations of our world right
+and so
+um having experienced that and having
+spent millions of dollars getting
+labeled data over the years
+instead of you know recreating these
+processes
+um yet again at another company i
+decided it was better for me to just
+build a startup around this and say
+let's solve this for for the industry
+once and for all
+and so that was the origin of datasore a
+little over a year ago i started this
+company
+with the goal of taking all these best
+practices all the solutions that i'd
+seen you know reinventing the wheel over
+and over again at multiple companies
+democratize that and make that available
+to anyone working on
+on aai right so so data labeling
+why is it difficult why does it cost
+millions of dollars
+yeah give me the broader spectrum about
+this sure
+so it's a it's a volume it's a volume
+thing
+right it can be very difficult at times
+it doesn't
+always have to be but essentially
+algorithms have a really like
+human still have an advantage over these
+these robotic algorithms in that we come
+with
+you know this wealth of experience in
+the real world we have subjective
+opinions
+so i'll give you one example right think
+about yelp reviews
+you want to understand whether the
+reviewer is saying something positive or
+negative about things
+right people will employ sarcasm they'll
+employ you know
+all kinds of of linguistic tactics to
+to write their review and it's not
+always straightforward to understand
+so you need to feed the model
+lots of these examples so it can begin
+to understand
+um exactly how humans describe in this
+case
+restaurants yeah you know one of the
+things that i always alluded to when i
+when i think of nlp
+it's and the difference between just
+understanding the content of what we're
+saying but also the
+intent and i think of the onion
+and if i were to give you know a a
+computer
+and a regular machine learning algorithm
+you know 10 years 10 or 15 years ago
+a piece of the onion to read it would
+probably be able to
+to understand the content they would
+take it seriously and i imagine then a
+leader
+making decisions based on the onion that
+would be pretty funny and pretty sad at
+the same time
+and i think that's exact for me that's
+the distinction with what nlp is really
+about understanding the intent behind
+what the person was writing yeah that's
+a wonderful example
+great so so okay labeling volumes costs
+a lot
+how do you actually democratize that and
+help solve that
+right so i think the other thing to
+understand is everybody at this point
+has heard
+in the mainstream media all these
+advances in ai right like we're
+we're well into the ai hype cycle but
+the thing is
+um deployment is not fully out there
+uh we're still very early in the
+adoption cycle
+and so if you think about fortune you
+know 500 companies we
+were thinking about traditional uh
+industries like agriculture
+foresting oil right they may have
+allocated budgets
+towards uh deploying ai but
+we're it's far from being ubiquitous so
+far
+so i think we are um
+because there is still so much adoption
+left
+to be done in the coming decade uh
+i wanted datasource to be well
+positioned to be the data labeling
+um solution of of choice right
+now as far as democratizing it uh
+all these companies you know the googles
+and the facebooks and the apples of the
+world they're building their own
+internal tooling right
+but as somebody who you know comes from
+an engineering background as a product
+manager i see that purely as an
+inefficiency
+why is everyone rebuilding very similar
+tools if you had a designer today
+you wouldn't say oh let me go build this
+you know tool to help them design better
+you just buy photoshop or sketch or
+figma right
+similarly i want people to get to the
+point where if you have data labelers
+you shouldn't be thinking of building
+your own solution which is
+the the standard in industry today you
+should come to datasore and say oh
+well obviously i should just use this
+pre-existing solution
+so now here's my question and i'm
+challenging a little bit because it's
+i'm curious when you make the analogy
+for photoshop and figment all those
+you know there are 20 year old softwares
+that have potentially thousands of
+engineers behind them
+yet you need to generate revenue
+tomorrow to be able to raise your series
+a
+and then my question is so how how do
+you do that because
+if you go to the googles and facebooks
+with you know an mvp
+then they'll say ah our internal tool is
+well it's not good it still
+gives it's still better and more it's
+more specific
+to us and startups may not have the
+funds to pay for this so how do you
+actually
+go about bringing this to market until
+it gets to the level of photoshop
+yeah it's a great question and i think
+that is part of you know every startup's
+journey
+is like how do you compete against you
+know sometimes much better resource
+teams
+in this case we're fortunate um you know
+we i've had a peek
+at some of the tools that some of our
+clients have been building out and
+the thing is i've got seven wonderful
+engineers who've been working on
+at this non-stop for the past year and
+our solution is
+you know arguably the best and most
+comprehensive one out there from a
+generic standpoint right like it is
+already it has already surpassed
+what these teams have sometimes spent
+years building out internally
+yeah and the reason is this right if
+you're if you're working at
+apple and you want to and you've got
+some good engineers
+you don't necessarily prioritize their
+time to work on internal tooling
+you'll have them working on improving
+ios right like some of the main product
+lines
+and so our competition isn't always the
+entire organization we're competing
+against
+oh this engineer had a few extra cycles
+here and there
+right now that makes a lot of sense and
+actually when you boil it down then
+let's say a company
+a a huge company puts you know even 50
+people on this task
+they're working at the speed of a
+corporation whereas if you have
+you know 10 people working at the speed
+of a startup then that's that's a much
+easier comparison that that's in your
+favor that makes a lot of sense
+so you know let's take me down take me
+down the road of data sore
+you know five ten years from now and
+alongside
+what is happening to nlp and artificial
+intelligence
+and where are you positioned with that
+yeah
+um well five to ten years is a long long
+time in
+in the world of tech right that's what
+you're committed to no
+it is it is but i also think about
+things this is the product manager at me
+i think about things one
+step at a time right so um let's talk
+more about
+short-term goals for for the time being
+in the next year or two
+i want to be that de facto standard for
+nlp labeling right if you have
+uh nlp labeling to be done you should
+just immediately think of data store and
+say well
+yeah we should definitely use that tool
+so we want to make sure we focus
+on nailing that use case first and
+foremost beyond that
+there are different avenues that we can
+go down right we can
+um work into work our way into other
+media verticals as well
+so for example audio has a lot of
+synergies and we're seeing with you know
+in
+in-house living room assistance like
+siri and alexa
+we're seeing a lot of advances in voice
+technology as well yeah well what
+happens once you've transcribed these
+these voice transcripts right you'll
+want to do the same types of labeling
+that you do with text you still want to
+detect that sarcasm you still want to
+detect the entities so there's that's a
+natural extension for us
+and really once we have our foot in the
+door and we have companies coming to us
+for training
+that training data to build their model
+we can maybe help them with other
+elements of building the model as well
+yeah and i think your experience is is
+pretty extraordinary for the
+circumstance of what you're doing given
+that you
+you've done you're an engineer by
+profession you went on to become to
+founding a company selling that company
+going through that whole phase
+product management in two large
+companies
+with machine learning background and now
+doing this knowing the tools that are
+internal
+and having experienced them yourself so
+i i mean i vouch for this
+and myself you have something also
+that's special about your team that's
+not
+very common to silicon valley right um
+in the way that your team is actually
+not in silicon valley a lot of them
+that's true so tell me about that so how
+is that
+yeah um i'm just in a really i was in a
+really fortunate spot when i started
+this company
+um i was able to start this with five
+engineers right off the bat
+um so my team as you are leading
+alluding to uh they're actually
+based in indonesia and so we have a
+fully remote team
+um and even within indonesia you know
+they're based in three or four different
+cities
+so we are by our very nature distributed
+um i thought that this would be more of
+an anomaly
+um i thought this would raise a lot more
+eyebrows with investors
+but you know having gone through the
+recent y combinator batch
+having spoken with investors this is
+becoming the new norm
+uh you know it's
+there's so much demand for for engineers
+in silicon valley that it's becoming
+very difficult for startups to get the
+right engineering talent here
+and it's a global economy in a global
+world right and so we've been operating
+remotely from day one
+and it's worked out really well for us
+so far yeah and i think i think
+the real test is time and i'm sure that
+as you go through y combinator
+raise your your recent round and you're
+showing the results of what your remote
+team has done i think that's amazing
+and i'm guessing then that you're pretty
+thankful for having this
+remote team that's very efficient in the
+times of corona right when a lot of
+companies are struggling moving remote
+now by force
+you did it by design previously
+that's right 100 ivan three words
+that describe you best oh man
+um all right so i was thinking about
+this from the start
+uh i think
+three words to describe me right not the
+company describe you if i were to ask
+anybody around you what is ivan like
+what are the three
+characteristics that are most important
+to him
+okay
+i think loyalty loyalty empathy
+nice and is that from the product
+management side
+the empathy i think it's from multiple
+facets of my life
+um and then the last one i would choose
+is is playful
+love it ivan thank you so much
+thank you michael this is wonderful
+great and a pleasure

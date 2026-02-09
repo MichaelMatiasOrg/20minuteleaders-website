@@ -1,0 +1,679 @@
+many times in education we teach people
+selling this is the problem this is the
+solution
+and this is one of the unique cases
+where this
+wasn't the approach but approach was
+okay this is a problem
+go figure find a way yourself welcome to
+20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+my next guest is one of the most
+inspiring entrepreneurs in the israeli
+ecosystem
+in the cyber ecosystem but in general
+meet avi shuwa
+ceo and co-founder of orca security avi
+is the co-founder and ceo of orca
+security he has more than 25 years of
+experience in cyber security
+and prior to co-founding oroka avi was
+the chief technologist at checkpoint
+software technologies
+and held key positions within unit 8200
+of the israeli nsa
+while at checkpoint he built and scaled
+cyber security solutions that continue
+to protect
+tens of thousands of organizations to
+this day avi believes that cyber
+security products should always support
+the organization
+and not the other way around avishua
+welcome to 20 minute leaders how are you
+great thanks for having me i i feel like
+i'm
+in the orca security offices and it's
+really really cool
+uh avi i'm excited to talk about your
+background thank you for joining me here
+your your journey to olga you know i i
+can't wait to hear a little bit more
+about it and i want you to take me back
+all the way
+to robotics championship what is that
+about
+cool so this is definitely an
+interesting story and i always give it
+as an example when people
+ask me when they have a critical
+deciding points in their lives
+what should they do so they choose age
+so they choose b
+that the thing that actually affect your
+life are moments that you probably never
+gave a lot of attention to
+and it's a really fun anecdote story but
+it's 100
+real when i was around the 17 years old
+there is the time where as you know
+you're about to enlist in the army
+you're getting invited to
+several tests to join several
+opportunities
+and i got invited to an opportu to a
+test for the israeli intelligence
+for some new a course in a
+regarding to computing to cyber nobody
+even called it cyber event back then
+nobody knew about it it was probably the
+second
+called it wasn't like today that anyone
+says okay i'm getting invited to the
+screening the 8200 go for that
+and i said okay i want to go but at the
+robotics championship the same day
+so he called the idf ask can it be
+rescheduled and told me no this is
+unfortunately the last time it can
+happen will you able to make it i said
+i'm not sure
+because the championship is literally
+finished 15 minutes before
+and it's like 30 minutes drive with the
+traffic or should they do
+tell me okay if you come you come if you
+don't you don't
+uh frankly i got her
+the traffic was light a day but it was
+literally a difference of five minutes
+uh if the traffic was slightly tougher
+or the champions it was slightly longer
+that wouldn't go to the test and my
+entire career would be
+completely different i i just have to
+put things in perspective
+here i also took part in this robotics
+championship
+uh perhaps the most intensive six weeks
+any 17 year old can imagine
+you're given a challenge in around
+december from that moment you have six
+weeks to build a fully functioning robot
+that can do something as meaningless as
+shooting a basketball into a hoop all
+the way to playing soccer or solving
+challenges and so i can very much relate
+that nothing
+trump's coming to the championship with
+all the excitement
+in the nokia stadium and so avi
+tell me a little bit about you know
+going back to the robotics
+what was about that experience that you
+think
+you know made you want want to be there
+so badly so much that you might even
+forgo
+going to the 8200 unit challenges
+so first uh just to put it in
+perspective i didn't know what is 8200
+and what is this test
+all about it wasn't an informed decision
+okay i'll pass it but
+i think the very nice thing about these
+robotics championship and these programs
+is that it
+allows young children to essentially
+become
+entrepreneurs in a sense and managers
+and to lead projects
+because the end of the day for this
+robotic championship was
+very simple you needed to build a robot
+that find a
+candle in a maze and put it off and this
+is your goal
+and this was essentially a go at the
+same time
+how do you program it what do you build
+it from how do you manage that thing
+we don't know go figure there's
+naturally some mentos but there's no
+playbooks unlike
+and you know this is one of the things
+that i really think that is there
+uh that in education are not we don't
+put a lot of emphasis off
+is that many times in education we teach
+people
+we're selling this is the problem this
+is the solution
+and this is one of the unique cases
+where this
+wasn't the approach but approaches okay
+this is a problem
+go figure find a way yourself and this
+is i think the most
+important thing about in this experience
+and throughout
+the i mean the thing that makes uh you
+know israeli startup nation
+is that we are very much accustomed to
+this approach of
+this a problem go find a solution and
+not grow search what is the best
+solution that was found
+out there right right i i completely
+agree
+and i've been hearing it over and over
+again you know it's not just about
+the challenges you're presented but it's
+the fact that they're so genuine and
+innovative in nature that
+it very rarely you can rely uh on
+previous experiences and so you finish 8
+200 and you and
+obviously come out of there with a lot
+of knowledge and and from what i
+for my i gather you know confidence in
+this problem-solving mindset
+checkpoint you do an incredible things
+at checkpoint
+uh responsible for much of the
+technology and here comes
+the new baby orca security right
+yes so in fact it's it's been 11 years
+i've been 11 years in checkpoint
+it wasn't like i went to the army then
+did two years and then started my
+company
+like many do and i think that
+the very nice thing that the checkpoint
+part was for me is to learn and
+understand how businesses works
+because in the army you learn very well
+technology
+you learn how to build technology you
+build essentially the muscle
+of how to solve large borders you don't
+learn how organization works you don't
+learn how businesses works it's
+extremely different
+between the way that you do it in the
+army and how
+it works in real life and let me give
+you an example and always say that i
+would never
+ever build awk the way that we built it
+if i hadn't add my experience into
+checkpoint
+you know as a technological person
+you're presented with a problem for
+example the problem is
+i want to assess the security of a
+system and what is the most
+the easiest approach technically go and
+install something on it
+go and scan it because this is there is
+a system go and solve what is the issue
+but you need to work in organization to
+understand that organization
+are a completely more complex beast
+that's something that might work when
+it's two people with a machine or one
+development team doesn't work with
+a multi a continent organization that
+have hundreds of department that each
+one of them
+have their own goal agenda you don't
+understand how businesses processes
+actually work
+how friction exists in large
+organization
+and what actual problems it creates that
+are a combination of people technology
+and processes
+and this is something that there is no
+way to learn in my opinion besides
+actually seeing working with the people
+working with the customers understanding
+how their day-to-day life work and then
+you can build the technology that
+actually solve their problems which
+might be
+extremely different than what you
+envision as someone who's
+purely focused on technology right and i
+think one of the most amazing gifts
+that a unit like the 8200 gives is the
+fact that you get to build
+products that are incredibly meaningful
+and they're
+highly secured and they're highly
+sensitive yet you don't really have to
+deal with a lot of this
+product and selling and business stuff
+so you you get a gift and then you
+you leverage that gift by complementing
+it with 11 years at checkpoint
+and then you know translating that
+technological ability but also
+understanding that okay as a leader i
+have to be fluent
+in this whole world of business i love
+that analogy
+thank you definitely you know you learn
+in the army
+very well how to build technology you
+learn how to work with people you have
+to
+add the pleasure of working with
+extremely talented people and
+solving extremely hard problems but at
+the end of the day
+in the army of a very simple customer
+the customer is internal
+there is not a lot of selling and uh
+the challenges are very different and in
+the real world
+and i think that i've seen it in
+many cyber security startups that had
+extremely great technology
+of people that went out of the army and
+this was probably the most secured
+secure technology out there but they
+weren't good in the sense that they
+were actually applicable to real-life
+situations
+and this is important thing because in
+real life there is much more compromises
+than in a military world and these
+compromises are people that have jobs
+that needs to do
+things and i think that this is the the
+success of orca is essentially because
+this not
+it's not because this is a cool
+technology there's a lot of cool
+technology out there
+but it's a cool technology that solves
+friction that allow people you know i
+had a customer that told me
+you know if i needed to install agent
+they needed to coordinate with 300
+people across the organization
+there's no chance in hell that i'll be
+able to do that and
+these have security implications because
+naturally if you miss
+20 then they are not secure if you can
+skip that
+you save time you save money and you are
+more secure and this is something that
+might sound a technological person is
+something that doesn't make sense what
+is the problem going stolen agent so
+simple people have been doing agents for
+decades so i really believe that this is
+the
+important combination and frankly one of
+the things that
+i think happens with the maturity with
+the of
+the cyber security industry these days
+is that more and more businesses are not
+from people that have been in this space
+that are not just you know
+uh people that have been out of the army
+just seen cool technology and create
+school
+cool technology and then with the goal
+of exiting and selling the company for
+uh several 50 100 million dollar but
+actually building meaningful businesses
+and i believe that this ever strategic
+meaning to israel
+because the cyber security industry is
+by far one of the fastest growing
+industries in the world
+and there's absolutely no reason that
+israel won't be won't take dramatically
+large percent of this and not only by
+selling technology to
+other phone companies right and and so
+orc i believe just a month ago
+uh with an announcement of google
+leading 210 million dollar series c
+and my memory is already fading but i
+but i remember the headlines very very
+clearly
+because it was such a big and we and i
+told you this right before we started
+it wasn't just you know a orca raising
+fund
+it's israel the israeli ecosystem
+another company that manages
+to to raise a substantial amount and be
+a dominant player in the world and you
+know from
+moving from startup nation to to exit
+nation to scale up nation and this is i
+believe
+you know one of the most amazing stories
+that we're all so proud of in the
+ecosystem and
+just creates room for so many more
+israeli entrepreneurs to to gain
+inspiration
+and and what i'm hearing from you is a
+lot of that ability was also
+translated from the fact that we spent
+11 years in checkpoint maturing
+business-wise not being hasty with cool
+technology but really understanding
+what the world needs and that's how you
+build a billion dollar company in the
+end right
+completely and by the way something that
+it's important to emphasize
+uh okay is we are not one it's not a
+one-man show
+and it's not one person for not one
+founder and we're founded by a group
+of eight co-founders that were all
+former checkpoint executive and
+architect that each one of us brought
+different uh skills to the game
+and i think that what makes oak clinic
+and i you know at the beginning when we
+started the company
+i didn't unders underestimated by sense
+the fact that this is going to be like a
+magnet
+for an extraordinary number of talented
+people
+that essentially joined and this is
+essentially what allows us to grow
+so fast so uh you know people many times
+say cool you you raised 200
+million dollar in the last round it's
+close to 300 million overall
+so it's game over but the real answer is
+that it's
+exactly the opposite this is that's the
+beginning with every
+investment you're taking a larger
+obligation to build the larger company
+your investors don't want to at the end
+of the day
+takings many people
+ask me is okay so you talk about
+building a large company but the end of
+the day when someone offer you you'll
+sell the company
+and i always say no we're not trying to
+sell the company
+but with the latest round i think that
+it's more than worth its actions because
+we are out of the ranges of any
+large player buying orca or not in the
+market but
+really on a much longer term journey
+of building a massive cyber security
+company
+i love that perspective i think that
+you're right when you say that
+a lot of people can see the headlines
+and say okay well great it's game over
+now
+they won great now and everything but
+you're actually just you're you've
+chosen you've opted in
+to compete with the with the greatest in
+the world and you could have chosen
+a different route but you chose to
+compete and now the hardest work begins
+when you're actually competing with the
+best in the world and you're
+you're in the big players league and i
+just love that eight co-founders
+how how does that even how does that
+even work
+so it works incredibly well and by the
+way there is some precedences to that
+uh by the way melanox at eight
+co-founders
+and uh ali i think that alibaba had 18
+co-founders and the vast majority of
+them are still in the company i think
+that the key for that
+is a good uh understanding what
+everyone brings to the table and it must
+be different things
+you know i've been a developer of my
+most of my career
+and i love developing and unfortunately
+i haven't fought a single line of golden
+orca
+on the other end i have amazing
+architects that
+are leading the development and doing
+things that people said that can't be
+done before
+and they are not leading the management
+of the day-to-day business
+of course at the beginning it took us i
+think some time i think it took us only
+a few weeks to
+uh for thing to settle and to then who
+is doing what
+but at the end of the day i believe that
+almost the more the merrier
+in a sense it's not a one-man show it
+can't be a one-man show and
+to build strong things you need great
+people and it's
+better to build to bring them as part of
+their coating
+i love that so you're starting orca now
+you're now in the position of a ceo and
+you're a technologist and you realize
+that at the end
+ceo translates to leadership you know
+internal
+external 360 degrees like they like to
+say
+in the army anything surprises you
+as you go on this journey to build this
+incredible company you know as a leader
+then you said wow you know throughout my
+years as a developer and a checkpoint
+i didn't i didn't realize i'm going to
+be confronted with this challenge
+so uh one thing that is more it's not my
+first leadership poll though
+i managed a large organization also
+before so
+while i the passion of technology it's
+not my
+first opportunity managing now the thing
+about managing in a startup
+which is both challenging and exciting
+is at the end of the day
+unlike even high level management in the
+company
+you are responsible for everything
+literally everything there is no one
+else
+and but there are also no boundaries
+in a sense you are making your own
+boundaries and this
+is extremely exciting and
+because nothing prevents you need to you
+own everything but there is nothing that
+prevents you from taking it
+to whatever path you wish for example
+i am a big believer i'll give an example
+of something that
+i'm not sure if you saw that happened us
+when we were thinking about marketing
+i'm not sure if you are going to the
+website of cyber security companies from
+time to time but when they do
+one of the things that i sometimes see
+is that even though i'm in this
+industry for more than a two decades i
+can go
+see the first page of the company and
+understand what they do
+we go i've done this experiment with
+many companies where i just
+put two minutes into seeing the first
+page of the company and they still don't
+understand what they do
+i thought i was the only one that feels
+that way i'm going to know
+you can and even if you understand what
+they do you don't understand
+why their solution why they believe that
+their solution is better than the
+competition not if you should believe it
+but why they
+claim that their solution is better than
+the industry
+and i'm not a big marketing expert but
+said okay
+at the end of the day now are my
+customers so let's present them with
+facts let's and we learned something
+that i was a big believer in
+that i don't think that they've seen any
+other startup do which essentially we
+call the punch out i didn't
+i hired someone who is not a marketing
+person but a technologist that simply
+created lab and installed the
+competitors and our solution in same
+environment and recorded it in 10
+minutes youtube video now people told me
+you are mad nobody is going to see 10
+minute videos
+you know it's too long for martin said
+but if i'm a practitioner and i can see
+10 minutes video instead of putting a
+month
+trying to test is probably a good roi
+and people told me you know but
+competition will
+uh usually will block it legally which
+they tried
+but we decided to go for that because
+they believed that the market
+loved it and this is something that
+would be
+almost impossible to run in a large
+company i won't say impossible but
+almost impossible but in a startup you
+can take this approach and simply do
+that
+or uh and i can give numerous more
+examples where you can get an amazing
+results
+when you just don't go and do the
+standard thing that everyone is doing
+and this is the thing that excites the
+everyday thing just think about the best
+approach and not
+try to say okay what is the playbook for
+that because bigger organizations are
+good in playbooks and startups good in
+finding the best solutions
+i love that avi thank you so much for
+coming i really appreciate it
+i have a few last questions for you are
+you ready
+of course all right we'll start off easy
+your favorite subject in school
+kindergarten to 12th grade
+in fact philosophy i had assistance
+learning philosophy and i am a major in
+both computer science and
+philosophy wow okay i love that
+one of your role models professional or
+personal
+so in fact i don't really love this uh
+question because i don't believe in role
+models in a
+uh you know i think there's a lot of
+people that have learned a lot of things
+but
+there is no one person say okay is my
+role model everything
+i really think that you should see learn
+good ideas
+but don't try to follow a certain person
+i think that's one of the best answers i
+got for this question and the last
+question
+three words that you would choose to
+describe yourself or if i were to ask
+anybody who is avishua
+what would they say so
+i believe first is not a good riven i am
+the least a good driven person and i'm
+extremely analytical
+i don't believe in a a gut feeling
+and i'm a big believer in me in people
+in the team
+i'm a big believer in teamwork and not
+about
+being a one-man show i love that so we
+have
+not ego driven we have teamwork and what
+was the last one
+extremely analytical i'm not a big i'm
+not believer in gut feeling
+you know i've i'll give an example i'll
+i don't really trust my judgment in
+interviews mostly i really prefer to see
+data exam
+results or not okay i feel that these
+guys strong or not
+right i i love that and uh you know at
+the end
+i can only imagine the journey that one
+has to go through
+you know starting a company bringing it
+to what it is today after all and
+holding the position of the ceo and
+constantly understanding the implication
+of the decisions you're making
+that perhaps in the beginning they're
+more for the team and for project market
+fit but
+now they're across a wide range of
+constituents that have different
+incentives and i can only imagine the
+struggles but we're going to have to
+leave
+that to another episode avi toda thank
+you very very much
+and stay safe and stay healthy and best
+of luck with orca security is just
+amazing
+thank you so much thanks for having me
+stay safe
+you

@@ -1,0 +1,629 @@
+when you create a new category it takes
+time
+it takes more more of the analytical
+uh
+thought process it takes more
+experimenting you just speak with more
+and more people
+end users partners uh people in in the
+industry
+um and yes it it wasn't easy uh it isn't
+trivial but i think the moment you kind
+of find
+find that and you know find the product
+market fit really and then also to go to
+market
+that is uh
+that's you know is that's the point
+where everything kind of changes
+welcome to 20-minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance oppos labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+welcome to 20 minute leaders meet roy
+degan the ceo of secure
+a leading security and iot expert with
+over 15 years of experience in product
+management and business development from
+various high-tech companies
+prior to co-founding security things roy
+led product groups and successfully
+launched multiple product lines in the
+cyber security risk management and
+intelligence domains at companies
+including rsa the security division of
+emc
+nice systems and payoneer
+roy served in various positions in the
+idf elite technological unit and holds
+the bachelors of science in computer
+science and management from tel aviv
+university
+roy degen welcome to 20 minute leaders
+thank you so much for being here i'm so
+excited for these next 20 minutes how
+are you
+good good michael how's it going
+i'm i'm doing well thank you very very
+much it's a stormy evening here in tel
+aviv for the both of us but we're we're
+warm and cozy and i'm excited to have
+this you know authentic and fun
+conversation with you both about you
+know internet of things and what's been
+happening to our world and how in how
+the hell can we you know maintain them
+uh both infrastructure wise and secure
+wise at scale but also a little bit
+about yourself and you know who you are
+as a ceo and as a leader and and tying
+it a little bit to some of the other
+things that you do in life so we're
+gonna have a great conversation rory
+tell me a little bit about secure things
+and and how that whole thing started
+sure happy to do that so uh secure
+things uh we started a few years ago
+initially kind of focused on iot cyber
+security uh that was kind of the main
+topic that we wanted a challenge we
+wanted to tackle and then what we saw is
+that um you know if initially we tried
+to target
+more address manufacturers uh we
+actually decided to focus on enterprises
+because we see the the challenges that
+enterprises have are huge
+um and again with that cyber security
+offering the second thing once we
+started speaking with more and more
+enterprises and more partners in this
+ecosystem of iot
+we actually discovered that cyber
+security is part just part of the pain
+right so the pain is definitely cyber
+security and especially when it comes to
+these devices but it also includes
+aspects of compliance
+which is kind of in between and also the
+operational management of these devices
+so you have a lot of devices you don't
+even know if they're working properly or
+not um and that's kind of where we
+decided okay this is this is the thing
+this is what the market needs yeah and
+we decided to
+embark on that journey and also create a
+new category uh which we coined the term
+uh earlier last year which is iot ops uh
+so what we do today is really iot ops uh
+and we're really helping enterprises
+manage these devices in an efficient and
+secure
+manner and that's all we are about and
+you know if you think about it we're
+kind of creating an equivalent it system
+for these iot spaces for these teams
+which are responsible for those devices
+what's happening in the world you know
+pay me you know take me 30 000 feet in
+the air
+you know what what is happening today
+with iot devices why is this the right
+timing for secure things
+interesting question and i think a lot
+of things are happening so first you
+know uh digitization so more and more uh
+ip based devices uh meeting you know for
+years uh have been meeting networks and
+have been meeting enterprises and then
+just proliferation of devices
+and what you're seeing is from an
+enterprise perspective they're not just
+working with a single vendor single
+thermal version single model of a device
+they just it's all over the place so
+they have many types of devices many
+versions uh many models um and
+different capabilities with these
+devices uh so that's one thing so it's
+kind of the proliferation uh then it's
+the lack of consolidation okay so they
+have different systems that they need to
+work with in in the best case they have
+a system in other cases they they don't
+really have that system uh and it's
+really then challenging to know from a
+single kind of pane of glass what's
+going on
+then the next thing which was seeing it
+happening is there was also
+uh the people which are responsible for
+these devices now are pretty much you
+know they have i.t capabilities nowadays
+so they kind of know okay there is a
+better way to do these things that were
+doing you know they were doing either
+manual or very reactive after the fact
+and they're seeing kind of their the iit
+counterparts and the id counterparts
+have so many systems right you know how
+many categories there are in you know
+the id space how many systems and tools
+and they're like okay we're missing
+something there's definitely a better
+way to do this
+um and you know we actually saw that
+over the last course of the last few
+years and that's why i said okay we need
+to create that equivalent of the ic
+system for these guys and you know it's
+pretty exciting because it's a new
+category uh and once you know they see
+the the presentation they see the demo
+like wow when can we have it deployed
+and then you know we also talk speak
+with them about how simple is deployed
+exactly and we speak with them about
+simple it is to deploy which is also
+surprising for them because there is a
+really long project of deployment of the
+devices themselves and we're like no we
+can deploy in less than a day
+um and then you just see once we deploy
+they're like oh this is nice this is
+neat so yeah it's it's it's pretty
+exciting and i think you know generally
+working on a new category is is hard but
+it's it's the reward is amazing
+i love it and so you created this
+company and today you're you're sort of
+leading this ship and you know just like
+any leader you're faced with tremendous
+challenges and you know i truly believe
+that every person you know in the world
+is a leader in their own domain a role
+model for somebody
+somebody that's always looking up to uh
+but
+you know you have a more difficult task
+because you literally chose a leadership
+position and facing the trenches of a
+startup life
+first of all why
+why do you need to be the leader of the
+startup
+oh it's easy no startups are easy
+um
+that's what i've heard
+yeah no why i don't know it's a it's
+kind of uh like somehow someone said a
+few years ago to me he said it's kind of
+a bug you need to get it out of the
+system
+uh right uh if you have that bug you you
+just you know you need to and i've kind
+of known it for years so i worked for
+various corporates right i worked for
+rsa worked for nia systems i worked
+smaller companies pioneer and other
+companies uh but it was always
+there you know also if we go back you
+know intelligence
+uh units um and it was always there so
+it's just a matter of when is the right
+time uh to start and you know work on
+the startup and i think it's um
+it's you know thinking about okay this
+is how how we're gonna grow and create
+something big and you know add more
+people and it's every kind of milestone
+that you reach is so rewarding it's so
+fun you know and you see more people
+join a team and you know everyone you
+know it's it's great relationships and
+you become friends and i think it's
+really about that kind of journey and
+it's uh
+it's pretty unique in my opinion you
+know that startup journey obviously yes
+it is it's not easy it's definitely not
+easy but uh it's it's rewarding
+is it all
+based on intuition you know reaching all
+these new experiences all these new
+struggles and trying to sort of climb
+out of climb out of them and using your
+intuition is that is that how it works
+for you or how do you go through about
+this you know leadership thinking
+process
+um so i think it's a combination of
+being uh analytical uh intuition and
+experimenting
+right you you like you look at a problem
+like you want to solve okay what is the
+um and you know in my career my entire
+career has been around product
+management and leading product
+management teams uh so i kind of think
+as that kind of product manager
+um and you kind of see this challenge
+and you're like okay i have a guess
+this is what i'm gonna i'm gonna do so
+it's kind of being analytical about the
+data you have uh putting your own uh
+intuition into that but then
+experimenting you know um you know and
+start quick and fail fast right uh but
+then experiment and do it again uh so
+that's kind of the way the way i see it
+and the way we you know it's also the
+rest of the company that's the the way
+we work obviously being careful like if
+the the product the solution is in the
+hands of the huge customers uh but still
+we're kind of in that kind of uh you
+know agile very agile mode
+so you're talking about this thin
+balance between
+uh the being analytical being
+experimental having the intuition and
+now i i saw that you were
+competing for rock climbing for many
+years and you know i can reflect back to
+maybe one or two experiences that i've
+only had you know rock climbing but but
+i reflecting you know looking at this
+whether it's you know bouldering or
+whether it's climbing high
+there's something that's very analytical
+experimental and intuitive about the
+process of defeating this rock right
+yeah it's actually true and i think
+so i used to compete back when i went
+more when i was younger when i was a kid
+for years
+but i've been climbing pretty much since
+i was uh 13
+uh i guess wow um and i think it kind of
+puts you in this uh certain state of
+mind
+right uh because it kind of makes you
+what you are as a client but at least
+after so many years of climbing and
+especially when you're kind of growing
+up as a kid and you know spending most
+of your time in the in the climbing gym
+or outdoors um and yeah it becomes you
+kind of you look at this you know you
+come to the gym and you look and you're
+with friends you look at this route and
+you say okay this i can do this this is
+easy right you start the first move oh
+no this is harder than i thought
+and then you get to the kind of mindset
+that you need to have that level of
+tenacity and endurance
+and you need to kind of get to that
+state of mind and you kind of become
+fixated with this uh you know with this
+route that you want to send that you
+want to finish and it's similar to kind
+of the startup you know experience
+uh where you really want to
+focus on startup grow it but also again
+have the tenacity and endurance
+and believe in the mission and the team
+and what you're doing but always kind of
+fix it so also in climbing you know
+in between sessions you're thinking
+about the rally you become fixated about
+it you think okay how am i gonna come
+next time to the next session i'm gonna
+do some moves differently i'm gonna work
+in between sessions and you know
+improving some core strength or
+something and then i'm gonna get it and
+the same kind of you know the iterations
+that you have uh within the startup so i
+think it's a lot of it uh which kind of
+um uh it's part of the
+what got me to kind of where where i am
+today
+is it also similar on a mental level and
+on an emotional level you know when
+you're sitting there and you're alone in
+front of the rock and it's basically
+you're trying not to figure out what you
+need to do better obviously here at a
+startup you have a team behind you but
+but still with the team
+you oftentimes have to make a decision
+and that decision is not trivial and
+then you have to sort of guide this
+whole process the whole ship towards the
+decision that you do believe is right
+but the way to get there is not
+traveling you might have to do many
+iterations to get there
+yeah so i think there's multiple things
+here which you just mentioned then they
+kind of i can relate from the world of
+climbing so one
+um it's kind of being the zone
+right uh and yeah you have a team around
+you but and you have you know friends
+where you're climbing uh but i remember
+especially when competing as a kid um
+there's audience and there's it's
+there's a lot of noise and the crowd is
+cheering but the moment you start your
+attempt
+that's it
+it's kind of you know it's noise
+cancellation you can't hear anything
+you're just focused on what you need to
+get done and you just again you're in
+that moment and in that zone and also in
+startup sometimes you need to change
+kind of the you know state of mind
+sometimes yeah you're listening to
+everyone and you're kind of getting
+advice from from the team and for other
+people and at certain times you need to
+kind of be in the zone and say okay guys
+this is what we're doing we're in the
+zone yes let's uh focus on this there'll
+be a lot of noise a lot of competition
+all of this a lot of that but we need to
+be focused on on what we're doing and
+what we want to want to achieve uh
+there's definitely also the aspects of
+teamwork and how you know we're we're
+improving
+um you know together as a team and also
+the kind of the advice you get from you
+know other people whether it's you know
+advisors or experts or the the team
+itself and it's the same kind of in
+climbing and having that kind of uh
+counterparts which are working with you
+on that attempt or throughout you know
+just friends which you climb with
+together um so that there's definitely
+some resemblance there
+so going back to the the day-to-day of
+of secure things you know where's the
+exhilaration for you right i mean it
+sounds like you you opt in for a lot of
+adventures and you've had quite a lot of
+experiences in your life from relocating
+to competing to working at some some
+companies that i love and and that
+they're helping power the show as well
+but
+you know where where is the acceleration
+for you
+both in the day-to-day of the company
+but also on the macro level of where
+you're trying to build here
+so so many areas uh you know and there's
+uh so many milestones that you get to
+you know it can be funding
+milestones which are important and you
+know you then also tell the rest of the
+team and everybody is excited so for me
+seeing also the team excited about each
+of these milestones so funding you know
+seeing how they uh think about it is
+great
+um it's also you know i remember like
+putting the the product in the hands of
+the first few customers and seeing how
+they react but again it's also for me
+it's always looking okay how is the team
+how do they feel about it and you know
+getting the feedback
+from end customers and how hand
+customers also talk about the team and
+the service we provide that for me is is
+is is amazing that's a a great um
+achievement kind of i feel personally
+and then you know it's also the bigger
+bigger mission that we're
+creating a new category we're trying to
+kind of uh you know change the space uh
+we're kind of digitizing the space which
+has kind of been
+left behind i'd say and putting a
+solution which is really kind of
+changing
+the lives of our you know the customers
+the end users uh and seeing their
+appreciation of it and you know how it
+helps them on the day-to-day
+that for me is you know it's it's pretty
+again pretty unique
+where you know if you're looking back at
+the beginning of of secure things how
+trivial was this for you that this is a
+problem that needs to be solved because
+you're talking about the new market
+you're talking about a new category
+you're talking about iot ops this is the
+first time i'm hearing of the term iot
+ops
+how how obvious and how intuitive was
+this for you versus how much research
+you have to do to to sort of you know
+find your way to this problem
+um it took us time so it's definitely
+when you create a new category it takes
+time
+it takes more more the analytical
+thought process it takes more
+experimenting you just speak with more
+and more people uh
+end users
+partners uh people that are in in the
+industry
+and yes it it wasn't easy
+it isn't trivial but i think the moment
+you kind of find
+find that and you know find the product
+market fit really and then also to go to
+market fit
+that is uh
+[Music]
+that's you know it is that's the point
+where everything kind of uh changes
+right that's the point where everything
+kind of starts accelerating um and you
+just need to kind of
+i'm always that
+i'm always fascinated sorry to introduce
+because i'm always so fascinated
+that you just said that this moment that
+you were understanding that okay we have
+this product market fit and we're we're
+ready to go like we have this conviction
+we have our team behind me and you know
+i can just imagine you know you're in
+the position of the ceo saying like
+having that feeling like wow
+i know we were reaching product market
+fair and i can't wait to share this
+feeling with my whole team
+was there a specific moment that this
+happened or did this happen gradually as
+you were building out secure things
+so
+i think
+it happened over time because
+for me i believe like you know as a kind
+of product manager uh there's different
+level of product market fit
+right and product market fair also
+includes marketing and messaging and a
+lot of things and it takes constant
+iterations and constant improvements and
+also that at the same time the market is
+also changing right and you always need
+to continue so improving and
+accelerating so
+there is a single point where you
+probably you know the first few
+customers that start working with this
+and say okay yes this is amazing but
+then it's it's it's a kind of it's it's
+continuing and it's always happening and
+you can always improve that product
+market fit so it's not that point of
+time which boom that's it we're done
+it's okay now it's more marketing now
+it's the sales machine and how we build
+that and how we do we um uh really um
+but it's the feeling that's in the way
+is the vibe different at that point is
+there a shift
+maybe in terms of the confidence in
+terms of the motivation
+the the mission-driven mentality how do
+does this change at all
+yes but i think it's also very personal
+so for me it was like okay we found it
+what's next i think it depends on the
+other people may you know celebrate a
+bit more and you know be in that moment
+i'm like okay now how do we grow this
+you know bigger
+and faster and what do we do
+need to do next but there's definitely
+that moment where you see
+okay we got it like this is the product
+this is the category let's continue in
+this uh
+in this uh route but always kind of you
+know finding what is the right exact
+direction
+incredible if you had to go back to roy
+a
+before
+security things was just starting out
+with everything that you know today
+everything that you've experienced all
+those countless hours of experiences
+that are mounting
+what would you tell him well what are
+some things that he would say that are
+non-trivial for a young entrepreneur to
+know
+don't do this
+no i'm kidding
+i don't believe you
+i'd say it's a it's a great ride um work
+you know find the the right people the
+right team
+enjoy the ride uh you know there's a lot
+of uh you obviously i think in in a
+startup when
+you know when you build it as a ceo
+you every that your um your response
+your job changes all the time what
+you're doing right that's different when
+you're like
+two people
+five people 10 people 20 people it just
+changes all the time so there's so much
+you learn uh at the start which i think
+is very hard to learn in it pretty much
+in any other position
+um especially as a kind of the ceo
+um so it's hard to say uh because it
+would be like a long session of hey hey
+roy this these are the lessons learned
+and there's been you know there's been a
+quite a bit of lesson learned during the
+this period
+i love it roy if you had to choose a few
+words to describe yourself or if i were
+to ask anybody insecure things how would
+you describe roy in three words what
+would those words be
+roy oh
+that's a tough question i have no idea
+i actually
+enjoying the ride i'll take it but i was
+gonna say that i that the answer he gave
+me before that was my favorite answer
+until now i have no idea i think that's
+a that's just as good of an answer
+yeah
+probably some other people need to
+answer that question
+exactly roy thank you very very much i
+really really appreciate your time your
+energy your insights your background i
+love the fact that you're chasing after
+this new cat this new category you have
+incredible investors that are that are
+partnering with you with with great
+validation and and i just think it's
+such an awesome journey thank you so
+much for sharing it with me and stay
+safe and stay healthy
+absolutely my pleasure michael thanks a
+lot
+thank you
+you

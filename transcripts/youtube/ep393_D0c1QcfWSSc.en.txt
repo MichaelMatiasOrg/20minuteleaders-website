@@ -1,0 +1,678 @@
+working with biological data i think
+it's some of the most interesting things
+you can do in uh with machine learning
+these days it's um
+the data scale is huge
+the applications are are amazing it's
+very high dimensional
+uh it's uh and there's like so many sort
+of features of you know about like
+working with biological data that you
+just can't um
+have somewhere else welcome to 20 minute
+leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc found in silicon
+valley
+in partnership with lomitek and
+sponsored by hippo insurance
+touring opposed labs and hillel stanford
+i rarely get
+truly inspired by a startup or a company
+or a mission but this company is
+unlike any other i've met when i walk
+into their offices
+i see some of the brightest people i've
+ever met in my life and when i think
+about the challenge they're trying to
+solve
+i get truly excited and inspired meet
+louis volch
+chief technology officer and co-founder
+of immuni
+louis f warlock is the chief technology
+officer and co-founder at immuni
+where he is helping bring
+transformational change to immunology
+cancer science and beyond muni has a
+team of over 60 experts in machine
+learning software immunology and
+genomics technologies
+and are focused on mapping and
+reprogramming the immune system
+which has allowed his team to build the
+largest database for immunological data
+in the world
+previously warlock was the head of data
+science and machine learning at israel
+tech challenge
+and worked on a variety of genomics and
+ai effort industries
+including volunteer and at mit louis
+volo
+welcome to 20 minute leaders we're in
+the beautiful tel aviv
+in the balcony of your offices you've
+built an empire
+i've gotten to be in this office about a
+year ago
+and it while it looks the same you can
+feel that it's different you feel how
+you've grown tremendously
+how you're literally changing the world
+and you know that
+if i even begin to describe what you're
+doing with immunize
+i wouldn't be able to stop and i would
+catch myself in a hurdle because it's
+just
+too complicated and too awesome but you
+know the the way that you look at
+computational biology
+in 2021 with with machine learning
+advancements
+bringing together the most incredible
+people in the world and in israel
+to work on this project with you is
+inspiring to me but before we get to
+that tell me a little bit about yourself
+how do you
+you know grow up as an engineer as an
+entrepreneur and what sort of frames
+your mindset
+as you go through your journey yeah and
+thank you for doing the the interview as
+well as although all of them i really
+enjoy
+them in general so i i grew up in brazil
+originally so in rio de janeiro
+and i lived there until i was 16 and i
+think a lot of what i did in my
+childhood was a mix of basketball with
+math
+and then i used to have this um linear
+regression that i kept a track off of
+how tall i was supposed to be if i kept
+growing linearly
+and i was supposed to be 2 meters and
+13. wow
+and turned out that my my projections
+was wrong
+which made me gave up basketball and not
+math which is awesome
+and so it's like i stuck with math and
+then
+i moved to the us and i went to mit for
+my
+first degree and second degree as well
+as
+i started a phd which i took a break off
+in which i'm still in that break
+and uh well i've always been very
+interested in math
+science computer science as well as how
+it relates to them to the world
+right and um and i think those are my my
+core passions
+so as you go through your academic
+career
+you know pre-college mit what what is it
+about math
+that that gets you going it's not it's
+not something that
+most people in the world understand i
+think that i do share a similar
+passion that you do but what is it about
+the subject
+and about the work that you're doing
+within the mathematical context
+that just really excites you yeah i
+think what i always liked about
+math is that it sort of like forced me
+to be
+thorough i think that's the there's sort
+of like no
+way around there's just no way around it
+there is no
+hand waving there is no um there is
+that's really the only way it's for you
+to deeply understand things and
+think about things like extremely
+critically and in a structured way
+right and then that's the only way that
+things move forward
+and i think that's one of the things
+that really uh attracted me to
+yes to math and it's um
+and you know comparing with
+entrepreneurship it's
+it's different in the sense that
+entrepreneurship you do need to make
+you know both decisions that are um that
+are not you know necessarily like fully
+put
+right honestly but i think um kind of
+culturally
+sort of shaped how um how are you
+thinking just trying to be as thorough
+as possible
+right i remember going back all the way
+to high school one of my favorite math
+teachers was all about proving
+everything we learned you know i think
+some teachers enjoy going through the
+textbook and saying these are the axioms
+that you should know
+and but then i had this one teacher who
+would just feel the need
+to prove everything he taught us and it
+i
+i i feel like i'm looking at everything
+else in life in the same way that you
+know you're making a speculation even as
+an entrepreneur
+you have to prove in some you know
+coherent way
+why this will make sense and then prove
+it in three other ways and show how
+exciting it is that you're converging
+to this sort of like one thought process
+and i think that that's also a good
+reason why a lot of mathematicians are
+great entrepreneurs
+and so you're at mit you're starting
+your phd
+and there's this guy nam solomon and
+you're partnering together to solve
+you know maybe you know arguably one of
+the most important problems that one
+could solve
+where we are today and so how do you
+meet and what are you aiming for yeah so
+one of the things that i bonded very
+quickly with no
+one was exactly around math and unlike
+me who
+dropped out of a math career he actually
+succeeded in it uh
+for a while and he's an amazing
+mathematician so i think a lot of the
+early
+bonding we had was around that and just
+like this kind of like similar way of
+of seeing the world and i remember just
+sort of you know amazed me from the
+beginning and in that sense and i think
+another part that very much
+that we shared very much was part of i
+think what i described before is that
+like i think
+we're both you know thorough but at the
+same time we don't have like a major
+impact
+yeah in the world and a lot of what we
+were thinking was you know how to take
+some of these
+in theories and applications in machine
+learning that we were you know very much
+like a part of
+uh and have the broadest possible impact
+and uh and very early on we started to
+understand that we wanted uh you know to
+have the broadest possible impact
+uh we wanted something that you know we
+would make that we had a competitive
+advantage on
+and also something that really helped
+improve uh
+lives and a lot of people say that
+but most people don't actually mean it
+you're literally improving lives you're
+literally talking about
+ourselves our biology yeah it's not just
+a buzzword right
+yeah and that's the decision we made
+very early on so and you know we're
+thinking that maybe in the first like
+week or so we were considering you know
+working on things that
+didn't have to do with biology and then
+very early on we made that decision of
+working and with biological data
+and um you know as a quick like plug for
+all kinds of machine learning uh people
+out there
+and working with biological data i think
+it's some of the most interesting things
+you can do in uh with machine learning
+these days it's um
+the data scale is huge
+uh the applications are are amazing it's
+very high dimensional
+uh it's uh and there's like so many sort
+of features of you know about like
+working with biological data that you
+just can't um
+have somewhere else and um and i think a
+lot of what the
+bone what builds us as a company is this
+um
+this this um you know thesis in a way
+that you know really
+the intersection of machine learning and
+biology is the future and we want to you
+know be one of the first companies are
+like you know
+really helping push that forward i love
+it i you know what i love doing through
+the show
+is hearing about companies and hearing
+about you know there's so many decisions
+that
+that as entrepreneurs are making you
+know not just financial decisions or
+product decisions but also hiring and
+culture and how you're building it
+one of the things that you know forever
+i'll be completely inspired by what
+you're doing is
+simply you know walking around the
+offices and seeing the team and seeing
+the team that you chose to surround
+yourself with
+can you share with me a few statistics
+on the team you know the types of people
+that you're hiring they're
+like with their backgrounds and what are
+the types of people that have joined
+immuni
+over the past year or so yeah and i
+think it's
+it's one of the things we're definitely
+the most proud of it's you know it's
+crazy yeah
+so i'll say some statistics about the
+software team so they are
+about half uh graduates which is the
+most it's the most elite comprehensive
+program you can do in the army
+which consists of i believe a master's
+degree right and
+and placement in some of the most elite
+places most confidential places in the
+army
+yeah and they said they are like
+credible and the other ones are also
+like ex
+google and pollen and places like that
+in our computational biology team we
+have um
+i think about like two-thirds are phds
+or post-docs from
+from either berkeley stanford the
+weizmann institute mit or harvard
+and um and we in our lab team it's
+essentially
+the same kind of uh background in terms
+of like immunology and genomics
+but one of the crucial things for us in
+terms of hiring it's not just bringing
+people that are excellent in their
+respective fields
+but are people that deeply share
+this commitment to being
+multi-disciplinary so you know our
+software developers for example like we
+for us it's not enough to bring someone
+who's just you know the best software
+developer
+we want you know the best software
+developers but also
+that really want to learn about biology
+and about immunology and about
+everything else that we are doing and
+having this um
+habit of going so out of your comfort
+zone uh in terms of learning and in
+terms of like collaboration
+is one of the most important things and
+i think that's the one of the main
+cultural
+i would say aspects of me and i are sort
+of all these people that are really the
+best
+in their respective areas but they're
+just so interested in everything else
+that's going on and they want to learn
+and they want to collaborate
+that's very special for us what is it
+like leading a team like this
+you're leading people that are each used
+to being the the best in the room
+whether it's in any of the institutions
+you mentioned or any of the companies
+you know
+every literally every person you would
+meet here are people that you know
+they have their own ground they have
+their own context their own passions
+their own thought processes
+how it must be different leadership than
+you know in a general team that you
+would that you would find
+did you find any difference do you feel
+any difference
+yeah and um so first it's really an
+i think an honor right in a way to to be
+working with
+uh with this team i think you know
+starting a company and
+being an entrepreneur is a hard thing in
+general
+and there's like the business challenges
+there are um
+there's all kinds of jobs into the list
+them and uh we just
+really have this honor of having this
+very nice first of all like
+and collaborative and very talented team
+that just kind of like solves one of the
+the problems right we don't have like
+many people issues everyone is very
+collaborative and nice and
+and leading a team like that uh you know
+my definition is essentially
+just helping set the context yeah
+for what we are doing uh and just making
+sure that the thing dynamics are right
+and essentially letting them run the
+show
+that's the that's i think that you know
+my definition our definition of uh
+of management here you know we're right
+here to uh dictate details of
+what to do we're here to help inspire to
+help
+set the the broader context to help
+everyone like figure out you know
+what are like what is where the higher
+level goals that we are doing
+but we want as many of the decisions
+being taken in the company not to be
+taken by me or by my co-founder or by
+right or base or like the the usual
+people that would be taken
+we want as many of the decisions to be
+taken by the people like that are like
+doing the work
+sure and as many of the new ideas to to
+come from them and
+we're just trying to set like a
+framework in which all of that can
+happen right
+and that's much more powerful you know
+having 50 amazing people
+coming up with ideas and making
+decisions is much more powerful than
+having
+three i mean i think also the big
+difference here every single person in
+the team would be a prime candidate for
+an investor to invest in them as
+entrepreneurs themselves right these are
+the top people
+that you would you would trust them to
+build whatever products they would build
+so you're literally taking you know you
+know dozens of entrepreneurs putting
+them together on this mission
+and then and i love the perspective of
+empowering them and but also being very
+dynamic and knowing how do you empower
+different types of people because some
+do need more structured approach some do
+need
+less structured approach so you know
+last month you announced
+the 60 million dollar raise for the
+current round by some of the top
+investors
+uh that i can think of and some of them
+have been on the show as well which
+and and we spoke specifically about
+immunized and
+you know the the path that you're going
+on and then you know even the problem
+that you're trying to solve
+which is the idea and what i loved when
+i read about what you're doing
+you know now in the context of this
+phrase which is this transition from
+first you know mapping
+our immune system and the single cell
+biology within our bodies and
+understanding you know what exists
+but then being able to take that a step
+further and saying how can we now build
+on top of that and discover drugs and
+discover
+you know different implications that we
+couldn't have even thought of before
+because we didn't have this
+visibility layer as to what's happening
+so that was the dumbest way that i could
+explain it to myself
+can you give me a brief rundown of what
+are you actually what problem are you
+solving here
+and and why is this the best time to do
+it because i do believe this is a crazy
+time to be doing this
+in a good way so what is the muni yeah
+so one of the
+uh the methodologies in machine learning
+that you know
+and i really wanted to make it into
+reality in
+immunology as well as concept of
+transfer learning and this allows you to
+take
+learnings in one problem and transfer
+them systematically you know as
+the data and as models to another
+problem so for example
+in learning how to differentiate between
+cats and dogs that's like one of these
+canonical problems computer vision
+you can learn for example about shapes
+and about textures and about colors
+there
+and leverage that to apply to different
+problems how to differentiate between
+tables and chairs in a way and
+one of the things that we are doing in
+immuno is doing that for the immune
+system
+in a way so the immune system is a
+central player driving
+all kinds of defense against diseases as
+well as some diseases themselves
+and there's all these commonalities in
+how the immune system is supposed to be
+defending
+you against lung cancer against bladder
+cancer
+and how it can be leveraged to to fight
+these cancers and how
+um and the complement of that is
+autoimmunity right where your immune
+system is too strong
+as well as like aging related diseases
+and the point is that there's a lot in
+common
+across all of them there are all these
+cell types that are playing a role there
+are pathways that are doing similar
+things across all of them
+and immunize the company seeing that
+from the top of the tree
+in a way where we can take these
+learnings from lung cancer or from
+bladder cancer and transfer them to
+melanoma
+and and seeing that you know from top of
+the tree in a way allows us to see all
+of them
+right better and uh and you know as i
+mentioned with our fundraising
+what one of the things we're doing now
+is trying to develop the next generation
+of therapeutics that makes
+that leverages that right and allows us
+to fight
+and how does that tangibly work do you
+just work with pharmaceutical companies
+on the whole drug
+discovery process either by running
+simulations or or figuring out even how
+to prioritize the experiments
+how does the actual you know there's one
+thing to come and do these a lot of
+these models you know theoretically
+within the office in tel aviv
+but then there's these huge pharma
+companies in the us that are actually
+going and they need to deploy this
+knowledge
+that you're you know you're discovering
+that just the world doesn't know about
+it yet
+so how does this actually get translated
+into you know real world circumstances
+and
+impact that could potentially now reach
+a billion people yeah
+uh so the the way this works is that we
+partner with specific pharma companies
+on specific drugs or disease areas
+so for example we might have a
+partnership on the immune components of
+diabetes
+with a specific pharma company for their
+drug and we help them
+improve their drug or we might help them
+combine
+different drugs that they have into um
+something that works better combined
+right and so we try to do in in that way
+where we would partner with pharma
+companies
+to help improve their specific
+therapeutic program or come up with uh
+with new drugs
+and then we share some of the economics
+downstream of that right so it's
+essentially like a partnership and we
+get
+any benefits in their own way so let's
+let's play a game five years down the
+line uh
+we're obviously sitting in a little bit
+of a bigger office hopefully the same
+beautiful view behind us hopefully with
+you here as well i would
+honor my honor but uh where are we what
+is the world like how has
+how has immunized changed the way that i
+live my life
+in five ten years time so i would say in
+um in that it will be much clearer
+how your immune system is keeping
+you um young it's keeping you healthy
+sounds important and uh and that
+essentially i think we would like um
+not just to be better drugs for diseases
+but that
+everyone understands that the immune
+system is the core of their health
+and that it's really what's keeping you
+uh young and healthy and
+free from disease so our visions extends
+from
+building better drugs for cancer to
+autoimmune diseases
+all the way into aging related diseases
+and
+the most important things keeping people
+healthy right and um
+and i think we want team unite to be the
+company that's sort of like you know
+helping
+with this entire puzzle together uh and
+you know helping uh seek people helping
+healthy people
+uh live better lives one of the things
+that noam wrote on the techcrunch
+article he wrote that we have this
+that we immunize has this unique
+privilege
+to move slow when when needed or or
+better wording is you know not have the
+pressure
+the economical pressure of the world to
+move as fast as you know we have to
+reach arr
+of this by this year and this hockey
+stick you're solving a real problem
+you're solving
+deep technology problem that you know
+takes years to do
+but at the end i think you know i
+couldn't think of something more
+exciting to work on than something that
+you know could take years but you know
+that it's so meaningful and it's so
+proprietary
+that if your team doesn't do it then
+there might not be another team that is
+able to do it that you really
+are you know bringing together the best
+people in the world to solve one of the
+most challenging problems in the world
+and from the few people that i got to
+meet here i i'm completely inspired by
+these types of films and
+if i look at the type of entrepreneur
+that i want to be i'm looking at you
+guys as
+you know as a model for me uh i don't
+know if it fits you know the typical
+what a typical entrepreneurial journey
+that people are excited about but
+but this is the type of thing that is
+literally transforming the world and so
+uh thank you very much for all the work
+thank you for coming here right 20
+minutes go by way too fast
+but i have the most important question
+for you which is three words that you
+would choose to describe yourself
+three words let's say um
+open
+bold and
+interested i love it thank you so so
+much for
+for joining me here thanks this is
+beautiful and you
+hopefully you'll see me around here
+because i'm just going to keep coming in
+and harassing you guys so thank you very
+[Music]
+much
+you

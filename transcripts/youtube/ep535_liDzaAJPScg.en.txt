@@ -1,0 +1,663 @@
+doing doing first and not uh over
+complicating it with uh
+with all kinds of considerations and
+concerns right really taking action even
+if that if you know that this action
+isn't perfect or you don't have
+everything you need at once you know
+that you'll have a second chance and a
+third chance and a fourth chance
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homework ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel welcome to
+another episode of 20 minute leaders
+another co-founder of a unicorn is
+joining us meet nimrod vox co-founder
+and head of product at big id
+he has experienced an enterprise product
+and a security executive and served in
+various capacities ranging from
+engineering product and business
+management prior to founding big id
+nimrod served as vp product management
+product line manager for ca identity
+management product line and as an
+advisor to security startups in the area
+of identity management and user behavior
+analytics nimrod vox co-founder and head
+of product of big id how are you today
+good morning i'm good thank you how are
+you
+thank you for joining me um
+six years ago seven years ago co-founded
+big id
+and one of the one of the most
+impressive companies in the israel
+ecosystem i believe he raised around 250
+million dollars
+unless i'm not updated anymore
+but tackling the question of customer
+privacy and customer data
+and
+and looking at regulations in the
+growing market
+obviously this is something that that is
+new that the world has not had to
+experience you know even 10 or 15 years
+ago especially not to this extent so so
+we're talking about a really emerging
+market with a growing need and and
+there's a lot for us to talk about but
+what i'd love to do before we get to big
+id tell me a little bit about yourself
+and how you get to co-found big id about
+six or seven years ago so first of all
+it was like five years ago it sounded it
+seems uh like a longer time but it's
+really been about five years
+um
+so it all the kind of uh started that i
+was at the time living in boston i was
+uh head of product or some vp products
+for ca's identity management product
+line
+um so dealing with the
+provisioning of user accounts user
+access management who has access to what
+um single sign on those were kind of the
+products that i was responsible for
+um i came i started very early very
+sorry very late in the itec market only
+when i was kind of in my 30s um and um
+and so i i wasn't really uh feeling like
+that i was ready to start a company but
+uh after a couple of years at ca
+it was really uh
+becoming apparent that uh
+you know i could uh i could get be very
+successful uh starting something on my
+own and and so uh kind of uh in around
+2014 i left ca prior to leaving cia i
+met my co-founder dmitry who just sold
+his last company to ca
+uh
+what what was
+you know what was your conviction at
+that moment where
+which led you to feel okay maybe i can
+actually go about an interesting route
+myself what was it about you know your
+day-to-day that gave you this impression
+well you know uh so i was uh at ca ca
+was a very big company and i've learned
+learned a lot at ca got exposed to large
+markets to large customers um
+international markets uh flew to japan
+and flew to to europe a lot
+and and apj korea singapore
+and one of the things that um we were
+able to do at the ca me and kind of my
+my friends from from the business unit
+was to uh go out and define a new market
+uh so we actually took a very old
+product called the host access control
+um which was uh kind of
+very unix-centric very old and uh
+pivoted towards them a newer market
+called privileged identity management so
+starting to compete with what were then
+very successful startups like cyberark
+and um
+and doing it quite successfully and
+after doing that we said no
+oh [&nbsp;__&nbsp;] i mean why am i doing it for
+such a large company i should have done
+it for myself
+and so when i started thinking and
+looking around and it kind of
+made the decision that i really want to
+to start something on my own
+um
+and uh and kind of that was kind of the
+deciding moment and after a few years
+that uh
+um in boston i kind of met a lot of uh
+people and a lot of friends that had
+startups in the area that more involved
+in the startups local startup scene
+um met a few investors here and there
+and so i felt like uh you know it's
+really up to me to
+make that move and and succeed
+um
+and so as you are
+thinking about making this move
+you know go back maybe to to to that
+moment
+what did you feel like you had to do to
+make that jump because leaving a large
+company where you're what i'm hearing
+you say you're very successful and
+you're advancing and you're you're
+feeling you know you're in a rate of
+success so
+it's pretty scary to just jump the boat
+and start something of your own
+yeah well obviously it was very exciting
+at the ca but uh that the last year at
+c8 you know started becoming more
+difficult and you've kind of kind of
+feel the the barriers of these large
+companies very frustrated with being
+able to uh
+to deliver new um innovative software
+and it's really not about the uh
+engineering side or the uh
+um or or the development side uh it's
+it's the end-to-end um
+ability to support uh new products uh in
+sales in support uh the customers are
+expecting much more mature solutions
+from a company like uh like that um so
+it's uh so
+apart from being very frustrating it
+kind of felt more
+um
+like there is a real opportunity and uh
+those big companies can't really compete
+with small startups
+and so these two things kind of on one
+hand the frustration i felt internally
+and on the other hand you know i saw all
+of those successful companies and the
+opportunity out there and people you
+know getting funded uh it kind of uh was
+kind of the the the tipping point for me
+and so i'm gonna already jump to to the
+other to the other end so today uh big
+idea i believe has uh just over 350
+employees just according to to what i
+found on linkedin
+what what are you taking with you from
+your previous experiences
+that you're saying now that you're
+growing a large company this is not this
+is not a startup this is now a you know
+one of the bigger companies in the
+israeli ecosystem
+what are you taking from those
+experiences into the culture of big id
+to foster this sense of innovation and
+moving-ness so that other people in your
+position back then wouldn't go and say
+okay maybe we'll just go start something
+of our own
+look first of all it's still very much a
+startup so
+we're still very much about uh
+getting and getting out there with new
+products and new capabilities and kind
+of competing and defining a new market
+that is not really well defined yet so
+it's very much a startup investing a lot
+more in in in
+building that market building products
+building a sales force so a lot of
+investment still flows into the into the
+company all the time
+so it's very much a startup
+kind of
+environment
+what i took away from er
+from my years at the in corporate
+america of course is the understanding
+of big customers and their needs
+and understanding
+how you know what needs what you need to
+be successful so on one hand it's a very
+very laser focus on what the customers
+need and understanding um their their
+their
+problems and how they need to solve
+those problems because these big
+organizations have their own limitations
+and have their own dynamics and you need
+to factor that into the product um
+and and how an enterprise sales team is
+compensating how it works all of these
+are learnings that i couldn't have
+gotten anywhere else other than in a
+company like that on the other hand i
+know you know
+about a couple of other things that you
+have to get right for example you have
+to get the product deployed you cannot
+wait and just sell and be happy with it
+you need the product to be immediately
+deployed and the customer is using it
+and and valuing it
+and getting value out of it
+which is super super important so that's
+kind of the number one uh
+kind of lesson
+that i take
+from this this this large kind of
+enterprise market and the other thing is
+how to watch out for uh small
+competitors right because there's always
+kind of a creeping up from beneath of
+companies uh and even as a startup there
+are always these um early stage
+companies that just got funded
+that have some kind of a promise um
+that are looking at what you've done and
+are looking at what's um
+what you've uh haven't focused on and
+started start focus on that
+and so there's always a constant need to
+be alert and be uh and understand what
+your competitors
+are doing and so that
+you don't uh you don't stay behind right
+a hundred percent okay see so what
+you're addressing and over 200 billion
+dollar market a growing market and you
+know i think one of the things that
+you're alluding to also is that we're
+seeing a proliferation of companies that
+are dealing with with similar issues
+because these are really cool issues
+that are only really relevant uh since
+uh customers have been doing data-driven
+customer journey approaches in this in
+the last 10 years or so or 15 years
+maximum so tell me a little bit about
+the space that you're in and and then
+how big id is is placed within this
+ecosystem yeah sure so so like you said
+right over the past 10 15 years uh
+companies have been building their
+business on data they have been
+collecting unlimited amounts of data
+they were using big data technologies to
+basically reduce any limitation on the
+amount of data they can collect and
+process
+um and as a result uh companies have not
+been doing any deleting of data they
+have only been
+collecting and collecting
+um and it reached a point where no
+single person in the organization
+especially in large organizations but
+also in smaller organizations
+know exactly what data you have
+each business unit is collecting its own
+data you'll have a flurry of different
+marketing and data analytics um
+tools in the organization even in the
+organization as big as big id we're
+already seeing different
+groups and different people collecting
+and using data
+so so a large amount of data
+organizations as a whole
+don't really know their data
+and what happened over the past five or
+ten years
+is that
+there were a lot of breaches
+uh there are a lot of uh scandals around
+uh using of the data and uh and kind of
+it became a more of a public
+issue
+um and and uh consumers are becoming
+more aware of the need for privacy and
+the implications of lack of privacy and
+as a result uh legislation for privacy
+uh became
+uh kind of abundant right and it started
+with the european gdpr and then uh the
+the california consumer privacy act and
+you have legislation in brazil and in
+the uk and in australia and
+india and japan so all around the world
+you see legislations that are now uh
+almost like accounting for finances are
+requiring accounting for
+data
+and the organizations simply were not
+prepared uh they did not have any um
+kind of
+global visibility into their data and
+this is really the gap that big id came
+to fill to give
+organizations visibility to their data
+to help them know their data connect to
+all of their data sources catalog all
+the data that they have classify the
+data so they know what type of data they
+have correlate that data back to their
+consumers or their employees or their
+business parties or
+whatever they manage
+as a business entity
+and then give them visibility into that
+the ability to take action on top of
+that data with applications with an open
+api that they can now
+take action
+uh on the data that they have whether
+it's for better protection of the data
+uh whether it's to get more value out of
+the data or whether it's in order to
+comply with the privacy regulations and
+be able to address those needs and and
+build trust with their with their
+customers
+right that was really the big
+challenge
+companies are you know they're very
+horizontal you have a lot of different
+functions that are collecting different
+data from the marketing to the
+engineering to the to to the different
+data science teams that are that are
+looking at data in different ways and so
+where is big how does big idea actually
+get into the pipeline of the enterprise
+and who are the stakeholders that are
+actually then using the data to come up
+with some interesting action items to go
+forth
+understanding now what the company is
+actually doing with all this data
+so uh
+over the course of our kind of uh short
+history where there have been uh
+different kind of stakeholders and that
+we've seen more dominant than others um
+in when it comes to privacy and privacy
+regulation typically the privacy office
+um which sit under the legal office
+are the were the first ones to kind of
+define the need and tell the
+organization hey you know thou shall
+comply with the gdpr ccp etc
+um and that kind of uh was a top-down uh
+directive
+typically at the board level so the
+board was was really directing this
+action thing is that the privacy office
+they don't really have a budget and
+they're not an operational group they're
+like the the knesset right they they
+legislate rules for you to to uh to take
+action on and so um
+[Music]
+the the the two main groups that were
+required to really take ownership of
+that solution
+and and and perform those directives
+were typically either coming from the
+security organization those are the cso
+um or from
+a new type of organization that we're
+seeing more and more come up which is
+the chief data officer chief data
+officer and is are kind of the
+librarians of the data in the
+organization right they need to organize
+all the data to know where the data is
+located so that they can make it
+accessible to other groups typically the
+data analytics groups um finance groups
+marketing groups so they have a
+very clear visibility to the data there
+are standards around how the data is
+defined
+it's a fairly
+new or market
+and so uh these are kind of the
+the two uh uh constituents that said
+that big id um typically deals with uh
+from that perspective
+um and tell me a little bit about the
+company itself so you're mentioning that
+that it's a startup and i think it is an
+important distinction because i'm coming
+in from an outsider in approach i'm
+saying wow 350 people i'm imagining the
+all these different structures that are
+that are now de-risking the company yet
+here the is the co-founder and head of
+product you're saying no no we're still
+we're still a startup and we're still
+trying out a bunch of different things
+tell me a little bit about the culture
+that you have at big id um
+which which i guess is is an interesting
+uh phenomena because we don't yet have
+many israeli companies that have reached
+this many employees and so it's an
+interesting inflection point
+look the the fundamental thing is that
+big idea is uh
+investing more and more and more in the
+business and continuously growing
+right so you're always in a struggle to
+hire
+people and hire the right people um it's
+always about
+adding more activities more products
+more more
+sales geographies
+more sales plays it's always about
+extending what you have
+um and it's less about currently at
+least
+although we do care about efficiencies
+we're more focused on the top line and
+really land grab right kind of approach
+of reaching as many customers as we can
+um and that reflects uh
+across the board on on the um
+on the culture right uh
+first of all you know and we our our
+core kind of um
+values are really about uh what we call
+care do and try what it means is care
+about the customer look at the customer
+what does the customer want and take
+care of that customer all through that
+journey of sales and then deployment and
+renewal
+so that's a very clear focus
+customer wins on every
+conversation we all work for the
+customer and that also uh kind of
+eliminates a lot of uh internal barriers
+or conversations or you know when people
+are don't agree you know we ask the
+customer we see what the customer needs
+and that in many cases uh help us
+really focus on what we need to do even
+when we're doing a whole lot of things
+at once
+the other thing is being very action
+driven doing doing first and not
+over complicating it with uh
+with all kinds of considerations and
+concerns right really taking action even
+if that if you know that this action
+isn't perfect or you don't have
+everything you need at once you know
+that you'll have a second chance and a
+third chance and a fourth chance so
+doing it iteratively uh you know when it
+comes to uh
+to product it's releasing as as as fast
+as we can
+knowing that we'll have more iterations
+and more chances to improve uh and if
+there isn't um enough interest from the
+customer then you know we may switch or
+way we may do other things but
+um don't be concerned about uh about
+then you know not doing
+trying is another aspect of it it's kind
+of the other side of that coin
+which means that you know we're not
+afraid to try and go out and and and
+challenge new markets uh even if uh if
+we we might fail or everybody else
+thinks that that we might fail
+we started big id we entered into a
+mature market right there were big
+players data security was there for 10
+15 years you know when we started big id
+and we looked for funding
+many of the security investors looked at
+us and said you know who needs to know
+who the data belongs to you know because
+it wasn't a factor in cyber security who
+who is whose social security is this or
+who cares who social security is this
+you need to protect it but for privacy
+and for data analytics and for
+getting more value out of the data you
+really need to know whose data it is
+so we and and we uh we said you know
+we're going to do something different
+we're going to offer a solution you know
+10 years of dlp
+failed projects that's one of the other
+things that was scary initially for the
+customers that it's a hard problem to
+solve we said we're going to solve that
+problem in a different way
+um so we tried and and
+and we succeeded you know in some areas
+we failed in some areas we had to to uh
+kind of recalculate but trying is a
+really important thing and across the
+organization you know we are we never
+punish anyone for trying or failing
+that's not the point the point is that
+uh even if you fail you learn from it
+and you uh change course and you're
+flexible enough to change course and to
+do what needs to be done and i think
+those are kind of the core things that
+uh
+that make us uh make us special um
+yeah and of course um
+it's important to also enjoy the the
+journey right
+you can't really be very good at
+something if you don't enjoy it and
+that's a that's a very important aspect
+as well of our company
+a hundred percent nimrod thank you for
+taking the time to share with me uh both
+your own journey as well as uh that of
+big idea and the culture inside i i have
+a few last questions and i want to take
+you back now to to nimrod a little bit
+earlier to your childhood before a big
+id before sca what what really
+fascinated you well what drove your
+curiosity when you were a kid
+well uh you know i told you that i
+started late my my journey you know i
+was as a kid i was
+fascinated by airplanes
+and by uh and by space and and uh and so
+uh i spent uh kind of that my childhood
+there and i then uh you know was was
+fortunate enough to to uh also uh be a
+pilot for a certain period of time which
+uh
+very very soon i understood that it's
+not my career for the long term
+but at least that was really what drove
+me but um
+throughout my childhood i was always uh
+with building things
+with lego
+building things with uh
+with with computers at some point uh you
+know uh
+skateboard with sales and uh and things
+like that that was really my my passion
+um
+and uh yeah and and later on i kind of
+um
+um i was always uh i was always good at
+math so i figured you know what uh if if
+i'm not going to be a pilot as a career
+maybe i'll do something in computer
+science and that's how i got into high
+tech
+amazing and and what inspires you today
+on a day-by-day basis as you go about
+your work and personal life
+i think that um
+you know the one person that
+you probably hear a lot that inspires me
+is elon musk right and his uh is his
+kind of
+limitless uh
+approach and um his uh kind of ability
+uh
+to
+um go out there and do whatever he wants
+right and um
+and i think that uh you know to me
+that's that's inspiring limitless and
+that's kind of the essence of trying i
+think
+uh of uh there's really nothing that you
+um
+you cannot do right um and um and you
+just need to be focused on it you need
+to get the right people to help you
+build it
+and and you need to be flexible and be
+able to correct course and learn and uh
+and and and if you do that
+you know there's nothing that can stop
+you
+amazing
+and what are three words you would use
+to describe yourself
+oh that's a that's a tough tough
+question i actually been thinking about
+it ever since you've raised it i think
+look i think that the you know the the
+values of the company really describe
+kind of my my motto right
+caring
+caring doing and trying right and that
+is really the core of uh
+i think that describes my my um
+personality i think it also describes my
+co-founders my partner's personality and
+that's uh that's why i kind of
+got into our our core values of the
+company
+thank you very very much best of luck
+with the rest of the journey for big
+idea i know it's just the beginning and
+but it sounds amazing and thank you for
+taking the time to stay with me thank
+you thank you
+[Music]

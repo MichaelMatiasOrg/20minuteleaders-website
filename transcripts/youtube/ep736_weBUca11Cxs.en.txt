@@ -1,0 +1,576 @@
+that's our vision you know we are going
+to enable this industry by providing a
+platform that um
+most everybody will be using
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeward ventures hippo
+insurance opposed labs synergy global
+hillel at stanford leap birthright excel
+serena partners and in media partnership
+with ctec
+welcome to 20 minute leaders we are
+talking about autonomous vehicles and
+the enablement of the industry
+with reliability meet ziv binyamini the
+ceo of fortelix ltd
+zev is the ceo of italics a company
+dedicated to autonomous vehicles
+verification and safety he is a
+world-renowned verification visionary
+with more than 30 years of experience
+previously ziv served as corporate vice
+president at cadence running its
+simulation and verification business
+he also served as vice president of r d
+at vericity and at intel leading the
+development of coverage driven
+verification solutions that change the
+way semiconductors are tested
+[Music]
+ceo for telex welcome to 20 minute
+leaders all the way from sunnyvale
+california how are you
+i'm very good thank you thank you so
+much for joining me today and we're
+going to be talking about you know some
+of the most exciting things that are
+happening today in the world of of
+technology and and consumer behavior and
+autonomous vehicles and autonomous
+driving and you know there's there are
+some companies that you don't
+necessarily see in the forefront
+but they're they're the enablers of this
+industry for telex is one of them and
+helping company helping deploy
+autonomous driving systems and and i'm
+excited to learn more about fertility
+and your journey and and really where i
+want to get started
+is
+is the entrance to fortalex
+you know there are some people that have
+been dreaming of of the autonomous
+vehicles from the the jetsons and from
+cartoons when they grew up is that your
+case did you always know that you're
+going to be
+working as a ceo of a company in the
+autonomous driving space
+not whatsoever
+never dreamt of it uh
+no i uh
+i started i was always uh well
+not a geek but i loved software and
+mathematics but
+started my career in
+semiconductor chips
+and somehow because of
+maybe a coincidence or because of my
+love to logic and philosophy i
+i got in this space of verification
+which is how do you test
+all of the possible
+situations and i i worked at intern in
+my first 10 years of my career
+and i was
+part of uh
+i did several things but always around
+verification how do you verify a cheap
+um
+just to illustrate you know in intel
+during the days i was there had uh
+one of the early pentium chips called
+the pentium pro p6
+which was the most complex chip ever
+created this was in the
+mid 90s
+and we had to invent like
+there are so many different things that
+can go wrong
+um
+you had to invent new methods of how to
+do verification
+in an automated way so that you don't
+miss any bug
+the previous chip that was before us
+had
+probably the most famous bug ever
+in chips
+it's called the pentium bug or the f div
+bug the floating point divide bug it's a
+very rare situation extremely rare
+situation which by the way we found
+in-house using the methods that
+we invented
+intel once this bug became public intel
+had to recall all of its
+chips it cost somewhere between half a
+billion to a billion dollar
+in the mid 90s which is
+hard to imagine that's the cost of a
+single tiny little bug
+um
+so i worked at intel uh and then i
+joined the startup called vericity that
+uh
+basically create the ways to do
+verification of chips everybody today if
+you go to any company that's
+they're doing a semiconductor chip like
+apple or intel or nvidia
+they're all using the methods that we
+invented you know
+some time ago
+uh this was very successful i worked in
+this industry but we always had the
+feeling
+that those methods that we invented
+which allow you to test
+an
+infinity we call it taming infinity the
+number of scenarios in a chip in a with
+a three billion transistors is just
+infinite how do you still test it
+sufficiently
+so there's no bug none
+it's impossible well we figured out a
+way to do it
+and we always felt other places where
+this could be applicable
+and then about five years ago we started
+seeing this autonomous world coming and
+you're saying wow i just want to jump in
+here for a second i'm saying you know
+i'm thinking back to the the pentium bug
+and you're you know the the cost of an
+error on a human you know to the human
+level of our experience is
+vastly different when you're talking now
+and i'm imagining where you're taking
+here when you're talking about
+verification of chips and we're seeing
+these you know these weapons driving you
+know at 80 miles an hour in the streets
+of the united states it's a little crazy
+exactly so these weapons as you call
+them you know it's a
+several tones object which is moving you
+know
+even if it's 20 miles an hour
+any tiny little mistake can cause a lot
+of damage and harm in life and and all
+of that
+three million lives are lost every year
+from accidents and most of them are due
+to human errors the driver the human
+rival
+so if there was a way to do it
+it would be save a lot of life and but
+those systems are the complexity of
+these systems
+like just imagine this these uh weapons
+you're describing
+they have um
+more than a hundred chips on a single
+autonomous vehicle
+more than 100 million lines of code
+software
+and machine learning
+you know several of the main
+subsystems are operated by machine
+learning which is extremely powerful but
+completely unpredictable
+so how do you verify this thing this was
+our
+the start of the journey we saw okay
+we should switch from these
+chips
+to autonomous because
+we think we can help we can enable this
+industry to actually
+become viable with safe you know safe
+autonomous vehicles that
+with our help we can tame infinity we
+can take test all of these infinite
+possibilities
+and put those same things so that you
+know we can reduce the number of
+accidents we can you know allow
+the elderly have their own car and drive
+when they want
+because right the driver will be
+autonomous etc so there are a lot of
+many usages to this technology it's
+coming definitely take me back
+four years ago
+what's happening how how do you make
+this transition i understand you know
+obviously now it's we can rationalize
+through the importance of this but what
+was it actually like to make this
+dramatic change in your career and to
+and to go into this industry that i'm
+assuming at that point
+you know you're seeing the vision of
+what's going to happen but you're not
+yet immersed in autonomous vehicles as
+you know as a as a job and as an
+experience
+you know for me
+and and my friends you know the partners
+to found this company
+first of all i had i have to say i had
+no feel i
+i i had no doubts that you know this
+will work and i'll just go there there's
+like but in terms of changes there were
+massive
+one for a personal you know being a ceo
+is very different than any other role
+so this was uh
+one big change another is this
+technology of autonomy
+and the other which for a business
+company
+you know we know the semiconductor
+industry extremely well we've been there
+for decades
+uh but going to automotive by the way
+it's not just automotive companies like
+caterpillar and john deere
+you know that you don't think they are
+not automotive but they are building
+autonomous driving systems tractors and
+whatnot so
+but these are very different they work
+at a different clock cycle they are the
+life the
+development cycle is much longer
+uh etc so that's a huge change and
+we need to keep the balance all the time
+between bringing all of the knowledge we
+have
+and it's very valuable this industry i
+mean it took time but we have a lot of
+proof now that this industry really
+um respect what we are bringing at the
+same time we need to respect this
+industry it's very different it's very
+new
+um
+and by the way we are talking about
+autonomous
+systems
+it's not like there are a lot of people
+that have done it quite frankly nobody
+have done it yet
+aidas you know he does is
+semi
+it's driver assistant so that's already
+deployed but the other things are mostly
+you know way more right here
+next to where you live
+um
+they are driving but it's not in
+deployment right so
+billions and billions of dollars are
+invested in this technology but it's not
+in deployment yet
+so there's nowhere to just
+it's not that you're taking an existing
+flow and extinct product
+and just optimize it no nobody figured
+out how to do it and we think one of the
+main obstacles
+to get safe
+scalable deployment of autonomous
+systems on the road
+is what is called in the industry the
+long tail
+the long tail of bugs or the situations
+so they already work 99.9 percent of the
+time okay
+but you know one tenth of a percent
+means that every you know every thousand
+miles you'll have an accident and
+unacceptable
+the level so you need to find this long
+tail those things that will happen only
+once in a million miles if you have a
+fleet
+of a hundred thousand cars
+if you have a bug that happens only once
+in a million miles it will happen every
+you know
+every day
+right
+so
+yeah a lot of changes a lot of new and
+we always have to keep the balance of
+what we know
+what we bring keep it and you know
+leverage and bring it out
+but also constantly learn new things
+which by the way is
+this is one of the greatest joys of this
+job
+is that i'm learning so much all the
+time it's it's
+it's really i can only imagine beyond
+beyond learning about the technology
+learning about this complicated industry
+one of the most complicated
+endeavors that honestly humankind is has
+has attempted you know this is much much
+more complicated than than sending a man
+to the moon and to do some of the crazy
+things that we've done we're actually
+talking about changing transportation
+for good and once it's deployed it's
+deployed uh it's going to be very hard
+to recall this and especially from a
+consumer behavior standpoint
+now now zev how are the rest of the
+players in the market reacting to a
+company like forte alex
+if you're looking at like the likes of
+elon musk and and and the folks at ed
+waymo you know what how are they
+rationalizing through
+what you're describing here is an
+opportunity to potentially fix
+this long tail of bugs
+first of all i have to say that we have
+decided to focus on the traditional
+automotive industry first
+actually not just traditional
+our go-to-market strategy is to go to
+the
+sub-markets of autonomy where there's
+actual
+deployment
+so ada data systems correct and um you
+know we are working with volvo on mining
+on trucks operating in mines that's
+public
+so
+the car the robot taxi that will operate
+in the most complex environment in the
+city
+again
+many companies huge companies that are
+spending a lot of money here
+like waymo and you know several cores
+and algo etc zucks
+this is not our main focus right now
+we're building the technology our
+solutions
+where we need to make business so we
+need people who are ready to also pay
+and and bring in
+um and how are those people in the in
+this in in that market reacting those
+that are already starting to leverage
+autonomous vehicles but not necessarily
+in this complicated environment that
+you're describing that the big players
+are fighting over with billions of
+dollars
+yeah they're also putting billions of
+dollars they know that um
+look the way you test uh i'll
+oversimplify it but the way everybody
+tests autonomous systems
+is
+to the most part they put they put the
+software on the system and they go and
+drive and they drive and drive and drive
+and drive
+tesla is using their
+customers to do some of the driving i
+won't get into that
+uh waymo have a fleet of cars and they
+drove you know more than 10 million
+miles etc
+but
+people know that this is not scalable
+and look we're talking about software
+i know if you
+software every day you make a new
+software fix you fix the bug you add a
+new feature you need to run everything
+but you can't nobody can drive and 10
+million miles within a day or a week
+there's just no way to do it right you
+need to do it in software you need to do
+it
+in simulation
+you need to do it with synthetic look
+one of the things you need to test
+is
+accidents or near accident situations
+right
+but these don't happen very frequently
+in real life thanks god right
+so even if you have a fleet how many
+times you got to
+almost run into a pedestrian thankfully
+almost never but when you test this
+autonomous system
+you need to do it very very thoroughly
+all the situation the pedestrian was
+going from the left from the right
+you're very close there was rain there
+was this speed that's been
+infinite number of situations
+so everybody that the funny thing is
+everybody realize they need something
+else they need to move to
+do most of the testing in virtual
+testing because physical testing will
+just not be scalable
+and not allow you to test all of the
+really difficult dangerous situations
+but the move is very slow
+right the move is very slow i have to
+say in the autonomous in the automotive
+industry
+we have been working in the last three
+years on a standard language to describe
+scenarios
+so scenarios are the basis right we're
+talking about infinite number of
+scenarios somebody cuts you from the
+left somebody from the right the speed
+the this and that
+so we suggested to the industry a
+language that's some of one of the key
+things that we know how to do very well
+we've done it many times before
+it's a software language it's a machine
+and human readable language and this
+language is now becoming the basis for
+the standards so actually
+if you look at acceptance this is
+probably the most important standard
+for the autonomous industry and it's
+based on our
+concept our approach and actually our
+specific language that we have
+implemented
+so i think there is a lot of acceptance
+but this industry is moving slow
+there's also nih not invented here
+in some companies um which which is fine
+it's you know i've i've
+it's not new every the the better the
+company the more it believes that it has
+all of the solutions and it doesn't need
+help from outside
+and it's a natural process so
+we have patience yeah
+take me through you know in in short you
+know
+if you're looking
+a little bit into the future
+specifically with fertilics and the
+autonomous driving world
+where where are we at you know what
+where do you where do we want to be
+where do you think
+for telex with what you're doing today
+what is the potential for it in a mature
+autonomous driving world that i think
+everybody agrees we will get there we
+just don't know exactly when
+well i think for the industry so this is
+happening the adoption of autonomous
+systems is happening already
+again aidas which people dismiss
+especially here
+in the bay area they don't consider it
+autonomous which i think is a joke
+uh it is autonomous and it does more and
+more functions but it's not fully
+autonomous it's not level four
+level three is already getting it's
+starting to be there
+um and there is deployment all over
+again we are talking with we are working
+with mining there are many different
+sub-markets verticals where this is
+being adopted so if you ask me when
+there will be a robot taxi in san
+francisco i don't know three four five
+ten years i have no idea where is
+fertilis going to be whenever we have
+yeah so so look we have we have the
+probably the most critical ingredient
+of how to make this system safe and
+efficient
+which is
+the most critical barrier that's the
+main reason why waymo is still not you
+know everywhere it's about safety it's
+about making this thing safe
+and i think we have the
+the critical uh ingredient our platform
+is the most critical enabler so
+i don't think we'll be the only player
+but i think we will be one of the major
+players for this industry and that means
+you know
+look companies are spending
+um in very complex systems in general we
+saw it in the chip industry half of the
+spending is in for testing validation
+same here
+there's already predictions i saw some
+mckinsey um
+analysis that says that for complex
+systems level three four five
+half of the spend and we're talking
+about billions of dollars is going to be
+on the testing on validation on ensuring
+this system are safe
+and we are going to be one of the most
+important providers not the only and by
+the way we work with many other partners
+in the market
+in the ecosystem
+uh so that's our vision you know we are
+going to enable this industry by
+providing a platform that
+most everybody will be using
+phenomenal that's that's where we are
+going i i want to thank you not just for
+these 20 minutes but for all the great
+work that you're doing and eventually
+for for making the roads safer
+and for making generally things safer
+throughout your career and i think it's
+such an important role of uh you know
+what you're doing and i have to say that
+i haven't heard much about this role
+until now and i think that's that's not
+right and so i'm especially honored to
+to be able to share this story through
+this platform and and and and to have
+learned about it myself and this is
+exactly exactly why i do this show and i
+really and i and i i really appreciate
+it so thank you for sharing your time
+with me and best of luck with fertilis
+and stay safe and stay healthy
+same for you thank you thank you have a
+good day thank you
+[Music]

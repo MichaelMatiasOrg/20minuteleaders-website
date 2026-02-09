@@ -1,0 +1,616 @@
+and you know that many times a very good
+algorithm can reduce the needs of the
+hardware what we are for us is very
+important
+is that
+you need to
+really do a lot of effort so the
+hardware side will be as simple as
+possible and as cost effective as
+possible
+we don't want that the cost of the
+hardware will be the the barrier to
+implement and we want people to think
+about what they need and then use only
+what they need but to have it in a very
+optimized way so you don't have a lot of
+different and fragmented solutions but
+you have one holistic platform that
+bring everything merge all the data
+okay and then give you something that's
+taking into account all the data all the
+sensors and you invest one time
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lumitec
+sponsored by homeword ventures hippo
+insurance opus labs synergy global
+hillel at stanford leap birthright excel
+serrano partners and in media
+partnership with c-tech
+welcome to 20-minute leaders and meet
+eran ben schmuel the ceo and co-founder
+of jugano
+beginning his career unconventionally is
+a classical violinist he changed
+direction and earned his bsc in
+electrical engineering and physics from
+the technion israel institute of
+technology iran has over 15 years of
+experience building high tech companies
+from zero to mass production and he is
+an expert in solid-state electronics and
+high-speed control systems and he holds
+numerous patents in physics and
+algorithms
+jugan was his second startup with his
+partner alex balczynski
+the first startup of the two was rf
+dynamics the invention was the magical
+oven a technology that allows high
+degree of control and rapid energy
+transfer to food products based on
+digital high power rf components capable
+of modifying the frequency amplitude and
+phase of radio waves transmitted in
+ovens he always brings together a wide
+range of tech fields to solve unmet
+needs just like he did in jugano which
+significantly impacts people's lives for
+example what they're doing lately in
+philadelphia arlington mexico guatemala
+and brazil meet iran
+iran ben shmuel ceo of jugandu welcome
+to 20 minute leaders how are you
+very good excited to be here
+i'm excited to talk about science about
+technology ai but but all of that
+towards a greater vision for a greater
+future where our cities are connected
+our retail is connected we're in the
+data-driven world
+which allows for pretty much everybody
+to be to be connected and to make good
+proper decisions and hopefully also
+create a bit of lighting along the way
+so again thank you so much for for
+joining me today i'm really excited
+my pleasure
+you're a scientist
+by background uh
+yet also an entrepreneurial and you sort
+of you you spend your your career diving
+into deep scientific research and then
+implementing really interesting of the
+interesting insights into these
+companies
+what sort of guides you in the way that
+you think through research or science
+that excites you
+i always attracted to the science that
+can lead to some
+you know results that we can see and and
+and you can feel then you can
+uh you really see the impact that you
+are doing yeah
+in the short term more or less you know
+not the science now that we do the
+impact in 20 years this is what captured
+me so
+i always
+were amazed by the ability to um to
+imagine something and see it in
+realization
+and uh i like to imagine i like to uh
+uh i like
+the fact that i can be creative and work
+in this you know so so to to do
+something creative and and to impact
+and uh i think the technology can
+be very meaningful to our life and um
+this was uh the the main issue that
+attracted me and i think that
+i was dealing with such
+a variety of technologies that was
+every day my life is is very exciting so
+i i think that i'm
+i'm very fortunate about it
+i love that that sentence every day my
+life is my everyday my life is very
+exciting i think that's a if i had to to
+bring together what are you know the the
+the way that i want to live my life or
+or why we do what we do it's exactly for
+that reason
+a little bit about jugano tell me even
+before what jugam does paint me a
+picture of of the world today
+and you know we go out to the street and
+we see beautiful weather and beautiful
+streets yet yet you perceive something
+meaningful that is missing for us
+what is that i think that the contrast
+between the the world that we are living
+that is is in the online
+such an amazing world
+feel that
+you're doing shopping online you feel
+that they know you
+uh you have such a
+strong tools in the online while in the
+offline usually you don't have it of
+course all of us are used to uh to see
+uh tools that are mainly connected to
+our security
+or in the retailer
+yes you used to see some things that are
+are a
+you know very fragmented um and and what
+really triggers is and and you see a lot
+of development in the ai world all the
+capabilities of the machine to help and
+and really speaks about things that can
+do good impact okay i don't really mess
+with the uh or care about things that
+are connecting to um
+mainly about security or these things
+but to do some some some really impact
+on us as shoppers as people that live in
+a city
+and that and the concern between the
+huge capability in the ai side in the
+connectivity side and and and in the uh
+in the other side to see the digital
+world so development uh
+such a development and in the
+in in the bottom line you are going to
+um to a supermarket
+i and you buy exactly like my
+grandmother boat so so there is no big
+difference i go inside i look for the
+product
+and i feel it can be much better you
+know to go in the street and see someone
+falling and you need someone to call
+help you know it's it's not a a
+it's really difficult to understand why
+in in these times it's like this
+so i think that
+to bring the technology to do a really
+impact to help starting from the lights
+by the way
+the lighting
+why not to create lights that are like
+the sunlight okay why to read artificial
+light that is so much disinvented
+it's something unacceptable and the
+communication how you you take the data
+that we are leave make it
+accessible and put all the tools that
+amazing people created a lot of insights
+a lot of creative thinking and bring it
+to realization and to really insight
+that can help us and this was between me
+and this was the basic of qigla jogan
+wants to take the offline world
+uh and to make it accessible to bring
+all the digital tools
+to be
+it to be insights and to be accessible
+in the orphan
+that's incredible
+what type of world does that make so
+what what is sort of the
+the i mean
+it is it does sound intuitive like this
+is something we want but but what type
+of world
+does it allow for us to have what what
+what impact does this have down the line
+on the way we live our life the way
+families raise their children because
+you're touching here
+on our very livelihood you're touching
+on our streets you're touching on our
+stores
+so how does this unleashing of
+creativity that you're talking about how
+is that how is that changing sort of the
+way that we're gonna live our life
+so um i will give you an example in some
+place in latin america in some very big
+city
+there were we installed our system in in
+the neighborhoods where people couldn't
+go out
+uh during the evening
+uh
+and feel comfortable and enjoy and do
+sport and go with the family because of
+security because of of uh understanding
+they are they don't have the real
+support to have if they have some
+problem or something and and after we
+install the system i went there and it
+was amazing to see how people because of
+this transformation it's connected to
+light communication so digital tools uh
+tools um
+they start to go in the night to start
+to enjoy uh with their families in the
+evening and i think that this is one of
+the biggest things that i i experienced
+that that made big changes to uh to
+people how they live but i think it can
+be much
+more than this when we envision
+autonomous cars when we we envision all
+the connectivity that
+uh uh we start to see
+that a lot of technologies start to
+combine together you know in order to
+give us a lot of um benefits
+um so when you go in the streets
+and and and and my child that is a small
+child i have four children so my my uh a
+five
+and a half years old child
+is doing a mistake and wants to cross
+the streets i want to know that there is
+some alarm that's along the the the
+driver's beaker or oh some danger can
+come okay it's look like a dream but
+actually now we are doing a system like
+this and it's it's it's connected and
+and it's it's uh allowing the the the
+cars uh but in the same time
+not only transferring the the data to
+the to the car
+but actually change the color of the
+lights in order to alarm this is a
+dangerous be careful so it's
+the light become from white white
+to um to red light and and blinky so
+very simple thing very visual thing and
+just you know even if it save one child
+it's not good enough so i think that
+this is something that is really crucial
+that the infrastructure will help us to
+live better
+right i think it's a i i i love that
+example because then obviously
+very easily we all agree save one child
+isn't that enough for us to to to to put
+this throughout the whole city and
+obviously the answer is yes it is enough
+and the implications are endless right
+because then we're talking about
+connectivity it's not a clo necessarily
+just a closed system we're talking about
+in near future of autonomous cars and
+today
+we're talking about getting to precision
+and accuracy with our existing sensors
+that are limited by nature
+from their visual fields then by adding
+additional layers of parameters from
+sensors across the domain i think that
+obviously it's it's incredible tell me a
+little bit about gigan was a company now
+so
+so sort of
+what did you do what did you develop as
+as giugano and sort of the
+implementations to date
+in geogano we are solving some basic
+problems that
+uh
+cause
+a a very big
+uh barrier from cities and retail to
+implement digital solutions one of them
+is the initial cost everyone speaks
+about 5g but we all know that in order
+to implement 5g real fighter with with
+really good bandwidth and good
+connectivity um you need to invest a lot
+of money
+and and in order for this uh we try to
+harness the technology
+uh to enable sophisticated system to
+reduce this initial cost reduces barrier
+and only when you are doing it you can
+enable
+uh
+the spread of this
+hybrid communication in areas when you
+don't have
+a lot of money that you can you know in
+the middle of manhattan to put some
+connectivity but to put it really in
+every corner in every place in the u.s
+in the world i in in brazil in mexico in
+guatemala not about only the rich parts
+can put like few blocks
+uh in order to do it because everyone
+deserve good connectivity i think that
+that the president biden say that the
+the connectivity is the new uh
+electricity
+i think that people now expect to have
+good connectivity good access and in the
+pandemic we saw that if you don't have
+ground connectivity you are just left
+out from the on the ability to be
+connected and
+and and i think that
+what we did
+we created the ability
+to connect one point to another point to
+another point and this is how you do 100
+thousands of points
+only by wireless connectivity we created
+a very complex but in the end very
+simple to install a system that just
+deliver the data between one to the
+other in a very efficient way very
+robust way so it will be
+the the the back or the the baseline for
+deployment of bing installations and
+creating a a a a platform we call it a
+platform that can enable implementation
+of 5g
+access points
+small cells uh wi-fi access points
+can can you can implement sensors
+multiple sensors it can be connected to
+the existing sensors and bring a lot of
+data to one place and to bring the data
+analyze the data locally in the file
+edge in the feature
+and then you literally create smart city
+in the effort of changing the light bulb
+so it's the easiest thing to do and now
+you create this sophisticated system
+that can enable you to have all the
+access all the benefits of smart
+okay so you so we're saying you know on
+one hand it's just it's a it's an easy
+thing to do but but it does require
+you know i'm conceiving of two
+two-way blocks and there are probably
+more but one of them perhaps is a
+regulatory one where you have to first
+explain what you just explained to me
+you have to explain it to governments
+and to municipalities and i'm curious to
+hear what that conversation is like and
+i'm also curious to hear about
+sort of the operational process of doing
+it because you have to essentially
+go and perform some infrastructural
+operation or not infrastructure we have
+to do some operation across
+the city in order for it to be connected
+and be meaningful how do those thing two
+things play out in your world
+first of all it's a process uh and when
+we speak about cities is to uh to be um
+with the right attitude to understand
+that uh both parties need to be
+need to feel comfortable and good is the
+city and it's the citizens they need to
+feel good they need to feel that this uh
+um
+a solution comes to help
+and come to bring value to them
+so uh we are doing pilots we are doing
+installations we are
+working with the different companies
+different cities worldwide by the way we
+are now in a very big implementation in
+brazil for five year deployment but in
+the same time bring them the value of
+the of the uh
+safety of the of the uh
+heat maps of uh a traffic management of
+traffic light control everything that
+bring them the holistic solution
+uh so sometimes we are working with
+government and certainly we work in
+municipalities sometimes with the
+companies that have the
+the the will and the need to do this
+transformation it's a lot of companies
+that try to uh to do it and i think that
+story slowly it's become something that
+people feel uh that they need it
+because a technology can be threatened
+but it can be something that really
+change your life and and i think that if
+you do it in responsible world and in a
+very honest way understand that you own
+no data it's not yours it's a
+municipality it's the people you are
+only here to help to guide to make
+things accessible and and you do your
+best in order to give them the tools to
+manage their data and their uh
+infrastructure
+and you are only a tool so that's all so
+uh you give them the tools and and and
+and they are using it for the benefit uh
+but you give good tools in order
+for them to uh
+uh to bring a lot of value and insights
+so they can manage better the city
+manage better dispose and and and give a
+lot of value
+so there is the software side and the
+hardware side right of this company
+and which presents you know it's almost
+two different challenges
+that one you know you need the hardware
+in order to feed to get the data for the
+software you need the software to give
+the value
+to the to the decision makers at the end
+what what about this strategy you know
+because it's it sounds difficult to be
+able to do both and do both very well it
+was that a necessary condition for this
+company to
+to to thrive
+were there different considerations
+there
+in the end if you want exposure to an
+ability to take data to analyze you need
+to be there you need to do something you
+need to install
+so this is the hardness side and we work
+very hard so it will be easy to
+implement and not difficult to replace
+the light bulb is not something too
+difficult to do it's something that
+people do every day in every place in
+the world it's not something difficult
+it's something uh and when it's modular
+and you can put
+any any number you want you can start
+and and and and grow with this um
+in the software side
+it has to be a something that is
+connected between software and others
+because you need to implement the basic
+uh um
+hardware but you need to do a very
+sophisticated software in order to
+support it so you get really good data
+and you get uh good analysis and you get
+the right background you know the an
+infrastructure in order to run you know
+all the tools that you need ai needs
+very good data
+um and you need to uh
+to make sure that this data is good and
+and you can implement tools that bring
+real data and accurate
+right
+so that that
+balance
+because how do you know how much even as
+a ceo
+resources to put on on one versus the
+other you can continue
+building out the hardware to get more
+and more data you can
+shift some of those resources to
+building out the software are there
+limitations i mean do you see them as
+sort of competing for resources within
+the company or is it or is it mainly you
+know two verticals which you're growing
+as much as possible that you can grow
+them and they're they don't necessarily
+compete against each other well i i see
+them very complimentary because
+understand we are doing the platform we
+are right
+and our goal all the time was through a
+platform that can be used by third party
+as well as uganda so we are not trying
+to say if you implement this uh platform
+we need to use gugam applications no try
+to make this data accessible and then
+amazing people come with a great ideas
+use the data
+and then give amazing insights
+so our goal is to make this uh our
+platform uh optimized regarding the
+hardware and the software in order to
+give
+the tools to developer to sell parties
+to bring the tools and and and to um the
+insights uh and bring all the value to
+the customers and to the cities the
+written so uh basically it's it's it's
+growing together and you know that many
+times a very good
+algorithm can reduce the needs of the
+hardware what we are for us is very
+important
+is that
+you need to
+really do a lot of effort so the
+hardware side will be as simple as
+possible and as cost effective as
+possible
+we don't want that the cost of the
+hardware will be the the barrier to
+liquid and we want people to think about
+what they need and then use only what
+they need but to have it in a very
+optimized way so you don't have a lot of
+different and fragmented solution but
+you have one holistic platform that
+bring everything merge all the data
+okay and then give you something that's
+taking into account all the data all the
+sensors and you invest one time i
+believe that as we are a company that
+even developed a technology for lighting
+it's part of our system
+yep you need to think about the
+environment and about the environment
+it's to save a lot the maximum that you
+can but to save with infrastructure it's
+not possible that people put every
+other thing that they need they create
+another infrastructure
+it's just not possible you need to be
+optimized with these two and then the
+effort to do it will be optimized and
+minimum
+iran it's a it's fascinating on so many
+degrees because i think that what one of
+the things that that you know it's
+amazing for me is that you're working on
+something that that
+once it'll once we'll have that it'll
+seem so trivial and it'll seem so
+obvious that we that humanity needed it
+yet today it seems like it's it's a
+still
+not science fiction but it seems a
+little bit futuristic and and it's not a
+central conversation but but you know
+companies like jugando i mean that's
+exactly where where my inspiration stems
+from and i can only imagine
+all the creative use cases of what
+people can do and what software can do
+with the data that you will be creating
+uh i think that it's a it's remarkable
+and i am still with that thought of that
+image of a car coming into the driveway
+within you know a neighborhood and all
+of a sudden the street lights changing
+or perhaps an alarm sounding and and
+lives being saved because we have this
+ability for connectedness and to
+integrate this data so i think it's
+amazing and i appreciate your time and
+your energy and uh i wish you best of
+luck with giugano and i can't wait to
+see what happens
+thank you i will invite you to see
+interesting implementation with center i
+think it's uh thank you for your kind
+words and uh happy to talk on everyone
+i'm i'm ready thank you alan thank you

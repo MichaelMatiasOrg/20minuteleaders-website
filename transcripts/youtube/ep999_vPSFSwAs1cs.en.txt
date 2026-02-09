@@ -1,0 +1,574 @@
+I have my personal passion about how
+companies work what make them tick what
+make them have the next decision and the
+bad decision what really led me to do
+how can we give anyone in the company
+any employee have access to Reliable
+accurate and organized data that can
+help him generate his next decision that
+was delivered the most Ry the best
+Hawaii
+20 minute leaders just sit back relax
+and learn from the leaders of today it's
+a journey each one is different unique
+inspiring let's get started
+[Music]
+20 minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+welcome to 20 minute leaders today I'm
+with alad sad dog the CEO and co-founder
+of tagado a company that collects
+customer feedback about companies and
+transforms them into business insights
+using natural language processing their
+platform allows companies to organize
+customer feedback from multiple channels
+and generate actionable business
+insights automatically it gathers public
+and internal information from review
+sites social media support tickets CRM
+and more and uses models of natural
+language processing and machine learning
+to identify Trends and micro Trends
+opportunities and risks and flood them
+to the customer he was the VP at product
+at Brazil meter which Google Acquired
+and also founded gadgety the largest
+tech website in Israel in February of
+2021 he founded tagado with Ellie and
+Dole
+I'm really excited to have you here and
+talking about a subject that I I'm so
+excited about natural language
+processing another subject that I'm
+really kind of sure about is customer
+feedback and being able to build
+beautiful products and the integration
+of the two through to takadu your is
+your your company which I'm really
+excited to learn more about it because
+it just looks it looks awesome it looks
+you know so relevant to today and you
+know just recently Chad GPD was released
+which I'm sure you've already spent half
+of your working day playing with because
+it's just so freaking awesome and then
+and so it's a lot of things are
+happening with NLP but at first I want
+to understand a little bit about
+yourself your relationship with natural
+language processing and natural language
+processing and with
+um with the customer feedback on the
+other end tell me a little bit about you
+know yourself in the context of these
+two
+sure so I was the VP product at the
+company called prismeter that was
+acquired let me Google a couple of
+months ago and during this time period
+there was a lot of the first employees
+and during this time for almost six
+years I was handling all the products in
+the company and one of them made and
+challenges that I had is every time
+every cycle in a robot cycle when I was
+looking to understand what does she do
+next what will benefit our customers and
+give them the most value I had to go
+around the company and ask differently
+Partners about what might talks for them
+and how they think we should improve the
+product and service to our customers so
+what happened did I discover that a lot
+of this data is locked inside decent
+silos in the company so there was some
+data some customer feedback in the
+marketing department and some of the
+sale of the customer success of support
+and some even in the in the product
+department and I had to go to each and
+every Department and ask them for their
+insights and what they their perspective
+on how we can we sell the customers best
+and how we can improve the product such
+as a tedious process that could take a
+few weeks to really build the roadmap
+around really listening to the customer
+and the prop the main problem was that
+the data wasn't twitchable to everybody
+so I had to go to department and get
+this data by doing it by pull instead of
+getting it by push
+yeah it was a new challenge and
+I think that this is the main thing that
+led me to take a do also I have my
+personal passion about how companies
+work what make them tick what make them
+have the next decision of the bad
+decision unfortunately during the time
+evaluating the idea of tagadu we learned
+that a lot of a lot of companies
+speaking about customer experience and
+customer Simplicity but very no amount
+of companies really doing it because
+it's so challenging because of those
+stylings that are spread across the
+organization and Veterans character
+across the organization and this is what
+really led me to do how can we give
+anyone at the company any employee have
+access to Reliable accurate and
+organized data that can help him
+generate his next decision that will
+deliver the most Roi the best Hawaii
+all right so let's talk for a second
+about this idea of bringing this to
+every employee right I mean
+traditionally when we're talking about
+this customer feedback there are
+specific personas that are most relevant
+in in assessing on caring about customer
+feedback why did you you know what what
+is it behind the the statement every
+employee it's an important state thank
+you
+yeah so I like to use a sentence that is
+full of buzzwords that I usually tend to
+and to say it we tried to
+revolutionizing the decision-making
+process by democratizing customer
+feedback so the goal is to bring the
+customer voice to any decision it can be
+a marketing decision when you need to
+write to the right content only to to
+create the right knowledge for your
+customers or product marketing to help
+them understand what the users have
+challenging with if it's product that
+needs to evaluate different feature
+requests all different product
+equivalents if it's customer experience
+teams or customer support team that can
+better improve the performance by
+creating pre-advents answers to to many
+questions that customers have and
+everything usually is a line around the
+customer we need to bring in the best
+experience we need to bring in all hairs
+of course the best product but this is
+how I got as the company because by
+doing so we increase the attention we
+increase engagement and we reduce chair
+so listen is something it's very
+important it's extremely hard because
+this data when it comes in a
+in a combination of thousands of reviews
+from online or Facebook posts or Twitter
+tweets or even Zs tickets or intercom
+chess there is a lot of data a lot of
+interaction points in the customers and
+all of these data sets uh is the same
+time that they are locking different
+departments they are also very hard to
+analyze so take it to really streamline
+the process first to aggregate all data
+together organize it to the relevant
+topics that are relevant for the
+specific buildings we are working with
+and then on top of it generated insights
+so you can really listen to your
+customers without having the huge data
+scientist team or business or product
+analyst team and just getting
+qualitative data like you never had
+before before with we're making the
+quantitative quantitative and the
+resulting is very hard to consume in
+most cases
+incredible let's let's transition to
+talking a little bit about the
+productization of it and I think that
+the question of productizing NLP is a is
+a really interesting one at that and
+because at the end what we have here is
+you know a phenomenal you know set of
+Technologies or a set of tools and where
+we need to integrate them into a way
+that through user experience where the
+people are able to enjoy them tell me a
+little bit about what your key
+understandings are for natural language
+processing as a user experience
+perspective and then how you're bringing
+that to the product of tagadu
+yeah so that's a great question I think
+I added a bit of the unique road to that
+point and first thing is that into
+isometer we did a lot of predictive
+algorithms and machine learning to
+really predict and in that case and
+predictive quality arrival but I didn't
+have the correct touch with specifically
+nmp and and then when I met one of my
+co-founders care was a fast experienced
+in NLP was a media to Citibank in that
+aspect and then I learned from him the
+different Technologies and capabilities
+how can we utilize nrt to solve certain
+problems and on top of that we we
+thought about how can we build an
+end-to-end m and Ops let's say a
+solution that we have the application it
+is defrauded but on the back end we
+built a lot of infrastructure from being
+able to understand on the Fly what are
+the correct topics for each company how
+can you can clustering all the different
+data sets to have coherent story about
+those topics how can we measure the
+accuracy except the most accurate for
+each type of customer so for example if
+we would like to understand if the user
+is talking about a bugger contain
+compared to a user is complaining about
+pricing Wheels different models because
+it's different complexity of
+understanding of what's the protein and
+I think other unique approaches that we
+have a wide range of let's say let's
+call them Universal topics that we can
+use them across many companies such as
+feature requests and bad complaints
+question user challenges and we
+collaborate we we combine those with
+dedicated topics to the company and then
+the combination of those we can
+understand okay you are the bug in this
+specific feature your feature request
+in this specific aspect of the of the
+product so we utilize different
+Technologies and different technology
+methodologies to really gain those
+in-depth insights and on top of this we
+built our product that is really easy to
+use and it really enables everybody to
+quickly understand in five minutes watch
+the opportunities and risks that we can
+highlight in Italian automatically for
+the users about what representatives and
+risks in the customers feedback so about
+in this in the check-in can be a huge
+risk for a company because even if only
+five percent of the users complain about
+in five percent Revenue so there's a lot
+of things that combinations of different
+aspects of the business and how we can
+minimize those risks and identify those
+opportunities as soon as possible so you
+can engage those with the customer
+improve that and deliver as quick as
+possible and of course increase your
+main kpis to beneficial users and
+increase the value
+and and and how does a product actually
+work you know streamlined into the
+day-to-day of the different functions so
+how you know if we're looking at
+different functions working in different
+companies walk me through some of the
+use cases of how these different
+functions will experience the product
+sure so
+we know nowadays that each building says
+quite a few of public and in Terminal
+customer interaction channels
+um through which they receive feedback
+continuously so it can come from any
+point of contact in the company it can
+range from Facebook groups to send us
+tickets every company has an ecosystem
+of customer physics LLC but
+unfortunately in most cases this process
+presentation is not good so if I am a
+product manager that would like to
+understand how can an improve a feature
+that are responsible to be or how can I
+improve a certain product that I mean
+the own evolved I can log in quickly to
+take Ado look for this specific product
+or this specific feature and see
+immediately what people are saying about
+it in different aspects what features
+they would like me to add about they are
+compelling about or even six data
+sometimes didn't even consider measuring
+so when you add an it with quantitative
+data you are deciding in Advance what
+you would like to measure tiger do
+because it's qualitative data will help
+you building new processes on what you
+should do next what is the next step
+that you should click in it can be
+applicable for any position if you're in
+product marketing you know when I was
+product manager and my managers used to
+tell me that you don't need to develop
+all the time you can sometimes send them
+different situations without developing
+some stuff so in many cases you can
+create better knowledge if you have a
+product marketing department we have a
+knowledge Gap over here maybe we can
+create a tutorial maybe we can create a
+blog post that we can help people
+understand this feature while product in
+right away and we don't need to reinvent
+all of our UI to improve it so it can be
+handled through different departments
+and the accessibility for the data
+really accelerate this process we're
+gonna can really easily login and see
+and understand what's going on with the
+customers and it's the company getting
+bigger the distance between different
+departments is getting larger also so
+when you are 10 employee startups you're
+talking all the time and you understand
+what was the customer and you all have a
+gut feeling about what's going on but
+when you're ready to 48 1700 200
+suddenly your q18 is very far from the
+customer and they're getting tasks
+covered from above on top down for what
+process every problem in that aspect but
+they can't really understand what's the
+context and with stuff you do we enable
+different employees to have the complete
+context of what they should do and I
+think this is something that we hadn't
+cherish in tagado and giving this aspect
+to a business
+and what's happening results awesome
+it's really uh I'm really excited to see
+you know both with tagadu and in general
+how this industry evolves because it's
+uh you know we're such a the in the in
+the in initial steps of everything
+that's happening and there's so many
+exciting things that are that are going
+on and you're just talking about you
+know one of those things that sound it
+really does sound exciting from a
+technological perspective how do you see
+you know sort of the world evolve with
+NLP from you know the foundation models
+that we have NLP as a service by
+companies like open ai ai 21 Labs
+fine-tuning models for specific use
+cases like the ones you're mentioning
+how do you see this world evolve
+yeah so one thing that I usually try to
+remember is that NLP or machine learning
+is not metric but we need to make it
+feel like one so it's not magic it's
+Advanced algorithms the note of
+automatics that generate those different
+things that will try to prove a note on
+it but it's not magic it's a lot of
+artwork and we need to make it feel like
+a magic
+um but in the specific aspect in the
+approach of Davido we chose a
+multi-modal approach so in some and also
+it's very cost effective so in some
+cases it would like to classify
+something or understand certain topics
+from data we could use different models
+that can generate close to the same
+results and but with being cost
+effective cost effective on the server
+side or on the servicing so on the
+server side we usually work on Amazon
+foreign
+but on the setting side there are
+services such as GPT open AI scores and
+other different solutions so we always
+try to evaluate what's the best model
+to any specific scenario and we do
+anything on the slide when trying to
+understand our accuracy for topic
+detection so when I have a specific
+feedback and I would like to understand
+what are the specific topics that are
+relevant in each and every feedback I
+can use a specific topic detection for
+bug that is usually a more complex model
+more a natural NLP oriented model but in
+some cases I can use regular statistical
+models and on top of that and use
+settlement analysis so for example when
+you're trying to identify when someone
+is talking about price it's usually tend
+to to be pretty easy to understand when
+someone is talking about price if it's
+positive or negative but when it's
+something that should require more
+context awareness such as the Bible
+feature requests or even if someone
+asking a question then we use more
+advanced models but in some cases we
+started winning the dense models but we
+tried and we see the results and we get
+on the Fly accuracy of different models
+you can understand okay maybe we don't
+need something so complex we can use
+someone starting to do bit and bless the
+resource in Tennessee then we can be way
+more cost effective and also deliver
+much quicker the onboarding process
+intercedure it's up to two weeks and
+it's usually a very complex compared to
+multiple additional customer experience
+platforms that usually take up between
+three months to six months I think this
+process that we built around utilizing
+different NLP models and different
+Technologies enables us to be really
+critical delivery and of course
+brilliant results
+very very cool and I can I can see how
+how convicted you are about about this
+and how it sounds like it sounds really
+really great and uh coming from a little
+bit from this industry to and it sounds
+like a really really cool thought
+process tell me a little bit about why
+you know why do you do what you do so
+you were breezometer very very cool
+company got to interview the CEO for the
+show as well
+um you know why why going to this route
+why open a new company why go into NLP
+customer service
+customers feedback
+so I I think I I would touch a bit on my
+personal story on that end so I left
+Brazil majority of the peak so it's a
+company allowed investing a lot of time
+there I thought about a video for like
+one two years but I fell in love with
+the entrepreneurs
+and we had a great connection ever with
+chemistry but I felt that I need to go
+out and start my own thing using wisdom
+balance things I I decided to do that
+and and at that time like a month after
+Corona outbreak started so it's a very
+interesting point of time to building a
+business and but the the main idea I
+claim from my experience from prison
+meter but this it took a better a bit of
+a step back so I think the first
+um Step that led into that was the
+category it's a website that I
+established in 2008 it's a tech Hills
+website that we covered technology and
+Gadget and one of the last genius right
+now we're not imagining it and not
+imagining it anymore but the battle with
+this car key handling it and and then I
+learned that I'm really not understand
+upcoming book and how they are deciding
+all the next steps and positionally on
+much larger companies and sometimes
+things didn't fit in the strategy that I
+perceived from the company and I felt
+the same when I worked with lisometer I
+the benefit to work with a lot of larger
+devices and I had I had the privilege to
+work with those companies and help them
+improve their products and the third
+part of the mission before is meeting
+early my co-founder and that is an
+expert in NLP and this is where my
+passion was built At All by us that
+opened and oh we can utilize new
+technologies to really optimize and
+streamline this process of from customer
+feedback to meaningful product and based
+decisions in real record time and not
+putting so much effort because you're
+going to companies and you suddenly see
+that the customer success team or the
+customer experience team have a
+quarterly almost the report about our
+customers and the engagement and then
+feedback and it doesn't make sense it
+should be in real time like you're
+working with Google analytics you're
+getting in real time and so we believe
+that it should be the same for the for
+the customers experience part of the
+business and it's new it's something
+that we are the in many cases without
+the first point of touch for those
+companies with those Technologies with
+these Technologies
+and he's very excited to read it yeah
+and I think the main passion was
+recorded in blizzometer I got a lot of
+respect from the co-founders and Muslim
+Liberties so rather than the team that
+you mentioned the CEO please Dominator
+used to tell me that you're the rules
+you're the rules of the company you're
+the one that everybody's cut into State
+everything was going on with all the
+capitals and all the complaints and with
+the development and everything so I said
+okay why am I the only one how can I
+make anybody in the company be a rules
+and this is exactly what led me to
+takadu I would like to give the power to
+anybody in the company to understand in
+few minutes
+um what's going on in the company with
+the customer respect and really help
+everybody make the right decisions and
+have the correct motivation around it
+and keep everybody in line and it's
+mainly from my experience and for my
+co-founders experience so everybody
+everyone brought his own aspect so and
+though was a team leader in early SVP so
+in different aspects we found that we
+had struggles understand the context of
+tasks in the context of the machine
+events and the vision that we have and
+really takadu was was the was the thing
+that enables us giving those
+capabilities and to empower the
+different place to do so
+thank you so much for an amazing
+conversation best of luck with with
+tagadu sounds awesome
+um it's crazy what's happening here and
+it's so many different amazing things
+happening the world of NLP and their
+intersection with Humanity that I'm just
+wrapping my head around it and so I
+really appreciate the time that you
+provided here and the energy and I look
+forward to cheering from the side and
+again thank you for everything
+Mr Black thank you very much Michael it
+was a pleasure to be on the show thank
+you
+[Music]

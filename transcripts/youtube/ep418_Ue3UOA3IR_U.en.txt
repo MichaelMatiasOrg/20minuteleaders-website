@@ -1,0 +1,651 @@
+modern war applications are a mesh of
+many lego blocks you can use
+different cloud vendors it's highly
+scalable
+uh not everything is served from one
+place so forcing everything to go
+through a single gateway even if it's a
+cloud gateway is
+is adding friction welcome to 20 minute
+leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc funded in silicon
+valley
+in partnership with lumitec and
+sponsored by hippo insurance
+touring opposed labs and hillel at
+stanford my next guest only started
+programming in his 20s yet today he is
+the cto
+of an extremely fast growing cyber
+security company he also ran his first
+half marathon
+completely underprepared previously he
+only ran about half
+of that distance meet idosa frutti
+co-founder and cto of perimeter x
+he does the co-founder and cto at
+perimeter x a behavior based web
+security service
+at perimeter x it owns the product
+vision and delivery with product and r d
+reporting to him
+prior to founding it idol was senior
+director of product management at akamai
+joining akamai through the acquisition
+of contendo where he was vp of product
+and strategy
+he started his cyber security career in
+the israel intelligence after graduating
+from the telpeot program
+he does welcome to 20 minute leaders how
+are you all the way from beautiful and
+sunny miami
+i'm very well happy to be here thanks
+for having me
+i i'm very happy to have you here uh
+this is the second time
+that i'm recording a show with you the
+previous time was
+for a one-minute episode of tldr where i
+tried to summarize
+very cool startups within one minute i
+remember that perimeter x was it was an
+especially challenging one because there
+was so much to talk about
+that it just felt like one minute wasn't
+enough
+but luckily now we have 20 minutes so i
+i
+i made a big leap there but now 20
+minutes we have it we have more than
+enough time hopefully to to at least
+scratch the surface before we get to
+perimeter x though
+i'd love to hear a little bit about you
+and i have to start
+with the story of of running the half
+marathon
+and i have a personal resonation with
+that so so go ahead and
+share with me exactly what happened
+there sure
+so this was actually a few months in
+to a little over 11 years ago a few
+months
+after i moved to the u.s i've been
+running for a few years already but i
+always like
+short distances 6k to the longest i did
+was 12k
+but i felt like i can felt really
+cool and that if i can do 12k why not
+just continue
+so a company a
+friend from work uh she's a runner for a
+long time said oh there is a half
+marathon here in san jose
+join me i obviously registered
+didn't think i need to do any any
+preparations
+showed up ran the first 12k very
+good and she was a fast runner i was
+trying to stick to her and then
+around the 50 started slowing down and
+the 15k i hit the wall
+walked for a few minutes uh took some
+breath and and continue and i ended up
+finishing it
+uh in actually a better time than i i
+expected
+because the first half was so fast and
+unpredicted
+uh but it was really brutal and then
+i got excited and started booking
+additional half marathons but obviously
+deciding to not be uh so so uh
+uneducated and and downloaded some plans
+and and training
+uh programs from from the internet and
+started running and building a routine
+and obviously the the following ones
+were much easier
+uh where you can recover within a few
+hours and not
+and not take two days off to rest
+uh and i learned a lot from it i mean
+sometimes you see a target that seems
+like a little more than what you're used
+to and you say okay i'll just wing it
+i'll go there
+holding for a little longer versus
+doing what is totally available is
+reading
+looking what other people have learned
+what have the video done
+what do you need to prepare for what
+what should you be aware of when doing
+that
+and and and make sure that you're there
+for the best
+best possible way as well as just
+practice if you're if you did something
+before the actual event then
+the actual event will be much easier
+right so
+yeah i actually have a you know a very
+very
+a similar experience also with with a
+with a race
+uh here in a lot actually a few years
+ago and i'm actually still recovering so
+you know two days
+i wish it was two days it's actually
+been about three years
+and i'm i still have to see a
+physiotherapist from time to time so i
+can very much resonate with both
+the you know the obstinance to
+to get the mission done but also
+learning
+to do it responsibly and to uh and
+and to be patient about it and
+responsible about it so so i think we
+already have more to talk about right
+after this
+but but you know moving on to more of
+the the technical side of your story
+going through the extremely you know
+amazing talpiyot
+program in israel and one of the things
+that i was astonished when i
+in our you know interactions you
+mentioned that you only started
+coding in your 20s that's really
+irregular uh especially for somebody in
+in your position as cto of of perimeter
+x but also holding
+you know vp positions in in a variety of
+previous companies
+right right so i've had a
+odd childhood maybe uh i mean
+i always was curious about many things
+uh and in school i liked art i liked
+music
+i liked history literature sciences
+uh and programming always seems the
+practical thing to do i like
+i i loved math and physics and when when
+going to topia i was sure this is what
+i'm going to do
+and this is where i focus my attention
+uh
+and when when i had reached the
+end of the three years training i
+realized actually
+none of the places that i i would
+want to that are the possibility for
+pure math or
+pure um physics uh
+are not that interesting for me uh and i
+realize that
+i i don't feel passionate i feel
+passionate about theory less about the
+practical
+aspects of it and the opportunities to
+build things and to
+do things in networking communication
+and programming i started feeling very
+appealing so it's more
+of the engineering and the more
+practical thing
+side that drew me and and then at the
+last six months of the program where i
+already had all the
+plans set and then i've realized okay
+actually i want to do something
+different
+and started learning and and catching up
+on
+computer sciences and then my my first
+job obviously
+was programming so i with no experience
+i was thrown into the water here build a
+new
+cyber group
+that will identify and learn things
+while i
+honestly barely know programming how to
+program
+i do know how to learn read a bunch of
+books started
+doing things and and been doing it since
+i love it so you were vp product and
+strategy of contento
+and then uh acquired and then
+senior director of product management at
+akamai and now perimeter x
+so give me you know a little bit
+holistic view of
+you know your your entrance into the
+cyber security field with perimeter x
+we're talking about you know user
+behavior tell me a little bit about what
+you guys are doing
+sure sure so
+i started again my as i just said like
+the early part of my career
+in the israel intelligence was mostly
+around cyber
+and computer sciences but more on cyber
+security
+and all that and when i left the army i
+said okay i'm done with cyber
+i want to do other things and i was
+doing uh
+internet infrastructure so large
+websites
+uh highly scalable sites this is
+so running uh medica fed then then
+contendo building is
+a large highly scalable modern cdn got
+acquired with akamai
+expanded the building infrastructure and
+then before starting perma-x so me and
+the co-founders we
+we realized that we're seeing a gap in
+the industry on
+securing modern web architecture modern
+web applications
+usually web security was done until
+until us or
+the view that was common is more taking
+the enterprise approach for security
+have a gateway and
+pass everything through that
+and just force it onto the cloud and it
+doesn't work because it's not fully
+scalable
+uh modern web applications are a mesh
+of many lego blocks you can use
+different
+cloud vendors it's highly scalable
+not everything is served from one place
+so forcing everything to go through a
+single gateway even if it's a cloud
+gateway is
+is adding friction right and
+it came to a point where we say okay we
+know very well the scale
+that how to build a scalable web service
+and what do you need
+what's the infrastructure to look like
+we have the foundations in the
+background of
+understanding deep security now how if
+we would design a security service
+for web scale from the grounds up how
+would we build it
+and the first thing that we said we
+definitely don't want to build a cdn we
+definitely don't want to build a
+proxy service because there are enough
+doing it and it won't cover everything
+so we came with an architecture of
+let's integrate to all these components
+that are out there that people are
+building on
+and make this infrastructure smarter
+let's integrate by collecting
+information from them so that we can get
+the signals and analyze them in our
+cloud
+and also get the network effect we can
+be infinitely scalable because we're
+running it
+and then instrument back into that
+integration
+layer uh the mitigation or the actions
+that we want to do based on the analysis
+that the data that we analyze so at the
+core of it where
+we're an infrastructure play that
+integrates into
+modern cloud infrastructure collecting
+information and then
+enforcing decisions or helping our
+customers make smarter decisions
+but this is a platform nobody buys a
+concept like this
+this is where we had this concept we
+started talking to customers
+or potential customers and said hey what
+a what do you think about this
+this this concept versus the existing
+ones be
+what kind of problems are you seeing and
+what kind of problems would you want to
+solve if you would have such an
+architecture and we got very strong
+uh feedback and recognition on on this
+is a good idea
+and six years ago when we started the
+company
+the the main problem customers wanted is
+uh
+bot mitigation uh how can they identify
+bots there were a few solutions out
+there they were mostly proxy based or
+like box-based and they were not doing a
+good enough
+job so we we took that as a challenge
+that was the first product we built on
+this platform
+okay and so you're raising the team
+you have offices in miami you have
+offices i know in the bay area as well
+and so what has been you know as your
+as you're you know growing the company
+if you're looking back over the past few
+years and the different challenges of
+the different you know experiences
+what would have been some of the most
+both exciting and the challenging
+aspects of it
+it's a rollercoaster from day one i mean
+uh
+a day may be the best day of your life
+and the worst day of life in the same
+day
+based on investors
+employees customers opportunities
+anything that is happening is is just so
+extreme
+it's yours and when you're growing and
+especially at such a rate
+so on day one it would be we the
+entire team were based in in silicon
+valley uh in the bay area
+uh but we decided that all of three
+founders being israelis we
+are our deep connections of where to
+hire good engineering and research would
+be in israel
+so from day one we we we decided on a
+very
+uh demanding infrastruc architecture or
+or structure for the company where we
+are all three of us are
+are in california but the first hires
+are intel v
+which meant that i spent half of my time
+in tel aviv that year
+wow building the team hiring the first
+employees
+and it's obviously much harder to hire
+employees when they come
+to a vision but don't see a team i mean
+right everyone is is remote so how do
+you get the first employees how do you
+get the right culture there without
+being there so
+that was a very big challenge and and
+this is before
+before before it was mainstream yeah for
+everybody to be remote
+exactly exactly it wasn't easy to to
+work remote
+i had to spend a lot of my i spent i
+don't remember i did a calculation maybe
+30 days
+in aggregate on planes on that year
+so so not not a fun year wow
+but also an extremely fun year and
+building
+getting the first beta customers getting
+the first orders getting
+uh funding getting the team so so very
+exciting
+uh to build that and we were extremely
+fortunate that the first employee we
+hired actually
+was just recently promoted to be vp of
+uh engineering
+wow and we hired him as a as an engineer
+and we had amazing luck finding him
+and build the team and he has a major
+part also of the success and
+of building and getting the culture and
+driving things
+that that's really incredible do you
+think it was by accident that he
+that the first employee became vp
+or were you looking already in the
+beginning for the best engineer you
+could find or
+were you looking because i'm imagine i'm
+putting myself in the situation where
+you know hiring the first engineers and
+you just want to get things moving and
+you want to hire people that could get
+the job done and you're eager
+to build this out how did how
+was it what was the thinking process
+behind that
+honestly i mean i think there is a lot
+of luck and obviously
+there are all the subconscious things of
+knowing
+what type of person are you looking for
+and for me that definitely in the first
+employee but still whenever i'm hiring
+uh to a startup and to a company even at
+our size today
+i'm not looking for a for the best
+engineer that
+that will get the perfect algorithm out
+there
+because i'm not hiring a an assistant
+professor for something i'm looking for
+someone who has a
+big system view who cares about the
+problems and has the urgency and
+to get things done uh and
+is that measure when you look for that
+personality it is
+it's hard there is a lot of sense and
+sometimes you get things wrong
+some people can can communicate
+great through the interview process and
+not deliver
+there are some people who are just great
+interviewers
+but but you can sense that i mean you
+can sense on the urgency on the passion
+how are they handling how are they doing
+things what did they do in the past
+even asking simple questions like when
+you ask an engineer
+questions about the system that he built
+ask about what was to the left and to
+the right
+and what was before and
+you'll be surprised how many people know
+to describe in detail the things that
+they built but they don't really care
+about the reasoning they don't
+understand where it fits in the big
+picture
+and this is something that that you can
+easily clear out and sometimes you may
+hire someone who
+has two years of experience in in
+programming but because that person is
+so smart and curious he will know
+everything about the company and and the
+behind the scenes and all that and
+and that's when you find someone like
+that you should grab them and
+and make sure you're not stopping them
+right
+and so throughout your career it looks
+like you've you've been
+you know on this intersection of product
+and
+technology for pretty much uh most of
+your career right is it also
+starting to code right at 20 when you're
+talking about your curiosity
+earlier on it sounds like that's sort of
+almost like the product side of you and
+and then you're you're intersecting with
+the technology so so
+who are you are you are you product are
+you engineer
+how who's he doing i'm a founder
+yeah so i think i'm a founder is a
+better definition because
+you need a bit of both so i'm a
+technical technology or technical
+founder i mean i like
+to solve problems i like to build things
+i like to
+to understand how things are working and
+what moves people
+so it's you need a bit of both uh i
+won't
+be probably the best person to
+and when i when i was and that that that
+was the switch that happened to me at
+the age of 20
+when i figured that i don't want to be
+the
+entire childhood with education and it's
+very common that your teachers are
+always uh and the
+education system is trying to make you
+idolize people like einstein or people
+like uh
+galileo or like uh people who are
+uh doing everything and knowing things
+very deep but are very
+theoretical and i was sure i'm going to
+to be that
+and i realized that what actually keeps
+me
+excited is is solving things and
+building things
+and understanding what motivates and
+what what makes the difference
+yeah and it does need to be the
+prettiest design
+and it doesn't need to be just need to
+be good enough to work and to get you to
+the next step
+right now that that's a bit of a product
+just a bit of an architect is a bit of
+everything
+yeah i love it okay you don't are you
+ready for some fun questions
+sure all right so we'll start off easy
+and you know whatever comes to mind so
+number one
+favorite subject in school k to 12.
+i think there were a few uh
+music probably my favorite wow
+my on my high school i actually
+majored i went to the israeli arts
+and science academy in jerusalem uh wow
+going in thinking i'll do science but i
+fell in love with music there and
+and actually i majored music uh there
+as well what instruments did you play if
+any
+i was playing the trumpet uh okay
+which is not the friendliest instrument
+to play when you're
+living in an apartment but yeah
+i love it okay amazing one of your role
+models
+throughout your life real or fake
+yeah that's a hard one um
+that's a hard one um
+there are a few cliches um
+on kind of famous founders and there are
+role models to some extent
+escape for now and three quests three
+words you would use to describe yourself
+yeah so i mentioned it earlier curious
+definitely
+maker or builder and
+it's not one word but
+i learned in the last year that i really
+like to be home
+really so and and what is home is that
+is that you know the family is that
+literally the the physical home
+what do you constitute this day in the
+home yeah in my physical home
+and being in my physical home
+and doing things from there i mean it
+just
+you can appreciate your time better you
+you can get from one station to another
+very efficiently you don't need to go
+through commuting
+uh you can do things i i i've been
+cooking a lot i've been
+just doing things at home a lot that are
+really
+uh there is this time when when you work
+from
+an office there is the drive to and
+drive back that sort of helps you reset
+today and transition from work to
+to home and that was my biggest concern
+with coped
+when covert head is how do i sort of
+separate the private life and and
+the personal life and and one thing that
+i didn't mention is also i mean
+one of the three co-founders is my
+husband
+that we live with together so the early
+days of the company and definitely covet
+so it was home and work
+all mixed together that's literally
+mixed together
+100 mixture yeah exactly
+wow so uh so figuring out how to build
+the
+the the gra the right balance
+environment at home where
+i can work out i can cook i can i
+find the hooks in the day that sort of
+helps you shift from one
+station to the other really helped me
+appreciate
+home and and living at home and enjoying
+that simple things
+i i think that you know we have to do a
+whole other episode about you know
+the the intensity and exhilaration of
+creating a company with a partner
+because i can't even imagine
+you know what what that's like
+especially during covet
+but for now 20 minutes is is not nearly
+enough but but really thank you for
+thank you for coming and for sharing
+with me you know part of your story i
+really appreciate it
+and for now you know stay safe and stay
+healthy until next time
+thank you you too thank you
+you

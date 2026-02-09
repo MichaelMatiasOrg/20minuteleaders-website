@@ -1,0 +1,1592 @@
+welcome to another episode of AI and I I
+am Michael Matias and today we're going
+to be exploring the way that artificial
+intelligence plays a role in our ability
+to trust content at scale and what
+strategies and techniques are we
+building in our world to be able to
+mitigate the potential risks of not
+being able to understand the context of
+what we are seeing and hearing today I'm
+with Paul Melcher who is one of the
+world experts in Providence
+authentication and generative AI visual
+ual Paul has been working at The Cutting
+Edge of this industry over the last
+several years really ever since the
+Inception of generative content much
+before it became commonplace Paul has a
+deep understanding of the intricacies of
+the ecosystem its limitations but the
+potential H today we will have an
+optimistic yet a um realistic
+conversation about the role that
+authentication Watermark and Providence
+play
+in our ability to attach context to
+media and this conversation left me
+hopeful about the future that we're
+going into about the energy and the
+effort that is being done to preserve
+context in what we're seeing and to
+create new layers of trust so thank you
+for joining me for this conversation and
+let's welcome Paul the evolution of what
+we've seen over the last few years like
+over the last five years what what's
+been happening and and I think that
+you're also very bringing a very
+optimistic approach right to this space
+I I I want to be yes what so maybe maybe
+starting with that so where where's the
+where where's your optimism coming in
+from because you know a lot of what
+people are talking about when it comes
+to to everything that's happening with
+generative VI and digital media from an
+authentication perspective it's it's
+quite dismal but but you do bring a
+certain level of optimism in in the
+Solutions in place I I it comes from
+from the realization that there's
+there's no other option uh than than
+being optimistic and try to find
+solutions to it so so um I see
+generative AI my space is more still
+photography so I see generative AI as
+being um very close to the same type of
+Revolution that painting uh went through
+when photography was was discovered uh
+at the end of of uh the 19th century and
+so what happened there well so so
+painters and painting in general was
+forced to redefine itself um before it
+was everything you did portraits you did
+landscape you did even with illustration
+uh it was it was covering the news and
+everything like that and when
+photography came out then suddenly some
+limitations were created because now you
+had this tool to replicate reality much
+better than than any painter could ever
+do uh and so it stopped or limited
+painting and say basically taking that
+part of the the painting process the
+portraits or everything that was trying
+to mimic reality away from from from
+that tool and and saying to the painters
+you have to redefine yourself in such a
+way which um and that's where my optimis
+has come from is it
+forced uh it forced them to to become
+more creative and the reason we have the
+impressionist and the fism and and the
+the the Picasso and everybody that that
+went further on it's because once they
+were forced to to move away from realis
+they were forced into more creativity
+and forced into something different than
+photography was doing and and to me
+those are probably at least they my
+favorite schools of of painting is is
+the impressionist and and and and
+everything that followed the cubism and
+things like that so photography is at
+the same stage today with generative Ai
+and the fact that now you have machines
+that can replicate photography as as as
+as well if not sometimes better than
+than what photography does it forces
+photographers the ones using light and
+lenses to um to create content to
+redefine what it means to to be a
+photographer and what
+photography can do um so so you can't
+you cannot anymore do photography like
+you did and wake up in the morning and
+did like it was like five years ago uh
+you have to rethink it and so in the
+process uh we're in this extraordinary
+moment um of the evolution of
+photography
+where um yeah it's going to it's going
+to change and the opportunities for it
+to change are tremendous the same way as
+you know if you were a painter when
+photography came out you never saw that
+that all these possibilities of of
+impressionism or everything like were
+coming right this it was something that
+evolved and so the same ways it's not
+clearly defined even in my head what's
+photography is going to look like in in
+5 years 10 years 20 years from now
+traditional photography but it's going
+to involed in a way that that is
+certainly going to be very very
+interesting but it's not like the role
+of painters at that point was to move
+away from trying to depict reality but
+to bring
+creativity and art into the into the
+painting um H how do you think the
+transition for now photographers will be
+will it be that photographers are
+they're probably not going to try to shy
+away from from reality right but what
+what is the role then you think that
+photography will play as generative AI
+takes a larger and larger portion of
+media so so yeah uh exactly that they'll
+be forced back into reality right so so
+we've
+taken um we've defined photography the
+lens based light light based photography
+as as a representation of of reality
+because it it it captures uh what's
+going on reflection of the light in a
+certain way so generative EI is is is
+what it is is generated right so it's
+not a representation or a capture of a
+moment in in time it is completely
+creative uh you can you can mimic
+something that happened but but it's
+it's it's not something you capture so
+photography will be pushed back into its
+limitation as as a document documentary
+Tool uh to continue to to uh to
+represent reality or to witness reality
+um with that and generative AI um
+because of its possibility can will will
+take over that creative part of
+Photography uh and and you'll be or
+artists would be much more empowered or
+or allowed to be much more creative
+using Genera AI than photography would
+would has ever allowed them to be we've
+seen that a little bit when people
+created stuff with Photoshop but now
+because of generate AI it's becoming
+much easier and and open to to a wider
+audience do we have some did we learn
+things about the behavior of the
+documenters versus the creators if I
+take your analogy of the role
+photographers versus those that are
+using um I guess video different editing
+tools what what did we learn from the
+last I guess two decades of using
+Photoshop and these types of tools that
+we can then that can help give us an
+indication of where we're
+heading what have we Lear we've learned
+a lot of things I think uh what we
+learned is is is the endless flexibility
+of of photography or or still
+photography uh in general uh and it's
+it's basically created the groundwork
+for what will be done with generator VI
+um in in a much
+um in a much wider um way
+um it's
+also it's moving forward I think those
+tools will be ironically prob less used
+by photographer because they will enter
+the realm of generative AI rather than
+than traditional photography um because
+if you want
+to uh alter reality then then there's
+nothing better than than generative AI
+rather than taking photo and then going
+to photoshop and so you almost see that
+there's going to be two streams of work
+one which is let's try to stick as close
+to reality as possible and the other one
+is saying as long if we don't if that's
+not our mission then there's no reason
+to go that route because these tools are
+going to be probably yeah and to take
+some example takes sports or takes
+wedding or takes birthday parties right
+so you want you your your niece is
+having a birthday party uh you're not
+going to generate a text uh prompt to do
+that one generate Ai and say oh look
+look at what I can create for a birthday
+party with well maybe if my phone
+battery died
+halfway but but you'll take your phone
+take a snap a picture it can be good it
+can be bad could be a little bit out of
+focus although with phones now it's
+impossible to do that but what you want
+is capture reality right and same if
+it's a wedding or or or if you want to
+see photos of of the latest soccer game
+or football you want to see what
+happened you don't want to see
+somebody's interpretation uh even an AI
+interpretation of what happened because
+that's something else right so
+photography for that traditional
+photography will will refocus into that
+that realm and saying okay we are the
+tool to continue to do that and us as
+human being will not drop photography
+because we need that relationship with
+reality uh that that photography brings
+us the the the thing is that we now live
+uh our lives in two two areas we live it
+in in real life and we have a digital
+life and what allows us to move from
+back and forth from each uh in in in all
+comfort and and somewhat security is
+photography we take our real life in
+picture and we move it to our social
+media we're moving into our Digital Life
+right uh that's how we we can move back
+and forth between our two lives
+seamlessly uh thanks to photography
+mostly thanks to photography video
+obviously a little bit of text so for
+that purpose traditional photography
+will continue to be that tool where
+where we can we can exist in in two
+Realms at the same time Genera AI will
+be that digital only part of our lives
+where we can create um whatever we want
+from from from our existence um and we
+won't be able to take that into our real
+life unless if we start printing them
+and saying oh look at this but um that's
+something else so so that's where they
+they all fit in um pretty much
+absolutely so you know you've spent a
+lot a lot of your time especially in
+recent years in um in in this context
+right in this real to digital and back
+to real
+landscape um and you've been at the
+Forefront of the of the different
+technologies that are being used to to
+ask this question to help us navigate
+through these
+transitions um let's go back to the
+basics for a second you know why why is
+it important in your in your eyes that
+we have this distinction well you know
+very fundamentally why you know why is
+it worth having groups like those some
+of the groups that you're a part of and
+the companies that you're that you're
+working with why why is this in why is
+this an a live ecosystem that that also
+should succeed hopefully you mean about
+authenticity or yeah well authenticity
+And in regards to being able to disting
+the real versus the the digitally
+created uh it's it's it's a fundamental
+part of who we are as human beings that
+that we we need to we need to have
+reassurance about the the um the reality
+of our world that's how we make
+decisions uh when we know what's real
+what's true and what is not real not
+true that's how we can make decision and
+that's how we can we can put One Foot In
+Front the other every day and and and
+and make make sure that when we actually
+put that foot on the ground it is
+there's a ground there and it's not
+going to disappear so so we we build
+this Foundation reality or or what we
+accept or or as reality is is what we
+need as as a reference and so have you
+ever had the experience of a going down
+the stairs and you're maybe you're
+occupied something with your mind and
+then you're about to and you're taking a
+step and you've actually reached the
+bottom but something about your body
+you're you almost feel like you you feel
+like you're almost in a roller coaster
+and something didn't translate well and
+it caught you by surprise at you at the
+end I as were thinking that I was
+thinking back to that feeling of
+uncertainty that I'm my mind is
+perceiving a certain reality and I'm
+confronted by a different one that
+that's a very scary Split Second yes uh
+and that's that's yes that's a that's a
+good example although you should not be
+looking at your phone when you're going
+down the stairs absolutely that's always
+dangerous but yeah absolutely and so and
+so with the Advent of generative AI what
+is going on because of the the the the
+quality of reproduction of generative
+where our minds cannot make the
+difference between a real photograph and
+and a generated image um it's throwing a
+lot of confusion um in our in our in our
+senses and so we cannot rely anymore on
+seeing flaws I know last year or even
+sometimes still this year generative AI
+will will have maybe many two fingers or
+something a little bit blurry that that
+will be um will give you hints that that
+is not a real image but you know moving
+forward that's going to disappear uh
+very quickly and the same with video and
+and a visual content
+so in order for us to be able to
+continue to function and and again back
+to what I was saying about the fact that
+we travel back from a digital life to
+real life back and forth using images as
+our reference points we need to be able
+to make and distinguish the difference
+uh the say that if I see an image of an
+event that is happening uh across the
+world that my only point of reference is
+that image and I have to trust it to be
+what happened uh so I can make decisions
+about my world and my environment um my
+visual cues are not enough anymore
+because of generated so this is where um
+tools like Provence identification uh
+c2p and and others are are are extremely
+relevant because it allows to make the
+difference between both it's
+not making any judgment whether one is
+more valuable than the other it's just
+making the point that you can make the
+difference between what is real and what
+is generated uh and so we can continue
+to do process without those uh you know
+stepping back it's it's really
+interesting because um
+we are if you look at the history of
+mankind photography is only about 150
+years not even uh but in that short
+spend of Life of Photography we have
+integrated so much that we make
+decisions about our world based on that
+photography meaning that if you look at
+at individuals when they lived uh in the
+19th century 18th century 16th century
+didn't know what happened beyond their
+Village their front door maybe somebody
+would tell them something happened you
+know far away but that's all they they
+knew about we are
+constantly informed and mostly visually
+about stuff that's happening across the
+the the the planet if not Across the
+Universe by the way and we find it
+completely normal and actually we find
+it so normal that we spend our days
+making decisions about our daily life
+and we incorporate those information
+that information into our daily life to
+make General you know decisions about
+about everything that we do uh a good
+example is the the image of the Pentagon
+right there was the image of the
+Pentagon explosion yeah which within
+seconds caused the stock market to dip
+right so you're you can actually see
+measurably how fast an an experience
+that's happening somewhere else around
+the world H potentially in another
+continent is causing you to make real
+world decisions that are impacting
+everybody that is why it's critical to
+be able to make the difference is it
+this is this this is really happened not
+happen and and so you can you can you
+can make the right decision based on
+that yes absolutely and and I like the
+distinction that you made that it's that
+it's really not about drawing
+conclusions or judging which one is more
+valuable than the other it's it's just a
+question of how do how do we continue to
+navigate between these two worlds in a
+context in which our visual cues and
+auditory cues are just not not as
+powerful anymore yeah and and it also
+comes back to you know we we we also
+tend to to credit photog traditional
+photography lens based photography as an
+instrument of Truth and and it's it's
+not right since the beginning of of
+Photography uh you were were able to to
+edit manipulate uh the negatives and
+there's there's many many example that I
+don't know if you know a lot about the
+history of photography but there's
+famous uh story about the fairies where
+this this uh doctor took pictures of his
+backyard and then added fairies and then
+people believe that they were he
+photographed actually fairies uh in this
+thing and that comes all the way back to
+beginning of Photography uh as well as
+is manipulated this famous photos of of
+Lenin and and and political activists
+erased uh afterwards because you know
+they were not fashioned anyway so
+anyways uh it's always been part of
+Photography so uh the fact you know it's
+a recording of truth but it's not it's
+not so much a recording of truth because
+it it is it can be altered uh and it's
+part of the DNA of Photography we
+actually enjoy the fact that we can
+alter the image we we've all used
+photography and we've all retouched
+things or cro things out or retouched
+the lighting or things like that because
+you know it's you want to look at better
+you want to make it to look better so so
+it's it's normal uh however what
+photography is is is is a a form of of
+of witness it's uh the same way as you
+would be in a trial and somebody would
+explain to you what happened uh in that
+Event Photography the same way it's it's
+an image that that gives an
+interpretation of what happened uh at
+that point of time in fact I think
+digital media's video audio and images
+are now part of maybe 80% of Court
+proceedings in litigations right because
+they are very effective representations
+of here is what happened at a certain
+point in reality H we don't have to just
+but it's still a a witness point of view
+it's not a fact it's just somebody's
+interpretation or vision of things
+absolutely it's one angle one perception
+absolutely and that's that's important
+to keep in mind because when you're
+dealing with identification of
+Providence that's what you're you're
+aiming to do so you're not saying that
+that image or that video is is true what
+you're saying is that that image or that
+video came from that person or that
+organization uh to you and then you the
+recipient the consumer of that content
+can then take an intelligent decision
+whether you're going to accept that as
+being true or not right so same image or
+same event uh if once is officially
+tagged it says it comes from from a
+photographer from the Associated Press
+for example and you can see that there's
+a good chance that you will see okay I
+can I can trust that image M if another
+image comes and it's signed by the
+department of of of uh of information of
+uh of China or Russian or or things like
+that you would say uh maybe I might not
+trust it as much right so the
+authentification process is giving you
+the Providence up to you to decide if
+you're going to take that as
+being a true statement or if it's
+something that you're going to be in so
+you see that different different
+stakeholders and different users will
+have different perspectives on on what
+providence needs to take place in order
+to consider this information as truthful
+or as valid absolutely Tru Trust is is
+human to humans right we don't trust
+machines we trust the people driving the
+machines like you don't trust the
+airplane you trust the pilot driving
+your you don't trust you know the the
+car you try you trust the the cab driver
+to to to to to not crush the car so um
+the same way as you tell me something I
+might decide because you've lied to me
+many times before m whatever comes out
+of your mouth I'm not going to believe
+it or the opposite right so the same way
+with photography of visual content the
+recipient makes a decision based on
+their knowledge of the the Providence
+whether they can accept that as truth or
+not the the the the Prov being always
+starting with a human being right or an
+organization that is managed by human
+being but so that's where you create the
+link between the two between the
+recipient and and the originator of the
+content so that the chain of trust can
+be created or can be broken based on
+that but you need that information to
+travel with with that image or that
+video so that you can you can make that
+decision with that without that
+information all you have is an image or
+video and you don't know if it was
+generated you don't know if it was
+manipulated in some way you don't know
+who took it you don't know why they took
+it you know things like that and then
+that's where that's where it becomes
+problematic without without that
+information so so you're making a
+distinction of of there's it's it's a
+two-part system you have the found
+foundational infrastructure which is how
+do we what do we what do we know about
+this media what do we know about the
+information the context of the media
+where it came from who took it who
+edited it Etc and then it's a question
+of given this pieces of
+information can we trust it does this
+fit into our our um our box um thought
+model of what what is truthful
+information or or trusted sources or
+trusted information right absolutely
+yeah that's that's the idea behind
+behind all this this effort behind
+Provence and and ctpa content
+authenticity initiatives and and and
+related uh efforts uh in in order again
+to to preserve
+uh our ability to to consume photography
+the way we've always done uh traditional
+photography or generated photography by
+the way right uh but a way where where
+we know where it's coming from therefore
+we can know what level of trust we can
+put into it and and you know and manage
+our
+information uh right
+and so so Providence is not it's not an
+extremely New Concept but its
+implementation across digital media is
+relatively new walk me through a little
+bit about what know H how this whole
+thing came to be in and and and we'll
+get to where we are today as well so the
+initial thought was that just
+technology is not capable of keeping up
+with technology itself meaning that if
+you try to create systems that
+automatically detect falsehood somebody
+will figure out how the system works and
+then create new ways to create
+falsehoods and it's just like a
+continuous Chase one after the other and
+all so
+uh it was the idea was to to say Well if
+you know who took an image or who is is
+generated a file gener it could be sound
+it could be video it could be uh then
+you can understand the the intent behind
+it and if you get the intent you know if
+there's a you can figure out if there's
+an intent to to deceive or to inform or
+what's what's the purpose right uh if if
+if I know you took a picture of that of
+your your nephew's uh birthday for
+example and you share it with me I'm
+going to know because it's you that you
+have no intent to deceive me you just
+want to show you're proud of your
+nephew's birthday you know so I'm going
+like oh he it's that's what happened
+right sure uh so so that's important so
+and that cannot be defeated by
+technology by knowing you know the
+provence the source of the Providence or
+the person and the intent and so that's
+that's the core Foundation of of the
+idea behind it uh after that it's it's
+all the technology in trying to attach
+that information to all the pieces of
+media that we consume and the different
+formats between video sounds and and
+others to make sure that that we have
+that information uh to be deciphered
+here and so when you actually uncover
+the the uh the the growth of this of
+this industry um it it had a special
+progression I think until now I'm I'm a
+little bit surprised every time I look
+at the the progress we've made and how
+fast this is this is accelerated I
+believe in the there was recently the um
+con the the meeting in at Stanford right
+in December around uh around ctpa
+content authenticity initiative and I
+believe in in Han fed's closing remarks
+he talked about how how how how amazed
+he is at the pace of at the pace of
+execution that that this has come to
+life what are you experiencing it the
+same way yes I I'm I'm yes and that's
+why maybe I'm optimistic as well so one
+thing about the Symposium I we were all
+surprised how many people showed up uh
+because before that nobody we were never
+regrouped into one place and so it was
+just this was the first time that was
+the first time really uh and CP has been
+around for a while right it's been
+around for four years uh well the ca the
+the content authenticity initiative has
+been around for four years c2p for three
+I think um so but it's a very short time
+for creating a format like that or
+trying to to do that and what was
+exciting about it is that in the same
+room you had the New York Times you had
+Microsoft you had you had Google and
+then you had also startups uh you know
+that that just open up two or three
+weeks ago maybe longer than a month or
+two so you had but the same Synergy and
+the same intent of of trying to get this
+solved uh and and this to become a
+standard for everybody to use uh widely
+with the same level of energy where
+you're talking to the New York Times or
+or or or smaller companies and that that
+was really um that was really uh
+heartwarming but uh the pace is yes
+absolutely uh there is there's an
+urgency right uh there's now more
+computer generated or generated of
+images out there than there's been real
+images created since the beginning of
+Photography so in a in the last two
+years we've created more images than
+there were real images created before
+yes so we're already getting flooded by
+wow false images um Google search image
+search results when you type in things
+Google currently does not have a
+mechanism to differentiate between real
+images and fake images so you could be
+typing something like Ukraine war and
+the top images that you see in the
+results some of them could be generated
+by I never happened right because Google
+image doesn't have the tool to to to
+discriminate you would not you would not
+know if it's placed in the website that
+looks you know legitimately news or
+things like that I think the number is
+there's about 40 elections this year
+going on worldwide and over a billion
+people about to vote so just putting
+that in perspective that people are
+making those decisions who they're going
+to vote for based on like we said before
+on on information they receive about the
+world that is through photography mainly
+that they see online whether it's social
+media or or the articles that they read
+or things like that then the the
+potential for for real serious damage to
+our societies is is huge right um if you
+cannot make proper decisions you cannot
+vote properly if you cannot vote
+properly um it's the end of democracies
+if it's the end of democracies it could
+be the end of our Societies in general
+right so so the stakes are are huge it's
+really a civilization uh right uh uh
+life-changing civilization aspect of it
+so so there's
+that urgency on the people that that
+realize that to implement that and make
+that happen because they realize this is
+this is now uh this needs to happen now
+not you know uh in two two years or five
+years or we don't have the time and and
+so what's the current state of of of
+Affairs where are we at are we ready to
+to to enact this solution at Large Scale
+um we're talking about 40 elections this
+year we're saying you're always saying
+generative AI there's more generative AI
+content than there is authentic content
+from here I imagine that that the Gap
+will just widen exponentially fast I
+think it was a a europ pole that
+estimated that by or experts from the
+Euro that that by 2026 more than 90% of
+content online will be AI generated
+sounds like maybe we're going to reach
+that faster probably faster yes um by
+the way which is quite astonishing I
+have to say when when we started Clarity
+a year and a half ago that was that
+statistic came a few months after we
+started Clarity and we had that and and
+that used to be something that I would I
+would share when I would meeting was
+meeting people and back then people were
+not necessarily thinking about you know
+the the space of acceleration and time
+and time again again the reaction that I
+got was no way there's no way that by
+2026 90 nine out of 10 reals on Tik Tok
+or on Instagram will be AI generated and
+now we're sitting here and saying well
+it's actually gonna probably going to be
+faster yeah and I'm on the camp of
+faster no definitely and
+that's that's we're talking still images
+you know we've seen example of of what
+will happen with video with glimpse of
+Sora uh from open the eye um
+that's coming very soon as well uh where
+where make you know you text a video
+tools that anybody can generate videos
+um that looks like the real thing very
+very quickly you know before the end of
+this year which is going to accelerate
+not just s we have a we have a whole
+ecosystem of startups raising huge
+amounts of capital in order to
+accelerate and and meet the market
+demand which is endless because it it
+fits into a disruption of every vertical
+right so it's coming um so that's where
+the emergency come from yeah uh but
+where we at you know Google meta um um
+some of the biggest companies in the
+world open AI actually and stability as
+well I've signed on and open AI
+currently Delhi 3 uh generates uh what
+is called a manifest which is a that
+metadata information about the origin of
+the file so so you can see uh that it
+was generated by by Del 3 Del 3 being
+uh used by Bing Microsoft search engine
+as well and all the Bing uh tools that
+that Microsoft is all the Microsoft
+tools that that uh are using the del3
+also uh have that m m data information
+contained in it as well so it's starting
+to spread it's starting to be to be
+implemented it's starting to be accepted
+it's there's still a lot of of work to
+be done there's a lot of of Education to
+be done so the first part is getting all
+these the social media search engines uh
+Publishers to to display and show that
+information the second part which going
+to take a longer time is the education
+of of of the audience and the public out
+there saying what is this how does this
+work you know what what you know what do
+I do with this you know so that when
+they counter that information they can
+use it you know properly so so
+effectively what does this mean so we
+have all these all these large companies
+that are let's say the content
+Distributors right some of them are also
+creators but they're also they're also
+contributors so they when they join this
+Coalition when they sign on to this to
+this effort what what what effectively
+does that mean so there's two parts is
+the creators so the Creator part which
+embeds that that manifest information
+about who they are and not who they are
+but you know what what they created so
+that that is inscribed or edited right
+because some of them are just
+manipulating all the chain of yes and
+all the chain in between and then the
+Publishers which display that content
+whether it's social media whe whether
+it's it's it's a news media whether it's
+a website or anything like that that can
+display that content which contains a
+little icon which just says CR for for
+Content credentials which you can click
+on and see the history of that file the
+provence source as well as like you said
+if there's been any edits and what kind
+of edits have happened uh through the
+life of of of the image so that you can
+see whether an edit was critical and
+changing the information in that file or
+whether it's simple uh you know
+alteration that didn't change at least
+the source the the the core information
+of that file and and nothing else so so
+that again the consumer at the end can
+make an educated decision whether to
+trust that that that file or not but but
+going back to the distinction that
+there's one aspect of okay let's let's
+capture the information let's get all
+these different parameters and all these
+different signals of what the of of what
+means for this Media or where it came
+from who touched it who seen it which
+devices it came from and then there's a
+question of can I trust it and the
+distinction you made before is that we
+there is a difference it's not a
+universal agreement on can I trust this
+media so how do you envision this sort
+of this educational piece now or this
+consumer piece of how do we then bring
+this information to the to the public to
+different stakeholders what what does
+that look like so the the most the most
+common analogy is is your food labeling
+on on when you buy food right so uh on
+on boxes of your cereals or whatever you
+buy or pasta or something like that you
+have a description of of what elements
+what kind of of of items were were are
+contained in the food
+right it's up to you to decide if you're
+going to eat it or not right nobody says
+it doesn't even say actually if it's
+dangerous it which you should but that's
+something else it doesn't say if it's
+dangerous you know the chemicals they
+might put on some of the food of things
+but it gives you're liable and you're
+able to to do your research to find out
+which which elements are dangerous which
+elements are good for you and things
+like that and you eat what you want um
+or what you can afford depending on on
+on cases but um so that's the same
+process right so the education part is
+about explaining what this labeling is
+and what it's about it's not about
+telling people who to trust or what to
+trust because that's an individual
+choice we no no one can be in a position
+unless it's a fascist country uh or
+authoritarian um dictatorship of some
+kind to tell you what to trust or not to
+trust and saying this is true or not
+this is this is remains an individual's
+uh prerogative or Choice based on their
+moral uh education whatever you know is
+is influencing their their decision so
+so that's not the role of of that tool
+or and I I think and where a lot of a
+lot of us think that should not be the
+role of any tool um to do that and it
+sounds like there are certain agre if we
+if we continue with the food labeling
+analogy there are certain agreements in
+society on which labels are are better
+for you and which labels are are not as
+trustworthy or not as healthy right and
+I'm thinking of high trans fat label I
+think there is some agreement that if
+it's if there's a high trans fat label
+it's probably going to be damaging to my
+health that changes all the time I mean
+I remember that that you know milk was
+good for you milk is not good for you
+milk is good for you so you know again
+that's and it's kind of about the same
+thing maybe with with with um Providence
+uh it's it's this it's a dangerous game
+to try to set in stone because also our
+moral value changes uh as a society what
+we accept as as being okay at one time
+changes over time and say well that's
+not okay anymore uh you know so so
+trying to to force upon uh an idea of
+what's what's true or not is is is
+extremely dangerous in my perspective
+not something that that anybody should
+have the right to do um education is the
+best to me is the best thing and so for
+on the consumer and public level I think
+that makes a lot of sense if we look at
+it now from an Enterprise perspective so
+if we think about the other other
+stakeholders that are taking in digital
+media that are enjoying Providence and
+they need to be able to authenticate the
+media coming in or to ask the question
+of can I trust this media that's
+entering now do you think there there
+are some Universal I guess signals for
+whether you know if we look at from a
+security perspective even you know I'm
+I'm assuming that there there will be
+some
+consolidations taking place there yeah
+so so and this is very interesting point
+that you you rais because we tend to to
+talk about Provence and and these
+questions of trust and
+authenticity only about the news aspect
+of things but it is pretty much as
+important if not more important in in
+our
+um Financial life or commercial lives
+you know when we decide to buy products
+for example so um we live in a time
+where no company can do business without
+visual content they need to create
+photos of their product or Services
+videos and on top of that continuously
+communicate about their the brand values
+you know going whether you're selling
+cars shoes or or yoga classes or you
+need to
+create now comes generative AI whereby
+people can make the difference whether
+those photos are actually coming from
+your company or somebody else is making
+uh fake fake copies so you're a Nike and
+I don't want to hit on Nike on on
+particularly but I'll use that as an
+example and you create your your your
+your sneakers and you sell the sneakers
+you create photos of your product which
+are you know disseminated through
+e-commerce stores and like that anybody
+today actually can generate a new pair
+of sneakers actually if you look and
+type Nike you know on online there's a
+lot of of fake ones that were generated
+by by AI um and then
+somebody could use that and say you know
+you can buy those and then you enter
+your credit card you buy it you never
+get anything right because it never it
+never ships that's detrimental I mean OB
+see for the consumer it's a temp for
+Nike also because people say oh Nike I
+can't trust anything absolutely so Nike
+Nike needs to create a ground truth of
+their product images um so that there's
+a reference library where people can
+come back and say is that image the real
+image is is that generated or created by
+Nike in the case of of prod is like that
+that's fundamental for the existence of
+Nik but that's only a sub part of it
+right so Provence
+c2p but you know talking about trust in
+this way it can be automated in so much
+that you find or discover or Google
+image search discover or or index an
+image of a Nike shoe you could have via
+API or other systems a link back to the
+Nike database of images the ground truth
+image and checking whether that image is
+actually from Nike or not if there's a
+match yes if there's no match suspicious
+you know and and Google image search
+could flag that and saying careful this
+is not you know um verified by Nike um
+so that yes but again it takes for the
+consumer to trust Nike as as a brand to
+want to buy that but we can go for it
+further the second part which is which
+is extremely also important and you you
+touched upon it when you're talking
+about the uh the Pentagon photographs U
+or fake photographs is public companies
+like Nike or Coca-Cola or others so so
+they communicate about about their
+Executives um doing different things
+their coo traveling or making speeches
+or doing things so now it becomes easy
+to take one of these photos and
+manipulate it with using generator or
+create a new one of the CEO of Nike and
+maybe putting him in a in a very
+problematic uh surrounding like around
+around naked boys or something like
+young boys and publish that on social
+media it's a public company it would
+take minutes before the value of the
+company would start dipping extremely
+fast because it's like oh suddenly you
+know this is this is wrong right um and
+then even Nike came back and said well
+this is a fake photo everybody would say
+of course Nike is going to say aake
+photo it's their CEO they're I'm going
+to say oh yes that's what he does in his
+SP time right so there too it is
+extremely important for Nike to be able
+to control uh and manage what images of
+of them circulate and being able to to
+have tools for people to differentiate
+whether this is a real marketing
+communication photo video or or or other
+or if if if it doesn't contain that
+stamp of of authenticity from Nike then
+there's a good chance somebody else is
+trying to to manipulate people's opinion
+so so yes and and how how aware do you
+feel is the market today from from the
+company's perspectives the large
+platforms the Nikes of the world how how
+active and vibrant is the conversation
+around the urgency for the solution and
+the willingness to adopt it do you see
+today maybe in comparison to a few years
+ago but also in comparison to what you
+would expect yourself as somebody who's
+thinking about how do we actually re
+strive towards a better infrastructure
+for us it's it's active in the in the
+technical World um the tech companies
+are are the first ones to be to
+realizing that that it's it's it's a
+necessity and and the urgency of it like
+Google for example or others of meta uh
+I've seen that um it's it's also active
+in the news space where Publishers and
+and creators of news realize that is is
+essential for them to continue their
+business they they won't be able to
+continue if people don't trust them
+anymore or or there's no differenti
+between what they produce and and what
+comes out of of generative AI so they
+need you know that that that that part
+it is not
+yet uh really seen in the corporate
+world or the brand side that we were
+just talking about it's starting some
+companies are are peeking their ears out
+and or heads out and say oh you know
+maybe this affects us too in some ways
+but it's it's still very much
+um very much very quiet in in in that
+space it's also a little bit still the
+Cal before the storm right I think we we
+we're yet to see some really you know
+Monumental earthquakes that right so
+absolutely what you need is one event
+that will trigger everybody's reactions
+and say oh oh we need to do something
+you know like the Nike example I gave
+you hopefully that happen but something
+like that where all the other companies
+are say oh you know we need to do
+something before it happens to us so yes
+probably that's that's the scenario but
+you know one thing to keep in mind is
+that and that's that's a problem uh or
+or or or something that needs to be
+solved is that there's no Financial for
+for Nike or on the commercial side
+there's a financial uh value to doing
+something like that but when you're
+dealing in a new space there's a moral
+obligation but there's no Financial
+value but by that I
+mean if tomorrow the New York Times
+turns on this ability to show you on
+images the Providence of the images they
+they they become uh c2p or content
+credential uh
+compliant they will not be able to
+charge you more money because of that
+right why not because consumers or
+people reading the New York Times and
+say why am I paying more you know to
+have the certification that's something
+that you know know I I should have when
+I buy the New York
+Times the back end it's going to cost
+money for for the New York Times to
+implement that right why why you need
+you need to you know develop the the the
+um the applications that going to
+support that that kind of uh display of
+of information uh in in the back end um
+and
+so that's where the biggest resistance
+comes from and saying it's going to cost
+money to implement it's not going to
+bring us more Revenue it's not going to
+bring the New York Times more readers or
+Washington Post or or Fox News whatever
+uh however it's going to cost us money
+to implement when you look at and this
+conversation I have almost daily with
+with newswires AP or reuter or or or or
+gy images um they spend a lot of time
+and money you know having photographers
+shoot the news and and get that um
+disseminated and sold to to Publications
+worldwide this the same thing is like
+it's going to cost us money to implement
+that and and add that to our workflow
+but we won't be able to sell those
+pictures for more money to these
+Publications uh because they're not
+going to say well you know it's it's not
+worth it um so there is
+both a moral understanding that this
+needs to to happen but there's a
+commercial barrier and saying well it's
+going to cost money and and there's no
+immediate uh
+monetary uh reward for that and and the
+um the return on investment is is moral
+for the moment and not and not
+commercial and that's that's the barri
+is there a way to turn that around is
+there on is there o are there
+opportunities to
+monetize
+authenticity and the cont content
+credentials and the
+transparency eventually I think so over
+time because I and I'm maybe being
+optimistic about it or or this is an
+optimistic table um that consumers will
+will will want to be able to trust the
+the the source of information and go out
+and
+seek that label the same way as as if
+you had a a box of cereal today which
+had no food label uh on it you would
+probably not buy it because like it's
+suspicious uh and and I'm not going to
+eat something I don't know what's in
+there although I don't know you know
+most cereal is probably not good for you
+anyways but uh um the same way as as you
+go and and look for places where you can
+get your news where you have this this
+content label so you can have and make
+the right decision saying well I trust
+these guys and Things So eventually
+people will will be willing to pay an
+extra or or subscription or something
+like that because they realize the value
+into having uh uh that that that kind of
+of certified news type of thing but in
+your perspective it's there's there is a
+question mark at the end of the
+at the end of the optimistic expectation
+you're not sure when that'll happen yes
+and no because the the other force in in
+play is legislation right so uh in
+Europe you see it in in the European
+Union they're they're they're passing
+laws quickly where uh they're demanding
+that at least a generative AI content be
+identifiable by everyone right so that
+maybe not the newed pictures but if you
+can identify one group of images then
+you can identify the other right so if
+all images generated by AI has some kind
+of of indentification that you can
+Define then you realize if there's no
+identification then then it must be a
+real image right so so already this this
+splits in in into so uh those laws are
+being put into the books of the European
+Union there's a good chance that the
+United States actually there's been an
+executive order from from the president
+uh Biden about the
+the federal agencies being required to
+identify when they're using generated
+content whether it's photos or or text
+or or audio or videos uh clearly
+identify it so that uh the relationship
+with with us the citizens of of United
+States if and when they're using it we
+can clearly see that they've been using
+that again there's
+no it's not a bad thing to use
+generative AI the idea is not to block
+for people from doing it but to allow
+people to make the difference so so it's
+already you know it's it's an executive
+order right now it it should you know my
+opinion a lot of our people opinion
+should be turned into a law we know the
+politics in this country can take some
+time to to uh to be applied but but
+that's that's that's what's going to
+happen before the commercial value
+happens it's going to be forced upon um
+a lot of of these places to to to
+implement it by legislation
+because there's the elections coming
+this year and more after that right and
+so the politics behind there realize oh
+this might be good for me but that's
+also could be mad for me as well so so
+even the political class realize that
+this is not something they can just let
+happen and not do anything about right
+now is is the ctpa and Providence is
+that is that a silver bullet solution is
+that know is that the what solution that
+that works always or are there
+limitations to the process there's no
+there's no civil bullet so so no it's
+not uh so c2p or content credentials is
+metadata so it's data that's associated
+to fils and that traditionally can be
+erased or separated from this file and
+once that's separated then it's it's
+gone uh so so it has its so the media is
+effectively it links to some manifest
+that's remote and you can erase that
+link you could you can severe that link
+yes sever that link so so no it's not
+it's not perfect so once that done
+obviously then you lose all the
+information and it's not uh it's not
+secure so this there others uh or
+there's technologies that can work in
+conjunction with that or other type of
+technology that that are stronger
+depending on on the use case so so
+that's that's
+one
+possibility uh there's ways to reinforce
+what they call selft binding um of the m
+to the file with using watermarks for
+example invisible watermarks that that
+can be read and and reunite the data
+with the metad data with the file um
+like imag right like a company like imag
+does that uh yes uh and then there's
+there's still the technology side which
+allows to to to to be more profound in
+the sense that it can reach or discover
+alterations of files in a technical way
+even if if it's always a cat and mouse
+uh issue it's it's it's still efficient
+in the sense that it will find a lot of
+of of lot of of
+um of places where where the metadata is
+not strong enough or the the uh the
+watermarking is not survived so a
+combination of the three uh even with
+other more uh other um Solutions um can
+work but there's no civil bullet so so
+the three the three that you're pointing
+out to is the they the the Manifest work
+itself can we let's let's make sure that
+we Trace the the alterations from the
+creation to the
+distribution soft binding watermarks of
+let's make sure that we keep some some
+evidence of what this media is even if
+it's trying to be manipulated and we can
+trace it back to some manifest right and
+then there's the question of can we run
+some Downstream analysis on the media so
+that even even without the context of
+the of the metadata and the Manifest we
+can still identify potential alteration
+that were not recorded in in the other
+solution which is not bulletproof
+absolutely
+so mer can be can be erased or or
+separated Watermark can can fail
+sometimes depending on on the
+alterations of the fil absolutely uh and
+so and the technology there can come in
+and see but there's we were talking
+about this professor in in um in
+Stanford uh that you know very well and
+you're gonna help Dan Bon yeah yeah and
+so working on a lot of technical cult
+Technical Solutions in discovering deep
+fakes and and fake content based on on
+on on a variety of of solutions uh as
+well and so you know we're
+talking previously the fact that I I
+forget the number this 10 billion
+generative AI images circulating in the
+world right now with no metadata no
+watermarks of any kind so all those for
+example the only way to discover them
+would be to use a solution Tech
+technical solution to to be able to
+trace it detection um and and even if
+c2p is is is a standard of of all places
+and and Watermark it will never be
+everywhere um and so this still needs to
+to to complement everything and then um
+there's others you know this works for
+for visual content so videos and photos
+you have also sound obviously and then
+text uh whereby these elements don't
+don't work anymore or as well as with
+visual content and you need to find
+other Solutions and and so what happens
+with audio because we've talked a lot
+about about the visuals and pixels and
+is audio working the same way from a
+Providence perspective the the intent
+behind it is the same I'm so I'm not
+expert in audio so so that's that's I I
+can't go very much in details with that
+but but the the idea behind it is is is
+the same as far as the c2p approach is
+right
+uh where is that going to work as well
+as is that with visual content that's
+the question
+uh yeah we'll see but I can't say more
+about that because I'm not an expert in
+audio files and and the way they work so
+absolutely and so you know if you if you
+look down the line where you know where
+do you think we'll be let's say a year
+from now you know paint me you know your
+your your picture of of the world of of
+where you know from let's say from a
+consumer perspective from a consumer
+perspective yeah uh a year from now yeah
+um boy this this uh I hate predictions
+because this this moves so fast much
+faster than than than well so that
+whatever prediction you make it'll be
+faster than that yeah pretty much for
+one thing I mean we'll we'll see texture
+videos uh generated AI very Advanced
+probably still
+recognizable because of flaws here and
+there in some places but but very coming
+very close
+uh especially on longer formats if if
+it's you know the smaller formats the 10
+seconds or or less I think that that's
+going to be surprisingly efficient um uh
+photos we won't be able to make the
+difference with our eyes with any kind
+of generative a or or not uh that will
+be already gone into reps um and then
+sound I mean I just from what I see
+sound is already way ahead of of
+everything where we can replicate voices
+and and music is is already you know in
+in that in that space um and then text
+obviously which is also very much U
+Advanced um on the provent size I you
+know it's it's more hopeful I I think
+we'll
+start it's moving rather quickly I think
+we'll see Publications maybe major
+publication adopt the the c2p or or cont
+Provence and by the end of the summer
+and and starting to spread slowly mostly
+obviously in in Western East Western
+European uh spaces in North American uh
+publication and when you say adopt
+they'll it means that they'll start to
+showcase the content credentials you'll
+be able to see that uh you know where
+I'm very optimistic is is Sony Canon
+Leica um all the big camera camera
+manufacturers are implementing that in
+inside the camera so that information
+will be captured at the moment of of
+capture of the image so the new
+generation of cameras will already
+include that so so
+allowing to start from the beginning and
+and having that information to be to
+travel from from things so that's that's
+that's going to help uh enormously uh
+the uh the progress of of of that
+standard um and I think you know after
+Google and others uh obviously other
+companies will will start adopting it
+because it's it's G to just know and
+looking forward probably to to places
+like the European Union to to start
+asking for the implementation of it uh
+and offering subventions to to uh or
+grants to Publications or or places
+because that's more the way to do it and
+that would skip the commercial barrier
+we were talking about before in helping
+companies and and Publishers implemented
+via VIA subvention um so a better I
+think when going to be a better place uh
+in a year from now as far as as
+Providence information and authenticity
+is concerned definitely a better place
+uh but we will not be there as far as oh
+everything's good we can just relax and
+and enjoy everything uh there'll still
+be more challenges and and and and
+probably things that I haven't thought
+about yet that will surprise us again
+and and obviously a lot of the work that
+we that we talked about today is being
+is is is more from coming from
+foundations and and and open source and
+non nonprofits but there's an but there
+is an a private ecosystem that it
+thrives within so we we did go back and
+forth into the question of the
+commercial applications and where and
+and where is going to be the financial
+incentives and and I think we're we're
+all aligned that that we want to
+introduce Financial incentives because
+it accelerates the adoption of these
+Technologies right how do you see the
+big opportunities here from from from
+commercial aspects let's say for
+startups in the in this context so what
+what are the areas in which startups can
+really Thrive over the next few years
+when it comes to this question of
+content
+authenticity um there's there's two
+immediate that come to mind first like
+we were talking e-commerce or or or any
+type that's that's one very clear um
+aspect where where all companies will
+need a way to to to protect their
+content uh and clearly make the
+differentiation between between what is
+real and what is Ed but uh also in the
+scientific world right and when I'm
+talking about scientific think about um
+the the pharmaceutical world for example
+which which spends a lot of huge amount
+of money in research and they they
+transfer information via photos videos
+to to others for certifications for
+verifications for you know numerous
+reasons um the potential for for for Bad
+actors to come in there and do some
+damage
+is is huge it's bigger almost than than
+messing around with elections I think
+because that that could affect you know
+medications and things like that and and
+those businesses like like a
+pharmaceutical companies International
+can be seriously damaged by by U by fake
+information or or
+manipulated um
+information you know they they used a
+lot all their scientific um presentation
+you know sell things are are photographs
+right or or representation so you you
+add the possibility to create deep fakes
+with those and and manipulate them and
+and you can the damage could be really
+big so these companies having such big
+stake in it well the same way as they
+are protected against any entry into
+their system and and and I think you
+cyber security is your background so you
+know more about that um the same way
+they need to to create those same
+barriers around their visual content uh
+and and their scientific content to make
+sure that that they have the ground
+truth in one place and as well as when
+this stuff travels it's even when it
+does get manipulated it could be
+identified immediately so that it
+stopped there before it can make real
+damage so uh that's definitely and then
+obviously military uh I can't imagine
+the headaches of military across the
+world that depends so much on satellite
+imagery and and and other type of of
+drones and and you know video footage
+and and as well as Ste footage uh if you
+can hack those and show them something
+different than what is really
+happening right absolutely so they need
+also a way to um to figure out you know
+what what that what they're getting is
+is the real information and that's
+something that that is manipulated
+absolutely you know Paul to end on a on
+a light note um you know I'm I I remain
+very very optimistic not just on on the
+ability for us to to implement these
+Solutions commercially and to get them
+ultimately to both to Consumers and and
+I do have a certain level of of Hope and
+expectation that we will write that that
+we will um re you know sort of come back
+to the our senses that you know the the
+value of trust and Truth does matter on
+a very F fundamental level especially
+and and I think it'll depend a lot on
+the quality of the products that are
+coming from the market how easy they are
+to use and how integrated they are into
+our ecosystem but what I'm really
+excited about is that you know I grew up
+with with a laptop and I grew up with
+the phone in my hand and I grew up into
+social media and I grew up constantly
+hearing about misinformation and fake
+information and and that it's almost
+like an an unbeatable Challenge and it's
+impossible to fight in in a in a
+coherent way and what it feels to me
+over the last two three years is almost
+that there is this now this Collective
+effort to rebuild a new infrastructure
+which never existed before and there
+were never the market incentives to
+build and this new infrastructure can
+potentially lay the foundations for a
+world in which a lot of the misin the
+traditional misinformation we've had
+will hopefully be debunked through this
+new infrastructure and so I do EnV
+visional World in a few years in which
+we will create new standards for the
+information we see online both in real
+time and offline attributed with
+Provence with detection tools with
+watermarks and and that will create a
+new expectation of of what information
+do we trust and not trust and I think
+that may also go back and and I think we
+may end up in a in a much better world
+and a much better internet environment
+than the one we were in even 10 years
+ago before we had generative Ai and so
+I'm I'm kind of hopeful that if we if we
+look at the trend we we have a strong
+dip now and that's the urgency that
+you're talking about the 40 elections
+the three billion people voting and but
+I think that hopefully we'll we'll end
+up in a much higher altitude and I I
+you're more optimis mytic than I am but
+yeah I really hope so yes thank you so
+much for being here thank you thank you

@@ -1,0 +1,526 @@
+the the role of cars and in trucks you
+know in in our system in our economy
+is massive uh actually much bigger than
+what um we care to to realize and you
+know you you probably
+either travel with your own vehicle or
+taken an Uber or
+um you know order a delivery of
+something only in the last you know
+three days probably
+hundreds of miles were driven just for
+you as an individual and so the impact
+that transportation and vehicles have on
+our economy is enormous
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+20-minute leaders is a proud supporter
+of Make-a-Wish Israel and Tech to peace
+and is in proud collaboration with
+secret Court Ventures Jay Ventures
+Riverside of Femme Fusion VC Birthright
+Excel J impact leap Google for startups
+and hippo and in media partnership with
+ctek
+welcome to another episode of 20 minute
+leaders today we're talking about
+mobility and the way that technology is
+interacting with consumers in the
+mobility space meet eleran extend the
+co-founder and CEO of Ravine AI elegon
+has dedicated his work in the past 10
+years to digitizing the automotive and
+transportation sectors before founding
+Ravine eligon was head of new business
+development at Shell's digital Ventures
+unit in London investing in incubating
+new businesses that could leverage
+Shell's Global footprint of retail
+locations for the benefit of fleets
+motorists and smart cities prior to that
+Elion served as the CEO of fairpilot.com
+a startup using machine learning to help
+taxi and Uber drivers find their next
+passenger by predicting demand patterns
+in local areas Elion is an MBA from
+London Business School and is the proud
+father of two boys and one adorable girl
+[Music]
+welcome to 20 minute leaders thank you
+so much for taking time out of your busy
+schedule to be here how are you
+I'm well thanks for having me and I'm
+excited to talk to you about Ravine AI
+as co-founder and CEO previously you've
+you've been in this in this space
+Automotive space for a while previously
+uh previously with shell and with Fair
+pilot and so I'm looking forward to
+understanding from you better sort of
+your entrance to to the integration of
+AI computer vision and and and
+Automotives in general and and why do
+you do what you do and so thank you very
+much for being here
+absolutely I'm looking forward to it
+well tell me just a little bit about
+yourself and and why are you so excited
+and passionate about
+cars Ai and the intersection
+well um those who know me
+um know by now I'm kind of half British
+um half Israeli I'll spend most of my
+career in the UK
+um but the way I could have ended up in
+entrepreneurship is completely
+coincidental uh my education comes from
+finance and business I did my MBA in
+London business school and I went on to
+Consulting strategy and then somehow
+ended up in a position with shadow
+um the Energy company they're trying to
+monetize on new business
+we looked at ourselves and figured that
+we have hundreds of thousands of
+customers and in fact more than 25
+million drivers daily
+driving through our gas stations and we
+all sell them just boil products and
+coffees I sell a lot of coffees in fact
+shell sells more coffee than Starbucks
+so it's a fun fact
+whoa okay
+right and you know it it comes obviously
+from the fact that we have this captive
+audience which is massive and they
+happen to drive a car when they drive in
+and we thought okay what could what can
+we offer them
+um other than coffee
+and we started brainstorming ideas and
+then we ended up kind of as you do
+um investing in companies that have all
+these cool Solutions and products I
+ended up as a CEO for some of these uh
+some of these products and some of these
+companies one of them was fair pilot
+that was targeting professional drivers
+like Uber drivers and Lyft drivers and
+trying to sell them a software that
+helps them orientate around town and
+optimize between the different ride
+hailing Services because they never know
+exactly when to turn on the Uber what to
+turn on the list and that was a service
+that that quite resonated with at least
+a lot uh the the london-based driver
+Community uh we spun that out and I went
+back to Shell I was looking for the new
+idea and Raven kind of came up because
+we thought okay these drivers are coming
+in and out of gas stations can we
+actually film those cars
+and tell something about the cars to
+those drivers we could tell the example
+that they've got rust they have to take
+care of because the rain rainy season is
+starting in the UK it's kind of always
+the way they season
+um but uh but that was one use case and
+the other one would be tires that need
+replacement because they're worn out uh
+or something that is just wrong in your
+vehicle and you want to know Ben yeah
+you're saying you know there's captive
+audience that's that's you know the
+first you know aha Insight that you've
+had that you already have all these
+people coming in how do you provide more
+services that will actually give them
+value one you know example you gave was
+coffee and now you're saying that you
+can actually leverage some some
+technology to to passively
+you know integrating to sort of you know
+their current situation maybe offer them
+something and it makes a lot of sense I
+mean how many times do we actually go to
+a mechanic to check on our tires and
+probably by if if we if we get a
+response that we need to change it's
+probably long overdue because we don't
+know how we don't have the trigger to go
+and check ourselves right
+correct
+and then you and then you you know
+that's the starting point that's the
+interesting thing about being an
+entrepreneur and I guess you've seen
+this yourself and uh with so many other
+guests that you gotta have a starting
+point right but then once you dive in
+you suddenly realizes this whole world
+of
+opportunity once you look at in my case
+vehicle inspections you realize that the
+vehicle is actually
+very expensive asset in fact for many
+household it's the second most expensive
+asset they'll ever own wow yeah and
+um and yet this asset unlike the house
+is always out signs
+it's always exposed to the elements it's
+always exposed to this random bicycle
+that could run into it it's always
+exposed to an autonomous car that goes
+off peace right
+um and so you kind of realize that every
+second or so a car gets damaged Maybe
+and the cost of replacing uh part the
+cost of repairing the cost of the
+vehicle being off the road is enormous
+yup sure it's a war okay so that gots us
+going and I met with my co-founder uh
+Roman seller who's a a scientific guy a
+much more kind of into the tech world
+than I did at the time RB is a PhD in
+computer vision he's got a terrific
+story he's actually one of the first
+people that um designs speed cameras for
+the police wow okay so we have to think
+next hours when he was 15 yeah at 15. oh
+15 year old uh dude from kaifa
+uh doing his first degree as you do
+in computer science and that's your
+project that was his project incredible
+I love it now you started mentioning a
+bunch of different use cases for this
+intersection of Technology Ai and
+computer vision and cars how do you how
+do you decide where to focus right I
+mean a lot of these are consumer facing
+you have to it's not just getting the
+get doing the inspection but it's also
+the action that that proceeds at your
+interaction with the customer so how do
+you now decide which solution is most
+applicative to be focused on
+right so that's when you step back and
+you kind of use your Consulting skills
+and you you think about the market size
+and where you think there is room to to
+empty and actually it took us a while to
+figure out what were the exact verticals
+and use cases we wanted to focus on
+uh but we ended up uh with three major
+use cases the first one is fleets and
+car rental where there's a lot of
+transition and handoffs of vehicles and
+we want to give a snapshot to the owner
+which is The Fleets on how well the
+driver has been handling the vehicle
+that was one and we got some customer
+base there the Second Use case was used
+car assessment every time you sell a car
+you're trying to buy a used car that's a
+whole kind of
+black box that you need to figure out
+and we've chose to go into that space
+and because we realized that some of our
+scanners could shed light into the
+condition of the vehicle for an
+unprofessional buying right and you know
+this goes along and this goes along with
+with what you were saying before that
+this is the second most the second
+biggest asset for for most households
+and so you would imagine that they would
+have a lot of great tools to make good
+decisions especially when it comes to
+valuing a purchase or a sell right this
+is a really big deal
+absolutely and when you when you come to
+think about the process today you invest
+a little bit kind of research up front
+before you pick a vehicle to
+um go for your pick a vehicle to
+actually go and investigate sir right
+and it only gets to the in-depth
+inspection
+when you're well it's almost too late
+and you're already invested in the
+process and you kind of start you know
+you start thinking about like why do I
+need like it's not a problem you know
+this this vehicle okay it has a bit of
+rust it has a bit of damage I don't care
+um I just want to buy it and that's
+because you don't do enough grease you
+don't have enough tools
+to research the car Rock Run and what we
+do
+with Raven is we give more tools for
+ordinary people
+to look at a vehicle remotely before
+they actually emotionally invest and
+invest their time in NFC in committing
+to it and so what what is sort of the
+impact that this has had so far is this
+product already live and people are
+interacting with it is this making a an
+impact already
+absolutely so you know the on the fleet
+size on the fleet side we've been uh
+live with uh with different companies
+around the world I mean looking at the
+professional driver just to give an
+example uh we have a client in New York
+uh called buggy TLC and they're renting
+our renting cars day in day out to Uber
+and less drivers we've seen the
+accountability going up and level of
+damage on the vehicles coming down
+thanks to using the tool so that's been
+an amazing saving again not only in
+dealing damage
+but also in the speed and utilization of
+their Suites interesting uh in the you
+know in the in the in the used car space
+uh we have Partnerships uh like with uh
+car Global that operates uh used car
+markets across North America they've
+also become a strategic investor and you
+can start seeing how this tool kind of
+saves time and adds transparency to the
+whole transaction
+fascinating and so going back a little
+bit to sort of your entrance into this
+world and and deciding to focus all of
+your energy on this right now why are
+you so so excited about this I mean
+obviously it sounds like an awesome
+product it sounds like a great problem
+to solve but there's a lot of different
+things that one can do with with AI and
+and humans why why is this sort of the
+most exciting thing for you right now
+look I think the the the role of cars
+and in trucks you know in in our system
+in our economy
+is massive uh actually much bigger than
+what um we care to to realize and you
+know you you probably
+either travel with your own vehicle or
+taking an Uber or
+um you know order a delivery of
+something only in the last you know
+three days probably
+hundreds of miles were driven just for
+you as an individual and so the impact
+that transportation and vehicles have on
+our economy is enormous and I think if
+we can generate savings if we can
+actually use less vehicles for more of
+the society's demands
+that's a major Improvement on you know
+in human human life sure to me and where
+do they get it where is the big step
+function or is it is it on the
+technology front or is it on the the way
+that consumers are willing or are
+understanding that they can adopt the
+technology into their daily lives
+because this is a pretty old idea that
+we go we we purchase a vehicle you know
+you're changing the way that we're
+thinking through this this process or
+with any inspection right not just that
+so how where does sort of the bigger
+step function if you had to to guess
+look it's ours it's it's something
+that's missed that is embedded in
+different steps in the process so I'll
+just give you an example you're
+researching your next car online you're
+buying a used car
+this is another tool that helps you
+filter out the bad the lemons and really
+focus on the good ones that really meet
+your requirements so it saves you a lot
+of time
+have your lung miss it you only travel
+and meet the seller that knew
+you feel strongly about
+um and you also spend less money on
+these more thorough and in you know
+physical inspections
+um but with that you reduce congestion
+on these inspection centers so you're
+kind of creating a lot of transparency
+that creates in turn efficiency I'm just
+talking about the used car sales sure in
+the fleet side lots of savings there on
+driving back and forth to get a car
+estimated for repair back and forth
+communication with customers that have
+maybe damaged to vehicles
+lots of different efficiency points once
+you adopt this kind of tool how does it
+actually work this inspection process
+well how how do different Fleet managers
+car providers purchasers what is what is
+their their interaction with your
+product today
+so what the way we built it as a
+platform that the most common use of the
+platform is that you get a web tool a
+web application
+you can click on a link once you pick up
+a car or you return a con and it opens
+the camera or you're on your browser
+and your thing Guided by the tool to
+basically document the vehicle
+using computer vision an algorithm that
+we use both on the front end and also in
+the cloud we can create a profile than a
+vehicle and we can already identify
+potential areas of problems
+and so we create that report we put it
+back into our system and we log it and
+then the use cases then diverge a bit
+because in the rental experience you'll
+have a log of the condition of the
+vehicle over time and a used card
+setting you'll have just a snapshot of
+the vehicle
+um at that point in time however if you
+think about this tool a few years down
+the line you could start creating a
+database for the vehicles of the world
+really and start logging for these up
+inspections as the history of that
+vehicle which is also today something
+pretty opaque interesting and what
+happens then so you you have some
+insights and you provide some
+information through the inspection let's
+say they're an interesting Insight right
+it's a this car has a malfunction in X
+or you should check out white is what
+what is is this enough for them to make
+a decision do they they need to take it
+to a thorough in-person inspection what
+is sort of the action item that you
+expect a customer should do there
+so if a if you're talking about a biome
+of a vehicle in many cases our
+inspection will be enough for them to
+make the purchase decision
+now that is uh typically for newer
+Vehicles where you have less suspicion
+of hitting hidden issues because
+obviously you can't look at what you
+can't see yeah
+exactly now we can give an indication uh
+which translates into a very tangible
+outcome which is a grading of the
+vehicle so today especially in the
+American Market you create a used car
+from one to fives huh and our algorithm
+is sophisticated enough to give that
+grade to a vehicle
+and it would be roughly close to what
+the human professional inspector would
+give them that doesn't sound like it
+doesn't sound like it's a significant
+range giving one to five I would imagine
+it would be like 1 to 20 on like 10
+different parameters and and okay I'm a
+little surprised
+well that's a you know that first of all
+the one to five is an increments of 0.1
+so it's not like one two three
+basically yeah
+exactly so you know and that's just a
+coin
+it's a coin that is being used in the
+used car market especially North America
+and different markets of their own uh
+their own grading systems which have by
+the way not a perfect system but it
+helps
+um and so I think you know it's a big
+lesson learned so this kind of tool that
+just needs to plug into the terminology
+at the industry is using so what we do
+with a tool we basically allow a
+decision to be taken much more quickly
+on that vehicle
+right right and if you're sort of
+extrapolating this a little bit further
+down the line what is your your vision
+here how do you how do you grow Ravine
+Ai and what what do you what are you
+trying to make it to be
+So Raven is really
+um what topic sign is for for document
+Exchange
+so the idea is that everywhere that you
+hand over custody on a vehicle the tool
+is so seamlessly embedded in every
+process and every transaction that
+um it is it's becoming a stamp like a
+fingerprint okay right
+this is the authentic representation of
+the vehicle so obviously we'll need to
+add much more
+um Tools around mechanical condition
+electric conditions battery condition
+obviously is a big theme for electric
+vehicles uh but at least on the physical
+status of the vehicle we can already
+create a really good representation
+uh which
+expedites the transaction which creates
+a peace of mind
+poor the person who's handing off uh
+responsibility and I think the use cases
+will continue growing
+as we see more shared Mobility
+we support fleets more people changing
+hands more transaction on a roadside and
+although you're no longer renting from
+hurt and Avis you're rented from a
+neighbor
+yep that made sense uh and I I think
+that for me what you know what's most
+exciting here is this you know the the
+consumer Behavior shift and you're
+really you know tapping into a pretty
+Humane process that we have today and
+and integrating existing technology and
+and I love the the Insight that we
+started with which is
+this idea that both you can you you saw
+full shell how you can integrate
+computer vision to to come up with
+interesting insights but then taking it
+a step further as an entrepreneur and
+say okay well we actually have this huge
+ocean here of possibilities whether it's
+from per private buyers sellers to Fleet
+managers uh to uh to to sharing car
+sharing services and so it's really
+fascinating and I loved hearing about
+you know your story for these past 20
+minutes and I need to let you get back
+to to running a company and so thank you
+very much Leon this was awesome hey best
+of luck Ravine AI I look forward to
+using it myself in my next car purchase
+or sell and best of luck
+thank you coming soon

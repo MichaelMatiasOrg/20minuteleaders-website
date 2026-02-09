@@ -1,0 +1,793 @@
+the way we originally got to that is
+that first like we wanted to work on
+a big mission that somehow involved
+cyber security in it because we
+understood that as a founder you need
+also to focus on your strengths and
+focus on your experience and
+make sure that if you let's say form a
+team
+uh your team is going to be one of the
+best in the world in doing what you do
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+hello and welcome to 20 minute leaders
+today we're going to be talking about
+cyber security
+for railroads yes trains
+meet mickey schiefmann the co-founder
+and cto of silas
+which provides cybersecurity solutions
+for the rail industry
+mickey is a veteran leader in the
+development of complex cyber security
+projects with over 10 years of
+experience in software engineering
+research and management prior to
+co-founding silas
+miki served as an r d leader in the
+cyber r d division of the israel defense
+forces elite technological unit
+he led teams awarded the israel defense
+prize for exceptional technological
+breakthroughs
+and received high military honors for
+extraordinary achievement and
+exceptional contributions to national
+security
+mickey has been recognized as an expert
+for smart mobility and cyber security by
+the world economic forum
+and he was featured on the forbes 30
+under 30 list of 2020.
+welcome to 20 minute leaders thank you
+thank you michael thanks for having me
+thank you for inviting me to the to the
+amazing celeste offices here you're not
+seeing what i'm saying but outside there
+are
+basically train tracks with mind the gap
+and emergency exits and it's pretty cool
+because
+you're the cto of a company called silas
+and you're doing cyber security for
+for trains and railroads and i'm excited
+to understand
+how the hell you got to that segment and
+then how you even thought about it
+but i want to take you back first a
+chess champion
+candidate for me for master something
+like that ranked top five in israel
+how did you get into chess yeah wow it's
+a long story uh so
+when i was approximately 10 um they had
+a chess class at school
+and apparently i could choose between
+archaeology and chess so somehow i got
+to chess
+uh what started as a hobby actually my
+parents tried to teach me before but
+they couldn't
+they're russian-based parents always try
+to teach you chess but uh depends on the
+level that you get them but then
+at school i started learning chess uh
+and then i went to the local chess club
+and then started playing and
+uh ever since like since uh let's say
+the
+age of 10 to the age of 18 and found
+myself like
+in this in this hobby and started
+playing in tournaments first as an
+amateur and
+actually also ended as an amateur but
+like a candidate they missed the
+candidate amateur
+um just taught me a lot about about the
+world and
+it was actually my main hobby as a kid i
+played a lot in tournaments i
+learned what does it mean to be
+competitive but also
+how to be more patient how to think
+about strategy and tactic things
+and basically how to analyze different
+situations i thought it
+i think it taught me a lot uh it's not
+it's something that you can only learn
+when you have a game of like five hours
+that you need to sit
+next to a board and uh you're barely
+like uh
+you're barely standing just sitting and
+thinking about the positions
+and sometimes you play fast games
+sometimes you play long games
+and actually ever since i played chess i
+still play it online i
+even have a group of entrepreneurs
+and people from the ecosystems investors
+and so on that play with me and
+we have some watson groups of startups
+we organize tournaments so if you want
+just ping me and
+just join me i'm gonna ping you right
+after this episode i would love to play
+sure you get you're serving in an elite
+unit in the idf
+israel prize for security for national
+security
+yes so uh i was so so let's let's go
+back so after
+like finishing high school i went to
+university it's something called
+academic
+academic reserve or to die in hebrew
+and and then i was lucky enough to get
+elected to
+a unit called eight once basically
+probably one of the only
+interview sets i did in my life they
+were quite hard and i'm not sure how i
+got there but then
+then i got there and uh i remember my
+first day in the military and
+understanding that i just finished a
+computer science degree and i still
+understand anything
+um i was lucky enough to serve next to
+an amazing set of people and learn a lot
+during my military service um what they
+learned
+was like how to execute very complicated
+product
+projects under um constrained situations
+that got in that way
+i surfed next to very like a very smart
+bunch of people
+and which had very good practices on how
+to work on
+projects and how to work as a team and i
+was lucky to have very good commanders
+that taught me a lot about leadership
+and so on things that i
+still try to apply today in my in a
+day-to-day basis
+now being in a military setting working
+sometimes on technologies and poems that
+are
+that are far beyond what we're seeing
+you know in the default world
+was that was that a contradiction was
+that augmenting the fact that you're in
+a military setting working on these
+on on these amazing research projects i
+think there is some advantage of working
+in the military
+uh on those projects because uh the
+military has of course a lot of
+resources
+and uh and for example like you
+in israel at least you get to serve next
+to the smartest people over there
+because
+uh they don't need to they don't have
+the challenges of the startup in terms
+of recruiting
+and so on they just get a lot of smart
+people on there
+um and and the challenges i've worked on
+were feeling very meaningful
+so they felt like very important
+missions that we're working on
+uh and that's what drive also drove
+people to work extra hours and to work
+over the
+weekends and to work under very short
+time frames and
+uh and actually like the motto of our
+unit was something like
+uh um making the impossible possible or
+something like that
+and uh making the impossible possible
+was actually like the real model over
+there like you got very high level
+problems that
+most of the people immediately said like
+it's impossible and then
+you need somehow to break it down into
+something that you can work on and
+that's what we did and we were lucky
+enough to get some great achievements
+amazing and so some of the people that
+you served with are also with you and
+silas including your co-founder
+and guava was also in your chain of
+command right yes
+yes so amir my co-founder and her ceo
+uh and also like i'm very lucky to work
+with him and
+i was lucky as to work with him in my
+military and was my commander in my
+latest role
+i was managing projects in the cyber
+department and tamir was managing the
+whole department
+and we worked on cyber r d stuff and
+once we finish the military service uh
+we
+understood wanna also work together in
+the next chapter and that's how we got
+the functionalist
+amazing and how tell me the founding
+story
+how do you get to a position where we're
+sitting
+pretty much in the middle of railroad
+tracks in the heart of tel aviv
+and with the company doing cyber
+security for this world
+right that's uh that's a very long one
+but i'll try to summarize it
+so um the way we originally got to that
+is that first like we wanted to work on
+a big mission
+that somehow involved cyber security in
+it because we understood that
+as a founder you need also to focus on
+your strengths and focus on your
+experience and
+make sure that if you let's say form a
+team
+uh your team is going to be one of the
+best in the world in doing what you do
+and cyber security is an area in which
+we both had a lot of experience from the
+military service so we
+understood that that's one of the key
+topics that we can work on
+and have some sort of initial competence
+and then comes railways into the picture
+so what
+fascinated us about railways was that
+railways
+is actually in israel not many people
+know about
+but of course like in other countries
+for example in europe it's
+very involved um so
+apparently in the we were back in 2017
+uh looking in the world and most people
+talked about autonomous vehicles and
+things like that
+uh and they were talking how how soon
+we're gonna have
+autonomous vehicles on the roads
+um but then when we started analyzing a
+transportation market we realized that
+railways are already autonomous
+countries and actually i visited
+singapore in the same year or paris
+and when you're in a metro in those
+countries and you go to the
+first cabin you don't see a driver so
+how how how these things even
+even drives uh and then we realized that
+there is
+there is something that drives it and
+then we started to learn about those
+technologies and of course we consulted
+with a lot of industry experts which is
+very important even if you think that we
+understand things online by just reading
+stuff
+nothing can replace experience and uh
+and up to today we still consult and we
+see
+and we hire like people who are domain
+experts to make sure that we are
+we have the right knowledge about the
+domain so
+back to railways so when we looked at
+railways we understood there is a global
+challenge
+uh metros are all around the world uh
+mainland trains
+so you already have autonomous plans
+somewhere in the world but you also have
+trains that are driving very fast very
+fast means like
+350 kilometers per hour and even more
+it sounds like the combination of those
+two is a is a point of opportunity yeah
+yeah and then when you understand that
+the train drives in
+350 kilometers per hour you think to
+yourself like how does it even drive
+that how the driver can even look at the
+way to understand what's happening and
+and and and the actual answer to that is
+it does it doesn't need to
+because he has systems that are in
+charge of making sure that the train
+will operate safely
+uh and even if the driver for example
+falls asleep in many
+systems the train will break
+automatically and
+it will stop automatically uh and in
+some systems the train will even
+accelerate automatically
+and and and when you understand that you
+realize that there is some sort of
+mechanism that
+gives the train commands uh and that's
+the wireless action mechanism so then
+you think to yourself what is this
+wireless mechanism how protected it is
+and as a cyber person when you look at
+such mechanisms when you understand
+they're complex
+and you look at traditional industry
+you see that there's probably there's
+probably a cyber gap up there and that's
+what we understood back then
+uh initially when we spoke to people
+like most of them told us like
+trains are operating already for 200
+years i'm not sure if now the problem
+starts but
+uh but as people who coming from the
+cyber domain and look at other critical
+infrastructures and looked at
+transportation market
+we understood that trains are probably
+like we will need to behave similarly
+from the cyber perspective they need to
+be secure
+around the same time companies in the
+railway business
+also trans uh have started to be
+targeted
+by threat actors and since then like
+many attacks have happened on companies
+in this market
+some of them are public some of them are
+like private and
+some of them are not being talked about
+in the news so there's like a mix of
+things because
+in the end it's critical infrastructure
+and uh uh
+and and and those are very sensitive and
+it's very important to make sure that
+uh that the public still trusts it and
+it has a very good reason to trust them
+because
+it's operable and it works very well but
+at the same time companies understood
+that they need to uplift the
+level of security and that's what
+happens today so
+companies uh companies uh
+are like since like our founding story
+back in 2017
+we see that like the industry realized
+that cyber security is a big challenge
+and we see it it's being addressed all
+across the industry starting from the
+manufacturer's side
+to the end customer which is rarely
+operators all of them
+are starting to uplift their security
+measures actually recently
+maybe i'm not sure when this interview
+will be published but there is a
+standard
+an official standard in europe that
+that speaks about cyber security for
+railways and it's basically its point of
+reference for all railway companies on
+how to operate for cyber security
+it's actually funny because the standard
+they started working on it like a few
+months after we found
+the company wow uh yes it's kind of
+coincidence
+and uh and we also see it all around the
+world excels operates globally we work
+in different territories i have a
+question when you're starting
+this company and you understand that
+there's this gap you understand this
+opportunity
+you don't have a train to work it's like
+you can go downstairs to the train
+and and just test your code and to see
+whether whether you're picking up on
+something
+and even if you do have a train
+underneath your house it's a government
+usually government-owned train you have
+to get a set of clearances just to be
+able to
+to talk to the person who's in charge of
+those trains how does a startup
+get started that's a great question so
+that's the first question which i got
+asked a lot
+also and i remember the first days uh
+and how did we get
+how did we get to the poll that the
+point that we're now so
+of course yeah we don't have train train
+costs i think a few million
+dollars uh that's like a typical train
+uh
+yeah in the next funding round then we
+will probably build tracks in our office
+to make sure that we can accommodate one
+um all right so first what we did was
+going to
+stick with people from the industry and
+those people are people that
+are um domain experts they're working on
+railway companies either in security or
+operations and
+we ask them about the problem just to
+make sure that we even in the right
+direction
+we miss something which is very like
+critical no one talks about it and
+everyone implemented already security
+and maybe
+we couldn't miss anything when we
+understood there is a challenge
+uh our next like when i saw the next
+there was a challenge like our next goal
+was like to start developing some sort
+of a product and our first product was
+some sort of proof of concept that
+operated based on simulations
+so that's that's an important part to
+understand also like a cyber person like
+there is nothing like information
+doesn't exist online you just need to
+find the right way like
+to get an access to it but like
+everything is all there
+and what we did initially was working
+based on simulations
+uh and those simulations helps us to
+emulate like a real
+environment and emulate how we can
+attack such an environment
+and then to show the potential prospects
+how do we
+like how does our product our newly
+developed product can actually protect
+such an environment from which specific
+threats
+that's what we did in the first step and
+then the next step
+uh we use this demo uh basically to get
+like our first file
+our first pilot was with a national
+rally company in europe the big one
+um and it was by showing this like
+initial product and then they came to us
+and they support
+proposed us like to do a similar
+similar uh exercise but on systems that
+they're currently like implementing
+and it helped us of course to get more
+information and ever since like we
+were capable based on the experience
+that we gained in one project we could
+uh we could uh accelerate our knowledge
+and then to get
+to the current level in which we're
+basically operating tons of friendly
+companies
+uh around the world and we're capable of
+protecting systems of different types in
+the railway environment and different
+vendors
+uh and and and we actually don't need
+like physical trains to do that we just
+need the equipment that
+actually like produces the communication
+for example it produces the critical
+commands and
+uh and it could be nice to have a full
+train that is doing that but it's
+actually enough to start from less than
+that
+and that's how we work so it's similar
+to the company that tries to work on
+data but doesn't have the data
+so you either need to develop it
+yourself or gather it or like get an
+access from someone who has it and
+work on some sort of design partnership
+or the pilot or something similar and
+once you have that you can bootstrap
+into
+something which is more mature so you
+know obviously
+if we look around pogba when we look at
+most cyber security companies
+they usually don't go to these types of
+solutions but a lot of them are
+operating on cloud
+on on those types of uh on those types
+of threats and technologies you went
+to an old industry realizing that it's
+being digitalized and revolutionizing it
+and when you're looking at the people
+that are working with you do they
+understand
+you know this this mission and rather
+because this is not a trivial thing
+to to think you know independently right
+yeah so
+so we actually had the same like the
+same thought ourselves
+when we founded the company we could
+decide to develop a point police
+point solution to an industry which is
+what much more mature
+uh and try to basically solve a small
+problem like in a bigger industry
+or what we decided to do was to go to
+this blue ocean
+which is railways uh and define a
+category basically that's what we're
+doing
+and and and um maybe like some
+indication for the success of this
+definition was that
+ever like since then uh also competitors
+joined this category
+uh and we're happy with that um and
+i think that what feels like people for
+working in silos
+is the fact that like you define the
+category
+as a category someone who defines a
+category you actually get
+more privileges than others because uh
+you don't necessarily
+need to beat the competition but also
+like generate the best value on what
+you're doing which is
+not something which is trivial some some
+people like have some reference in their
+mind and they're saying
+i just need to get better than that and
+then i'm good but here you actually need
+to sometimes
+interview like a customer that starts
+from nothing and build him like
+the optimal solution for his challenge
+um
+and also like when you see the span of
+fire like solution we're not
+because it's railways it's actually like
+very global uh
+we can have customers in australia and
+europe and north america and it's like
+all of them like operating trains and
+sometimes they speak different languages
+some of them
+like uh are are from different coming
+from different cultures
+uh we work with companies all across the
+industry so it's not just like the end
+customers but also the manufacturers
+it's also like cyber security companies
+who are working currently in the railway
+domain just for enterprise and they're
+partnering with them for
+for like uh uplifting the entire
+security level
+um so and i think that that's what like
+people here also see like at silas say
+they're getting cranked on the mission
+you can see it from the design of the
+offices
+like people know all the set of
+customers that we have they know
+the partners are they know where we
+stand like we
+believe in like a very high level of
+transparency and everything
+and we believe that when someone comes
+to work with us he also needs to be
+connected to the startup like
+we also understand the business context
+and the overall context of what we do
+and how we
+impact the real market globally not just
+like understand what piece of code is
+currently working on
+100 okay so enough about about trains i
+have
+hours more questions to ask you about
+this but i want to make sure to also ask
+you a little bit about yourself
+sure going back to not chess but your
+childhood in general
+what what really fascinated you i know
+chess is one of them
+what else fascinated you as a kid
+whether it's a subject in school or
+another passion hobby
+so i think that like i didn't have like
+one subject that fascinated me i of
+course liked computers a lot and that's
+why i chose it with a career
+uh i liked all sorts of like more like
+the awful certain scientific domains
+math chemistry um
+and others um i think
+actually like i spent a lot of time
+without this kind of chest that's what i
+remember like
+uh growing uh doing a lot um
+but i was like a typical kid nothing too
+special
+there was nothing too special about me
+and that like i was just uh
+like i think so right
+and what inspires you today so as you're
+building stylus and as you're thinking
+through
+yes so so today inspires me like to
+build
+uh an input full company i wanna like
+starting stylus was quite kind of
+interesting because
+most like cyber security entrepreneurs
+when they
+when they come out of israel they have
+the advantage of
+israel being widely appreciated in the
+cyber security business
+and and then like israeli solutions of
+being widely accepted because of that
+when you're coming to the railway
+business
+when we started with it apart from one
+company i think
+we haven't seen like any company that
+was
+very important the supply chain of the
+railroad business like the
+splashing of the railway business was uh
+dominated by
+companies the likes of uh alstom
+siemens uh bombardier
+um and uh and israel didn't have
+actually like some representation in the
+uh israel of course has israel railways
+and now we're seeing behind us
+uh the tel aviv red line which is uh
+which is very exciting for me to see
+like to have this line coming from my
+office
+um but we didn't see israel present
+in this in in in this arena uh
+actually two years ago we were awarded
+an award by
+uh the international railway
+organization which combines
+all the railway operators in the world
+and they every year they pick
+solutions that have contributed most to
+the railway business
+and we were we were selected in the
+category
+of safety so like security now is an
+essential part of
+fairly safe right it was something that
+safety was taken for granted for a lot
+of time and now security actually
+becomes
+integral part of it uh information it
+was exciting
+it was exciting because it was i think
+the first time the israeli company won
+such an award
+i think we are one of the only israeli
+companies that are actually
+present in global reality projects in
+the world
+and i can give parts of them we are like
+actually the core of those railway
+projects we're in the core of trains
+we're at the core of signaling systems
+uh and taking it forward and making sure
+that we are
+able to generate like this meaningful
+products that
+support the railway industry globally
+and doing it coming out of israel is i
+think is a big mission
+amazing and three words you would use to
+describe yourself
+right uh that's hard uh
+three words um i think that things that
+describe me
+is like kind of optimistic i think i
+think about challenges
+but like always try to think about what
+also the opportunities in everything
+that we do
+uh i'm trying to be a warm person and i
+think the people that work with me honor
+me they know that because
+uh because it's very important for me
+like first to work with people
+uh and it's important to be it's
+important to me to be accessible
+so being warm is like one way of
+doing it and i'm kind of curious i like
+to learn a lot
+i it's something that i didn't know as a
+kid actually but i'm doing it more and
+more now and i
+like to learn about different uh
+different
+uh topics and when we started silos i
+was like lucky enough to learn about
+different industry
+before like learning about railways and
+when i started to learn about railways
+and try
+to learn every bit of it and i still
+keep learning and there's a lot to learn
+like
+i need to basically
+need to close the gap of 200 years to
+understand what was developed in this
+industry
+um but i think those three words that
+kind of describe me
+like as a whole i mean
+that's so amazing i love it and they
+you know a huge pride you know both both
+from israel
+but i love this intersection of taking a
+very sexy technology
+that really wasn't around 10-15 years
+ago and you know with the
+security knowledge that we have now the
+expertise gaining from the military this
+is not
+something that 20 years ago was even
+relevant and now looking at these
+age-old industries that are digitalized
+and and having
+players on the other side that are
+finally willing and able to cooperate
+and move forward winning or
+you know granting awards to a cyber
+security company in the railway industry
+i think that's amazing and
+thank you for taking the time to share
+with me thank you very much

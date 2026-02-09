@@ -1,0 +1,679 @@
+it's always not just about the
+technology it's like having the support
+of you know all the leadership in the
+company and being able to learn from
+them of like you know how to build and
+scale the business that was i think a
+unique opportunity for me
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders today we're
+going to be talking about engineering
+with avigolan vice president of
+engineering and general manager of
+israel at ziprecruiter
+avigolan is zip recruiter israel general
+manager and vice president of
+engineering leading the israel
+engineering site with a data-driven
+focus on delighting both job seekers and
+employers and fundamentally improving
+the hiring experience
+prior to joining ziprecruiter avi is a
+membrane alumnus and served in an
+intelligence unit avi has over two
+decades of experience in the software
+industry building and leading r d
+organizations
+let's get started avi welcome to 20
+minute leaders thank you so much for
+being here how are you good good thank
+you for inviting me to the show really
+excited to be here thank you very much
+thank you for coming vice president of
+engineering and general manager of zip
+recruiter in israel uh five or six years
+ago you founded the the r d site here in
+israel for this multinational company
+zip recruiter
+working with people all over the world
+to to connect them with with relevant
+jobs and so there's obviously very very
+relevant to today's marketplace very
+relevant to the different questions that
+are that are being asked today and we'll
+focus also on zip recruiter and and i'd
+love for you to start by telling me a
+little bit about what you do there but
+but afterwards i'd love to really dig
+deep into what it means to to to create
+this r d site here in tel aviv and be
+and act as vice president of engineering
+for this multinational company so so
+what is ziprecruiter in a few words
+so zip recorder is an online employment
+marketplace we basically connect between
+the two sides uh the job seekers and the
+employment or the employers of the jobs
+um and we're actively working in order
+to make those connections across
+industries cross-verticals where like
+support we're helping
+nurses and truck drivers and engineers
+and data scientists and marketers and
+like every basically every uh occupation
+and every industry we're uh able to you
+know find the right opportunity uh as a
+job seeker and find the right talent as
+an employer uh we're uh supporting both
+smbs like it can be like you know small
+pizza shop that is looking for uh
+delivery drivers or cashiers and it
+could be like you know large enterprises
+that are looking for
+10 000 warehouse workers um and we do
+that with a lot of you know ai and smart
+matching technology that we built based
+on the large uh data
+um
+over uh the last
+10 or 11 years since the company was
+founded we
+we had more than 800 million job
+applications through our platform also
+many people that pressed apply and
+submitted their resume
+which is you know huge
+uh huge impact on on like you know in
+the industry mainly
+uh operating in the u.s market but also
+uh uh
+in europe
+unbelievable and so yeah five or six
+years ago you you set out to create the
+r d site here in israel join us vp
+engineering
+of zip recruiter walk me through the
+rationale of of taking this
+multinational company and deciding to
+open a new r d site here in tel aviv and
+then what was that like from your
+perspective coming in as the general
+manager
+yeah
+so um i think uh uh the story of
+ziprecruiter is is slightly unique
+versus the other multinational that you
+see here
+that open
+engineering sites
+so the company was founded in 2010 it
+was uh bootstrap till
+and then it raised
+serious a
+and um in order to grow like that's that
+was like you know the the founders
+decided that they want to take the
+company to the next level
+um and
+as part of that
+um they like you know acknowledge that
+they need like stronger and and and
+bigger
+engineering organization
+um and
+they made the decision to open an
+engineering site in israel in tel aviv
+and before jeff's wedding so he founded
+a company before that that was uh
+the name of the company was competitor
+it was sold to aol and it had an
+engineering site here in tel aviv and it
+worked for him um and he joined the
+paper after that uh as the ceo and
+decided to replicate that um and
+decide that he needs someone to you know
+to to be
+you know employee number one to start
+the office and and like to start
+uh uh um
+being hands-on and like solving issues
+but also like scaling and and and and
+hiring and recruiting and growing and
+you know solving problems um so
+you know we
+uh
+connected you know over like you know it
+was
+skype back then
+but it was like wow it was i never met
+anyone in person like now it seems
+right you like in yeah interviews
+it's like you know that's that's that's
+how you do interviews right
+but it was back then it's like 2015 it
+was
+like i met with the founders met with
+jeff met with a couple of technical
+people and then you know decided to make
+this leap of faith i guess of like you
+know there's this amazing company that
+is looking for
+you know for uh um to do this major
+growth and scaling and and it was an
+amazing opportunity as like a career
+growth
+as well as like you know solving
+problems now walk me through a little
+bit about your you know
+cognitively what's going on in your mind
+you're tasked with starting this new r d
+team what what is top of mind for you is
+it scaling the team is it getting more
+responsibility with a product
+is it getting trust
+from you know your counterparts around
+the world that are now looking to see
+what you come up with
+what what really you know bothers you
+during that time or what occupies you
+yeah probably everything that you
+mentioned um i was like
+no one told me like this is what we want
+you to do or this is those are the
+problems that we want you or the team to
+solve it's like
+it was uh um
+you know we have you know amazing
+company that we build um a lot of
+customers that are using the you know
+the product both on the on the consumer
+side the job seekers and the employer
+side
+you know both b2b and b2c
+um and
+we have a lot of data we have a lot of
+like challenges and opportunities and
+like
+you know try
+uh uh to figure out where you can
+provide value basically that was like
+you know um that was the uh
+the mission statement um and
+and that was like i was obsessed about
+like finding where i can can provide
+value and like you know bringing
+my previous experience in in attack and
+and other like big data um
+um um technologies that that i had over
+the the
+20-something years
+in the software industry
+um so
+really
+just talking to people trying to
+understand like you know where are like
+the challenges where are the
+opportunities
+understanding the you know the ecosystem
+the the market itself and like uh um
+what kind of technology right is out
+there um and and i think that's like the
+the major challenge and it's i remember
+the first days where it's like
+you know
+you you're alone
+um i took like uh you know uh like a
+shared space in mind space in in uh in
+gold shield uh so
+just not to be alone right it's just
+just to see people so i had this uh
+this uh
+small office back then
+um and
+and like talking to people in my early
+morning and then in the evenings
+um and digging up in the data you know
+looking
+um going into the data where i was
+looking in
+in uh um
+you know the vast amount of data that we
+collected and then
+trying to zoom in on the areas where we
+uh where we could
+we like eventually it was we like after
+a few months like we grow and i you know
+hired some you know some of my past
+colleagues and friends
+um and they brought their friends um
+and and now we're about 80 people but
+back then it was like
+like two three
+you know the end of the year it was six
+unbelievable um
+and we we started by solving like one of
+the hardest problems of of matching it's
+like how can you provide a better
+experience for both the job seeker and
+the employer
+um by you know
+harnessing ai like using the data that
+we you know collected over the years and
+and building models that can learn
+uh um like what's a good match like
+um how
+how do you qualif how um how a recruiter
+sees like you know the resume of uh
+you know a nurse versus the resume of a
+software engineer and like what's
+important for for each recruiter or
+what's important for the job seeker um
+and then like you know teaching model or
+building models that can understand that
+uh based on the data and based on like
+the you know the
+the talent and engineers and data
+scientists that we uh have in the
+company so if you're fast forwarding to
+today now with over 80 people on your
+team in the site here in israel and
+you're obviously making a big impact on
+the multinational company that has many
+many more people than that in it yeah
+you know what what do you think worked
+along the journey what were some things
+that you either prioritized or by chance
+happened that that made this a smooth
+transition and and
+pretty a pretty fast growth you know 80
+people over the span of five six years
+yeah
+um so i think
+you know we proved ourselves we created
+value we found the areas where we
+internally uh where we
+yeah like you know or you know created
+value for the company right create a
+developer for our customers and i think
+we we proved that that you know we can
+you know tech take the challenges or or
+even come up with innovation and the
+things that can you know can help the
+company scale and can have the company
+like
+uh we can talk about that later but we
+ipo three uh months ago so it's like
+taking the company really to the next
+level um and and um and i think this is
+like you know for me i'm um
+very much focused on creating like
+finding areas where we can create the
+value and focusing on that
+um and and
+and and then scaling and then like you
+know once we found like product market
+fit
+internally and externally like once we
+verify that this is like a problem worth
+solving um and then we're like you know
+we're all in we're like we'll you know
+we'll grow the the team will
+um uh will you know get alignment from
+the entire organization and so on so i
+think that's
+you know that that was the major factor
+that i think helped us um
+like building the relationship one of
+the challenges was like you know this
+um we have like one platform once one
+company right it's like it's not like uh
+yeah i don't know like uh
+like a a big company that that that
+opens um
+an r d side that
+develops like a small feature or small
+truck or or a small big doesn't matter
+but like a
+like a product that that can be
+encapsulated um
+and have like clear interfaces was more
+of a how can we build an organization
+um that
+that can have engineers or can have data
+scientists or people and product
+managers people from both sides of the
+world like working closely together and
+we have managers here that manage people
+uh you know uh
+in l.a and and vice versa right
+um so that was like one of the biggest
+challenges how to bring this to build
+this culture and to build this
+organization over the years really what
+we're you know things we're talking
+about you know building culture scaling
+a team creating value internally and
+externally i mean it really sounds like
+we're talking about you know you created
+almost you know as an entrepreneur
+creating a company creating a startup
+within a startup having many of those
+same challenges that that a traditional
+founder has you're doing it within this
+multinational but but it's
+entrepreneurship uh you know with
+by any standard right
+yeah exactly without like you know
+without the the need to be uh uh uh you
+know obsessive like you know how to get
+uh how to pay salaries next month right
+you know how to to get the next uh
+funding uh so i was fortunate to have
+this opportunity of of really doing that
+that's like uh founding like uh you know
+a new company
+uh um
+and and like
+being able to recruit like top tenants
+and and like
+you know bring on
+uh um
+very talented people that can
+help me do that you know scaling and do
+that growth and and creating value right
+um so it's it's it's a lot easier when
+you have like you know you have the
+support
+uh um of of like amazing you know
+amazing amazing uh um
+leaders in the in the organization right
+it's like people that
+it's it's usually not just about the
+technology or like yeah
+it's always not just about the
+technology it's like having the support
+of uh um
+uh um of you know all the leadership in
+the company of uh um and and being able
+to learn from them of like you know how
+to to build and scale
+um the business that was uh i think a
+unique opportunity for me 100
+now talk to me a little bit about what
+you learned you know over these five six
+years you've sort of become an expert
+and ai expert in in matching
+technologies and what works and what
+doesn't work with you know looking for
+jobs matching for jobs i either as a
+seeker or as an employer what are some
+baseline ideas that perhaps may not even
+be that trivial for for the common
+person that's applying for a job or
+writing their resume what are some
+things that you've learned through your
+experiences that that we can share with
+it with anybody that's listening
+yeah so um
+so what one of like uh before i answer a
+question one one of the learnings that
+that i had um like early on was like
+it's
+as as as a company and organization it's
+it's um
+it's not just about the technology it's
+lot you know it's it's you can build
+this amazing ai and a major amazing
+technology
+but like you you know
+it's it's the business it's the
+organization it's a product it's a
+marketing it's like a combination of all
+of the those
+that are working together in order to
+get you know the company to the next
+level
+yeah um and then like on the on the
+matching side
+um so if you're uh
+if you're like you know someone that is
+now
+on the market or or planning to go uh uh
+to start finding jobs and like applying
+to jobs um
+you need to understand that the uh the
+landscape has changed in terms of um
+um the the the
+the flow of of who reads your resume or
+right how to get past like to to the
+next level it's like it used to be like
+a pile of uh you know you always see
+this picture of a pile of like a
+thousand resumes sitting on someone's
+desk it's now like
+it's automated right obviously right
+and
+a lot of uh um
+i think a lot of people just don't
+understand that that in order to get to
+the recruiter you need to pass some some
+bot some ai um
+that scans your resume and and try to
+extract the date and it's it's trying to
+extract the data from it right it's like
+trying to understand your previous
+experience your um your education and so
+on and if what does that mean in terms
+of the what does that mean in terms of
+the focus because if the focus before
+needed to be on you know standing out i
+remember you know applying to college
+you have to stand out so that your
+college application is you know
+different not necessarily even better
+but just different than that of the
+thousands of others that they have on
+their desk now i'm assuming that you
+actually have to be a little bit more
+intentional and specific to the role
+perhaps that you're applying to
+yeah so
+so keep in mind that you know those ai
+that scans your your resume first needs
+to understand right so like it can be
+uh uh like right you know don't use uh
+uh tables and fancy formatting and like
+stuff like that that will you know in
+some cases you know the the um the
+machine will fail to read the resumes
+and and it will just reduce your chances
+in like in getting to the next level so
+like
+you know
+try to focus on or try to
+to to
+to write like the
+uh um the most um
+simple format that you can you can still
+like describe your achievements and so
+on but but don't use you know fancy
+words or obviations that no one knows or
+something that you know describes
+try to you know try to uh
+uh
+put some fancy words around stuff that
+you do it's like right again the the
+machine is trying to extract the skills
+that you know and if it doesn't
+understand or if you're writing in a
+unique way that you didn't see before
+that's like it's it will be more
+difficult to
+uh to get past this you know to get past
+this stage and like this there's this uh
+um
+you know myth i don't know if or
+our um common knowledge about
+recruiter spends like six seconds
+reading your resume six or seven seconds
+really passing through your resume
+yeah in in many cases you don't even get
+that it's like there's like a snippet
+right that they see it's like you know
+it's like right they depends on like the
+role but you have roles where where
+hundreds of people apply and you have
+like a like um
+uh um like a summary of your you know
+past experience education skill set and
+and so on
+and it's like again if it fails to fail
+to understand that then you're basically
+shooting yourself into that
+so what i'm hearing you what i'm
+extracting from this and they take away
+from me is you know if before you know
+the traditional advice would be to stand
+out be different make something that
+will that will force the the decision
+maker to take a closer look and be
+intrigued by what you do here we're
+actually going for simplicity stick to
+the rules make you know this the the
+more common you are in the in the format
+the better you are served because the
+better chances you that you will be
+understood by the algorithm but then
+you know the more specific you are also
+an intentional then then the more likely
+you'll be matched with a position that
+that really fits you and i think that
+that's uh you know definitely something
+that i'm taking away and that i think
+that anybody that's listening it's
+relevant for everybody now i do want to
+take you back abby really quickly in the
+last few minutes that we have a little
+bit about you share with me both you
+know what really fascinated you as a kid
+but also what inspires you today
+okay um so
+yeah growing up i was uh um uh like ever
+since i remember myself i was like i
+wanted to be a doctor it's like i i grew
+up to a mother that was a nurse
+like you know 50 years as a nurse or
+something like that like 40 something
+years
+and like we live right next to the
+hospital and like i remember myself like
+after school
+it's like a you know first of second
+grade going to eat lunch with her at
+like at the hospital like i was
+fascinated about this
+about uh uh
+you know this occupation and and and
+up till the age of like
+you know 17 uh i was sure that this is
+what i'm going to do uh started but
+biology
+like
+high school
+but but then you know life takes uh some
+turns and um
+um i was like in the army i was
+recruited to mamaram and did like
+the programming training
+um and and fell in love with uh you know
+uh this uh domain and the software
+industry
+um
+and you know and my life changed since
+then so i'm grateful for that
+opportunity and the rest is history and
+i think uh um and to your second
+question about what's fascinating uh
+what inspiring me today is it's like
+it's it's it's going back to creating
+value it's like how can we harness
+technology and to solve you know market
+deficiencies problems
+uh um
+um
+things that that you know looking back
+five or ten years ago
+were not stoppable would uh or were
+much harder to solve than than today
+with the technology that we have using
+ai and big data um so i'm fascinated by
+that it's like seeing this the
+technology how it's like
+how it uh um
+progress and and helps solving like you
+know we're basically using the
+technology to solve like the the most
+basic human needs of like finding a job
+helping people that really need
+you know support really need guidance
+really need uh how our help to to to
+understand where you know their next
+opportunity might be like there's
+there's a stat that we're we're using uh
+that we have that you know we have like
+two uh two boxes on the on in the
+homepage it's like what are you looking
+for and where it's like 13
+don't even know what to look for
+it's like they put jobs or i need a job
+or blank
+and it's like it's interesting it's our
+role it's our mission to help guide them
+um and help them understand user
+technology using like the fact that
+we've seen millions of people with the
+same education with the same skill set
+with the same period trajectory
+we are able to provide that kind of
+guidance and that kind of help and
+support so i so that's fascinating
+i love it and what are three words that
+you would use to describe yourself
+i think a lot of
+like a lot of the things that i
+described is technology so technology is
+one and innovation
+uh slash value
+using innovation and and i think also
+family i'm trying to balance between the
+between like work and life so
+very very cool
+i love it avi i really want to thank you
+this was fantastic i loved the insights
+the stories both on you know the
+recruiting and the hiring and and and
+understanding the transition that we've
+made from manual to automated and what
+you know what what we need to derive
+from that for both the seekers and also
+the the employers but then you know
+opening a new site for a multinational
+company vpr d and and
+then distilling it to creating value and
+in just as big of an entrepreneurial
+journey so thank you very much for the
+time and inspiration and stay safe and
+stay healthy thank you really enjoy that
+bye
+[Music]

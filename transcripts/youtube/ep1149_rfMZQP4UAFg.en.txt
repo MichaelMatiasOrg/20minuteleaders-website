@@ -1,0 +1,992 @@
+the more somebody's put time into
+something, the less likely they are to
+abandon those uh those efforts. And so,
+putting this into practical application,
+when I was trying to get people to run
+my malware, whether it be over the phone
+or through email, I would always make it
+difficult on them to run the malware
+because the harder they had to work to
+run it, the less likely they were to
+notice any red flags. And uh and I think
+in that that first instance where I told
+you about that I I talked money into a
+bank vault. If you Google how to rob a
+bank uh over the phone, you'll find a
+black hat talk that I gave uh years back
+um at Black Hat Europe. But in there, I
+play real audio from this social
+engineering call. And uh and it it just
+really uh stood out to me how easy it is
+to get people to do stuff and how when
+they've invested time, they just won't
+ignore stuff. And so the the example is
+he runs my malware the very first time
+and his anti virus triggers and says,
+"This is malicious. Do not run it." And
+uh and because he had spent so much time
+and energy trying to get it to run in
+the first place because like I said, I
+make it hard. Uh he ignored the anti
+virus triggering and just bought my
+excuse hook, line, and sinker. And we
+continued to run applications on his
+computer for the next two days.
+[Music]
+Joshua Crumb, welcome to the human zero
+day. I'm really really happy to have you
+here. I' really been looking forward to
+this episode. Thank you for joining me.
+&gt;&gt; Yeah, thank you for inviting me. It's
+it's a pleasure to be here and uh
+talking social engineering or layer 8
+that that's my favorite thing to talk
+about. So excited to dive in.
+&gt;&gt; Well, uh with more than 20 years of
+experience in cyber security today,
+you're the CEO of Fish Firewall. um
+you've been a at the at the the shoes of
+the hacker before of the social engineer
+uh pentester
+um now with the perspective of also
+founder and CEO and looking at the
+market more broadly. So, I'm I'm really
+excited to to piece together this market
+with you across these different layers
+and go all the way into the eyes of the
+social engineer and and the techniques
+and the psychology of it and then
+climbing up gradually uh towards the
+market and and what's happening in the
+world around us today. Joshua, help me
+first understand how you got here. How
+does one find themselves involved in
+this amazing space?
+Uh well, you know, it it I think for me
+a lot like many others, I first learned
+about this through the the many
+underground 2600 groups. Um that's how I
+I guess I I stumbled across it. Learned
+a little bit about hacking before there
+was a thing called ethical hacking. Um
+got scared. Uh didn't really want to uh
+end up in jail for using my skills bad.
+Um, but I I actually ended up getting
+sued way back in 2001 for hacking. Um,
+and uh, and that was like a wakeup call
+for me. Uh, so I switched and actually
+went into marketing at that point. Was
+like, okay, I I I'm going to stay out of
+this. Don't want to uh, spend any of my
+life locked up. So, I'm going to I'm
+going to be uh, you know, be good. And
+uh, and I spent like six uh, or maybe it
+was even closer to eight years. Uh but
+six or eight years in marketing, that's
+actually what I went to college for. Um
+which really did help out with social
+engineering because marketing is that
+offensive social engineering practice.
+How do we get people to do what we want
+them to do? And so so much of marketing
+is behavioral science and and how we
+apply it. And uh and so it made me very
+naturally good at social engineering.
+And when I I first got into the industry
+and uh after I'd spent a few years in
+marketing, I was asked by this uh the
+company that I worked for cuz I was very
+technical still even though I was in
+marketing. And they said, "Hey, any
+chance you could hack this Excel uh
+password protected Excel sheet for us?"
+And I'm like, "I don't know. I'll look
+into it." And in the process of looking
+into it, stumbled across this tool at
+the time called Backtrackk Linux, which
+is now Kali Linux, and that's like the
+pen testing platform. And that led me to
+realizing that penetration testing was a
+a very viable career. And uh and so I
+decided that day to quit my job. I I
+went in, I talked to the CEO of the
+company that I was working for. Uh told
+him a little bit about where my mind was
+at. He said, "Honestly, we've uh, you
+know, we've been really moving more and
+more out of retail and into wholesale
+where we don't need as heavy of a
+marketing department. I think it's great
+timing. I'll give you some severance so
+that you got time to go out and study
+and, you know, jump hit the ground
+running in the new career." And uh, so
+with that, I I that same day, it was my
+last day that I worked there and uh,
+ended up going on cyber. spent the
+entire time just studying and learning
+cyber security and more importantly
+ethical hacking. Uh was terrible. So I
+got a job with a terrible company about
+3 months later. Uh but within 6 months
+after that I was working for one of the
+top teams in the country. Um and about a
+year after that I was running the uh one
+of the top red teams in the country. And
+so I just it was where I I think I was
+always really meant to be because
+security came very naturally to me. Um,
+but that's also why I started this
+company was because I saw that we had
+some major flaws in our industry and we
+weren't addressing them. And uh, and I
+just felt like there was almost a little
+bit of insanity happening where we just
+keep repeating the same thing over and
+over again uh, and expecting different
+results and then wondering why we
+continue to fail.
+&gt;&gt; I I love it that it sounds like quite a
+journey. If you if you go back to the
+early days of learning the ropes and
+going from an okay mediocre to an
+excellent social engineer and and
+ethical hacker, is there some story or
+some event that really comes to mind?
+Some memorable experience that that you
+recall fondly that that you'll be
+telling your grandkids in uh in years to
+come?
+Uh well, there's a lot of them, but I I
+actually think one of the more telling
+ones was my very first physical
+engagement. Uh and so this was right
+after I had jumped from a terrible
+company to a really good company or one
+of the best in the the world. And uh and
+so I had never I I'd done a lot of like
+external penetration testing and web
+penetration testing previous to this,
+but I hadn't had that opportunity to
+physically break in or do social
+engineering. And so on this assessment,
+uh I'm quite literally able to talk my
+way into a bank vault. It all starts
+with uh talking to somebody over the
+phone who should have known better
+because they were warned that hey,
+somebody's going to call you up on this
+day and try and get you to do stuff
+you're not supposed to do and then on
+this day they're going to show up in
+person and try and get to you to do
+stuff you're not supposed to do. Um and
+but yet the same guy completely falls
+for it. Hook, line, and sinker. And I go
+from, hey, I'm going to be a very
+technical hacker where, you know, I'm
+never going to use social engineering
+over to the dark side in an instant. And
+I said, oh, this social engineering
+stuff's really fun. Turns out I'm really
+good at it. I want to continue to do it.
+And it just kept going on like that. Uh,
+next assessment was a Fortune 500 data
+center. The one after that was a casino
+money cage. and uh and almost getting to
+the point where like you know in just my
+first few assessments I accomplished
+some of the most hard to do social
+engineering feats and uh and it it
+actually got me in my head for a while
+like how am I going to top this?
+&gt;&gt; Incredible. So So Joshua, why do humans
+fall for fishing? What what's happening
+here? I mean we I mean we're we're we
+should be skeptical na skeptical
+creatures by nature. It's all about
+survival. How do we how is it that we're
+falling for these fishing scams?
+&gt;&gt; So, humans
+regularly and most of the time without
+any consciousness of of this happening
+use these little mental shortcuts called
+cognitive biases to quickly make
+decisions. These cognitive biases are
+things like, hey, if a letter comes in
+from the CEO, I better prioritize it and
+move quickly. Um, or it might be, hey,
+if uh if all of my peers are saying that
+this is really great, it probably is
+great. Um, or even just the sunken cost
+fallacy, which is uh where the more
+somebody's put time into something, the
+less likely they are to abandon those uh
+those efforts. And so putting this into
+practical application when I was trying
+to get people to run my malware, whether
+it be over the phone or through email, I
+would always make it difficult on them
+to run the malware because the harder
+they had to work to run it, the less
+likely they were to notice any red
+flags. And uh and I think in that that
+first instance where I told you about
+that I I talked my way into a bank
+vault. If you Google how to rob a bank
+uh over the phone, you'll find a black
+hat talk that I gave uh years back um at
+Black Hat Europe. But in there I play
+real audio from this social engineering
+call. And uh and it it just really uh
+stood out to me how easy it is to get
+people to do stuff and how when they've
+invested time, they just won't ignore
+stuff. And so the the example is he runs
+my malware the very first time and his
+anti virus triggers and says this is
+malicious. Do not run it. And uh and
+because he had spent so much time and
+energy trying to get it to run in the
+first place cuz like I said, I make it
+hard. uh he ignored the anti virus
+triggering and just bought my excuse
+hookline and sinker and we continued to
+run applications on his computer for the
+next two days.
+So cognitive biases making us irrational
+that brings me back to a I used to work
+with a professor Danelli who wrote
+predictably irrational and I'm I'm fully
+convinced that we humans are irrational
+creatures.
+I was also unfortunately convinced that
+that as irrational creatures,
+it's a the real way to defend ourselves
+is to create an environment around us
+where we don't put ourselves susceptible
+to these biases. Yet there's a big part
+in fighting fishing and social
+engineering which is about teaching us
+and training us to fight these cognitive
+biases, become aware of them in the
+moment and be able to act differently
+than our intuition says. What what is
+that about?
+So I believe in social engineering for
+good. Uh this there was this moment in
+my career where I had tailgated in off
+of the exact same person four years in a
+row uh to gain access to highly
+sensitive and restricted areas of one of
+the country's largest financial
+institutions.
+And I just felt disheartened. I mean, at
+first it was high fives and laughing and
+then it was, well, why why are we doing
+this? If we come in every year, we issue
+a report and nothing happens and that
+person doesn't even learn that they made
+the mistake so that they can prevent it
+from happening again and four years in a
+row I can come in off the same guy,
+we're not providing any value. And I
+didn't just get into
+so ethical hacking just to have fun. I
+also wanted to make a difference in the
+world and uh and help stop these these
+criminal organizations from growing
+because when we look at the top
+ransomware groups, they are are
+generating more revenue than Crowd
+Strike and they've got margins that are
+astronomically higher uh than
+CrowdStrike, which means they are better
+funded and more capable sometimes than
+even nation states and attacking us. And
+so we've got to stop that from
+happening. We got to stop funding them.
+Well, when you look at our industry,
+everything's reactive. Uh almost
+everything assumes compromise. And we
+put so little of our effort into those
+proactive parts of defense and our in
+our strategies. And so I thought, hey, I
+think we can use social engineering for
+good. And a few things that stood out to
+me, well rewinding before that, uh, when
+I got into this, it really turns out
+it's not social engineering, it's
+behavioral science. We've studied this
+in depth and it's just not been applied
+to cyber security. In the process of
+that, I got invited to speak at a few
+academic conferences. Uh, met some
+professors that were writing uh,
+coursework for exactly this. How do we
+build effective security awareness
+training programs that not only address
+compliance but change behavior? And uh
+and so I I got the opportunity to work
+with professors from around the globe on
+on writing this college coursework and
+uh and really just more importantly
+sharing and exchanging ideas on how we
+think this can apply. And so all of that
+comes back around to our body has a
+natural built-in uh antivirus or
+whatever you want to call it. And uh and
+there's this really great book called
+Thinking Fast and Thinking Slow. And it
+talks about how we have a fast brain and
+we have a slow brain. Love it. Yes.
+Okay. Um I can tell uh you're you're
+definitely likeminded if you got that
+book right behind you. Um, but in there
+it talks about how we have this fast and
+the slow brain. And the fast brain is
+it's our instincts. It, you know, helps
+make sure that we block our face if
+something's flying at it or that our
+eyes close if it's a something's about
+to hit our eyeball. Well, it can also
+defend against uh cyber threats because
+our subconscious and our fast brain does
+not care what the threat is. It's
+designed to be very adaptive to any type
+of threat. So what that means is we got
+to focus less on education and getting
+people to consciously avoid these
+attacks and more on conditioning and
+getting people to subconsciously avoid
+these attacks. And uh and you do that by
+repetition and hands-on learning and uh
+and so it's called a col's experimental
+learning cycle but it talks about how
+when we can give somebody a hands-on
+experience they learn better. And then
+there's this other behavioral science
+principle called identical elements
+theory that starts to kick in. Um,
+identical elements theory talks about
+how once you learn about something
+really well, you'll see it everywhere.
+The example is when you buy a new car
+and you think you're one of the more
+unique people in town with your car
+pick, but then you drive it off the lot
+and you see that car at the very first
+stoplight and then you see it at the
+next stoplight and you start seeing it
+everywhere. That is identical elements
+theory in action. But I uh not only
+hypothesize but have the data to show
+that it works. Um have been able to
+prove that we can implant human virus
+definitions by running fishing
+simulations and making sure that at the
+moment they they mess up, they realize
+their mistake. They've got really
+strong, really effective just in time
+training. And now all of a sudden they
+learn about, you know, how to hover or,
+you know, the sense of urgency being
+used against you. And when they learn
+that, they'll start to recognize it
+across all mediums. It doesn't matter if
+that tactic is used in email or in a
+text message or even in a voice phone
+call. Uh they're going to notice it and
+they're going to see it everywhere. And
+so to me, that's how we change our
+people from being the weakest link into
+being our greatest asset. But it starts
+at a subconscious level. And I really
+think it also starts with us training
+people in grade school, not waiting
+until they're adults and they're, you
+know, the most susceptible group of in
+our uh company is the youngest people,
+by the way, right now. Um I think we got
+to start training them to be more secure
+at a young age. the same as we train
+people to stop, drop, and roll if they
+catch on fire or the same as we train
+people to look both ways before they
+cross the street. And to me, that is how
+we effectively change it. I know long
+answer.
+&gt;&gt; Was so so was that one of the
+inspirations for the book protecting
+your family from hackers?
+that
+&gt;&gt; absolutely I think that uh when people
+realize that cyber security is
+interconnected and that those same
+skills that they're being taught to
+protect their uh the their employer and
+their paycheck also apply to protecting
+their families at home. it means more to
+them. And it goes from, you know,
+protecting this, you know, rich
+corporate entity that they probably
+don't care as much about as they say
+they do, uh, to protecting their parents
+from elder scams and things like that.
+And that's something they do care about.
+And so it's it's connecting it and and
+when you do, you get an emotional
+response. And when an emotional response
+happens, whether it's connecting things
+back to home or the realization of a
+mistake, there's a chemical reaction
+that takes place in the brain, which is
+quite literally creating new neural
+pathways. And so, if we make sure that
+there's really good education at the
+moment that that emotional reaction
+happens, we can actually get much much
+higher retention rates. Uh but it's also
+the reason that I continuously tell
+people, you know, we're in an industry
+filled with introverts and we all have a
+call to calling to be extroverted.
+Whether you want to or not, if you are
+in cyber security and you're not talking
+to every department, you're failing
+because that's how you understand your
+risk better and that's how you build
+allies and that's how you get people to
+come around. And so I truly do feel that
+there's this need for more marketing to
+be brought into cyber security and and
+and not just as a whole but training
+even specifically. Look at ads from
+Coca-Cola. They're 10 seconds long.
+They're 15 seconds long. At most they're
+30, but they're not 5 minutes or 10
+minutes or 15 minutes long. And that's
+the training that we're doing. And when
+you put it into perspective and you
+think, well, okay, I'm going to shrink
+all my training down to under a minute.
+Well, now I can be in your inbox every
+single week of the year training you
+about different cyber security topics
+and not even waste an hour of your time
+over the course of a total year. And
+it's a very big difference from what
+we've been doing where they forget about
+it almost instantly because we gave them
+too much information at once and it's
+too infrequent.
+Well, AI is uh very much transforming
+the landscape, isn't it? And I I heard
+you
+&gt;&gt; I I heard you talking about that um on
+on your podcast quite a bit. So, I'm I'm
+I'm really looking forward to hearing
+and getting deep into into what's
+happening here. Um, like I mentioned to
+you, I've I've been experiencing the
+generation side of of AI through my
+academic studies and uh and just
+considering the implications of of the
+usage of these AI generated media in the
+context of social engineering and
+fishing. It's kind of scary to say the
+least. It's it goes in from from the
+emails with bad spelling to all of a
+sudden you have perfectly written Chad
+GPT style narratives all the way to
+potentially real time impersonations on
+voice calls on video calls. H So walk me
+through the transition that you're
+seeing yourself from your eyes as AI
+creeps into the world of social
+engineering and fishing. And then I'd
+love to to just to hear also what are
+what does this mean in terms of the
+expectation from people experiencing
+that.
+&gt;&gt; So you know with what we do we're able
+to and and do a lot of experimentation
+on both the offense and the defensive
+side of AI. Um, from the offensive
+perspective, uh, we've realized that
+these large language models are
+incredibly good at linguistics.
+And what that means is that when I give
+it a cognitive bias and I tell it to
+exploit this cognitive bias and create
+an email around that, it's better than
+almost any human that I've ever worked
+with in my uh, ethical hacking or my my
+red teams. Um so if we can train it on
+understanding how to exploit those um
+the opposite side is we can train it to
+identify those same cognitive biases and
+in fact we've got a product coming out
+uh sometime in uh probably early to mid
+Q2 of 25 called fish GPT and that's
+exactly what it is is it's a secure
+email gateway that looks at the
+underlying psychology or cognitive
+biases that are being utilized in that
+email to detect on whether or not it's
+malicious. Um, it's a very different
+approach than everything else in the
+market that is looking at technical
+indicators like how long has this domain
+been registered? Do we know who it is?
+What's the domain reputation?
+And then a bunch of other stuff more
+specific to the email like the actual
+tactics they'll use. You know, do we
+have a bunch of empty spaces at the top
+of the email that indicates it's
+malicious? uh do we have an email thread
+going back and forth about uh you know
+with the same group of people and then
+all of a sudden we see this email thread
+that has all that old stuff in there but
+to a new group of people. So while those
+technical indicators work, it's a cat
+and mouse game because they're endlessly
+changing and the bad guys are always
+adapting. The one part of fishing and
+social engineering in general that never
+changes though is the psychology. So,
+I'm really motivated by how can we
+utilize the AI's ability to understand
+psychology to better protect against
+these types of attacks and even when
+we're not sure to warn the user and help
+train them better. Hey, this could be
+malicious. It uses urgency. Be very
+careful before you click on any links.
+And so to be able to drop in those
+dynamic and and context or contextually
+uh accurate bits of advice I think are
+are going to really help us in the
+future. Uh but AI is is changing things
+and it's changing things rapidly. Um I
+was playing with the uh the new version
+of uh Sunno uh I think version 4 over
+the weekend. Um and it's just
+phenomenal. I can create these highly
+complex songs in a minute less than a
+minute. It takes like 30 seconds and uh
+and you can create the potentially the
+next hit and uh I I'll play you some
+later if if you want. It's some fun
+stuff. But you know just staying on top
+of AI like it's changing our world I
+think more than people understand.
+Medical is advancing at a rate we've
+never seen before. And in fact, they
+predict that sometime in the 2030s,
+we're going to surpass the uh longevity
+escape velocity, which just is fancy
+words for we're going to be able to live
+forever.
+And and Joshua AI is not just changing
+the attack the attack sophistication
+across text, right? I mean, this the
+it's changing also the modality within
+which we live. there not just text now
+it's also voice and video is that also
+the same psychology or are we going to
+now see new forms of tactics and
+circumstances in which people fall to
+social engineering and fishing
+&gt;&gt; it is mostly the same cognitive biases
+uh but I I will say there's about 182
+different cognitive biases and we do see
+uh the biases that are used in email
+aren't 100 they don't 100% align with
+what's used maybe over the phone. Um
+there's definitely overlap like the most
+common or two most commonly used ones
+are uh urgency uh and authority but we
+see a lot of other different types of
+attacks. And so there is a little bit of
+a difference between what's done over
+the phone and what's done uh through
+email, but they all fall into these 182
+biases that everybody uses every day.
+And so it's it's not so much that uh so
+much of a difference that we're not
+going to be able to prevent it. And one
+study that uh that I saw found that when
+users go through a simulation, they are
+over 70% less likely to fall for that
+same type of attack regardless of what
+medium it is. Um and that was what I
+found really interesting. So let's say
+that it's that, you know, CEO scam where
+somebody's impersonating the CEO and
+targeting them via text message. If they
+get a call later that week from somebody
+pretending to be the CEO, they are now
+70% less likely to fall for it even
+though the initial one came in over
+text. And how often and and what is the
+I guess the burn rate, I'm not sure if
+that's the right term, but I'll use it
+anyways. the the burn rate of a of the
+cognitive ability to maintain that that
+level of awareness because I would
+imagine that a week into the
+conversation you'd be much more
+effective at at retrieving that that
+that
+subconscious area that you spoke about
+before the thinking fast and slow rather
+than if let's say a month from now it
+happened a lot has happened within that
+month that transpired how what have you
+seen is sort of the right time, how
+frequently you would have to do that
+training in order for the employees to
+stay alert with their biases.
+&gt;&gt; Well, I'm a big advocate of continuous
+training at least once every week. Um
+and and I built our AI platform around
+that methodology and and we're seeing uh
+results that go against all of the
+academic publications that are coming
+out right now that and have been coming
+out for a few years stating that
+traditional awareness provides zero uh
+risk reduction in terms of fishing
+susceptibility.
+um ours uh across the board, our clients
+that have been on our system for more
+than 12 months, their most susceptible
+departments to fishing are the least
+engaged in training. And and what that
+proves is that the short, you know, less
+than one minute style training is
+actually effective at changing behavior.
+So I would argue we need to be in front
+of people every single week of the year.
+Now, I would also argue we need to be
+fishing them very regularly, too,
+because that's how we identify when, you
+know, they've they've relapsed or, you
+know, when we've burnt through all of
+their available retention and when
+they've become more susceptible. And the
+example or or analogy I like to use here
+is when you drive to work in the
+morning.
+Uh most of the time, 99% of the time,
+it's, you know, there's nothing that
+happens. You don't have any close calls.
+And that day, if anything, makes you
+more and more complacent. But then that
+1% of the time you have a close call,
+somebody slams on their brakes in front
+of you, somebody almost, you know,
+sideswipes you, whatever it happens to
+be. And now all of a sudden you're
+hypervigilant. And that hypervigilance
+doesn't just last that day, but you stay
+vigilant for weeks to come. And to me,
+that is the role of fishing at
+simulations is to ensure that we capture
+that relapse. We remind them that they
+have to be more vigilant and as because
+of that, they have that close call in a
+safe environment versus with actual fish
+that are trying to compromise our
+company.
+Makes total sense and you know we've
+been focusing a lot on the uh on the
+employee end and what you've found to be
+most effective in the context of of the
+employees and uh and and you're speaking
+from years years of experience and I
+don't know if you've kept track of how
+many
+&gt;&gt; hundreds of millions of fishing
+simulations.
+&gt;&gt; There you go. Um I'm I'm curious to hear
+now from from the business perspective
+of the enterprise the organization that
+is coming to you and inter and engaging
+with it and saying listen Joshua we you
+know we we realize fishing is is rising
+sharply. We realize it's a top threat to
+organization. Every CEO I speak to says
+fishing is not in the top five
+priorities. It's in the top three
+priorities of our organization. We
+realized that one bad fishing scam can
+take down an entire business unit,
+damage reputation, create financial
+fraud transfer, get create be the entry
+point for ransomware, cyber attack, and
+the list goes on. So the awareness is
+there. What what is what did they find
+most effective? Because I also realized
+they use a variety of different
+techniques to combat this.
+what sounds to be like more of the
+detection front like what you're coming
+out with next year in the context of the
+the alerts to the awareness and training
+what what is the reception you're
+getting from the from the enterprises
+themselves and how are they experiencing
+the evolution of the sophistication of
+fishing and social engineering
+&gt;&gt; so I think the most
+I I guess the most dangerous factor
+that that they're all seeing right now
+is a shift from generic fishing to
+what most people would argue is I say
+most people because I've had some people
+that don't think it's AI uh but most
+CISOs I talked to in the Fortune 50,
+Fortune 100 space, they they heavily
+heavily believe they're being targeted
+by AI. Why? because all of a sudden the
+fish have gone from uh this generic fish
+that promises money or scares you about
+your password or whatever to contextual
+fishing that tries to exploit your
+day-to-day operations and procedures.
+And so this contextual fishing knows
+that you're in finance, knows who your
+boss is, knows that you're in IT, knows
+who your boss is. And so it's much much
+more intelligent. Um the the way they're
+using this for invoice fraud is that
+they get into this conversation. maybe
+they they actually get a you know
+compromise somebody's email and then uh
+they will send this email that goes back
+and forth between the CEO or CFO of the
+company or even just your boss and a
+vendor that looks very very legitimate
+that is something you would normally
+buy. It's all works within your normal
+business process and that conversation
+between your boss and this vendor say
+has your boss is the whole sales cycle
+and you see it in the conversation will
+say hey here's the cost here's the
+pricing here's the value and then your
+boss will say yeah I want to buy it send
+me the contract and then the final
+thread will be hey we need to collect
+who do we contact and the boss says yeah
+contact this person and it goes to you
+the trick is is that was never your boss
+But because they're faking a
+conversation, it looks perfect and it's
+as if they've done a perfect spoof. So
+the level of sophistication is much
+higher than it ever was. And they are
+fishing us according to our role. And
+the only way we're going to be able to
+defend against that is to a fish our
+users according to their role to train
+and condition them against these types
+of attacks. But B, we need to have that
+role-based training. Hey, you're in
+finance. You're going to be targeted
+with these types of attacks. You're in
+IT, you're going to be targeted with
+these types of attacks. Oh, and by the
+way, you need to avoid these common
+mistakes that many IT professionals make
+or many finance professionals make. And
+so it's really shifting from that
+oneizefits-all, everybody gets the same
+thing to this more granular roles based
+uh approach to both training as well as
+fishing. And it's it's both from an
+offensive and a defensive perspective.
+Unfortunately, I will say that this is
+one of those areas that the bad guys are
+ahead of us on and their adaptation of
+generative AI is just so much quicker
+than the cyber security industry. Now,
+being an AI tech founder, I'll tell you
+why. It's because we can't have a
+hallucination tell our users to go and
+kill themselves. Um, I I make a joke,
+but that happened last week. I don't
+know if you saw the news
+&gt;&gt; with a character AI.
+&gt;&gt; Uh, Google Gemini,
+this uh guy was talking to it about
+elder abuse scams and uh and the entire
+thread is available on Gemini for you to
+read. And uh and the guy just keeps
+asking the same question over and over
+again until I guess the AI got annoyed
+or something because it responded by
+saying, "You're worthless. Everybody
+hates you. Go kill yourself."
+No joke. And there was no prompting to
+get it to go there. It just came out of
+nowhere. Um, so you know the the tech
+companies understand that we don't we
+cannot afford to have these sorts of
+things happen other than maybe Google
+since it happened on their watch. Um,
+but Google jokes aside, it uh it's the
+bad guys don't care if they have a a
+hallucination. The bad guys don't care
+if something misfires. The bad guys
+don't care if they accidentally leak
+sensitive information to the wrong
+people. So the good guys do, but it
+causes us to move so much slower than
+the bad guys, and that's the reason
+we're perpetually behind.
+So Joshua, to wrap things up, if there
+was one recommendation you would give to
+employees that are that want to be at
+the forefront of defending themselves
+from social engineering and fishing
+attacks, what would that be?
+&gt;&gt; Trust your gut. Uh, I don't think enough
+training goes into
+the reality that our subconscious is our
+built-in defense mechanism. And when we
+feel like something's off, it's almost
+always our subconscious warning us. And
+yet, too often we don't listen to it. I
+have not been involved in a single
+instance or incident where the user that
+let them in the network didn't say, "I
+knew something was off. I should have
+trusted my instincts. Um, that's what
+users need to realize is that they do
+have a builtin anti virus. It is very
+intelligent. It's probably the best in
+the world and all they have to do is use
+it. And that means trusting their gut.
+And the number one piece of advice to
+CISOs, business owners that want to help
+protect their employees from social
+engineering and fishing.
+&gt;&gt; Uh, as much as you can throw out the
+stick. Um, using sticks over carrots has
+been proven a million times over in
+behavioral science to be ineffective. I
+know there are some uh leaders in this
+space that still advocate for the stick,
+but they are very wrong. That adage, you
+catch more flies with honey than with
+vinegar, is is more true than you could
+possibly realize. And I really do see a
+backlash coming from all of the punitive
+uh well, punitive approaches that we see
+in in corporate America. And we've
+already started to see wrongful
+termination suits from people being
+fired over fishing simulations. I know
+not because they're uh our clients are
+seeing them, but because we have clients
+coming to us because we're the friendly
+security awareness training and telling
+us about how they just got sued and they
+just lost this much money because of
+that.
+&gt;&gt; And and what's the difference from a
+user? How do you make it friendly from a
+user experience perspective? How do you
+get because I would imagine that for
+somebody falling for a social
+engineering or fishing simulation that
+must be pretty pretty hard moment or
+pretty embarrassing moment especially if
+you know that you know you're going to
+be next up on the dashboard of the CISO.
+How how do you how do you then mitigate
+a real simulation that gets to the
+moment of I guess attack with the with
+the mitigating and and actually leaving
+the employee feeling empowered by this.
+So number one, we take every opportunity
+we have to praise that user and tell
+them how great they're doing. When they
+report a fishing simulation uh or a real
+fish, that's an opportunity to praise
+them. yet most organizations aren't
+praising them. When they don't click on
+a fishing simulation, that's an
+opportunity to praise them. So, I I
+think we've got to focus more on praise
+and less on telling people when they
+mess up. But the other part is we gify
+it. And uh and so at least with our
+users, we tell them, hey, there's this
+type of attack that uh or fishing attack
+that pretends to be from your benefits
+department or from your HR team or from
+your finance team. And then it says,
+"Now be on the lookout because the next
+time you see it, it may be the real bad
+guys or it could be us trying uh running
+a simulation." And so what happens is
+now if they fall for it, they were
+already warned. We're not going to
+exploit them. So the second they click,
+they realize it's a mistake. And uh and
+so it becomes less of a, oh man,
+they're, you know, they're trying to
+fire me or they're trying to use inside
+information to trick me. It it almost
+feels like this abuse of trust when you
+do it without warning them. But when you
+tell them you're going to do it, it's
+now a game. Ah, you almost got me or
+maybe you did get me. Um, and and it and
+because of that, it doesn't have as much
+teeth. But the other part that I I
+mentioned there is do not exploit your
+users. Now, if I'm running a penetration
+test against your organization, I'm
+going to have a login form there, uh,
+you know, on the other side of that fish
+to see if they'll type in their
+credentials. But that is for a risk
+assessment. Most security awareness
+training we do and most fishing we do is
+for the purpose of training and
+empowering and bettering our people,
+which means if we're exploiting them,
+we're missing out on our best
+opportunity to train the moment that
+mistake is realized. And uh and I mean
+you cannot I I don't even know how to
+emphasize just how effective just in
+time training is. And uh and so when you
+exploit the user instead of giving them
+that just in time training, you've
+thrown away your best opportunity to get
+that user to listen.
+&gt;&gt; I love it. Joshua, thank you so much for
+the time and for the energy and the
+insights. loved every minute of this
+conversation
+&gt;&gt; and uh really best of luck with the with
+the awesome work that you're doing and
+I'm excited to keep in touch. Thank you.
+&gt;&gt; Absolutely. And uh yeah, I'd love to
+circle back uh we could do a whole
+episode just on all the crazy uh
+technological advancements we've seen in
+the last uh what 6 months
+&gt;&gt; in the last week. Absolutely.
+&gt;&gt; That's true.
+&gt;&gt; Did you hear about the photon processor?
+&gt;&gt; Oh my god. That's for another episode.
+Yes.

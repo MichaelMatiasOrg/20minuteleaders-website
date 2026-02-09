@@ -1,0 +1,822 @@
+i always wanted to kind of like really
+uh you know start a company because uh
+all i always kind of admired people uh
+from the technology side that okay could
+we basically uh you know like really
+build out engineering products which
+could basically improve the agility and
+i would say speed of development of the
+organizations too so that it could drive
+innovation at the much more faster
+levels to what it is today in the
+current world
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeward ventures hippo
+insurance opposed hillel stanford leap
+and birthright excel
+welcome to 20 minute leaders today i am
+joined by ayush kumar the ceo and
+founder of opslift
+before ops left ayush worked as a lead
+devops engineer at index there he was
+given the responsibility to handle the
+whole cloud infrastructure which had a
+budget of upwards of five million
+dollars this rigorous exercise made him
+realize the fundamental problems with
+cloud cost optimization and how it is an
+ongoing exercise
+when i used to research the market of
+cloud management platforms he found out
+that even though there are plethora of
+cloud solutions existing most of them
+were just focused on providing analytics
+or were just using best practices to
+provide short-term solutions this made
+him pivot from being a developer to an
+entrepreneur and he started opslift with
+the goal to help organizations manage
+their cloud operations the right way
+in these 20 minutes i'm excited to talk
+about you and about obsolete about cloud
+management and spending
+where we're at today you know cloud has
+taken over the world by storm uh i i
+feel that you know there was a big hype
+around it we sort of understood that
+it's happening and now hype has been
+transitioning to a bunch of other new
+areas but
+but we're forgetting that most of the
+world is still not in cloud and we're
+seeing companies transition to the cloud
+especially a lot of the the large
+organizations that previously were
+on-prem and one of the big issues that
+you're talking about here is you know
+spending and management and you know we
+need we need to be really smart and
+intentional about how we spend on cloud
+and and how do we allocate and manage
+our resources it's not trivial and so
+thank you very much for being here ayush
+and i and i'd love to you know get
+started by even understanding you know
+where you know why are you in this space
+so why cloud and why you
+sure absolutely uh i think uh like my
+journey has been pretty much i would say
+very organic in terms of where i am
+right now right in terms of uh uh
+building ops lift and especially when
+you talk about being in cloud etc so
+this comes back to the fact when
+uh when i completed my uh undergrad uh
+in computer science in 2016 and post
+that i started working for a seattle
+based startup uh you know which also had
+a presence in ending up like in the city
+of chennai where i was hired as a first
+infrastructure and devops engineer into
+that company right uh and i think uh at
+that point in time uh like the company
+had just basically closed out its series
+a or i think it was series b percent and
+uh our focus was uh like clearly from an
+organization's standpoint that okay hey
+how do we kind of like really basically
+you know um uh scale our growth like 3x
+in the next 12 to 18 months of time and
+that kind of like really translated to
+me as a infra engineer into the company
+that okay hey our cloud footprint is
+also kind of like gonna
+you know get matured and also grow in
+size etc so uh our spends are naturally
+going to get increased at that point in
+time right i think we were spending
+close to i think around five and a half
+million dollars and we'll end kws at
+that point in time and uh
+that is the point in time you know when
+uh our ceo like really had this
+basically uh uh you know a problem
+statement for me that okay hey ioship
+like this is something that is sort of
+like becoming a black box for me but
+still is a very hefty line item in the
+company's p l for me at this point in
+time right uh and this seems like an
+engineering problem to be solved so uh
+if you could do something about it right
+because this is sort of like aws which
+is sort of coming under the devops
+domain as well so if you could basically
+solve this problem for us so it is
+directly gonna like reflect uh up very
+heavily on our finance side of things
+all together right so this kind of like
+really became a very uh uh you know
+natural progression towards uh uh deep
+diving into this particular problem
+statement and i think uh i worked more
+and more up into basically understanding
+this problem
+not just i would say from
+aws perspective but also from a culture
+perspective up in an organization right
+uh so i think that's where uh uh i think
+you know uh i had basically a lot of
+hands-on experience on this particular
+problem moving back and forth trying out
+different solutions building a few
+products on my own developing processes
+etc etc and then i think once i was like
+finally able to kind of like really do
+justice to the problem statement into my
+own uh i would say prior company where i
+used to work on right uh that is when i
+kind of like really started to kind of
+have the conversations with uh other
+folks in the industry across india and
+the u.s said okay hey where's this
+basically a problem going in terms of
+other similar companies that basically
+like you know uh that
+uh like that were kind of that where i
+was kind of literally working on and
+that is where i think you know uh this
+problem was kind of like really uh
+evident at scale wherein every growth
+stage company that i kind of like really
+used to speak with everybody was kind of
+like really hey dude we do experience
+basically this problem like really very
+frequently and not just our leadership
+but also the developers in the
+organization are also struggling with
+this particular problem right and then i
+kind of like really naturally found
+myself as a fit to solve this particular
+problem given that uh at some point in
+time i always wanted to kind of like
+really uh you know start a company
+because uh all i always kind of admired
+people uh from the technology side that
+okay could we basically uh you know like
+really build out engineering products
+which could basically improve the
+agility and i would say speed of
+development of the organizations to
+so that it could drive innovation at the
+much more faster levels to what it is
+today in the current world right uh so
+that was kind of like my thesis uh at
+the end of the day like from an
+entrepreneurship perspective i saw
+companies like dear dog red hat uh
+you know snowflake etc being built out
+of the us and i really thought that okay
+hey could i build a similar company out
+of india for the entire world right
+so and that's where i think this problem
+and the entrepreneurial kind of like
+spirit kind of like really combined and
+together and uh i think it was two and a
+half years after after my first job i
+left the job and uh started to kind of
+like stall this problem for everyone uh
+around me so yeah that's how kind of uh
+the answer the question where is why
+cloud why me and why ops lift in the
+very first place kind of literally
+exists so yeah that's that's the idea
+so if we're looking at
+the world today in terms of you know
+cloud management and spending how how do
+you describe the state that we're in
+where are we now
+sure absolutely so i think uh at this
+point in time if you talk about numbers
+right uh uh if you could see that aws at
+this point in time is like uh really
+having more than i would say billions of
+dollars in basically revenue in terms of
+like from a quarter to quarter basis
+right
+uh like so what does this translate
+basically to the companies uh uh you
+know uh who are i would say more than 50
+in today's state are born in cloud and
+let's say the legacy enterprises in
+today's rate who also have accepted the
+terms that we have to basically move in
+the cloud
+given that it is more simpler and easier
+to operate at when it comes to basically
+uh developing elasticity of the
+infrastructure at scale right
+so when it comes to basically spending
+right i'm sure there is a very uh all
+this data is kind of like really
+available on the internet that more than
+30 of the spending that uh companies are
+doing in today's state right is actually
+classified as a cloud waste at this
+point in time right
+and this this waste essentially is not
+something you know that uh
+people intentionally do right it's not
+like that someone wants to waste money
+upon the cloud right uh it's just that
+how uh the timing or i would say the
+state of the industry at this point in
+time is looking like that everybody
+wants to like really innovate like
+really fast right everybody wants to
+kind of like really build products like
+really faster iterate upon them really
+faster companies want to reach out their
+product market fits as soon as possible
+and once they reach out to product
+market fit they want to kind of like
+really scale from there and then uh if
+you this is from the startup perspective
+right and then if you talk about
+basically the companies who are not on
+cloud at this point in time right
+they're primarily moving to the cloud
+with the intention of that okay hey uh
+it would be simpler for us to kind of
+like really operate uh you know that
+large heavy infrastructure which
+otherwise basically is a you know set of
+bare metal servers hosted in a server
+farm et cetera et cetera so uh everybody
+is kind of like
+in one sentence moving fast upon the
+cloud right that's what they essentially
+want to solve their business need when
+it comes to basically cloud adoption in
+general right now in the process of
+basically moving fast or building fast
+upon the cloud right uh
+what typically happens with the
+companies is is that uh uh like the
+architecture of basically uh the
+applications that they deploy upon the
+cloud starts to becoming increasingly
+complex as and when they basically grow
+right
+and that is where i would say the
+complexity of the cloud like really
+comes into picture that okay hey uh if
+uh our architecture is like really
+literally becoming complex right then at
+the same point in time our developers
+need to kind of like really understand
+uh that okay hey what's the pricing
+model of each of the component kind of
+like really working on right what
+architectural efficient choices should
+we make so that uh we are getting all
+the performance that we need we are
+innovating faster at the same point in
+time we are incurring less cost as well
+right and this starts to basically uh
+you know uh often times in today's
+startup ecosystem if i talk about often
+tends to get ignored out of the speed
+that people want to kind of like really
+get achieved like want to solve for
+right that okay hey we'll solve for cost
+after some point in time we're paying
+maybe like what twenty fifty like
+hundred thousand dollars a month that's
+okay we still have credits which we're
+still basically not burning a lot of
+money uh it's it's still it's still okay
+right and that is where the root of the
+problem kind of like really starts right
+that's i would say the source
+of the kind of entire problem at the end
+of the day that people keep on building
+basically upon the faulty architectures
+etc etc and then there there comes a
+particular point in time right when the
+company is like i think uh at a massive
+scale wherein people are spending like
+more than five million dollars annually
+upon the cloud it even goes to maybe 100
+million dollars to what netflix actually
+spends to what we see the data they
+spend i think around 300 million dollars
+annually upon the cloud right
+so that is when basically people realize
+that okay hey
+all throughout our journey right we have
+not so much been i would say careful
+about that we have to not just basically
+scale upon the cloud but scale cost
+efficiently without compromising upon
+the performance as well right and now it
+is basically the kind of problem that is
+not less than a disease in a sort of a
+company right
+that you have to kind of like really not
+only solve for the technicality of it
+that okay hey just switch off these
+machines etc etc but it's more of
+basically have become like a culture
+problem into the company that any new
+environment any new application that we
+have to deploy just deploy don't worry
+about the cost that's the kind of
+cultural uh aspect also that kind of
+feel like really really also get inside
+the companies right and then of course
+uh there is like bad architectural
+choices there are like kind of a i would
+say a certain set of i would say you
+know applications that are being built
+in a certain way which can't be reversed
+back and that is the resultant uh at the
+end of the day like people spending too
+much money upon the cloud and certain
+things that they can't go back to at the
+end of the day as well right so that's
+where people get paranoid about cloud
+spend at the end of the day in today's
+date right uh that it is not i would say
+just a problem that okay hey you ignore
+it in the first and then we solve it for
+the later because it's sort of let's say
+not p1 in the current day like in the
+prior days right but as and when when
+you scale up right this p1 problem sort
+of like uh like like this problem sort
+of becomes a p0 p1 inside into the
+company in such a way that people are uh
+you know not uh really considering this
+as a technical problem but all all
+together like seeing this as a you know
+governance problem as a basically
+engineering problem and then as a
+culture problem that is very hard for
+companies to basically solve at scale at
+this point in time and that is where i
+think you know
+i would say today's state of cloud
+management uh the cloud spend management
+specifically you know uh a problem looks
+like from an industry standpoint to what
+my understanding currently says yeah
+wow uh first of all fascinating um and i
+and i love the way that you're
+describing
+sort of the situation which we've gotten
+to at this point and and a little bit
+about the progression of the market
+there's a lot of players on that under
+that are looking at the space and are
+saying you know yeah this is you know
+this is where we're at and this is
+what's happening and and you still chose
+to create a startup in this in this in
+this crowded area and so if you had to
+look now at sort of what what is the
+holy grail of the offering of how to
+support companies as they're doing this
+resource management in cloud management
+you know what are really the core
+solutions that that people are looking
+for that companies are looking for that
+will actually move the needle with the p
+zeros and p ones of their issues
+sure absolutely first so i'll break this
+i would say uh you know answer into two
+parts in the way uh so i think the first
+part really revolves around that okay uh
+to the fact that what kind of companies
+do we work with right where do we see
+the problem happening the most i think
+that's that's the first right and then
+secondly i think uh to answering a
+question that what solutions typically
+these companies are like looking for
+right
+so in our experience with basically
+speaking with the market right over the
+course of i would say last one one and a
+half years right
+so uh
+the legacy solutions that are being
+built into this particular market right
+uh as you mentioned i think uh there are
+like a lot of players into this
+particular market some have been
+existent since like i would say the last
+decade has sell some other new entrants
+into this market like and we are also a
+new entrant writer so uh the legacy
+players into this market i think uh
+beautifully solved the problem for the
+enterprise segment of customers right uh
+i mean if you take up like let's say an
+oil company for that matter right or a
+big i would say enterprise with more
+than i would say two to three thousand
+people basically working for them et
+cetera et cetera right now so there the
+problem is more around solving for the
+process of cloud spend management right
+i think uh because they like there are
+like lot of people so i think it's uh
+more as i mentioned i think this is more
+of becoming a cultural problem than uh
+like
+up like in addition to a technical
+problem right
+as and when you basically move larger
+into the kind of customers uh scale of
+customers to rightly put in right it
+becomes a process problem at the end of
+the day so that particular process
+problem is more or less i would say
+solved beautifully by the legacy
+companies that we see existing in
+today's market as well i think that's
+that's like a very much like solved
+problem when it comes to i would say
+large enterprise companies right but
+often what kind of like if you look at
+the last five years right uh especially
+i think uh like to the asian market if i
+like talk about right and also i'll talk
+about the us market as well but i think
+especially in the asian market right the
+cloud adoption into the startup
+ecosystem has been kind of like really
+massive right
+i mean to further narrow it down i think
+uh if you see like companies basically
+from uh
+i would say series a stage two i would
+say the pre-ipo stage right
+every like company has been basically
+adopting aws google microsoft azure
+writer to the best of the capabilities
+being possible at 10 today's date right
+and
+now like these companies are basically
+you know the hyper growth company right
+they want to just simply grow right like
+to max to max that is what typically you
+see the startup working on right that we
+have to grow grow grow at any cost and
+by growth at all costs which unlikely is
+not the scenario in current market
+standpoint right to what we all know to
+what basically at this point is
+happening right but i'll not go depth
+into that but i think uh apart from this
+right i think like growth is the more
+important driver for basically these
+companies right whether in terms of
+number of users on their applications or
+for a b2b enterprise sort of company
+like more number of customers etc etc so
+this is where the legacy and like
+uh this is in in this sort of customer
+segment right the legacy enterprise
+products actually do not do a lot of
+justice because here you're not solving
+for the process here you are solving for
+quickness of the solutions right because
+here the developers basically are
+working with the thesis that okay 99 of
+my time is basically going into the
+application development and which is
+catering to a business need etc etc and
+at the same point in time i'm not able
+to basically dedicate that required
+amount of time which is able to do
+justice to uh i would say solving for
+cost efficiency performance management
+and security etc etc while delivering
+like the next day
+for the particular feature that the
+company needs to generate more revenue
+or they like have more users right here
+the tables actually turn a lot like for
+these enterprise products right because
+here like people don't need okay i don't
+want these these basically fascinating
+dashboards which like really says that
+okay your spending is like going this
+way you might want to take a look into
+it et cetera et cetera right uh or here
+is your projections for the next three
+months i mean come on like our thing is
+kind of like really changing the next
+day right i can't really see uh that i
+can't even want to think that what's
+going to happen to me in the next few
+months you tell me what do i do now
+right and that's where the thesis of the
+problem completely changes for these
+companies right and that's where we come
+in right and that's where i kind of like
+really decided to reinvent the i would
+say wheel in terms of solving the
+problem right
+so now with this problem thesis right
+with respect to cloud spend management
+the solutions have to be designed in
+such a way right that okay hey uh
+like a developer who is basically
+solving for cloud spend management issue
+in a particular company right is pressed
+with time and is pressed with context
+these are two challenges basically you
+know that uh a developer like really
+solved so what you did we need to give
+to the developer at the end of the day
+right if
+he happens to be the user of the product
+right
+that let's say uh there are like you
+know um
+uh like just simply let the developer
+know that okay hey these are like uh
+five different you know uh miss
+configuration so i would say five
+different bad things happening upon your
+cloud at this point in time in terms of
+cost and here are basically two or three
+different things that you need to do
+basically on a click of a button like
+really you'd like to need to fix it and
+if you basically click this button or
+follow this process your cost would be
+reduced here's a tracker for it and at
+the end of the day it would get
+reflected at the end of the day uh like
+at the end of the month in your aws bill
+and which could like really be
+presented in a translated view to your
+finance teams as well and in a
+presentable format to your engineering
+managers and to basically leadership
+team as well all this being done with
+minimal effort and time basically
+required from the developer at the end
+of the day so that you could basically
+focus on uh you know building your
+applications at that matter right and
+spend the least amount of time in
+basically solving for the cloud spend
+management issues right
+so that's how i would say the solution
+has to be into this particular market
+right so now if i break down this
+solution right okay what are the core
+solutions that basically people need
+first is definitely people would need
+not analytics insights
+it's the gone case in terms of you know
+when uh like you would give too much
+data to basically uh you know these
+developers that okay hey guys go ahead
+understand these dashboards figure out
+what this metrics means what this data
+means what this projection means and
+once you've studied this data built
+enough context uh
+you know go ahead and then uh you know
+uh like uh develop some like apply your
+brain figure out you know get an insight
+out of it and then figure out an action
+plan for it right
+cut this entire step all together they
+do not have time to kind of do this
+right
+simply get down to the business guys
+tell me those five in plain english
+simple sentences that these are five
+different i would say things happening
+in my ec2 in my s3
+in basically this particular application
+deployed on kubernetes cluster etc here
+are the five things going wrong what do
+i need to do fix it if there's an
+automation available i would click that
+automation if automation is not being
+available right up
+suggest me a solution over there right
+uh if i need to talk to an expert i
+could simply click on your platform when
+your expert is available on the call
+right uh simply solve the issue right
+now and then we are done
+right so that's basically i think one of
+this like core solution that not no
+analytics only action items i think
+that's first solution that we kind of
+like really deliver beautifully into our
+product you know that's that's sort of
+being used by a lot of startups across
+india in the u.s right
+and then uh secondly i think as and when
+you like move a little more i would say
+higher up into the
+kind of uh like ladder right in terms of
+the users right so developers this is
+the core i would say problem that you
+have to kind of regularly solve or give
+the solution for from a managerial
+perspective right to the technology
+manager's perspective right for these
+people i think uh
+you really need to solve for that okay
+hey uh cloud spend management in like uh
+i would say for them has not been an
+experiential journey that okay how do
+they design a process uh in terms of
+governance around it right given that
+there is so much dynamics around it
+right
+so for them
+it's about you know like really solving
+for that okay uh
+i don't want my own devops teams only to
+be pressed with solving for cloud spend
+management issues while they're solving
+for the infrastructure i would say
+growth as well right uh how can i
+basically create a uh you know uh great
+accountability on my development teams
+uh you know uh so that they are able to
+kind of like you know take care of their
+cost in a more accountable way such that
+they're like it's like paying like
+swiping their own credit card for their
+own applications right on paying for the
+cloud writer so that accountability
+measure right uh like giving them a
+capability to basically create budgets
+for different different teams tracking
+those budgets up and then basically also
+helping them to kind of like align uh in
+such a way that okay hey uh prioritize
+uh in terms of that okay hey uh if there
+are let's say these four opportunities
+here within these cloud budgets okay
+that's fine deal with them next month
+right you have to kind of give them that
+capability right and if you are going
+above the budget okay guys you need to
+fix that first right uh and then
+basically i think this uh uh i would say
+uh account management capabilities to
+the developers so that basically they
+become responsible stewards for the
+cloud spend management right that is
+something that the technology leadership
+of the company
+is like really wanting to set up for uh
+when it comes to basically you know uh
+like
+having a process around cloud spend
+management for the developers right
+that's one like from a finance
+perspective that's when the under like
+solution that like kind of like we offer
+with respect to the finance people so
+like simply understand these these are
+not tech guys the finance guys are not
+tech guys in the very first place right
+like for them it's like okay we spent
+half a million dollars this month on aws
+right if they have to dig down even
+further into this right no they they
+can't do it because they don't
+understand what ec2 is they don't
+understand basically what uh
+you know um
+what an s3 is at the end of the day
+right
+what they would like actually understand
+that okay okay uh if you say that i
+spent like half a million dollars on the
+cloud right uh and you say that okay we
+are a b2b company can you simply tell me
+that okay how much are we spending per
+customer right and if let's say from a
+customer perspective right if we are
+charging our customer basically let's
+say on the base of three four variables
+maybe like with regards to the data size
+that we kind of ingest with them with
+regards to kind of let's say number of
+users that we kind of have on the
+platform for that one particular
+customer so can you attribute basically
+the cloud cost with respect to the i
+would say charging drivers that we have
+for the customers because that would
+help me to kind of like really up you
+know do that cost analysis that okay hey
+the money that i'm making from the
+customer versus the money that i'm
+spending with respect to the cogs you
+know for that customer is that kind of
+like rightly being balanced or not
+should i charge more to my customer
+should i charge less i it could
+sometimes even go benefit to the
+customer but if it was not i need to
+know
+right so developing like solving for the
+value g and entire from the developers
+to like getting done the clock cost
+optimization work to the i would say
+engineering management level people to
+basically helping them prioritize and
+developing an efficient governance
+process which could develop develop
+accountability on developers to finance
+people so that they could basically have
+a translated language spoken to
+basically technology people in terms of
+cloud cost is the entire value chain
+that you need to like really solve uh in
+minutes to basically you know like uh
+for a high growth startup
+you know uh like for us completeness of
+a spend management solution so that's i
+would say that the core solutions that i
+think particularly is uh required at
+this point
+i think it's fascinating and they i i
+have about ten more questions that i
+need to ask but i unfortunately i called
+this show 20 minute leaders and so i
+i think i think it's really it's a
+really awesome take that you have on
+some of the quora
+i i think it was fascinating to hear and
+and i think that it's a it's a great
+it's an amazing um
+understanding about about where we're at
+and what are really the core needs that
+organizations have and and and i really
+love that sort of the mind shift that
+you've had from from these dashboards
+and the business intelligence analytics
+viewpoint transitioning to the actually
+actionable things that can take and then
+the tracking and the way that it
+integrates to the rest of the company
+and organization to their kpis i think
+that i think that that's really really
+cool and naish thank you very much for
+being here and for spending this time
+with me i i really enjoyed it i wish you
+best of luck with ops lift and thank you
+very much for the time
+sure thanks michael uh i'm really sorry
+i maybe i took a little bit more time to
+explain to my answers i think it's just
+the way when i talk about problems and
+answers i think it's just the way i get
+lost into my thoughts so i see really
+sorry
+basically
+i think it's one of the best qualities
+in a in an entrepreneur just so you can
+see the pat i could definitely see the
+passion
+coming through and how excited you are
+about this problem and how and and how
+how in intentional you are about the way
+that you're thinking about it so that
+that served quite a bit of inspiration
+for me and so no need to apologize it
+was it was fantastic and thank you very
+very much
+thank you thanks michael thanks for
+having me and it was definitely
+wonderful speaking with you i look
+forward to speaking with you again for
+sure
+[Music]
+you

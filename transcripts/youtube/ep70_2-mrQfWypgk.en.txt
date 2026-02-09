@@ -1,0 +1,573 @@
+so instead of just saying that i'm going
+to work 12 hours a day
+no i'm gonna work let's say six hours a
+day
+but those are highly concentrated hours
+with large
+breaks in between which resets your
+energy to like 90 percent
+[Music]
+danny thank you so much for being on my
+show 20 minute leaders how are you
+i'm doing great thank you for having me
+definitely
+you know i we we edited this out but a
+second ago i said thank you for having
+me on 20-minute leaders
+so i think you know this is actually the
+75th episode or so that we're
+recording so you would think that by
+then i would know how to introduce
+people
+well i guess that's just not the case uh
+danny
+um really really interesting guy that
+i'm really excited to get to know you
+better
+over these next 20 minutes or so you
+worked
+on an on a marketplace app called salee
+with a good friend
+of mine from the teal summit a forbes 30
+under 30 now forbes tech council
+talk to me a little bit about about
+where you come from and how you even got
+into this entrepreneurial world
+cool yeah well i come from a
+very far country in the middle east
+called lebanon
+and this story
+actually started 10 years ago but we
+have
+time i think yeah yeah
+uh so of course uh as a child i was just
+obsessed with computers
+even before the internet so we just um
+got our first computer when i was seven
+years old
+but i was more interested in creating
+rather than just consuming like playing
+games it was fun but i wanted to build
+something so uh the only tool i had back
+then was
+microsoft powerpoint and i just kind of
+find a way
+to build a simple games like just
+multiple questions games on top of that
+and this was my first encounter to
+programming
+um later on moving forward i just
+went to a computer engineering program
+but i quickly realized that they're not
+teaching us
+anything practical so all what we
+learned
+was theory and i wanted to like build
+websites mobile
+apps um the iphone just came out and
+mobile apps were just
+very very early stage and um
+i remember i just couldn't afford to buy
+a mac so i went and
+worked as like a waiter at a barista
+actually as
+really at a coffee shop wow
+so i i made enough money to buy the mac
+and then the first thing i thought about
+is
+let me just build an app for them for
+the coffee shop and then i just
+sold it to them and quit and so very
+cool
+yeah i started pursuing my career as a
+you went from a waiter to building an
+app for the coffee shop and then you
+and then quit as a waiter and you and
+you okay and so
+then how do you get to let's fast
+forward a little bit
+to staley how do you get to building
+this really incredible marketplace where
+at the end you you actually merged
+with mercari right yeah uh so uh
+for sale actually it was uh just
+hackathons at the beginning
+hackathons were still new concept i just
+went there
+i was just like i won the first
+hackathon for some reason
+and then met this guy uh uh
+he was just 15 years old back then but
+he was just very bright and we decided
+to just
+team up and uh started like hacking the
+judging criteria and
+making some prizes cash prizes and going
+home
+at some point one of the judges was like
+hey you guys i see you all the time in
+those hackathons
+just waiting and doing nothing about it
+are you gonna build something
+and that we were like yeah let's do it
+so we just bought a ticket
+flew to san francisco and um
+this is how all started it all started
+and sadie was just
+like the last idea that won at a
+competition we decided to
+it was just a marketplace to buy and
+sell second-hand items but it was
+sailing was actually a hackathon
+it was a hackathon idea a startup
+weekend idea yeah
+oh very cool um and then um
+it just started growing um things worked
+out also somehow
+the timing i think was very good because
+mobile apps were just
+on the rise and uh it was kind of like a
+mobile ebay at that point and
+lots and lots of competitors were
+building those
+um kind of apps at the same time and
+raising hundreds millions of dollars
+just to grow up to
+something like offer up even before let
+go
+um even much way before facebook
+marketplaces and all of those
+so what year are we talking about so
+salee was uh the marketplace to buy and
+sell second-hand items
+and uh the timing was good for it to
+grow
+and then after like six years of working
+on it
+we ended up with uh uh joining mercari
+so when when did you start when did you
+start working back in
+in 2013 2013
+yeah oh wow okay so okay that's really
+an interesting time to start
+building mobile apps and marketplaces
+exactly exactly yeah okay we didn't know
+back then but
+of course of course yeah and so what was
+that experience you know growing the app
+from one user yourself to 500 000 users
+yeah uh that was very exciting times for
+us because
+we learned as we as we were going um
+we were just growing um
+finding new ways to do user acquisitions
+to um find our target market
+who are the people who are gonna use it
+uh to fight fraud and scammers
+we scammed a lot at the beginning like
+those fraudsters but
+we learned as we you know you lose a lot
+of money but
+tom tell me about one of those scams
+what were you scammed with
+usually so so usually uh they get stolen
+credit cards
+and then they buy expensive items of our
+platform
+they finish the transaction and then at
+the end of the month
+stripe would be sending us like a a
+dispute
+and saying hey this credit card was
+stolen
+we're gonna take the money out of your
+bank account
+whoa okay yeah stripe didn't have fraud
+detection back then
+it was just very early so we had to
+integrate with other services to
+figure that out but by then we had we've
+lost like
+20 000 or something just because there
+was a delay before we knew it was
+happening
+so you know but marketplaces really you
+need you need both ends of the stick you
+need both the sellers and the buyers
+yeah right and you need them at scale in
+order to really
+you know building build a good
+experience so how do you go about even
+strategizing how to get
+you know both the to get really the
+sellers on this platform
+exactly yeah what we did was uh we
+started at
+specific cities so in new york city for
+example
+and even targeting specific kind of
+people um right san francisco the
+techies
+like you know uh each area with high
+population has
+um a a good amount of people's
+that usually sell and buy specific items
+and this is how we
+initially started and then it just
+expands as you go and grows
+but the the initial part is the hardest
+part to get
+definitely no i'm sure okay so so then
+you go and you
+and you're building this amazing
+platform how many people are you on the
+team
+we were a small team of like five people
+we didn't want to
+to hire uh people uh just for the sake
+of
+like showing that the the company is
+expanding or growing
+and we were we are um very good at fast
+execution and and
+um getting the best out of every single
+person
+so we were doing at least like the work
+of five to ten
+engineers for example in another company
+a big company for example sure yeah it's
+just the tools that we built like we
+built abstract layer later on which
+got us into uh for study under 30. that
+was mainly because of sailing we were
+like
+oh look what is abstract layer okay so
+so it's a
+an automation platform um and we
+realized that
+we're building those components and
+features for salee
+and a lot of things are just very
+similar if you look at it
+from a high level so those are table
+views that you scroll through or
+grid views or like the data showing and
+interacting with it is
+very common across different apps across
+different screens
+so we just thought about an abstraction
+to it where instead of writing down
+or coding stuff you can just do it in
+like let's say uh two lines of code you
+can just do
+what thousands lines of code could do
+and then this
+allowed us to to build um
+product and features and and everything
+else till today i still use it
+with our new startup um
+it allows us to go for uh an execution
+from
+like something that would take a month
+would take three days
+and this is huge for anyone who's
+pursuing startups and trying to build
+fast
+so is that like a package or a product
+exactly
+it's a framework uh where you just drag
+it into your
+xcode project in our case which for ios
+and then out of the box it has so much
+things that you can do
+to just build the same uh
+data um the binding and and uh viewing
+and interactions
+in seconds right okay so then so you
+build abstract layer and then that gets
+you on the on the forbes 30 under 30
+congratulations
+and you're then under 32 right
+yes yeah we can talk about you later
+in another time thank you i can
+interview you
+sounds great and and then but but so
+what is this
+forbes tech council that you're that
+you're part of
+so uh first tech council is um they have
+very strict um
+uh requirements to get in uh whether
+it's on your uh startup um
+revenue or net worth or whatever
+the criteria is and then once you get in
+um
+you start contributing to uh forbes
+tech um so you're writing uh tech
+articles you're doing consultancies and
+uh there's also a
+huge forum where everyone from the
+industry are are asking
+questions and everybody is giving their
+experience right
+right so it's a huge network actually
+it's a small network of
+like successful entrepreneurs and and
+and
+people in the tech industry sure that
+can help each other and help others by
+just
+um sharing their knowledge outside no
+that makes sense so what are you usually
+right about what do you enjoy writing
+about
+so for me it's all about engineering
+productivity for example
+really i love that yeah yeah of course
+um
+so anything from building tools to help
+you from the mentality how to schedule
+your day what kind of
+things to tackle um so i i care a lot
+about
+um having like just one engineer on my
+team that can be
+20x as other just like people who are
+employed at
+companies and are doing what they're
+told to without sure thinking of how can
+we make it faster how can we build
+even better things definitely so
+so okay so you know i'm an engineer by
+profession as well
+how do i increase my productivity and to
+any other engineers that might be
+interested in this
+what what can i what should i be
+thinking of when i prioritize and when i
+schedule my work day
+yep okay uh that's a very good question
+there are
+lots of different areas to tackle but
+for example
+um what worked for me is having
+i work from home i've been working from
+home for more than a year now
+and i've done it even before so what
+really works
+is discipline having a specific
+daily schedule for yourself and going
+by very relevant in covet 19 times oh
+yeah
+yeah so for example for me i usually
+wake up at
+8 by myself without an alarm because i
+i'm used to it um and then
+i have my coffee and breakfast while
+having a conversation
+with my business partner to discuss the
+business in general and what we're gonna
+achieve in the next day in this day
+um then work for till
+lunch then to our break i i realized
+that
+taking a long break resets my energy
+so instead of just saying that i'm going
+to work 12 hours a day
+no i'm gonna work let's say six hours a
+day
+but those are highly concentrated hours
+with large
+breaks in between which resets your
+energy to like 90
+instead of just trying to go through the
+day with when justice left
+and even i do that again like at let's
+say 6 p.m
+if if i still want to work more i can
+just take a big
+gap of two hours three hours and then go
+again
+three hours and those will be very high
+productivity
+slots okay now that that's just
+fascinating
+i can talk a lot more about it but i
+think we don't have enough
+well what i would love to also hear er i
+don't get to meet
+too many lebanese entrepreneurs and i'd
+love to hear a little bit about
+the lebanese tech scene and your
+interpretation of it you know coming
+from lebanon
+having the silicon valley experience
+being a successful entrepreneur
+and how so talk to me a little bit about
+what the
+ecosystem is like and what do you see
+your your role in it
+awesome yeah um what i can say about uh
+lebanese people is they're very
+ambitious uh
+they're um they the problem is they
+usually
+have to travel outside and then shine
+outside
+uh because of the very limited
+opportunities
+that we have in our country uh but again
+the tech scene and the
+startup scene is relatively big
+compared to the middle east also in
+lebanon
+uh we do have vcs a lot of vcs and and
+angels that help
+uh this uh ecosystem um
+but the market is also very tiny like
+the lebanese
+market is super tiny because we have a
+population of like five million
+uh credit card penetration is still low
+uh so whenever you're building a
+startup in lebanon you're at least
+targeting the middle east
+and not just lebanon and um
+and usually uh people would just decide
+to travel
+abroad europe or or the us
+just to be able to get even more and
+then excel more
+sure so the people in your community and
+do they look up to you as sort of
+someone who's you know done it
+and who got out shined
+became an extremely successful
+entrepreneur something that you really
+you know you read about in the news and
+on techcrunch and all of a sudden you're
+coming back and
+do they ask you for advice or how do
+they perceive you
+yeah well it's not just me like we have
+a lot of successful entrepreneurs and
+and whenever we're
+at home uh uh a lot of uh the uh
+new startups and and people who are just
+experiencing this for the first time or
+even like couple times that didn't
+do well they always look up to people
+who have achieved something especially
+if you went to silicon valley like
+that's definitely a prank
+but even from uh if you went to other
+places and built something
+they just ask for advice they try to see
+if
+what's a good way to travel themselves
+outside to be able to be successful and
+to do
+more things outside no no no that makes
+a lot of sense
+and so do you often go back and forth do
+you get together a lot
+uh yeah yeah i usually go like three
+times a year oh wow okay that's a lot
+it's a long
+flight yeah yeah oh yeah i'm from i'm
+from israel so
+it's pretty much the same amount of same
+amount of hours for a flight 20-hour
+flight
+usually yeah i got used to it but but
+yeah it's
+worth it i think because you have family
+there because you have
+all your history food
+yeah so lots of you have to look forward
+to yeah 100
+so danny what are you excited about now
+there's so much ahead of you
+where do you see yourself moving ahead
+what gets you excited
+yeah well uh at some point uh in the
+past couple years i just realized that
+this is my life i'm i'm always gonna be
+that person
+starting new companies or well actually
+it's just
+more of creating values and creating
+value in the world which
+for me is starting new businesses
+and companies um and uh this is what i'm
+doing also right now like right now
+we're also uh since uh we we
+quit with uh from mercari because at the
+end of the day
+you wanna work on something that you own
+and and you love and um
+so this is what i'm working on right now
+and i'm going to be working on for a
+very long time as well
+of course of course and and any specific
+industries that you're especially
+curious about
+and that you're that you're so um yeah
+i'm usually open to
+different industries especially if
+there's something new i i
+tried things in um in vr
+for example uh last year um in uh
+like whenever there's something special
+crypto or whatever came up
+i just want to explore is there anything
+that can be built that can help actually
+and and you and also make money at the
+same time um
+but i think my my strong suit is
+e-commerce
+and uh because i've been in it for 10
+years
+i know the ins and outs and also uh
+i've been in in contact with a lot of
+the bigger competitors as well
+so sure kind of you want to be
+in this principle in something in the
+market that you know
+more than any one other other person
+probably in in the world
+to be able to build some extra value
+that nobody is seeing right now
+of course of course danny 20 minutes is
+almost up but i have to ask you
+my last question which is also my
+favorite question and can you tell me
+three words that
+you would best describe yourself as or
+that maybe your co-founder would
+describe you as
+looks like a an interview question
+definitely
+what's your weakest point i'm gonna go
+for the strongest points
+yeah i work way too hard i try to make
+too much money for the company
+yeah i think uh it could be um
+ambitious that's number one yeah um but
+be
+a persistent like always trying to to
+follow things
+through and i'm probably a geek also
+i love it that's the most important one
+i think
+yeah i love it danny thank you so much
+for the time
+thank you so much for for for for
+forming this new friendship and i'd love
+to continue learning from you and it's
+and and say say hi to your co-founder a
+great great friend of mine
+and and i wish you all the best on your
+next ventures thank you so much for
+having me
+of course take care bye

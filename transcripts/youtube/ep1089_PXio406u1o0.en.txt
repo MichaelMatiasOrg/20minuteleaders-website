@@ -1,0 +1,544 @@
+personally like I'm coming from the
+cyber security space and actually when
+we um walked into this problem which is
+just basically a fch problem um you you
+start you need to start using I think a
+new terminology which is much more of a
+financial terminology right so the
+simplest way to think about consumer
+protection is like two things one you
+know I put my money or my value
+into those assets on this new technology
+I go go to sleep I wake up in the
+morning I need to make sure that they
+are still there right so fundamentally
+to protect it against death when I'm
+sending a transaction to you I need to
+make sure that it's not being fished or
+spoofed and the the interesting thing is
+that it's like a very new set of
+problems compared to the way that the
+traditional Financial ecosystem
+[Music]
+Works Michael shaulov welcome to 20
+minute lism so happy to have you here H
+obviously it's such a crazy world that
+we're living in you're living and
+leading one of the most uh I think
+important and amazing um you know
+changes that are fundamentally changing
+the way we're interacting with with
+assets and with with what we consider as
+you know tools that we that help us
+engage in in this world and so really
+excited to be speaking to you both about
+this problem space you know where this
+is heading but also your own person
+personal Journey so thank you very much
+for being here of course thanks Michael
+for having me again of course definitely
+so so Michael you know let's let's get
+into digital assets you know what you
+know give me a little bit of an overview
+as to you know what is this even the
+space that we're talking about and and
+how how did you get really into this
+space yeah sure so I think the easiest
+way to think about it that this is um
+once in a century sort of almost a
+transformation of the backbone and the
+plumbing of the financial system right
+and this is like you know actually the
+usage of public blockchains and what we
+in our own world calling like you know
+the crypto rails and the transformation
+and the implications it has for the
+worldwi economy and I think uh and
+probably like a lot of implica future
+implications around how um you know
+Financial assets other assets and just
+generally speaking things that we value
+right just like Basic Value is can
+actually be transported and interacted
+over the internet and the simplest way
+to understand this is that uh when I
+tell people like okay if you want to
+browse to a Japanese website right so
+let's say you're in the US you're in
+Israel or you're anywhere else in the
+world and you want to go into a Japanese
+website you know you basically type
+something in your web browser. JP you
+know takes less than a second to load on
+your website you don't pay anything to
+anyone right there just like a few bits
+that are going from that part of of the
+world to your part of the world in
+lights in the light in in the speed of
+light right now if you want to send $200
+to Japan that will take you anywhere
+between three days and a week right and
+it will cost you anywhere between $50 to
+$120 depending on the setup that you
+have with your bank right and or or 3%
+right if you're doing the transaction
+over a credit card and then you should
+ask yourself a question okay but why is
+that the issue because even when I'm
+transferring money right now this is
+just like a bunch of bits that are going
+from one database to a different
+database right that's the only thing
+that is happening right you're not
+basically shipping an envelope with
+dollars in it and the reason for that is
+that the entire system is basically at
+best what was set up in the 70s predates
+the internet and a lot of like the ideas
+are actually like you even older and
+they go about like you know 100 to 500
+years ago and that's how the financial
+system really works right and all the
+Innovation all the fexs that happened
+over the last couple of decades they
+only sort of like you know patches on
+top of that infrastructure and the
+interesting thing about blockchain and
+the first thing that actually came in
+terms of the Innovation is SK like
+Bitcoin which was like the Revolutionary
+idea was that you have a system in which
+you can natively transfer value over the
+internet at the speed of the internet
+without any intermediaries without
+relying on a set or linkage of
+underlying financial institutions and
+Banks and that was like
+transformative and this entire notion
+has huge
+implications uh on how the financial
+system is going to look moving forward
+and um and that has implications to
+anyone from like you know if you want to
+send or pay five dollar right to the
+other side of the world to um Government
+funding you know uh Tre like uh treas
+IES bonds capital markets and even other
+areas that are currently not considered
+like Financial activity for example in
+game economy when you're buying a
+virtual good in uh your favorite online
+game all those things can actually be
+built together and uh this is I think
+like you know the the really exciting
+part that we are
+in and so there's incredible upsides to
+and to engaging in this digital
+transformation you're you're touching on
+the most fundamental ones I think which
+are talking about our ability to engage
+in in in in in trade and in in transfers
+both in terms of latency but also in
+terms of not not losing and not paying
+for the transactions just like we're not
+paying to to to to browse websites in
+general um but there's obviously
+mountains in the way to get us to
+translate our existing Financial systems
+to this new to this new Financial system
+and and at fire blocks I understand
+you're you're tackling and you're
+helping mitigate a big mountain in the
+way in the in the world of security H
+but but what are those big pillars that
+we Are Climbing over these years to get
+us to that new world yeah so I think
+like you know the first the first
+uh um Mountain that uh was standing in
+between us and actually that future was
+really is this technology can you
+actually put it in practice and uh
+luckily I think over the last decade and
+probably in the last three four years
+that mountain was cleared right so we
+have real companies doing billions of
+dollars of transfers and actually like
+sort of like ripping the benefits um a
+lot of them are sitting on the fire
+blocks infrastructure ripping the
+benefits for their new business model
+that was like a big mon Big Mountain
+just basically the validation of the
+technology and it can actually be used
+at scale the second component and maybe
+like you know the second two components
+that almost like you know go hand inand
+is basically security compliance and
+just generally speaking consumer
+protection right so um you know I'm my
+personally like I'm coming from the
+cyber security space and actually when
+we um walked into this problem which is
+just basically a fintech problem um you
+you start you need to start using I
+think uh a new ter terminology which is
+much more of a financial terminology
+right so the simplest way to think about
+consumer protection is like two things
+one you know I put my money or my value
+into those assets on this new technology
+I go to sleep I wake up in the morning I
+need to make sure that they are still
+there right so fundamentally to protect
+it against St when I'm sending a
+transaction to you I need to make sure
+that it's not being fished or spoofed
+and the the interesting thing is that
+it's like a very new set of problems
+compared to the way that the traditional
+Financial ecosystem works and we'll go
+get into that in a second and the second
+issue is really things that are much
+more around consumer protection and
+compliance which is like more uh around
+the fact like how do we making sure that
+there are no Bad actors right how do we
+making sure that this is not being use
+the leverage for terrorist financing or
+for um human trafficking or things that
+are like very clear to all of us that
+there are bad things that we don't want
+to facilitate how do we making sure that
+you know when you're buying an asset
+this is actually like you know what is
+being Market what what is being marketed
+to you is real so all like those two
+mountains are generally speaking the two
+mountains that um you know regulators
+and most of the market most of the
+people that want to use it care about
+and those are the the issues that we are
+tackling and then on top of that like
+once we clear those two mountains which
+I think we have done quite successfully
+so far um there's just basically the
+general adoption right so how easy it is
+to use how easy it is for newcomers to
+adopt this technology and how easy it is
+for incumbents and what we call
+traditional financial institutions to
+start using the technology but the
+answer for both of us is actually like
+you know regulation uh which we had a
+lot of movement over there recently but
+the regulation what The Regulators
+really care about is that there is a
+consumer protection that people are not
+getting hurt while we adopting new
+technology and that by the way like it's
+true we're seeing it with the internet
+we're seeing it with blockchain we
+seeing it with AI this is just like you
+know a common issue across everything
+that is new tech right now and and what
+is the what are the big Milestones we've
+had with regulations very recently that
+are now allowing us to to increase that
+adoption even more and to engage more
+with consumers in the space yeah so I
+think like you know the thing that is
+basically most uh known that happened in
+the last uh month actually is the
+approval of the ETFs right in the United
+States by the Security and Exchange
+Commission and and basically 11 ETFs uh
+going live and now available for the
+market to trade through the stock
+exchange to be honest there are like a
+lot of debates of like how much is that
+an important milestone for for for the
+blockchain itself because it's some ways
+you know this is just like um a very
+traditional way to access a very new
+technology and you can access that
+technology directly right so why do you
+need the banks to access that but from a
+regulatory standpoint that was a huge
+milestone and something that the E the
+the the ecosystem and uh and the players
+in the ecosystem were fighting for for
+for the last five six years and in order
+to clear that they had to prove to The
+Regulators that you can actually
+establish guard rails remove Market
+manipulation establish consumer
+protection that the custody and the
+security of the underlying storage of
+those Bitcoins that are backing the ETF
+are sound and secure and the standard of
+the Security and Exchange Commission is
+very very high and that was basically we
+were going back and forth in terms of
+trying to get this thing approved for
+the last four or five years and now we
+already managed to clear this which
+basically means that um assuming that
+you implement things correctly you can
+actually get to the point where the top
+Regulators in the world believe that
+okay it's sound enough to be used by the
+mainstream and and it sounds like this
+is an important Milestone again not not
+in terms of the the access right but
+more so in terms of the validation to
+transition from the early adopters to to
+the rest of the world right the long
+tail that are perhaps looking at at this
+more at this validation as well so I can
+assume why why it is an important fight
+nevertheless um does do does this have
+any impact on volume of trade or do you
+anticipate that this is more so the the
+second order effects of this of allowing
+more people to get comfortable with
+engaging with this well I think that
+they it has three pillars right so the
+first pillar is definitely the direct
+volume and trading expectations so for
+for those who are listening here the
+launch of the Bitcoin ATF for example by
+black rock that is the biggest asset
+manager in the world that was in the in
+the first three days that was the
+highest volume that they ever had for
+any ETF more than gold more than silver
+more more than any composition that they
+ever launched the Bitcoin ETF had a
+subscription that in the first couple of
+days that exceeded any other product
+that they ever launched right so first
+and foremost it basically shows that
+there is a demand H and C drives volume
+the the second ER effect is that it
+drives the it actually sort of like
+almost like a psychological barrier that
+was removed as people saw okay the Wall
+Street the top Wall Street regulator is
+stepping in by the way in an environment
+that is still reasonably hostile okay
+for for for this Market just to be quite
+clear and the third which I think is
+goes to much broader than Bitcoin is
+that we always look at like you know the
+US Regulators but actually this is a
+global phenomenon and we're seeing
+globally both in Europe and in the UAE
+in Japan in Singapore in a lot of other
+J jurisdictions the Australia the The
+Regulators are actually by the way also
+like in Israel The Regulators actually
+moving forward much faster than in the
+United States they establishing much
+cleaner and forward-looking
+standards and that enables all the other
+beautiful use cases that we actually
+seeing H being built on that which
+really goes into the mainstream right so
+it's not only a question like do I want
+to trade Bitcoin do I think that this is
+going to the moon or not it's really
+like can I use a payment system to do
+remittance and transfer a payment to the
+Philippines or to Africa or cross border
+at a fraction of H the cost and at a
+speed and transparency that I couldn't
+before do I have the tools do do we know
+how to construct assets that are on
+chain that are for example one to one p
+to the dollar P to the Euro or P to the
+Japanese Yen they're not volatile like
+Bitcoin and are we able to basically
+create treasury basically like treasury
+market or bonds that when I don't want
+to use the money I can instant L
+basically go into an instrument that is
+going to pay me 5% for every day sorry
+5% like per year but like in an interval
+of minutes which is currently not
+available in the traditional space
+because in the traditional space if I
+need now to if I want to buy a money
+market fund or I need to invest in any
+other product the settlement time is
+next day or like over the weekend right
+so you you basically able to capture a
+lot of value and all those things are
+basically being being built on top of
+that regulation incredible okay so where
+are you at with this so you know you
+you're you're coming from the security
+space you sold your previous startup to
+checkpoint and you were head of product
+and of of some of the most important
+products within checkpoint uh when you
+were coming across the space H how did
+you end up starting fire blocks yeah so
+um it's actually started like you know
+somewhat like from a first principles
+standpoint and when I was a checkpoint
+uh as you mentioned my our previous
+company laon was specialized in Mobile
+security we got acquired by checkpoint
+and I was uh leading their product uh uh
+product product team for mobile and
+Cloud at the time and at some point we
+did a small part in an investigation
+that happened in South Korea so
+basically the Lazarus Group which is
+Affiliated attributed to the North
+Korean they hacked into four
+cryptocurrency EX changes in 2016 2017
+and they sto what was at the time $200
+million worth of bitcoin by the way
+Bitcoin was the $1,000 so I think you
+can multiply that by 43 and that's the
+actual value of that right now and I was
+just blown away and I and and the two
+two issues that actually came up very
+quickly um speaking of first principles
+that it was once you kind of read the
+Bitcoin white paper and the ethereum
+white paper you sort of understood that
+this is um a extremely important and
+revolutionary underlying technology at
+the minimum for the financial market so
+for someone who's been uh watching the
+transformation of Cloud public cloud in
+terms of what it did to the it I kind of
+s how one piece of infrastructure has
+been completely disrupted right I was
+like oh my God this is actually going to
+dist trp a much bigger piece of
+infrastructure right so you know if you
+think about companies we all I mean for
+someone comes from cyber security space
+you all you know you know two things one
+is that the financial spaces ORD of
+magnitude bigger than like the from a
+from a tam or from market cap than all
+of cyber security in it right so Visa
+alone has a market cap that exceeds all
+the cyber security companies combined I
+think um and so you know the opportunity
+is Big the second aspect is that by the
+way for most of the cyber security
+companies 40% of their revenue coming
+from the financial sector uh
+understandingly why and um and that's
+basically a big opportunity so um so
+you're basically saying there is a big
+problem over there this is like a really
+large ter and this is going to be as
+transformative
+probably like bigger much more
+transformative than uh the than U the
+the previous uh kind of like you know
+examples so
+we that was like an interesting
+opportunity so what we we we started to
+do then is actually follow um a Playbook
+that I I recommend to all the
+entrepreneurs right which is taking from
+a book called four steps to Epiphany and
+it's called like customer Discovery so
+we started we didn't came from the space
+of blockchain um so we started doing
+this kind of market research and just
+talking with clients and trying to un
+prospects actually and trying to
+understand what are the pain points they
+have what is not working what are the
+gaps why are they getting hacked right
+why why do they keep losing money and
+that basically what established fire
+blocks that initially was somewhat of a
+I would say we had somewhat of a limited
+view in terms of what we're going to do
+but very quickly it is expanded to be
+this pretty broad infrastructure
+platform play for any company financial
+institution and non-financial
+institution that are accessing digital
+assets and cryptocurrencies and we're
+basically providing them the entire
+backbone of wallets uh settlement ER
+capabilities H tokenization capabilities
+payment capabilities so five years later
+it is a true platform play uh that we
+are able to provide to all those clients
+incredible so and you know fire blocks
+is obviously one of the most well-known
+companies in the space what is the
+current status of fire blocks in the
+market yeah so um I think that uh we are
+definitely kind of charging forward with
+the market H we are seeing broadly
+speaking uh especially after the ETF
+approval but even before that um let's
+put it this way the end of 2022 is the
+collapse of FTX wasn't like a pretty
+sight you know to anyone who've been in
+the space having said that all the
+people that were in the space they
+stayed and we kind of rebuilt a lot of
+the damage that was done so the second
+part of 2023 was kind of was quite help
+helpful we started to see a lot of um
+Extended utility use cases extended uh
+players coming in the regulation become
+start to improve so right now we're
+definitely seeing the macro uh for the
+space continuously improving um our
+stage right now that we are working with
+over 1500 clients um all of them are
+businesses financial institutions our
+goal is to basically double triple it uh
+this year on the back of a lot of new
+people that are coming in um we've done
+over I think it's now approaching five
+it's way over four trillion dollars I
+think approaching five trillion of
+dollars that uh uh is moving through our
+infrastructure so uh our mission this
+year is to do two things one and
+continue to support and enable more and
+more use cases that help people to
+leverage this technology and to help
+Regulators to shape the regulation and
+basically continue and solve issues
+around security around consumer
+protection around compliance that they
+need which we were doing quite well by
+expanding our portfolio and
+um and last but not least to start
+pushing
+forward uh a lot of like you know the
+the things which we believe are kind of
+the future of H where the space is going
+um which you know we are why kind of in
+unique position to do that incredible
+Michael thank you so much for for taking
+the time to come here and this is a I'm
+I'm time capsuling this conversation
+just like I did with the other one such
+a special moment to be talking to to
+somebody who's who's charging with the
+with the industry and leading it and um
+and so I'm very very excited to continue
+cheering on and being a fan from the
+side and thank you for taking the time
+to share this with myself and and
+everybody else that's listening thank
+you very much yeah of course thanks
+Michael
+[Music]

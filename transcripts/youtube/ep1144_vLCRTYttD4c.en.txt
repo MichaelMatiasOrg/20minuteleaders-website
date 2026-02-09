@@ -1,0 +1,590 @@
+Well, for some areas it is uh part of it
+of course because many people are
+getting into these deep domains. You
+know when big conferences for machine
+learning you have uh 16,000 people
+coming in very smart people like
+yourself and uh coming in and developing
+new solutions. The thing is that um some
+of the culture of I mentioned earlier
+this magic cycle and to me one of my uh
+interests always was both on the
+research side as well as the product
+side right for over a decade I was
+actually leading products in search at
+Google. So what we see today is this
+convergence that actually you use much
+more you have this cycle where quite
+often the same people who are developing
+the new algorithms or the new techniques
+for AI are the ones actually
+implementing and working very closely
+with the product teams to actually
+implement them which is very exciting to
+me.
+[Music]
+Hi everybody. H really good to be here.
+Oded Nlesh Bat, thank you for inviting
+us uh from across the sea. Wish we could
+be there in person and I was really
+excited when Od had this idea that we'll
+do a talk together. Uh so uh Dad, I've
+known you for all of 29 years. Great to
+be here. By the way, the multigeneration
+in this case actually Michael was first
+in J venture and then he got me in. So
+uh yeah, that's the order. That's very
+true. H I met Oed my first day at
+Stanford and uh since then I got to be a
+part of J Ventures getting a chance to
+work with amazing team getting chance to
+join as an LP and and now uh really
+proud to be a founder part of the J
+ventures portfolio and we're going to
+talk about um you know we're going to
+use this excuse h to have this
+multigenerational conversation h with AI
+in the background. So everybody knows
+that AI is transforming everything and
+uh I think that this is going to be
+really interesting because we're not
+just going to look at the way AI is
+transforming coding and the way that AI
+is transforming you know the application
+layer and the infrastructure layer but
+dad you're you're in charge of of
+research within Google and that holds I
+think a special foundational piece as
+part of what it means for us to develop
+these a AI systems and looking into the
+future and so I'd love to dive in and
+and right before that I' I'd love to
+understand a little bit from what what
+does research mean? Uh because AI used
+to be a research main task but now
+everybody's using it but what is
+research especially in the context of
+AI.
+Yeah. So uh so first this is really
+exciting times and uh you know
+reflecting back when I did my uh final
+projects in in university this was about
+machine learning and it was about how to
+we have a software that can actually
+learn on its own to play a game and uh
+even then I was actually astounded that
+in just a few days I managed to use some
+techniques from the 50s or 60s uh and
+already developed a game that could
+actually you know win over me. But AI as
+we know went into a winter for uh many
+years what they call the AI winter
+because expectations did not meet. But
+what we happened in last uh decade more
+than decade now is really this
+transformative uh impact of AI that
+everybody of course understands. Now
+what is research? research really is
+about how to find new solutions to
+problems and um and and the way one
+thing that I'm really excited about
+research all my life you know uh from
+early in my career I was uh uh thinking
+about research about uh it has the
+aspect of intellectual curiosity but
+importantly it's driven by the kind of
+questions that we want to solve now to
+me research is about how to take the
+state-of-the-art technologies that we
+have they understand the problems that
+need to be solved and then to push them
+to the next level and um one thing that
+I'm always been excited about is what I
+call the magic cycle of research which
+is to identify those important problems
+to uh then have this u research
+breakthroughs you know new solutions and
+then to apply it back to real world kind
+of solutions in a way this has been
+always there in fact when I was early in
+my career in Bellabs in the heyday of
+Bellabs in a mathematical center this
+was also something that I was excited
+about except that then the magic cycle
+used to take years quite often and and
+by the way this has been always true if
+you look into some of the mathematical
+developments you know of the
+mathematicians over they were motivated
+by the kind of physics questions the
+thing that we're seeing today is that
+research is driving technology in a pace
+that is unprecedented we see an
+acceleration so research is about how to
+solve the new technologies in AI in uh
+now of course generative AI is the uh
+the hot things or diffusion models, but
+it's also about better algorithms,
+optimizations. It's about computing
+systems. It's about how to develop
+quantum computing or how to develop
+solutions for healthcare, for education,
+for climate and many other problems. Uh
+it's about all those problems that we
+don't know yet how to solve in
+technology wise and then translate them
+into real technological solutions. And
+so one of the areas that you're really
+spending most of your time in is
+societal impact. I think when I look
+across the board, a lot of the things
+that you're working on are things that
+directly impact society at large,
+whether it's saving people's lives
+through health or whether it's looking
+at the planet through climate
+and and all the way down to things that
+we don't even normally think about like
+transportation, right? And so how is AI
+and how is cutting edge research and AI
+transforming these societal impact
+landscapes, right? So of course now
+research addresses all aspects of life
+including products and businesses and
+everything but one area that I'm really
+passionate about is really how to use it
+in order to unlock problems that are
+impacting all of us. So healthcare is
+one of those examples uh that are uh to
+me where we're seeing a huge
+transformation with AI and uh research
+and um in a way this is obviously uh
+something that can help save lives and
+just to give you a few examples one of
+the u problems that um you know one of
+our legacy kind of u uh works on on our
+teams at Google is on uh looking into AI
+for screening for a condition called
+diabetic retinopathy which can lead into
+blindness if not treated.
+uh if about about you know 400 million
+people worldwide with diabetic are
+actually at risk to get it. It's
+relatively easily detectable by an
+expert and then treatable. Problem is
+there's a shortage of thousands of
+experts around the world actually over
+100,000 experts. Um so a landmark paper
+from 2016 showed that actually AI can do
+the work of um you know in in par with
+an expert. And by the way, this is well
+before a lot of the excitement recent
+excitement of AI and a after a few years
+actually we put it in the clinics and
+now it's actually being used in India
+and Thailand already had 700,000 people
+screened to that. So it's practically
+actually can save them from blindness
+and now actually there are some um
+strategic partnership that actually is
+going to scale it to 6 million people.
+Now that's an example for if I will uh a
+legacy kind of technology. But now with
+the new generative AI we see new
+opportunities. For example, we took a
+large language model and we looked into
+the question can be adapted to
+understand medical questions. And what
+we could show is for the first time that
+um it can actually answer US style
+medical exam in a passing score which is
+a big deal. By the time this was
+published in nature, we already had a
+system uh demonstration that we can
+actually have it passed in 91%. And this
+is something that can actually be used
+in so many different systems and you
+know already being tested by u various
+healthcare providers such as HCA uh
+because uh there are so many medical
+applications where just the ability to
+help out the doctors to help out the
+experts can make a huge difference. And
+what's what's different now? Because you
+you so you've done research for decades
+and you've been at the the cutting edge
+of research for decades yet it feels
+like things are shifting. It feels like
+things are shifting at the the velocity
+of research and the depth of the
+research and the application and the
+time to deployment and time to market
+for researchdriven tasks. It's a great
+question. So what we seeing today is
+first the technologies
+uh you know the development of cloud for
+example cloud technology and open
+sources and libraries is one of the
+facilitators for that. Another one is
+the so much talent goes now into into
+research and development. And um and the
+third one is also uh recognition by the
+market that everybody needs to adopt
+technologies and AI and then what you
+see is so such demand actually people so
+many are actually recognizing that they
+need to test out these technologies.
+This is true for every businesses and
+for many aspects of life. Certainly in
+healthcare we see that as as a big
+shift. I saw a post recently by somebody
+who said h soon every software engineer
+will effectively be an ML engineer, an
+AI engineer. What is the shift that
+you're seeing on the engineering
+landscape on the skills in this new
+agentic era uh coming from the research
+all the way to the application? Yeah. So
+one of the fascinating aspects of using
+uh AI for software engineering is the
+fact that one it can be used as a tool
+to empower software engineers and I'm
+hearing from you know many developers
+that actually it can make them much more
+productive. Um on the other hand of
+course there's an opportunity to
+actually advance AI itself and machine
+learning itself. So I would say that
+every software engineer would need would
+know how to use it for certain and many
+are actually going to get into the
+different layers of actually how to
+advance it or how to uh develop more
+aspects of that. But let me also point
+out that one of the things I'm really
+excited about is not only accelerating
+solutions for uh areas that benefit from
+science such as healthcare but actually
+accelerate science itself. So think
+about the future where actually uh every
+researcher or every scientist can
+actually get AI to help them in their
+own research and accelerate that. In
+fact, we did some step towards that. We
+recently published a paper which we call
+um uh kind of look into a research
+system on which we call co-scientist
+that helps out sift through literature
+create help create a hypothesis in
+response to a question posed by a
+researcher. So the way I think about it
+is think about a situation that if you
+have a research lab, it's not only that
+the head of the lab has assistants
+working them, but actually every person
+in the lab actually have AI to help them
+accelerate their own research. And we
+already got some examples that it could
+accelerate some got some novel
+hypothesis about treating some
+conditions in the liver fibrosis or help
+out identify some hypothesis about the
+reason for some superbug uh which is
+essentially um an infectious kind of uh
+you know bacteria that that were the
+researchers actually spent years to try
+and identify what's the reason for that.
+So to me this is one of the areas that
+we are likely going to see an
+acceleration which I think is quite
+exciting. It seems to me also that one
+of the things that are enabling that are
+enabled now due to the usage and the and
+the accessibility of AI is the shortage
+of barrier to entry um to answer some of
+those preliminary research questions to
+even identify whether there's proof of
+value in in in wanting to go deeper. So
+the the barrier to entry and the
+resources needed to answer those
+fundamental research questions on okay
+should I pursue this path or okay given
+a 100 paths which of these should I
+prioritize to pursue deeper given the
+human talent which is now going to be
+much more scarce than the agentic
+talent. Do you also see that in your
+line of work that the barrier to entry
+is getting lower and lower for these
+preliminary questions? Well for some
+areas it is uh part of it of course
+because many people are getting into
+these deep domains. you know when big
+conferences for machine learning you
+have uh 16,000 people coming in very
+smart people like yourself and uh coming
+in and developing new solutions the
+thing is that um some of the culture of
+I mentioned earlier this magic cycle and
+to me one of my uh interests always was
+both on the research side as well as the
+product side right for over a decade I
+was actually leading products in search
+at Google so what we see today is this
+convergence that actually you use much
+more you have a cycle where quite often
+the same people who are developing the
+new algorithms or the new techniques for
+AI are the ones actually implementing
+and working very closely with the
+product teams to actually implement them
+which is very exciting to me. I I think
+it's incredible and I I'm I'm so excited
+about everything that's happening with
+AI. Uh we have a few minutes left and
+you know I think that when we when I
+reflect on AI and and I look at how how
+exciting these developments are across
+healthcare, societal impact uh and and
+our own productivity in our own daily
+lives uh it also has ramifications in in
+how attackers and how malicious actors
+are using them and my background is
+coming from the cyber security and so I
+think we'll flip seats for a second.
+Well, let's go to the basics actually
+because we're sitting now in your
+amazing office here clarity and I
+remember for years we've been discussing
+during your journey and you were
+developing hack generation Y and uh
+having your startup as a teenager and
+we're discussing where are you going to
+start it and then at some point you
+decided to actually pause actually
+studies in Stanford and start clarity
+why did you do that yeah you know I
+think that um you know it was 2022 and I
+was very fortunate to be spending time
+with with Jay vent ventures and spending
+time with innovation endeavors and and
+looking at super evolution technologies
+and where they're headed and and uh I
+was very conveniently tasked with with
+really diving into LLMs and generative
+AI before it was coined generative AI
+and was it was pretty incredible to me
+to see how things are evolving on the
+language front but very quickly also on
+the visual and the voice front and the
+auditory front. At the same time, I was
+still at Stanford in, you know, in the
+AI labs and the engineering and the
+gates building and experimenting with
+these tools and seeing the excitement
+from all the engineers of what's
+happening in the middle of the night
+when people are developing and I brought
+with me the background from from the
+8200 unit.
+So 5 years in cyber security before that
+and I was really really interested in
+thinking okay what is going to happen
+when everybody will have access to these
+tools to create hyperrealistic media at
+scale in real time how many of our
+systems are dependent on that in the
+day-to-day our business operations and
+our democracy in fact the company
+effectively started in in the backyard
+of of my one of my professors Larry
+Diamond and and and looking at the
+business impact but I said Okay. Wow. I
+don't think businesses will be able to
+continue operating the way that they do.
+And and of course, this is just one
+example of the way that AI is
+transforming the attackers mindset from
+fishing in this case, going from the uh
+what used to be spray and prey, the
+Nigerian prince SMS fish. Now all of a
+sudden, it's hyperpersonalized, highly
+targeted, realtime scenario, and using a
+voice and a face that you might
+recognize. So all of those things
+together um I think led me to think okay
+there's an emerging category
+we'll have to figure out the right
+business for it but this is going to be
+really disruptive and and I want to be
+where disruption is and I think that
+technologically we can do some really
+cool things here well I remember that
+for at least few months you were kind of
+explaining every in every conversation
+you explain to people what's what's
+going to be the problem and you were
+telling hey there's going to be an
+inflection point now couple years later
+what What has changed? Where are we with
+this deep fake and uh you know um yeah
+there was a lot of market education
+which is you know and I talked to a lot
+of a lot of entrepreneurs um a lot of
+them say you know run away from market
+education yet and I think in cyber
+security often you know you have to do
+it if you want to be at the right
+timing. Two years ago, I I I had, you
+know, out of my 15 slide deck, I had
+about eight slides about the problem,
+you know, what are deep fakes? And over
+time, I started getting feedback. Okay,
+you can start removing these slides
+because we get it. We're starting to
+hear about it. And it started in because
+it started happening in the news and
+social media. And there was a big
+tipping point in February of 2024 when
+um a financial controller in England
+went online in a Zoom call with their
+CFO. There were four other people on the
+call, all of them from the financial
+team. And the financial controller was
+instructed to transfer money to to to
+another bank account in inst about 12
+installments. Uh accumulating to $25
+million. Uh of course with remote work,
+the one was in Hong Kong, the other in
+England, so they're not even in the same
+location. The financial controller went
+on to pursue the these transactions only
+to discover a few hours later that he
+sent them to a hacker's bank account and
+it was a deep fake of a CFO and this
+made tremendous headlines. Um it was a
+month after we we raised our seed round
+uh from uh from the funds and and it was
+and it was a pivotal moment because I
+think then people started understanding
+okay AI is also starting to be used by
+attackers in these ways and and so the
+the market has shifted I think since
+then we we've seen increased attacks and
+and going back to what Orin just said in
+his talk I I think that and and and that
+the timing here is really important it's
+really about hitting the timing of when
+is it the when is the pain point enough
+when do we see the value enough for the
+companies and how do you operate really
+responsibly and efficiently until that
+happens and both developing the the
+right technology uh we use you know AI
+to fight AI it's been this way for the
+last two years but also making sure that
+we're at the edge you know once this
+thing happens so that we can be with the
+customers interesting but and and you're
+sitting actually in this very uh
+interesting or important and not that
+common actually intersection of security
+and cyber security and AI. What do you
+see beyond the deep fake in terms of the
+you know this intersection?
+Yeah, the so I I'm really fortunate I
+get to do now a a series here um with
+Forbes on AI and security. I've gone
+drawn extremely excited about the way
+that AI is transforming cyber security.
+H I'm actually really proud everything
+that all the camera changes here. This
+is all me playing here with butt inside
+practicing my multitasking and it's it's
+a really cool series because I get to
+sit here with with other CEOs of other
+startups and talking about how AI is
+transforming the cyber security
+landscape and it's transforming it in
+every way. Um uh it's transforming it in
+in cloud detection and response and
+threat detection. It's transforming it
+in in third party risk management. uh
+it's transforming it in the way that
+attackers are um are finding new ways
+using these LLMs to identify zero day
+vulnerabilities and endpoints and then
+using a genic solutions to be able to
+deploy those uh those malware and those
+vulnerabilities at scale. And so we're
+seeing increasing usage and lower
+barrier of entry from the attackers in
+fishing. Of course, the last teammate
+report talked about a 2,000% increase in
+fishing. Uh, and um, we're also seeing
+it on the defensive side. So,
+practically every cyber company is now
+looking at how to use AI more
+intelligently. I think it's not trivial
+how to piece together the this AI and
+cyber security because it's very, you
+know, different domain expertise.
+Practically every company I talk to now
+has, you know, used LLMs in their in the
+day-to-day and many are now figuring out
+how do we piece together this domain
+expertise to fine-tune these LLMs and go
+beyond and how do we create these
+agentic solutions and so we now see
+incredible startups
+I I saw just recently now a great one
+that
+well a couple great ones by by Guy
+Fletcher and 7 AI and they were really
+using aentic systems to empower the
+security teams and so I I think that
+what we're seeing in the cyber security
+landscape as well in terms of AI is a
+shift in responsibility from just
+alerting and detection to now actual
+remediation and prevention and how to
+use agents to go and and work through
+them which is which is really exciting.
+Well, that's amazing. One one thing by
+the way that reflects I I think your
+kind of reflection here brings up is the
+the pace of change. This goes back to
+some of your earlier question. The pace
+of change is unprecedented. And if you
+think about where we've been just a
+couple years ago and where we are today,
+uh it's a good reminder to anybody who's
+trying to predict what's going to be a
+couple years from now. So this is one of
+the things that I think is the most
+exciting is this notion of uh very rapid
+development, new opportunities and uh
+and bigger opportunity to have impact on
+on so many different levels. I I
+completely agree. AI is accelerating
+everything. Cyber security has always
+been a game of cat and mouse. So in
+nature it's always been how fast can you
+go and can you go faster than than the
+attacker. I I'm exhilarated by by this
+arms race, right? and and you know
+coming back I I was I was still in
+Paloto when when I wanted to start the
+company but I I really wanted to come
+back and build the R&amp;D center here in
+Tel Aviv because I wanted that AI talent
+that's coming from the IDF's mindset
+from cyber security and and uh and the
+lead combat of okay we wake up every day
+having to reprove ourselves and so uh
+with that I'm really want to thank you
+Oded and Nlesh for uh for uh having us
+here. Really really great. Appreciate
+your time and thank you everybody for
+listening. I hope it was interesting.
+Yeah, you too. Have us here.

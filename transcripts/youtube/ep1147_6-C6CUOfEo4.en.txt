@@ -1,0 +1,860 @@
+Now, companies that are still doing the
+traditional assessment today, which
+essentially means that you are um
+investing a certain amount of money um
+for for doing a static assessment that
+will give you a view of what issues you
+have, what vulnerabilities, what
+weaknesses, and then we'll give you um
+maybe a plan for remedi doing
+remediation for the set. that will keep
+you busy for a certain amount of time
+while um life is still moving on. So
+things are still evolving and threats
+are still no coming in and you might
+need to adjust. Uh therefore the
+traditional way of doing things
+essentially will allow you to have um
+yeah just a static view of things and
+then start planning for them and you
+will have to take a program and continue
+it etc. that will burn money immediately
+and then will leave you very little time
+for flexibility. With the CACR
+methodology, essentially you don't need
+to go through a full-blown assessment.
+You will just decide, I want to cover
+the scope. I have the system. I want to
+verify. You can jump in right away.
+Start going through your your sprint
+cycles of assessment and remediation.
+[Music]
+Mario Proio, welcome to the human zero
+day. Really, really excited to have you
+here with me uh talking about AI, cyber
+security, human security, everything
+related. Thank you so much for being
+here. Thank you and very happy to join.
+Yeah, really intrigued by the topic by
+the way. Yeah, I mean we're we're we're
+talking about I think probably the most
+uh some of the most exciting topics
+around um around security yourself
+today. you're the founder of Proiso and
+and the the methodology which you've
+shared with me which I'm really excited
+to dive into today really talks about
+how do you continuously assess risk and
+how do you remediate risk and part of
+what is I think really exciting in
+today's world is that the risk of humans
+and human security is changing
+constantly and so I'm really looking
+forward to hearing your insights as a
+CISO and as an entrepreneur on on
+addressing those risks especially as we
+don't know where they're heading but I'm
+getting ahead of myself. Mario, you're
+you have quite an extensive background
+as as a CISO um and and now with
+Proceeds. So, tell me a little bit about
+your journey all the way from from when
+you started because you've been at this
+really from the emergence of the
+internet even a little bit before that.
+Yeah, correct. Correct. So, um I started
+actually as a developer. So I was really
+um interested in uh you know building
+things, developing applications and uh
+that that was really exciting times and
+I must say I still look back at that
+because it allows me to see the insights
+of applications you know how
+applications work and you consider a lot
+of security issues. Many of security
+problems come exactly from bad coding
+right development of applications. So
+it's yeah it's a good good to have that
+kind of insight. Um beyond that yeah it
+was the times of uh of the internet. So
+um exciting times people were starting
+to connect and uh and there were
+opportunities you know to um yeah to to
+see this evolution
+of um um services which were being uh
+available on on connectivity on services
+on on telos and I was supporting uh the
+startup. So we started up with Italian
+line the new um internet provider in
+Italy the first one actually and there I
+was mostly on the uh networking side and
+therefore seeing things uh from that
+perspective which is also very
+interesting and uh uh helps also to to
+have an understanding of of how certain
+things work right connectivity at that
+time there were no firewalls so we we
+had to be uh creative in trying to
+protect our services uh directly on
+routters so creating ACL's directly on
+on the routters themselves. Then beyond
+that, of course, going more focused into
+into security and um essentially, you
+know, building up uh those capabilities
+which uh then evolved like intrusion
+prevention systems that help to protect
+better the the environment of of
+applications and um eventually I mean my
+career was mostly as a CESO and not more
+more or less 20 years that I've been in
+in this role in this area. I've been a
+CESO in Telos uh in Italy and also
+global enterprises and um essentially
+the experience that I managed to squeeze
+out of uh of that kind of role you know
+being a CISO in big corporations gives
+you uh visibility of technical issues uh
+in very important processes and then the
+human element you know being able to
+also integrate that and and the security
+measures need to encompass a bit of
+everything. So we always say yeah
+process you know technology and people
+and um and that is totally true also in
+cyber security of course. So so Mario a
+lot for us to unpack. I I want to
+quickly just grasp that this transition
+from developer to security. What do you
+remember? What was it for you that made
+you make that leap from being a
+developer to being a security
+professional? What was it?
+Well, um security essentially there was
+an opportunity for me to you know to to
+build up a team because there was a
+necessity. Um but uh the the the
+progress from uh application development
+uh to networking and to security I think
+uh gave me yeah the opportunity of
+seeing the different dimension different
+uh perspectives uh which are not so
+common or not so obvious if seen know
+within their individual silo. Um so
+essentially that sort of gives a a
+panoramic 360deree view of uh of how
+things operate and integrate with each
+other and the complexities of each.
+Yeah. So you've been at the CISO
+capacity for the last I guess two
+decades. you've and and and you know as
+a young security practitioner myself you
+know more so on the offensive side I've
+I've I've been fascinated looking at
+this this journey from you know the
+firewalls and 95 to
+you know malware detection with semantic
+and then cloud security and identity
+security and it feels like every few
+years there's this whole new category of
+security uh risk management that opens
+up and we're adding a few more acronyms
+and Gartner adds a new magic quadrant
+and and I mean it keeps on growing and
+growing. Can you share with me a little
+bit about your own experience? How has
+it been like for you operating in a
+landscape where you have certain risks
+that you're managing and then every now
+and then you have to be open to
+accepting a new modality that you now
+have to tackle and it's almost if and
+and how do you also do that in
+accordance with your organization
+because you effectively have to go back
+to your org and try to get them to
+understand this risk and why perhaps you
+need more budget etc. walk me through
+your experience with evol with the
+evolutions of cyber security.
+Yeah, indeed. So that's uh one of the
+biggest challenges because uh cyber
+security itself is extremely dynamic and
+there are so many variables you know
+which can change. So uh you mentioned
+threats uh there new challenging
+sophisticated um the new know entry
+points vectors of access and um there
+are um risks which appear continuously
+there are vulnerabilities which are
+published know every month and then
+there is the the organization itself
+that is evolving it's changing it's
+adapting to new businesses it's uh
+deploying new applications migrating to
+the cloud doing you know um digital
+transformations etc. So all of these
+need to be um viewed in their um in
+their holistic know um view. So
+considering all of these aspects and
+being able to um yeah to to drive and
+and to prioritize based on uh you know
+the elements that are uh fundamental for
+that period of time or that uh that
+requirement. What I like to highlight
+all the time is that um it's
+foundational to be able to have
+visibility of of uh what the
+organization has. So starting from its
+assets or its infrastructure, if it's
+using cloud, if it's using on-prem and
+and clearly understanding, you know, um
+um where the systems are, what they're
+doing, what data is processed, etc.
+That's why I say for me it's
+foundational to have um a riskmanagement
+program uh which essentially allows you
+to identify and here we can actually um
+um connect with the NIST framework which
+says it really nicely the the
+representation of of the NIST clearly
+identifies how cyber security needs to
+uh be uh properly integrated with
+different phases different capabilities
+starting from the identify phase where
+you will actually know your assets,
+understand what they do, um um classify
+them, understand what data they're
+processing, who is allowed to access
+them, what is their exposure, etc. And
+then you will be able to protect based
+on the knowledge that you have. You will
+decide what security measures you would
+want to implement. And then you when
+those will fail, you have to have
+capabilities to detect that uh something
+have managed to bypass those protective
+measures. Then you have to respond when
+an incident happens and then recover.
+And overlining this or underlining this
+is the governance phase which allows you
+to put everything together and ensure
+that you are um and managing the entire
+ecosystem with harmony and uh with
+proper you know holistic vision. Mhm. So
+if we look at the evolution of cyber
+security and we connect it to this to
+the to the cycle that you just
+mentioned. I'm I'm really curious about
+this first pillar which is the risk
+assessment. Right. and you're trying to
+to evaluate what is the risk that I'm
+prone to because the next question is
+going to be well how do I how do I
+proactively defend and protect against
+this risk. Uh how how what are the tools
+that you h that CISOs have today that
+you've had and others have to evaluate
+and quantify risk based on their own
+organization? H how do what does that
+pro thought process look like? Yeah
+indeed that's uh there are many
+methodologies for quantifying risk. You
+can quantify risk in a um yeah
+qualitative way meaning you will
+understand more or less the impacts of
+uh certain elements you know the
+likelihood the impact that that a threat
+can damage your company or you can even
+go into figures and have you know uh
+numbers connected to that that is quite
+complex to achieve. You can do it based
+on value of asset or you can also uh do
+that based on value of the outcome of a
+service. And so what would happen if
+that service would be disrupted for a
+certain amount of time, you know, then
+what what would I as a as an enterprise
+um where would I lose money and how much
+would I lose? Um but beyond going into
+that, I mean it's really important that
+an organization has some sort of um risk
+methodology that they can implement
+being it quantitative or qualitative.
+It's it's really important that there is
+one. You can also go to the fair
+institute and they have a very
+interesting quantitative methodology. Um
+we've built our uh methodology which we
+called CACR so continuous assessment
+continuous remediation. So it's
+mimicking the CI/CD in DevOps uh with
+the concept of being able to um repeat
+um short and frequent cycles. So we call
+them sprint assessment sprints which uh
+allows u any organization of any size to
+immediately start working in um a risk
+approached way. So you will be able to
+um identify those systems that are more
+important for your business, those that
+are important because they're processing
+personal data and then you will be able
+to go through an an infinite loop and
+that's how we represent it in which one
+of the tools that we make use of is
+threat modeling. And threat modeling we
+repeated twice in the in the assessment
+phase and in the remediation phase where
+we uh break down uh the services that we
+are analyzing um into uh boundaries and
+and ingress points, aggress uh where
+data can flow in where users can access.
+What type of users are we talking about?
+Are these uh consumers are these
+administrators? Uh what data do they do
+they have access to? And then we try
+identify threats that could you know be
+um could be attacking could be uh
+hurting this the service and we come
+with remediation ideas and based on then
+on these results we will evaluate also
+on the um effectiveness of certain
+actions and then prioritized based on uh
+the effectiveness of these. So we will
+be able to and and on on the impacts on
+risk reduction of of these uh counter
+measures that we would implement. By the
+way, Mario, I love the CACR um
+terminology and the analogy to CICD,
+which is a world that I'm very much fond
+of. But walk how is this different than
+what we've had before? So if you were to
+look at the way that a CISO or an
+organization would model its assessment
+and then threat and then and then
+remediation, how did that look like 5
+years ago versus the world that you're
+envisioning today? What's the
+difference? Well, not even going back 5
+years ago actually. There are many no
+companies that are still doing the
+traditional assessment today which
+essentially means that you are um
+investing a certain amount of money um
+for for doing a static assessment that
+will give you a view of what issues you
+have, what vulnerabilities, what
+weaknesses and then we'll give you um
+maybe a plan for remedi doing
+remediation for the set that will keep
+you busy for a certain amount of time
+while um life is still moving on. So
+things are still evolving and threats
+are still know coming in and you might
+need to adjust. Uh therefore the
+traditional way of doing things
+essentially will allow you to have um
+yeah just a static view of things and
+then start planning for them and you
+will have to take a program and continue
+it etc. That will burn money immediately
+and then will leave you very little time
+for flexibility. With the CACR
+methodology, essentially you don't need
+to go through a full-blown assessment.
+You will just decide, I want to cover
+the scope. I have the system. I want to
+verify. You can jump in right away,
+start going through your your sprint
+cycles of assessment and remediation.
+Assessment on remediation, which can be
+parallelized. So, they can work very
+quickly and can be very effective and in
+time. So, they're always very current.
+And then it leaves you the flexibility
+to
+um either extend the scope so make it
+broader and and add new systems or
+adjust on priority and and or adjust on
+the framework that you have uh
+implemented. For example, you say now we
+have N 2 which is uh um as we we need to
+yeah some companies need to um adhere to
+and um you don't need to scramble. you
+will just uh verify what additional
+controls you need to add into your
+existing framework, harmonize them and
+then you just keep going with your
+cycle. No hassle and uh no problems. Um
+so essentially that becomes very very uh
+flexible um easy to adjust and adapt
+based on know what is going on if
+there's new threats that you need to
+prioritize or if your business needs uh
+more attention elsewhere.
+And so it sounds like you're really
+taking this from a periodic I don't know
+whether it's quarterly or bianually
+maybe you can share more approach that
+CISOs would do and and I'm hearing a lot
+about you know the way that CISOs
+present to the board you know here are
+the top threats here's what I'm going to
+do next year and it sounds like a very
+static you know point in time approach
+you're really talking about an agile
+methodology bringing it to the risk uh
+risk and remediation
+context, right? So, how how big of a
+shift are you talking about here? Is it
+instead of once a month, we do it once
+every two weeks or is it as big as once
+a quarter, we do it once every two
+weeks? Yeah, correct. So, normally, as
+you were mentioning, um, companies would
+have a campaign which is a yearly
+campaign and you would provide results.
+Then, maybe the more mature would say we
+have quarterly reporting and so you
+would report to the board on a quarterly
+basis. we can easily um get to the point
+in which we can report uh on a monthly
+basis but also with tools this can be
+done actually real time. So we can
+integrate uh the results uh that we have
+based on you know the status in which we
+are uh where the progress of remediation
+actions and we can in any point of time
+just at a click of a button provide a
+report where we are where we stand and
+that gives uh a few benefits. one is to
+the CESO himself. He knows where he
+stands, what he needs to still do, what
+he and what he's achieved and he could
+demonstrate achievements to the board
+and say, "Hey, this is uh what I had
+planned to do. I'm covering these risks.
+This is how I spent my budget and this
+is what I still need to do for the next
+cycle, the next sprint. Therefore, this
+is no what I need for funding and I will
+cover these other risks." And that
+becomes then um an easy program to
+follow up on and everyone is fully
+aligned. there's a lot of visibility.
+You have a good understanding. You you
+have a good plan and you can adjust
+flexibly. It doesn't have to be a static
+one-year-old plan. And then you can
+review it at the end of the year. And
+are there elements already in cyber
+security that have begun to shift to
+this I guess CACR mindset? Because I
+would imagine that there's elements in
+in the attack surface where CISOs are
+understanding that they need more
+continuous realtime feedback on their on
+their posture management versus other
+areas which are more static. H is there
+a already a shift there or is this
+something that's that's still very much
+in the static world? No, indeed. So if
+we go then into operational um elements
+uh then we will uh and there's always
+been this need for visibility of what's
+going on and it's an essential
+capability and indeed the NIST framework
+um identifies this in two out of five
+phases right so you will have detect and
+respond which are two capabilities which
+are actually real time so the more data
+you're capable more telemetry you're
+capable of pulling in from systems from
+endpoints from uh routters, firewalls,
+etc. uh cloud environments. Uh the the
+more the granularity you will have in
+your dashboards of what actually is
+going on and uh you will be able to
+capture those weak signals. And um of
+course you will this it's very important
+to then create uh content and use cases
+which are relevant to your context and
+are relevant to your business dynamics.
+Right? So if you have people that travel
+very frequently, you will have a
+conditional access that will take in
+account that that possibility. You don't
+want to overanoy
+your uh end users, your uh your
+employees, you know, um challenging them
+with 2FA all the time. But um you know
+the better you have an understanding of
+of your company and how it works and you
+more integrated into the business um the
+better you will be able to tune your
+machine that receives this information
+that will generate the alerting based on
+that and the logics that you want to
+give to it. So indeed sock capabilities
+are fundamental and nowadays we have
+more and more information which uh yeah
+we need to be assisted by AI and uh and
+and being able to correlate very quickly
+and understand you know if uh there are
+any weak signals and be able to jump on
+them and act upon them. So you've been
+now um I know working with with
+different CESOs on this and you yourself
+are you know with more than two decades
+of experience. What is the reception
+that you're getting from the audience on
+on adopting this methodology methodology
+adopting this mindset taking a more
+iterative agile approach to risk
+assessment and remediation? What has
+been the feedback you're getting?
+Indeed, it there's a lot of interest and
+um essentially it's um consolidating
+into a streamlined methodology with um
+very clear steps that that need to be
+followed. Uh the diagram is available.
+Anybody could actually follow it. um
+it's uh I would say common sense but um
+the the way we implement it and then we
+help companies to execute that then
+that's that becomes a bit of a gamecher
+because um indeed um it simplifies the
+way um cycles of risk management are are
+done and uh it definitely gets more
+engagement and involvement. um CISOs
+like it because they are then capable of
+demonstrating to the board um what their
+security posture is like at that current
+moment in time with that current um
+maturity level that they have. So it
+might be that you know companies already
+have a lot of visibility and can
+demonstrate u a lot of information
+others are starting new and then they
+have really nothing to show. So that
+that it's an opportunity with this
+methodology to start small and show
+immediately right. So you can even start
+with just a couple of systems and uh go
+through the process and already have
+visibility and identify some risks.
+Threat modeling will will illuminate uh
+areas of risk immunity that you can show
+to the board and you can explain in
+understandable risk terms and um and
+therefore um yeah get into this uh
+discussion uh which which can continue
+with uh with board members uh C levels
+and then integrate also with the rest of
+of the team the IT team ensuring that
+everyone is fully on board and you're
+sharing you know what the objectives are
+what your targets what are the systems
+you will be working on and because
+security by the way is not just an
+isolated function it needs to be fully
+integrated with IT with HR you know
+we're talking about humans as well and
+therefore um being properly integrated
+within the entire organization
+I love it so so let's let's take a look
+for a second at this infinite cycle
+you're talking about which I think makes
+sense to me would be relevant for any
+attack surface on the organization and I
+think we tal talked about that in one of
+our other conversations about this idea
+of how do you integrate technology to be
+able to run to assist and run this this
+process across different integrations,
+right? And but but but and I want to d
+use that as a as a segue to dive into
+this context of humans and and and
+attack the texts and the risks
+associated with the emergence of social
+engineering and fishing and and f even
+before that give me your take on social
+engineering and fishing in the context
+of the enterprise because this has been
+a a growing space since the first days I
+think of the internet um with
+evolutionary technology ology both in
+detection and response as well as
+awareness and training. What is your
+take on on the social engineering and
+fishing space?
+Yeah, indeed. So, um
+fishing is uh is is being uh a big
+threat for many many years and it's
+still continuing today. It's it's
+probably the the biggest uh know attack
+vector that that we know of. And um
+there are two lines of thought here. So
+uh some say that doing security
+awareness uh doesn't really help because
+the the human is weak and he will always
+fall for that fishing attack right and
+so they say no you need to invest in
+technology and um others instead say no
+but you need to combine because it's not
+just about uh technology there are also
+some social engineering attacks which
+happen through uh other channels for
+example just a phone call where you have
+a fake IT guy who's calling ing you know
+an employee saying hey I notice some
+strange traffic coming out of your
+laptop and you quickly go to this
+website and click here and there yeah of
+course you can block that website but if
+the attacker is using a G drive for
+example then you you won't be able to
+block that website and uh no you you can
+go into levels of sophistication so I
+still believe that uh security awareness
+is really important but what's important
+is how you implement that security
+awareness so if you implement it as um a
+boring uh training corporate training
+session then you won't get much uh
+attention and much traction but if you
+implement it and we've managed to do
+that actually very successfully in in in
+one of the uh companies I was working
+for as a CISO we make it a a personal
+educational opportunity right in which
+we explain to uh employees how certain
+threats could impact them personally
+right so you have a Gmail account, why
+don't you enable two-factor
+authentication? Oh, it's it's it's your
+personal email. Okay, nobody cares about
+your email, but then maybe you have a
+Bitcoin wallet and you're connecting
+with that, right? To receive
+notifications from that wallet and maybe
+you didn't activate two-actor
+authentication to your Bitcoin wallet
+either. Now, then you start getting a
+bit more attention. people are are
+interested and if your awareness uh
+campaign um blends you know both the
+corporate requirements and the personal
+interest of of the people then it will
+be extremely successful. you will deploy
+what we call a culture of security,
+right? In which people are actually not
+just interested, they are excited about
+security. They will attend town halls,
+you know, um October awareness month. Um
+people were coming saying, "Hey, what
+we're going to have uh this month, we
+were bringing sessions of of hackers
+doing, you know, demonstration, live
+demonstrations of attacks or via Wi-Fi,
+etc." And people just get more and more
+excited and interested and they will be
+um involved and and be able to also to
+engage with the security team and not
+just see the security team as a distant
+team, one that will be checking on them
+and then if they click on the link they
+will be hammered because you know they
+did the wrong thing but actually be able
+to reach out, report and u ask questions
+and um yeah look at the security team as
+a team that can give tips and
+suggestions.
+Absolutely. And so if we're looking now
+at the idea of a threat modeling and
+risk assessment for social engineering,
+we we realize it's a big threat, but how
+are how are CISOs or organizations today
+assessing the organization's resilience
+to this to even identify where the
+biggest pain points are and where they
+should be investing resources to protect
+their humans?
+Well, well, what Caesars do normally uh
+are uh campaigns. So, definitely there
+are training campaigns maybe followed by
+fishing campaigns. Uh so, trials
+verifying and trying new also threats.
+So, for example, QR code fishing now is
+uh is quite new and subtle and um they
+will try maybe doing also social
+engineering attacks. Uh we did a few of
+those as well in which people would just
+try and enter the building uh without a
+badge uh by just talking and uh reaching
+out and saying hi to colleagues that
+they didn't know about but nobody would
+say hey who are you I don't know you and
+then uh piggybacking through you know
+into the office and then walking around
+uh looking at what's on the desk taking
+pictures of you know open laptops or USB
+drives swapping USB drives and whatever
+and then um doing a nice session after
+all of that showing this is what we
+found no and then and then uh
+documenting everything with a video and
+closing out you know showing what the
+actual impacts could be. So giving some
+results okay this no uh simulating what
+could happen if the attacker had
+actually done a certain action. So these
+could be uh effective ways of working of
+um of tackling these kind of risks and
+uh I see CISOs actually implementing
+some of them. Yeah. And so do you think
+in your assessment today do you think
+CISOs have a good understanding today of
+the human zero day in their
+organization? So where the humans are
+susceptible, how they're susceptible and
+and where the next the next attack may
+come through. Do you feel like they have
+good tools to be able to make those
+assessments?
+Well, the next zero day human attack
+maybe not. So, I think traditional uh
+attacks maybe yes. And again this really
+depends on the maturity of of the
+organization and of the CISO because
+also really social engineering attacks
+um are um are not so common but um they
+they happen and they happen even on a
+personal level right so everyone has
+probably received a fake SMS from FedEx
+you know saying hey click here because
+we we're dropping your parcel or
+received a phone call and um so these
+are um not so new but uh not many CISOs
+are actually doing anything about these
+uh except maybe for training. So, um
+yeah, going through um uh videos or
+short quizzes to try and uh you know,
+see if people have an understanding of
+of this kind of attack because it sounds
+to me like, you know, security
+threats are evolving across the board
+and this is exactly why you've founded
+ProISO, right? This is why you're you're
+saying security is changing so fast. The
+rate of change of security changes is
+changing. So the derivative is actually
+positive which means that we need to be
+faster and better at doing these
+evaluations with the area that you know
+this that we're focusing on especially
+also here in this show it's this
+question of the attacks on humans are
+probably I think changing as at least as
+fast as any other security
+attack surface if not even more because
+of AI generated content deep fakes the
+fragmentation of attack vectors on the
+humans. And so it sounds to me like the
+way that the the model and the
+methodology that you're bringing to the
+security world in general is even more
+dire and critical for human security.
+Totally. And I mean that that's the
+reason why we came up with this idea.
+Now first of all uh because cyber
+security is so complex uh we need to
+find ways of making it easier. And how
+do you make things easier? Typically uh
+from an engineering perspective, you
+break down a bigger problem into smaller
+problems, right? Make them more frequent
+and easier to handle. And that is the
+concept of the CACR. So we we break down
+the entire process into smaller ones. We
+have uh nice functions which are which
+are flexible which can accommodate uh
+new systems, new threats and have uh
+know understanding of uh the new
+environment that we need to protect
+against and uh and being able to yeah um
+see and shift very quickly as uh as
+needed to uh know to to to address new
+threats and uh being extremely reactive.
+Yeah, absolutely. Mario, what has been
+the most fun aspect for you over the
+last two decades as a CISO?
+Oh, wow. Uh, there's so many nice
+moments. We've had um yeah, we've had
+compromises that those are normally
+things that a CISO would not be proud
+of. Uh but I think and um it's it's
+important to be able to uh handle uh
+compromises and be able to quickly react
+to them, understand them and m minimize
+know the impact of that. That's there's
+a concept that was um highlighted I
+think a couple of years ago uh called
+resilience. No, and that is extremely
+important to keep in mind. Uh resilient
+means that um you can be compromised and
+probably every company has or will be
+compromised and it becomes really
+important um to be able to res
+understand um as quick as possible
+possibly with um weak signals and then
+quickly react and try and block the
+attack as early as possible on the kill
+chain. Right? The kill chain are
+multiple steps that need to be followed.
+Uh the quicker response the better of
+course. So we've had a couple of of
+really harsh incidents and um in uh one
+specific it was in the times in which um
+well not all traffic was encrypted. So
+it it was uh enjoyable because we had
+just deployed a system that would
+monitor traffic on the network. And
+thanks to that we managed to reconstruct
+every single little piece of uh what the
+attacker had done. How he deployed the
+uh the shell and then how he did the
+activated the back door and and then
+introduced additional code etc. But also
+recently in telco telco there's a lot of
+visibility because that's where all the
+ends meet right so the um the telco
+provides connectivity um comp companies
+make use of that connectivity uh
+consumers make use of that connectivity
+and attackers as well make use of that
+and uh in the telco environment there's
+a lot going on and we've seen uh some uh
+I can't tell too much but I've seen some
+really crazy stuff. Yes. Yes. And when
+we say ATPs,
+um, actually a sorry, advanced
+persistent threats, uh, in Telos, you
+can really see those. Yeah, I love it.
+Mario, I really want to thank you for,
+uh, for the time and for for being here.
+Uh this has been a very very informative
+and and eye openening and I think that
+bringing the CICR context with the CI/CD
+uh analogy to the uh security world I
+think that's such a cool um cool way of
+thinking in general but then being able
+to make it practical and methodologizing
+it and and uh bringing your expertise
+sounds like a really big uh game changer
+and and thank you also for sharing your
+insights on the human security element.
+I appreciate that as well and uh thank
+you very much for being here and best of
+luck with all your amazing endeavors.
+Thank you. Thanks a lot for having me.
+Yeah.

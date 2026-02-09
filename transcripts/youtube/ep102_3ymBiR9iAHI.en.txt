@@ -1,0 +1,626 @@
+and we had talked about how one day
+there will be a global pandemic of this
+nature and it's
+really quite astonishing that this is
+actually happening now
+[Music]
+all right i'm me mac thank you for being
+on my show how are you
+i'm doing well how are you michael i am
+doing just fine
+as you were both talking from the bay
+area right
+but you you actually have something very
+very relevant to what's happening today
+and you're at the director of
+translational medicine
+at the genome center within stanford
+medicine right did i get that right
+that's correct the stanford genome
+technology center
+okay so what does that mean what does
+that mean that you're leading the
+translate
+translational medicine sure
+so um first of all thanks for having me
+on this show
+of course great job this is wonderful
+and very exciting
+um and so at stanford
+your alma mater the the stanford genome
+technology center
+is a center where we use genetics
+microbiology lots of different
+technology work with engineering
+and it's a multi-disciplinary group that
+really is involved with lots of
+innovation
+and new product development used to
+study
+all sorts of different uh healthcare
+related problems as well as
+biotech type of type of problems so
+i work with dr ron davis and he
+was one of the uh leaders in the
+development looking at the human genome
+wow okay that that's amazing and
+actually you know your
+your life story is very unique and and i
+think that that's what i want to
+i want us to start because you're
+starting out as as a patient yourself so
+you're a swimmer exercise enthusiast
+suffering
+a chronic disease of lower back pain is
+that right
+yeah well you know low back pain was
+just part of my story
+um to be quite honest this was a this
+has been about a 20-year journey
+and so the reason translational medicine
+is so important to me
+is because it really um is a field in
+which
+you have to understand your the patients
+and what their needs are
+you have to understand what research is
+doing like what researchers are
+looking for in doing and then you have
+to be able to take
+all of those things together bridge
+physicians researchers and patients
+needs
+and come up with the most strategic way
+to get to a goal
+and so um really understanding what
+the needs of the various stakeholders
+that are involved in
+for example um designing a diagnostic
+test
+or um you know learning how to use yeast
+for all new
+sort of purposes um you really kind of
+science can be done oftentimes in a way
+that is
+very um nuanced
+and so being able to guide researchers
+to say
+this is actually what's relevant and
+this is what the patients
+need is really where i fit in
+okay now and but but you know you're you
+have the unique position of
+you know transitioning from patient that
+you think 20-year journey
+underwent you know a massive surgery and
+you you know you you can empathize with
+the path that a lot of people
+in similar situations not necessarily
+the same disease per se but different
+situations are are facing and then you
+are transitioning to being a physician
+and now you're you know you're being
+acting as a researcher and trying to
+innovate past what is what we know today
+right
+that's right so about 20 years ago i had
+mononucleosis which is a very common
+um viral infection epstein-barr virus
+95 of the population actually has it but
+somehow for some reason in my immune
+system
+that virus triggered something and
+caused an immunodeficiency
+and therefore i became more and more
+sick um
+ultimately i was diagnosed with a
+condition called chronic fatigue
+syndrome
+which is now currently named myalgic
+encephalomyelitis
+and you know i i understood the first
+one the second one i didn't understand
+it is a mouthful we call it me for short
+and you may have heard a little bit
+about it because now with covid19
+um what we're finding is with sars
+patients covet 19 patients
+patients who've had all sorts of other
+communicable diseases
+many of them end up with this
+unrelenting sort of
+fatigue as well as other problems
+dizziness brain fog difficulty thinking
+and so what we're doing at the stanford
+genome technology center
+is we've heavily put many of the
+resources
+towards trying to come up with a
+diagnostic test for this illness
+and solving the illness and looking at
+its molecular underpinnings
+crazy you know that's exactly why i love
+this show so much because you know we're
+preparing to do this
+episode together and out of the blue i
+get an email from you saying like
+like michael just fyi we're working on
+you know on this crazy development
+that's happening with covet and
+where the front and and and i'm so
+excited to talk to you about that
+what is it like being now on the
+forefront and discovering
+with the world but a little bit before
+the world how
+you know this this unbelievable pandemic
+is taking its shape
+like really really trying to to make
+sense of all the confusion there
+well to be honest at times it can be
+frustrating because we see things ahead
+of time
+and you know as scientists researchers
+and physicians
+there's we need to
+certain things using research however
+based on prior viruses we can have some
+idea of what is in store and have some
+predictions
+um i was speaking with my my colleague
+and boss dr ron davis about
+two years ago and we had talked about
+how one day there will be a global
+pandemic of this nature and it's
+really quite astonishing that this is
+actually happening now
+so um to be doing the work that we're
+doing
+it's it's very exciting
+and the way that i look at it is you
+know there are so many things from a
+scientific perspective
+that we need to still learn um but to be
+able to be right
+at the leading edge of discovery
+um is so so exciting
+and what i really would love
+people to know is that you know i had it
+i had an illness um i went through
+medical school i went through residency
+i went through fellowship training
+practiced as a physician
+ended up here did some work with uh
+healthcare and technology
+and really dove deep a long time ago
+into app development
+and how we can use mobile applications
+to really understand what's happening to
+humans
+and at this point now we have wearables
+that can plug into apps we have all
+sorts of really
+cool innovative techniques to gather
+data
+so that we can tell patients stories and
+connected to the research
+because oftentimes we do all these
+really great
+molecular and genetic tests and whatnot
+but what we're
+trying to do is get real-time data from
+people and make sure that that's clean
+and precise data and that's a huge
+challenge
+but somebody's got to do it right 100
+and you know so you know take me a
+little bit about talk to me a little bit
+about this journey of yours as a
+researcher
+and you know coming in as somebody who
+you know a young entrepreneur
+software engineering i don't get exposed
+too much to biotech and and
+work with genomes and understanding the
+human body the way that you do
+how do you even get it started in this
+field and how do you
+look what's your day-to-day like oh
+that's a great question
+so my day-to-day is very different i
+don't have
+you know a typical day and what i'm
+asked to accomplish in the center varies
+depending on which team
+i'm working with right for example um
+right now i'm working on a project where
+we're developing an app
+so that we can continue to collect data
+from patients who have covid19 to see
+what percentage of patients end up
+developing this chronic long-standing
+condition
+so recently chris cuomo um
+on cnn stated that he also has this
+condition
+and anthony fauci has also talked about
+how so many people are ending up with
+long-standing long-term
+uh debilitating issues as a result of
+growth
+and so for me this has been my life's
+work and i'm so passionate about it
+because i was one of those people who
+was never supposed to make it
+i was one of those people who was too
+sick to finish medical school or too
+ill to do residency and so you know
+for me finally doing my own research and
+figuring out what was going on and being
+able to maneuver health care
+because as a physician i understood how
+the health care system worked
+um for me that that's a great story
+personally but what i could what i have
+concerns about is what about the people
+who don't know how to navigate the
+health care system
+how do we plug them in and then how do
+we get people like you michael
+to come and help us parse through all
+this data use artificial intelligence to
+make sense of
+the voluminous amounts of data that
+we're getting and to really help us find
+answers and clusters and um
+uncover a lot of problems that we find
+especially the immune system
+and the immune system is extremely
+interesting and it's kind of
+um we know things but there's a lot that
+we don't know
+and we need people to help us from the
+data side we need people to help us from
+the technology and wearables side
+we need you know fun engaging apps we
+need to present
+combine that with the researchers i
+think that's i think that's in
+that's incredible i'm actually very
+close to it to a startup back in tel
+aviv called immune ai
+they just recently came out of stealth
+mode and that's and they're trying to
+use artificial intelligence to uncover
+the immune system and to and to help do
+research on that front
+but then you know coming in as a
+researcher how do you you know as a
+doctor
+now think about this integration with
+engineering and artificial intelligence
+because i'm assuming that most
+doctors in your position don't
+necessarily have you know the
+technological expertise of
+years of dealing with data and all of a
+sudden you're
+you understand that in order to really
+make sense of the research you're doing
+you're going to need
+support from people who have no idea
+about what you're doing
+but they're experts in artificial
+intelligence and you have to find this
+this weird combination right yeah yeah
+so first of all i have an amazing father
+who is an engineer and computer
+scientist himself
+so being around a lot of computer
+science people growing up
+um you know i recognize the
+need for technology to really help us
+solve problems so he was in supply chain
+management so i was able to apply his
+supply chain management
+um theory to how to run a practice
+fluidly
+um i think that i'm fortunate in that i
+work with such
+amazing brilliant researchers and
+they i'm learning every single day
+um so how i ended up here to be quite
+honest i kind of let life guide me
+um it was quite serendipitous um
+i had done genetics research in
+undergrad and i was thinking about doing
+an md phd but they didn't have an md phd
+program at the time so i just did my md
+but unfortunately i became ill
+and so i got kind of frustrated at being
+both a
+medical student and a patient
+so afterwards i really i left medicine
+and i worked with an internet startup
+company
+and then i also so we were doing ui ux
+before ui ux ever even existed
+when are we talking about what year is
+this this was
+2 000 and 2004.
+wow right 2000
+wait but but that started it it was in
+the medical space right
+no actually it was completely different
+completely different it was a language
+learning company called mango languages
+and it's still in existence
+and they're doing wonderfully but i
+always wondered where all of these
+different um experiences
+i had when it would all come together
+and
+then i was able to apply ui ux and what
+i had learned about that
+to creating mobile healthcare apps i
+worked as a
+upmc university of pittsburgh medical
+center in harvard and we had done a lot
+of work on creating an app and i've done
+some advising in the past
+wow being able to integrate um
+just these various experiences if
+there's one thing i would say to people
+is don't be afraid to try something new
+because
+the convergence of
+learnings from different up from
+different fields
+is really where innovation comes from um
+it really teaches you to think
+differently and i encourage people
+you know there's a lot of times students
+will say to me oh my gosh i want to take
+time off of school
+you know but my parents don't want me to
+and i'll sit down and talk to the
+parents and say
+you know what that experience one day
+will really serve
+you know your son or daughter really
+well so don't be afraid to try new
+things because one day
+just like in my life now everything
+manages
+to make sense and come together and all
+of a sudden now you're dealing with you
+know the same disease that you
+had to deal with for 20 years but now
+you're dealing with it from a research
+perspective
+and and and what are the implications
+and how to help others
+through it but but i mean then then talk
+to me a little bit about this you know
+teaching style and mentorship
+you're alluding to that and right before
+our call you know you mentioned to me
+that that is one of the things that
+you're really passionate about
+so so what it what is teaching for you
+or mentorship
+guiding others through their own journey
+which like you're mentioning is
+is very sometimes difficult to do when
+you're getting you know very
+a lot of pressure from different sources
+and it's hard to navigate your own path
+so to me i was very fortunate
+i started my residency and joined our
+academic association the association of
+academic positions
+and there i was very inspired
+because we had lots of physician leaders
+that took all of us on and what i
+learned is
+you can never have enough mentors
+because each mentor
+may have something different to offer
+you know one might be
+more interested in media affairs another
+might be more interested in technology
+and there's so many different things you
+can learn from each one of them so i
+always tell people don't be afraid to
+seek out as many mentors as you can
+um and for me one day when i'm gone
+it's important to bring other people
+into
+who will be doers and who will be
+thinkers and
+who are excited about forging ahead you
+know we're living right now in a very
+tumultuous time
+yes tumultuousness doesn't mean that
+we have to fade away it means this is an
+opportunity to
+really seek deeply what's in your soul
+and pull that resilience out and say
+what can we do to make this better
+because there's always been times in
+history where there's been scary things
+that have gone on whether it be wars
+this that or the other thing
+but it's really the people who pulled
+themselves up and said how do we
+fix this that's really what pushes
+um pushes humanity forward
+and i think one of the greatest uh one
+one of the most common phrases
+of the stanford business school is don't
+waste a good crisis right
+yes i don't remember who coined it i
+think it was one of the maybe it was
+churchill or something
+but uh but but i think no i think it's
+very true and it's not just in the realm
+of
+you know how to leverage you know
+economically a crisis that's happening
+and that's a lot of what entrepreneurs
+go to but also
+how do you know in terms of mentorship
+and teaching how do you take this time
+of introspection and understand
+what you want to do and i have a lot of
+people that i speak to that have been
+taking this
+time out and and sort of reevaluating
+what their priorities are
+what you're forced to do when you're you
+know when all of a sudden you don't have
+all the experiences outside that are
+sort of like noise
+that don't allow you to to look
+internally right absolutely you bring up
+a really good point
+breaks for self-reflection are really
+important
+because otherwise you end up on a
+completely different path than where you
+want to be
+it's very easy to hold in different
+directions sure
+i mean what are you excited about what
+really you know gets you up in the
+morning and
+makes you feel so passionate and glowing
+throughout the day
+first of all learning you know there's
+i also still continue to have mentors so
+every day
+learning about what we can do with
+healthcare technology all the research i
+mean
+reading constantly throwing myself into
+the work but what really excites me
+is this disease that i've suffered from
+for 20 years
+that has received
+very little um attention and very little
+funding
+um unfortunately there's a
+pandemic but fortunately we have the
+opportunity like you said
+now to study this and understand
+what's happening and you know
+it's too bad that it took a global
+pandemic for us to
+be able to seek out the answers to what
+is happening inside of the body as
+people transition from getting a virus
+and what happens long term
+but we have to grab it with both hands
+and so for me you know
+trying to let people know what's
+happening and get funding for this kind
+of work
+and speaking with the uh with the
+different researchers and talking to the
+fda
+about how we're going to get things
+improved but what really grabs me
+is you know how we can leverage
+technology now to answer
+questions that we could never answer
+before um
+there's so much data out there and so
+we need technology to be able to really
+parse through
+all that information that's coming at us
+yeah and i mean that's exactly where i
+think the world is headed right now
+right we're seeing this boom of
+understanding that
+that now we have to leverage data
+science with the work of researchers and
+doctors like yourself to really make
+sense of
+what's happening and and i i'm
+personally very very
+excited to see where we're headed and
+and what's going to happen in the next
+few years
+i'm especially excited to be a part of
+this transition and and have and get my
+own hands dirty with it with a lot of
+this work
+i mean before we leave i have to ask you
+the most important question three words
+that you would use to describe yourself
+um let's see
+inquisitive okay um
+fears fierce what does that mean
+fierce means
+peace means seeing that something's
+challenging and going for it anyway
+okay not being
+so i guess the next one would be
+confident confident that you can
+you will figure it out and resilient
+inquisitive
+fierce and confident i love that i think
+that's exactly what it takes to do the
+work that you're doing
+so no surprises there
+definitely yeah michael it's been oh no
+thank you
+this was this was great thank you for
+your generosity thank you for your time
+this was just inspiring
+i'm i'm personally i think that it's you
+know i can't wait to get deeper into
+this world and understand it better
+because this is where the impact is at
+the end
+and then it's literally you know saving
+lives and making you know helping people
+going through pain live their lives
+better healthier and in less pain
+and you know coming in from the data
+science side myself i'm just excited to
+see this
+this harmony i'm very excited the one
+last thing i do want to
+let everybody know is that
+we estimate that 2.5 million americans
+have chronic fatigue syndrome or myalgic
+encephalomyelitis
+and there's been less than five dollars
+per patient
+of nih monies that have been put towards
+this
+wow just to give you a little bit of
+background there's 950 000 patients with
+hiv
+this is 75 of patients with this illness
+are either home bound or bed bound
+cause of disability so if you think
+about it about
+at least 10 percent of patients with
+sars developed this
+now if 10 percent of patients with stars
+ii or covid19 develop this we have a big
+problem on our hands
+so we really have no choice but to
+really
+you know figure out what's going on
+because perhaps we can prevent things
+from happening to other people it can
+destroy lives
+unbelievable amin thank you very much
+for the inspiration
+you're michael stay safe and stay out
+i look forward to chatting again take
+care bye
+you

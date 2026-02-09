@@ -1,0 +1,588 @@
+We said like well there should be some
+priors in humans about how we can uh
+find authenticity how we can ensure that
+it's really a human right like it's a
+real video. Um so in that sense we
+actually looked at like what can be that
+like um generalizable um prior in humans
+and we said well maybe the blood you
+know like all of us have blood all of us
+have like a heart um maybe we can look
+at the heart of the deep fakes and real
+videos. So that's how actually the fake
+catcher started.
+[Music]
+Il Demier, welcome to the human zero
+day. I'm so honored to have uh you know
+this time with you h to talk about some
+of the most amazing work that you've
+been doing which has been really
+inspiring for me following from the
+sidelines and not just because of how
+cool it is but also I see the impact
+that it's creating and the way that
+you're talking about it is is the really
+really awesome. So thank you so much for
+agreeing to be here.
+&gt;&gt; Of course. Thanks for the invitation and
+I'm super uh hyped to talk about
+everything that we do.
+&gt;&gt; I love it. So, Ilka, you're dealing
+today with one of the most pressing
+issues erh that societyy's facing. The
+issue of deep fakes, the issue of trust
+in media within Intel, you're in trusted
+media team. You're also the inventor of
+the fake catcher. H the name speaks for
+itself. What is what what does it mean a
+a fake catcher? That's a not a trivial
+name to choose for any any solution.
+Yeah, absolutely. Um, so fake catcher is
+actually like um more than five years
+old at this point that um it was just a
+curiosity about like what we can do
+about deep fakes. You know, at that time
+we were seeing those like new GAN
+approaches like one or two like um good
+deep fakes that are coming off. Everyone
+was saying oh that's a niche area. Yeah.
+Yeah. Humans have been replicated for so
+long. uh but we said like well there
+should be some priors in humans about
+how we can uh find authenticity how we
+can ensure that it's really a human
+right like it's a real video. Um so in
+that sense we actually looked at like
+what can be that like um generalizable
+um prior in humans and we said well
+maybe the blood you know like all of us
+have blood all of us have like a heart
+um maybe we can look at the heart of the
+deep fakes and real videos. So that's
+how actually fake catcher started. Fake
+catcher is a deep fake detection
+algorithm that is looking at biological
+signals um specifically the heart rate
+and blood flow on your skin.
+We're gonna So, we're going to dive into
+all that. That's fascinating. And I
+think when you actually look at what
+deep fakes are, you know, these nonhuman
+impersonation of humans, it seems only
+fitting that you will use human
+biological signals to discern what is
+human and what is not. Before we get
+there, you actually still started your
+journey in computational geometry,
+right?
+&gt;&gt; Yes. Yes, that's true.
+&gt;&gt; How tell me about that journey.
+&gt;&gt; Yeah. Yeah, of course. Um, so my uh PhD
+and uh all my life was on traditional
+generative models which are like
+procedural models, inverse procedural
+modeling. Um, all that graphics was how
+we can actually create 3D data, how we
+can analyze 3D data, find the rules and
+al systems and grammarss from 3D data.
+So my PhD was on all of that. Um and
+then like we branch from everything from
+we branch even to like 3D printing to um
+3D construction to like many things. Um
+well defect detection already only
+started as a um uh curiosity like at
+that time I was working on um human
+understanding in virtual reality. So how
+we can actually um look at our eyes and
+maybe predict the next gaze or how we
+can actually look at the hands, how we
+can look at the expressions and try to
+understand something about about humans
+in VR space. Um and that was already
+giving some um clues about like humans
+being predictable, humans having those
+signals, right? And when defects were
+emerging um I switched a little bit just
+with with this project with the
+curiosity but then um throughout the
+life of um um I think my team in Intel
+my position uh we said let's actually
+like uh explore more so uh after fake
+catcher we did many different detectors
+then we started doing like is possible
+generative models looking at media
+provenence etc. So I think the whole
+transition started as a as a curiosity
+for me. Um I I never left the 3D world
+either. So we still have many projects
+on like gash and splats or nerves or
+like any other like the 3D approaches
+that you may think of but it's not the
+main focus right now.
+&gt;&gt; Wow. Okay. So it's you know take me five
+years ago to to really the the creation
+of the fake catcher. So you know where
+are you? What's happening? What is
+making you say this is what I'm going to
+do now and did you know that 5 years
+down the line you're still going to be
+doing it but obviously you know leading
+it bigger and bigger.
+&gt;&gt; Yeah, great question. I think I will
+start from the end. I think I wouldn't
+have thought about like still working on
+a catcher up to date. I would have uh
+imagined like I would be working on like
+different um different research area not
+different research areas but different
+research topics not catcher. So um so as
+I said like we were looking at like um
+human understanding in virtual reality
+and then um I said like there should be
+some priors in humans um and at that
+point I think in I don't remember where
+but like in one of the topics or like
+research teams or um at some point I saw
+the 2012 paper from um uh Bill Freeman's
+uh group at MIT which is one of the
+first photography papers PP PG uh papers
+for those that don't know that big word
+photoismography
+that is um finding the heart rate from
+videos. So you know like we go to like
+physical devices and they find our heart
+heartbeats, heart rates um you can
+actually do it remotely and that has
+been used in like patient monitoring uh
+for for some time. So um that's um
+looking at the color composition from
+the skin and uh understanding your heart
+rate. So that's like um
+photoflatismography. Anyway, then one of
+the first like remote
+photoflatismography papers from uh MIT.
+I saw it and I'm like well this is
+actually this sounds like a
+generalizable um biological signal that
+we all have. Um and then I called my uh
+colleague uh who is the expert on PPG
+called like Omar Chief um he's a
+professor in Bingington University and
+he's like come actually like extract
+those signals do some experiments like
+just just out of curiosity just like
+extract me the signals and we will do
+the rest. Um and at that point it was
+not even like uh yeah we we had like
+narrow networks as CNN's and LSTMs and
+other things but we um to actually
+understand the feature space we just
+threw S SVMs on them right like support
+vector machines on them and um try to
+find like what the feature space looks
+like um how we can actually um find some
+distection of real and fake signals in
+that space etc. And then it evolved to
+fake catcher basically.
+&gt;&gt; Wow. Okay. And when you started fake
+catcher in the beginning, so it's it
+sounds like you started it with an
+insight as to here's something that we
+can do which would be one different, two
+unique, three maybe work, right? I mean
+it sounds and really cool. That's a
+fourth one. How you know was it smooth
+sailing from the start? the the the
+introduction of fake catcher.
+&gt;&gt; How
+I mean we did many experiments. Um and
+it is like when you start a new project
+like that and me myself I never worked
+in PPG before but I was so lucky to have
+my collaborator that actually um like a
+part of his PhD thesis actually about
+like PPG signals and how we can actually
+process faces to have reliable PPG
+signals etc. Um so um we I think there
+was some at the beginning there was some
+like um persevering period but like we
+really think there is something in there
+but how you represent that signal was
+important right because that signal is
+not like super robust like you don't
+like exactly see okay this is a senoidal
+beautiful heart rate pattern in a heart
+rate monitor you know um instead like we
+looked at their differences we looked at
+the different ppg
+types like GPPG, Chrome, PPPG etc. Uh we
+looked at different data sets to
+understand like how we are actually um
+uh robust against like different
+illuminations, different like occlusions
+etc. Um so all of these we try to
+combine together um and at some point we
+we get a grasp of like what's happening
+with the signals and after that we
+actually designed the experiments to um
+highlight how they are powerful how they
+are not powerful and then after the SVM
+space we went to like we we we decided
+to use a simple CNN so that it is more
+robust to all those like artifacts that
+we uh mentioned that may be affecting
+the signals. Um then after having the
+CNN we really um saw that like yes this
+is actually working like this is
+actually giving us results etc. So yeah
+there was in the rough start uh to
+understand how they behave but after
+that um the experiments were going well
+&gt;&gt; and so one of the things that we've been
+hearing in the space is that there's
+often you know there's the lab and then
+there's the world
+&gt;&gt; and the world behaves differently than
+the lab. um
+various diversity
+different you know everything changes.
+How true is that for deep face as well?
+&gt;&gt; Oh absolutely so true. Um so the very
+first um data sets that we all started
+using is like beautiful data sets like
+I'm glad like all the data set creators
+are creating those data sets but that's
+not actually um uh as as time passes
+more and more generators come more and
+more image process and video processing
+tools emerge. Um and uh those in the
+wild cases are um diverging from the
+clean lab data sets that we have. Um our
+very first attempt to um um show
+generalizability and show that in the
+wild we can also process well is that is
+to create those defects in the wild data
+set. That's also um that was also
+released with fake catcher. Um and that
+was like the first attempt to actually
+gather all those like niche videos that
+are in the wild you know the first data
+sets uh that the first videos that
+appeared in YouTube Twitter research
+presentations like we gathered all the
+defects in the wild that we can see and
+uh we evalated fake catcher on that and
+we had 91.07% 07% accuracy. And that was
+actually hopeful because at that time
+like none of those in the wild cases
+were actually covered well because
+that's understandable because at that
+time like the there was almost no
+biological defect detectors. All of them
+were um all of those like blind
+detectors were conforming to the data
+sets that they are trained on. Like it
+has 99% on face forensics. Let's let's
+say a detector has 99% on face forensics
+and then uh you uh try it on defects in
+the V and like 50%. Great you know of
+course because like it is actually
+learning the data set it's not learning
+what is real or fake. So that was our
+first attempt and up to date it's still
+like that like you know like um the um
+in the wild videos that we see are
+different from the um uh uh clean lab
+data sets and that's why like the more
+we um see more data sets we try to
+understand like what is going wrong is
+there a new artifact is there a new
+generator is there a new editing tool is
+it like a localized deep fake uh the
+localized manipulation to create that
+deep fake is it a multimodel deep fake
+but I see true what I hear is not true
+etc. So all those branching from there
+um and it's very important to if you
+really want to do you're also doing the
+same thing so like um like not same
+thing but like similar thing that like
+we are all trying to put a um product
+into the world that can like battle all
+those cases. Um and for productization
+it's really important to understand the
+failures and the limitations so that you
+can actually feed in more data either
+synthetic data or real world data to
+battle those uh in the wild case.
+&gt;&gt; Absolutely. And you know I think that
+one of the things that
+you know we we discovered in our in our
+research in our work is that this
+problem of out of distribution and
+generalizability is a really really
+difficult one when it comes to deep
+fakes and and you know we just talked
+about this but I think that you know
+it's very similar I think to to malware
+and and how malware came about in 2000
+with different permutations and
+different branches and and sure back
+then you were able to have these
+pretty robust firewall signatures to be
+able to identify the malware. But I
+think with with deep fakes, we're
+pressed against additional challenges
+like video resolution, audio resolution,
+um not to mention different skin colors
+and accents and you know, we're both
+we're we're in the sitting with a few,
+you know, human rights organizations and
+and we see we see media coming in and
+you're like, "Wow, this is like really
+hard stuff." You know, the real world is
+hard. H now it could be that all that
+you know we we don't look at blood flow
+so it could be that this biological
+method generalizes better because you're
+you're looking at at humans. Um but yeah
+at least we discovered that it would
+make more sense for us to be more narrow
+in our thinking and in our research
+&gt;&gt; so that we can be really really good at
+something. uh and uh it's a startup
+advice we also got from an Eric Schmidt
+a while back uh when we just started
+doing our deep fake work. Now, okay, I'm
+I'm curious, you know, you've been being
+at the forefront of deep fake detection.
+You've also been at the forefront in in
+the media about this, right? You've been
+appearing and you've been talking about
+it. You've you've presented papers in
+some of the biggest conferences. So,
+you've been out there
+You're seeing the market. You're seeing
+how the world is responding. Who needs
+it? Who doesn't need it? Who thought
+they may need it but doesn't really use
+it. What are you seeing? How is the
+world responding to deep fakes today in
+December of 2024?
+&gt;&gt; Yeah. So I think recently like um it was
+like up until the elections it was like
+so much um
+I don't want to say fear but so much
+expectation about um there will be
+something with elections that we need to
+be ready and deep fakes are coming. Uh
+but it was not like suddenly an
+exponential curve of defects. It was
+like the regular defects that we are
+that we see around um some of the like
+you know like with the new like
+diffusion models and stuff like some of
+the new image editing and image
+manipulation techniques etc. But there
+was not that catastrophic event that
+affects deep um elections with deep
+fakes. Um and I think we are seeing more
+and more and what is happening is um
+instead of um
+trying to differentiate deep fakes, we
+are going to an era that even if it is
+AI generated or AI manipulated, can we
+understand the actual messaging to be
+misleading or not? you know um taking it
+a little bit more from the visual and
+audio analysis to a little bit to the
+context and meaning analysis.
+&gt;&gt; Wow. Um so I think that is the most
+because like the AI tools and AI um
+effects or filters or you know um
+everything that we do with um like
+it's not like real or deep fake. There's
+a whole range between them and it is
+becoming that whole range in between
+then that like all the way to having
+just one touch from Photoshop to um deep
+fake but it's my own deep fake because I
+didn't have time to attend this uh call
+for example right um so
+instead of like having that mechanical
+analysis uh going more to the um
+contextual analysis and even like
+societal analysis about how a video is
+impacting is it is it's if its messaging
+is actually helping or hurting um real
+or like correct or not incorrect or
+manipulative
+um so I think that's where we are going
+um of course I'm not saying that the
+effect detection tools are becoming
+obsolid they are for sure and we need to
+know like all the history of the that's
+why we work on provenence right we need
+to work know the whole history of the
+media about like who edited who created
+who was the voice actor who did the
+distribution etc. So that we know
+everything about the media but you can
+know everything about the media um and
+it is all useless if you don't know the
+intent of the media and that's the
+hardest part.
+&gt;&gt; Absolutely. So, where do you based on
+your understanding of deep fake
+detection in the market? Because people
+have been looking at, you know, this
+problem of the authenticity of a piece
+of digital media from def from a
+detection perspective, providence,
+authentication, maybe even watermarking
+and prevention,
+&gt;&gt; right?
+&gt;&gt; Where where do you see defay detection
+being most suitable long term? So, if
+we're thinking about this detection me,
+this technology of being able to run
+advanced AI to try and discern whether
+this media was manipulated or tampered
+with AI, where would this given what we
+know about the technology and the
+progress, where do you think it will be
+most successful in creating real value?
+Mhm. So when we
+built trusted media, our moto or our
+belief was always um
+defect detection is a temporary solution
+in an ideal world in n years uh we will
+have provenence data with all the media
+so that we won't need detection and the
+more you actually you are also in the
+same ecosystem so you also know that
+like the more uh we are in this
+ecosystem the more we see the provenence
+approaches their implementations etc
+that um the more we see that this
+utopian everything will have provenence
+idea is getting longer and longer and
+longer and longer with very various
+reasons right like all editing tools or
+or capture tools or all generation tools
+like everyone needs to be on the same
+page to actually have provenence and
+like um I I may be um talking a little
+bit too much like C2PA a uh mindset um
+doesn't need to be CTP it like it's
+great that if that is as a standard but
+like as long as uh a hypothetical
+provenence solution is attached to all
+data then at that point hopefully you
+won't need detection but it is getting a
+longer longer longer longer feature um
+that we will always need detection in
+the sense that um learning something
+about the data you know like something
+about in the vital data um what we can
+um like can we know whether it's real or
+fake of course but there's also
+something that we work on called um
+backwards provenence and that is about
+whatever we can decipher about origins
+of data right so we do source detection
+for example can we find out which
+generative model created this if it is a
+fake video if it's a deep fake video can
+we find the source material that created
+that even if like can we find the
+speaker in that video so that we can
+compare there with the authentic um
+samples of that speaker versus the um
+this version that we don't know what is
+real or fake etc. So finding anything
+about the um uh video to uh find that
+puzzle pieces that creates the
+provenence information is very important
+and detection is definitely a part of
+it.
+&gt;&gt; Absolutely. So, what are you most
+excited about coming up?
+&gt;&gt; Um, so there are many news that I want
+to give but I cannot give those news
+right now. So, just like a a few more
+months for those news.
+uh in general what I'm uh I'm uh very
+excited about is um now everyone is
+trying to approach this pro problem not
+as a technical problem but as a social
+technical problem right not only looking
+for whether something goes real is real
+or because we have many detectors right
+like we have I mean at least even just
+within my team we have fake catcher we
+have eye gazebased detection we have
+motion based detection we have
+multimodel det detection. We have audio
+only detection that is like working
+super nicely right now. I'm I'm I'm
+proud of that work. Um but like beyond
+that, we are also trying to understand
+where humans um stand in this in this
+system, right? Like how humans interact
+like we have several user studies about
+understanding how humans perceive fake
+content. Um, is there verticals in the
+user or is there verticals in the
+content that we can match or we can uh
+that are tangential that affects the um
+uh perception of like if if it's in the
+same demographics as me, do I have a
+more critical eye about understanding
+what it's real or fake or is there like
+a generalized version that um I don't
+know like I don't want to give some of
+the results but like some maybe um young
+male
+um uh white demographics are perceived
+to be more fake than more real just
+because those are the examples that
+people see around the world etc. Anyway,
+so um and also like the humans
+perception with the defect detection
+results, right? Like if we just say
+likely real, likely fake, is it more
+helpful? Or if we say 95% fake according
+to the PPG signals that are found on
+display on the face, is it overwhelming?
+Is it helping better etc. So all those
+like interpretability, explanability
+um and uncertainty factors that that
+bleed into all these like technical
+systems that we uh develop. How do we
+explain that to the public? How do we
+explain it to the humans? What people
+get from there like how to make it more
+trustworthy so that humans use it etc.
+So those um and not not just for for uh
+like uh trusted media or like for for my
+work, right? like as a whole ecosystem
+we are realizing that it's not only the
+technical detectors or like uh battling
+AI with AI but humans are actually still
+at the heart of it. So how we
+communicate with humans, how we utilize
+humans, how we um enable humans or armor
+humans is um something I'm super excited
+about.
+&gt;&gt; Okay. so many things to be proud of and
+thank you for taking this time to uh to
+inspire me and and and everybody else
+that that will be seeing this. I really
+want to thank you for for your time and
+for your work. Um I'm excited to keep on
+following and uh and being impressed and
+and thank you very much for being here.
+&gt;&gt; Absolutely. Thank you. This was like a
+very very exciting conversation. Thank
+you. Thank you.

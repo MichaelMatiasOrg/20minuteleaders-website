@@ -1,0 +1,600 @@
+If you understand store now the cry
+later which means that um nation states
+are stealing our information. They are
+storing it. They can't read it now but
+they are holding it until they have a
+quantum computer ready. And they will
+read it in three, four, five, six years
+when they have the quantum computer.
+Which means our information today is in
+danger today. Not tomorrow when the
+quantum computer is ready but today. So
+the governments and major CISOs and
+companies that understand this they say
+I need a plan to protect myself against
+that but then they use the tool and they
+say hold on your tool is helping me not
+only with that but it's also helping me
+understand my classical encryption today
+because infrastructure is huge and there
+are many instances of your
+infrastructure that are across
+everywhere and globally if you done a
+lot of M&amp;As you are acquiring
+infrastructure and they have in
+cryptography that in many places that
+you don't know you have it or you don't
+have cryptography. One in five breaches
+come because of a credential that was
+lost or not updated at the right time.
+So that tool is helping you uh monitor
+and modernize today and preventing you
+from the future.
+[music]
+All right, Fernando, thank you so much
+for joining me here on 20-minute
+leaders. How you doing?
+&gt;&gt; I'm doing great. Thank you, Michael, for
+inviting me.
+&gt;&gt; No, thank you for for taking the time to
+do this. You guys are on a big mission
+and you're up to big things and so
+taking time out of the day today h to
+make this happen is fully appreciated.
+Uh, Fernando, uh, you're holding really
+interesting work today with Sandbox AQ,
+a company that I've been following
+closely for for quite some time. In
+fact, my my dad is an adviser within the
+company since its founding. And and Jack
+Hittery is is a phenomenal being. And if
+the two of you are working together,
+then that means that you are a
+phenomenal being. And so really excited
+to have you on here. Thank you again for
+joining me. Tell me a little bit about
+yourself and you know h how did you even
+you know find your career trajectory
+ending up today with Sandbox AQ.
+&gt;&gt; Sure. Well, first your dad Yosi Matias
+is more than adviser. I feel like he's
+an inspiration. If we can do half of
+what he's done at Google in the last
+decades uh with sandbox that will be a
+huge success.
+&gt;&gt; And wow. My my journey is um I I started
+industrial engineering and I studied in
+France. I ended up working in the energy
+industry which today is becoming very
+relevant again uh with everything that
+is happening with the data centers and
+high performance computing. Uh and then
+I ended up somehow uh Google Latin
+America where Google was expanding in
+Latin America helping Google products
+expand in some of those world were
+Google maps crisis response Google news
+YouTube advertisement that was a time
+when digital advertising wasn't that
+known yet. So we had to teach everyone
+about why why they had to be in the
+digital world when today it's so obvious
+back back in the day it was like this is
+why you have to be on it and mobile
+phones were not that on yet but I wanted
+to go back to my roots of engineering
+and I started helping Google X projects
+that were projects that were not aligned
+with the main business of Google like
+the self-driving cars project LON that
+was connectivity with balloons
+I joined Google X for an energy project
+and I spent six years at Google X
+working in many different projects from
+robotics, machine learning or AI when it
+was called machine learning and many
+different projects in robotics, uh
+logistics, uh climate change,
+agriculture, all projects at big
+thinking. That was the if I had to say
+the thing that I learned the most at
+Google X, it was think big. You have to
+have a big impact. Let's go. And you
+know, Ferando, just to pause you for a
+second, I actually just saw I just saw I
+looked it up and I interviewed Mike
+Cassidy for 20 minute leaders 5 years
+ago. Four years ago in 11 months. So
+December of 2021
+2021 or 2020. Five years ago. Wow.
+&gt;&gt; Yes. I I never worked directly with him,
+but um I crossed paths with him. He was
+leaving when I was arriving. He was one
+of the ones at the start and launched
+Project Lon as well. Yeah, I think.
+&gt;&gt; Exactly. Yeah. So, so, so think big. So,
+you you learn to think big and you were
+working on these huge projects that are,
+you know, all of them are are huge. Each
+one that you mentioned. Yes. And in that
+cross path, I mean, Google, it doesn't
+sound that obvious, but thinking big is
+one of the things that I see the most at
+Silicon Valley uh and also in the
+American uh culture. is like I'm going
+to build something that is really going
+to change the world which is something
+that other nations other cultures don't
+really have embedded into them and also
+that you can bring your idea and nothing
+is considered stupid. So you can put any
+idea on the table and you know you're
+not going to be considered as a fool
+because you're thinking too big about
+it. Uh the best example is let's go to
+the moon uh Kennedy uh in the 50s and
+60s. So that that's a that's a moonshot.
+That's the main mantra of Google X.
+Let's think 10x. And Sergey Alari, you
+probably know this. They always push you
+to the limits when you say, "I'm going
+to do 20 of these." They're going to
+come back and say, "Why not 200 10x?"
+&gt;&gt; Absolutely. And And so how did that
+shape, you know, the way that Sandbox AQ
+got, you know, got started here? And and
+tell me a little bit about the story of
+of Sandbox.
+The story comes from Sergey hiring Jack
+Hidari, our CEO, as an entrepreneur
+residence. And he started bringing more
+science into software engineering, more
+physics, uh more professors from
+Stanford, from Berkeley coming and
+teaching methods and techniques that
+were using academia and then started
+inviting all software engineers to
+listen to those techniques and try to
+use them uh out there. neural networks,
+CNN's and uh tensor networks. All these
+techniques that today are like some of
+the principles of AI back then this was
+2015 maybe 2017 uh attention is all you
+need is a paper of transformers that was
+published in 2017. So that's when that's
+how sandboxes started more as an
+educational platform uh to bring science
+into all Google products and then we
+started converging AI with quantum
+physics. When you think about physics,
+you think about quantum physics and you
+think about all the techniques that have
+been developed in academia to try to
+understand that field. Now, can we take
+them from academia and use them to solve
+real problems and application problems
+today? And we started converging those
+two words. That's where the A and the Q
+from sandbox AQ come from. It's
+converging AI and quantum. Today sounds
+more obvious. You're going to you listen
+more and more quantum AI or AI and
+quantum. Even Jensen from Nvidia uh has
+gone from in January at CES saying that
+quantum computers were 15 20 years away
+to radically change invest in three four
+of the top companies in quantum and AI
+including sandbox AQ and launching last
+week they launched the first hardware
+product for performing high performance
+computing with quantum computers and
+classical comput. So in nine months,
+Nvidia has a step up and said these two
+technologies are going together. That's
+how we started six, seven years ago. We
+work very close with the quantum
+computing team at Google in Santa
+Barbara and we they were doing an
+excellent job and we say we're not going
+to be working on quantum computers. But
+quantum technologies are much more than
+just quantum computers. We're talking
+about quantum sensors, we're talking
+about uh simulation, and we're talking
+about cyber security and communications.
+And that's all all the areas that we
+discovered at Sandbox AQ and it was so
+big so relevant that we said we need
+independence and autonomy to go faster
+and capture capture this web.
+&gt;&gt; Yeah. And what what are the different
+use cases uh where the convergence of AI
+and quantum computing really you know
+are you know the I know that they're
+going to change almost everything in the
+way that we think through running you
+know computationally difficult problems
+but if we actually look at the at these
+next couple of years and the world in
+which sandbox is playing at today how do
+you see the big use cases shaping up to
+be right Now
+&gt;&gt; that's a a good question. So let me show
+the first one which includes the word
+quantum but doesn't have that much of
+quantum which is protection cyber
+security and a threat. Quantum computers
+mean a new way of computing, a new
+different way uh not only faster but
+different which means that exposes
+encryption as we know it today. RSA and
+in 1994 Peter Shaw published an
+algorithm that said if one day we have a
+quantum computer this algorithm we break
+encryption as we know it today. Back in
+the day we didn't have a road map for
+quantum computers. Today we do and we
+have many players and a lot of
+investment on achieving uh that road map
+to achieve the 1 million cubits that we
+need. So now we have the threat and we
+have the solution to perform that threat
+but to protect yourself against that
+threat. You don't need a quantum
+computer. You just need to change the
+algorithms that you're using to encrypt
+your data. And that's what we call
+postquantum encryption
+uh PQC.
+And we discovered by trying to apply
+this that first we need to modernize
+encryption. Modernizing encryption means
+like what is being done manually today
+looking for the encryption the
+credentials the PKIs that you have
+inside your entire infrastructure is
+being done manually everywhere because
+encryption has never been a priority in
+most organizations.
+&gt;&gt; So that's a lot of what we're doing with
+the department of defense and with many
+of the banks and many different players
+across the the globe. It's modernizing
+encryption and right now that we have
+the inventory of all the encryption that
+you have in your infrastructure which
+ones are classical which ones you have
+to update and create a crypto agility to
+protect yourself against the future
+threat of quantum computers.
+&gt;&gt; Now you adding AI threats because all
+organization are using AI many different
+ways. We're exposing ourselves. we have
+AI and a company with 30 40 50,000
+employees all using AI tools having AI
+agents coming through your organization
+is a similar problem so you have to
+create an inventory of what AI bots are
+coming to your infrastructure and who
+are they what's the identity of those AI
+tools and are they allowed to access the
+information we're trying to give them
+access or not so that this new wave of
+AI is creating new vulnerabilities and
+we need to protect that as
+It sounds like that even before you know
+we we talk about where how how do
+quantum computers and AI you know help
+maybe catalyze or accelerate a bunch of
+these healthcare use cases, financial
+use cases, etc. You're even saying wait
+hold on even by the mere fact that we
+can now we can now design and lay out a
+road map for for the for the capability
+of how of achieving this million cubits.
+Right now we actually need to revisit
+the entire encryption infrastructure,
+modernize it from the manual processes
+of identifying the PKIs etc. and and to
+upgrade to what you call crypto agility
+so that as quantum computers become a
+reality you're able to constantly evolve
+and adapt the cryptographic mechanisms
+and and and so it's really interesting
+to hear in you know when you're talking
+to governments like the department of
+defense and banks etc you know how does
+it actually look like I mean because
+it's it's almost sounds like they have
+to pop open the hood and start you know
+looking through their entire
+infrastructure
+Well, they love it. They love the tool
+because they say this is not only
+helping me with a future threat, which
+is not that distant. If you understand
+store now, decrypt later, which means
+that um nation states are stealing our
+information. They are storing it. They
+can't read it now, but they are holding
+it until they have a quantum computer
+ready. And they will read it in three,
+four, five, six years when they have the
+quantum computer. Which means our
+information today is in danger today,
+not tomorrow when the quantum computer
+is ready, but today. So the governments
+and major CISOs and companies that
+understand this, they say, "I need a
+plan to protect myself against that."
+But then they use the tool and they say,
+"Hold on, your tool is helping me not
+only with that, but it's also helping me
+understand my classical encryption
+today." Because infrastructure is huge
+and there are many instances of your
+infrastructure that are across
+everywhere and globally if you've done a
+lot of M&amp;A you're acquiring
+infrastructure and have in cryptography
+that in many places that you don't know
+you have it or you don't have
+cryptography one in five breaches come
+because of a credential that was lost or
+not updated on the right time. So that
+tool is helping you uh monitor and
+modernize today and preventing you from
+the future.
+Makes sense. What are you excited most
+about in this in the world of the
+postquantum computing?
+&gt;&gt; That's a good question. The simulation
+part is very interesting. So everybody's
+expecting the quantum computers to come
+and run those high performance computing
+algorithms and problems that we can't
+tackle today. Pharma it's a big part of
+it. Energy that we talked about it in
+the few at the beginning of this talk is
+another one. Most of what we do in the
+world is molecules. It's atoms talking
+to each other interacting with each
+other. So when we think about high
+performance computing when we think
+about the AI revolution that we're in
+right now, most of what we're talking
+about and what people are focused on are
+Gen AI. Genai is great but it works with
+words and words can only get you so far
+and it's going to have a huge impact in
+programming for coding and in content
+creation so marketing customer support
+etc. But it's not really impacting the
+real economy, the physical world uh that
+Jensen calls which is the what impacts
+the GDP of the country. That's
+manufacturing, that's production, that's
+designing a car, that design a new
+molecule, a new drug uh for a disease.
+That's chemistry, that's biology, that's
+mathematics, that's physics. That's what
+we are using which is large quantitative
+models which are models of AI trained on
+equations that we know have been working
+for 100 years not just on words but also
+on numbers quantitative so that's what's
+really going to have an impact and
+that's the next big wave of AI that is
+coming right now but because it will
+impact energy companies uh financial
+institutions when you talk about finance
+banking that's numbers that's
+mathematics that's physics when you talk
+about a pharma company or a new chemical
+company that it's runs most of the
+combination of molecules that run our
+world in agriculture in new materials
+refineries. We created new open-source
+data sets for catalyst for example for
+energy companies catalysts are in the
+core business and the core elements of
+energy transition and hydrocarbon
+cycles. So that's what really runs our
+world and that's what's really coming
+right now. That's the the AI apply to
+the physical world, not just the digital
+world.
+And what role long-term does Sandbox
+want to play? What role long-term does
+Sandbox want to play in this world of
+postquantum? Does it really want to be
+this infrastructure layer of you know
+the of of the encryption and the crypto
+agility? Does it have you know different
+visions? That's that's a good question.
+I mean we we are a cyber security
+platform and we started with the
+postquantum approach we extended into
+all encryption now we are extending
+again to AI solutions it's it's all
+about protecting our clients and so what
+the seasons are needing in of credential
+access cryptography protecting your data
+your infrastructure and have a positive
+impact at scale that's what we're trying
+to help our partners with
+&gt;&gt; and see it's it must be pretty exciting
+you know being at the forefront of this
+for for a few years now already uh even
+well well before Genai even started
+right
+yes in fact uh we started using Tensson
+networks and which is a technique that
+comes from quantum physics with
+transformers back in the day when we
+were at Google and that's one of that
+was one of the first proofs of concept
+that we had when the team was very small
+to say
+these techniques that come from academia
+and that have never been used in an
+application can really impact uh
+everything we're doing. Uh so
+transformers come from a long time ago
+like from 2017 that was a famous paper
+that we talked about. Everybody has seen
+it through open AI but but it's it has a
+lot of implications.
+&gt;&gt; Yeah. You know it's funny how you're
+saying long time and I'm thinking yeah
+well eight years seems like a very very
+long time these days and uh Everything
+that's happened in the last three five
+years is it's crazy and more than is
+happening right everything goes so fast
+in the next two three years uh
+everything is going to change a lot
+&gt;&gt; yeah and and I think you know I'm I'm
+looking at the industry even from a from
+a VC perspective you're seeing new
+venture capital firms forming just for
+quantum you're seeing com you know
+companies that are not only raising
+their C series A but they're raising
+series C series D in quantum um you're
+seeing different layers of quantum from
+the hardware and what Jensen is talking
+about all the way to the you know how to
+how do you write the new programming
+languages for it and how do you write
+the right the relevant software to
+engage with it. Uh, so it really feels
+like we're, you know, we're like this
+there's like this whole world that's
+about to to evolve that and it seems
+also that that most of the world is not
+really talking about it yet, right? It
+seems like people are still very
+occupied with Gen AI and and what we
+have you don't hear about quantum still
+that often at least not as often as I
+think we should be compared to where we
+are.
+&gt;&gt; Is that right?
+&gt;&gt; I hear it more and more often. I'll give
+you two examples. Uh when we started
+five six years ago, most cyber security
+teams had never heard of postquantum
+cryptography. Now every major company
+and government has a plan for it. They
+might not already have the solution or
+acting on it, but they have a plan and
+they are working on it. That's a big big
+difference. The other one is
+understanding that these two
+technologies AI and quantum technologies
+go together. It's not I need an AI team
+and I need a quantum team. It's the new
+talent that we are hiring are
+computational chemists, computational
+biologists, computational physicists.
+These are the new generations of talent
+that understand that the digital world
+and the physical world work go together
+and they're going to look at the problem
+and then converge all the solutions, all
+the tools they have and AI and quantum
+technologies are tools they're going to
+use to solve that problem. They're not
+going to differentiate. Oh, I'm going to
+just going to use AI or I'm just going
+to use quantum. I'm going to use AI when
+I need it and quantum when I need it.
+I'm going to use them together. The
+other example is you see all the big
+companies even in Nvidia you mentioned
+or Microsoft they calling the team even
+Google the Google team is called quantum
+plus AI. It used to be called quantum
+now quantum AI. Microsoft is quantum and
+AI. Nvidia is AI and quantum. you you
+seen everybody's realizing that quantum
+is not as far as we thought and that AI
+and quantum go together that's very
+important
+what is one thing that you think all of
+us should keep in mind as we enter this
+postquantum world as either as
+entrepreneurs
+you know those working you know on the
+frontier of new technologies whether
+it's in healthcare or agriculture or
+finance what is something that we should
+be keeping in mind from today.
+That's a good question.
+I I can think of
+learning and adapting. It's
+nobody knew the best example is
+transformers was created at Google. We
+Google was the king of search and of uh
+the technology.
+Now GPT is there. all these LLMs and now
+AI for the physical world it's having an
+impact the most important part I think
+is what kind of impact are you having
+with the technology you're using at
+Sunbox is all about positive impact at
+scale so we bring the scale mentality
+from Google X the positive part of it
+because we want to make good in the
+world but it's it's about like what are
+you using are words enough to have an
+impact words are really good But maybe
+not enough. We need to bring chemistry.
+We need to be physics. We need to bring
+biology, which is what governs our
+world. And that's what we're going to
+impact. We're going to solve the energy
+crisis that we are in. We have a huge
+energy demand. We're going to solve the
+climate change. We're going to solve a
+new materials. We need new materials,
+more resistant, lighter, more uh
+sustainable. That's only going to come
+if we use these technologies the right
+way. And that's going to be very very
+positive and very impactful for the next
+generation.
+&gt;&gt; Fernando, thank you so much for spending
+this time with me. I'll let you go back
+to doing amazing things. Uh and uh
+really appreciate it. Been inspiring to
+watch the journey of Sandbox from the
+side and very interesting and eye
+opening to hear your your optimism and
+your perspective moving forward. And
+obviously you're you're one of a few
+that are getting a front row seat to
+this transformation in the real
+day-to-day. And you know I I coming in
+from a cyber security background you
+know I can definitely relate to how the
+conversation is shifting and like you're
+mentioning 5 years ago most cyber
+security teams haven't heard of this
+stuff and haven't thought about you know
+quantum. Now, practically every large
+organization has a plan for how to deal
+with this postquantum world. And it's
+not just putting another another cyber
+security vendor. Okay, here's browser
+security, here's next cloud security,
+here's next identity. No, this is a
+fundamental shaping [snorts]
+of of how we defend and protect the
+integrity of our information.
+And how do we now make use of quantum
+for in ways we haven't been able to yet?
+So, Fernando, thank you so much for
+joining me today.
+Thank you, Michael.

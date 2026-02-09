@@ -1,0 +1,669 @@
+you needed a certain full stack engineer
+with node and react uh
+to work out of your office you you might
+see five or ten resumes you don't need
+any ai for that you don't need any
+sophisticated automatic web button for
+that
+now uh suppose you're thrown in this
+situation where uh you're
+you're willing to say well i'll hire the
+best person in the world wherever they
+are
+now now you have 5000 people what are
+you going to do with that
+what are you going to do with that
+[Music]
+vijay krishnan thank you for joining me
+on 20 minute leaders i'm so honored to
+have you here
+are you in palo alto now uh i am michael
+yes
+thanks for inviting me what wonderful no
+no thank you for
+for being here your journey is so
+fascinating and there's so much to talk
+about
+i want to talk about your experience in
+iit and
+at stanford i want to talk about being
+at yahoo then rover
+selling your company rover and then now
+being
+the cto of touring which is doing i
+think phenomenal things that are so
+so relevant for this upcoming decade as
+we're seeing a surge of
+of remote software developers and
+whether it's hiring onboarding and
+really trying to understand
+how do we get to the top one percent uh
+so i've talked already way too much
+vijay tell me a little bit about
+yourself all the way back from bombay
+how do you go through your journey sure
+sure
+so uh i
+got started in the field of ai and
+machine learning rather early i think i
+have been at it for
+uh something like 18 years now uh uh on
+your
+wow a lot longer than uh
+certainly from uh it wasn't uh as
+cool or as hot at that specific point
+but
+uh so um yeah i i started working on
+such problems all the way
+back from my days at iit bombay then at
+stanford university and
+then even as a scientist at yahoo where
+i mostly
+focused on research publications uh
+patents things of
+that sort it was in my previous
+uh startup that i first applied a lot of
+these methods to
+commercial problems like my previous
+problem uh
+company rover did personalized content
+recommendations and uh
+so in other words we would figure out
+what topics you like
+based on the kind of content you consume
+and recommend other content you may like
+that company got acquired about four
+years back and
+in the course of running my past startup
+we had
+accidentally stumbled into a lot of
+these insights
+that would eventually uh set the stage
+for us starting a company like turing
+since we had worked with some
+really exceptional software engineers
+from different uh parts of the world
+like uh when we found it challenging to
+scale our
+silicon valley a team with the same
+high standards that we always maintained
+we uh
+we looked to other countries so we ended
+up working with a distributed team of
+engineers in russia
+ukraine poland serbia china and so on we
+somehow
+managed to wow get that team to work and
+uh
+doing a lot of things by trial and error
+figuring out how to uh
+effectively source and uh screen and uh
+ultimately uh did i gain a lot of
+ongoing benefits by working with the
+very best engineers around the world
+gave us a lot of imp valuable insights
+so when
+when it was time to start a new company
+often you you want to check off a bunch
+of boxes
+first of all is the market really large
+is the problem really valuable but there
+is a there are also some last uh there's
+a last point
+which is to do with are you uniquely the
+founders who are suitable for starting
+such a company
+do you have certain insights and
+understanding which far surpass the most
+most other smart people you know and
+the turing idea checked off the last
+point also in addition to all the other
+ones
+and uh making this is the right company
+for us to start
+vj we could go on for hours now so i'm
+really gonna have to to restrain myself
+over here first take me back 18 years
+i i didn't hear machine learning and ai
+18 years ago in fact i didn't hear much
+of it even 12 years ago
+how do you you're in bombay first of all
+it's incredible that you went to iit i
+believe that acceptance rate is
+something
+just above three percent so so i i we're
+going to skip over that right now but
+but tell me a little bit about your your
+growing up your upbringing and
+why why ai 18 years ago yeah yeah
+yeah the the acceptance rate i think is
+a lower than a percent but uh but yes
+speaking of
+well at that point the the thing is i
+think uh
+i was very uh i suppose
+uh interested in
+in probability and statistics and a lot
+of things around mathematical modeling
+and
+so on what i liked about machine
+learning is is that it also had a lot of
+nice commercial applications like there
+was a
+i remember uh having this uh
+conversation
+with my uh dad where uh back in my
+undergraduate days where i was
+telling him well i really like this
+mathematical stuff and i'm thinking of
+going into you know graph algorithms and
+some purely theoretical stuff my dad was
+like no
+you you probably won't get a job if you
+if you go down that area
+think of something more practical and uh
+machine learning i love that
+and machine learning sort of uh i i like
+the fact that it had the mathematical
+depth it
+it satisfied those sort of uh
+intellectual this thing uh curiosities
+and other things i had by while also
+at that point of course it was it had
+nowhere the
+practical applications that it had uh
+now but i i love the fact that it could
+solve a lot of
+problems that were that could not be
+solved by by any other means a lot of
+things to do with the text
+classification
+email classification into spam or not
+spam topical
+text classification all these were very
+much possible a good 20 years back
+and other problems to do with nlp and so
+on though some
+at that point a vast majority of the
+most important nlp problems weren't
+easily solvable but a
+subset of them were and i i generally uh
+like the fact that there was this nice
+combination of both the
+theoretical depth as well as practical
+application even at that point
+right so before we dive into touring and
+what you're doing over there
+i want to talk a little bit about
+building great teams and and i think
+part of the
+the journey that you're talking about
+here and part of the insights that
+you've gained into touring is that
+you know there are different ways to
+building a great team the way that we
+build great teams in 2021
+is very different than how we build
+teams in 2010 and you've heart you've
+harnessed that insight through having
+that distributed team
+and we have companies like git lab i
+believe that are fully distributed right
+from the get-go
+so the world is changing but before all
+that you're starting a startup
+you you think you have an idea that is
+worth pursuing
+as the cto as the chief technology
+officer
+what is your responsibility in scaling
+the team and getting the right software
+engineers on board
+is it what are some of the biggest
+challenges or excitements around that
+uh are you asking specifically in the
+context
+of my challenges in the context of
+turing or ctos in general
+uh in the context of well i'd love to
+hear from you
+from your journey what are some things
+that perhaps other
+young ctos should keep in mind as they
+go and they skill the team because
+obviously
+it's one thing to take your two three
+best friends from stanford and build
+something right but then
+you want to get to 10 20 100 engineers
+so how do you do that
+right right no the it's a so it's a
+great question i think we have certainly
+had to
+uh think through a lot of things from
+first principles in the context of a
+startup like
+for example if all you're doing uh
+obviously
+you don't need to invent each and
+everything from first principles
+in a company there are there are a lot
+of things you can simply borrow by way
+of
+best practices but there are a lot of
+important things uh cert and
+hiring is certainly one of them where it
+is very very important
+that you have your own thesis you you
+think uh
+long and hard regarding what is uh
+suitable for your company and not just
+for engineers i would even say this is
+for
+true of various other roles particularly
+where a certain amount of
+technical depth is necessary for example
+at tuning we do a lot of things very
+unconventionally
+for example uh our
+growth marketing efforts and uh many of
+those other things report to me they
+don't report to a traditional
+cmo and in large measures really yes
+this is again
+because of our obsession with the data
+science part of these things as a
+as a way to drive results so we have a
+lot of
+counter there are enough areas where we
+disagree with the world at large and you
+might have even heard of
+facebook for example recently taking the
+position
+that uh i believe it was their vp of
+marketing or their cmo or somebody who
+came from the classic
+growth marketing track that was
+more the data science kind of track
+rather than the pr kind of track
+so yeah generally ultimately i mean
+you you accomplish great things in uh in
+a company by
+uh in large part hiring the best people
+uh now
+this this this cannot just be achieved
+by looking at well who's the
+what company is doing something similar
+today let's just hire uh
+people out of those and do the exact
+same thing they are uh doing that is not
+going to
+get you a 10x better result like one
+thing people often say in the context of
+a company is you you better be 10x
+better than the competition
+to blaze through the market otherwise
+you're going to have a hard time selling
+and uh
+yeah so
+this is certainly something we've given
+a lot of thought and i encourage
+everyone
+to do this i i'm still inspired by that
+single sentence
+that you know we were obsessed with
+using data to to
+to make to to make everything that
+you're to reach all your matrix right
+and i think that that obsession
+and obviously coming from your
+background i can understand how you how
+you truly understand the value of what
+you're doing
+and and i think that in a world where a
+lot of these words are are getting
+thrown out
+quite extensively actually being
+intentional on being obsessed with the
+data
+to to have that growth and i i love the
+the fact that your growth marketing
+reports to the cto and not to the
+marketing division because it is at the
+end it's it's all about
+using the data so so talk to me a little
+bit about this idea of
+vetting for greatness right that is one
+of the the headlines in your on your
+website
+vetting for greatness for remote
+software developers
+first of all what is the problem why do
+we even need to
+have another vetting system today
+yeah i think the uh the main issue is
+that
+today uh for most part the whole hiring
+process itself is quite
+manual uh there are a few tools which do
+a narrow set of things like administered
+a programming test or something like
+that but we all know that that is a
+small
+uh a portion of
+what a software developer needs to be
+good at to ultimately be
+effective in a role so uh the
+so i think there's a couple of different
+things here i think remote particularly
+makes
+makes it a lot lot more important that
+we get this right because with
+uh with remote there is a uh there's an
+opportunity but that opportunity
+creates some new uh new challenges along
+the way the opportunity is
+that once you remove the zip code
+constraint
+your theoretical pool of candidates is
+quite enormous
+so for for example suppose you uh you
+needed a certain full stack engineer
+with node and react
+to work out of your office you you might
+see five or ten resumes you don't need
+any ai for that you don't need any
+sophisticated automatic web version for
+that
+now uh suppose you're thrown in this
+situation where uh you'll be
+you're willing to say well i'll hire the
+best person in the world wherever they
+are
+no no you have 5000 people what are you
+going to do with that
+how do you what are you going to do with
+that yeah and uh i i i think that is
+where
+a lot of things around the automation
+become really valuable
+to uh to um to leverage the fact that
+you
+suddenly have this giant pool of
+pool of software developers many of them
+live in
+countries and in cities where you can't
+make any sense of their resume in the
+sense you
+today be all of us use proxies i would
+say this the
+this person went to stanford this was
+this person worked at google this person
+worked at this other startup that i know
+has higher hiring standards
+people use all sorts of shortcuts for
+quality to uh
+to engage in some form of shortlisting
+such such things
+don't work very well uh when you're
+tapping into talent from all over the
+world and uh so at that point you one
+has to have a good automated waiting
+process like a turing
+the uh the uh we not only wet for
+programming skill that a few other
+platforms
+do we also do computer science
+fundamentals we do various uh tech
+stacks
+so what uh how strong are you in
+specific technologies like
+node and react uh or in graphql
+how good are you as a communicator now
+this is in terms of
+raw english fluency and also in terms of
+i guess how easy is it to have a good
+technical discussion with you where you
+understand the gist of
+where something is going and what the
+other person wants
+and very closely related to some of
+these are matters
+uh to do with uh what is this person's
+product and business sense like
+obviously the the higher that is the
+more autonomously a software developer
+would be able to operate
+so we we test for a lot of such things
+to create a pretty uh
+to create a deep developer profile
+but far far in excess of what one could
+possibly glean from a resume
+and use that to make much better matches
+so so walk me through the customer
+journey here so if i'm if i'm hiring for
+software engineers i need
+you know i needed a data scientist to re
+a front-end engineer and i need a
+you know a dba and now where i i you
+know i'm opening myself up to the world
+because it's 2021 it doesn't really
+matter where i'm at in the world i want
+the best people
+and oftentimes you know people that are
+farther away might even be cheaper
+than the ones that are closer to me so
+then how does it actually work what is
+the journey here
+well when somebody comes to uh
+tuning the journey for them is fairly
+straightforward they simply sign up for
+turing turing has already done all the
+work
+and uh from the customer's perspective
+the customer gets to uh review a few
+developer profiles
+can tell us if they would like to do a
+video calls with
+any of them if they do like one or more
+of them
+uh they can they can start working with
+them and we anyway offer this
+two-week no risk trial where if a
+customer um
+starts working with the developer and uh
+decides to stop for any reason in under
+two weeks they pay nothing
+uh so a lot of them yeah yeah yes
+in many ways that's just a reflection of
+our confidence in our
+match quality course yeah so uh
+there are certainly occasions where the
+uh where we mismatch but those are a
+very small percentage
+uh so so that is the thing now if you
+had to do the whole thing from scratch
+well you i mean you could you know you
+could scrounge around i mean
+obviously recruiting existed before
+turing other people will
+attempt to do their own in-house
+recruiting but the point is you
+uh there is there are certainly
+uh if i mean
+in the in the most extreme case one
+would have to do uh everything we do at
+turin with regard to generating a giant
+uh
+uh uh giant pipeline uh doing a whole
+bunch of other things to uh to make this
+uh happen it uh and you already have
+more than 200 000 developers that are
+registered so as a company obviously
+coming to you i'm already seeing this
+you already have a data mode
+of this incredible pool of developers
+and and your ability to then match me so
+i i love the first of all i love the
+fact that you're you know you have first
+of all the
+two-sided marketplace that you've
+already solved one side of it you have
+them
+and now the more i give up myself the
+more you get to know me the better
+you'll match me with those two hundred
+thousand and it's really it's as if i'm
+getting two hundred thousand resumes
+and you're telling me okay michael and
+here are the top ones for you and now
+tell me a little bit about this about uh
+you know the culture because
+culture has been a significant part of
+you know silicon valley's journey i
+think in the last three four years
+every other article on entrepreneur.com
+and forbes talks about the
+culture whether it's good usually bad
+how do you think you know this remote
+work
+and inevitably we're moving to uh you
+know
+99 of the workforce will be remote i
+think you know within 10 15 years
+how what is what is the impact this is
+going to have on culture especially as a
+chief technology officer
+amongst developers which are you know
+innately not the most
+culture you know extravagant
+personalities
+so yeah i i i i i think
+the the the question you ask is a very
+very good one so
+there is definitely a sense in which i
+think in a um
+in a remote first uh world there is
+definitely a sense in which
+developers will will need to be uh more
+uh i mean will will need to
+sort of be more uh extrovert ish
+compared to
+what they might have been able to get
+away with i mean even in
+um you know even in an in-office
+environment we all know this ultimately
+from the standpoint of growing uh
+from the standpoint of uh doing uh more
+collaborations getting promoted and all
+those other things
+it does become quite challenging if a
+developer is not sufficiently
+extroverted i mean
+ultimately developers much like
+everybody else do wish to
+grow as individuals uh assume more
+responsibility and do more valuable
+things and everything
+so i think in in remote certainly that
+is one of the things we
+uh we both test for among our developers
+that is certainly something we take into
+account when uh
+when deciding uh if they should be hired
+and matched to a job
+and that is also something that we uh we
+nudge developers very strongly toward
+for example today we have a
+collaboration product that turing
+developers use
+which basically uh constantly nudges
+developers in the direction of over
+communication so our product
+ensures that developers do these virtual
+daily standups uh
+do something like uh short uh weekly
+plans which all get emailed to a manager
+uh that a manager can sort of uh um so
+it's quite lightweight to use for a
+manager
+but and the manager can sort of uh
+intervene and call for a meeting or
+something if they sort of disagree with
+some of the plans on the roadmap
+the primary uh objective of this is to
+ensure that the developer doesn't go off
+on their own tangent for a couple of
+weeks and then
+the manager is like well uh this was not
+what i had in mind or
+this was not worthy of this this time
+investment or something like
+that yeah but uh there is no question
+over communication is vital in uh in uh
+in the setting i mean
+in all sorts of things in fact i think
+this is something we are still
+discovering we are still discovering how
+to do happy hours
+how to do parties and all that like i
+know zoom supposedly has breakout rooms
+this is still something
+uh the i'm trying to figure out
+how to do within tuning the sort of
+thing where you invite 50 people to a
+virtual party but then
+also have these groups right where
+groups of four or five can chat then you
+uh you move on the same thing that you
+would do in a real party
+well you know if you had to ask me for a
+prediction i think that you know we're
+not going to get
+that we're not going to we're what we're
+seeing now is a huge opportunity and gap
+in the market where we have
+this incredibly accelerated pool of
+of software engineers and really the
+remote workforce in general moving
+remotely that's you know
+that's done some will come back to the
+offices they'll slowly transition out
+understanding that talent can be found
+everywhere so definitely in our industry
+we're going to be
+seeing a lot more than we also see today
+but
+i think that there's still a huge gap on
+the experience in the culture and i
+think they're actually the the virtual
+reality and augmented reality which
+haven't found a marketplace
+until today we've we've been seeing
+growing technology but they haven't
+really found a place because
+we didn't need it because we were still
+in person i think now there is going to
+be an interesting opportunity
+rej i have so much that i wanted to talk
+to you about i'm already upset that
+our 20 minutes is up so first of all
+thank you for coming thank you for being
+here i know how busy you are
+i think what you're doing is incredible
+i think it's it's innovative
+it's right on time and that's definitely
+where the future is and i'm i'm
+personally inspired by your own passion
+for solving meaningful problems through
+data i i
+really that's the way that i see things
+and i just loved hearing you talk about
+that
+before we leave i have to ask you the
+most important question three words that
+you would use to describe yourself
+first principle thinker first principle
+thinker
+vijay thank you so so much and stay safe
+and stay healthy

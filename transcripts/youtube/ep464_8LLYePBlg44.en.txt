@@ -1,0 +1,597 @@
+deep learning is a subset of machine
+learning where it's a
+a family of algorithms that
+simply do the prediction task of of
+inferring from
+some principle learning some principle
+based on on data
+and being able to be deployed and apply
+on this a problem and solve this problem
+in a production environment based on the
+data that they learned
+a before welcome to 20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc fund in silicon
+valley
+in partnership with leumitech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with ctec
+in this episode we're going to take ai
+and deep learning to the next level
+meet jonathan gaifman co-founder and ceo
+of desi
+the deep learning company building the
+next generation of ai
+he co-founded desi after completing his
+phd in computer science at the technion
+israel institute of technology
+his research focused on making deep
+neural networks dnns
+more applicable for mission critical
+tasks jonathan was also a member of
+google ai's morphnet team
+where he worked on developing an
+automated machine learning algorithm
+based on neural network pruning jonathan
+gaifman
+welcome how are you doing today great
+how are you
+thank you for asking me i i am doing
+a great thank you very much um deep
+learning uh one of the things that we
+mentioned right before we start here is
+that this is not going to be another
+ordinary episode
+um there's there's some hardcore stuff
+to talk about
+no there's nothing to do about it we you
+know you what you're doing with destiny
+this idea of taking ai to the next level
+you know
+most people around you know don't don't
+understand the the foundation of ai
+and what it actually means and you're
+here taking us to already to the next
+level publishing papers and some of the
+biggest conferences like
+and new reps and uh with working with
+google and machine learning
+and and phd in technion so not
+not nothing nothing nothing selling
+short uh
+and i can only imagine the complexity
+that now you're bringing to the world
+with desi
+and so i want to cut right to the chase
+jonathan how do you get
+to decide that you want to dedicate your
+professional career right now
+to to the concept of deep learning why
+deep learning
+okay so so i started to look at deep
+learning maybe six or seven years ago
+when
+it was the early days of this technology
+and when thinking about deep learning
+it was kind of fascinating why this
+technology works how it works and when
+where can we take it it was
+not deployed on many applications it was
+the early days
+and i was wondering what we can do with
+this technology and what enablement
+could it be
+could have done to the world and i
+started to research this
+and during my phd i started to look
+about applications of deep learning and
+how can we
+we make it like more applicable for real
+life
+and how can we uh count more on deep
+learning related algorithms
+in order to to involve them in mission
+critical tasks in
+our world like autonomous vehicles and
+and in a medical diagnosis
+so this was kind of the early days when
+i look at these algorithms
+in the in my phd in master
+so when you're when you're repeating the
+words deep learning
+um you know a term that really is is you
+know it's not ubiquitous and it
+some it is some sort of a black box for
+a lot of people what do you mean when
+you say
+deep learning so deep learning if we
+look at the world of ai which is a very
+general term and here with us for
+maybe 50 or 60 years we can divide it
+into
+a machine learning which is a a
+class of algorithms and deep learning is
+a subset of machine learning where it's
+a
+a family of algorithms that
+simply do the prediction task of of
+inferring from
+some principle learning some principle
+based on on data
+and being able to be deployed and apply
+on this a problem and solve this problem
+in a production environment based on the
+data that they learned
+a before and they are mainly good in
+doing some prediction tasks in
+in image in image in a voice and in text
+so so these are kind of the application
+the native applications of deep learning
+like processing signal
+uh nature natural signal like
+images voice and text and making some
+predictions
+like classifications detecting objects
+in images
+images transcribing a
+voice and stuff like this so this is
+kind of what deep learning is doing
+today in our life and
+it's deployed on many many applications
+that we can see
+in our mobile phone it deployed all over
+the internet in some
+of the back end of the sites that we're
+using like netflix
+youtube facebook google search it's
+everywhere and we are not also
+always familiar with the fact that it
+surrounded us
+with in so many applications inside and
+we are using deep learning every day
+jonathan why go do a phd in the technion
+in deep learning you have to like i'm
+sure you already know this that if you
+walk down the street and you and if
+your shirt said that people think you're
+crazy it's it's it's like
+one of the hardest things you can do
+like why why
+like a lot of people would say why
+torture yourself how do you
+see you know your academia and
+and you know i'm smiling also because
+i'm i'm in that path as well and so
+i have a feeling i know what you're
+going to say but it but it is an
+elephant in the room that needs to be
+said
+uh actually so so i didn't dive directly
+into a phd i started with the master
+and search for for a topic to do some
+research during my master thesis
+and then i i i found deep learning is
+very interesting
+then i i dig a little bit and found a
+world war that i want to to
+to to investigate and research a little
+bit further and then i i continued to a
+phd
+uh i think that it's something that
+took me into the world of deep learning
+and trying to build some more
+applications
+doing more research and seeing how this
+technology
+can can make its impact i think that
+this was the
+strongest motivation that i had while
+continuing from the master to phd and
+focusing deeply on deep learning
+and so you're finishing the phd and
+a lot of people with that have um you
+know ai expertise or
+or any ability to create meaningful
+products they think okay how can i
+actually use ai to
+to you know to augment you know
+something in our daily life whether it's
+autonomous vehicles it's
+and you know image recognition single
+processing audio whatever
+you're saying i'm not gonna deal with
+one specific thing i'm going to
+talk about ai in general what does that
+mean to you
+so we saw the situation with this
+technology
+those days like 2019 and we saw that
+many people are trying to use deep
+learning
+but it's not it wasn't easier on those
+days also now it's not so easy
+and the the proficiency that was needed
+from the developers in order to adopt
+this technology into
+into applications in real life in the
+industry
+was very high and we thought okay how
+can we reduce that barrier how can we
+make deep learning
+simple to build simple to use simple to
+deploy
+and that this was kind of the motivation
+i didn't want to focus on one specific
+new application and
+kind of collect the data and do all the
+job and there one is interesting thing
+in the horizontal ai approach that you
+see
+many many applications and many many
+tasks and it's very diverse you we are
+working with customers in
+health care and we are working with
+customers in image editing and
+smart cities in and many many
+applications and we kind of exposed to
+to all the impact that this technology
+can do to the world
+and i think that this is more
+interesting for for my personal
+perspective than focusing on one narrow
+application building it along the way
+and so this was kind of the motivation
+like making this
+technology available for everyone for
+any application
+and seeing its impact uh on on all the
+widths
+of the available applications of that
+technology
+so you know now how many people are
+currently working at desi
+so at this we have 26 people at the
+moment we are
+expanding very fast yeah we started one
+and a half years ago like maybe one year
+ago we were only six
+and then we had wow from the a
+market size side walking with many many
+customers at the moment so we expanded
+very fast
+and it was very interesting like this
+stage of the startup
+coming from zero to one and from six to
+26 in one year it's
+fascinating because you want to wow
+something with a unique culture
+we say you want to control everything
+you want to hire
+a good and a
+like building company at these stages is
+very fascinating in my perspective like
+scaling up and the team building the
+right team to the right
+mission with the right product is is
+very challenging
+and you have to control all the details
+at this stage
+and so yes it's it is great
+so building a culture and a lot of the
+times we hear
+you know about about the mission and the
+vision of the company and and
+and you know the ceo's responsibility to
+make sure that everybody's aligned on
+this vision and
+you know a lot of engineers and
+researchers are looking for meaning in
+their work
+how do you explain to your team members
+the meaning of the work that you're
+doing because it is a little bit more
+theoretical
+and less tangible than you know somebody
+who's
+working on security cameras for an
+elderly home care
+right which obviously has an immediate
+impact so how do you go about explaining
+that
+actually we are we are seeing ourselves
+as ai enablers
+so in some sense we have large customers
+with some let's say mobile apps that are
+deployed all across the world and they
+can
+and they can use these applications and
+see desi model like the engine behind
+the the largest
+applications and for the largest
+companies are driven by deci technology
+so being able to see your technology
+working
+with the largest companies applications
+is is
+is amazing in the sense that you feel
+that you build something
+that is deployed all over the world
+making impact giving some value
+product value for for users
+and it's more than like building a
+startup that will have 10
+100 customers they deployed all across
+the world with
+applications of the largest tech
+companies in the world
+so this is kind of the the largest scale
+that you can think that the small
+startup from israel
+can build technology right and so
+going back to the world of deep learning
+a little bit share with me a little
+you know your two cents on on where
+where we're headed
+both where desi is headed but also as an
+industry
+where is the where is the deep
+technology or deep learning industry
+headed
+in your perspective
+so i think that
+one of the things that we see that deep
+learning will
+dominate all the machine learning space
+and all the ai space so if i mention at
+the beginning that
+at the moment deep learning is mostly
+working on computer vision
+on audio and nlp on text analysis
+and we'll see in the future that it will
+completely replace all the traditional
+algorithms what is called classical
+machine learning
+and that is doing some medical diagnosis
+that is doing some
+and mathematical or statistical analysis
+and so deep learning will will be the
+entire ai stack in my perspective in the
+future
+also we are seeing a kind of
+standardization of
+how companies and people are building
+deep learning algorithms
+and we will see more and more end-to-end
+tools
+that help the data scientists and the
+deep learning engineer to build
+optimize and deploy deep learning like
+what we are doing in desi so at the
+moment
+the the the ai market or the industry of
+ai
+is very fragmented with a lot of tools
+that every tool is doing something very
+very small
+and very very unique and i think that
+this market will go to platforms that
+are
+giving end-to-end value i think that the
+first company that identified that
+and tried to build it is aws with the
+sage maker platform
+but we'll see more and more companies
+also google announced like
+like last week something that they call
+vertex ai which is a
+end-to-end platform for ai so we'll see
+companies that are building end-to-end
+platform
+that help from the development side even
+with the data are labeling the data
+and to the production side and this is
+also the goal of desi like being the
+the go to platform and end-to-end
+platform and for deep learning
+that what interesting is this is that
+how we build the models
+which is based on the autonomic
+technology which automatically
+designed the models and to get a best
+performance in production okay
+what does that mean what is it that you
+just said
+automatic neural architecture
+construction this means
+that if the in the past data scientist
+was needed to to craft the neural
+architectures
+manually neural architecture is the core
+of the
+of the deep learning model like the
+structure of the model and in the past a
+data scientist was needed to craft this
+manually like connect some layers
+together think about the new
+architectures or get something from
+github
+that already published in academic paper
+this was non-optimal in the sense that
+it was this was not tailored for the
+specific task that this
+um data scientist is trying to solve and
+with autonac
+it's an algorithm that automatically
+design the structure of the deep
+learning model
+in order to kind of solve an
+optimization problem of getting the best
+accuracy
+while also getting the maximal
+performance in production
+as we know deep learning requires huge
+amount of computational
+uh effort during training and also in
+the production side
+and in order to reduce that we are
+building uh
+algorithms with autonomic that are more
+efficient than the common deep learning
+algorithms that are available
+in academic paper or in github
+right and so what it sounds to me and
+correct me from wrong is that
+essentially you're taking the research
+that you've been doing and that you love
+doing and that you're fascinated by and
+you turn it into just a very very
+profitable business but really
+you're continuing to do research on a
+daily basis right
+yes so one of the interesting thing is
+that about one third of the company is a
+research team
+we are constantly doing research in the
+state of the art of deep learning like
+an
+academic institute on one side and it's
+very fun and and seeing new results and
+being
+like on the state of the art of the
+academic papers and
+and results and on the other side we try
+to productize it
+and give it to the world and make it
+like uh
+easy to use and being able to build deep
+learning models automatically
+very simple in very simple way so this
+is kind of
+a one on one end is the research on the
+other hand is the product to productize
+this technology
+and this short route form a research
+idea to to product in production that
+serves customers
+it's a very very very exciting
+so within this past year you grew from
+six to 26 you've gained a bunch of
+customers you've
+you've essentially you validated
+everything you wanted to
+to validate and where where where is
+desi going from here so if as
+you know the leader of this ship where
+where is desi going to be either you
+know you decide in one year maybe five
+years
+yeah so so in the short term we started
+very narrow with a very
+focused value proposition from the
+performance side from computer vision
+from edge to cloud now we are expanding
+to to walk all across the domains of
+deep learning from
+a computer vision to nlp to audio so
+this is immediate like
+next quarter where we are onboarding
+customers in nlp
+in the longer future we see the dc as
+the go to for deep learning development
+so
+if you need to build a deep learning
+algorithms you better do it with desi
+because this will give you the best
+results that that's my vision
+very i i have to say that i just love
+that vision
+and i think that one of the things that
+you know we we can also touch on here is
+just this idea of how big this market is
+growing
+it is exploding it is growing um
+at such an incred an amazing rate where
+you have comp
+every basically every company now needs
+to
+leverage this technology because this
+has become the staple
+or the basis for or foundation for
+anything it's no longer just heuristics
+or just you know it now this is the
+basis of understanding customers
+understanding you know
+products understanding performance and
+optimization right so and i'm guessing
+that you're
+where you're sitting you're really
+seeing it where all of a sudden you have
+all these companies that maybe even five
+years ago even two years ago
+didn't have anything right yeah so so
+now we are working with the experts we
+are helping tech companies
+to leverage this technology technology
+further in the future we we are looking
+also to help like the companies
+that want to enter into the eye with our
+platforms
+so this is kind of lowering the barrier
+lowering the bow of entering into ai is
+one of our long-term goals
+right i i love this conversation thank
+you i have three questions but they're
+about yonatan not about
+desti or deep learning are you ready for
+them i hope i'm ready
+we'll start with your favorite subject
+from middle school or high school
+um i think it mathematics uh
+i don't know it was something that was
+interesting
+i was good at that and i liked it
+amazing who would be one of your role
+models
+somebody that inspires you in some way
+i will say too larry and sergey from
+google
+i think that they built an amazing
+company and it's
+very interesting to to learn about the
+their
+their journey from the phd it's time for
+do to building google
+like i think that they're the role model
+for me like
+seeing google now uh and looking what is
+google become
+and thinking about the early days that's
+for me the the great example of building
+large company what are three words that
+you would use to describe
+yourself or if i were to ask anybody who
+is jonathan gaifman
+family desi
+life i love it
+thank you i can't wait to start to
+understand
+how your uh you know the work that
+you're doing is going to implicate the
+world in such a dramatic way
+and i think that one of the things that
+i'm excited to think about is
+you know it's no matter how much you'll
+know you won't even know
+how far down the the snowball effect
+this made
+and the butterfly effect both effects
+are in place here jonathan
+thank you very very much stay safe and
+still bye

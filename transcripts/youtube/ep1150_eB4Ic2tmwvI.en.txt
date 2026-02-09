@@ -1,0 +1,574 @@
+I think uh the best result is if you
+combine all those signals together. Um
+like if you combine modalities like if
+you you know have a signal on whether
+the face looks AI generated and a signal
+on whether the voice is AI generated.
+What we found is you know you combine
+those things you get a better result
+than either one independently. Um, and
+you know, if you have a whole detection
+pipeline that takes into account, um,
+for example, you know, the email address
+of the person you're on a Zoom call
+with, um, and combine that with these,
+uh, I guess more like, you know, new
+technology features like the AI
+generated or not type stuff, uh, you
+know, all that stuff kind of ensembles
+together and then you can get a more
+comprehensive picture. So the old stuff
+is useful, the new stuff is useful. If
+you combine them all together, that's I
+think um how you can get the the biggest
+the best best results I suppose.
+[Music]
+Lucas who welcome to the human zero day.
+Thank you so much for joining the
+speaker series. I really appreciate your
+time and the energy you're you're going
+to invest with me over this short
+conversation. So, thank you very much.
+&gt;&gt; Yeah. Yeah. No, thank you, Michael.
+&gt;&gt; So, so Lucas, you're a obviously a
+technologist. You've you're in the
+cutting edge of machine learning and
+artificial intelligence. You're devoting
+so much of your time and energy today to
+the context of fishing, social
+engineering across what looks to be
+different modalities which I think is
+one of the really interesting pillars of
+the evolution of social engineering and
+fishing as they now come out in all
+shapes and forms from websites to videos
+to phone calls to emails and SMSs. uh
+the attack vectors are seem to just be
+expanding across the channels and they
+seem to be getting more and more
+sophisticated. And before we dive into
+that, please walk me through a little
+bit your own journey of how you got
+here. How do you end up choosing to
+devote your time and energy to this
+problem?
+&gt;&gt; Yeah. So I originally came pretty much
+purely from like a AI ML background. Um,
+so studied computer science and then
+electrical engineering at USC and pretty
+much the whole time I was focused on a
+IML. Did some research related to that.
+Um, and then I ended up interning at
+Palo Alto Networks. Not that I was into
+cyber security beforehand, but when I
+got there, I I found out that I really
+liked it. Um, and it was interesting to
+see like not just, you know, how a IML
+could be used, but I thought the space
+itself was just so interesting. Um, and
+especially the evolution of it, moving
+from like, you know, low-level malware
+and then gradually attacks have kind of
+moved up the chain to more like social
+engineering and actually attacking like
+people's psychology rather than how
+machines work. Um, and I thought that
+was really interesting. Like I really
+enjoy learning how the attackers try to
+frame things. So I decided to just stay
+in the field. Uh, and that's where I am
+now.
+&gt;&gt; Yeah. Yeah, I mean one of the things
+that I often um share with people it's
+such an interesting evolution looking
+from firewalls in 95 to malware like
+with the semantics and then eventually
+to cloud security and then identity and
+all of a sudden we it's like we're going
+up and up all the way to the human mind
+and uh and and it's super fascinating
+and tell me a little bit about your work
+with duet uh because uh I I have because
+I I like I mentioned to you I think it's
+such a cool endeavor that that you've
+been a part of. Tell me a little bit
+about what that's about.
+&gt;&gt; Yeah, this is something uh I helped
+start as as a student when I was at USC
+uh with a few other of my friends there.
+Um we actually we visited some refugee
+camps in Greece as a part of a class. Um
+and we saw that there was a lot of stuff
+that was being donated that wasn't
+really being used. Uh and at the same
+time, the refugees weren't really
+getting the exact items they wanted. Uh,
+so my way of describing it is it's sort
+of like a way that refugees can directly
+request the things they need from stores
+in their community and then you as a
+donor can browse those exact items and
+then pay for them online. So check it
+out. It's at gived.org. Still active.
+Um, but yeah, it was just a cool side
+project that we're still going on with.
+&gt;&gt; Amazing. So, so let's dive into social
+engineering and fishing. You are living
+at the cutting edge of it. you're at the
+forefront. Um the scale at which you're
+operating it looks like from a detection
+perspective is is quite is quite amazing
+and probably gives you a really good
+firsthand glance at what we're seeing in
+the world today. So paint me a picture
+of what are the types of social
+engineering and fishing attacks that
+you're observing that are out there
+right now.
+&gt;&gt; Yeah, there's a few different ways of
+thinking about it. I think one helpful
+one is on the one hand you have like
+very mass non-targeted fishing campaigns
+all the way to like very very
+hyperargeted spear fishing attacks. I
+think that's probably the most helpful
+axis. So in terms of volume uh in terms
+of like what we detect you know
+obviously the mass stuff is just going
+to have higher detection volume but that
+stuff usually tends to be easier to
+detect. And then, you know, the further
+you move toward kind of the hyperargeted
+direction, the lower volume you're going
+to have because it just takes more
+effort to craft those attacks, but you
+know, obviously like higher percent of
+success. Um, and it's more difficult to
+detect as well. So, actually with deep
+fake stuff, we also see kind of both
+sides of the spectrum. we see, you know,
+kind of mass deep fake scams that are
+just, you know, popular
+investing in crypto a YouTube
+advertisement or something like that.
+Um, that's just a total scam, you know,
+all the way to like, you know, super
+targeted. Someone calls you on WhatsApp
+and is voice cloning your boss or
+something like that. So, that is a thing
+as well. And how new or how new is this
+in terms of the development cycle of the
+type the sophistication and the modality
+of attacks? You've been at this for a
+few years. What what's been your
+impression of even if we just take the
+last year or two? What's changed over
+the last 12 to 24 months?
+Yeah, I mean obviously AI has blown up
+in the last two years or so and deep
+fakes are um obviously a big part of
+that. So I think the the trends we're
+seeing with regards to that are much
+higher quality uh fishing emails that
+can be generated using LLMs. Um that is
+something we see although it's hard to
+determine exactly if something is AI
+generated or not but I'm fairly certain
+that attackers are doing that. Um, and
+then you know with regards to the social
+social engineering side, being able to
+either clone someone's voice or
+potentially their face, although the
+face part is a little more difficult to
+do in real time, but the voice is more
+feasible. So those are kind of new types
+of attacks that we have to be wary of.
+Yeah, you know, I've seen that recent
+statistics from the teammate um
+investment group that have shown that
+credential fishing has been up about
+1,200% over the last year, fishing
+emails about a,000%.
+And the number of malicious emails on a
+daily basis now is north of 3 billion
+where more than about half of them are
+LLM based which I think is really really
+interesting you know considering that
+until I guess 4 years ago the vast
+majority of them probably more than 90%
+were really bad spelling with some
+country from Africa needing some aid.
+Right.
+&gt;&gt; Right.
+Yeah. Yeah. No, I mean it's it's so easy
+to just, you know, write a script that
+generates a, you know, million different
+fishing emails now.
+So, so Lucas, as you think through from
+a technology perspective, as you think
+through this landscape and where we're
+at, because obviously we we don't want
+to be in a world where we're just
+consumed by fishing and social
+engineering. What are you observing and
+how are you framing your thinking around
+potential ways to start mitigating this
+threat?
+So I think with AI it prevents you know
+obviously the challenges are this the
+scale of attacks and the variety of
+attacks that been that can be created
+but it can also be very helpful on the
+defense side. Um so you know a lot of
+our detection components now will use
+LLMs as you know maybe not the core
+driver but as a as a component in a part
+of a broader detection pipeline. Um so
+it's a very useful tool for the defense
+side as well. Uh and in addition, it
+actually turns out that a lot of
+traditional um defense techniques can
+even be applied to these new sorts of
+attacks as well. So with things like
+email, uh if you still see you know a
+lot of suspicious emails coming from a
+small set of email addresses or you know
+maybe a suspicious domain, those signals
+are still very useful. Like the fact
+that the email itself is AI generated
+doesn't mean that those signals are
+going to go away. Uh even same thing
+with like deep fakes, right? Um if
+someone is, you know, logging into Zoom
+from a domain that does not match your
+company email, uh and is for example
+claiming to be like your boss or your
+executive or something like that, that
+signal is still very useful. So with the
+new generation of attacks, uh the
+traditional signals are still useful um
+even if you know there's like a new
+layer on top of them. And so so it
+sounds like there's there's the
+traditional signal, you know, you can
+look at the the IP, the networking, the
+devices, and look at more traditional
+ideas of how you would think through and
+I guess an authenticated source or
+verified device. And then there is also
+the newer schools of thought looking at,
+you know, the the pixels, looking at the
+audio signals. Do do you have a
+perception of of how this space is
+forming in terms of feasibility for one
+or the other also looking a little bit
+ahead as to you know how fast these
+things are moving what what would be fe
+feasible from a technology perspective.
+Yeah, I mean I think uh the best result
+is if you combine all those signals
+together. Um like if you combine
+modalities like if you you know have a
+signal on whether the face looks AI
+generated and a signal on whether the
+voice is AI generated. What we found is
+you know you combine those things you
+get a better result than either one
+independently. Um, and you know, if you
+have a whole detection pipeline that
+takes into account, um, for example, you
+know, the email address of the person
+you're on a Zoom call with, um, and
+combine that with these, uh, I guess
+more like, you know, new technology
+features like the AI generated or not
+type stuff, uh, you know, all that stuff
+kind of ensembles together and then you
+can get a more comprehensive picture. So
+the old stuff is useful, the new stuff
+is useful. If you combine them all
+together, that's I think um how you can
+get the the biggest the best best
+results I suppose.
+&gt;&gt; And you know, I've been hearing a lot of
+CISOs and security professionals look at
+this space and are thinking to
+themselves, boy, how how in the world,
+you know, are is the defense going to
+keep up with the attack? I mean thing
+this I mean it just feels like there's
+so much money and so much incentive for
+the modalities to become more
+sophisticated and for the attacks to
+become more fragmented and and so much
+fewer dollars being spent on on defense
+then then they're they're wondering
+whether to even look at detection as a
+feasible defensive mechanism over time.
+So what would you say to those CISOs
+yourself? I mean I think obviously the
+scale of attacks will increase and has
+already been increasing but you know
+that doesn't mean you just give up right
+um I think if you take kind of like what
+we think as we call it like a Swiss
+cheese approach where you know a new
+attack pops up and okay we'll create
+like something that blocks maybe 90% of
+those attacks but not all of them but if
+you have a comprehensive enough uh
+defense architecture defense strategy
+eventually all these you
+layers of Swiss cheese are going to
+create, you know, somewhat of a solid
+wall. So even though each layer itself
+might have some holes and maybe some of
+these attacks are going to slip through
+some specific layer you have, if you
+kind of stack up a bunch of layers of
+defense, eventually it becomes really
+hard for an attack to slip through all
+of them. So, you know, there's still
+hope and nothing's going to be perfect,
+but it's still way better than just
+letting anything come into your network.
+&gt;&gt; Absolutely. And and I love the Swiss
+cheese analogy. So effectively to
+picture it, you're saying, let's take a
+slice of Swiss cheese that obviously has
+some holes, but if you take an if you
+create another layer of Swiss cheese,
+which has a different set of holes, then
+some of the solid layers will overlap
+some of the empty ones. And over time,
+if you build enough layers, then there
+will be very few holes that are
+perfectly aligned to let through. But
+that raises I think another question
+which is you know these these models are
+aren't per perfect also in terms of
+their false positive rates and one of
+the concerns that I've been thinking
+about is well you know what happens if
+how do how do you manage the the
+skepticism or the trust factor of these
+models especially as many of them may be
+you know deep neural networks or or
+blackbox models. How do you then
+mitigate your false positive rate so
+that you don't end up sort of catching
+everything as as potentially suspicious
+and then you're you're not catching
+other side of the coin.
+&gt;&gt; Yeah. I mean that's that's very
+difficult especially when it comes to
+like uh deep fake detection. I think
+that task just as a pure machine
+learning like is it AI generated or not
+task is much more difficult than
+something like uh generic fishing
+webpage detection. So you know in terms
+of like the false positive to true
+positive trade-off you're not going to
+get like as optimal a results as you
+know some of the easier ML tasks out
+there but it's still something. It's
+still a useful signal. And I think this
+is where it comes back to like combining
+a lot of signals together. Maybe if one
+model independently, you can't take its
+verdict at face value, but if you have
+other signals you can combine it with uh
+and either onse them together or have
+like a cascading model type of approach,
+um then you can really do better than
+you know a single model alone. Um so
+yeah, that's one way of going about it.
+Um it's very tricky. Obviously, it's
+something we deal with a lot cuz, you
+know, we process like a billion web
+pages per day. If we have a false
+positive rate of 1%, that's, you know,
+like a million web pages that just got
+blocked. So, yeah, it's tricky.
+&gt;&gt; Yeah, I think it's kind of amazing to
+think of, you know, when you say, yeah,
+we, you know, 1% false positive, it
+doesn't sound like a lot when you're
+actually looking at
+&gt;&gt; when you're actually looking at that
+scale. Well, that's that's not feasible
+anymore. I I'm and I'd love to get your
+perspective on, you know, if we're
+looking at it from an from an enterprise
+perspective and and a business
+perspective. I mean, so there's one
+thing to catch the mass the mass social
+engineering attacks. Um and then there's
+the more targeted attacks which are
+really could you know potentially
+&gt;&gt; take down an organization if they get
+through you know if somebody gets access
+to a sensitive um sensitive system or or
+do one of those very large fraudulent
+transactions.
+How are you thinking through the
+evolution of this attack in the context
+of you know business operations and you
+know we we're doing everything digitally
+today. So, what what what are we where
+are we heading into?
+&gt;&gt; Yeah. Um, so I'm not sure if the
+audience has heard of this like $25
+million Zoom deep fake hack that
+happened I think about a year ago at
+this point. Um, so we were thinking
+about this and like even if someone was
+able to deep fake such and such person,
+the fact that they were still able to
+get that transaction to go through maybe
+implies that there weren't enough like
+safeguards, not even on the cyber
+security side, but just on the, you
+know, on the operations side, right?
+Like you really need to make sure that,
+okay, like such and such person has to
+sign off on this, you know, especially
+for a big transaction like that. So it's
+not just cyber security that's involved,
+right? Even like on the operation side
+like let's make sure this is really a
+valid transaction that has to go
+through. I personally don't know what
+exactly that looks like but you know I'm
+sure the business side people can figure
+that out a bit more. Um and then with
+regards to actually detecting these from
+the cyber security side um it's
+important to try to get visibility into
+all different parts of the attack chain
+if possible. Right? So, if the entry
+point is like an email saying, "Hey, uh,
+this is your boss. Can I set up a Zoom
+call or something like that?" You want
+to make sure you get visibility into
+that? And then two, you know, if they
+actually do have a Zoom meeting set up,
+you want to try to get visibility into
+that as well, right? Like, what is the
+email address that's participating? Is
+it actually from your organization or
+not? Um, and you potentially, you know,
+if you can get access to like the
+transcript and things like that, even
+better, cuz then you can see, okay, is
+this person asking to send, you know, a
+bank transfer? Cuz that's potentially
+pretty suspicious. Um, right. And then
+you go further on and then, okay, is
+this bank transaction actually
+legitimate or not? So, the greater
+visibility you have into all different
+parts of the chain, the greater chances
+of you being able to catch that attack.
+And that kind of goes back to like the
+Swiss Swiss cheese analogy from earlier.
+&gt;&gt; So it sounds like well you're we're
+starting from the root problem which
+would be there are these distinct use
+cases where very critical events are
+about to transpire within the
+organization. You mentioned the $25
+million heist which I by the way I fully
+agree with you on that point. uh
+probably you should have been caught
+through procedures but uh but I think it
+shines light on this context of it's it
+in if we're looking at it more
+holistically of how would we protect
+trai know any financial transaction
+given that let's say a big chunk of the
+fishing scams are on financial
+transactions probably having just a
+detection piece at the end point
+wouldn't suffice because of the Swiss
+cheese analogy but if you were to have
+systems in place that would be able to
+cons to consolidate multiple signals
+across the initial email conversation,
+maybe even the LinkedIn message that
+came through and then all going all the
+way to the payroll to the payment or the
+transaction software and have and
+constantly validating uh then that would
+hopefully you would catch at some point
+in the chain within that six or sevenst
+step process you would catch oh wait
+there's actually something suspicious
+here you should look right now into this
+and uh and at least flag it so that a
+human moderator would look into it. Is
+that is that what you mean?
+&gt;&gt; Yeah. Yeah. Yeah. Totally right. Um so
+either you can have all those steps
+running independently. Best case
+scenario, you figure out a way to
+combine all those signals together and
+then you know analyze like the
+interaction and the chain from one step
+to another. But even if you just run a
+bunch of checks independently, that's
+still way better than just you know
+having a single check.
+&gt;&gt; Absolutely. Well, and it would make
+sense that if you had access to these
+checks independently, taking an ensemble
+approach would probably be the the uh
+the ideal next step. Lucas, you know,
+going, you know, now that you spent some
+time into this, um, what do you enjoy
+most about your work here?
+&gt;&gt; It really keeps you on your toes. Um,
+like right two or three years ago, you
+could not have envisioned that like AI
+generated malware would actually become
+a real problem that we have to deal with
+and something we have to consider. Um,
+so yeah, I mean it evolved super
+quickly. Like I think when I first
+joined four or five years ago, um, I
+really couldn't have envisioned the
+projects that we're working on now. Um,
+and especially the tool sets that are
+available to us now, right? That is
+constantly evolving as well. Like um,
+all our teams are talking about how to
+use LLMs in different parts of our
+pipelines now. Not just cuz it's like,
+you know, a hyped up thing, but it is
+the projects we're working on now would
+not have been possible like 2 or 3 years
+ago. Um, the types of detections we're
+doing, the types of like semantic
+analysis we're doing just would not have
+been possible 2, three years ago. Um,
+and it's really cool because every new
+technology that comes out translates
+both to the attacker side and the
+defense side. So, you're able to, you
+know, see what attackers are doing and
+also use those to build up new defenses.
+So yeah, it's really exciting in that
+way.
+&gt;&gt; Super interesting. Lucas, I really want
+to thank you for taking the time to uh
+join me. Um really awesome conversation
+went by way too fast. Um best of luck
+with continuing to detect what at this
+point is hundreds of thousands of uh
+many different types of social
+engineering and fishing attacks. So
+thank you and uh have an amazing rest of
+the day.
+&gt;&gt; Thank you, Michael. That was a lot of
+fun.

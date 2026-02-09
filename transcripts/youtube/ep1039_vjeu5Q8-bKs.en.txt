@@ -1,0 +1,505 @@
+[Music]
+Mickey klovski thank you for joining me
+from Tel Aviv how are you good how's it
+going thank you for having me brother uh
+thank you for being your brother what
+you've done over the last 10 days have
+been utterly inspiring I've been H it's
+been exhilarating watching H this this
+idea that just started with a a message
+in our friends group that said hey guys
+we're Gathering a bunch of volunteers to
+do something for this war some fullstack
+engineers and product managers I
+remember that I remember that link
+because I think I was maybe a member
+number 20 something in this group and
+that's I'm going to hold to that that
+number for a long time because now it's
+it's in the thousands and uh what you've
+done I think in 10 days is is really the
+the essence of what it is what is the
+startup nation and what is
+entrepreneurship and how you create an
+environment in which people all over the
+country come together it's been really
+incredible um watching it and and I'm so
+excited to tell the story from from your
+perspective as well as the impact that
+it's had and where we are today so
+Mickey take me back to to the morning of
+October 7th you know what are what what
+are you doing sort of in life in in this
+morning and then where does this hit you
+what's happening so um morning of OCT
+oober 7th um I was in bed it was 6:30
+a.m. um and we started hearing Sirens uh
+because of rockets flying pretty much
+over our heads in Tel Aviv um at the
+beginning uh uh we realize something is
+going on because you know chances of Tel
+Aviv being bombed uh with that big of a
+surprise are low so we uh opened up you
+know the news and started pretty much
+following what's happening it was you
+know clear I got a video from a friend
+of mine in the south of Israel uh with
+Hamas terrorists pretty much in his
+neighborhood with like a trank full of
+kalachnikov weapons shotting at at at
+pretty much everybody including
+policemen's and Etc and it was clear
+that something uh uh crazy uh is going
+on uh we didn't know how big is the
+scale of this massacre of these
+terrorists that uh you know pretty
+much went into isra and started killing
+people but you know in a few hours we
+realized how big is this you know the
+rockets that were flying pretty much all
+over the country uh uh the amount of uh
+dead people the stories that were start
+that started coming out from the party
+uh um in the south of Israel and then
+you know in that day I also realized
+that a friend of mine uh from school um
+at the beginning we thought she was uh
+taken hostage in in Gaza but then uh you
+know a day later we realized she was
+dead she was killed uh by a terrorist so
+you it it's it's a real nightmare what
+happened on October 7th I I don't think
+there's other way to describe this as a
+as a holocaust scenes especially now
+when you're hearing the actual the
+actual stories and you know other than
+than being called by the Army and and
+the militaries and the reserve duty I
+realized pretty quickly on my Facebook
+feed Twitter feed Instagram how many
+needs are uring are popping up from the
+field uh all the way from the citizens
+in in the south of Israel to people who
+want to donate to uh uh um tack people
+who want to volunteer so there was like
+a lot of mass uh uh going on and I was
+trying to figure out what we can do
+about this and what I started seeing
+over and over again is the need for tech
+support in different places all the way
+from the military to uh uh uh citizens
+to volunteering groups to um uh any any
+possible way that you know Tech can help
+automate stuff uh um uh upgrade some of
+the systems in place uh uh build some
+systems that are needed but are not you
+know fully functioning and etc etc etc
+so I said okay let's start a group I
+know a lot of people you know coming
+from the tech industry I'll just gather
+everybody I'll try to build a process
+where I can just connect match this
+Market Place of one side of volunteers
+and from the other side the needs uh uh
+from the field we started uh uh on on
+Sunday so the the attack was on Saturday
+we started on Sunday so I I guess around
+you know 1 p.m. we had the first 2030
+people um and then you know we just
+started sharing this pretty much
+everywhere but also started uh working
+uh um or trying to work with with
+official authorities to get all of this
+supply of volunteers into work uh I
+think the first uh project that came off
+of came up off off of this group was
+like a project that was gathering a lot
+of information of the missing people
+because there were a lot of uh uh
+Missing Personnel all the way from the
+party to people that were you know
+taking hostage and Etc so there was a
+lot of need in aggregating data into one
+API uh um doing uh facial recognition
+all this kind of technology to pretty
+much help everybody just understand
+where people are because there was a lot
+of mess in the south of Israel and then
+from there it just started exploding uh
+we started with like two three managers
+what soal of this operation now we're
+almost 30 um all the way from people who
+are uh um um doing the uh uh the
+authorization into the group because we
+want to make sure that no enemy uh like
+uh um people are in the group uh um and
+are exposed to what we're doing and on
+top of this uh uh we're doing a lot of
+work in terms of
+matching between uh um you know the
+volunteers and the projects so far we
+did wow I hundreds of projects it's
+extremely hard to track because some of
+them are just connecting you know
+software Engineers to like a specific uh
+organization that needs tech support uh
+um to helping you know kibuts in the
+south of Israel that needed some it work
+like everything you can think about and
+uh now we're officially 1500 people
+which is a lot of people we started with
+just a few dozens now it's 1500 people
+and we're about to double this by
+merging with another organization that
+does the same a lot of our work by the
+way
+is to try to clear uh the communication
+and make sure that people are not
+working on the same thing uh um and
+there no duplications because that
+happens a lot and people really want to
+help but I've never seen in my life the
+amount of of urge from people to help
+and to you know do whatever they can do
+to help this country uh uh fight back
+this is this is insane and so so so much
+inspiring it's it's crazy tell tell me a
+little bit about how that evolved so
+that that this idea that okay we have we
+we have these needs that are coming up
+they're they're coming up sporadically I
+guess throughout different different
+channels and different organizations how
+do you explain what's happening here you
+are you're experiencing you you're
+effectively becoming the platform for
+people to to be able to provide this
+help and support as sort of the the
+person overseeing this plat platform you
+you've seen it from the beginning H how
+do you explain what happened here so you
+know one of the hardest parts about
+building a process in a mass is that
+nothing is uh uh predictable so the
+needs are changing constantly so it was
+hard for us even though it's been only
+10 days but it was pretty hard for us um
+to figure out what's a process that
+would work so we realized that a lot of
+the needs that are coming from the field
+are extremely hard to explain so we have
+somebody that actually listens to anyone
+who wants to get volunteers and help and
+get help with tech because some of them
+just are not techy but they know they
+need some kind of automation they know
+how to explain you know Basics but they
+don't know they don't know how to
+explain like that they need a front-end
+engineer or like a devops they don't
+know what it means so a lot of this we
+have a person Omri our friend who's
+pretty much listening to each and every
+one of these people so you realize that
+there's a gap already that there's
+organizations that need some support but
+they don't even know what to ask for but
+they know that they need something they
+need it urgently and you need somebody
+who can under who can sort of be this
+this this Matchmaker between what their
+needs are and then what what types of
+people do we need in order to fulfill
+that role exactly and then you have this
+and then you have authorization you need
+to make sure that you're you're doing
+all the uh all the tracking and making
+sure that you have all the database
+written because when you want to connect
+some body to a frontend engineer you
+need to make sure that you have an
+available frontend engineer at any given
+moment that we can connect to and then
+we have a whole process of working with
+like uh we have Elan who's working with
+Gil Gil is coming from uh the IDF I know
+her from the IDF uh from theal She's
+connected to the you know the the the
+formal uh Connections in in in the Army
+and other places we have Elon who's
+working with other organizations for
+Partnerships uh we have p and Ben and
+Orit who are taking care of some of the
+ongoing processes so we do have like an
+actual operation just to clear
+communication and make sure that we are
+actually connecting people as fast as
+possible and things are happening
+because what happened at the beginning
+is that I opened the group as like a
+chat group so everybody can talk and you
+know I need this and you need that and I
+realized that very very fast but people
+don't know how to explain what they need
+that there's a lot of mass tons of
+duplications and if we don't manage the
+process properly we won't be able to
+grow this into something meaningful uh
+uh because you need to make sure that
+people trust this channel as a channel
+to get volunteers as a channel to
+connect with projects so that was a lot
+of work but but again you know it's not
+and and it's not me there's a whole
+operation here A whole group of amazing
+people were managing this but a lot of
+the stuff are changing constantly and
+that's the challenge the challenge is
+that you know one day you need a lot of
+uh uh help with hasbara one day you need
+a lot of help with uh with the U you
+know crms and stuff like this for like
+for volunteers can find you know
+donations like every day there's
+something new and there are other
+projects which I can't really talk about
+but they they do a lot of impact pretty
+much all over the internet in terms of
+you know defending our citizens content
+wise there's there is a lot of work
+there um one thing that you can see is
+that it's pretty clear in the war there
+are many battlefields there is the
+battlefield you know ground with foot in
+the ground but there is De bottle field
+online which where every war we have a
+problem with every war there's
+lies um uh uh spread it all over the web
+uh about how Israel behaves where we are
+what we do what our values and I think
+this time there's a lot of focus on
+trying to btle this back and to fight
+back on this front and we are doing
+everything possible as well to be able
+to provide any technological aid to any
+possible organization in no time
+literally takes and I I I can there's
+one thing that I'm pretty proud proud
+proud of is is that it takes us I guess
+like five minutes to match somebody uh
+with an organiz literally like five
+minutes where you know taking the phone
+up we're doing the match we're doing the
+making sure that the the connection is
+right we're making sure that they know
+how to uh um support each other and
+let's go and we can do that over and
+over and over and over again on scale
+which is pretty amazing
+how how did you how do how do you
+explain getting so many people not only
+involved with their own
+personal um their personal passions and
+their personal abil abilities but you've
+also mentioned that you qu within 10
+days you grew this from having two or
+three managers to having 30 managers so
+how do you how do you even fathom you
+know what happened here from an
+organizational perspective or or an
+operations perspective you know how how
+did you manage through that and and what
+were sort of the incentives
+here
+the I mean you want to protect your own
+land that's pretty much the uh the
+incentive right now there is no in
+there's no it's not like a business
+thing um you know we have 30 we have a
+core of 10 managers and then other
+managers who are helping us with like uh
+um you know other processes um they just
+really want to be a part I'm getting
+messages so my WhatsApp crashed three
+days ago um two years of data uh just
+deleted because my WhatsApp was pretty
+much
+bombarded with any possible message you
+can think about with people who want to
+volunteer and people who need
+volunteers um and and you can just see
+it every message says I'm willing to do
+whatever you need 247 to help you guys I
+do x y and Zed I'm a tech guy I'm an
+operations guy I'm an HR guy I'm
+whatever I'm here to do that because
+everybody feel like this is this is one
+of the most important words in in in
+Israel's history um in no other country
+in the world it's not even surrounded
+you know our enemies within us there
+there's absolutely no land on planet
+Earth that has this and and everybody
+feels that it's time to it's time to
+fight back it's it's literally there's
+no better time to do that were were you
+personally always this passionate about
+this uh I mean I mean I I mean every
+Israeli is is passionate about this
+you're passionate about this we're all
+going to the military we're all going to
+we're all protecting Israel 24/7 when
+there's no war as well when we're
+talking to people and people are
+criticizing us we know how to protect
+ourselves it just you know the urge is
+Big there is war outside I hear bombings
+all the time Tel Aviv is feeling this
+very very hard not as hard as the south
+of course you know I'm coming from
+ashalon um I was born and raised there
+so for me there's no question you just
+do that um and I mean there I don't I
+don't think I was B passionate about
+this but I I just I feel like I have to
+this is this is it what was the most
+inspiring moment for you looking back
+for a second in those 10 days you know
+you've been I know you've been 247
+crazed and working around the clock to
+get this to to get this to um height
+that I don't think anybody could ever
+imagine um H what if you look back what
+was one or two really sort of inspiring
+moments where you said back and said
+whoa okay this is this is cool this is
+this is
+incredible I think
+every every message we're sending in you
+know in our what's so called newsletter
+our WhatsApp announcement group and
+every every call we're making is is
+inspiring you hear people no matter how
+old they are where they are what they do
+they're willing to stop whatever they're
+doing right now and to volunteer
+on an extreme scale on an extreme scale
+like no matter what they need to do
+they're willing to do that and that's
+extremely expiring that it's extremely
+inspiring and that's why I why I'm doing
+this every day it's everything you know
+it's helping the police it's helping the
+the formal authorities it's you know
+there are many many projects I can't I
+just can't you know share but it's it's
+helping it's just making sure you have a
+very trusted source of an extremely
+large group of people who are willing to
+do whatever they need to do to protect
+the country um and and that these people
+even though they're sitting at home and
+they're not whatever on
+duty they're stopping everything and
+they're focusing on this and they don't
+stop until they they make it um I I
+think the most by the way maybe my
+personal most inspiring moment was I
+didn't know I it was extremely hard for
+me at the beginning and even now it's
+extremely hard to track who's working on
+on what because people are changing all
+the time changes are changing all the
+time needs are changing sorry all the
+time um everything is pretty much very
+Dynamic and then what I realized is one
+one of the projects that I wanted to
+connect I started calling F like you
+know very close friends of mine uh uh
+engineers and some of them a lot of them
+said I'm already on another project and
+in this group and I was like okay the
+impact is huge because they already
+working on something else it was pretty
+fast with found somebody to do the the
+product that I was looking the people
+for but it was amazing to see that all
+of my friends are volunteering within
+this initiative and my brother uh uh
+joined he's in North Carolina right now
+he's not in in he lives in Europe but
+he's not in Europe right now he's
+extremely you know careful about Israel
+and he stopped all of his work and and
+join volunteering and helping me manage
+this group it's just it just in I can't
+explain it's there's no words to explain
+how amazing is this to see you know so
+many people want to be part of something
+so big it's um i' I've been getting um
+so inspired by this um you know I had I
+had the privilege of of seeing it from
+from just start and and I saw the
+explosive growth and what inspired me
+most was just watching how effortlessly
+this Grew From 20 to 50 to 1,000 to now
+1500 and now the now another merge and
+and I saw how effortlessly that was and
+I think that's the beautiful part in it
+for me that is the essence of what
+happened here that's the depiction of
+how how Israel's best and brightest with
+different disciplines this is not just
+Engineers it's not just product managers
+you've invited people from all walks of
+life with all different disciplines if
+you look at the group
+description I remember on the third day
+you started listing the different types
+of people that we have in the group that
+can support and you see anything from QA
+to to AI computer vision research to
+graphic design to and and it's just
+awesome really is awesome have calls
+from like you know teon PhD groups who
+are looking to to volunteer some of the
+brightest Minds in this country are part
+of this and this is super inspiring I
+just I I really want to say as well if
+you have friends in the uh United States
+who are connected to somebody in Israel
+who's in Need for any technological
+support anything uh we're here to do
+that I'll add the link they can just
+sign up we'll make sure that we reach
+out uh um we're trying to be very very
+very clear about what kind of projects
+we promote and what what kind of
+projects we don't promote because some
+projects are also filtered out um but we
+do everything possible to match in a
+super fast way
+um with people uh who want to help and
+and I think this is amazing and I want
+to say because I know they will be
+listening to all of my friends managers
+uh who are part of this so David Orit uh
+pel Ben Omri everybody else I I I pretty
+I'm pretty sure I forgot uh some of the
+names but just you guys are rock I I
+love you thank you so much for taking
+part thank you so much for jumping on
+calls all the time pretty much 24 seven
+thank you so much for taking this so
+seriously I appreciate it so much it's
+there's absolutely no way to describe
+the amount of gratefulness I have for
+these people this is amazing I love it
+the Gratitude is just shining through
+here and I think that's part of the
+magic of what what you created and who
+you are personally Mickey love you
+brother thank you so much and thank you
+for inspiring
+[Laughter]
+me

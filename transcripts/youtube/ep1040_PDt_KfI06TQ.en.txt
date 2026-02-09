@@ -1,0 +1,494 @@
+[Music]
+Zach bamburger it's so good to have you
+here how are you I'm well uh thanks for
+having me yeah yeah well as can be in
+this time and thank you for all the for
+all the amazing work that we're doing
+social media for Israel it's such an
+awesome initiative I I'm honored to to
+take a a small part of it myself and and
+it's incredible to see to see the energy
+that's ensuing on our slack Channel and
+all the amazing things happening from
+the tech pers all the way from the tech
+perspective all to the actual execution
+and
+productionize that this is moving at I
+think it's probably faster than most
+startups I got to to see and follow and
+so I'm I'm very excited to dive into
+this with you and you know going back a
+little bit tell me a little bit about
+yourself and perhaps a little bit about
+you know your team members and you know
+where you know what what are you doing
+in the world these days outside of the
+War uh sure so um I'll start with myself
+I'm uh I'm finishing up my masters at
+the tech neon I uh originally I guess
+I'm an Israeli American uh grew up in
+hia I studied in the states a little bit
+um at Cornell and then I worked for a
+couple of years at Google in California
+before deciding to do the whole uh MSC
+PhD thing here I was really passionate
+about natural language processing and uh
+figured that um it would be good to come
+home and work with uh someone like my
+current adviser yonathan
+binkov um and uh yeah that that kind of
+covers me I think um when it comes to
+some of my uh teammates um I have to
+shout out NV who is basically leading
+everything that uh has to do with
+building our platform front end backend
+scraping everything that's been him um
+and we have an amazing uh Team of uh
+researchers who've uh volunteered to
+help us Stanford posts uh other Stanford
+students I guess it runs strong with you
+as well um and uh people from industry
+Microsoft Google it seems like everybody
+is just coming together to uh try to
+help yeah can you can you go back and to
+Saturday morning when this all started
+and where sort of where were you how you
+know what did that what did this catch
+you what were you doing um I was uh I
+was in Vietnam I was uh my first
+vacation in about 2 years oh wow
+um I was um I was there with my partner
+we were um in Hoi Min City um you know
+we had tourist plans and uh we started
+hearing news at a certain point it was
+the afternoon for us it was 4 hours
+ahead and we were just shocked and we
+were just our eyes were stuck to our
+phones um we immediately called her
+families in her case it was difficult
+because um some of her family keeps
+Shabbat um
+so we felt a kind of hopelessness um uh
+inability to help and um I guess I grew
+tired of that really quickly and tried
+to figure something else that I could do
+with all these emotions and uh figured
+that if I can't help you know like the
+traditional uh you know in the
+traditional way of army uh service here
+in Israel I can try to use what I know
+technologically in order to try to help
+and I have experience um in the hpar uh
+front of things um already from my days
+in college fighting uh misinformation
+from students for justice in Palestine
+and the boycott divestment and sanctions
+movement wow okay and so you know the
+when this whole thing started
+um Gathering the initial group of people
+you had you know bringing in the idea
+what was that experience like walk me
+through the the formation of this
+project so I I think it all really
+started when um I started writing some
+code myself just for a simple tool for
+translating posts from uh from Hebrew or
+Arabic to English just to try to broaden
+the impact of posts that I you know kept
+on seeing that were really good uh in
+Hebrew or automatically translated on
+you know like on some other from some
+other source uh to English and I I
+understood that the quality was good but
+that it wasn't really accessible to the
+crowd of people that but what happens
+when you trans what was going to happen
+once you translate it to English so you
+get you you see an amazing po you you so
+you scrap the posts that are Hebrew and
+Arabic that are not accessible
+necessarily to The Wider Western public
+you're translating them to English
+you're starting to write code on this
+yourself and what is meant to happen
+with the post that you identify as high
+quality um
+I mean there there are a few metrics
+that we're looking at here so is it pro
+or anti-israel it is it um does is it
+popular now and also um are we
+predicting that it will become viral in
+the near or longer future which is
+another metric that we're looking at and
+we try to prioritize uh posts that are
+viral in anti-israel for a pipeline that
+we have for reporting but that's
+something that came later the original
+thing was to try to take posts that are
+pro-israel and uh potentially viral in
+Hebrew and try to translate them to
+English so that they can gain traction
+among International crowd um and when we
+posted that or when I posted that online
+in the mdli communitya mdli community
+just a ton of people what's the mdli
+community uh the mdli community is the
+Israel machine learning and data science
+community and it includes thousands of
+people um really really passionate
+scientists sta scientists researchers
+Engineers um and everybody just jumped
+on board from there incredible okay so
+you're you started off quing yourself
+did you have a did you realize you're
+trying to create now a group how many
+people are involved in this now um just
+the research team is about 35 active
+people um when it when we look at our
+WhatsApp group um we're about 120 or so
+people and the development team is also
+like a separate entity and we try to
+collaborate with each other as much as
+what was so what was the shift for you
+when you when did this become not no
+longer a a Zach um you know project to
+now at this is actually a big movement
+that today we're going to talk soon
+about the potential impact but I'm
+convinced it has the potential to make
+incredible impact I I'll be honest with
+you very quickly um I mean I was Str
+struggling to try to get you know my
+flight ticket tickets to try to get back
+to Israel so that I could be back and
+next to my family you were doing that in
+Vietnam still yeah wow all of this was
+on the first day in Vietnam um so it was
+I was kind of juggling between the two
+and that's when Neil um and alel and
+some of the other like early people just
+jumped on board and uh and started
+helping and taking on leadership roles
+and I mean everybody just wanted to help
+as much as they could they understood
+everybody's constraints there was a
+common understanding that we were all
+volunteers um and so everybody was just
+offering a helping hand I'll cover for
+you if you're not available in these
+hours I'll take on this role um that's
+kind of how it started and it grew with
+that mentality and how do and how do you
+how did you start thinking about
+managing you know research with
+volunteers you mentioning you know the
+covering of ours but a lot of this is
+you know you're writing new new tools
+that didn't necessarily exist before
+you're you know in hard you're talking
+about you know different languages and
+soon we'll talk about the larger
+emission but from from even a leadership
+perspective how do you how do you manage
+team of dozens of researchers that are
+volunteer based some of them I guess are
+in reserves some of them are are working
+in the day today how do you m manage
+through
+that um so first of all understand your
+audience the community of researchers
+first of all they care deeply about
+their country yeah um they have the same
+Basic Instinct of wanting to fight and
+defend um what they consider part of
+their identity um and they're also very
+passionate about particular Fields so
+the objective was to try to give people
+a way to positively um you know impact
+the pro-israel narrative on social media
+using a skill that they value
+tremendously and that they think could
+be impactful and integrated into a
+platform and it was important to be able
+to synchronize uh the idea a for a kind
+of Technology with um how it will
+actually be accessible to our audience
+um and what are our basic principles for
+example we're building a a language
+model to do this translation do we trust
+it 100% no so how about we find a bunch
+of volunteers expert translators to
+verify it first and then run statistical
+experiments until we can't distinguish
+between the quality of our human
+translators and the quality of our
+language models at that point we can
+make that transition but until that
+point we improve the model through
+iterative uh you know experimentation
+with different prompts different base
+models and perhaps uh knowledge
+injection and other um state-of-the-art
+methods I don't think we're doing
+anything new we're not inventing the
+wheel here we're just using technologies
+that are at the Forefront of artificial
+intelligence for a goal that I don't
+think it's been used for before nearly a
+military goal
+incredible okay so now let's talk
+broader about the mission and the vision
+for for what this what what what you're
+doing here so it has a it has a name it
+has a you have a almost a brand it's
+it's an entity it's a movement that's
+Way Beyond what it started with so share
+with me a little bit about what is it
+what is it that it is today nine eight
+and a half days after you said okay I'm
+going to go at
+something um so social media for Israel
+is a community of
+volunteers uh with two main branches um
+the development Branch led by neiv and
+the research branch that I'm uh trying
+to organize um I I can speak a little
+bit about my group um we are about four
+different um research managers or
+research leaders as we like to say and
+each one of us at the very least has an
+MSC and some industry experience as well
+IBM eal poly techniques data gen
+Microsoft um and my experience with the
+Google and what have you so a bunch of
+experience and we defined a whole bunch
+of uh projects and people um with
+amazing amazing credentials you know
+also from you know schools like Stanford
+and teon and Ben gulon and all these
+companies they um volunteer on
+individual projects that we've laid out
+um and we coordinate that with the
+development team uh to iteratively
+introduce what we show as proof of
+concept demos into our uh platform so
+again we platform and then you have
+teams that are doing proof of Concepts
+and this goes back to what you mentioned
+before and identifying The Sweet Spot I
+guess or aligning the passions of the
+researchers with their respective Fields
+so what's common I guess for all 130
+people on the WhatsApp is that everybody
+is fully dedicated to the mission of
+preser of protecting their families and
+Neighbors in our country and then you
+add another layer on top of that at
+fine-tuning you know the the the
+specific poc's with the relative
+passions and interests from a research
+perspective of these groups do the PC
+and then integrate them back into this
+platform which is beautiful and it's
+fast when people talk to me about the
+fast how do you make it fast how do you
+do research fast how do you do research
+fast
+um
+you encounter a problem where if you
+don't have it working you can't stop um
+I'm not sure if you know like everybody
+will necessarily understand that feeling
+but for researchers I think it's very
+common where you're just like okay I
+have to make this work I'm not going to
+sleep I'm not going to stop I maybe I
+won't eat even though I'm hungry but
+I've got to get this to work and I think
+that a lot of people have gotten that
+kind of mentality when they've been
+working you know translation tool up in
+like about a day V1 V2 uh you know like
+actually using um an ensemble of
+language Models Super quickly V2 you
+know like
+um and when it comes to say the
+reporting tool I think that was also
+done in a day the proof of concept there
+so when you put people who really care
+about what they're doing and see the
+potential impact of it they love it they
+they work hard on it and you know that's
+what and and I'm the same you know my
+passion project is persuasive
+argumentation and that's going into this
+as well and um when you're able to
+express both your passion for an area of
+interest and at the same time fight for
+something that you really care about and
+is you know Central to your identity
+then you're very very motivated what are
+some of the unique pcc's that you've
+identified that are that went into the
+platform and what is the what what how
+is this platform going to start actually
+executing in the day-to-day now sure so
+um what we have right now live is the
+ability to report posts that are either
+Pro or
+anti-israel um in this conflict in this
+war um the thing that's coming out I
+believe tomorrow is the ability to
+actually have the translation tool where
+um our translating experts will be able
+to translate um manually um look over
+translated posts make small uh changes
+to them and um then they're submitted to
+our system and shown to our viewers
+um and again by having it go through our
+experts we're actually gaining data in
+order to be able to use um better
+prompts and better models for the
+particular tasks say one prompt uh might
+be better when it comes to translate one
+kind of phrasing might be better when
+translating from English to French um
+and worse when it comes to translating
+from English to Spanish um or something
+like that and these are things that
+we're hoping to already integrate into
+our data collection from day one um day
+one of V1 not v0 which we are in now
+um another thing that we have already
+working demo but hoping to roll out soon
+is again the reporting posting and uh
+something that we're working on in
+collaboration with AI 21 Labs is um the
+post Improvement um kind of flow which
+is basically you upload a pro-israel
+post and you're able to make it um more
+compelling from a narrative perspective
+so it's not like you're answering an an
+anti-israel post you're just
+strengthening the tones and writing
+style of a pro Israel post um and you
+can see how with all of these different
+features you can have iterations of
+self-improvement or translation into
+Improvement or you know what have you so
+we're basically building these core
+features into our platform and showing
+them to our end users so that they're
+able to act on social media that little
+line I want to go up a little bit and uh
+and and strategically and talk a little
+bit about why this is important why is
+this a you know you're spending so much
+time on this and so many people are
+spending so much time on this together
+why why is this problem space that you
+chose specifically around social media
+narrative and variety of posts why is
+this an important piece of the conflict
+that we're
+in um okay let's start with uh the
+really really basic uh thing which is
+basically public opinion matters um when
+it comes to uh people who are going to
+vote in the states um if they are just
+Ed with posts that are very compelling
+and anti-israel then that's where their
+sentiment will shift and in order for
+leaders to get elected then they will
+have to align with that view in order to
+adhere to Their
+audience um so being able to kind of
+combat that given the fact that there
+are very few Jews in the world relative
+to Muslims and predominantly Muslims
+support uh the Palestinian cause and
+Jews support the Israeli cause um I
+think that there's a little bit of an
+imbalance in power so being able to use
+this technology to level the playing
+field is important uh in addition to
+that these Technologies are
+generalizable broadly when it comes to
+combating anti-Semitism in the
+states um even outside of the context of
+War um kind of making it very clear that
+it's not okay um that certain narratives
+of uh BDS are extremely harmful towards
+peace um and that um certain narratives
+of SJP as well are harmful and in that
+sense maybe this tool is helpful to
+preventing violence or of any kind
+against Jews in the states MH and so if
+you now think about you know the war is
+going to be over hopefully sooner rather
+than later and we will look back and
+reflect what would have been an outcome
+that you would tangibly feel um you know
+happy content and fulfilled with looking
+back at this at this massive project not
+just you but you know the the hundreds
+of people that by that time will have
+taken part in
+it I would like to know that I did what
+I could to uh defend my country's
+reputation um I don't agree with the
+government but I side with the country I
+um I don't want Israel to be known as a
+country that is brutal in its responses
+even though innocent people do die
+um I think that people should recognize
+Israelis as reasonable people um people
+that want peace
+um and in this case we're forced into
+conflict um and that we're doing our
+very best to minimize uh loss of uh
+civilian life it's tragic on both ends
+um so if if there's anything that we can
+achieve um as an organization it's to
+portray that point effectively and
+combat misinformation which attacks that
+perspective Zach I'm I'm so proud to
+have had the chance to to share this uh
+with others watching it and
+participating as a part of this group is
+is is an an inspiring feeling it's a
+thrilling feeling H like I mentioned
+before it's moving faster than I think
+any startup that I've seen and I think
+it's remarkable especially here where
+you're able to take um deep technology
+sometimes research integrate a large
+group of people in on a many in on you
+know all everybody on a volunteer basis
+under a unified Mission and you're able
+to actually execute to get into
+production level um executable products
+or systems that are not just you know
+Concepts but actual tangible impactful
+Technologies that's I think what's
+really remarkable here beyond the the
+what the reason to believe and the why
+and the ire that you're having and I
+think that that's just a um something to
+look at you know in just in an inspiring
+way from from startup nation and what
+this represents and what happens when
+you really get a group of people who
+truly care about something and you put
+them in the same room under a good
+leadership with both technological
+Vision but also real Humane Vision so um
+thank you for inviting me to take part
+of it and thank you for spending this
+very precious time uh to talk about it
+thank you for having me and uh it's a
+pleasure to have you on board and being
+able to identify deep fakes is uh really
+important for our cause 100% thank you
+[Laughter]
+Zach

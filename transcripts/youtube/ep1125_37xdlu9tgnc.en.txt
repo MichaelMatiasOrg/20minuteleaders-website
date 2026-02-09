@@ -1,0 +1,797 @@
+you will find some customers that are
+very technical or they have an aptitude
+and they won they won't you know pop the
+hood and understand how the product
+works especially early on because you're
+selling them a promise so they want to
+see that the the the components of the
+promise can actually deliver on the
+promise but eventually customers want
+outcomes they want they've got a problem
+they want you to solve it they don't
+care about the technology they want it
+to work they want it to be easy to
+consume they want their teams to be able
+to you know to to to use it Implement
+and achieve the goals that they want um
+you know I've been in situations I I've
+always used
+this um this comparison of competitive
+situations in which I found myself
+whether it was with sayota or whether it
+was you know in capsula versus other
+competitors which we always thought that
+they had inferior technology to us but
+they did really really well um and a lot
+of it that was you know
+appearance um we always say you never
+judge a book by its cover uh customers
+judge books but you know the products by
+their cover if the cover is not you know
+doesn't look like a million
+[Music]
+dollars Mark Gaffin welcome to 20 minute
+leaders thank you so much for being here
+it's great to be here thanks for having
+me I really appreciate your time h mark
+you've been at the cyber security
+landscape for a long time 20 years 20
+years and today you're definitely
+considered one of the you know most
+amazing entrepreneurs here in the not
+only the Israel ecosystem but in the
+Cyber ecosystem and um and the companies
+that you've been a part of and today
+you're leading I think are really at the
+consistently are looking at the way that
+the cyber security is evolving and I
+know from as as a cyber security
+entrepreneur I'm taking a lot of
+inspiration from the work that you're
+doing and the way that you're that
+you're looking at the at both at the
+market but also from a product
+perspective so I'm excited to just go
+back with you to your journey
+and to then dive into ionics and to
+understand a little bit better what
+you're doing today and how is cyber
+security evolved in terms of the threat
+landscape and how do organizations map
+the risks and the vulnerabilities that
+the connect that the connected world is
+facing them today so again thank you for
+being here how did you get into cyber in
+the first place very much by luck um I
+wasn't a uh typical Israeli um offensive
+cyber attacker in the military I was a
+uh a real Soldier um I hope none of my
+kids take offense to that cuz I have
+both um what are they doing in the Army
+I have a uh my oldest daughter was a
+combatant in the artillery Corps she's a
+a reservist that uh unfortunately spent
+about 170 days of the last year wow uh
+so she's a med med school uh student in
+the teon but she also spent about 170
+days uh in reserve juty over the last 14
+months and I have a
+20-year-old who's an 8200 guy and I have
+a senior at school so still uh TBD
+amazing so you started not in the tech
+sector in the Army which is which is a
+lot of how the Cyber industry is right
+um learned to work in a team um you know
+that's what I did in the military um
+studied computer science and economics
+when I finished the military uh um
+didn't really know that I wanted to do
+computer science but I kind of stumbled
+on that as well after my military
+service I went to work in a paper mill
+as uh someone who who came to help the
+computers guy the the computer team
+there or the the information systems
+team there um I was looking to make some
+money to save up for uh an after
+military uh trip realized that was
+pretty interesting got pretty good at it
+um and then decided to study it so I
+studied computer science after I
+finished I um coded for a bunch of years
+ran a bunch of development teams then
+realized that I was less into building
+but more into trying to sell so I moved
+into product management roles uh my last
+product management role was uh
+or at some stage during my product
+management career um my wife and I and a
+2 and a half year-old moved from Israel
+to to New Jersey um and two years into
+relocation there I got a phone call from
+a a head hunter said hey I'm looking for
+a someone to lead product management and
+product marketing for this company uh I
+took a look um Turned out it was an
+Israeli company um I they didn't know
+that I was Israeli they didn't know that
+this would be this would have an appeal
+um that company was called sayota most
+people know it as naali bennets company
+today but that was my first cyber
+security gig basically so I did I I I
+zero background um I came in I ran
+product management product marketing uh
+it was kind of a bit of a combination
+back then um a year into that Journey we
+got acquired by
+RSA after that at RSA I ran um product
+marketing for the entire RSA portfolio
+which back then was one of the bigger
+cyber security companies and then
+um couple years later we moved back to
+Israel and I founded a company called
+Inc capsu
+together with G who I think that you
+actually uh had on this podcast in the
+past so gur and I found it in capsula um
+four years into that Journey things
+started to pick up and take off uh I
+packed up my family um we went to live
+in Palo
+Alto um and about a year after we moved
+we sold the company to impera I stayed
+on at impera for a couple of years
+incapsula became the biggest product
+line within impera cross $100 million in
+ARR uh it was really a great great ride
+and he perect gave us a lot of Runway to
+to to to stay uh to some extent
+independent so we had literally our our
+own sales and marketing you know um
+teams and um in 2017 I moved on I uh
+took took some time off um I met some of
+the partners at besser who said to me if
+you're going to do nothing come do
+nothing here uh which was a great
+experience I spent a year there a half
+of the time was that in their SF office
+yeah so this wasn't in this was in the
+back then their their their menow Park
+office um so I spent time with mostly
+with David cow in there and then halfway
+through that journey I we decided to
+move back to to Israel and then I spent
+time at the bester office here with Adam
+and Amit
+um got to see the dark side to realize
+that it's not that dark um and I really
+had a good time with you
+know understanding the other side of the
+perspective which is you know super
+important and then I joined a teammate
+company a CEO company called isolate uh
+we did desktop isolation or endpoint
+isolation we sold that company a couple
+of years ago and uh my recent gig is
+with ionics which I will be celebrating
+my 2-year anniversary there on the 1st
+of January so just in a couple of weeks
+wow
+um yeah so that's that's what I'm doing
+right now if you're looking at at this
+journey and what what are the connecting
+dots for you I hear of a journey of
+going from Builder to to looking at
+product and a lot of looking at the the
+fit from the product to the
+market what what has been the part of
+this journey that you've found most
+fulfilling personally so you know um
+this is my second gig as as not a not a
+founding CEO and I actually hate the
+term professional CEO um I think of
+myself more as an entrepreneurial CEO I
+like to come when things are early stage
+when product Market fit is not that
+clear uh or it's just starting to you
+know signal to clear up there's some
+signals and what what and what does that
+look like the some signals for you so
+you get custom you get prospects that
+are interested in what you're doing um
+they you know you're solving a real
+problem and um then the question is can
+you convert or can you come up with a
+solution that is a to their uh their
+pain points can you can they implement
+it and I went from a cloud-based
+Security Service like encapsula which
+was frictionless in terms of
+implementation to a company like isolate
+that the implementation was very very
+very difficult these are things that you
+learn on you know on the way um finding
+product Market it is finding a pain to a
+real to finding a solution to a real
+pain that customers can adopt and it's
+not easy to to adopt even if they've got
+a big pain and you've got a great
+solution if they can't adopt it because
+of multiple constraints um it's not
+going to take off and you got to be
+better than your competitors so those
+are the things that you've got to come
+up with in order to to to make it work
+and then of course you've got to there's
+that's just the product Market fit which
+is also not a binary thing so product
+Market fit is not either you've got
+product Market fit or you haven't it
+comes in uh more than 50 Shades of Gray
+and it's constantly changing because the
+competitive landscape is changing
+the problem that you're trying to solve
+evolves the requirements involve
+customers mature you help them with
+stage one of the problem and then they
+need you to help them with stage two and
+three and four of that problem so
+there's a constant evolution in terms of
+what you do in ter you know in terms of
+product Market fit and I like that I
+like talking to customers understanding
+what their problems are trying to come
+up with solutions that I think we can we
+can we can solve and it's not just as I
+said it's not just a technological
+solution it's trying to factor in the
+technology the visibility of
+implementation the competitive
+positioning that you've got those are
+the things that I like trying to fuse
+together I mean in a lot of ways um it
+feels that a a big part of it is not
+just the is is the te the technology one
+would think because we're also in a deep
+Tech ecosystem and many of the things
+that you get to deal with that you got
+to do and you get to do today are you
+know are technologically heavy from the
+customers in the market perspective do
+they even care about the technology
+because what you're saying here is that
+a lot of it the attention is on the
+visibility is it a real enough problem
+you know can you actually implement it
+and and will it function better than the
+competitors I haven't heard of you know
+what's the technology here and who cares
+about that I think that most customers
+don't care about the technology you will
+find some customers that are very
+technical or they have an aptitude and
+they W they want you know pop the hood
+and understand how the product works
+especially early on because you're
+selling them a promise so they want to
+see that the the the components of the
+promise can actually deliver on the
+promise but event customers want
+outcomes they want they've got a problem
+they want you to solve it they don't
+care about the technology they want it
+to work they want it to be easy to
+consume they want their teams to be able
+to you know to to to use it Implement
+and achieve the goals that they want um
+you know I've been in situations I I've
+always used
+this um this comparison of competitive
+situations in which I found myself
+whether it was with sayota or whether it
+was you know in capsula versus other
+competitors which we always thought that
+they had inferior technology to us but
+they did really really well um and a lot
+of it that was you know appearance um we
+always say you never judge a book by its
+cover uh customers judge books but you
+know the products by their cover if the
+cover is not you know doesn't look like
+a million dollars they're not even going
+to open the book especially if they are
+walking in the corridors of a massive
+library and there are so many books on
+the shelves that they've got to find
+that they've got to see the book that
+that that's you know that really
+attracts them and I use that obviously
+as an analogy especially you know in in
+the the cyber security space um security
+teams are getting
+calls every day everyone's fighing for
+attention everyone's got a problem to
+solve their current solution their
+current everyone's got a solution to
+solve their current problem yesterday's
+problem that they've solded that they've
+found a better way to solve tomorrow's
+problem that they haven't even thought
+about um so it's a super competitive
+environment you've really got a shine
+from the beginning meaning meaning the
+presentation that you do
+the PO that you do of course the
+product's going to look needs to look
+like a million dollars uh we always tend
+to think hey B2B products technologists
+the product doesn't need to be you know
+super fine and and and user experience
+isn't that important it's so important
+uh we
+we many of our customers are not able to
+dive into the deep details of what
+what's the what's the technological
+difference between us and another you
+know another competitor or another
+product they judge things emotionally
+superficially based on Word of Mouth or
+reputation those are things that you got
+to get in order to really scale and then
+that's a little bit counterintuitive I
+think to a lot of entrepreneurs uh
+especially in our in our ecosystem here
+in Israel right I mean we're we're
+growing up from 8200 not everybody but a
+lot of the Cyber entrepreneurs
+especially today right one here that you
+grow up thinking okay wow I have this
+this incredible technology that I'm so
+proud of and I'm putting 90% of my
+effort there but it's actually that's a
+that's a that's a a bias it should be
+90% on on how do you frame it to the
+customer that fits their needs and their
+constraints is and it needs to work
+obviously but we don't nearly give
+enough attention to the presentation
+right and I would say that it's it's
+almost on two fronts one is actually
+understanding the customers environment
+so does this product fit into their
+environment how does it solve a problem
+that they've that they've got um the
+other is also understanding your
+audience we tend to think you know and
+I've seen this a lot with a lot
+of really smart 8200 graduates and tax
+in general that they often don't realize
+that the audience that's going to
+operate the
+tools um is an audience that is way less
+skilled from a techn you know not
+everyone's a nation state
+attacker um and you're Building Products
+that need to be made accessible to
+hundreds of thousands of you know uh of
+security analysts technicians sock
+operators um you know it's it's it's
+it's literally like you know not
+everyone can fly a rocket ship most
+people can drive a car and that's how
+transportation's been made accessible
+we've got to take that into
+consideration when we build products
+both in terms of how to use them
+understanding them realizing the value
+it's all it needs to be made accessible
+to the to the the very broad audience
+you're actually going to be using the
+product so I'd love to hear how how
+you've made that accessible in in ionics
+but take me a step back for a second so
+two years ago in two weeks er um you had
+you joined ionics as CEO and you know
+obviously we're living in in an ultra
+connected World assets are getting more
+and more connected by the day we're
+seeing vertical AI agents shooting
+through the roof and my estimate is that
+the world will become 10 times more
+connected over the next just couple of
+years simply due to the sheer Innovation
+that we have with all of the tools that
+that AI will bring in a verticalized way
+what what is you know starting from the
+pain point the problem to be solved what
+does this mean for organizations this
+Ultra activity so you know when I before
+I joined I obviously spent time with a
+company doing my own due diligence on do
+I want to spend my next 10 years you
+know doing this you'd never know how
+long these Journeys are um and when
+I when I looked at the problem I
+realized that the problem that we're out
+to solve is a is a is a challenging
+problem and I I almost when I try to
+define the problem that we're trying to
+solve it's just three or four-pillar
+problem um the attack surface of an
+organization is growing on an ongoing
+basis exponentially more and more assets
+are spinning up so much more
+infrastructure days is driven by code
+and one of the biggest challenges that
+the infrastructure that we have today is
+not just run by the organization it's
+run by your partners by your vendors so
+the span of control that you have across
+your tax office is is somewhat
+challenging or is very challenging the
+second thing is the amount of changes
+that we do across the tax surface um
+studies are showing that 5% of your
+digital assets go through a config
+change and upgrade a a software upgrade
+every single month so there's massive
+change going on across that attack
+surface and the third problem is that
+the land the threat landscape is
+changing every single day so I think
+last year there were 40,000 cves that
+were published uh how do you take those
+three pillars or those three vectors of
+chaos essentially now fuse them into
+something that that's going to help us
+protect our uh our attack surfaces and
+the one of the most difficult attack
+surfaces to protect is what we call your
+external attacks it's everything that's
+internet facing because the the
+challenge there is that if you have an
+asset that's been misconfigured or has
+an exploitable vulnerability it's a
+Sitting Duck on the internet and the bad
+guys are constantly looking constantly
+scanning that's going to be you know
+that's your initial perimeter we talk
+about perimeter lless organizations but
+your internet facing assets are um are
+essentially your perimeter today they
+could be super distributed in multiple
+data centers across the globe by
+Partners Etc but that's that's what the
+external world or the external attackers
+that are constantly looking for ways in
+are are probing at and the time in which
+they today are weaponizing is a lot
+faster uh they use co-pilot as well to
+code their exploits and to you know to
+to to to convert cves into real EXP
+exploitable uh proof of Concepts that
+they can actually break into or they can
+actually hack you know different assets
+that problem seemed to me like a problem
+that's only going to get worse um and
+when I looked at the you know the
+the the handful of customers that the
+company had back then um these were I
+would say the cesos of the security
+teams that were on The Cutting Edge um I
+really identifi them as those that were
+you know Visionaries that understood the
+technology that understood the problem
+those were already good signs for me as
+okay there's already adoption in the
+space and that's what we've been doing
+you know for the so for the last two
+years that's where we've been focusing
+on um company's growing very very very
+nicely many of the fortun 500 companies
+in the world today use us um it's been a
+great journey over the next you know
+over the last two years and I'm hoping
+that the next I don't know if it's 1 2 3
+10 years um you know are just as good so
+super interesting space really really
+good team that's what got me excited and
+uh the Journey's been great now is is it
+fair to assess
+that due to the way that that AI agents
+are operating today and their projected
+growth that any Sitting Duck asset you
+you call those assets with
+vulnerabilities as sitting ducks and I'm
+thinking to myself boy I mean the way
+that we're heading is that we're going
+to have these AI agents that can go and
+look for these sitting D pretty much
+automatically especially if you have
+some motivation to do that and then you
+know try and assess and and find them
+and so any Sitting Duck quickly becomes
+a shoting Target um to any any anyone
+leveraging AI agents for this task so
+how how do you see the the attack
+potential changing due to the world that
+we're moving into so I think that the
+there two key things that I need to that
+I think need to happen on the def on the
+on the defensive side in order for us to
+be able to deal with the the attackers
+and the evolution as you mentioned that
+they're going through in terms of AI and
+the automation that they're going to
+introduce and that's they're basically
+going to be able to move at a at a at a
+faster speed that they are moving today
+and the challenge is big enough today
+you think about large organizations they
+have to present 100 they have to protect
+100% of their assets 100% of the time uh
+bad guys need to there's this asymmetry
+between the attackers and the defenders
+in the attackers only need to get in
+once you know they need to find one hole
+in and and the the the challenge there
+is
+um how do you how do you combat that at
+scale um obviously you know we use AI as
+well and the the way that we found or
+the the the the thesis that we have
+around how to solve this is um first of
+all being being prepared meaning um
+mapping out an organization's attack
+surface as accurately as possible and
+the other thing which is even more
+important is trying to really understand
+the real exposures that organizations
+have versus the 10,000 cves that they uh
+that they have in theory which only a
+few are actually
+exploitable our goal is to find those
+real
+exploitable um misconfiguration
+cves that the organization has that is
+are most likely going to introduce most
+of the exposure that an organization has
+so being able to constantly be looking
+at an organization understanding what
+their weaknesses are evaluating them
+with a lot of context okay is the cve
+really reachable is it really
+exploitable what's its blast radius what
+else would it be able to impact figuring
+all that out on a continuous basis is
+what will give us an an advantage over
+the the bad guys which are probing
+hoping to find something that is
+exploitable that is essentially an entry
+point to something that has a blast
+radius that is worthwhile the investment
+being proactive around it and
+understanding the context is help is
+hopefully how we help our customers um
+win that war give me a little bit more
+into the the world of uh from Theory to
+practicality in the context of of your
+line of work and in cyber security in
+general because fine you have 10,000
+cves a lot of them are in theory you
+give a c so listen you have 10,000 CVS
+they'll say well what do I do with that
+right so talk to me a little bit more
+about how to translate theoretical risk
+to practical risk in your line of work
+so it's it's a great question and a good
+observation I um I think I Rec recently
+wrote a blog post on our website talking
+about the fact that security teams are
+drowning
+invisibility now that's kind of an
+oxymoron because everyone says hey I
+need visibility we need perfect
+visibility we need perect Vis perfect
+visibility in order to solve you know
+the problem the challenge is that that V
+that visibility is become noise um and
+the if you look at the initial evolution
+of the category the external attack
+surface management category that we we
+play in or we we play in or played in it
+was all all about help me map out my
+attack surface effectively cuz I've got
+lot of blind spots I've got Shadow it
+I've got vendors I've got assets that we
+thought we decommission but we didn't
+really decommission and we've got Shadow
+it and all that help us get visibility
+what transpired after that first wave of
+Discovery is that organizations are
+saying okay so what do I do with all
+this now you're telling me I've got a
+you know a web server that's running an
+old version of Apache and it's got you
+know 55 cves on it um you've just
+created more work for me should we
+really patch them which of them should
+we really patch you know um there's a
+consensus teams cannot patch everything
+the old way in which we did
+vulnerability management cannot
+scale mainly because of those three
+chaos vectors that I that that that I
+just mentioned too many cves too many
+assets too many changes and time so
+those are the things that those are the
+constraints that we've got to solve and
+the way or the approach that we've taken
+is we we this is a marketing slogan we
+want to give you the broadest coverage
+but the sharpest Focus so that you know
+exactly what to fix and in order to
+determine that you need a lot of
+context so I can give you an example of
+how we would attack a specific you know
+cve or a problem so of course we'll find
+that same website or that same web
+server that's got those 55
+cves but out of those 55
+cves 40 of them are cves that
+are not really exploitable from the
+outside so you've got to be in your
+network you've got to have certain
+privileges already to do that meaning
+they're less important and most security
+organizations will treat them with you
+know with less importance or less
+urgency out of those 15 that are now
+applicable to an external attacker 10
+are there's there's never been a PC
+found in the wild for that meaning it's
+a cve but no one's really built an
+exploitation capability around it the
+chances of an Enterprise getting
+attacked with that type of a vector is
+Slim it can happen that's that's what
+zero days are are about but first of all
+zero days when they come out or when
+they discovered the market addresses
+them um so now you've got only five of
+those 55 that potentially could be
+exploitable and are being exploited in
+the Wild by the bad guys you have to
+test so what we provide our customers is
+is a is an actual test to see whether
+that specific weakness or cve is in fact
+exploitable and we'll find
+that only one of them is really
+exploitable now why were the other four
+not exploitable first of all some of
+those or that asset may be sitting
+behind some type of a compensating
+control they may be sitting behind a
+firewall or may be sitting behind a web
+application firewall or network server
+that essentially mitigates a lot of
+those threats so in theory they would
+have been exploitable but in practice
+there's some type of mitigating measure
+in place that makes that benign you take
+all that into consideration now from
+55 things that you would have gone and
+tried to patch in the previous world to
+one cve that you know is reachable is
+exploitable um and that's where you need
+to focus that's what you can do through
+you know through Auto
+and that's what we're trying to do
+essentially for our customers really
+focus them on the most important things
+that they need to fix um where they
+really are exploitable and where most of
+the exposure will come from broadest
+coverage and sharpest Focus I have
+that's the kudos to my marketing
+team I have it written down um how do
+you from your from your experience
+you've you've been on the product
+marketing and sales side for four
+companies now
+soota
+impera isolate
+ionics what does it come down to to
+building a product that that security
+teams really love once implemented so we
+talked a little bit about the sales once
+you're in there and it provides the
+value that it claim that it says you're
+you're going to provide how do you get
+them to really love the product that
+you're building does that exist do
+security teams love products I do think
+that security teams do love certain
+products
+um the products need to work for their
+users and not vice versa I meaning we
+need to get our products to work for our
+users not our users to work for the
+products mhm and that's that's important
+we also need to realize that our
+customers the users of our products
+don't sleep eat breathe our products
+like we do they don't know every single
+Corner in the product they sometimes log
+into the product once every couple of
+days every couple of weeks um we've got
+to realize that they that it's a task
+that they often don't do on an ongoing
+basis and we have to help them do those
+tasks as easily as possible so products
+need to be intuitive there's great ways
+today even with AI agents to make the
+product even more accessible in fact I
+have a theory that products will not
+look like the products that they
+products will not look like the way they
+look today uh 5 years from now you're
+not going to into a product and you're
+going to have to look for the menu item
+or for the button there's going to be or
+there should be an agent there that says
+Hey I want to do this and either takes
+you exactly to that page and to that
+function or actually does it for you so
+the whole interface is going to be a lot
+more there you're going to have a
+personal assistant in every application
+that really is taking you through the
+the the the journey uh which is a great
+opportunity for us to change the way in
+which we use product we just got to do
+that quickly and I think that that you
+know the last two years in terms of AI
+have made this possible um my directive
+to my to my team is that's that's the
+future of how companies are going to
+consume product we need to go in that
+direction right and the the translation
+is instead of coming in and seeing a big
+dashboard with a bunch of the VIS with a
+bunch of the sharp vulnerabilities you
+have a sort of a Jarvis that you talk to
+about okay these are the five cves that
+we actually should take care of and and
+here's how you would want to take care
+of them oh and by the way while you were
+sleeping we actually took care of it uh
+and so you can continue on your day
+correct I mean even data analysts or if
+you're going in and making a config
+change in your application why would you
+go and have to figure out where that
+specific screen is on to make that
+config why wouldn't you just talk to an
+agent or write to an agent say hey I
+want to add a user to the um to the
+system this is their email this is their
+their phone number bam it's done um I
+want to you know can you produce a
+report with a B CDE e f and g uh and I
+want to see you know for this specific
+time span that's our that's our product
+are going to be used um zero learning
+curve that's really where products need
+to go because the technology is
+available now to do that mhm absolutely
+mark this was such an awesome
+conversation thank you so much for being
+here and for joining me and for sharing
+with me both about your own journey and
+and that of ionx uh best of luck and uh
+I can't wait to continue being inspired
+from the side thanks much it's great
+having uh great being on the uh on the
+show thank you

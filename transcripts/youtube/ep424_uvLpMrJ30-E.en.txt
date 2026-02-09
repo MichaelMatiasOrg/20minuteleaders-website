@@ -1,0 +1,683 @@
+and i think that the statistics is ten
+percent more or less
+one out of ten one out of nine ai
+projects or aipoc actually reach
+production
+actually become profitable now that's a
+groundbreaking number it's it's it's
+just
+crazy welcome to 20 minute leaders
+just sit back relax and learn from the
+leaders of today
+it's a journey each one is different
+unique inspiring
+let's get started
+[Music]
+this episode is powered by jventures a
+community driven vc found in silicon
+valley
+in partnership with leomi tech sponsored
+by hippo insurance
+opposed labs touring hillel at stanford
+leap and in media partnership with
+c-tech
+artificial intelligence let's talk about
+anything and everything relating to
+artificial intelligence with roy
+mercedes cto of beyond minds
+as a leading ai pioneer and global
+visionary with extensive innovation
+experience in various industries
+dr mecca has co-founded beyond minds to
+bridge ai theory to practice
+with the vision to create the first
+enterprise ai system
+that is universally applicable and
+easily adaptable
+he is passionate about fostering a
+data-driven culture using ai as a
+transformational catalyst to address
+complex regulatory operational and
+business intelligence challenges
+before founding beyond minds dr meches
+held a number of positions in high-tech
+companies and academia
+and conducted research focused on the
+intersection of computer vision and deep
+learning
+welcome to 20 minute leaders how are you
+i'm good thank you for having me how are
+you doing
+i i'm doing fantastic thank you for
+being with me dr roy messes
+a phd from the tiffany on a lecture
+a computer vision and deep learning all
+around it sounds like a guy who is
+pretty passionate about
+everything to do with artificial
+intelligence but even more interestingly
+than being passionate about ai being
+passionate about this idea of
+theory versus practice and how do we
+combine these two worlds
+into the into 2021 when practically
+ai is relevant for any field yet who
+knows
+how the hell it is was supposed to be
+implemented aside from putting it on the
+slide deck to raise the valuation a
+little bit
+so tell me a little bit about your
+background
+and and why you're so excited about ai
+in general
+yeah sure so thank you for the warm
+introduction i think it's the first time
+someone called me doctor so it's a
+definitely a good start for the
+conversation and then talk about myself
+for a second
+um so um yeah so yeah about about myself
+uh i was an air traffic controller in
+the israeli air force
+um and after that i i did my bachelor
+and master's in biomedical engineering
+and during my master thesis i was
+dealing with
+uh some computer vision of brain
+m alive and then i fall in love with the
+field of computer vision and
+ai and specifically and and two years
+after i found myself doing a phd in the
+technion
+um um or in in in general computer
+vision
+um i was doing research in
+diversity set of problems around
+computer vision
+uh read so many papers and and
+got in love with with the field totally
+um
+so that's you know that's my background
+before i started the company before we
+founded the company
+uh me and and wrote them um
+and and yeah that's that's the main
+background i guess
+and so a lot of people that go and
+specialize in ai computer vision they
+then
+take this you know expertise and
+translate it into you know a specific
+problem that perhaps they're
+very interested in or curious and you
+decided to do something different with
+your understanding
+of ai so talk to me about this
+dissonance from
+theory to practice right so so
+we founded beyond mines with a very
+significant vision
+and uh gotem came from uh
+one of the defense companies in israel
+with some practice
+experience in in nlp and and putting
+solutions in production
+and we both identify this gap between
+the amazing
+amazing not other words theory and
+research around ai three percent of all
+research paper a year are about ai
+that's that's that's a crazy number
+and while this is amazing and i love
+writing papers and i love reading papers
+there is a big gap to actually value and
+practice
+if you go to mckinsey gardener
+mit this with sloan
+british
+name it just name it whatever server you
+will go and
+look at you will find a systematic
+failure around
+bringing ai into production or
+bringing profit out of ai and i think
+that the statistics
+is 10 more or less one out of 10
+one out of nine ai projects or aipoc
+actually rich production actually become
+profitable
+now that's a groundbreaking number it's
+it's it's just
+crazy that so much money is invested in
+ai
+and by the way if you look for example
+at the fortune 1000 companies in the us
+okay 1 000 companies the biggest
+companies
+in the us on average they invest 50
+million dollars around ai a year
+that's 50 billion dollars just in the us
+by the fortune 1000 companies
+well 87 or 90
+of that money is a waste of money
+it it's it won't lead into roi and and
+that's what we're trying with the
+mission to solve
+bridging this ai theory lab
+ai into the production whether it
+requires system
+envelopes monitoring security
+compliance and many many other elements
+uh stability robustness
+retraining of the models there's so many
+elements of ai in production that need
+to be taken
+take care of uh and and that's what
+we're doing
+at beyond minds and and that's why we
+founded the company
+so i'm i'm hearing you hint that you
+know part of the reason that these 90
+of these of the papers then don't get
+translated into positive roi is all
+is not just because the the ai may not
+be relevant for the company but it's
+also because
+the whole the whole supply chain that
+will bring the ai to productization
+that part is is still not easy to
+maintain or to or to create yet right
+so i think i think it's a great question
+and
+i usually distinguish between the
+organizational
+challenges that maybe still exist into
+the
+technology of tech related challenges
+and i think while if you go three years
+back around i don't know 2018 where
+most companies decided to build the
+center of excellence and bring
+ai and they stuck into
+lack of talent and strategy
+and and and vendor selection and
+business alignment
+and find the right starting point right
+these are challenges but i think today
+at mid 2021
+after a a pandemic that gave a boost to
+digital
+hedge funds formation etc i would
+say that most organizations let's say
+around 70
+in my assessment and some surveys
+already
+passed this maturity level and they have
+data lakes and data flows and data
+breaks and snowflakes
+and whatever you just named right and
+they brought platform and they hired
+every phd that came from stanford
+uh uh into into their company but
+okay now you have phds sits in the lab
+you brought them data
+and they train the model and then what
+can you just take this model and put it
+in production
+the answer is is clearly not
+right and so you come in with the
+experience and you're working with
+companies
+to make it happen what what do you what
+what does it take
+you know why is this why is this a
+difficult problem to solve
+that required somebody with a phd from
+the testimonial to come and help them
+figure out what is the right process to
+go and do it
+so so first of all it's required much
+more than a phd from the technical it
+requires
+a company with with a lot of very
+many very talented people engineers
+researchers
+data scientists uh production experience
+and we invested in the last two and more
+years
+thousands of human hours uh into
+building a platform that will enable
+this uh uh this path
+right and it's not a development tool i
+think you know the landscape of ai is
+very interesting and
+as i see it you can cut it more or less
+into
+three pieces there are vertical
+companies amazing companies that
+solve a very specific problem and maybe
+they use ai as part of the technology
+but they solve a very specific problem
+and their product can be delivered off
+the shelf
+and then you have um development tools
+again companies that developed a a
+a tool a platform maybe also the cloud
+providers you can count on this area
+aws and google and azure have amazing
+tools for developers
+but these are all developer tools and
+and then
+there is beyond minds and and and some
+other companies but
+we are focusing on business on
+delivering business values
+solution with ai and
+and and our platform is the enabler to
+break the failure rate that i
+described in the beginning right so we
+are coming with a third
+element uh that enable companies
+okay i want their in production i want
+it fast
+and i want better success rate so you
+can come to beyond minds and
+use our uh platform as an enabler
+and we're going to customize for you a
+silver bullet solution
+now one of the key observation
+observation of our model is that
+ai and data related problem are
+characterized by
+high specificity they're specific in the
+needs and requirements and the
+business elements and the constraints
+and the data
+and most of them i would say 80 percent
+of the market
+cannot be solved by an off-the-shelf
+product
+and if it can it's not a room for us
+there is an
+amazing product that you can take off
+the shelf but if it can't
+and in many cases currently it can't
+companies usually go inside to the
+center of excellence
+and they they meet 18 months delivery
+time to production and 10
+success so we are providing an
+alternative path
+to that uh awful cycle
+so now take me let's play mind game and
+take me you know five years down the
+line
+where practically you know all of these
+tools are democratized enough
+that you know you can customize them or
+create models in
+in much higher rates and you can either
+fail faster or you can just
+have better evaluation of the success
+rates later where does beyond mines fit
+into this
+place where the world is moving to
+that's a that's a very complex question
+to to
+forecast five years ahead with the with
+the speed of ai development
+but i think what we're trying to do uh
+is to accelerate
+the ai adoption and enable companies to
+bring more and more
+ai into various areas of the business
+we're not trying to solve one specific
+use case for a company we're trying to
+help them to do
+ai transformation and bring use case
+organization wide right um and our
+platform enable
+a host or or an enabler
+of organization wide ai adoption
+right including the monitoring that
+requires and
+data connectivity and stability
+and and the compliance element um and
+and the main area that we that we're
+working on
+are dealing with mission critical
+problems
+right that requires a lot of effort
+right i think an interesting point is
+that that i see today the trend
+in ai is that the ai use cases are
+shifting from
+what i call statistical use cases that's
+okay if it's 80
+accuracy of 82 accuracy okay it's not a
+big deal take for example
+netflix recommendation system okay
+it can be better but it's already
+bringing value and the customers are
+happy with that
+on the other hand if you are taking
+defect detection of
+a iphone manufacturing right you don't
+want as
+a as an oem that produce their iphones
+that a bad iphone will leave the comp we
+leave the the factory
+right right same with i don't know um
+an insurance company where you automate
+claims automation you automate claims
+with ai
+you don't want to reject a claim for a
+customer that
+should be approved because that customer
+is going to social media
+and going to harm your business
+significantly
+on the other hand you don't want to
+authorize a claim that should be
+rejected
+right so that case
+is critical for the business right
+and when you go into mission critical ai
+and and i think that's the trend because
+this is the real value that ai can bring
+and take you know we look at lemonade as
+an example
+right how you do an amazing insurance
+company with
+small operation well so much of
+it is automate and and and you have good
+numbers
+so it's possible but it's lemonade is a
+technology company
+to take i don't know uh um classic
+anthem i don't know like hundreds of
+thousand employees company and
+and bring ai into a core
+activity is much more challenging and
+requires
+human in the loop and trust and
+compliance
+and security and data governance and
+stability
+and and so many elements that need to be
+considered
+so of course it's not it's not easy to
+take a poc
+and just put it in production and do you
+find that there is this
+that you know the people that you're
+working with do they understand these
+limitations
+you know at the end when when these
+projects come about within the companies
+and they're being pushed by these
+different
+you know figures within the company that
+don't necessarily understand the
+technology don't understand
+that you know productizing a an ai model
+is not the same as building out
+another feature for the front end you
+know lead flow
+right do you find that there is this
+proper communication rather than this on
+this open-mindedness
+it's definitely improving um and and
+it's improving mainly in the line of
+business people
+so of course the technical people the ai
+masters that are dealing with bringing
+these solutions to production and
+are facing these barriers daily but i
+think
+you see that the the line of business
+the the people that are actually
+responsible for the actually the
+customers of these ai solutions
+they understand more and more uh about
+what ai can offer
+what are the challenges what are the
+risks
+what is required from them i think you
+know
+like many other technologies ai
+involved many business elements and
+business decision
+need decisions need to to take into
+consideration and done
+during the ai development it's just it's
+it's it's
+far from here is a data set gave me a
+classifier let's put that in production
+you're going to have different elements
+that need to
+to to be considered and work with the
+business
+side of the organization and i think
+that that's collaboration and mindset
+is is is improving significantly
+right what would be what would be maybe
+the one or two biggest tips you would
+give to somebody within our organization
+that is that is facing these challenges
+or is
+or or is or is trying to to to change
+some mechanism
+uh you know with ai what would be sort
+of like
+the big ideas that you're bringing
+together from all the experiences you've
+had so far with the onlines
+okay so so i have several but let's
+start with with the easiest one
+don't do pocs i think poc is one of the
+largest traps
+around ai because the the gap between
+the lab and production
+is so loud that the poc is not even
+relevant
+you need to think about production
+and all the requirements of the
+production and how that's going to work
+and solve that including the hardware
+and how the human is going to be
+involved with it
+and what's going to if it's going to be
+automated or human in the loop
+and do you need to retrain the models in
+production
+and do you need to monitor the models in
+production
+and how you're going to have data drift
+and how you're going to
+face these data drifts in production um
+and you know if you want i can give you
+an example um
+take care for detection for example okay
+for these are very dynamic elements
+right of course
+you can like take five years ago all the
+banks had rule-based
+systems right and and worldwide systems
+are defined by rules so of course fraud
+become better and better
+um i don't know take a stupid example
+but uh
+um you have a rule that a transaction
+above five thousand dollars
+raise a flag okay so i will do four
+thousand nine nine right
+okay so you do a percentage from the
+blah blah blah
+okay so i will do um sub percentage
+right
+right and of course so this problem is
+so dynamic
+and even if you solve it with ai right
+and you use historical data
+okay so next month there will be a new
+type of thought so you need to train
+these models
+in production consistently that's a
+super challenging problem even if you go
+to the
+most advanced state-of-the-art research
+there is no
+clear solution on how to do the training
+of models
+definitely not in production um
+and and then okay a famous element
+um of ai is that when it fails it fails
+very silently
+right um i love to i love to give an
+example that
+okay you build your dog versus cat
+classifier and then you got an image of
+vegeta
+the model will say that it should it's a
+dog or a cat right
+and it won't tell you that he don't
+think that he don't show
+that i have doubt um
+right it will classify it as a dog and
+the soft max of the deep learning
+amazing model will give you 99 percent
+accuracy
+probability right and it's far from
+probability
+so for example confidence estimation or
+uncertainty estimation as the research
+community call it
+is a critical element in mission
+critical problems
+okay right so how you put confidence
+estimation and what is going to
+do with your latency and have those
+requirements
+okay so you have confidence but then
+another element
+that that you need to solve is is what
+you do it
+out of distribution examples right for
+example okay you
+you have the data that you trained your
+models
+amazing images of cats and dogs right
+but you will get a weird
+image that is completely out of the
+distribution
+okay and and even if you have
+uncertainty
+you still won't be able to detect this
+out of distribution example
+so all of these elements must be solved
+in production if you're
+talking about mission critical problems
+and
+and it's far behind the model okay the
+the model
+and and i think that's that's maybe the
+takeaway that i can give to
+to to researchers the model is important
+right but it's only one single component
+the heart of the system out of a
+holistic system that needs to be
+built to solve production problems
+that makes a lot of sense and they you
+know from personal experiences i
+couldn't agree more
+it always you know shocked me how much
+work we put into the model but then
+the actual you know the the living
+breathing system that orchestrates it
+is is infinitely more more complex and
+and it requires a thinking that just
+isn't done initially because you don't
+give that enough respect to that so i
+completely appreciate that that that
+understanding roy are you ready for
+three
+short and fun questions wow yeah
+i hope so let's do it favorite subject
+in school k to 12.
+okay so when i was at uh
+seventh grade i have i had a uh
+carpet carpetery uh clap
+and and today as a hobby
+that's like the best thing i love to do
+just bring me a saw
+and a hammer um and then i
+i just bought a jigsaw um and i will be
+happy
+just give me wood i will build something
+i love it
+okay one of your role models
+professionally or personally
+okay that's it that's a a very tricky
+one so
+my first intuition was to say michael
+jordan because i
+love the mentality of the teamwork
+that michael jordan bring with him um
+i think there is one very nice quote and
+probably i i miss
+i i'm doing a mess with the quote but
+it's something like uh
+um individuals win games
+but teams uh win um
+um the league right the the
+championship yeah and
+and i couldn't agree more like uh you
+know we started with that okay i have a
+phd
+i did a lot of research but i i'm
+nothing
+without an amazing team that support me
+and and build the company
+uh with me uh shoulder to shoulder as a
+team
+and i think in basketball this teamwork
+is is so nice
+um and and you know michael jordan and
+his team
+right what is michael jordan without
+dennis rodman and peeping actually
+nothing i love it
+last question three words that you would
+choose to describe yourself
+okay it's related somehow to the
+previous question teamwork
+uh creativity and execution
+sounds it sounds perfect teamwork
+creativity and execution in that order
+thank you very very much uh stay safe
+and stealthy thank you for sharing with
+me your insights from the field
+i i'm practicing them on a daily basis
+and and i can see how
+how incredibly challenging it is but
+what's exciting for me about this is
+that it's just the beginning and we're
+just observing how organizations are
+understanding this shift
+and mindset that we need to do and to
+have and it just sounds like everything
+you're working on and you're thinking
+about
+is just becoming exponentially more and
+more relevant as time moves on
+and we're just in the beginning so it's
+really exciting
+definitely i was happy to share my my
+knowledge and
+and thoughts about that and thank you
+for uh hosting me
+take care bye bye bye
+[Music]
+you

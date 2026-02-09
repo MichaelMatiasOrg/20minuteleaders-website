@@ -1,0 +1,582 @@
+we bought actually a big enter button
+and once we have it's like a gong so
+once we're finding one ability we are
+pressing on the enter so it's like a gog
+welcome to 20 minute leaders just sit
+back relax and learn from the leaders of
+today it's a journey each one is
+different unique inspiring let's get
+started
+[Music]
+this episode is powered by j ventures a
+community driven vc fund in silicon
+valley in partnership with lomitek and
+sponsored by homeword ventures hippo
+insurance opposed hillel at stanford
+leap and birthright excel
+let's talk about what it's like being a
+security researcher a vulnerability
+threats researcher
+meet sharon brzezinov vulnerability
+research team lead at clarity where his
+focus areas are critical infrastructure
+systems iot devices and malware analysis
+under his guidance the vulnerability
+research team at clarity has found and
+disclosed more than 200 vulnerabilities
+most of which have been have been
+patched or mitigated by the affected
+vendor improving the safety of the ics
+domain and critical infrastructure
+sectors worldwide
+shalon has also participated in
+well-known hacking competitions such as
+pwn to own and he owns a defcon black
+badge for winning the ics ctf contest
+okay sean rizzonov welcome to 20 minute
+leaders how are you hey thank you very
+much i'm great how are you michael i'm
+doing great thank you so much for being
+here
+you're today you run the vulnerability
+research team within a clarity and
+that sentence is so cool in itself and
+while you know i i i come from a little
+bit of a cyber background and so i
+understand a little bit about what do
+you do i i find it so cool and i'm so
+excited to get to speak to you in these
+20 minutes and share you know this
+passion with with the rest of the rest
+of my friends and colleagues and because
+being a security researcher is not
+trivial the process is not trivial the
+things that you experience is not your
+villain so i'm really excited to get to
+know you better you the way you think
+but also the life cycle of discovering
+these threats what happens before during
+and after so siobhan take me back first
+a little bit to your childhood how do
+you get to become a threat or
+vulnerability researcher
+yeah okay so that's actually a very
+funny story uh when i was when i was a
+kid i was really fascinated by uh the
+culture of the hackers so i remember
+watching i don't know i don't remember
+exactly at what age it was but i think
+it was around six or seven i uh saw
+matrix for the first time and metrics
+is the movie about hackers so they're
+kind of hacking the metrics which is
+kind of a virtual platform that humans
+can connect
+with machines
+through the matrix and i remember
+watching this
+and i was just fascinated i thought
+hackers were so cool they had guns and
+they did couple
+of cool stunts and i was just amazed so
+it took it took me a couple of years to
+understand uh that hackers is just it's
+not really about
+action movies uh rather uh hacking
+computers and typing uh fast on the
+keyboard
+but this is what caught me the
+interaction with computers so you can
+change the reality inside a computer
+this is what fascinated me from a very
+early stage
+i love it and so how do you act on that
+fascination so at an early stage you
+realize you're fascinated by these
+questions
+what what do you do then as a kid how do
+you how do you sort of feed your
+curiosity with that yeah so it's a good
+question so i
+i received my first computer at the age
+of
+eight or nine something like that and i
+immediately started to wonder how how
+it's working so what is the cpu what is
+ram how do you interact with the
+computer uh how do you create programs
+so very fast i started to create my own
+c programs and i started to interact and
+create some very simple hello world
+style programs
+and it was so cool that i was able to
+create my own creations using the
+computer so i developed a calculator so
+i could calculate how much is a two plus
+two and i was just fascinated by the
+fact that i can create my own product so
+this is was my first interaction or my
+first introduction with the computer
+world and with time i was intrigued and
+very i was very interested to understand
+how the computer really works so i
+invested a lot of time in understanding
+how assembly how can i write programs in
+assembly and python in page b other
+other languages and i started to develop
+my own websites my own programs and and
+this is how i really got fascinated and
+intrigued into the computer world
+and so if you fast forward today to the
+position of a vulnerability researcher
+yeah
+dumb it down for me what does that mean
+okay so it's a great question um
+so where are vulnerability researchers
+this means our goal eventually is to
+find vulnerabilities and disclosed it uh
+to the companies
+uh so that they could mitigate
+vulnerabilities or remedy them so what
+we're doing is we're trying to
+understand and think what are the most
+common platforms that most uh people uh
+or factories are using so i'm coming
+from a scada background which means as
+you can see uh in the background behind
+it this uh this is our lab with lots of
+ot and iot equipment this is actually a
+critical infrastructure equipment that
+is
+the brain behind critical infrastructure
+such as gas distribution oil
+distribution electrical distribution
+water facilities so these are plc's
+these are the controllers that are
+actually the fundamental the brain
+behind any critical uh process
+and so we try to understand uh what our
+customers are using uh what what what
+are the most common platforms in those
+critical infrastructures and we want to
+make sure they they are not vulnerable
+so attackers could not uh break into
+them so what we're what we're doing is
+we're getting these devices we're
+setting up
+all of them in our lab
+and we're trying to poke around and
+understand how they're working what the
+setup is is
+looked like and how can we
+find vulnerabilities in them so what
+we're doing to do that so we're break
+we're trying to kind of break them so
+we're uh taking the hardware apart we're
+taking the firmware so we're starting to
+investigate the firmware and
+and analyze what are the attack vectors
+that potentially attackers could abuse
+in order to infiltrate into these
+devices so for example if we're finding
+a vulnerability in in the firmware we're
+trying to exploit it which means we're
+trying to create a poc that will
+actually use this vulnerability to the
+attacker's benefit
+and
+with this vulnerability at this hand
+they will be able to achieve code
+execution so they will be able to take
+fully control on this device and from
+there they could affect the process so
+for example they could change the
+temperature
+of the water or they can change the
+amount of electricity that is allowed to
+to be distributed so this is kind of the
+thought process and what we're doing in
+our lab and in our daily routine clarity
+right so i think that brings me to a
+really fascinating idea you know most
+people that are working in the text in
+the tech place or the tech ecosystem you
+know they have a yeah they have a task
+they know they're going to be developing
+it they know that there's going to be a
+deadline for the task and there this
+feature is going to be deployed and
+these are the kpis you don't really have
+that you don't have the luxury of saying
+you know we need to find the
+vulnerability by tomorrow you know
+sometimes you don't even know if there
+is a vulnerability
+we assume there is but
+how do you mitigate you know sort of
+this the uncertainty behind the life
+cycle of finding these vulnerabilities
+yeah it's a really good question so
+researching is all about the unknown
+journey so you get a device you start
+poking around but you don't know really
+when you will finish this journey so
+what we're trying to do is before
+defining the kpis for each project we're
+trying to understand what are the attack
+vectors so once we have the device let's
+say we know it has
+a network capabilities or it loads files
+from certain places we're starting to
+understand what are the attack vectors
+that attacker could potentially
+attack and exploit once we have the
+attack vectors we're trying to assess
+how much time we will need in order to
+reverse engineer the entire uh let's say
+the entire uh platform or the entire
+attack vector uh functions
+so we could have a better understanding
+of how the device is working and how
+potentially the attacker will attack the
+device
+and once we have all the
+all the information that we need i mean
+all the assessment is complete then only
+then we're defining kpis of how much
+time it will take us to find a
+vulnerability if if it exists or not and
+so we're scoping this in a very a
+specific time frame before moving before
+declaring turnover and abilities or
+finding common abilities and moving on
+to the next project
+that makes a lot of sense now
+once you find a vulnerability
+what how does that work how do you know
+you find the vulnerability you mentioned
+that then you run the pocs you sort of
+put the red team head on and you want to
+see okay what can we do with this and
+let's say that you found something crazy
+you found something insane like being
+able to change the amount to run code
+that changes the amount of electricity
+that is not being distributed
+first of all you know beyond you know
+the what happens in the professional
+world how do how what is the reaction
+within your team as the team leader you
+know from a leadership perspective
+how do you manage this now reaction and
+the either excitement stress whatever it
+may be
+yeah so
+uh every time we find a vulnerability
+specifically remote code execution uh
+we're very happy of course because it
+means we're doing our job right
+and so we bought actually a big enter
+button and once we have it's like a gong
+so once we're finding vulnerability we
+are pressing on the enter so it's like a
+gog
+and yeah there is a lot of excitement
+and
+we're very happy because it means we're
+doing our job right and we
+we have
+brilliant researchers and actually up
+until now we found around the 250
+vulnerabilities so that's that's quite a
+massive number
+and
+after we're finding vulnerability we're
+disclosing this to the appropriate
+vendors
+so
+for example microsoft is a vendor cisco
+is a vendor um rockwell schneider
+automation is a vendor so there are a
+lot of vendors in this ecosystem
+and we're exposing the vulnerability to
+the vendor which means we're creating a
+poc that reproduces the exploitability
+of this one ability
+and we're writing a short report with
+all of our findings
+and we're sending this to the vendor
+usually big vendors are very happy to
+receive
+reports from researchers because
+it helps them to mitigate these
+vulnerabilities so it helps them to make
+their products more secure so they're
+happy with this and so we're working
+with the vendor we're just disclosing
+all the information to them and we're
+working with them so they us sometimes
+ask for our advice how
+should they fix the vulnerability
+and for a couple of months we're
+communicating and working with them to
+remedy the vulnerability so once the
+vulnerability is remediated usually the
+vendor issues fixes or patches to its
+customers and only then is when we're
+assigning a cve so a cve is like an
+identification number for the
+vulnerability so all the asset owners
+could have the knowledge of what they
+need to do if they're vulnerable to this
+cv or this vulnerability and usually
+what they need to do is to patch and
+upgrade it to the new release so
+basically this life cycle
+of
+researching finding vulnerabilities and
+disclosing to the vendor really helps
+and improves the entire security of the
+whole market so
+uh vendors are enjoying this benefit of
+receiving uh free reports from security
+researchers and asset owners are safer
+because other attackers could not
+exploit these vulnerabilities because
+they've been patched
+what are some leadership challenges that
+you may face or one may face as they're
+leading a team of researchers that
+obviously
+it requires different leadership
+management and styles than than managing
+a traditional business team or
+traditional team of even just engineers
+what what what kind of skills or
+challenges are you faced with in your
+day today
+yeah so it's a good question i really
+think that the
+leading theme of an ability researchers
+is quite different from leading a team
+of developers because
+these are hackers and hackers do not
+like to play by the rules which means
+you need to be very creative with how
+you manage them and how you work with
+them on a team so usually it's not like
+um
+boss and employee it's more like working
+together towards achieving a goal and we
+must be very creative when we're working
+together as a team because finding
+vulnerabilities means we need to
+bypass some security mitigations so we
+need to be very creative when we are
+doing that
+and so i think that the biggest
+challenge is to know how to work with
+hackers
+in
+a team and be creative together
+so is it mandatory sort of that you are
+one of them
+do you think that somebody who's not a
+hacker who was not
+who isn't able to do the work that
+you're doing
+could they be a successful team leader
+and you know an intimate team leader of
+such an organization
+so it really depends how
+independent the
+security researchers are there are some
+security researchers that like to play
+along so there are lone wolves and they
+receive a task find vulnerability in
+this device and they will do anything in
+their power to achieve this
+but when you're doing uh in
+vulnerability research at scale so we
+have here hundreds of devices and we're
+finding vulnerabilities at scale of
+hundreds we need to be very efficient
+and we need to have lots of manpower and
+working together so we could accomplish
+this task
+that makes a lot of sense what do you
+enjoy most
+about your work is it the before during
+after all together
+so i just love the entire process i love
+it how
+i need to be creative and push my
+boundaries every day to find new
+vulnerabilities because
+vendors are fixing vulnerabilities and
+we still need to find vulnerabilities
+and bypass
+security mitigations and i really
+enjoying working with vendors and
+actually see how they think how their
+developers and generic teams are
+thinking about security and i like the
+interaction of a security researcher and
+the developer engineer the working
+together in order to create uh the most
+secure devices uh in the world so
+right now i can say
+uh with some confidence that because of
+our uh innovative research i do know
+that the scatter world and the ot and i2
+devices are much much much more secure
+so i really enjoying the fact that we
+can shape and make some influence on the
+security state of in the entire scatter
+market
+so obviously when you're approaching a
+company or a vendor and you share with
+them a vulnerability that you found
+especially one that allows one to run
+remote code you know there's a big
+you know there's
+it's a positive idea that you did
+because you found it and hopefully
+before anybody was able to exploit it
+but what is the initial reaction like
+what is sort of the reception that you
+get from a company and it's like oh
+shoot we have a problem on our hand is
+it is it shock is it you know anger what
+what kind of feedback do you get
+yeah so it really depends actually the
+size of the company big companies are
+are well adapted to this kind of
+situation that they're receiving
+security reports from
+researchers
+but smaller companies that it's their
+first time uh are very hesitant so i
+have a funny story uh we found a
+vulnerability in in a plc which is a
+controller for a critical infrastructure
+and we reported this for the first time
+for a very small company a relatively
+small company
+and they did not understand they could
+not understand why we're uh using our
+free time uh and sending them
+information for free so they thought
+we're trying to blackmail them so it was
+a very kind of find a funny interaction
+uh where we tried to explain them that
+we're security researchers and we're
+doing this for the community and for the
+uh benefit of the entire market and so
+it took them unbelievable yeah
+i love it
+where does the security researcher in
+your eyes draw the inspiration
+or creativity is it from reading
+you know from different reading sources
+remaining up to date where is the
+inspiration coming from to have this
+ingenuity to go and try all these
+different things
+yeah so
+as a security researcher myself i can
+say that as a kid i drew my
+kind of motivation from movies hacker
+movies
+uh and today i'm drawing my motivation
+from uh great security researchers
+around the world and uh from ctfs so
+ctfs are kind of uh
+hacking competitions where you need to
+hack devices and software to achieve
+flags and i really enjoy playing ctfs
+and hacking competitions myself
+and i think it really improves my skills
+and
+improves and supports my motivation
+towards this uh subject
+amazing and where in your eyes is the
+world going with this so
+do you think that you know this model is
+is the right way to go that we have you
+know a lot of vendors and then we have
+these small security teams that are
+going to be researching the
+vulnerabilities
+are we going to have more vulnerability
+researchers as though as as you know
+time moves forward what how how should
+the world adapt to the need that you're
+observing today
+yeah so it's a good question in in
+modern companies uh you don't have just
+developers or engineers you have
+developers or engineering team and you
+also have a security team or red team
+that are poking around internally on the
+products because developers or engineers
+need to be focused on developing fast
+their products and sometimes they're
+they have some oversights and they're
+they're doing security mistakes but
+there since they wrote the code that
+they don't have uh
+the the option to
+uh to make these of observations for
+security so that's why they need
+external entities or internal like rent
+internal red teams to do this kind of
+job uh and i do think security
+researchers like us that are doing this
+uh uh across
+the entire platforms are very uh a
+necessity in this ecosystem because with
+the iot world so you have lots of
+devices uh your refrigerator is
+connected in the internet everyone can
+connect to to everyone to everywhere you
+have lots of devices and you need
+someone to poke around and make sure
+vulnerabilities are found and mitigated
+before attackers would do that
+i love it and and show and i you know
+all this is in the context of you know
+literally you know we're talking about
+companies and one of the things i love
+most about the show is talking to people
+that are making a positive impact on the
+world and you know immediately when you
+hear about this about a team that is
+finding vulnera that is doing
+vulnerability threats research you don't
+immediately think of you know the
+positive impact but but the truth is
+that it's life-saving and and that you
+know the work that you're doing you know
+you're dealing with the hardware without
+with the connected devices that are then
+you know the the things that are
+powering our hospitals that they're
+powering the the world all this
+infrastructure and so obviously these
+vulnerabilities can be life-threatening
+and so by mitigating them you're
+actually life-saving and i think that
+the context here is important and and a
+lot of people need to thank people like
+you and and teams like yourselves for
+the work that you're doing and clarity
+is an amazing company by an amazing
+organization and so it's a i'm you
+already have a big fan here and i really
+want to thank you for your time this was
+just inspiring and really really fun and
+interesting and uh thank you stay safe
+and stay healthy yeah thank you so much
+it was such a great time thank you very
+much
