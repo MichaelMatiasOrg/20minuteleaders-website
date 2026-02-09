@@ -510,6 +510,7 @@
             transition: transform 0.2s, box-shadow 0.2s;
             text-decoration: none;
             color: inherit;
+            cursor: pointer;
         }
 
         .episode-card:hover {
@@ -791,6 +792,226 @@
                 font-size: 1.75rem;
             }
         }
+
+        /* Episode Player Modal */
+        .player-modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(15, 23, 42, 0.75);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            animation: modalFadeIn 0.2s ease;
+        }
+
+        .player-modal-overlay.active {
+            display: flex;
+        }
+
+        @keyframes modalFadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .player-modal {
+            background: var(--white);
+            border-radius: var(--radius-lg);
+            max-width: 720px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+            animation: modalSlideUp 0.25s ease;
+        }
+
+        @keyframes modalSlideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .player-modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-200);
+        }
+
+        .player-modal-header .episode-badge {
+            font-size: 0.7rem;
+        }
+
+        .player-modal-close {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: none;
+            background: var(--gray-100);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+            flex-shrink: 0;
+        }
+
+        .player-modal-close:hover {
+            background: var(--gray-200);
+        }
+
+        .player-modal-close svg {
+            width: 18px;
+            height: 18px;
+            stroke: var(--gray-600);
+        }
+
+        .player-modal-body {
+            padding: 24px;
+        }
+
+        .player-embed-container {
+            position: relative;
+            width: 100%;
+            padding-top: 56.25%;
+            border-radius: var(--radius);
+            overflow: hidden;
+            background: var(--gray-900);
+            margin-bottom: 24px;
+        }
+
+        .player-embed-container iframe {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Audio player fallback */
+        .player-audio-container {
+            background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-dark) 100%);
+            border-radius: var(--radius);
+            padding: 32px 24px;
+            margin-bottom: 24px;
+            text-align: center;
+        }
+
+        .player-audio-artwork {
+            width: 120px;
+            height: 120px;
+            border-radius: var(--radius);
+            object-fit: cover;
+            margin-bottom: 20px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+        }
+
+        .player-audio-container audio {
+            width: 100%;
+            margin-top: 12px;
+            border-radius: 50px;
+        }
+
+        .player-audio-label {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .player-info h3 {
+            font-size: 1.3rem;
+            font-weight: 800;
+            color: var(--gray-900);
+            margin-bottom: 4px;
+        }
+
+        .player-info .player-guest {
+            color: var(--brand-blue);
+            font-weight: 600;
+            font-size: 0.95rem;
+            margin-bottom: 12px;
+        }
+
+        .player-info .player-description {
+            color: var(--gray-600);
+            font-size: 0.9rem;
+            line-height: 1.7;
+            margin-bottom: 20px;
+            max-height: 120px;
+            overflow-y: auto;
+        }
+
+        .player-links {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .player-link-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 18px;
+            border-radius: var(--radius);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .player-link-btn svg {
+            width: 18px;
+            height: 18px;
+            flex-shrink: 0;
+        }
+
+        .player-link-spotify {
+            background: #1DB954;
+            color: white;
+        }
+
+        .player-link-spotify:hover {
+            background: #1aa34a;
+            transform: translateY(-1px);
+        }
+
+        .player-link-youtube {
+            background: #FF0000;
+            color: white;
+        }
+
+        .player-link-youtube:hover {
+            background: #cc0000;
+            transform: translateY(-1px);
+        }
+
+        @media (max-width: 768px) {
+            .player-modal {
+                max-height: 95vh;
+                margin: 8px;
+            }
+
+            .player-modal-body {
+                padding: 16px;
+            }
+
+            .player-info h3 {
+                font-size: 1.1rem;
+            }
+
+            .player-links {
+                flex-direction: column;
+            }
+
+            .player-link-btn {
+                justify-content: center;
+            }
+        }
     </style>
 </head>
 <body>
@@ -944,6 +1165,31 @@
         </div>
     </footer>
 
+    <!-- Episode Player Modal -->
+    <div class="player-modal-overlay" id="player-modal">
+        <div class="player-modal">
+            <div class="player-modal-header">
+                <span class="episode-badge" id="modal-badge">EP 1171</span>
+                <button class="player-modal-close" id="modal-close" aria-label="Close player">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="player-modal-body">
+                <!-- YouTube embed or Audio player inserted here -->
+                <div id="modal-player-area"></div>
+                <div class="player-info">
+                    <h3 id="modal-title"></h3>
+                    <div class="player-guest" id="modal-guest"></div>
+                    <div class="player-description" id="modal-desc"></div>
+                    <div class="player-links" id="modal-links"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         let episodes = [];
         let displayCount = 12;
@@ -954,7 +1200,7 @@
                 const response = await fetch('episodes.json');
                 episodes = await response.json();
                 filteredEpisodes = [...episodes];
-                
+
                 // Set featured episode
                 if (episodes.length > 0) {
                     const latest = episodes[0];
@@ -963,14 +1209,24 @@
                     document.getElementById('featured-title').textContent = latest.topic || latest.title;
                     document.getElementById('featured-date').textContent = formatDate(latest.date);
                     document.getElementById('featured-desc').textContent = stripHtml(latest.description).slice(0, 250) + '...';
-                    document.getElementById('featured-listen').href = latest.link || '#';
-                    document.getElementById('featured-play').href = latest.link || '#';
                     if (latest.image) {
                         document.getElementById('featured-img').src = latest.image;
                         document.getElementById('featured-img').alt = latest.guest || latest.title;
                     }
+
+                    // Wire featured episode to open modal
+                    document.getElementById('featured-listen').href = '#';
+                    document.getElementById('featured-listen').addEventListener('click', (e) => {
+                        e.preventDefault();
+                        openPlayerModal(latest);
+                    });
+                    document.getElementById('featured-play').href = '#';
+                    document.getElementById('featured-play').addEventListener('click', (e) => {
+                        e.preventDefault();
+                        openPlayerModal(latest);
+                    });
                 }
-                
+
                 renderEpisodes();
             } catch (error) {
                 console.error('Failed to load episodes:', error);
@@ -992,9 +1248,9 @@
         function renderEpisodes() {
             const grid = document.getElementById('episodes-grid');
             const toShow = filteredEpisodes.slice(0, displayCount);
-            
-            grid.innerHTML = toShow.map(ep => `
-                <a href="${ep.link || '#'}" class="episode-card" target="_blank">
+
+            grid.innerHTML = toShow.map((ep, idx) => `
+                <div class="episode-card" data-episode-index="${filteredEpisodes.indexOf(ep)}" role="button" tabindex="0">
                     <div class="card-image">
                         <img src="${ep.image || ''}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">
                         ${ep.episode ? `<span class="card-number">EP ${ep.episode}</span>` : ''}
@@ -1005,17 +1261,111 @@
                         <h3 class="card-title">${ep.topic || ep.title}</h3>
                         ${ep.guest ? `<div class="card-guest">${ep.guest}</div>` : ''}
                     </div>
-                </a>
+                </div>
             `).join('');
-            
-            document.getElementById('load-more').style.display = 
+
+            // Attach click handlers
+            grid.querySelectorAll('.episode-card').forEach(card => {
+                const handler = () => {
+                    const idx = parseInt(card.dataset.episodeIndex);
+                    openPlayerModal(filteredEpisodes[idx]);
+                };
+                card.addEventListener('click', handler);
+                card.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handler(); }
+                });
+            });
+
+            document.getElementById('load-more').style.display =
                 displayCount >= filteredEpisodes.length ? 'none' : 'inline-block';
         }
+
+        // --- Player Modal ---
+        function openPlayerModal(ep) {
+            const modal = document.getElementById('player-modal');
+            const playerArea = document.getElementById('modal-player-area');
+            const badge = document.getElementById('modal-badge');
+            const title = document.getElementById('modal-title');
+            const guest = document.getElementById('modal-guest');
+            const desc = document.getElementById('modal-desc');
+            const links = document.getElementById('modal-links');
+
+            // Badge
+            badge.textContent = ep.episode ? `EP ${ep.episode}` : 'EPISODE';
+
+            // Title & guest
+            title.textContent = ep.topic || ep.title;
+            guest.textContent = ep.guest || '';
+            guest.style.display = ep.guest ? 'block' : 'none';
+
+            // Description
+            const plainDesc = stripHtml(ep.description);
+            desc.textContent = plainDesc.length > 400 ? plainDesc.slice(0, 400) + '...' : plainDesc;
+
+            // Player area: YouTube embed or audio fallback
+            if (ep.youtubeId) {
+                playerArea.innerHTML = `
+                    <div class="player-embed-container">
+                        <iframe src="https://www.youtube.com/embed/${ep.youtubeId}?rel=0&modestbranding=1"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen title="${ep.topic || ep.title}"></iframe>
+                    </div>`;
+            } else if (ep.audio) {
+                playerArea.innerHTML = `
+                    <div class="player-audio-container">
+                        ${ep.image ? `<img class="player-audio-artwork" src="${ep.image}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">` : ''}
+                        <div class="player-audio-label">Now Playing</div>
+                        <audio controls autoplay preload="metadata" src="${ep.audio}"></audio>
+                    </div>`;
+            } else {
+                playerArea.innerHTML = '';
+            }
+
+            // Build links
+            let linksHtml = '';
+            if (ep.link) {
+                linksHtml += `
+                    <a href="${ep.link}" target="_blank" rel="noopener" class="player-link-btn player-link-spotify">
+                        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+                        Listen on Spotify
+                    </a>`;
+            }
+            // YouTube channel search link
+            const searchQuery = encodeURIComponent((ep.guest || '') + ' ' + (ep.topic || ep.title) + ' 20 minute leaders');
+            linksHtml += `
+                <a href="https://www.youtube.com/channel/UCRFqZcmk7qX-lvMW3mwSwZA/search?query=${searchQuery}" target="_blank" rel="noopener" class="player-link-btn player-link-youtube">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                    Watch on YouTube
+                </a>`;
+            links.innerHTML = linksHtml;
+
+            // Show modal
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePlayerModal() {
+            const modal = document.getElementById('player-modal');
+            const playerArea = document.getElementById('modal-player-area');
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+            // Stop audio/video
+            playerArea.innerHTML = '';
+        }
+
+        // Close handlers
+        document.getElementById('modal-close').addEventListener('click', closePlayerModal);
+        document.getElementById('player-modal').addEventListener('click', (e) => {
+            if (e.target === e.currentTarget) closePlayerModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closePlayerModal();
+        });
 
         // Search
         document.getElementById('search').addEventListener('input', (e) => {
             const query = e.target.value.toLowerCase();
-            filteredEpisodes = episodes.filter(ep => 
+            filteredEpisodes = episodes.filter(ep =>
                 (ep.title && ep.title.toLowerCase().includes(query)) ||
                 (ep.guest && ep.guest.toLowerCase().includes(query)) ||
                 (ep.topic && ep.topic.toLowerCase().includes(query)) ||
