@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guest Directory | 20 Minute Leaders</title>
+    <meta name="description" content="Browse all guests who have appeared on 20 Minute Leaders with Michael Matias. Search by name and explore their episodes.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2300A3E0' width='100' height='100' rx='15'/><text x='50' y='45' font-size='28' fill='white' text-anchor='middle' font-weight='900'>20</text><text x='50' y='70' font-size='18' fill='%23FFD700' text-anchor='middle' font-weight='900'>ML</text></svg>">
+    <style>
+        :root {
+            --brand-blue: #00B4D8;
+            --brand-blue-dark: #0096C7;
+            --brand-blue-light: #48CAE4;
+            --brand-yellow: #C4D600;
+            --brand-yellow-dark: #E6C200;
+            --white: #FFFFFF;
+            --gray-50: #F8FAFC;
+            --gray-100: #F1F5F9;
+            --gray-200: #E2E8F0;
+            --gray-400: #94A3B8;
+            --gray-600: #475569;
+            --gray-800: #1E293B;
+            --gray-900: #0F172A;
+
+            --radius: 12px;
+            --radius-lg: 20px;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--white);
+            color: var(--gray-800);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Header */
+        header {
+            background: var(--brand-blue);
+            color: var(--white);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0, 163, 224, 0.3);
+        }
+
+        .header-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 0;
+        }
+
+        .logo {
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+            text-decoration: none;
+        }
+
+        .logo-20 {
+            font-size: 2rem;
+            font-weight: 900;
+            color: var(--white);
+        }
+
+        .logo-minute {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--white);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .logo-leaders {
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--brand-yellow);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: rgba(255,255,255,0.9);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--white);
+        }
+
+        .nav-cta {
+            background: var(--brand-yellow) !important;
+            color: var(--gray-900) !important;
+            padding: 10px 20px;
+            border-radius: var(--radius);
+            font-weight: 700 !important;
+            transition: background 0.2s, transform 0.2s;
+        }
+
+        .nav-cta:hover {
+            background: var(--brand-yellow-dark) !important;
+            transform: translateY(-1px);
+        }
+
+        /* Page Hero */
+        .page-hero {
+            background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-dark) 100%);
+            color: var(--white);
+            padding: 48px 0 56px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .page-hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            border-radius: 50%;
+        }
+
+        .page-hero-content {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+        }
+
+        .page-hero-title {
+            font-size: 2.5rem;
+            font-weight: 900;
+            margin-bottom: 12px;
+        }
+
+        .page-hero-title .yellow {
+            color: var(--brand-yellow);
+        }
+
+        .page-hero-subtitle {
+            font-size: 1.1rem;
+            color: rgba(255,255,255,0.85);
+            max-width: 600px;
+            margin: 0 auto 24px;
+        }
+
+        .page-hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+        }
+
+        .hero-stat {
+            text-align: center;
+        }
+
+        .hero-stat-number {
+            font-size: 2rem;
+            font-weight: 900;
+            color: var(--brand-yellow);
+        }
+
+        .hero-stat-label {
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.8);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+
+        /* Controls */
+        .controls {
+            padding: 32px 0 0;
+        }
+
+        .controls-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        .search-input {
+            padding: 14px 24px;
+            border: 2px solid var(--gray-200);
+            border-radius: 50px;
+            font-size: 0.95rem;
+            min-width: 320px;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            font-family: inherit;
+        }
+
+        .search-input:focus {
+            border-color: var(--brand-blue);
+            box-shadow: 0 0 0 4px rgba(0, 163, 224, 0.1);
+        }
+
+        .search-input::placeholder {
+            color: var(--gray-400);
+        }
+
+        .controls-right {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .sort-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 20px;
+            border: 2px solid var(--gray-200);
+            border-radius: 50px;
+            background: var(--white);
+            color: var(--gray-600);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .sort-btn:hover {
+            border-color: var(--brand-blue);
+            color: var(--brand-blue);
+        }
+
+        .sort-btn.active {
+            background: var(--brand-blue);
+            border-color: var(--brand-blue);
+            color: var(--white);
+        }
+
+        .alpha-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-bottom: 24px;
+        }
+
+        .alpha-btn {
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--gray-200);
+            border-radius: 8px;
+            background: var(--white);
+            color: var(--gray-600);
+            font-size: 0.8rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .alpha-btn:hover {
+            border-color: var(--brand-blue);
+            color: var(--brand-blue);
+        }
+
+        .alpha-btn.active {
+            background: var(--brand-blue);
+            border-color: var(--brand-blue);
+            color: var(--white);
+        }
+
+        .alpha-btn.disabled {
+            color: var(--gray-400);
+            cursor: default;
+            opacity: 0.4;
+        }
+
+        .results-count {
+            font-size: 0.9rem;
+            color: var(--gray-600);
+            margin-bottom: 24px;
+            font-weight: 500;
+        }
+
+        .results-count strong {
+            color: var(--brand-blue);
+        }
+
+        /* Guests Grid */
+        .guests-section {
+            padding: 0 0 80px;
+        }
+
+        .guests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 24px;
+        }
+
+        .guest-card {
+            background: var(--white);
+            border: 1px solid var(--gray-200);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .guest-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--brand-blue);
+        }
+
+        .guest-card-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 24px;
+            cursor: pointer;
+        }
+
+        .guest-avatar {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-dark) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            overflow: hidden;
+        }
+
+        .guest-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .guest-avatar-initials {
+            color: var(--white);
+            font-size: 1.3rem;
+            font-weight: 800;
+        }
+
+        .guest-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .guest-name {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--gray-900);
+            margin-bottom: 4px;
+        }
+
+        .guest-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.85rem;
+            color: var(--gray-600);
+        }
+
+        .episode-count {
+            background: var(--gray-100);
+            padding: 3px 10px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            color: var(--brand-blue);
+        }
+
+        .toggle-arrow {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: var(--gray-100);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            transition: transform 0.3s, background 0.2s;
+        }
+
+        .guest-card.expanded .toggle-arrow {
+            transform: rotate(180deg);
+            background: var(--brand-blue);
+        }
+
+        .toggle-arrow svg {
+            width: 16px;
+            height: 16px;
+            stroke: var(--gray-600);
+            transition: stroke 0.2s;
+        }
+
+        .guest-card.expanded .toggle-arrow svg {
+            stroke: var(--white);
+        }
+
+        /* Thumbnails row */
+        .guest-thumbnails {
+            display: flex;
+            gap: 6px;
+            padding: 0 24px 16px;
+        }
+
+        .guest-thumb {
+            width: 48px;
+            height: 36px;
+            border-radius: 6px;
+            overflow: hidden;
+            background: linear-gradient(135deg, var(--brand-blue-light), var(--brand-blue));
+            flex-shrink: 0;
+        }
+
+        .guest-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .guest-thumb-more {
+            width: 48px;
+            height: 36px;
+            border-radius: 6px;
+            background: var(--gray-100);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: var(--gray-600);
+            flex-shrink: 0;
+        }
+
+        /* Expanded episode list */
+        .guest-episodes {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.35s ease;
+        }
+
+        .guest-card.expanded .guest-episodes {
+            max-height: 2000px;
+        }
+
+        .guest-episodes-inner {
+            padding: 0 24px 24px;
+            border-top: 1px solid var(--gray-200);
+        }
+
+        .guest-episode-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 16px 0;
+            border-bottom: 1px solid var(--gray-100);
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s;
+        }
+
+        .guest-episode-item:last-child {
+            border-bottom: none;
+        }
+
+        .guest-episode-item:hover {
+            padding-left: 8px;
+        }
+
+        .guest-ep-thumb {
+            width: 80px;
+            height: 45px;
+            border-radius: 8px;
+            overflow: hidden;
+            background: linear-gradient(135deg, var(--brand-blue-light), var(--brand-blue));
+            flex-shrink: 0;
+            position: relative;
+        }
+
+        .guest-ep-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .guest-ep-thumb .ep-play {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0,0,0,0.3);
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        .guest-episode-item:hover .ep-play {
+            opacity: 1;
+        }
+
+        .ep-play svg {
+            width: 20px;
+            height: 20px;
+            fill: var(--white);
+        }
+
+        .guest-ep-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .guest-ep-number {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--brand-blue);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .guest-ep-topic {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--gray-800);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .guest-ep-date {
+            font-size: 0.8rem;
+            color: var(--gray-400);
+        }
+
+        .guest-ep-arrow {
+            flex-shrink: 0;
+            color: var(--gray-400);
+            transition: color 0.2s;
+        }
+
+        .guest-episode-item:hover .guest-ep-arrow {
+            color: var(--brand-blue);
+        }
+
+        /* Empty state */
+        .empty-state {
+            text-align: center;
+            padding: 80px 24px;
+        }
+
+        .empty-state-icon {
+            font-size: 3rem;
+            margin-bottom: 16px;
+        }
+
+        .empty-state-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--gray-800);
+            margin-bottom: 8px;
+        }
+
+        .empty-state-text {
+            color: var(--gray-600);
+            font-size: 0.95rem;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--gray-900);
+            color: var(--white);
+            padding: 48px 0;
+        }
+
+        .footer-inner {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 24px;
+        }
+
+        .footer-logo {
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+        }
+
+        .footer-logo .logo-20 {
+            font-size: 1.5rem;
+        }
+
+        .footer-logo .logo-minute {
+            font-size: 0.9rem;
+        }
+
+        .footer-logo .logo-leaders {
+            font-size: 1.1rem;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 32px;
+        }
+
+        .footer-links a {
+            color: var(--gray-400);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--brand-yellow);
+        }
+
+        .footer-copy {
+            color: var(--gray-500);
+            font-size: 0.85rem;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .page-hero-title {
+                font-size: 1.75rem;
+            }
+
+            .page-hero-stats {
+                gap: 24px;
+            }
+
+            .hero-stat-number {
+                font-size: 1.5rem;
+            }
+
+            .controls-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .search-input {
+                min-width: 100%;
+            }
+
+            .controls-right {
+                justify-content: center;
+            }
+
+            .alpha-nav {
+                justify-content: center;
+            }
+
+            .alpha-btn {
+                width: 32px;
+                height: 32px;
+                font-size: 0.75rem;
+            }
+
+            .guests-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .guest-card-header {
+                padding: 16px;
+            }
+
+            .guest-thumbnails {
+                padding: 0 16px 12px;
+            }
+
+            .guest-episodes-inner {
+                padding: 0 16px 16px;
+            }
+
+            .guest-ep-thumb {
+                width: 60px;
+                height: 34px;
+            }
+
+            .footer-inner {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container header-inner">
+            <a href="/" class="logo">
+                <span class="logo-20">20</span>
+                <span class="logo-minute">Minute</span>
+                <span class="logo-leaders">Leaders</span>
+            </a>
+            <nav class="nav-links">
+                <a href="/">Episodes</a>
+                <a href="guests.html" style="color: var(--white);">Guests</a>
+                <a href="/#about">About</a>
+                <a href="/#subscribe" class="nav-cta">Subscribe</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Hero -->
+    <section class="page-hero">
+        <div class="container page-hero-content">
+            <h1 class="page-hero-title">Guest <span class="yellow">Directory</span></h1>
+            <p class="page-hero-subtitle">Explore every leader, founder, and innovator who has shared their insights on 20 Minute Leaders.</p>
+            <div class="page-hero-stats">
+                <div class="hero-stat">
+                    <div class="hero-stat-number" id="total-guests">-</div>
+                    <div class="hero-stat-label">Guests</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number" id="total-episodes">-</div>
+                    <div class="hero-stat-label">Episodes</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls">
+        <div class="container">
+            <div class="controls-bar">
+                <input type="text" id="search" placeholder="Search guests by name..." class="search-input">
+                <div class="controls-right">
+                    <button class="sort-btn active" id="sort-alpha" title="Sort A-Z">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h12M3 18h6"/></svg>
+                        A - Z
+                    </button>
+                    <button class="sort-btn" id="sort-episodes" title="Sort by episode count">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20V10M18 20V4M6 20v-4"/></svg>
+                        Most Episodes
+                    </button>
+                </div>
+            </div>
+            <div class="alpha-nav" id="alpha-nav"></div>
+            <div class="results-count" id="results-count"></div>
+        </div>
+    </section>
+
+    <!-- Guests Grid -->
+    <section class="guests-section">
+        <div class="container">
+            <div class="guests-grid" id="guests-grid"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-inner">
+            <div class="footer-logo">
+                <span class="logo-20">20</span>
+                <span class="logo-minute">Minute</span>
+                <span class="logo-leaders">Leaders</span>
+            </div>
+            <div class="footer-links">
+                <a href="/">Episodes</a>
+                <a href="guests.html">Guests</a>
+                <a href="https://www.linkedin.com/in/matiasmichael/" target="_blank">About Michael</a>
+                <a href="https://www.linkedin.com/company/20minleaders" target="_blank">LinkedIn</a>
+            </div>
+            <div class="footer-copy">&copy; 2026 20MinuteLeaders. All rights reserved.</div>
+        </div>
+    </footer>
+
+    <script>
+        let allEpisodes = [];
+        let guestMap = {};
+        let guestList = [];
+        let filteredGuests = [];
+        let currentSort = 'alpha';
+        let activeLetter = '';
+
+        async function init() {
+            try {
+                const response = await fetch('episodes.json');
+                allEpisodes = await response.json();
+            } catch (e) {
+                console.error('Failed to load episodes:', e);
+                return;
+            }
+
+            buildGuestMap();
+            renderAlphaNav();
+            applyFilters();
+            updateStats();
+        }
+
+        function buildGuestMap() {
+            guestMap = {};
+            allEpisodes.forEach(ep => {
+                const name = (ep.guest || '').trim();
+                if (!name) return;
+                if (!guestMap[name]) {
+                    guestMap[name] = [];
+                }
+                guestMap[name].push(ep);
+            });
+
+            guestList = Object.keys(guestMap).map(name => ({
+                name,
+                episodes: guestMap[name],
+                count: guestMap[name].length,
+                firstLetter: name.charAt(0).toUpperCase()
+            }));
+        }
+
+        function updateStats() {
+            document.getElementById('total-guests').textContent = guestList.length.toLocaleString();
+            document.getElementById('total-episodes').textContent = allEpisodes.length.toLocaleString();
+        }
+
+        function renderAlphaNav() {
+            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+            const presentLetters = new Set(guestList.map(g => g.firstLetter));
+            const nav = document.getElementById('alpha-nav');
+
+            const allBtn = `<button class="alpha-btn active" data-letter="">All</button>`;
+            const letterBtns = letters.map(l => {
+                const exists = presentLetters.has(l);
+                return `<button class="alpha-btn${exists ? '' : ' disabled'}" data-letter="${l}" ${exists ? '' : 'disabled'}>${l}</button>`;
+            }).join('');
+
+            nav.innerHTML = allBtn + letterBtns;
+
+            nav.querySelectorAll('.alpha-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    if (btn.disabled) return;
+                    nav.querySelectorAll('.alpha-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    activeLetter = btn.dataset.letter;
+                    applyFilters();
+                });
+            });
+        }
+
+        function applyFilters() {
+            const query = document.getElementById('search').value.toLowerCase().trim();
+
+            filteredGuests = guestList.filter(g => {
+                const matchesSearch = !query || g.name.toLowerCase().includes(query);
+                const matchesLetter = !activeLetter || g.firstLetter === activeLetter;
+                return matchesSearch && matchesLetter;
+            });
+
+            sortGuests();
+            renderGuests();
+            updateResultsCount();
+        }
+
+        function sortGuests() {
+            if (currentSort === 'alpha') {
+                filteredGuests.sort((a, b) => a.name.localeCompare(b.name));
+            } else {
+                filteredGuests.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+            }
+        }
+
+        function updateResultsCount() {
+            const el = document.getElementById('results-count');
+            const query = document.getElementById('search').value.trim();
+            if (query || activeLetter) {
+                el.textContent = `Showing ${filteredGuests.length} of ${guestList.length} guests`;
+            } else {
+                el.textContent = `${guestList.length} guests`;
+            }
+        }
+
+        function getInitials(name) {
+            return name.split(/\s+/).map(w => w.charAt(0)).slice(0, 2).join('').toUpperCase();
+        }
+
+        function getThumbnail(ep) {
+            if (ep.youtubeId) return `https://img.youtube.com/vi/${ep.youtubeId}/hqdefault.jpg`;
+            if (ep.image) return ep.image;
+            return '';
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+
+        function getTopicDisplay(ep) {
+            let topic = ep.topic || ep.title || '';
+            // Strip leading "EpXXXX: Guest Name: " prefix pattern
+            topic = topic.replace(/^Ep\d+:\s*/i, '').replace(new RegExp('^' + escapeRegex(ep.guest || '') + ':\\s*', 'i'), '');
+            return topic || 'Episode ' + ep.episode;
+        }
+
+        function escapeRegex(str) {
+            return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        function renderGuests() {
+            const grid = document.getElementById('guests-grid');
+
+            if (filteredGuests.length === 0) {
+                grid.innerHTML = `
+                    <div class="empty-state" style="grid-column: 1 / -1;">
+                        <div class="empty-state-icon">🔍</div>
+                        <div class="empty-state-title">No guests found</div>
+                        <div class="empty-state-text">Try a different search term or letter filter.</div>
+                    </div>`;
+                return;
+            }
+
+            grid.innerHTML = filteredGuests.map((guest, idx) => {
+                const eps = guest.episodes;
+                const thumbs = eps.slice(0, 4).map(ep => {
+                    const src = getThumbnail(ep);
+                    if (src) {
+                        return `<div class="guest-thumb"><img src="${src}" alt="EP ${ep.episode}" onerror="this.parentElement.innerHTML=''"></div>`;
+                    }
+                    return `<div class="guest-thumb"></div>`;
+                }).join('');
+                const moreCount = eps.length > 4 ? eps.length - 4 : 0;
+                const moreThumb = moreCount > 0 ? `<div class="guest-thumb-more">+${moreCount}</div>` : '';
+
+                // Avatar: use first episode thumbnail or initials
+                const firstThumb = getThumbnail(eps[0]);
+                const avatarContent = firstThumb
+                    ? `<img src="${firstThumb}" alt="${guest.name}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+                    : '';
+                const initialsDisplay = firstThumb ? 'display:none' : 'display:flex';
+
+                const episodeItems = eps.map(ep => {
+                    const thumb = getThumbnail(ep);
+                    const thumbHtml = thumb
+                        ? `<img src="${thumb}" alt="EP ${ep.episode}" onerror="this.style.display='none'">`
+                        : '';
+                    return `
+                        <a href="episode.html?id=${ep.episode}" class="guest-episode-item">
+                            <div class="guest-ep-thumb">
+                                ${thumbHtml}
+                                <div class="ep-play"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+                            </div>
+                            <div class="guest-ep-info">
+                                <div class="guest-ep-number">Episode ${ep.episode}</div>
+                                <div class="guest-ep-topic">${getTopicDisplay(ep)}</div>
+                                ${ep.date ? `<div class="guest-ep-date">${formatDate(ep.date)}</div>` : ''}
+                            </div>
+                            <div class="guest-ep-arrow">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+                            </div>
+                        </a>`;
+                }).join('');
+
+                return `
+                    <div class="guest-card" data-guest-idx="${idx}">
+                        <div class="guest-card-header" onclick="toggleGuest(${idx})">
+                            <div class="guest-avatar">
+                                ${avatarContent}
+                                <span class="guest-avatar-initials" style="${initialsDisplay};align-items:center;justify-content:center">${getInitials(guest.name)}</span>
+                            </div>
+                            <div class="guest-info">
+                                <div class="guest-name">${guest.name}</div>
+                                <div class="guest-meta">
+                                    <span class="episode-count">${guest.count} episode${guest.count !== 1 ? 's' : ''}</span>
+                                </div>
+                            </div>
+                            <div class="toggle-arrow">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="6 9 12 15 18 9"/>
+                                </svg>
+                            </div>
+                        </div>
+                        ${thumbs || moreThumb ? `<div class="guest-thumbnails">${thumbs}${moreThumb}</div>` : ''}
+                        <div class="guest-episodes">
+                            <div class="guest-episodes-inner">
+                                ${episodeItems}
+                            </div>
+                        </div>
+                    </div>`;
+            }).join('');
+        }
+
+        function toggleGuest(idx) {
+            const card = document.querySelector(`.guest-card[data-guest-idx="${idx}"]`);
+            if (!card) return;
+            card.classList.toggle('expanded');
+        }
+
+        // Search
+        let searchTimeout;
+        document.getElementById('search').addEventListener('input', () => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(applyFilters, 200);
+        });
+
+        // Sort buttons
+        document.getElementById('sort-alpha').addEventListener('click', () => {
+            currentSort = 'alpha';
+            document.getElementById('sort-alpha').classList.add('active');
+            document.getElementById('sort-episodes').classList.remove('active');
+            applyFilters();
+        });
+
+        document.getElementById('sort-episodes').addEventListener('click', () => {
+            currentSort = 'episodes';
+            document.getElementById('sort-episodes').classList.add('active');
+            document.getElementById('sort-alpha').classList.remove('active');
+            applyFilters();
+        });
+
+        // Initialize
+        init();
+    </script>
+</body>
+</html>
