@@ -130,7 +130,7 @@ def main():
     synced = 0
     failed = 0
     
-    for ep_num, m in sorted(by_episode.items(), key=lambda x: int(x[0]) if x[0].isdigit() else 0, reverse=True)[:20]:
+    for ep_num, m in sorted(by_episode.items(), key=lambda x: int(x[0]) if x[0].isdigit() else 0, reverse=True)[:]:
         print(f"\nProcessing Ep{ep_num} ({m['guest']})...")
         
         # Load transcript text

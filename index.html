@@ -496,6 +496,36 @@
             color: var(--gray-400);
         }
 
+        .filter-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .filter-chip {
+            padding: 8px 18px;
+            border: 2px solid var(--gray-200);
+            border-radius: 50px;
+            background: var(--white);
+            color: var(--gray-600);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-chip:hover {
+            border-color: var(--brand-blue);
+            color: var(--brand-blue);
+        }
+
+        .filter-chip.active {
+            background: var(--brand-blue);
+            border-color: var(--brand-blue);
+            color: var(--white);
+        }
+
         .episodes-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
@@ -590,6 +620,65 @@
         .load-more {
             text-align: center;
             margin-top: 48px;
+        }
+
+        /* About Section */
+        .about {
+            padding: 80px 0;
+            background: var(--gray-50);
+        }
+
+        .about-content {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .about-image img {
+            width: 100%;
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .about-title {
+            font-size: 2rem;
+            font-weight: 900;
+            margin-bottom: 20px;
+            color: var(--gray-900);
+        }
+
+        .about-title .yellow {
+            color: var(--brand-blue);
+        }
+
+        .about-bio {
+            color: var(--gray-600);
+            font-size: 1.05rem;
+            line-height: 1.8;
+            margin-bottom: 16px;
+        }
+
+        .about-links {
+            display: flex;
+            gap: 12px;
+            margin-top: 24px;
+        }
+
+        @media (max-width: 768px) {
+            .about-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .about-image img {
+                max-width: 200px;
+                margin: 0 auto;
+            }
+
+            .about-links {
+                justify-content: center;
+            }
         }
 
         /* Subscribe Section */
@@ -1117,11 +1206,47 @@
                 <div class="section-label">📚 All Episodes</div>
                 <input type="text" id="search" placeholder="🔍 Search episodes, guests, topics..." class="search-input">
             </div>
+            <div class="filter-chips" id="filter-chips">
+                <button class="filter-chip active" data-filter="">All</button>
+                <button class="filter-chip" data-filter="ai">AI</button>
+                <button class="filter-chip" data-filter="leadership">Leadership</button>
+                <button class="filter-chip" data-filter="startup">Startup</button>
+                <button class="filter-chip" data-filter="vc">VC</button>
+                <button class="filter-chip" data-filter="cyber">Cybersecurity</button>
+                <button class="filter-chip" data-filter="product">Product</button>
+                <button class="filter-chip" data-filter="marketing">Marketing</button>
+            </div>
             <div class="episodes-grid" id="episodes-grid">
                 <!-- Populated by JS -->
             </div>
             <div class="load-more">
                 <button id="load-more" class="btn btn-secondary">Load More Episodes</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-image">
+                    <img src="logo.jpg" alt="Michael Matias">
+                </div>
+                <div class="about-text">
+                    <h2 class="about-title">About <span class="yellow">Michael Matias</span></h2>
+                    <p class="about-bio">Michael Matias is the founder and CEO of Clarity. A Forbes 30 Under 30 honoree, Stanford graduate, and former IDF intelligence officer, Michael has conducted over 1,000 conversations with the world's most innovative leaders.</p>
+                    <p class="about-bio">20 Minute Leaders distills their insights into actionable wisdom — short, powerful conversations you can apply today.</p>
+                    <div class="about-links">
+                        <a href="https://www.linkedin.com/in/matiasmichael/" target="_blank" class="btn btn-primary">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                            LinkedIn
+                        </a>
+                        <a href="https://twitter.com/michaelmatias" target="_blank" class="btn btn-secondary">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                            Twitter
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -1209,8 +1334,10 @@
                     document.getElementById('featured-title').textContent = latest.topic || latest.title;
                     document.getElementById('featured-date').textContent = formatDate(latest.date);
                     document.getElementById('featured-desc').textContent = stripHtml(latest.description).slice(0, 250) + '...';
-                    if (latest.image) {
-                        document.getElementById('featured-img').src = latest.image;
+                    // Use YouTube thumbnail as fallback
+                    const featuredImg = latest.image || (latest.youtubeId ? `https://img.youtube.com/vi/${latest.youtubeId}/maxresdefault.jpg` : '');
+                    if (featuredImg) {
+                        document.getElementById('featured-img').src = featuredImg;
                         document.getElementById('featured-img').alt = latest.guest || latest.title;
                     }
 
@@ -1249,20 +1376,23 @@
             const grid = document.getElementById('episodes-grid');
             const toShow = filteredEpisodes.slice(0, displayCount);
 
-            grid.innerHTML = toShow.map((ep, idx) => `
+            grid.innerHTML = toShow.map((ep, idx) => {
+                // Use YouTube thumbnail if no image but has youtubeId
+                const thumbnail = ep.image || (ep.youtubeId ? `https://img.youtube.com/vi/${ep.youtubeId}/hqdefault.jpg` : '');
+                return `
                 <div class="episode-card" data-episode-index="${filteredEpisodes.indexOf(ep)}" role="button" tabindex="0">
                     <div class="card-image">
-                        <img src="${ep.image || ''}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">
+                        <img src="${thumbnail}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">
                         ${ep.episode ? `<span class="card-number">EP ${ep.episode}</span>` : ''}
                         ${ep.duration ? `<span class="card-duration">${ep.duration}</span>` : ''}
-                    </div>
+                    </div>`
                     <div class="card-content">
                         <div class="card-date">${formatDate(ep.date)}</div>
                         <h3 class="card-title">${ep.topic || ep.title}</h3>
                         ${ep.guest ? `<div class="card-guest">${ep.guest}</div>` : ''}
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
 
             // Attach click handlers
             grid.querySelectorAll('.episode-card').forEach(card => {
@@ -1362,17 +1492,40 @@
             if (e.key === 'Escape') closePlayerModal();
         });
 
-        // Search
-        document.getElementById('search').addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase();
-            filteredEpisodes = episodes.filter(ep =>
-                (ep.title && ep.title.toLowerCase().includes(query)) ||
-                (ep.guest && ep.guest.toLowerCase().includes(query)) ||
-                (ep.topic && ep.topic.toLowerCase().includes(query)) ||
-                (ep.description && ep.description.toLowerCase().includes(query))
-            );
+        // Filter chips
+        let activeFilter = '';
+        document.querySelectorAll('.filter-chip').forEach(chip => {
+            chip.addEventListener('click', () => {
+                document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+                chip.classList.add('active');
+                activeFilter = chip.dataset.filter;
+                applyFilters();
+            });
+        });
+
+        function applyFilters() {
+            const searchQuery = document.getElementById('search').value.toLowerCase();
+            filteredEpisodes = episodes.filter(ep => {
+                const matchesSearch = !searchQuery || 
+                    (ep.title && ep.title.toLowerCase().includes(searchQuery)) ||
+                    (ep.guest && ep.guest.toLowerCase().includes(searchQuery)) ||
+                    (ep.topic && ep.topic.toLowerCase().includes(searchQuery)) ||
+                    (ep.description && ep.description.toLowerCase().includes(searchQuery));
+                
+                const matchesFilter = !activeFilter ||
+                    (ep.title && ep.title.toLowerCase().includes(activeFilter)) ||
+                    (ep.topic && ep.topic.toLowerCase().includes(activeFilter)) ||
+                    (ep.description && ep.description.toLowerCase().includes(activeFilter));
+                
+                return matchesSearch && matchesFilter;
+            });
             displayCount = 12;
             renderEpisodes();
+        }
+
+        // Search
+        document.getElementById('search').addEventListener('input', () => {
+            applyFilters();
         });
 
         // Load more
