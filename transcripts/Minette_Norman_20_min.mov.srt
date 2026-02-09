@@ -1,0 +1,3000 @@
+﻿1
+00:00:00,080 --> 00:00:01,679
+I would sit down with the engineers,
+
+2
+00:00:01,680 --> 00:00:03,559
+the developers of the software and say,
+
+3
+00:00:03,560 --> 00:00:05,279
+explain this to me,
+
+4
+00:00:05,280 --> 00:00:07,879
+so that I completely understood it
+
+5
+00:00:07,880 --> 00:00:10,239
+and only then could I write about it.
+
+6
+00:00:10,240 --> 00:00:11,159
+Because, I mean,
+
+7
+00:00:11,160 --> 00:00:12,719
+if you've ever tried to explain something
+
+8
+00:00:12,720 --> 00:00:14,079
+you don't understand,
+
+9
+00:00:14,080 --> 00:00:15,479
+it doesn't work, right?
+
+10
+00:00:15,480 --> 00:00:18,159
+But if you understand it, you can take
+
+11
+00:00:18,160 --> 00:00:19,520
+what is complex and make it simple.
+
+12
+00:00:52,000 --> 00:00:52,759
+Minette Norman,
+
+13
+00:00:52,760 --> 00:00:54,119
+welcome to 20 Minute Leaders.
+
+14
+00:00:54,120 --> 00:00:54,879
+Thank you for joining me.
+
+15
+00:00:54,880 --> 00:00:56,360
+How are you?
+
+16
+00:00:56,480 --> 00:00:56,880
+I'm good.
+
+17
+00:00:56,880 --> 00:00:57,760
+Thanks for having me
+
+18
+00:00:57,760 --> 00:00:59,040
+and for inviting me
+
+19
+00:00:59,040 --> 00:00:59,720
+Of course.
+
+20
+00:00:59,720 --> 00:01:00,240
+Thank you.
+
+21
+00:01:00,240 --> 00:01:02,640
+Where are you calling from right now?
+
+22
+00:01:02,640 --> 00:01:04,000
+I'm in the San Francisco Bay Area.
+
+23
+00:01:04,000 --> 00:01:05,000
+I live in Marin County,
+
+24
+00:01:05,000 --> 00:01:06,880
+just north of San Francisco.
+
+25
+00:01:06,880 --> 00:01:07,560
+Wonderful.
+
+26
+00:01:07,560 --> 00:01:09,240
+It's a beautiful, beautiful area.
+
+27
+00:01:09,240 --> 00:01:10,560
+I really enjoyed
+
+28
+00:01:10,560 --> 00:01:12,000
+going hiking there before covid
+
+29
+00:01:12,000 --> 00:01:15,040
+and hopefully after covid as well.
+
+30
+00:01:15,080 --> 00:01:16,720
+More than 30 years of experience
+
+31
+00:01:16,720 --> 00:01:18,200
+in the tech and software industry,
+
+32
+00:01:18,200 --> 00:01:21,080
+but it all starts with nothing else
+
+33
+00:01:21,080 --> 00:01:24,600
+but a major in drama and French.
+
+34
+00:01:24,600 --> 00:01:26,440
+How does that happen?
+
+35
+00:01:26,880 --> 00:01:27,880
+Exactly.
+
+36
+00:01:27,880 --> 00:01:28,840
+How does that happen?
+
+37
+00:01:28,840 --> 00:01:29,680
+I'm not quite sure.
+
+38
+00:01:29,680 --> 00:01:30,640
+But I'll tell you
+
+39
+00:01:30,640 --> 00:01:32,840
+the brief story of how it all went down.
+
+40
+00:01:32,840 --> 00:01:34,560
+So, I got out of university
+
+41
+00:01:34,560 --> 00:01:36,160
+with a degree in drama and French
+
+42
+00:01:36,160 --> 00:01:38,560
+and realized that being an actor,
+
+43
+00:01:38,560 --> 00:01:39,760
+which I aspired to be,
+
+44
+00:01:39,760 --> 00:01:41,720
+is a really hard work.
+
+45
+00:01:41,720 --> 00:01:43,280
+And I hated going to auditions.
+
+46
+00:01:43,280 --> 00:01:44,960
+And I realized that wasn't for me.
+
+47
+00:01:44,961 --> 00:01:46,239
+So, I had to get a job.
+
+48
+00:01:46,240 --> 00:01:47,880
+My first job out a school
+
+49
+00:01:47,880 --> 00:01:49,120
+was being a French teacher.
+
+50
+00:01:49,120 --> 00:01:50,320
+But soon after that,
+
+51
+00:01:50,321 --> 00:01:51,119
+I got a job at the
+
+52
+00:01:51,120 --> 00:01:52,119
+French Trade Commission
+
+53
+00:01:52,120 --> 00:01:53,999
+in New York City where I was living,
+
+54
+00:01:54,000 --> 00:01:55,439
+when they introduced computers
+
+55
+00:01:55,440 --> 00:01:56,919
+for the first time.
+
+56
+00:01:56,920 --> 00:01:58,479
+And it turned out,
+
+57
+00:01:58,480 --> 00:01:59,999
+this is going way, way back,
+
+58
+00:02:00,000 --> 00:02:02,080
+this dates me more than twice your age,
+
+59
+00:02:02,081 --> 00:02:03,159
+I think Michael,
+
+60
+00:02:03,160 --> 00:02:05,200
+but this was like the original PCs,
+
+61
+00:02:05,200 --> 00:02:07,800
+the IBM PC is back in the 80s,
+
+62
+00:02:07,800 --> 00:02:10,240
+and it turned out I was a quick study.
+
+63
+00:02:10,241 --> 00:02:12,399
+And I learned how to use them.
+
+64
+00:02:12,400 --> 00:02:13,000
+I figured out
+
+65
+00:02:13,000 --> 00:02:14,240
+how to use them pretty well.
+
+66
+00:02:14,240 --> 00:02:15,320
+But what I was really good at
+
+67
+00:02:15,320 --> 00:02:17,000
+was explaining how to use them
+
+68
+00:02:17,000 --> 00:02:19,080
+to the people who didn't understand
+
+69
+00:02:19,080 --> 00:02:20,080
+and who were kind of scared
+
+70
+00:02:20,080 --> 00:02:22,120
+and intimidated by them.
+
+71
+00:02:22,121 --> 00:02:23,599
+And so, that led me,
+
+72
+00:02:23,600 --> 00:02:26,159
+that was sort of the crucial step
+
+73
+00:02:26,160 --> 00:02:27,159
+in my career that led me
+
+74
+00:02:27,160 --> 00:02:28,400
+to the tech industry.
+
+75
+00:02:28,401 --> 00:02:30,239
+I decided to leave New York
+
+76
+00:02:30,240 --> 00:02:31,240
+back in the late 80s
+
+77
+00:02:31,240 --> 00:02:32,160
+and moved to California,
+
+78
+00:02:32,160 --> 00:02:34,600
+where I'd grown up, in the Bay Area.
+
+79
+00:02:34,600 --> 00:02:36,520
+And I decided,
+
+80
+00:02:36,520 --> 00:02:38,160
+based on advice from a friend,
+
+81
+00:02:38,160 --> 00:02:39,800
+that I was going to try to become
+
+82
+00:02:39,800 --> 00:02:40,720
+a technical writer,
+
+83
+00:02:40,720 --> 00:02:42,400
+because what technical writers do
+
+84
+00:02:42,400 --> 00:02:44,040
+is actually translate
+
+85
+00:02:44,040 --> 00:02:46,400
+technical information into something
+
+86
+00:02:46,400 --> 00:02:47,920
+digestible and understandable
+
+87
+00:02:47,921 --> 00:02:49,079
+by a layperson.
+
+88
+00:02:49,080 --> 00:02:52,759
+And so, this is like 1989 timeframe.
+
+89
+00:02:52,760 --> 00:02:54,999
+And I was applying to the very few
+
+90
+00:02:55,000 --> 00:02:57,400
+software companies that were around,
+
+91
+00:02:57,400 --> 00:02:59,640
+and one of them happened to be Adobe.
+
+92
+00:02:59,640 --> 00:03:02,080
+And so, back in 1989,
+
+93
+00:03:02,080 --> 00:03:04,240
+I'm having this interview at Adobe
+
+94
+00:03:04,240 --> 00:03:05,920
+and they're asking me questions like,
+
+95
+00:03:05,920 --> 00:03:07,360
+"What do you know about
+
+96
+00:03:07,360 --> 00:03:09,680
+print reproduction and photography?"
+
+97
+00:03:09,680 --> 00:03:11,320
+And the answer to all of those
+
+98
+00:03:11,320 --> 00:03:13,040
+questions was, "I know nothing".
+
+99
+00:03:13,041 --> 00:03:14,799
+But they hired me
+
+100
+00:03:14,800 --> 00:03:16,200
+to be a technical writer
+
+101
+00:03:16,200 --> 00:03:18,680
+and my first assignment was to write
+
+102
+00:03:18,680 --> 00:03:22,440
+the tutorial for Photoshop version 1.0.
+
+103
+00:03:22,440 --> 00:03:24,480
+No. Really?
+
+104
+00:03:24,480 --> 00:03:25,360
+Yes. Seriously.
+
+105
+00:03:25,360 --> 00:03:26,320
+Yes. Yes.
+
+106
+00:03:26,320 --> 00:03:27,840
+And if you give me a minute,
+
+107
+00:03:27,840 --> 00:03:29,240
+I'll probably, I have a copy here,
+
+108
+00:03:29,240 --> 00:03:31,160
+I'm sure. I'll pull it out of my drawer.
+
+109
+00:03:31,160 --> 00:03:34,040
+Wow, that is so cool.
+
+110
+00:03:34,040 --> 00:03:35,520
+Can you see that?
+
+111
+00:03:35,560 --> 00:03:37,000
+Yeah.
+
+112
+00:03:37,120 --> 00:03:37,600
+Wow.
+
+113
+00:03:37,600 --> 00:03:38,920
+That was 1989.
+
+114
+00:03:38,920 --> 00:03:40,440
+It actually came out in 1990.
+
+115
+00:03:40,440 --> 00:03:42,360
+So, that was my first job in tech.
+
+116
+00:03:42,360 --> 00:03:43,880
+You wrote a book basically.
+
+117
+00:03:43,880 --> 00:03:46,720
+That was your first published book.
+
+118
+00:03:46,720 --> 00:03:47,200
+Exactly.
+
+119
+00:03:47,201 --> 00:03:48,679
+That is just incredible.
+
+120
+00:03:48,680 --> 00:03:50,639
+And I wrote several after
+
+121
+00:03:50,640 --> 00:03:52,959
+for Photoshop and Illustrator
+
+122
+00:03:52,960 --> 00:03:53,680
+and Premier
+
+123
+00:03:53,680 --> 00:03:55,280
+and all sorts of Adobe products.
+
+124
+00:03:55,280 --> 00:03:56,200
+And then,
+
+125
+00:03:56,200 --> 00:03:57,240
+what happened after that is
+
+126
+00:03:57,240 --> 00:03:58,040
+because I was young
+
+127
+00:03:58,040 --> 00:03:59,400
+and it was early days
+
+128
+00:03:59,400 --> 00:04:00,520
+and there were so much going on
+
+129
+00:04:00,520 --> 00:04:02,680
+in Silicon Valley, so I moved around
+
+130
+00:04:02,680 --> 00:04:03,840
+from company to company.
+
+131
+00:04:03,840 --> 00:04:07,600
+So, I went from Adobe to Symantec.
+
+132
+00:04:07,920 --> 00:04:08,920
+Actually, that's not the order.
+
+133
+00:04:08,920 --> 00:04:12,480
+I went from Adobe to EFI to a startup,
+
+134
+00:04:12,480 --> 00:04:14,360
+Symantec and then finally Autodesk.
+
+135
+00:04:14,360 --> 00:04:16,480
+So, I basically, in 10 years
+
+136
+00:04:16,480 --> 00:04:18,040
+from '89 to '99,
+
+137
+00:04:18,040 --> 00:04:19,080
+I was a technical writer
+
+138
+00:04:19,080 --> 00:04:20,160
+at five different companies
+
+139
+00:04:20,160 --> 00:04:22,440
+in the Valley, and then in '99,
+
+140
+00:04:22,440 --> 00:04:23,720
+I landed at Autodesk.
+
+141
+00:04:23,720 --> 00:04:26,560
+And I ended up staying at Autodesk
+
+142
+00:04:26,560 --> 00:04:27,600
+for 20 years.
+
+143
+00:04:27,600 --> 00:04:30,320
+And I went on this crazy journey, right.
+
+144
+00:04:30,320 --> 00:04:32,000
+So, talk to me about this crazy journey
+
+145
+00:04:32,000 --> 00:04:33,480
+because you end up
+
+146
+00:04:33,480 --> 00:04:35,760
+as vice president at Autodesk,
+
+147
+00:04:35,760 --> 00:04:37,120
+which is incredible itself.
+
+148
+00:04:37,120 --> 00:04:39,000
+But it's always the journey
+
+149
+00:04:39,000 --> 00:04:40,000
+that's even more impressive.
+
+150
+00:04:40,000 --> 00:04:41,440
+So, talk to me about the different
+
+151
+00:04:41,440 --> 00:04:43,000
+stepping blocks that you've gone through
+
+152
+00:04:43,000 --> 00:04:45,840
+during your time at Autodesk.
+
+153
+00:04:45,840 --> 00:04:46,640
+Well, as I said,
+
+154
+00:04:46,640 --> 00:04:49,200
+I started as a writer back in '99.
+
+155
+00:04:49,200 --> 00:04:50,360
+And what happened
+
+156
+00:04:50,360 --> 00:04:51,760
+pretty soon after I started
+
+157
+00:04:51,760 --> 00:04:53,960
+is that my manager decided
+
+158
+00:04:53,960 --> 00:04:56,280
+that she wanted me to be a manager.
+
+159
+00:04:56,280 --> 00:04:57,840
+She said she needed a manager,
+
+160
+00:04:57,840 --> 00:04:59,840
+she needed someone to manage the writers,
+
+161
+00:04:59,840 --> 00:05:01,680
+and she saw potential in me
+
+162
+00:05:01,680 --> 00:05:03,240
+for leadership and management.
+
+163
+00:05:03,241 --> 00:05:05,439
+And I hadn't aspired to that at all.
+
+164
+00:05:05,440 --> 00:05:06,720
+Michael, I was just,
+
+165
+00:05:06,720 --> 00:05:09,000
+I was happy doing writing.
+
+166
+00:05:09,000 --> 00:05:09,720
+And yet I said,
+
+167
+00:05:09,721 --> 00:05:10,759
+"Well, I'll give it a try."
+
+168
+00:05:10,760 --> 00:05:12,639
+She kind of twisted my arm.
+
+169
+00:05:12,640 --> 00:05:15,359
+And so, I started being a manager
+
+170
+00:05:15,360 --> 00:05:17,200
+of other technical writers.
+
+171
+00:05:17,201 --> 00:05:18,279
+And then it turned out,
+
+172
+00:05:18,280 --> 00:05:20,039
+I love that, because
+
+173
+00:05:20,040 --> 00:05:21,439
+I'm very much a people person
+
+174
+00:05:21,440 --> 00:05:23,200
+and I love the figuring out
+
+175
+00:05:23,201 --> 00:05:23,999
+how people tick
+
+176
+00:05:24,000 --> 00:05:25,080
+and that everyone's different
+
+177
+00:05:25,080 --> 00:05:26,960
+and that you can't manage
+
+178
+00:05:26,960 --> 00:05:28,600
+10 different people in the same way.
+
+179
+00:05:28,600 --> 00:05:31,400
+And so, I got into management
+
+180
+00:05:31,400 --> 00:05:33,680
+and then I did that for several years,
+
+181
+00:05:33,680 --> 00:05:35,200
+leading the technical writers.
+
+182
+00:05:35,200 --> 00:05:37,480
+And then I decided I was bored.
+
+183
+00:05:37,480 --> 00:05:39,320
+And I'd been doing technical writing
+
+184
+00:05:39,320 --> 00:05:40,440
+for 10 years.
+
+185
+00:05:40,440 --> 00:05:41,520
+And I've managed writers
+
+186
+00:05:41,520 --> 00:05:42,240
+for a few more years.
+
+187
+00:05:42,240 --> 00:05:43,400
+And I'm like, I want to learn
+
+188
+00:05:43,400 --> 00:05:44,440
+something totally new.
+
+189
+00:05:44,440 --> 00:05:46,040
+This is kind of how I am when I,
+
+190
+00:05:46,040 --> 00:05:47,320
+that's why I moved around so much
+
+191
+00:05:47,320 --> 00:05:48,880
+for those first 10 years.
+
+192
+00:05:48,880 --> 00:05:50,240
+I just wanted to learn new things.
+
+193
+00:05:50,240 --> 00:05:52,120
+So, I started looking around
+
+194
+00:05:52,120 --> 00:05:53,720
+for a new job,
+
+195
+00:05:53,720 --> 00:05:56,280
+both inside of Autodesk and outside.
+
+196
+00:05:56,280 --> 00:05:57,280
+And it turned out there was this
+
+197
+00:05:57,280 --> 00:05:59,440
+really interesting job internally
+
+198
+00:05:59,440 --> 00:06:01,840
+to lead a team of engineers
+
+199
+00:06:01,840 --> 00:06:04,000
+who were managing our software
+
+200
+00:06:04,000 --> 00:06:05,080
+for localization.
+
+201
+00:06:05,080 --> 00:06:06,840
+So, for those of you who don't know,
+
+202
+00:06:06,840 --> 00:06:08,360
+localization is actually
+
+203
+00:06:08,360 --> 00:06:09,680
+getting everything translated
+
+204
+00:06:09,680 --> 00:06:12,120
+and ready for international markets.
+
+205
+00:06:12,120 --> 00:06:14,280
+And there's this very specific software
+
+206
+00:06:14,280 --> 00:06:15,880
+that they were managing
+
+207
+00:06:15,880 --> 00:06:17,560
+that was really complex
+
+208
+00:06:17,560 --> 00:06:19,360
+and they needed a new manager
+
+209
+00:06:19,360 --> 00:06:20,320
+for the team.
+
+210
+00:06:20,320 --> 00:06:21,960
+So, I applied for that job
+
+211
+00:06:21,961 --> 00:06:23,559
+and that was for me,
+
+212
+00:06:23,560 --> 00:06:25,320
+a real stepping stone because,
+
+213
+00:06:25,320 --> 00:06:27,040
+you know, going from managing writers
+
+214
+00:06:27,040 --> 00:06:28,480
+where I could do the work
+
+215
+00:06:28,480 --> 00:06:29,640
+to managing engineers,
+
+216
+00:06:29,640 --> 00:06:30,440
+where I couldn't do
+
+217
+00:06:30,440 --> 00:06:31,800
+the work that they did
+
+218
+00:06:31,800 --> 00:06:34,320
+was a real big jump for me.
+
+219
+00:06:34,320 --> 00:06:36,280
+And I had to interview
+
+220
+00:06:36,280 --> 00:06:38,160
+with a zillion people to get that job.
+
+221
+00:06:38,160 --> 00:06:39,680
+And I got it.
+
+222
+00:06:39,680 --> 00:06:41,560
+So, that was my first job
+
+223
+00:06:41,561 --> 00:06:43,839
+out of my comfort zone, really.
+
+224
+00:06:43,840 --> 00:06:44,639
+That's incredible.
+
+225
+00:06:44,640 --> 00:06:46,240
+And I have to understand
+
+226
+00:06:46,240 --> 00:06:47,520
+a little bit better this process
+
+227
+00:06:47,520 --> 00:06:49,160
+of being a technical writer.
+
+228
+00:06:49,160 --> 00:06:50,680
+And for example,
+
+229
+00:06:50,680 --> 00:06:54,200
+taking the Photoshop version 1.0
+
+230
+00:06:54,200 --> 00:06:56,560
+guide for the layperson,
+
+231
+00:06:56,560 --> 00:06:57,880
+talk to me a little bit
+
+232
+00:06:57,880 --> 00:06:58,640
+about that process,
+
+233
+00:06:58,640 --> 00:07:00,160
+I don't think neither myself
+
+234
+00:07:00,160 --> 00:07:01,520
+nor most of my friends know really
+
+235
+00:07:01,520 --> 00:07:04,560
+what goes into writing these guides.
+
+236
+00:07:04,560 --> 00:07:07,520
+So, how does that process actually look?
+
+237
+00:07:07,520 --> 00:07:08,520
+Yeah, and you know, it's so interesting.
+
+238
+00:07:08,520 --> 00:07:09,760
+I mean, even the terminology,
+
+239
+00:07:09,760 --> 00:07:10,840
+I don't think we even use the term
+
+240
+00:07:10,840 --> 00:07:12,000
+technical writer anymore.
+
+241
+00:07:12,000 --> 00:07:13,800
+It's often content designer,
+
+242
+00:07:13,800 --> 00:07:14,800
+content developer
+
+243
+00:07:14,800 --> 00:07:16,120
+is much more common now.
+
+244
+00:07:16,120 --> 00:07:18,280
+And is often seem as part of design
+
+245
+00:07:18,280 --> 00:07:19,920
+and UX and all of that.
+
+246
+00:07:19,920 --> 00:07:20,560
+But back in the day,
+
+247
+00:07:20,560 --> 00:07:21,640
+we called it technical writing.
+
+248
+00:07:21,640 --> 00:07:23,560
+But what it really is and, you know,
+
+249
+00:07:23,560 --> 00:07:24,720
+you have all,
+
+250
+00:07:24,721 --> 00:07:26,279
+you and everyone else,
+
+251
+00:07:26,280 --> 00:07:27,559
+whoever listens to this
+
+252
+00:07:27,560 --> 00:07:29,639
+has experienced bad technical writing.
+
+253
+00:07:29,640 --> 00:07:31,159
+It's when you buy something
+
+254
+00:07:31,160 --> 00:07:32,759
+and you get the instructions
+
+255
+00:07:32,760 --> 00:07:33,839
+and you can't follow them
+
+256
+00:07:33,840 --> 00:07:34,959
+or they're just plain wrong
+
+257
+00:07:34,960 --> 00:07:36,279
+or they don't make sense.
+
+258
+00:07:36,280 --> 00:07:38,039
+What good technical writing is,
+
+259
+00:07:38,040 --> 00:07:40,039
+is that the writer sits down
+
+260
+00:07:40,040 --> 00:07:41,759
+and truly learns the software
+
+261
+00:07:41,760 --> 00:07:43,400
+like Inside and out or whatever it is,
+
+262
+00:07:43,401 --> 00:07:44,719
+hardware, software.
+
+263
+00:07:44,720 --> 00:07:46,919
+I spent, and my process was
+
+264
+00:07:46,920 --> 00:07:48,040
+I would learn everything I could
+
+265
+00:07:48,040 --> 00:07:49,120
+on my own, and I would read
+
+266
+00:07:49,121 --> 00:07:50,399
+whatever specifications,
+
+267
+00:07:50,400 --> 00:07:52,199
+I would play with the software.
+
+268
+00:07:52,200 --> 00:07:53,239
+But then I would sit down
+
+269
+00:07:53,240 --> 00:07:54,200
+with the engineers,
+
+270
+00:07:54,201 --> 00:07:56,119
+the developers of the software and say,
+
+271
+00:07:56,120 --> 00:07:57,799
+explain this to me
+
+272
+00:07:57,800 --> 00:08:00,400
+so that I completely understood it,
+
+273
+00:08:00,400 --> 00:08:02,760
+and only then could I write about it.
+
+274
+00:08:02,760 --> 00:08:03,680
+Because, I mean,
+
+275
+00:08:03,680 --> 00:08:05,240
+if you've ever tried to explain something
+
+276
+00:08:05,240 --> 00:08:06,600
+you don't understand,
+
+277
+00:08:06,600 --> 00:08:07,960
+it doesn't work, right?
+
+278
+00:08:07,960 --> 00:08:10,680
+But if you understand it, you can take
+
+279
+00:08:10,680 --> 00:08:13,480
+what is complex and make it simple.
+
+280
+00:08:13,480 --> 00:08:14,840
+And I think people,
+
+281
+00:08:14,840 --> 00:08:15,640
+this is one of the things
+
+282
+00:08:15,640 --> 00:08:16,440
+I really learned,
+
+283
+00:08:16,440 --> 00:08:18,400
+and as I got better as a writer is,
+
+284
+00:08:18,400 --> 00:08:19,680
+how can you take something
+
+285
+00:08:19,680 --> 00:08:21,480
+infinitely complicated
+
+286
+00:08:21,480 --> 00:08:23,160
+and make it as simple as possible.
+
+287
+00:08:23,160 --> 00:08:25,000
+And that was always my goal.
+
+288
+00:08:25,000 --> 00:08:27,280
+Now, you mentioned to me
+
+289
+00:08:27,280 --> 00:08:29,560
+before this that, you know,
+
+290
+00:08:29,560 --> 00:08:30,880
+going back to your major,
+
+291
+00:08:30,880 --> 00:08:32,720
+drama in French, it's kind of played
+
+292
+00:08:32,720 --> 00:08:35,040
+an interesting role in your career
+
+293
+00:08:35,040 --> 00:08:36,200
+as it was unfolding
+
+294
+00:08:36,200 --> 00:08:38,400
+into the different perspectives.
+
+295
+00:08:38,400 --> 00:08:41,040
+And the skill sets that you had,
+
+296
+00:08:41,040 --> 00:08:42,800
+while they didn't seem to align
+
+297
+00:08:42,800 --> 00:08:45,120
+with the positions and what you had to,
+
+298
+00:08:45,120 --> 00:08:46,640
+would you had to use,
+
+299
+00:08:46,640 --> 00:08:48,360
+they actually were pretty beneficial.
+
+300
+00:08:48,360 --> 00:08:49,240
+Tell me a little bit about
+
+301
+00:08:49,240 --> 00:08:51,160
+how that came about.
+
+302
+00:08:51,160 --> 00:08:52,960
+Yeah, I thought about that over the years
+
+303
+00:08:52,960 --> 00:08:55,000
+because it's not necessarily obvious.
+
+304
+00:08:55,000 --> 00:08:56,720
+But, you know, one thing I think is
+
+305
+00:08:56,720 --> 00:08:58,120
+whenever you study
+
+306
+00:08:58,120 --> 00:08:59,480
+and learn a foreign language,
+
+307
+00:08:59,480 --> 00:09:00,560
+and I lived in France
+
+308
+00:09:00,560 --> 00:09:01,960
+and I'm really fluent in French,
+
+309
+00:09:01,960 --> 00:09:03,720
+so I was able to immerse myself
+
+310
+00:09:03,720 --> 00:09:05,440
+in another language and culture.
+
+311
+00:09:05,440 --> 00:09:08,160
+I think that makes you just much more
+
+312
+00:09:08,160 --> 00:09:11,040
+adaptable to different cultures
+
+313
+00:09:11,040 --> 00:09:12,360
+and different perspectives.
+
+314
+00:09:12,360 --> 00:09:13,560
+Because you've learned to think
+
+315
+00:09:13,560 --> 00:09:14,840
+in another language.
+
+316
+00:09:14,840 --> 00:09:16,640
+I think that really helps in just,
+
+317
+00:09:16,640 --> 00:09:17,280
+I mean, I've worked in
+
+318
+00:09:17,280 --> 00:09:18,680
+very international companies
+
+319
+00:09:18,680 --> 00:09:20,160
+so working with people
+
+320
+00:09:20,160 --> 00:09:21,520
+from different cultures
+
+321
+00:09:21,520 --> 00:09:23,160
+whose first language is not English.
+
+322
+00:09:23,160 --> 00:09:24,320
+And so to me,
+
+323
+00:09:24,320 --> 00:09:27,720
+it's always about communicating clearly,
+
+324
+00:09:27,720 --> 00:09:29,640
+trying to understand the other person.
+
+325
+00:09:29,640 --> 00:09:31,160
+And I think that has really
+
+326
+00:09:31,160 --> 00:09:32,000
+served me well.
+
+327
+00:09:32,000 --> 00:09:33,720
+And then from drama, I mean,
+
+328
+00:09:33,720 --> 00:09:35,240
+drama is one of these
+
+329
+00:09:35,240 --> 00:09:36,760
+underestimated skills, I think,
+
+330
+00:09:36,760 --> 00:09:38,120
+because certainly acting
+
+331
+00:09:38,120 --> 00:09:40,440
+you learn to listen
+
+332
+00:09:40,440 --> 00:09:41,400
+to the other person.
+
+333
+00:09:41,400 --> 00:09:42,520
+You learn to improvise
+
+334
+00:09:42,520 --> 00:09:44,720
+because unexpected things happen.
+
+335
+00:09:44,720 --> 00:09:46,840
+You learn to communicate in both
+
+336
+00:09:46,840 --> 00:09:48,800
+verbal and non-verbal ways.
+
+337
+00:09:48,800 --> 00:09:49,360
+And you learn,
+
+338
+00:09:49,360 --> 00:09:50,680
+I think the thing that
+
+339
+00:09:50,680 --> 00:09:52,600
+certainly stage acting and I know,
+
+340
+00:09:52,600 --> 00:09:53,840
+I never did film,
+
+341
+00:09:53,840 --> 00:09:54,920
+but I know this is true,
+
+342
+00:09:54,921 --> 00:09:57,279
+it's such a collaborative process.
+
+343
+00:09:57,280 --> 00:09:58,399
+You know, the actor
+
+344
+00:09:58,400 --> 00:09:59,960
+is only as good as the director
+
+345
+00:09:59,960 --> 00:10:01,560
+and the lighting and the costumes
+
+346
+00:10:01,561 --> 00:10:02,879
+and everything else.
+
+347
+00:10:02,880 --> 00:10:04,719
+And what I loved about theater is
+
+348
+00:10:04,720 --> 00:10:06,039
+the collaborative nature of it,
+
+349
+00:10:06,040 --> 00:10:07,839
+and I really saw the parallels
+
+350
+00:10:07,840 --> 00:10:09,439
+in developing software.
+
+351
+00:10:09,440 --> 00:10:10,799
+Because software
+
+352
+00:10:10,800 --> 00:10:12,839
+is not just the software developer,
+
+353
+00:10:12,840 --> 00:10:13,680
+it's the designer,
+
+354
+00:10:13,680 --> 00:10:14,800
+it's the product manager,
+
+355
+00:10:14,800 --> 00:10:15,720
+it's the marketing people
+
+356
+00:10:15,720 --> 00:10:17,040
+and the salespeople and those
+
+357
+00:10:17,040 --> 00:10:19,360
+technical writers and the QA people.
+
+358
+00:10:19,360 --> 00:10:20,480
+And all of that
+
+359
+00:10:20,480 --> 00:10:22,080
+is what makes a great product.
+
+360
+00:10:22,080 --> 00:10:23,760
+And that's the same in theater.
+
+361
+00:10:23,760 --> 00:10:25,440
+So, I think all of the skills
+
+362
+00:10:25,440 --> 00:10:27,000
+are transportable.
+
+363
+00:10:27,000 --> 00:10:28,480
+I have to look back
+
+364
+00:10:28,480 --> 00:10:29,840
+to my high school days,
+
+365
+00:10:29,840 --> 00:10:31,760
+I was a huge musical theater geek.
+
+366
+00:10:31,760 --> 00:10:33,800
+I still am a musical theater fan,
+
+367
+00:10:33,800 --> 00:10:36,160
+but I used to take part in every musical
+
+368
+00:10:36,160 --> 00:10:38,280
+and every play that we had in school.
+
+369
+00:10:38,280 --> 00:10:40,040
+My dream as a child was to be
+
+370
+00:10:40,040 --> 00:10:41,600
+an actor on stage
+
+371
+00:10:41,600 --> 00:10:42,520
+for the rest of my life.
+
+372
+00:10:42,520 --> 00:10:44,080
+It turned out that I fell in love
+
+373
+00:10:44,080 --> 00:10:45,880
+with computers and software.
+
+374
+00:10:45,880 --> 00:10:47,680
+And so, that's where I'm at now.
+
+375
+00:10:47,680 --> 00:10:49,000
+But looking back,
+
+376
+00:10:49,000 --> 00:10:51,560
+I see it in every single
+
+377
+00:10:51,560 --> 00:10:52,280
+aspect of my life.
+
+378
+00:10:52,280 --> 00:10:53,640
+I see it in my relationships,
+
+379
+00:10:53,640 --> 00:10:54,360
+I see it in the way
+
+380
+00:10:54,360 --> 00:10:55,720
+that I communicate with people,
+
+381
+00:10:55,720 --> 00:10:56,800
+this collaborative nature
+
+382
+00:10:56,800 --> 00:10:57,360
+of what you're saying
+
+383
+00:10:57,360 --> 00:10:58,440
+and you've mentioned that
+
+384
+00:10:58,440 --> 00:10:59,400
+you're only as good
+
+385
+00:10:59,400 --> 00:11:01,240
+as you are as a group.
+
+386
+00:11:01,240 --> 00:11:02,560
+And being on stage,
+
+387
+00:11:02,560 --> 00:11:03,680
+I remember in the shows,
+
+388
+00:11:03,680 --> 00:11:04,640
+you know, we were kids,
+
+389
+00:11:04,640 --> 00:11:06,040
+we've made mistakes all the time.
+
+390
+00:11:06,040 --> 00:11:07,240
+Somebody would forget their lines
+
+391
+00:11:07,240 --> 00:11:08,600
+in the middle of the play
+
+392
+00:11:08,600 --> 00:11:10,800
+or this prop would fall from the sky.
+
+393
+00:11:10,800 --> 00:11:12,440
+And we would find ourselves
+
+394
+00:11:12,440 --> 00:11:14,560
+in this situation where we realized that,
+
+395
+00:11:14,560 --> 00:11:16,720
+you know, we can't look good
+
+396
+00:11:16,720 --> 00:11:17,960
+if we distance ourselves
+
+397
+00:11:17,960 --> 00:11:19,200
+from the problem.
+
+398
+00:11:19,200 --> 00:11:21,160
+We have to go at it together.
+
+399
+00:11:21,160 --> 00:11:22,880
+And if we try to distance ourselves,
+
+400
+00:11:22,880 --> 00:11:24,360
+we're only doing harm both to ourselves
+
+401
+00:11:24,360 --> 00:11:26,240
+and to everybody else.
+
+402
+00:11:26,240 --> 00:11:27,920
+And so, I really, really appreciate
+
+403
+00:11:27,920 --> 00:11:28,520
+this insight
+
+404
+00:11:28,520 --> 00:11:30,840
+and I couldn't agree more with it.
+
+405
+00:11:30,840 --> 00:11:33,120
+Yeah, so it's not obvious
+
+406
+00:11:33,120 --> 00:11:34,120
+that drama and French
+
+407
+00:11:34,120 --> 00:11:35,280
+are the perfect preparation
+
+408
+00:11:35,280 --> 00:11:37,200
+to eventually become VP of engineering
+
+409
+00:11:37,200 --> 00:11:38,400
+at a software company.
+
+410
+00:11:38,400 --> 00:11:39,280
+But in my mind,
+
+411
+00:11:39,280 --> 00:11:40,760
+it couldn't have been better, honestly.
+
+412
+00:11:40,760 --> 00:11:42,360
+So, if anybody's listening to this
+
+413
+00:11:42,360 --> 00:11:44,360
+from Stanford and they're studying CS,
+
+414
+00:11:44,360 --> 00:11:46,440
+consider moving to the drama
+
+415
+00:11:46,440 --> 00:11:48,040
+or foreign language departments
+
+416
+00:11:48,040 --> 00:11:51,840
+and you'll get perhaps to the same spot.
+
+417
+00:11:51,840 --> 00:11:53,760
+But Minette, along the way,
+
+418
+00:11:53,760 --> 00:11:56,480
+you make this pretty radical transition
+
+419
+00:11:56,480 --> 00:11:57,880
+from being vice president
+
+420
+00:11:57,880 --> 00:12:00,200
+at an amazing company like Autodesk
+
+421
+00:12:00,200 --> 00:12:03,120
+to starting to speak to others
+
+422
+00:12:03,120 --> 00:12:05,440
+and to share some of the key insights
+
+423
+00:12:05,440 --> 00:12:06,960
+that you've gained along your career.
+
+424
+00:12:06,960 --> 00:12:08,760
+Some of it is about compassion,
+
+425
+00:12:08,760 --> 00:12:10,640
+about empathy, about acceptance.
+
+426
+00:12:10,640 --> 00:12:14,320
+So, what are some of those insights?
+
+427
+00:12:14,320 --> 00:12:15,920
+Well, I think I have to backtrack
+
+428
+00:12:15,920 --> 00:12:16,960
+a little bit
+
+429
+00:12:16,960 --> 00:12:18,920
+to tell you how I got to that.
+
+430
+00:12:18,920 --> 00:12:21,560
+So, we sort of stopped with my career
+
+431
+00:12:21,560 --> 00:12:23,880
+that I got to manage some engineers.
+
+432
+00:12:23,880 --> 00:12:25,600
+And then many years went by
+
+433
+00:12:25,600 --> 00:12:26,880
+and I ended up taking on
+
+434
+00:12:26,880 --> 00:12:28,920
+a series of other leadership positions
+
+435
+00:12:28,920 --> 00:12:29,520
+in the company.
+
+436
+00:12:29,520 --> 00:12:32,440
+But to get to that VP of engineering job,
+
+437
+00:12:32,440 --> 00:12:34,480
+I had gotten to a senior director role,
+
+438
+00:12:34,480 --> 00:12:36,440
+I led a big department in the company,
+
+439
+00:12:36,440 --> 00:12:38,440
+but to get to that VP role,
+
+440
+00:12:38,440 --> 00:12:40,400
+I had to basically,
+
+441
+00:12:40,400 --> 00:12:41,760
+the guy who was hiring
+
+442
+00:12:41,760 --> 00:12:43,480
+for that role said,
+
+443
+00:12:43,480 --> 00:12:44,320
+"You know Minette,
+
+444
+00:12:44,320 --> 00:12:45,920
+you've got a great track record here,
+
+445
+00:12:45,920 --> 00:12:47,400
+I know you're a good leader,
+
+446
+00:12:47,400 --> 00:12:49,080
+but you have two strikes against you."
+
+447
+00:12:49,080 --> 00:12:50,400
+And he was very clear
+
+448
+00:12:50,400 --> 00:12:51,440
+about those two strikes.
+
+449
+00:12:51,440 --> 00:12:51,760
+He said,
+
+450
+00:12:51,760 --> 00:12:54,080
+"One, you were never an engineer.
+
+451
+00:12:54,080 --> 00:12:56,080
+So, you have to gain credibility
+
+452
+00:12:56,080 --> 00:12:58,240
+with the engineering community
+
+453
+00:12:58,240 --> 00:13:00,080
+because although you've been in tech
+
+454
+00:13:00,081 --> 00:13:01,279
+and you are technical,
+
+455
+00:13:01,280 --> 00:13:03,600
+you weren't the one developing software.
+
+456
+00:13:03,600 --> 00:13:05,600
+So you've got to gain credibility."
+
+457
+00:13:05,600 --> 00:13:07,080
+And two, he said,
+
+458
+00:13:07,080 --> 00:13:08,160
+"You're a woman.
+
+459
+00:13:08,160 --> 00:13:09,880
+And the engineering leadership here
+
+460
+00:13:09,880 --> 00:13:11,640
+is a boys club.
+
+461
+00:13:11,640 --> 00:13:12,720
+And so, you're going to have
+
+462
+00:13:12,721 --> 00:13:14,199
+to break into the boys club."
+
+463
+00:13:14,200 --> 00:13:15,720
+And so what happened is
+
+464
+00:13:15,720 --> 00:13:17,160
+I did not get the job right away.
+
+465
+00:13:17,160 --> 00:13:19,080
+I had to do a 90 day trial.
+
+466
+00:13:19,080 --> 00:13:20,400
+And during those 90 day,
+
+467
+00:13:20,400 --> 00:13:21,960
+yeah, I did an acting role.
+
+468
+00:13:21,960 --> 00:13:24,400
+So, I was acting VP for three months.
+
+469
+00:13:24,400 --> 00:13:26,640
+And yeah,
+
+470
+00:13:26,640 --> 00:13:27,920
+and during those three months,
+
+471
+00:13:27,920 --> 00:13:30,320
+I basically had to win the endorsements
+
+472
+00:13:30,320 --> 00:13:31,720
+of all the engineering leaders
+
+473
+00:13:31,720 --> 00:13:32,600
+in the company.
+
+474
+00:13:32,600 --> 00:13:33,760
+And they happened, at that time,
+
+475
+00:13:33,760 --> 00:13:35,520
+to be all men.
+
+476
+00:13:35,560 --> 00:13:35,879
+Wow.
+
+477
+00:13:35,880 --> 00:13:38,240
+So, you were acting VP for three months.
+
+478
+00:13:38,240 --> 00:13:39,280
+You have to get the acceptance
+
+479
+00:13:39,280 --> 00:13:40,880
+of that boys club.
+
+480
+00:13:40,880 --> 00:13:42,240
+Okay. That's incredible.
+
+481
+00:13:42,240 --> 00:13:43,480
+Go on.
+
+482
+00:13:43,480 --> 00:13:45,360
+So, I did.
+
+483
+00:13:45,360 --> 00:13:46,640
+I mean, it's a long story,
+
+484
+00:13:46,641 --> 00:13:47,719
+but I eventually,
+
+485
+00:13:47,720 --> 00:13:48,600
+I did get that role
+
+486
+00:13:48,600 --> 00:13:49,360
+and I did that role
+
+487
+00:13:49,360 --> 00:13:50,840
+for about five years.
+
+488
+00:13:50,840 --> 00:13:52,560
+And during the time,
+
+489
+00:13:52,560 --> 00:13:53,800
+and my goal,
+
+490
+00:13:53,800 --> 00:13:55,840
+what I was basically assigned to do
+
+491
+00:13:55,840 --> 00:13:58,480
+was to transform engineering at Autodesk,
+
+492
+00:13:58,480 --> 00:14:00,440
+which is, you can imagine, a huge task.
+
+493
+00:14:00,440 --> 00:14:02,760
+It was about 9,000 people
+
+494
+00:14:02,760 --> 00:14:03,560
+when I was there,
+
+495
+00:14:03,560 --> 00:14:05,800
+about 3,500 engineers.
+
+496
+00:14:05,800 --> 00:14:08,480
+And I realized none of this
+
+497
+00:14:08,480 --> 00:14:10,000
+is a technical problem.
+
+498
+00:14:10,000 --> 00:14:11,840
+I mean we had a lot of issues,
+
+499
+00:14:11,840 --> 00:14:13,840
+we had all these different platforms
+
+500
+00:14:13,840 --> 00:14:16,040
+and we had to really consolidate tools.
+
+501
+00:14:16,040 --> 00:14:17,960
+But it was a behavioral issue,
+
+502
+00:14:17,960 --> 00:14:19,200
+it was a people issue
+
+503
+00:14:19,200 --> 00:14:20,680
+and it was culture.
+
+504
+00:14:20,680 --> 00:14:21,720
+It was all about culture
+
+505
+00:14:21,720 --> 00:14:23,240
+and how we behaved.
+
+506
+00:14:23,240 --> 00:14:25,360
+And I got, as in that role is like,
+
+507
+00:14:25,360 --> 00:14:26,880
+yeah, I had a great staff,
+
+508
+00:14:26,880 --> 00:14:28,040
+I had very technical people
+
+509
+00:14:28,040 --> 00:14:29,360
+working under me,
+
+510
+00:14:29,360 --> 00:14:30,680
+but what I needed to do
+
+511
+00:14:30,680 --> 00:14:32,240
+was really talk about
+
+512
+00:14:32,240 --> 00:14:33,680
+how are we going to behave differently,
+
+513
+00:14:33,680 --> 00:14:35,120
+how are we going to collaborate,
+
+514
+00:14:35,120 --> 00:14:37,240
+how are we going to work
+
+515
+00:14:37,240 --> 00:14:38,400
+more effectively together.
+
+516
+00:14:38,400 --> 00:14:40,080
+And so I got myself a
+
+517
+00:14:40,080 --> 00:14:41,120
+big education really
+
+518
+00:14:41,120 --> 00:14:43,360
+through reading and being online
+
+519
+00:14:43,360 --> 00:14:44,960
+and just reading a zillion books
+
+520
+00:14:44,960 --> 00:14:46,480
+about human behavior.
+
+521
+00:14:46,480 --> 00:14:49,800
+And I also became a real advocate
+
+522
+00:14:49,800 --> 00:14:51,760
+for women and for people of color,
+
+523
+00:14:51,760 --> 00:14:54,160
+because even though I am a white woman,
+
+524
+00:14:54,160 --> 00:14:55,600
+I was very much in the minority
+
+525
+00:14:55,600 --> 00:14:58,120
+because engineering is so male.
+
+526
+00:14:58,120 --> 00:15:00,920
+And so, I often felt other,
+
+527
+00:15:00,920 --> 00:15:03,200
+I often felt like I didn't fit in,
+
+528
+00:15:03,200 --> 00:15:04,320
+like I wasn't included.
+
+529
+00:15:04,320 --> 00:15:06,640
+And I wanted to change that.
+
+530
+00:15:06,640 --> 00:15:08,800
+And so, when I finally left Autodesk
+
+531
+00:15:08,800 --> 00:15:11,800
+after 20 years, I left last year,
+
+532
+00:15:11,800 --> 00:15:12,360
+I realized, you know,
+
+533
+00:15:12,360 --> 00:15:13,720
+Autodesk is a great company,
+
+534
+00:15:13,720 --> 00:15:14,960
+but they're struggling with this,
+
+535
+00:15:14,960 --> 00:15:16,240
+all the companies
+
+536
+00:15:16,240 --> 00:15:17,760
+are struggling with inclusion.
+
+537
+00:15:17,760 --> 00:15:19,680
+Diversity, inclusion and equity.
+
+538
+00:15:19,680 --> 00:15:22,280
+And so, I wanted to bring my perspective
+
+539
+00:15:22,280 --> 00:15:23,840
+and my experience
+
+540
+00:15:23,840 --> 00:15:26,200
+and help others do better around this.
+
+541
+00:15:26,200 --> 00:15:27,200
+Because, honestly,
+
+542
+00:15:27,200 --> 00:15:28,160
+everyone's struggling
+
+543
+00:15:28,160 --> 00:15:30,440
+and everyone needs help with that.
+
+544
+00:15:30,440 --> 00:15:33,000
+Minette, you're vice president
+
+545
+00:15:33,000 --> 00:15:35,040
+in the engineering space.
+
+546
+00:15:35,040 --> 00:15:37,120
+3,500 engineers at Autodesk
+
+547
+00:15:37,120 --> 00:15:38,600
+and you're coming, you're saying,
+
+548
+00:15:38,600 --> 00:15:39,440
+talking about how this is
+
+549
+00:15:39,440 --> 00:15:40,480
+a behavioral problem,
+
+550
+00:15:40,480 --> 00:15:41,680
+its culture at the end.
+
+551
+00:15:41,680 --> 00:15:43,720
+And of course, you know, in 2020,
+
+552
+00:15:43,720 --> 00:15:45,280
+we've seen that not just in tech,
+
+553
+00:15:45,280 --> 00:15:46,240
+but around the world
+
+554
+00:15:46,240 --> 00:15:48,520
+of how big of a part
+
+555
+00:15:48,520 --> 00:15:50,000
+culture plays into our life
+
+556
+00:15:50,000 --> 00:15:52,720
+and into our ability to thrive
+
+557
+00:15:52,720 --> 00:15:54,000
+just as a planet,
+
+558
+00:15:54,000 --> 00:15:55,800
+and as a global community.
+
+559
+00:15:55,800 --> 00:15:57,760
+And I'd love for you to share
+
+560
+00:15:57,760 --> 00:16:00,160
+a little bit more into the insights
+
+561
+00:16:00,160 --> 00:16:04,640
+of how do you build a healthy culture
+
+562
+00:16:04,640 --> 00:16:06,920
+both in large, large corporation
+
+563
+00:16:06,920 --> 00:16:07,640
+like Autodesk,
+
+564
+00:16:07,640 --> 00:16:09,240
+but also in a small startup?
+
+565
+00:16:09,240 --> 00:16:11,080
+And I'm looking specifically
+
+566
+00:16:11,080 --> 00:16:12,280
+selfish insights for me
+
+567
+00:16:12,280 --> 00:16:13,360
+as I'm about to start
+
+568
+00:16:13,360 --> 00:16:14,360
+my own entrepreneurial journey
+
+569
+00:16:14,360 --> 00:16:15,080
+and for all of my friends
+
+570
+00:16:15,080 --> 00:16:16,400
+that are in their journey,
+
+571
+00:16:16,400 --> 00:16:17,720
+what are some key insights
+
+572
+00:16:17,720 --> 00:16:19,520
+that you've gained about behavior
+
+573
+00:16:19,520 --> 00:16:20,320
+and about culture
+
+574
+00:16:20,320 --> 00:16:22,680
+and diversity and inclusion?
+
+575
+00:16:22,680 --> 00:16:23,960
+Yeah.
+
+576
+00:16:24,360 --> 00:16:26,120
+Well, there's so much
+
+577
+00:16:26,120 --> 00:16:27,640
+and it is kind of hard to know
+
+578
+00:16:27,640 --> 00:16:28,280
+where to start.
+
+579
+00:16:28,281 --> 00:16:30,439
+But what I will say is that
+
+580
+00:16:30,440 --> 00:16:33,640
+the leaders really set the tone.
+
+581
+00:16:33,640 --> 00:16:35,840
+And I think, especially,
+
+582
+00:16:35,840 --> 00:16:36,960
+big companies and small,
+
+583
+00:16:36,960 --> 00:16:39,440
+but when you're a startup,
+
+584
+00:16:39,440 --> 00:16:40,640
+often, and I've seen this,
+
+585
+00:16:40,640 --> 00:16:43,400
+so much startups are going really fast.
+
+586
+00:16:43,400 --> 00:16:43,840
+We're going to build
+
+587
+00:16:43,840 --> 00:16:44,680
+something really cool,
+
+588
+00:16:44,681 --> 00:16:45,999
+we're going to get it out there,
+
+589
+00:16:46,000 --> 00:16:47,039
+we're going to try to get investment,
+
+590
+00:16:47,040 --> 00:16:48,719
+we're going to try to get customers,
+
+591
+00:16:48,720 --> 00:16:50,600
+and then later even, you know,
+
+592
+00:16:50,600 --> 00:16:52,240
+even with a startup, they'll say,
+
+593
+00:16:52,240 --> 00:16:53,360
+Oh, look, we're all men.
+
+594
+00:16:53,360 --> 00:16:54,480
+Now, we got to hire some women
+
+595
+00:16:54,480 --> 00:16:55,960
+and how are we going to do that?
+
+596
+00:16:55,960 --> 00:16:57,640
+And it's almost too late,
+
+597
+00:16:57,640 --> 00:16:59,320
+even if you're just a handful of men,
+
+598
+00:16:59,320 --> 00:17:00,560
+because, do the women
+
+599
+00:17:00,560 --> 00:17:01,320
+want to come work there,
+
+600
+00:17:01,320 --> 00:17:02,600
+do the people of color
+
+601
+00:17:02,600 --> 00:17:04,080
+want to come work there.
+
+602
+00:17:04,080 --> 00:17:05,600
+So, I think that whether
+
+603
+00:17:05,600 --> 00:17:07,080
+you're large or small,
+
+604
+00:17:07,080 --> 00:17:09,360
+starting up or a 30 year old company,
+
+605
+00:17:09,360 --> 00:17:10,520
+you need to be intentional
+
+606
+00:17:10,520 --> 00:17:12,520
+and the leaders need to set the tone
+
+607
+00:17:12,520 --> 00:17:13,960
+of being inclusive,
+
+608
+00:17:13,960 --> 00:17:15,040
+and what that means
+
+609
+00:17:15,040 --> 00:17:16,160
+in terms of leadership,
+
+610
+00:17:16,160 --> 00:17:16,680
+and this is a lot
+
+611
+00:17:16,680 --> 00:17:18,480
+of the work that I do is that
+
+612
+00:17:18,480 --> 00:17:20,760
+leaders are not omniscient
+
+613
+00:17:20,760 --> 00:17:21,920
+and they need to admit
+
+614
+00:17:21,920 --> 00:17:22,720
+what they don't know.
+
+615
+00:17:22,720 --> 00:17:24,320
+They need to be vulnerable.
+
+616
+00:17:24,321 --> 00:17:26,559
+They need to be open to listening.
+
+617
+00:17:26,560 --> 00:17:29,319
+And honestly, that is so much of what
+
+618
+00:17:29,320 --> 00:17:31,439
+I think the problem is right now
+
+619
+00:17:31,440 --> 00:17:33,680
+is that people don't know how to listen
+
+620
+00:17:33,681 --> 00:17:35,559
+to their diverse employees
+
+621
+00:17:35,560 --> 00:17:38,799
+and to hear their true experiences.
+
+622
+00:17:38,800 --> 00:17:41,239
+And I've experienced this myself.
+
+623
+00:17:41,240 --> 00:17:43,319
+A senior executive will say,
+
+624
+00:17:43,320 --> 00:17:44,959
+"Don't bring me problems,
+
+625
+00:17:44,960 --> 00:17:46,760
+bring me solutions."
+
+626
+00:17:46,800 --> 00:17:48,079
+But honestly,
+
+627
+00:17:48,080 --> 00:17:49,879
+you need to hear the problems
+
+628
+00:17:49,880 --> 00:17:51,679
+before you can even attempt
+
+629
+00:17:51,680 --> 00:17:52,759
+the solutions.
+
+630
+00:17:52,760 --> 00:17:54,759
+And you need to be uncomfortable
+
+631
+00:17:54,760 --> 00:17:55,639
+with that listening.
+
+632
+00:17:55,640 --> 00:17:56,519
+You need to be willing
+
+633
+00:17:56,520 --> 00:17:58,440
+to be uncomfortable and to say,
+
+634
+00:17:58,440 --> 00:17:59,960
+I don't have all the answers,
+
+635
+00:17:59,960 --> 00:18:01,360
+but I'm willing to listen
+
+636
+00:18:01,361 --> 00:18:03,279
+and I'm going to make sure
+
+637
+00:18:03,280 --> 00:18:04,680
+that this is a safe place
+
+638
+00:18:04,680 --> 00:18:06,760
+where everyone's voice can be heard.
+
+639
+00:18:06,760 --> 00:18:08,120
+And to me, that is
+
+640
+00:18:08,120 --> 00:18:10,080
+the number one thing is that
+
+641
+00:18:10,080 --> 00:18:11,160
+we have to make it safe.
+
+642
+00:18:11,160 --> 00:18:13,200
+And people do not feel safe today
+
+643
+00:18:13,200 --> 00:18:15,960
+speaking up and telling their truth.
+
+644
+00:18:15,960 --> 00:18:16,320
+Right.
+
+645
+00:18:16,320 --> 00:18:17,680
+And I love your take on
+
+646
+00:18:17,680 --> 00:18:20,200
+being intentional about as a leader
+
+647
+00:18:20,200 --> 00:18:21,960
+and being vocal about it,
+
+648
+00:18:21,960 --> 00:18:24,320
+and being willing to be uncomfortable
+
+649
+00:18:24,320 --> 00:18:25,600
+with the problem.
+
+650
+00:18:25,600 --> 00:18:28,320
+And not just sugarcoating it
+
+651
+00:18:28,320 --> 00:18:29,960
+or shrugging it aside.
+
+652
+00:18:29,960 --> 00:18:31,040
+I think it's wonderful.
+
+653
+00:18:31,040 --> 00:18:33,640
+How do you then make the impact now?
+
+654
+00:18:33,640 --> 00:18:35,240
+So, you've left Autodesk.
+
+655
+00:18:35,240 --> 00:18:37,640
+Part of the motivation
+
+656
+00:18:37,640 --> 00:18:39,240
+from what I'm hearing from you is
+
+657
+00:18:39,240 --> 00:18:41,080
+understand that you've made
+
+658
+00:18:41,080 --> 00:18:41,960
+an incredible impact
+
+659
+00:18:41,960 --> 00:18:44,000
+at your company, Autodesk.
+
+660
+00:18:44,000 --> 00:18:46,240
+Then, this is a global problem
+
+661
+00:18:46,240 --> 00:18:47,720
+along with many companies,
+
+662
+00:18:47,720 --> 00:18:48,560
+and you're now looking
+
+663
+00:18:48,560 --> 00:18:49,560
+to make that impact there.
+
+664
+00:18:49,560 --> 00:18:52,200
+So, how do you go about doing that?
+
+665
+00:18:52,200 --> 00:18:52,600
+Yeah.
+
+666
+00:18:52,601 --> 00:18:53,959
+Well, I started my own
+
+667
+00:18:53,960 --> 00:18:55,000
+consulting business
+
+668
+00:18:55,000 --> 00:18:56,480
+this summer during covid
+
+669
+00:18:56,480 --> 00:18:57,560
+because what else do you do
+
+670
+00:18:57,560 --> 00:19:00,040
+during covid, right?
+
+671
+00:19:00,040 --> 00:19:01,200
+I took a break and then realized
+
+672
+00:19:01,200 --> 00:19:02,400
+that's what I wanted to do.
+
+673
+00:19:02,400 --> 00:19:03,840
+But I've also, for many years,
+
+674
+00:19:03,840 --> 00:19:05,320
+even when I was at Autodesk,
+
+675
+00:19:05,320 --> 00:19:07,480
+I was a keynote speaker
+
+676
+00:19:07,480 --> 00:19:08,960
+internally and externally.
+
+677
+00:19:08,960 --> 00:19:10,360
+So I've been doing recently
+
+678
+00:19:10,360 --> 00:19:11,560
+a fair number of keynotes
+
+679
+00:19:11,560 --> 00:19:13,240
+that there's a real appetite
+
+680
+00:19:13,240 --> 00:19:15,320
+to hear about diversity and inclusion.
+
+681
+00:19:15,320 --> 00:19:17,000
+And so, I had one last month,
+
+682
+00:19:17,000 --> 00:19:18,400
+I have one this next Friday.
+
+683
+00:19:18,400 --> 00:19:20,080
+So, I'm trying to get the word out.
+
+684
+00:19:20,080 --> 00:19:21,840
+But I do have a new client
+
+685
+00:19:21,840 --> 00:19:22,800
+and that's a start up,
+
+686
+00:19:22,800 --> 00:19:24,520
+and they're realizing
+
+687
+00:19:24,520 --> 00:19:25,760
+that they may have an issue
+
+688
+00:19:25,760 --> 00:19:27,800
+with equity and with inclusion.
+
+689
+00:19:27,800 --> 00:19:29,240
+And so, we're just starting
+
+690
+00:19:29,240 --> 00:19:30,280
+the conversations.
+
+691
+00:19:30,280 --> 00:19:32,400
+And so, I'm doing both
+
+692
+00:19:32,400 --> 00:19:34,280
+just the one on one engagements
+
+693
+00:19:34,280 --> 00:19:35,760
+with smaller, large companies,
+
+694
+00:19:35,760 --> 00:19:37,200
+and that's just starting.
+
+695
+00:19:37,200 --> 00:19:38,680
+And then, I'm also giving talks
+
+696
+00:19:38,680 --> 00:19:39,720
+because I feel like people
+
+697
+00:19:39,720 --> 00:19:41,280
+just need to hear.
+
+698
+00:19:41,280 --> 00:19:42,760
+And one of the things is that
+
+699
+00:19:42,760 --> 00:19:44,320
+I will be honest in those talks.
+
+700
+00:19:44,320 --> 00:19:45,720
+I'm not going to sugarcoat things
+
+701
+00:19:45,720 --> 00:19:47,120
+and say that it's all perfect
+
+702
+00:19:47,120 --> 00:19:47,480
+and I'll share
+
+703
+00:19:47,480 --> 00:19:49,640
+my own experiences as well.
+
+704
+00:19:49,640 --> 00:19:50,120
+I love that.
+
+705
+00:19:50,120 --> 00:19:51,280
+Minette, I want to thank you
+
+706
+00:19:51,280 --> 00:19:53,080
+for being so generous with your time.
+
+707
+00:19:53,080 --> 00:19:54,720
+Before we go, I have to ask
+
+708
+00:19:54,720 --> 00:19:56,160
+the most important question.
+
+709
+00:19:56,160 --> 00:19:57,280
+Three words that you would use
+
+710
+00:19:57,280 --> 00:19:59,160
+to describe yourself.
+
+711
+00:20:00,080 --> 00:20:01,400
+All right.
+
+712
+00:20:01,400 --> 00:20:03,880
+I have to start with authentic,
+
+713
+00:20:03,880 --> 00:20:06,080
+because you only get one Minette.
+
+714
+00:20:06,080 --> 00:20:07,520
+I don't have different personas
+
+715
+00:20:07,520 --> 00:20:08,840
+for different environments.
+
+716
+00:20:08,840 --> 00:20:10,560
+It's I'm always going to be real.
+
+717
+00:20:10,560 --> 00:20:12,240
+So, authentic.
+
+718
+00:20:12,240 --> 00:20:13,200
+Empathetic.
+
+719
+00:20:13,200 --> 00:20:15,320
+I can't even turn off my empathy.
+
+720
+00:20:15,320 --> 00:20:17,680
+And that's both a blessing and a curse.
+
+721
+00:20:17,680 --> 00:20:19,600
+So, if you start crying, it's likely
+
+722
+00:20:19,600 --> 00:20:21,240
+that I'm going to be crying with you.
+
+723
+00:20:21,240 --> 00:20:21,800
+But, you know,
+
+724
+00:20:21,800 --> 00:20:23,680
+that's just who I am.
+
+725
+00:20:23,681 --> 00:20:26,319
+And then the third is,
+
+726
+00:20:26,320 --> 00:20:27,240
+I don't know if I would say
+
+727
+00:20:27,240 --> 00:20:28,640
+energetic or enthusiastic,
+
+728
+00:20:28,640 --> 00:20:29,920
+I'll go with enthusiastic.
+
+729
+00:20:29,920 --> 00:20:32,040
+Because I've just got a lot of,
+
+730
+00:20:32,040 --> 00:20:33,040
+I've got so much oomph
+
+731
+00:20:33,040 --> 00:20:34,520
+and I have so much I want to share
+
+732
+00:20:34,520 --> 00:20:35,560
+and I want to help people
+
+733
+00:20:35,560 --> 00:20:37,240
+and I want to get at it.
+
+734
+00:20:37,240 --> 00:20:37,800
+Wonderful.
+
+735
+00:20:37,800 --> 00:20:38,800
+Minette, thank you so much.
+
+736
+00:20:38,800 --> 00:20:40,000
+This is wonderful.
+
+737
+00:20:40,001 --> 00:20:42,319
+Continue making a positive impact
+
+738
+00:20:42,320 --> 00:20:43,879
+in helping companies
+
+739
+00:20:43,880 --> 00:20:47,599
+regain the equity and diverse nature
+
+740
+00:20:47,600 --> 00:20:49,799
+that they all deserve and we all deserve.
+
+741
+00:20:49,800 --> 00:20:52,959
+And I look forward to seeking your advice
+
+742
+00:20:52,960 --> 00:20:54,200
+when I'm starting my own venture
+
+743
+00:20:54,200 --> 00:20:55,920
+to make sure that I properly
+
+744
+00:20:55,920 --> 00:20:56,920
+I'm leading by example
+
+745
+00:20:56,920 --> 00:20:57,960
+and being intentional about it.
+
+746
+00:20:57,960 --> 00:20:59,520
+So, thank you.
+
+747
+00:20:59,600 --> 00:21:00,000
+Thank you.
+
+748
+00:21:00,000 --> 00:21:01,680
+I would love to continue that with you.
+
+749
+00:21:01,680 --> 00:21:03,120
+Michael, thanks so much.
+
+750
+00:21:03,120 --> 00:21:03,480
+Take care.
+

@@ -1,0 +1,3140 @@
+﻿1
+00:00:00,120 --> 00:00:00,920
+You need to know if
+
+2
+00:00:00,920 --> 00:00:02,400
+something can be built.
+
+3
+00:00:02,400 --> 00:00:03,160
+You don't have to know
+
+4
+00:00:03,160 --> 00:00:05,280
+how to build it yourself,
+
+5
+00:00:05,280 --> 00:00:06,720
+you just have to know
+
+6
+00:00:06,720 --> 00:00:07,680
+that it can be done,
+
+7
+00:00:07,680 --> 00:00:09,120
+and that if you can get
+
+8
+00:00:09,120 --> 00:00:11,080
+the money from Silicon Valley
+
+9
+00:00:11,080 --> 00:00:13,280
+or something, you can hire the engineers
+
+10
+00:00:13,280 --> 00:00:15,080
+to build it for you.
+
+11
+00:00:43,040 --> 00:00:44,400
+Wesley Boudville, thank you so much
+
+12
+00:00:44,400 --> 00:00:46,000
+for joining me on 20 Minutes Leaders.
+
+13
+00:00:46,000 --> 00:00:47,040
+Welcome to my show.
+
+14
+00:00:47,040 --> 00:00:48,120
+How are you?
+
+15
+00:00:48,120 --> 00:00:49,240
+Hello, fine.
+
+16
+00:00:49,240 --> 00:00:50,760
+I'm calling from Los Angeles
+
+17
+00:00:50,760 --> 00:00:53,320
+and the weather is cloudy.
+
+18
+00:00:53,400 --> 00:00:54,000
+Wonderful.
+
+19
+00:00:54,000 --> 00:00:55,200
+Well, I'm calling from Tel Aviv.
+
+20
+00:00:55,200 --> 00:00:56,960
+It's been cloudy all week.
+
+21
+00:00:56,960 --> 00:00:58,560
+But Wes, the reason why
+
+22
+00:00:58,560 --> 00:00:59,960
+I'm so excited to chat with you
+
+23
+00:00:59,960 --> 00:01:02,480
+besides, your energy and enthusiasm,
+
+24
+00:01:02,480 --> 00:01:03,400
+is I get to talk
+
+25
+00:01:03,400 --> 00:01:04,640
+to an inventor in front of me.
+
+26
+00:01:04,640 --> 00:01:06,600
+And I love talking to inventors
+
+27
+00:01:06,600 --> 00:01:09,360
+because I consider myself an inventor
+
+28
+00:01:09,360 --> 00:01:10,680
+in many capacities.
+
+29
+00:01:10,680 --> 00:01:12,240
+But the way that you've done it
+
+30
+00:01:12,240 --> 00:01:14,520
+over the past years
+
+31
+00:01:14,520 --> 00:01:15,560
+and holding patents
+
+32
+00:01:15,560 --> 00:01:16,280
+and creating these
+
+33
+00:01:16,280 --> 00:01:17,760
+innovative technologies
+
+34
+00:01:17,760 --> 00:01:19,160
+based on a real problems,
+
+35
+00:01:19,160 --> 00:01:20,120
+I think it's fascinating.
+
+36
+00:01:20,120 --> 00:01:21,160
+So, Wes, give me
+
+37
+00:01:21,160 --> 00:01:21,920
+a little bit of background
+
+38
+00:01:21,920 --> 00:01:23,280
+as to who you are
+
+39
+00:01:23,280 --> 00:01:24,960
+and why do you consider yourself
+
+40
+00:01:24,960 --> 00:01:26,640
+an inventor?
+
+41
+00:01:26,641 --> 00:01:28,840
+Oh, I came to America
+
+42
+00:01:28,840 --> 00:01:31,040
+in 1983, to Los Angeles,
+
+43
+00:01:31,040 --> 00:01:33,440
+to get my PhD in theoretical physics.
+
+44
+00:01:33,440 --> 00:01:36,040
+And from Caltech in LA,
+
+45
+00:01:36,040 --> 00:01:39,080
+and I did that and then I stayed
+
+46
+00:01:39,080 --> 00:01:40,920
+in Los Angeles ever since.
+
+47
+00:01:40,920 --> 00:01:42,320
+And so, I've lived here
+
+48
+00:01:42,320 --> 00:01:43,360
+much longer than I have
+
+49
+00:01:43,360 --> 00:01:45,200
+in Australia where I'm from.
+
+50
+00:01:45,200 --> 00:01:47,520
+And I'm a first generation Australian.
+
+51
+00:01:47,520 --> 00:01:49,120
+I was born in Malaysia.
+
+52
+00:01:49,120 --> 00:01:51,240
+I'm Chinese mostly,
+
+53
+00:01:51,240 --> 00:01:52,600
+and I have a French surname.
+
+54
+00:01:52,600 --> 00:01:53,960
+It's one of these accidents of history.
+
+55
+00:01:53,960 --> 00:01:56,000
+But, you know, in Stanford,
+
+56
+00:01:56,000 --> 00:01:57,000
+you guys are used to that, too.
+
+57
+00:01:57,000 --> 00:01:58,800
+You get people from everywhere.
+
+58
+00:01:58,800 --> 00:01:59,840
+100%.
+
+59
+00:01:59,840 --> 00:02:01,360
+So Wes, how do you stumble upon
+
+60
+00:02:01,360 --> 00:02:03,320
+this idea of innovation and invention?
+
+61
+00:02:03,320 --> 00:02:04,880
+What does that even mean to you?
+
+62
+00:02:04,880 --> 00:02:06,640
+Because I've stumbled,
+
+63
+00:02:06,640 --> 00:02:08,040
+I think, that's the right way to put it.
+
+64
+00:02:08,040 --> 00:02:09,560
+I'm trained as a physicist.
+
+65
+00:02:09,560 --> 00:02:11,480
+I got two degrees of physics, and then
+
+66
+00:02:11,480 --> 00:02:13,320
+I made my living, after I got my PhD,
+
+67
+00:02:13,320 --> 00:02:15,200
+as a computer programmer.
+
+68
+00:02:15,200 --> 00:02:17,320
+Because this was 1989.
+
+69
+00:02:17,320 --> 00:02:19,720
+And the web was born that year.
+
+70
+00:02:19,720 --> 00:02:21,040
+And there were plenty of jobs
+
+71
+00:02:21,040 --> 00:02:22,240
+for programmers.
+
+72
+00:02:22,240 --> 00:02:24,920
+But in during the dot-com years,
+
+73
+00:02:24,920 --> 00:02:26,280
+I joined a dot-com startup
+
+74
+00:02:26,280 --> 00:02:28,520
+and it fell like most of them did.
+
+75
+00:02:28,520 --> 00:02:31,040
+But then I got hit with a startup bug.
+
+76
+00:02:31,040 --> 00:02:31,400
+And I've been
+
+77
+00:02:31,400 --> 00:02:33,320
+in the startup scene ever since.
+
+78
+00:02:33,320 --> 00:02:36,240
+And in 2008,
+
+79
+00:02:36,240 --> 00:02:37,840
+I stopped programming.
+
+80
+00:02:37,841 --> 00:02:39,120
+I programmed computers
+
+81
+00:02:39,120 --> 00:02:42,600
+from 1979 to 2008, 40 years.
+
+82
+00:02:42,600 --> 00:02:44,800
+I started in Fortran, I ended at Java.
+
+83
+00:02:44,800 --> 00:02:47,280
+But then I just, I went to actually
+
+84
+00:02:47,280 --> 00:02:50,200
+filing patent applications for myself.
+
+85
+00:02:50,200 --> 00:02:51,840
+And it was by now
+
+86
+00:02:51,840 --> 00:02:53,560
+I have 20 US patents
+
+87
+00:02:53,560 --> 00:02:54,520
+under my own name.
+
+88
+00:02:54,520 --> 00:02:57,080
+I'm single author on 19 of them.
+
+89
+00:02:57,080 --> 00:02:59,760
+And it's all engineering.
+
+90
+00:02:59,760 --> 00:03:01,280
+So, I started as a physicist,
+
+91
+00:03:01,280 --> 00:03:02,680
+but now I'm an engineer,
+
+92
+00:03:02,680 --> 00:03:06,200
+but I feel like I want to do this
+
+93
+00:03:06,200 --> 00:03:07,160
+for the rest of my life.
+
+94
+00:03:07,160 --> 00:03:08,640
+I'm very lucky.
+
+95
+00:03:08,640 --> 00:03:10,560
+Because for this,
+
+96
+00:03:10,560 --> 00:03:11,480
+yeah, a lot of people
+
+97
+00:03:11,480 --> 00:03:13,320
+are not in their jobs.
+
+98
+00:03:13,320 --> 00:03:14,320
+And I really am,
+
+99
+00:03:14,320 --> 00:03:15,560
+I feel like I'm in grad school
+
+100
+00:03:15,560 --> 00:03:17,480
+back at Caltech 30 years ago
+
+101
+00:03:17,480 --> 00:03:19,040
+because I'm doing research.
+
+102
+00:03:19,040 --> 00:03:20,040
+And I'm doing it for myself.
+
+103
+00:03:20,040 --> 00:03:22,400
+Wes, that's one
+
+104
+00:03:22,400 --> 00:03:23,400
+of the most inspiring things
+
+105
+00:03:23,400 --> 00:03:25,400
+I've heard in more than 300 episodes.
+
+106
+00:03:25,400 --> 00:03:27,280
+Tell me a little bit about
+
+107
+00:03:27,280 --> 00:03:28,400
+these inventions,
+
+108
+00:03:28,400 --> 00:03:30,520
+these patents that you've created.
+
+109
+00:03:30,520 --> 00:03:32,280
+What are some of them like?
+
+110
+00:03:32,400 --> 00:03:35,360
+I have my 20 patents in two groups.
+
+111
+00:03:35,360 --> 00:03:37,160
+The first group of seven patents,
+
+112
+00:03:37,160 --> 00:03:39,400
+it's on barcodes like QR codes,
+
+113
+00:03:39,400 --> 00:03:41,120
+two dimensional barcodes.
+
+114
+00:03:41,120 --> 00:03:43,440
+And my patents for that
+
+115
+00:03:43,440 --> 00:03:46,000
+are to control a screen,
+
+116
+00:03:46,000 --> 00:03:47,040
+electronic screen,
+
+117
+00:03:47,040 --> 00:03:48,560
+a flat screen that's near you,
+
+118
+00:03:48,560 --> 00:03:50,920
+a big flat screen that shows an image
+
+119
+00:03:50,920 --> 00:03:53,040
+and the image shows a barcode.
+
+120
+00:03:53,040 --> 00:03:55,000
+And so, you take out your cell phone
+
+121
+00:03:55,000 --> 00:03:57,160
+and you take a photo of the barcode
+
+122
+00:03:57,160 --> 00:04:00,520
+and you get on your cell phone
+
+123
+00:04:00,520 --> 00:04:01,640
+a web page.
+
+124
+00:04:01,640 --> 00:04:03,200
+And that webpage has buttons
+
+125
+00:04:03,200 --> 00:04:05,200
+you can click, things you can do,
+
+126
+00:04:05,200 --> 00:04:06,640
+and you can control
+
+127
+00:04:06,640 --> 00:04:07,880
+the big screen in front of you,
+
+128
+00:04:07,880 --> 00:04:09,600
+the big flat screen.
+
+129
+00:04:09,600 --> 00:04:11,640
+And okay, now that's the abstract,
+
+130
+00:04:11,640 --> 00:04:13,880
+the practical case is
+
+131
+00:04:14,040 --> 00:04:15,880
+if you are pedestrian on the street
+
+132
+00:04:15,880 --> 00:04:17,720
+and you're looking at a shop window.
+
+133
+00:04:17,720 --> 00:04:20,125
+Inside the shop window behind the glass
+
+134
+00:04:20,126 --> 00:04:22,000
+is a big flat screen showing
+
+135
+00:04:22,000 --> 00:04:24,480
+something for sale with a barcode.
+
+136
+00:04:24,480 --> 00:04:25,440
+When you scan the barcode,
+
+137
+00:04:25,440 --> 00:04:27,760
+you get a search box on your phone,
+
+138
+00:04:27,760 --> 00:04:28,760
+a webpage.
+
+139
+00:04:28,760 --> 00:04:29,280
+The search box,
+
+140
+00:04:29,280 --> 00:04:30,400
+pretend it's Google or something
+
+141
+00:04:30,400 --> 00:04:32,760
+and you type addresses,
+
+142
+00:04:32,760 --> 00:04:34,640
+and but when you hit return,
+
+143
+00:04:34,640 --> 00:04:37,240
+the results are not shown on your phone,
+
+144
+00:04:37,240 --> 00:04:39,320
+they're shown on the big flat screen
+
+145
+00:04:39,320 --> 00:04:40,960
+behind the glass.
+
+146
+00:04:40,960 --> 00:04:42,480
+And so, if it's a dress
+
+147
+00:04:42,480 --> 00:04:43,840
+or a hat or shirt,
+
+148
+00:04:43,840 --> 00:04:45,600
+you can see it life size
+
+149
+00:04:45,600 --> 00:04:46,440
+and you can search
+
+150
+00:04:46,440 --> 00:04:48,600
+the shop's entire inventory.
+
+151
+00:04:48,600 --> 00:04:50,000
+That's important because
+
+152
+00:04:50,000 --> 00:04:50,920
+it solves the problem
+
+153
+00:04:50,920 --> 00:04:53,040
+that stood for 100 years.
+
+154
+00:04:53,040 --> 00:04:54,240
+And ever since shop windows
+
+155
+00:04:54,240 --> 00:04:55,160
+were invented.
+
+156
+00:04:55,160 --> 00:04:57,120
+The shop window is too small
+
+157
+00:04:57,120 --> 00:04:58,480
+to show all the goods.
+
+158
+00:04:58,480 --> 00:04:59,920
+So, every few months
+
+159
+00:04:59,920 --> 00:05:01,480
+a shop manager has to
+
+160
+00:05:01,480 --> 00:05:03,840
+refresh the window physically.
+
+161
+00:05:03,840 --> 00:05:06,160
+She puts in new things.
+
+162
+00:05:06,160 --> 00:05:07,880
+Well now, she can still do that,
+
+163
+00:05:07,880 --> 00:05:09,560
+but now you can,
+
+164
+00:05:09,560 --> 00:05:11,080
+you search whatever you want
+
+165
+00:05:11,080 --> 00:05:14,320
+and then it'll display in big size.
+
+166
+00:05:14,320 --> 00:05:15,480
+That makes a lot of sense.
+
+167
+00:05:15,480 --> 00:05:16,720
+Wes, how do you stumble upon
+
+168
+00:05:16,720 --> 00:05:17,520
+that invention?
+
+169
+00:05:17,520 --> 00:05:19,160
+So, I want to take this
+
+170
+00:05:19,160 --> 00:05:20,320
+and explore this a little bit
+
+171
+00:05:20,320 --> 00:05:21,240
+more broadly about
+
+172
+00:05:21,240 --> 00:05:23,000
+what it means to be an inventor.
+
+173
+00:05:23,000 --> 00:05:24,480
+And so, what I would love
+
+174
+00:05:24,480 --> 00:05:25,080
+to hear from you
+
+175
+00:05:25,080 --> 00:05:26,960
+is sort of with these inventions,
+
+176
+00:05:26,960 --> 00:05:29,040
+how did you even think of them?
+
+177
+00:05:29,040 --> 00:05:30,560
+Because I'm guessing that
+
+178
+00:05:30,560 --> 00:05:31,240
+you're not too much
+
+179
+00:05:31,240 --> 00:05:32,880
+into retail and fashion,
+
+180
+00:05:32,880 --> 00:05:33,760
+you're not an expert
+
+181
+00:05:33,760 --> 00:05:34,960
+in retail or fashion,
+
+182
+00:05:34,960 --> 00:05:35,880
+so, how do you go ahead
+
+183
+00:05:35,880 --> 00:05:37,480
+and create a patent based on
+
+184
+00:05:37,480 --> 00:05:38,680
+retail and fashion?
+
+185
+00:05:38,960 --> 00:05:39,640
+That's right.
+
+186
+00:05:39,640 --> 00:05:40,600
+That's the hardest.
+
+187
+00:05:40,600 --> 00:05:42,880
+and it's still the most mysterious thing
+
+188
+00:05:42,880 --> 00:05:44,000
+for anybody,
+
+189
+00:05:44,000 --> 00:05:45,880
+unless you are Thomas Edison.
+
+190
+00:05:45,880 --> 00:05:47,800
+He had a thousand patents.
+
+191
+00:05:47,800 --> 00:05:49,080
+But the hardest thing is that
+
+192
+00:05:49,080 --> 00:05:51,440
+at the core of the innovative process.
+
+193
+00:05:51,441 --> 00:05:52,640
+And the good thing,
+
+194
+00:05:52,640 --> 00:05:54,040
+one of the thing is that
+
+195
+00:05:54,040 --> 00:05:57,040
+you need a good and technical education.
+
+196
+00:05:57,040 --> 00:05:58,000
+You don't have to be an engineer
+
+197
+00:05:58,000 --> 00:05:59,760
+or a scientist, but it helps.
+
+198
+00:05:59,760 --> 00:06:00,880
+But you need to know
+
+199
+00:06:00,880 --> 00:06:02,480
+if something can be built.
+
+200
+00:06:02,480 --> 00:06:03,240
+You don't have to know
+
+201
+00:06:03,240 --> 00:06:05,360
+how to build it yourself.
+
+202
+00:06:05,360 --> 00:06:06,800
+You just have to know
+
+203
+00:06:06,800 --> 00:06:07,760
+that it can be done
+
+204
+00:06:07,760 --> 00:06:09,920
+and then if you can get the money
+
+205
+00:06:09,920 --> 00:06:11,720
+from Silicon Valley or something,
+
+206
+00:06:11,720 --> 00:06:13,360
+you get to hire the engineers
+
+207
+00:06:13,360 --> 00:06:15,160
+to build it for you.
+
+208
+00:06:15,160 --> 00:06:18,120
+So, I guess for me
+
+209
+00:06:18,120 --> 00:06:19,280
+with a barcode thing,
+
+210
+00:06:19,280 --> 00:06:20,320
+I imagined it
+
+211
+00:06:20,320 --> 00:06:22,160
+and I got the patents on it.
+
+212
+00:06:22,160 --> 00:06:23,640
+But I just,
+
+213
+00:06:23,640 --> 00:06:25,480
+like a remote control of a screen
+
+214
+00:06:25,480 --> 00:06:26,360
+that's what I was thinking of
+
+215
+00:06:26,360 --> 00:06:27,880
+without being able to touch it.
+
+216
+00:06:27,880 --> 00:06:29,600
+What I'm doing right now,
+
+217
+00:06:29,600 --> 00:06:31,000
+my main focus on my most,
+
+218
+00:06:31,000 --> 00:06:33,320
+of my 13 other patents
+
+219
+00:06:33,320 --> 00:06:36,120
+are an alternative to domains
+
+220
+00:06:36,120 --> 00:06:38,040
+or domain name system.
+
+221
+00:06:38,040 --> 00:06:41,320
+And domains were used in the 1970s
+
+222
+00:06:41,320 --> 00:06:43,280
+because when the Internet was born,
+
+223
+00:06:43,280 --> 00:06:44,600
+there were no domains.
+
+224
+00:06:44,600 --> 00:06:45,880
+So, you would then
+
+225
+00:06:45,880 --> 00:06:48,800
+email or log in to like john@
+
+226
+00:06:48,800 --> 00:06:51,240
+and then you give an internet address
+
+227
+00:06:51,240 --> 00:06:52,520
+like UCLA.
+
+228
+00:06:52,520 --> 00:06:54,280
+But nobody wanted to remember that
+
+229
+00:06:54,280 --> 00:06:56,520
+so, domains themselves were invented
+
+230
+00:06:56,520 --> 00:06:59,880
+so that people could write john@UCLA.edu
+
+231
+00:06:59,880 --> 00:07:02,360
+or john@stanford.edu
+
+232
+00:07:02,360 --> 00:07:03,040
+I did not know
+
+233
+00:07:03,040 --> 00:07:04,360
+that's why domains were invented,
+
+234
+00:07:04,360 --> 00:07:05,560
+by the way.
+
+235
+00:07:05,560 --> 00:07:07,800
+Domains actually are older than the web.
+
+236
+00:07:07,800 --> 00:07:09,760
+The web is 1989
+
+237
+00:07:09,760 --> 00:07:12,680
+of the world wide web, html, 1989.
+
+238
+00:07:12,680 --> 00:07:14,600
+And before that, people had,
+
+239
+00:07:14,600 --> 00:07:18,080
+you know, people had email addresses
+
+240
+00:07:18,080 --> 00:07:21,720
+at Stanford, UCLA, Caltech
+
+241
+00:07:21,720 --> 00:07:22,840
+and also in HP.
+
+242
+00:07:22,840 --> 00:07:24,440
+So, but yeah.
+
+243
+00:07:24,440 --> 00:07:27,160
+Because the first killer app
+
+244
+00:07:27,160 --> 00:07:30,000
+of the internet was probably email.
+
+245
+00:07:30,000 --> 00:07:31,720
+And email needed domain.
+
+246
+00:07:31,720 --> 00:07:33,360
+Email help create domains.
+
+247
+00:07:33,360 --> 00:07:35,760
+And then the second killer app
+
+248
+00:07:35,760 --> 00:07:38,760
+was really up the web later on.
+
+249
+00:07:38,760 --> 00:07:39,440
+For sure.
+
+250
+00:07:39,440 --> 00:07:41,160
+So, then talk to me
+
+251
+00:07:41,160 --> 00:07:42,120
+a little bit about this,
+
+252
+00:07:42,120 --> 00:07:44,880
+about more broadly this domain problem.
+
+253
+00:07:44,880 --> 00:07:47,560
+And why do you need 13 patents
+
+254
+00:07:47,560 --> 00:07:49,400
+to address that?
+
+255
+00:07:49,400 --> 00:07:50,920
+Domains or DNS,
+
+256
+00:07:50,920 --> 00:07:52,400
+which is domain name system,
+
+257
+00:07:52,400 --> 00:07:53,680
+it was invented so that
+
+258
+00:07:53,680 --> 00:07:55,240
+you did not have to memorize
+
+259
+00:07:55,240 --> 00:07:56,600
+an Internet address,
+
+260
+00:07:56,600 --> 00:07:57,760
+which were then like
+
+261
+00:07:57,760 --> 00:08:00,000
+10.15.25.128.
+
+262
+00:08:00,000 --> 00:08:01,560
+Something that is meaningless,
+
+263
+00:08:01,560 --> 00:08:03,200
+even for engineers.
+
+264
+00:08:03,200 --> 00:08:04,040
+And back then,
+
+265
+00:08:04,040 --> 00:08:05,280
+when domain's were invented,
+
+266
+00:08:05,280 --> 00:08:06,680
+the older users of the web,
+
+267
+00:08:06,680 --> 00:08:07,456
+let's say an e-mail
+
+268
+00:08:07,457 --> 00:08:09,120
+were the hard core researchers.
+
+269
+00:08:09,120 --> 00:08:09,720
+There's nobody.
+
+270
+00:08:09,720 --> 00:08:11,760
+There were engineers and professors
+
+271
+00:08:11,760 --> 00:08:14,120
+and grad students throughout the US.
+
+272
+00:08:14,120 --> 00:08:16,280
+So, they were serious people.
+
+273
+00:08:16,280 --> 00:08:17,560
+But even they could see
+
+274
+00:08:17,560 --> 00:08:18,560
+the immediate use
+
+275
+00:08:18,560 --> 00:08:21,000
+of a domain name system.
+
+276
+00:08:21,000 --> 00:08:23,560
+MIT.ed was simple to remember.
+
+277
+00:08:23,560 --> 00:08:25,200
+And the things like this.
+
+278
+00:08:25,200 --> 00:08:27,240
+And so, in what I'm doing right now
+
+279
+00:08:27,240 --> 00:08:28,440
+with this thing called Linket,
+
+280
+00:08:28,440 --> 00:08:31,440
+which are an alternative to domains
+
+281
+00:08:31,440 --> 00:08:34,120
+I faced a similar problem
+
+282
+00:08:34,120 --> 00:08:35,760
+of people having to memorize
+
+283
+00:08:35,760 --> 00:08:38,000
+too long alphanumeric strings
+
+284
+00:08:38,000 --> 00:08:39,760
+that didn't really mean anything.
+
+285
+00:08:39,760 --> 00:08:40,960
+But then I realized,
+
+286
+00:08:40,960 --> 00:08:42,600
+and so, I remember that day
+
+287
+00:08:42,600 --> 00:08:44,960
+I was walking to a park in Pasadena
+
+288
+00:08:44,960 --> 00:08:46,600
+and I was just thinking
+
+289
+00:08:46,600 --> 00:08:47,240
+about this problem
+
+290
+00:08:47,240 --> 00:08:49,200
+and I realized that we were we,
+
+291
+00:08:49,200 --> 00:08:51,080
+the human race were here before
+
+292
+00:08:51,080 --> 00:08:52,920
+in the 1970s and 80s,
+
+293
+00:08:52,920 --> 00:08:54,560
+that then they had a problem
+
+294
+00:08:54,560 --> 00:08:57,360
+of trying to remember internet addresses.
+
+295
+00:08:57,360 --> 00:08:58,920
+So, you avoid that problem,
+
+296
+00:08:58,920 --> 00:09:00,440
+DNS is the solution to that.
+
+297
+00:09:00,440 --> 00:09:01,520
+Here they have something
+
+298
+00:09:01,520 --> 00:09:02,360
+called deep links
+
+299
+00:09:02,360 --> 00:09:03,200
+which were used,
+
+300
+00:09:03,200 --> 00:09:04,480
+which were actually invented
+
+301
+00:09:04,480 --> 00:09:07,520
+in Silicon Valley in the early 2010s.
+
+302
+00:09:07,520 --> 00:09:08,920
+And I put it,
+
+303
+00:09:08,920 --> 00:09:09,800
+but the deep links
+
+304
+00:09:09,800 --> 00:09:12,640
+that these too long of strings,
+
+305
+00:09:12,640 --> 00:09:13,480
+one string is just like
+
+306
+00:09:13,480 --> 00:09:16,480
+an app ID in an app store.
+
+307
+00:09:16,480 --> 00:09:18,240
+But nobody really wants to remember
+
+308
+00:09:18,240 --> 00:09:20,080
+an app ID even if you could.
+
+309
+00:09:20,080 --> 00:09:21,280
+Of course.
+
+310
+00:09:21,280 --> 00:09:21,600
+Yeah.
+
+311
+00:09:21,600 --> 00:09:22,560
+And so, I just came up with the idea
+
+312
+00:09:22,560 --> 00:09:24,040
+of just putting a label on it
+
+313
+00:09:24,040 --> 00:09:24,760
+and I just had called
+
+314
+00:09:24,760 --> 00:09:25,560
+the label something.
+
+315
+00:09:25,560 --> 00:09:26,440
+I couldn't call it domain
+
+316
+00:09:26,440 --> 00:09:28,000
+because that's not quite what it is,
+
+317
+00:09:28,000 --> 00:09:28,800
+so, I just thought Linket.
+
+318
+00:09:28,800 --> 00:09:29,720
+Because it's like link,
+
+319
+00:09:29,720 --> 00:09:31,120
+like LinkedIn and all that link,
+
+320
+00:09:31,120 --> 00:09:32,960
+it's a connection.
+
+321
+00:09:32,960 --> 00:09:36,160
+And also, the big thing for mine
+
+322
+00:09:36,160 --> 00:09:37,400
+was that right now
+
+323
+00:09:37,400 --> 00:09:38,960
+they use something called Unicode,
+
+324
+00:09:38,960 --> 00:09:39,924
+which, you know about it
+
+325
+00:09:39,925 --> 00:09:41,000
+if you could be the programmer.
+
+326
+00:09:41,000 --> 00:09:42,480
+Unicode is a way to represent
+
+327
+00:09:42,480 --> 00:09:44,600
+every written human language.
+
+328
+00:09:44,600 --> 00:09:46,760
+Domains are really A to Z
+
+329
+00:09:46,760 --> 00:09:49,160
+because when they were invented late 70s,
+
+330
+00:09:49,160 --> 00:09:49,840
+that's all we had.
+
+331
+00:09:49,840 --> 00:09:51,280
+Unicode did not exist.
+
+332
+00:09:51,280 --> 00:09:52,840
+And so, the American engineers
+
+333
+00:09:52,840 --> 00:09:54,880
+who invented DNS,
+
+334
+00:09:54,880 --> 00:09:55,440
+they were not trying
+
+335
+00:09:55,440 --> 00:09:58,240
+to act against other countries,
+
+336
+00:09:58,240 --> 00:09:59,960
+to discriminate against other countries.
+
+337
+00:09:59,960 --> 00:10:01,200
+Let me just say that,
+
+338
+00:10:01,200 --> 00:10:02,280
+because it turns out
+
+339
+00:10:02,280 --> 00:10:03,680
+domains, you can't even
+
+340
+00:10:03,680 --> 00:10:04,840
+for European languages
+
+341
+00:10:04,840 --> 00:10:06,280
+written in Roman alphabet
+
+342
+00:10:06,280 --> 00:10:07,200
+of all the other
+
+343
+00:10:07,200 --> 00:10:08,614
+European languages have accents.
+
+344
+00:10:08,615 --> 00:10:12,120
+So, the Spanish have tilde over the end.
+
+345
+00:10:12,120 --> 00:10:14,480
+But you can't do a tilde domain,
+
+346
+00:10:14,480 --> 00:10:15,880
+you can't do French, German,
+
+347
+00:10:15,880 --> 00:10:17,200
+Italian, none of them.
+
+348
+00:10:17,200 --> 00:10:19,280
+Let alone the other languages,
+
+349
+00:10:19,280 --> 00:10:21,080
+would use different alphabets like, well,
+
+350
+00:10:21,080 --> 00:10:24,280
+like Cyrillic, Greek, Hebrew,
+
+351
+00:10:24,280 --> 00:10:26,880
+Arabic and all that, you just can't.
+
+352
+00:10:26,880 --> 00:10:28,280
+So, right now,
+
+353
+00:10:28,280 --> 00:10:29,400
+with my stuff with Linket.
+
+354
+00:10:29,400 --> 00:10:30,800
+I start with Unicode.
+
+355
+00:10:30,800 --> 00:10:31,400
+Which means I can do
+
+356
+00:10:31,400 --> 00:10:34,600
+all the languages from scratch right now.
+
+357
+00:10:34,600 --> 00:10:35,240
+Wow.
+
+358
+00:10:35,240 --> 00:10:38,120
+So, how do you actually see this unfold?
+
+359
+00:10:38,120 --> 00:10:38,600
+You mentioned that
+
+360
+00:10:38,600 --> 00:10:40,120
+you've written a series of patents
+
+361
+00:10:40,120 --> 00:10:41,520
+to go about this,
+
+362
+00:10:41,520 --> 00:10:42,800
+even before we continue with Linket,
+
+363
+00:10:42,800 --> 00:10:44,000
+talk to me about the process
+
+364
+00:10:44,000 --> 00:10:44,949
+of writing a patent.
+
+365
+00:10:44,950 --> 00:10:46,920
+You sit down and you have this idea,
+
+366
+00:10:46,920 --> 00:10:47,920
+how does it actually work
+
+367
+00:10:47,920 --> 00:10:48,760
+end to end?
+
+368
+00:10:48,760 --> 00:10:49,960
+Yeah. Oh, okay.
+
+369
+00:10:49,960 --> 00:10:52,560
+Actually, I taught classes of this,
+
+370
+00:10:52,560 --> 00:10:53,640
+like patent to new invention.
+
+371
+00:10:53,640 --> 00:10:55,200
+Yeah, exactly.
+
+372
+00:10:55,200 --> 00:10:57,080
+It turns out if you're an engineer
+
+373
+00:10:57,080 --> 00:10:58,880
+and if you have an
+
+374
+00:10:58,960 --> 00:11:00,160
+undergraduate degree in engineering
+
+375
+00:11:00,160 --> 00:11:00,960
+or science,
+
+376
+00:11:00,960 --> 00:11:02,600
+you can basically write a patent.
+
+377
+00:11:02,600 --> 00:11:03,760
+You have enough technical training
+
+378
+00:11:03,760 --> 00:11:05,200
+to do that.
+
+379
+00:11:05,200 --> 00:11:06,960
+Because it's just like you writing,
+
+380
+00:11:06,960 --> 00:11:09,080
+like if you are a senior in engineering,
+
+381
+00:11:09,080 --> 00:11:10,720
+you're writing a term paper
+
+382
+00:11:10,720 --> 00:11:11,760
+in your senior year
+
+383
+00:11:11,760 --> 00:11:14,240
+on some of you work in a lab.
+
+384
+00:11:14,240 --> 00:11:15,520
+And like when you're told
+
+385
+00:11:15,520 --> 00:11:17,000
+to pretend that just submitting it
+
+386
+00:11:17,000 --> 00:11:18,080
+to an academic journal,
+
+387
+00:11:18,080 --> 00:11:18,760
+and may maybe you are,
+
+388
+00:11:18,760 --> 00:11:20,240
+maybe your professor is.
+
+389
+00:11:20,240 --> 00:11:21,200
+It's the same sort of thing
+
+390
+00:11:21,200 --> 00:11:23,520
+that you have to use formal language,
+
+391
+00:11:23,520 --> 00:11:25,000
+but you don't need
+
+392
+00:11:25,000 --> 00:11:26,760
+to use any legal language,
+
+393
+00:11:26,760 --> 00:11:27,840
+despite what a patent attorney
+
+394
+00:11:27,840 --> 00:11:28,880
+might say to you.
+
+395
+00:11:28,880 --> 00:11:29,560
+And here's the thing,
+
+396
+00:11:29,560 --> 00:11:31,960
+like in San Francisco,
+
+397
+00:11:31,960 --> 00:11:33,160
+when you use a patent attorney,
+
+398
+00:11:33,160 --> 00:11:34,040
+everything's more expensive
+
+399
+00:11:34,040 --> 00:11:34,960
+there in San Francisco,
+
+400
+00:11:34,960 --> 00:11:36,040
+you know, well you already
+
+401
+00:11:36,040 --> 00:11:37,680
+did know that,
+
+402
+00:11:37,680 --> 00:11:40,480
+but it could cost easily $5,000
+
+403
+00:11:40,480 --> 00:11:42,160
+to file a patent application.
+
+404
+00:11:42,160 --> 00:11:44,640
+That's just to pay the attorney.
+
+405
+00:11:44,640 --> 00:11:46,400
+And it's about $500
+
+406
+00:11:46,400 --> 00:11:47,800
+to pay the government.
+
+407
+00:11:47,800 --> 00:11:49,320
+And then you wait,
+
+408
+00:11:49,320 --> 00:11:51,480
+oh, but if you are into startups,
+
+409
+00:11:51,480 --> 00:11:53,520
+you guys, one of the things to do
+
+410
+00:11:53,520 --> 00:11:54,320
+the good thing to do
+
+411
+00:11:54,320 --> 00:11:55,160
+is that if you have an idea
+
+412
+00:11:55,160 --> 00:11:56,960
+about a patent application,
+
+413
+00:11:56,960 --> 00:11:58,760
+if you have to pay the attorney
+
+414
+00:11:58,760 --> 00:12:00,160
+or you do it yourself whatever,
+
+415
+00:12:00,160 --> 00:12:01,840
+you file the patent application,
+
+416
+00:12:01,840 --> 00:12:03,560
+let's say, next week,
+
+417
+00:12:03,560 --> 00:12:05,160
+but the government gets it,
+
+418
+00:12:05,160 --> 00:12:06,200
+but nothing will happen
+
+419
+00:12:06,200 --> 00:12:08,000
+for the next 18 months.
+
+420
+00:12:08,000 --> 00:12:10,360
+So then, you would go
+
+421
+00:12:10,360 --> 00:12:11,560
+with your receipt.
+
+422
+00:12:11,560 --> 00:12:12,840
+You get a serial number
+
+423
+00:12:12,840 --> 00:12:14,080
+of the patent application.
+
+424
+00:12:14,080 --> 00:12:14,280
+Sure.
+
+425
+00:12:14,280 --> 00:12:16,800
+And then use that to show like investors,
+
+426
+00:12:16,800 --> 00:12:18,240
+angels and VCs,
+
+427
+00:12:18,240 --> 00:12:19,200
+and you can build it out
+
+428
+00:12:19,200 --> 00:12:19,920
+if you can afford it.
+
+429
+00:12:19,920 --> 00:12:21,320
+Like if it's a mechanical thing,
+
+430
+00:12:21,320 --> 00:12:22,600
+it's a software ,
+
+431
+00:12:22,600 --> 00:12:23,640
+because you have 18 months
+
+432
+00:12:23,640 --> 00:12:24,920
+where nothing will happen
+
+433
+00:12:24,920 --> 00:12:26,480
+with your patent application.
+
+434
+00:12:26,480 --> 00:12:27,760
+So, that's the way to do it.
+
+435
+00:12:27,760 --> 00:12:30,360
+You should not file, like just
+
+436
+00:12:30,360 --> 00:12:32,080
+you shouldn't build it first and file
+
+437
+00:12:32,080 --> 00:12:33,960
+because you lose the time.
+
+438
+00:12:33,960 --> 00:12:35,880
+And time is everything.
+
+439
+00:12:36,000 --> 00:12:37,720
+So, what happens if you file a patent
+
+440
+00:12:37,720 --> 00:12:39,200
+and then within those 18 months
+
+441
+00:12:39,200 --> 00:12:40,880
+you have other people that are filing
+
+442
+00:12:40,880 --> 00:12:42,694
+those provisional patents
+
+443
+00:12:42,695 --> 00:12:44,400
+on a similar idea.
+
+444
+00:12:44,400 --> 00:12:45,800
+Well that's just it, okay,
+
+445
+00:12:45,800 --> 00:12:47,200
+that 18 months,
+
+446
+00:12:47,200 --> 00:12:49,080
+you just don't know.
+
+447
+00:12:49,080 --> 00:12:50,000
+You really don't know.
+
+448
+00:12:50,000 --> 00:12:52,160
+Because the provisionals,
+
+449
+00:12:52,160 --> 00:12:53,960
+they are published
+
+450
+00:12:53,960 --> 00:12:55,160
+or even the patents pending,
+
+451
+00:12:55,160 --> 00:12:55,720
+which is what I do.
+
+452
+00:12:55,720 --> 00:12:56,960
+I do not file provisionals.
+
+453
+00:12:56,960 --> 00:12:59,240
+I filed the full patents pending
+
+454
+00:12:59,240 --> 00:13:00,400
+a patent pending.
+
+455
+00:13:00,400 --> 00:13:01,240
+That's a bit more expensive.
+
+456
+00:13:01,240 --> 00:13:04,280
+But anyway, for the 18 months
+
+457
+00:13:04,280 --> 00:13:06,000
+your application will be published.
+
+458
+00:13:06,000 --> 00:13:07,290
+So, nobody else could see it
+
+459
+00:13:07,291 --> 00:13:08,920
+for 18 months.
+
+460
+00:13:08,920 --> 00:13:10,400
+But it also means you can't see.
+
+461
+00:13:10,400 --> 00:13:11,880
+So, you don't know
+
+462
+00:13:11,880 --> 00:13:13,160
+that the next 18 months,
+
+463
+00:13:13,160 --> 00:13:14,080
+if somebody else was actually
+
+464
+00:13:14,080 --> 00:13:16,320
+did it early before you.
+
+465
+00:13:16,320 --> 00:13:18,040
+So, it's a little bit nerve racking,
+
+466
+00:13:18,040 --> 00:13:21,240
+especially if you have a valuable idea.
+
+467
+00:13:21,240 --> 00:13:23,320
+Now the following year
+
+468
+00:13:23,320 --> 00:13:26,040
+is just like empirical.
+
+469
+00:13:26,040 --> 00:13:27,640
+But put it this way,
+
+470
+00:13:27,640 --> 00:13:29,680
+in that 18 months,
+
+471
+00:13:29,680 --> 00:13:31,200
+every week, like, for example,
+
+472
+00:13:31,200 --> 00:13:32,400
+when you look at
+
+473
+00:13:32,400 --> 00:13:33,480
+the new patent application
+
+474
+00:13:33,480 --> 00:13:34,920
+they published every week,
+
+475
+00:13:34,920 --> 00:13:36,240
+if you don't see somebody else
+
+476
+00:13:36,240 --> 00:13:37,520
+coming up with your idea,
+
+477
+00:13:37,520 --> 00:13:39,360
+then every week the odds improve
+
+478
+00:13:39,360 --> 00:13:41,280
+that your idea was the first.
+
+479
+00:13:41,280 --> 00:13:42,400
+It's not a proof,
+
+480
+00:13:42,400 --> 00:13:44,600
+but it's just like playing the odds.
+
+481
+00:13:44,600 --> 00:13:45,560
+Of course.
+
+482
+00:13:45,560 --> 00:13:46,720
+Especially,
+
+483
+00:13:46,720 --> 00:13:48,160
+and it increases the odds
+
+484
+00:13:48,160 --> 00:13:49,800
+that Google and Microsoft
+
+485
+00:13:49,800 --> 00:13:51,440
+and other big companies have new idea.
+
+486
+00:13:51,440 --> 00:13:53,280
+Because once they
+
+487
+00:13:53,280 --> 00:13:55,440
+have filed a patent application,
+
+488
+00:13:55,440 --> 00:13:57,080
+they don't have to wait, they or you,
+
+489
+00:13:57,080 --> 00:13:59,240
+once you get a receipt back
+
+490
+00:13:59,240 --> 00:14:00,200
+from the government,
+
+491
+00:14:00,200 --> 00:14:01,160
+you can talk about it
+
+492
+00:14:01,160 --> 00:14:02,680
+the next day.
+
+493
+00:14:02,680 --> 00:14:03,680
+Right.
+
+494
+00:14:03,680 --> 00:14:05,880
+And so when you look
+
+495
+00:14:05,880 --> 00:14:07,400
+at Google or Microsoft,
+
+496
+00:14:07,400 --> 00:14:09,320
+if they have filed a patent application,
+
+497
+00:14:09,320 --> 00:14:11,520
+like of the same idea as yours,
+
+498
+00:14:11,520 --> 00:14:12,640
+like yesterday,
+
+499
+00:14:12,640 --> 00:14:14,200
+then today they could just publicize,
+
+500
+00:14:14,200 --> 00:14:16,600
+they could publish them with themselves,
+
+501
+00:14:16,600 --> 00:14:18,040
+on their blog, whatever,
+
+502
+00:14:18,040 --> 00:14:20,040
+they were allowed to do that legally.
+
+503
+00:14:20,040 --> 00:14:21,720
+But they have all the money in the world
+
+504
+00:14:21,720 --> 00:14:23,640
+to do that, to scare people away.
+
+505
+00:14:23,640 --> 00:14:25,880
+If they don't do that,
+
+506
+00:14:25,880 --> 00:14:28,760
+they probably haven't done that.
+
+507
+00:14:28,760 --> 00:14:31,720
+Yeah. I love the rationale.
+
+508
+00:14:31,720 --> 00:14:32,683
+So, Wes, tell me a little bit
+
+509
+00:14:32,684 --> 00:14:33,280
+about Linket.
+
+510
+00:14:33,280 --> 00:14:36,120
+You've written your last few patents
+
+511
+00:14:36,120 --> 00:14:38,700
+based on this, on the domain space.
+
+512
+00:14:38,701 --> 00:14:39,800
+From my understanding,
+
+513
+00:14:39,801 --> 00:14:40,999
+what you're trying to do
+
+514
+00:14:41,000 --> 00:14:43,279
+is you're trying to democratize these domains
+
+515
+00:14:43,280 --> 00:14:45,360
+so that really we can use Unicode,
+
+516
+00:14:45,360 --> 00:14:47,560
+which really has any character
+
+517
+00:14:47,560 --> 00:14:50,520
+that we have on our computer
+
+518
+00:14:50,520 --> 00:14:52,040
+to create those domains.
+
+519
+00:14:52,040 --> 00:14:53,600
+Why are you doing that
+
+520
+00:14:53,600 --> 00:14:55,110
+and what are the possible implications
+
+521
+00:14:55,111 --> 00:14:56,800
+of doing this link?
+
+522
+00:14:56,800 --> 00:14:59,800
+The big first problem is that
+
+523
+00:14:59,800 --> 00:15:01,280
+for the last 20 years,
+
+524
+00:15:01,280 --> 00:15:03,720
+the top dot-com domains
+
+525
+00:15:03,720 --> 00:15:04,760
+that are English words
+
+526
+00:15:04,760 --> 00:15:06,640
+have been bought by people who speculate.
+
+527
+00:15:06,640 --> 00:15:07,720
+And there's nothing wrong with that.
+
+528
+00:15:07,720 --> 00:15:08,440
+But I'm just saying this is
+
+529
+00:15:08,440 --> 00:15:09,400
+what they've done.
+
+530
+00:15:09,400 --> 00:15:10,440
+And today the speculators
+
+531
+00:15:10,440 --> 00:15:11,680
+are called Domainers.
+
+532
+00:15:11,680 --> 00:15:12,120
+Some of them
+
+533
+00:15:12,120 --> 00:15:13,680
+do this full time for living.
+
+534
+00:15:13,680 --> 00:15:14,800
+What does that mean?
+
+535
+00:15:14,800 --> 00:15:16,360
+What do they do?
+
+536
+00:15:16,360 --> 00:15:17,520
+Oh, they bought like a domain,
+
+537
+00:15:17,520 --> 00:15:19,400
+like these are the dot-com domains.
+
+538
+00:15:19,400 --> 00:15:21,240
+Because the most valuable domains
+
+539
+00:15:21,240 --> 00:15:22,640
+right now are still
+
+540
+00:15:22,640 --> 00:15:25,800
+in the dot-com of space.
+
+541
+00:15:25,800 --> 00:15:28,120
+And so, it will be like reason.com,
+
+542
+00:15:28,120 --> 00:15:30,880
+ramen.com or curry.com,
+
+543
+00:15:30,880 --> 00:15:33,200
+things with commercial value.
+
+544
+00:15:33,200 --> 00:15:33,988
+By the way,
+
+545
+00:15:33,989 --> 00:15:36,560
+is dot-com valuable mainly
+
+546
+00:15:36,560 --> 00:15:38,720
+because that's what people are used to?
+
+547
+00:15:38,720 --> 00:15:39,560
+Yes.
+
+548
+00:15:39,560 --> 00:15:41,800
+That's the only reason right?
+
+549
+00:15:41,920 --> 00:15:42,200
+Right.
+
+550
+00:15:42,200 --> 00:15:44,000
+And so, but there's no
+
+551
+00:15:44,000 --> 00:15:45,960
+intrinsic reason for this, okay?
+
+552
+00:15:45,960 --> 00:15:48,200
+But as a result of that,
+
+553
+00:15:48,200 --> 00:15:48,880
+there were now
+
+554
+00:15:48,880 --> 00:15:51,760
+a thousand top level domains.
+
+555
+00:15:51,760 --> 00:15:53,160
+In the year 2000,
+
+556
+00:15:53,160 --> 00:15:55,640
+there was about 200 of TLDs,
+
+557
+00:15:55,640 --> 00:15:58,560
+the 200 TLDs then were basically
+
+558
+00:15:58,560 --> 00:15:59,400
+like the dot-com,
+
+559
+00:15:59,400 --> 00:16:02,160
+like the five or six original of TLDs,
+
+560
+00:16:02,160 --> 00:16:04,880
+plus the TLDs that were country codes,
+
+561
+00:16:04,880 --> 00:16:06,560
+the two-letter country codes,
+
+562
+00:16:06,560 --> 00:16:09,920
+.UK, .AU you know, all those.
+
+563
+00:16:09,920 --> 00:16:11,966
+And then they added 800 more
+
+564
+00:16:11,967 --> 00:16:13,160
+in the last 20 years,
+
+565
+00:16:13,160 --> 00:16:15,280
+mostly in the last 10 years.
+
+566
+00:16:15,280 --> 00:16:16,760
+Those are doing okay,
+
+567
+00:16:16,760 --> 00:16:17,440
+but nobody's really
+
+568
+00:16:17,440 --> 00:16:18,280
+making much money on it
+
+569
+00:16:18,280 --> 00:16:19,880
+from what I understand.
+
+570
+00:16:19,880 --> 00:16:22,880
+So, yes, anybody can still get a domain
+
+571
+00:16:22,880 --> 00:16:24,000
+if you don't really care
+
+572
+00:16:24,000 --> 00:16:25,320
+what the suffixes,
+
+573
+00:16:25,320 --> 00:16:27,160
+what the TLD you are in.
+
+574
+00:16:27,160 --> 00:16:29,000
+But by reasons of prestige,
+
+575
+00:16:29,000 --> 00:16:30,560
+it's like the dot-com years
+
+576
+00:16:30,560 --> 00:16:31,560
+were responsible for this.
+
+577
+00:16:31,560 --> 00:16:33,280
+Even the name dot-com.
+
+578
+00:16:33,280 --> 00:16:36,320
+The dot com bubble, right.
+
+579
+00:16:36,320 --> 00:16:37,040
+100%.
+
+580
+00:16:37,040 --> 00:16:37,920
+Yeah.
+
+581
+00:16:37,920 --> 00:16:40,520
+So, what are you trying to do now
+
+582
+00:16:40,520 --> 00:16:44,093
+with removing that ending?
+
+583
+00:16:44,097 --> 00:16:45,160
+What it means is that today,
+
+584
+00:16:45,160 --> 00:16:46,960
+if you are startup in Silicon Valley,
+
+585
+00:16:46,960 --> 00:16:49,480
+for example, and you want to get like a,
+
+586
+00:16:49,480 --> 00:16:50,720
+you want the foodservice something
+
+587
+00:16:50,720 --> 00:16:52,560
+and you want to get like ramen.com,
+
+588
+00:16:52,560 --> 00:16:53,520
+because maybe you sell
+
+589
+00:16:53,520 --> 00:16:55,480
+like Indian food or something.
+
+590
+00:16:55,480 --> 00:16:57,240
+Just like, for that you'd
+
+591
+00:16:57,240 --> 00:16:58,840
+like to get ramen.com.
+
+592
+00:16:58,840 --> 00:17:00,240
+But let's say you go there,
+
+593
+00:17:00,240 --> 00:17:01,840
+you look at somebody else owns it
+
+594
+00:17:01,840 --> 00:17:04,320
+and they want $20,000 for it.
+
+595
+00:17:04,320 --> 00:17:06,280
+Now, maybe they want less,
+
+596
+00:17:06,280 --> 00:17:07,800
+sometimes they can want more.
+
+597
+00:17:07,800 --> 00:17:10,080
+They can ask whatever amount they want.
+
+598
+00:17:10,080 --> 00:17:11,880
+Now, they'll give an actual number.
+
+599
+00:17:11,880 --> 00:17:14,000
+Business.com in 1993,
+
+600
+00:17:14,000 --> 00:17:15,320
+somebody bought that directly
+
+601
+00:17:15,320 --> 00:17:17,320
+from VeriSign for the first time.
+
+602
+00:17:17,320 --> 00:17:18,600
+And they paid like, back then,
+
+603
+00:17:18,600 --> 00:17:20,360
+the standard price was like,
+
+604
+00:17:20,360 --> 00:17:23,040
+$300 a year, something like that.
+
+605
+00:17:23,040 --> 00:17:25,960
+In 1999, at the height of the dot-com,
+
+606
+00:17:25,960 --> 00:17:29,080
+it was sold for about five million dollars.
+
+607
+00:17:29,080 --> 00:17:31,000
+Five million at that time.
+
+608
+00:17:31,000 --> 00:17:32,240
+And yeah, it's something like that.
+
+609
+00:17:32,240 --> 00:17:34,080
+It's in the records.
+
+610
+00:17:34,920 --> 00:17:37,440
+And the price that the buyer bought it
+
+611
+00:17:37,440 --> 00:17:39,000
+for five million dollars the buyer paid
+
+612
+00:17:39,000 --> 00:17:40,320
+was probably still a good deal
+
+613
+00:17:40,320 --> 00:17:43,360
+because since '99,
+
+614
+00:17:43,440 --> 00:17:45,720
+the web has grown and grown.
+
+615
+00:17:45,720 --> 00:17:47,040
+And, you know, we added over
+
+616
+00:17:47,040 --> 00:17:49,320
+a billion people, and yeah,
+
+617
+00:17:49,320 --> 00:17:51,440
+in India, China, Europe,
+
+618
+00:17:51,440 --> 00:17:52,400
+as well as America.
+
+619
+00:17:52,400 --> 00:17:53,760
+So, yeah, you can imagine.
+
+620
+00:17:53,760 --> 00:17:55,960
+So, that's right.
+
+621
+00:17:55,960 --> 00:17:57,400
+And so, right now,
+
+622
+00:17:57,440 --> 00:17:58,480
+what we're doing is that
+
+623
+00:17:58,480 --> 00:18:00,360
+we are selling these Linkets,
+
+624
+00:18:00,360 --> 00:18:02,840
+well, $15, that's one, five.
+
+625
+00:18:02,840 --> 00:18:03,800
+And so, that's
+
+626
+00:18:03,800 --> 00:18:05,320
+two or three orders cheaper
+
+627
+00:18:05,320 --> 00:18:07,640
+than you can buy the dot-com,
+
+628
+00:18:07,640 --> 00:18:09,045
+the equivalent dot-com domain
+
+629
+00:18:09,046 --> 00:18:11,440
+from a domainer.
+
+630
+00:18:11,440 --> 00:18:13,560
+And so, how do they look?
+
+631
+00:18:13,560 --> 00:18:14,960
+So, instead of like okay,
+
+632
+00:18:14,960 --> 00:18:16,680
+I use the example ramen.com.
+
+633
+00:18:16,680 --> 00:18:17,440
+I don't really know
+
+634
+00:18:17,440 --> 00:18:18,080
+how much it's going for,
+
+635
+00:18:18,080 --> 00:18:19,600
+but that's just like somebody else
+
+636
+00:18:19,600 --> 00:18:21,480
+wanting like $20,000.
+
+637
+00:18:21,480 --> 00:18:22,920
+That's about reasonable.
+
+638
+00:18:22,920 --> 00:18:24,150
+The equivalent Linket,
+
+639
+00:18:24,151 --> 00:18:24,760
+it's just ramen.
+
+640
+00:18:24,760 --> 00:18:26,350
+with ramen in square brackets.
+
+641
+00:18:26,351 --> 00:18:28,259
+That's it. Ramen in square brackets.
+
+642
+00:18:28,260 --> 00:18:32,040
+Yeah. We sell them for $15. One, five.
+
+643
+00:18:32,040 --> 00:18:33,679
+So, it's three orders in magnitude
+
+644
+00:18:33,680 --> 00:18:35,640
+less than $20,000.
+
+645
+00:18:35,640 --> 00:18:36,840
+By the way, I have a question.
+
+646
+00:18:36,840 --> 00:18:37,760
+Because this is all about
+
+647
+00:18:37,760 --> 00:18:38,520
+supply and demand.
+
+648
+00:18:38,520 --> 00:18:38,760
+Right?
+
+649
+00:18:38,760 --> 00:18:39,920
+I mean it's basic economics.
+
+650
+00:18:39,920 --> 00:18:41,320
+You know, the reason why
+
+651
+00:18:41,320 --> 00:18:43,000
+ramen.com is high in prices
+
+652
+00:18:43,000 --> 00:18:43,720
+is because you have a lot
+
+653
+00:18:43,720 --> 00:18:45,040
+of potential buyers.
+
+654
+00:18:45,040 --> 00:18:47,200
+So, you increase the price.
+
+655
+00:18:47,200 --> 00:18:49,240
+But now let's say that somebody buys
+
+656
+00:18:49,240 --> 00:18:50,440
+from you for $15
+
+657
+00:18:50,440 --> 00:18:51,840
+the square brackets ramen,
+
+658
+00:18:51,840 --> 00:18:53,880
+and now there's going to be a demand
+
+659
+00:18:53,880 --> 00:18:56,080
+as people transition to Linket instead
+
+660
+00:18:56,080 --> 00:18:57,240
+of the dot-com,
+
+661
+00:18:57,240 --> 00:18:58,760
+you're going to be the mainstream.
+
+662
+00:18:58,760 --> 00:19:00,320
+So, it's going to be, again,
+
+663
+00:19:00,320 --> 00:19:01,920
+a seller's market, right?
+
+664
+00:19:01,920 --> 00:19:03,320
+Well, yeah.
+
+665
+00:19:03,320 --> 00:19:05,920
+Well, I think we're selling
+
+666
+00:19:05,920 --> 00:19:06,720
+too low right now,
+
+667
+00:19:06,720 --> 00:19:08,520
+but we are just starting.
+
+668
+00:19:08,520 --> 00:19:10,040
+And so, we have to,
+
+669
+00:19:10,040 --> 00:19:11,280
+price is one of our
+
+670
+00:19:11,280 --> 00:19:13,080
+main advantages right now.
+
+671
+00:19:13,080 --> 00:19:15,160
+And later on we will sell.
+
+672
+00:19:15,160 --> 00:19:17,560
+Oh, but we also have a reserve list.
+
+673
+00:19:17,560 --> 00:19:19,280
+Because this is what the domain
+
+674
+00:19:19,280 --> 00:19:21,440
+registrars are doing today already.
+
+675
+00:19:21,440 --> 00:19:23,520
+Some of the domains right now,
+
+676
+00:19:23,520 --> 00:19:25,240
+they'll sell at high prices.
+
+677
+00:19:25,240 --> 00:19:27,600
+We have a reserve list of words like.
+
+678
+00:19:27,600 --> 00:19:28,600
+So, basically right now
+
+679
+00:19:28,600 --> 00:19:29,560
+it's English words.
+
+680
+00:19:29,560 --> 00:19:31,920
+And words like Intel,
+
+681
+00:19:31,920 --> 00:19:33,600
+which doesn't mean Intel Corporation,
+
+682
+00:19:33,600 --> 00:19:34,160
+the chip maker.
+
+683
+00:19:34,160 --> 00:19:35,920
+It's just intel means intelligence,
+
+684
+00:19:35,920 --> 00:19:37,840
+like military intelligence.
+
+685
+00:19:37,840 --> 00:19:42,240
+So, we'll select the linket,
+
+686
+00:19:42,240 --> 00:19:44,640
+just intel of the linket,
+
+687
+00:19:44,640 --> 00:19:45,960
+or computer,
+
+688
+00:19:45,960 --> 00:19:47,720
+that's all of these we reserve.
+
+689
+00:19:47,720 --> 00:19:48,720
+And we want to,
+
+690
+00:19:48,720 --> 00:19:50,320
+we'll start selling these off like
+
+691
+00:19:50,320 --> 00:19:51,640
+two or three years down the road.
+
+692
+00:19:51,640 --> 00:19:52,960
+We'll auction it off.
+
+693
+00:19:52,960 --> 00:19:55,160
+So, we're going to let the market decide.
+
+694
+00:19:55,160 --> 00:19:57,240
+And our reserved list right now,
+
+695
+00:19:57,240 --> 00:20:00,200
+it's about 20,000 reserved Linkets.
+
+696
+00:20:00,200 --> 00:20:02,040
+We're going to grow that to 100,000.
+
+697
+00:20:02,040 --> 00:20:04,760
+Because we said we do Unicode.
+
+698
+00:20:04,760 --> 00:20:07,720
+We are going to use, like the word intel,
+
+699
+00:20:07,720 --> 00:20:08,720
+we will reserve that
+
+700
+00:20:08,720 --> 00:20:10,440
+in French and Italian
+
+701
+00:20:10,440 --> 00:20:12,360
+and German and in Chinese,
+
+702
+00:20:12,360 --> 00:20:13,120
+all of these.
+
+703
+00:20:13,120 --> 00:20:15,400
+So, essentially right now with domains,
+
+704
+00:20:15,400 --> 00:20:16,160
+with the domainers,
+
+705
+00:20:16,160 --> 00:20:18,440
+everybody's working in English basically.
+
+706
+00:20:18,440 --> 00:20:19,240
+Right.
+
+707
+00:20:19,240 --> 00:20:21,280
+Now, with Linkets,
+
+708
+00:20:21,280 --> 00:20:23,720
+it's dictionaries in every language.
+
+709
+00:20:23,720 --> 00:20:25,680
+So, we just do it over again.
+
+710
+00:20:25,680 --> 00:20:26,360
+And that's how we want
+
+711
+00:20:26,360 --> 00:20:28,040
+to make our money one day.
+
+712
+00:20:28,040 --> 00:20:30,040
+I think that's just spectacular.
+
+713
+00:20:30,040 --> 00:20:31,800
+And so, Linket,
+
+714
+00:20:31,800 --> 00:20:33,240
+I'm guessing it's a company
+
+715
+00:20:33,240 --> 00:20:34,120
+that is now running.
+
+716
+00:20:34,120 --> 00:20:36,200
+And is it actually active?
+
+717
+00:20:36,200 --> 00:20:37,619
+Does it work that I can actually use
+
+718
+00:20:37,620 --> 00:20:38,920
+for a bracket to go to websites?
+
+719
+00:20:38,920 --> 00:20:40,320
+Well, yeah.
+
+720
+00:20:40,320 --> 00:20:41,880
+I mean, people can go,
+
+721
+00:20:41,880 --> 00:20:43,800
+they can apply it.
+
+722
+00:20:43,800 --> 00:20:46,320
+And If nobody has it then we'll send,
+
+723
+00:20:46,320 --> 00:20:47,640
+then they can buy it from us.
+
+724
+00:20:47,640 --> 00:20:49,000
+If it's not on our reserve list,
+
+725
+00:20:49,000 --> 00:20:50,280
+we'll sell it to them.
+
+726
+00:20:50,280 --> 00:20:52,240
+And then we have instructions
+
+727
+00:20:52,240 --> 00:20:54,200
+which are this is our alpha version.
+
+728
+00:20:54,200 --> 00:20:54,880
+We have instructions
+
+729
+00:20:54,880 --> 00:20:55,560
+on how they can,
+
+730
+00:20:55,560 --> 00:20:57,120
+if they were a coder,
+
+731
+00:20:57,120 --> 00:20:59,440
+if they were a computer programmer,
+
+732
+00:20:59,440 --> 00:21:00,440
+how do they get like mod
+
+733
+00:21:00,440 --> 00:21:02,760
+their web pages to use the Linkets.
+
+734
+00:21:02,760 --> 00:21:03,840
+It's early days right now.
+
+735
+00:21:03,840 --> 00:21:05,240
+There's a long way to go.
+
+736
+00:21:05,240 --> 00:21:06,240
+But right now,
+
+737
+00:21:06,240 --> 00:21:06,880
+I'd like to think
+
+738
+00:21:06,880 --> 00:21:07,640
+that right now it's like
+
+739
+00:21:07,640 --> 00:21:10,000
+in 1992 when you could buy business.com
+
+740
+00:21:10,000 --> 00:21:11,280
+for the first time.
+
+741
+00:21:11,280 --> 00:21:12,000
+Even if you didn't know
+
+742
+00:21:12,000 --> 00:21:13,000
+how to write a webpage,
+
+743
+00:21:13,000 --> 00:21:14,920
+even if you did know HTML,
+
+744
+00:21:14,920 --> 00:21:16,280
+just only because when you buy
+
+745
+00:21:16,280 --> 00:21:18,280
+the domain today, even today,
+
+746
+00:21:18,280 --> 00:21:20,320
+you still don't have do anything with it.
+
+747
+00:21:20,320 --> 00:21:21,280
+You don't [--] website,
+
+748
+00:21:21,280 --> 00:21:23,040
+you could just own it.
+
+749
+00:21:23,040 --> 00:21:25,560
+I remember, we have an interesting story
+
+750
+00:21:25,560 --> 00:21:29,560
+when my uncle bought shoes.com
+
+751
+00:21:29,560 --> 00:21:31,480
+many years ago and it obviously
+
+752
+00:21:31,480 --> 00:21:33,600
+became very valuable actually.
+
+753
+00:21:33,600 --> 00:21:34,880
+And it actually
+
+754
+00:21:34,880 --> 00:21:38,320
+it prompted him and his partners
+
+755
+00:21:38,320 --> 00:21:40,800
+to start a company called shoes.com
+
+756
+00:21:40,800 --> 00:21:41,600
+which later sold.
+
+757
+00:21:41,600 --> 00:21:44,960
+But, I did definitely understand
+
+758
+00:21:44,960 --> 00:21:46,320
+the value of domain.
+
+759
+00:21:46,320 --> 00:21:47,280
+But Wes, I want to thank you
+
+760
+00:21:47,280 --> 00:21:49,560
+for being so generous with your time.
+
+761
+00:21:49,560 --> 00:21:50,720
+I love this conversation.
+
+762
+00:21:50,720 --> 00:21:51,960
+So much energy.
+
+763
+00:21:51,960 --> 00:21:53,720
+And I just love going all the way
+
+764
+00:21:53,720 --> 00:21:54,920
+back to the beginning.
+
+765
+00:21:54,920 --> 00:21:56,160
+You saying how lucky you are
+
+766
+00:21:56,160 --> 00:21:56,880
+to be in a place where
+
+767
+00:21:56,880 --> 00:21:57,680
+you feel like you're back
+
+768
+00:21:57,680 --> 00:21:59,480
+in grad school in Caltech
+
+769
+00:21:59,480 --> 00:22:00,480
+and doing these
+
+770
+00:22:00,480 --> 00:22:02,040
+extraordinary research things.
+
+771
+00:22:02,040 --> 00:22:04,200
+And I just love your passion, enthusiasm.
+
+772
+00:22:04,200 --> 00:22:05,680
+So, thank you for sharing that.
+
+773
+00:22:05,680 --> 00:22:08,360
+Before we leave, the hardest question.
+
+774
+00:22:08,360 --> 00:22:11,200
+I need three words that you would use
+
+775
+00:22:11,200 --> 00:22:13,160
+to describe yourself.
+
+776
+00:22:17,160 --> 00:22:22,960
+Intelligent, inventor, engineer.
+
+777
+00:22:22,960 --> 00:22:23,655
+I love that.
+
+778
+00:22:23,656 --> 00:22:25,560
+Wes, thank you very much.
+
+779
+00:22:25,560 --> 00:22:26,520
+Best of luck with Linket.
+
+780
+00:22:26,520 --> 00:22:27,160
+I'm going to go buy
+
+781
+00:22:27,160 --> 00:22:28,280
+my own Linket right now.
+
+782
+00:22:28,280 --> 00:22:29,840
+Thank you very much for everything.
+
+783
+00:22:29,840 --> 00:22:31,440
+And stay safe and stay healthy.
+
+784
+00:22:31,440 --> 00:22:32,760
+Yeah. You're welcome.
+
+785
+00:22:32,760 --> 00:22:33,120
+Thank you.
+

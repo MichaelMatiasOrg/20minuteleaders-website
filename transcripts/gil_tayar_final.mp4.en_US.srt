@@ -1,0 +1,2704 @@
+﻿1
+00:00:00,200 --> 00:00:01,559
+I love being an engineer.
+
+2
+00:00:01,560 --> 00:00:03,666
+It's Sherlock Holmes
+
+3
+00:00:03,866 --> 00:00:06,679
+and being a writer at the same time,
+
+4
+00:00:06,680 --> 00:00:09,599
+it's like doing stuff with your hands
+
+5
+00:00:09,600 --> 00:00:12,000
+and creating stuff and seeing it work.
+
+6
+00:00:36,120 --> 00:00:36,799
+Gil Tayar,
+
+7
+00:00:36,800 --> 00:00:37,799
+thank you for joining me.
+
+8
+00:00:37,800 --> 00:00:38,239
+How are you?
+
+9
+00:00:38,240 --> 00:00:39,479
+Good morning.
+
+10
+00:00:39,480 --> 00:00:40,399
+Good.
+
+11
+00:00:40,400 --> 00:00:42,319
+Very happy to be here.
+
+12
+00:00:42,320 --> 00:00:43,719
+I am very, very happy to be here.
+
+13
+00:00:43,720 --> 00:00:44,399
+We've known each other
+
+14
+00:00:44,400 --> 00:00:46,039
+for quite some time.
+
+15
+00:00:46,040 --> 00:00:47,962
+You've been a very important part
+
+16
+00:00:48,162 --> 00:00:49,359
+of my personal journey,
+
+17
+00:00:49,360 --> 00:00:53,359
+both as a mentor and judge throughout
+
+18
+00:00:53,360 --> 00:00:54,274
+the different hackathons
+
+19
+00:00:54,474 --> 00:00:54,959
+that I organized.
+
+20
+00:00:54,960 --> 00:00:55,759
+But more importantly,
+
+21
+00:00:55,760 --> 00:00:57,359
+you've introduced me
+
+22
+00:00:57,360 --> 00:00:58,870
+to the whole world
+
+23
+00:00:59,070 --> 00:01:04,069
+of developer relations and advocacy
+
+24
+00:01:04,269 --> 00:01:06,599
+for a great engineering and great coding.
+
+25
+00:01:06,600 --> 00:01:08,479
+And I've gained a lot of inspiration
+
+26
+00:01:08,480 --> 00:01:09,959
+seeing how much you enjoy
+
+27
+00:01:09,960 --> 00:01:11,439
+the work that you're doing.
+
+28
+00:01:11,440 --> 00:01:14,439
+And I speak to a lot of people
+
+29
+00:01:14,440 --> 00:01:16,079
+and I know a lot of engineers,
+
+30
+00:01:16,080 --> 00:01:18,079
+I don't think I've yet to meet somebody
+
+31
+00:01:18,080 --> 00:01:21,444
+who is as excited and enjoys their work
+
+32
+00:01:21,644 --> 00:01:23,599
+as much as you enjoy it.
+
+33
+00:01:23,600 --> 00:01:23,999
+Thank you.
+
+34
+00:01:24,000 --> 00:01:25,440
+So, it's really heartwarming.
+
+35
+00:01:25,440 --> 00:01:26,720
+Also, thank you for,
+
+36
+00:01:26,721 --> 00:01:28,639
+for sharing that passion.
+
+37
+00:01:28,640 --> 00:01:30,879
+And I'd love to focus these 20 minutes
+
+38
+00:01:30,880 --> 00:01:32,439
+both on that passion,
+
+39
+00:01:32,440 --> 00:01:33,479
+but more importantly,
+
+40
+00:01:33,480 --> 00:01:35,319
+on the world of engineering
+
+41
+00:01:35,320 --> 00:01:36,959
+and knowledge sharing.
+
+42
+00:01:36,960 --> 00:01:39,559
+Now, just for context,
+
+43
+00:01:39,560 --> 00:01:40,879
+I know that there's thought leaders
+
+44
+00:01:40,880 --> 00:01:41,959
+in a lot of industries, right?
+
+45
+00:01:41,960 --> 00:01:43,959
+There's thought leaders in philosophy,
+
+46
+00:01:43,960 --> 00:01:45,680
+thought leaders in economics.
+
+47
+00:01:45,681 --> 00:01:47,399
+But you've introduced me to the world
+
+48
+00:01:47,400 --> 00:01:48,600
+of those thought leaders,
+
+49
+00:01:48,800 --> 00:01:50,188
+also in engineering
+
+50
+00:01:50,388 --> 00:01:52,159
+and in good coding habits,
+
+51
+00:01:52,160 --> 00:01:53,359
+good engineering styles.
+
+52
+00:01:53,360 --> 00:01:54,559
+And that's what I'd love
+
+53
+00:01:54,560 --> 00:01:55,679
+to allude to later on.
+
+54
+00:01:55,680 --> 00:01:57,519
+But first, Gil, take me back.
+
+55
+00:01:57,520 --> 00:01:59,147
+Who are you and how do you become
+
+56
+00:01:59,148 --> 00:02:02,000
+an engineer yourself?
+
+57
+00:02:04,480 --> 00:02:05,959
+First of all, I'm like,
+
+58
+00:02:05,960 --> 00:02:08,390
+I think the first wave of developers
+
+59
+00:02:08,590 --> 00:02:10,199
+that wanted to be developers
+
+60
+00:02:10,200 --> 00:02:12,960
+in Israel and probably in the world.
+
+61
+00:02:12,961 --> 00:02:15,062
+I started at the age of 13,
+
+62
+00:02:15,262 --> 00:02:19,919
+and we're talking '84, '83.
+
+63
+00:02:19,920 --> 00:02:23,959
+So, I was the dawn of the PCs.
+
+64
+00:02:23,960 --> 00:02:25,599
+There weren't any PCs
+
+65
+00:02:25,600 --> 00:02:27,519
+basically before that.
+
+66
+00:02:27,520 --> 00:02:31,119
+It was all mainframes and minicomputers.
+
+67
+00:02:31,120 --> 00:02:32,599
+At the age of 13,
+
+68
+00:02:32,600 --> 00:02:35,279
+I got a ZX81
+
+69
+00:02:35,280 --> 00:02:37,359
+from the bar mitzvah.
+
+70
+00:02:37,360 --> 00:02:39,759
+I'm not even going to pretend
+
+71
+00:02:39,760 --> 00:02:42,319
+that I know what it is.
+
+72
+00:02:42,320 --> 00:02:45,319
+It's like this little computer
+
+73
+00:02:45,320 --> 00:02:46,919
+with chiclet keyboard
+
+74
+00:02:46,920 --> 00:02:50,639
+and it had one K of ram,
+
+75
+00:02:50,640 --> 00:02:51,599
+not one megabyte,
+
+76
+00:02:51,600 --> 00:02:53,382
+not one gigabyte,
+
+77
+00:02:53,582 --> 00:02:54,639
+and that one K.
+
+78
+00:02:54,640 --> 00:02:55,712
+And you could write
+
+79
+00:02:55,912 --> 00:02:57,425
+a little basic programs
+
+80
+00:02:57,625 --> 00:02:59,399
+and you connect it to your TV.
+
+81
+00:02:59,400 --> 00:03:01,370
+There weren't any monitor then.
+
+82
+00:03:01,570 --> 00:03:04,839
+And you stored your programs
+
+83
+00:03:04,840 --> 00:03:07,959
+on a tape recorder.
+
+84
+00:03:07,960 --> 00:03:09,519
+That's the way it was.
+
+85
+00:03:09,520 --> 00:03:11,479
+And I learned basic and I loved it
+
+86
+00:03:11,480 --> 00:03:16,359
+and I upgraded to 16k ram and everything,
+
+87
+00:03:16,360 --> 00:03:17,639
+and decided this is what
+
+88
+00:03:17,640 --> 00:03:19,879
+I want to do for the rest of my life.
+
+89
+00:03:19,880 --> 00:03:22,199
+I got an Apple II afterwards.
+
+90
+00:03:22,200 --> 00:03:23,949
+Anyway, long story short,
+
+91
+00:03:24,149 --> 00:03:26,527
+I ended up in Mamram,
+
+92
+00:03:26,727 --> 00:03:31,479
+it was the big computer unit
+
+93
+00:03:31,480 --> 00:03:34,199
+in the Israeli Defense Force.
+
+94
+00:03:34,200 --> 00:03:35,960
+It still is.
+
+95
+00:03:36,360 --> 00:03:40,210
+Very similar to 8200 [--].
+
+96
+00:03:40,410 --> 00:03:44,800
+And back then, much much more known.
+
+97
+00:03:45,120 --> 00:03:48,079
+I did the whole training nine months
+
+98
+00:03:48,080 --> 00:03:51,119
+of computer programming course
+
+99
+00:03:51,120 --> 00:03:52,438
+and they wanted,
+
+100
+00:03:52,638 --> 00:03:55,132
+and this is part of the integral journey,
+
+101
+00:03:55,309 --> 00:03:56,959
+in a sense it's the start of it,
+
+102
+00:03:56,960 --> 00:03:58,319
+and they wanted me to stay
+
+103
+00:03:58,320 --> 00:04:01,159
+as a trainer for computers
+
+104
+00:04:01,160 --> 00:04:03,279
+for the soldiers.
+
+105
+00:04:03,280 --> 00:04:04,327
+And I said, "Yes."
+
+106
+00:04:04,527 --> 00:04:05,837
+And just to understand,
+
+107
+00:04:06,037 --> 00:04:06,920
+I was like this shy
+
+108
+00:04:07,120 --> 00:04:09,039
+and not very talkative person.
+
+109
+00:04:09,040 --> 00:04:11,393
+But what I found out was that
+
+110
+00:04:11,593 --> 00:04:15,839
+once I go up on a stage, I transform.
+
+111
+00:04:15,840 --> 00:04:18,239
+I transform into this like,
+
+112
+00:04:18,240 --> 00:04:22,119
+the charismatic, talkative,
+
+113
+00:04:22,120 --> 00:04:25,039
+funny and everything speaker.
+
+114
+00:04:25,040 --> 00:04:27,258
+And, you know, when I go back down
+
+115
+00:04:27,458 --> 00:04:29,142
+out of the stage,
+
+116
+00:04:29,342 --> 00:04:31,520
+I go back to being shy.
+
+117
+00:04:33,800 --> 00:04:35,239
+Fascinating.
+
+118
+00:04:35,240 --> 00:04:35,959
+Why is that?
+
+119
+00:04:35,960 --> 00:04:37,250
+Obviously, slowly
+
+120
+00:04:37,450 --> 00:04:39,468
+when I went back out on stage,
+
+121
+00:04:39,668 --> 00:04:40,922
+I continued being that
+
+122
+00:04:41,122 --> 00:04:42,119
+talkative and funny as a person.
+
+123
+00:04:42,120 --> 00:04:44,600
+That's the Gil that I know.
+
+124
+00:04:44,720 --> 00:04:45,919
+Exactly.
+
+125
+00:04:45,920 --> 00:04:47,138
+So, in a way,
+
+126
+00:04:47,338 --> 00:04:50,048
+that was the start of changing myself
+
+127
+00:04:50,248 --> 00:04:53,093
+and being more confident with myself.
+
+128
+00:04:53,293 --> 00:04:56,665
+And talking in front of an audience
+
+129
+00:04:56,865 --> 00:04:58,399
+if you can do it,
+
+130
+00:04:58,400 --> 00:05:00,457
+it gives you that confidence
+
+131
+00:05:00,657 --> 00:05:02,970
+because you go and you speak
+
+132
+00:05:03,170 --> 00:05:05,640
+and people look at you
+
+133
+00:05:05,720 --> 00:05:06,879
+and they clap.
+
+134
+00:05:06,880 --> 00:05:08,067
+And it's an immense,
+
+135
+00:05:08,267 --> 00:05:09,999
+it gives you a lot of confidence.
+
+136
+00:05:10,000 --> 00:05:13,799
+A lot of confidence.
+
+137
+00:05:13,800 --> 00:05:16,399
+100%.
+
+138
+00:05:16,400 --> 00:05:19,238
+So, your dev relations journey
+
+139
+00:05:19,438 --> 00:05:20,973
+starts off back in Mamram
+
+140
+00:05:21,173 --> 00:05:22,853
+when you're going in your teaching
+
+141
+00:05:23,053 --> 00:05:25,580
+and you're training the next
+
+142
+00:05:25,780 --> 00:05:28,559
+cohort of engineers in the Army.
+
+143
+00:05:28,560 --> 00:05:30,159
+But you continue doing that
+
+144
+00:05:30,160 --> 00:05:32,399
+throughout your entire career, right?
+
+145
+00:05:32,400 --> 00:05:35,839
+And until today, you still go to
+
+146
+00:05:35,840 --> 00:05:37,279
+to many conferences every year.
+
+147
+00:05:37,280 --> 00:05:37,959
+You go on stages.
+
+148
+00:05:37,960 --> 00:05:39,639
+Now, you do it over Zoom obviously.
+
+149
+00:05:39,640 --> 00:05:41,122
+But besides that,
+
+150
+00:05:41,322 --> 00:05:43,039
+you still chose to be
+
+151
+00:05:43,040 --> 00:05:44,082
+a proper engineer.
+
+152
+00:05:44,282 --> 00:05:45,919
+A senior architect, right,
+
+153
+00:05:45,920 --> 00:05:48,599
+in various startups and companies.
+
+154
+00:05:48,600 --> 00:05:52,119
+So, first of all, let's focus on that.
+
+155
+00:05:52,120 --> 00:05:53,799
+Why be a senior architect?
+
+156
+00:05:53,800 --> 00:05:55,639
+What is it about being an engineer
+
+157
+00:05:55,640 --> 00:05:57,399
+that excites you that you said,
+
+158
+00:05:57,400 --> 00:05:58,269
+okay, I want to continue
+
+159
+00:05:58,469 --> 00:05:58,919
+being an engineer
+
+160
+00:05:58,920 --> 00:06:00,839
+because a lot of people that I know
+
+161
+00:06:00,840 --> 00:06:01,704
+at some point they said,
+
+162
+00:06:01,904 --> 00:06:03,039
+yeah, I had fun being an engineer,
+
+163
+00:06:03,040 --> 00:06:04,829
+now I want to start managing teams
+
+164
+00:06:05,029 --> 00:06:07,199
+and I want to to go into the more
+
+165
+00:06:07,200 --> 00:06:08,399
+managerial scene.
+
+166
+00:06:08,400 --> 00:06:10,219
+But you decided that you're
+
+167
+00:06:10,419 --> 00:06:12,068
+still want to be hands on
+
+168
+00:06:12,268 --> 00:06:13,519
+and be an active part
+
+169
+00:06:13,520 --> 00:06:15,000
+of the engineering part of the company,
+
+170
+00:06:15,001 --> 00:06:16,240
+right?
+
+171
+00:06:16,520 --> 00:06:17,960
+Yes.
+
+172
+00:06:18,080 --> 00:06:19,959
+There's this tension,
+
+173
+00:06:19,960 --> 00:06:22,040
+once you get good enough,
+
+174
+00:06:22,480 --> 00:06:25,640
+the company wants you to,
+
+175
+00:06:25,760 --> 00:06:28,199
+you know, go up the ladder.
+
+176
+00:06:28,200 --> 00:06:31,199
+And back then there was only one ladder.
+
+177
+00:06:31,200 --> 00:06:32,657
+You become a team leader,
+
+178
+00:06:32,857 --> 00:06:34,319
+and then, you know, a director
+
+179
+00:06:34,320 --> 00:06:39,279
+and then a VP R&D.
+
+180
+00:06:39,280 --> 00:06:39,559
+And that's it.
+
+181
+00:06:39,560 --> 00:06:42,599
+And I tried that.
+
+182
+00:06:42,600 --> 00:06:43,572
+And I find that
+
+183
+00:06:43,772 --> 00:06:46,484
+I didn't like managing people.
+
+184
+00:06:46,684 --> 00:06:49,031
+Back then, I didn't like
+
+185
+00:06:49,231 --> 00:06:51,083
+being the one responsible
+
+186
+00:06:51,283 --> 00:06:53,639
+for what they were writing.
+
+187
+00:06:53,640 --> 00:06:56,356
+And I decided,
+
+188
+00:06:56,556 --> 00:07:00,479
+okay, everybody wants me to be whatever
+
+189
+00:07:00,480 --> 00:07:02,639
+but that's not what I want.
+
+190
+00:07:02,640 --> 00:07:05,117
+I want to code, I'm a farmer.
+
+191
+00:07:05,317 --> 00:07:06,775
+I'm not you know,
+
+192
+00:07:06,975 --> 00:07:08,919
+I want to till the soil.
+
+193
+00:07:08,920 --> 00:07:11,520
+I want to smell the leaves
+
+194
+00:07:11,720 --> 00:07:15,279
+and figure out what's right for them.
+
+195
+00:07:15,280 --> 00:07:16,519
+And that is what I want.
+
+196
+00:07:16,520 --> 00:07:17,639
+And that is what I wanted.
+
+197
+00:07:17,640 --> 00:07:19,799
+And obviously, being a good engineer,
+
+198
+00:07:19,800 --> 00:07:21,780
+I kept being pulled up
+
+199
+00:07:21,980 --> 00:07:24,557
+and my career was like a seesaw,
+
+200
+00:07:24,757 --> 00:07:25,819
+like being pulled up
+
+201
+00:07:26,019 --> 00:07:27,039
+to managerial position
+
+202
+00:07:27,040 --> 00:07:28,067
+and then say,
+
+203
+00:07:28,267 --> 00:07:30,120
+"No. No, I don't want that."
+
+204
+00:07:30,760 --> 00:07:31,439
+After a while,
+
+205
+00:07:31,440 --> 00:07:34,039
+I understood that,
+
+206
+00:07:34,040 --> 00:07:35,599
+I'm not going to do that anymore.
+
+207
+00:07:35,600 --> 00:07:36,638
+And whenever people say that,
+
+208
+00:07:36,838 --> 00:07:38,739
+"You want to be a team leader?"
+
+209
+00:07:38,939 --> 00:07:39,719
+I said, "Just no."
+
+210
+00:07:39,720 --> 00:07:41,319
+I learned to say no.
+
+211
+00:07:41,320 --> 00:07:42,799
+And I love being an engineer.
+
+212
+00:07:42,800 --> 00:07:44,906
+It's Sherlock Holmes
+
+213
+00:07:45,106 --> 00:07:47,919
+and being a writer at the same time.
+
+214
+00:07:47,920 --> 00:07:50,880
+It's like doing stuff with your hands
+
+215
+00:07:50,881 --> 00:07:53,719
+and creating stuff and seeing it work
+
+216
+00:07:53,720 --> 00:07:57,159
+and not managing the people that do that.
+
+217
+00:07:57,160 --> 00:07:59,079
+And I'm not disparaging.
+
+218
+00:07:59,080 --> 00:08:01,439
+I mean, we need both kinds of people.
+
+219
+00:08:01,440 --> 00:08:02,559
+We need managers.
+
+220
+00:08:02,560 --> 00:08:04,039
+We need software developers.
+
+221
+00:08:04,040 --> 00:08:07,544
+But you can have a career
+
+222
+00:08:07,744 --> 00:08:09,117
+that goes the managerial way
+
+223
+00:08:09,317 --> 00:08:10,440
+that forced to managerial.
+
+224
+00:08:10,441 --> 00:08:12,039
+But today, it's called
+
+225
+00:08:12,040 --> 00:08:14,359
+an individual contributor, I think.
+
+226
+00:08:14,360 --> 00:08:17,159
+You can have a career that goes up
+
+227
+00:08:17,160 --> 00:08:22,299
+the more professional technical ladder
+
+228
+00:08:22,499 --> 00:08:24,639
+and the salaries are almost
+
+229
+00:08:24,640 --> 00:08:27,399
+like 10%, almost as high.
+
+230
+00:08:27,400 --> 00:08:29,399
+So, don't worry about your salary.
+
+231
+00:08:29,400 --> 00:08:30,079
+It will be high,
+
+232
+00:08:30,080 --> 00:08:32,159
+especially if you're a good,
+
+233
+00:08:32,160 --> 00:08:34,959
+I mean, a good software engineer,
+
+234
+00:08:34,960 --> 00:08:36,246
+a great software engineer
+
+235
+00:08:36,390 --> 00:08:37,719
+is worth their weight in gold.
+
+236
+00:08:37,720 --> 00:08:39,599
+So, if you want to do that,
+
+237
+00:08:39,600 --> 00:08:40,399
+please continue.
+
+238
+00:08:40,400 --> 00:08:41,000
+100%.
+
+239
+00:08:41,200 --> 00:08:43,818
+Just for that, you caught me by surprise
+
+240
+00:08:44,018 --> 00:08:45,887
+as I was going through my own journey
+
+241
+00:08:46,087 --> 00:08:47,759
+within the army in 8200.
+
+242
+00:08:47,760 --> 00:08:49,456
+One of the things that,
+
+243
+00:08:49,656 --> 00:08:50,982
+that was very interesting
+
+244
+00:08:51,182 --> 00:08:52,519
+for us as soldiers was that,
+
+245
+00:08:52,520 --> 00:08:54,564
+people that are professional
+
+246
+00:08:54,764 --> 00:08:56,279
+and they're staying in the army,
+
+247
+00:08:56,479 --> 00:08:58,727
+let's say, for five or six years,
+
+248
+00:08:58,927 --> 00:09:00,203
+they're still engineers,
+
+249
+00:09:00,403 --> 00:09:01,479
+they're still hands on,
+
+250
+00:09:01,480 --> 00:09:02,456
+they make more money
+
+251
+00:09:02,656 --> 00:09:04,126
+than somebody who is an officer
+
+252
+00:09:04,326 --> 00:09:06,519
+and who's leading a team of people.
+
+253
+00:09:06,520 --> 00:09:07,519
+And it was and, you know,
+
+254
+00:09:07,520 --> 00:09:08,502
+it was a big dissonance,
+
+255
+00:09:08,702 --> 00:09:10,332
+because especially in the army
+
+256
+00:09:10,532 --> 00:09:12,479
+where you're in a lot of places,
+
+257
+00:09:12,480 --> 00:09:14,759
+your rank identifies your credibility
+
+258
+00:09:14,760 --> 00:09:16,399
+and sort of your paycheck.
+
+259
+00:09:16,400 --> 00:09:17,400
+Here you have a unit
+
+260
+00:09:17,600 --> 00:09:18,999
+that is one of the leading units,
+
+261
+00:09:19,000 --> 00:09:20,479
+in the IDF and probably in the world
+
+262
+00:09:20,480 --> 00:09:22,000
+in terms of engineering, and it says,
+
+263
+00:09:22,001 --> 00:09:24,799
+Oh, just FYI,
+
+264
+00:09:24,800 --> 00:09:26,639
+if you're a professional
+
+265
+00:09:26,640 --> 00:09:27,399
+and you're really, really good,
+
+266
+00:09:27,400 --> 00:09:28,359
+you're going to make even more
+
+267
+00:09:28,509 --> 00:09:30,319
+than the managers.
+
+268
+00:09:30,320 --> 00:09:31,639
+Which is very unorthodox.
+
+269
+00:09:31,640 --> 00:09:32,959
+And it's very interesting.
+
+270
+00:09:32,960 --> 00:09:34,759
+And I'd love to hear your take,
+
+271
+00:09:34,760 --> 00:09:35,540
+because a lot of the people
+
+272
+00:09:35,740 --> 00:09:38,599
+that are watching this are not engineers.
+
+273
+00:09:38,600 --> 00:09:40,159
+And I'm a huge advocate
+
+274
+00:09:40,160 --> 00:09:41,879
+for studying computer science.
+
+275
+00:09:41,880 --> 00:09:43,799
+I'm now studying it hands on.
+
+276
+00:09:43,800 --> 00:09:44,918
+While I may not be
+
+277
+00:09:45,118 --> 00:09:47,184
+the most passionate guy in the room
+
+278
+00:09:47,384 --> 00:09:48,599
+about computer science,
+
+279
+00:09:48,600 --> 00:09:49,896
+I am deeply passionate
+
+280
+00:09:50,096 --> 00:09:51,287
+about problem solving
+
+281
+00:09:51,487 --> 00:09:53,159
+and the ability to problem solve
+
+282
+00:09:53,160 --> 00:09:55,319
+using the skills that we're gaining.
+
+283
+00:09:55,320 --> 00:09:56,879
+So, I'd love to hear from you.
+
+284
+00:09:56,880 --> 00:09:58,858
+What is so attractive to you
+
+285
+00:09:59,058 --> 00:10:00,199
+about engineering?
+
+286
+00:10:00,200 --> 00:10:02,813
+And perhaps maybe, demystify
+
+287
+00:10:03,013 --> 00:10:05,472
+some of the scary notions
+
+288
+00:10:05,672 --> 00:10:07,119
+behind what you might be doing
+
+289
+00:10:07,120 --> 00:10:09,520
+on a day to day basis.
+
+290
+00:10:10,360 --> 00:10:13,239
+There are two kinds of developers.
+
+291
+00:10:13,240 --> 00:10:16,679
+That's how I think about it.
+
+292
+00:10:16,680 --> 00:10:18,680
+The developers that think that
+
+293
+00:10:18,880 --> 00:10:21,639
+software development is an engineering
+
+294
+00:10:21,640 --> 00:10:22,809
+and the people that think that
+
+295
+00:10:23,009 --> 00:10:25,279
+software development is a craft.
+
+296
+00:10:25,280 --> 00:10:28,119
+You can immediately spot them.
+
+297
+00:10:28,120 --> 00:10:30,095
+The engineers think that
+
+298
+00:10:30,295 --> 00:10:32,680
+we can't get too perfect.
+
+299
+00:10:32,840 --> 00:10:34,399
+They love type systems,
+
+300
+00:10:34,400 --> 00:10:35,519
+you know,
+
+301
+00:10:35,520 --> 00:10:36,564
+because they believe
+
+302
+00:10:36,764 --> 00:10:38,039
+that if you get the types right,
+
+303
+00:10:38,040 --> 00:10:39,959
+everything will fall into place.
+
+304
+00:10:39,960 --> 00:10:41,679
+And then there are the craftsmen.
+
+305
+00:10:41,680 --> 00:10:44,079
+They understand that nothing's perfect.
+
+306
+00:10:44,080 --> 00:10:47,719
+And software development is like
+
+307
+00:10:47,720 --> 00:10:52,079
+it's like voting in the US.
+
+308
+00:10:52,080 --> 00:10:54,319
+You can never reach 100%
+
+309
+00:10:54,320 --> 00:10:55,879
+for some reason.
+
+310
+00:10:55,880 --> 00:10:58,520
+It's always like a tangent to perfect.
+
+311
+00:10:58,521 --> 00:11:00,519
+And you can strive to that,
+
+312
+00:11:00,520 --> 00:11:01,479
+but it's never that.
+
+313
+00:11:01,480 --> 00:11:03,048
+And you always have to mangle it
+
+314
+00:11:03,248 --> 00:11:05,098
+and fix it and deal with
+
+315
+00:11:05,298 --> 00:11:06,639
+technical problems.
+
+316
+00:11:06,640 --> 00:11:08,400
+I'm a craftsman.
+
+317
+00:11:09,160 --> 00:11:11,760
+And as a craftsman I love to create.
+
+318
+00:11:11,761 --> 00:11:12,935
+I don't see myself
+
+319
+00:11:13,135 --> 00:11:17,148
+as really different from a carpenter
+
+320
+00:11:17,348 --> 00:11:21,878
+or from someone who makes dresses
+
+321
+00:11:22,078 --> 00:11:24,759
+and stuff like that.
+
+322
+00:11:24,760 --> 00:11:27,639
+That I create using my tools,
+
+323
+00:11:27,640 --> 00:11:28,879
+which is like the ID
+
+324
+00:11:28,880 --> 00:11:30,479
+and the keyboard in the mouse.
+
+325
+00:11:30,480 --> 00:11:34,080
+But what I create is as creative
+
+326
+00:11:34,400 --> 00:11:35,590
+as other craftsman
+
+327
+00:11:35,790 --> 00:11:37,879
+like carpenters and whatnot.
+
+328
+00:11:37,880 --> 00:11:39,359
+That is how I see it.
+
+329
+00:11:39,360 --> 00:11:39,823
+Definitely,
+
+330
+00:11:40,023 --> 00:11:41,399
+there's an engineering part of it.
+
+331
+00:11:41,400 --> 00:11:43,799
+I'm not saying no.
+
+332
+00:11:43,800 --> 00:11:45,639
+But the way I see it as a craftsman,
+
+333
+00:11:45,640 --> 00:11:49,439
+and as a craftsman, almost an arts man,
+
+334
+00:11:49,440 --> 00:11:51,999
+almost an artist,
+
+335
+00:11:52,000 --> 00:11:53,158
+that is the passion
+
+336
+00:11:53,270 --> 00:11:55,839
+I bring to my work, a craft.
+
+337
+00:11:55,840 --> 00:11:56,119
+Right.
+
+338
+00:11:56,120 --> 00:11:59,723
+And I think that is a great leeway
+
+339
+00:11:59,923 --> 00:12:02,159
+to the notion of being
+
+340
+00:12:02,160 --> 00:12:03,893
+the developer relations,
+
+341
+00:12:04,093 --> 00:12:05,169
+and sharing your craft
+
+342
+00:12:05,369 --> 00:12:06,439
+and sharing your passion.
+
+343
+00:12:06,440 --> 00:12:08,519
+Because when you explain to me
+
+344
+00:12:08,520 --> 00:12:10,405
+that you're going up on stage
+
+345
+00:12:10,605 --> 00:12:12,999
+and you're bubbly and charismatic,
+
+346
+00:12:13,000 --> 00:12:14,399
+you're talking about code.
+
+347
+00:12:14,400 --> 00:12:15,840
+You're not talking about philosophy
+
+348
+00:12:15,840 --> 00:12:17,200
+or economics or politics.
+
+349
+00:12:17,200 --> 00:12:19,516
+You're talking about JavaScript
+
+350
+00:12:19,716 --> 00:12:21,160
+often code behind you
+
+351
+00:12:21,160 --> 00:12:22,760
+and being charismatic about it.
+
+352
+00:12:22,760 --> 00:12:24,304
+And that is something that I think
+
+353
+00:12:24,430 --> 00:12:25,766
+is going to be interesting
+
+354
+00:12:25,966 --> 00:12:26,919
+for a lot of people to hear,
+
+355
+00:12:26,920 --> 00:12:29,319
+because it's very counterintuitive.
+
+356
+00:12:29,320 --> 00:12:30,639
+Because up until now,
+
+357
+00:12:30,640 --> 00:12:31,639
+you think of an engineer,
+
+358
+00:12:31,640 --> 00:12:33,239
+you think of somebody who is a coder,
+
+359
+00:12:33,240 --> 00:12:35,319
+they're sitting down in their own silo
+
+360
+00:12:35,320 --> 00:12:38,759
+and they're not really human to human.
+
+361
+00:12:38,760 --> 00:12:39,719
+And yet you're human,
+
+362
+00:12:39,720 --> 00:12:42,519
+you're breaking that paradigm.
+
+363
+00:12:42,520 --> 00:12:43,739
+And then I encourage anybody
+
+364
+00:12:43,939 --> 00:12:45,719
+to go and look up Gil Tayar on YouTube
+
+365
+00:12:45,720 --> 00:12:49,119
+because you did many of these talks.
+
+366
+00:12:49,120 --> 00:12:49,751
+First of all,
+
+367
+00:12:49,951 --> 00:12:51,159
+what is developer relations?
+
+368
+00:12:51,160 --> 00:12:53,063
+And then, how does that fit
+
+369
+00:12:53,263 --> 00:12:54,554
+into this idea that
+
+370
+00:12:54,754 --> 00:12:56,319
+there are thought leaders
+
+371
+00:12:56,320 --> 00:12:58,880
+in the engineering world?
+
+372
+00:12:59,080 --> 00:13:00,339
+So, developer relations
+
+373
+00:13:00,539 --> 00:13:03,719
+was used to be called evangelism,
+
+374
+00:13:03,720 --> 00:13:05,759
+and then it became developer relations
+
+375
+00:13:05,760 --> 00:13:07,839
+and now its developer advocacy.
+
+376
+00:13:07,840 --> 00:13:08,759
+But it's basically
+
+377
+00:13:08,760 --> 00:13:10,559
+a lot of things in one.
+
+378
+00:13:10,560 --> 00:13:15,000
+One is, I'm in Applitools right now
+
+379
+00:13:15,200 --> 00:13:17,359
+and we do developer tools.
+
+380
+00:13:17,360 --> 00:13:18,919
+So, if we do developer tools,
+
+381
+00:13:18,920 --> 00:13:21,159
+we need to market to developers.
+
+382
+00:13:21,160 --> 00:13:22,695
+And who's the best person
+
+383
+00:13:22,869 --> 00:13:23,919
+to market to developers?
+
+384
+00:13:23,920 --> 00:13:25,919
+Well, other developers like myself.
+
+385
+00:13:25,920 --> 00:13:27,475
+So, one thing I do is
+
+386
+00:13:27,675 --> 00:13:29,519
+we're dealing with visual testing.
+
+387
+00:13:29,520 --> 00:13:31,759
+So, I talk about testing in general
+
+388
+00:13:31,760 --> 00:13:33,679
+and visual testing and conferences
+
+389
+00:13:33,680 --> 00:13:35,159
+and thus introduce people
+
+390
+00:13:35,160 --> 00:13:36,919
+to Applitools, not as a marketing.
+
+391
+00:13:36,920 --> 00:13:39,239
+I don't say a lot of Applitools.
+
+392
+00:13:39,240 --> 00:13:40,159
+I mean, demo with Applitools
+
+393
+00:13:40,160 --> 00:13:41,759
+but that's about it.
+
+394
+00:13:41,760 --> 00:13:42,880
+But as, okay,
+
+395
+00:13:43,080 --> 00:13:45,399
+there's this thing called visual testing,
+
+396
+00:13:45,400 --> 00:13:46,532
+let's try it out
+
+397
+00:13:46,732 --> 00:13:48,159
+and let's try that with Applitools.
+
+398
+00:13:48,160 --> 00:13:49,919
+That's one thing.
+
+399
+00:13:49,920 --> 00:13:50,919
+Another thing is,
+
+400
+00:13:50,920 --> 00:13:52,639
+is branding of the company.
+
+401
+00:13:52,640 --> 00:13:55,022
+I mean, WIX has used it in Israel
+
+402
+00:13:55,222 --> 00:13:55,959
+very nicely.
+
+403
+00:13:55,960 --> 00:13:57,551
+That is how we started
+
+404
+00:13:57,751 --> 00:13:59,279
+the developer advocacy.
+
+405
+00:13:59,280 --> 00:14:00,679
+They don't care about developers
+
+406
+00:14:00,680 --> 00:14:02,839
+in terms of developer tools,
+
+407
+00:14:02,840 --> 00:14:04,497
+but they want the best developers
+
+408
+00:14:04,697 --> 00:14:05,959
+in Israel to come to WIX.
+
+409
+00:14:05,960 --> 00:14:08,359
+And one of the best ways to do that
+
+410
+00:14:08,360 --> 00:14:10,399
+is to create a brand
+
+411
+00:14:10,400 --> 00:14:12,251
+of WIX engineering
+
+412
+00:14:12,451 --> 00:14:13,749
+so that developers will want
+
+413
+00:14:13,949 --> 00:14:14,745
+to come to WIX
+
+414
+00:14:14,945 --> 00:14:16,279
+because they hear me speak
+
+415
+00:14:16,280 --> 00:14:18,959
+or other developers speak at WIX.
+
+416
+00:14:18,960 --> 00:14:21,719
+So, that's the other side of developer
+
+417
+00:14:21,720 --> 00:14:24,320
+but it is great for other companies.
+
+418
+00:14:24,320 --> 00:14:25,880
+And the third is,
+
+419
+00:14:25,881 --> 00:14:27,840
+we're a community.
+
+420
+00:14:28,920 --> 00:14:30,399
+There's nothing about I mean,
+
+421
+00:14:30,400 --> 00:14:32,079
+especially opensource.
+
+422
+00:14:32,080 --> 00:14:33,240
+It's like everything's free,
+
+423
+00:14:33,240 --> 00:14:34,680
+everything's community driven.
+
+424
+00:14:34,680 --> 00:14:36,280
+And bringing given back
+
+425
+00:14:36,280 --> 00:14:37,021
+to the community
+
+426
+00:14:37,150 --> 00:14:39,639
+is part of what I do by educating,
+
+427
+00:14:39,640 --> 00:14:41,919
+by showing what I've learned
+
+428
+00:14:41,920 --> 00:14:45,399
+and talking and all that stuff.
+
+429
+00:14:45,400 --> 00:14:49,359
+So, those for me are the three
+
+430
+00:14:49,360 --> 00:14:51,639
+facets of developer advocacy.
+
+431
+00:14:51,640 --> 00:14:54,279
+And I love the three of them.
+
+432
+00:14:54,280 --> 00:14:56,599
+How do ideas spread
+
+433
+00:14:56,600 --> 00:14:58,999
+in the developer world?
+
+434
+00:14:59,000 --> 00:15:01,959
+So, in economics and physics would be
+
+435
+00:15:01,960 --> 00:15:03,494
+through scientific papers,
+
+436
+00:15:03,694 --> 00:15:05,239
+politics would be through views.
+
+437
+00:15:05,240 --> 00:15:06,599
+How do ideas spread
+
+438
+00:15:06,600 --> 00:15:08,399
+in the world of coding?
+
+439
+00:15:08,400 --> 00:15:10,519
+Because oftentimes,
+
+440
+00:15:10,520 --> 00:15:11,319
+the things that I see
+
+441
+00:15:11,320 --> 00:15:12,359
+that you're talking about,
+
+442
+00:15:12,360 --> 00:15:14,119
+let's say visual testing
+
+443
+00:15:14,120 --> 00:15:15,519
+or why should write test for your CSS,
+
+444
+00:15:15,520 --> 00:15:16,639
+I mean, those are things
+
+445
+00:15:16,640 --> 00:15:18,959
+that are not necessarily mainstream
+
+446
+00:15:18,960 --> 00:15:21,039
+for a lot of organizations.
+
+447
+00:15:21,040 --> 00:15:21,999
+And yet you're coming in,
+
+448
+00:15:22,000 --> 00:15:24,426
+you're suggesting a paradigm shift
+
+449
+00:15:24,626 --> 00:15:26,159
+or breaking conception
+
+450
+00:15:26,160 --> 00:15:27,799
+that is not that easy.
+
+451
+00:15:27,800 --> 00:15:30,799
+So, how do these new ideas
+
+452
+00:15:30,800 --> 00:15:34,400
+become mainstream in our world?
+
+453
+00:15:35,480 --> 00:15:37,640
+Just like memes,
+
+454
+00:15:37,840 --> 00:15:41,039
+it's a struggle between ideas out there
+
+455
+00:15:41,040 --> 00:15:44,812
+and the best idea wins in a way
+
+456
+00:15:45,012 --> 00:15:47,801
+or like the most influential people
+
+457
+00:15:48,001 --> 00:15:51,276
+that bring the best ideas, they win.
+
+458
+00:15:51,476 --> 00:15:52,639
+And in essence,
+
+459
+00:15:52,640 --> 00:15:54,959
+and credits a lot about you,
+
+460
+00:15:54,960 --> 00:15:56,399
+not just about
+
+461
+00:15:56,400 --> 00:16:01,639
+the ideas you bring to the table.
+
+462
+00:16:01,640 --> 00:16:04,199
+Credentials is going out there
+
+463
+00:16:04,200 --> 00:16:05,719
+and telling what you're doing.
+
+464
+00:16:05,720 --> 00:16:06,366
+It doesn't matter
+
+465
+00:16:06,470 --> 00:16:08,359
+if it's like new visual,
+
+466
+00:16:08,360 --> 00:16:09,315
+like visual testing
+
+467
+00:16:09,515 --> 00:16:11,176
+or if it's like regular stuff.
+
+468
+00:16:11,376 --> 00:16:14,691
+Like when I talk about ES modules
+
+469
+00:16:14,891 --> 00:16:15,519
+in OJS.
+
+470
+00:16:15,520 --> 00:16:19,279
+Go out, talk, have people see you,
+
+471
+00:16:19,280 --> 00:16:20,719
+do a lot of Twitter,
+
+472
+00:16:20,720 --> 00:16:21,599
+don't do Facebook.
+
+473
+00:16:21,600 --> 00:16:22,367
+Twitter is where
+
+474
+00:16:22,549 --> 00:16:25,640
+the thought leaders are.
+
+475
+00:16:25,840 --> 00:16:28,999
+Do and start small.
+
+476
+00:16:29,000 --> 00:16:30,999
+Don't don't try go to JS cons
+
+477
+00:16:31,000 --> 00:16:32,199
+right immediately,
+
+478
+00:16:32,200 --> 00:16:33,919
+which is like this huge conference.
+
+479
+00:16:33,920 --> 00:16:35,999
+Start with local meet ups.
+
+480
+00:16:36,000 --> 00:16:37,479
+Gain the confidence there,
+
+481
+00:16:37,480 --> 00:16:38,239
+gain the people there,
+
+482
+00:16:38,240 --> 00:16:40,235
+then start going up the ladder
+
+483
+00:16:40,425 --> 00:16:41,990
+to more international
+
+484
+00:16:42,190 --> 00:16:43,479
+Israeli conferences
+
+485
+00:16:43,480 --> 00:16:46,640
+and international conferences, etc, etc.
+
+486
+00:16:46,880 --> 00:16:50,199
+Credibility, it takes time.
+
+487
+00:16:50,200 --> 00:16:54,600
+Takes like six, seven years or so.
+
+488
+00:16:55,680 --> 00:16:56,759
+It takes time,
+
+489
+00:16:56,760 --> 00:16:59,719
+start small, slowly grow up.
+
+490
+00:16:59,720 --> 00:17:01,119
+Talk about what you know.
+
+491
+00:17:01,120 --> 00:17:02,839
+It doesn't really matter.
+
+492
+00:17:02,840 --> 00:17:04,373
+You wouldn't believe
+
+493
+00:17:04,573 --> 00:17:05,469
+how much people
+
+494
+00:17:05,669 --> 00:17:07,199
+are thirsty for information.
+
+495
+00:17:07,200 --> 00:17:08,759
+Talk about what you know.
+
+496
+00:17:08,760 --> 00:17:09,240
+It'll be great.
+
+497
+00:17:09,241 --> 00:17:09,919
+100%.
+
+498
+00:17:09,920 --> 00:17:12,759
+Now, your title is Senior Architect.
+
+499
+00:17:12,760 --> 00:17:13,613
+And obviously,
+
+500
+00:17:13,813 --> 00:17:15,799
+that's not a building architect.
+
+501
+00:17:15,800 --> 00:17:18,319
+It's a different type of architecture.
+
+502
+00:17:18,320 --> 00:17:19,839
+How is that different from being
+
+503
+00:17:19,840 --> 00:17:22,040
+an engineer or a coder?
+
+504
+00:17:22,041 --> 00:17:25,559
+What is an architect in essence?
+
+505
+00:17:25,560 --> 00:17:29,079
+My sarcastic answer to that is
+
+506
+00:17:29,080 --> 00:17:31,039
+an architect is a coder
+
+507
+00:17:31,040 --> 00:17:33,600
+who's too old to be called a coder.
+
+508
+00:17:34,600 --> 00:17:37,359
+But seriously, it's not just that.
+
+509
+00:17:37,360 --> 00:17:39,319
+Once you reach a certain level
+
+510
+00:17:39,320 --> 00:17:43,799
+of a system like of a product
+
+511
+00:17:43,800 --> 00:17:45,359
+where you have more code,
+
+512
+00:17:45,360 --> 00:17:47,838
+and it's not just one server,
+
+513
+00:17:48,038 --> 00:17:52,719
+one database and rest API or whatever,
+
+514
+00:17:52,720 --> 00:17:53,919
+once you need a system
+
+515
+00:17:53,920 --> 00:17:55,479
+comprised of micro services,
+
+516
+00:17:55,480 --> 00:17:57,119
+message passing and everything,
+
+517
+00:17:57,120 --> 00:17:59,393
+you need somebody to figure out
+
+518
+00:17:59,593 --> 00:18:01,406
+what those building blocks
+
+519
+00:18:01,606 --> 00:18:02,799
+of that product is.
+
+520
+00:18:02,800 --> 00:18:03,239
+And that's what
+
+521
+00:18:03,240 --> 00:18:06,118
+a software architect does, basically.
+
+522
+00:18:06,318 --> 00:18:07,439
+I hate software.
+
+523
+00:18:07,440 --> 00:18:09,240
+I call them architecture astronauts.
+
+524
+00:18:09,241 --> 00:18:10,239
+I hate software architects.
+
+525
+00:18:10,240 --> 00:18:13,079
+I just build the architecture
+
+526
+00:18:13,080 --> 00:18:15,119
+and then throw it to developers to code.
+
+527
+00:18:15,120 --> 00:18:16,639
+That is totally wrong.
+
+528
+00:18:16,640 --> 00:18:18,079
+I build the architecture
+
+529
+00:18:18,080 --> 00:18:19,600
+along with other people
+
+530
+00:18:19,600 --> 00:18:21,040
+and then I just plunge in
+
+531
+00:18:21,041 --> 00:18:23,559
+and write it as we go along.
+
+532
+00:18:23,560 --> 00:18:26,319
+Understanding the problems with my design
+
+533
+00:18:26,320 --> 00:18:27,299
+as I go along
+
+534
+00:18:27,499 --> 00:18:28,800
+and changing it to fit
+
+535
+00:18:28,800 --> 00:18:30,280
+whatever is needed.
+
+536
+00:18:30,280 --> 00:18:30,800
+100%.
+
+537
+00:18:30,800 --> 00:18:32,480
+So, for those listening
+
+538
+00:18:32,481 --> 00:18:34,079
+that are deeply passionate
+
+539
+00:18:34,080 --> 00:18:35,168
+about engineering
+
+540
+00:18:35,368 --> 00:18:37,640
+and they see themselves as craftsmen,
+
+541
+00:18:37,640 --> 00:18:39,160
+just like you see yourself
+
+542
+00:18:39,161 --> 00:18:40,719
+and they're excited about these,
+
+543
+00:18:40,720 --> 00:18:42,159
+about being that Sherlock Holmes
+
+544
+00:18:42,160 --> 00:18:43,319
+that you're both solving the issue,
+
+545
+00:18:43,320 --> 00:18:45,399
+you're also a novel writer.
+
+546
+00:18:45,400 --> 00:18:49,000
+I just I love that analogy.
+
+547
+00:18:49,800 --> 00:18:50,719
+What tips can you give
+
+548
+00:18:50,720 --> 00:18:51,888
+from your experience
+
+549
+00:18:52,088 --> 00:18:53,760
+as they're going on their journey
+
+550
+00:18:53,960 --> 00:18:54,519
+over the years
+
+551
+00:18:54,520 --> 00:19:00,640
+to become better and more skillful?
+
+552
+00:19:02,640 --> 00:19:03,919
+Two things at least
+
+553
+00:19:03,920 --> 00:19:05,319
+that come to mind.
+
+554
+00:19:05,320 --> 00:19:10,039
+One, understand the technology
+
+555
+00:19:10,040 --> 00:19:12,719
+you're working at in a deep sense.
+
+556
+00:19:12,720 --> 00:19:14,599
+So, if you're using premises,
+
+557
+00:19:14,600 --> 00:19:17,199
+please understand premises correctly.
+
+558
+00:19:17,200 --> 00:19:18,839
+If you're using,
+
+559
+00:19:18,840 --> 00:19:21,319
+I don't know, functional programming,
+
+560
+00:19:21,320 --> 00:19:22,062
+try to understand
+
+561
+00:19:22,262 --> 00:19:24,039
+what functional programming is about.
+
+562
+00:19:24,040 --> 00:19:27,399
+If you're using Kubernetes or docker,
+
+563
+00:19:27,400 --> 00:19:29,400
+how does docker work?
+
+564
+00:19:29,760 --> 00:19:30,297
+Theoretically,
+
+565
+00:19:30,497 --> 00:19:32,879
+you don't need that information.
+
+566
+00:19:32,880 --> 00:19:35,239
+But practically in the real world,
+
+567
+00:19:35,240 --> 00:19:36,959
+you do sometimes.
+
+568
+00:19:36,960 --> 00:19:39,879
+And the deeper your understanding is,
+
+569
+00:19:39,880 --> 00:19:42,039
+the more people will
+
+570
+00:19:42,040 --> 00:19:43,239
+come to you for advice
+
+571
+00:19:43,240 --> 00:19:44,399
+and you can figure out
+
+572
+00:19:44,400 --> 00:19:46,119
+the weird problems.
+
+573
+00:19:46,120 --> 00:19:47,839
+So, that's one deep understanding
+
+574
+00:19:47,840 --> 00:19:49,519
+of whatever you're doing.
+
+575
+00:19:49,520 --> 00:19:52,759
+The second thing is, overcommunicate.
+
+576
+00:19:52,760 --> 00:19:53,679
+I don't say communicate.
+
+577
+00:19:53,680 --> 00:19:56,679
+I used to say communicate.
+
+578
+00:19:56,680 --> 00:19:57,725
+Overcommunicate,
+
+579
+00:19:57,925 --> 00:19:59,491
+say more than you think
+
+580
+00:19:59,691 --> 00:20:00,919
+that should be said.
+
+581
+00:20:00,920 --> 00:20:02,039
+It's like when your acting,
+
+582
+00:20:02,040 --> 00:20:03,359
+when you're smiling,
+
+583
+00:20:03,360 --> 00:20:04,599
+you're supposed to smile
+
+584
+00:20:04,600 --> 00:20:06,799
+much more than regular.
+
+585
+00:20:06,800 --> 00:20:09,439
+So, when you're communicating,
+
+586
+00:20:09,440 --> 00:20:12,279
+do more than what you think you should be
+
+587
+00:20:12,280 --> 00:20:13,003
+and then you get
+
+588
+00:20:13,203 --> 00:20:16,559
+to the right level of communication.
+
+589
+00:20:16,560 --> 00:20:17,399
+Okay. Problem solved.
+
+590
+00:20:17,400 --> 00:20:20,399
+Gil, why over communicate
+
+591
+00:20:20,400 --> 00:20:22,880
+and not communicate?
+
+592
+00:20:23,480 --> 00:20:24,327
+Because people
+
+593
+00:20:24,527 --> 00:20:25,959
+tend to under communicate.
+
+594
+00:20:25,960 --> 00:20:27,119
+So, when you say to people
+
+595
+00:20:27,120 --> 00:20:28,960
+overcommunicate,
+
+596
+00:20:29,120 --> 00:20:30,515
+they give the right amount
+
+597
+00:20:30,715 --> 00:20:31,479
+of communication.
+
+598
+00:20:31,480 --> 00:20:33,959
+Also, when you're explaining something,
+
+599
+00:20:33,960 --> 00:20:34,479
+when you're talking
+
+600
+00:20:34,480 --> 00:20:35,719
+about what you're doing,
+
+601
+00:20:35,720 --> 00:20:36,407
+the other side
+
+602
+00:20:36,607 --> 00:20:38,759
+doesn't really understand the context.
+
+603
+00:20:38,760 --> 00:20:40,439
+So, you have to explain and re-explain
+
+604
+00:20:40,440 --> 00:20:43,240
+and re-explain the context.
+
+605
+00:20:43,600 --> 00:20:45,119
+And that context,
+
+606
+00:20:45,120 --> 00:20:46,599
+along with your explanation,
+
+607
+00:20:46,600 --> 00:20:48,719
+that's how you get over it.
+
+608
+00:20:48,720 --> 00:20:50,959
+And communication is crazy important.
+
+609
+00:20:50,960 --> 00:20:52,839
+If you don't communicate,
+
+610
+00:20:52,840 --> 00:20:53,919
+then people won't know
+
+611
+00:20:53,920 --> 00:20:55,320
+how good you are.
+
+612
+00:20:56,880 --> 00:20:58,760
+And vice versa.
+
+613
+00:20:58,960 --> 00:20:59,879
+And I feel a lot
+
+614
+00:20:59,880 --> 00:21:00,960
+when I overcommunicate,
+
+615
+00:21:00,960 --> 00:21:02,200
+When I'm like write, write, write
+
+616
+00:21:02,201 --> 00:21:02,719
+and then I say,
+
+617
+00:21:02,720 --> 00:21:04,519
+"Hey, wait, that's wrong."
+
+618
+00:21:04,520 --> 00:21:06,020
+And then go back to my software
+
+619
+00:21:06,220 --> 00:21:06,599
+and fix it.
+
+620
+00:21:06,600 --> 00:21:07,508
+A lot of times
+
+621
+00:21:07,708 --> 00:21:10,079
+when I explain something to somebody,
+
+622
+00:21:10,080 --> 00:21:12,919
+I figure out things myself.
+
+623
+00:21:12,920 --> 00:21:14,999
+So, talk, talk, talk.
+
+624
+00:21:15,000 --> 00:21:16,160
+Write, write, write
+
+625
+00:21:16,160 --> 00:21:17,320
+as much as possible.
+
+626
+00:21:17,320 --> 00:21:19,800
+Gil, I think that's such a great insight.
+
+627
+00:21:19,801 --> 00:21:20,679
+Because I think at the end,
+
+628
+00:21:20,680 --> 00:21:22,396
+what you're saying about context
+
+629
+00:21:22,596 --> 00:21:23,039
+is crucial.
+
+630
+00:21:23,040 --> 00:21:25,559
+We sometimes think for hours
+
+631
+00:21:25,560 --> 00:21:26,679
+about a problem
+
+632
+00:21:26,680 --> 00:21:27,520
+and we come up
+
+633
+00:21:27,520 --> 00:21:29,160
+with our resolution, right?
+
+634
+00:21:29,161 --> 00:21:30,039
+And it could be
+
+635
+00:21:30,040 --> 00:21:31,399
+three bullet resolution
+
+636
+00:21:31,400 --> 00:21:33,119
+of what we think should happen.
+
+637
+00:21:33,120 --> 00:21:35,759
+And we only provide the outcome,
+
+638
+00:21:35,760 --> 00:21:37,600
+but we sometimes neglect to provide
+
+639
+00:21:37,600 --> 00:21:39,280
+the whole thinking process,
+
+640
+00:21:39,280 --> 00:21:41,040
+which explains the rationale
+
+641
+00:21:41,041 --> 00:21:41,839
+behind the solution.
+
+642
+00:21:41,840 --> 00:21:43,279
+And even if the other person
+
+643
+00:21:43,280 --> 00:21:43,814
+understands it,
+
+644
+00:21:44,014 --> 00:21:44,839
+they might not accept it
+
+645
+00:21:45,039 --> 00:21:46,245
+or they might not even understand
+
+646
+00:21:46,445 --> 00:21:47,959
+our solution without the context
+
+647
+00:21:47,960 --> 00:21:49,559
+of the thinking process.
+
+648
+00:21:49,560 --> 00:21:50,679
+So, that's definitely
+
+649
+00:21:50,680 --> 00:21:51,757
+one of the most important lessons
+
+650
+00:21:51,910 --> 00:21:53,359
+that I'm taking with me from this.
+
+651
+00:21:53,360 --> 00:21:54,669
+Gil, I want to thank you
+
+652
+00:21:54,869 --> 00:21:56,639
+for both inspiration these 20 minutes.
+
+653
+00:21:56,640 --> 00:21:58,039
+But overall, I think
+
+654
+00:21:58,040 --> 00:22:00,332
+it's been maybe seven years
+
+655
+00:22:00,532 --> 00:22:02,799
+since we've been in contact.
+
+656
+00:22:02,800 --> 00:22:03,759
+So, thank you for that.
+
+657
+00:22:03,760 --> 00:22:05,184
+And thank you for helping
+
+658
+00:22:05,384 --> 00:22:06,999
+so many youth around Israel
+
+659
+00:22:07,000 --> 00:22:08,599
+and the world through hackathon,
+
+660
+00:22:08,600 --> 00:22:10,079
+through your journey.
+
+661
+00:22:10,080 --> 00:22:11,719
+And obviously, countless people
+
+662
+00:22:11,720 --> 00:22:14,319
+that are watching your lectures
+
+663
+00:22:14,320 --> 00:22:15,199
+and your presentations
+
+664
+00:22:15,200 --> 00:22:16,759
+on YouTube and live.
+
+665
+00:22:16,760 --> 00:22:17,639
+But before we leave,
+
+666
+00:22:17,640 --> 00:22:19,039
+I have to ask you for three words
+
+667
+00:22:19,040 --> 00:22:21,280
+that you would use to describe yourself.
+
+668
+00:22:24,840 --> 00:22:26,360
+Fast.
+
+669
+00:22:27,160 --> 00:22:29,080
+Communicative.
+
+670
+00:22:29,840 --> 00:22:33,399
+And it didn't really come out this time,
+
+671
+00:22:33,400 --> 00:22:34,264
+but funny.
+
+672
+00:22:34,464 --> 00:22:35,559
+Lots of memes.
+
+673
+00:22:35,560 --> 00:22:38,119
+I can definitely testify for that.
+
+674
+00:22:38,120 --> 00:22:39,800
+Gil, thank you very much.
+
+675
+00:22:39,800 --> 00:22:42,120
+Stay safe and stay healthy.
+
+676
+00:22:42,400 --> 00:22:42,840
+Thank you.
+

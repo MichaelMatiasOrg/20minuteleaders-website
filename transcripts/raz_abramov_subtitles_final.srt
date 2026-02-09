@@ -1,0 +1,2504 @@
+1
+00:25:15,920 --> 00:25:17,040
+Raz Abramov, thank you
+
+2
+00:25:17,040 --> 00:25:17,720
+for being on my show.
+
+3
+00:25:17,720 --> 00:25:18,720
+How are you?
+
+4
+00:25:18,720 --> 00:25:19,520
+Thank you for having me.
+
+5
+00:25:19,520 --> 00:25:21,360
+All is well. How are you?
+
+6
+00:25:21,360 --> 00:25:22,360
+Everything is great.
+
+7
+00:25:22,360 --> 00:25:24,200
+It's so late in Tel Aviv right now.
+
+8
+00:25:24,200 --> 00:25:26,040
+Thank you for being here at this hour.
+
+9
+00:25:26,040 --> 00:25:27,960
+I'm really excited for this talk
+
+10
+00:25:27,960 --> 00:25:28,560
+and to chat with you
+
+11
+00:25:28,560 --> 00:25:30,680
+and to learn about your journey
+
+12
+00:25:30,680 --> 00:25:32,760
+both as an entrepreneur as a VP R&D.
+
+13
+00:25:32,760 --> 00:25:35,400
+transitioning to product from VP R&D.
+
+14
+00:25:35,400 --> 00:25:36,760
+And talking about everything
+
+15
+00:25:36,760 --> 00:25:38,640
+from helping run the company
+
+16
+00:25:38,640 --> 00:25:39,480
+from bootstrap,
+
+17
+00:25:39,480 --> 00:25:41,880
+to moving between different customers
+
+18
+00:25:41,880 --> 00:25:42,760
+around the world.
+
+19
+00:25:42,760 --> 00:25:44,760
+I can't wait to learn as much as I can
+
+20
+00:25:44,760 --> 00:25:46,000
+over those 20 minutes.
+
+21
+00:25:46,000 --> 00:25:47,680
+But Raz, I'd like to start off.
+
+22
+00:25:47,680 --> 00:25:49,000
+Tell me a little bit about your journey.
+
+23
+00:25:49,000 --> 00:25:50,760
+How did you get started?
+
+24
+00:25:50,760 --> 00:25:52,160
+How how did you end up
+
+25
+00:25:52,160 --> 00:25:55,440
+VP R&D at EverCompliant?
+
+26
+00:25:55,440 --> 00:25:57,560
+So a long journey indeed,
+
+27
+00:25:57,560 --> 00:26:00,840
+but it's only the beginning.
+- Of course
+
+28
+00:26:00,840 --> 00:26:03,520
+I've been a technologist
+
+29
+00:26:03,520 --> 00:26:05,400
+from a young age.
+
+30
+00:26:05,400 --> 00:26:08,040
+Ever since I could pick up a keyboard
+
+31
+00:26:08,040 --> 00:26:09,120
+and start typing basically
+
+32
+00:26:09,120 --> 00:26:11,640
+I started developing code.
+
+33
+00:26:11,640 --> 00:26:14,040
+How early was that would you say?
+
+34
+00:26:14,040 --> 00:26:15,160
+Seventh grade.
+
+35
+00:26:15,160 --> 00:26:16,680
+I think my dad,
+
+36
+00:26:16,680 --> 00:26:17,640
+he was also a developer,
+
+37
+00:26:17,640 --> 00:26:20,000
+still by the way today,
+
+38
+00:26:20,000 --> 00:26:22,970
+pushed a C++ book to my lap and said,
+
+39
+00:26:22,970 --> 00:26:24,260
+"Start reading."
+
+40
+00:26:24,260 --> 00:26:26,000
+So, I started reading.
+
+41
+00:26:26,000 --> 00:26:29,760
+So basically at 12, while a lot of people
+
+42
+00:26:29,760 --> 00:26:31,080
+were reading Harry Potter at 12,
+
+43
+00:26:31,080 --> 00:26:33,840
+you were reading a book on C++?
+
+44
+00:26:33,840 --> 00:26:34,800
+Yes. Something like that.
+
+45
+00:26:34,800 --> 00:26:35,600
+Okay. Good.
+
+46
+00:26:35,600 --> 00:26:38,880
+Just clarifying for everybody, yeah.
+
+47
+00:26:38,880 --> 00:26:41,050
+Then throughout high school
+
+48
+00:26:41,050 --> 00:26:44,250
+I ... my Bachelor's degree in computer science,
+
+49
+00:26:44,440 --> 00:26:46,200
+and then I joined the army to 8200 units
+
+50
+00:26:46,200 --> 00:26:50,080
+in the Technology Center
+
+51
+00:26:50,160 --> 00:26:52,360
+where I did military service.
+
+52
+00:26:52,360 --> 00:26:56,400
+Also did some training.
+
+53
+00:26:56,400 --> 00:26:59,080
+I guided the course that I'd been
+- Oh really?
+
+54
+00:26:59,080 --> 00:27:02,720
+the junior soldier.
+- Wonderful
+
+55
+00:27:02,720 --> 00:27:03,800
+That was a lot of fun.
+
+56
+00:27:03,800 --> 00:27:08,640
+And after five years, I got ... the list,
+
+57
+00:27:08,640 --> 00:27:11,760
+and then I started freelancing actually.
+
+58
+00:27:11,760 --> 00:27:12,360
+I wanted to taste
+
+59
+00:27:12,360 --> 00:27:13,800
+a little bit of everything.
+
+60
+00:27:13,800 --> 00:27:15,720
+So everything from software,
+
+61
+00:27:15,720 --> 00:27:19,720
+to chip designs, to mobile apps.
+
+62
+00:27:19,720 --> 00:27:22,600
+I helped a lot of people
+
+63
+00:27:22,600 --> 00:27:24,320
+making their dreams come true.
+
+64
+00:27:24,320 --> 00:27:25,160
+And then I decided
+
+65
+00:27:25,320 --> 00:27:27,160
+that I want to follow my own.
+
+66
+00:27:27,160 --> 00:27:30,880
+How long did you do freelancing for?
+
+67
+00:27:30,960 --> 00:27:32,680
+Roughly three years.
+
+68
+00:27:32,680 --> 00:27:34,880
+So when we started EverCompliant,
+
+69
+00:27:34,880 --> 00:27:35,640
+my company,
+
+70
+00:27:35,640 --> 00:27:39,360
+I still, we were bootstrapped
+
+71
+00:27:39,360 --> 00:27:40,380
+so I still did a little bit
+
+72
+00:27:40,380 --> 00:27:41,600
+of freelancing at first
+
+73
+00:27:41,600 --> 00:27:42,960
+but then transitioned to full time
+
+74
+00:27:42,960 --> 00:27:44,220
+once we saw it hit off.
+
+75
+00:27:44,220 --> 00:27:46,280
+Now I do want to delay
+
+76
+00:27:46,280 --> 00:27:47,960
+on this comment that you made.
+
+77
+00:27:47,960 --> 00:27:50,640
+You said something about helping others
+
+78
+00:27:50,640 --> 00:27:51,840
+make their dreams come true.
+
+79
+00:27:51,840 --> 00:27:52,800
+Right? With freelancing.
+
+80
+00:27:52,800 --> 00:27:55,040
+Elaborate a little bit about that,
+
+81
+00:27:55,040 --> 00:27:56,520
+because it's an interesting way
+
+82
+00:27:56,520 --> 00:27:58,600
+of phrasing what you were doing
+
+83
+00:27:58,600 --> 00:27:59,560
+as a freelancer.
+
+84
+00:27:59,560 --> 00:28:01,600
+And you chose to do it for three years
+
+85
+00:28:01,600 --> 00:28:03,360
+to perhaps gain perspective,
+
+86
+00:28:03,360 --> 00:28:04,680
+but what does that mean to you
+
+87
+00:28:04,680 --> 00:28:05,880
+that you were helping others
+
+88
+00:28:05,880 --> 00:28:07,480
+achieve their dreams
+
+89
+00:28:07,480 --> 00:28:09,680
+or making them come true?
+
+90
+00:28:09,680 --> 00:28:11,880
+So, as I was working,
+
+91
+00:28:11,880 --> 00:28:13,840
+and finding clients
+
+92
+00:28:13,840 --> 00:28:16,720
+is less of problem when you have
+
+93
+00:28:16,720 --> 00:28:19,440
+the community that we have
+
+94
+00:28:19,440 --> 00:28:21,880
+in the Israeli military.
+
+95
+00:28:21,880 --> 00:28:23,000
+So, I worked ... with
+
+96
+00:28:23,000 --> 00:28:23,880
+a lot of entrepreneurs
+
+97
+00:28:23,880 --> 00:28:25,160
+that had different challenges
+
+98
+00:28:25,160 --> 00:28:26,880
+in different areas
+
+99
+00:28:26,880 --> 00:28:27,960
+where they have the vision,
+
+100
+00:28:27,960 --> 00:28:29,080
+they have the idea,
+
+101
+00:28:29,080 --> 00:28:30,280
+the great concept of
+
+102
+00:28:30,280 --> 00:28:33,680
+how they want to see their idea come true.
+
+103
+00:28:33,680 --> 00:28:35,640
+And they need some guidance
+
+104
+00:28:35,640 --> 00:28:36,480
+in the technology area.
+
+105
+00:28:36,480 --> 00:28:37,560
+So just to someone
+
+106
+00:28:37,560 --> 00:28:39,560
+to explain tie it all together
+
+107
+00:28:39,560 --> 00:28:43,120
+and show them the path forward.
+
+108
+00:28:43,120 --> 00:28:45,400
+And that was a great pleasure for me
+
+109
+00:28:45,560 --> 00:28:48,200
+to work with them on these areas and
+
+110
+00:28:48,240 --> 00:28:51,040
+really to see the spark in their eyes
+
+111
+00:28:51,040 --> 00:28:53,440
+when they see the finished product and ...
+
+112
+00:28:53,440 --> 00:28:57,600
+So, just to clarify.
+
+113
+00:28:57,600 --> 00:29:00,520
+You would come in and help these
+
+114
+00:29:00,520 --> 00:29:02,400
+entrepreneurs, founders, etc,
+
+115
+00:29:02,400 --> 00:29:04,000
+or other technology teams,
+
+116
+00:29:04,000 --> 00:29:05,160
+and you would come and help them
+
+117
+00:29:05,160 --> 00:29:06,920
+with your skill sets.
+
+118
+00:29:06,920 --> 00:29:09,320
+Come in, help them with their product,
+
+119
+00:29:09,320 --> 00:29:10,440
+bring it to fruition,
+
+120
+00:29:10,440 --> 00:29:13,000
+bring their vision on the computer,
+
+121
+00:29:13,000 --> 00:29:16,040
+and then they would enjoy this product.
+
+122
+00:29:16,040 --> 00:29:17,400
+And then something within you said,
+
+123
+00:29:17,400 --> 00:29:18,600
+"Okay. I want to do this myself.
+
+124
+00:29:18,600 --> 00:29:19,900
+I want to create my own company."
+
+125
+00:29:19,900 --> 00:29:20,930
+Exactly.
+
+126
+00:29:21,120 --> 00:29:22,320
+Okay. So we're there now.
+
+127
+00:29:22,320 --> 00:29:24,840
+Tell me a little bit about EverCompliant.
+
+128
+00:29:24,840 --> 00:29:29,120
+So we started in the garage,
+
+129
+00:29:29,120 --> 00:29:32,240
+two coders and a CEO,
+
+130
+00:29:32,240 --> 00:29:35,440
+just looking for the ... and for customers.
+
+131
+00:29:35,440 --> 00:29:36,600
+We actually pivoted a few times
+
+132
+00:29:36,600 --> 00:29:38,960
+... idea.
+
+133
+00:29:38,960 --> 00:29:40,360
+We started to bootstrap completely
+
+134
+00:29:40,360 --> 00:29:41,600
+so ... fund ourselves
+
+135
+00:29:41,600 --> 00:29:44,560
+until we saw the idea really hit off.
+
+136
+00:29:44,560 --> 00:29:50,920
+And I think that the first major milestone
+
+137
+00:29:50,920 --> 00:29:53,560
+was around A funding
+
+138
+00:29:53,560 --> 00:29:55,450
+which we raised from Cardinal Ventures
+
+139
+00:29:55,450 --> 00:29:57,170
+...
+
+140
+00:29:57,160 --> 00:29:59,600
+And that happened after we landed
+
+141
+00:29:59,600 --> 00:30:01,860
+our first ... client Instacart
+
+142
+00:30:01,860 --> 00:30:03,480
+Yeah.
+
+143
+00:30:03,480 --> 00:30:06,240
+So, we've been working with them
+
+144
+00:30:06,240 --> 00:30:09,560
+on their product for about a year.
+
+145
+00:30:09,560 --> 00:30:12,720
+And as we raised our round A,
+
+146
+00:30:12,720 --> 00:30:15,600
+we saw that their problem
+
+147
+00:30:15,600 --> 00:30:16,700
+is really an international problem,
+
+148
+00:30:16,700 --> 00:30:17,960
+global problem.
+
+149
+00:30:17,960 --> 00:30:22,520
+And they had a problem with merchants
+
+150
+00:30:22,520 --> 00:30:24,640
+passing illegal activity through them
+
+151
+00:30:24,640 --> 00:30:25,520
+without them knowing.
+
+152
+00:30:25,520 --> 00:30:28,520
+So they were working with a company
+
+153
+00:30:28,520 --> 00:30:29,880
+they thought was selling shoes
+
+154
+00:30:29,880 --> 00:30:30,760
+out of ...
+
+155
+00:30:30,760 --> 00:30:32,400
+And it turns out that they
+
+156
+00:30:32,400 --> 00:30:37,120
+have been hiding illegal activity.
+
+157
+00:30:37,120 --> 00:30:38,910
+I won't mention the specifics because,
+
+158
+00:30:38,910 --> 00:30:42,320
+Yeah. We'll keep it PG-13. Right.
+
+159
+00:30:42,320 --> 00:30:45,300
+But, yeah. So, we develop technology
+
+160
+00:30:45,300 --> 00:30:46,760
+to help them see that.
+
+161
+00:30:46,760 --> 00:30:47,680
+Help them gain visibility
+
+162
+00:30:47,680 --> 00:30:48,480
+into those areas,
+
+163
+00:30:48,480 --> 00:30:50,840
+mainly in the e-commerce space.
+
+164
+00:30:50,840 --> 00:30:54,960
+And we saw that this problem was global.
+
+165
+00:30:54,960 --> 00:30:58,600
+So, we took our luggage
+
+166
+00:30:58,600 --> 00:31:01,220
+and went to MasterCard and said,
+
+167
+00:31:01,220 --> 00:31:03,160
+"Hi. We noticed a problem,
+
+168
+00:31:03,160 --> 00:31:06,120
+and can we help you solve it?"
+
+169
+00:31:06,120 --> 00:31:06,680
+They said,
+
+170
+00:31:06,680 --> 00:31:08,160
+"You arrived at the right time.
+
+171
+00:31:08,160 --> 00:31:09,280
+This is a problem.
+
+172
+00:31:09,280 --> 00:31:10,600
+We've known about it.
+
+173
+00:31:10,600 --> 00:31:12,720
+We're working on the ... solution."
+
+174
+00:31:12,720 --> 00:31:13,800
+So, hold on, hold on, Raz.
+
+175
+00:31:13,800 --> 00:31:14,560
+I want to paint the picture.
+
+176
+00:31:14,560 --> 00:31:17,360
+You have two coders and a CEO
+
+177
+00:31:17,360 --> 00:31:19,040
+out of the garage, bootstrapped,
+
+178
+00:31:19,040 --> 00:31:21,480
+just raised your series A.
+
+179
+00:31:21,680 --> 00:31:22,800
+And you're knocking on the door
+
+180
+00:31:22,800 --> 00:31:24,200
+of MasterCard and you're saying,
+
+181
+00:31:24,200 --> 00:31:26,920
+"Hey, we have this technology.
+
+182
+00:31:26,920 --> 00:31:27,640
+Is this relevant?"
+
+183
+00:31:27,640 --> 00:31:28,240
+And they're saying,
+
+184
+00:31:28,240 --> 00:31:29,520
+"Yes! It's very relevant."
+
+185
+00:31:29,520 --> 00:31:30,880
+Right?
+
+186
+00:31:30,880 --> 00:31:33,600
+Actually, that meeting is a funny story.
+- Please.
+
+187
+00:31:33,600 --> 00:31:35,080
+We arrived at the meeting
+
+188
+00:31:35,080 --> 00:31:36,320
+after meeting with
+
+189
+00:31:36,360 --> 00:31:38,720
+a potential partner in Atlanta.
+
+190
+00:31:38,720 --> 00:31:41,040
+Now, we planned to have the flight
+
+191
+00:31:41,040 --> 00:31:42,040
+the previous day
+
+192
+00:31:42,040 --> 00:31:44,320
+to arrive to New York to ...
+
+193
+00:31:44,320 --> 00:31:46,120
+But it was snowed in
+
+194
+00:31:46,320 --> 00:31:46,640
+and the airports were closed.
+
+195
+00:31:46,640 --> 00:31:48,000
+The first time
+
+196
+00:31:48,120 --> 00:31:50,560
+that snow hit Atlanta for a decade.
+- Of course.
+
+197
+00:31:50,560 --> 00:31:53,960
+So we drove all night in shifts
+
+198
+00:31:53,960 --> 00:31:56,960
+until we arrived at the meeting on time.
+
+199
+00:31:56,960 --> 00:31:59,240
+And the rest is history.
+
+200
+00:31:59,240 --> 00:32:00,400
+Wow. Wow.
+
+201
+00:32:00,400 --> 00:32:02,600
+Okay. So I mean that literally
+
+202
+00:32:02,600 --> 00:32:05,320
+is like an entrepreneur movie.
+
+203
+00:32:05,320 --> 00:32:06,600
+You get in the car and driving all night.
+
+204
+00:32:06,600 --> 00:32:08,520
+Okay. So you begin, I guess,
+
+205
+00:32:08,520 --> 00:32:11,760
+working with MasterCard and helping.
+
+206
+00:32:11,760 --> 00:32:13,720
+So, just dumb it down for me.
+
+207
+00:32:13,720 --> 00:32:15,040
+What is EverCompliant,
+
+208
+00:32:15,040 --> 00:32:17,160
+and how do you actually help
+
+209
+00:32:17,160 --> 00:32:19,680
+those that are doing online transactions?
+
+210
+00:32:19,680 --> 00:32:21,000
+Because I'm very familiar
+
+211
+00:32:21,000 --> 00:32:23,360
+with the complexity of compliance.
+
+212
+00:32:23,360 --> 00:32:24,240
+Obviously, I'm coming also
+
+213
+00:32:24,240 --> 00:32:26,080
+from the insurance space now at Hippo.
+
+214
+00:32:26,080 --> 00:32:28,280
+So, I understand compliance a little bit,
+
+215
+00:32:28,280 --> 00:32:29,440
+but not nearly enough
+
+216
+00:32:29,440 --> 00:32:31,560
+to really understand what you're doing.
+
+217
+00:32:31,560 --> 00:32:34,280
+So, our specialty is to find connections
+
+218
+00:32:34,280 --> 00:32:36,760
+between online activities
+
+219
+00:32:36,760 --> 00:32:39,080
+specifically around commerce.
+
+220
+00:32:39,080 --> 00:32:40,360
+What we found is that, today,
+
+221
+00:32:40,400 --> 00:32:41,440
+it's very easy to set up
+
+222
+00:32:41,440 --> 00:32:42,200
+an online merchant.
+
+223
+00:32:42,200 --> 00:32:43,040
+Almost too easy.
+
+224
+00:32:43,080 --> 00:32:45,200
+It takes about 10 minutes
+
+225
+00:32:45,200 --> 00:32:46,000
+and access to your
+
+226
+00:32:46,000 --> 00:32:49,320
+favorite website building platform.
+
+227
+00:32:49,320 --> 00:32:50,440
+And then you have a website ready to go
+
+228
+00:32:50,440 --> 00:32:51,760
+and you can start transacting.
+
+229
+00:32:51,760 --> 00:32:56,880
+And that acceleration
+
+230
+00:32:56,880 --> 00:32:58,800
+of e-merchants popping up
+
+231
+00:32:58,800 --> 00:33:01,040
+has created a huge smoke screen
+
+232
+00:33:01,040 --> 00:33:03,080
+where you can hide illegal activity
+
+233
+00:33:03,080 --> 00:33:05,000
+without people detecting it.
+
+234
+00:33:05,000 --> 00:33:06,280
+And that's what we're doing
+
+235
+00:33:06,280 --> 00:33:07,240
+at EverCompliant.
+
+236
+00:33:07,240 --> 00:33:09,880
+We map out all of the online activity,
+
+237
+00:33:09,880 --> 00:33:11,280
+online commerce activity.
+
+238
+00:33:11,280 --> 00:33:14,000
+And by extracting data
+
+239
+00:33:14,000 --> 00:33:15,240
+from each and every website
+
+240
+00:33:15,240 --> 00:33:17,080
+about what the website is doing
+
+241
+00:33:17,080 --> 00:33:19,400
+and who are the owners of the website,
+
+242
+00:33:19,400 --> 00:33:21,360
+who registered the domain,
+
+243
+00:33:21,360 --> 00:33:23,080
+who is the company behind it,
+
+244
+00:33:23,080 --> 00:33:24,240
+and other details,
+
+245
+00:33:24,240 --> 00:33:24,960
+we're able to connect
+
+246
+00:33:24,960 --> 00:33:26,560
+these activities together.
+
+247
+00:33:26,560 --> 00:33:28,440
+So when we approached our customers,
+
+248
+00:33:28,440 --> 00:33:30,600
+so banks, paid service providers,
+
+249
+00:33:30,600 --> 00:33:32,760
+anyone who works with online merchants,
+
+250
+00:33:32,760 --> 00:33:35,360
+we can get their ... portfolio
+
+251
+00:33:35,360 --> 00:33:37,320
+and connect to the seemingly
+
+252
+00:33:37,320 --> 00:33:39,680
+legitimate merchants to ...
+
+253
+00:33:39,680 --> 00:33:42,240
+So, give me a little bit of background
+
+254
+00:33:42,240 --> 00:33:42,800
+about this market,
+
+255
+00:33:42,800 --> 00:33:45,080
+because it sounds like this is a problem
+
+256
+00:33:45,080 --> 00:33:46,800
+that is especially relevant today.
+
+257
+00:33:46,800 --> 00:33:49,360
+Maybe less so, 15 or 20 years ago
+
+258
+00:33:49,360 --> 00:33:52,800
+when building online presence
+
+259
+00:33:52,800 --> 00:33:54,600
+and gaining credibility
+
+260
+00:33:54,600 --> 00:33:57,520
+wasn't as democratized as it is today.
+
+261
+00:33:57,520 --> 00:33:59,160
+Why aren't there so many others
+
+262
+00:33:59,160 --> 00:33:59,840
+working in this space?
+
+263
+00:33:59,840 --> 00:34:00,720
+Or maybe there are.
+
+264
+00:34:00,720 --> 00:34:01,640
+I mean, 'cause it sounds like
+
+265
+00:34:01,640 --> 00:34:03,160
+this is one of the most relevant things
+
+266
+00:34:03,160 --> 00:34:04,680
+in today's age, especially as
+
+267
+00:34:04,680 --> 00:34:07,120
+practically all of our shopping
+
+268
+00:34:07,120 --> 00:34:08,000
+is done online
+
+269
+00:34:08,000 --> 00:34:10,200
+and covid is just accelerating e-commerce,
+
+270
+00:34:10,200 --> 00:34:12,520
+I'm sure, like crazy.
+
+271
+00:34:12,520 --> 00:34:16,320
+So, there are competitors in that area.
+
+272
+00:34:16,320 --> 00:34:19,320
+I have the utmost respect for them
+
+273
+00:34:19,320 --> 00:34:22,200
+and we love a good competition.
+
+274
+00:34:22,200 --> 00:34:25,280
+And when we approached the market, we saw
+
+275
+00:34:25,280 --> 00:34:26,920
+it was a while ago,
+
+276
+00:34:26,920 --> 00:34:28,600
+we saw that that problem
+
+277
+00:34:28,600 --> 00:34:32,040
+was ramping up ...
+
+278
+00:34:32,040 --> 00:34:33,440
+I can see the numbers of merchants
+
+279
+00:34:33,440 --> 00:34:34,600
+rising up year after year.
+
+280
+00:34:34,600 --> 00:34:37,240
+And there was no solution in sight.
+
+281
+00:34:37,240 --> 00:34:40,560
+And then we basically built our platform.
+
+282
+00:34:40,560 --> 00:34:42,960
+And yeah, as the area grew,
+
+283
+00:34:43,680 --> 00:34:45,520
+our market grew,
+
+284
+00:34:45,520 --> 00:34:47,280
+and the company grew as well.
+
+285
+00:34:47,280 --> 00:34:48,480
+So how do you then,
+
+286
+00:34:48,480 --> 00:34:52,640
+as one of the founders and as VP R&D
+
+287
+00:34:52,640 --> 00:34:53,720
+and soon we'll talk about
+
+288
+00:34:53,720 --> 00:34:55,160
+this transition to product.
+
+289
+00:34:55,160 --> 00:34:56,360
+How do you think
+
+290
+00:34:56,360 --> 00:34:58,080
+or how much weight do you give
+
+291
+00:34:58,080 --> 00:35:00,040
+to the congestion of the space
+
+292
+00:35:00,040 --> 00:35:01,480
+and how your other competitors
+
+293
+00:35:01,480 --> 00:35:03,000
+are approaching this?
+
+294
+00:35:03,000 --> 00:35:05,600
+Because, if there are other competitors
+
+295
+00:35:05,600 --> 00:35:06,800
+that are direct competitors,
+
+296
+00:35:06,800 --> 00:35:08,400
+I'm guessing right now
+
+297
+00:35:08,400 --> 00:35:10,080
+as you're in the hypergrowth stage
+
+298
+00:35:10,080 --> 00:35:11,680
+and you're trying to gain credibility
+
+299
+00:35:11,680 --> 00:35:12,480
+and market share,
+
+300
+00:35:12,480 --> 00:35:14,280
+what are some of the key considerations
+
+301
+00:35:14,280 --> 00:35:16,440
+that you're bringing to the table?
+
+302
+00:35:16,560 --> 00:35:18,520
+So, as an Israeli company,
+
+303
+00:35:18,520 --> 00:35:20,720
+we started from technology.
+
+304
+00:35:20,720 --> 00:35:21,240
+Yeah. Of course.
+
+305
+00:35:21,240 --> 00:35:23,280
+But our competitors actually started
+
+306
+00:35:23,280 --> 00:35:25,000
+from different business aspects.
+
+307
+00:35:25,000 --> 00:35:26,840
+So either from business analysts
+
+308
+00:35:26,840 --> 00:35:28,760
+who built an online database
+
+309
+00:35:28,760 --> 00:35:31,240
+and ... to customers.
+
+310
+00:35:31,240 --> 00:35:33,400
+Or different varieties of that area.
+
+311
+00:35:33,400 --> 00:35:35,360
+And when we approached with a technology
+
+312
+00:35:35,360 --> 00:35:38,160
+based solution really make things
+
+313
+00:35:38,160 --> 00:35:40,240
+much better for our customers.
+
+314
+00:35:40,320 --> 00:35:41,160
+So in that aspect,
+
+315
+00:35:41,160 --> 00:35:42,680
+we always try to maintain
+
+316
+00:35:42,680 --> 00:35:43,600
+that technological edge
+
+317
+00:35:43,600 --> 00:35:44,640
+and think of the next thing
+
+318
+00:35:44,640 --> 00:35:47,200
+where the market is going to
+
+319
+00:35:47,200 --> 00:35:49,440
+so we can stay ahead of the curve.
+
+320
+00:35:49,440 --> 00:35:52,000
+And in that aspect,
+
+321
+00:35:52,000 --> 00:35:53,080
+when you're building a company,
+
+322
+00:35:53,080 --> 00:35:54,040
+then you start a path to
+
+323
+00:35:54,040 --> 00:35:55,640
+heavily invest in R&D
+
+324
+00:35:55,640 --> 00:35:57,600
+all throughout your lifecycle.
+
+325
+00:35:57,600 --> 00:35:58,600
+And I'm sure Hippo is
+
+326
+00:35:58,600 --> 00:36:00,880
+still dedicating a lot of resources there.
+
+327
+00:36:00,920 --> 00:36:03,000
+Doubling down. Yeah.
+
+328
+00:36:03,000 --> 00:36:04,920
+Yeah, absolutely.
+
+329
+00:36:04,920 --> 00:36:07,440
+So, it's something that's important
+
+330
+00:36:07,440 --> 00:36:09,160
+to put a lot of emphasis on,
+
+331
+00:36:09,360 --> 00:36:11,000
+especially when there's always pressure
+
+332
+00:36:11,000 --> 00:36:13,600
+to put more in marketing and sales,
+
+333
+00:36:13,600 --> 00:36:16,080
+just bringing the bottom line
+
+334
+00:36:16,080 --> 00:36:17,480
+to higher numbers.
+
+335
+00:36:17,480 --> 00:36:18,600
+But at the end of the day,
+
+336
+00:36:18,600 --> 00:36:19,890
+you're built on technology,
+
+337
+00:36:19,890 --> 00:36:21,960
+you're built on R&D, you're built on product.
+
+338
+00:36:21,960 --> 00:36:22,800
+I love it. Okay.
+
+339
+00:36:22,800 --> 00:36:24,840
+So, again, going back
+
+340
+00:36:24,840 --> 00:36:26,400
+to three guys in a garage,
+
+341
+00:36:26,400 --> 00:36:27,640
+two coders and a CEO.
+
+342
+00:36:27,640 --> 00:36:28,760
+You're approaching MasterCard.
+
+343
+00:36:28,760 --> 00:36:29,280
+And all of a sudden
+
+344
+00:36:29,280 --> 00:36:30,840
+you have this huge client.
+
+345
+00:36:30,840 --> 00:36:33,000
+And this is after, you're also,
+
+346
+00:36:33,000 --> 00:36:33,960
+your main experience
+
+347
+00:36:33,960 --> 00:36:35,280
+as a freelance engineer
+
+348
+00:36:35,280 --> 00:36:38,440
+is to help small teams
+
+349
+00:36:38,440 --> 00:36:40,480
+bring their products to fruition.
+
+350
+00:36:40,480 --> 00:36:43,320
+How is this transition of going from
+
+351
+00:36:43,320 --> 00:36:45,840
+some Israeli customers for EverCompliant,
+
+352
+00:36:45,840 --> 00:36:48,640
+all of a sudden seeing MasterCard
+
+353
+00:36:48,640 --> 00:36:52,280
+and working with one of the biggest
+
+354
+00:36:52,280 --> 00:36:55,760
+online transaction companies?
+
+355
+00:36:55,840 --> 00:36:56,960
+Give me a little bit of taste
+
+356
+00:36:56,960 --> 00:37:00,000
+as to what that's like.
+
+357
+00:37:00,000 --> 00:37:01,520
+So when you're working with MasterCard,
+
+358
+00:37:01,520 --> 00:37:02,280
+you have a lot of,
+
+359
+00:37:02,280 --> 00:37:04,360
+they present you ...
+
+360
+00:37:04,360 --> 00:37:06,240
+They sent us over
+
+361
+00:37:06,240 --> 00:37:08,920
+to different global companies
+
+362
+00:37:08,920 --> 00:37:11,680
+and we tested our product
+
+363
+00:37:11,680 --> 00:37:13,560
+in real time with them
+
+364
+00:37:13,560 --> 00:37:14,600
+and they saw the benefits
+
+365
+00:37:14,600 --> 00:37:16,000
+and they became
+
+366
+00:37:16,000 --> 00:37:18,160
+our first global customers.
+
+367
+00:37:18,160 --> 00:37:21,840
+And that process is really
+
+368
+00:37:21,840 --> 00:37:22,840
+it brings the company
+
+369
+00:37:22,840 --> 00:37:24,000
+to a different level of maturity,
+
+370
+00:37:24,000 --> 00:37:25,920
+because when you look for ...
+
+371
+00:37:26,000 --> 00:37:28,040
+it's very nice, it's very clean.
+
+372
+00:37:28,040 --> 00:37:29,520
+The ... position is very crisp
+
+373
+00:37:29,520 --> 00:37:30,840
+and that's what we're working on.
+
+374
+00:37:30,840 --> 00:37:33,120
+But once you bring on enterprise customers,
+
+375
+00:37:33,120 --> 00:37:34,520
+and we start ... largest enterprise,
+
+376
+00:37:34,520 --> 00:37:37,440
+there are a ton of other
+
+377
+00:37:37,520 --> 00:37:39,160
+operational compliance,
+
+378
+00:37:39,280 --> 00:37:41,000
+legal demands you have to meet.
+
+379
+00:37:41,000 --> 00:37:44,680
+Very long procurement processes.
+
+380
+00:37:44,680 --> 00:37:46,360
+Things that the company has to adjust to.
+
+381
+00:37:46,360 --> 00:37:49,920
+And so, we had some money in the bank,
+
+382
+00:37:49,920 --> 00:37:52,480
+so we were able to round that up,
+
+383
+00:37:52,480 --> 00:37:53,900
+but something
+
+384
+00:37:53,900 --> 00:37:55,080
+that you have to take into account
+
+385
+00:37:55,080 --> 00:37:57,920
+when you start a B2B or a B2enterprise.
+
+386
+00:37:57,920 --> 00:38:00,040
+Were there any things that were completely
+
+387
+00:38:00,040 --> 00:38:02,120
+mind blowing or very surprising
+
+388
+00:38:02,120 --> 00:38:04,200
+in this process as you're maturing
+
+389
+00:38:04,200 --> 00:38:05,560
+the company very quickly?
+
+390
+00:38:05,560 --> 00:38:06,280
+Because I'm guessing
+
+391
+00:38:06,280 --> 00:38:08,360
+from the moment that you're signing
+
+392
+00:38:08,360 --> 00:38:09,200
+with MasterCard,
+
+393
+00:38:09,200 --> 00:38:10,800
+pretty much it's like go time.
+
+394
+00:38:10,800 --> 00:38:13,560
+You have to reach that maturity
+
+395
+00:38:13,560 --> 00:38:16,120
+very quickly, right?
+
+396
+00:38:16,120 --> 00:38:20,160
+Yeah. It's been a meeting after meeting
+
+397
+00:38:20,160 --> 00:38:21,720
+of long requirements
+
+398
+00:38:21,720 --> 00:38:23,800
+showing up at our doorstep.
+
+399
+00:38:23,800 --> 00:38:25,280
+And we had to ramp up
+
+400
+00:38:25,320 --> 00:38:26,960
+our new team very quickly.
+
+401
+00:38:26,960 --> 00:38:29,600
+We had to ramp up legal compliance.
+
+402
+00:38:29,600 --> 00:38:31,320
+We had to do standardization efforts.
+
+403
+00:38:31,320 --> 00:38:35,000
+And it's all a big, again, as you're building
+
+404
+00:38:35,000 --> 00:38:35,360
+your technology.
+
+405
+00:38:35,360 --> 00:38:38,280
+We're still a young company.
+
+406
+00:38:38,280 --> 00:38:43,520
+It's a huge task to take.
+
+407
+00:38:43,520 --> 00:38:45,680
+Of course.
+
+408
+00:38:45,680 --> 00:38:47,880
+And so, talk to me a little bit
+
+409
+00:38:47,880 --> 00:38:48,640
+about this transition
+
+410
+00:38:48,640 --> 00:38:49,400
+that you're doing now.
+
+411
+00:38:49,400 --> 00:38:51,880
+So, VP R&D for EverCompliant.
+
+412
+00:38:51,880 --> 00:38:54,800
+You started as a founder and VP R&D
+
+413
+00:38:54,800 --> 00:38:55,880
+and you continued until now.
+
+414
+00:38:55,880 --> 00:38:56,960
+And you mentioned that you're making
+
+415
+00:38:56,960 --> 00:38:59,120
+this very interesting transition
+
+416
+00:38:59,120 --> 00:39:01,520
+to running the product.
+
+417
+00:39:01,560 --> 00:39:01,920
+Yeah.
+
+418
+00:39:01,920 --> 00:39:03,920
+So, it all started
+
+419
+00:39:03,920 --> 00:39:05,760
+about two years ago.
+
+420
+00:39:05,760 --> 00:39:08,520
+So as a younger founder,
+
+421
+00:39:08,520 --> 00:39:10,400
+you're doing pretty much
+
+422
+00:39:10,440 --> 00:39:11,480
+a little bit of everything.
+
+423
+00:39:11,480 --> 00:39:12,240
+Right.
+
+424
+00:39:12,240 --> 00:39:14,080
+So, I thought that
+
+425
+00:39:14,080 --> 00:39:15,360
+there was a place for me
+
+426
+00:39:15,360 --> 00:39:17,600
+to really take the product
+
+427
+00:39:17,600 --> 00:39:18,680
+and the company forward
+
+428
+00:39:18,720 --> 00:39:20,640
+and to lead that area.
+
+429
+00:39:20,640 --> 00:39:22,200
+And it's also been
+
+430
+00:39:22,200 --> 00:39:24,600
+very interesting for me personally.
+
+431
+00:39:24,600 --> 00:39:26,160
+And it seemed like something
+
+432
+00:39:26,160 --> 00:39:28,120
+that the company would benefit from.
+
+433
+00:39:28,120 --> 00:39:29,750
+So then we started looking for a VP R&D.
+
+434
+00:39:29,750 --> 00:39:30,480
+It took us about a year
+
+435
+00:39:30,480 --> 00:39:32,000
+to find someone who was suitable
+
+436
+00:39:32,000 --> 00:39:34,280
+and is a great hire and still
+
+437
+00:39:34,280 --> 00:39:36,120
+obviously with the company.
+
+438
+00:39:36,120 --> 00:39:37,560
+And last year, last August actually,
+
+439
+00:39:37,560 --> 00:39:40,880
+I started running the product.
+
+440
+00:39:40,880 --> 00:39:42,520
+And I have to say that
+
+441
+00:39:42,520 --> 00:39:45,200
+being a technology and a founder
+
+442
+00:39:45,200 --> 00:39:47,680
+and product is,
+
+443
+00:39:47,680 --> 00:39:50,000
+they have a lot of overlap between them,
+
+444
+00:39:50,000 --> 00:39:51,920
+especially in a young company.
+
+445
+00:39:51,920 --> 00:39:52,800
+When you're building technology,
+
+446
+00:39:52,800 --> 00:39:56,080
+you always have to have a product mindset.
+
+447
+00:39:56,080 --> 00:39:57,560
+You have to understand what's replicable
+
+448
+00:39:57,560 --> 00:39:58,080
+and what's not.
+
+449
+00:39:58,080 --> 00:39:59,880
+What to build, what not to build.
+
+450
+00:40:00,080 --> 00:40:00,720
+When to say "no" and
+
+451
+00:40:00,720 --> 00:40:04,800
+it's difficult with enterprise to have someone say "no".
+
+452
+00:40:04,800 --> 00:40:06,040
+But it's something that
+
+453
+00:40:06,040 --> 00:40:07,560
+you have to always take into account
+
+454
+00:40:07,560 --> 00:40:08,600
+and really take that
+
+455
+00:40:08,600 --> 00:40:10,240
+and to ramp up
+
+456
+00:40:10,240 --> 00:40:11,480
+first of all myself and product,
+
+457
+00:40:11,480 --> 00:40:12,440
+because I haven't had any
+
+458
+00:40:12,440 --> 00:40:14,040
+formal training before.
+
+459
+00:40:14,040 --> 00:40:15,400
+So to ramp that up
+
+460
+00:40:15,440 --> 00:40:17,960
+and ... that mindset
+
+461
+00:40:18,000 --> 00:40:20,840
+has been amazing for me.
+
+462
+00:40:21,000 --> 00:40:23,280
+But how do you go to an existing company
+
+463
+00:40:23,280 --> 00:40:24,160
+that you're a part of,
+
+464
+00:40:24,160 --> 00:40:25,720
+and all of a sudden
+
+465
+00:40:25,720 --> 00:40:27,680
+assume the role of running the product
+
+466
+00:40:27,680 --> 00:40:29,640
+without prior knowledge
+
+467
+00:40:29,640 --> 00:40:31,600
+of running products for companies?
+
+468
+00:40:31,600 --> 00:40:32,720
+Because essentially,
+
+469
+00:40:32,720 --> 00:40:34,040
+you're taking on the responsibility
+
+470
+00:40:34,040 --> 00:40:35,680
+of now building something
+
+471
+00:40:35,680 --> 00:40:36,600
+that needs to scale,
+
+472
+00:40:36,600 --> 00:40:38,080
+needs to service the market,
+
+473
+00:40:38,080 --> 00:40:39,080
+and I'm guessing
+
+474
+00:40:39,080 --> 00:40:41,440
+that one of the main motivations now
+
+475
+00:40:41,440 --> 00:40:42,120
+of EverCompliant
+
+476
+00:40:42,120 --> 00:40:44,080
+is to start gaining market share
+
+477
+00:40:44,080 --> 00:40:45,920
+and gaining market dominance.
+
+478
+00:40:45,920 --> 00:40:48,200
+And a lot of it is on your shoulders now
+
+479
+00:40:48,200 --> 00:40:49,960
+because you're running the product.
+
+480
+00:40:49,960 --> 00:40:51,920
+So, how do you quickly catch up
+
+481
+00:40:51,920 --> 00:40:55,040
+to that skill set?
+
+482
+00:40:55,040 --> 00:40:57,560
+So, for me, it's been a few parts.
+
+483
+00:40:57,560 --> 00:41:00,320
+First of all, I'm fortunate to know
+
+484
+00:41:00,320 --> 00:41:03,640
+a lot of very talented people
+
+485
+00:41:03,640 --> 00:41:05,400
+who are product managers.
+
+486
+00:41:05,400 --> 00:41:07,180
+And I've met with them,
+
+487
+00:41:07,180 --> 00:41:07,970
+learned from them,
+
+488
+00:41:07,970 --> 00:41:09,920
+asked a lot of questions,
+
+489
+00:41:09,920 --> 00:41:11,660
+nagged them for quite a while.
+
+490
+00:41:11,660 --> 00:41:14,000
+And learned a lot that way.
+
+491
+00:41:14,000 --> 00:41:16,000
+I've also had a chance to work
+
+492
+00:41:16,000 --> 00:41:17,720
+alongside product managers,
+
+493
+00:41:17,720 --> 00:41:18,520
+amazing product managers,
+
+494
+00:41:18,520 --> 00:41:20,120
+...
+
+495
+00:41:20,120 --> 00:41:21,720
+And last but not least,
+
+496
+00:41:21,720 --> 00:41:23,880
+I've also dedicated lot of time to read
+
+497
+00:41:23,880 --> 00:41:26,960
+almost any book in existence on product
+
+498
+00:41:27,160 --> 00:41:28,680
+to really formalize the training
+
+499
+00:41:28,680 --> 00:41:32,080
+and to ramp up my knowledge around that.
+
+500
+00:41:32,080 --> 00:41:34,320
+And I'm still learning a lot every day.
+
+501
+00:41:34,320 --> 00:41:38,000
+So it's a never ending story.
+
+502
+00:41:38,000 --> 00:41:39,880
+I'm sure. I'm sure.
+
+503
+00:41:39,880 --> 00:41:42,440
+What are the biggest challenges
+
+504
+00:41:42,440 --> 00:41:44,520
+that you and your co-founders have faced
+
+505
+00:41:44,520 --> 00:41:46,480
+over the past few years
+
+506
+00:41:46,480 --> 00:41:48,440
+in your EverCompliant journey?
+
+507
+00:41:48,440 --> 00:41:50,920
+It could be the bootstrapping part,
+
+508
+00:41:50,920 --> 00:41:51,880
+the fundraising part,
+
+509
+00:41:51,880 --> 00:41:52,680
+the hiring part.
+
+510
+00:41:52,720 --> 00:41:53,600
+What were some of the things
+
+511
+00:41:53,600 --> 00:41:54,960
+that you faced that were like,
+
+512
+00:41:54,960 --> 00:41:56,680
+Wow, this is a huge challenge
+
+513
+00:41:56,680 --> 00:41:59,000
+and I'm really excited to tackle it.
+
+514
+00:41:59,000 --> 00:42:01,280
+So, there are a lot of
+
+515
+00:42:01,280 --> 00:42:02,480
+different challenges over the years
+
+516
+00:42:02,480 --> 00:42:03,120
+I have to say,
+
+517
+00:42:03,120 --> 00:42:06,160
+but I think the main challenge we had
+
+518
+00:42:06,160 --> 00:42:09,080
+is going from local to global.
+
+519
+00:42:09,080 --> 00:42:12,120
+So, from Israel to the United States,
+
+520
+00:42:12,120 --> 00:42:14,120
+to everywhere else in the world.
+
+521
+00:42:14,120 --> 00:42:15,440
+And different geographies
+
+522
+00:42:15,440 --> 00:42:18,160
+have different regulations, different mindsets,
+
+523
+00:42:18,160 --> 00:42:20,920
+different procurement ...
+
+524
+00:42:20,920 --> 00:42:23,200
+And to learn to take all that in and
+
+525
+00:42:23,200 --> 00:42:25,000
+to really build a company around this
+
+526
+00:42:25,000 --> 00:42:28,520
+... been an amazing journey.
+
+527
+00:42:28,520 --> 00:42:31,120
+I love it.
+
+528
+00:42:31,120 --> 00:42:32,880
+And any advice that you would give
+
+529
+00:42:32,880 --> 00:42:34,320
+to other young entrepreneurs
+
+530
+00:42:34,320 --> 00:42:35,360
+who are perhaps
+
+531
+00:42:35,360 --> 00:42:36,520
+just starting their journey?
+
+532
+00:42:36,520 --> 00:42:39,440
+Maybe they're finishing the same course
+
+533
+00:42:39,440 --> 00:42:40,880
+that you and I did,
+
+534
+00:42:40,880 --> 00:42:42,600
+and now they're transitioning out
+
+535
+00:42:42,600 --> 00:42:44,360
+to the real world and they're considering
+
+536
+00:42:44,360 --> 00:42:45,840
+starting out a company from their garage.
+
+537
+00:42:45,840 --> 00:42:47,840
+But as both of us know,
+
+538
+00:42:47,840 --> 00:42:50,320
+it's a weird experience
+
+539
+00:42:50,320 --> 00:42:53,920
+going out from the IDF's bubble
+
+540
+00:42:53,920 --> 00:42:55,760
+to the real world
+
+541
+00:42:55,760 --> 00:42:59,720
+and doing different technology, obviously.
+
+542
+00:42:59,880 --> 00:43:00,560
+So, first of all,
+
+543
+00:43:00,560 --> 00:43:03,440
+I'll say what I always say to my employees
+
+544
+00:43:03,440 --> 00:43:05,040
+when they ask one day
+
+545
+00:43:05,040 --> 00:43:06,800
+they want to open a startup
+
+546
+00:43:06,800 --> 00:43:07,640
+whether to do it or not.
+
+547
+00:43:07,680 --> 00:43:08,440
+I will say, "Do it,
+
+548
+00:43:08,440 --> 00:43:09,120
+and if you do that,
+
+549
+00:43:09,200 --> 00:43:11,600
+I will help you anyway I can"
+
+550
+00:43:11,600 --> 00:43:13,400
+I think it's an amazing experience.
+
+551
+00:43:13,400 --> 00:43:15,080
+So anybody watching this,
+
+552
+00:43:15,080 --> 00:43:16,600
+if anybody needs advice,
+
+553
+00:43:16,600 --> 00:43:19,880
+Raz Abramov is here.
+
+554
+00:43:19,880 --> 00:43:20,640
+Absolutely.
+
+555
+00:43:20,640 --> 00:43:22,250
+My door and Facebook are always open.
+
+556
+00:43:22,250 --> 00:43:25,040
+I love it.
+
+557
+00:43:25,040 --> 00:43:27,120
+Okay. So now,
+
+558
+00:43:27,120 --> 00:43:29,040
+comes the most important question.
+
+559
+00:43:29,040 --> 00:43:30,480
+Why did you do it?
+
+560
+00:43:30,480 --> 00:43:32,840
+So, I understand why you transitioned
+
+561
+00:43:32,840 --> 00:43:34,440
+from freelance and you said,
+
+562
+00:43:34,440 --> 00:43:35,720
+"Okay. I'm helping others
+
+563
+00:43:35,720 --> 00:43:37,640
+achieve their dreams"
+
+564
+00:43:37,640 --> 00:43:39,160
+What I'm trying to understand also
+
+565
+00:43:39,160 --> 00:43:40,680
+is why you chose to go
+
+566
+00:43:40,680 --> 00:43:41,760
+and start a company?
+
+567
+00:43:41,760 --> 00:43:43,200
+Because you didn't choose to go
+
+568
+00:43:43,200 --> 00:43:44,280
+and work at a corporate
+
+569
+00:43:44,280 --> 00:43:46,880
+or experience running engineering
+
+570
+00:43:46,880 --> 00:43:48,560
+at other companies and then product.
+
+571
+00:43:48,560 --> 00:43:49,520
+You said, "I'm ready to go
+
+572
+00:43:49,520 --> 00:43:51,320
+and start my own business."
+
+573
+00:43:51,320 --> 00:43:52,240
+And that's an interesting
+
+574
+00:43:52,240 --> 00:43:52,960
+transition to me.
+
+575
+00:43:52,960 --> 00:43:54,120
+So, talk to me a little bit about
+
+576
+00:43:54,120 --> 00:43:55,080
+why you chose to do it
+
+577
+00:43:55,080 --> 00:43:58,080
+and what really gets you up every morning.
+
+578
+00:43:58,080 --> 00:44:00,480
+So, actually, it was a decision I made
+
+579
+00:44:00,480 --> 00:44:01,200
+when I was very young.
+
+580
+00:44:01,200 --> 00:44:03,120
+I was about 17, I think.
+
+581
+00:44:03,120 --> 00:44:04,730
+I saw the great stories
+
+582
+00:44:04,730 --> 00:44:06,120
+of the startups of the day,
+
+583
+00:44:06,120 --> 00:44:10,320
+and I wanted my own story to be written.
+
+584
+00:44:10,320 --> 00:44:13,320
+So that's my main driver here,
+
+585
+00:44:13,320 --> 00:44:16,200
+and that's still my main driver to date.
+
+586
+00:44:16,200 --> 00:44:17,880
+So, I want to write that story.
+
+587
+00:44:17,880 --> 00:44:19,160
+I want to write that big story
+
+588
+00:44:19,160 --> 00:44:22,200
+that young people look up to and say,
+
+589
+00:44:22,200 --> 00:44:24,480
+"I want to be that person one day."
+
+590
+00:44:24,480 --> 00:44:26,280
+And how do you do that then?
+
+591
+00:44:26,280 --> 00:44:29,160
+So, does that mean that EverCompliant
+
+592
+00:44:29,160 --> 00:44:32,440
+needs to reach substantial heights?
+
+593
+00:44:32,440 --> 00:44:33,720
+Does it mean that you need
+
+594
+00:44:33,720 --> 00:44:36,800
+to be seen as somebody
+
+595
+00:44:36,800 --> 00:44:38,640
+who is sort of like a mentor to others?
+
+596
+00:44:38,640 --> 00:44:39,720
+How do you get to the point
+
+597
+00:44:39,720 --> 00:44:43,320
+where you're writing that story?
+
+598
+00:44:43,320 --> 00:44:44,680
+So, first of all,
+
+599
+00:44:44,680 --> 00:44:46,680
+there's no "I" in company.
+
+600
+00:44:46,680 --> 00:44:51,160
+So, EverCompliant is like a baby for me.
+
+601
+00:44:51,160 --> 00:44:53,840
+I've seen it from infancy,
+
+602
+00:44:53,840 --> 00:44:55,080
+and I want to see it
+
+603
+00:44:55,080 --> 00:44:57,400
+reach as high as possible.
+
+604
+00:44:57,400 --> 00:45:01,960
+And as long as there's breath in me
+
+605
+00:45:01,960 --> 00:45:03,040
+I will always strive
+
+606
+00:45:03,040 --> 00:45:05,800
+to move that company forward.
+
+607
+00:45:05,800 --> 00:45:10,760
+And yeah, I think that's it.
+
+608
+00:45:10,760 --> 00:45:12,360
+I love it.
+
+609
+00:45:12,360 --> 00:45:13,560
+Raz, I want to thank you again
+
+610
+00:45:13,560 --> 00:45:15,320
+for your generosity and your time.
+
+611
+00:45:15,320 --> 00:45:19,400
+It sounds like an incredible journey.
+
+612
+00:45:19,400 --> 00:45:21,320
+I'm going to wait for the movie
+
+613
+00:45:21,320 --> 00:45:23,360
+about the meeting with MasterCard
+
+614
+00:45:23,360 --> 00:45:24,240
+and driving all night.
+
+615
+00:45:24,240 --> 00:45:25,920
+But before we leave,
+
+616
+00:45:25,920 --> 00:45:27,840
+I need three words that you would use
+
+617
+00:45:27,840 --> 00:45:30,040
+to describe yourself.
+
+618
+00:45:30,040 --> 00:45:31,400
+Whatever it takes.
+
+619
+00:45:31,400 --> 00:45:34,080
+Whatever it takes.
+
+620
+00:45:34,080 --> 00:45:34,680
+I love it.
+
+621
+00:45:34,680 --> 00:45:36,200
+Raz, toda raba.
+
+622
+00:45:36,200 --> 00:45:37,400
+Thank you very very much,
+
+623
+00:45:37,400 --> 00:45:38,720
+and I look forward to sharing this
+
+624
+00:45:38,720 --> 00:45:39,120
+with the world.
+
+625
+00:45:39,120 --> 00:45:39,560
+Thank you.

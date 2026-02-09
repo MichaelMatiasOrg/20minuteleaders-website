@@ -1,0 +1,3296 @@
+﻿1
+00:00:00,440 --> 00:00:02,440
+I'm just a person that was very lucky,
+
+2
+00:00:02,440 --> 00:00:04,840
+I did something that I liked
+
+3
+00:00:04,840 --> 00:00:06,240
+since I was a kid,
+
+4
+00:00:06,240 --> 00:00:07,840
+which was writing code.
+
+5
+00:00:07,840 --> 00:00:09,440
+Getting into computers at the time
+
+6
+00:00:09,440 --> 00:00:12,500
+it wasn't a popular thing.
+
+7
+00:00:39,800 --> 00:00:41,560
+Oren Dobronsky, thank you so much
+
+8
+00:00:41,560 --> 00:00:43,040
+for joining me on 20 Minute Leaders.
+
+9
+00:00:43,040 --> 00:00:44,600
+How are you?
+
+10
+00:00:44,760 --> 00:00:45,400
+Very good.
+
+11
+00:00:45,400 --> 00:00:46,680
+Thank you for having me.
+
+12
+00:00:46,680 --> 00:00:48,040
+I am blushing.
+
+13
+00:00:48,040 --> 00:00:49,760
+I'm a huge, huge fan,
+
+14
+00:00:49,760 --> 00:00:51,000
+I have to say.
+
+15
+00:00:51,000 --> 00:00:52,520
+I'm a huge fan on several fronts.
+
+16
+00:00:52,520 --> 00:00:54,600
+First of all, your Hummus helped me
+
+17
+00:00:54,600 --> 00:00:56,080
+get through many final exams
+
+18
+00:00:56,080 --> 00:00:58,120
+at Stanford, not just me,
+
+19
+00:00:58,120 --> 00:01:00,440
+but about all of my dorm.
+
+20
+00:01:00,440 --> 00:01:02,360
+It's Stanford's favorite restaurant,
+
+21
+00:01:02,360 --> 00:01:03,480
+I have no doubt.
+
+22
+00:01:03,480 --> 00:01:06,080
+The second thing is the direct flight
+
+23
+00:01:06,080 --> 00:01:07,680
+between San Francisco and Tel Aviv.
+
+24
+00:01:07,680 --> 00:01:10,040
+I believe you had quite an important hand
+
+25
+00:01:10,040 --> 00:01:11,440
+in making that happen.
+
+26
+00:01:11,440 --> 00:01:12,720
+So, my father, myself
+
+27
+00:01:12,720 --> 00:01:14,040
+and everybody else,
+
+28
+00:01:14,040 --> 00:01:15,600
+really thank you for that.
+
+29
+00:01:15,600 --> 00:01:16,760
+But more importantly than that,
+
+30
+00:01:16,760 --> 00:01:18,440
+Oren, you have an incredible,
+
+31
+00:01:18,440 --> 00:01:21,560
+streamline of entrepreneurship endeavors
+
+32
+00:01:21,560 --> 00:01:22,400
+that you've had.
+
+33
+00:01:22,400 --> 00:01:24,960
+Most recently, an incredible unclear,
+
+34
+00:01:24,960 --> 00:01:27,080
+given that I can't wait to hear about it.
+
+35
+00:01:27,080 --> 00:01:28,920
+But also a pretty prominent,
+
+36
+00:01:28,920 --> 00:01:30,720
+now TV persona,
+
+37
+00:01:30,720 --> 00:01:32,280
+through the Sharks in Israel.
+
+38
+00:01:32,280 --> 00:01:34,177
+So, wow.
+
+39
+00:01:34,178 --> 00:01:39,400
+Oren, how did you do so many things?
+
+40
+00:01:39,680 --> 00:01:41,000
+I don't know.
+
+41
+00:01:41,000 --> 00:01:43,120
+I guess I can't help it.
+
+42
+00:01:43,120 --> 00:01:45,000
+That's the right answer.
+
+43
+00:01:45,000 --> 00:01:46,840
+I love that answer.
+
+44
+00:01:46,960 --> 00:01:49,320
+But tell me how you started.
+
+45
+00:01:49,320 --> 00:01:52,520
+You went to Mamram, and from there
+
+46
+00:01:52,520 --> 00:01:54,440
+how does this happen?
+
+47
+00:01:54,441 --> 00:01:57,240
+So, I consider myself very lucky.
+
+48
+00:01:57,240 --> 00:01:59,000
+That's the bottom line.
+
+49
+00:01:59,000 --> 00:02:01,040
+I'm just the person that was very lucky.
+
+50
+00:02:01,040 --> 00:02:03,440
+I did something that I liked
+
+51
+00:02:03,440 --> 00:02:04,840
+since I was a kid
+
+52
+00:02:04,840 --> 00:02:06,400
+which was writing code.
+
+53
+00:02:06,400 --> 00:02:08,000
+Getting into computers at the time
+
+54
+00:02:08,000 --> 00:02:11,200
+it wasn't a popular thing.
+
+55
+00:02:11,200 --> 00:02:12,800
+My parents used to shout at me,
+
+56
+00:02:12,801 --> 00:02:13,169
+you know,
+
+57
+00:02:13,170 --> 00:02:14,440
+"Why don't you go out and play?"
+
+58
+00:02:14,440 --> 00:02:16,400
+And I said, "I just love it."
+
+59
+00:02:16,400 --> 00:02:18,120
+And I used to play a lot
+
+60
+00:02:18,120 --> 00:02:19,240
+with my computer.
+
+61
+00:02:19,240 --> 00:02:21,560
+And then it was very natural
+
+62
+00:02:21,560 --> 00:02:23,560
+for me to go to Mamram.
+
+63
+00:02:23,560 --> 00:02:26,200
+And when I was leading the army,
+
+64
+00:02:26,200 --> 00:02:27,360
+it was '96
+
+65
+00:02:27,360 --> 00:02:29,440
+and I really had this vision
+
+66
+00:02:29,440 --> 00:02:31,000
+of what the Internet can happen.
+
+67
+00:02:31,000 --> 00:02:33,880
+And back then, in Israel in '96,
+
+68
+00:02:33,880 --> 00:02:36,920
+very few people thought, you know,
+
+69
+00:02:36,920 --> 00:02:39,120
+about the upcoming revolution.
+
+70
+00:02:39,120 --> 00:02:42,440
+So, I started my first startup in '97
+
+71
+00:02:42,440 --> 00:02:44,120
+just because I felt that again.
+
+72
+00:02:44,120 --> 00:02:46,120
+This was like I had
+
+73
+00:02:46,120 --> 00:02:47,400
+to do something about it
+
+74
+00:02:47,400 --> 00:02:50,120
+and I created my first startup.
+
+75
+00:02:50,120 --> 00:02:51,920
+It was the first Craigslist.
+
+76
+00:02:51,920 --> 00:02:53,600
+I didn't even know about Craigslist,
+
+77
+00:02:53,600 --> 00:02:56,960
+but I still get to Craigslist in Israel.
+
+78
+00:02:56,960 --> 00:02:57,960
+A bulletin board.
+
+79
+00:02:57,960 --> 00:03:01,120
+And I mean, the year wasn't,
+
+80
+00:03:01,120 --> 00:03:02,760
+the market wasn't ready.
+
+81
+00:03:02,760 --> 00:03:04,600
+So, I had to close that the year later.
+
+82
+00:03:04,600 --> 00:03:06,840
+It was a big heartache.
+
+83
+00:03:06,840 --> 00:03:08,480
+And thank God I had a girlfriend
+
+84
+00:03:08,480 --> 00:03:09,400
+at the time who told me,
+
+85
+00:03:09,400 --> 00:03:11,600
+"You must work on the second one."
+
+86
+00:03:11,600 --> 00:03:12,120
+I told her, "You know,
+
+87
+00:03:12,120 --> 00:03:14,200
+it doesn't work this Internet."
+
+88
+00:03:14,200 --> 00:03:16,160
+And she said, "No no no. You must do it."
+
+89
+00:03:16,160 --> 00:03:18,000
+And so I started my second one.
+
+90
+00:03:18,000 --> 00:03:21,440
+And then I basically hit the jackpot.
+
+91
+00:03:21,440 --> 00:03:25,360
+I came up with a concept of toolbar.
+
+92
+00:03:25,360 --> 00:03:27,280
+And I hold the patent over toolbar
+
+93
+00:03:27,280 --> 00:03:30,480
+and that became history.
+
+94
+00:03:30,960 --> 00:03:33,200
+Unbelievable, literally everywhere.
+
+95
+00:03:33,200 --> 00:03:35,520
+That is Hotbar, correct?
+
+96
+00:03:35,520 --> 00:03:37,880
+Right. That was Hotbar.
+
+97
+00:03:37,880 --> 00:03:39,840
+We had an estimate that
+
+98
+00:03:39,840 --> 00:03:40,640
+we had like one
+
+99
+00:03:40,640 --> 00:03:43,080
+in every four computers in the world
+
+100
+00:03:43,080 --> 00:03:46,280
+had our toolbar installed, at the time.
+
+101
+00:03:46,280 --> 00:03:48,640
+That is just unbelievable.
+
+102
+00:03:48,640 --> 00:03:49,360
+Talk to me a little bit
+
+103
+00:03:49,360 --> 00:03:50,880
+about that resilience
+
+104
+00:03:50,880 --> 00:03:52,120
+of being a young entrepreneur.
+
+105
+00:03:52,120 --> 00:03:54,480
+Your first startup fails.
+
+106
+00:03:54,480 --> 00:03:55,880
+With the inspiration and motivation
+
+107
+00:03:55,880 --> 00:03:56,520
+from your girlfriend,
+
+108
+00:03:56,520 --> 00:03:57,680
+you moved on to the second startup
+
+109
+00:03:57,680 --> 00:03:59,480
+and it skyrockets to the point
+
+110
+00:03:59,480 --> 00:04:01,680
+where you are literally in a quarter
+
+111
+00:04:01,680 --> 00:04:03,240
+of the computers in the world.
+
+112
+00:04:03,240 --> 00:04:04,600
+What was that transition like?
+
+113
+00:04:04,600 --> 00:04:07,160
+How do you fathom that transition?
+
+114
+00:04:07,160 --> 00:04:09,160
+Well, you know, even then,
+
+115
+00:04:09,160 --> 00:04:12,160
+the mindset, it was so,
+
+116
+00:04:12,160 --> 00:04:13,040
+everything was so,
+
+117
+00:04:13,040 --> 00:04:15,040
+every day there were new things.
+
+118
+00:04:15,040 --> 00:04:16,320
+People didn't really know.
+
+119
+00:04:16,320 --> 00:04:17,320
+They would know today.
+
+120
+00:04:17,321 --> 00:04:19,760
+It's funny today when you start stuff,
+
+121
+00:04:19,760 --> 00:04:21,320
+there's so much material
+
+122
+00:04:21,320 --> 00:04:23,040
+to read about and to learn,
+
+123
+00:04:23,040 --> 00:04:25,160
+you know, even when you went to Stanford.
+
+124
+00:04:25,160 --> 00:04:26,600
+At the time there was nothing.
+
+125
+00:04:26,600 --> 00:04:27,880
+Anyone who did anything
+
+126
+00:04:27,880 --> 00:04:29,040
+in the Internet space,
+
+127
+00:04:29,040 --> 00:04:30,320
+it was all discovered.
+
+128
+00:04:30,320 --> 00:04:33,280
+It was a totally like the Wild West.
+
+129
+00:04:33,280 --> 00:04:34,360
+I think about it this way.
+
+130
+00:04:34,360 --> 00:04:36,160
+You know, we needed to invent,
+
+131
+00:04:36,160 --> 00:04:38,720
+you know, from the methodology.
+
+132
+00:04:38,720 --> 00:04:40,200
+And what are you going to do,
+
+133
+00:04:40,200 --> 00:04:42,440
+how you're going to do, there were no tools.
+
+134
+00:04:42,440 --> 00:04:44,440
+You need to build everything yourself.
+
+135
+00:04:44,440 --> 00:04:46,880
+Obviously, there was no cloud.
+
+136
+00:04:46,880 --> 00:04:48,640
+So, we needed really to figure out
+
+137
+00:04:48,640 --> 00:04:50,320
+what we were doing.
+
+138
+00:04:50,320 --> 00:04:51,600
+And, you know,
+
+139
+00:04:51,600 --> 00:04:54,040
+it's also the market's modification.
+
+140
+00:04:54,040 --> 00:04:56,960
+Then 2000 came and everything tanked.
+
+141
+00:04:56,960 --> 00:05:00,200
+And we needed to, you know, stay afloat
+
+142
+00:05:00,200 --> 00:05:01,560
+in a very difficult year.
+
+143
+00:05:01,560 --> 00:05:03,000
+Unbelievable.
+
+144
+00:05:03,001 --> 00:05:04,160
+Different times.
+
+145
+00:05:04,160 --> 00:05:06,240
+I have to say that, you know,
+
+146
+00:05:06,240 --> 00:05:07,960
+I spent five years in 8200
+
+147
+00:05:07,960 --> 00:05:09,560
+which was a phenomenal experience.
+
+148
+00:05:09,560 --> 00:05:11,120
+I'm sure a very similar
+
+149
+00:05:11,120 --> 00:05:12,680
+to the experience in Mamram.
+
+150
+00:05:12,680 --> 00:05:14,840
+And then, going to California
+
+151
+00:05:14,840 --> 00:05:16,280
+and seeing what's happening there,
+
+152
+00:05:16,280 --> 00:05:18,720
+literally every corner at Stanford
+
+153
+00:05:18,720 --> 00:05:19,880
+there's a class teaching you
+
+154
+00:05:19,880 --> 00:05:21,400
+how to start a startup.
+
+155
+00:05:21,400 --> 00:05:22,400
+Every kid that walks
+
+156
+00:05:22,400 --> 00:05:23,560
+on campus is thinking,
+
+157
+00:05:23,560 --> 00:05:25,000
+"What am I going to do?"
+
+158
+00:05:25,000 --> 00:05:28,160
+In 97, 98, that wasn't the case.
+
+159
+00:05:28,160 --> 00:05:29,920
+You didn't have a class
+
+160
+00:05:29,920 --> 00:05:31,280
+in every corner helping you,
+
+161
+00:05:31,280 --> 00:05:33,040
+which is amazing.
+
+162
+00:05:33,160 --> 00:05:34,600
+No, there was nothing.
+
+163
+00:05:34,600 --> 00:05:38,000
+You know, I needed to explain that
+
+164
+00:05:38,000 --> 00:05:38,920
+what I'm doing is
+
+165
+00:05:38,920 --> 00:05:41,240
+I'm a computers company
+
+166
+00:05:41,240 --> 00:05:43,760
+in a special field called the Internet.
+
+167
+00:05:43,760 --> 00:05:45,540
+It was kind of a subset
+
+168
+00:05:45,541 --> 00:05:47,320
+of being in computers.
+
+169
+00:05:47,320 --> 00:05:48,160
+Wow.
+
+170
+00:05:48,160 --> 00:05:49,600
+That is just unbelievable.
+
+171
+00:05:49,600 --> 00:05:50,560
+I want to fast forward
+
+172
+00:05:50,560 --> 00:05:51,320
+the journey a little bit.
+
+173
+00:05:51,320 --> 00:05:52,040
+And I want to make sure
+
+174
+00:05:52,040 --> 00:05:53,960
+that we very soon get clear,
+
+175
+00:05:53,960 --> 00:05:54,760
+giving them all
+
+176
+00:05:54,760 --> 00:05:56,320
+your most recent endeavor.
+
+177
+00:05:56,320 --> 00:05:59,800
+But you have two stints along the way
+
+178
+00:05:59,800 --> 00:06:02,240
+that are very irregular
+
+179
+00:06:02,240 --> 00:06:03,760
+for the average, you know,
+
+180
+00:06:03,760 --> 00:06:04,640
+Silicon Valley entrepreneur.
+
+181
+00:06:04,640 --> 00:06:05,640
+The first one is something
+
+182
+00:06:05,640 --> 00:06:06,360
+that we can all thank you
+
+183
+00:06:06,360 --> 00:06:08,240
+for allowing us to travel back and forth
+
+184
+00:06:08,240 --> 00:06:10,080
+to Tel Aviv and San Francisco.
+
+185
+00:06:10,080 --> 00:06:11,560
+That is a startup by itself,
+
+186
+00:06:11,560 --> 00:06:12,720
+it sounds like, because
+
+187
+00:06:12,720 --> 00:06:13,600
+that was quite a journey.
+
+188
+00:06:13,600 --> 00:06:15,560
+Tell me a little bit about that.
+
+189
+00:06:15,560 --> 00:06:16,880
+Well, that was totally
+
+190
+00:06:16,880 --> 00:06:18,800
+an irrational thing to do, right?
+
+191
+00:06:18,800 --> 00:06:21,160
+So, I was living in the valley.
+
+192
+00:06:21,160 --> 00:06:23,040
+I moved to the valley in 2008.
+
+193
+00:06:23,040 --> 00:06:25,600
+So, first I moved to New York in 2000.
+
+194
+00:06:25,600 --> 00:06:27,320
+I lived there eight years.
+
+195
+00:06:27,320 --> 00:06:30,280
+I already sold my startup Hotbar.
+
+196
+00:06:30,280 --> 00:06:32,120
+I exited, I made some money
+
+197
+00:06:32,120 --> 00:06:33,200
+and I had another one.
+
+198
+00:06:33,200 --> 00:06:34,880
+That one also went well.
+
+199
+00:06:34,880 --> 00:06:36,120
+And then I moved to the Valley.
+
+200
+00:06:36,120 --> 00:06:38,800
+And then living in the Valley,
+
+201
+00:06:38,800 --> 00:06:41,000
+having to take this daunting flight
+
+202
+00:06:41,000 --> 00:06:43,280
+to Tel Aviv once or twice a year
+
+203
+00:06:43,280 --> 00:06:45,040
+when you need to stop somewhere
+
+204
+00:06:45,040 --> 00:06:46,480
+and collect your luggage
+
+205
+00:06:46,480 --> 00:06:47,840
+and move it to a different terminal
+
+206
+00:06:47,840 --> 00:06:49,760
+and all kind of crazy shit,
+
+207
+00:06:49,760 --> 00:06:52,520
+I just said, "This cannot be the case."
+
+208
+00:06:52,520 --> 00:06:55,760
+So, you know, I contacted United
+
+209
+00:06:55,760 --> 00:06:56,533
+and they said to me,
+
+210
+00:06:56,534 --> 00:06:57,418
+"You know, Oren,
+
+211
+00:06:57,419 --> 00:06:58,880
+there's just not enough demand."
+
+212
+00:06:58,880 --> 00:07:01,880
+And I said, "Well, this is not possible."
+
+213
+00:07:01,880 --> 00:07:04,200
+There are so many startups here,
+
+214
+00:07:04,200 --> 00:07:05,160
+so many Israelis.
+
+215
+00:07:05,160 --> 00:07:07,000
+But not just Israel here,
+
+216
+00:07:07,000 --> 00:07:09,004
+there are so many American startups
+
+217
+00:07:09,005 --> 00:07:09,920
+that are, you know,
+
+218
+00:07:09,920 --> 00:07:11,800
+I have a location in Israel
+
+219
+00:07:11,800 --> 00:07:13,360
+that need to fly people
+
+220
+00:07:13,360 --> 00:07:14,560
+from Google to phase,
+
+221
+00:07:14,560 --> 00:07:15,880
+I mean, anyone I knew.
+
+222
+00:07:15,880 --> 00:07:16,480
+Yes.
+
+223
+00:07:16,480 --> 00:07:18,560
+There's a big, big center in Tel Aviv.
+
+224
+00:07:18,560 --> 00:07:22,040
+And so, I decided to do a petition.
+
+225
+00:07:22,040 --> 00:07:22,840
+And, you know,
+
+226
+00:07:22,840 --> 00:07:24,800
+and about 10,000 people
+
+227
+00:07:24,800 --> 00:07:27,080
+signed a petition committing to flight
+
+228
+00:07:27,080 --> 00:07:31,000
+of 36,000 flights roundtrip tickets.
+
+229
+00:07:31,000 --> 00:07:32,520
+And with that, I basically came back
+
+230
+00:07:32,520 --> 00:07:33,592
+to all the airlines and I said,
+
+231
+00:07:33,593 --> 00:07:35,559
+"Guys, there is a demand."
+
+232
+00:07:35,560 --> 00:07:38,480
+And there was a phase there, you know,
+
+233
+00:07:38,480 --> 00:07:43,960
+that United just got tired of me.
+
+234
+00:07:43,960 --> 00:07:46,400
+And, you know, it's funny because
+
+235
+00:07:46,400 --> 00:07:49,000
+after they launch that direct line,
+
+236
+00:07:49,000 --> 00:07:49,840
+two months after that
+
+237
+00:07:49,840 --> 00:07:51,720
+they had this national convention,
+
+238
+00:07:51,720 --> 00:07:53,080
+they have an annual convention
+
+239
+00:07:53,080 --> 00:07:55,640
+with all the managers meeting United.
+
+240
+00:07:55,640 --> 00:07:56,880
+And the guy who is in charge
+
+241
+00:07:56,880 --> 00:07:59,880
+on route planning is going to the stage
+
+242
+00:07:59,880 --> 00:08:00,920
+and he says the following.
+
+243
+00:08:00,920 --> 00:08:04,160
+He said, "I don't know how these Israelis
+
+244
+00:08:04,160 --> 00:08:06,520
+remodel all our algorithms.
+
+245
+00:08:06,520 --> 00:08:08,240
+But this is the number one flight
+
+246
+00:08:08,240 --> 00:08:08,960
+in our network
+
+247
+00:08:08,960 --> 00:08:10,840
+and we couldn't see it."
+
+248
+00:08:10,840 --> 00:08:12,440
+That is really unique.
+
+249
+00:08:12,440 --> 00:08:13,840
+How do you explain that?
+
+250
+00:08:13,840 --> 00:08:17,240
+Is it that did they fly under the radar?
+
+251
+00:08:17,280 --> 00:08:19,320
+You know, look, I think that they look
+
+252
+00:08:19,320 --> 00:08:21,040
+at Tel Aviv and San Francisco
+
+253
+00:08:21,040 --> 00:08:22,800
+as two random locations
+
+254
+00:08:22,800 --> 00:08:26,120
+like Boston and Rome, okay?.
+
+255
+00:08:26,240 --> 00:08:28,560
+I told them, "No, these are two tech hubs
+
+256
+00:08:28,560 --> 00:08:31,840
+that the companies who work
+
+257
+00:08:31,840 --> 00:08:33,600
+in these places
+
+258
+00:08:33,600 --> 00:08:36,600
+will definitely use your business class."
+
+259
+00:08:36,600 --> 00:08:36,760
+Yes.
+
+260
+00:08:36,760 --> 00:08:40,120
+"If they have an option to fly direct,
+
+261
+00:08:40,120 --> 00:08:41,960
+they will not fly in direct
+
+262
+00:08:41,960 --> 00:08:43,160
+because of price."
+
+263
+00:08:43,160 --> 00:08:43,720
+Yes.
+
+264
+00:08:43,720 --> 00:08:46,320
+You know, maybe it's my fault
+
+265
+00:08:46,320 --> 00:08:49,440
+that the prices went so high.
+
+266
+00:08:49,520 --> 00:08:52,000
+But United said, you know, "Okay.
+
+267
+00:08:52,000 --> 00:08:53,760
+So, let's have a bigger business class.
+
+268
+00:08:53,760 --> 00:08:55,400
+Let's charge a lot of money."
+
+269
+00:08:55,400 --> 00:08:56,440
+And guess what?
+
+270
+00:08:56,440 --> 00:08:58,600
+People just were willing to pay any price
+
+271
+00:08:58,600 --> 00:08:59,640
+to have a direct flight
+
+272
+00:08:59,640 --> 00:09:01,480
+instead of wasting a day.
+
+273
+00:09:01,480 --> 00:09:04,000
+I mean, it's a very simple market.
+
+274
+00:09:04,000 --> 00:09:04,680
+Right?
+
+275
+00:09:04,680 --> 00:09:06,200
+On one hand, when you have
+
+276
+00:09:06,200 --> 00:09:06,880
+the regular flight,
+
+277
+00:09:06,880 --> 00:09:08,520
+you're applying to the larger market,
+
+278
+00:09:08,520 --> 00:09:10,480
+most of it is business and leisure.
+
+279
+00:09:10,480 --> 00:09:12,120
+But here, not many people
+
+280
+00:09:12,120 --> 00:09:14,160
+take a vacation to San Francisco.
+
+281
+00:09:14,160 --> 00:09:15,400
+Right?
+
+282
+00:09:16,280 --> 00:09:17,480
+So, I think that's just [--].
+
+283
+00:09:17,480 --> 00:09:19,680
+But that was minor compared
+
+284
+00:09:19,680 --> 00:09:22,000
+to the innovative nature
+
+285
+00:09:22,000 --> 00:09:23,640
+of Oren's Hummus
+
+286
+00:09:23,640 --> 00:09:25,400
+that I you know,
+
+287
+00:09:25,400 --> 00:09:26,440
+I have to say, Oren,
+
+288
+00:09:26,440 --> 00:09:27,640
+I'm in Tel Aviv,
+
+289
+00:09:27,640 --> 00:09:28,640
+I ate hummus here every day.
+
+290
+00:09:28,640 --> 00:09:29,720
+And somehow I find myself
+
+291
+00:09:29,720 --> 00:09:31,240
+missing your restaurant.
+
+292
+00:09:31,760 --> 00:09:33,498
+No, no way.
+
+293
+00:09:33,499 --> 00:09:36,480
+You are too sweet.
+
+294
+00:09:36,480 --> 00:09:39,480
+But you introduced the Jaffa.
+
+295
+00:09:39,480 --> 00:09:39,840
+Right?
+
+296
+00:09:39,840 --> 00:09:42,000
+The off menu Jaffa dish
+
+297
+00:09:42,000 --> 00:09:43,840
+that one of the waiters told me about.
+
+298
+00:09:43,840 --> 00:09:45,320
+And since then...
+
+299
+00:09:45,320 --> 00:09:46,200
+So, tell me a little bit about
+
+300
+00:09:46,200 --> 00:09:48,840
+why start a Hummus Restaurant?
+
+301
+00:09:48,840 --> 00:09:50,880
+So again, you know,
+
+302
+00:09:50,880 --> 00:09:52,040
+as an entrepreneur,
+
+303
+00:09:52,040 --> 00:09:53,520
+you just can't help it.
+
+304
+00:09:53,520 --> 00:09:54,680
+But you always see
+
+305
+00:09:54,680 --> 00:09:55,880
+what needs to be done.
+
+306
+00:09:55,880 --> 00:09:58,160
+You always say, what is missing,
+
+307
+00:09:58,160 --> 00:09:59,600
+what can be done with this,
+
+308
+00:09:59,600 --> 00:10:02,920
+what is not, you know.
+
+309
+00:10:02,920 --> 00:10:04,800
+Here I have to admit
+
+310
+00:10:04,800 --> 00:10:05,960
+that not only that
+
+311
+00:10:05,960 --> 00:10:07,520
+I saw how much it was missing,
+
+312
+00:10:07,520 --> 00:10:09,400
+I myself, miss hummus.
+
+313
+00:10:09,400 --> 00:10:09,880
+Yes.
+
+314
+00:10:09,880 --> 00:10:12,040
+I used to go eat hummus before
+
+315
+00:10:12,040 --> 00:10:14,600
+I board a plane to go to San Francisco.
+
+316
+00:10:14,600 --> 00:10:15,480
+And when I come back,
+
+317
+00:10:15,480 --> 00:10:16,764
+I used the first thing to do
+
+318
+00:10:16,765 --> 00:10:17,360
+is to go to eat hummus.
+
+319
+00:10:17,360 --> 00:10:17,760
+Yes.
+
+320
+00:10:17,760 --> 00:10:20,280
+And I said, "Let's have a place
+
+321
+00:10:20,280 --> 00:10:22,640
+basically for the Israelis."
+
+322
+00:10:22,640 --> 00:10:24,080
+I didn't think about it too much.
+
+323
+00:10:24,080 --> 00:10:26,760
+I just wanted a place for us.
+
+324
+00:10:26,760 --> 00:10:28,120
+And my wife thought at the time
+
+325
+00:10:28,120 --> 00:10:29,920
+that I was a little bit crazy.
+
+326
+00:10:29,920 --> 00:10:30,448
+And I told her,
+
+327
+00:10:30,449 --> 00:10:32,240
+"You know, Nancy, you're right.
+
+328
+00:10:32,240 --> 00:10:34,760
+Consider it like a midlife crisis.
+
+329
+00:10:34,760 --> 00:10:36,240
+But we'll have a place."
+
+330
+00:10:36,240 --> 00:10:37,720
+And she has experience.
+
+331
+00:10:37,720 --> 00:10:39,080
+I was very lucky to have her
+
+332
+00:10:39,080 --> 00:10:41,880
+because she has a restaurant experience.
+
+333
+00:10:41,880 --> 00:10:43,640
+And so, she helped me open it
+
+334
+00:10:43,640 --> 00:10:44,360
+in the beginning because
+
+335
+00:10:44,360 --> 00:10:46,240
+I didn't know what I was doing.
+
+336
+00:10:46,240 --> 00:10:47,280
+And the one thing
+
+337
+00:10:47,280 --> 00:10:48,520
+that I insisted on is that
+
+338
+00:10:48,520 --> 00:10:49,480
+you will keep it like
+
+339
+00:10:49,480 --> 00:10:52,720
+the best quality possible.
+
+340
+00:10:52,720 --> 00:10:55,280
+We were not aiming into profitability.
+
+341
+00:10:55,280 --> 00:10:56,960
+We say we are going to,
+
+342
+00:10:56,960 --> 00:10:57,920
+let me give you an example.
+
+343
+00:10:57,920 --> 00:10:59,440
+So, from day one,
+
+344
+00:10:59,440 --> 00:11:01,800
+we would import the grains themselves
+
+345
+00:11:01,800 --> 00:11:04,360
+from Israel in a boat.
+
+346
+00:11:04,360 --> 00:11:05,160
+Think about it.
+
+347
+00:11:05,160 --> 00:11:07,200
+The grain needs to go halfway
+
+348
+00:11:07,200 --> 00:11:09,680
+around the world to be on your plate.
+
+349
+00:11:09,680 --> 00:11:10,920
+And the tahini,
+
+350
+00:11:10,920 --> 00:11:12,640
+we bought the whole pita machine
+
+351
+00:11:12,640 --> 00:11:13,160
+because there were
+
+352
+00:11:13,160 --> 00:11:15,560
+no decent pitas in the dairy.
+
+353
+00:11:15,560 --> 00:11:17,120
+So, it was really,
+
+354
+00:11:17,120 --> 00:11:18,560
+how would I say it,
+
+355
+00:11:18,560 --> 00:11:20,320
+it was not a financial project,
+
+356
+00:11:20,320 --> 00:11:21,800
+it was a project
+
+357
+00:11:21,800 --> 00:11:22,720
+that comes from the soul.
+
+358
+00:11:22,720 --> 00:11:23,360
+And, you know,
+
+359
+00:11:23,360 --> 00:11:24,160
+some people are saying
+
+360
+00:11:24,160 --> 00:11:25,680
+that this is the recipe for success.
+
+361
+00:11:25,680 --> 00:11:26,520
+I don't know if that's true.
+
+362
+00:11:26,520 --> 00:11:29,040
+But it really came from a place
+
+363
+00:11:29,040 --> 00:11:30,920
+to do the best,
+
+364
+00:11:30,920 --> 00:11:32,640
+the best food I can do.
+
+365
+00:11:32,640 --> 00:11:35,000
+My only goal was, I mean,
+
+366
+00:11:35,000 --> 00:11:36,280
+other than financing it,
+
+367
+00:11:36,280 --> 00:11:37,640
+my only goal was to make sure
+
+368
+00:11:37,640 --> 00:11:40,240
+that the taste is the way I remember it.
+
+369
+00:11:40,240 --> 00:11:42,320
+To be as authentic, because some people
+
+370
+00:11:42,320 --> 00:11:45,120
+along the way suggested, maybe we should
+
+371
+00:11:45,120 --> 00:11:47,200
+adjust it to the American palate.
+
+372
+00:11:47,200 --> 00:11:48,200
+And I said, "No way.
+
+373
+00:11:48,200 --> 00:11:50,400
+We are going to do it exactly
+
+374
+00:11:50,400 --> 00:11:51,960
+the way it is in Israel."
+
+375
+00:11:51,960 --> 00:11:53,960
+And I think that's where the charm is.
+
+376
+00:11:53,960 --> 00:11:55,040
+That suddenly there was
+
+377
+00:11:55,040 --> 00:11:56,200
+such different taste,
+
+378
+00:11:56,200 --> 00:11:57,280
+such a different experience.
+
+379
+00:11:57,280 --> 00:11:58,640
+I mean, when we opened,
+
+380
+00:11:58,640 --> 00:12:00,080
+we had Americans who came in.
+
+381
+00:12:00,080 --> 00:12:02,280
+And the fact that you use your hand
+
+382
+00:12:02,280 --> 00:12:04,493
+to rip the pita and scoop it,
+
+383
+00:12:04,494 --> 00:12:06,400
+it was like mind blowing.
+
+384
+00:12:06,400 --> 00:12:07,919
+A hummus eating guy.
+
+385
+00:12:07,920 --> 00:12:10,320
+We explain how to do it
+
+386
+00:12:10,320 --> 00:12:12,440
+because people didn't know how to do it.
+
+387
+00:12:12,440 --> 00:12:14,240
+And you know, somebody told me
+
+388
+00:12:14,240 --> 00:12:15,640
+this is the best place for a date.
+
+389
+00:12:15,640 --> 00:12:18,560
+You just come and you share and you
+
+390
+00:12:18,560 --> 00:12:20,680
+I mean, it's unique.
+
+391
+00:12:20,680 --> 00:12:22,600
+So, when you say that you miss it,
+
+392
+00:12:22,600 --> 00:12:23,600
+when you're in Israel, you know,
+
+393
+00:12:23,600 --> 00:12:24,640
+in Israel there is a hummus
+
+394
+00:12:24,640 --> 00:12:25,560
+in every corner,.
+
+395
+00:12:25,560 --> 00:12:28,480
+And people are like diehard fans
+
+396
+00:12:28,480 --> 00:12:29,320
+of one hummus
+
+397
+00:12:29,320 --> 00:12:30,480
+and they will never step
+
+398
+00:12:30,480 --> 00:12:32,000
+into another hummus.
+
+399
+00:12:32,000 --> 00:12:34,040
+California was a desert.
+
+400
+00:12:34,040 --> 00:12:35,560
+I mean, if they were anywhere near
+
+401
+00:12:35,560 --> 00:12:36,520
+a decent hummus,
+
+402
+00:12:36,520 --> 00:12:37,200
+I wouldn't have the opened.
+
+403
+00:12:37,200 --> 00:12:38,720
+The only reason I opened is that
+
+404
+00:12:38,720 --> 00:12:41,760
+I couldn't find anything decent.
+
+405
+00:12:41,760 --> 00:12:42,600
+And Oren, of course,
+
+406
+00:12:42,600 --> 00:12:43,320
+I have to mention
+
+407
+00:12:43,320 --> 00:12:44,360
+that the missing ingredient
+
+408
+00:12:44,360 --> 00:12:45,320
+from everything that you mentioned
+
+409
+00:12:45,320 --> 00:12:46,280
+which exists there,
+
+410
+00:12:46,280 --> 00:12:47,120
+is when you walk down
+
+411
+00:12:47,120 --> 00:12:49,240
+University Avenue or Castro,
+
+412
+00:12:49,240 --> 00:12:50,500
+you hear Shlomo Artzi
+
+413
+00:12:50,501 --> 00:12:52,280
+coming from one of the restaurants
+
+414
+00:12:52,280 --> 00:12:54,040
+and that just warms the heart
+
+415
+00:12:54,040 --> 00:12:55,600
+of every Israeli that walks there.
+
+416
+00:12:55,600 --> 00:12:57,040
+But Oren, we have to...
+
+417
+00:12:57,040 --> 00:12:58,360
+And that's totally my wife.
+
+418
+00:12:58,360 --> 00:12:59,440
+That's totally my wife.
+
+419
+00:12:59,440 --> 00:12:59,942
+Yes.
+
+420
+00:12:59,943 --> 00:13:00,880
+That's genius.
+
+421
+00:13:00,880 --> 00:13:01,560
+We have to fast forward
+
+422
+00:13:01,560 --> 00:13:02,800
+because we only have 20 minutes.
+
+423
+00:13:02,800 --> 00:13:04,960
+We have to still talk about Clear Giving.
+
+424
+00:13:04,960 --> 00:13:06,800
+And we completely skipped
+
+425
+00:13:06,800 --> 00:13:07,480
+over the fact that
+
+426
+00:13:07,480 --> 00:13:09,040
+you're a huge TV celebrity
+
+427
+00:13:09,040 --> 00:13:11,920
+in Israel now, known as a startup guru,
+
+428
+00:13:11,920 --> 00:13:13,680
+investing as part of the Shark Tank show.
+
+429
+00:13:13,680 --> 00:13:14,760
+But we'll leave that
+
+430
+00:13:14,760 --> 00:13:15,960
+for another discussion.
+
+431
+00:13:15,960 --> 00:13:18,000
+Oren, after all of that
+
+432
+00:13:18,000 --> 00:13:20,960
+incredible success and endeavors,
+
+433
+00:13:20,960 --> 00:13:21,800
+which I have to say
+
+434
+00:13:21,800 --> 00:13:23,200
+that the most inspirational part for me
+
+435
+00:13:23,200 --> 00:13:24,240
+is not the toolbar
+
+436
+00:13:24,240 --> 00:13:26,240
+and it's not the startup in '97,
+
+437
+00:13:26,240 --> 00:13:28,800
+it's about this lifelong mentality
+
+438
+00:13:28,800 --> 00:13:30,200
+of being an entrepreneur.
+
+439
+00:13:30,200 --> 00:13:32,440
+And it's about your motivation to go
+
+440
+00:13:32,440 --> 00:13:33,760
+and fix whatever you see
+
+441
+00:13:33,760 --> 00:13:34,560
+happening around you.
+
+442
+00:13:34,560 --> 00:13:37,840
+And I think that is just so incredible.
+
+443
+00:13:37,840 --> 00:13:38,800
+And that's a mentality
+
+444
+00:13:38,800 --> 00:13:39,800
+that I wish for myself,
+
+445
+00:13:39,800 --> 00:13:41,520
+I wish for all my friends,
+
+446
+00:13:41,520 --> 00:13:43,400
+for everybody that's surrounding me.
+
+447
+00:13:43,400 --> 00:13:45,680
+So, I really want to thank you for that.
+
+448
+00:13:45,680 --> 00:13:46,280
+Talk to me a little bit
+
+449
+00:13:46,280 --> 00:13:47,160
+about Clear Giving.
+
+450
+00:13:47,160 --> 00:13:48,800
+What happened that you said,
+
+451
+00:13:48,800 --> 00:13:51,040
+"Now I want to make a social impact."?
+
+452
+00:13:51,040 --> 00:13:51,280
+Yeah.
+
+453
+00:13:51,280 --> 00:13:53,880
+So, Clear Giving is actually
+
+454
+00:13:53,880 --> 00:13:55,760
+a continuation of a project
+
+455
+00:13:55,760 --> 00:13:57,480
+that I did for many years before that.
+
+456
+00:13:57,481 --> 00:13:59,600
+So, when I had some money to give
+
+457
+00:13:59,600 --> 00:14:03,400
+and I really started to struggle
+
+458
+00:14:03,400 --> 00:14:04,800
+where I'm giving it.
+
+459
+00:14:04,800 --> 00:14:05,880
+I felt that just giving it
+
+460
+00:14:05,880 --> 00:14:08,998
+to the first random nonprofit
+
+461
+00:14:08,999 --> 00:14:10,440
+is just not the right thing.
+
+462
+00:14:10,440 --> 00:14:12,200
+You need to treat it with respect
+
+463
+00:14:12,200 --> 00:14:14,280
+as if this is, you know,
+
+464
+00:14:14,280 --> 00:14:15,680
+you are serious about
+
+465
+00:14:15,680 --> 00:14:17,120
+getting it to the right places.
+
+466
+00:14:17,120 --> 00:14:19,840
+And none of the non-profits,
+
+467
+00:14:19,840 --> 00:14:20,960
+none of the organizations
+
+468
+00:14:20,960 --> 00:14:22,480
+that I worked with
+
+469
+00:14:22,480 --> 00:14:24,480
+offered the level of transparency
+
+470
+00:14:24,480 --> 00:14:26,640
+that I would use to, I usually
+
+471
+00:14:26,640 --> 00:14:28,240
+give a big sum of money
+
+472
+00:14:28,240 --> 00:14:29,320
+but you don't really know
+
+473
+00:14:29,320 --> 00:14:29,787
+what happened to it.
+
+474
+00:14:29,788 --> 00:14:31,000
+You don't know what impact,
+
+475
+00:14:31,001 --> 00:14:32,160
+you don't know where it goes,
+
+476
+00:14:32,160 --> 00:14:34,520
+you have no control of where it go.
+
+477
+00:14:34,520 --> 00:14:35,880
+So, for many years
+
+478
+00:14:35,880 --> 00:14:38,880
+I used to employ an individual
+
+479
+00:14:38,880 --> 00:14:42,320
+who used to find me families in need
+
+480
+00:14:42,320 --> 00:14:44,520
+that I could support them directly.
+
+481
+00:14:44,520 --> 00:14:45,502
+So, after doing that
+
+482
+00:14:45,503 --> 00:14:46,680
+for more than 10 years,
+
+483
+00:14:46,680 --> 00:14:48,240
+I basically decided, you know what?
+
+484
+00:14:48,240 --> 00:14:50,160
+How about taking it to the next level.
+
+485
+00:14:50,160 --> 00:14:52,320
+How about productizing it
+
+486
+00:14:52,320 --> 00:14:54,080
+and basically doing, again,
+
+487
+00:14:54,080 --> 00:14:56,280
+what I wished would be,
+
+488
+00:14:56,280 --> 00:14:57,880
+what I started giving,
+
+489
+00:14:57,880 --> 00:15:00,000
+which is basically
+
+490
+00:15:00,000 --> 00:15:02,840
+someone who could build for you
+
+491
+00:15:02,840 --> 00:15:05,600
+a portfolio of families.
+
+492
+00:15:05,600 --> 00:15:07,200
+And that's basically
+
+493
+00:15:07,200 --> 00:15:08,400
+how I started Clear Giving.
+
+494
+00:15:08,400 --> 00:15:09,947
+I basically said,
+
+495
+00:15:09,948 --> 00:15:12,040
+"We will make a website
+
+496
+00:15:12,040 --> 00:15:13,280
+where we first of all,
+
+497
+00:15:13,280 --> 00:15:15,640
+we screen families
+
+498
+00:15:15,640 --> 00:15:17,040
+that need support in Israel.
+
+499
+00:15:17,040 --> 00:15:19,080
+We get them all from the HaRevaha,
+
+500
+00:15:19,080 --> 00:15:21,520
+which is the social services in Israel,
+
+501
+00:15:21,520 --> 00:15:23,480
+then governmental social services.
+
+502
+00:15:23,480 --> 00:15:24,680
+We screen them,
+
+503
+00:15:24,680 --> 00:15:27,040
+they need to pass certain criteria
+
+504
+00:15:27,040 --> 00:15:30,280
+before we upload a certain profile
+
+505
+00:15:30,280 --> 00:15:31,480
+of them on the website.
+
+506
+00:15:31,480 --> 00:15:32,560
+Obviously, it's anonymous.
+
+507
+00:15:32,560 --> 00:15:34,240
+You cannot know who they are,
+
+508
+00:15:34,240 --> 00:15:35,720
+but you get to know their story.
+
+509
+00:15:35,720 --> 00:15:37,320
+So, you as a donor,
+
+510
+00:15:37,320 --> 00:15:38,720
+you can go into the website
+
+511
+00:15:38,720 --> 00:15:42,080
+and choose families you want to support.
+
+512
+00:15:42,080 --> 00:15:42,480
+Amazing.
+
+513
+00:15:42,480 --> 00:15:43,760
+We initially report it
+
+514
+00:15:43,760 --> 00:15:45,520
+like adopt a family.
+
+515
+00:15:45,520 --> 00:15:47,280
+Some people felt it's like too much.
+
+516
+00:15:47,280 --> 00:15:49,680
+So we said, let's call it Clear Giving.
+
+517
+00:15:49,680 --> 00:15:50,640
+Another big feature
+
+518
+00:15:50,640 --> 00:15:51,600
+other than knowing
+
+519
+00:15:51,601 --> 00:15:53,280
+who you're giving the money is that
+
+520
+00:15:53,280 --> 00:15:55,640
+we set a 100% of the donation
+
+521
+00:15:55,640 --> 00:15:56,800
+goes to the family.
+
+522
+00:15:56,800 --> 00:15:59,200
+So, we separate the operation,
+
+523
+00:15:59,200 --> 00:16:01,200
+of course, we have dedicated donors
+
+524
+00:16:01,200 --> 00:16:02,360
+for operational cost.
+
+525
+00:16:02,360 --> 00:16:03,560
+At this point, it's me.
+
+526
+00:16:03,560 --> 00:16:04,240
+But in the future,
+
+527
+00:16:04,240 --> 00:16:06,240
+it can be other people as well.
+
+528
+00:16:06,240 --> 00:16:08,400
+But the vast majority of donors,
+
+529
+00:16:08,400 --> 00:16:09,680
+if they give a dollar,
+
+530
+00:16:09,680 --> 00:16:12,840
+then the dollar goes to a needy family.
+
+531
+00:16:12,840 --> 00:16:17,440
+So, that gives you a feeling
+
+532
+00:16:17,440 --> 00:16:19,840
+that you are not, we are not,
+
+533
+00:16:19,840 --> 00:16:23,720
+there's no conflict of interest.
+
+534
+00:16:23,720 --> 00:16:24,520
+I like to say,
+
+535
+00:16:24,520 --> 00:16:26,160
+it's the biggest bang for the buck.
+
+536
+00:16:26,160 --> 00:16:27,880
+You give $10,000,
+
+537
+00:16:27,880 --> 00:16:30,840
+$10,000 go to families
+
+538
+00:16:30,840 --> 00:16:32,920
+and there's nothing being taken out.
+
+539
+00:16:32,920 --> 00:16:34,280
+I have to ask because first of all,
+
+540
+00:16:34,280 --> 00:16:35,280
+regarding that last point,
+
+541
+00:16:35,280 --> 00:16:37,080
+it's fascinating because,
+
+542
+00:16:37,080 --> 00:16:39,320
+because when they do take a cut
+
+543
+00:16:39,320 --> 00:16:40,920
+or a margin from the donation
+
+544
+00:16:40,920 --> 00:16:42,720
+then obviously, the more they market
+
+545
+00:16:42,720 --> 00:16:43,440
+the more they make.
+
+546
+00:16:43,440 --> 00:16:45,200
+And then there's a conflict of interest.
+
+547
+00:16:45,200 --> 00:16:47,040
+But I have to ask about the distinction.
+
+548
+00:16:47,040 --> 00:16:48,200
+A lot of the nonprofits
+
+549
+00:16:48,200 --> 00:16:49,040
+that I'm aware of
+
+550
+00:16:49,040 --> 00:16:50,480
+and a lot of the organizations,
+
+551
+00:16:50,480 --> 00:16:51,440
+you give them the money
+
+552
+00:16:51,440 --> 00:16:52,120
+and they promise
+
+553
+00:16:52,120 --> 00:16:53,440
+that they'll disseminate it
+
+554
+00:16:53,440 --> 00:16:54,960
+to those that are in need.
+
+555
+00:16:54,960 --> 00:16:56,600
+But you don't have that story.
+
+556
+00:16:56,600 --> 00:16:58,680
+You're missing that individuality aspect.
+
+557
+00:16:58,680 --> 00:16:59,600
+And when you're mentioning
+
+558
+00:16:59,600 --> 00:17:00,160
+that you're telling
+
+559
+00:17:00,160 --> 00:17:01,240
+the story of a family,
+
+560
+00:17:01,240 --> 00:17:02,800
+even though it's anonymous,
+
+561
+00:17:02,800 --> 00:17:04,240
+I feel like I'm giving to that family.
+
+562
+00:17:04,240 --> 00:17:06,920
+So, tell me about that business model.
+
+563
+00:17:06,920 --> 00:17:08,120
+You picked it.
+
+564
+00:17:08,120 --> 00:17:10,080
+So, I want to make that,
+
+565
+00:17:10,080 --> 00:17:12,080
+I want to give the benefit
+
+566
+00:17:12,080 --> 00:17:13,720
+to you as a donor
+
+567
+00:17:13,720 --> 00:17:16,560
+that you know who you helped.
+
+568
+00:17:16,560 --> 00:17:18,520
+It's like if it wasn't for you,
+
+569
+00:17:18,520 --> 00:17:20,400
+they did not had food on the table.
+
+570
+00:17:20,400 --> 00:17:20,760
+Right?
+
+571
+00:17:20,760 --> 00:17:22,720
+I mean, this is literally,
+
+572
+00:17:22,720 --> 00:17:25,320
+you chose them, you picked them
+
+573
+00:17:25,320 --> 00:17:26,840
+and your money is going to them
+
+574
+00:17:26,840 --> 00:17:29,200
+and you get reports to the last cent.
+
+575
+00:17:29,200 --> 00:17:31,040
+You know where it went.
+
+576
+00:17:31,040 --> 00:17:32,400
+Another important thing that you said
+
+577
+00:17:32,401 --> 00:17:33,800
+is that we believe
+
+578
+00:17:33,800 --> 00:17:35,960
+that helping people in need
+
+579
+00:17:35,960 --> 00:17:38,520
+is something that, you know,
+
+580
+00:17:38,560 --> 00:17:39,800
+people who need food,
+
+581
+00:17:39,800 --> 00:17:41,120
+people who need clothing,
+
+582
+00:17:41,120 --> 00:17:44,000
+people who need basic, basic things.
+
+583
+00:17:44,000 --> 00:17:45,280
+I want to help them.
+
+584
+00:17:45,280 --> 00:17:46,800
+You know, there are many,
+
+585
+00:17:46,800 --> 00:17:49,680
+many nonprofits today that help
+
+586
+00:17:49,680 --> 00:17:51,200
+on a higher magnitude.
+
+587
+00:17:51,200 --> 00:17:53,440
+We will build a big matnas.
+
+588
+00:17:53,440 --> 00:17:55,200
+You know what a matnas is?
+
+589
+00:17:55,200 --> 00:17:56,080
+A big school.
+
+590
+00:17:56,080 --> 00:17:57,560
+Like a community center, yeah.
+
+591
+00:17:57,560 --> 00:18:00,200
+We will change poverty.
+
+592
+00:18:00,200 --> 00:18:01,000
+You know what?
+
+593
+00:18:01,000 --> 00:18:02,280
+I think it's important.
+
+594
+00:18:02,280 --> 00:18:04,520
+But I think it's also important
+
+595
+00:18:04,520 --> 00:18:07,680
+to help the poor person
+
+596
+00:18:07,680 --> 00:18:09,560
+who cannot feed his kids
+
+597
+00:18:09,560 --> 00:18:11,600
+or who cannot buy his daughter,
+
+598
+00:18:11,600 --> 00:18:15,600
+you know, [--]
+
+599
+00:18:15,601 --> 00:18:17,280
+because he doesn't have money.
+
+600
+00:18:17,280 --> 00:18:18,880
+And just think about the drama
+
+601
+00:18:18,880 --> 00:18:20,360
+that these people are living in.
+
+602
+00:18:20,360 --> 00:18:23,000
+If you can help them get something,
+
+603
+00:18:23,000 --> 00:18:24,680
+you know, so basic
+
+604
+00:18:24,680 --> 00:18:27,800
+that we all are taking for granted.
+
+605
+00:18:27,800 --> 00:18:30,000
+I think that's a big mitzvah.
+
+606
+00:18:30,000 --> 00:18:32,200
+I think people need to think
+
+607
+00:18:32,200 --> 00:18:33,960
+about it when they do philanthropy,
+
+608
+00:18:33,960 --> 00:18:35,920
+they need to say, you know,
+
+609
+00:18:35,920 --> 00:18:37,920
+I have big, big goals
+
+610
+00:18:37,920 --> 00:18:38,880
+and I have, you know,
+
+611
+00:18:38,880 --> 00:18:41,680
+immediate help that I can offer.
+
+612
+00:18:41,680 --> 00:18:42,760
+I like to say it's like,
+
+613
+00:18:42,760 --> 00:18:45,560
+you're planning a financial portfolio.
+
+614
+00:18:45,560 --> 00:18:47,600
+You sometimes invest in high risk,
+
+615
+00:18:47,600 --> 00:18:49,040
+you go to startups
+
+616
+00:18:49,040 --> 00:18:50,600
+and you go to make equity,
+
+617
+00:18:50,600 --> 00:18:52,320
+but you also have bonds
+
+618
+00:18:52,320 --> 00:18:54,920
+and with low risk products.
+
+619
+00:18:54,920 --> 00:18:55,880
+And the same thing here.
+
+620
+00:18:55,880 --> 00:18:57,880
+You need to think long term,
+
+621
+00:18:57,880 --> 00:18:59,800
+but you also need to get fish
+
+622
+00:18:59,800 --> 00:19:03,520
+to the poor person standing at your door
+
+623
+00:19:03,520 --> 00:19:05,701
+and is asking. You cannot tell him,
+
+624
+00:19:05,702 --> 00:19:07,400
+"Oh, no, I'm going to send the kid
+
+625
+00:19:07,400 --> 00:19:08,320
+to the university."
+
+626
+00:19:08,320 --> 00:19:09,560
+You know, that's nice.
+
+627
+00:19:09,560 --> 00:19:10,760
+I'm going to give a tuition
+
+628
+00:19:10,760 --> 00:19:12,080
+to a kid like a scholarship.
+
+629
+00:19:12,080 --> 00:19:13,200
+Yeah, that's nice.
+
+630
+00:19:13,200 --> 00:19:14,640
+But what about the young people
+
+631
+00:19:14,640 --> 00:19:17,120
+who need the help right now?
+
+632
+00:19:17,120 --> 00:19:18,440
+So, I like to think
+
+633
+00:19:18,440 --> 00:19:20,000
+that this is the solution.
+
+634
+00:19:20,000 --> 00:19:21,160
+What we started doing
+
+635
+00:19:21,160 --> 00:19:23,120
+and I think it's valuable to say
+
+636
+00:19:23,120 --> 00:19:25,640
+is that we started as really offering
+
+637
+00:19:25,640 --> 00:19:27,360
+this service to anyone
+
+638
+00:19:27,360 --> 00:19:28,240
+with a credit card
+
+639
+00:19:28,240 --> 00:19:29,240
+so people could, you know,
+
+640
+00:19:29,240 --> 00:19:31,560
+give $10 or five dollar,
+
+641
+00:19:31,560 --> 00:19:33,080
+whatever they want, they can give.
+
+642
+00:19:33,080 --> 00:19:34,280
+And it's a monthly thing
+
+643
+00:19:34,280 --> 00:19:35,920
+that they support a family.
+
+644
+00:19:35,920 --> 00:19:36,320
+By the way,
+
+645
+00:19:36,320 --> 00:19:39,160
+whenever we get to $200 a month,
+
+646
+00:19:39,160 --> 00:19:41,720
+that's what we want to raise per family
+
+647
+00:19:41,720 --> 00:19:44,040
+then that family goes off the site
+
+648
+00:19:44,040 --> 00:19:46,560
+and now we will help another family.
+
+649
+00:19:46,560 --> 00:19:47,080
+Wow.
+
+650
+00:19:47,080 --> 00:19:48,600
+So, that's the quota.
+
+651
+00:19:48,600 --> 00:19:50,000
+But my point is that
+
+652
+00:19:50,000 --> 00:19:52,120
+we recently started doing basically
+
+653
+00:19:52,120 --> 00:19:53,680
+a service to bigger donors.
+
+654
+00:19:53,680 --> 00:19:54,760
+So, people who want to give me
+
+655
+00:19:54,760 --> 00:19:57,960
+$10,000 or $20,000.
+
+656
+00:19:57,960 --> 00:19:59,920
+What we said is that we will build
+
+657
+00:19:59,920 --> 00:20:01,080
+a portfolio for them,
+
+658
+00:20:01,080 --> 00:20:03,840
+think about it as a managed portfolio.
+
+659
+00:20:03,840 --> 00:20:06,200
+Yes. I was just about to ask about that.
+
+660
+00:20:06,200 --> 00:20:09,000
+So, if $200 a month, right,
+
+661
+00:20:09,000 --> 00:20:10,720
+times 12, it's 24.
+
+662
+00:20:10,720 --> 00:20:13,760
+For $2400 a year,
+
+663
+00:20:13,760 --> 00:20:15,160
+you can basically take
+
+664
+00:20:15,160 --> 00:20:17,560
+a family in need,
+
+665
+00:20:17,560 --> 00:20:20,400
+families with very difficult stories
+
+666
+00:20:20,400 --> 00:20:22,320
+and basically move them
+
+667
+00:20:22,320 --> 00:20:24,720
+into a totally different place.
+
+668
+00:20:24,720 --> 00:20:26,880
+It might not change them.
+
+669
+00:20:26,880 --> 00:20:28,920
+It's not that they are not poor anymore,
+
+670
+00:20:28,920 --> 00:20:31,520
+but you take so much drama,
+
+671
+00:20:31,520 --> 00:20:33,640
+bad drama out of their life.
+
+672
+00:20:33,640 --> 00:20:34,800
+You give them support,
+
+673
+00:20:34,800 --> 00:20:36,480
+you give them the basics.
+
+674
+00:20:36,480 --> 00:20:38,280
+Now, whatever extra money they have
+
+675
+00:20:38,280 --> 00:20:39,840
+they use in buying something.
+
+676
+00:20:39,840 --> 00:20:43,320
+They buy new shoes for their kids
+
+677
+00:20:43,320 --> 00:20:44,000
+or stuff like that.
+
+678
+00:20:44,000 --> 00:20:45,640
+But if you may even think about it,
+
+679
+00:20:45,640 --> 00:20:49,360
+for almost 11,000, right?
+
+680
+00:20:49,360 --> 00:20:55,600
+10,800, you help five families a year.
+
+681
+00:20:55,600 --> 00:20:58,280
+I don't think other nonprofits
+
+682
+00:20:58,280 --> 00:20:59,760
+can offer something like that
+
+683
+00:20:59,760 --> 00:21:01,360
+because usually, again,
+
+684
+00:21:01,360 --> 00:21:02,720
+when you think long term,
+
+685
+00:21:02,720 --> 00:21:04,000
+then you need to invest more.
+
+686
+00:21:04,000 --> 00:21:04,720
+When it takes longer
+
+687
+00:21:04,720 --> 00:21:06,720
+and then things are more costly.
+
+688
+00:21:06,720 --> 00:21:09,920
+But here, for $11,000,
+
+689
+00:21:09,920 --> 00:21:12,720
+you basically can help five families.
+
+690
+00:21:12,720 --> 00:21:14,800
+And this is what we are aiming now.
+
+691
+00:21:14,800 --> 00:21:15,640
+We are aiming now
+
+692
+00:21:15,640 --> 00:21:18,040
+for people who basically come to me
+
+693
+00:21:18,040 --> 00:21:19,040
+and say, look,
+
+694
+00:21:19,040 --> 00:21:21,320
+I'm giving you a budget,
+
+695
+00:21:21,320 --> 00:21:22,920
+think about like a bank account,
+
+696
+00:21:22,920 --> 00:21:24,440
+I'm giving you a budget,
+
+697
+00:21:24,440 --> 00:21:25,240
+and you will build me
+
+698
+00:21:25,240 --> 00:21:26,600
+a portfolio of families.
+
+699
+00:21:26,600 --> 00:21:28,800
+These families will stay with them.
+
+700
+00:21:28,800 --> 00:21:30,720
+We are not going to switch them.
+
+701
+00:21:30,720 --> 00:21:33,320
+They will be your families.
+
+702
+00:21:33,320 --> 00:21:34,320
+We will update you
+
+703
+00:21:34,320 --> 00:21:35,800
+what's going on with them.
+
+704
+00:21:35,800 --> 00:21:36,560
+From time to time
+
+705
+00:21:36,560 --> 00:21:38,520
+they might write you a letter.
+
+706
+00:21:38,520 --> 00:21:39,920
+But basically you will know
+
+707
+00:21:39,920 --> 00:21:41,720
+that you support these families.
+
+708
+00:21:41,720 --> 00:21:42,920
+I think that's remarkable.
+
+709
+00:21:42,920 --> 00:21:43,560
+When you mentioned
+
+710
+00:21:43,560 --> 00:21:44,542
+about the families
+
+711
+00:21:44,543 --> 00:21:45,720
+not being poor anymore,
+
+712
+00:21:45,720 --> 00:21:46,440
+but at least
+
+713
+00:21:46,440 --> 00:21:47,160
+they'll give them comfort.
+
+714
+00:21:47,160 --> 00:21:48,680
+I'm a huge fan
+
+715
+00:21:48,680 --> 00:21:50,040
+of the pyramid of Maslow.
+
+716
+00:21:50,040 --> 00:21:51,960
+I remember when I learned about it,
+
+717
+00:21:51,960 --> 00:21:53,880
+first in middle school,
+
+718
+00:21:54,240 --> 00:21:55,640
+I understood it so well.
+
+719
+00:21:55,640 --> 00:21:56,280
+I was going through
+
+720
+00:21:56,280 --> 00:21:57,600
+a heartache with a girlfriend
+
+721
+00:21:57,600 --> 00:21:58,480
+and I couldn't function
+
+722
+00:21:58,480 --> 00:22:00,240
+because I didn't have
+
+723
+00:22:00,240 --> 00:22:02,200
+that baseline field.
+
+724
+00:22:02,200 --> 00:22:03,520
+And I can only imagine
+
+725
+00:22:03,520 --> 00:22:05,120
+how difficult it is for a family.
+
+726
+00:22:05,120 --> 00:22:06,360
+And I'm very privileged to come
+
+727
+00:22:06,360 --> 00:22:07,480
+from a family where I never had
+
+728
+00:22:07,480 --> 00:22:09,160
+to worry about food on the table.
+
+729
+00:22:09,160 --> 00:22:11,600
+But by giving them the food,
+
+730
+00:22:11,600 --> 00:22:13,760
+by giving them some comfort,
+
+731
+00:22:13,760 --> 00:22:14,613
+you're allowing them
+
+732
+00:22:14,614 --> 00:22:15,680
+to think more critically
+
+733
+00:22:15,680 --> 00:22:16,600
+about how they can then
+
+734
+00:22:16,600 --> 00:22:18,000
+improve on the other things.
+
+735
+00:22:18,000 --> 00:22:20,040
+And it's like you're a rolling ball.
+
+736
+00:22:20,040 --> 00:22:21,320
+It's a spiral.
+
+737
+00:22:21,320 --> 00:22:22,560
+I love it.
+
+738
+00:22:22,560 --> 00:22:25,480
+Think about the shame
+
+739
+00:22:25,480 --> 00:22:27,200
+of the parents that need to look
+
+740
+00:22:27,200 --> 00:22:28,280
+into the kid's eyes
+
+741
+00:22:28,280 --> 00:22:29,400
+when they cannot afford
+
+742
+00:22:29,400 --> 00:22:31,680
+buying them shoes.
+
+743
+00:22:31,680 --> 00:22:33,000
+You know, when I think about it,
+
+744
+00:22:33,000 --> 00:22:34,240
+I'm starting to howl.
+
+745
+00:22:34,240 --> 00:22:36,360
+I'm tearing up right now.
+
+746
+00:22:36,360 --> 00:22:37,160
+Because I have kids.
+
+747
+00:22:37,160 --> 00:22:38,960
+If I would have a situation
+
+748
+00:22:38,960 --> 00:22:40,000
+that I could not afford
+
+749
+00:22:40,000 --> 00:22:40,960
+buying them something
+
+750
+00:22:40,960 --> 00:22:42,600
+that is pretty much basic
+
+751
+00:22:42,600 --> 00:22:44,200
+that other kids have,
+
+752
+00:22:44,200 --> 00:22:46,240
+you know, this is a terrible situation.
+
+753
+00:22:46,240 --> 00:22:49,240
+So, the $200 a month
+
+754
+00:22:49,240 --> 00:22:50,920
+is as small as it sounds,
+
+755
+00:22:50,920 --> 00:22:52,120
+makes a huge difference
+
+756
+00:22:52,120 --> 00:22:53,800
+for these families.
+
+757
+00:22:53,800 --> 00:22:56,040
+Unfortunately, there are so many families
+
+758
+00:22:56,040 --> 00:22:57,560
+here in Israel, now, especially you know,
+
+759
+00:22:57,560 --> 00:22:58,600
+we didn't speak about that,
+
+760
+00:22:58,600 --> 00:23:00,920
+but now with the corona, you know,
+
+761
+00:23:00,920 --> 00:23:02,760
+I returned to Israel for a year.
+
+762
+00:23:02,760 --> 00:23:03,960
+I took a gap year now
+
+763
+00:23:03,960 --> 00:23:05,840
+in August for a year
+
+764
+00:23:05,840 --> 00:23:07,200
+after 20 years in the States.
+
+765
+00:23:07,200 --> 00:23:09,960
+And, you know, I was shocked.
+
+766
+00:23:09,960 --> 00:23:12,520
+The corona literally took families
+
+767
+00:23:12,520 --> 00:23:14,760
+who were already in a good place
+
+768
+00:23:14,760 --> 00:23:16,040
+and put them in a bad place.
+
+769
+00:23:16,040 --> 00:23:17,520
+Those that were in a bad place
+
+770
+00:23:17,520 --> 00:23:18,560
+it put them in a place
+
+771
+00:23:18,560 --> 00:23:19,640
+that you cannot imagine.
+
+772
+00:23:19,640 --> 00:23:22,200
+So, the level of poverty,
+
+773
+00:23:22,200 --> 00:23:23,160
+usually you don't see it,
+
+774
+00:23:23,160 --> 00:23:26,040
+because when you stay Tel Aviv,
+
+775
+00:23:26,040 --> 00:23:27,400
+Tel Aviv is like another country.
+
+776
+00:23:27,400 --> 00:23:28,560
+It's like the Silicon Valley.
+
+777
+00:23:28,560 --> 00:23:30,600
+It's like the state of Tel Aviv, yeah.
+
+778
+00:23:30,600 --> 00:23:31,120
+Right.
+
+779
+00:23:31,120 --> 00:23:32,640
+When you move out of Tel Aviv
+
+780
+00:23:32,640 --> 00:23:35,440
+and you go Holon and Lod and Ramla,
+
+781
+00:23:35,440 --> 00:23:37,360
+you know, all these places,
+
+782
+00:23:37,360 --> 00:23:38,400
+you cannot believe
+
+783
+00:23:38,400 --> 00:23:41,240
+what stories we found.
+
+784
+00:23:41,240 --> 00:23:43,080
+And again, I would say, you know,
+
+785
+00:23:43,080 --> 00:23:44,760
+if now is a time,
+
+786
+00:23:44,760 --> 00:23:46,000
+if there was ever a time
+
+787
+00:23:46,000 --> 00:23:49,680
+to give to help people directly,
+
+788
+00:23:49,680 --> 00:23:50,440
+it's now.
+
+789
+00:23:50,440 --> 00:23:51,366
+Now it's not a time to say,
+
+790
+00:23:51,367 --> 00:23:51,880
+You know what?
+
+791
+00:23:51,880 --> 00:23:53,680
+I'm going to save for your tuition.
+
+792
+00:23:53,680 --> 00:23:54,640
+I'm going to change
+
+793
+00:23:54,640 --> 00:23:57,040
+the education system.
+
+794
+00:23:57,040 --> 00:23:59,320
+Now is the time to just give.
+
+795
+00:23:59,320 --> 00:24:01,800
+Oren, thank you for all the amazing work
+
+796
+00:24:01,800 --> 00:24:02,720
+that you're doing.
+
+797
+00:24:02,720 --> 00:24:04,480
+You are touching literally
+
+798
+00:24:04,480 --> 00:24:06,680
+so many lives before this,
+
+799
+00:24:06,680 --> 00:24:08,480
+after this, during this.
+
+800
+00:24:08,480 --> 00:24:09,320
+Thank you very, very much.
+
+801
+00:24:09,320 --> 00:24:10,640
+Before we leave,
+
+802
+00:24:10,640 --> 00:24:11,360
+I have to ask you
+
+803
+00:24:11,360 --> 00:24:12,440
+the most important question,
+
+804
+00:24:12,440 --> 00:24:13,760
+which is three words
+
+805
+00:24:13,760 --> 00:24:16,040
+that you would use to describe yourself.
+
+806
+00:24:16,040 --> 00:24:17,960
+Oh, my goodness.
+
+807
+00:24:17,960 --> 00:24:22,640
+Well, I'm definitely entrepreneur.
+
+808
+00:24:22,640 --> 00:24:23,080
+Yeah.
+
+809
+00:24:23,080 --> 00:24:24,440
+But I would like to say
+
+810
+00:24:24,440 --> 00:24:28,240
+that I'm a world benefactor.
+
+811
+00:24:28,240 --> 00:24:30,040
+That's my goal in life.
+
+812
+00:24:30,040 --> 00:24:32,040
+A world benefactor.
+
+813
+00:24:32,040 --> 00:24:32,560
+Yeah.
+
+814
+00:24:32,560 --> 00:24:33,640
+I want to make this world
+
+815
+00:24:33,640 --> 00:24:36,800
+a better on many levels.
+
+816
+00:24:37,800 --> 00:24:38,760
+That's how I see myself.
+
+817
+00:24:38,760 --> 00:24:40,440
+Entrepreneur, world benefactor.
+
+818
+00:24:40,440 --> 00:24:40,840
+I love it.
+
+819
+00:24:40,840 --> 00:24:41,960
+Oren, toda raba.
+
+820
+00:24:41,960 --> 00:24:43,360
+Thank you very, very much.
+
+821
+00:24:43,360 --> 00:24:44,200
+Okay my friend.
+
+822
+00:24:44,200 --> 00:24:45,480
+Thank you for having me.
+
+823
+00:24:45,480 --> 00:24:46,080
+Of course.
+
+824
+00:24:46,086 --> 00:24:52,200
+Thank you for having me.
+

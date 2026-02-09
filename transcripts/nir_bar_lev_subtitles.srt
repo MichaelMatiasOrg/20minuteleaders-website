@@ -1,0 +1,2342 @@
+﻿1
+00:03:48,900 --> 00:03:51,900
+Nir, how are you?
+
+2
+00:03:51,900 --> 00:03:52,900
+Good. How are you, Michael?
+
+3
+00:03:52,900 --> 00:03:53,900
+Fantastic!
+
+4
+00:03:53,900 --> 00:03:55,900
+Thank you so much for joining 
+me on 20 Minute Leaders.
+
+5
+00:03:55,900 --> 00:03:59,300
+It’s already nighttime ,  
+obviously, in Israel,
+
+6
+00:03:59,300 --> 00:04:01,900
+so even more thank you 
+for taking the time to join me.
+
+7
+00:04:01,900 --> 00:04:02,900
+No worries.
+
+8
+00:04:02,940 --> 00:04:04,900
+Standard working hours.
+
+9
+00:04:04,900 --> 00:04:09,900
+Standard working hours for 
+a CEO of an early stage start-up.
+
+10
+00:04:09,900 --> 00:04:12,900
+That has to, obviously, 
+do both US and Israel.
+
+11
+00:04:12,900 --> 00:04:13,900
+So wonderful.
+
+12
+00:04:13,900 --> 00:04:16,900
+You know, Nir, 
+so much experience
+
+13
+00:04:16,900 --> 00:04:19,900
+in the machine learning  and 
+artificial  intelligence space,
+
+14
+00:04:19,900 --> 00:04:23,000
+research and from Google, 
+and most recently,
+
+15
+00:04:23,000 --> 00:04:25,000
+the company that 
+you founded, Allegro.
+
+16
+00:04:25,000 --> 00:04:28,300
+And I love to use this 
+next 19 minutes or so,
+
+17
+00:04:28,300 --> 00:04:30,900
+so that I can learn a little bit 
+about where we’re headed.
+
+18
+00:04:30,900 --> 00:04:33,900
+And a lot of the people 
+that are viewing this,
+
+19
+00:04:33,900 --> 00:04:35,900
+some of them are technical,
+some of them are not.
+
+20
+00:04:35,900 --> 00:04:37,300
+So, I’m sure we --
+
+21
+00:04:37,300 --> 00:04:40,900
+Let’s try to find a balance of how 
+can we talk about this industry
+
+22
+00:04:40,900 --> 00:04:44,300
+at a bit higher level and 
+what opportunities are...
+
+23
+00:04:44,300 --> 00:04:46,900
+and what opportunities are 
+and what the constraints are.
+
+24
+00:04:46,900 --> 00:04:47,900
+Sure.
+
+25
+00:04:47,900 --> 00:04:49,900
+So, tell me a little bit about 
+Allegro really quick
+
+26
+00:04:49,900 --> 00:04:52,900
+just so we can have context 
+of what you’re interested in
+
+27
+00:04:52,900 --> 00:04:54,900
+and some of the things that
+you’re researching.
+
+28
+00:04:55,900 --> 00:04:56,900
+Absolutely.
+
+29
+00:04:56,900 --> 00:05:02,900
+Actually, we do a little 
+bit of research, but --
+
+30
+00:05:02,900 --> 00:05:05,900
+I mean, this is also on team 
+communication and building...
+
+31
+00:05:05,900 --> 00:05:07,900
+- building models that's -- yeah.
+- Sure.
+
+32
+00:05:07,900 --> 00:05:09,900
+Sure, sure, sure. 
+I mean, research always has
+
+33
+00:05:09,900 --> 00:05:11,900
+a specific foundation in AI.
+
+34
+00:05:11,900 --> 00:05:13,900
+- Yeah.
+- But basically,
+
+35
+00:05:13,900 --> 00:05:15,900
+where we come at it or --
+
+36
+00:05:16,900 --> 00:05:19,900
+We’re about engineering
+the research and I’ll explain.
+
+37
+00:05:19,900 --> 00:05:22,900
+So, the thing about AI --
+
+38
+00:05:22,900 --> 00:05:24,900
+and when I’m speaking about AI,
+
+39
+00:05:24,900 --> 00:05:26,900
+in my context,
+it’s machine learning
+
+40
+00:05:26,900 --> 00:05:27,900
+and deep learning.
+
+41
+00:05:27,900 --> 00:05:31,900
+Basically, it’s a fundamentally
+different paradigm
+
+42
+00:05:31,900 --> 00:05:32,900
+on how to do software.
+
+43
+00:05:32,900 --> 00:05:34,900
+Right? So, traditional software
+
+44
+00:05:34,900 --> 00:05:36,900
+is a very logical, linear
+
+45
+00:05:36,900 --> 00:05:40,900
+development process. 
+At its essence, it’s basically
+
+46
+00:05:40,900 --> 00:05:46,300
+engineers building algorithms 
+to solve problems,
+
+47
+00:05:46,300 --> 00:05:48,300
+and then coding them in a way 
+that a machine understands,
+
+48
+00:05:48,300 --> 00:05:50,300
+so then, a machine 
+can actually run it.
+
+49
+00:05:50,300 --> 00:05:52,300
+Whereas in machine learning -- 
+deep learning,
+
+50
+00:05:52,300 --> 00:05:55,900
+what you’re actually doing is, 
+you’re employing algorithms
+
+51
+00:05:55,900 --> 00:05:59,300
+to come up with the algorithm 
+to solve the problem.
+
+52
+00:05:59,300 --> 00:06:00,300
+- Right.
+- This is --
+
+53
+00:06:00,300 --> 00:06:03,300
+And so, you do this through 
+a process of iteration
+
+54
+00:06:03,300 --> 00:06:06,300
+and experimentation, 
+hence, machine learning.
+
+55
+00:06:06,300 --> 00:06:08,300
+Right? So, the algorithm
+
+56
+00:06:08,300 --> 00:06:10,300
+supposedly learns, right?
+
+57
+00:06:10,300 --> 00:06:10,900
+Yup.
+
+58
+00:06:10,900 --> 00:06:12,000
+And so, this is a very --
+
+59
+00:06:12,000 --> 00:06:15,300
+this is an experimentational 
+process rather than a standard
+
+60
+00:06:15,300 --> 00:06:17,300
+software process. 
+And this has fundamental
+
+61
+00:06:17,300 --> 00:06:19,300
+implications on everything else. 
+Right?
+
+62
+00:06:19,300 --> 00:06:22,900
+On the type of talent 
+that you need to basically
+
+63
+00:06:22,900 --> 00:06:24,300
+drive development
+
+64
+00:06:24,300 --> 00:06:25,300
+and maintenance of this,
+
+65
+00:06:25,300 --> 00:06:29,300
+on the type of tools that 
+you need, and how to integrate
+
+66
+00:06:29,300 --> 00:06:31,300
+workflows to make that work.
+
+67
+00:06:31,300 --> 00:06:35,900
+And so, what we do at Allegro 
+is we basically provide
+
+68
+00:06:35,900 --> 00:06:37,900
+an end-to-end tool chain 
+or platform,
+
+69
+00:06:37,900 --> 00:06:41,300
+whatever you want to call it, 
+that basically supports
+
+70
+00:06:41,300 --> 00:06:44,500
+the key pillars or aspects 
+of AI around the
+
+71
+00:06:44,500 --> 00:06:47,500
+paradigm so that our 
+customers can focus on
+
+72
+00:06:47,500 --> 00:06:50,500
+building and maintaining
+their product or service,
+
+73
+00:06:50,500 --> 00:06:52,500
+so that they can focus on --
+
+74
+00:06:52,500 --> 00:06:54,500
+and therefore, 
+build a better solution,
+
+75
+00:06:54,500 --> 00:06:56,100
+faster, more cost-effectively.
+
+76
+00:06:56,100 --> 00:06:56,700
+Right?
+
+77
+00:06:56,700 --> 00:06:58,500
+At the end of the day, 
+we’re about engineering the
+
+78
+00:06:58,500 --> 00:07:05,500
+processes that are specific to AI 
+to make it more productive.
+
+79
+00:07:05,500 --> 00:07:07,500
+Okay. So, maybe give me 
+a brief context and a rundown
+
+80
+00:07:07,500 --> 00:07:11,500
+of what is the life cycle of an AI 
+project in terms of, let’s say,
+
+81
+00:07:11,500 --> 00:07:12,500
+that I now --
+
+82
+00:07:12,500 --> 00:07:14,500
+I want to take a team of
+
+83
+00:07:14,500 --> 00:07:16,900
+three other researchers 
+and engineers.
+
+84
+00:07:16,900 --> 00:07:19,900
+I want to solve my problem. 
+It’s that I want to know --
+
+85
+00:07:19,900 --> 00:07:24,900
+I want to know what my dog is 
+going to think next.
+
+86
+00:07:24,900 --> 00:07:25,900
+Okay? So I have a new puppy.
+
+87
+00:07:25,900 --> 00:07:29,900
+I know that he has patterns. 
+I just don’t know what they are,
+
+88
+00:07:29,900 --> 00:07:31,900
+of when he’s going to go 
+bite the couch.
+
+89
+00:07:31,900 --> 00:07:32,900
+And it's awful
+
+90
+00:07:32,900 --> 00:07:34,300
+because I’m going to 
+have to pay for this couch,
+
+91
+00:07:34,300 --> 00:07:36,900
+- because this is a rental. 
+- Right. Right.
+
+92
+00:07:36,900 --> 00:07:38,900
+So, how do --
+
+93
+00:07:38,900 --> 00:07:43,000
+what is the life cycle of such 
+a project from a machine-learning
+
+94
+00:07:43,000 --> 00:07:44,900
+researcher’s perspective?
+
+95
+00:07:44,900 --> 00:07:46,900
+Actually, you hit the nail 
+on the head, right?
+
+96
+00:07:46,900 --> 00:07:48,900
+That’s one thing to remember
+
+97
+00:07:48,900 --> 00:07:50,900
+for the non-technical 
+audience, right?
+
+98
+00:07:50,920 --> 00:07:53,900
+In a machine learning AI 
+and deep learning,
+
+99
+00:07:53,900 --> 00:07:55,900
+it’s not a solve-all solution 
+for everything.
+
+100
+00:07:55,900 --> 00:07:57,900
+- Right. 
+- It’s really about being able to
+
+101
+00:07:57,900 --> 00:07:59,900
+identify patterns in lots of data
+
+102
+00:07:59,900 --> 00:08:03,300
+or complex data and being able 
+to come up with predictions
+
+103
+00:08:03,300 --> 00:08:04,700
+as a result of that. 
+Right?
+
+104
+00:08:04,700 --> 00:08:05,900
+So, you hit the nail 
+right on the head on that.
+
+105
+00:08:05,900 --> 00:08:07,700
+And so, being able to understand
+
+106
+00:08:07,700 --> 00:08:10,900
+when your puppy 
+is going to bite the couch,
+
+107
+00:08:10,900 --> 00:08:12,900
+you’ll need to collect data.
+
+108
+00:08:12,900 --> 00:08:13,900
+Right?
+
+109
+00:08:13,900 --> 00:08:14,900
+To basically --
+
+110
+00:08:14,900 --> 00:08:19,000
+You’ll need to collect data 
+about the puppy’s behavior.
+
+111
+00:08:19,000 --> 00:08:20,300
+Right?
+
+112
+00:08:20,300 --> 00:08:25,900
+For a period of time during which 
+he may bite the couch or not,
+
+113
+00:08:25,900 --> 00:08:27,300
+and he’s just acting around.
+
+114
+00:08:27,300 --> 00:08:27,900
+Right?
+
+115
+00:08:27,900 --> 00:08:30,300
+So basically, in this case, you're 
+probably going to film him.
+
+116
+00:08:30,300 --> 00:08:30,900
+- Right?
+- Yeah.
+
+117
+00:08:30,900 --> 00:08:33,900
+You could theoretically also put 
+some sensors around him and
+
+118
+00:08:33,900 --> 00:08:35,900
+measure other types of things
+
+119
+00:08:35,900 --> 00:08:40,000
+related to, maybe, his level 
+of anxiety or whatever,
+
+120
+00:08:40,000 --> 00:08:42,300
+- and blood pressure, right?
+- Or I should follow him around,
+
+121
+00:08:42,300 --> 00:08:44,900
+so I can write logs of every single 
+thing he does.
+
+122
+00:08:44,900 --> 00:08:46,300
+Exactly, right?
+
+123
+00:08:46,300 --> 00:08:49,300
+And then so, basically, that’s the 
+first thing you need to do.
+
+124
+00:08:49,300 --> 00:08:52,900
+I mean, because data -- 
+what we’d like to say is
+
+125
+00:08:52,900 --> 00:08:55,000
+it’s really the raw material
+that drives the process.
+
+126
+00:08:55,000 --> 00:08:55,900
+- Right?
+- Right.
+
+127
+00:08:55,900 --> 00:08:58,900
+And so then, what you’re going 
+to do is you’re going to have to
+
+128
+00:08:58,900 --> 00:09:00,900
+basically --
+
+129
+00:09:00,900 --> 00:09:03,900
+you’re going to have to 
+have a data scientist
+
+130
+00:09:03,900 --> 00:09:04,900
+or you’re going to have 
+to find someone
+
+131
+00:09:04,900 --> 00:09:07,900
+that is going to figure out, 
+"Okay, what is the best...
+
+132
+00:09:07,900 --> 00:09:14,300
+the best way to address this or to
+build a solution to predict this?"
+
+133
+00:09:14,300 --> 00:09:16,300
+And what I mean by that is 
+you want someone to be able to
+
+134
+00:09:16,300 --> 00:09:18,700
+identify, 
+"What’s the right algorithms?"
+
+135
+00:09:18,700 --> 00:09:21,300
+There are a lot of algorithms 
+out there, right?
+
+136
+00:09:21,300 --> 00:09:22,700
+In deep learning, 
+they’re called neural networks.
+
+137
+00:09:22,700 --> 00:09:24,700
+In machine learning, 
+there’s a set of algorithms.
+
+138
+00:09:24,700 --> 00:09:27,700
+But which is the one that’s best 
+suited to solve this problem?
+
+139
+00:09:27,700 --> 00:09:30,720
+And there are obviously different 
+types of algorithms, each one
+
+140
+00:09:30,720 --> 00:09:33,000
+for different solutions, 
+optimize for them.
+
+141
+00:09:33,000 --> 00:09:35,700
+And then, you’re going to have 
+to basically build an experiment.
+
+142
+00:09:35,700 --> 00:09:37,700
+You’re building basically 
+an experiment where you’re saying,
+
+143
+00:09:37,700 --> 00:09:39,300
+“I’m going to take this data. 
+I’m going to assume this is
+
+144
+00:09:39,300 --> 00:09:40,700
+the right model for me.
+
+145
+00:09:40,700 --> 00:09:42,700
+I’m going to tune different 
+parameters around it.”
+
+146
+00:09:42,700 --> 00:09:44,300
+You have some --
+think of it as a block
+
+147
+00:09:44,300 --> 00:09:46,700
+where you can actually tune 
+and change some levers.
+
+148
+00:09:46,700 --> 00:09:48,300
+And then, you’re going to run an 
+experiment and you’re going to
+
+149
+00:09:48,300 --> 00:09:49,700
+see the results.
+
+150
+00:09:49,700 --> 00:09:50,300
+And I just --
+
+151
+00:09:50,300 --> 00:09:51,000
+I want to also --
+
+152
+00:09:51,000 --> 00:09:53,700
+There is a differentiation because 
+I think there’s a misconception
+
+153
+00:09:53,700 --> 00:09:56,700
+that anybody who says, 
+"I’m a machine learning engineer,"
+
+154
+00:09:56,700 --> 00:09:58,700
+or something like that, 
+then people assume that
+
+155
+00:09:58,700 --> 00:10:01,700
+they’re a mathematical genius, 
+that they’re sitting and they're --
+
+156
+00:10:01,700 --> 00:10:02,700
+they’re creating the --
+
+157
+00:10:02,700 --> 00:10:06,300
+they’re necessarily creating these 
+new, unseen-before algorithms.
+
+158
+00:10:06,300 --> 00:10:08,300
+But a lot of engineers, 
+that are already working on
+
+159
+00:10:08,300 --> 00:10:11,000
+machine learning -- today, you have 
+all these democratized tools,
+
+160
+00:10:11,000 --> 00:10:14,300
+like Tensorflow and PyTorch, 
+and all these out-of-the-box
+
+161
+00:10:14,300 --> 00:10:16,300
+tools where you can -- 
+even if you don’t know
+
+162
+00:10:16,300 --> 00:10:17,900
+machine learning at all,
+you can say,
+
+163
+00:10:17,900 --> 00:10:21,300
+“Yeah, I have this data set.
+ I heard on the podcast that
+
+164
+00:10:21,300 --> 00:10:25,300
+this should be suitable 
+to a logistic regression.
+
+165
+00:10:25,300 --> 00:10:28,300
+So, let’s just try it out,” 
+and 'Oh, it works'
+
+166
+00:10:28,300 --> 00:10:29,300
+or 'it doesn’t work.'"
+
+167
+00:10:29,300 --> 00:10:31,300
+It’s true.
+
+168
+00:10:31,300 --> 00:10:34,300
+So, a lot of the big 
+plat-providers,
+
+169
+00:10:34,300 --> 00:10:39,300
+namely, mostly, you see Google, 
+Amazon, Microsoft, and some others
+
+170
+00:10:39,300 --> 00:10:45,300
+are providing tools that enable 
+people who have basic technical
+
+171
+00:10:45,300 --> 00:10:47,300
+affinity to be able 
+to do these things.
+
+172
+00:10:47,300 --> 00:10:49,300
+But the important 
+thing to remember,
+
+173
+00:10:49,300 --> 00:10:51,300
+at least, where I’m coming from in 
+the industry, is that these tools
+
+174
+00:10:51,300 --> 00:10:53,300
+are lowest common denominator.
+
+175
+00:10:53,300 --> 00:10:56,000
+They’re going to be able to maybe 
+solve a problem of a puppy.
+
+176
+00:10:56,000 --> 00:10:58,900
+But once you get into 
+situations where
+
+177
+00:10:58,900 --> 00:11:01,800
+the precision becomes 
+much more important
+
+178
+00:11:01,800 --> 00:11:02,700
+- because 
+- Right.
+
+179
+00:11:02,700 --> 00:11:04,300
+the cost associated within a stake
+
+180
+00:11:04,300 --> 00:11:05,300
+is going to be bigger,
+
+181
+00:11:05,300 --> 00:11:07,700
+say, autonomous vehicles, right?
+
+182
+00:11:07,700 --> 00:11:08,700
+- Yup. Yeah.
+- Or something else, right?
+
+183
+00:11:08,700 --> 00:11:13,000
+Then, it’s not enough to have 
+a layman using these tools.
+
+184
+00:11:13,000 --> 00:11:16,300
+You’re going to have to actually 
+have people who are much...
+
+185
+00:11:16,300 --> 00:11:18,300
+much more knowledgeable, both on...
+
+186
+00:11:18,300 --> 00:11:19,300
+on different aspects
+ of this, right?
+
+187
+00:11:19,300 --> 00:11:20,300
+So, there are a lot of aspects.
+
+188
+00:11:20,300 --> 00:11:22,300
+There are the people 
+who are actually going to
+
+189
+00:11:22,300 --> 00:11:24,000
+to use their neural networks 
+and to do these stuffs,
+
+190
+00:11:24,000 --> 00:11:25,900
+and maybe even tweak them around,
+
+191
+00:11:25,900 --> 00:11:26,900
+and even --
+
+192
+00:11:26,900 --> 00:11:30,700
+We are working with companies 
+who even are smart enough
+
+193
+00:11:30,700 --> 00:11:33,900
+to actually be able to build 
+their own neural networks.
+
+194
+00:11:33,900 --> 00:11:34,400
+Yeah.
+
+195
+00:11:34,400 --> 00:11:36,400
+To them -- engineers who know 
+how to actually take that
+
+196
+00:11:36,400 --> 00:11:39,700
+and build a solution, 
+that's scalable solution, right?
+
+197
+00:11:39,700 --> 00:11:42,300
+And so, there are many -- 
+you need to have a lot of
+
+198
+00:11:42,300 --> 00:11:43,700
+professionals in this
+process, right?
+
+199
+00:11:43,700 --> 00:11:45,700
+- So, it depends --
+- It really sounds like the --
+
+200
+00:11:45,700 --> 00:11:48,700
+It really sounds like the 80-20 
+rule, where you can get 80%
+
+201
+00:11:48,700 --> 00:11:50,000
+precision with 20% of the effort.
+
+202
+00:11:50,000 --> 00:11:52,700
+But if you want to get 
+a 100% accuracy,
+
+203
+00:11:52,700 --> 00:11:54,700
+and you want to make sure 
+that your autonomous vehicle
+
+204
+00:11:54,700 --> 00:11:57,700
+is going to be predictable 
+in these circumstances,
+
+205
+00:11:57,700 --> 00:11:59,700
+you’re going to have to put 
+100% of the effort
+
+206
+00:11:59,700 --> 00:12:00,700
+and go that extra mile.
+
+207
+00:12:00,700 --> 00:12:03,300
+Did you take a sneak peak 
+at some of our presentations?
+
+208
+00:12:03,300 --> 00:12:03,800
+- Because –
+- Oh, no. I –
+
+209
+00:12:03,800 --> 00:12:05,300
+that’s exactly right.
+
+210
+00:12:05,300 --> 00:12:08,300
+You know who I grew up with. 
+And I’ve been hearing about this
+
+211
+00:12:08,300 --> 00:12:09,300
+from Berth, basically.
+
+212
+00:12:09,700 --> 00:12:10,300
+[laughs]
+
+213
+00:12:10,300 --> 00:12:12,700
+Yeah, it’s exactly that.
+
+214
+00:12:13,300 --> 00:12:15,900
+I heard somewhere,
+and it's so true.
+
+215
+00:12:15,900 --> 00:12:17,300
+I mean building a prototype --
+
+216
+00:12:17,300 --> 00:12:20,700
+even building actually a prototype 
+of an autonomous vehicle
+
+217
+00:12:20,700 --> 00:12:24,900
+to drive in a parking lot 
+is very, very easy.
+
+218
+00:12:24,900 --> 00:12:26,300
+The problem is exactly that,
+
+219
+00:12:26,300 --> 00:12:27,300
+to build a real product.
+
+220
+00:12:27,300 --> 00:12:29,300
+That’s exactly the 80-20 rule.
+
+221
+00:12:29,300 --> 00:12:32,300
+Wonderful. Okay. 
+So, Allegro,
+
+222
+00:12:32,300 --> 00:12:36,700
+how is that helping 
+either democratize
+
+223
+00:12:36,700 --> 00:12:38,900
+machine learning and AI 
+so that others can use it,
+
+224
+00:12:38,900 --> 00:12:41,900
+or make it more efficient 
+and better for teams?
+
+225
+00:12:41,900 --> 00:12:42,900
+How does this whole process work?
+
+226
+00:12:42,900 --> 00:12:45,900
+Sure. So, we basically --
+
+227
+00:12:45,900 --> 00:12:50,900
+we help companies 
+in three or four pillars.
+
+228
+00:12:50,900 --> 00:12:51,900
+Right?
+
+229
+00:12:51,900 --> 00:12:55,900
+The first one is what we call 
+experiment management
+
+230
+00:12:55,900 --> 00:12:56,400
+or process management.
+
+231
+00:12:56,400 --> 00:12:58,300
+And this is really around 
+how do you manage
+
+232
+00:12:58,300 --> 00:13:01,000
+these different process 
+of experiments?
+
+233
+00:13:01,000 --> 00:13:01,700
+- Right.
+- Right?
+
+234
+00:13:01,700 --> 00:13:04,300
+So, you have a lot of 
+experimentation that you’re doing,
+
+235
+00:13:04,300 --> 00:13:07,300
+and you need to basically be able 
+to pick and choose the best one,
+
+236
+00:13:07,300 --> 00:13:10,300
+compare them, go back and 
+maybe take a different direction
+
+237
+00:13:10,300 --> 00:13:12,700
+in your research, et cetera.
+So, how do you actually
+
+238
+00:13:12,700 --> 00:13:16,700
+manage that process efficiently? 
+That’s one piece that we do.
+
+239
+00:13:16,700 --> 00:13:18,700
+The second piece --
+
+240
+00:13:18,700 --> 00:13:20,700
+and I’m going really fast, 
+high level here, right?
+
+241
+00:13:20,700 --> 00:13:21,700
+The second piece is around
+
+242
+00:13:21,700 --> 00:13:25,700
+this new space 
+called MLOps, right?
+
+243
+00:13:25,700 --> 00:13:28,500
+So, it’s the AI version 
+of DevOps, right?
+
+244
+00:13:28,500 --> 00:13:31,700
+And DevOps in a nutshell,
+
+245
+00:13:31,700 --> 00:13:33,700
+it’s about taking a single,
+
+246
+00:13:33,700 --> 00:13:35,000
+discreet piece of code
+
+247
+00:13:35,000 --> 00:13:38,300
+and scaling up over a lot 
+of computers
+
+248
+00:13:38,300 --> 00:13:39,500
+so that it can work 
+and scale, right?
+
+249
+00:13:39,500 --> 00:13:42,300
+To service a lot of users 
+or what have you.
+
+250
+00:13:42,300 --> 00:13:46,300
+Whereas, in AI, 
+you’re actually having lots
+
+251
+00:13:46,300 --> 00:13:48,000
+of different experiments 
+running at the same time.
+
+252
+00:13:48,000 --> 00:13:49,300
+And so, you need to have --
+
+253
+00:13:49,300 --> 00:13:50,300
+The problem is different. 
+You need to have
+
+254
+00:13:50,300 --> 00:13:52,300
+a way to scale up
+
+255
+00:13:52,300 --> 00:13:54,700
+lots of slightly different 
+pieces of code.
+
+256
+00:13:54,700 --> 00:13:57,300
+They’re about the same, 
+but they're slightly different.
+
+257
+00:13:57,300 --> 00:13:58,300
+And it’s a different problem.
+
+258
+00:13:58,300 --> 00:14:01,300
+The other thing is DevOps 
+usually happens in production.
+
+259
+00:14:01,300 --> 00:14:03,300
+And so, in standard software,
+
+260
+00:14:03,300 --> 00:14:06,300
+there’s a very clear delineation 
+between development
+
+261
+00:14:06,300 --> 00:14:07,300
+and production.
+
+262
+00:14:07,300 --> 00:14:07,800
+Right.
+
+263
+00:14:07,800 --> 00:14:08,800
+Whereas, in AI,
+
+264
+00:14:08,800 --> 00:14:10,800
+the need for a lot 
+of compute power
+
+265
+00:14:10,800 --> 00:14:12,800
+begins really, really early on.
+
+266
+00:14:12,800 --> 00:14:13,300
+- Yeah.
+- As you --
+
+267
+00:14:13,300 --> 00:14:15,300
+know, right after you 
+built the initial modelling,
+
+268
+00:14:15,300 --> 00:14:18,300
+you now have to take more 
+compute power to do bigger,
+
+269
+00:14:18,300 --> 00:14:19,300
+bigger data sets.
+
+270
+00:14:19,300 --> 00:14:22,300
+And so, this is the area of MLOps.
+
+271
+00:14:22,300 --> 00:14:25,300
+And so, it’s a very different
+problem than DevOps.
+
+272
+00:14:25,300 --> 00:14:28,700
+And we provide a really 
+simple solution for that
+
+273
+00:14:28,700 --> 00:14:33,700
+so that companies who have 
+data scientists can self-serve
+
+274
+00:14:33,700 --> 00:14:37,700
+themselves because that’s, 
+oftentimes, where the problem is.
+
+275
+00:14:37,700 --> 00:14:39,900
+They’re going to the DevOps 
+who don’t know exactly
+
+276
+00:14:39,900 --> 00:14:42,300
+what they need, and there’s 
+a lot of friction there.
+
+277
+00:14:42,300 --> 00:14:43,900
+So, that’s the second thing 
+that we help with.
+
+278
+00:14:43,900 --> 00:14:46,900
+- The third thing –
+- You actually --
+
+279
+00:14:46,900 --> 00:14:50,900
+You actually own the GPUs and you
+ manage the running or are you --?
+
+280
+00:14:50,900 --> 00:14:52,900
+How does that actually 
+work over there?
+
+281
+00:14:52,900 --> 00:14:53,700
+Right.
+
+282
+00:14:53,700 --> 00:14:57,300
+We don’t own the GPUs 
+or any of the underneath hardware.
+
+283
+00:14:57,300 --> 00:14:59,700
+Our solution is 100% software.
+
+284
+00:14:59,700 --> 00:15:00,300
+Okay.
+
+285
+00:15:00,300 --> 00:15:02,300
+We basically provide an
+orchestration
+
+286
+00:15:02,300 --> 00:15:05,700
+and a queuing layer to enable 
+data scientists to do this.
+
+287
+00:15:05,700 --> 00:15:08,700
+It can sit directly 
+on the hardware.
+
+288
+00:15:08,700 --> 00:15:12,000
+It can also sit on scalable 
+solutions like Kubernetes,
+
+289
+00:15:12,000 --> 00:15:13,700
+which were built for DevOps.
+
+290
+00:15:13,700 --> 00:15:16,700
+But a lot of companies 
+who have this want to
+
+291
+00:15:16,700 --> 00:15:18,700
+have their AI also on that.
+
+292
+00:15:18,700 --> 00:15:21,700
+So, we basically have this 
+kind of like translation layer
+
+293
+00:15:21,700 --> 00:15:24,700
+so that the data scientists 
+can build solutions easily.
+
+294
+00:15:24,700 --> 00:15:26,700
+And it then runs and it 
+kind of runs ultimately on
+
+295
+00:15:26,700 --> 00:15:28,700
+Kubernetes’ [UR] system.
+
+296
+00:15:28,700 --> 00:15:29,700
+Yup.
+
+297
+00:15:29,700 --> 00:15:32,300
+So, that’s the MLOps part of it.
+
+298
+00:15:32,300 --> 00:15:38,300
+The third pillar is around 
+data management.
+
+299
+00:15:38,300 --> 00:15:40,300
+And what I mean 
+by data management is really
+
+300
+00:15:40,300 --> 00:15:41,300
+metadata management.
+
+301
+00:15:41,300 --> 00:15:43,700
+It’s about the 
+insights of the data.
+
+302
+00:15:43,700 --> 00:15:46,700
+Like, when you’re looking at data,
+think about your dog, right?
+
+303
+00:15:46,700 --> 00:15:50,300
+The video itself is meaningless 
+unless you basically say,
+
+304
+00:15:50,300 --> 00:15:53,300
+"Okay, here’s where your 
+puppy bit the couch,"
+
+305
+00:15:53,300 --> 00:15:56,700
+or "Here where he started
+playing around," or whatever.
+
+306
+00:15:56,700 --> 00:15:59,700
+That metadata, 
+maybe, it’s nighttime
+
+307
+00:15:59,700 --> 00:16:01,700
+or daytime, or it's winter, right? 
+Those are the things that
+
+308
+00:16:01,700 --> 00:16:05,700
+actually potentially could affect
+your puppy’s behavior, right?
+
+309
+00:16:05,700 --> 00:16:08,700
+And so, those are the things 
+that you need to manage.
+
+310
+00:16:08,700 --> 00:16:12,700
+And the thing is that you need 
+to understand data skews
+
+311
+00:16:12,700 --> 00:16:14,700
+and data biases, 
+because ultimately --
+
+312
+00:16:14,700 --> 00:16:18,700
+Let’s take an example 
+from autonomous vehicles.
+
+313
+00:16:18,700 --> 00:16:20,700
+Most of the time,
+what you’re dealing with
+
+314
+00:16:20,700 --> 00:16:23,700
+is these really rare edge cases. 
+What happens when you’re driving
+
+315
+00:16:23,700 --> 00:16:27,300
+and the sun is exactly 
+shining through the camera,
+
+316
+00:16:27,300 --> 00:16:29,700
+and you’re making a left turn, and 
+someone’s coming from the right,
+
+317
+00:16:29,700 --> 00:16:30,700
+and there’s a stop sign, 
+whatever --
+
+318
+00:16:30,700 --> 00:16:34,700
+those edge cases are the ones 
+that you need to deal with.
+
+319
+00:16:34,700 --> 00:16:36,700
+And they’re rare.
+
+320
+00:16:36,740 --> 00:16:38,700
+And so, you don’t have 
+a lot of data on that.
+
+321
+00:16:38,700 --> 00:16:42,700
+And so then, what happens is, 
+actually, if you have too much data
+
+322
+00:16:42,700 --> 00:16:44,700
+of something else, and not
+enough of these situations,
+
+323
+00:16:44,700 --> 00:16:47,900
+your neural etwork, your algorithm 
+is not going to learn well.
+
+324
+00:16:47,900 --> 00:16:51,900
+So, you have to rebalance 
+the data, et cetera.
+
+325
+00:16:51,900 --> 00:16:55,700
+So, building a solution
+to do that, to really manage
+
+326
+00:16:55,700 --> 00:16:57,700
+metadata as raw material 
+for your process,
+
+327
+00:16:57,700 --> 00:16:59,700
+this is something completely new.
+
+328
+00:16:59,700 --> 00:17:02,700
+Companies like Google, Microsoft, 
+Amazon have internal
+
+329
+00:17:02,700 --> 00:17:03,900
+in-house solutions 
+built for that.
+
+330
+00:17:03,900 --> 00:17:06,300
+But 99% of the other 
+companies don’t.
+
+331
+00:17:06,300 --> 00:17:08,300
+- Right? And so --
+- And they want to --
+
+332
+00:17:08,300 --> 00:17:10,700
+almost every start-up 
+either claims or actually does
+
+333
+00:17:10,700 --> 00:17:13,300
+AI work, yeah.
+
+334
+00:17:13,300 --> 00:17:13,900
+Yeah.
+
+335
+00:17:13,900 --> 00:17:17,700
+We can talk about that 
+at a different time.
+
+336
+00:17:17,700 --> 00:17:20,700
+I mean there are some amazing 
+startups out there but
+
+337
+00:17:20,700 --> 00:17:25,300
+you’re right, 
+a lot of unsubstantiated
+
+338
+00:17:25,300 --> 00:17:26,700
+claims are also out there.
+
+339
+00:17:26,700 --> 00:17:28,700
+So that's the third one.
+
+340
+00:17:28,700 --> 00:17:30,300
+It doubles your valuation 
+within a second.
+
+341
+00:17:30,300 --> 00:17:31,700
+So, of course you do.
+
+342
+00:17:31,700 --> 00:17:36,700
+And then, I guess the fourth 
+pillar is about collaboration.
+
+343
+00:17:36,700 --> 00:17:39,300
+And it’s really -- 
+It’s about collaboration
+
+344
+00:17:39,300 --> 00:17:43,700
+and actually efficiency 
+of your human capital.
+
+345
+00:17:43,700 --> 00:17:47,700
+This has multiple facets. 
+So, the first facet is
+
+346
+00:17:47,700 --> 00:17:48,700
+your data scientists.
+
+347
+00:17:48,700 --> 00:17:51,700
+Really good ones, again, 
+we talked about the fact that
+
+348
+00:17:51,700 --> 00:17:54,700
+we’re solving problems 
+for companies who have
+
+349
+00:17:54,700 --> 00:17:57,700
+very high standards, 
+not your layman solutions.
+
+350
+00:17:57,700 --> 00:18:00,700
+And so, getting these very --
+
+351
+00:18:00,700 --> 00:18:02,700
+highly qualified research 
+scientists and data scientists,
+
+352
+00:18:02,700 --> 00:18:05,300
+super expensive 
+and very hard to find.
+
+353
+00:18:05,300 --> 00:18:09,300
+And so, if you have them, you want 
+to make sure that they’re as
+
+354
+00:18:09,300 --> 00:18:10,300
+productive as you can.
+
+355
+00:18:10,300 --> 00:18:11,300
+The second thing is
+
+356
+00:18:11,300 --> 00:18:13,700
+researchers and data scientists 
+have a very different mindset
+
+357
+00:18:13,700 --> 00:18:14,700
+than engineers.
+
+358
+00:18:14,700 --> 00:18:15,700
+Yup.
+
+359
+00:18:15,700 --> 00:18:16,700
+Because, again, 
+they’re doing research work.
+
+360
+00:18:16,700 --> 00:18:19,000
+But ultimately, you’re building 
+a product
+
+361
+00:18:19,000 --> 00:18:20,700
+which is an exercise 
+in engineering.
+
+362
+00:18:20,700 --> 00:18:22,000
+And so, there’s a friction there.
+
+363
+00:18:22,000 --> 00:18:24,000
+And the idea is how do 
+you actually make them
+
+364
+00:18:24,000 --> 00:18:27,300
+or how do you actually get them 
+to integrate well into a larger
+
+365
+00:18:27,300 --> 00:18:29,300
+product and engineering team?
+
+366
+00:18:29,300 --> 00:18:32,700
+So, obviously these have 
+a lot of aspects around
+
+367
+00:18:32,700 --> 00:18:34,700
+how do you manage it
+organizationally, et cetera.
+
+368
+00:18:34,700 --> 00:18:37,700
+But it also has an aspect 
+around tooling, right?
+
+369
+00:18:37,700 --> 00:18:39,000
+For example, 
+how do you make sure
+
+370
+00:18:39,000 --> 00:18:41,300
+that you have  a tool 
+that enables a simple hand-off
+
+371
+00:18:41,300 --> 00:18:43,300
+between something that 
+the data scientist build
+
+372
+00:18:43,300 --> 00:18:45,300
+and engineer can actually 
+take and use
+
+373
+00:18:45,300 --> 00:18:48,300
+as containerized solution 
+that they don’t need
+
+374
+00:18:48,300 --> 00:18:49,300
+to understand what’s inside.
+
+375
+00:18:49,300 --> 00:18:51,000
+So, we facilitate those things
+
+376
+00:18:51,000 --> 00:18:52,500
+- Interesting.
+- from that aspect
+
+377
+00:18:52,500 --> 00:18:55,700
+so that, on one hand, 
+data scientists can
+
+378
+00:18:55,700 --> 00:18:59,500
+become much more productive, but 
+also at the same time, be able to
+
+379
+00:18:59,500 --> 00:19:02,700
+hand off and integrate nicely 
+into the large organization.
+
+380
+00:19:02,700 --> 00:19:03,700
+So, those are the --
+
+381
+00:19:03,700 --> 00:19:07,700
+I guess four pillars of 
+how we help companies.
+
+382
+00:19:07,700 --> 00:19:10,000
+Wonderful.
+And where is it at now?
+
+383
+00:19:10,000 --> 00:19:13,300
+So, Allegro, what’s happening 
+in realms of, you know,
+
+384
+00:19:13,300 --> 00:19:15,700
+in terms of the team 
+and funding, et cetera?
+
+385
+00:19:16,700 --> 00:19:20,700
+So, we’re a series A company.
+
+386
+00:19:20,700 --> 00:19:22,700
+We’re about 30 people.
+
+387
+00:19:22,700 --> 00:19:27,700
+We’re an open-source company.
+
+388
+00:19:27,700 --> 00:19:31,700
+So, most of our platform
+is completely open.
+
+389
+00:19:31,700 --> 00:19:38,700
+And so, we’re actually undertaking 
+what Andreessen Horowitz calls
+
+390
+00:19:38,700 --> 00:19:41,700
+a B2B growth sales strategy. 
+So, we’re pushing
+
+391
+00:19:41,700 --> 00:19:44,300
+on getting a lot 
+of companies to adopt
+
+392
+00:19:44,300 --> 00:19:48,700
+our solution, knowing 
+that they’re going to
+
+393
+00:19:48,700 --> 00:19:49,700
+upsell into --
+
+394
+00:19:49,700 --> 00:19:51,700
+at some point to some 
+enterprise solution.
+
+395
+00:19:51,700 --> 00:19:54,700
+And so, that’s going well. 
+I can’t release numbers,
+
+396
+00:19:54,700 --> 00:19:56,700
+but we’re going really, 
+really fast.
+
+397
+00:19:56,700 --> 00:19:58,700
+That’s wonderful.
+Okay. Nir, I have you
+
+398
+00:19:58,700 --> 00:20:00,700
+for just a few more minutes.
+
+399
+00:20:00,700 --> 00:20:02,300
+- Sure.
+- But I'd love to --
+
+400
+00:20:02,300 --> 00:20:03,700
+And I'd love to pick your brain.
+
+401
+00:20:03,700 --> 00:20:07,700
+What are you most passionate about 
+in the realm of the AI space?
+
+402
+00:20:07,700 --> 00:20:11,700
+And if you think five years 
+down the line, realistically,
+
+403
+00:20:11,700 --> 00:20:14,700
+what are the things that you are 
+most excited about
+
+404
+00:20:14,700 --> 00:20:17,700
+that I will get to experience 
+in my 20s now?
+
+405
+00:20:17,700 --> 00:20:18,700
+[laughs]
+
+406
+00:20:22,000 --> 00:20:23,700
+What I’m most passionate about
+
+407
+00:20:23,700 --> 00:20:25,300
+is what got me here 
+in the first place.
+
+408
+00:20:25,300 --> 00:20:26,300
+I mean, this is --
+
+409
+00:20:26,300 --> 00:20:28,300
+So, I spent about 
+a decade at Google.
+
+410
+00:20:28,300 --> 00:20:33,000
+And after you are at Google and 
+you're doing a lot of things that
+
+411
+00:20:33,000 --> 00:20:39,700
+really impact huge swaths of 
+humanity, really, it’s --
+
+412
+00:20:39,700 --> 00:20:41,700
+you really learn about --
+
+413
+00:20:41,700 --> 00:20:42,700
+you want to innovate,
+
+414
+00:20:42,700 --> 00:20:44,700
+and you want to do something 
+that’s impactful.
+
+415
+00:20:44,700 --> 00:20:45,700
+And that’s really --
+
+416
+00:20:45,700 --> 00:20:48,700
+that’s been the driving force 
+for me across my whole career
+
+417
+00:20:48,700 --> 00:20:52,700
+―how to actually innovate and push 
+the envelope or be part of
+
+418
+00:20:52,700 --> 00:20:54,700
+something that pushes it 
+to the next stage,
+
+419
+00:20:54,700 --> 00:20:56,700
+and really be able to 
+have a large impact.
+
+420
+00:20:56,700 --> 00:20:58,900
+I think that AI, obviously,
+is meant to have a large --
+
+421
+00:20:58,900 --> 00:21:01,900
+a huge impact on humanity 
+in so many aspects.
+
+422
+00:21:01,900 --> 00:21:04,700
+And so, for us, it’s really about 
+making that happen.
+
+423
+00:21:04,700 --> 00:21:09,700
+I think that there’s a really big 
+disparity between where the media
+
+424
+00:21:09,700 --> 00:21:10,700
+is today and what’s 
+actually happening.
+
+425
+00:21:10,700 --> 00:21:12,700
+Most of the companies 
+are struggling with this.
+
+426
+00:21:12,700 --> 00:21:14,900
+And so, to me, if you’re asking, 
+realistically, what we’re going to
+
+427
+00:21:14,900 --> 00:21:17,000
+see in the next several 
+years is we’re going to see
+
+428
+00:21:17,000 --> 00:21:17,900
+a lot of the --
+
+429
+00:21:17,900 --> 00:21:21,700
+the things that you’re already 
+seeing out of Google, et cetera,
+
+430
+00:21:21,700 --> 00:21:23,700
+becomes 
+standard, everyday things
+
+431
+00:21:23,700 --> 00:21:25,300
+where it’s normal 
+for you to do that, right?
+
+432
+00:21:25,300 --> 00:21:27,300
+It’s normal for you 
+to talk to a bot, right?
+
+433
+00:21:27,300 --> 00:21:31,000
+That’s completely animated. 
+It’s normal for companies
+
+434
+00:21:31,000 --> 00:21:33,300
+to be able to automatically 
+figure out who are the best
+
+435
+00:21:33,300 --> 00:21:35,300
+customers and where they 
+need to target it, right?
+
+436
+00:21:35,300 --> 00:21:38,300
+It’s very easy to be able to
+understand what you’re seeing
+
+437
+00:21:38,300 --> 00:21:39,300
+in video, et cetera, right?
+
+438
+00:21:39,300 --> 00:21:44,300
+I had recently talked with 
+a product manager at Waymo.
+
+439
+00:21:44,300 --> 00:21:47,000
+And one of the very interesting 
+things that she mentioned was
+
+440
+00:21:47,000 --> 00:21:50,020
+the media and a lot 
+of companies were very quick
+
+441
+00:21:50,020 --> 00:21:54,020
+to make these crazy assumptions 
+that, yeah, by the year 2020,
+
+442
+00:21:54,020 --> 00:21:56,300
+we’re going to have 
+vehicles on the road.
+
+443
+00:21:56,300 --> 00:21:57,300
+But then, people --
+
+444
+00:21:57,300 --> 00:21:59,300
+because people though that 
+the problem was a little bit,
+
+445
+00:21:59,300 --> 00:22:01,300
+I think, easier than what it is.
+
+446
+00:22:01,300 --> 00:22:03,300
+And all of a sudden, 
+they got to 95% mark.
+
+447
+00:22:03,300 --> 00:22:05,300
+And then, they realized 
+that that last sliver,
+
+448
+00:22:05,300 --> 00:22:08,300
+which is critical when 
+you’re talking about lives,
+
+449
+00:22:08,300 --> 00:22:09,700
+that’s going to take 
+a little bit longer.
+
+450
+00:22:09,700 --> 00:22:12,700
+So, I agree.
+And I definitely look
+
+451
+00:22:12,700 --> 00:22:13,700
+forward to seeing 
+more things progress.
+
+452
+00:22:13,700 --> 00:22:16,700
+I’m very excited about my own 
+studies with AI and getting
+
+453
+00:22:16,700 --> 00:22:20,300
+a deeper understanding myself 
+to be able to harness these
+
+454
+00:22:20,300 --> 00:22:22,700
+qualities as well. 
+We’re almost out of time,
+
+455
+00:22:22,700 --> 00:22:24,700
+but I have to ask you 
+my favorite question.
+
+456
+00:22:24,700 --> 00:22:28,100
+I would love to know 
+three words that you would best
+
+457
+00:22:28,100 --> 00:22:29,100
+describe yourself.
+
+458
+00:22:29,100 --> 00:22:30,700
+Very curious for that now.
+
+459
+00:22:30,700 --> 00:22:33,300
+Yeah. So, you warned me 
+about this,
+
+460
+00:22:33,300 --> 00:22:34,000
+- Yeah.
+- right before but
+
+461
+00:22:34,000 --> 00:22:35,300
+I didn't have time
+to think about it
+
+462
+00:22:35,300 --> 00:22:37,700
+But let me tell you about the --
+
+463
+00:22:37,700 --> 00:22:40,700
+So, let me give you 
+a different answer,
+
+464
+00:22:40,700 --> 00:22:41,700
+slightly different --
+
+465
+00:22:41,700 --> 00:22:46,700
+When I look at the leaders 
+and managers that I aspire
+
+466
+00:22:46,700 --> 00:22:47,700
+to be like, right?
+
+467
+00:22:47,700 --> 00:22:51,300
+I saw people who are pushing 
+the envelope,
+
+468
+00:22:51,300 --> 00:22:53,700
+who are able to take 
+bold decisions.
+
+469
+00:22:53,700 --> 00:22:59,700
+I saw people who deeply 
+care about the success --
+
+470
+00:22:59,700 --> 00:23:02,700
+their success within the context 
+of the organization,
+
+471
+00:23:02,700 --> 00:23:03,700
+not a me-first.
+
+472
+00:23:03,700 --> 00:23:07,700
+And also, deeply care about who --
+
+473
+00:23:07,700 --> 00:23:10,100
+their team and the people that 
+work for them, and their success,
+
+474
+00:23:10,100 --> 00:23:12,700
+again, within that context. 
+And then, at the end of the day,
+
+475
+00:23:12,700 --> 00:23:13,700
+having --
+
+476
+00:23:13,700 --> 00:23:15,700
+doing everything with integrity.
+
+477
+00:23:15,700 --> 00:23:19,700
+And so, when you ask me, 
+this is what I aspire to be.
+
+478
+00:23:19,700 --> 00:23:21,700
+I love it. I love it. 
+I think it's just --
+
+479
+00:23:21,700 --> 00:23:23,700
+And I’m sure it’s such a --
+
+480
+00:23:23,700 --> 00:23:26,700
+both fascinating, difficult, 
+and fun journey at the same time
+
+481
+00:23:26,700 --> 00:23:29,700
+to now lead a company that’s 
+growing quickly, and
+
+482
+00:23:29,700 --> 00:23:31,700
+you have to now really 
+formulate your own
+
+483
+00:23:31,700 --> 00:23:33,700
+leadership style, 
+and what does it mean
+
+484
+00:23:33,700 --> 00:23:37,700
+to be a leader in that aspect.
+I recall you were captain
+
+485
+00:23:37,700 --> 00:23:40,700
+in the IDF as well, 
+which I’m sure has a...
+
+486
+00:23:40,700 --> 00:23:43,300
+a lot of connections to some 
+of the things that you’re
+
+487
+00:23:43,300 --> 00:23:44,300
+experiencing now.
+
+488
+00:23:44,300 --> 00:23:47,300
+But it sounds wonderful, Nir. 
+Best of luck with Allegro.
+
+489
+00:23:47,300 --> 00:23:49,700
+Thank you for the inspiration 
+over these last 20 minutes,
+
+490
+00:23:49,700 --> 00:23:51,700
+and I look forward 
+to keeping in touch.
+
+491
+00:23:51,700 --> 00:23:53,700
+Thank you so much, Michael. 
+It’s been a pleasure.
+
+492
+00:23:53,700 --> 00:23:55,300
+And obviously,
+all the success to you.
+
+493
+00:23:55,300 --> 00:23:58,700
+And maybe, you can come work 
+for us or use our tools.
+
+494
+00:23:58,700 --> 00:23:59,700
+- Done. Bye-bye.
+
+495
+00:23:59,700 --> 00:24:00,700
+[laughter]
+
+496
+00:24:00,700 --> 00:24:01,700
+All right. Take care, Nir.
+
+497
+00:24:01,700 --> 00:24:03,700
+- Take care, Michael.
+- Bye-bye.
+
+498
+00:24:03,700 --> 00:24:04,700
+Bye-bye.
+

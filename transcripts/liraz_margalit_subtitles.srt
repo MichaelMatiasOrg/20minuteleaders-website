@@ -1,0 +1,2336 @@
+1
+00:04:17,240 --> 00:04:18,920
+Liraz Margalit, thank you so much
+
+2
+00:04:18,920 --> 00:04:19,920
+for joining me on my show.
+
+3
+00:04:19,920 --> 00:04:21,040
+How are you?
+
+4
+00:04:21,040 --> 00:04:22,400
+I'm very well. Thank you.
+
+5
+00:04:22,400 --> 00:04:23,400
+How are you?
+
+6
+00:04:23,400 --> 00:04:24,240
+Fantastic.
+
+7
+00:04:24,240 --> 00:04:25,760
+I'm especially good now
+
+8
+00:04:25,760 --> 00:04:27,160
+because I'm very excited for this talk.
+
+9
+00:04:27,160 --> 00:04:27,960
+Because I'm going to learn
+
+10
+00:04:27,960 --> 00:04:29,000
+over these next 20 minutes
+
+11
+00:04:29,000 --> 00:04:30,360
+as much as I can
+
+12
+00:04:30,360 --> 00:04:32,000
+about behavioral economics.
+
+13
+00:04:32,040 --> 00:04:34,440
+Especially in building products
+
+14
+00:04:34,440 --> 00:04:36,200
+for customers in the digital age.
+
+15
+00:04:36,200 --> 00:04:37,440
+I have a true passion
+
+16
+00:04:37,440 --> 00:04:38,560
+for behavioral economics.
+
+17
+00:04:38,560 --> 00:04:40,640
+I got to spend some few months
+
+18
+00:04:40,640 --> 00:04:42,200
+very close with Dan Ariely
+
+19
+00:04:42,200 --> 00:04:43,240
+at Irrational Labs.
+
+20
+00:04:43,240 --> 00:04:44,360
+So, I'm excited to learn
+
+21
+00:04:44,360 --> 00:04:46,760
+about your experiences and your teaching.
+
+22
+00:04:46,760 --> 00:04:48,320
+You're also a university lecturer
+
+23
+00:04:48,320 --> 00:04:49,680
+at the IDC for many years.
+
+24
+00:04:49,800 --> 00:04:51,240
+And you're a strategic advisor
+
+25
+00:04:51,240 --> 00:04:52,720
+to many companies.
+
+26
+00:04:52,720 --> 00:04:55,360
+So, Liraz, give me the overview.
+
+27
+00:04:55,360 --> 00:04:56,120
+Who are you?
+
+28
+00:04:56,120 --> 00:04:57,840
+And why behavioral economics?
+
+29
+00:04:57,840 --> 00:04:59,280
+Okay. Great.
+
+30
+00:04:59,280 --> 00:05:02,320
+So, as you mentioned,
+
+31
+00:05:02,320 --> 00:05:03,640
+my name is Liraz Margalit.
+
+32
+00:05:03,640 --> 00:05:05,720
+I have PhD in psychology.
+
+33
+00:05:05,720 --> 00:05:06,840
+I'm specialized
+
+34
+00:05:06,840 --> 00:05:08,880
+in decision making processes,
+
+35
+00:05:08,880 --> 00:05:11,280
+cognition, behavioral economics.
+
+36
+00:05:11,280 --> 00:05:13,440
+And over the past few years,
+
+37
+00:05:13,440 --> 00:05:15,240
+I've been utilizing models
+
+38
+00:05:15,240 --> 00:05:16,960
+from cognitive psychology,
+
+39
+00:05:16,960 --> 00:05:18,080
+behavioral economics,
+
+40
+00:05:18,080 --> 00:05:19,400
+and neural psychology
+
+41
+00:05:19,400 --> 00:05:22,080
+to better understand how customers behave
+
+42
+00:05:22,080 --> 00:05:23,640
+in the digital world.
+
+43
+00:05:23,640 --> 00:05:26,960
+And what I truly passionate about
+
+44
+00:05:26,960 --> 00:05:28,920
+is the differences between
+
+45
+00:05:28,920 --> 00:05:31,280
+the online world and the offline world.
+
+46
+00:05:31,280 --> 00:05:34,400
+And I think that sometimes
+
+47
+00:05:34,400 --> 00:05:35,520
+we are not aware,
+
+48
+00:05:35,600 --> 00:05:38,160
+but we behave completely different
+
+49
+00:05:38,160 --> 00:05:39,960
+online and offline.
+
+50
+00:05:39,960 --> 00:05:41,000
+Right?
+
+51
+00:05:41,000 --> 00:05:44,480
+Yeah. And I'm really excited to learn
+
+52
+00:05:44,480 --> 00:05:47,640
+the influences of the technology
+
+53
+00:05:47,640 --> 00:05:48,920
+on our behavior,
+
+54
+00:05:48,920 --> 00:05:52,920
+our emotions and our feelings.
+
+55
+00:05:52,920 --> 00:05:55,360
+So, let's start from the basics.
+
+56
+00:05:55,360 --> 00:05:56,800
+Let's start from the foundation,
+
+57
+00:05:56,800 --> 00:05:57,880
+behavioral economics.
+
+58
+00:05:57,880 --> 00:06:00,760
+What is the study of behavioral economics?
+
+59
+00:06:00,760 --> 00:06:03,400
+Okay. So, actually today
+
+60
+00:06:03,600 --> 00:06:05,640
+we are talking about behavioral design.
+
+61
+00:06:05,640 --> 00:06:08,400
+But let's start with behavioral economics.
+
+62
+00:06:08,400 --> 00:06:11,920
+And we started off with an assumption.
+
+63
+00:06:11,920 --> 00:06:15,360
+Actually, it's a very logical assumption.
+
+64
+00:06:15,360 --> 00:06:16,760
+And the assumption is that
+
+65
+00:06:16,760 --> 00:06:18,440
+we are rational human being.
+
+66
+00:06:18,440 --> 00:06:20,600
+That we have rational decision
+
+67
+00:06:20,600 --> 00:06:23,560
+and moreover, that we are in control
+
+68
+00:06:23,560 --> 00:06:26,920
+of our decisions offline and online.
+
+69
+00:06:26,920 --> 00:06:27,920
+And the thing is that
+
+70
+00:06:27,920 --> 00:06:29,560
+we have a defense mechanism.
+
+71
+00:06:29,560 --> 00:06:32,640
+Meaning that, we really like to think
+
+72
+00:06:32,640 --> 00:06:35,400
+that our decisions, our behavior
+
+73
+00:06:35,400 --> 00:06:37,320
+are rational.
+
+74
+00:06:37,320 --> 00:06:41,800
+And the thing is that we are not begin
+
+75
+00:06:41,800 --> 00:06:45,360
+to imagine the effect of cognitive biases,
+
+76
+00:06:45,360 --> 00:06:49,360
+of environmental cues, of our emotions
+
+77
+00:06:49,360 --> 00:06:51,960
+on the way we make decisions.
+
+78
+00:06:51,960 --> 00:06:53,640
+And, you know what, Michael?
+
+79
+00:06:53,640 --> 00:06:55,000
+When we are talking
+
+80
+00:06:55,000 --> 00:06:57,240
+about the online arena,
+
+81
+00:06:57,240 --> 00:07:00,200
+this problem is getting much bigger.
+
+82
+00:07:00,200 --> 00:07:03,520
+Wait, Liraz, before we get to the online.
+
+83
+00:07:03,520 --> 00:07:04,600
+Give me some examples.
+
+84
+00:07:04,600 --> 00:07:06,240
+What happens in my day to day life,
+
+85
+00:07:06,240 --> 00:07:08,000
+whether it's when I go buy wine
+
+86
+00:07:08,000 --> 00:07:08,640
+at the store,
+
+87
+00:07:08,640 --> 00:07:10,240
+or when I choose a subscription
+
+88
+00:07:10,240 --> 00:07:12,680
+for The Economist paper or digital,
+
+89
+00:07:12,680 --> 00:07:13,920
+give me some examples
+
+90
+00:07:13,920 --> 00:07:16,320
+of where do I see irrationality?
+
+91
+00:07:16,320 --> 00:07:16,880
+And I'm telling you,
+
+92
+00:07:16,880 --> 00:07:18,320
+I am the most irrational person
+
+93
+00:07:18,320 --> 00:07:18,840
+you'll ever meet.
+
+94
+00:07:18,840 --> 00:07:19,960
+You can ask my girlfriend.
+
+95
+00:07:19,960 --> 00:07:21,240
+She'll testify for this.
+
+96
+00:07:21,240 --> 00:07:23,000
+But I want you to convince
+
+97
+00:07:23,000 --> 00:07:24,040
+everybody else listening
+
+98
+00:07:24,040 --> 00:07:25,960
+that we are all irrational.
+
+99
+00:07:25,960 --> 00:07:27,600
+So, let me give you two example.
+
+100
+00:07:27,600 --> 00:07:29,560
+Two quick example.
+
+101
+00:07:29,560 --> 00:07:31,760
+So, I work with a company named Allianz.
+
+102
+00:07:31,760 --> 00:07:33,840
+It is an insurance company.
+
+103
+00:07:33,840 --> 00:07:34,440
+Yes.
+
+104
+00:07:34,440 --> 00:07:37,440
+And you know that they have their policy.
+
+105
+00:07:37,440 --> 00:07:40,760
+And they wanted to ask people,
+
+106
+00:07:40,760 --> 00:07:43,160
+they usually, on a regular basis,
+
+107
+00:07:43,160 --> 00:07:47,840
+ask people declaration of their health.
+
+108
+00:07:47,840 --> 00:07:51,520
+And one of these question is,
+
+109
+00:07:51,520 --> 00:07:53,200
+do you smoke.
+
+110
+00:07:53,240 --> 00:07:55,600
+And the thing is that most people,
+
+111
+00:07:55,600 --> 00:07:57,560
+interestingly, say that,
+
+112
+00:07:57,560 --> 00:08:00,040
+they are not smoking.
+
+113
+00:08:00,040 --> 00:08:03,000
+And of course, they're lying.
+
+114
+00:08:03,000 --> 00:08:05,360
+So, we wanted to understand
+
+115
+00:08:05,360 --> 00:08:07,200
+how we can make sure
+
+116
+00:08:07,200 --> 00:08:09,040
+that people are saying the truth.
+
+117
+00:08:09,040 --> 00:08:11,720
+Because it caused a lot of money
+
+118
+00:08:11,720 --> 00:08:12,920
+to the company.
+
+119
+00:08:12,920 --> 00:08:14,520
+So, I suggested
+
+120
+00:08:14,520 --> 00:08:17,160
+to frame the question differently.
+
+121
+00:08:17,160 --> 00:08:19,240
+So, instead of asking people,
+
+122
+00:08:19,240 --> 00:08:20,520
+do you smoke,
+
+123
+00:08:20,520 --> 00:08:22,200
+I suggested asking,
+
+124
+00:08:22,200 --> 00:08:24,800
+when was the last time you smoke.
+
+125
+00:08:24,800 --> 00:08:26,080
+Right.
+
+126
+00:08:26,080 --> 00:08:27,200
+What is the difference?
+
+127
+00:08:27,200 --> 00:08:28,800
+Why are those two questions
+
+128
+00:08:28,800 --> 00:08:30,720
+ridiculously different?
+
+129
+00:08:30,720 --> 00:08:33,000
+So, the thing is that if I ask you,
+
+130
+00:08:33,000 --> 00:08:34,720
+when's the last time you smoke,
+
+131
+00:08:34,720 --> 00:08:37,400
+that means that I acknowledge the fact
+
+132
+00:08:37,400 --> 00:08:38,120
+that you smoke.
+
+133
+00:08:38,120 --> 00:08:40,000
+And that's fine and that's okay.
+
+134
+00:08:40,000 --> 00:08:42,640
+And now you belong to a group of smokers.
+
+135
+00:08:42,640 --> 00:08:45,000
+So, that makes it okay.
+
+136
+00:08:45,000 --> 00:08:47,600
+And now, if I know that,
+
+137
+00:08:47,600 --> 00:08:50,040
+and if I make you realize
+
+138
+00:08:50,040 --> 00:08:51,920
+that I know you're smoking,
+
+139
+00:08:51,920 --> 00:08:55,120
+it's very hard lying about it.
+
+140
+00:08:55,120 --> 00:08:56,640
+So, that's the whole thing.
+
+141
+00:08:56,640 --> 00:08:58,200
+That's the whole idea
+
+142
+00:08:58,200 --> 00:08:59,800
+of behavioral economics.
+
+143
+00:08:59,800 --> 00:09:02,800
+It's about framing things differently.
+
+144
+00:09:02,800 --> 00:09:05,160
+So, we have the famous question of
+
+145
+00:09:05,160 --> 00:09:06,360
+[--]
+
+146
+00:09:06,360 --> 00:09:08,560
+So, let's say that you decided
+
+147
+00:09:08,560 --> 00:09:09,640
+to go to a movie.
+
+148
+00:09:09,640 --> 00:09:12,520
+And now, you decided
+
+149
+00:09:12,520 --> 00:09:16,600
+to buy the ticket, let's say online.
+
+150
+00:09:16,600 --> 00:09:19,520
+And you come to the movie,
+
+151
+00:09:19,520 --> 00:09:20,640
+you come to the theater.
+
+152
+00:09:20,640 --> 00:09:21,760
+And then you realize
+
+153
+00:09:21,760 --> 00:09:23,200
+that you lost your ticket.
+
+154
+00:09:23,200 --> 00:09:24,880
+What are you going to do.
+
+155
+00:09:24,880 --> 00:09:27,480
+Now, bear with me.
+
+156
+00:09:27,480 --> 00:09:29,120
+I'm going to ask this question
+
+157
+00:09:29,120 --> 00:09:30,240
+differently.
+
+158
+00:09:30,240 --> 00:09:32,040
+The same question, but differently.
+
+159
+00:09:32,040 --> 00:09:34,280
+Okay. So, let's say that you decided
+
+160
+00:09:34,280 --> 00:09:35,680
+to see a movie.
+
+161
+00:09:35,680 --> 00:09:39,120
+And this time you decided
+
+162
+00:09:39,120 --> 00:09:40,280
+that you are not going to buy
+
+163
+00:09:40,280 --> 00:09:41,280
+the ticket online.
+
+164
+00:09:41,280 --> 00:09:43,160
+So, you decided to go to the theater
+
+165
+00:09:43,160 --> 00:09:45,640
+and buy the tickets there.
+
+166
+00:09:45,640 --> 00:09:48,160
+So, you arrived to the theater
+
+167
+00:09:48,160 --> 00:09:50,040
+and then you opened your wallet.
+
+168
+00:09:50,040 --> 00:09:52,520
+You open up your wallet and you found out
+
+169
+00:09:52,520 --> 00:09:54,000
+that you are missing
+
+170
+00:09:54,000 --> 00:09:59,760
+a 50 dollar, or 20 dollar.
+
+171
+00:09:59,760 --> 00:10:01,360
+And then you ask yourself,
+
+172
+00:10:01,360 --> 00:10:03,920
+"Okay. What am I going to do now?"
+
+173
+00:10:03,920 --> 00:10:06,360
+"Am I going to buy another ticket?"
+
+174
+00:10:06,360 --> 00:10:08,240
+So, guess what?
+
+175
+00:10:08,240 --> 00:10:11,560
+In the first scenario, people usually,
+
+176
+00:10:11,560 --> 00:10:13,520
+they are not going to buy another ticket.
+
+177
+00:10:13,520 --> 00:10:15,240
+But in the second scenario,
+
+178
+00:10:15,240 --> 00:10:17,040
+they are going to buy another ticket.
+
+179
+00:10:17,040 --> 00:10:17,960
+And why is that?
+
+180
+00:10:17,960 --> 00:10:19,920
+So, why don't they. Yeah.
+
+181
+00:10:19,920 --> 00:10:22,920
+Because in the first scenario,
+
+182
+00:10:22,920 --> 00:10:25,280
+they feel like they spent,
+
+183
+00:10:25,280 --> 00:10:28,160
+like if ticket cost $20,
+
+184
+00:10:28,160 --> 00:10:30,240
+they feel like they spent $40
+
+185
+00:10:30,240 --> 00:10:31,760
+on one ticket.
+
+186
+00:10:31,760 --> 00:10:35,920
+But interestingly, in the second scenario
+
+187
+00:10:35,920 --> 00:10:38,520
+they don't correlate the money.
+
+188
+00:10:38,520 --> 00:10:39,530
+They don't group them together.
+
+189
+00:10:39,530 --> 00:10:41,680
+Exactly. In mentally.
+
+190
+00:10:41,960 --> 00:10:44,000
+Meaning, so, they don't associate
+
+191
+00:10:44,000 --> 00:10:45,880
+the money that lost
+
+192
+00:10:45,880 --> 00:10:47,760
+and the ticket to the theater
+
+193
+00:10:47,760 --> 00:10:51,240
+and then it's fine to buy another ticket.
+
+194
+00:10:51,240 --> 00:10:52,920
+But if we think about it,
+
+195
+00:10:52,920 --> 00:10:55,680
+this is not a rational behavior.
+
+196
+00:10:55,680 --> 00:10:58,200
+Because we are talking about
+
+197
+00:10:58,200 --> 00:11:00,640
+the same amount of money.
+
+198
+00:11:00,640 --> 00:11:02,440
+Yeah, exactly.
+
+199
+00:11:02,440 --> 00:11:05,640
+And so, Liraz, just like these examples,
+
+200
+00:11:05,640 --> 00:11:07,080
+there are hundreds more out there
+
+201
+00:11:07,080 --> 00:11:09,640
+that from every part of our lives.
+
+202
+00:11:09,640 --> 00:11:10,560
+One of the first examples
+
+203
+00:11:10,560 --> 00:11:11,480
+that I was introduced to
+
+204
+00:11:11,480 --> 00:11:13,880
+was this notion of buying a wine bottle
+
+205
+00:11:13,880 --> 00:11:14,880
+at the supermarket
+
+206
+00:11:14,880 --> 00:11:19,500
+and how we often tend to go and buy
+
+207
+00:11:19,500 --> 00:11:23,520
+the median price for a bottle of wine.
+
+208
+00:11:23,520 --> 00:11:24,360
+And if they add
+
+209
+00:11:24,360 --> 00:11:25,800
+an additional bottle of wine at the end
+
+210
+00:11:25,800 --> 00:11:26,680
+that is more expensive,
+
+211
+00:11:26,680 --> 00:11:29,720
+then we opt up to go buy there.
+
+212
+00:11:29,760 --> 00:11:30,160
+Right.
+
+213
+00:11:30,160 --> 00:11:31,200
+Think I might have lost you.
+
+214
+00:11:31,200 --> 00:11:33,080
+No. I'm here.
+
+215
+00:12:26,080 --> 00:12:28,040
+Right. So, I was giving my own example
+
+216
+00:12:28,040 --> 00:12:29,200
+of going to the wine store
+
+217
+00:12:29,200 --> 00:12:31,640
+and understanding that human behavior
+
+218
+00:12:31,640 --> 00:12:32,760
+tends to go to purchase
+
+219
+00:12:32,960 --> 00:12:34,680
+the median dollar amount
+
+220
+00:12:34,680 --> 00:12:35,520
+for a bottle of wine.
+
+221
+00:12:35,520 --> 00:12:38,280
+But then, if marketers are smart about it
+
+222
+00:12:38,280 --> 00:12:39,320
+and realize this,
+
+223
+00:12:39,320 --> 00:12:40,000
+they can just add
+
+224
+00:12:40,000 --> 00:12:41,760
+an extra expensive bottle of wine
+
+225
+00:12:41,760 --> 00:12:43,200
+at the end, and all of a sudden,
+
+226
+00:12:43,200 --> 00:12:44,400
+most customers shift
+
+227
+00:12:44,400 --> 00:12:46,080
+to the little bit more expensive option.
+
+228
+00:12:46,080 --> 00:12:47,000
+But Liraz, I want us now
+
+229
+00:12:47,040 --> 00:12:48,720
+stir a little bit away from these
+
+230
+00:12:48,720 --> 00:12:50,240
+general behavioral economics examples
+
+231
+00:12:50,240 --> 00:12:51,680
+and talk a little bit more broadly
+
+232
+00:12:51,680 --> 00:12:54,360
+about your work in the digital age.
+
+233
+00:12:54,360 --> 00:12:56,360
+So, a lot of these are tangible,
+
+234
+00:12:56,360 --> 00:12:58,000
+physical examples in our daily lives.
+
+235
+00:12:58,000 --> 00:13:00,520
+But what is different as we progress
+
+236
+00:13:00,520 --> 00:13:02,720
+into the 21st century in terms of
+
+237
+00:13:02,720 --> 00:13:04,760
+behavioral economics in online?
+
+238
+00:13:04,760 --> 00:13:07,040
+So, the actual difference
+
+239
+00:13:07,040 --> 00:13:08,760
+is how we can use it
+
+240
+00:13:08,760 --> 00:13:10,680
+in a practical manner.
+
+241
+00:13:10,680 --> 00:13:13,160
+And let me give you an example
+
+242
+00:13:13,160 --> 00:13:15,840
+that concern our everyday lives.
+
+243
+00:13:15,840 --> 00:13:17,920
+And we're talking about the same example.
+
+244
+00:13:17,920 --> 00:13:20,400
+So now in your example and in my example,
+
+245
+00:13:20,400 --> 00:13:22,040
+we actually talked about
+
+246
+00:13:22,040 --> 00:13:23,600
+the ethical framing.
+
+247
+00:13:23,600 --> 00:13:27,000
+How we frame our decision.
+
+248
+00:14:00,160 --> 00:14:02,160
+So, let's just continue
+
+249
+00:14:02,160 --> 00:14:03,960
+with what you are just about to say.
+
+250
+00:14:03,960 --> 00:14:05,040
+Okay. Great.
+
+251
+00:14:05,040 --> 00:14:09,240
+So, the differences
+
+252
+00:14:09,240 --> 00:14:12,480
+when we're talking about our environment,
+
+253
+00:14:12,480 --> 00:14:15,960
+the technology environment, is that
+
+254
+00:14:15,960 --> 00:14:18,360
+we are talking about the same effect
+
+255
+00:14:18,360 --> 00:14:19,800
+of behavioral economics
+
+256
+00:14:19,800 --> 00:14:21,600
+but in a practical manner.
+
+257
+00:14:21,600 --> 00:14:22,920
+And today, we know that
+
+258
+00:14:22,920 --> 00:14:25,040
+so many tech companies
+
+259
+00:14:25,040 --> 00:14:28,200
+actually adopted those principles
+
+260
+00:14:28,200 --> 00:14:29,960
+of behavioral economics.
+
+261
+00:14:29,960 --> 00:14:32,480
+But I have to say that sometimes
+
+262
+00:14:32,480 --> 00:14:34,920
+it's not in a very ethical way.
+
+263
+00:14:34,920 --> 00:14:37,160
+Let me give you two examples.
+
+264
+00:14:37,160 --> 00:14:38,600
+Please.
+
+265
+00:14:38,600 --> 00:14:41,440
+So, the first example is that
+
+266
+00:14:41,440 --> 00:14:42,960
+to use the same principle
+
+267
+00:14:42,960 --> 00:14:45,040
+that we were discussing right now,
+
+268
+00:14:45,040 --> 00:14:47,280
+and this principle is called framing,
+
+269
+00:14:47,280 --> 00:14:50,760
+or relative thinking, or anchoring,
+
+270
+00:14:50,760 --> 00:14:52,640
+you can name it different ways.
+
+271
+00:14:52,640 --> 00:14:54,560
+But the idea is that
+
+272
+00:14:54,560 --> 00:14:56,960
+the way we frame the decision,
+
+273
+00:14:56,960 --> 00:14:59,800
+the way we frame the digital environment,
+
+274
+00:14:59,800 --> 00:15:04,560
+actually is going to change our behavior.
+
+275
+00:15:04,560 --> 00:15:05,720
+And the thing is that,
+
+276
+00:15:05,720 --> 00:15:08,480
+in the digital, it's very very easy
+
+277
+00:15:08,480 --> 00:15:10,960
+to change the digital environment.
+
+278
+00:15:10,960 --> 00:15:12,720
+And let's say that you get up
+
+279
+00:15:12,720 --> 00:15:13,320
+in the morning,
+
+280
+00:15:13,320 --> 00:15:16,240
+and you know that most people today,
+
+281
+00:15:16,240 --> 00:15:17,640
+when they get up in the morning,
+
+282
+00:15:17,640 --> 00:15:19,880
+the first thing that they are going to do
+
+283
+00:15:19,880 --> 00:15:21,750
+is to check upt their smartphone
+
+284
+00:15:21,750 --> 00:15:24,160
+To check up if they have new notification.
+
+285
+00:15:24,160 --> 00:15:25,320
+And let me tell you something,
+
+286
+00:15:25,320 --> 00:15:26,520
+sometimes they do it
+
+287
+00:15:26,520 --> 00:15:28,200
+even in the middle of the night.
+
+288
+00:15:28,200 --> 00:15:30,360
+So that, even maybe
+
+289
+00:15:30,360 --> 00:15:34,200
+they have such an important notification
+
+290
+00:15:34,200 --> 00:15:35,760
+that they have to take.
+
+291
+00:15:35,760 --> 00:15:37,960
+So now, let me give you an imagine.
+
+292
+00:15:37,960 --> 00:15:40,800
+And what I'm talking about now,
+
+293
+00:15:40,800 --> 00:15:41,880
+I like to call it
+
+294
+00:15:41,880 --> 00:15:43,480
+the power of the default.
+
+295
+00:15:43,480 --> 00:15:44,480
+What is the default?
+
+296
+00:15:44,480 --> 00:15:45,480
+The default is that
+
+297
+00:15:45,480 --> 00:15:46,920
+you open up your smartphone
+
+298
+00:15:46,920 --> 00:15:48,200
+and you see all those notification.
+
+299
+00:15:48,200 --> 00:15:49,840
+But imagine this.
+
+300
+00:15:49,840 --> 00:15:52,640
+Imagine that you get up in the morning
+
+301
+00:15:52,640 --> 00:15:54,720
+and you see your smartphone,
+
+302
+00:15:54,720 --> 00:15:56,480
+your nice smartphone said,
+
+303
+00:15:56,480 --> 00:15:58,480
+"Good morning, Michael."
+
+304
+00:15:58,480 --> 00:16:00,720
+"Have a nice day."
+
+305
+00:16:00,720 --> 00:16:02,560
+And maybe he's going to give you
+
+306
+00:16:02,560 --> 00:16:04,400
+a flower or something.
+
+307
+00:16:04,400 --> 00:16:07,000
+So, these are two different ways
+
+308
+00:16:07,000 --> 00:16:08,120
+where we can frame
+
+309
+00:16:08,120 --> 00:16:10,120
+your good morning environment.
+
+310
+00:16:10,120 --> 00:16:13,000
+The reason that we choose to give you
+
+311
+00:16:13,000 --> 00:16:13,760
+those notification,
+
+312
+00:16:13,760 --> 00:16:15,680
+it's actually a message.
+
+313
+00:16:15,680 --> 00:16:18,960
+And these messages look all you missed
+
+314
+00:16:18,960 --> 00:16:20,360
+when you were sleeping.
+
+315
+00:16:20,360 --> 00:16:22,040
+And that means don't sleep.
+
+316
+00:16:22,040 --> 00:16:23,200
+If you're going to sleep,
+
+317
+00:16:23,200 --> 00:16:26,360
+you are going to miss so many things.
+
+318
+00:16:26,360 --> 00:16:28,000
+So, don't sleep.
+
+319
+00:16:28,000 --> 00:16:30,840
+And of course, we don't consider this.
+
+320
+00:16:30,840 --> 00:16:31,240
+Why?
+
+321
+00:16:31,240 --> 00:16:32,720
+Because we are so used to it.
+
+322
+00:16:32,720 --> 00:16:35,240
+Because behavioral design is embedded
+
+323
+00:16:35,240 --> 00:16:39,240
+in a transparent way in our everyday life.
+
+324
+00:16:39,240 --> 00:16:41,560
+So, we didn't even give it the thought
+
+325
+00:16:41,560 --> 00:16:43,900
+that things could be different, right?
+
+326
+00:16:43,900 --> 00:16:49,440
+Or let's say, I would say,
+
+327
+00:16:49,640 --> 00:16:52,720
+the big influencer of behavioral economics
+
+328
+00:16:52,880 --> 00:16:55,920
+or manipulator, booking.com.
+
+329
+00:16:55,920 --> 00:16:59,880
+So, booking.com has this way of,
+
+330
+00:16:59,880 --> 00:17:00,880
+let's say that
+
+331
+00:17:00,880 --> 00:17:04,080
+you are looking up for a hotel.
+
+332
+00:17:04,080 --> 00:17:06,630
+And one room left.
+
+333
+00:17:06,630 --> 00:17:10,100
+Exactly.
+
+334
+00:17:10,100 --> 00:17:13,930
+One room left and actually,
+
+335
+00:17:13,920 --> 00:17:16,400
+[--]
+
+336
+00:17:16,400 --> 00:17:18,360
+So, let's say, so many people
+
+337
+00:17:18,360 --> 00:17:22,200
+are looking at this specific room
+
+338
+00:17:22,200 --> 00:17:25,200
+when you are looking at this room.
+
+339
+00:17:25,200 --> 00:17:28,500
+So, these are two examples
+
+340
+00:17:28,500 --> 00:17:31,850
+how we can manipulate people's feelings,
+
+341
+00:17:31,850 --> 00:17:33,900
+people's decision,
+
+342
+00:17:33,900 --> 00:17:36,100
+And we didn't even start
+
+343
+00:17:36,100 --> 00:17:37,770
+on those special days.
+
+344
+00:17:37,770 --> 00:17:39,100
+Like selling days.
+
+345
+00:17:39,100 --> 00:17:40,830
+Like we have cyber mondays,
+
+346
+00:17:40,830 --> 00:17:43,520
+Or like fridays, when everything you buy
+
+347
+00:17:43,520 --> 00:17:46,150
+is supposed to be on sale.
+
+348
+00:17:46,150 --> 00:17:48,250
+And people buy things
+
+349
+00:17:48,250 --> 00:17:49,550
+that they don't need.
+
+350
+00:17:49,550 --> 00:17:51,200
+And [--]
+
+351
+00:17:51,200 --> 00:17:54,700
+And more than 40% of items
+
+352
+00:17:54,700 --> 00:17:58,000
+that are bought in those selling days
+
+353
+00:17:58,000 --> 00:18:02,150
+are being thrown away after this.
+
+354
+00:18:02,150 --> 00:18:07,450
+But we think that we actually won.
+
+355
+00:18:07,450 --> 00:18:10,520
+That we actually have a good deal.
+
+356
+00:18:10,520 --> 00:18:13,150
+That's because they are manipulated
+
+357
+00:18:13,150 --> 00:18:14,900
+to think that.
+
+358
+00:19:43,240 --> 00:19:46,640
+So, all of that is incredibly fascinating.
+
+359
+00:19:46,640 --> 00:19:48,240
+And all these examples
+
+360
+00:19:48,240 --> 00:19:48,840
+of behavioral economics.
+
+361
+00:19:48,840 --> 00:19:50,280
+But you're strategic adviser
+
+362
+00:19:50,280 --> 00:19:51,520
+to quite a few companies.
+
+363
+00:19:51,520 --> 00:19:52,920
+And what I'm extremely curious about
+
+364
+00:19:52,920 --> 00:19:56,040
+is how practically do you go and
+
+365
+00:19:56,040 --> 00:19:57,080
+and do you incorporate
+
+366
+00:19:57,080 --> 00:19:58,280
+this academic research
+
+367
+00:19:58,280 --> 00:19:59,520
+of behavioral economics
+
+368
+00:19:59,520 --> 00:20:01,920
+into everyday startups?
+
+369
+00:20:01,920 --> 00:20:02,960
+Because when I look at myself
+
+370
+00:20:02,960 --> 00:20:03,700
+as a young entrepreneur,
+
+371
+00:20:03,700 --> 00:20:05,120
+I'm going to create my own startup.
+
+372
+00:20:05,120 --> 00:20:06,160
+Now, I'm very passionate
+
+373
+00:20:06,160 --> 00:20:07,080
+about behavioral economics.
+
+374
+00:20:07,080 --> 00:20:08,200
+So, maybe, I'll have a little bit
+
+375
+00:20:08,200 --> 00:20:09,400
+more experience and knowledge
+
+376
+00:20:09,400 --> 00:20:10,800
+than the average person
+
+377
+00:20:10,800 --> 00:20:11,560
+starting a company.
+
+378
+00:20:11,560 --> 00:20:13,480
+But what are the ways
+
+379
+00:20:13,480 --> 00:20:14,040
+in which you come
+
+380
+00:20:14,040 --> 00:20:15,200
+and help these companies,
+
+381
+00:20:15,200 --> 00:20:16,680
+like you mentioned, with Allianz?
+
+382
+00:20:16,680 --> 00:20:20,560
+And what can founders and entrepreneurs do
+
+383
+00:20:20,560 --> 00:20:22,320
+to become better engaged
+
+384
+00:20:22,320 --> 00:20:23,800
+with this content?
+
+385
+00:20:23,800 --> 00:20:25,200
+Okay. Great question.
+
+386
+00:20:25,200 --> 00:20:28,760
+So, what I like to do with startups
+
+387
+00:20:28,760 --> 00:20:30,240
+is habit forming.
+
+388
+00:20:30,240 --> 00:20:32,280
+And by habit forming, we mean
+
+389
+00:20:32,280 --> 00:20:34,040
+how to take a product
+
+390
+00:20:34,040 --> 00:20:36,600
+and form a habit out of it.
+
+391
+00:20:36,600 --> 00:20:39,080
+Because the thing about habits
+
+392
+00:20:39,080 --> 00:20:40,560
+is really interesting.
+
+393
+00:20:40,560 --> 00:20:44,760
+Because when there is an initiate behavior
+
+394
+00:20:44,760 --> 00:20:46,200
+and when there is the habit,
+
+395
+00:20:46,200 --> 00:20:47,120
+we are talking about
+
+396
+00:20:47,120 --> 00:20:48,760
+two different brain areas.
+
+397
+00:20:48,760 --> 00:20:51,600
+Because habit is unconscious.
+
+398
+00:20:51,600 --> 00:20:52,840
+And that means
+
+399
+00:20:52,840 --> 00:20:54,320
+that you don't need to think
+
+400
+00:20:54,320 --> 00:20:55,640
+about what you are doing.
+
+401
+00:20:55,640 --> 00:20:57,680
+So, let's say you are going on Facebook.
+
+402
+00:20:57,680 --> 00:20:59,560
+Sometimes we don't even consider this.
+
+403
+00:20:59,560 --> 00:21:00,480
+This is not where
+
+404
+00:21:00,480 --> 00:21:02,720
+we're talking about rationality.
+
+405
+00:21:02,720 --> 00:21:04,920
+So, when we are talking about habit,
+
+406
+00:21:04,920 --> 00:21:06,840
+this is not irrational action.
+
+407
+00:21:06,840 --> 00:21:09,040
+And this is why we are eager
+
+408
+00:21:09,040 --> 00:21:11,480
+to turn every behavior,
+
+409
+00:21:11,480 --> 00:21:14,400
+every actually a set of behaviors
+
+410
+00:21:14,400 --> 00:21:15,800
+into a habit.
+
+411
+00:21:15,800 --> 00:21:18,440
+So, let's say that you have a new app.
+
+412
+00:21:18,560 --> 00:21:21,240
+Why are habit so strong, by the way?
+
+413
+00:21:21,240 --> 00:21:22,680
+Why are habits so strong?
+
+414
+00:21:22,680 --> 00:21:24,160
+Okay. So, the thing is that,
+
+415
+00:21:24,160 --> 00:21:27,480
+our brain will try to take every action
+
+416
+00:21:27,480 --> 00:21:29,040
+and turn it into a habit.
+
+417
+00:21:29,040 --> 00:21:31,680
+Because habit does not require
+
+418
+00:21:31,680 --> 00:21:33,080
+cognitive resources,
+
+419
+00:21:33,080 --> 00:21:35,600
+mental resources from our brain.
+
+420
+00:21:35,600 --> 00:21:37,560
+So, when we lock out our door,
+
+421
+00:21:37,560 --> 00:21:39,960
+when we brush our teeth in the morning,
+
+422
+00:21:39,960 --> 00:21:41,840
+we don't think about it.
+
+423
+00:21:41,840 --> 00:21:43,240
+And if you think about it,
+
+424
+00:21:43,240 --> 00:21:45,520
+you can lock your door
+
+425
+00:21:45,520 --> 00:21:47,240
+and then you can think about,
+
+426
+00:21:47,240 --> 00:21:48,920
+like your presentation
+
+427
+00:21:48,920 --> 00:21:50,120
+that you need to present today
+
+428
+00:21:50,200 --> 00:21:50,880
+to your boss.
+
+429
+00:21:50,880 --> 00:21:51,800
+And you could think about
+
+430
+00:21:51,800 --> 00:21:53,400
+who is going to pick up the kids
+
+431
+00:21:53,400 --> 00:21:54,880
+from the kindergarten.
+
+432
+00:21:54,880 --> 00:21:57,280
+So, your brain is free
+
+433
+00:21:57,280 --> 00:21:58,960
+to think about other tasks.
+
+434
+00:21:58,960 --> 00:22:02,880
+And that is why habits are so important.
+
+435
+00:22:02,880 --> 00:22:03,840
+The thing is that,
+
+436
+00:22:03,840 --> 00:22:07,080
+when companies come to me,
+
+437
+00:22:07,080 --> 00:22:07,800
+they think that
+
+438
+00:22:07,800 --> 00:22:09,960
+they can turn every behavior
+
+439
+00:22:09,960 --> 00:22:11,440
+into a habit.
+
+440
+00:22:11,440 --> 00:22:13,200
+And that is not correct.
+
+441
+00:22:13,200 --> 00:22:15,600
+Because there are behaviors
+
+442
+00:22:15,600 --> 00:22:17,600
+that you cannot turn into a habit.
+
+443
+00:22:17,600 --> 00:22:19,200
+And when we're talking about habits,
+
+444
+00:22:19,200 --> 00:22:20,760
+we have the habit look.
+
+445
+00:22:20,960 --> 00:22:23,160
+Meaning that we need to have a trigger
+
+446
+00:22:23,160 --> 00:22:24,600
+to the behavior.
+
+447
+00:22:24,600 --> 00:22:26,400
+We need to have the routine
+
+448
+00:22:26,400 --> 00:22:28,320
+and we need to have the reward.
+
+449
+00:22:28,320 --> 00:22:32,720
+And your reward is extremely important
+
+450
+00:22:32,720 --> 00:22:35,880
+because if the reward is powerful,
+
+451
+00:22:35,880 --> 00:22:37,840
+then we will remember it.
+
+452
+00:22:37,840 --> 00:22:40,320
+And then we want to actually repeat
+
+453
+00:22:40,320 --> 00:22:41,400
+the behavior again.
+
+454
+00:22:41,400 --> 00:22:44,040
+And it will repeat the behavior
+
+455
+00:22:44,040 --> 00:22:45,040
+several times.
+
+456
+00:22:45,040 --> 00:22:46,680
+And it's not 21 days
+
+457
+00:22:46,680 --> 00:22:48,200
+like people like to say.
+
+458
+00:22:48,200 --> 00:22:50,640
+It depends on the actual behavior.
+
+459
+00:22:50,640 --> 00:22:55,080
+Then your product will become
+
+460
+00:22:55,080 --> 00:22:58,440
+a part of the customer's routine.
+
+461
+00:22:58,440 --> 00:23:00,240
+And this is the holy grail.
+
+462
+00:23:00,240 --> 00:23:03,160
+So, when you join a startup as an adviser,
+
+463
+00:23:03,160 --> 00:23:04,920
+do you come in just one time?
+
+464
+00:23:04,920 --> 00:23:05,520
+You just say,
+
+465
+00:23:05,640 --> 00:23:07,800
+"Oh, okay, you're trying to do XYZ."
+
+466
+00:23:07,800 --> 00:23:08,800
+"Here is the habit."
+
+467
+00:23:08,800 --> 00:23:09,560
+"Here is how you do it."
+
+468
+00:23:09,560 --> 00:23:11,840
+Or is it a more thorough process
+
+469
+00:23:11,840 --> 00:23:13,440
+along the way?
+
+470
+00:23:13,440 --> 00:23:17,400
+No, because we have many habits.
+
+471
+00:23:17,400 --> 00:23:19,720
+Every click is a habit.
+
+472
+00:23:19,720 --> 00:23:22,280
+So, we need to think about
+
+473
+00:23:22,280 --> 00:23:23,800
+the specific rewards.
+
+474
+00:23:23,800 --> 00:23:25,320
+But there is another thing
+
+475
+00:23:25,320 --> 00:23:27,440
+that we need to do these days.
+
+476
+00:23:27,440 --> 00:23:31,320
+And we are talking about personalization.
+
+477
+00:23:31,320 --> 00:23:32,840
+And now we are in the world
+
+478
+00:23:32,840 --> 00:23:34,080
+of personalization.
+
+479
+00:23:34,080 --> 00:23:36,120
+And the thing about personalization
+
+480
+00:23:36,120 --> 00:23:37,680
+that for so many years,
+
+481
+00:23:37,680 --> 00:23:39,680
+we are trying to reach that point,
+
+482
+00:23:39,680 --> 00:23:40,320
+that level.
+
+483
+00:23:40,320 --> 00:23:43,160
+But I think I really believe that
+
+484
+00:23:43,160 --> 00:23:45,080
+on the last two years
+
+485
+00:23:45,080 --> 00:23:47,640
+we were able to have some progress
+
+486
+00:23:47,640 --> 00:23:48,600
+in personalization.
+
+487
+00:23:48,600 --> 00:23:49,920
+And by personalization,
+
+488
+00:23:49,920 --> 00:23:52,200
+I mean that when you walk,
+
+489
+00:23:52,200 --> 00:23:54,560
+or when you land on a website or app,
+
+490
+00:23:54,560 --> 00:23:56,560
+you will have a different experience
+
+491
+00:23:56,560 --> 00:23:58,080
+compared to me.
+
+492
+00:23:58,080 --> 00:23:59,080
+And that means that
+
+493
+00:23:59,080 --> 00:24:01,120
+we need to get to know our user.
+
+494
+00:24:01,120 --> 00:24:04,360
+And that doesn't mean demographic.
+
+495
+00:24:04,360 --> 00:24:06,640
+I'm not talking about demographics at all.
+
+496
+00:24:06,640 --> 00:24:09,520
+I'm talking about personality.
+
+497
+00:24:09,520 --> 00:24:11,120
+And I'm talking about
+
+498
+00:24:11,120 --> 00:24:12,640
+decision making style.
+
+499
+00:24:12,640 --> 00:24:15,600
+So, today I can take your
+
+500
+00:24:15,600 --> 00:24:17,320
+Facebook profile, for example,
+
+501
+00:24:17,320 --> 00:24:18,960
+and I can know who you are
+
+502
+00:24:18,960 --> 00:24:20,920
+only based on your Facebook,
+
+503
+00:24:20,920 --> 00:24:22,840
+your Twitter, your LinkedIn.
+
+504
+00:24:22,840 --> 00:24:24,480
+So, actually, I don't need
+
+505
+00:24:24,480 --> 00:24:26,400
+so much information from you.
+
+506
+00:24:26,400 --> 00:24:28,800
+And even if you think about
+
+507
+00:24:28,800 --> 00:24:32,240
+the actual behavior, the actual traces
+
+508
+00:24:32,240 --> 00:24:34,480
+that we live in the online world,
+
+509
+00:24:34,480 --> 00:24:37,040
+we can learn so much from those traces.
+
+510
+00:24:37,040 --> 00:24:39,840
+So, let's say that you fill in a form.
+
+511
+00:24:39,840 --> 00:24:43,840
+So, I can tell using behavioral analytics,
+
+512
+00:24:43,840 --> 00:24:46,320
+I can tell how you type.
+
+513
+00:24:46,320 --> 00:24:47,880
+How fast, how slow you type.
+
+514
+00:24:47,880 --> 00:24:48,960
+So, if you are lying,
+
+515
+00:24:48,960 --> 00:24:50,600
+I know that you will type slower,
+
+516
+00:24:50,600 --> 00:24:51,600
+for example.
+
+517
+00:24:51,600 --> 00:24:53,400
+And I know if you decided
+
+518
+00:24:53,400 --> 00:24:55,560
+to skip on a field
+
+519
+00:24:55,560 --> 00:24:57,000
+and then come back to it.
+
+520
+00:24:57,000 --> 00:24:59,600
+And that means that I want to see
+
+521
+00:24:59,600 --> 00:25:00,600
+what you are doing
+
+522
+00:25:00,600 --> 00:25:04,320
+and why you actually behave this way.
+
+523
+00:25:04,320 --> 00:25:05,640
+And sometimes,
+
+524
+00:25:05,640 --> 00:25:08,760
+I actually plant manipulation.
+
+525
+00:25:08,760 --> 00:25:11,680
+And let's say that there is a button
+
+526
+00:25:11,680 --> 00:25:14,400
+or a click that doesn't work.
+
+527
+00:25:14,400 --> 00:25:17,760
+I like to see how people
+
+528
+00:25:17,760 --> 00:25:20,160
+actually click on this button.
+
+529
+00:25:20,160 --> 00:25:23,840
+Meaning that are they eagerly click
+
+530
+00:25:23,840 --> 00:25:27,360
+one after time or are they passionate.
+
+531
+00:25:27,360 --> 00:25:30,520
+And that means a lot about their behavior.
+
+532
+00:25:30,520 --> 00:25:32,680
+About who they are.
+
+533
+00:25:32,680 --> 00:25:34,760
+Wow. Liraz, this is fascinating,
+
+534
+00:25:34,760 --> 00:25:36,720
+I can ask you 100 more questions
+
+535
+00:25:36,720 --> 00:25:38,680
+about this, but unfortunately,
+
+536
+00:25:38,680 --> 00:25:40,400
+I called my show 20 minute leader,
+
+537
+00:25:40,400 --> 00:25:41,880
+so, I have to uphold to that.
+
+538
+00:25:41,880 --> 00:25:42,960
+But I want to thank you again
+
+539
+00:25:42,960 --> 00:25:44,760
+for being so generous with your time.
+
+540
+00:25:44,760 --> 00:25:46,440
+It's been such a pleasure and an honor.
+
+541
+00:25:46,440 --> 00:25:48,480
+And I'd love to continue learning more
+
+542
+00:25:48,480 --> 00:25:49,160
+from your work.
+
+543
+00:25:49,240 --> 00:25:50,560
+And hopefully talk to you
+
+544
+00:25:50,560 --> 00:25:51,680
+when I have my own startup.
+
+545
+00:25:51,680 --> 00:25:53,440
+But before we leave, I need three words
+
+546
+00:25:53,440 --> 00:25:56,240
+that you would use to describe yourself.
+
+547
+00:25:56,240 --> 00:25:58,640
+Okay. Great.
+
+548
+00:25:58,640 --> 00:26:00,360
+I think that the three words
+
+549
+00:26:00,360 --> 00:26:03,680
+that mostly describe me is
+
+550
+00:26:03,680 --> 00:26:08,400
+it's all about passion. Passionate.
+
+551
+00:26:08,400 --> 00:26:11,240
+Passionate. It's all about passion.
+
+552
+00:26:11,240 --> 00:26:12,480
+Culminating in passionate.
+
+553
+00:26:12,480 --> 00:26:14,080
+I think that definitely exudes
+
+554
+00:26:14,080 --> 00:26:15,840
+through this conversation.
+
+555
+00:26:15,840 --> 00:26:16,680
+Liraz, thank you very much.
+
+556
+00:26:16,680 --> 00:26:17,280
+Toda raba.
+
+557
+00:26:17,280 --> 00:26:18,960
+This is so wonderful.
+
+558
+00:26:18,960 --> 00:26:21,520
+And I look forward to chatting again.
+
+559
+00:26:21,520 --> 00:26:22,120
+Great.
+
+560
+00:26:22,120 --> 00:26:23,480
+Take care.
+
+561
+00:26:23,480 --> 00:26:26,600
+Than you for inviting me. Bye bye.
+
+562
+00:26:56,680 --> 00:26:59,240
+Okay. Liraz, before we leave,
+
+563
+00:26:59,240 --> 00:27:00,400
+three words that you would use
+
+564
+00:27:00,400 --> 00:27:01,850
+to describe yourself.
+
+565
+00:27:01,850 --> 00:27:04,120
+Great. So, the three words are
+
+566
+00:27:04,120 --> 00:27:06,520
+it's all about passion.
+
+567
+00:27:06,520 --> 00:27:08,000
+It's all about passion.
+
+568
+00:27:08,000 --> 00:27:09,880
+Again, it completely exudes
+
+569
+00:27:09,880 --> 00:27:11,240
+through the screen.
+
+570
+00:27:11,240 --> 00:27:12,520
+I love the wok that you're doing.
+
+571
+00:27:12,520 --> 00:27:13,680
+I love behavioral economics.
+
+572
+00:27:13,680 --> 00:27:15,680
+And I think it's just so fascinating
+
+573
+00:27:15,680 --> 00:27:17,480
+to think about the rationality
+
+574
+00:27:17,480 --> 00:27:18,440
+and irrationality
+
+575
+00:27:18,440 --> 00:27:19,720
+of human decision making.
+
+576
+00:27:19,720 --> 00:27:21,600
+And the fact that you're taking this
+
+577
+00:27:21,600 --> 00:27:24,320
+into a deep dive into the digital world
+
+578
+00:27:24,320 --> 00:27:25,240
+and thinking critically
+
+579
+00:27:25,240 --> 00:27:26,160
+about how we do things.
+
+580
+00:27:26,240 --> 00:27:27,240
+I think it's remarkable.
+
+581
+00:27:27,240 --> 00:27:28,680
+So, thank you very very much.
+
+582
+00:27:28,680 --> 00:27:30,640
+And I look forward to remaining in touch.
+
+583
+00:27:30,640 --> 00:27:32,640
+Thank you so much for inviting me.
+
+584
+00:27:32,640 --> 00:27:33,880
+Bye bye.
+

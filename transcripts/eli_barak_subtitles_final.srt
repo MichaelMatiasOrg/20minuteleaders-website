@@ -1,0 +1,2625 @@
+﻿1
+00:01:43,680 --> 00:01:44,840
+Eli Barak, thank you so much
+
+2
+00:01:44,840 --> 00:01:45,400
+for joining me.
+
+3
+00:01:45,400 --> 00:01:46,440
+How are you?
+
+4
+00:01:46,440 --> 00:01:48,280
+Good, how are you?
+
+5
+00:01:48,280 --> 00:01:49,200
+I'm great.
+
+6
+00:01:49,200 --> 00:01:50,720
+It's so fantastic to have you.
+
+7
+00:01:50,720 --> 00:01:51,760
+We know each other
+
+8
+00:01:51,760 --> 00:01:52,880
+for quite some time now,
+
+9
+00:01:52,880 --> 00:01:54,520
+for quite a few years.
+
+10
+00:01:54,520 --> 00:01:56,080
+All the way back from the robotics team
+
+11
+00:01:56,080 --> 00:01:58,480
+when you so generously came
+
+12
+00:01:58,480 --> 00:02:00,680
+and helped mentor our team,
+
+13
+00:02:00,680 --> 00:02:02,400
+a relatively rookie team.
+
+14
+00:02:02,400 --> 00:02:04,360
+And you've built some
+
+15
+00:02:04,360 --> 00:02:06,520
+really incredible, incredible
+
+16
+00:02:06,520 --> 00:02:08,400
+projects and mentorship
+
+17
+00:02:08,400 --> 00:02:11,560
+in ... Emek Hefer
+
+18
+00:02:11,560 --> 00:02:12,800
+and ...
+
+19
+00:02:12,800 --> 00:02:13,640
+So, tell me a little bit
+
+20
+00:02:13,640 --> 00:02:14,880
+about your journey.
+
+21
+00:02:14,880 --> 00:02:15,760
+Where do you come from
+
+22
+00:02:15,760 --> 00:02:17,080
+and how do you do that transition
+
+23
+00:02:17,080 --> 00:02:19,120
+from an entrepreneur and investor
+
+24
+00:02:19,120 --> 00:02:22,480
+to education and mentorship?
+
+25
+00:02:22,480 --> 00:02:23,480
+Yeah, so first of all,
+
+26
+00:02:23,480 --> 00:02:24,880
+thank you for having me.
+
+27
+00:02:24,880 --> 00:02:29,600
+I think that probably the best definition
+
+28
+00:02:29,600 --> 00:02:31,520
+is to say that I'm a serial entrepreneur.
+
+29
+00:02:31,520 --> 00:02:34,720
+Started in the software market
+
+30
+00:02:34,720 --> 00:02:36,520
+in the Israeli army.
+
+31
+00:02:36,520 --> 00:02:43,080
+Found myself focusing on software.
+
+32
+00:02:43,080 --> 00:02:46,200
+My first startup ...
+
+33
+00:02:46,200 --> 00:02:47,760
+first exit
+
+34
+00:02:47,760 --> 00:02:51,480
+was in the CRM EOP markets.
+
+35
+00:02:51,480 --> 00:02:52,520
+Moved to the states,
+
+36
+00:02:52,520 --> 00:02:54,960
+lived in the US for five years
+
+37
+00:02:54,960 --> 00:02:55,560
+with my family.
+
+38
+00:02:55,560 --> 00:02:57,720
+Came back to Israel
+
+39
+00:02:57,720 --> 00:02:59,560
+just before 9/11.
+
+40
+00:02:59,560 --> 00:03:04,080
+And decided that I need to find something
+
+41
+00:03:04,080 --> 00:03:08,280
+interesting to do once retired,
+
+42
+00:03:08,280 --> 00:03:10,800
+because the exit was good enough.
+
+43
+00:03:10,800 --> 00:03:13,920
+And after 18 months of doing nothing
+
+44
+00:03:13,920 --> 00:03:15,360
+and going to coffee shops,
+
+45
+00:03:15,360 --> 00:03:16,320
+you need to figure out
+
+46
+00:03:16,320 --> 00:03:18,600
+that you do want to do something.
+
+47
+00:03:18,600 --> 00:03:21,440
+And I found myself,
+
+48
+00:03:21,440 --> 00:03:23,600
+by coincidence I must say,
+
+49
+00:03:23,600 --> 00:03:27,000
+working with high school kids.
+
+50
+00:03:27,000 --> 00:03:32,320
+And robotics is an interesting platform
+
+51
+00:03:32,320 --> 00:03:34,160
+not necessarily because the kids
+
+52
+00:03:34,160 --> 00:03:36,840
+will eventually focus on robotics
+
+53
+00:03:36,840 --> 00:03:40,760
+in their adult life, but rather
+
+54
+00:03:40,760 --> 00:03:42,960
+because it's a combination
+
+55
+00:03:42,960 --> 00:03:45,000
+of different disciplines including
+
+56
+00:03:45,000 --> 00:03:46,320
+mechanical engineering,
+
+57
+00:03:46,320 --> 00:03:50,200
+software, system engineering,
+
+58
+00:03:50,200 --> 00:03:52,160
+working in a team,
+
+59
+00:03:52,160 --> 00:03:55,760
+understanding and handling priorities.
+
+60
+00:03:55,760 --> 00:03:57,640
+So modern robotics, in a way,
+
+61
+00:03:57,640 --> 00:04:01,920
+is a great platform if you want
+
+62
+00:04:01,920 --> 00:04:03,240
+to work with kids
+
+63
+00:04:03,240 --> 00:04:11,200
+and start some kind of an excitement in them
+
+64
+00:04:11,200 --> 00:04:12,960
+to be part of the technology
+
+65
+00:04:12,960 --> 00:04:16,120
+market or technology world.
+
+66
+00:04:16,120 --> 00:04:18,200
+And this is basically what it is.
+
+67
+00:04:18,200 --> 00:04:19,960
+It's a trigger.
+
+68
+00:04:19,960 --> 00:04:21,160
+But Eli, before we get
+
+69
+00:04:21,160 --> 00:04:22,800
+deeper into the robotics,
+
+70
+00:04:22,800 --> 00:04:23,560
+I have to understand,
+
+71
+00:04:23,560 --> 00:04:27,720
+because most people who end up devoting
+
+72
+00:04:27,720 --> 00:04:30,240
+over 100% time towards
+
+73
+00:04:30,240 --> 00:04:32,400
+education and mentorship, they often come
+
+74
+00:04:32,400 --> 00:04:34,400
+from those types of backgrounds
+
+75
+00:04:34,400 --> 00:04:35,840
+that they've done that
+
+76
+00:04:35,840 --> 00:04:36,800
+for quite some time.
+
+77
+00:04:36,800 --> 00:04:38,760
+You're coming in as an entrepreneur,
+
+78
+00:04:38,760 --> 00:04:40,960
+investor, serial entrepreneur,
+
+79
+00:04:40,960 --> 00:04:42,120
+and you're saying all of a sudden
+
+80
+00:04:42,120 --> 00:04:44,000
+devoting 100% of your time
+
+81
+00:04:44,000 --> 00:04:47,560
+or 150% of your time to help mentor kids.
+
+82
+00:04:47,560 --> 00:04:49,120
+So, how does that work?
+
+83
+00:04:49,120 --> 00:04:52,120
+First of all, 100% or 120%
+
+84
+00:04:52,120 --> 00:04:54,720
+is a relative definition.
+
+85
+00:04:54,720 --> 00:04:58,200
+If you want, you have 26 hours a day
+
+86
+00:04:58,200 --> 00:05:00,760
+and you find time to do
+
+87
+00:05:00,760 --> 00:05:03,120
+things that you like. I kept doing,
+
+88
+00:05:03,120 --> 00:05:05,360
+and I'm still doing, a lot of work
+
+89
+00:05:05,360 --> 00:05:07,840
+with entrepreneurs, adult entrepreneurs.
+
+90
+00:05:07,840 --> 00:05:11,720
+What you find out and what attracted me
+
+91
+00:05:11,720 --> 00:05:14,480
+to work also with high school kids
+
+92
+00:05:14,480 --> 00:05:16,880
+is that, if you think about it,
+
+93
+00:05:16,880 --> 00:05:18,320
+this is the next generation.
+
+94
+00:05:18,320 --> 00:05:21,240
+You talk about the millennials now.
+
+95
+00:05:21,240 --> 00:05:24,280
+Even if they are now 15, 16 years old,
+
+96
+00:05:24,280 --> 00:05:25,400
+in 10 years they are
+
+97
+00:05:25,400 --> 00:05:27,440
+the next generation entrepreneurs.
+
+98
+00:05:27,440 --> 00:05:29,520
+So, even if you are focused
+
+99
+00:05:29,520 --> 00:05:32,400
+on entrepreneurs and startups
+
+100
+00:05:32,400 --> 00:05:32,920
+and you are looking
+
+101
+00:05:32,920 --> 00:05:34,160
+for the next generation,
+
+102
+00:05:34,160 --> 00:05:36,360
+you find yourself talking to kids.
+
+103
+00:05:36,360 --> 00:05:44,600
+They are very intuitive, very innovative.
+
+104
+00:05:44,600 --> 00:05:46,680
+So, I think that what you find out
+
+105
+00:05:46,680 --> 00:05:48,360
+when you work with kids
+
+106
+00:05:48,360 --> 00:05:51,400
+around those areas of innovation
+
+107
+00:05:51,400 --> 00:05:56,040
+and out of the box thinking is that
+
+108
+00:05:56,040 --> 00:05:58,280
+you can get great results
+
+109
+00:05:58,280 --> 00:06:00,000
+when you have mixed teams
+
+110
+00:06:00,000 --> 00:06:01,520
+of adults and kids.
+
+111
+00:06:01,520 --> 00:06:03,880
+And this is where I started ...
+
+112
+00:06:03,880 --> 00:06:06,000
+I can say that now about, what
+
+113
+00:06:06,000 --> 00:06:08,120
+20 years later,
+
+114
+00:06:08,120 --> 00:06:10,280
+I came back to Israel 20 years ago,
+
+115
+00:06:10,280 --> 00:06:12,440
+back from the states. 20 years later,
+
+116
+00:06:12,440 --> 00:06:13,440
+and now I'm working
+
+117
+00:06:13,440 --> 00:06:16,400
+with a lot of startups
+
+118
+00:06:16,400 --> 00:06:17,960
+that are combining,
+
+119
+00:06:17,960 --> 00:06:19,080
+and we talk about it later,
+
+120
+00:06:19,280 --> 00:06:22,600
+combining kids and adults.
+
+121
+00:06:22,600 --> 00:06:24,080
+It's a great combination,
+
+122
+00:06:24,080 --> 00:06:25,880
+because you have great ideas
+
+123
+00:06:25,880 --> 00:06:26,760
+coming from them.
+
+124
+00:06:26,760 --> 00:06:29,080
+Yeah, they are less mature of course.
+
+125
+00:06:29,080 --> 00:06:30,960
+They don't have all the
+
+126
+00:06:30,960 --> 00:06:33,960
+professional skills you are looking for.
+
+127
+00:06:33,960 --> 00:06:34,880
+In the same time,
+
+128
+00:06:34,880 --> 00:06:36,400
+they are very, very innovative
+
+129
+00:06:36,600 --> 00:06:38,520
+and are still capable of thinking
+
+130
+00:06:38,520 --> 00:06:39,920
+out of the box,
+
+131
+00:06:39,920 --> 00:06:41,840
+something that we are losing
+
+132
+00:06:41,840 --> 00:06:43,000
+as we are aging
+
+133
+00:06:43,000 --> 00:06:45,280
+and getting a profession.
+
+134
+00:06:45,280 --> 00:06:45,800
+Right.
+
+135
+00:06:45,800 --> 00:06:47,800
+And this is very interesting
+
+136
+00:06:47,800 --> 00:06:50,200
+for the ecosystem in Israel.
+
+137
+00:06:50,200 --> 00:06:51,280
+And we find,
+
+138
+00:06:51,440 --> 00:06:53,680
+I can point out now five companies
+
+139
+00:06:53,680 --> 00:06:55,360
+in the hub that we are running
+
+140
+00:06:55,360 --> 00:06:58,360
+in Emek Hefer where we have kids,
+
+141
+00:06:58,360 --> 00:07:00,040
+11 and 12th graders
+
+142
+00:07:00,040 --> 00:07:01,840
+that are part of those startups
+
+143
+00:07:01,960 --> 00:07:03,880
+just because they met each other
+
+144
+00:07:03,880 --> 00:07:04,780
+and are now involved.
+
+145
+00:07:04,780 --> 00:07:07,560
+Right. 100%
+
+146
+00:07:07,560 --> 00:07:09,680
+And I'd love to understand
+
+147
+00:07:09,680 --> 00:07:11,600
+a little bit better about this community
+
+148
+00:07:11,600 --> 00:07:12,440
+that you're building there.
+
+149
+00:07:12,440 --> 00:07:15,440
+So, what you're doing with Emek Hefer
+
+150
+00:07:15,440 --> 00:07:17,480
+is not what an ordinary robotics team
+
+151
+00:07:17,480 --> 00:07:19,400
+does in Israel or all over the world.
+
+152
+00:07:19,400 --> 00:07:22,000
+And it's gone beyond simply the six week
+
+153
+00:07:22,240 --> 00:07:25,040
+first robotics competition, right?
+
+154
+00:07:25,040 --> 00:07:27,600
+It's gone much beyond that.
+
+155
+00:07:27,600 --> 00:07:29,960
+So Eli, talk to me a little bit about
+
+156
+00:07:29,960 --> 00:07:32,640
+what is the community
+
+157
+00:07:32,640 --> 00:07:34,400
+within this education sphere
+
+158
+00:07:34,400 --> 00:07:35,120
+like FIRST...
+
+159
+00:07:35,120 --> 00:07:36,200
+and what you're doing there,
+
+160
+00:07:36,200 --> 00:07:37,080
+and then talk to me about
+
+161
+00:07:37,120 --> 00:07:37,920
+what you're doing outside
+
+162
+00:07:37,920 --> 00:07:39,720
+of just the FIRST program.
+
+163
+00:07:39,720 --> 00:07:45,440
+Sure. So, again, it's not a secret
+
+164
+00:07:45,600 --> 00:07:47,200
+that the traditional
+
+165
+00:07:47,200 --> 00:07:50,040
+formal education system,
+
+166
+00:07:50,040 --> 00:07:53,240
+the school system, is not working
+
+167
+00:07:53,240 --> 00:07:56,720
+or not working very good.
+
+168
+00:07:56,720 --> 00:07:58,440
+Now, with the covid-19 days
+
+169
+00:07:58,640 --> 00:08:01,320
+make it even more difficult
+
+170
+00:08:01,320 --> 00:08:02,440
+for that system.
+
+171
+00:08:02,440 --> 00:08:05,640
+But kids are looking
+
+172
+00:08:05,640 --> 00:08:06,880
+for something interesting to do.
+
+173
+00:08:06,880 --> 00:08:08,240
+Everybody is bored.
+
+174
+00:08:08,240 --> 00:08:09,480
+The typical answer you get
+
+175
+00:08:09,480 --> 00:08:12,080
+from a typical high school kid
+
+176
+00:08:12,080 --> 00:08:13,400
+that is coming back from school
+
+177
+00:08:13,400 --> 00:08:14,520
+and, "How was your day?"
+
+178
+00:08:14,520 --> 00:08:16,800
+And the answer is "boring"
+
+179
+00:08:16,800 --> 00:08:19,600
+or "okay" is the best you can get.
+
+180
+00:08:19,600 --> 00:08:24,760
+Like a very shallow okay.
+
+181
+00:08:24,760 --> 00:08:27,120
+And the idea was to try to build
+
+182
+00:08:27,120 --> 00:08:29,240
+some kind of an ecosystem that we
+
+183
+00:08:29,240 --> 00:08:32,000
+first of all, and before everything else,
+
+184
+00:08:32,000 --> 00:08:36,440
+will reignite, if you want, people
+
+185
+00:08:36,440 --> 00:08:38,680
+and make them excited
+
+186
+00:08:38,680 --> 00:08:40,840
+about their daily operations.
+
+187
+00:08:40,840 --> 00:08:43,080
+So, the whole idea was to create
+
+188
+00:08:43,080 --> 00:08:44,240
+some kind of an ecosystem,
+
+189
+00:08:44,240 --> 00:08:45,760
+some kind of an environment
+
+190
+00:08:45,760 --> 00:08:47,240
+where people could be excited
+
+191
+00:08:47,240 --> 00:08:48,240
+about ... are doing.
+
+192
+00:08:48,240 --> 00:08:49,560
+Put aside their age,
+
+193
+00:08:49,560 --> 00:08:52,400
+whether they are kids or adults.
+
+194
+00:08:52,400 --> 00:08:54,640
+And since I'm involved
+
+195
+00:08:54,640 --> 00:08:57,920
+for 30 something years in technology
+
+196
+00:08:57,920 --> 00:09:00,400
+and in the startup ecosystem,
+
+197
+00:09:00,400 --> 00:09:03,760
+we said, and we, me together
+
+198
+00:09:03,760 --> 00:09:04,560
+with another partner,
+
+199
+00:09:04,560 --> 00:09:05,840
+his name is Liran.
+
+200
+00:09:05,840 --> 00:09:08,120
+And we are partners here in Israel.
+
+201
+00:09:08,120 --> 00:09:10,080
+Both of us are coming separately,
+
+202
+00:09:10,080 --> 00:09:13,200
+but coming from the high tech sector.
+
+203
+00:09:13,200 --> 00:09:15,280
+And the idea was to create
+
+204
+00:09:15,280 --> 00:09:16,720
+some kind of a local,
+
+205
+00:09:16,720 --> 00:09:20,440
+if you want, domestic ecosystem
+
+206
+00:09:20,440 --> 00:09:21,480
+that will be part
+
+207
+00:09:21,480 --> 00:09:23,280
+of the community at large
+
+208
+00:09:23,280 --> 00:09:24,080
+if you want.
+
+209
+00:09:24,080 --> 00:09:26,840
+So, it's not only your neighborhood,
+
+210
+00:09:26,840 --> 00:09:28,640
+but it's the area around you.
+
+211
+00:09:28,640 --> 00:09:30,680
+I would say 20, 30, 40,
+
+212
+00:09:30,680 --> 00:09:33,200
+50 thousand people in that area.
+
+213
+00:09:33,200 --> 00:09:34,720
+Emek Hefer is an example.
+
+214
+00:09:34,720 --> 00:09:36,920
+The Hefer Valley here in Israel.
+
+215
+00:09:36,920 --> 00:09:41,160
+And try to bring content
+
+216
+00:09:41,160 --> 00:09:44,480
+or create an enabling platform
+
+217
+00:09:44,480 --> 00:09:47,200
+around entrepreneurship, innovation,
+
+218
+00:09:47,200 --> 00:09:48,640
+out of the box thinking,
+
+219
+00:09:48,760 --> 00:09:50,320
+not necessarily technology,
+
+220
+00:09:50,320 --> 00:09:52,880
+but technology is a great start
+
+221
+00:09:52,880 --> 00:09:54,520
+for many of those.
+
+222
+00:09:54,520 --> 00:09:56,080
+Put everything in place,
+
+223
+00:09:56,080 --> 00:09:58,720
+which means content, lectures,
+
+224
+00:09:58,720 --> 00:10:00,760
+you name it, put it there.
+
+225
+00:10:00,760 --> 00:10:04,040
+And allow them to consume, if you want,
+
+226
+00:10:04,040 --> 00:10:06,160
+the content and the place
+
+227
+00:10:06,160 --> 00:10:08,960
+and everything you put ... for them
+
+228
+00:10:08,960 --> 00:10:13,160
+when they need it and develop themselves.
+
+229
+00:10:13,160 --> 00:10:15,840
+So, we are mentoring
+
+230
+00:10:15,920 --> 00:10:18,960
+and we provide the space,
+
+231
+00:10:18,960 --> 00:10:20,480
+if you want, a hybrid solution
+
+232
+00:10:20,480 --> 00:10:21,760
+because it's a combination
+
+233
+00:10:21,760 --> 00:10:26,040
+of an open space, like we work together
+
+234
+00:10:26,040 --> 00:10:27,720
+with an accelerator
+
+235
+00:10:27,720 --> 00:10:29,640
+and a venture fund,
+
+236
+00:10:29,640 --> 00:10:32,120
+and we do all of those together.
+
+237
+00:10:32,120 --> 00:10:35,240
+But not in a predefined program that says,
+
+238
+00:10:35,240 --> 00:10:37,200
+"Well, welcome to our accelerator.
+
+239
+00:10:37,200 --> 00:10:39,240
+You have two years
+
+240
+00:10:39,240 --> 00:10:40,520
+and half a million dollars.
+
+241
+00:10:40,520 --> 00:10:43,600
+At the end, you need to be able
+
+242
+00:10:43,600 --> 00:10:45,200
+to fly or you crash"
+
+243
+00:10:45,200 --> 00:10:47,080
+Sometimes it works,
+
+244
+00:10:47,080 --> 00:10:51,160
+most of the times it doesn't work.
+
+245
+00:10:51,160 --> 00:10:53,960
+And the idea here
+
+246
+00:10:53,960 --> 00:10:57,080
+was to try and create the platform.
+
+247
+00:10:57,080 --> 00:10:58,840
+So, platform is a place to be.
+
+248
+00:10:58,840 --> 00:11:03,280
+Offices, maker space, C and C,
+
+249
+00:11:03,280 --> 00:11:04,400
+and you name it.
+
+250
+00:11:04,400 --> 00:11:05,320
+Everything that you need
+
+251
+00:11:05,440 --> 00:11:06,480
+to really make things
+
+252
+00:11:06,480 --> 00:11:08,280
+and not only think about them
+
+253
+00:11:08,280 --> 00:11:09,960
+if you want to do it.
+
+254
+00:11:09,960 --> 00:11:15,760
+Bring a lot of content from leading ideas
+
+255
+00:11:15,880 --> 00:11:17,680
+and CEOs of companies
+
+256
+00:11:17,680 --> 00:11:18,720
+that are coming and talking
+
+257
+00:11:18,720 --> 00:11:20,120
+to the future entrepreneurs
+
+258
+00:11:20,280 --> 00:11:22,240
+in different areas.
+
+259
+00:11:22,240 --> 00:11:23,920
+Do mentoring
+
+260
+00:11:23,920 --> 00:11:25,480
+and really bring mentors
+
+261
+00:11:25,480 --> 00:11:27,160
+that could take them forward.
+
+262
+00:11:27,160 --> 00:11:29,200
+And have a venture fund
+
+263
+00:11:29,200 --> 00:11:31,120
+to do small early stage
+
+264
+00:11:31,120 --> 00:11:34,000
+pre-seed, if you want, investments.
+
+265
+00:11:34,000 --> 00:11:37,800
+All of that is aiming now not only adults,
+
+266
+00:11:37,800 --> 00:11:41,280
+the usual entrepreneurs, but also kids.
+
+267
+00:11:41,280 --> 00:11:41,720
+Right.
+
+268
+00:11:41,720 --> 00:11:44,920
+Try to mix them.
+
+269
+00:11:44,920 --> 00:11:47,080
+I don't know how you call it in the US,
+
+270
+00:11:47,080 --> 00:11:49,400
+but in Israel, we have this spot
+
+271
+00:11:49,400 --> 00:11:51,360
+that you do like a ...
+
+272
+00:11:51,360 --> 00:11:53,360
+Yeah.
+
+273
+00:11:53,360 --> 00:11:55,320
+So, I don't know what's the terminology,
+
+274
+00:11:55,320 --> 00:11:57,040
+probably the same way.
+
+275
+00:11:57,040 --> 00:11:58,800
+A melting pot, yeah.
+
+276
+00:11:58,800 --> 00:12:01,320
+So, this is the best description
+
+277
+00:12:01,320 --> 00:12:03,000
+of what we're trying to do.
+
+278
+00:12:03,000 --> 00:12:05,280
+You put in a lot of good materials,
+
+279
+00:12:05,280 --> 00:12:08,560
+good people, mentoring, location,
+
+280
+00:12:08,560 --> 00:12:10,720
+you do it very slowly.
+
+281
+00:12:10,720 --> 00:12:11,920
+You need to be,
+
+282
+00:12:11,960 --> 00:12:15,680
+not to try to expedite things.
+
+283
+00:12:15,680 --> 00:12:17,960
+You rather need to do it slowly,
+
+284
+00:12:17,960 --> 00:12:19,800
+and you start to see the community
+
+285
+00:12:19,800 --> 00:12:21,880
+really building in front of you.
+
+286
+00:12:21,880 --> 00:12:23,120
+And I can say that now,
+
+287
+00:12:23,120 --> 00:12:26,600
+in Emek Hefer here, three years later,
+
+288
+00:12:26,600 --> 00:12:30,760
+we have really a full place.
+
+289
+00:12:30,760 --> 00:12:33,200
+We have a waiting list of 10, 15 people
+
+290
+00:12:33,200 --> 00:12:34,320
+that are trying to join,
+
+291
+00:12:34,320 --> 00:12:36,600
+and we don't have any offices for them.
+
+292
+00:12:36,600 --> 00:12:41,240
+We have more than a hundred kids,
+
+293
+00:12:41,240 --> 00:12:43,360
+high school kids, that are involved
+
+294
+00:12:43,360 --> 00:12:45,640
+in any given ... today.
+
+295
+00:12:45,840 --> 00:12:47,280
+Yeah. More than a hundred.
+
+296
+00:12:47,280 --> 00:12:49,320
+Probably next year,
+
+297
+00:12:49,320 --> 00:12:51,320
+we are going to have more.
+
+298
+00:12:51,320 --> 00:12:54,040
+Covid-19 created a situation that,
+
+299
+00:12:54,040 --> 00:12:55,800
+as I said, school is boring.
+
+300
+00:12:55,800 --> 00:12:58,320
+Schools are now cooperating with us
+
+301
+00:12:58,320 --> 00:12:58,920
+and saying,
+
+302
+00:12:58,920 --> 00:13:03,400
+"Well, maybe the informal education
+
+303
+00:13:03,400 --> 00:13:05,360
+is not so bad, and it's interesting."
+
+304
+00:13:05,360 --> 00:13:08,000
+And they cooperate with us.
+- Wow.
+
+305
+00:13:08,000 --> 00:13:11,440
+I'm really curious about
+
+306
+00:13:11,440 --> 00:13:14,120
+what do you see in that space?
+
+307
+00:13:14,120 --> 00:13:15,920
+So, when you take high schoolers,
+
+308
+00:13:15,920 --> 00:13:17,560
+and I'm a huge advocate of this myself,
+
+309
+00:13:17,560 --> 00:13:19,160
+but you take high schoolers
+
+310
+00:13:19,160 --> 00:13:21,040
+and you give them a different purpose
+
+311
+00:13:21,040 --> 00:13:23,800
+that's intrinsic, informal education,
+
+312
+00:13:23,800 --> 00:13:25,160
+that they actually get to build something
+
+313
+00:13:25,160 --> 00:13:26,960
+and provide a product given,
+
+314
+00:13:26,960 --> 00:13:28,760
+execute it on what they are learning.
+
+315
+00:13:28,760 --> 00:13:30,560
+What do you see
+
+316
+00:13:30,560 --> 00:13:32,360
+outside of the lab?
+
+317
+00:13:32,360 --> 00:13:34,080
+Do they change at all?
+
+318
+00:13:34,080 --> 00:13:35,800
+Are they more confident
+
+319
+00:13:35,800 --> 00:13:37,000
+in different areas?
+
+320
+00:13:37,000 --> 00:13:38,360
+So, great question.
+
+321
+00:13:38,360 --> 00:13:40,720
+I would say that the main,
+
+322
+00:13:40,720 --> 00:13:42,200
+think about it as a toolbox,
+
+323
+00:13:42,200 --> 00:13:44,080
+and you basically equip them
+
+324
+00:13:44,080 --> 00:13:46,280
+with a new toolbox for life.
+
+325
+00:13:46,280 --> 00:13:49,160
+I would say that 90% of the value
+
+326
+00:13:49,160 --> 00:13:52,000
+that we provide to those high school kids
+
+327
+00:13:52,000 --> 00:13:53,840
+is not technical at all.
+
+328
+00:13:53,840 --> 00:13:55,520
+It has nothing to do with robotics
+
+329
+00:13:55,520 --> 00:13:57,080
+or space or other areas
+
+330
+00:13:57,080 --> 00:13:58,440
+that we are supporting;
+
+331
+00:13:58,440 --> 00:14:01,600
+it's rather on a personal toolkit
+
+332
+00:14:01,600 --> 00:14:04,280
+of how to be part of a team,
+
+333
+00:14:04,280 --> 00:14:07,160
+how to integrate things, it doesn't matter
+
+334
+00:14:07,160 --> 00:14:08,400
+what kind of integration.
+
+335
+00:14:08,400 --> 00:14:10,960
+What we call system engineering,
+
+336
+00:14:10,960 --> 00:14:13,720
+processes, understanding of
+
+337
+00:14:13,720 --> 00:14:15,760
+how do you really manage
+
+338
+00:14:15,760 --> 00:14:17,560
+personal priorities.
+
+339
+00:14:17,560 --> 00:14:19,120
+And one of the interesting feedbacks
+
+340
+00:14:19,120 --> 00:14:20,280
+we are getting from kids
+
+341
+00:14:20,280 --> 00:14:23,240
+and from their teachers in school is that
+
+342
+00:14:23,240 --> 00:14:25,480
+once they finish the first year
+
+343
+00:14:25,480 --> 00:14:27,320
+here in our program,
+
+344
+00:14:27,320 --> 00:14:29,000
+they're coming back to school
+
+345
+00:14:29,000 --> 00:14:30,000
+and everything in school
+
+346
+00:14:30,000 --> 00:14:32,120
+is very, very easy for them.
+
+347
+00:14:32,120 --> 00:14:34,000
+Really?
+
+348
+00:14:34,080 --> 00:14:36,760
+Yeah. They easily handle the timeline
+
+349
+00:14:36,760 --> 00:14:37,840
+and they do the tests,
+
+350
+00:14:37,840 --> 00:14:40,360
+and usually the grades are going up
+
+351
+00:14:40,360 --> 00:14:41,440
+although they spend
+
+352
+00:14:41,440 --> 00:14:43,520
+about half of their time here.
+
+353
+00:14:43,520 --> 00:14:46,400
+They are spending afternoons and nights
+
+354
+00:14:46,400 --> 00:14:47,240
+and the weekend,
+
+355
+00:14:47,240 --> 00:14:50,120
+and you need to really push them back out
+
+356
+00:14:50,120 --> 00:14:51,320
+because if it's up to them,
+
+357
+00:14:51,320 --> 00:14:53,320
+they spend every minute here.
+
+358
+00:14:53,320 --> 00:14:55,640
+It's a community for them.
+
+359
+00:14:55,640 --> 00:14:57,240
+So, all the friendships and everything.
+
+360
+00:14:57,240 --> 00:14:59,440
+It's like a youth movement, if you want,
+
+361
+00:14:59,440 --> 00:15:01,000
+which, by the way, is something
+
+362
+00:15:01,000 --> 00:15:02,600
+we are doing right now in Israel
+
+363
+00:15:02,600 --> 00:15:04,920
+with the Ministry of Education
+
+364
+00:15:04,920 --> 00:15:06,640
+and Ministry of Science,
+
+365
+00:15:06,640 --> 00:15:09,760
+turning all that type of operation
+
+366
+00:15:09,760 --> 00:15:12,800
+into a recognized youth movement.
+
+367
+00:15:12,800 --> 00:15:15,200
+It's going to be called Nesher,
+
+368
+00:15:15,200 --> 00:15:16,680
+which in Hebrew stands for
+
+369
+00:15:16,680 --> 00:15:18,880
+...
+
+370
+00:15:18,880 --> 00:15:26,480
+which is youth, something robotics
+- Something robotics
+
+371
+00:15:26,480 --> 00:15:27,920
+And the whole idea is
+
+372
+00:15:27,920 --> 00:15:29,840
+to really recognize the fact
+
+373
+00:15:29,840 --> 00:15:32,240
+it is a youth movement
+
+374
+00:15:32,240 --> 00:15:33,800
+with everything involved.
+
+375
+00:15:33,800 --> 00:15:37,720
+So, personal skill sets, what they call
+
+376
+00:15:37,720 --> 00:15:39,960
+the 21st century skill sets,
+
+377
+00:15:39,960 --> 00:15:44,480
+is the best value they are getting.
+
+378
+00:15:44,480 --> 00:15:46,480
+Interesting to say that we see
+
+379
+00:15:46,480 --> 00:15:49,040
+a lot of activities around us
+
+380
+00:15:49,040 --> 00:15:55,200
+from different, the Ministry of Education,
+
+381
+00:15:55,200 --> 00:15:59,000
+the IDF, the Israeli Army,
+
+382
+00:15:59,000 --> 00:16:01,800
+are looking for those kids
+
+383
+00:16:01,800 --> 00:16:04,240
+not because they know how to do robotics,
+
+384
+00:16:04,240 --> 00:16:06,680
+but they are much more mature
+
+385
+00:16:06,680 --> 00:16:11,560
+in their understanding of how to work in a team.
+
+386
+00:16:11,560 --> 00:16:14,480
+We do find a lot of situations
+
+387
+00:16:14,480 --> 00:16:17,240
+where kids that were not the best ones
+
+388
+00:16:17,240 --> 00:16:20,440
+in high school are finding things
+
+389
+00:16:20,440 --> 00:16:24,800
+to really excel and do things here
+
+390
+00:16:24,800 --> 00:16:27,680
+and be leaders in different areas.
+
+391
+00:16:27,680 --> 00:16:30,480
+We work a lot with girls
+
+392
+00:16:30,480 --> 00:16:33,360
+and fighting very successfully
+
+393
+00:16:33,360 --> 00:16:36,760
+the situation where girls are not getting
+
+394
+00:16:36,760 --> 00:16:38,360
+into technology for different reasons.
+
+395
+00:16:38,360 --> 00:16:39,760
+This is not an Israeli problem,
+
+396
+00:16:39,760 --> 00:16:41,280
+it's a worldwide one.
+
+397
+00:16:41,280 --> 00:16:45,440
+Very successfully working with girls,
+
+398
+00:16:45,440 --> 00:16:49,000
+and really have mixed groups
+
+399
+00:16:49,000 --> 00:16:50,520
+working with different parts
+
+400
+00:16:50,520 --> 00:16:52,280
+of the Israeli society.
+
+401
+00:16:52,280 --> 00:16:55,720
+Charedim that are not really
+
+402
+00:16:55,720 --> 00:16:57,400
+into technology, and we are doing
+
+403
+00:16:57,400 --> 00:16:59,240
+very well with them as well
+
+404
+00:16:59,240 --> 00:17:03,120
+through the few connections we have.
+
+405
+00:17:03,120 --> 00:17:05,920
+So, the whole idea is using technology.
+
+406
+00:17:05,920 --> 00:17:08,520
+We are doing it especially with two,
+
+407
+00:17:08,520 --> 00:17:10,520
+if you want, programs or titles,
+
+408
+00:17:10,520 --> 00:17:11,600
+one of them you mentioned
+
+409
+00:17:11,600 --> 00:17:12,680
+which is robotics
+
+410
+00:17:12,680 --> 00:17:14,000
+and the FIRST organization.
+
+411
+00:17:14,000 --> 00:17:15,200
+The other one
+
+412
+00:17:15,200 --> 00:17:16,600
+is something that is developing
+
+413
+00:17:16,600 --> 00:17:17,320
+all over the world now
+
+414
+00:17:17,320 --> 00:17:19,120
+which is what is called the new space
+
+415
+00:17:19,120 --> 00:17:21,320
+or commercial space, applications
+
+416
+00:17:21,320 --> 00:17:24,120
+that are trying to or starting to look at space
+
+417
+00:17:24,120 --> 00:17:25,760
+not only as an
+
+418
+00:17:25,800 --> 00:17:28,720
+intelligence government type of area,
+
+419
+00:17:28,720 --> 00:17:30,200
+but rather commercial
+
+420
+00:17:30,200 --> 00:17:31,600
+or private sector that are looking
+
+421
+00:17:31,600 --> 00:17:32,600
+into those areas.
+
+422
+00:17:32,600 --> 00:17:34,880
+A lot of startups in Israel in this area.
+
+423
+00:17:34,880 --> 00:17:36,880
+We are using it
+
+424
+00:17:36,880 --> 00:17:38,880
+to attract kids to come to us.
+
+425
+00:17:38,880 --> 00:17:41,280
+So, we have now a mouse,
+
+426
+00:17:41,280 --> 00:17:44,440
+a simulator that we are building here,
+
+427
+00:17:44,440 --> 00:17:45,800
+in Emek Hefer, together with the kids
+
+428
+00:17:45,800 --> 00:17:48,320
+that are going, that is going to have
+
+429
+00:17:48,320 --> 00:17:52,120
+like an underground lava type
+
+430
+00:17:52,120 --> 00:17:56,600
+of whatever, and you're going to
+
+431
+00:17:56,600 --> 00:17:57,800
+have a mission to Mars
+
+432
+00:17:57,800 --> 00:17:58,800
+and a control room.
+
+433
+00:17:58,800 --> 00:18:01,840
+The whole idea is really trigger them,
+
+434
+00:18:01,840 --> 00:18:03,640
+bring them in. Once they are in,
+
+435
+00:18:03,640 --> 00:18:05,640
+we get them.
+
+436
+00:18:05,640 --> 00:18:08,240
+100%. But Eli I have to ask,
+
+437
+00:18:08,240 --> 00:18:09,920
+so at the end of the day,
+
+438
+00:18:09,920 --> 00:18:11,720
+you're running these programs,
+
+439
+00:18:11,720 --> 00:18:14,000
+but how do you do this at scale, right?
+
+440
+00:18:14,000 --> 00:18:14,640
+So as an entrepreneur,
+
+441
+00:18:14,640 --> 00:18:15,720
+serial entrepreneur and investor,
+
+442
+00:18:15,720 --> 00:18:17,640
+it's all about you create the value,
+
+443
+00:18:17,640 --> 00:18:19,200
+you find a product market fit,
+
+444
+00:18:19,200 --> 00:18:21,560
+you create an amazing experience,
+
+445
+00:18:21,560 --> 00:18:22,960
+now how do you replicate this
+
+446
+00:18:22,960 --> 00:18:23,640
+all over the world?
+
+447
+00:18:23,640 --> 00:18:24,560
+Because I'm convinced.
+
+448
+00:18:24,560 --> 00:18:26,720
+I went through some of these programs
+
+449
+00:18:26,720 --> 00:18:28,080
+with you, with your mentorship.
+
+450
+00:18:28,080 --> 00:18:29,800
+I know how incredible it is
+
+451
+00:18:29,800 --> 00:18:30,840
+and the tools that it gave me,
+
+452
+00:18:30,840 --> 00:18:34,040
+but how do you get every kid in the world
+
+453
+00:18:34,040 --> 00:18:35,720
+to have this experience?
+
+454
+00:18:35,720 --> 00:18:36,880
+So, it's a great question,
+
+455
+00:18:36,880 --> 00:18:37,520
+and it's a question
+
+456
+00:18:37,520 --> 00:18:39,440
+that we started asking ourselves
+
+457
+00:18:39,440 --> 00:18:40,600
+about three years ago
+
+458
+00:18:40,600 --> 00:18:42,040
+when we started the first location
+
+459
+00:18:42,040 --> 00:18:43,040
+here in Emek Hefer,
+
+460
+00:18:43,040 --> 00:18:44,960
+and we are six partners.
+
+461
+00:18:44,960 --> 00:18:45,840
+All of us, by the way,
+
+462
+00:18:45,840 --> 00:18:47,480
+are coming from the high tech sector.
+
+463
+00:18:47,480 --> 00:18:49,440
+So, this is not real estate for us.
+
+464
+00:18:49,440 --> 00:18:50,720
+The real estate part
+
+465
+00:18:50,840 --> 00:18:53,160
+is just an enabling platform.
+
+466
+00:18:53,160 --> 00:18:54,200
+And this was exactly
+
+467
+00:18:54,200 --> 00:18:55,720
+the question that we're asking,
+
+468
+00:18:55,720 --> 00:18:58,920
+"Is this operation some kind of
+
+469
+00:18:58,920 --> 00:19:00,200
+a one man or two man
+
+470
+00:19:00,200 --> 00:19:03,120
+or five man operation and that's it?
+
+471
+00:19:03,120 --> 00:19:04,960
+Or can you really replicate?
+
+472
+00:19:04,960 --> 00:19:06,600
+Can you really scale?"
+
+473
+00:19:06,600 --> 00:19:09,040
+It took us two and a half years
+
+474
+00:19:09,040 --> 00:19:11,280
+to really examine the model,
+
+475
+00:19:11,280 --> 00:19:13,840
+refine it if you want.
+
+476
+00:19:13,840 --> 00:19:17,400
+About a year ago, we started to work
+
+477
+00:19:17,400 --> 00:19:19,560
+on our second location
+
+478
+00:19:19,560 --> 00:19:22,960
+up in Emek Israel ...
+
+479
+00:19:22,960 --> 00:19:24,880
+We are now working on it,
+
+480
+00:19:24,960 --> 00:19:27,720
+building the new location over there
+
+481
+00:19:27,720 --> 00:19:29,560
+that will be location number two.
+
+482
+00:19:29,560 --> 00:19:32,720
+Hopefully we open around Pesach,
+
+483
+00:19:32,720 --> 00:19:34,880
+spring of 2021.
+
+484
+00:19:34,880 --> 00:19:36,160
+Wow.
+
+485
+00:19:36,160 --> 00:19:37,360
+We are already talking
+
+486
+00:19:37,360 --> 00:19:38,960
+about a third location
+
+487
+00:19:38,960 --> 00:19:41,000
+that is going to be somewhere
+
+488
+00:19:41,000 --> 00:19:42,360
+around Rehovot,
+
+489
+00:19:43,360 --> 00:19:45,480
+so little bit south of Tel Aviv.
+
+490
+00:19:45,480 --> 00:19:47,560
+The whole idea is to do it
+
+491
+00:19:47,560 --> 00:19:50,080
+outside of the big cities.
+
+492
+00:19:50,080 --> 00:19:53,000
+Do it in areas where people are looking,
+
+493
+00:19:53,000 --> 00:19:57,680
+you have good community,
+
+494
+00:19:57,680 --> 00:19:59,240
+high skills on one hand,
+
+495
+00:19:59,240 --> 00:20:00,440
+but people that are bored
+
+496
+00:20:00,440 --> 00:20:04,400
+or looking for interesting things to do.
+
+497
+00:20:04,400 --> 00:20:07,440
+And you could provide,
+
+498
+00:20:07,440 --> 00:20:09,760
+since you are out of the big city,
+
+499
+00:20:09,880 --> 00:20:11,120
+real estate is cheaper,
+
+500
+00:20:11,120 --> 00:20:12,000
+so you could do things
+
+501
+00:20:12,000 --> 00:20:14,400
+that you cannot do in Tel Aviv
+
+502
+00:20:14,400 --> 00:20:16,840
+or in major locations.
+
+503
+00:20:16,840 --> 00:20:19,440
+Like Emek Izrael now is going to be
+
+504
+00:20:19,440 --> 00:20:22,160
+all around space, and we are building now
+
+505
+00:20:22,160 --> 00:20:24,320
+a new planetarium
+
+506
+00:20:24,320 --> 00:20:27,440
+over the really sophisticated,
+
+507
+00:20:27,440 --> 00:20:29,040
+special telescope
+
+508
+00:20:29,040 --> 00:20:31,040
+that is a sun telescope.
+
+509
+00:20:31,040 --> 00:20:33,640
+So, not only a regular one.
+
+510
+00:20:33,640 --> 00:20:35,560
+A lot of development around this.
+
+511
+00:20:35,560 --> 00:20:37,400
+In Emek Hefer we do a lot
+
+512
+00:20:37,400 --> 00:20:40,080
+of robotics and agriculture,
+
+513
+00:20:40,120 --> 00:20:42,000
+which is something we could do here
+
+514
+00:20:42,000 --> 00:20:44,600
+because we have tons of areas around us,
+
+515
+00:20:44,600 --> 00:20:46,520
+and ...
+
+516
+00:20:46,520 --> 00:20:48,280
+are the easiest thing to do.
+
+517
+00:20:48,280 --> 00:20:54,680
+And yeah, I think that I would say,
+
+518
+00:20:54,680 --> 00:20:57,400
+even on something which is important,
+
+519
+00:20:57,400 --> 00:20:59,280
+you learn very early that if you want
+
+520
+00:20:59,280 --> 00:21:00,840
+to have this smoothly working,
+
+521
+00:21:00,840 --> 00:21:04,040
+it cannot be based on philanthropy.
+
+522
+00:21:04,040 --> 00:21:05,720
+It must be a business model.
+
+523
+00:21:05,720 --> 00:21:07,440
+Now, why is that?
+
+524
+00:21:07,440 --> 00:21:08,480
+Why do you think that is?
+
+525
+00:21:08,480 --> 00:21:10,120
+Because long term,
+
+526
+00:21:10,120 --> 00:21:14,000
+it's very easy to get donations, funds
+
+527
+00:21:14,120 --> 00:21:16,040
+to build something,
+
+528
+00:21:16,040 --> 00:21:18,440
+but it's basically impossible
+
+529
+00:21:18,440 --> 00:21:20,280
+to keep getting those donations
+
+530
+00:21:20,280 --> 00:21:21,760
+to operate it.
+
+531
+00:21:21,760 --> 00:21:22,360
+Right.
+
+532
+00:21:22,360 --> 00:21:24,560
+So, you must, in a way,
+
+533
+00:21:24,560 --> 00:21:25,840
+come with a plan
+
+534
+00:21:25,840 --> 00:21:31,480
+that will be not only sustainable,
+
+535
+00:21:31,480 --> 00:21:33,560
+and fund itself, but be profitable.
+
+536
+00:21:33,560 --> 00:21:34,000
+Otherwise,
+
+537
+00:21:34,000 --> 00:21:35,800
+you don't have the funds you need
+
+538
+00:21:35,800 --> 00:21:37,520
+to really do the investments
+
+539
+00:21:37,520 --> 00:21:38,520
+at the beginning.
+
+540
+00:21:38,520 --> 00:21:40,560
+And this is exactly ...
+
+541
+00:21:40,560 --> 00:21:42,000
+It took us about two years
+
+542
+00:21:42,000 --> 00:21:43,280
+to make sure that we understand
+
+543
+00:21:43,440 --> 00:21:45,400
+how to make it profitable.
+
+544
+00:21:45,400 --> 00:21:47,000
+Now, don't get me wrong,
+
+545
+00:21:47,000 --> 00:21:49,800
+profitable while still understanding
+
+546
+00:21:49,800 --> 00:21:51,960
+that there are impact aspects
+
+547
+00:21:51,960 --> 00:21:53,920
+for your investment.
+
+548
+00:21:53,920 --> 00:21:55,320
+Community is important,
+
+549
+00:21:55,320 --> 00:21:57,000
+so it's not only maximizing
+
+550
+00:21:57,000 --> 00:21:58,800
+the return of the investment
+
+551
+00:21:59,040 --> 00:22:02,120
+in terms of funding and money,
+
+552
+00:22:02,120 --> 00:22:05,040
+it's also in community value.
+
+553
+00:22:05,040 --> 00:22:08,320
+The model needs to be sustainable,
+
+554
+00:22:08,320 --> 00:22:09,680
+it needs to be profitable,
+
+555
+00:22:09,680 --> 00:22:12,120
+and once you do,
+
+556
+00:22:12,120 --> 00:22:13,600
+you could do whatever you want.
+
+557
+00:22:13,600 --> 00:22:14,880
+And very interesting to say
+
+558
+00:22:14,880 --> 00:22:16,760
+another thing, the government,
+
+559
+00:22:16,760 --> 00:22:18,720
+the different agencies,
+
+560
+00:22:18,720 --> 00:22:21,320
+and I'm not blaming them,
+
+561
+00:22:21,320 --> 00:22:24,040
+are never first adopters.
+
+562
+00:22:24,040 --> 00:22:25,560
+They are not.
+
+563
+00:22:25,560 --> 00:22:28,120
+They tend to join in later
+
+564
+00:22:28,120 --> 00:22:30,920
+if you could prove that what you're doing
+
+565
+00:22:30,920 --> 00:22:32,640
+is really working and sustainable
+
+566
+00:22:32,640 --> 00:22:34,280
+and bringing value.
+
+567
+00:22:34,280 --> 00:22:35,080
+Right.
+
+568
+00:22:35,080 --> 00:22:37,760
+Once you do, they're eager to join,
+
+569
+00:22:37,760 --> 00:22:39,000
+because this is a success
+
+570
+00:22:39,000 --> 00:22:39,880
+and they could ...
+
+571
+00:22:39,880 --> 00:22:40,760
+And I'm not cynical.
+
+572
+00:22:40,760 --> 00:22:41,880
+What I want to say is that
+
+573
+00:22:41,880 --> 00:22:44,360
+this is the way it works.
+
+574
+00:22:44,360 --> 00:22:44,800
+Yeah.
+
+575
+00:22:44,800 --> 00:22:47,120
+So, once you do it,
+
+576
+00:22:47,240 --> 00:22:52,240
+I met yesterday the minister of science,
+
+577
+00:22:52,240 --> 00:22:55,880
+Yizhar Shai, and he came to Emek Izrael
+
+578
+00:22:55,880 --> 00:22:57,520
+to see what we are building over there.
+
+579
+00:22:57,520 --> 00:22:59,240
+And now the Ministry of Science
+
+580
+00:22:59,400 --> 00:23:02,320
+is supportive, and we are getting money
+
+581
+00:23:02,320 --> 00:23:03,880
+for different things we want to do.
+
+582
+00:23:03,880 --> 00:23:06,640
+But this is only after we proved
+
+583
+00:23:06,640 --> 00:23:08,760
+that we are able to bring money,
+
+584
+00:23:08,760 --> 00:23:10,960
+do what we need, or in a way
+
+585
+00:23:10,960 --> 00:23:11,920
+we just ...
+
+586
+00:23:11,920 --> 00:23:13,400
+... say about banks,
+
+587
+00:23:13,400 --> 00:23:15,120
+the bank wants to lend you money
+
+588
+00:23:15,120 --> 00:23:17,160
+only when you don't need it.
+
+589
+00:23:17,160 --> 00:23:19,440
+So, in a way, similar here.
+
+590
+00:23:19,440 --> 00:23:21,080
+You need to be on your own,
+
+591
+00:23:21,080 --> 00:23:22,920
+be able to support your ideas,
+
+592
+00:23:22,920 --> 00:23:24,120
+and prove that it's working.
+
+593
+00:23:24,120 --> 00:23:25,840
+Everybody else will join you later on,
+
+594
+00:23:25,880 --> 00:23:26,300
+which is fine.
+
+595
+00:23:26,300 --> 00:23:30,120
+Eli, this is insightful and inspiring.
+
+596
+00:23:30,120 --> 00:23:31,920
+I just love what you're doing there,
+
+597
+00:23:31,920 --> 00:23:32,560
+and I have no doubt
+
+598
+00:23:32,560 --> 00:23:33,960
+that it'll continue to scale.
+
+599
+00:23:33,960 --> 00:23:35,080
+And I know the impact
+
+600
+00:23:35,080 --> 00:23:36,400
+that you personally had on me
+
+601
+00:23:36,400 --> 00:23:37,600
+and Emek Hefer,
+
+602
+00:23:37,600 --> 00:23:39,320
+and the ... had on myself
+
+603
+00:23:39,320 --> 00:23:40,000
+and my friends,
+
+604
+00:23:40,000 --> 00:23:41,880
+and I'm watching everybody also
+
+605
+00:23:41,880 --> 00:23:43,000
+in the ... where I served.
+
+606
+00:23:43,000 --> 00:23:45,200
+I pretty much recognize everybody
+
+607
+00:23:45,200 --> 00:23:46,360
+from these amazing community,
+
+608
+00:23:46,360 --> 00:23:48,280
+and it really is a youth movement
+
+609
+00:23:48,280 --> 00:23:49,360
+just around technology
+
+610
+00:23:49,360 --> 00:23:50,200
+less about camping.
+
+611
+00:23:50,200 --> 00:23:52,280
+It's a different youth movement.
+
+612
+00:23:52,280 --> 00:23:53,880
+Eli, before we go, I need three words
+
+613
+00:23:53,880 --> 00:23:56,640
+that you would use to describe yourself.
+
+614
+00:23:56,640 --> 00:23:58,880
+Yeah, this is always interesting
+
+615
+00:23:58,880 --> 00:24:03,400
+to look back and think about it.
+
+616
+00:24:03,400 --> 00:24:07,040
+I would say probably
+
+617
+00:24:07,080 --> 00:24:09,120
+I'm very focused in everything I do,
+
+618
+00:24:09,120 --> 00:24:11,520
+and people that are working with me
+
+619
+00:24:11,520 --> 00:24:14,960
+know it. Some kind of a combination,
+
+620
+00:24:14,960 --> 00:24:17,920
+I usually say that I'm a tall person.
+
+621
+00:24:17,920 --> 00:24:19,920
+I'm not very tall, not at all,
+
+622
+00:24:19,920 --> 00:24:22,160
+but tall in the sense of
+
+623
+00:24:22,160 --> 00:24:26,720
+your head needs to be up in the sky.
+
+624
+00:24:26,720 --> 00:24:28,200
+You need to be a visionary.
+
+625
+00:24:28,200 --> 00:24:29,800
+You need to think about big things,
+
+626
+00:24:29,800 --> 00:24:32,880
+envision in long term, otherwise
+
+627
+00:24:32,880 --> 00:24:35,360
+you don't have really your direction
+
+628
+00:24:35,360 --> 00:24:37,080
+and the big picture.
+
+629
+00:24:37,080 --> 00:24:39,320
+In the same time, you need to be
+
+630
+00:24:39,320 --> 00:24:41,680
+very connected to the ground.
+
+631
+00:24:41,680 --> 00:24:42,800
+You're feet need to be
+
+632
+00:24:42,800 --> 00:24:45,600
+well connected to the ground
+
+633
+00:24:45,600 --> 00:24:47,640
+and need to be into the details.
+
+634
+00:24:47,640 --> 00:24:50,120
+There is a phrase that somebody used
+
+635
+00:24:50,120 --> 00:24:50,920
+that says:
+
+636
+00:24:50,920 --> 00:24:52,480
+"Think big and act small"
+
+637
+00:24:52,480 --> 00:24:54,520
+I really believe in this.
+
+638
+00:24:54,520 --> 00:24:56,400
+I think that we need to,
+
+639
+00:24:56,400 --> 00:25:00,040
+and I'm trying to be strategical,
+
+640
+00:25:00,120 --> 00:25:03,120
+think strategy in everything I'm doing,
+
+641
+00:25:03,120 --> 00:25:05,240
+which I think is a good combination
+
+642
+00:25:05,240 --> 00:25:06,000
+to describe me.
+
+643
+00:25:06,000 --> 00:25:08,600
+Some kind of emphasis on strategy
+
+644
+00:25:08,600 --> 00:25:12,120
+together with very practical
+
+645
+00:25:12,120 --> 00:25:13,640
+approach to life,
+
+646
+00:25:13,640 --> 00:25:15,560
+and I believe that the combination
+
+647
+00:25:15,560 --> 00:25:17,440
+is what makes it not only interesting,
+
+648
+00:25:17,640 --> 00:25:22,480
+but I will allow myself to say successful.
+
+649
+00:25:22,480 --> 00:25:24,160
+Eli, toda raba raba.
+
+650
+00:25:24,160 --> 00:25:25,520
+This is wonderful, and I can't wait
+
+651
+00:25:25,520 --> 00:25:27,800
+to come visit the greater space.
+
+652
+00:25:27,800 --> 00:25:29,680
+And it's just incredible
+
+653
+00:25:29,680 --> 00:25:30,320
+the work that you're doing.
+
+654
+00:25:30,320 --> 00:25:31,720
+So, thank you very, very much.
+
+655
+00:25:31,720 --> 00:25:32,480
+My pleasure.
+
+656
+00:25:32,480 --> 00:25:32,920
+Thank you.

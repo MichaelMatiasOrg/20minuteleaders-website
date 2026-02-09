@@ -1,0 +1,2836 @@
+50
+00:01:36,348 --> 00:01:38,400
+Michal Segalov, thank you so much
+
+51
+00:01:38,400 --> 00:01:40,720
+for joining me on 20 Minute Leaders.
+
+52
+00:01:40,720 --> 00:01:41,680
+Thanks for having me.
+
+53
+00:01:41,690 --> 00:01:43,000
+So great to have you.
+
+54
+00:01:43,010 --> 00:01:44,760
+Software Engineering Director
+
+55
+00:01:44,770 --> 00:01:45,280
+at Google.
+
+56
+00:01:45,560 --> 00:01:47,200
+Co-founder of the amazing program
+
+57
+00:01:47,200 --> 00:01:48,200
+Mind The Gap.
+
+58
+00:01:48,200 --> 00:01:49,920
+But I don't wanna talk about Google.
+
+59
+00:01:49,920 --> 00:01:50,720
+I don't wanna talk about
+
+60
+00:01:50,720 --> 00:01:51,400
+what's happening today.
+
+61
+00:01:51,410 --> 00:01:52,320
+I wanna go back.
+
+62
+00:01:52,320 --> 00:01:53,840
+I wanna hear your story
+
+63
+00:01:53,850 --> 00:01:57,800
+because it's such an incredible inspiration
+
+64
+00:01:57,800 --> 00:01:58,920
+for me when I first heard it
+
+65
+00:01:58,920 --> 00:01:59,560
+a few months ago
+
+66
+00:01:59,570 --> 00:02:01,120
+when we had coffee back
+
+67
+00:02:01,120 --> 00:02:02,520
+when you were allowed to have coffee
+
+68
+00:02:02,760 --> 00:02:04,120
+with another person in the same room
+
+69
+00:02:04,130 --> 00:02:05,760
+and not over Zoom.
+
+70
+00:02:05,760 --> 00:02:07,080
+Michal, take me away to your childhood.
+
+71
+00:02:07,090 --> 00:02:10,440
+How do you enter the engineering world?
+
+72
+00:02:11,040 --> 00:02:12,960
+So I think the story of how I got
+
+73
+00:02:12,960 --> 00:02:14,520
+into engineering and computer science
+
+74
+00:02:14,520 --> 00:02:16,880
+is kind of a story of
+
+75
+00:02:16,890 --> 00:02:18,800
+lucky or unlucky coincidences
+
+76
+00:02:18,810 --> 00:02:21,120
+depending on how you look at it.
+
+77
+00:02:21,440 --> 00:02:24,280
+And it's all been
+
+78
+00:02:24,290 --> 00:02:25,840
+kind of happening by chance.
+
+79
+00:02:25,850 --> 00:02:27,480
+So, growing up,
+
+80
+00:02:27,680 --> 00:02:30,640
+I was always exposed to computers
+
+81
+00:02:30,640 --> 00:02:32,760
+in the sense that I had two older brothers
+
+82
+00:02:32,760 --> 00:02:33,680
+and they were very much
+
+83
+00:02:33,690 --> 00:02:35,240
+into computer science.
+
+84
+00:02:35,250 --> 00:02:37,200
+But my exposure was,
+
+85
+00:02:37,200 --> 00:02:38,520
+I would say, almost negative.
+
+86
+00:02:38,530 --> 00:02:40,720
+I was very adamant and very convinced
+
+87
+00:02:40,720 --> 00:02:41,480
+on one thing:
+
+88
+00:02:41,520 --> 00:02:42,880
+that there is absolutely no way
+
+89
+00:02:42,880 --> 00:02:45,200
+that I would go into computer science.
+
+90
+00:02:45,210 --> 00:02:46,800
+I looked at it as this geeky,
+
+91
+00:02:46,800 --> 00:02:47,960
+and programming in general
+
+92
+00:02:47,960 --> 00:02:48,200
+right,
+
+93
+00:02:48,210 --> 00:02:50,560
+I looked at it as this geeky thing
+
+94
+00:02:50,560 --> 00:02:51,920
+that my older brothers are doing
+
+95
+00:02:51,930 --> 00:02:54,200
+and there was no way that someone
+
+96
+00:02:54,210 --> 00:02:57,600
+as cool as me at the time
+
+97
+00:02:57,600 --> 00:02:59,035
+would ever be interested in.
+
+98
+00:02:59,040 --> 00:03:00,960
+And I think that it was something that
+
+99
+00:03:00,970 --> 00:03:01,680
+I was very,
+
+100
+00:03:02,120 --> 00:03:03,880
+it was very much a part of
+
+101
+00:03:03,880 --> 00:03:04,160
+how I thought about it.
+
+102
+00:03:04,160 --> 00:03:05,800
+In fact, there is even stories
+
+103
+00:03:05,800 --> 00:03:07,640
+that run in my family about that time
+
+104
+00:03:07,640 --> 00:03:08,920
+where everyone tried
+
+105
+00:03:08,920 --> 00:03:11,640
+to teach me how to program.
+
+106
+00:03:11,650 --> 00:03:14,400
+And there was really a family effort
+
+107
+00:03:14,400 --> 00:03:15,240
+where my brothers
+
+108
+00:03:15,240 --> 00:03:16,160
+and my parents all kind
+
+109
+00:03:16,160 --> 00:03:17,280
+of gave it their own shot and
+
+110
+00:03:17,290 --> 00:03:19,320
+at different times reached
+
+111
+00:03:19,320 --> 00:03:20,400
+pretty much the same conclusion
+
+112
+00:03:20,400 --> 00:03:21,720
+that computer science and programming
+
+113
+00:03:21,730 --> 00:03:23,680
+is just not for me.
+
+114
+00:03:23,680 --> 00:03:24,240
+And is that just
+
+115
+00:03:24,240 --> 00:03:26,040
+because you're not enjoying it?
+
+116
+00:03:26,040 --> 00:03:27,600
+You're not willing to try it out?
+
+117
+00:03:27,600 --> 00:03:29,480
+Why did you reach that conclusion?
+
+118
+00:03:29,640 --> 00:03:30,480
+Or why did everybody else
+
+119
+00:03:30,490 --> 00:03:32,280
+reach that conclusion?
+
+120
+00:03:32,440 --> 00:03:34,080
+So, I actually interviewed them
+
+121
+00:03:34,280 --> 00:03:37,080
+not too long ago and asked them about it.
+
+122
+00:03:37,090 --> 00:03:38,240
+And I think that they,
+
+123
+00:03:38,240 --> 00:03:41,640
+of course, retroactively, they all gave
+
+124
+00:03:41,640 --> 00:03:42,720
+slightly different things than
+
+125
+00:03:42,720 --> 00:03:44,200
+I think what they thought
+
+126
+00:03:44,210 --> 00:03:45,440
+at the time.
+
+127
+00:03:45,450 --> 00:03:47,880
+But it was a mix of what they perceived
+
+128
+00:03:47,890 --> 00:03:49,880
+as lack of interest
+
+129
+00:03:49,890 --> 00:03:53,480
+and, at best, and maybe lack of skill
+
+130
+00:03:53,490 --> 00:03:56,360
+if you look at some of how they perceived
+
+131
+00:03:56,360 --> 00:03:58,120
+our interactions around computer science
+
+132
+00:03:58,120 --> 00:04:00,360
+and programming at the time.
+
+133
+00:04:00,370 --> 00:04:03,240
+So, I think that from my perspective,
+
+134
+00:04:03,240 --> 00:04:04,600
+and I think I kind of suppressed
+
+135
+00:04:04,600 --> 00:04:05,400
+that whole experience
+
+136
+00:04:05,480 --> 00:04:06,640
+because I didn't remember it as well
+
+137
+00:04:06,640 --> 00:04:08,520
+as they all did.
+
+138
+00:04:08,530 --> 00:04:11,800
+But I think kind of reflecting back,
+
+139
+00:04:11,800 --> 00:04:13,600
+I just didn't think of it as something
+
+140
+00:04:13,610 --> 00:04:15,440
+that would make sense for me to do
+
+141
+00:04:15,440 --> 00:04:16,720
+and I didn't really understand
+
+142
+00:04:16,720 --> 00:04:18,240
+what programming is
+
+143
+00:04:18,240 --> 00:04:19,840
+and what programming
+
+144
+00:04:19,840 --> 00:04:22,720
+essentially enables in my life
+
+145
+00:04:22,720 --> 00:04:24,160
+and in general.
+
+146
+00:04:24,170 --> 00:04:27,040
+So, I kind of took it for what it was,
+
+147
+00:04:27,040 --> 00:04:27,720
+which was okay
+
+148
+00:04:27,730 --> 00:04:28,840
+you type things in the computer
+
+149
+00:04:28,840 --> 00:04:30,960
+and then it spits out numbers
+
+150
+00:04:30,960 --> 00:04:33,000
+at you or does something at you.
+
+151
+00:04:33,010 --> 00:04:35,680
+And I didn't quite make that connection.
+
+152
+00:04:35,690 --> 00:04:37,640
+And I think the other component
+
+153
+00:04:37,650 --> 00:04:40,880
+is that I didn't even perceive myself
+
+154
+00:04:40,880 --> 00:04:42,640
+as the type of person
+
+155
+00:04:42,640 --> 00:04:44,720
+that could potentially do this, right.
+
+156
+00:04:44,720 --> 00:04:46,000
+The only people who I knew
+
+157
+00:04:46,040 --> 00:04:48,560
+that were programming at the time
+
+158
+00:04:48,570 --> 00:04:51,280
+were basically my two older brothers
+
+159
+00:04:51,280 --> 00:04:53,360
+or my two geeky older brothers. Right?
+
+160
+00:04:53,360 --> 00:04:54,000
+Right.
+
+161
+00:04:54,010 --> 00:04:56,560
+It wasn't something that I felt
+
+162
+00:04:56,560 --> 00:04:56,570
+very connected to.
+
+163
+00:04:57,760 --> 00:05:00,20
+And what ultimately did
+
+164
+00:05:00,120 --> 00:05:01,400
+clearly change things for me,
+
+165
+00:05:01,400 --> 00:05:02,840
+because obviously things have changed,
+
+166
+00:05:02,840 --> 00:05:05,680
+was actually the military.
+
+167
+00:05:05,680 --> 00:05:07,360
+So, I was born and raised in Israel
+
+168
+00:05:07,370 --> 00:05:09,120
+and of course, when you're 18 there's
+
+169
+00:05:09,130 --> 00:05:11,080
+a mandatory military service.
+
+170
+00:05:11,080 --> 00:05:12,600
+And one thing that the militarism
+
+171
+00:05:12,720 --> 00:05:13,560
+does very well
+
+172
+00:05:13,560 --> 00:05:17,200
+is utilize all of its possible resources.
+
+173
+00:05:17,400 --> 00:05:19,280
+And basically, they ran me through
+
+174
+00:05:19,280 --> 00:05:20,080
+a series of tests
+
+175
+00:05:20,090 --> 00:05:23,880
+at the end of which they decided that
+
+176
+00:05:23,880 --> 00:05:25,400
+computer programming is something
+
+177
+00:05:25,410 --> 00:05:27,600
+that I can potentially be quite good at.
+
+178
+00:05:27,600 --> 00:05:29,040
+So, different from your brothers
+
+179
+00:05:29,040 --> 00:05:29,600
+and your parents,
+
+180
+00:05:29,640 --> 00:05:30,780
+they don't ask you
+
+181
+00:05:30,780 --> 00:05:31,720
+and come up with a conclusion.
+
+182
+00:05:31,720 --> 00:05:32,880
+... they tell you,
+
+183
+00:05:32,890 --> 00:05:34,920
+"Michal, for the next three years,
+
+184
+00:05:34,930 --> 00:05:37,680
+you're gonna be a computer programmer."
+
+185
+00:05:37,680 --> 00:05:38,840
+Exactly. I even remember
+
+186
+00:05:38,840 --> 00:05:39,640
+that they asked me.
+
+187
+00:05:39,640 --> 00:05:42,400
+There was an in-person interview.
+
+188
+00:05:42,400 --> 00:05:43,760
+They asked me, "Would you be interested in that?"
+
+189
+00:05:43,770 --> 00:05:45,520
+And I said, "No."
+
+190
+00:05:46,120 --> 00:05:48,000
+For me, the military takes
+
+191
+00:05:48,000 --> 00:05:49,280
+your input into consideration
+
+192
+00:05:49,280 --> 00:05:50,320
+but ultimately that's what's
+
+193
+00:05:50,330 --> 00:05:51,480
+best for the military.
+
+194
+00:05:51,480 --> 00:05:52,760
+Right.
+
+195
+00:05:52,800 --> 00:05:54,320
+And that's kind of how I,
+
+196
+00:05:54,330 --> 00:05:57,000
+I guess, discovered this.
+
+197
+00:05:57,000 --> 00:06:00,400
+So, you become a software engineer.
+
+198
+00:06:00,410 --> 00:06:02,400
+Fast forward a few years
+
+199
+00:06:02,400 --> 00:06:03,480
+and you're already
+
+200
+00:06:03,480 --> 00:06:04,960
+you're a very, very successful
+
+201
+00:06:04,960 --> 00:06:06,560
+software engineer within Google.
+
+202
+00:06:06,560 --> 00:06:08,560
+A director within Google.
+
+203
+00:06:08,560 --> 00:06:11,000
+But looking back in retrospective,
+
+204
+00:06:11,010 --> 00:06:12,320
+So obviously you love
+
+205
+00:06:12,320 --> 00:06:13,040
+what you're doing.
+
+206
+00:06:13,050 --> 00:06:14,920
+I mean, you're a geek.
+
+207
+00:06:14,930 --> 00:06:16,680
+We can say now, proudly.
+
+208
+00:06:16,690 --> 00:06:17,800
+I am. I'm proud of it.
+
+209
+00:06:17,810 --> 00:06:21,000
+But Michal, going back to your childhood,
+
+210
+00:06:21,010 --> 00:06:22,400
+that was something that
+
+211
+00:06:22,400 --> 00:06:23,760
+you weren't really willing to accept.
+
+212
+00:06:23,760 --> 00:06:25,120
+And I think that I actually
+
+213
+00:06:25,120 --> 00:06:26,560
+can relate very very well
+
+214
+00:06:26,560 --> 00:06:27,520
+to what you're saying.
+
+215
+00:06:27,520 --> 00:06:28,720
+The first lines of code that
+
+216
+00:06:28,730 --> 00:06:30,960
+I really wrote were in the military.
+
+217
+00:06:30,960 --> 00:06:32,640
+And even though I come from a very techie,
+
+218
+00:06:32,640 --> 00:06:33,400
+and geeky household
+
+219
+00:06:33,400 --> 00:06:34,880
+I was never really into
+
+220
+00:06:34,920 --> 00:06:36,120
+computer programming.
+
+221
+00:06:36,130 --> 00:06:37,800
+Now, I love programming
+
+222
+00:06:37,800 --> 00:06:39,240
+both at Stanford and at Hippo
+
+223
+00:06:39,360 --> 00:06:41,880
+where I work and also in the IDF.
+
+224
+00:06:41,890 --> 00:06:43,680
+Why do you think that you weren't
+
+225
+00:06:43,680 --> 00:06:45,120
+interested in computer science?
+
+226
+00:06:45,120 --> 00:06:47,160
+Or why weren't you open to exploring
+
+227
+00:06:47,170 --> 00:06:49,720
+it back when you were a kid?
+
+228
+00:06:49,730 --> 00:06:52,800
+So I think the thing that my story,
+
+229
+00:06:53,400 --> 00:06:54,360
+when I reflect back,
+
+230
+00:06:54,360 --> 00:06:55,000
+when I think of it,
+
+231
+00:06:55,010 --> 00:06:57,640
+is that success and being successful
+
+232
+00:06:57,650 --> 00:06:59,520
+at something is very situational.
+
+233
+00:06:59,520 --> 00:06:59,960
+Right.
+
+234
+00:06:59,970 --> 00:07:02,080
+And it's something that as a leader
+
+235
+00:07:02,090 --> 00:07:03,840
+is important for me to remember.
+
+236
+00:07:03,840 --> 00:07:04,840
+It's not that someone is
+
+237
+00:07:04,850 --> 00:07:07,440
+not good at something. Right?
+
+238
+00:07:07,450 --> 00:07:09,240
+Oftentimes, if that someone hasn't been
+
+239
+00:07:09,240 --> 00:07:10,880
+exposed to something in the right way,
+
+240
+00:07:10,890 --> 00:07:12,880
+that just makes things click.
+
+241
+00:07:12,890 --> 00:07:15,920
+Or sometimes it's that someone, that people
+
+242
+00:07:15,920 --> 00:07:17,040
+don't perceive themselves
+
+243
+00:07:17,050 --> 00:07:19,440
+as being able to excel at something.
+
+244
+00:07:19,440 --> 00:07:20,520
+And I think that in my case,
+
+245
+00:07:20,530 --> 00:07:23,640
+it was probably a combination where
+
+246
+00:07:23,880 --> 00:07:25,440
+I both didn't perceived myself
+
+247
+00:07:25,450 --> 00:07:28,080
+as someone who could do
+
+248
+00:07:28,090 --> 00:07:29,640
+this line of work.
+
+249
+00:07:29,640 --> 00:07:30,920
+But also I think it just
+
+250
+00:07:31,200 --> 00:07:32,520
+it might not have been the right time
+
+251
+00:07:32,520 --> 00:07:34,440
+or the right way to introduce me
+
+252
+00:07:34,440 --> 00:07:35,280
+into computer science.
+
+253
+00:07:35,280 --> 00:07:36,800
+And I was actually quite shocked
+
+254
+00:07:36,810 --> 00:07:39,520
+because when I talked to my brother,
+
+255
+00:07:39,520 --> 00:07:42,480
+who probably was the one
+
+256
+00:07:42,480 --> 00:07:45,000
+who was able to persevere along with
+
+257
+00:07:45,000 --> 00:07:47,040
+his attempts to try
+
+258
+00:07:47,040 --> 00:07:49,200
+and teach me very basic
+
+259
+00:07:49,210 --> 00:07:50,760
+computer science concepts,
+
+260
+00:07:50,760 --> 00:07:51,600
+the things that he said
+
+261
+00:07:51,600 --> 00:07:53,040
+that I didn't grasp at the time
+
+262
+00:07:53,040 --> 00:07:55,080
+are things that are quite trivial, right.
+
+263
+00:07:55,090 --> 00:07:57,000
+So I think it was more of a matter of
+
+264
+00:07:57,400 --> 00:07:58,520
+me being open to it
+
+265
+00:07:58,560 --> 00:08:00,560
+and also, how it was taught.
+
+266
+00:08:00,570 --> 00:08:02,960
+And somehow when I was
+
+267
+00:08:02,970 --> 00:08:04,320
+18 and in the military,
+
+268
+00:08:04,330 --> 00:08:06,080
+something just clicked.
+
+269
+00:08:06,090 --> 00:08:09,720
+And from there on it just kind of flowed.
+
+270
+00:08:09,720 --> 00:08:12,200
+I mean it resonates a lot with
+
+271
+00:08:12,200 --> 00:08:13,680
+a very interesting conversation I had
+
+272
+00:08:13,690 --> 00:08:15,240
+with another leader the other day
+
+273
+00:08:15,560 --> 00:08:17,760
+where they were talking about how,
+
+274
+00:08:17,760 --> 00:08:19,400
+when you're managing somebody
+
+275
+00:08:19,400 --> 00:08:21,120
+and they're not living up to their potential
+
+276
+00:08:21,360 --> 00:08:23,040
+by keeping them on the team
+
+277
+00:08:23,040 --> 00:08:25,040
+and by not giving them concrete feedback
+
+278
+00:08:25,080 --> 00:08:27,480
+or sometimes firing them when you need to,
+
+279
+00:08:27,480 --> 00:08:29,400
+you're actually doing a disservice to them
+
+280
+00:08:29,640 --> 00:08:31,200
+because you're not allowing them
+
+281
+00:08:31,200 --> 00:08:32,240
+to live up to the potential.
+
+282
+00:08:32,250 --> 00:08:33,720
+And maybe it's situational
+
+283
+00:08:33,720 --> 00:08:36,280
+that in the current place where they're at,
+
+284
+00:08:36,280 --> 00:08:37,280
+they're not able to do that.
+
+285
+00:08:37,280 --> 00:08:38,560
+Maybe they do have the skills,
+
+286
+00:08:38,560 --> 00:08:40,520
+but they're just not able to explore them
+
+287
+00:08:40,760 --> 00:08:42,400
+and to bring them to fruition.
+
+288
+00:08:42,400 --> 00:08:42,560
+But Michal,
+
+289
+00:08:43,400 --> 00:08:44,760
+you're taking your own experience
+
+290
+00:08:44,760 --> 00:08:45,520
+and then you did something
+
+291
+00:08:45,530 --> 00:08:46,520
+really amazing with it.
+
+292
+00:08:46,600 --> 00:08:49,400
+And you helped create an organization
+
+293
+00:08:49,400 --> 00:08:50,880
+called Mind the Gap.
+
+294
+00:08:50,880 --> 00:08:52,640
+So, tell me a little bit about what that is
+
+295
+00:08:52,880 --> 00:08:56,000
+and how that helped inspire other girls
+
+296
+00:08:56,000 --> 00:08:57,840
+to go into tech?
+
+297
+00:08:57,840 --> 00:08:59,080
+So, Mind The Gap is a program
+
+298
+00:08:59,090 --> 00:09:01,760
+that I started with Daniela Reichman,
+
+299
+00:09:01,770 --> 00:09:04,240
+who's also an engineering manager at Google
+
+300
+00:09:04,250 --> 00:09:06,040
+and is a close friend of mine.
+
+301
+00:09:06,050 --> 00:09:09,400
+We started it, I think it was in 2009
+
+302
+00:09:09,410 --> 00:09:09,960
+so quote some time ago,
+
+303
+00:09:09,960 --> 00:09:13,320
+with a goal of exposing young girls
+
+304
+00:09:13,400 --> 00:09:15,040
+to computer science and ...
+
+305
+00:09:15,050 --> 00:09:20,120
+And I think we took a pretty, I would say,
+
+306
+00:09:20,120 --> 00:09:21,880
+self centered point of view on things.
+
+307
+00:09:21,880 --> 00:09:23,360
+And we both had quite similar stories
+
+308
+00:09:23,360 --> 00:09:24,360
+of how we got into programming
+
+309
+00:09:24,370 --> 00:09:26,880
+and of being resistant to it
+
+310
+00:09:26,880 --> 00:09:29,560
+at that critical age.
+
+311
+00:09:29,560 --> 00:09:30,640
+And we basically wanted
+
+312
+00:09:30,640 --> 00:09:31,440
+to create something
+
+313
+00:09:31,450 --> 00:09:33,800
+that would cater to our younger selves
+
+314
+00:09:33,840 --> 00:09:37,600
+and try to expose our younger selves
+
+315
+00:09:37,600 --> 00:09:38,800
+to computer science programming
+
+316
+00:09:38,800 --> 00:09:41,760
+and show us what we see in it today.
+
+317
+00:09:41,760 --> 00:09:44,560
+Right. What is the younger self?
+
+318
+00:09:44,560 --> 00:09:46,040
+So, what age are we talking about
+
+319
+00:09:46,050 --> 00:09:47,800
+which is really the critical age
+
+320
+00:09:47,800 --> 00:09:49,640
+that you've understood is where
+
+321
+00:09:49,640 --> 00:09:52,080
+you should inject yourself in?
+
+322
+00:09:52,090 --> 00:09:54,520
+So, it's around junior high school.
+
+323
+00:09:54,530 --> 00:09:56,560
+The reason we chose that age is because
+
+324
+00:09:56,560 --> 00:09:58,160
+if you look at the funnel of when
+
+325
+00:09:59,160 --> 00:10:03,840
+girls and minorities drop out of I would say
+
+326
+00:10:03,840 --> 00:10:05,080
+the path towards computer science,
+
+327
+00:10:05,090 --> 00:10:07,520
+that's around the time that it happens.
+
+328
+00:10:07,520 --> 00:10:09,400
+In Israel it seems particularly pronounced
+
+329
+00:10:09,440 --> 00:10:13,560
+because all the AP classes,
+
+330
+00:10:13,560 --> 00:10:16,440
+the selection of what you do your APs
+
+331
+00:10:16,440 --> 00:10:18,280
+in basically happens at that time.
+
+332
+00:10:18,280 --> 00:10:19,360
+Right. Because so in Israel,
+
+333
+00:10:19,360 --> 00:10:20,760
+differently than in a lot of other
+
+334
+00:10:20,770 --> 00:10:22,640
+places, especially the US,
+
+335
+00:10:22,650 --> 00:10:24,360
+you actually choose a profession
+
+336
+00:10:24,400 --> 00:10:25,480
+back already in high school
+
+337
+00:10:25,480 --> 00:10:27,880
+or you choose what is your specialization.
+
+338
+00:10:27,890 --> 00:10:31,520
+And Israel is very well known with that. Right?
+
+339
+00:10:31,800 --> 00:10:33,400
+That very early on, you have to sort
+
+340
+00:10:33,410 --> 00:10:35,040
+of choose what is your path.
+
+341
+00:10:35,050 --> 00:10:36,680
+And oftentimes after the army
+
+342
+00:10:36,680 --> 00:10:38,280
+and after you usually go to India
+
+343
+00:10:38,280 --> 00:10:39,840
+or South America,
+
+344
+00:10:39,850 --> 00:10:42,200
+you rediscover your roots
+
+345
+00:10:42,210 --> 00:10:43,840
+and what you wanna do.
+
+346
+00:10:43,840 --> 00:10:44,520
+Okay. So interesting.
+
+347
+00:10:44,520 --> 00:10:46,240
+So, you go in and what do you actually do
+
+348
+00:10:46,250 --> 00:10:47,720
+with these young women
+
+349
+00:10:48,040 --> 00:10:50,840
+and what impact does this have?
+
+350
+00:10:51,080 --> 00:10:53,440
+So, we basically try to think of
+
+351
+00:10:53,600 --> 00:10:55,640
+what are the main causes that
+
+352
+00:10:55,650 --> 00:10:57,800
+create this drop.
+
+353
+00:10:57,800 --> 00:10:58,480
+And I think much like
+
+354
+00:10:58,480 --> 00:10:59,680
+the story that I told about myself,
+
+355
+00:10:59,690 --> 00:11:01,080
+it's a mix of things.
+
+356
+00:11:01,090 --> 00:11:03,720
+So, one is many of them
+
+357
+00:11:03,720 --> 00:11:04,560
+just don't understand
+
+358
+00:11:04,570 --> 00:11:05,960
+what computer science is.
+
+359
+00:11:05,970 --> 00:11:09,000
+It seems as, there's like code thing
+
+360
+00:11:09,000 --> 00:11:10,720
+where you do something at the computer
+
+361
+00:11:10,720 --> 00:11:12,440
+all by yourself and something happens
+
+362
+00:11:12,440 --> 00:11:14,040
+and it doesn't really relate
+
+363
+00:11:14,040 --> 00:11:16,800
+to our day to day lives.
+
+364
+00:11:16,810 --> 00:11:18,560
+It's perceived as a profession
+
+365
+00:11:18,560 --> 00:11:20,800
+that is very solitary
+
+366
+00:11:20,800 --> 00:11:21,960
+where you don't actually work
+
+367
+00:11:21,960 --> 00:11:22,840
+with ... people
+
+368
+00:11:22,840 --> 00:11:25,080
+and you don't have to leverage
+
+369
+00:11:25,080 --> 00:11:29,040
+any people skills that you might have.
+
+370
+00:11:29,080 --> 00:11:31,680
+And finally, there aren't enough,
+
+371
+00:11:31,690 --> 00:11:33,480
+unfortunately, role models.
+
+372
+00:11:33,490 --> 00:11:39,160
+So, even if you know
+
+373
+00:11:39,160 --> 00:11:40,240
+what computer science is,
+
+374
+00:11:40,240 --> 00:11:41,600
+you don't not necessarily think of yourself
+
+375
+00:11:41,600 --> 00:11:42,960
+as someone who could go in that path
+
+376
+00:11:43,000 --> 00:11:44,560
+just because you don't see yourself
+
+377
+00:11:44,560 --> 00:11:45,960
+in the people who are successful.
+
+378
+00:11:45,960 --> 00:11:47,160
+So, it's almost like a chicken
+
+379
+00:11:47,160 --> 00:11:48,080
+and the egg problem
+
+380
+00:11:48,080 --> 00:11:52,760
+because, yeah. Self-explanatory.
+
+381
+00:11:52,760 --> 00:11:55,600
+Yeah. So, we basically started
+
+382
+00:11:55,610 --> 00:11:57,680
+office visits at the Google office
+
+383
+00:11:57,680 --> 00:11:59,720
+where initially,
+
+384
+00:11:59,720 --> 00:12:00,760
+they were on a monthly basis,
+
+385
+00:12:00,760 --> 00:12:01,800
+later on a weekly basis,
+
+386
+00:12:01,800 --> 00:12:02,680
+where we would bring in
+
+387
+00:12:02,680 --> 00:12:04,520
+a group of girls.
+
+388
+00:12:04,530 --> 00:12:07,160
+And we would give them a lecture, a
+
+389
+00:12:07,170 --> 00:12:09,160
+technical talk about computer science.
+
+390
+00:12:09,170 --> 00:12:10,880
+And the way that we tailored it
+
+391
+00:12:10,880 --> 00:12:12,800
+is very much explaining how
+
+392
+00:12:12,800 --> 00:12:13,520
+computer science
+
+393
+00:12:13,520 --> 00:12:14,800
+touches our day to day lives. Right?
+
+394
+00:12:14,800 --> 00:12:16,080
+Computer science is everywhere.
+
+395
+00:12:16,090 --> 00:12:17,640
+It's in our phones.
+
+396
+00:12:17,650 --> 00:12:19,400
+It's in our cars.
+
+397
+00:12:19,400 --> 00:12:20,280
+It's all around us.
+
+398
+00:12:20,280 --> 00:12:21,520
+So, creating that connection
+
+399
+00:12:21,520 --> 00:12:23,720
+and making them see the impact
+
+400
+00:12:23,720 --> 00:12:24,480
+that they could have
+
+401
+00:12:24,480 --> 00:12:25,440
+on people's lives
+
+402
+00:12:25,450 --> 00:12:27,600
+via computer science
+
+403
+00:12:27,610 --> 00:12:28,880
+is one very important thing.
+
+404
+00:12:28,890 --> 00:12:30,160
+Then we also had a panel
+
+405
+00:12:30,160 --> 00:12:32,840
+where we brought in different types
+
+406
+00:12:32,840 --> 00:12:35,720
+of disciplines under computer science.
+
+407
+00:12:35,720 --> 00:12:36,560
+The computer science or
+
+408
+00:12:36,570 --> 00:12:37,800
+engineering umbrella.
+
+409
+00:12:37,810 --> 00:12:39,400
+There's product management,
+
+410
+00:12:39,410 --> 00:12:42,200
+software engineering.
+
+411
+00:12:42,360 --> 00:12:46,040
+There is UX, user experience, research,
+
+412
+00:12:46,040 --> 00:12:47,200
+and many many other things
+
+413
+00:12:47,200 --> 00:12:49,720
+just to show the diversity
+
+414
+00:12:49,730 --> 00:12:52,720
+of skills that one might need
+
+415
+00:12:52,730 --> 00:12:54,440
+or might be able to leverage
+
+416
+00:12:54,450 --> 00:12:56,960
+when going down that path.
+
+417
+00:12:56,970 --> 00:12:58,280
+Now Michal, I have to say that
+
+418
+00:12:58,520 --> 00:12:59,960
+I relate so much to what you're saying
+
+419
+00:12:59,960 --> 00:13:00,840
+because just like this,
+
+420
+00:13:00,840 --> 00:13:02,360
+I was under the same impression
+
+421
+00:13:02,360 --> 00:13:03,480
+going through high school and
+
+422
+00:13:03,490 --> 00:13:05,040
+I took AP Computer Science.
+
+423
+00:13:05,120 --> 00:13:05,800
+I knew Java
+
+424
+00:13:05,810 --> 00:13:07,240
+I knew whatever,
+
+425
+00:13:07,250 --> 00:13:09,280
+but I still thought that, yes,
+
+426
+00:13:09,320 --> 00:13:11,240
+it's just about writing code.
+
+427
+00:13:11,250 --> 00:13:14,000
+There is no relationship to the real life.
+
+428
+00:13:14,000 --> 00:13:14,640
+And honestly,
+
+429
+00:13:14,640 --> 00:13:16,120
+it's also because the curriculum
+
+430
+00:13:16,130 --> 00:13:19,560
+in school it's in a cube.
+
+431
+00:13:19,570 --> 00:13:21,000
+You don't really understand
+
+432
+00:13:21,000 --> 00:13:22,440
+the connection to computers outside.
+
+433
+00:13:22,440 --> 00:13:23,600
+You learn the algorithms
+
+434
+00:13:23,600 --> 00:13:24,400
+and you learn the math,
+
+435
+00:13:24,440 --> 00:13:25,080
+but you don't learn
+
+436
+00:13:25,080 --> 00:13:26,160
+how it impacts you.
+
+437
+00:13:26,170 --> 00:13:28,480
+Now, you mean in 2020, literally,
+
+438
+00:13:28,480 --> 00:13:30,200
+almost everything in the room here
+
+439
+00:13:30,440 --> 00:13:32,040
+has an operating system.
+
+440
+00:13:32,050 --> 00:13:33,440
+Everything has a brain.
+
+441
+00:13:33,450 --> 00:13:35,280
+And I consider myself a product guy.
+
+442
+00:13:35,280 --> 00:13:36,240
+I consider myself as
+
+443
+00:13:36,240 --> 00:13:37,400
+someone who loves people.
+
+444
+00:13:37,410 --> 00:13:39,080
+I love user experience.
+
+445
+00:13:39,090 --> 00:13:41,480
+But because I have this knowledge
+
+446
+00:13:41,480 --> 00:13:42,320
+of computer science,
+
+447
+00:13:42,330 --> 00:13:43,720
+I'm able to actually think
+
+448
+00:13:44,040 --> 00:13:45,080
+about what products
+
+449
+00:13:45,120 --> 00:13:46,960
+I could potentially build.
+
+450
+00:13:46,970 --> 00:13:49,080
+And I'm so thankful that I got,
+
+451
+00:13:49,090 --> 00:13:51,440
+that the Army pushed me to learning this.
+
+452
+00:13:51,440 --> 00:13:52,760
+And that's why I can relate so well
+
+453
+00:13:52,760 --> 00:13:53,320
+to what you're saying
+
+454
+00:13:53,320 --> 00:13:54,520
+because as a high schooler
+
+455
+00:13:54,760 --> 00:13:55,600
+and in middle school,
+
+456
+00:13:56,040 --> 00:13:58,760
+it's so hard to understand this.
+
+457
+00:13:58,920 --> 00:14:00,040
+It's, so basically the way I think
+
+458
+00:14:00,040 --> 00:14:01,400
+of programming, it's a tool
+
+459
+00:14:01,400 --> 00:14:03,320
+that gives you this magical ability
+
+460
+00:14:03,480 --> 00:14:04,560
+to build the things
+
+461
+00:14:04,560 --> 00:14:06,600
+that could change people's lives.
+
+462
+00:14:06,610 --> 00:14:08,440
+And this is what Mind the Gap is about.
+
+463
+00:14:08,450 --> 00:14:11,240
+Showing that to younger girls.
+
+464
+00:14:11,250 --> 00:14:12,560
+And the program has been going on
+
+465
+00:14:12,560 --> 00:14:13,720
+for 10 years,
+
+466
+00:14:13,720 --> 00:14:15,040
+just over 10 years now.
+
+467
+00:14:15,050 --> 00:14:17,160
+There's about five thousand girls a year
+
+468
+00:14:17,160 --> 00:14:18,720
+that go through it.
+
+469
+00:14:18,730 --> 00:14:21,200
+Five thousand girls a year?
+
+470
+00:14:21,200 --> 00:14:21,680
+Oh, my.
+
+471
+00:14:21,680 --> 00:14:22,040
+Yeah.
+
+472
+00:14:22,050 --> 00:14:23,680
+Wow.
+
+473
+00:14:23,720 --> 00:14:25,520
+That's incredible.
+
+474
+00:14:25,520 --> 00:14:25,840
+Yeah.
+
+475
+00:14:25,850 --> 00:14:27,080
+So, it's basically,
+
+476
+00:14:27,090 --> 00:14:30,000
+I hope, the next generations
+
+477
+00:14:30,000 --> 00:14:31,840
+of women computer scientists
+
+478
+00:14:32,200 --> 00:14:33,040
+will go through it.
+
+479
+00:14:33,320 --> 00:14:34,960
+And it keeps evolving it keeps changing
+
+480
+00:14:34,960 --> 00:14:36,040
+based on feedback that we get
+
+481
+00:14:36,080 --> 00:14:37,720
+and things that we see are working
+
+482
+00:14:37,720 --> 00:14:38,400
+and are not working.
+
+483
+00:14:38,410 --> 00:14:41,680
+And I should say that Daniela and I
+
+484
+00:14:41,680 --> 00:14:43,600
+are no longer actively running the program.
+
+485
+00:14:43,610 --> 00:14:45,560
+There's basically a new generation
+
+486
+00:14:45,570 --> 00:14:47,520
+of amazing leaders that are
+
+487
+00:14:47,530 --> 00:14:50,000
+doing this wonderful, wonderful work.
+
+488
+00:14:50,000 --> 00:14:50,880
+And I think that's a part
+
+489
+00:14:50,890 --> 00:14:52,560
+of what I quite like about it.
+
+490
+00:14:52,560 --> 00:14:53,720
+The fact that it's not built
+
+491
+00:14:53,730 --> 00:14:55,640
+around Daniela or around me.
+
+492
+00:14:55,650 --> 00:14:57,120
+It's built around the actual content.
+
+493
+00:14:57,120 --> 00:14:58,800
+And I think that's a huge vote of confidence
+
+494
+00:14:58,800 --> 00:15:00,480
+that you have this inspiration for others
+
+495
+00:15:00,490 --> 00:15:01,760
+to continue with it.
+
+496
+00:15:01,760 --> 00:15:03,280
+And five thousand girls a year,
+
+497
+00:15:03,290 --> 00:15:04,480
+that's just incredible.
+
+498
+00:15:04,480 --> 00:15:05,920
+Okay. And, you know,
+
+499
+00:15:05,920 --> 00:15:06,920
+before we started this
+
+500
+00:15:06,920 --> 00:15:08,520
+we were talking a little bit about
+
+501
+00:15:08,530 --> 00:15:10,960
+a personal board of directors.
+
+502
+00:15:10,970 --> 00:15:12,840
+I think that's a fascinating term.
+
+503
+00:15:12,850 --> 00:15:15,160
+I can't wait to hear what it means.
+
+504
+00:15:15,360 --> 00:15:18,280
+So, when I reflect on my career
+
+505
+00:15:18,280 --> 00:15:20,040
+and things that have helped me most.
+
+506
+00:15:20,050 --> 00:15:22,240
+The thing that I think
+
+507
+00:15:22,250 --> 00:15:25,680
+is most pronounced in my career
+
+508
+00:15:25,680 --> 00:15:26,760
+is what I call this
+
+509
+00:15:26,760 --> 00:15:28,600
+"personal board of directors" Right
+
+510
+00:15:28,610 --> 00:15:32,640
+So, it's a set of people who are my mentors.
+
+511
+00:15:32,650 --> 00:15:35,960
+And much like a board of directors
+
+512
+00:15:35,970 --> 00:15:37,320
+we meet regularly.
+
+513
+00:15:37,330 --> 00:15:40,760
+I take their advice, or I listen to their advice
+
+514
+00:15:40,760 --> 00:15:43,480
+right ultimately, it's up to me.
+
+515
+00:15:43,490 --> 00:15:46,440
+We're all vested together in this thing called
+
+516
+00:15:46,450 --> 00:15:49,640
+each other's success, right
+
+517
+00:15:49,650 --> 00:15:52,800
+It's very much a mutual relationship.
+
+518
+00:15:52,810 --> 00:15:54,560
+And I think that it helps me a lot
+
+519
+00:15:54,570 --> 00:15:56,840
+because oftentimes just hearing
+
+520
+00:15:56,840 --> 00:15:59,200
+someone else's perspective on things
+
+521
+00:15:59,200 --> 00:16:01,640
+is quite valuable.
+
+522
+00:16:01,650 --> 00:16:03,240
+And these people, a lot of them
+
+523
+00:16:03,250 --> 00:16:05,120
+have been with me for a decade now
+
+524
+00:16:05,130 --> 00:16:06,800
+now or even more, right.
+
+525
+00:16:06,800 --> 00:16:07,880
+So, they know me, sometimes,
+
+526
+00:16:07,880 --> 00:16:09,600
+even maybe better than I know myself.
+
+527
+00:16:09,600 --> 00:16:10,680
+Right.
+
+528
+00:16:10,690 --> 00:16:12,600
+So, having them say certain things
+
+529
+00:16:12,610 --> 00:16:19,920
+is something that
+
+530
+00:16:21,440 --> 00:16:22,760
+more often than you'd expect,
+
+531
+00:16:22,770 --> 00:16:24,800
+actually, makes me change my mind
+
+532
+00:16:24,800 --> 00:16:25,600
+or see things differently.
+
+533
+00:16:25,600 --> 00:16:26,200
+Amazing.
+
+534
+00:16:26,210 --> 00:16:29,200
+And I think it started
+
+535
+00:16:29,210 --> 00:16:30,640
+actually when the group of women
+
+536
+00:16:30,640 --> 00:16:33,280
+that were doing Mind the Gap,
+
+537
+00:16:33,290 --> 00:16:35,970
+initially where we would meet for
+
+538
+00:16:35,970 --> 00:16:37,840
+Mind The Gap reasons or whatnot
+
+539
+00:16:37,850 --> 00:16:38,800
+and overtime basically
+
+540
+00:16:39,760 --> 00:16:43,360
+we built this community
+
+541
+00:16:43,520 --> 00:16:52,520
+...
+
+542
+00:16:53,960 --> 00:16:57,920
+I'm a mother of two very cute kids.
+
+543
+00:16:57,930 --> 00:16:59,720
+Yeah, we can cut that out if we need to.
+
+544
+00:16:59,730 --> 00:17:01,720
+You know, it's very cute.
+
+545
+00:17:02,640 --> 00:17:06,960
+So maybe I'll start with the board of directors question again?
+
+546
+00:17:06,960 --> 00:17:08,560
+So, most people when they
+
+547
+00:17:08,560 --> 00:17:09,720
+think of board of directors,
+
+548
+00:17:09,720 --> 00:17:11,440
+they think of people who come in
+
+549
+00:17:11,440 --> 00:17:15,520
+and they have power over your organization
+
+550
+00:17:15,520 --> 00:17:16,550
+or over your work.
+
+551
+00:17:16,560 --> 00:17:18,590
+They have, your voting a lot.
+
+552
+00:17:18,600 --> 00:17:20,070
+You have to please them.
+
+553
+00:17:20,080 --> 00:17:21,320
+What it sounds to me is that
+
+554
+00:17:21,320 --> 00:17:23,560
+you formed these group of mentors
+
+555
+00:17:23,560 --> 00:17:25,320
+that you deeply respect
+
+556
+00:17:25,320 --> 00:17:26,680
+and they respect you
+
+557
+00:17:26,690 --> 00:17:28,520
+and they're not voting on anything
+
+558
+00:17:28,520 --> 00:17:29,920
+and you're not trying to please them,
+
+559
+00:17:29,920 --> 00:17:31,280
+but they are people
+
+560
+00:17:31,280 --> 00:17:32,320
+who are following your journey.
+
+561
+00:17:32,320 --> 00:17:33,830
+And when you say that they're invested
+
+562
+00:17:33,840 --> 00:17:36,040
+in this, it means that they've
+
+563
+00:17:36,040 --> 00:17:37,590
+invested in the relationship. Right?
+
+564
+00:17:37,600 --> 00:17:38,790
+They believe you.
+
+565
+00:17:38,800 --> 00:17:40,110
+And they love working with you
+
+566
+00:17:40,120 --> 00:17:41,360
+or they love helping you
+
+567
+00:17:41,370 --> 00:17:43,440
+achieve your potential.
+
+568
+00:17:43,560 --> 00:17:46,830
+Yeah. It's basically that.
+
+569
+00:17:46,840 --> 00:17:50,400
+And oftentimes the people who I've worked with
+
+570
+00:17:50,400 --> 00:17:51,800
+in the past -
+
+571
+00:17:52,120 --> 00:17:53,680
+No problem.
+
+572
+00:17:54,640 --> 00:17:56,560
+So, yeah, it is very much that
+
+573
+00:17:56,720 --> 00:17:58,200
+it's people who oftentimes
+
+574
+00:17:58,200 --> 00:17:59,240
+have either worked with
+
+575
+00:17:59,250 --> 00:18:01,800
+or have met professionally otherwise.
+
+576
+00:18:01,810 --> 00:18:03,400
+And there's always something
+
+577
+00:18:03,410 --> 00:18:04,560
+that I deeply respect
+
+578
+00:18:04,570 --> 00:18:06,000
+and want to learn from them.
+
+579
+00:18:06,000 --> 00:18:06,510
+Right.
+
+580
+00:18:06,520 --> 00:18:07,880
+And we tried to,
+
+581
+00:18:08,320 --> 00:18:10,080
+I would hope that it's also mutual
+
+582
+00:18:10,080 --> 00:18:12,240
+and there's something that some of them
+
+583
+00:18:12,280 --> 00:18:14,200
+would want to learn from me.
+
+584
+00:18:14,210 --> 00:18:18,160
+But it's definitely focused about the thing
+
+585
+00:18:18,160 --> 00:18:19,640
+that I admire about this person,
+
+586
+00:18:19,640 --> 00:18:22,070
+the thing I wanna get their opinion on.
+
+587
+00:18:22,080 --> 00:18:22,720
+I love it.
+
+588
+00:18:22,720 --> 00:18:24,920
+Michael, I wanna go up 30,000 feet in the air
+
+589
+00:18:24,930 --> 00:18:27,480
+and I wanna look as an overview
+
+590
+00:18:27,840 --> 00:18:29,590
+of what's happening today in the space.
+
+591
+00:18:29,600 --> 00:18:32,400
+We can go on things like Mind the Gap
+
+592
+00:18:32,400 --> 00:18:33,400
+or we can talk about
+
+593
+00:18:33,440 --> 00:18:34,750
+different experiences you have.
+
+594
+00:18:34,760 --> 00:18:36,680
+But what are some of the biggest challenges
+
+595
+00:18:36,680 --> 00:18:38,040
+you think that we're facing now
+
+596
+00:18:38,080 --> 00:18:40,480
+in the industry with computer science,
+
+597
+00:18:40,480 --> 00:18:42,280
+whether that's on the education perspective
+
+598
+00:18:42,280 --> 00:18:44,480
+or the personal fulfillment perspective.
+
+599
+00:18:44,480 --> 00:18:45,640
+Because now you're a leader,
+
+600
+00:18:45,640 --> 00:18:47,440
+you're managing quite a few people
+
+601
+00:18:47,440 --> 00:18:49,720
+within a large organization like Google.
+
+602
+00:18:49,720 --> 00:18:51,680
+You've gone through this whole experience
+
+603
+00:18:51,690 --> 00:18:53,350
+yourself with mentors.
+
+604
+00:18:53,360 --> 00:18:54,640
+And I'd love to pick your brain
+
+605
+00:18:54,640 --> 00:18:55,880
+over the next few minutes.
+
+606
+00:18:55,880 --> 00:18:56,920
+What are the biggest challenges
+
+607
+00:18:56,920 --> 00:18:58,480
+and what can I take with me
+
+608
+00:18:58,800 --> 00:18:59,800
+as a young engineer,
+
+609
+00:18:59,810 --> 00:19:00,840
+as a young entrepreneur,
+
+610
+00:19:01,120 --> 00:19:03,760
+and keeping in mind for the future?
+
+611
+00:19:03,920 --> 00:19:05,440
+So, first I think that focus
+
+612
+00:19:05,450 --> 00:19:07,520
+is one of the things that pretty much
+
+613
+00:19:08,200 --> 00:19:11,160
+reshape and got a lot of leaders,
+
+614
+00:19:11,280 --> 00:19:12,280
+myself included,
+
+615
+00:19:12,290 --> 00:19:13,960
+to rethink things that
+
+616
+00:19:13,970 --> 00:19:15,240
+...
+
+617
+00:19:15,250 --> 00:19:18,040
+The ability to talk to your peers
+
+618
+00:19:18,040 --> 00:19:19,920
+face to face or to meet people
+
+619
+00:19:19,930 --> 00:19:22,880
+and how to create this.
+
+620
+00:19:22,920 --> 00:19:24,920
+It's effectively a new leadership style
+
+621
+00:19:24,930 --> 00:19:27,400
+where you find yourselves
+
+622
+00:19:27,760 --> 00:19:29,800
+talking to a computer, to a camera
+
+623
+00:19:29,840 --> 00:19:31,800
+and you might not even see all the people
+
+624
+00:19:31,800 --> 00:19:32,790
+that you're talking to.
+
+625
+00:19:32,800 --> 00:19:34,180
+So, it's very different
+
+626
+00:19:34,185 --> 00:19:34,560
+than what we're used to
+
+627
+00:19:36,565 --> 00:19:38,200
+and how to adjust running an organization
+
+628
+00:19:38,200 --> 00:19:39,460
+where people have lives
+
+629
+00:19:39,460 --> 00:19:40,440
+people have kids.
+
+630
+00:19:40,450 --> 00:19:43,070
+And where do you create that boundary?
+
+631
+00:19:43,080 --> 00:19:44,480
+Where we work and live
+
+632
+00:19:44,490 --> 00:19:46,030
+in the same place right now.
+
+633
+00:19:46,040 --> 00:19:48,000
+So, when is work? When is life?
+
+634
+00:19:48,010 --> 00:19:49,350
+How do you mix the two?
+
+635
+00:19:49,360 --> 00:19:50,800
+So I think that is definitely something that
+
+636
+00:19:51,240 --> 00:19:52,680
+I don't have a good answer on just yet,
+
+637
+00:19:52,720 --> 00:19:53,560
+but it's definitely something
+
+638
+00:19:53,560 --> 00:19:55,840
+that I'm thinking of.
+
+639
+00:19:55,850 --> 00:19:57,310
+And how should I adapt
+
+640
+00:19:57,320 --> 00:19:59,200
+my leadership style.
+
+641
+00:19:59,200 --> 00:20:00,280
+I mean it sounds like something
+
+642
+00:20:00,290 --> 00:20:02,680
+almost every manager in the world now
+
+643
+00:20:02,680 --> 00:20:03,400
+has to adapt to
+
+644
+00:20:03,400 --> 00:20:04,880
+because nobody really
+
+645
+00:20:04,890 --> 00:20:06,350
+experienced this before.
+
+646
+00:20:06,360 --> 00:20:08,560
+This magnitude of lack of work life balance,
+
+647
+00:20:08,560 --> 00:20:13,880
+when the sofa is both work and your sofa
+
+648
+00:20:13,880 --> 00:20:15,270
+And different people, of course,
+
+649
+00:20:15,280 --> 00:20:16,510
+are impacted differently.
+
+650
+00:20:16,520 --> 00:20:17,520
+If you think of parents,
+
+651
+00:20:17,530 --> 00:20:19,510
+they're probably a population
+
+652
+00:20:19,520 --> 00:20:20,920
+that has a much more difficult time
+
+653
+00:20:20,960 --> 00:20:23,440
+and their challenges are quite different
+
+654
+00:20:23,450 --> 00:20:25,240
+than maybe someone
+
+655
+00:20:25,440 --> 00:20:26,200
+who lives on their own
+
+656
+00:20:26,210 --> 00:20:28,960
+and maybe even social distancing is
+
+657
+00:20:28,960 --> 00:20:30,160
+more difficult than that person.
+
+658
+00:20:30,170 --> 00:20:31,640
+So, I think each person has
+
+659
+00:20:31,640 --> 00:20:34,070
+very different needs.
+
+660
+00:20:34,080 --> 00:20:35,440
+And it's important for leaders
+
+661
+00:20:35,450 --> 00:20:37,680
+and organizations to think of that,
+
+662
+00:20:37,680 --> 00:20:38,880
+take that into consideration
+
+663
+00:20:38,920 --> 00:20:40,480
+and not necessarily expect,
+
+664
+00:20:40,720 --> 00:20:43,560
+it's not a mold that you can apply,
+
+665
+00:20:43,570 --> 00:20:45,640
+or that every person can apply.
+
+666
+00:20:45,640 --> 00:20:46,800
+Michal, what are you most excited about
+
+667
+00:20:46,810 --> 00:20:47,800
+in computer science?
+
+668
+00:20:48,480 --> 00:20:49,640
+In the industry?
+
+669
+00:20:49,650 --> 00:20:51,880
+The field that I work on,
+
+670
+00:20:51,880 --> 00:20:53,320
+which is natural language understanding
+
+671
+00:20:53,320 --> 00:20:53,920
+and I view as something
+
+672
+00:20:53,920 --> 00:20:55,560
+that I am personally very excited about.
+
+673
+00:20:55,570 --> 00:20:58,790
+I think that it's an area that's
+
+674
+00:20:58,800 --> 00:21:00,400
+been evolving very rapidly.
+
+675
+00:21:00,400 --> 00:21:01,000
+If you think like ...
+
+676
+00:21:01,010 --> 00:21:03,840
+and basically you see these abilities
+
+677
+00:21:03,850 --> 00:21:05,640
+that maybe years ago
+
+678
+00:21:05,640 --> 00:21:06,760
+seemed like science fiction
+
+679
+00:21:06,760 --> 00:21:07,640
+or something that,
+
+680
+00:21:08,280 --> 00:21:12,160
+think of the Turing test as an example, right?
+
+681
+00:21:13,320 --> 00:21:16,360
+I think you are supposed to recognize
+
+682
+00:21:16,360 --> 00:21:18,270
+whether or not a person is speaking to you
+
+683
+00:21:18,280 --> 00:21:19,510
+or a computer
+
+684
+00:21:19,520 --> 00:21:20,440
+Right.
+
+685
+00:21:20,440 --> 00:21:21,840
+And I think that the advancements
+
+686
+00:21:21,850 --> 00:21:23,960
+that were made are quite impressive
+
+687
+00:21:24,360 --> 00:21:26,000
+state-of-the-art advancements,
+
+688
+00:21:26,000 --> 00:21:26,680
+and I think that now
+
+689
+00:21:26,690 --> 00:21:29,200
+we're starting to see those
+
+690
+00:21:29,210 --> 00:21:30,720
+basically being built at scale
+
+691
+00:21:30,760 --> 00:21:33,240
+by a lot of the larger companies,
+
+692
+00:21:33,250 --> 00:21:35,400
+like Google being one of them.
+
+693
+00:21:35,410 --> 00:21:36,760
+So that's an area
+
+694
+00:21:36,800 --> 00:21:38,800
+that I think will keep evolving.
+
+695
+00:21:38,810 --> 00:21:41,200
+And I think that we will see
+
+696
+00:21:41,210 --> 00:21:42,760
+more applications on products
+
+697
+00:21:42,880 --> 00:21:45,920
+of the technology that we know is there.
+
+698
+00:21:45,920 --> 00:21:47,120
+And I think that the challenge
+
+699
+00:21:47,130 --> 00:21:48,030
+there is two-fold.
+
+700
+00:21:48,040 --> 00:21:50,040
+So, one is finding the right set of products
+
+701
+00:21:50,040 --> 00:21:51,440
+and how to leverage that in a way
+
+702
+00:21:51,440 --> 00:21:55,360
+that's engaging on the one hand
+
+703
+00:21:55,360 --> 00:21:57,760
+and doesn't have the creepy element
+
+704
+00:21:57,760 --> 00:22:00,600
+let's say on the other hand. Right?
+
+705
+00:22:01,280 --> 00:22:02,200
+And on the other hand,
+
+706
+00:22:02,210 --> 00:22:04,640
+I think a very big technical challenge
+
+707
+00:22:04,640 --> 00:22:08,160
+of how to apply these algorithms at scale.
+
+708
+00:22:08,170 --> 00:22:11,920
+When you think of the scale that
+
+709
+00:22:11,930 --> 00:22:13,480
+a product like Google and some of the others
+ones need it.
+
+710
+00:22:13,490 --> 00:22:16,160
+So for me, I think that applies
+
+711
+00:22:16,170 --> 00:22:18,640
+for a very wide set of challenges.
+
+712
+00:22:18,640 --> 00:22:20,080
+I think it's fascinating that you get
+
+713
+00:22:20,090 --> 00:22:22,360
+to build products and work on technologies
+
+714
+00:22:22,370 --> 00:22:24,790
+that at the end they impact immediately.
+
+715
+00:22:24,800 --> 00:22:27,110
+Hundreds of millions of customers.
+
+716
+00:22:27,120 --> 00:22:28,800
+It's something that I think
+
+717
+00:22:28,840 --> 00:22:31,080
+any engineer can only dream of
+
+718
+00:22:31,080 --> 00:22:32,840
+getting to really having
+
+719
+00:22:32,920 --> 00:22:34,120
+a production code run and
+
+720
+00:22:34,120 --> 00:22:36,400
+impact the lives of so many people.
+
+721
+00:22:36,410 --> 00:22:38,400
+And I think that's probably the most
+
+722
+00:22:38,410 --> 00:22:40,110
+incredible motivation you can have
+
+723
+00:22:40,120 --> 00:22:41,400
+for building great products
+
+724
+00:22:41,410 --> 00:22:43,520
+because I know that a lot of people
+
+725
+00:22:44,040 --> 00:22:47,120
+are passionate for algorithms
+
+726
+00:22:47,130 --> 00:22:48,720
+for the sake of algorithms.
+
+727
+00:22:48,720 --> 00:22:49,680
+You know, I know about myself.
+
+728
+00:22:49,690 --> 00:22:51,720
+I'm passionate about impact
+
+729
+00:22:51,730 --> 00:22:53,200
+and how to use technologies
+
+730
+00:22:53,200 --> 00:22:54,680
+and deep technologies to impact
+
+731
+00:22:54,690 --> 00:22:55,880
+the lives of people.
+
+732
+00:22:55,880 --> 00:22:56,800
+I think what you're doing
+
+733
+00:22:56,810 --> 00:22:58,280
+there is just incredible.
+
+734
+00:22:58,280 --> 00:22:59,440
+Michal, before we leave,
+
+735
+00:22:59,440 --> 00:23:00,320
+I have to put you on the spot
+
+736
+00:23:00,320 --> 00:23:00,960
+one last time.
+
+737
+00:23:00,970 --> 00:23:02,880
+And I need three words that you
+
+738
+00:23:02,890 --> 00:23:05,600
+would use to describe yourself.
+
+739
+00:23:06,400 --> 00:23:08,790
+Three words. Wow. Engineer.
+
+740
+00:23:08,800 --> 00:23:09,520
+The hardest question.
+
+741
+00:23:09,520 --> 00:23:10,440
+but already know the answer.
+
+742
+00:23:10,450 --> 00:23:12,360
+Okay, engineer.
+
+743
+00:23:12,720 --> 00:23:14,360
+Persistent.
+
+744
+00:23:14,680 --> 00:23:15,040
+Mother.
+
+745
+00:23:15,760 --> 00:23:17,920
+Engineer, persistent, mother.
+
+746
+00:23:17,930 --> 00:23:18,508
+It sounds like -
+
+747
+00:23:18,513 --> 00:23:21,760
+Not necessarily in that order
+
+748
+00:23:21,760 --> 00:23:22,590
+I love it.
+
+749
+00:23:22,600 --> 00:23:23,400
+Michal, thank you very much.
+
+750
+00:23:23,410 --> 00:23:24,480
+Toda raba
+
+751
+00:23:24,490 --> 00:23:25,760
+and best of luck through
+
+752
+00:23:25,770 --> 00:23:28,000
+these difficult times.
+
+753
+00:23:28,320 --> 00:23:28,800
+Thank you.
+
+754
+00:23:28,800 --> 00:23:29,350
+It was great.
+
+755
+00:23:29,360 --> 00:23:30,280
+Thanks for having me.
+
+756
+00:23:30,280 --> 00:23:31,160
+Take care.
+
+757
+00:23:31,160 --> 00:23:32,310
+Bye bye.
+
+758
+00:23:32,320 --> 00:23:33,110
+Bye.

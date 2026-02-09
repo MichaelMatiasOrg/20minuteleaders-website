@@ -1,0 +1,1832 @@
+1
+00:02:08,100 --> 00:02:10,800
+David, thank you for joining me 
+and giving me your time.
+
+2
+00:02:10,800 --> 00:02:13,800
+Thank you, Michael. 
+Nice to meet you.
+
+3
+00:02:13,800 --> 00:02:15,000
+How are you doing? 
+So you're talking to me
+
+4
+00:02:15,000 --> 00:02:17,000
+from Dallas?
+From Austin, actually, right
+
+5
+00:02:17,000 --> 00:02:19,000
+Yes. Correct. How are you?
+
+6
+00:02:19,000 --> 00:02:20,300
+And you just moved here --
+
+7
+00:02:20,300 --> 00:02:22,300
+you moved there 
+before the corona started?
+
+8
+00:02:22,300 --> 00:02:27,300
+Actually, in between. 
+I had the last flight from Israel
+
+9
+00:02:27,300 --> 00:02:29,300
+to United States.
+
+10
+00:02:29,300 --> 00:02:30,300
+The last one?
+
+11
+00:02:30,300 --> 00:02:32,300
+The last one, Delta flight, yes.
+
+12
+00:02:32,300 --> 00:02:33,300
+Wow! Okay.
+
+13
+00:02:33,300 --> 00:02:38,000
+It's a good thing, you got the last one. 
+How is it over there right now?
+
+14
+00:02:38,000 --> 00:02:39,000
+Is it crazy?
+
+15
+00:02:39,000 --> 00:02:41,500
+It depends.
+
+16
+00:02:41,500 --> 00:02:45,500
+Everything is compelled. 
+We have some friends in New York
+
+17
+00:02:45,500 --> 00:02:47,500
+and they suffered really hard.
+
+18
+00:02:47,500 --> 00:02:49,000
+- Oh, yeah.
+- And compared to them, we are  in a
+
+19
+00:02:49,000 --> 00:02:50,500
+pretty good situation right now.
+
+20
+00:02:50,500 --> 00:02:52,500
+Definitely. Okay. 
+So the most important thing
+
+21
+00:02:52,500 --> 00:02:56,500
+to know is that I'm speaking here 
+to an optimist, which is great.
+
+22
+00:02:56,500 --> 00:03:01,500
+I love that, and you consider 
+yourself  well-versed
+
+23
+00:03:01,500 --> 00:03:03,500
+in what it means
+to bring happiness
+
+24
+00:03:03,500 --> 00:03:04,500
+to consumers.
+
+25
+00:03:04,500 --> 00:03:07,500
+That's my little dog here, Benny, 
+who might make an appearance.
+
+26
+00:03:07,500 --> 00:03:10,500
+So we'll just let him 
+set aside for a little bit
+
+27
+00:03:10,500 --> 00:03:12,500
+before he gets us into trouble
+
+28
+00:03:12,500 --> 00:03:14,500
+I'd love to sort of walk through
+
+29
+00:03:14,500 --> 00:03:18,500
+a little bit about your history 
+your background, and how you got
+
+30
+00:03:18,500 --> 00:03:19,500
+excited about this topic.
+
+31
+00:03:19,500 --> 00:03:23,000
+I would love to talk to you 
+also a little bit about on
+
+32
+00:03:23,000 --> 00:03:25,500
+what it means to have a startup --
+
+33
+00:03:25,500 --> 00:03:27,500
+You're the CTO of a startup
+in the travel space --
+
+34
+00:03:27,500 --> 00:03:29,500
+marketplace in the travel space,
+
+35
+00:03:29,500 --> 00:03:32,500
+and it's pretty challenging times 
+for these sorts of companies now.
+
+36
+00:03:32,500 --> 00:03:34,500
+So maybe you can touch on that
+a little at the end.
+
+37
+00:03:34,500 --> 00:03:36,000
+- Sure.
+- So let's just get started.
+
+38
+00:03:36,000 --> 00:03:37,600
+Tell me a little bit 
+about yourself.
+
+39
+00:03:38,600 --> 00:03:41,000
+My name is David. 
+I was born in Russia.
+
+40
+00:03:41,000 --> 00:03:43,600
+We just moved to Israel 
+when I was 12.
+
+41
+00:03:43,600 --> 00:03:49,600
+Since 2016, I worked a lot 
+with glass companies.
+
+42
+00:03:49,600 --> 00:03:52,600
+I actually started my career 
+at a company called NDS.
+
+43
+00:03:52,600 --> 00:03:58,600
+I build various security solutions 
+for digital TV,
+
+44
+00:03:58,600 --> 00:04:01,600
+more like projects for DIRECTV,
+BSkyB, and some other big
+
+45
+00:04:01,600 --> 00:04:04,600
+corporate clients.
+
+46
+00:04:04,600 --> 00:04:12,600
+I moved to my own business, 
+my own startups in 2010.
+
+47
+00:04:12,600 --> 00:04:14,600
+Since that period,
+
+48
+00:04:14,600 --> 00:04:18,600
+I had an experience working on
+different products
+
+49
+00:04:18,600 --> 00:04:24,600
+from financial industry, 
+advertising, et cetera.
+
+50
+00:04:24,600 --> 00:04:29,000
+I was part of 
+NFX Guild accelerator
+
+51
+00:04:29,000 --> 00:04:32,500
+in Palo Alto 
+four years ago, actually.
+
+52
+00:04:32,500 --> 00:04:36,500
+Was co-founder 
+of Free Startups Board,
+
+53
+00:04:36,500 --> 00:04:38,500
+with  many different 
+other startups
+
+54
+00:04:38,500 --> 00:04:40,500
+as well as Fortune 500 companies.
+
+55
+00:04:40,500 --> 00:04:45,500
+I joined Stride a year ago,
+
+56
+00:04:45,500 --> 00:04:47,500
+a bit more than a year ago.
+
+57
+00:04:47,500 --> 00:04:51,500
+Right now, we are
+in a pretty interesting
+
+58
+00:04:51,500 --> 00:04:53,500
+and challenging times.
+
+59
+00:04:53,500 --> 00:04:54,500
+Yeah.
+
+60
+00:04:54,500 --> 00:04:59,000
+But we do believe 
+that we will create
+
+61
+00:04:59,000 --> 00:05:00,500
+a serious impact for
+
+62
+00:05:00,500 --> 00:05:05,500
+people when all this madness, 
+over and --
+
+63
+00:05:06,500 --> 00:05:07,500
+Definitely.   
+People will --
+
+64
+00:05:07,500 --> 00:05:11,500
+definitely want to go 
+to some great Safari tours
+
+65
+00:05:11,500 --> 00:05:14,000
+or some interesting experience 
+in Himalayas
+
+66
+00:05:14,000 --> 00:05:16,000
+or some amazing tours
+
+67
+00:05:16,000 --> 00:05:18,500
+that they are like dreaming 
+right now all the time.
+
+68
+00:05:18,500 --> 00:05:22,500
+And we will help them 
+to make it real soon.
+
+69
+00:05:22,500 --> 00:05:23,500
+As a company?
+
+70
+00:05:23,500 --> 00:05:24,500
+Yes.
+
+71
+00:05:24,500 --> 00:05:27,500
+Oh, wonderful, wonderful! 
+That's amazing. I actually did --
+
+72
+00:05:27,500 --> 00:05:28,500
+I did a --
+
+73
+00:05:28,500 --> 00:05:30,500
+I went to Kilimanjaro
+
+74
+00:05:30,500 --> 00:05:33,500
+a few months ago with my family 
+as well as the Safari,
+
+75
+00:05:33,500 --> 00:05:35,000
+and it was one of the most 
+extraordinary experiences
+
+76
+00:05:35,000 --> 00:05:36,000
+that I've ever had.
+
+77
+00:05:36,500 --> 00:05:39,500
+Tell me a little bit 
+about yourself and why
+
+78
+00:05:39,500 --> 00:05:42,500
+you consider yourself an optimist
+
+79
+00:05:42,500 --> 00:05:47,500
+and what makes you take about 
+bringing happiness to consumers?
+
+80
+00:05:48,500 --> 00:05:52,500
+I work a lot on B to B projects 
+and different projects
+
+81
+00:05:52,500 --> 00:05:55,500
+that didn't make me feel --
+
+82
+00:05:56,000 --> 00:06:00,500
+they help me to 
+get pretty good money on one side
+
+83
+00:06:00,500 --> 00:06:06,000
+and I also invest it in some other 
+startup as well, but it's not
+
+84
+00:06:06,000 --> 00:06:09,500
+something that creates meaning
+in your life and it doesn't
+
+85
+00:06:09,500 --> 00:06:11,500
+provide any serious value
+
+86
+00:06:11,500 --> 00:06:15,500
+if you really want to move forward
+
+87
+00:06:15,500 --> 00:06:17,500
+to build something that, actually,
+
+88
+00:06:17,500 --> 00:06:21,500
+you want to wake up for 
+and move yourself over.
+
+89
+00:06:21,500 --> 00:06:26,500
+When I was a kid, I asked 
+my mother what does it mean
+
+90
+00:06:26,500 --> 00:06:29,500
+being happy. 
+And I got the following answer
+
+91
+00:06:29,500 --> 00:06:36,500
+from her, "When you wake up early 
+in the morning, you are happy
+
+92
+00:06:36,500 --> 00:06:39,500
+to go to work and in the evening, 
+you're happy to go home."
+
+93
+00:06:39,500 --> 00:06:43,500
+This was her definition 
+of happiness.
+
+94
+00:06:43,500 --> 00:06:44,500
+I try to define it myself.
+
+95
+00:06:44,500 --> 00:06:48,500
+I'm probably still working 
+on this and my wife always
+
+96
+00:06:48,500 --> 00:06:52,500
+joking at me like, 
+"Are you talking about happiness?
+
+97
+00:06:52,500 --> 00:06:55,500
+You're still struggling to define it 
+for yourself.
+
+98
+00:06:55,500 --> 00:07:00,000
+How can you actually provide 
+happiness to others?"
+
+99
+00:07:00,000 --> 00:07:02,000
+So try to, first of all,
+find it in yourself
+
+100
+00:07:02,000 --> 00:07:05,000
+and this kind of [unclear 07:03.8] 
+I actually recommend
+
+101
+00:07:05,000 --> 00:07:07,000
+to all other people―
+
+102
+00:07:07,000 --> 00:07:09,500
+entrepreneurs and just people
+
+103
+00:07:09,500 --> 00:07:11,500
+who want to work 
+in a great environment.
+
+104
+00:07:11,500 --> 00:07:12,500
+- Yeah.
+- First of all,
+
+105
+00:07:12,500 --> 00:07:14,500
+starting from your own 
+personal life.
+
+106
+00:07:14,500 --> 00:07:17,500
+Define what does it mean 
+happiness for yourself.
+
+107
+00:07:18,500 --> 00:07:19,000
+- Is it --
+- Sure.
+
+108
+00:07:19,000 --> 00:07:20,500
+really something that
+
+109
+00:07:20,500 --> 00:07:24,500
+matters to you at all? 
+Can you take it from there?
+
+110
+00:07:24,500 --> 00:07:27,500
+Just an example on myself,
+
+111
+00:07:27,500 --> 00:07:29,500
+like what does it mean
+
+112
+00:07:29,500 --> 00:07:31,500
+I have been happy 
+for myself, right?
+
+113
+00:07:31,500 --> 00:07:34,500
+So spending time 
+with people I like
+
+114
+00:07:34,500 --> 00:07:37,000
+and people I love. 
+My family, for example.
+
+115
+00:07:37,000 --> 00:07:40,000
+I do like helping other as well.
+
+116
+00:07:40,000 --> 00:07:45,500
+I highly believe in solidarity 
+and it's a great example right now
+
+117
+00:07:45,500 --> 00:07:49,700
+in those crazy times that people 
+share some food that
+
+118
+00:07:49,700 --> 00:07:51,700
+they bought and some masks
+
+119
+00:07:51,700 --> 00:07:54,700
+and helping each other.
+It's something that make
+
+120
+00:07:54,700 --> 00:07:55,700
+a huge impact.
+
+121
+00:07:55,700 --> 00:07:57,700
+And on a personal level,
+
+122
+00:07:57,700 --> 00:08:00,700
+integrity is something 
+that's really important as well.
+
+123
+00:08:00,700 --> 00:08:04,700
+Those are my points, my matters.
+
+124
+00:08:04,700 --> 00:08:08,700
+When you go to your job, 
+for example,
+
+125
+00:08:08,700 --> 00:08:11,700
+what matters to you, like --
+
+126
+00:08:11,700 --> 00:08:14,700
+what kind of people 
+you would like to work with?
+
+127
+00:08:14,700 --> 00:08:15,700
+I can give an example.
+
+128
+00:08:15,700 --> 00:08:19,000
+I personally like working 
+with people who are doers,
+
+129
+00:08:19,000 --> 00:08:20,700
+who are actually --
+
+130
+00:08:20,700 --> 00:08:22,700
+can deliver something.
+
+131
+00:08:22,700 --> 00:08:26,700
+I do want to be 
+in a supporting environment,
+
+132
+00:08:26,700 --> 00:08:29,300
+people who help each other 
+and don't blame each other
+
+133
+00:08:29,300 --> 00:08:31,700
+like, "This is your fault," 
+and et cetera, et cetera.
+
+134
+00:08:31,700 --> 00:08:35,700
+It's really important that people 
+respect each other as well.
+
+135
+00:08:35,720 --> 00:08:42,700
+It's critical to have 
+really great relationships
+
+136
+00:08:42,700 --> 00:08:44,700
+in the company as well.
+
+137
+00:08:44,700 --> 00:08:46,700
+And the entrepreneur mindset,
+
+138
+00:08:46,700 --> 00:08:48,700
+it's something that 
+also makes me happy.
+
+139
+00:08:48,700 --> 00:08:53,700
+And when we are moving 
+the same pattern to product,
+
+140
+00:08:53,700 --> 00:08:56,700
+what do you like 
+about your product?
+
+141
+00:08:56,700 --> 00:08:58,000
+or like a --
+
+142
+00:08:58,000 --> 00:09:00,000
+- Right. 
+- great user experience, right?
+
+143
+00:09:00,500 --> 00:09:06,500
+You do want that the product 
+you are using or making
+
+144
+00:09:06,500 --> 00:09:08,500
+share some common values with you.
+
+145
+00:09:09,500 --> 00:09:16,700
+The product must be aligned with 
+your values that you believe in.
+
+146
+00:09:16,700 --> 00:09:18,700
+And if it's something that
+
+147
+00:09:18,700 --> 00:09:21,700
+you don't believe, 
+you will never use it, right?
+
+148
+00:09:21,700 --> 00:09:22,700
+Right.
+
+149
+00:09:22,700 --> 00:09:27,700
+On another part, 
+when you build a product,
+
+150
+00:09:27,700 --> 00:09:29,700
+you want real to fans.
+
+151
+00:09:29,700 --> 00:09:32,700
+And when you make 
+like a significant impact,
+
+152
+00:09:32,700 --> 00:09:39,700
+you will have those fans 
+and they have some feelings
+
+153
+00:09:39,700 --> 00:09:40,700
+about your products.
+
+154
+00:09:40,700 --> 00:09:42,000
+And let's say, 
+you release something
+
+155
+00:09:42,000 --> 00:09:44,500
+they didn't like, they respond.
+
+156
+00:09:44,500 --> 00:09:46,500
+"Listen, we didn't like this, 
+and we didn't like that,
+
+157
+00:09:46,500 --> 00:09:49,500
+but we really want this back," 
+and so on.
+
+158
+00:09:49,500 --> 00:09:53,000
+They will try to convince you
+that this type of product needs
+
+159
+00:09:53,000 --> 00:09:56,700
+to be updated or changed, 
+and so on.
+
+160
+00:09:57,700 --> 00:10:02,700
+The worst part for any product
+
+161
+00:10:02,700 --> 00:10:06,700
+is people who don't really 
+care about it at all, like,
+
+162
+00:10:06,700 --> 00:10:09,700
+"This product is 
+indifferent to me," like
+
+163
+00:10:09,700 --> 00:10:11,700
+"Today, you are a hero, 
+that's fine.
+
+164
+00:10:11,700 --> 00:10:14,700
+We are fighting on
+ just the price and that's it.
+
+165
+00:10:14,700 --> 00:10:17,700
+And tomorrow, 
+someone else will just
+
+166
+00:10:17,700 --> 00:10:21,700
+improve their supply chain 
+and reduce some pricing cost and --"
+
+167
+00:10:21,700 --> 00:10:23,700
+There is no product at all like --
+
+168
+00:10:23,700 --> 00:10:25,700
+And your company just goes away.
+
+169
+00:10:25,700 --> 00:10:26,700
+Right.
+
+170
+00:10:26,700 --> 00:10:31,700
+Those kind of things 
+that really matter,
+
+171
+00:10:31,700 --> 00:10:34,700
+I highly recommend for any person
+
+172
+00:10:34,700 --> 00:10:38,700
+who is involved in product 
+building, product definition,
+
+173
+00:10:38,700 --> 00:10:42,700
+first of all, start from your life. 
+Move to your work definition
+
+174
+00:10:42,700 --> 00:10:45,700
+and then, move to product. 
+And by this, you can actually
+
+175
+00:10:45,700 --> 00:10:48,700
+define all of the process yourself.
+
+176
+00:10:49,700 --> 00:10:50,700
+No, that makes a lot of sense.
+
+177
+00:10:51,700 --> 00:10:54,700
+I do agree on 
+a lot of points here.
+
+178
+00:10:54,700 --> 00:10:56,700
+I think this idea of resilience 
+and what allows you to
+
+179
+00:10:56,700 --> 00:11:00,700
+to keep going and even when 
+the going gets tough,
+
+180
+00:11:00,700 --> 00:11:03,300
+and you know, 
+having those users aligned
+
+181
+00:11:03,300 --> 00:11:05,700
+with your core values.
+And when your product
+
+182
+00:11:05,700 --> 00:11:09,700
+shares those core values, 
+then the users are not just
+
+183
+00:11:09,820 --> 00:11:12,000
+buying your product,
+but they're, all of a sudden,
+
+184
+00:11:12,000 --> 00:11:14,720
+becoming champions of it, 
+and they feel personally
+
+185
+00:11:14,740 --> 00:11:15,700
+attached to it.
+
+186
+00:11:15,700 --> 00:11:16,700
+Actually,
+
+187
+00:11:16,700 --> 00:11:17,700
+I did a little bit 
+of research before
+
+188
+00:11:17,700 --> 00:11:20,000
+and I think you have 
+a pretty interesting story
+
+189
+00:11:20,000 --> 00:11:22,000
+of a bicycle accident, right?
+
+190
+00:11:22,000 --> 00:11:23,300
+Did I see correct?
+
+191
+00:11:23,300 --> 00:11:24,700
+Yeah.
+
+192
+00:11:24,700 --> 00:11:27,300
+You broke both your hands 
+and you managed to still do
+
+193
+00:11:27,320 --> 00:11:30,700
+something interesting 
+while breaking both of your hands.
+
+194
+00:11:30,700 --> 00:11:32,700
+Yeah, it's a long story about that.
+
+195
+00:11:32,700 --> 00:11:36,700
+I had some accident
+ and I was in some
+
+196
+00:11:36,700 --> 00:11:41,700
+like crazy situation 
+seven, eight years ago, actually.
+
+197
+00:11:41,700 --> 00:11:46,700
+Yeah. I had to recover 
+myself personally,
+
+198
+00:11:46,700 --> 00:11:48,700
+financially, and just everywhere.
+
+199
+00:11:48,700 --> 00:11:53,700
+And it was a very
+challenging situation.
+
+200
+00:11:53,720 --> 00:12:00,700
+One person that probably 
+really helped me to move over
+
+201
+00:12:00,700 --> 00:12:04,000
+this situation was my wife, 
+and she actually helped me,
+
+202
+00:12:04,000 --> 00:12:06,700
+and she was extremely supportive 
+beyond this period of time.
+
+203
+00:12:06,700 --> 00:12:09,700
+And you always need this person.
+
+204
+00:12:09,700 --> 00:12:15,700
+Some other people that I got all 
+the inspiration from,
+
+205
+00:12:15,700 --> 00:12:19,700
+more people that were around me.
+
+206
+00:12:19,700 --> 00:12:22,700
+They actually helped 
+me to move forward,
+
+207
+00:12:22,700 --> 00:12:25,700
+and it's pretty 
+important situation.
+
+208
+00:12:25,700 --> 00:12:28,300
+- And the --
+- And that you actually --
+
+209
+00:12:28,300 --> 00:12:31,700
+during that time, 
+you learned Ruby on Rails, right?
+
+210
+00:12:31,700 --> 00:12:33,700
+Not exactly.
+
+211
+00:12:33,700 --> 00:12:36,700
+I actually had previously 
+experienced using Ruby on Rails.
+
+212
+00:12:36,700 --> 00:12:42,700
+I think it was version 1.8 
+at the NDS, that time.
+
+213
+00:12:42,700 --> 00:12:47,700
+And I started checking 
+what's going on
+
+214
+00:12:47,700 --> 00:12:49,700
+in the market right now?
+
+215
+00:12:49,700 --> 00:12:50,700
+Where can I go next?
+
+216
+00:12:50,700 --> 00:12:51,700
+Like what should I do?
+
+217
+00:12:51,700 --> 00:12:55,700
+I had like a very serious 
+bicycle accident.
+
+218
+00:12:55,700 --> 00:12:56,700
+I should move over.
+
+219
+00:12:56,700 --> 00:12:59,700
+I wasn't able really to write 
+a code at that time
+
+220
+00:12:59,700 --> 00:13:04,700
+because I was fully disabled.
+
+221
+00:13:04,700 --> 00:13:07,700
+And I said, "Okay."
+
+222
+00:13:07,700 --> 00:13:15,700
+I know that Ruby on Rails 
+has like a very serious impact
+
+223
+00:13:15,700 --> 00:13:17,700
+on many startups at the time.
+
+224
+00:13:17,700 --> 00:13:18,700
+Right.
+
+225
+00:13:18,700 --> 00:13:22,300
+And Basecamp was developed 
+during this period
+
+226
+00:13:22,300 --> 00:13:24,300
+and some other great startups.
+
+227
+00:13:24,300 --> 00:13:28,300
+And I said like, 
+"I have to move this software."
+
+228
+00:13:28,300 --> 00:13:32,300
+This software actually helps 
+a lot of developers
+
+229
+00:13:32,300 --> 00:13:36,300
+just to build great stuff, 
+and I can move forward.
+
+230
+00:13:36,320 --> 00:13:39,300
+I started learning just by doing.
+
+231
+00:13:39,300 --> 00:13:45,700
+At the same time, 
+the demand just became very high
+
+232
+00:13:45,700 --> 00:13:47,700
+and I started helping 
+other startups
+
+233
+00:13:47,700 --> 00:13:50,700
+and move forward 
+from this period. Yeah.
+
+234
+00:13:50,700 --> 00:13:54,700
+And so, you became a consultant
+on Ruby on Rails?
+
+235
+00:13:54,700 --> 00:13:58,300
+I also did some consulting, 
+not only for startups
+
+236
+00:13:58,300 --> 00:14:03,300
+but I worked with a company
+like Conduit and some other
+
+237
+00:14:03,300 --> 00:14:06,700
+big companies as well.
+I worked with Gartner in New York
+
+238
+00:14:06,700 --> 00:14:10,700
+and Whitewater Cooper House 
+in San Francisco,
+
+239
+00:14:10,700 --> 00:14:11,700
+- and it's cool.
+- Sure.
+
+240
+00:14:11,700 --> 00:14:16,300
+So I actually had startup 
+experience as well as
+
+241
+00:14:16,300 --> 00:14:17,300
+Fortune 500 as well.
+
+242
+00:14:17,300 --> 00:14:19,300
+So tell me a little bit about
+
+243
+00:14:19,300 --> 00:14:21,700
+Stride and what are 
+some of the core values
+
+244
+00:14:21,700 --> 00:14:25,700
+that you have over there 
+that are aligned with yours
+
+245
+00:14:25,700 --> 00:14:28,700
+that bring happiness to users?
+
+246
+00:14:31,700 --> 00:14:34,700
+First of all, 
+being in travel industry
+
+247
+00:14:34,700 --> 00:14:37,700
+is great thing to deal with, 
+right?
+
+248
+00:14:37,700 --> 00:14:39,700
+it's something that --
+
+249
+00:14:39,700 --> 00:14:45,700
+you always like to travel 
+unless you prefer sitting
+
+250
+00:14:45,700 --> 00:14:47,700
+on your couch and just --
+
+251
+00:14:47,700 --> 00:14:48,500
+Yeah.
+
+252
+00:14:48,500 --> 00:14:50,700
+watch TV or Netflix, 
+or whatever.
+
+253
+00:14:50,700 --> 00:14:52,700
+But most people do like 
+travelling, especially,
+
+254
+00:14:52,700 --> 00:14:54,700
+in those crazy times.
+
+255
+00:14:54,700 --> 00:14:56,700
+So I am very aligned
+
+256
+00:14:56,700 --> 00:14:59,300
+with the major goal
+
+257
+00:14:59,300 --> 00:15:02,700
+helping people to find exactly
+
+258
+00:15:02,700 --> 00:15:06,000
+where they can go right now,
+what type of experience
+
+259
+00:15:06,000 --> 00:15:09,700
+they can get in various places 
+around the world,
+
+260
+00:15:09,700 --> 00:15:16,700
+not only just on the next street 
+or just around you but all over.
+
+261
+00:15:16,700 --> 00:15:17,700
+-- Yeah.
+-- And this is something that we
+
+262
+00:15:17,700 --> 00:15:20,700
+are trying to achieve 
+by helping people
+
+263
+00:15:20,700 --> 00:15:23,700
+to move all around,
+
+264
+00:15:23,700 --> 00:15:26,700
+get to know many different jobs
+around the world,
+
+265
+00:15:26,700 --> 00:15:28,700
+and move forward.
+
+266
+00:15:28,700 --> 00:15:31,700
+And this is probably 
+the most interesting part
+
+267
+00:15:31,700 --> 00:15:36,700
+in Stride that we are 
+working on right now.
+
+268
+00:15:36,700 --> 00:15:39,700
+And so, what is it like 
+being a CTO
+
+269
+00:15:39,700 --> 00:15:41,700
+of an upcoming startup,
+and all of a sudden,
+
+270
+00:15:41,700 --> 00:15:42,700
+corona breaks out?
+
+271
+00:15:45,700 --> 00:15:46,700
+Good question.
+
+272
+00:15:46,700 --> 00:15:49,700
+It's charged on -- 
+Listen, there are
+
+273
+00:15:49,700 --> 00:15:52,700
+always ups and downs, 
+and it highly depends
+
+274
+00:15:52,700 --> 00:15:57,700
+if you have enough time 
+with your cash
+
+275
+00:15:57,700 --> 00:16:00,700
+on a personal level, 
+as well as on the company level.
+
+276
+00:16:00,700 --> 00:16:01,700
+Yeah.
+
+277
+00:16:01,700 --> 00:16:04,700
+Sometimes, you have to make
+immediate decisions
+
+278
+00:16:04,700 --> 00:16:09,700
+like some people 
+you have to lay out or fire,
+
+279
+00:16:09,700 --> 00:16:11,700
+or just pull some projects,
+
+280
+00:16:11,700 --> 00:16:13,700
+specifically concentrate 
+on cash.
+
+281
+00:16:13,700 --> 00:16:15,700
+It's probably the 
+most important one.
+
+282
+00:16:15,700 --> 00:16:20,700
+Measure everything 
+you're doing many times a day
+
+283
+00:16:20,700 --> 00:16:22,700
+starting from planning.
+
+284
+00:16:22,700 --> 00:16:26,700
+Is the thing that you are working 
+right now
+
+285
+00:16:26,700 --> 00:16:29,700
+really matters to you 
+and to your customers?
+
+286
+00:16:29,700 --> 00:16:32,700
+Will this something 
+that will make a change
+
+287
+00:16:32,700 --> 00:16:33,700
+in the upcoming months?
+
+288
+00:16:33,700 --> 00:16:39,700
+How people actually going to
+spend their time on travel
+
+289
+00:16:39,700 --> 00:16:41,700
+after the coronavirus pass?
+
+290
+00:16:41,700 --> 00:16:46,700
+Will they actually travel abroad 
+or they try to stay around?
+
+291
+00:16:46,700 --> 00:16:48,700
+So there are a lot of questions
+
+292
+00:16:48,700 --> 00:16:49,700
+that we are trying to 
+answer right now.
+
+293
+00:16:49,700 --> 00:16:53,700
+And I assume that nobody 
+actually knows the true answer.
+
+294
+00:16:53,700 --> 00:16:54,700
+Definitely. Right.
+
+295
+00:16:54,700 --> 00:16:56,700
+But we will see.
+
+296
+00:16:56,700 --> 00:17:02,700
+It's an interesting time. 
+It's an interesting challenge.
+
+297
+00:17:02,700 --> 00:17:08,700
+And we're here to make it work.
+
+298
+00:17:08,700 --> 00:17:12,700
+I'm optimistic by my nature,
+
+299
+00:17:12,700 --> 00:17:16,300
+because being pessimistic 
+doesn't provide any value.
+
+300
+00:17:16,300 --> 00:17:19,700
+And you need some personal 
+balance in your life
+
+301
+00:17:19,700 --> 00:17:20,700
+just to move forward.
+
+302
+00:17:20,700 --> 00:17:21,700
+- Right.
+- And it's something that
+
+303
+00:17:21,700 --> 00:17:22,700
+pretty important.
+
+304
+00:17:22,700 --> 00:17:26,700
+How important is it 
+do you think to be an optimist
+
+305
+00:17:26,700 --> 00:17:30,700
+in a leadership team, whether 
+it's a startup or a big company
+
+306
+00:17:30,700 --> 00:17:34,700
+rather than being the pessimist 
+or the realist that is always
+
+307
+00:17:34,700 --> 00:17:38,700
+trying to give
+the bad side to things?
+
+308
+00:17:38,700 --> 00:17:42,700
+Because there are balancing 
+personalities that I would find
+
+309
+00:17:42,700 --> 00:17:44,700
+useful also in our leadership team.
+
+310
+00:17:45,700 --> 00:17:47,700
+All right. 
+Sometimes,
+
+311
+00:17:47,700 --> 00:17:51,700
+you see being too optimistic 
+is not always good,
+
+312
+00:17:51,700 --> 00:17:55,700
+like you're trying to oversell 
+yourself too much.
+
+313
+00:17:55,700 --> 00:17:59,700
+You're trying to bring too much 
+promises without actually
+
+314
+00:17:59,700 --> 00:18:03,700
+providing any value, 
+and it's not good.
+
+315
+00:18:03,700 --> 00:18:08,700
+At some point, 
+it just creates a negative impact.
+
+316
+00:18:08,700 --> 00:18:12,700
+On the other side, 
+you always should be
+
+317
+00:18:12,700 --> 00:18:15,700
+more optimistic than 
+realist or pessimist,
+
+318
+00:18:15,700 --> 00:18:18,700
+I don't know, 
+and be prepared because --
+
+319
+00:18:18,700 --> 00:18:25,700
+the future is bright and we 
+want to go to something happy,
+
+320
+00:18:25,700 --> 00:18:29,700
+and dealing with something 
+that doesn't really matter at all.
+
+321
+00:18:29,700 --> 00:18:32,700
+It doesn't provide any motivation.
+
+322
+00:18:32,700 --> 00:18:33,700
+Right.
+
+323
+00:18:33,700 --> 00:18:34,700
+These are [unclear 18:33.3] 
+to your team
+
+324
+00:18:34,700 --> 00:18:37,700
+and it doesn't provide 
+like any serious value.
+
+325
+00:18:37,700 --> 00:18:39,700
+- I think
+- Right.
+
+326
+00:18:39,700 --> 00:18:44,700
+every entrepreneur 
+must be optimistic
+
+327
+00:18:44,700 --> 00:18:49,700
+in some way; otherwise, 
+nobody really can survive it.
+
+328
+00:18:49,700 --> 00:18:55,700
+When I'm a startup founder, 
+I wake up every morning. I decide,
+
+329
+00:18:55,700 --> 00:18:59,700
+"This is the experiment 
+that I'm going to do today."
+
+330
+00:18:59,700 --> 00:19:02,700
+At the end of the day,
+this experiment will fail
+
+331
+00:19:02,700 --> 00:19:06,700
+and the next morning,
+I have to wake up with the same
+
+332
+00:19:06,700 --> 00:19:09,700
+attitude that I am going to make 
+experiment number two.
+
+333
+00:19:09,700 --> 00:19:12,700
+And this experiment 
+may fail as well
+
+334
+00:19:12,700 --> 00:19:15,700
+this is a startup life 
+and it's crucial
+
+335
+00:19:15,700 --> 00:19:23,700
+for you to survive this kind of 
+trial and error routine.
+
+336
+00:19:23,700 --> 00:19:25,700
+And being optimistic  
+is a must have.
+
+337
+00:19:25,700 --> 00:19:31,700
+How do you then delegate 
+that happiness
+
+338
+00:19:31,700 --> 00:19:35,300
+and optimism to the people 
+that work under you as a CTO,
+
+339
+00:19:35,300 --> 00:19:38,700
+because you're not necessarily the 
+one who's writing all the code,
+
+340
+00:19:38,700 --> 00:19:40,700
+and a lot of the times, you have 
+to also put on this product
+
+341
+00:19:40,700 --> 00:19:44,700
+tag and you have to bring 
+a lot of that down, you know,
+
+342
+00:19:44,700 --> 00:19:47,700
+top-down for the team. 
+What are some of the ways
+
+343
+00:19:47,700 --> 00:19:49,300
+that you do that?
+
+344
+00:19:49,300 --> 00:19:50,300
+Great question.
+
+345
+00:19:50,700 --> 00:19:55,700
+So, you really need
+ to split your tough --
+
+346
+00:19:55,700 --> 00:19:58,700
+your stories into 
+like small chunks, small tasks.
+
+347
+00:19:58,700 --> 00:20:03,700
+And this actually helps 
+to deliver faster
+
+348
+00:20:03,700 --> 00:20:07,700
+and make frequent delivers 
+actually helps the team
+
+349
+00:20:07,700 --> 00:20:08,700
+move forward.
+
+350
+00:20:08,700 --> 00:20:09,700
+Right.
+
+351
+00:20:09,700 --> 00:20:14,700
+This type of development 
+mindset actually helps a lot
+
+352
+00:20:14,700 --> 00:20:17,300
+because, let's say, 
+if you decide on building
+
+353
+00:20:17,300 --> 00:20:22,700
+a product with a huge amount 
+of features and a big list
+
+354
+00:20:22,700 --> 00:20:27,700
+of requirements on it's own, 
+nobody really can deliver it,
+
+355
+00:20:27,700 --> 00:20:31,700
+but if you just split it 
+into small chunks of requirements,
+
+356
+00:20:31,700 --> 00:20:35,000
+and every time you build 
+something, you deliver it,
+
+357
+00:20:35,000 --> 00:20:38,700
+you test it immediately, 
+you get the impact, and so on.
+
+358
+00:20:38,700 --> 00:20:40,700
+- This actually helps 
+- Definitely.
+
+359
+00:20:40,700 --> 00:20:44,700
+people who works with you 
+move forward
+
+360
+00:20:44,700 --> 00:20:46,700
+and see the real impact.
+
+361
+00:20:46,700 --> 00:20:51,700
+And every line of code 
+should have  an impact.
+
+362
+00:20:51,700 --> 00:20:52,700
+If the line --
+
+363
+00:20:52,700 --> 00:20:55,700
+Nobody writes code just to like --
+
+364
+00:20:55,700 --> 00:21:00,700
+as beautiful code. 
+It really doesn't matter like seriously.
+
+365
+00:21:00,700 --> 00:21:01,700
+- Right.
+- Sometimes,
+
+366
+00:21:01,700 --> 00:21:07,700
+you just have to realize 
+real people actually enjoy
+
+367
+00:21:07,700 --> 00:21:10,700
+having this situation. 
+It doesn't matter if you work
+
+368
+00:21:10,700 --> 00:21:14,700
+on a client right now or you're 
+building some back office.
+
+369
+00:21:14,700 --> 00:21:20,700
+Just put on your hand 
+the same person
+
+370
+00:21:20,700 --> 00:21:22,700
+and try to do the same process.
+
+371
+00:21:22,700 --> 00:21:23,700
+_ It doesn't --
+- Definitely.
+
+372
+00:21:24,300 --> 00:21:28,700
+make you happy, 
+just using this smaller project.
+
+373
+00:21:28,700 --> 00:21:31,700
+It's something that I always 
+request from developers.
+
+374
+00:21:31,700 --> 00:21:33,700
+Just try to use it yourself.
+
+375
+00:21:33,700 --> 00:21:36,700
+They will actually use it, 
+like literally.
+
+376
+00:21:36,700 --> 00:21:41,300
+You don't need a designer, you 
+don't need a user experience guy.
+
+377
+00:21:41,300 --> 00:21:44,700
+And so, just be the user yourself.
+
+378
+00:21:44,700 --> 00:21:46,700
+Definitely, definitely.
+
+379
+00:21:46,700 --> 00:21:49,700
+So we have to -- 
+our 20 minutes is coming up,
+
+380
+00:21:49,700 --> 00:21:51,700
+but I'd like to ask you 
+the final question.
+
+381
+00:21:51,700 --> 00:21:53,700
+And it's putting you 
+a little bit on the spot.
+
+382
+00:21:53,700 --> 00:21:55,700
+But what are three words 
+that you would best
+
+383
+00:21:55,700 --> 00:21:56,700
+describe you as?
+
+384
+00:21:56,700 --> 00:21:58,700
+I already know 
+at least one of them.
+
+385
+00:21:58,700 --> 00:22:01,700
+But what are the three that you 
+would best describe yourself as?
+
+386
+00:22:03,700 --> 00:22:07,700
+Optimist is one of those.
+
+387
+00:22:07,700 --> 00:22:14,700
+I like helping people 
+is the second one,
+
+388
+00:22:14,700 --> 00:22:20,700
+and I'm entrepreneur, 
+like traveling and move forward.
+
+389
+00:22:20,700 --> 00:22:24,700
+That's really, really great. 
+David, thank you very, very much.
+
+390
+00:22:24,700 --> 00:22:25,700
+- Thank you.
+- It was great.
+
+391
+00:22:25,700 --> 00:22:27,700
+- Great. Take care.
+- Bye-bye.
+
+392
+00:22:27,700 --> 00:22:30,700
+Bye-bye. It was wonderful, really. 
+Thank you.
+

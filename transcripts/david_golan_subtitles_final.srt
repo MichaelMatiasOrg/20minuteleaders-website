@@ -1,0 +1,2587 @@
+﻿1
+00:00:57,000 --> 00:00:58,200
+David Golan, thank you so much
+
+2
+00:00:58,200 --> 00:01:00,080
+for joining me on 20 Minute leaders.
+
+3
+00:01:00,080 --> 00:01:01,920
+Thanks for having me.
+
+4
+00:01:02,080 --> 00:01:04,400
+Well, artificial intelligence,
+
+5
+00:01:04,400 --> 00:01:07,040
+health care, helping save lives,
+
+6
+00:01:07,040 --> 00:01:08,760
+postdoc at Stanford.
+
+7
+00:01:08,760 --> 00:01:10,200
+This is a complete honor of mine,
+
+8
+00:01:10,200 --> 00:01:12,680
+so I'm very, very glad to have you.
+
+9
+00:01:12,680 --> 00:01:14,760
+David, you're the CTO of Viz.ai
+
+10
+00:01:14,760 --> 00:01:15,960
+I can't believe you just ... me
+
+11
+00:01:16,000 --> 00:01:17,560
+you're over a hundred people
+
+12
+00:01:17,560 --> 00:01:19,200
+across the US and Israel?
+
+13
+00:01:19,200 --> 00:01:20,920
+That's just insane.
+
+14
+00:01:20,920 --> 00:01:22,480
+David, right before we go back
+
+15
+00:01:22,480 --> 00:01:23,680
+to your personal journey,
+
+16
+00:01:23,680 --> 00:01:25,600
+give me a little bit of context
+
+17
+00:01:25,600 --> 00:01:28,160
+what is Viz.ai and how do you integrate
+
+18
+00:01:28,160 --> 00:01:31,000
+artificial intelligence with health care?
+
+19
+00:01:31,000 --> 00:01:33,080
+So, our mission at Viz.ai
+
+20
+00:01:33,080 --> 00:01:37,840
+is to facilitate better care for patients
+
+21
+00:01:37,840 --> 00:01:39,600
+by applying artificial intelligence.
+
+22
+00:01:39,600 --> 00:01:42,800
+Detecting for example, stroke
+
+23
+00:01:42,800 --> 00:01:44,880
+or other pathologies that require
+
+24
+00:01:44,880 --> 00:01:48,320
+immediate attention, and alerting
+
+25
+00:01:48,320 --> 00:01:50,200
+the right physician immediately
+
+26
+00:01:50,200 --> 00:01:52,080
+using our AI and using our
+
+27
+00:01:52,120 --> 00:01:53,640
+mobile platform so they can treat
+
+28
+00:01:53,640 --> 00:01:55,760
+the patient much faster.
+
+29
+00:01:55,760 --> 00:01:58,640
+So, just for context about the problem,
+
+30
+00:01:58,640 --> 00:01:59,800
+you're saying this idea
+
+31
+00:01:59,800 --> 00:02:00,840
+of detecting a stroke.
+
+32
+00:02:00,840 --> 00:02:02,440
+When I think of somebody having a stroke,
+
+33
+00:02:02,440 --> 00:02:03,400
+I think about the movies.
+
+34
+00:02:03,400 --> 00:02:04,360
+I'm thinking about somebody who's
+
+35
+00:02:04,360 --> 00:02:06,040
+stopping in the middle of the street.
+
+36
+00:02:06,040 --> 00:02:07,120
+They're starting to realize
+
+37
+00:02:07,120 --> 00:02:08,240
+that something is weird.
+
+38
+00:02:08,240 --> 00:02:09,240
+They maybe fall down,
+
+39
+00:02:09,240 --> 00:02:09,960
+and then eventually
+
+40
+00:02:09,960 --> 00:02:11,800
+somebody will call 911.
+
+41
+00:02:11,800 --> 00:02:12,960
+I'm guessing that the problem
+
+42
+00:02:12,960 --> 00:02:14,720
+is that oftentimes it's too late, right?
+
+43
+00:02:14,720 --> 00:02:16,560
+I mean every second there counts.
+
+44
+00:02:16,560 --> 00:02:18,040
+Yeah. So, stroke is
+
+45
+00:02:18,200 --> 00:02:20,320
+the single most time critical condition
+
+46
+00:02:20,320 --> 00:02:22,000
+in all of medicine, with the exception
+
+47
+00:02:22,000 --> 00:02:24,040
+of a kid choking on a grape.
+
+48
+00:02:24,040 --> 00:02:25,760
+Every minute that goes by,
+
+49
+00:02:25,760 --> 00:02:28,120
+the patient loses two million neurons
+
+50
+00:02:28,120 --> 00:02:30,240
+that translate to over four days
+
+51
+00:02:30,240 --> 00:02:31,760
+of disability free life.
+
+52
+00:02:31,760 --> 00:02:34,120
+So, it's really a race against time.
+
+53
+00:02:34,120 --> 00:02:38,080
+And we all have these images from media
+
+54
+00:02:38,080 --> 00:02:39,240
+of someone who is having a stroke
+
+55
+00:02:39,240 --> 00:02:41,000
+and being rushed to the hospital.
+
+56
+00:02:41,000 --> 00:02:44,880
+The sad fact is that the delays
+
+57
+00:02:44,880 --> 00:02:45,760
+typically happen
+
+58
+00:02:45,760 --> 00:02:47,640
+within the hospital system.
+
+59
+00:02:47,640 --> 00:02:48,920
+So, the largest delays are
+
+60
+00:02:48,960 --> 00:02:50,640
+after the patient is admitted.
+
+61
+00:02:50,640 --> 00:02:52,240
+Actually, more often than not,
+
+62
+00:02:52,400 --> 00:02:55,120
+even after the patient is imaged.
+
+63
+00:02:55,120 --> 00:02:58,040
+So, the patient was in a CT scanner
+
+64
+00:02:58,040 --> 00:03:00,760
+Somewhere in a file system,
+
+65
+00:03:00,760 --> 00:03:03,040
+there's a sequence of bits and bytes
+
+66
+00:03:03,040 --> 00:03:04,960
+that tells this patient
+
+67
+00:03:04,960 --> 00:03:06,160
+is having a stroke,
+
+68
+00:03:06,160 --> 00:03:09,080
+but just the system it's human based,
+
+69
+00:03:09,080 --> 00:03:11,480
+very sequential linear system
+
+70
+00:03:11,480 --> 00:03:12,560
+is not efficient
+
+71
+00:03:12,560 --> 00:03:14,320
+at triaging those patients
+
+72
+00:03:14,320 --> 00:03:16,080
+identifying who needs
+
+73
+00:03:16,080 --> 00:03:17,920
+emergent care and who doesn't
+
+74
+00:03:17,920 --> 00:03:19,560
+and sort of skipping the queue
+
+75
+00:03:19,560 --> 00:03:20,760
+and making sure the right patient
+
+76
+00:03:20,760 --> 00:03:23,560
+gets the right treatment.
+
+77
+00:03:23,560 --> 00:03:25,760
+And this is basically what we do.
+
+78
+00:03:25,760 --> 00:03:27,120
+Right. So, it's not a problem
+
+79
+00:03:27,120 --> 00:03:29,160
+of proficiency, of taking care of it,
+
+80
+00:03:29,160 --> 00:03:30,920
+but it's a problem of diagnosing
+
+81
+00:03:30,920 --> 00:03:32,880
+the urgency of the situation, right?
+
+82
+00:03:32,880 --> 00:03:33,480
+Exactly.
+
+83
+00:03:33,480 --> 00:03:34,040
+Exactly.
+
+84
+00:03:34,040 --> 00:03:37,000
+So, it's really not about,
+
+85
+00:03:37,000 --> 00:03:40,120
+in the context of AI and radiology
+
+86
+00:03:40,120 --> 00:03:43,640
+and interpreting scans,
+
+87
+00:03:43,640 --> 00:03:44,920
+people ... saying
+
+88
+00:03:44,920 --> 00:03:46,520
+"AI will replace the radiologist
+
+89
+00:03:46,520 --> 00:03:47,960
+or will not replace the radiologist.
+
+90
+00:03:47,960 --> 00:03:48,720
+Who's better"
+
+91
+00:03:48,720 --> 00:03:50,680
+It's really not about being better.
+
+92
+00:03:50,680 --> 00:03:53,720
+It's about being everywhere, 24/7,
+
+93
+00:03:53,720 --> 00:03:56,080
+being diligent, never taking a break,
+
+94
+00:03:56,080 --> 00:03:58,800
+which computers can do and humans can't.
+
+95
+00:03:58,800 --> 00:04:00,680
+Not to mention the cost, right.
+
+96
+00:04:00,680 --> 00:04:02,520
+So, the AI is always there in the cloud.
+
+97
+00:04:02,520 --> 00:04:04,360
+Every single scan goes to the cloud.
+
+98
+00:04:04,360 --> 00:04:06,400
+We're at about, I think,
+
+99
+00:04:06,400 --> 00:04:08,760
+45,000 scans a month now.
+
+100
+00:04:08,760 --> 00:04:10,960
+Going to the cloud, being interpreted,
+
+101
+00:04:10,960 --> 00:04:14,360
+about one out of ten is a stroke.
+
+102
+00:04:14,360 --> 00:04:16,040
+The AI identifies the stroke,
+
+103
+00:04:16,040 --> 00:04:17,120
+sends an alert,
+
+104
+00:04:17,120 --> 00:04:18,080
+the physician gets
+
+105
+00:04:18,080 --> 00:04:19,000
+The physician, by the way,
+
+106
+00:04:19,240 --> 00:04:20,600
+is more often than not
+
+107
+00:04:20,600 --> 00:04:21,880
+in a different hospital
+
+108
+00:04:21,880 --> 00:04:24,600
+or at home or driving or whatnot.
+
+109
+00:04:24,600 --> 00:04:25,840
+They get the alert,
+
+110
+00:04:25,840 --> 00:04:27,080
+they have a mobile platform,
+
+111
+00:04:27,080 --> 00:04:28,240
+they view the scans,
+
+112
+00:04:28,240 --> 00:04:29,880
+they can communicate with the team.
+
+113
+00:04:29,880 --> 00:04:32,320
+And this really changes
+
+114
+00:04:32,320 --> 00:04:33,720
+the flow of health care
+
+115
+00:04:33,720 --> 00:04:34,960
+from this sequential
+
+116
+00:04:34,960 --> 00:04:37,040
+one step after the other
+
+117
+00:04:37,040 --> 00:04:39,160
+very slow process.
+
+118
+00:04:39,160 --> 00:04:41,160
+Something, everybody gets the alert.
+
+119
+00:04:41,160 --> 00:04:43,280
+Everybody sort of syncs in on the mobile platform,
+
+120
+00:04:43,280 --> 00:04:45,640
+makes a decision, go go go,
+
+121
+00:04:45,640 --> 00:04:48,960
+and we treat the patient much, much, much faster.
+
+122
+00:04:48,960 --> 00:04:50,560
+So, just paint me the picture again.
+
+123
+00:04:50,560 --> 00:04:52,800
+Where is the scan taking place?
+
+124
+00:04:52,800 --> 00:04:54,640
+So let's say I'm the one
+
+125
+00:04:54,640 --> 00:04:57,120
+who is experiencing the health condition.
+
+126
+00:04:57,120 --> 00:04:59,600
+Where am I physically located
+
+127
+00:04:59,600 --> 00:05:00,840
+while the scan is taking place?
+
+128
+00:05:00,840 --> 00:05:02,680
+And why am I so disconnected
+
+129
+00:05:02,680 --> 00:05:04,880
+from the whole health care system
+
+130
+00:05:04,880 --> 00:05:06,080
+that you're talking about?
+
+131
+00:05:06,080 --> 00:05:08,560
+Yeah. So, if you're unfortunate enough
+
+132
+00:05:08,560 --> 00:05:10,040
+to have a stroke
+
+133
+00:05:10,040 --> 00:05:11,480
+or to be suspected of a stroke,
+
+134
+00:05:11,480 --> 00:05:14,440
+you will be taken to a hospital, to an ER,
+
+135
+00:05:14,440 --> 00:05:15,760
+and you will be scanned.
+
+136
+00:05:15,760 --> 00:05:19,000
+Now, during 60 and 70% of the time,
+
+137
+00:05:19,000 --> 00:05:22,600
+the facility that you're being scanned at
+
+138
+00:05:22,600 --> 00:05:24,520
+does not have the full capability
+
+139
+00:05:24,520 --> 00:05:26,440
+to treat you as a stroke patient.
+
+140
+00:05:26,440 --> 00:05:28,200
+You will need to be triaged
+
+141
+00:05:28,200 --> 00:05:30,640
+and transferred to another facility.
+
+142
+00:05:30,640 --> 00:05:32,720
+It's called the comprehensive stroke ... right.
+
+143
+00:05:32,720 --> 00:05:35,040
+And I mean, immediately,
+
+144
+00:05:35,040 --> 00:05:38,200
+if you've been in a hospital once,
+
+145
+00:05:38,200 --> 00:05:40,160
+you know how inefficient this can be.
+
+146
+00:05:40,160 --> 00:05:42,040
+Immediately you see there's chain
+
+147
+00:05:42,040 --> 00:05:44,720
+of hand offs that need to happen.
+
+148
+00:05:44,720 --> 00:05:45,880
+And remember, also
+
+149
+00:05:45,880 --> 00:05:47,480
+even the smaller hospital,
+
+150
+00:05:47,480 --> 00:05:48,800
+it's less experienced,
+
+151
+00:05:48,800 --> 00:05:50,160
+they don't see as many strokes
+
+152
+00:05:50,160 --> 00:05:52,440
+or they're not as practiced with it.
+
+153
+00:05:52,440 --> 00:05:55,000
+And this is where, due to human error,
+
+154
+00:05:55,000 --> 00:05:57,240
+due to overload, due to a tired physician
+
+155
+00:05:57,240 --> 00:05:59,480
+or just due to random stuff,
+
+156
+00:05:59,480 --> 00:06:01,240
+like someone calling someone else
+
+157
+00:06:01,240 --> 00:06:02,040
+while they're already on the phone
+
+158
+00:06:02,040 --> 00:06:03,800
+with a third party.
+
+159
+00:06:03,800 --> 00:06:05,120
+There's delays introduced
+
+160
+00:06:05,120 --> 00:06:07,880
+and there's drops in this process.
+
+161
+00:06:07,880 --> 00:06:09,880
+So, we completely eliminate this.
+
+162
+00:06:09,880 --> 00:06:12,840
+And actually, if you're okay with this,
+
+163
+00:06:12,840 --> 00:06:14,560
+I just want to share something
+
+164
+00:06:14,560 --> 00:06:16,940
+from literally from earlier today.
+
+165
+00:06:16,940 --> 00:06:20,160
+Yeah. Of course.
+
+166
+00:06:20,320 --> 00:06:21,360
+I can send this afterwards.
+
+167
+00:06:21,360 --> 00:06:23,720
+The post's on LinkedIn
+
+168
+00:06:23,720 --> 00:06:25,040
+from Piedmont.
+
+169
+00:06:25,040 --> 00:06:27,080
+We just went live at Piedmont.
+
+170
+00:06:27,080 --> 00:06:29,880
+It was exciting day for us at Piedmont.
+
+171
+00:06:29,880 --> 00:06:30,800
+We have officially launched
+
+172
+00:06:30,800 --> 00:06:33,080
+with Viz.ai cross our health system.
+
+173
+00:06:33,080 --> 00:06:34,400
+Our first case came through
+
+174
+00:06:34,400 --> 00:06:37,320
+and LVO, LVO is a type of stroke,
+
+175
+00:06:37,320 --> 00:06:39,040
+was received even before the images
+
+176
+00:06:39,040 --> 00:06:40,520
+made it to the system.
+
+177
+00:06:40,520 --> 00:06:42,200
+Physician notes that Viz save us
+
+178
+00:06:42,200 --> 00:06:44,240
+at least 15 minutes on this case.
+
+179
+00:06:44,240 --> 00:06:46,160
+15 minutes?
+
+180
+00:06:46,160 --> 00:06:48,240
+15 minutes is 60 days
+
+181
+00:06:48,240 --> 00:06:49,920
+of disability free life
+
+182
+00:06:49,920 --> 00:06:52,040
+and saves 150 days of potential
+
+183
+00:06:52,040 --> 00:06:54,840
+loss of functional independence.
+
+184
+00:06:54,880 --> 00:06:55,760
+This is from today.
+
+185
+00:06:55,760 --> 00:06:57,440
+This is like, I shed a tear
+
+186
+00:06:57,440 --> 00:06:58,000
+when I read that.
+
+187
+00:06:58,040 --> 00:07:01,240
+David, I'm getting emotional here
+
+188
+00:07:01,240 --> 00:07:02,740
+listening to you say that.
+
+189
+00:07:02,740 --> 00:07:05,080
+So, you're reading this post,
+
+190
+00:07:05,080 --> 00:07:06,560
+and I'm literally tearing up
+
+191
+00:07:06,560 --> 00:07:08,720
+as I'm hearing this,
+
+192
+00:07:08,720 --> 00:07:10,360
+because this is probably something
+
+193
+00:07:10,360 --> 00:07:11,480
+that I'm the most passionate about,
+
+194
+00:07:11,480 --> 00:07:13,840
+using technology to literally save lives.
+
+195
+00:07:13,840 --> 00:07:15,060
+A lot of entrepreneurs go
+
+196
+00:07:15,060 --> 00:07:16,720
+and build products that are trying
+
+197
+00:07:16,720 --> 00:07:17,840
+to make the world a better place
+
+198
+00:07:17,840 --> 00:07:18,880
+or have a positive impact.
+
+199
+00:07:18,880 --> 00:07:21,320
+You're literally saving people's lives.
+
+200
+00:07:21,320 --> 00:07:22,840
+And you're not just saving them
+
+201
+00:07:22,840 --> 00:07:23,440
+from life and death,
+
+202
+00:07:23,440 --> 00:07:25,320
+you're also saving their well-being.
+
+203
+00:07:25,320 --> 00:07:27,160
+It's not just about whether they survive,
+
+204
+00:07:27,160 --> 00:07:28,760
+but it's about their quality of life
+
+205
+00:07:28,760 --> 00:07:29,480
+moving forward,
+
+206
+00:07:29,760 --> 00:07:31,840
+which I think is completely inspiring.
+
+207
+00:07:31,840 --> 00:07:32,600
+Talk to me a little bit
+
+208
+00:07:32,600 --> 00:07:34,560
+about your personal journey
+
+209
+00:07:34,560 --> 00:07:35,400
+going into this.
+
+210
+00:07:35,400 --> 00:07:37,280
+So, you're a teaching assistant
+
+211
+00:07:37,280 --> 00:07:38,400
+at Tel Aviv University.
+
+212
+00:07:38,400 --> 00:07:41,000
+You work on algorithms at VMware.
+
+213
+00:07:41,000 --> 00:07:43,160
+You're a postdoc at Stanford.
+
+214
+00:07:43,160 --> 00:07:44,840
+How do you go into this realm
+
+215
+00:07:44,840 --> 00:07:45,960
+of artificial intelligence
+
+216
+00:07:45,960 --> 00:07:47,840
+and transition into co-founding
+
+217
+00:07:47,840 --> 00:07:49,400
+this amazing company?
+
+218
+00:07:49,400 --> 00:07:51,320
+Yeah. So, it's a good question,
+
+219
+00:07:51,320 --> 00:07:54,080
+and my background
+
+220
+00:07:54,080 --> 00:07:55,880
+has been a bit random.
+
+221
+00:07:55,880 --> 00:07:58,040
+Throughout my adult life,
+
+222
+00:07:58,040 --> 00:07:59,760
+I've been sort of gravitating towards
+
+223
+00:07:59,760 --> 00:08:01,640
+what's interesting and fun
+
+224
+00:08:01,640 --> 00:08:03,080
+and challenging.
+
+225
+00:08:03,080 --> 00:08:04,040
+And as you mentioned,
+
+226
+00:08:04,040 --> 00:08:06,120
+I worked and I developed algorithms
+
+227
+00:08:06,120 --> 00:08:07,440
+in the tech industry.
+
+228
+00:08:07,440 --> 00:08:11,360
+I did some cool stuff in my undergrad,
+
+229
+00:08:11,360 --> 00:08:13,040
+masters, and PhD.
+
+230
+00:08:13,040 --> 00:08:15,680
+And I came to Stanford for a postdoc
+
+231
+00:08:15,680 --> 00:08:17,840
+to focus on statistical learning
+
+232
+00:08:17,840 --> 00:08:20,040
+and genetics and genomics
+
+233
+00:08:20,040 --> 00:08:22,760
+and solve the world's problems.
+
+234
+00:08:22,760 --> 00:08:26,440
+And I guess, two main things happened.
+
+235
+00:08:26,440 --> 00:08:30,080
+One of them is, I guess
+
+236
+00:08:30,080 --> 00:08:31,080
+everything depends on luck,
+
+237
+00:08:31,080 --> 00:08:35,480
+but I came to Stanford exactly when,
+
+238
+00:08:35,480 --> 00:08:38,400
+for the first time,
+
+239
+00:08:38,400 --> 00:08:39,840
+Convolutional Neural Networks class
+
+240
+00:08:39,840 --> 00:08:42,240
+was taught at Stanford.
+
+241
+00:08:42,240 --> 00:08:44,520
+And ... completely randomly
+
+242
+00:08:44,520 --> 00:08:46,240
+I stumbled upon it and I said,
+
+243
+00:08:46,240 --> 00:08:47,840
+"Well, let's go and listen
+
+244
+00:08:47,840 --> 00:08:49,480
+what is this stuff
+
+245
+00:08:49,480 --> 00:08:52,000
+that keeps coming up recently.
+
+246
+00:08:52,000 --> 00:08:54,440
+Everybody's saying this is a big deal."
+
+247
+00:08:54,440 --> 00:08:58,800
+And I go there, one or two lectures.
+
+248
+00:08:58,800 --> 00:08:59,800
+And it's obvious that
+
+249
+00:08:59,800 --> 00:09:00,840
+this is a game changer.
+
+250
+00:09:00,840 --> 00:09:01,360
+It's obvious that
+
+251
+00:09:01,360 --> 00:09:02,600
+something really, really big
+
+252
+00:09:02,600 --> 00:09:03,640
+is happening here.
+
+253
+00:09:03,640 --> 00:09:06,000
+It's not another method,
+
+254
+00:09:06,000 --> 00:09:06,960
+another algorithm.
+
+255
+00:09:06,960 --> 00:09:07,720
+It's really something
+
+256
+00:09:07,720 --> 00:09:09,760
+that's going to change a lot of things.
+
+257
+00:09:09,760 --> 00:09:10,880
+Do you remember who was
+
+258
+00:09:10,880 --> 00:09:12,000
+teaching the class back then?
+
+259
+00:09:12,000 --> 00:09:14,000
+Yeah. It was Andrej Karpathy,
+
+260
+00:09:14,000 --> 00:09:17,280
+famous CS231n,
+
+261
+00:09:17,280 --> 00:09:19,480
+like everybody ...
+
+262
+00:09:19,480 --> 00:09:23,400
+CS231n, it's the notorious class
+
+263
+00:09:23,400 --> 00:09:25,080
+of Convolutional Neural Networks.
+
+264
+00:09:25,080 --> 00:09:27,200
+Yes. So, I mean, that was the first time
+
+265
+00:09:27,200 --> 00:09:28,600
+it was taught at Stanford,
+
+266
+00:09:28,600 --> 00:09:31,600
+and it was absolutely mind blowing.
+
+267
+00:09:31,600 --> 00:09:32,640
+Wow.
+
+268
+00:09:32,640 --> 00:09:34,200
+I mean, immediately I started to think,
+
+269
+00:09:34,200 --> 00:09:36,760
+"Okay. Let's see how we can apply that
+
+270
+00:09:36,760 --> 00:09:39,520
+in research, in genetics and genomics"
+
+271
+00:09:39,520 --> 00:09:42,880
+And started dabbling with medical imaging,
+
+272
+00:09:42,880 --> 00:09:46,640
+started playing with all sorts of stuff.
+
+273
+00:09:46,640 --> 00:09:49,720
+Completely unrelated to that,
+
+274
+00:09:49,720 --> 00:09:51,800
+I actually, the story I told you about
+
+275
+00:09:51,800 --> 00:09:54,040
+the patient being scanned and so on,
+
+276
+00:09:54,040 --> 00:09:55,560
+I actually experienced it.
+
+277
+00:09:55,600 --> 00:09:58,360
+I was admitted about five years ago
+
+278
+00:09:58,360 --> 00:09:59,280
+to Stanford Hospital
+
+279
+00:09:59,280 --> 00:10:01,400
+with a suspected stroke.
+
+280
+00:10:01,400 --> 00:10:02,920
+Really?
+
+281
+00:10:02,920 --> 00:10:03,920
+Yeah. So actually,
+
+282
+00:10:04,000 --> 00:10:05,880
+it ended up not being a stroke
+
+283
+00:10:05,880 --> 00:10:07,560
+and just a different
+
+284
+00:10:07,560 --> 00:10:08,520
+neurological thing
+
+285
+00:10:08,520 --> 00:10:09,680
+that's completely reversible,
+
+286
+00:10:09,680 --> 00:10:11,440
+and I'm fine and healthy,
+
+287
+00:10:11,440 --> 00:10:13,560
+so do not worry.
+
+288
+00:10:13,560 --> 00:10:15,480
+But, like everything I tell you
+
+289
+00:10:15,480 --> 00:10:17,960
+about the delays, about the disconnects,
+
+290
+00:10:17,960 --> 00:10:20,600
+I literally experienced those
+
+291
+00:10:20,600 --> 00:10:23,040
+being like unable to speak,
+
+292
+00:10:23,040 --> 00:10:24,600
+paralyzed in half of my body,
+
+293
+00:10:24,600 --> 00:10:25,960
+on a bed at Stanford
+
+294
+00:10:25,960 --> 00:10:26,640
+looking out and saying,
+
+295
+00:10:26,640 --> 00:10:27,560
+"What the hell is going on?
+
+296
+00:10:27,560 --> 00:10:30,400
+Why are things taking so long?"
+
+297
+00:10:30,400 --> 00:10:33,600
+And it is in one of the best hospitals
+
+298
+00:10:33,600 --> 00:10:34,240
+in the world.
+
+299
+00:10:34,240 --> 00:10:37,320
+Exactly. It was like Monday morning.
+
+300
+00:10:37,320 --> 00:10:38,000
+You wouldn't say like
+
+301
+00:10:38,000 --> 00:10:39,280
+Christmas Eve or something.
+
+302
+00:10:39,280 --> 00:10:41,120
+It was absolutely,
+
+303
+00:10:41,120 --> 00:10:43,840
+absolutely mind blowing.
+
+304
+00:10:43,840 --> 00:10:45,280
+So, half of the brain
+
+305
+00:10:45,280 --> 00:10:49,680
+is super freaked out that I'm going to be
+
+306
+00:10:49,720 --> 00:10:50,760
+disabled for the rest of my life,
+
+307
+00:10:50,760 --> 00:10:51,960
+and half of the brain is like,
+
+308
+00:10:51,960 --> 00:10:53,280
+"What the f**k is going on?"
+
+309
+00:10:53,280 --> 00:10:53,920
+Sorry.
+
+310
+00:10:53,920 --> 00:10:55,000
+I don't know if I was allowed to say that.
+
+311
+00:10:55,000 --> 00:10:55,640
+You can delete it.
+
+312
+00:10:55,640 --> 00:11:00,560
+No no no. This is 100% okay.
+
+313
+00:11:00,560 --> 00:11:02,440
+And I was fortunate
+
+314
+00:11:02,440 --> 00:11:05,520
+to meet my co-founder, Chris Mansi.
+
+315
+00:11:05,520 --> 00:11:06,520
+I was introduced actually
+
+316
+00:11:06,520 --> 00:11:08,040
+following this incident
+
+317
+00:11:08,040 --> 00:11:09,920
+by a mutual friend.
+
+318
+00:11:09,920 --> 00:11:12,400
+Chris is a neurosurgeon by training.
+
+319
+00:11:12,400 --> 00:11:14,320
+And he was at the business school
+
+320
+00:11:14,320 --> 00:11:16,680
+at Stanford, and we actually met
+
+321
+00:11:16,680 --> 00:11:19,680
+at a friend's, sitting in his backyard,
+
+322
+00:11:19,680 --> 00:11:23,760
+around the bonfire, and I told him my story.
+
+323
+00:11:23,760 --> 00:11:25,320
+And he looks at me like,
+
+324
+00:11:25,320 --> 00:11:27,880
+"Dude, you're lucky you're alive.
+
+325
+00:11:27,880 --> 00:11:29,080
+Everything is fine.
+
+326
+00:11:29,080 --> 00:11:32,400
+I lost dozens of patients
+
+327
+00:11:32,400 --> 00:11:34,000
+on my operating table
+
+328
+00:11:34,000 --> 00:11:37,000
+over stupid stuff like someone
+
+329
+00:11:37,000 --> 00:11:38,080
+not picking up the phone
+
+330
+00:11:38,080 --> 00:11:38,640
+at the right time.
+
+331
+00:11:38,640 --> 00:11:40,480
+And I actually came to Stanford
+
+332
+00:11:40,480 --> 00:11:42,000
+to fix this."
+
+333
+00:11:42,000 --> 00:11:43,840
+And like, we started talking,
+
+334
+00:11:43,840 --> 00:11:45,400
+"How would you fix this?"
+
+335
+00:11:45,400 --> 00:11:47,560
+If everything was automatic,
+
+336
+00:11:47,560 --> 00:11:50,320
+if computers were there instead of humans,
+
+337
+00:11:50,320 --> 00:11:51,880
+things would have been much better.
+
+338
+00:11:51,880 --> 00:11:52,600
+And I remember,
+
+339
+00:11:52,680 --> 00:11:54,280
+we actually Googled on his phone
+
+340
+00:11:54,280 --> 00:11:57,000
+some images, and I looked and said,
+
+341
+00:11:57,000 --> 00:11:58,480
+"I think deep learning,
+
+342
+00:11:58,480 --> 00:12:01,360
+we can probably automate this."
+
+343
+00:12:01,360 --> 00:12:03,400
+Unbelievable.
+
+344
+00:12:03,400 --> 00:12:06,080
+When was this? How long ago was this?
+
+345
+00:12:06,080 --> 00:12:09,200
+This was beginning of 2016.
+
+346
+00:12:09,200 --> 00:12:10,520
+Wow. So, we're talking about
+
+347
+00:12:10,520 --> 00:12:11,760
+four years ago.
+
+348
+00:12:11,760 --> 00:12:14,880
+And fast forward, and you're running
+
+349
+00:12:14,880 --> 00:12:16,640
+over a hundred person company,
+
+350
+00:12:16,640 --> 00:12:18,920
+and you're saving lives.
+
+351
+00:12:18,920 --> 00:12:19,840
+So, talk to me a little bit
+
+352
+00:12:19,840 --> 00:12:21,480
+about what's happening today.
+
+353
+00:12:21,480 --> 00:12:22,640
+So, you're saying
+
+354
+00:12:22,640 --> 00:12:25,040
+you have 45,000 scans a month.
+
+355
+00:12:25,040 --> 00:12:27,280
+10% of those are stroke cases,
+
+356
+00:12:27,280 --> 00:12:30,320
+which means that in the current state,
+
+357
+00:12:30,320 --> 00:12:33,280
+you're literally helping save the lives
+
+358
+00:12:33,280 --> 00:12:34,640
+of 4,500 people,
+
+359
+00:12:34,640 --> 00:12:36,200
+either saving them from life and death
+
+360
+00:12:36,200 --> 00:12:37,360
+or saving their well-being
+
+361
+00:12:37,360 --> 00:12:38,640
+for hundreds of days, right?
+
+362
+00:12:38,640 --> 00:12:43,520
+Yeah. Yeah. So, I mean, now we've seen
+
+363
+00:12:43,520 --> 00:12:45,720
+very rapid adoption in the US.
+
+364
+00:12:45,720 --> 00:12:48,560
+We're live in over 500 hospital,
+
+365
+00:12:48,560 --> 00:12:50,240
+seeing a lot of patients,
+
+366
+00:12:50,240 --> 00:12:52,640
+accumulating evidence
+
+367
+00:12:52,640 --> 00:12:56,240
+that implementation of Viz software
+
+368
+00:12:56,240 --> 00:12:57,280
+reduces the time,
+
+369
+00:12:57,280 --> 00:12:58,720
+improves patient outcome,
+
+370
+00:12:58,720 --> 00:13:00,960
+reduces length of stay in the hospital
+
+371
+00:13:00,960 --> 00:13:02,280
+and all that coming from
+
+372
+00:13:02,280 --> 00:13:04,640
+different hospital systems across the US.
+
+373
+00:13:04,640 --> 00:13:07,240
+So, it's fairly robust.
+
+374
+00:13:07,240 --> 00:13:08,760
+Yeah, it's really exciting.
+
+375
+00:13:08,760 --> 00:13:10,000
+We're launching new products.
+
+376
+00:13:10,000 --> 00:13:11,880
+We're expanding beyond stroke.
+
+377
+00:13:11,880 --> 00:13:13,800
+We have a brain bleed product.
+
+378
+00:13:13,800 --> 00:13:15,280
+We have a few others that are
+
+379
+00:13:15,280 --> 00:13:17,120
+coming down the pipeline.
+
+380
+00:13:17,120 --> 00:13:20,240
+Yeah. It's actually been a lot of fun.
+
+381
+00:13:20,240 --> 00:13:23,680
+So David, I have to ask company culture.
+
+382
+00:13:23,680 --> 00:13:24,320
+Because it's something
+
+383
+00:13:24,320 --> 00:13:25,480
+that's fascinating for me
+
+384
+00:13:25,680 --> 00:13:28,040
+as a young entrepreneur myself
+
+385
+00:13:28,040 --> 00:13:29,160
+and thinking about leadership
+
+386
+00:13:29,160 --> 00:13:30,040
+and what it means
+
+387
+00:13:30,040 --> 00:13:31,040
+to really motivate people.
+
+388
+00:13:31,040 --> 00:13:33,080
+And I'm seeing my class at Stanford
+
+389
+00:13:33,080 --> 00:13:34,640
+and my friends from 8200,
+
+390
+00:13:34,640 --> 00:13:36,680
+it's all about mission driven companies, right.
+
+391
+00:13:36,680 --> 00:13:37,880
+We want to join companies
+
+392
+00:13:37,880 --> 00:13:38,720
+that are mission driven,
+
+393
+00:13:38,720 --> 00:13:41,040
+that have a purpose, that we feel
+
+394
+00:13:41,040 --> 00:13:43,160
+a part of a community.
+
+395
+00:13:43,160 --> 00:13:44,520
+I'm assuming this,
+
+396
+00:13:44,520 --> 00:13:46,000
+but if you're looking
+
+397
+00:13:46,000 --> 00:13:47,040
+at the hundred plus people
+
+398
+00:13:47,040 --> 00:13:48,560
+that are working at Viz.ai,
+
+399
+00:13:48,560 --> 00:13:50,440
+is there a shared goal here?
+
+400
+00:13:50,440 --> 00:13:52,480
+Do people understand the magnitude
+
+401
+00:13:52,480 --> 00:13:54,160
+of what you're achieving here?
+
+402
+00:13:54,160 --> 00:13:57,280
+I think the answer is yes.
+
+403
+00:13:57,280 --> 00:13:59,040
+We put a lot of effort into it,
+
+404
+00:13:59,040 --> 00:14:00,960
+and it's super important.
+
+405
+00:14:00,960 --> 00:14:02,840
+Furthermore, we have our core values,
+
+406
+00:14:02,840 --> 00:14:04,000
+and the number one value,
+
+407
+00:14:04,000 --> 00:14:05,440
+and by far the most important,
+
+408
+00:14:05,440 --> 00:14:07,760
+is patient first.
+
+409
+00:14:07,760 --> 00:14:11,320
+And it's really about the patients.
+
+410
+00:14:11,320 --> 00:14:12,460
+Even recognizing that
+
+411
+00:14:12,460 --> 00:14:13,320
+it's about the patients,
+
+412
+00:14:13,320 --> 00:14:15,160
+not even about the users
+
+413
+00:14:15,160 --> 00:14:19,160
+or whoever is paying for the product.
+
+414
+00:14:19,160 --> 00:14:20,640
+We have different backgrounds
+
+415
+00:14:20,640 --> 00:14:21,280
+in the company.
+
+416
+00:14:21,400 --> 00:14:23,240
+People coming from health care,
+
+417
+00:14:23,240 --> 00:14:24,160
+which is a lot of the
+
+418
+00:14:24,160 --> 00:14:26,360
+commercial/customer ...
+
+419
+00:14:26,360 --> 00:14:28,400
+They get it immediately.
+
+420
+00:14:28,400 --> 00:14:30,880
+We have a customer success team.
+
+421
+00:14:30,880 --> 00:14:33,320
+Many of them are stroke nurses
+
+422
+00:14:33,320 --> 00:14:35,720
+and stroke coordinators sort of jump ship
+
+423
+00:14:35,720 --> 00:14:36,800
+because they understand that
+
+424
+00:14:36,800 --> 00:14:38,800
+this is the way to really transform.
+
+425
+00:14:38,800 --> 00:14:40,640
+In Israel, we have an engineering team,
+
+426
+00:14:40,640 --> 00:14:42,920
+and we're slightly removed
+
+427
+00:14:42,920 --> 00:14:44,480
+from what's going on.
+
+428
+00:14:44,480 --> 00:14:46,000
+So, we do a lot.
+
+429
+00:14:46,000 --> 00:14:48,200
+We have an all hands,
+
+430
+00:14:48,200 --> 00:14:48,840
+we have what we call
+
+431
+00:14:48,840 --> 00:14:50,560
+the magic moment section
+
+432
+00:14:50,560 --> 00:14:54,800
+where we share one or two stories
+
+433
+00:14:54,800 --> 00:14:57,520
+like the one I shared with you earlier.
+
+434
+00:14:57,520 --> 00:14:59,240
+We have our brain time fashion,
+
+435
+00:14:59,240 --> 00:15:01,880
+we call it. We have, it's 30 minutes every week
+
+436
+00:15:01,880 --> 00:15:04,960
+where we just review interesting cases.
+
+437
+00:15:04,960 --> 00:15:05,680
+What happened?
+
+438
+00:15:05,680 --> 00:15:06,560
+Did they use the app?
+
+439
+00:15:06,560 --> 00:15:08,120
+Did they use it properly?
+
+440
+00:15:08,120 --> 00:15:10,960
+Did something strange happen?
+
+441
+00:15:10,960 --> 00:15:14,640
+So, yes, we really try to connect
+
+442
+00:15:14,640 --> 00:15:18,720
+even every single person in the company
+
+443
+00:15:18,720 --> 00:15:19,840
+to the fact because, I mean,
+
+444
+00:15:19,840 --> 00:15:21,600
+this is what differentiates ...
+
+445
+00:15:21,600 --> 00:15:24,600
+Viz as place of work.
+
+446
+00:15:24,600 --> 00:15:26,720
+You can go work in other places,
+
+447
+00:15:26,720 --> 00:15:30,360
+some may even pay you more money,
+
+448
+00:15:30,360 --> 00:15:32,440
+but I strongly believe
+
+449
+00:15:32,520 --> 00:15:35,480
+it's one of the only places where you can see
+
+450
+00:15:35,480 --> 00:15:38,080
+a very direct line from your work
+
+451
+00:15:38,080 --> 00:15:40,960
+to numbers of lives saved.
+
+452
+00:15:40,960 --> 00:15:42,280
+Unbelievable.
+
+453
+00:15:42,280 --> 00:15:43,240
+So, talk to me a little bit
+
+454
+00:15:43,240 --> 00:15:44,160
+about this intersection
+
+455
+00:15:44,160 --> 00:15:45,920
+of artificial intelligence
+
+456
+00:15:45,920 --> 00:15:48,520
+and health care and medicine in general.
+
+457
+00:15:48,520 --> 00:15:49,280
+Where is this headed?
+
+458
+00:15:49,280 --> 00:15:50,440
+Because this is something that
+
+459
+00:15:50,440 --> 00:15:53,320
+I guess, 10, 15 years ago,
+
+460
+00:15:53,320 --> 00:15:55,360
+there wasn't too much innovation
+
+461
+00:15:55,360 --> 00:15:57,080
+going on with, especially using
+
+462
+00:15:57,080 --> 00:15:58,080
+these technologies
+
+463
+00:15:58,080 --> 00:15:59,920
+and completely transforming the way
+
+464
+00:15:59,920 --> 00:16:00,920
+that health care is processed.
+
+465
+00:16:00,920 --> 00:16:01,960
+And just like
+
+466
+00:16:01,960 --> 00:16:03,040
+the amazing things that you're doing,
+
+467
+00:16:03,040 --> 00:16:04,160
+there's other companies
+
+468
+00:16:04,160 --> 00:16:05,320
+like Zebra Medical Vision
+
+469
+00:16:05,360 --> 00:16:07,720
+that are doing phenomenal things
+
+470
+00:16:07,720 --> 00:16:09,400
+and other companies around the world.
+
+471
+00:16:09,400 --> 00:16:10,360
+What is the trend?
+
+472
+00:16:10,360 --> 00:16:13,000
+And how can people that are perhaps
+
+473
+00:16:13,000 --> 00:16:16,000
+pursuing a PhD in artificial intelligence
+
+474
+00:16:16,000 --> 00:16:17,440
+or that are mathematicians,
+
+475
+00:16:17,440 --> 00:16:20,600
+how can they find this smooth integration
+
+476
+00:16:20,600 --> 00:16:22,240
+in implementing these algorithms
+
+477
+00:16:22,240 --> 00:16:23,960
+into actual sustainable products
+
+478
+00:16:23,960 --> 00:16:27,000
+that can actually improve people's lives?
+
+479
+00:16:27,000 --> 00:16:29,200
+I guess that's the million dollar question,
+
+480
+00:16:29,200 --> 00:16:30,880
+and I think there's a few ways to attack.
+
+481
+00:16:30,880 --> 00:16:33,640
+First of all, in terms of the trend.
+
+482
+00:16:33,640 --> 00:16:34,800
+Yes, for a very long time,
+
+483
+00:16:34,800 --> 00:16:36,400
+not a lot has happened.
+
+484
+00:16:36,400 --> 00:16:40,440
+And I think most of the reason is that
+
+485
+00:16:40,440 --> 00:16:44,640
+people focused on trying to beat humans
+
+486
+00:16:44,640 --> 00:16:46,840
+at their own game, like reading better
+
+487
+00:16:46,840 --> 00:16:48,200
+There was a lot of focus in oncology,
+
+488
+00:16:48,200 --> 00:16:51,240
+for example, in breast mammography,
+
+489
+00:16:51,240 --> 00:16:52,960
+trying to be better than a human
+
+490
+00:16:52,960 --> 00:16:54,760
+in a very hard task.
+
+491
+00:16:54,760 --> 00:16:58,000
+What we did at Viz, which was a first,
+
+492
+00:16:58,000 --> 00:17:00,660
+and it was a new regulation
+
+493
+00:17:00,660 --> 00:17:02,440
+created by the FDA for us,
+
+494
+00:17:02,440 --> 00:17:04,040
+was not to compete with humans
+
+495
+00:17:04,040 --> 00:17:05,120
+in their own game, but say,
+
+496
+00:17:05,400 --> 00:17:07,320
+where does the computer
+
+497
+00:17:07,320 --> 00:17:08,560
+have an advantage
+
+498
+00:17:08,560 --> 00:17:11,040
+where time is of the essence.
+
+499
+00:17:11,040 --> 00:17:11,600
+Right.
+
+500
+00:17:11,600 --> 00:17:13,320
+So actually, algorithms
+
+501
+00:17:13,320 --> 00:17:15,400
+are not more accurate than humans.
+
+502
+00:17:15,400 --> 00:17:17,160
+Humans, like the expert reading
+
+503
+00:17:17,200 --> 00:17:20,160
+the head scan, they don't miss a stroke.
+
+504
+00:17:20,160 --> 00:17:21,920
+It's not about accuracy;
+
+505
+00:17:21,920 --> 00:17:23,440
+it's about getting them in front
+
+506
+00:17:23,440 --> 00:17:25,240
+of the right patient at the right time.
+
+507
+00:17:25,240 --> 00:17:26,320
+And there you can show
+
+508
+00:17:26,360 --> 00:17:28,440
+very, very substantial clinical benefit.
+
+509
+00:17:28,440 --> 00:17:30,400
+We convinced the FDA,
+
+510
+00:17:30,400 --> 00:17:32,120
+they created a new regulation
+
+511
+00:17:32,120 --> 00:17:34,560
+called Computer Aided Triage for this.
+
+512
+00:17:34,560 --> 00:17:36,240
+And now, I just actually,
+
+513
+00:17:36,240 --> 00:17:39,360
+recently we did a survey, there's about 30 devices
+
+514
+00:17:39,360 --> 00:17:42,000
+in this category using us as a predicate,
+
+515
+00:17:42,000 --> 00:17:44,640
+and this has become the number one way
+
+516
+00:17:44,640 --> 00:17:46,920
+for AI companies to have
+
+517
+00:17:46,960 --> 00:17:48,320
+a foot in the door
+
+518
+00:17:48,320 --> 00:17:49,680
+in the health care system.
+
+519
+00:17:49,680 --> 00:17:53,200
+So, what is the lesson?
+
+520
+00:17:53,200 --> 00:17:54,080
+I don't think the lesson is
+
+521
+00:17:54,080 --> 00:17:56,400
+you should go do triage.
+
+522
+00:17:56,400 --> 00:17:59,120
+I think the main thing is that
+
+523
+00:17:59,120 --> 00:18:00,800
+you have to sort of forget about AI,
+
+524
+00:18:00,800 --> 00:18:02,920
+and we have AI in our name here,
+
+525
+00:18:02,920 --> 00:18:05,280
+but let's forget about the AI for a second,
+
+526
+00:18:05,280 --> 00:18:06,960
+and you have to really find a problem
+
+527
+00:18:06,960 --> 00:18:07,840
+that needs fixing.
+
+528
+00:18:07,840 --> 00:18:08,800
+A pain point
+
+529
+00:18:08,800 --> 00:18:11,920
+that's so painful to patients,
+
+530
+00:18:11,920 --> 00:18:13,120
+to physicians, and also
+
+531
+00:18:13,120 --> 00:18:16,680
+to the financial people at the hospital,
+
+532
+00:18:16,680 --> 00:18:18,960
+because stroke is financially
+
+533
+00:18:18,960 --> 00:18:19,680
+a very big deal.
+
+534
+00:18:19,680 --> 00:18:20,600
+It's actually the number one
+
+535
+00:18:20,600 --> 00:18:23,280
+health care expense in the US.
+
+536
+00:18:23,280 --> 00:18:24,280
+Wow.
+
+537
+00:18:24,280 --> 00:18:27,440
+So, and then you say,
+
+538
+00:18:27,440 --> 00:18:28,520
+"What do I need to fix it?"
+
+539
+00:18:28,520 --> 00:18:30,880
+And AI may be part of the solution.
+
+540
+00:18:30,880 --> 00:18:33,240
+And by the way, when I think of Viz,
+
+541
+00:18:33,240 --> 00:18:35,120
+when we ask our customers,
+
+542
+00:18:35,120 --> 00:18:36,880
+"What is the biggest feature of Viz
+
+543
+00:18:36,880 --> 00:18:37,440
+that you like the most?"
+
+544
+00:18:38,080 --> 00:18:40,040
+AI doesn't always come up first.
+
+545
+00:18:40,040 --> 00:18:42,080
+It's part of the whole solution.
+
+546
+00:18:42,080 --> 00:18:44,080
+The solution is a technology,
+
+547
+00:18:44,080 --> 00:18:45,160
+a mobile viewer,
+
+548
+00:18:45,160 --> 00:18:48,960
+chat, a ... chat they can use, it's AI.
+
+549
+00:18:48,960 --> 00:18:51,120
+It's also a customer success representative
+
+550
+00:18:51,120 --> 00:18:52,920
+that really understands stroke
+
+551
+00:18:52,920 --> 00:18:54,040
+and works with them
+
+552
+00:18:54,040 --> 00:18:55,840
+to improve their stroke workflow
+
+553
+00:18:55,840 --> 00:18:57,560
+and how they leverage
+
+554
+00:18:57,560 --> 00:18:59,000
+what Viz has to offer to improve
+
+555
+00:18:59,000 --> 00:19:00,320
+their own workflow and so on.
+
+556
+00:19:00,320 --> 00:19:02,400
+So, it's really holistic.
+
+557
+00:19:02,400 --> 00:19:04,600
+So, what I'm trying to say is
+
+558
+00:19:04,600 --> 00:19:06,840
+if you're an AI practitioner
+
+559
+00:19:06,840 --> 00:19:09,560
+and you have a hammer
+
+560
+00:19:09,560 --> 00:19:11,480
+and you're now looking for a nail,
+
+561
+00:19:11,480 --> 00:19:12,880
+everything looks like a nail.
+
+562
+00:19:12,880 --> 00:19:13,560
+Don't do that.
+
+563
+00:19:13,560 --> 00:19:16,600
+First, find a problem.
+
+564
+00:19:16,600 --> 00:19:17,560
+Convince yourself
+
+565
+00:19:17,560 --> 00:19:18,920
+that there's a clinical case,
+
+566
+00:19:18,920 --> 00:19:20,480
+a business case,
+
+567
+00:19:20,480 --> 00:19:24,200
+and then if AI can help, wonderful.
+
+568
+00:19:24,200 --> 00:19:25,920
+100%. And it's inspiring
+
+569
+00:19:25,920 --> 00:19:28,160
+because what I'm gathering from this,
+
+570
+00:19:28,160 --> 00:19:30,440
+and you're saying it's not the AI
+
+571
+00:19:30,440 --> 00:19:31,680
+that is Viz.
+
+572
+00:19:31,680 --> 00:19:33,920
+It's Viz, AI is a component,
+
+573
+00:19:33,920 --> 00:19:35,720
+it's a tail of Viz,
+
+574
+00:19:35,720 --> 00:19:36,440
+and you're providing
+
+575
+00:19:36,440 --> 00:19:37,680
+this holistic experience
+
+576
+00:19:37,680 --> 00:19:39,080
+that is trying to capture
+
+577
+00:19:39,080 --> 00:19:40,600
+a lot of the misalignment
+
+578
+00:19:40,600 --> 00:19:42,680
+within the industry
+
+579
+00:19:42,680 --> 00:19:44,560
+or within the process
+
+580
+00:19:44,560 --> 00:19:46,600
+of a potential stroke patient.
+
+581
+00:19:46,600 --> 00:19:49,760
+The AI is sort of a helper tool
+
+582
+00:19:49,760 --> 00:19:50,640
+to allow that to happen,
+
+583
+00:19:50,640 --> 00:19:52,200
+but it's all these other resources,
+
+584
+00:19:52,200 --> 00:19:53,960
+whether it's the customer success person
+
+585
+00:19:53,960 --> 00:19:55,160
+or the secure chat,
+
+586
+00:19:55,160 --> 00:19:57,040
+or understanding the problems
+
+587
+00:19:57,040 --> 00:19:58,760
+of that specific organization.
+
+588
+00:19:58,760 --> 00:20:00,600
+And I think that's a really big lesson
+
+589
+00:20:00,600 --> 00:20:01,520
+that I'm taking from this,
+
+590
+00:20:01,520 --> 00:20:03,680
+because as a technology enthusiast myself,
+
+591
+00:20:03,680 --> 00:20:05,560
+I'm constantly reminding myself
+
+592
+00:20:05,560 --> 00:20:07,280
+that it's not just about the algorithm,
+
+593
+00:20:07,280 --> 00:20:08,160
+it's not just about the code.
+
+594
+00:20:08,160 --> 00:20:09,400
+It's about how do you actually
+
+595
+00:20:09,400 --> 00:20:10,160
+bring this to market
+
+596
+00:20:10,160 --> 00:20:11,520
+and make it something that's useful.
+
+597
+00:20:11,520 --> 00:20:13,600
+David, this was inspiring and insightful.
+
+598
+00:20:13,600 --> 00:20:15,200
+Thank you for taking the time to do this.
+
+599
+00:20:15,200 --> 00:20:16,280
+I'm sure that it's,
+
+600
+00:20:16,280 --> 00:20:17,880
+running over a hundred person company
+
+601
+00:20:17,880 --> 00:20:19,360
+and doing the things that you're doing,
+
+602
+00:20:19,360 --> 00:20:22,280
+I'm definitely very, very honored
+
+603
+00:20:22,280 --> 00:20:24,120
+that you're willing to do this.
+
+604
+00:20:24,120 --> 00:20:24,840
+But before we leave,
+
+605
+00:20:24,840 --> 00:20:26,000
+I have to ask for three words
+
+606
+00:20:26,000 --> 00:20:28,120
+that you would use to describe yourself.
+
+607
+00:20:28,120 --> 00:20:31,160
+Okay. So, the first one,
+
+608
+00:20:31,160 --> 00:20:32,080
+I think it's two words,
+
+609
+00:20:32,080 --> 00:20:33,200
+but it's ...
+
+610
+00:20:33,200 --> 00:20:37,000
+I would say naive/optimistic.
+
+611
+00:20:37,000 --> 00:20:40,280
+Like people make fun of me all the time.
+
+612
+00:20:40,280 --> 00:20:42,120
+I always think some things are like
+
+613
+00:20:42,160 --> 00:20:44,920
+would be really easy to do,
+
+614
+00:20:44,920 --> 00:20:47,200
+and they always turn out to be harder,
+
+615
+00:20:47,200 --> 00:20:48,440
+but you have to sort of believe
+
+616
+00:20:48,440 --> 00:20:49,360
+that you can do it
+
+617
+00:20:49,360 --> 00:20:50,000
+and that it's possible
+
+618
+00:20:50,000 --> 00:20:53,080
+to take the first step.
+
+619
+00:20:53,080 --> 00:20:56,760
+I think the second one would be,
+
+620
+00:20:56,760 --> 00:20:59,240
+something big for me right now,
+
+621
+00:20:59,240 --> 00:20:59,960
+is being a father.
+
+622
+00:20:59,960 --> 00:21:01,000
+I'm a father of three,
+
+623
+00:21:01,000 --> 00:21:03,440
+and we have a six month baby
+
+624
+00:21:03,440 --> 00:21:05,000
+that was born just before
+
+625
+00:21:05,000 --> 00:21:06,000
+the lockdown here.
+
+626
+00:21:06,000 --> 00:21:07,160
+Wow.
+
+627
+00:21:07,160 --> 00:21:10,800
+So, kids have ... a big thing,
+
+628
+00:21:10,800 --> 00:21:13,040
+but recently even more than that.
+
+629
+00:21:13,040 --> 00:21:16,800
+And the third thing I would say,
+
+630
+00:21:16,800 --> 00:21:17,920
+I thought about
+
+631
+00:21:17,920 --> 00:21:19,520
+going with a geek nerd thing,
+
+632
+00:21:19,520 --> 00:21:21,960
+but I actually went with statistician.
+
+633
+00:21:21,960 --> 00:21:25,200
+I'm a ... statistician by training.
+
+634
+00:21:25,200 --> 00:21:26,800
+I do machine learning and stuff,
+
+635
+00:21:26,800 --> 00:21:29,520
+but my training is in statistics,
+
+636
+00:21:29,520 --> 00:21:31,360
+and I consider myself a statistician
+
+637
+00:21:31,360 --> 00:21:33,680
+who applies statistics
+
+638
+00:21:33,680 --> 00:21:35,280
+to how he thinks about the world.
+
+639
+00:21:35,280 --> 00:21:36,760
+And that actually has been
+
+640
+00:21:36,800 --> 00:21:40,280
+extremely useful at the Viz journey
+
+641
+00:21:40,280 --> 00:21:43,040
+and in life in general.
+
+642
+00:21:43,040 --> 00:21:46,760
+So yeah, I guess we'll go with those three.
+
+643
+00:21:46,800 --> 00:21:48,840
+David, thank you very much. Toda raba.
+
+644
+00:21:48,840 --> 00:21:51,040
+Keep helping save people's lives,
+
+645
+00:21:51,040 --> 00:21:52,600
+and I'll keep following the journey.
+
+646
+00:21:52,600 --> 00:21:53,680
+Thank you very much.
+
+647
+00:21:53,680 --> 00:21:54,120
+Thank you.

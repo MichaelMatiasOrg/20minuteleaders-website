@@ -1,0 +1,3120 @@
+﻿1
+00:00:00,120 --> 00:00:00,760
+This is something
+
+2
+00:00:00,760 --> 00:00:02,840
+that technology cannot solve on its own.
+
+3
+00:00:02,840 --> 00:00:05,120
+You have to had much more empathy
+
+4
+00:00:05,120 --> 00:00:06,880
+and compassion and insight
+
+5
+00:00:06,880 --> 00:00:08,160
+into the human psychology.
+
+6
+00:00:08,160 --> 00:00:09,280
+Really understanding
+
+7
+00:00:09,280 --> 00:00:10,920
+the emotional barriers
+
+8
+00:00:10,920 --> 00:00:12,720
+that go into people like,
+
+9
+00:00:12,720 --> 00:00:13,560
+having difficulty
+
+10
+00:00:13,560 --> 00:00:14,520
+to change their behavior.
+
+11
+00:00:14,520 --> 00:00:15,840
+And what are the mechanics
+
+12
+00:00:15,840 --> 00:00:18,000
+that you can build into that.
+
+13
+00:00:44,480 --> 00:00:45,440
+Michal Levin, thank you
+
+14
+00:00:45,440 --> 00:00:46,840
+for joining me on 20 Minute Leaders.
+
+15
+00:00:46,840 --> 00:00:48,280
+How are you?
+
+16
+00:00:49,400 --> 00:00:50,680
+I'm great, how are you?
+
+17
+00:00:50,680 --> 00:00:52,160
+Happy holidays.
+
+18
+00:00:52,160 --> 00:00:53,920
+Happy holidays to you, too.
+
+19
+00:00:53,920 --> 00:00:55,520
+I'm so excited to talk about
+
+20
+00:00:55,520 --> 00:00:57,000
+user experience with you.
+
+21
+00:00:57,000 --> 00:00:58,120
+Like I mentioned,
+
+22
+00:00:58,120 --> 00:00:59,400
+I didn't get to talk to it
+
+23
+00:00:59,400 --> 00:01:00,360
+about nearly enough
+
+24
+00:01:00,360 --> 00:01:02,000
+in the 300 episodes we've had.
+
+25
+00:01:02,000 --> 00:01:03,640
+And I'm super excited to dig deep
+
+26
+00:01:03,640 --> 00:01:06,080
+into the importance of user experience
+
+27
+00:01:06,080 --> 00:01:07,120
+and in everything we do,
+
+28
+00:01:07,120 --> 00:01:08,800
+both in tech and startups,
+
+29
+00:01:08,800 --> 00:01:10,480
+but in daily life as well.
+
+30
+00:01:10,480 --> 00:01:11,720
+And before we get started,
+
+31
+00:01:11,720 --> 00:01:12,280
+I have to say
+
+32
+00:01:12,280 --> 00:01:15,440
+your experience with UX is remarkable.
+
+33
+00:01:15,440 --> 00:01:16,920
+I think that I saw
+
+34
+00:01:16,920 --> 00:01:18,880
+about a dozen different organizations
+
+35
+00:01:18,880 --> 00:01:19,960
+that you've made an impact
+
+36
+00:01:19,960 --> 00:01:22,240
+on in the world of UX
+
+37
+00:01:22,240 --> 00:01:24,000
+all the way from a startup like Zoox
+
+38
+00:01:24,000 --> 00:01:27,200
+to a Google, to Verily, and now Hero.
+
+39
+00:01:27,200 --> 00:01:28,880
+So, tell me a little bit about
+
+40
+00:01:28,880 --> 00:01:29,600
+your journey.
+
+41
+00:01:29,600 --> 00:01:31,000
+How do you even get started
+
+42
+00:01:31,000 --> 00:01:34,200
+with dealing with user experience?
+
+43
+00:01:35,360 --> 00:01:36,680
+Yeah. That's a great question.
+
+44
+00:01:36,680 --> 00:01:39,200
+Those are quite a few years back.
+
+45
+00:01:39,200 --> 00:01:41,440
+Actually, the story starts back in Israel
+
+46
+00:01:41,440 --> 00:01:42,920
+where I was born and raised.
+
+47
+00:01:42,920 --> 00:01:45,320
+And after I finished my army service,
+
+48
+00:01:45,320 --> 00:01:46,960
+I actually join a company.
+
+49
+00:01:46,960 --> 00:01:47,640
+And that's kind of like
+
+50
+00:01:47,640 --> 00:01:49,440
+was my entry to the tech industry.
+
+51
+00:01:49,440 --> 00:01:51,760
+And I actually, join as a QA.
+
+52
+00:01:51,760 --> 00:01:53,240
+And I started working there.
+
+53
+00:01:53,240 --> 00:01:55,720
+And back in the days it was about,
+
+54
+00:01:55,720 --> 00:01:56,800
+what, probably,
+
+55
+00:01:56,800 --> 00:01:59,680
+about 15 to 20 years ago,
+
+56
+00:01:59,680 --> 00:02:03,105
+UX in Israel wasn't an industry.
+
+57
+00:02:03,106 --> 00:02:04,800
+Like there was no education around
+
+58
+00:02:04,800 --> 00:02:05,920
+and there were not
+
+59
+00:02:05,920 --> 00:02:07,440
+a lot of companies that was doing that.
+
+60
+00:02:07,440 --> 00:02:08,720
+It was just like early on
+
+61
+00:02:08,720 --> 00:02:10,680
+where mostly engineers were just like
+
+62
+00:02:10,680 --> 00:02:12,880
+building the UI's based on what they
+
+63
+00:02:12,880 --> 00:02:15,200
+thought was the right thing to do.
+
+64
+00:02:15,200 --> 00:02:17,520
+And I actually remember those early days
+
+65
+00:02:17,520 --> 00:02:18,760
+where I was doing QA
+
+66
+00:02:18,760 --> 00:02:19,600
+and I was testing
+
+67
+00:02:19,600 --> 00:02:20,920
+the functionality of the product.
+
+68
+00:02:20,920 --> 00:02:22,960
+But I kind of started also asking,
+
+69
+00:02:22,960 --> 00:02:24,440
+just like intuitively all this question
+
+70
+00:02:24,440 --> 00:02:25,480
+as to why, you know,
+
+71
+00:02:25,480 --> 00:02:26,880
+why do we have all these menu items,
+
+72
+00:02:26,880 --> 00:02:27,960
+like why does the workflow
+
+73
+00:02:27,960 --> 00:02:29,400
+work like this.
+
+74
+00:02:29,400 --> 00:02:30,880
+And I started just like
+
+75
+00:02:30,880 --> 00:02:32,680
+within the culture of that company.
+
+76
+00:02:32,680 --> 00:02:34,080
+We started talking about this idea
+
+77
+00:02:34,080 --> 00:02:38,720
+of usability and UI super early on.
+
+78
+00:02:38,720 --> 00:02:39,560
+So, that's kind of like
+
+79
+00:02:39,560 --> 00:02:40,800
+was the early, early seeds.
+
+80
+00:02:40,800 --> 00:02:43,760
+Then I actually went to a school
+
+81
+00:02:43,760 --> 00:02:46,280
+and I started Computer Science
+
+82
+00:02:46,280 --> 00:02:48,280
+and Business Management.
+
+83
+00:02:48,280 --> 00:02:50,040
+However, halfway through my degree
+
+84
+00:02:50,040 --> 00:02:51,840
+actually decided that computer science
+
+85
+00:02:51,840 --> 00:02:53,360
+is not what I want to continue doing.
+
+86
+00:02:53,360 --> 00:02:54,760
+I didn't see myself just like,
+
+87
+00:02:54,760 --> 00:02:56,560
+you know, exiting and coding.
+
+88
+00:02:56,560 --> 00:02:57,440
+I really wanted to see
+
+89
+00:02:57,440 --> 00:02:58,920
+how I can bring more people
+
+90
+00:02:58,920 --> 00:03:01,200
+to focus creative doing
+
+91
+00:03:01,200 --> 00:03:03,680
+into kind of like what I do in my career.
+
+92
+00:03:03,680 --> 00:03:04,781
+So, I paused.
+
+93
+00:03:04,782 --> 00:03:06,560
+I started exploring,
+
+94
+00:03:06,560 --> 00:03:08,120
+kind of like what I want to do next.
+
+95
+00:03:08,120 --> 00:03:10,200
+And I ended up actually
+
+96
+00:03:10,200 --> 00:03:13,600
+going on to multiple route of psychology
+
+97
+00:03:13,600 --> 00:03:16,680
+and communication as one bachelor degree.
+
+98
+00:03:16,680 --> 00:03:17,920
+And I also continued
+
+99
+00:03:17,920 --> 00:03:20,120
+my business management
+
+100
+00:03:20,120 --> 00:03:21,120
+as a parallel path.
+
+101
+00:03:21,120 --> 00:03:21,760
+And I continued
+
+102
+00:03:21,760 --> 00:03:23,960
+with these two bachelor degrees.
+
+103
+00:03:23,960 --> 00:03:25,960
+And I really enjoyed it.
+
+104
+00:03:25,960 --> 00:03:27,720
+But then kind of like as I was studying,
+
+105
+00:03:27,720 --> 00:03:28,320
+I was like, okay,
+
+106
+00:03:28,320 --> 00:03:29,040
+what am I going to do
+
+107
+00:03:29,040 --> 00:03:30,000
+with all these degrees,
+
+108
+00:03:30,000 --> 00:03:32,640
+like, what does that translate to.
+
+109
+00:03:32,640 --> 00:03:34,080
+And while I was in school,
+
+110
+00:03:34,080 --> 00:03:36,215
+I kind of like went back to this like,
+
+111
+00:03:36,216 --> 00:03:38,200
+oh, you know, there was this UX thing
+
+112
+00:03:38,200 --> 00:03:40,200
+that I kind of like started back then
+
+113
+00:03:40,200 --> 00:03:42,040
+and I think super interesting.
+
+114
+00:03:42,040 --> 00:03:43,200
+And it made me feel like
+
+115
+00:03:43,200 --> 00:03:44,847
+this could be something that I'm good at
+
+116
+00:03:44,848 --> 00:03:46,000
+that really brings together
+
+117
+00:03:46,000 --> 00:03:49,320
+this like the cognitive psychology
+
+118
+00:03:49,320 --> 00:03:51,080
+with technology.
+
+119
+00:03:51,080 --> 00:03:53,040
+So honestly, what I ended up doing
+
+120
+00:03:53,040 --> 00:03:54,000
+is one evening,
+
+121
+00:03:54,000 --> 00:03:55,240
+I just opened Google
+
+122
+00:03:55,240 --> 00:03:56,720
+and I just search for all
+
+123
+00:03:56,720 --> 00:03:58,240
+the UX companies in Israel
+
+124
+00:03:58,240 --> 00:03:59,640
+and I just applied to all of them.
+
+125
+00:03:59,640 --> 00:04:01,160
+I wrote a cover letter explaining
+
+126
+00:04:01,160 --> 00:04:04,600
+why I think bring I value to that company.
+
+127
+00:04:04,600 --> 00:04:07,760
+And I just like throw it out there.
+
+128
+00:04:07,760 --> 00:04:10,080
+A couple of companies got back to me.
+
+129
+00:04:10,080 --> 00:04:11,560
+I got an interview process
+
+130
+00:04:11,560 --> 00:04:15,440
+and luckily enough, I landed in TZUR,
+
+131
+00:04:15,440 --> 00:04:16,320
+which was kind of like
+
+132
+00:04:16,320 --> 00:04:18,560
+one of the top design agencies in Israel.
+
+133
+00:04:18,560 --> 00:04:21,360
+And that was actually my entry point.
+
+134
+00:04:21,360 --> 00:04:23,280
+So, you go into an agency,
+
+135
+00:04:23,280 --> 00:04:24,800
+it's just like all about,
+
+136
+00:04:24,800 --> 00:04:27,840
+like having a lot of UX people there.
+
+137
+00:04:27,840 --> 00:04:29,760
+I worked there for almost four years
+
+138
+00:04:29,760 --> 00:04:32,200
+and I think I built a lot of
+
+139
+00:04:32,200 --> 00:04:33,680
+just like hands on experience
+
+140
+00:04:33,680 --> 00:04:34,840
+and understanding,
+
+141
+00:04:34,840 --> 00:04:37,080
+working with dozens and dozens of clients
+
+142
+00:04:37,080 --> 00:04:39,000
+across so many different platforms,
+
+143
+00:04:39,000 --> 00:04:40,400
+you know, mobile and web
+
+144
+00:04:40,400 --> 00:04:41,480
+and TV and across
+
+145
+00:04:41,480 --> 00:04:44,760
+like media and finance and gaming.
+
+146
+00:04:44,760 --> 00:04:45,560
+And that gave me, like,
+
+147
+00:04:45,560 --> 00:04:48,440
+so much experience with that.
+
+148
+00:04:48,440 --> 00:04:49,000
+So, yeah.
+
+149
+00:04:49,000 --> 00:04:51,000
+So, that kind of like how I started.
+
+150
+00:04:51,000 --> 00:04:51,440
+From there,
+
+151
+00:04:51,440 --> 00:04:54,120
+I actually joined Modu,
+
+152
+00:04:54,120 --> 00:04:56,040
+which was founded by Dov Moran,
+
+153
+00:04:56,040 --> 00:05:00,480
+one of the top entrepreneurs in Israel.
+
+154
+00:05:00,480 --> 00:05:03,160
+And during my work at Modu,
+
+155
+00:05:03,160 --> 00:05:04,920
+actually nine months into my work there,
+
+156
+00:05:04,920 --> 00:05:06,720
+I was approached by Google.
+
+157
+00:05:06,720 --> 00:05:09,720
+And a funny story was that I had a doubt
+
+158
+00:05:09,720 --> 00:05:10,880
+like I don't want to pursue that.
+
+159
+00:05:10,880 --> 00:05:13,280
+Like I was very happy at Modu.
+
+160
+00:05:13,280 --> 00:05:15,280
+And then a friend of mine said like,
+
+161
+00:05:15,280 --> 00:05:16,440
+"What are you saying?
+
+162
+00:05:16,440 --> 00:05:17,280
+Are you crazy?
+
+163
+00:05:17,280 --> 00:05:19,000
+You know, get started,
+
+164
+00:05:19,000 --> 00:05:20,200
+go through the hiring process.
+
+165
+00:05:20,200 --> 00:05:23,160
+You can always say no at the end."
+
+166
+00:05:23,200 --> 00:05:24,395
+So, I started.
+
+167
+00:05:24,396 --> 00:05:25,760
+And it ended up
+
+168
+00:05:25,760 --> 00:05:26,960
+being a really long process.
+
+169
+00:05:26,960 --> 00:05:28,440
+It was about
+
+170
+00:05:28,440 --> 00:05:30,000
+seven months of hiring process
+
+171
+00:05:30,000 --> 00:05:30,640
+because it was
+
+172
+00:05:30,640 --> 00:05:32,840
+the first UX hire in UX Israel.
+
+173
+00:05:32,840 --> 00:05:36,080
+So, I had like, 14 interviews
+
+174
+00:05:36,080 --> 00:05:37,690
+across, like around the world,
+
+175
+00:05:37,691 --> 00:05:39,360
+on [--].
+
+176
+00:05:39,560 --> 00:05:40,200
+Yeah.
+
+177
+00:05:40,200 --> 00:05:42,040
+But during that time,
+
+178
+00:05:42,040 --> 00:05:43,280
+seven months of interviewing,
+
+179
+00:05:43,280 --> 00:05:44,360
+you start getting excited
+
+180
+00:05:44,360 --> 00:05:45,600
+about the opportunity.
+
+181
+00:05:45,600 --> 00:05:49,720
+And it feels kind of like this
+
+182
+00:05:49,720 --> 00:05:50,720
+psychological connection
+
+183
+00:05:50,720 --> 00:05:52,720
+and I ended up getting hired.
+
+184
+00:05:52,720 --> 00:05:53,320
+And this is how
+
+185
+00:05:53,320 --> 00:05:54,600
+I started my Google journey,
+
+186
+00:05:54,600 --> 00:05:56,039
+which really kind of like a company
+
+187
+00:05:56,040 --> 00:05:58,400
+in over the following decade.
+
+188
+00:05:58,400 --> 00:06:00,760
+I spent six and a half years with Google.
+
+189
+00:06:00,760 --> 00:06:02,680
+I moved to the US,
+
+190
+00:06:02,680 --> 00:06:04,080
+through Google.
+
+191
+00:06:04,120 --> 00:06:05,680
+I worked at Verily,
+
+192
+00:06:05,680 --> 00:06:07,680
+and now I'm at Hero.
+
+193
+00:06:07,680 --> 00:06:08,560
+Unbelievable.
+
+194
+00:06:08,560 --> 00:06:11,160
+I have to give the analogy.
+
+195
+00:06:11,160 --> 00:06:13,480
+I never wanted to be a pilot.
+
+196
+00:06:13,480 --> 00:06:14,440
+My father was a pilot.
+
+197
+00:06:14,440 --> 00:06:16,680
+And when it came down to going
+
+198
+00:06:16,680 --> 00:06:18,560
+to do the army testing
+
+199
+00:06:18,560 --> 00:06:19,920
+which we do in Israel,
+
+200
+00:06:19,920 --> 00:06:22,040
+of course, you know, I said, okay.
+
+201
+00:06:22,040 --> 00:06:23,600
+You know, they're inviting me to try.
+
+202
+00:06:23,600 --> 00:06:24,840
+I knew that I didn't want to be a pilot.
+
+203
+00:06:24,840 --> 00:06:26,120
+And but all my friends said,
+
+204
+00:06:26,120 --> 00:06:27,240
+"Well, Michael, you have to try.
+
+205
+00:06:27,240 --> 00:06:28,280
+Like, you know, it's like,
+
+206
+00:06:28,280 --> 00:06:31,200
+you have to see if you can make it."
+
+207
+00:06:31,200 --> 00:06:32,400
+And I remember they sent me
+
+208
+00:06:32,400 --> 00:06:33,560
+to the [--]. It was one
+
+209
+00:06:33,560 --> 00:06:35,280
+of the worst weeks of my life.
+
+210
+00:06:35,280 --> 00:06:36,880
+And I'm traumatized by it until today
+
+211
+00:06:36,880 --> 00:06:38,120
+because it was so difficult.
+
+212
+00:06:38,120 --> 00:06:40,320
+By the end of it when I was accepted,
+
+213
+00:06:40,320 --> 00:06:41,640
+it was so hard to say no.
+
+214
+00:06:41,640 --> 00:06:43,040
+Even though I didn't want to be a pilot,
+
+215
+00:06:43,040 --> 00:06:44,280
+I felt like I just had to do it
+
+216
+00:06:44,280 --> 00:06:46,520
+because I got through it.
+
+217
+00:06:46,520 --> 00:06:47,600
+As if it does mean to myself.
+
+218
+00:06:47,600 --> 00:06:49,000
+But I have to give that analogy,
+
+219
+00:06:49,000 --> 00:06:50,338
+And I think you set it on.
+
+220
+00:06:50,339 --> 00:06:51,720
+You said that they hired you
+
+221
+00:06:51,720 --> 00:06:52,960
+now, you said yes.
+
+222
+00:06:52,960 --> 00:06:54,720
+That's what I think it's,
+
+223
+00:06:54,720 --> 00:06:55,600
+it more comes down to,
+
+224
+00:06:55,600 --> 00:06:57,480
+from what I'm gathering from the story.
+
+225
+00:06:57,480 --> 00:06:59,270
+Michal, break it down for me.
+
+226
+00:06:59,271 --> 00:07:00,320
+User experience.
+
+227
+00:07:00,320 --> 00:07:01,440
+You mentioned the psychology,
+
+228
+00:07:01,440 --> 00:07:03,000
+communication, computer science,
+
+229
+00:07:03,000 --> 00:07:04,360
+disintegration of
+
+230
+00:07:04,360 --> 00:07:06,360
+understanding user behavior.
+
+231
+00:07:06,360 --> 00:07:07,520
+Break it down for me.
+
+232
+00:07:07,520 --> 00:07:08,920
+What is user experience
+
+233
+00:07:08,920 --> 00:07:11,315
+and why is it so fascinating to you?
+
+234
+00:07:11,316 --> 00:07:15,040
+Yeah. That's a good question.
+
+235
+00:07:15,040 --> 00:07:17,200
+I think, at the end of the day, you know,
+
+236
+00:07:17,200 --> 00:07:19,120
+it's kind of like it's starting
+
+237
+00:07:19,120 --> 00:07:20,622
+with understanding
+
+238
+00:07:20,623 --> 00:07:22,040
+why are we doing these things, you know.
+
+239
+00:07:22,040 --> 00:07:23,080
+You start with the why.
+
+240
+00:07:23,080 --> 00:07:23,920
+I think that's going to, like
+
+241
+00:07:23,920 --> 00:07:26,800
+one title commonly associated
+
+242
+00:07:26,800 --> 00:07:28,520
+with Simon Sinek,
+
+243
+00:07:28,520 --> 00:07:30,440
+I think I kind of like very much
+
+244
+00:07:30,440 --> 00:07:32,000
+relate to that.
+
+245
+00:07:32,000 --> 00:07:33,640
+It's really like starting to think about
+
+246
+00:07:33,640 --> 00:07:34,640
+what you're doing
+
+247
+00:07:34,640 --> 00:07:35,600
+and what you're building
+
+248
+00:07:35,600 --> 00:07:38,640
+by truly understanding what people need,
+
+249
+00:07:38,640 --> 00:07:39,760
+what are their pain points,
+
+250
+00:07:39,761 --> 00:07:40,932
+what are their mental models,
+
+251
+00:07:40,933 --> 00:07:41,960
+behavior weaknesses,
+
+252
+00:07:41,960 --> 00:07:44,160
+where the psychology really kind of like
+
+253
+00:07:44,160 --> 00:07:46,320
+going deep into understanding
+
+254
+00:07:46,320 --> 00:07:47,040
+what is the problem
+
+255
+00:07:47,040 --> 00:07:48,240
+that you're trying to solve,
+
+256
+00:07:48,240 --> 00:07:49,400
+what are the common barriers,
+
+257
+00:07:49,400 --> 00:07:51,280
+what are the pain points.
+
+258
+00:07:51,280 --> 00:07:53,040
+And really starting from
+
+259
+00:07:53,040 --> 00:07:54,120
+their needs and goals,
+
+260
+00:07:54,120 --> 00:07:55,320
+doing that analysis
+
+261
+00:07:55,320 --> 00:07:56,560
+really understanding the people
+
+262
+00:07:56,560 --> 00:07:59,440
+and the audiences that you are trying to
+
+263
+00:07:59,440 --> 00:08:00,680
+to solve the problem for,
+
+264
+00:08:00,680 --> 00:08:02,760
+and go from there.
+
+265
+00:08:02,760 --> 00:08:04,080
+So, it's not about starting
+
+266
+00:08:04,080 --> 00:08:04,960
+with the technology
+
+267
+00:08:04,960 --> 00:08:06,560
+and everything we can do because
+
+268
+00:08:06,560 --> 00:08:09,600
+the technology can do X and can do Y,
+
+269
+00:08:09,600 --> 00:08:10,320
+which is what we call
+
+270
+00:08:10,320 --> 00:08:12,480
+a tech driven approach.
+
+271
+00:08:12,480 --> 00:08:14,360
+It's a user centered approach.
+
+272
+00:08:14,360 --> 00:08:15,040
+Like, let's understand,
+
+273
+00:08:15,040 --> 00:08:16,760
+what do people even need
+
+274
+00:08:16,760 --> 00:08:18,320
+and then see what is the best way
+
+275
+00:08:18,320 --> 00:08:18,840
+to do that.
+
+276
+00:08:18,840 --> 00:08:19,720
+And again, it doesn't mean
+
+277
+00:08:19,720 --> 00:08:21,240
+that we necessarily need to do
+
+278
+00:08:21,240 --> 00:08:23,200
+all the fancy stuff.
+
+279
+00:08:23,360 --> 00:08:24,680
+We really need to hone in
+
+280
+00:08:24,680 --> 00:08:26,800
+on what are the key needs.
+
+281
+00:08:26,800 --> 00:08:29,120
+I think a good example for that
+
+282
+00:08:29,120 --> 00:08:30,080
+and for that kind of like
+
+283
+00:08:30,080 --> 00:08:33,160
+how it manifests itself,
+
+284
+00:08:33,160 --> 00:08:34,840
+i actually think the last couple of years
+
+285
+00:08:34,840 --> 00:08:35,920
+working in healthcare
+
+286
+00:08:35,920 --> 00:08:37,480
+is a really great example.
+
+287
+00:08:37,480 --> 00:08:40,040
+Michal, new background,
+
+288
+00:08:40,040 --> 00:08:42,400
+new environment, same user experience,
+
+289
+00:08:42,400 --> 00:08:43,800
+same question.
+
+290
+00:08:43,800 --> 00:08:45,400
+Talking about health care a little bit
+
+291
+00:08:45,400 --> 00:08:47,120
+from your experience as well.
+
+292
+00:08:47,120 --> 00:08:48,200
+Why is your expertise
+
+293
+00:08:48,200 --> 00:08:50,120
+with health care an interesting example
+
+294
+00:08:50,120 --> 00:08:53,080
+of the importance of user experience?
+
+295
+00:08:54,320 --> 00:08:56,560
+Yeah, I think it's a really great example
+
+296
+00:08:56,560 --> 00:08:58,360
+of the difference between
+
+297
+00:08:58,360 --> 00:09:01,280
+technology focused approach
+
+298
+00:09:01,280 --> 00:09:02,400
+and user centered approach.
+
+299
+00:09:02,400 --> 00:09:03,240
+Because, you know,
+
+300
+00:09:03,241 --> 00:09:05,240
+there's a lot of promising technologies
+
+301
+00:09:05,240 --> 00:09:06,360
+and things that we can do.
+
+302
+00:09:06,360 --> 00:09:07,680
+Machine learning and AI,
+
+303
+00:09:07,680 --> 00:09:10,400
+and we can build all these amazing tools
+
+304
+00:09:10,400 --> 00:09:11,880
+and do sophisticated things.
+
+305
+00:09:11,880 --> 00:09:13,480
+But when you actually try to innovate
+
+306
+00:09:13,480 --> 00:09:14,760
+within healthcare,
+
+307
+00:09:14,760 --> 00:09:16,400
+what you realize that oftentimes
+
+308
+00:09:16,400 --> 00:09:18,000
+when you try to build tools
+
+309
+00:09:18,000 --> 00:09:21,440
+for like health systems physicians,
+
+310
+00:09:21,440 --> 00:09:24,680
+the secret and what would actually
+
+311
+00:09:24,680 --> 00:09:26,080
+get you to change
+
+312
+00:09:26,080 --> 00:09:28,000
+and move the needle
+
+313
+00:09:28,000 --> 00:09:29,760
+is how well you can integrate
+
+314
+00:09:29,760 --> 00:09:31,720
+into their existing workflows.
+
+315
+00:09:31,720 --> 00:09:32,920
+So, if you stop building
+
+316
+00:09:32,921 --> 00:09:34,480
+all these amazing tools,
+
+317
+00:09:34,480 --> 00:09:36,000
+but they're actually a separate tool
+
+318
+00:09:36,000 --> 00:09:37,240
+that they need to log into that,
+
+319
+00:09:37,240 --> 00:09:38,040
+they need to open it,
+
+320
+00:09:38,040 --> 00:09:39,200
+they need to learn.
+
+321
+00:09:39,200 --> 00:09:41,400
+that is a huge barrier for adaption.
+
+322
+00:09:41,400 --> 00:09:43,360
+And oftentimes innovation would come
+
+323
+00:09:43,360 --> 00:09:44,600
+by like finding the ways
+
+324
+00:09:44,600 --> 00:09:46,680
+that you can integrate into their EHR.
+
+325
+00:09:46,680 --> 00:09:49,320
+And even if the EHR UX is not great,
+
+326
+00:09:49,320 --> 00:09:50,640
+this is where they're at.
+
+327
+00:09:50,640 --> 00:09:52,640
+And you need to find the creative ways
+
+328
+00:09:52,640 --> 00:09:54,160
+of integrating yourself there,
+
+329
+00:09:54,160 --> 00:09:57,560
+and being in it as part of the workflows
+
+330
+00:09:57,560 --> 00:09:59,280
+and seeing how through there
+
+331
+00:09:59,280 --> 00:10:01,040
+you can bring value to them.
+
+332
+00:10:01,040 --> 00:10:04,600
+So, oftentimes it's not necessarily,
+
+333
+00:10:04,600 --> 00:10:05,880
+like all the amazing,
+
+334
+00:10:05,880 --> 00:10:06,840
+beautiful technology
+
+335
+00:10:06,840 --> 00:10:08,680
+that we can build independently
+
+336
+00:10:08,680 --> 00:10:10,440
+is really finding their way
+
+337
+00:10:10,440 --> 00:10:11,520
+to tapping your cells
+
+338
+00:10:11,520 --> 00:10:12,880
+into their busy schedule
+
+339
+00:10:12,880 --> 00:10:13,960
+and really understanding
+
+340
+00:10:13,960 --> 00:10:14,640
+that they have like,
+
+341
+00:10:14,640 --> 00:10:15,760
+five minutes a day
+
+342
+00:10:15,760 --> 00:10:16,840
+to take a look at these things.
+
+343
+00:10:16,840 --> 00:10:18,160
+And if you want to squeeze yourself
+
+344
+00:10:18,160 --> 00:10:20,120
+within their daily routine,
+
+345
+00:10:20,120 --> 00:10:21,320
+it's not going to be
+
+346
+00:10:21,320 --> 00:10:24,040
+with building a whole other tool
+
+347
+00:10:24,040 --> 00:10:27,600
+outside of their kind of like habits.
+
+348
+00:10:27,600 --> 00:10:29,480
+I think that's a fascinating example.
+
+349
+00:10:29,480 --> 00:10:30,680
+Because, you know,
+
+350
+00:10:30,680 --> 00:10:33,280
+it's the entrepreneurial mindset of any,
+
+351
+00:10:33,280 --> 00:10:34,440
+especially young entrepreneur is saying,
+
+352
+00:10:34,440 --> 00:10:35,280
+Okay, we have this idea and
+
+353
+00:10:35,280 --> 00:10:36,480
+we want to make it all around
+
+354
+00:10:36,480 --> 00:10:37,280
+beautiful products
+
+355
+00:10:37,280 --> 00:10:38,480
+that are all login screen
+
+356
+00:10:38,480 --> 00:10:40,000
+and are all user experience.
+
+357
+00:10:40,000 --> 00:10:42,480
+And we're so excited to show this
+
+358
+00:10:42,480 --> 00:10:44,440
+on encompassing product when
+
+359
+00:10:44,440 --> 00:10:46,200
+if we forget a little bit about
+
+360
+00:10:46,200 --> 00:10:47,480
+the customer that at the that
+
+361
+00:10:47,481 --> 00:10:48,520
+needs to use the product
+
+362
+00:10:48,520 --> 00:10:49,880
+and what their behavior is
+
+363
+00:10:49,880 --> 00:10:50,680
+and how are we fitting
+
+364
+00:10:50,680 --> 00:10:51,480
+into their behavior,
+
+365
+00:10:51,480 --> 00:10:52,120
+then we might have
+
+366
+00:10:52,120 --> 00:10:53,760
+this crazy misalignments
+
+367
+00:10:53,760 --> 00:10:54,520
+where nobody
+
+368
+00:10:54,520 --> 00:10:55,611
+can even use your product
+
+369
+00:10:55,612 --> 00:10:56,920
+because you're not aligning
+
+370
+00:10:56,920 --> 00:10:58,640
+to what they actually need.
+
+371
+00:10:58,640 --> 00:11:01,680
+Why isn't the engineer in the room
+
+372
+00:11:01,680 --> 00:11:03,960
+or the project manager in the room
+
+373
+00:11:03,960 --> 00:11:05,720
+enough to understand this?
+
+374
+00:11:05,720 --> 00:11:06,920
+Why is there
+
+375
+00:11:06,920 --> 00:11:10,960
+a specific role called user experience
+
+376
+00:11:11,200 --> 00:11:13,480
+Why is there this function
+
+377
+00:11:13,480 --> 00:11:14,280
+within a company?
+
+378
+00:11:14,280 --> 00:11:16,360
+Why isn't it enough that engineers
+
+379
+00:11:16,360 --> 00:11:17,240
+just think critically
+
+380
+00:11:17,240 --> 00:11:18,280
+about their customers
+
+381
+00:11:18,280 --> 00:11:20,080
+and just adapt to that?
+
+382
+00:11:21,320 --> 00:11:22,480
+Yeah. It's a great question,.
+
+383
+00:11:22,480 --> 00:11:23,800
+And I would start by saying that again,
+
+384
+00:11:23,800 --> 00:11:25,560
+like the culture that
+
+385
+00:11:25,560 --> 00:11:26,680
+I've been raised on
+
+386
+00:11:26,680 --> 00:11:28,280
+and I truly believe in.
+
+387
+00:11:28,281 --> 00:11:30,560
+It's not like that the UX person
+
+388
+00:11:30,560 --> 00:11:31,240
+is the only one
+
+389
+00:11:31,240 --> 00:11:32,480
+that solves all the problems.
+
+390
+00:11:32,480 --> 00:11:34,400
+I think it's like continuously
+
+391
+00:11:34,400 --> 00:11:35,840
+collaborative process
+
+392
+00:11:35,840 --> 00:11:36,760
+where we work together,
+
+393
+00:11:36,760 --> 00:11:38,440
+engineering and product
+
+394
+00:11:38,440 --> 00:11:39,103
+and UX bringing
+
+395
+00:11:39,104 --> 00:11:40,600
+all the considerations together,
+
+396
+00:11:40,600 --> 00:11:42,280
+thinking through user problems.
+
+397
+00:11:42,280 --> 00:11:43,160
+I think it's important
+
+398
+00:11:43,160 --> 00:11:44,200
+across the organization,
+
+399
+00:11:44,200 --> 00:11:45,560
+whether you're a product manager,
+
+400
+00:11:45,560 --> 00:11:48,880
+engineer, regulatory person,
+
+401
+00:11:48,880 --> 00:11:50,800
+to have a shared understanding
+
+402
+00:11:50,800 --> 00:11:51,880
+of what are we building,
+
+403
+00:11:51,880 --> 00:11:52,720
+why we're building,
+
+404
+00:11:52,720 --> 00:11:53,760
+who are our user.
+
+405
+00:11:53,760 --> 00:11:55,120
+So, I think this is actually something
+
+406
+00:11:55,120 --> 00:11:57,680
+that culturally we need to be shared.
+
+407
+00:11:57,680 --> 00:11:58,480
+I think in terms of like
+
+408
+00:11:58,480 --> 00:12:00,080
+when do we need it
+
+409
+00:12:00,080 --> 00:12:03,200
+like, why do we need a dedicated role?
+
+410
+00:12:03,200 --> 00:12:04,560
+I think it's just that
+
+411
+00:12:04,560 --> 00:12:07,520
+a full time job to do that work well.
+
+412
+00:12:07,520 --> 00:12:08,360
+And at the end of the day,
+
+413
+00:12:08,360 --> 00:12:09,160
+it's just like any role.
+
+414
+00:12:09,161 --> 00:12:10,565
+Like, why do we need PGMs?
+
+415
+00:12:10,566 --> 00:12:12,079
+Like, can't a PM be a PGM?
+
+416
+00:12:12,080 --> 00:12:13,880
+In some scenarios, yes.
+
+417
+00:12:13,880 --> 00:12:15,800
+Like, people can build that skillset.
+
+418
+00:12:15,800 --> 00:12:16,920
+I think it's just like
+
+419
+00:12:16,920 --> 00:12:17,600
+at the end of the day,
+
+420
+00:12:17,600 --> 00:12:19,560
+like, you have a limited bandwidth,
+
+421
+00:12:19,560 --> 00:12:20,760
+there's work to be done.
+
+422
+00:12:20,760 --> 00:12:22,480
+And if you want to do it well,
+
+423
+00:12:22,480 --> 00:12:24,040
+you need dedicated resources
+
+424
+00:12:24,040 --> 00:12:25,480
+that can have the bandwidth to do it.
+
+425
+00:12:25,481 --> 00:12:26,681
+So, if a PM needs to,
+
+426
+00:12:26,683 --> 00:12:28,199
+like a PM can also code.
+
+427
+00:12:28,200 --> 00:12:31,040
+Why not them the engineers?
+
+428
+00:12:31,040 --> 00:12:32,621
+Well, because if they need to have to code,
+
+429
+00:12:32,622 --> 00:12:33,303
+they going to need to spend
+
+430
+00:12:33,304 --> 00:12:34,040
+half the day on it
+
+431
+00:12:34,040 --> 00:12:35,080
+so, they don't have the time
+
+432
+00:12:35,080 --> 00:12:36,720
+to collect the business requirements
+
+433
+00:12:36,720 --> 00:12:38,320
+and do like landscape analysis
+
+434
+00:12:38,320 --> 00:12:39,720
+and talk to customers.
+
+435
+00:12:39,720 --> 00:12:42,280
+So, I don't think it's necessarily
+
+436
+00:12:42,280 --> 00:12:43,600
+like people that have
+
+437
+00:12:43,600 --> 00:12:46,240
+like a specific super power
+
+438
+00:12:46,240 --> 00:12:48,040
+that others cannot learn or gain.
+
+439
+00:12:48,040 --> 00:12:49,520
+It's more about how do you build
+
+440
+00:12:49,520 --> 00:12:50,720
+a healthy organization
+
+441
+00:12:50,720 --> 00:12:52,400
+where you put your resources
+
+442
+00:12:52,400 --> 00:12:54,600
+on the key things that have to be,
+
+443
+00:12:54,600 --> 00:12:56,480
+you know, super thoughtful,
+
+444
+00:12:56,480 --> 00:12:58,680
+go deep and truly understand,
+
+445
+00:12:58,680 --> 00:13:02,000
+so, we do build the best product.
+
+446
+00:13:02,000 --> 00:13:03,000
+I think that's fascinating.
+
+447
+00:13:03,000 --> 00:13:03,600
+And one of the things that
+
+448
+00:13:03,600 --> 00:13:04,725
+I'm always asking myself\
+
+449
+00:13:04,726 --> 00:13:07,080
+in the context of user experience is
+
+450
+00:13:07,080 --> 00:13:08,120
+the way that I think
+
+451
+00:13:08,120 --> 00:13:08,960
+about user experience
+
+452
+00:13:08,960 --> 00:13:10,520
+to some degree is thinking, okay,
+
+453
+00:13:10,520 --> 00:13:12,640
+we have this intuition about
+
+454
+00:13:12,640 --> 00:13:14,000
+how we should approach
+
+455
+00:13:14,000 --> 00:13:15,800
+solving the problem for our users.
+
+456
+00:13:15,800 --> 00:13:18,120
+And user experience professionals
+
+457
+00:13:18,120 --> 00:13:19,960
+can help us navigate that intuition
+
+458
+00:13:19,960 --> 00:13:22,760
+into practicality and research data
+
+459
+00:13:22,760 --> 00:13:24,840
+driven analysis of what actually
+
+460
+00:13:24,840 --> 00:13:25,680
+do our users needed,
+
+461
+00:13:25,680 --> 00:13:27,200
+how do actually can we
+
+462
+00:13:27,200 --> 00:13:29,120
+use our intuition to navigate there.
+
+463
+00:13:29,120 --> 00:13:29,680
+And one of the things
+
+464
+00:13:29,680 --> 00:13:31,520
+that I'm always asking myself is
+
+465
+00:13:31,520 --> 00:13:32,240
+how do you even know
+
+466
+00:13:32,240 --> 00:13:33,480
+that there's a problem.
+
+467
+00:13:33,480 --> 00:13:33,680
+Right?
+
+468
+00:13:33,680 --> 00:13:35,320
+How do you know that
+
+469
+00:13:35,320 --> 00:13:37,160
+if I have a hundred functions
+
+470
+00:13:37,160 --> 00:13:38,240
+within a company
+
+471
+00:13:38,240 --> 00:13:39,080
+and I'm guessing
+
+472
+00:13:39,080 --> 00:13:40,640
+within Google and Verily,
+
+473
+00:13:40,640 --> 00:13:41,240
+in those different companies
+
+474
+00:13:41,240 --> 00:13:41,760
+you've been a part of,
+
+475
+00:13:41,760 --> 00:13:43,080
+there were many, many aspects
+
+476
+00:13:43,080 --> 00:13:44,880
+where user experience was important.
+
+477
+00:13:44,880 --> 00:13:47,120
+How can the CEO,
+
+478
+00:13:47,120 --> 00:13:48,680
+the engineer or the product manager,
+
+479
+00:13:48,680 --> 00:13:50,960
+even pinpoint the parts where
+
+480
+00:13:50,960 --> 00:13:52,760
+a user experience professional
+
+481
+00:13:52,760 --> 00:13:54,840
+may be of use?
+
+482
+00:13:56,040 --> 00:13:58,840
+Yeah. Well,
+
+483
+00:13:59,400 --> 00:14:00,880
+i think kind of like as you said,
+
+484
+00:14:00,880 --> 00:14:02,720
+it starts with like research
+
+485
+00:14:02,720 --> 00:14:03,520
+and really understanding
+
+486
+00:14:03,520 --> 00:14:04,560
+what we're trying to solve.
+
+487
+00:14:04,560 --> 00:14:06,920
+So, I think every entrepreneur,
+
+488
+00:14:06,920 --> 00:14:09,400
+every CEO, every product manager,
+
+489
+00:14:09,400 --> 00:14:12,680
+they usually start their initiative
+
+490
+00:14:12,680 --> 00:14:13,960
+by observing a problem.
+
+491
+00:14:13,960 --> 00:14:16,640
+By observing an unsolved need
+
+492
+00:14:16,640 --> 00:14:18,033
+or a need that is not
+
+493
+00:14:18,034 --> 00:14:19,360
+being solved well enough.
+
+494
+00:14:19,360 --> 00:14:20,440
+And then in order for you
+
+495
+00:14:20,440 --> 00:14:22,080
+to tackle differently,
+
+496
+00:14:22,080 --> 00:14:23,440
+so, you sometimes
+
+497
+00:14:23,440 --> 00:14:25,120
+if you went to this personally,
+
+498
+00:14:25,120 --> 00:14:27,800
+you already have some insights around
+
+499
+00:14:27,800 --> 00:14:29,440
+what you experience is being
+
+500
+00:14:29,440 --> 00:14:32,600
+like the key barriers or the key gaps.
+
+501
+00:14:32,600 --> 00:14:34,160
+If you're trying now to say, okay,
+
+502
+00:14:34,160 --> 00:14:35,120
+how do we build
+
+503
+00:14:35,120 --> 00:14:37,000
+a scaled product out of that,
+
+504
+00:14:37,000 --> 00:14:38,760
+you need to do kind of go deeper to say,
+
+505
+00:14:38,760 --> 00:14:40,400
+how much is your experience
+
+506
+00:14:40,400 --> 00:14:42,120
+actually applicable more broadly.
+
+507
+00:14:42,120 --> 00:14:42,920
+You want to understand
+
+508
+00:14:42,920 --> 00:14:44,240
+what are the target audience
+
+509
+00:14:44,240 --> 00:14:45,000
+that apply to that.
+
+510
+00:14:45,000 --> 00:14:46,520
+And there's a lot of research
+
+511
+00:14:46,520 --> 00:14:47,160
+that needs to go
+
+512
+00:14:47,160 --> 00:14:49,920
+into understanding more deeply
+
+513
+00:14:49,920 --> 00:14:51,520
+what does that intake.
+
+514
+00:14:51,520 --> 00:14:53,280
+So, again, like,
+
+515
+00:14:53,280 --> 00:14:54,760
+where are the problem's coming from,
+
+516
+00:14:54,760 --> 00:14:57,040
+what are people's expectations.
+
+517
+00:14:57,040 --> 00:14:58,200
+As well as, you know,
+
+518
+00:14:58,200 --> 00:14:59,366
+in an ongoing way,
+
+519
+00:14:59,367 --> 00:15:01,120
+as you develop the product,
+
+520
+00:15:01,120 --> 00:15:03,040
+whether it's based on your intuitions
+
+521
+00:15:03,040 --> 00:15:04,720
+and kind of like your ideas,
+
+522
+00:15:04,720 --> 00:15:05,840
+you want to validate that.
+
+523
+00:15:05,840 --> 00:15:07,000
+And again, you need people that
+
+524
+00:15:07,000 --> 00:15:09,120
+can go and thoughtfully do that.
+
+525
+00:15:09,120 --> 00:15:09,600
+So, you know,
+
+526
+00:15:09,600 --> 00:15:10,720
+there's like different approaches.
+
+527
+00:15:10,720 --> 00:15:11,960
+Often times people just think
+
+528
+00:15:11,960 --> 00:15:13,440
+that they can go to people and say,
+
+529
+00:15:13,440 --> 00:15:14,800
+Would you like this feature?
+
+530
+00:15:14,800 --> 00:15:16,320
+Would you find this feature useful?
+
+531
+00:15:16,320 --> 00:15:17,160
+Which, again, kind of like
+
+532
+00:15:17,160 --> 00:15:17,850
+for a lot of people,
+
+533
+00:15:17,851 --> 00:15:18,920
+it feels like intuitive to do.
+
+534
+00:15:18,920 --> 00:15:20,920
+But that actually doesn't generate
+
+535
+00:15:20,920 --> 00:15:23,160
+and like any viable results.
+
+536
+00:15:23,161 --> 00:15:25,360
+Because whenever you ask anybody
+
+537
+00:15:25,360 --> 00:15:26,600
+if they want this or that,
+
+538
+00:15:26,600 --> 00:15:27,960
+they will usually say yes.
+
+539
+00:15:27,960 --> 00:15:28,760
+Because why not
+
+540
+00:15:28,760 --> 00:15:30,600
+if they can get more.
+
+541
+00:15:30,680 --> 00:15:32,113
+But there's a lot more that goes into it
+
+542
+00:15:32,114 --> 00:15:33,582
+because what you end up seeing
+
+543
+00:15:33,782 --> 00:15:35,600
+that people use maybe 10% of the features
+
+544
+00:15:35,600 --> 00:15:36,240
+that you offer them,
+
+545
+00:15:36,240 --> 00:15:37,120
+because at the end of the day,
+
+546
+00:15:37,120 --> 00:15:38,360
+would they actually use the product.
+
+547
+00:15:38,360 --> 00:15:39,320
+Then there's trade offs
+
+548
+00:15:39,320 --> 00:15:41,360
+whether in terms of complexity and time
+
+549
+00:15:41,360 --> 00:15:42,840
+and all those things,
+
+550
+00:15:42,840 --> 00:15:43,720
+they're not going to use it.
+
+551
+00:15:43,720 --> 00:15:45,154
+So, you do need to have
+
+552
+00:15:45,155 --> 00:15:47,760
+particular skills to do the research well.
+
+553
+00:15:47,760 --> 00:15:49,698
+So, you gain the right insight
+
+554
+00:15:49,699 --> 00:15:51,120
+that you can rely on.
+
+555
+00:15:51,120 --> 00:15:52,520
+Also, you really want to have,
+
+556
+00:15:52,520 --> 00:15:54,200
+kind of like, holistic approach
+
+557
+00:15:54,200 --> 00:15:55,600
+to look at qualitative data
+
+558
+00:15:55,600 --> 00:15:57,400
+and quantitative data.
+
+559
+00:15:57,400 --> 00:15:58,080
+And again,
+
+560
+00:15:58,080 --> 00:16:00,040
+doing all of that, it takes time,
+
+561
+00:16:00,520 --> 00:16:02,360
+requires expertise.
+
+562
+00:16:02,360 --> 00:16:04,320
+Also, how do you design things well.
+
+563
+00:16:04,320 --> 00:16:06,240
+Like how the whole
+
+564
+00:16:06,240 --> 00:16:08,640
+there's a whole, like, investment now.
+
+565
+00:16:08,640 --> 00:16:10,160
+And this is an area that I'm also like,
+
+566
+00:16:10,160 --> 00:16:11,640
+super excited about is like
+
+567
+00:16:11,640 --> 00:16:13,920
+this whole idea of behavior change.
+
+568
+00:16:13,920 --> 00:16:15,240
+And I think that's another angle
+
+569
+00:16:15,240 --> 00:16:18,200
+that to me represents how important UX is.
+
+570
+00:16:18,200 --> 00:16:20,480
+Because we see it again in healthcare
+
+571
+00:16:20,480 --> 00:16:21,400
+but everywhere.
+
+572
+00:16:21,400 --> 00:16:22,960
+You can build all the most
+
+573
+00:16:22,960 --> 00:16:24,480
+amazing devices,
+
+574
+00:16:24,480 --> 00:16:25,958
+whether it's wearables
+
+575
+00:16:25,959 --> 00:16:28,040
+or like all of the crazy stuff
+
+576
+00:16:28,040 --> 00:16:29,320
+that we see that is amazing.
+
+577
+00:16:29,320 --> 00:16:31,840
+But between having an amazing device
+
+578
+00:16:31,840 --> 00:16:34,840
+and getting people to use it every day,
+
+579
+00:16:34,840 --> 00:16:36,560
+there is a big, big gap.
+
+580
+00:16:36,560 --> 00:16:36,800
+Right?
+
+581
+00:16:36,800 --> 00:16:38,760
+This is why we see that like obesity
+
+582
+00:16:38,760 --> 00:16:40,200
+is like more prevalent than ever.
+
+583
+00:16:40,201 --> 00:16:41,640
+And like changing behavior
+
+584
+00:16:41,640 --> 00:16:43,419
+of the people is so so hard.
+
+585
+00:16:43,420 --> 00:16:44,880
+I think this is where,
+
+586
+00:16:44,880 --> 00:16:45,520
+this is something
+
+587
+00:16:45,520 --> 00:16:47,440
+that technology cannot solve on its own.
+
+588
+00:16:47,440 --> 00:16:49,920
+Like, you have to have much more empathy
+
+589
+00:16:49,920 --> 00:16:51,640
+and compassion and insight
+
+590
+00:16:51,640 --> 00:16:52,920
+into the human psychology,
+
+591
+00:16:52,920 --> 00:16:53,720
+really understanding
+
+592
+00:16:53,720 --> 00:16:55,680
+the emotional barriers
+
+593
+00:16:55,680 --> 00:16:57,520
+that go into people kind of like
+
+594
+00:16:57,520 --> 00:16:58,720
+having difficulty to change
+
+595
+00:16:58,720 --> 00:16:59,280
+their behavior
+
+596
+00:16:59,280 --> 00:17:00,600
+and what are the mechanics
+
+597
+00:17:00,600 --> 00:17:02,200
+that you can build into that.
+
+598
+00:17:02,200 --> 00:17:04,440
+So to me, that's another area
+
+599
+00:17:04,440 --> 00:17:06,280
+where I see healthcare
+
+600
+00:17:06,280 --> 00:17:08,280
+like UX is critical.
+
+601
+00:17:08,280 --> 00:17:08,835
+To really change
+
+602
+00:17:08,836 --> 00:17:09,840
+people behavior and scale,
+
+603
+00:17:09,840 --> 00:17:14,000
+it's still an unresolved problem.
+
+604
+00:17:14,000 --> 00:17:15,120
+UX is critical.
+
+605
+00:17:15,120 --> 00:17:16,560
+And I think this is what I see
+
+606
+00:17:16,560 --> 00:17:18,040
+a lot of the value that comes
+
+607
+00:17:18,040 --> 00:17:21,560
+by really going deep on these areas.
+
+608
+00:17:21,560 --> 00:17:24,600
+It's fascinating beyond belief.
+
+609
+00:17:24,600 --> 00:17:26,560
+I just read a really interesting article
+
+610
+00:17:26,560 --> 00:17:28,520
+by one of my former bosses,
+
+611
+00:17:28,520 --> 00:17:31,240
+Kristen Berman from the Irrational Lab.
+
+612
+00:17:31,240 --> 00:17:33,080
+One of Dan Ariely's projects.
+
+613
+00:17:33,080 --> 00:17:35,720
+And he was talking about the vaccine.
+
+614
+00:17:35,720 --> 00:17:38,120
+Like thinking about the covid-19 vaccine
+
+615
+00:17:38,120 --> 00:17:40,400
+and the user experience behind
+
+616
+00:17:40,400 --> 00:17:41,440
+that whole distribution.
+
+617
+00:17:41,440 --> 00:17:43,960
+And now, we were in this situation
+
+618
+00:17:43,960 --> 00:17:45,189
+where we need
+
+619
+00:17:45,190 --> 00:17:47,568
+like 75% of the world
+
+620
+00:17:47,569 --> 00:17:50,680
+to take this shot voluntarily
+
+621
+00:17:50,680 --> 00:17:52,240
+in order to resolve this pandemic.
+
+622
+00:17:52,240 --> 00:17:53,460
+And it's fascinating, I think.
+
+623
+00:17:53,461 --> 00:17:55,120
+Thinking of behavioral economics and help.
+
+624
+00:17:55,120 --> 00:17:56,640
+And you see prime ministers
+
+625
+00:17:56,640 --> 00:17:57,680
+going on live television
+
+626
+00:17:57,680 --> 00:17:58,280
+doing it themselves.
+
+627
+00:17:58,280 --> 00:17:58,800
+Like that's a part
+
+628
+00:17:58,800 --> 00:18:00,040
+of the user experience journey.
+
+629
+00:18:00,040 --> 00:18:00,640
+Right?
+
+630
+00:18:00,640 --> 00:18:03,040
+And I'm really wondering, sometimes,
+
+631
+00:18:03,040 --> 00:18:04,880
+how much thought really is put
+
+632
+00:18:04,880 --> 00:18:07,480
+into these critical, critical things.
+
+633
+00:18:07,480 --> 00:18:10,600
+I have a hunch that it's not enough.
+
+634
+00:18:10,600 --> 00:18:12,680
+And we need more people like you to help
+
+635
+00:18:12,680 --> 00:18:15,280
+advise these [--].
+
+636
+00:18:15,280 --> 00:18:16,320
+But that's fascinating.
+
+637
+00:18:16,320 --> 00:18:17,560
+Michal, we don't have much time.
+
+638
+00:18:17,560 --> 00:18:20,480
+But give me a few key insight nuggets
+
+639
+00:18:20,480 --> 00:18:22,160
+for the young entrepreneur
+
+640
+00:18:22,160 --> 00:18:23,760
+of how to approach
+
+641
+00:18:23,760 --> 00:18:26,000
+solving user experience issues
+
+642
+00:18:26,000 --> 00:18:29,440
+or intuitions as they build a company,
+
+643
+00:18:29,440 --> 00:18:31,080
+whether it's for B2B or B2C,
+
+644
+00:18:31,080 --> 00:18:35,200
+doesn't really matter.
+
+645
+00:18:35,200 --> 00:18:36,800
+Yeah. That could be a topic
+
+646
+00:18:36,800 --> 00:18:38,840
+for an entire conversation.
+
+647
+00:18:38,840 --> 00:18:40,720
+I think I would go back to kind of like
+
+648
+00:18:40,720 --> 00:18:41,822
+where I started.
+
+649
+00:18:41,823 --> 00:18:43,200
+It starts with why.
+
+650
+00:18:43,200 --> 00:18:44,680
+And I think this is also,
+
+651
+00:18:44,680 --> 00:18:46,560
+when I interview UX people,
+
+652
+00:18:46,560 --> 00:18:47,840
+when I look for UX people,
+
+653
+00:18:47,840 --> 00:18:48,920
+I start with looking
+
+654
+00:18:48,920 --> 00:18:49,960
+at their critical thinking
+
+655
+00:18:49,960 --> 00:18:51,280
+and their problem solving skills
+
+656
+00:18:51,280 --> 00:18:53,200
+before the visual aesthetic
+
+657
+00:18:53,200 --> 00:18:55,200
+and the ability to design a screen well.
+
+658
+00:18:55,200 --> 00:18:56,080
+You really want
+
+659
+00:18:56,080 --> 00:18:58,360
+to have people that keep asking why.
+
+660
+00:18:58,360 --> 00:18:59,400
+Really understanding like,
+
+661
+00:18:59,400 --> 00:19:00,480
+why are we doing that,
+
+662
+00:19:00,480 --> 00:19:01,880
+why are we doing it this way,
+
+663
+00:19:01,880 --> 00:19:03,080
+can we simplify it.
+
+664
+00:19:03,080 --> 00:19:06,200
+Like really keep asking this why.
+
+665
+00:19:06,200 --> 00:19:08,520
+And it's pretty interesting.
+
+666
+00:19:08,520 --> 00:19:09,600
+I have two toddlers
+
+667
+00:19:09,600 --> 00:19:11,280
+and I think those behaviors,
+
+668
+00:19:11,280 --> 00:19:15,360
+they ask why like 10 times on everything.
+
+669
+00:19:15,361 --> 00:19:16,960
+They go, but why, but why, but why.
+
+670
+00:19:16,960 --> 00:19:18,400
+And you know, as a parent
+
+671
+00:19:18,400 --> 00:19:20,200
+it would sometimes be challenging.
+
+672
+00:19:20,200 --> 00:19:22,040
+But I think that's the right mindset.
+
+673
+00:19:22,040 --> 00:19:24,320
+And I think over time along the way,
+
+674
+00:19:24,320 --> 00:19:26,320
+we start asking those deep whys.
+
+675
+00:19:26,320 --> 00:19:27,720
+But I think that those whys
+
+676
+00:19:27,720 --> 00:19:29,800
+and going like three whys in,
+
+677
+00:19:29,800 --> 00:19:32,000
+you know, the first principle approach.
+
+678
+00:19:32,001 --> 00:19:32,840
+Really understanding
+
+679
+00:19:32,840 --> 00:19:34,240
+why we need a certain things
+
+680
+00:19:34,240 --> 00:19:35,760
+and how can we do it better.
+
+681
+00:19:35,760 --> 00:19:37,280
+I think this is where innovation
+
+682
+00:19:37,280 --> 00:19:38,800
+starts from.
+
+683
+00:19:38,800 --> 00:19:40,720
+So, that would be kind of like
+
+684
+00:19:40,720 --> 00:19:43,840
+my top advice in terms of the mindset.
+
+685
+00:19:43,840 --> 00:19:44,280
+Because I think
+
+686
+00:19:44,280 --> 00:19:45,800
+it starts with the mindset.
+
+687
+00:19:45,800 --> 00:19:48,160
+And the more you ask those why,
+
+688
+00:19:48,160 --> 00:19:50,160
+I think this is where you start thinking
+
+689
+00:19:50,160 --> 00:19:52,080
+about things differently.
+
+690
+00:19:52,080 --> 00:19:53,400
+The other thing I would say
+
+691
+00:19:53,400 --> 00:19:56,840
+is what I think like personal experience
+
+692
+00:19:56,840 --> 00:19:59,160
+is many times provides good intuition
+
+693
+00:19:59,160 --> 00:20:00,920
+as to where we need to go.
+
+694
+00:20:00,921 --> 00:20:02,320
+We do need to remind ourselves
+
+695
+00:20:02,320 --> 00:20:05,200
+that you are not the user in most cases.
+
+696
+00:20:05,200 --> 00:20:06,680
+So, we need to be humble,
+
+697
+00:20:06,800 --> 00:20:07,520
+we need to make sure
+
+698
+00:20:07,520 --> 00:20:08,560
+that we're not making
+
+699
+00:20:08,560 --> 00:20:10,160
+too strong assumptions based on
+
+700
+00:20:10,160 --> 00:20:11,000
+our own experience
+
+701
+00:20:11,000 --> 00:20:12,560
+and take the time to truly try
+
+702
+00:20:12,560 --> 00:20:14,400
+and understand the audience
+
+703
+00:20:14,400 --> 00:20:15,200
+that we are targeting
+
+704
+00:20:15,200 --> 00:20:16,480
+and where they are coming from
+
+705
+00:20:16,480 --> 00:20:17,680
+and what are their challenges
+
+706
+00:20:17,680 --> 00:20:20,080
+and making sure that we have the empathy
+
+707
+00:20:20,080 --> 00:20:21,960
+and we really incorporate that into
+
+708
+00:20:21,960 --> 00:20:23,360
+how we approach the product
+
+709
+00:20:23,360 --> 00:20:24,800
+and we validate and we learn.
+
+710
+00:20:24,800 --> 00:20:25,800
+Because those things are changing
+
+711
+00:20:25,800 --> 00:20:26,840
+all the time.
+
+712
+00:20:26,840 --> 00:20:28,760
+So, yeah.
+
+713
+00:20:28,760 --> 00:20:31,160
+I think that's just inspiring.
+
+714
+00:20:31,160 --> 00:20:32,680
+So, thank you, Michal, for that.
+
+715
+00:20:32,680 --> 00:20:34,434
+Three words that you would use
+
+716
+00:20:34,435 --> 00:20:35,720
+to describe yourself.
+
+717
+00:20:35,720 --> 00:20:37,720
+My favorite question.
+
+718
+00:20:40,720 --> 00:20:42,240
+Okay. So, three words.
+
+719
+00:20:42,240 --> 00:20:43,480
+I'm probably going to,
+
+720
+00:20:43,480 --> 00:20:44,520
+I'm going to cheat a little bit
+
+721
+00:20:44,520 --> 00:20:45,160
+because I'm going to use
+
+722
+00:20:45,160 --> 00:20:46,800
+the two words for each one.
+
+723
+00:20:46,800 --> 00:20:48,640
+But there is a hyphen there
+
+724
+00:20:48,640 --> 00:20:51,240
+so, theoretically speaking, it's one.
+
+725
+00:20:51,240 --> 00:20:54,280
+I think one thing about myself that
+
+726
+00:20:54,280 --> 00:20:55,880
+characterizes me, I think,
+
+727
+00:20:55,880 --> 00:20:56,760
+in everything that I do
+
+728
+00:20:56,760 --> 00:20:57,920
+and also my career is
+
+729
+00:20:57,920 --> 00:20:59,240
+just like people-focused.
+
+730
+00:20:59,240 --> 00:21:00,840
+I think it all starts with the people.
+
+731
+00:21:00,840 --> 00:21:01,960
+Hiring the right people,
+
+732
+00:21:01,960 --> 00:21:04,280
+building the right relationships,
+
+733
+00:21:04,280 --> 00:21:05,640
+being really people focusing,
+
+734
+00:21:05,640 --> 00:21:06,880
+kind of like what people need,
+
+735
+00:21:06,880 --> 00:21:08,280
+how you can grow them,
+
+736
+00:21:08,280 --> 00:21:10,200
+how do we work with them as peers.
+
+737
+00:21:10,200 --> 00:21:11,520
+That's going to be one.
+
+738
+00:21:11,520 --> 00:21:13,680
+The second is growth-minded.
+
+739
+00:21:13,680 --> 00:21:14,760
+I think constantly,
+
+740
+00:21:14,760 --> 00:21:17,040
+like I seek feedback, I seek growth.
+
+741
+00:21:17,040 --> 00:21:18,840
+I want to grow as an individual.
+
+742
+00:21:18,840 --> 00:21:20,240
+I want to grow as a professional.
+
+743
+00:21:20,240 --> 00:21:21,600
+I am a big believer
+
+744
+00:21:21,600 --> 00:21:24,200
+in the approach of atomic habits.
+
+745
+00:21:24,200 --> 00:21:26,400
+Get 1% better every day.
+
+746
+00:21:26,400 --> 00:21:28,440
+And so I really do seek
+
+747
+00:21:28,440 --> 00:21:31,160
+those avenues of growth constantly.
+
+748
+00:21:31,160 --> 00:21:32,640
+And the last thing I would say
+
+749
+00:21:32,640 --> 00:21:35,920
+is daring-greatly.
+
+750
+00:21:35,920 --> 00:21:37,480
+Which is a concept
+
+751
+00:21:37,480 --> 00:21:39,760
+that has kind of become more popular
+
+752
+00:21:39,760 --> 00:21:41,739
+with Brené Brown books,
+
+753
+00:21:41,740 --> 00:21:42,960
+which I absolutely admire.
+
+754
+00:21:42,960 --> 00:21:44,320
+I think she is she's brilliant
+
+755
+00:21:44,320 --> 00:21:46,920
+and she like the type of messages
+
+756
+00:21:46,920 --> 00:21:47,720
+that she's trying
+
+757
+00:21:47,720 --> 00:21:49,200
+to kind of like disseminate
+
+758
+00:21:49,200 --> 00:21:51,880
+are so important on vulnerability
+
+759
+00:21:51,880 --> 00:21:54,680
+and imperfection.
+
+760
+00:21:54,680 --> 00:21:55,760
+But to me, that's kind of like
+
+761
+00:21:55,760 --> 00:21:59,000
+this idea of like being in the arena,
+
+762
+00:21:59,000 --> 00:22:01,080
+fighting, putting in the blood and sweat
+
+763
+00:22:01,080 --> 00:22:04,240
+and failing and overcoming obstacles
+
+764
+00:22:04,240 --> 00:22:06,960
+until kind of like you ideally succeed,
+
+765
+00:22:06,960 --> 00:22:09,480
+but really kind of like not just critique
+
+766
+00:22:09,480 --> 00:22:11,040
+and point from the side
+
+767
+00:22:11,040 --> 00:22:12,040
+of what's not working.
+
+768
+00:22:12,040 --> 00:22:14,120
+But really being there and trying
+
+769
+00:22:14,120 --> 00:22:17,160
+and working hard for worthy outcomes
+
+770
+00:22:17,160 --> 00:22:19,160
+and do your best.
+
+771
+00:22:19,400 --> 00:22:20,000
+I just love that.
+
+772
+00:22:20,000 --> 00:22:21,560
+Michal, thank you so, so much.
+
+773
+00:22:21,560 --> 00:22:22,800
+This was wonderful.
+
+774
+00:22:22,800 --> 00:22:24,600
+I appreciate your time so much.
+
+775
+00:22:24,600 --> 00:22:25,760
+I know how busy you are.
+
+776
+00:22:25,760 --> 00:22:27,080
+And all I can say
+
+777
+00:22:27,080 --> 00:22:28,560
+is stay safe and stay healthy.
+
+778
+00:22:28,560 --> 00:22:29,880
+And thank you for the amazing
+
+779
+00:22:29,880 --> 00:22:30,717
+work that you're doing.
+
+780
+00:22:31,718 --> 00:22:32,718
+Thank you.
+

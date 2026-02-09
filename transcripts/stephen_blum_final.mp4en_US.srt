@@ -1,0 +1,2732 @@
+﻿1
+00:00:00,080 --> 00:00:02,119
+I feel like I'm just using and abusing
+
+2
+00:00:02,120 --> 00:00:04,239
+technology just to make a business.
+
+3
+00:00:04,240 --> 00:00:06,719
+So, like with software,
+
+4
+00:00:06,720 --> 00:00:08,640
+think about like software,
+
+5
+00:00:08,960 --> 00:00:10,719
+you can make copies of it
+
+6
+00:00:10,720 --> 00:00:11,900
+and it doesn't cost you anything.
+
+7
+00:00:39,760 --> 00:00:41,359
+Stephen Blum, thank you
+
+8
+00:00:41,360 --> 00:00:43,599
+for joining me on 20 Minute Leaders.
+
+9
+00:00:43,600 --> 00:00:45,639
+It's been almost seven years
+
+10
+00:00:45,640 --> 00:00:48,119
+since we worked together last through
+
+11
+00:00:48,120 --> 00:00:49,759
+the Hacking Generation Y company
+
+12
+00:00:49,760 --> 00:00:50,479
+that I ran.
+
+13
+00:00:50,480 --> 00:00:52,080
+How are you?
+
+14
+00:00:52,800 --> 00:00:54,199
+So good.
+
+15
+00:00:54,200 --> 00:00:54,839
+Amazing.
+
+16
+00:00:54,840 --> 00:00:55,839
+That was the same response
+
+17
+00:00:55,840 --> 00:00:56,959
+you gave me seven years ago.
+
+18
+00:00:56,960 --> 00:00:58,520
+So, I'm glad that
+
+19
+00:00:58,520 --> 00:01:00,760
+I feel so much has changed
+
+20
+00:01:00,760 --> 00:01:02,440
+and then you're being consistent.
+
+21
+00:01:02,440 --> 00:01:03,280
+So, I just love that.
+
+22
+00:01:03,280 --> 00:01:03,979
+Stephen, you're the
+
+23
+00:01:04,179 --> 00:01:05,599
+chief technology officer of PubNub.
+
+24
+00:01:05,600 --> 00:01:08,000
+I am incredibly excited to learn more
+
+25
+00:01:08,000 --> 00:01:10,120
+about what you guys are doing
+
+26
+00:01:10,120 --> 00:01:11,840
+and diving into some of the things
+
+27
+00:01:11,840 --> 00:01:13,040
+that really make you excited about
+
+28
+00:01:13,040 --> 00:01:14,240
+the technology your developing.
+
+29
+00:01:14,240 --> 00:01:16,640
+But before that, I always love starting
+
+30
+00:01:16,640 --> 00:01:19,000
+with the journey of the entrepreneur
+
+31
+00:01:19,000 --> 00:01:20,360
+and the journey of the leader.
+
+32
+00:01:20,360 --> 00:01:21,840
+Because you have a phenomenal journey.
+
+33
+00:01:21,840 --> 00:01:23,960
+You've worked at quite a few companies
+
+34
+00:01:23,960 --> 00:01:25,960
+as lead as senior developer
+
+35
+00:01:25,961 --> 00:01:27,519
+and architecture.
+
+36
+00:01:27,520 --> 00:01:29,719
+So, tell me a little bit about
+
+37
+00:01:29,720 --> 00:01:31,759
+what you're passionate about
+
+38
+00:01:31,760 --> 00:01:32,559
+and take me all the way back
+
+39
+00:01:32,560 --> 00:01:33,439
+to your college days.
+
+40
+00:01:33,440 --> 00:01:35,439
+How do you get excited about technology
+
+41
+00:01:35,440 --> 00:01:36,480
+to the point where you are now?
+
+42
+00:01:36,480 --> 00:01:38,840
+Oh wow.
+
+43
+00:01:38,840 --> 00:01:42,160
+Yeah. It's a lot, yeah.
+
+44
+00:01:42,160 --> 00:01:43,280
+Really, it's all about
+
+45
+00:01:43,280 --> 00:01:44,560
+that means to an end.
+
+46
+00:01:44,560 --> 00:01:45,948
+So, technology,
+
+47
+00:01:46,148 --> 00:01:47,520
+sure, it's great.
+
+48
+00:01:47,520 --> 00:01:48,240
+And it can get you
+
+49
+00:01:48,240 --> 00:01:49,440
+to where you want to go.
+
+50
+00:01:49,441 --> 00:01:51,439
+From what gets me excited,
+
+51
+00:01:51,440 --> 00:01:52,799
+what really excites me
+
+52
+00:01:52,800 --> 00:01:54,400
+is that business model.
+
+53
+00:01:54,400 --> 00:01:54,600
+Right.
+
+54
+00:01:54,601 --> 00:01:56,999
+I'm really attracted that business model.
+
+55
+00:01:57,000 --> 00:01:58,679
+Yeah, attract that repeatable opinion.
+
+56
+00:01:58,680 --> 00:02:00,199
+You don't hear that so much
+
+57
+00:02:00,200 --> 00:02:03,359
+from chief technology officers, right?
+
+58
+00:02:03,360 --> 00:02:03,599
+Yeah.
+
+59
+00:02:03,600 --> 00:02:05,079
+That's actually a good point.
+
+60
+00:02:05,080 --> 00:02:08,079
+And I feel like I'm,
+
+61
+00:02:08,080 --> 00:02:10,039
+I'm just using and abusing technology
+
+62
+00:02:10,040 --> 00:02:11,559
+just to make a business.
+
+63
+00:02:11,560 --> 00:02:14,039
+So, like with software,
+
+64
+00:02:14,040 --> 00:02:15,919
+think about like software,
+
+65
+00:02:16,119 --> 00:02:18,039
+you can make copies of it
+
+66
+00:02:18,040 --> 00:02:19,760
+and it doesn't cost you anything.
+
+67
+00:02:21,440 --> 00:02:22,399
+I like that idea.
+
+68
+00:02:22,400 --> 00:02:23,639
+That means production costs
+
+69
+00:02:23,640 --> 00:02:24,999
+are pretty dang low.
+
+70
+00:02:25,000 --> 00:02:27,679
+So, how can we make that a business
+
+71
+00:02:27,680 --> 00:02:28,399
+and then how can we make
+
+72
+00:02:28,400 --> 00:02:29,640
+that easily consumable?
+
+73
+00:02:29,640 --> 00:02:30,760
+If you just press a button
+
+74
+00:02:30,760 --> 00:02:32,280
+and you magically gets a PubNub,
+
+75
+00:02:32,281 --> 00:02:33,199
+for example,
+
+76
+00:02:33,200 --> 00:02:35,400
+that's like the best possible business.
+
+77
+00:02:35,400 --> 00:02:36,840
+Because it's like money in,
+
+78
+00:02:36,840 --> 00:02:38,440
+easy, no problem.
+
+79
+00:02:38,440 --> 00:02:39,920
+And it takes a little bit more than that
+
+80
+00:02:39,920 --> 00:02:42,400
+with a company, like PubNub,
+
+81
+00:02:42,401 --> 00:02:45,479
+there's of course, that freemium model,
+
+82
+00:02:45,480 --> 00:02:45,840
+right?
+
+83
+00:02:45,840 --> 00:02:47,240
+So, it's like gives you the taste,
+
+84
+00:02:47,240 --> 00:02:47,920
+make sure that
+
+85
+00:02:47,920 --> 00:02:49,320
+it's what you're looking for
+
+86
+00:02:49,320 --> 00:02:51,320
+and gives you that aha moment.
+
+87
+00:02:51,320 --> 00:02:52,440
+Oh wait a second,
+
+88
+00:02:52,440 --> 00:02:54,560
+I didn't know that's something
+
+89
+00:02:54,560 --> 00:02:56,000
+that could be done?
+
+90
+00:02:56,000 --> 00:02:57,840
+Like that's what one
+
+91
+00:02:57,840 --> 00:02:58,720
+of my challenges is
+
+92
+00:02:58,720 --> 00:03:00,680
+trying to educate the market, saying,
+
+93
+00:03:00,680 --> 00:03:01,840
+this is something that you can do.
+
+94
+00:03:01,840 --> 00:03:02,440
+And especially now
+
+95
+00:03:02,440 --> 00:03:04,560
+with a lot of the work from home,
+
+96
+00:03:04,560 --> 00:03:06,360
+we've seen a massive increase
+
+97
+00:03:06,360 --> 00:03:08,720
+in our graph of traffic gaps.
+
+98
+00:03:08,720 --> 00:03:10,920
+Since you started on PubNub,
+
+99
+00:03:10,920 --> 00:03:12,040
+what is PubNub?
+
+100
+00:03:12,040 --> 00:03:13,320
+What service are you providing
+
+101
+00:03:13,321 --> 00:03:14,599
+and what is that aha moment
+
+102
+00:03:14,600 --> 00:03:16,080
+that you're referring to
+
+103
+00:03:16,080 --> 00:03:17,040
+that people already in the
+
+104
+00:03:17,040 --> 00:03:19,040
+freemium model are getting?
+
+105
+00:03:20,040 --> 00:03:20,520
+Yeah.
+
+106
+00:03:20,520 --> 00:03:23,640
+So, we're a communications platform
+
+107
+00:03:23,640 --> 00:03:26,560
+that allows multiplayer gaming,
+
+108
+00:03:26,560 --> 00:03:28,120
+or delivery
+
+109
+00:03:28,121 --> 00:03:29,959
+or peloton bike experiences
+
+110
+00:03:29,960 --> 00:03:32,080
+where you shared in a classroom.
+
+111
+00:03:32,080 --> 00:03:34,280
+And there's just so many,
+
+112
+00:03:34,280 --> 00:03:36,360
+like we have delivery services that uses,
+
+113
+00:03:36,360 --> 00:03:38,320
+it tracks the car on the map
+
+114
+00:03:38,320 --> 00:03:40,040
+as it's going by, like,
+
+115
+00:03:40,040 --> 00:03:41,960
+How close is my Chipotle order?
+
+116
+00:03:41,960 --> 00:03:42,680
+I'm hungry.
+
+117
+00:03:42,680 --> 00:03:44,680
+I want it, I need it now.
+
+118
+00:03:44,680 --> 00:03:45,840
+So, that's the kinds of things
+
+119
+00:03:45,840 --> 00:03:47,080
+that we take care of.
+
+120
+00:03:47,080 --> 00:03:48,560
+And we do it really, we're better
+
+121
+00:03:48,560 --> 00:03:50,240
+than everyone else doing it.
+
+122
+00:03:50,240 --> 00:03:51,160
+And we've got,
+
+123
+00:03:51,160 --> 00:03:52,760
+we're actually the world record holders
+
+124
+00:03:52,760 --> 00:03:54,160
+in the largest online events.
+
+125
+00:03:54,160 --> 00:03:54,840
+Yes.
+
+126
+00:03:54,840 --> 00:03:55,440
+What does that mean?
+
+127
+00:03:55,440 --> 00:03:56,240
+Tell me about these
+
+128
+00:03:56,240 --> 00:03:59,120
+world record holder holdings.
+
+129
+00:03:59,120 --> 00:04:01,440
+For the largest number of concurrent
+
+130
+00:04:01,440 --> 00:04:03,320
+audience members in history,
+
+131
+00:04:03,320 --> 00:04:04,520
+in human history,
+
+132
+00:04:04,520 --> 00:04:07,360
+we hold four sporting events
+
+133
+00:04:07,360 --> 00:04:10,160
+in a subsidiary of Disney.
+
+134
+00:04:10,160 --> 00:04:13,880
+We powered their televised event
+
+135
+00:04:13,880 --> 00:04:15,760
+and millions,
+
+136
+00:04:15,760 --> 00:04:17,480
+tens of millions of viewers
+
+137
+00:04:17,480 --> 00:04:18,720
+were all connected
+
+138
+00:04:18,720 --> 00:04:20,120
+with the shared experience
+
+139
+00:04:20,120 --> 00:04:21,640
+powered through our network.
+
+140
+00:04:21,640 --> 00:04:22,720
+It's sort of like
+
+141
+00:04:22,720 --> 00:04:24,160
+a nice little badge of honor
+
+142
+00:04:24,160 --> 00:04:25,280
+that we have,
+
+143
+00:04:25,280 --> 00:04:26,080
+that we've achieved.
+
+144
+00:04:26,080 --> 00:04:27,600
+Stephen, You're sitting either
+
+145
+00:04:27,600 --> 00:04:28,880
+at home if it's covid,
+
+146
+00:04:28,880 --> 00:04:29,640
+or in your office
+
+147
+00:04:29,640 --> 00:04:31,000
+if it's the regular life.
+
+148
+00:04:31,000 --> 00:04:32,720
+And in real time,
+
+149
+00:04:32,720 --> 00:04:34,760
+you have tens of millions of people
+
+150
+00:04:34,760 --> 00:04:36,680
+that are getting their data,
+
+151
+00:04:36,680 --> 00:04:38,560
+getting their experience
+
+152
+00:04:38,560 --> 00:04:39,880
+through PubNub.
+
+153
+00:04:39,880 --> 00:04:40,880
+And it's a technology
+
+154
+00:04:40,880 --> 00:04:42,160
+that you're responsible for.
+
+155
+00:04:42,160 --> 00:04:43,880
+You are the leader of it.
+
+156
+00:04:43,880 --> 00:04:45,760
+You're holding the technology stack.
+
+157
+00:04:45,761 --> 00:04:46,960
+Right?
+
+158
+00:04:47,120 --> 00:04:48,400
+Is that scary?
+
+159
+00:04:48,400 --> 00:04:50,240
+Is that fun?
+
+160
+00:04:51,320 --> 00:04:53,640
+Oh, it's exciting.
+
+161
+00:04:53,640 --> 00:04:55,480
+There's just so much.
+
+162
+00:04:55,480 --> 00:04:56,720
+But it's also a little,
+
+163
+00:04:56,720 --> 00:04:59,120
+like you're saying, scary.
+
+164
+00:04:59,120 --> 00:05:01,280
+Yeah, because we actually
+
+165
+00:05:01,281 --> 00:05:03,759
+we power airports
+
+166
+00:05:03,760 --> 00:05:05,360
+in the fueling of planes
+
+167
+00:05:05,360 --> 00:05:06,880
+and we make phones ring
+
+168
+00:05:06,880 --> 00:05:09,560
+and really important messages
+
+169
+00:05:09,560 --> 00:05:11,440
+that go through the system
+
+170
+00:05:11,440 --> 00:05:13,240
+and we can't lose them.
+
+171
+00:05:13,240 --> 00:05:14,720
+Like if we lose them,
+
+172
+00:05:14,720 --> 00:05:17,440
+some catastrophe is awaiting.
+
+173
+00:05:17,440 --> 00:05:22,400
+And we have to keep innovating.
+
+174
+00:05:22,400 --> 00:05:24,000
+We have to keep software moving.
+
+175
+00:05:24,001 --> 00:05:25,759
+So, we have to build a system
+
+176
+00:05:25,760 --> 00:05:28,560
+that is able to be updated
+
+177
+00:05:28,560 --> 00:05:31,920
+while not dropping a single message.
+
+178
+00:05:31,920 --> 00:05:32,720
+That's hard.
+
+179
+00:05:32,720 --> 00:05:33,360
+That's scary.
+
+180
+00:05:33,360 --> 00:05:34,400
+That's challenging.
+
+181
+00:05:34,400 --> 00:05:36,800
+And that's what we're doing
+
+182
+00:05:36,800 --> 00:05:38,080
+and that's what we're really good at.
+
+183
+00:05:38,080 --> 00:05:40,200
+You mentioned the term,
+
+184
+00:05:40,200 --> 00:05:41,960
+"educating the market" before.
+
+185
+00:05:41,960 --> 00:05:43,040
+Actually, a lot of the things
+
+186
+00:05:43,040 --> 00:05:44,640
+that you've been referring to
+
+187
+00:05:44,640 --> 00:05:45,720
+in this talk so far,
+
+188
+00:05:45,720 --> 00:05:48,200
+I feel like I think that I've been
+
+189
+00:05:48,200 --> 00:05:49,600
+learning through all these different
+
+190
+00:05:49,600 --> 00:05:51,560
+entrepreneurial courses at Stanford
+
+191
+00:05:51,561 --> 00:05:52,799
+or venture capital courses
+
+192
+00:05:52,800 --> 00:05:53,960
+or entrepreneurial courses
+
+193
+00:05:53,960 --> 00:05:55,600
+and Andreessen Horowitz articles,
+
+194
+00:05:55,601 --> 00:05:56,439
+and you've condensed that
+
+195
+00:05:56,440 --> 00:05:57,799
+into your PubNub journey,
+
+196
+00:05:57,800 --> 00:05:59,960
+which I think is just inspiring.
+
+197
+00:05:59,960 --> 00:06:01,840
+What is educating the market to you
+
+198
+00:06:01,841 --> 00:06:03,279
+and how did you need to educate
+
+199
+00:06:03,280 --> 00:06:04,679
+the markets to get PubNub
+
+200
+00:06:04,680 --> 00:06:07,879
+to where it is today?
+
+201
+00:06:07,880 --> 00:06:09,600
+So, it's the same challenge
+
+202
+00:06:09,601 --> 00:06:10,839
+with every company.
+
+203
+00:06:10,840 --> 00:06:11,919
+It doesn't really matter if you have
+
+204
+00:06:11,920 --> 00:06:14,120
+a very specific product or sort of
+
+205
+00:06:14,120 --> 00:06:15,720
+a horizontal communications network
+
+206
+00:06:15,720 --> 00:06:17,240
+like we have,
+
+207
+00:06:17,240 --> 00:06:19,760
+the challenge is finding a way
+
+208
+00:06:19,760 --> 00:06:22,440
+to communicate with a specific industry
+
+209
+00:06:22,440 --> 00:06:23,800
+in this case.
+
+210
+00:06:23,800 --> 00:06:25,280
+So, how I was describing
+
+211
+00:06:25,280 --> 00:06:26,720
+the car in the map
+
+212
+00:06:26,720 --> 00:06:27,400
+that's going through,
+
+213
+00:06:27,400 --> 00:06:28,240
+you can see how close
+
+214
+00:06:28,240 --> 00:06:29,520
+your Chipotle order is.
+
+215
+00:06:29,520 --> 00:06:31,800
+You need to have those stories.
+
+216
+00:06:31,800 --> 00:06:33,000
+You need to relay them
+
+217
+00:06:33,000 --> 00:06:34,240
+in a digital fashion
+
+218
+00:06:34,240 --> 00:06:35,360
+in a way that's consumable
+
+219
+00:06:35,360 --> 00:06:36,520
+for your audience,
+
+220
+00:06:36,520 --> 00:06:37,840
+your target audience.
+
+221
+00:06:37,840 --> 00:06:38,160
+Right.
+
+222
+00:06:38,160 --> 00:06:39,960
+That's like the hardest part.
+
+223
+00:06:39,960 --> 00:06:41,760
+And it also feels
+
+224
+00:06:41,880 --> 00:06:43,520
+scary to do that
+
+225
+00:06:43,520 --> 00:06:44,920
+because now you're,
+
+226
+00:06:44,920 --> 00:06:47,080
+you're like siloing your market.
+
+227
+00:06:47,080 --> 00:06:47,680
+And it's like,
+
+228
+00:06:47,680 --> 00:06:48,800
+but we're only going to capture
+
+229
+00:06:48,800 --> 00:06:50,520
+this level of revenue.
+
+230
+00:06:50,520 --> 00:06:51,320
+And then it's like,
+
+231
+00:06:51,320 --> 00:06:52,400
+what about all this other
+
+232
+00:06:52,400 --> 00:06:53,680
+sea of revenue over here?
+
+233
+00:06:53,680 --> 00:06:56,080
+You're leaving it on the table?
+
+234
+00:06:56,081 --> 00:06:58,079
+Actually, no, you're not,
+
+235
+00:06:58,080 --> 00:07:01,040
+because you're going to laser focus
+
+236
+00:07:01,040 --> 00:07:02,760
+and you're going to nail that target.
+
+237
+00:07:02,760 --> 00:07:03,920
+You're going to get those customers
+
+238
+00:07:03,920 --> 00:07:04,840
+to that aha moment.
+
+239
+00:07:04,840 --> 00:07:06,360
+You're going to be able to bring in
+
+240
+00:07:06,360 --> 00:07:08,840
+more qualified leads and then
+
+241
+00:07:08,840 --> 00:07:09,920
+you can take that pattern.
+
+242
+00:07:09,921 --> 00:07:10,559
+And this is a cool part,
+
+243
+00:07:10,560 --> 00:07:12,360
+this is the part I love, I love this,
+
+244
+00:07:12,360 --> 00:07:13,480
+you can repeat it,
+
+245
+00:07:13,480 --> 00:07:15,400
+you can repeat that pattern and go after
+
+246
+00:07:15,401 --> 00:07:16,799
+all the rest of those industries
+
+247
+00:07:16,800 --> 00:07:19,280
+and all those markets and win
+
+248
+00:07:19,280 --> 00:07:20,600
+at a much better rate.
+
+249
+00:07:20,600 --> 00:07:21,800
+And that's critical.
+
+250
+00:07:21,800 --> 00:07:23,880
+You have to do that verticalization.
+
+251
+00:07:23,880 --> 00:07:25,320
+So, from what I understand,
+
+252
+00:07:25,320 --> 00:07:27,600
+a lot of the majority of people fail
+
+253
+00:07:27,600 --> 00:07:29,600
+at that laser focus part, right?
+
+254
+00:07:29,600 --> 00:07:31,320
+So, they may have a good product,
+
+255
+00:07:31,320 --> 00:07:32,160
+they have a good idea,
+
+256
+00:07:32,160 --> 00:07:34,120
+they have a good sense of the market,
+
+257
+00:07:34,120 --> 00:07:36,440
+but they fail to have that laser focus.
+
+258
+00:07:36,440 --> 00:07:38,960
+And I'm thinking back to
+
+259
+00:07:38,960 --> 00:07:41,360
+first run article about superhuman,
+
+260
+00:07:41,360 --> 00:07:43,440
+where they talk about how they,
+
+261
+00:07:43,440 --> 00:07:44,640
+how they nailed down
+
+262
+00:07:44,640 --> 00:07:46,280
+on their target market
+
+263
+00:07:46,280 --> 00:07:48,440
+and really were laser focused.
+
+264
+00:07:48,440 --> 00:07:49,800
+What was that experience like for you?
+
+265
+00:07:49,800 --> 00:07:51,440
+How do you become laser focused
+
+266
+00:07:51,441 --> 00:07:55,480
+on a specific submarket of the
+
+267
+00:07:56,200 --> 00:07:57,479
+submarket?
+
+268
+00:07:57,480 --> 00:07:58,479
+It's trial and error,
+
+269
+00:07:58,480 --> 00:08:01,039
+but also, if there's a bigger hurdle,
+
+270
+00:08:01,040 --> 00:08:02,399
+it's ourselves.
+
+271
+00:08:02,400 --> 00:08:03,359
+It's ourselves.
+
+272
+00:08:03,360 --> 00:08:06,319
+Because convincing ourselves to do it,
+
+273
+00:08:06,320 --> 00:08:07,719
+is the biggest challenge.
+
+274
+00:08:07,720 --> 00:08:09,399
+And we're a big team, right?
+
+275
+00:08:09,400 --> 00:08:10,879
+And a lot of folks are responsible
+
+276
+00:08:10,880 --> 00:08:14,239
+for getting those key metrics successful.
+
+277
+00:08:14,240 --> 00:08:15,040
+Right?
+
+278
+00:08:15,041 --> 00:08:16,039
+We have targets and goals
+
+279
+00:08:16,040 --> 00:08:17,280
+and we have to hit those.
+
+280
+00:08:17,280 --> 00:08:18,280
+And then if you just focus
+
+281
+00:08:18,280 --> 00:08:20,280
+on one particular area,
+
+282
+00:08:22,520 --> 00:08:23,520
+it's worrisome.
+
+283
+00:08:23,520 --> 00:08:26,040
+So, trying to get us all
+
+284
+00:08:26,040 --> 00:08:27,720
+on the same page to do that,
+
+285
+00:08:27,720 --> 00:08:29,800
+that's been the number one challenge.
+
+286
+00:08:29,800 --> 00:08:31,040
+It's the hardest part.
+
+287
+00:08:31,040 --> 00:08:31,880
+I love it.
+
+288
+00:08:31,880 --> 00:08:33,560
+Stephen, take me back 10 years.
+
+289
+00:08:33,560 --> 00:08:36,600
+You're starting out PubNub,
+
+290
+00:08:36,600 --> 00:08:37,640
+what was it like?
+
+291
+00:08:37,640 --> 00:08:40,880
+Tell me the founding story of PubNub.
+
+292
+00:08:42,000 --> 00:08:44,440
+So, I've always been entrepreneurial.
+
+293
+00:08:44,440 --> 00:08:46,000
+My family, my grandfather,
+
+294
+00:08:46,000 --> 00:08:48,120
+they owned a local business
+
+295
+00:08:48,120 --> 00:08:51,400
+in the city and they sold
+
+296
+00:08:51,400 --> 00:08:53,880
+pipe fittings and in other types
+
+297
+00:08:53,880 --> 00:08:57,320
+of utility systems.
+
+298
+00:08:58,280 --> 00:08:59,880
+I don't know if that inspired me
+
+299
+00:08:59,880 --> 00:09:02,240
+or ingrained me into just being,
+
+300
+00:09:02,240 --> 00:09:04,120
+oh, this is the way it needs to be.
+
+301
+00:09:04,120 --> 00:09:05,720
+We just have a business
+
+302
+00:09:05,721 --> 00:09:07,719
+and you go for it.
+
+303
+00:09:07,720 --> 00:09:08,920
+And finding like, an approach,
+
+304
+00:09:08,920 --> 00:09:11,960
+I always had that a desire.
+
+305
+00:09:11,960 --> 00:09:13,920
+So PubNub, just like,
+
+306
+00:09:13,920 --> 00:09:14,840
+oh, this is a new way,
+
+307
+00:09:14,840 --> 00:09:16,520
+here's a problem.
+
+308
+00:09:17,280 --> 00:09:19,120
+This phone over here,
+
+309
+00:09:19,120 --> 00:09:20,280
+like I want this phone
+
+310
+00:09:20,280 --> 00:09:21,840
+to talk to that thing over there.
+
+311
+00:09:21,840 --> 00:09:24,080
+And I want it to be as easy as possible.
+
+312
+00:09:24,080 --> 00:09:25,240
+How can I make that possible?
+
+313
+00:09:25,240 --> 00:09:26,160
+How can I do that?
+
+314
+00:09:26,160 --> 00:09:27,000
+Well, I didn't know much
+
+315
+00:09:27,000 --> 00:09:27,960
+about networking.
+
+316
+00:09:27,960 --> 00:09:30,160
+I didn't know much about,
+
+317
+00:09:30,160 --> 00:09:31,520
+it was like,
+
+318
+00:09:31,521 --> 00:09:33,959
+how can I make that easy?
+
+319
+00:09:33,960 --> 00:09:36,400
+Okay, I need to learn about this.
+
+320
+00:09:36,400 --> 00:09:39,760
+I need to learn about Linux Kernel APIs.
+
+321
+00:09:39,760 --> 00:09:42,040
+I need to learn about networking,
+
+322
+00:09:42,040 --> 00:09:43,800
+what is an Ethernet frame,
+
+323
+00:09:43,800 --> 00:09:48,040
+what's a TCP tuple,
+
+324
+00:09:48,040 --> 00:09:49,240
+can we do UDP,
+
+325
+00:09:49,240 --> 00:09:49,680
+what is that,
+
+326
+00:09:49,680 --> 00:09:51,880
+what is even that, right?
+
+327
+00:09:51,880 --> 00:09:53,640
+So, I had to figure all that stuff out.
+
+328
+00:09:53,640 --> 00:09:54,200
+I didn't know
+
+329
+00:09:54,200 --> 00:09:57,640
+but I wanted it to be the best.
+
+330
+00:09:57,640 --> 00:09:59,680
+I wanted it to have, like
+
+331
+00:09:59,680 --> 00:10:01,160
+all these technologies out there
+
+332
+00:10:01,160 --> 00:10:01,960
+that allowed you to do
+
+333
+00:10:01,960 --> 00:10:03,640
+communication had limitations.
+
+334
+00:10:03,640 --> 00:10:04,120
+Right.
+
+335
+00:10:04,120 --> 00:10:06,360
+Like the AT&T network,
+
+336
+00:10:06,360 --> 00:10:08,640
+they have so much hardware
+
+337
+00:10:08,641 --> 00:10:10,079
+because the software has limited
+
+338
+00:10:10,080 --> 00:10:12,920
+and like, I don't want that limit.
+
+339
+00:10:12,920 --> 00:10:15,400
+When I make phone ring
+
+340
+00:10:15,400 --> 00:10:16,160
+across the world,
+
+341
+00:10:16,160 --> 00:10:18,160
+I don't want it to wait three seconds
+
+342
+00:10:18,160 --> 00:10:19,520
+because it has to go
+
+343
+00:10:19,520 --> 00:10:21,160
+through all these switching boards.
+
+344
+00:10:21,160 --> 00:10:23,400
+I want it to do as soon as you press
+
+345
+00:10:23,401 --> 00:10:24,959
+your finger on the phone,
+
+346
+00:10:24,960 --> 00:10:25,520
+the call button,
+
+347
+00:10:25,520 --> 00:10:27,400
+I want it to ring on the other side.
+
+348
+00:10:27,400 --> 00:10:29,040
+Like that's what my goal was.
+
+349
+00:10:29,040 --> 00:10:31,480
+So, like having that objective
+
+350
+00:10:31,480 --> 00:10:33,080
+for high quality and efficient,
+
+351
+00:10:33,080 --> 00:10:35,640
+and then being able to sell it as well
+
+352
+00:10:35,640 --> 00:10:37,240
+without having any overhead,
+
+353
+00:10:37,240 --> 00:10:38,480
+that was the goal.
+
+354
+00:10:38,480 --> 00:10:39,600
+Like creating a business
+
+355
+00:10:39,600 --> 00:10:40,760
+that could do that
+
+356
+00:10:40,760 --> 00:10:42,520
+and get people really excited.
+
+357
+00:10:42,520 --> 00:10:43,520
+And then I could take it
+
+358
+00:10:43,520 --> 00:10:44,200
+and then show people
+
+359
+00:10:44,200 --> 00:10:45,680
+how cool it was
+
+360
+00:10:45,680 --> 00:10:47,200
+on every single possible use case.
+
+361
+00:10:47,200 --> 00:10:48,280
+That was the vision.
+
+362
+00:10:48,280 --> 00:10:49,120
+That was the driver.
+
+363
+00:10:49,120 --> 00:10:50,880
+So, I'm going back to the beginning.
+
+364
+00:10:50,880 --> 00:10:52,920
+You're saying the technology for you
+
+365
+00:10:52,920 --> 00:10:54,320
+as the chief technology officer
+
+366
+00:10:54,321 --> 00:10:55,319
+is a means to an end.
+
+367
+00:10:55,320 --> 00:10:57,440
+You're really excited about the impact
+
+368
+00:10:57,440 --> 00:10:58,720
+that you're able to make,
+
+369
+00:10:58,720 --> 00:11:00,880
+whether it's connecting tens of millions
+
+370
+00:11:00,880 --> 00:11:03,560
+of people and a single point in time
+
+371
+00:11:03,560 --> 00:11:05,120
+or over the span of ten years,
+
+372
+00:11:05,120 --> 00:11:06,240
+really educating the market
+
+373
+00:11:06,240 --> 00:11:08,080
+and becoming a market leader
+
+374
+00:11:08,081 --> 00:11:11,399
+in this multiplayer communication.
+
+375
+00:11:11,400 --> 00:11:15,720
+So, back then, when you're talking about,
+
+376
+00:11:15,840 --> 00:11:20,160
+figuring out TCP, UDP, Ethernet frames,
+
+377
+00:11:20,160 --> 00:11:21,520
+I mean, that's complicated stuff.
+
+378
+00:11:21,520 --> 00:11:22,960
+That's not the stuff
+
+379
+00:11:22,960 --> 00:11:24,440
+that the average person would just,
+
+380
+00:11:24,440 --> 00:11:26,120
+you know, on their Friday night
+
+381
+00:11:26,120 --> 00:11:27,600
+sift through Wikipedia
+
+382
+00:11:27,600 --> 00:11:31,120
+and research papers and learn about.
+
+383
+00:11:31,120 --> 00:11:33,040
+So, there has to be a deep
+
+384
+00:11:33,040 --> 00:11:35,280
+technological curiosity beyond
+
+385
+00:11:35,280 --> 00:11:38,600
+just the means to an end, right?
+
+386
+00:11:38,600 --> 00:11:40,280
+You would think?
+
+387
+00:11:41,960 --> 00:11:43,440
+Maybe.
+
+388
+00:11:43,600 --> 00:11:45,160
+So, like, would I do this for fun
+
+389
+00:11:45,160 --> 00:11:46,640
+just for the hack of it, right?
+
+390
+00:11:46,640 --> 00:11:47,280
+Like, that would be
+
+391
+00:11:47,280 --> 00:11:49,280
+kind of like the question.
+
+392
+00:11:50,240 --> 00:11:50,959
+Maybe.
+
+393
+00:11:50,960 --> 00:11:52,920
+I mean, I did some game development
+
+394
+00:11:52,920 --> 00:11:53,800
+back in the day and I thought
+
+395
+00:11:53,800 --> 00:11:55,320
+that was pretty cool, right,
+
+396
+00:11:55,320 --> 00:11:56,360
+getting into video games.
+
+397
+00:11:56,360 --> 00:11:57,680
+You're breaking the whole conception
+
+398
+00:11:57,680 --> 00:11:58,440
+of what I think
+
+399
+00:11:58,440 --> 00:11:59,960
+of a chief technology officer.
+
+400
+00:11:59,960 --> 00:12:04,520
+Stephen, this is very difficult for me.
+
+401
+00:12:05,320 --> 00:12:06,240
+Yeah.
+
+402
+00:12:06,240 --> 00:12:07,760
+I mean, I think,
+
+403
+00:12:07,760 --> 00:12:10,360
+no matter what your like approaches
+
+404
+00:12:10,360 --> 00:12:12,160
+and your stance on technology
+
+405
+00:12:12,160 --> 00:12:14,280
+and in your field as well,
+
+406
+00:12:14,280 --> 00:12:15,120
+I think it comes down to
+
+407
+00:12:15,120 --> 00:12:17,600
+what's driving you,
+
+408
+00:12:17,600 --> 00:12:19,360
+what's pushing you forward,
+
+409
+00:12:19,360 --> 00:12:20,320
+what's going to make sure
+
+410
+00:12:20,320 --> 00:12:22,280
+that you're succeeding
+
+411
+00:12:22,280 --> 00:12:24,480
+and you're always at the forefront.
+
+412
+00:12:24,480 --> 00:12:26,000
+It happens that technology
+
+413
+00:12:26,000 --> 00:12:27,200
+has to be there
+
+414
+00:12:27,200 --> 00:12:28,680
+in order for you to accomplish it.
+
+415
+00:12:28,680 --> 00:12:31,160
+If it was wizardry and magic,
+
+416
+00:12:31,160 --> 00:12:32,240
+I would probably,
+
+417
+00:12:32,240 --> 00:12:33,680
+I'd probably be doing that.
+
+418
+00:12:33,680 --> 00:12:35,440
+But this is as close as we get
+
+419
+00:12:35,440 --> 00:12:37,120
+to get technology.
+
+420
+00:12:37,120 --> 00:12:38,960
+So, Andreessen wrote the famous piece,
+
+421
+00:12:38,960 --> 00:12:40,200
+Software is eating the World.
+
+422
+00:12:40,200 --> 00:12:43,000
+You're evidently a key figure
+
+423
+00:12:43,000 --> 00:12:44,280
+in proving that
+
+424
+00:12:44,280 --> 00:12:45,880
+software is eating the world.
+
+425
+00:12:45,880 --> 00:12:49,320
+I love the analogy that you made to AT&Ts
+
+426
+00:12:49,320 --> 00:12:50,880
+hardware solution versus
+
+427
+00:12:50,880 --> 00:12:52,240
+a software solution.
+
+428
+00:12:52,240 --> 00:12:53,200
+Obviously Andreessen,
+
+429
+00:12:53,200 --> 00:12:54,720
+that's what he touches on,
+
+430
+00:12:54,721 --> 00:12:56,359
+the type that you can scale
+
+431
+00:12:56,360 --> 00:12:58,360
+at practically no cost
+
+432
+00:12:58,360 --> 00:13:00,920
+and get exponential increase in usage
+
+433
+00:13:00,920 --> 00:13:03,520
+for a relatively linear increase in cost.
+
+434
+00:13:03,520 --> 00:13:05,440
+I mean, that's the name of the game.
+
+435
+00:13:05,440 --> 00:13:07,960
+But it must not be that smooth
+
+436
+00:13:07,960 --> 00:13:09,200
+of a journey over 10 years.
+
+437
+00:13:09,201 --> 00:13:12,199
+It can't all be butterflies and muscles.
+
+438
+00:13:12,200 --> 00:13:12,399
+Right?
+
+439
+00:13:12,400 --> 00:13:15,359
+So, talk to me some of the hurdles
+
+440
+00:13:15,360 --> 00:13:16,279
+that you pass through
+
+441
+00:13:16,280 --> 00:13:20,159
+and how you overcame them?
+
+442
+00:13:20,160 --> 00:13:21,279
+Well, we have our software,
+
+443
+00:13:21,280 --> 00:13:23,919
+and we are human we make mistakes,
+
+444
+00:13:23,920 --> 00:13:24,880
+but we're really good at
+
+445
+00:13:24,881 --> 00:13:27,119
+realizing those mistakes.
+
+446
+00:13:27,120 --> 00:13:27,879
+And that's probably like
+
+447
+00:13:27,880 --> 00:13:30,240
+the best part of humanity is like,
+
+448
+00:13:30,240 --> 00:13:30,880
+I would say,
+
+449
+00:13:30,881 --> 00:13:33,159
+that's our strongest asset.
+
+450
+00:13:33,160 --> 00:13:33,879
+Right?
+
+451
+00:13:33,880 --> 00:13:35,879
+It's being able to recognize mistakes
+
+452
+00:13:35,880 --> 00:13:37,520
+and fixing them.
+
+453
+00:13:37,800 --> 00:13:39,839
+And we're not infallible.
+
+454
+00:13:39,840 --> 00:13:41,079
+We've made mistakes.
+
+455
+00:13:41,080 --> 00:13:42,559
+Some of our client SDKs
+
+456
+00:13:42,560 --> 00:13:44,760
+are connectors to our network
+
+457
+00:13:44,760 --> 00:13:47,840
+were running on AT&T phones.
+
+458
+00:13:47,840 --> 00:13:51,440
+And there was an upgrade that they made
+
+459
+00:13:51,440 --> 00:13:52,800
+which caused some sort of
+
+460
+00:13:52,800 --> 00:13:57,560
+incompatibility thing, and the device
+
+461
+00:13:57,560 --> 00:13:58,680
+connect and disconnect
+
+462
+00:13:58,680 --> 00:14:00,720
+over and over and over.
+
+463
+00:14:00,720 --> 00:14:01,680
+And we had to create new
+
+464
+00:14:01,680 --> 00:14:05,000
+cipher keys every single connection,
+
+465
+00:14:05,000 --> 00:14:06,400
+because we want to make sure
+
+466
+00:14:06,400 --> 00:14:08,320
+the connection is secure.
+
+467
+00:14:08,520 --> 00:14:09,800
+And then it cost,
+
+468
+00:14:09,800 --> 00:14:11,400
+and it was a slow rollout
+
+469
+00:14:11,400 --> 00:14:12,560
+and they didn't upgrade,
+
+470
+00:14:12,560 --> 00:14:14,600
+and eventually all the phones,
+
+471
+00:14:14,600 --> 00:14:16,880
+all the AT&T phones in America
+
+472
+00:14:16,880 --> 00:14:18,440
+were doing this.
+
+473
+00:14:18,440 --> 00:14:19,760
+They were doing connect, disconnect
+
+474
+00:14:19,760 --> 00:14:20,240
+over and over.
+
+475
+00:14:20,240 --> 00:14:22,160
+And we're like, "What's going on?"
+
+476
+00:14:22,160 --> 00:14:23,440
+We didn't have any logging
+
+477
+00:14:23,440 --> 00:14:26,120
+at layer five and we didn't know,
+
+478
+00:14:26,120 --> 00:14:28,360
+we just saw that
+
+479
+00:14:28,360 --> 00:14:30,120
+the CPU's are going through the roof.
+
+480
+00:14:30,120 --> 00:14:32,080
+"What's going on? What's going on?"
+
+481
+00:14:32,080 --> 00:14:34,040
+It turned out that we had
+
+482
+00:14:34,040 --> 00:14:36,800
+a faulty reconnect logic
+
+483
+00:14:36,801 --> 00:14:38,159
+inside of our SDK,
+
+484
+00:14:38,160 --> 00:14:39,280
+for the particular SDK
+
+485
+00:14:39,280 --> 00:14:41,720
+that AT&T was using on their phones.
+
+486
+00:14:41,720 --> 00:14:44,320
+And in order to solve that,
+
+487
+00:14:44,320 --> 00:14:47,680
+we to get all AT&T's IP block space
+
+488
+00:14:47,680 --> 00:14:49,720
+that they owned for the cell network
+
+489
+00:14:49,720 --> 00:14:50,760
+and then route them
+
+490
+00:14:50,760 --> 00:14:52,840
+to a specific destination.
+
+491
+00:14:52,840 --> 00:14:53,600
+So, that way we can get
+
+492
+00:14:53,600 --> 00:14:55,920
+the rest of the traffic healthy.
+
+493
+00:14:55,920 --> 00:14:58,240
+So, that happened this year,
+
+494
+00:14:58,240 --> 00:15:00,280
+that was this year.
+
+495
+00:15:00,280 --> 00:15:00,400
+Yeah.
+
+496
+00:15:00,400 --> 00:15:01,960
+And it was very tragic
+
+497
+00:15:01,960 --> 00:15:03,920
+and it was very heartbreaking.
+
+498
+00:15:03,920 --> 00:15:06,000
+And we did harm
+
+499
+00:15:06,000 --> 00:15:07,520
+some of our customer relationships
+
+500
+00:15:07,520 --> 00:15:09,840
+but we were able to figure out
+
+501
+00:15:09,840 --> 00:15:11,320
+what the problem was and we solved it.
+
+502
+00:15:11,320 --> 00:15:12,840
+And in the future,
+
+503
+00:15:12,840 --> 00:15:14,560
+if we run into this again,
+
+504
+00:15:14,560 --> 00:15:17,240
+we have the tools ready.
+
+505
+00:15:17,240 --> 00:15:18,000
+Right.
+
+506
+00:15:18,001 --> 00:15:19,959
+I love going back to what you said,
+
+507
+00:15:19,960 --> 00:15:22,440
+that as humanity, we're really good
+
+508
+00:15:22,440 --> 00:15:23,600
+as identifying the mistakes
+
+509
+00:15:23,600 --> 00:15:25,120
+we're making and hopefully solving them.
+
+510
+00:15:25,120 --> 00:15:26,560
+I don't think that, you know,
+
+511
+00:15:26,560 --> 00:15:28,360
+all of humanity is good at doing that.
+
+512
+00:15:28,360 --> 00:15:29,880
+I can think of a few examples
+
+513
+00:15:29,880 --> 00:15:32,600
+who we're not necessarily good
+
+514
+00:15:32,600 --> 00:15:33,360
+at doing that.
+
+515
+00:15:33,360 --> 00:15:35,320
+But I love the fact
+
+516
+00:15:35,320 --> 00:15:38,120
+that you are taking the lessons
+
+517
+00:15:38,120 --> 00:15:39,600
+and being very direct about it,
+
+518
+00:15:39,600 --> 00:15:42,040
+being very intentional about the lessons
+
+519
+00:15:42,040 --> 00:15:43,320
+that you've learned there.
+
+520
+00:15:43,320 --> 00:15:44,640
+Owning that mistake
+
+521
+00:15:44,640 --> 00:15:45,800
+and improving upon it.
+
+522
+00:15:45,800 --> 00:15:47,920
+And I think that's the responsibility
+
+523
+00:15:47,920 --> 00:15:49,840
+of being a leader and a market leader
+
+524
+00:15:49,840 --> 00:15:50,880
+and something as crucial
+
+525
+00:15:50,880 --> 00:15:52,800
+as multiplayer communication.
+
+526
+00:15:52,800 --> 00:15:53,520
+What were some of the most
+
+527
+00:15:53,520 --> 00:15:56,080
+enjoyable moments of this 10 year journey
+
+528
+00:15:56,080 --> 00:15:57,840
+as an entrepreneur?
+
+529
+00:15:58,920 --> 00:16:01,160
+That's working with the customers,
+
+530
+00:16:01,160 --> 00:16:03,360
+that's still is today.
+
+531
+00:16:03,360 --> 00:16:06,120
+Being able to see them like,
+
+532
+00:16:06,120 --> 00:16:07,720
+wow, is it really that easy? Yeah.
+
+533
+00:16:07,720 --> 00:16:10,680
+If I could make it easier,
+
+534
+00:16:10,680 --> 00:16:11,040
+I would.
+
+535
+00:16:11,040 --> 00:16:12,440
+And I am working on that right now,
+
+536
+00:16:12,440 --> 00:16:13,560
+making it easier, faster,
+
+537
+00:16:13,560 --> 00:16:14,960
+better, stronger.
+
+538
+00:16:14,960 --> 00:16:17,200
+We're not done yet.
+
+539
+00:16:17,200 --> 00:16:18,480
+Like some of our biggest customers
+
+540
+00:16:18,480 --> 00:16:21,440
+are multiplayer games for mobile phones.
+
+541
+00:16:21,440 --> 00:16:23,120
+They're huge and they have
+
+542
+00:16:23,120 --> 00:16:24,640
+the largest player base
+
+543
+00:16:24,640 --> 00:16:26,720
+and the most loyal player bases around.
+
+544
+00:16:26,720 --> 00:16:27,760
+And so,
+
+545
+00:16:27,760 --> 00:16:29,560
+we need to make sure they're happy
+
+546
+00:16:29,560 --> 00:16:31,080
+because we want to keep their revenues
+
+547
+00:16:31,080 --> 00:16:32,320
+growing as well.
+
+548
+00:16:32,320 --> 00:16:33,960
+They are our customers revenue
+
+549
+00:16:33,960 --> 00:16:36,440
+and just being able to provide that,
+
+550
+00:16:36,440 --> 00:16:37,360
+and say this is us,
+
+551
+00:16:37,360 --> 00:16:39,280
+we can do that for you
+
+552
+00:16:39,280 --> 00:16:41,400
+is very satisfying.
+
+553
+00:16:41,400 --> 00:16:43,040
+It's very satisfying.
+
+554
+00:16:43,040 --> 00:16:44,040
+Right.
+
+555
+00:16:44,040 --> 00:16:46,040
+Are there some lessons that you learned
+
+556
+00:16:46,041 --> 00:16:48,039
+as a technology leader in the company?
+
+557
+00:16:48,040 --> 00:16:48,960
+Because you're were both,
+
+558
+00:16:48,960 --> 00:16:51,760
+obviously, you're leading people,
+
+559
+00:16:51,760 --> 00:16:53,040
+but you're also leading technology,
+
+560
+00:16:53,040 --> 00:16:55,400
+and sometimes it feels that there's this
+
+561
+00:16:55,400 --> 00:16:57,760
+like, weird intermixing between
+
+562
+00:16:57,760 --> 00:16:59,840
+the different roles of being the CEO,
+
+563
+00:16:59,840 --> 00:17:01,080
+the CTO, especially in
+
+564
+00:17:01,080 --> 00:17:04,120
+record technology companies,
+
+565
+00:17:04,120 --> 00:17:05,960
+how do you look at your role
+
+566
+00:17:05,960 --> 00:17:09,760
+as a CTO in terms of leadership?
+
+567
+00:17:11,880 --> 00:17:13,680
+By example, I would say probably.
+
+568
+00:17:13,680 --> 00:17:14,560
+I mean, I kind of like
+
+569
+00:17:14,560 --> 00:17:15,280
+think of it from that.
+
+570
+00:17:15,280 --> 00:17:16,360
+I mean, if you're kind of going down,
+
+571
+00:17:16,360 --> 00:17:18,720
+because there's different flavors of CTOs
+
+572
+00:17:18,720 --> 00:17:19,360
+if you ask.
+
+573
+00:17:19,360 --> 00:17:20,880
+And this is actually
+
+574
+00:17:20,880 --> 00:17:22,120
+a common questions like,
+
+575
+00:17:22,120 --> 00:17:23,640
+"What do you do as CTO?"
+
+576
+00:17:23,640 --> 00:17:24,840
+Those kinds of things.
+
+577
+00:17:24,840 --> 00:17:27,720
+Like, what are you asking really?
+
+578
+00:17:27,720 --> 00:17:29,280
+Like, what are you trying to get at?
+
+579
+00:17:29,280 --> 00:17:29,920
+Usually these are
+
+580
+00:17:29,920 --> 00:17:31,280
+other technology folks
+
+581
+00:17:31,280 --> 00:17:32,600
+who are asking me this question
+
+582
+00:17:32,600 --> 00:17:34,240
+that are either in that role
+
+583
+00:17:34,240 --> 00:17:35,840
+or about to go in that role.
+
+584
+00:17:35,840 --> 00:17:36,600
+And it's very different.
+
+585
+00:17:36,600 --> 00:17:39,120
+Some are our VPs of engineering
+
+586
+00:17:39,120 --> 00:17:41,440
+and they operate the team
+
+587
+00:17:41,440 --> 00:17:43,040
+and sort of manage managers
+
+588
+00:17:43,040 --> 00:17:45,120
+and sort of help structure that out
+
+589
+00:17:45,120 --> 00:17:46,720
+and create like
+
+590
+00:17:47,000 --> 00:17:49,280
+trajectories and career paths.
+
+591
+00:17:49,280 --> 00:17:49,960
+Right?
+
+592
+00:17:49,961 --> 00:17:51,319
+There's that kind.
+
+593
+00:17:51,320 --> 00:17:53,960
+There's also innovators, right?
+
+594
+00:17:53,960 --> 00:17:55,400
+So, at a larger companies,
+
+595
+00:17:55,400 --> 00:17:57,320
+you've got these principal engineers
+
+596
+00:17:57,321 --> 00:18:02,319
+or CTOs and they look for the frontier.
+
+597
+00:18:02,320 --> 00:18:03,039
+They're like,
+
+598
+00:18:03,040 --> 00:18:03,799
+what's new,
+
+599
+00:18:03,800 --> 00:18:05,160
+what's amazing,
+
+600
+00:18:05,161 --> 00:18:07,519
+what can we do to our company
+
+601
+00:18:07,520 --> 00:18:09,799
+to make it more secure,
+
+602
+00:18:09,800 --> 00:18:12,759
+make it billion dollars richer
+
+603
+00:18:12,760 --> 00:18:14,240
+with modern technologies,
+
+604
+00:18:14,241 --> 00:18:16,239
+how can we inject those techs into it.
+
+605
+00:18:16,240 --> 00:18:17,639
+And so, for me, though,
+
+606
+00:18:17,640 --> 00:18:18,999
+I'm an entrepreneur,
+
+607
+00:18:19,000 --> 00:18:20,439
+like I said, a little different.
+
+608
+00:18:20,440 --> 00:18:23,439
+So, I focus on what can we do,
+
+609
+00:18:23,440 --> 00:18:25,159
+what metrics can we monitor
+
+610
+00:18:25,160 --> 00:18:27,239
+over the years
+
+611
+00:18:27,240 --> 00:18:28,719
+and for our teams to be able
+
+612
+00:18:28,720 --> 00:18:29,999
+to be more successful.
+
+613
+00:18:30,000 --> 00:18:30,560
+Right?
+
+614
+00:18:30,560 --> 00:18:32,720
+And to know that they're successful
+
+615
+00:18:32,720 --> 00:18:36,280
+even before they get like a review.
+
+616
+00:18:36,280 --> 00:18:38,560
+The annual review type situation.
+
+617
+00:18:38,560 --> 00:18:39,200
+How do we do that?
+
+618
+00:18:39,200 --> 00:18:41,000
+How do we make the business scale?
+
+619
+00:18:41,000 --> 00:18:43,400
+How do we solve training?
+
+620
+00:18:43,400 --> 00:18:43,960
+Right.
+
+621
+00:18:43,960 --> 00:18:45,840
+Because for us, though, it's really hard
+
+622
+00:18:45,840 --> 00:18:48,360
+because the language is different.
+
+623
+00:18:48,360 --> 00:18:48,760
+Yeah.
+
+624
+00:18:48,760 --> 00:18:50,120
+Every single customer
+
+625
+00:18:50,120 --> 00:18:51,520
+they come to us so, like,
+
+626
+00:18:51,520 --> 00:18:55,680
+we need real time geography map updates.
+
+627
+00:18:55,680 --> 00:18:56,320
+And now you've got
+
+628
+00:18:56,321 --> 00:18:57,519
+a wholly different than
+
+629
+00:18:57,520 --> 00:19:00,519
+multiplayer connectivity.
+
+630
+00:19:00,520 --> 00:19:01,760
+And I need to make sure that
+
+631
+00:19:01,760 --> 00:19:03,080
+we have these technologies
+
+632
+00:19:03,080 --> 00:19:04,040
+and we can filter these
+
+633
+00:19:04,040 --> 00:19:05,080
+and we have this number,
+
+634
+00:19:05,080 --> 00:19:05,760
+it's just a different
+
+635
+00:19:05,760 --> 00:19:06,800
+conversation each time.
+
+636
+00:19:06,800 --> 00:19:07,920
+So, it's hard.
+
+637
+00:19:07,920 --> 00:19:09,160
+So, that's the kind of things
+
+638
+00:19:09,160 --> 00:19:09,640
+that we solve.
+
+639
+00:19:09,640 --> 00:19:10,040
+I love that.
+
+640
+00:19:10,040 --> 00:19:11,200
+Stephen, I wish we could talk on
+
+641
+00:19:11,200 --> 00:19:12,480
+for another hour about this.
+
+642
+00:19:12,480 --> 00:19:13,320
+It's just so fascinating.
+
+643
+00:19:13,320 --> 00:19:14,520
+But unfortunately,
+
+644
+00:19:14,521 --> 00:19:15,399
+for some weird reason,
+
+645
+00:19:15,400 --> 00:19:16,080
+I called the show
+
+646
+00:19:16,080 --> 00:19:17,440
+20 minute leaders instead of
+
+647
+00:19:17,440 --> 00:19:19,400
+hour minute leaders.
+
+648
+00:19:19,400 --> 00:19:20,960
+So, thank you for being so generous
+
+649
+00:19:20,960 --> 00:19:21,960
+with your time.
+
+650
+00:19:21,960 --> 00:19:23,520
+I love to end with my favorite question,
+
+651
+00:19:23,520 --> 00:19:24,760
+which is three words that you would use
+
+652
+00:19:24,760 --> 00:19:26,600
+to describe yourself.
+
+653
+00:19:28,080 --> 00:19:29,480
+Wait, that's like,
+
+654
+00:19:29,480 --> 00:19:33,440
+that's a really hard one to do.
+
+655
+00:19:33,440 --> 00:19:34,600
+You should have prepared me
+
+656
+00:19:34,600 --> 00:19:36,120
+for that one.
+
+657
+00:19:36,120 --> 00:19:36,760
+Maybe you did
+
+658
+00:19:36,760 --> 00:19:37,880
+and I didn't read the email.
+
+659
+00:19:37,880 --> 00:19:39,640
+I apologize for that.
+
+660
+00:19:39,640 --> 00:19:41,040
+But it is my favorite question
+
+661
+00:19:41,040 --> 00:19:42,280
+I'm not holding you accountable
+
+662
+00:19:42,280 --> 00:19:43,480
+for those three words.
+
+663
+00:19:43,480 --> 00:19:44,280
+Off the top of your mind,
+
+664
+00:19:44,280 --> 00:19:47,560
+what words come to you when you think of
+
+665
+00:19:47,560 --> 00:19:49,640
+what is the type of leader you are?
+
+666
+00:19:49,640 --> 00:19:51,640
+How would your co-founder
+
+667
+00:19:51,640 --> 00:19:54,920
+think of Stephen Blum?
+
+668
+00:19:58,000 --> 00:20:01,680
+Realization and overly excited.
+
+669
+00:20:01,680 --> 00:20:04,000
+I'm holding back.
+
+670
+00:20:04,001 --> 00:20:05,479
+I'm holding back right now.
+
+671
+00:20:05,480 --> 00:20:06,839
+I love that.
+
+672
+00:20:06,840 --> 00:20:08,519
+Stephen, thank you so much.
+
+673
+00:20:08,520 --> 00:20:10,719
+This is wonderful, really inspiring.
+
+674
+00:20:10,720 --> 00:20:12,479
+And I love following your journey.
+
+675
+00:20:12,480 --> 00:20:13,799
+Thank you for being a great supporter
+
+676
+00:20:13,800 --> 00:20:15,719
+seven years ago of my projects.
+
+677
+00:20:15,720 --> 00:20:17,759
+I'm very, very thankful for that.
+
+678
+00:20:17,760 --> 00:20:19,239
+And stay safe and stay healthy
+
+679
+00:20:19,240 --> 00:20:21,160
+throughout this pandemic.
+
+680
+00:20:21,440 --> 00:20:23,160
+Yeah, it's been great, thank you.
+
+681
+00:20:23,160 --> 00:20:24,000
+Thank you for the time.
+
+682
+00:20:24,000 --> 00:20:25,040
+And same to you.
+
+683
+00:20:25,040 --> 00:20:25,760
+Thank you very much.
+

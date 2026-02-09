@@ -1,0 +1,2372 @@
+1
+00:04:36,200 --> 00:04:37,240
+Wonderful.
+
+2
+00:04:37,240 --> 00:04:38,720
+So I think we can get started.
+
+3
+00:04:38,730 --> 00:04:40,720
+David Tennenhouse,  it is such an honor
+
+4
+00:04:40,720 --> 00:04:41,960
+to have you on 20 Minute Leaders.
+
+5
+00:04:41,970 --> 00:04:43,840
+Thank you for your time.
+
+6
+00:04:43,840 --> 00:04:44,720
+Thank you, Michael.
+
+7
+00:04:44,730 --> 00:04:45,600
+Good to be here.
+
+8
+00:04:45,600 --> 00:04:46,880
+You know, I have your background
+
+9
+00:04:46,880 --> 00:04:47,760
+written down next to me
+
+10
+00:04:47,760 --> 00:04:49,640
+and I'm just overwhelmed
+
+11
+00:04:49,640 --> 00:04:51,160
+by attempting to start read it.
+
+12
+00:04:51,170 --> 00:04:52,800
+But I'll give a brief intro.
+
+13
+00:04:52,800 --> 00:04:54,040
+And I'd love to then dive
+
+14
+00:04:54,050 --> 00:04:55,480
+into your experiences.
+
+15
+00:04:55,490 --> 00:04:57,600
+So, Corporate Vice President
+
+16
+00:04:57,680 --> 00:05:00,080
+at incredible companies:
+
+17
+00:05:00,080 --> 00:05:01,640
+Intel, Amazon, Microsoft.
+
+18
+00:05:01,880 --> 00:05:05,160
+With a CEO of A9.com, subsidiary of Amazon.
+
+19
+00:05:05,640 --> 00:05:07,080
+DARPA's Chief Scientist.
+
+20
+00:05:07,080 --> 00:05:08,320
+Faculty member at MIT.
+
+21
+00:05:08,320 --> 00:05:10,560
+Partner at New Venture Partners.
+
+22
+00:05:10,570 --> 00:05:13,080
+VMware's Chief Research Officer.
+
+23
+00:05:13,080 --> 00:05:14,280
+LP at J-Ventures.
+
+24
+00:05:14,280 --> 00:05:17,280
+David, I only have 20 minutes.
+
+25
+00:05:17,280 --> 00:05:18,800
+I have to get as much knowledge
+
+26
+00:05:18,800 --> 00:05:20,200
+out of you as I can.
+
+27
+00:05:20,210 --> 00:05:22,040
+Did I get that right, first of all?
+
+28
+00:05:22,040 --> 00:05:22,560
+Was that okay?
+
+29
+00:05:22,570 --> 00:05:24,560
+Do you think you got that about right?
+
+30
+00:05:24,560 --> 00:05:25,320
+Wonderful. Okay.
+
+31
+00:05:25,320 --> 00:05:27,960
+David, first of all, what does it mean
+
+32
+00:05:27,960 --> 00:05:30,600
+to be the chief research officer
+
+33
+00:05:30,610 --> 00:05:32,760
+of an incredible company like the VMware
+
+34
+00:05:32,770 --> 00:05:36,360
+which its foundation is based on research?
+
+35
+00:05:36,360 --> 00:05:37,760
+Well, the first thing is to be amazed that
+
+36
+00:05:37,840 --> 00:05:41,520
+people pay you to do this kind of thing.
+
+37
+00:05:44,040 --> 00:05:46,480
+I think, it is actually
+
+38
+00:05:46,490 --> 00:05:49,040
+just a phenomenal privilege.
+
+39
+00:05:49,050 --> 00:05:51,840
+You've got these really smart people.
+
+40
+00:05:51,850 --> 00:05:55,560
+And a certain amount of it is just about
+
+41
+00:05:56,280 --> 00:05:57,480
+helping them find their way,
+
+42
+00:05:57,480 --> 00:05:58,400
+helping them connect
+
+43
+00:05:58,400 --> 00:05:59,640
+with business opportunities,
+
+44
+00:05:59,640 --> 00:06:00,360
+help them connect
+
+45
+00:06:00,370 --> 00:06:03,880
+with new research opportunities.
+
+46
+00:06:03,890 --> 00:06:08,000
+And really helping them get to the bottom
+
+47
+00:06:08,080 --> 00:06:10,040
+of how to maybe do more
+
+48
+00:06:10,200 --> 00:06:11,920
+with their bright ideas.
+
+49
+00:06:11,920 --> 00:06:12,520
+Wow. Okay.
+
+50
+00:06:12,530 --> 00:06:15,440
+So, running chief research officer,
+
+51
+00:06:15,800 --> 00:06:18,600
+it sounds like it doesn't only entail
+
+52
+00:06:18,600 --> 00:06:20,160
+being the head scientist in the room
+
+53
+00:06:20,170 --> 00:06:21,360
+and choosing the path,
+
+54
+00:06:21,370 --> 00:06:22,880
+but it's also about culture.
+
+55
+00:06:22,880 --> 00:06:24,600
+It's about how do you drive innovation
+
+56
+00:06:24,610 --> 00:06:26,280
+and creativity within a group.
+
+57
+00:06:26,290 --> 00:06:28,440
+So, how do you drive innovation
+
+58
+00:06:28,450 --> 00:06:31,360
+and creativity in a world where VMware
+
+59
+00:06:31,360 --> 00:06:32,880
+is such a significant player
+
+60
+00:06:32,880 --> 00:06:34,920
+in distributed systems and the work that
+
+61
+00:06:34,920 --> 00:06:38,160
+I get to do on a day by day basis?
+
+62
+00:06:38,240 --> 00:06:39,520
+Well, the first thing to realize is,
+
+63
+00:06:39,520 --> 00:06:41,400
+people always talk about R&D.
+
+64
+00:06:41,410 --> 00:06:43,480
+I'm just the R, right?
+
+65
+00:06:43,490 --> 00:06:47,480
+And the D is the really big part of R&D.
+
+66
+00:06:47,520 --> 00:06:50,040
+So, certain amount of this is still
+
+67
+00:06:50,040 --> 00:06:52,520
+about working with individuals.
+
+68
+00:06:52,530 --> 00:06:54,720
+And as I said, helping them
+
+69
+00:06:55,640 --> 00:06:57,000
+take their great ideas.
+
+70
+00:06:57,000 --> 00:06:58,840
+So, it's really I think you hit a stage
+
+71
+00:06:58,850 --> 00:07:00,680
+in your career where it's more less
+
+72
+00:07:00,680 --> 00:07:02,240
+about driving your own ideas
+
+73
+00:07:02,960 --> 00:07:05,120
+and much more about
+
+74
+00:07:05,130 --> 00:07:08,000
+embracing other people's ideas
+
+75
+00:07:08,000 --> 00:07:10,640
+and really helping them drive them forward.
+
+76
+00:07:10,640 --> 00:07:12,080
+And then sometimes standing back
+
+77
+00:07:12,080 --> 00:07:13,440
+and synthesizing them and say,
+
+78
+00:07:13,720 --> 00:07:16,840
+"Gee, you know, if we combine these ideas,
+
+79
+00:07:16,850 --> 00:07:19,400
+maybe we can work on something bigger."
+
+80
+00:07:19,410 --> 00:07:20,840
+That this is the challenge,
+
+81
+00:07:20,840 --> 00:07:21,920
+I think, in general,
+
+82
+00:07:21,920 --> 00:07:25,280
+in a research organization is that,
+
+83
+00:07:25,320 --> 00:07:26,680
+left to its own devices
+
+84
+00:07:26,690 --> 00:07:28,240
+you'll end up with many more
+
+85
+00:07:28,250 --> 00:07:29,960
+projects than you have people.
+
+86
+00:07:29,960 --> 00:07:31,640
+Wow. And how many researchers are there
+
+87
+00:07:31,650 --> 00:07:33,840
+at VMware as we're speaking now?
+
+88
+00:07:33,850 --> 00:07:36,440
+So, a certain amount there is
+
+89
+00:07:36,450 --> 00:07:37,720
+it depends how you count.
+
+90
+00:07:37,720 --> 00:07:39,320
+So, first off, you can't really say
+
+91
+00:07:39,520 --> 00:07:40,640
+researchers at VMware.
+
+92
+00:07:40,640 --> 00:07:41,600
+Because I'd say there are probably
+
+93
+00:07:41,600 --> 00:07:43,080
+many people in the company
+
+94
+00:07:43,120 --> 00:07:44,840
+that are actually conducting research
+
+95
+00:07:44,850 --> 00:07:45,920
+don't even know it.
+
+96
+00:07:45,920 --> 00:07:47,000
+Right.
+
+97
+00:07:47,010 --> 00:07:49,760
+But in terms of our corporate research,
+
+98
+00:07:49,760 --> 00:07:52,040
+it's actually a very small group.
+
+99
+00:07:52,050 --> 00:07:53,640
+So, think on the order of about
+
+100
+00:07:53,650 --> 00:07:56,320
+30 full time researchers.
+
+101
+00:07:56,330 --> 00:07:57,320
+We augment them.
+
+102
+00:07:57,330 --> 00:07:58,600
+We have postdocs.
+
+103
+00:07:58,610 --> 00:07:59,440
+We have interns.
+
+104
+00:07:59,450 --> 00:08:01,240
+So, when you said right now, well,
+
+105
+00:08:01,240 --> 00:08:03,120
+we have an enormous number of interns
+
+106
+00:08:03,120 --> 00:08:04,320
+working with both [--]
+
+107
+00:08:04,330 --> 00:08:06,160
+So, [--]
+
+108
+00:08:06,160 --> 00:08:07,760
+We're in the peak of the intern season.
+
+109
+00:08:07,770 --> 00:08:10,160
+We have interns from all over the world.
+
+110
+00:08:10,170 --> 00:08:12,840
+This year, they're virtual.
+
+111
+00:08:12,850 --> 00:08:14,440
+I'm sure it's  quite
+
+112
+00:08:14,440 --> 00:08:15,560
+an interesting experience
+
+113
+00:08:15,560 --> 00:08:18,480
+helping them, guiding them through this,
+
+114
+00:08:18,480 --> 00:08:20,120
+what is meant to be a very monumental
+
+115
+00:08:20,130 --> 00:08:21,880
+experience in their career.
+
+116
+00:08:21,880 --> 00:08:22,560
+Yup.
+
+117
+00:08:22,560 --> 00:08:25,720
+And then, and, so we augment.
+
+118
+00:08:26,080 --> 00:08:27,880
+The key is getting amplification.
+
+119
+00:08:27,890 --> 00:08:29,520
+So, we also actually have
+
+120
+00:08:29,520 --> 00:08:30,680
+a substantial number
+
+121
+00:08:30,680 --> 00:08:33,160
+of what we call affiliated groups
+
+122
+00:08:33,170 --> 00:08:34,560
+who our faculty members
+
+123
+00:08:34,560 --> 00:08:36,000
+that are working a day a week
+
+124
+00:08:36,840 --> 00:08:38,640
+roughly with VMware.
+
+125
+00:08:38,650 --> 00:08:40,840
+And some of these folks
+
+126
+00:08:40,850 --> 00:08:43,200
+have worked with us in the past.
+
+127
+00:08:43,200 --> 00:08:44,400
+So, for example, we have people
+
+128
+00:08:44,410 --> 00:08:46,760
+that came to do postdoc with us.
+
+129
+00:08:46,760 --> 00:08:48,120
+Now they're a faculty member.
+
+130
+00:08:48,130 --> 00:08:49,840
+They continue to work with us.
+
+131
+00:08:49,850 --> 00:08:50,920
+They send us interns.
+
+132
+00:08:50,930 --> 00:08:53,080
+So, we're not just working with them.
+
+133
+00:08:53,090 --> 00:08:55,320
+We're working with their team.
+
+134
+00:08:55,330 --> 00:08:59,760
+So,  these are ways that you amplify
+
+135
+00:08:59,760 --> 00:09:01,520
+a research organization, right?
+
+136
+00:09:01,530 --> 00:09:04,480
+By adding in these these extra.
+
+137
+00:09:04,480 --> 00:09:06,000
+That's wonderful. My relationship
+
+138
+00:09:06,000 --> 00:09:07,600
+actually with VMware, it's funny.
+
+139
+00:09:07,840 --> 00:09:11,080
+Diane Green actually helped sponsor
+
+140
+00:09:11,080 --> 00:09:13,240
+a hackathon that I ran
+
+141
+00:09:13,250 --> 00:09:15,000
+when I was 18 in Silicon Valley
+
+142
+00:09:15,010 --> 00:09:18,560
+for young teens, 18 and under,
+
+143
+00:09:18,560 --> 00:09:19,460
+Hacking Generation Y.
+
+144
+00:09:19,460 --> 00:09:22,440
+One of my latest computer science professor
+
+145
+00:09:22,450 --> 00:09:24,840
+is Mendel Rosenblum, her husband.
+
+146
+00:09:24,850 --> 00:09:27,280
+And so, now we're speaking some
+
+147
+00:09:27,280 --> 00:09:28,280
+getting to know more and more
+
+148
+00:09:28,280 --> 00:09:29,320
+of the VMware family,
+
+149
+00:09:29,330 --> 00:09:30,280
+which is wonderful.
+
+150
+00:09:30,280 --> 00:09:31,840
+But, David, I wanna take you back in time.
+
+151
+00:09:31,850 --> 00:09:33,760
+And I want to now to have
+
+152
+00:09:33,760 --> 00:09:34,840
+a very selfish ask.
+
+153
+00:09:34,840 --> 00:09:36,280
+And I wanna talk about
+
+154
+00:09:36,280 --> 00:09:37,720
+young entrepreneurs like myself
+
+155
+00:09:37,720 --> 00:09:38,920
+and going through the incredible
+
+156
+00:09:38,920 --> 00:09:43,320
+experiences you've had from CEO of A9.com
+
+157
+00:09:43,330 --> 00:09:45,680
+to a partner at New Venture Partners,
+
+158
+00:09:45,690 --> 00:09:47,720
+to being a VP at three
+
+159
+00:09:47,730 --> 00:09:49,520
+magnificent corporations.
+
+160
+00:09:49,530 --> 00:09:53,800
+What major lessons can I take with me
+
+161
+00:09:53,810 --> 00:09:55,040
+as I'm just starting on my journey?
+
+162
+00:09:55,042 --> 00:09:56,290
+I'm just a baby here, right?
+
+163
+00:09:57,240 --> 00:10:01,160
+24, I'm just now, I'm so curious.
+
+164
+00:10:01,170 --> 00:10:04,040
+What should I keep in mind as I go
+
+165
+00:10:04,040 --> 00:10:05,640
+through this journey and all of my friends
+
+166
+00:10:05,650 --> 00:10:07,520
+would keep in mind as well?
+
+167
+00:10:08,280 --> 00:10:10,080
+Well, I think there's a whole
+
+168
+00:10:10,080 --> 00:10:10,720
+bunch of things.
+
+169
+00:10:10,720 --> 00:10:12,640
+People will always say do the things
+
+170
+00:10:12,640 --> 00:10:13,840
+you're passionate about.
+
+171
+00:10:13,880 --> 00:10:14,800
+And they're right.
+
+172
+00:10:14,800 --> 00:10:15,760
+I mean, I think it's really
+
+173
+00:10:15,770 --> 00:10:17,360
+important to do that.
+
+174
+00:10:17,370 --> 00:10:19,720
+I think it's important, by the way to
+
+175
+00:10:19,730 --> 00:10:21,000
+about every five years,
+
+176
+00:10:21,080 --> 00:10:24,640
+stop and consider, right?
+
+177
+00:10:24,650 --> 00:10:27,520
+Is it time to make a change?
+
+178
+00:10:27,520 --> 00:10:29,440
+I think it's important to know yourself.
+
+179
+00:10:29,450 --> 00:10:31,240
+So, there are people, by the way,
+
+180
+00:10:31,680 --> 00:10:34,200
+who are passionate about one topic
+
+181
+00:10:34,200 --> 00:10:37,320
+for decades.
+
+182
+00:10:37,330 --> 00:10:38,840
+They become the world's expert
+
+183
+00:10:38,920 --> 00:10:40,000
+in that topic.
+
+184
+00:10:40,010 --> 00:10:43,400
+And they just  keep going deeper.
+
+185
+00:10:43,410 --> 00:10:47,120
+And their skill set is in that depth
+
+186
+00:10:47,120 --> 00:10:49,080
+and mastering that intricacy.
+
+187
+00:10:49,080 --> 00:10:50,960
+In fact, when I was in Intel
+
+188
+00:10:50,960 --> 00:10:53,000
+it was almost scary because
+
+189
+00:10:53,010 --> 00:10:56,160
+we have what we call the fellows
+
+190
+00:10:56,170 --> 00:10:57,440
+who were the experts
+
+191
+00:10:57,440 --> 00:10:58,840
+in any given technical area.
+
+192
+00:10:58,840 --> 00:10:59,680
+And what was scary was
+
+193
+00:10:59,680 --> 00:11:02,000
+you had this immense
+
+194
+00:11:02,010 --> 00:11:03,680
+many billion dollar company
+
+195
+00:11:04,320 --> 00:11:06,880
+with really the hero of photography.
+
+196
+00:11:07,160 --> 00:11:08,880
+The hero of how to design
+
+197
+00:11:08,920 --> 00:11:11,080
+the next transistor, right?
+
+198
+00:11:11,080 --> 00:11:12,560
+The hero of how to take the things
+
+199
+00:11:12,570 --> 00:11:15,120
+from the lab into production.
+
+200
+00:11:15,120 --> 00:11:16,320
+But these people just
+
+201
+00:11:16,320 --> 00:11:17,200
+were really good at that.
+
+202
+00:11:17,210 --> 00:11:18,560
+So, that's knowing yourself.
+
+203
+00:11:18,570 --> 00:11:22,000
+Like maybe that's your thing.
+
+204
+00:11:22,010 --> 00:11:23,080
+But for me, it's actually been
+
+205
+00:11:23,080 --> 00:11:25,680
+much more about hybridizing, right?
+
+206
+00:11:25,690 --> 00:11:26,360
+So, in other words,
+
+207
+00:11:26,440 --> 00:11:29,080
+I love going into new areas.
+
+208
+00:11:29,120 --> 00:11:30,720
+Being a VC and you're getting
+
+209
+00:11:30,720 --> 00:11:31,880
+that experience now, righ?.
+
+210
+00:11:31,890 --> 00:11:33,320
+What's you really needed is,
+
+211
+00:11:33,330 --> 00:11:34,760
+each company you go
+
+212
+00:11:34,760 --> 00:11:36,600
+it's likely that that company it's doing,
+
+213
+00:11:36,600 --> 00:11:37,640
+hopefully they're doing
+
+214
+00:11:37,640 --> 00:11:39,000
+something new and different, right?
+
+215
+00:11:39,010 --> 00:11:40,880
+So, you get to try a new business.
+
+216
+00:11:40,890 --> 00:11:41,360
+Of course.
+
+217
+00:11:41,365 --> 00:11:43,240
+You've got to learn all about that
+
+218
+00:11:43,240 --> 00:11:44,600
+new vertical that they're in
+
+219
+00:11:44,600 --> 00:11:47,040
+and in fact, all of the places they go in
+
+220
+00:11:47,040 --> 00:11:48,160
+and their customers room.
+
+221
+00:11:48,170 --> 00:11:50,880
+So, I think knowing are you sort of one
+
+222
+00:11:50,890 --> 00:11:54,000
+of these people that's going to hybridize
+
+223
+00:11:54,010 --> 00:11:55,480
+across multiple biases
+
+224
+00:11:55,480 --> 00:11:56,360
+and that's your strength,
+
+225
+00:11:56,360 --> 00:11:57,320
+I think of that as being
+
+226
+00:11:57,330 --> 00:11:59,720
+a portfolio person.
+
+227
+00:11:59,730 --> 00:12:01,760
+And I really came into that.
+
+228
+00:12:01,770 --> 00:12:03,080
+So, when I moved to DARPA,
+
+229
+00:12:03,080 --> 00:12:04,400
+I was then going from being
+
+230
+00:12:04,840 --> 00:12:07,440
+researcher at MIT with certain,
+
+231
+00:12:07,450 --> 00:12:09,320
+I wouldn't say narrow,
+
+232
+00:12:09,320 --> 00:12:10,760
+because I was working across
+
+233
+00:12:10,760 --> 00:12:11,320
+what I thought
+
+234
+00:12:11,330 --> 00:12:13,280
+was a broad range of projects.
+
+235
+00:12:13,290 --> 00:12:16,400
+But now I have a big portfolio, right?
+
+236
+00:12:16,640 --> 00:12:20,120
+So, as a VC,  it's more of a portfolio at,
+
+237
+00:12:20,960 --> 00:12:23,200
+or you can be the individual expert.
+
+238
+00:12:23,210 --> 00:12:24,200
+Both are great.
+
+239
+00:12:24,200 --> 00:12:25,760
+But I think it's important to know
+
+240
+00:12:25,770 --> 00:12:28,200
+and there are a few people, not very many,
+
+241
+00:12:28,200 --> 00:12:30,000
+that can move between one and the other.
+
+242
+00:12:30,000 --> 00:12:30,760
+Right. Right.
+
+243
+00:12:30,770 --> 00:12:32,240
+That's good, too.
+
+244
+00:12:32,240 --> 00:12:33,440
+But you need to know
+
+245
+00:12:33,450 --> 00:12:34,920
+which category you're in.
+
+246
+00:12:34,920 --> 00:12:36,920
+100%. And I think one of the interesting
+
+247
+00:12:36,920 --> 00:12:38,920
+challenges is that, at my age
+
+248
+00:12:38,920 --> 00:12:41,000
+when I'm just getting exposed to things.
+
+249
+00:12:41,010 --> 00:12:42,760
+My back story is that,
+
+250
+00:12:42,770 --> 00:12:45,120
+I grew up in a very tech savvy household.
+
+251
+00:12:45,120 --> 00:12:45,960
+My father has been in tech
+
+252
+00:12:45,970 --> 00:12:47,080
+for many many years.
+
+253
+00:12:47,090 --> 00:12:48,960
+And it took me a long time
+
+254
+00:12:48,970 --> 00:12:50,360
+to get into engineering.
+
+255
+00:12:50,360 --> 00:12:51,600
+And one of the things that he said
+
+256
+00:12:51,610 --> 00:12:52,800
+that really convinced me was,
+
+257
+00:12:53,160 --> 00:12:56,480
+"Michael, you can't assume your position
+
+258
+00:12:56,490 --> 00:12:58,280
+in the world before you experience
+
+259
+00:12:58,280 --> 00:12:59,240
+the different things."
+
+260
+00:12:59,250 --> 00:13:00,680
+"So, go and learn engineering."
+
+261
+00:13:00,690 --> 00:13:03,120
+"Go become good at artificial intelligence."
+
+262
+00:13:03,120 --> 00:13:04,640
+"And then decide what you wanna spend
+
+263
+00:13:04,640 --> 00:13:05,960
+the next 30 years on."
+
+264
+00:13:05,960 --> 00:13:07,840
+But you can't make a responsible decision
+
+265
+00:13:07,850 --> 00:13:09,240
+without actually trying
+
+266
+00:13:09,240 --> 00:13:10,800
+and giving yourself a fair shot.
+
+267
+00:13:10,800 --> 00:13:12,680
+But, David, I want to take you back
+
+268
+00:13:12,680 --> 00:13:15,520
+and think what were some of the challenges
+
+269
+00:13:15,560 --> 00:13:18,120
+as a researcher early on in your career
+
+270
+00:13:18,130 --> 00:13:20,680
+that perhaps now are easier for you?
+
+271
+00:13:20,680 --> 00:13:23,080
+And if you were to go back to young David
+
+272
+00:13:23,080 --> 00:13:25,320
+and your various different positions,
+
+273
+00:13:25,330 --> 00:13:27,280
+what insights would you give yourself
+
+274
+00:13:27,280 --> 00:13:29,400
+to make the process a little bit easier
+
+275
+00:13:29,600 --> 00:13:32,360
+or more fulfilling?
+
+276
+00:13:32,480 --> 00:13:34,520
+Well, I think, there's a couple
+
+277
+00:13:34,520 --> 00:13:37,440
+of different things there.
+
+278
+00:13:38,240 --> 00:13:42,080
+I'd say is that I learned from one
+
+279
+00:13:42,090 --> 00:13:45,360
+of my mentors, George Palmer,
+
+280
+00:13:45,370 --> 00:13:48,120
+that a sort of list of standard questions
+
+281
+00:13:48,120 --> 00:13:49,320
+that he would ask, and unfortunately,
+
+282
+00:13:49,320 --> 00:13:51,240
+like I didn't learn this list.
+
+283
+00:13:51,250 --> 00:13:53,640
+So, you think, I started in Canada,
+
+284
+00:13:53,650 --> 00:13:55,560
+I did my graduate work in England.
+
+285
+00:13:55,560 --> 00:13:56,480
+Then I was at MIT.
+
+286
+00:13:56,490 --> 00:13:59,080
+Then only after that did I actually
+
+287
+00:13:59,080 --> 00:14:00,040
+pick up on this list.
+
+288
+00:14:00,040 --> 00:14:01,600
+It would have been good to know and start.
+
+289
+00:14:01,610 --> 00:14:03,760
+But, what are you trying to do?
+
+290
+00:14:03,760 --> 00:14:06,480
+So, again, it's a little different
+
+291
+00:14:06,480 --> 00:14:07,120
+from science.
+
+292
+00:14:07,160 --> 00:14:09,600
+Because scientists are trying to
+
+293
+00:14:09,610 --> 00:14:12,160
+ask you question almost of nature.
+
+294
+00:14:12,170 --> 00:14:15,480
+Engineers, we're trying to change the world.
+
+295
+00:14:15,490 --> 00:14:19,160
+We are trying to change something.
+
+296
+00:14:19,160 --> 00:14:20,520
+So, what are you trying to do?
+
+297
+00:14:20,530 --> 00:14:22,320
+Say it in really simple words.
+
+298
+00:14:22,330 --> 00:14:23,400
+Get it down to,
+
+299
+00:14:23,640 --> 00:14:26,640
+Google, they try to say it in five words.
+
+300
+00:14:26,640 --> 00:14:28,600
+But the important thing George said was,
+
+301
+00:14:28,600 --> 00:14:31,680
+be able to say it without a bunch of dark.
+
+302
+00:14:31,880 --> 00:14:34,560
+And then he had this neat question,
+
+303
+00:14:34,560 --> 00:14:41,120
+which is, how do people do it today?
+
+304
+00:14:41,130 --> 00:14:43,440
+Now, that was quite interesting because
+
+305
+00:14:43,560 --> 00:14:44,760
+here you think you're trying to do
+
+306
+00:14:44,770 --> 00:14:47,600
+anything new that nobody has done before.
+
+307
+00:14:47,600 --> 00:14:48,360
+And you're gonna have this
+
+308
+00:14:48,370 --> 00:14:49,480
+whole new capability.
+
+309
+00:14:49,480 --> 00:14:50,240
+And what he's saying is,
+
+310
+00:14:50,240 --> 00:14:52,560
+"Look, this is really important."
+
+311
+00:14:52,570 --> 00:14:54,440
+People have worked out some way to do it.
+
+312
+00:14:55,000 --> 00:14:56,640
+They may be doing it manually.
+
+313
+00:14:56,640 --> 00:14:58,600
+They may be doing it through a crazy way.
+
+314
+00:14:58,600 --> 00:14:59,800
+But there's somebody out there
+
+315
+00:14:59,800 --> 00:15:02,560
+that has figured out some way to do it.
+
+316
+00:15:02,560 --> 00:15:03,720
+And you need to understand
+
+317
+00:15:03,730 --> 00:15:04,840
+what that is.
+
+318
+00:15:04,840 --> 00:15:07,360
+So, you're replacing and displacing someone.
+
+319
+00:15:07,360 --> 00:15:10,960
+So, that's really kind of interesting.
+
+320
+00:15:10,970 --> 00:15:13,200
+Then, what's your new idea?
+
+321
+00:15:13,200 --> 00:15:15,000
+Really, how's your new approach?
+
+322
+00:15:15,010 --> 00:15:16,760
+How's it different?
+
+323
+00:15:16,770 --> 00:15:19,480
+And what are the three hard problems?
+
+324
+00:15:19,480 --> 00:15:20,920
+What are the, what I now call
+
+325
+00:15:20,920 --> 00:15:22,520
+when I talk to junior researchers,
+
+326
+00:15:22,520 --> 00:15:25,760
+what are the three rocks you need to move
+
+327
+00:15:26,040 --> 00:15:27,840
+in order to make this real?
+
+328
+00:15:27,850 --> 00:15:30,320
+And by the way, don't even try to move
+
+329
+00:15:30,320 --> 00:15:31,200
+all three of those.
+
+330
+00:15:31,360 --> 00:15:33,880
+Because maybe, this is again a lesson.
+
+331
+00:15:33,890 --> 00:15:37,080
+Maybe if you move one of those rocks,
+
+332
+00:15:37,090 --> 00:15:39,120
+somebody else or something else will
+
+333
+00:15:39,130 --> 00:15:41,360
+move one or two of them in parallel.
+
+334
+00:15:41,370 --> 00:15:43,600
+So, but at least know what they are.
+
+335
+00:15:43,680 --> 00:15:45,080
+Because you don't wanna get to the end
+
+336
+00:15:45,080 --> 00:15:46,360
+and find that you got stuck
+
+337
+00:15:46,920 --> 00:15:47,600
+because it's something
+
+338
+00:15:47,610 --> 00:15:49,920
+that you should have anticipated.
+
+339
+00:15:49,920 --> 00:15:52,920
+So, now having learned about you're,
+
+340
+00:15:52,930 --> 00:15:56,200
+I've heard your story about your great
+
+341
+00:15:56,200 --> 00:15:59,120
+brilliant new idea and your new approach.
+
+342
+00:15:59,120 --> 00:16:00,960
+So, nobody's really followed
+
+343
+00:16:00,970 --> 00:16:03,240
+this approach before, you think.
+
+344
+00:16:03,240 --> 00:16:04,200
+And then his question was,
+
+345
+00:16:04,210 --> 00:16:06,680
+why didn't it work last time?
+
+346
+00:16:07,400 --> 00:16:08,760
+Now, unfortunately,
+
+347
+00:16:08,760 --> 00:16:10,560
+the way he asked this question
+
+348
+00:16:10,560 --> 00:16:12,040
+tended to be very discouraging.
+
+349
+00:16:12,040 --> 00:16:13,760
+But I've learned to try to be softer
+
+350
+00:16:13,770 --> 00:16:15,080
+in asking it.
+
+351
+00:16:15,080 --> 00:16:16,440
+Because what he's really saying is,
+
+352
+00:16:16,440 --> 00:16:18,600
+"Look, it's probably the case that somebody
+
+353
+00:16:18,610 --> 00:16:22,280
+tried something like this before."
+
+354
+00:16:22,290 --> 00:16:25,080
+You can get discouraged and say,
+
+355
+00:16:25,120 --> 00:16:26,560
+"Gee, damn, I thought this was
+
+356
+00:16:26,560 --> 00:16:27,400
+a whole new idea."
+
+357
+00:16:27,410 --> 00:16:29,560
+"I only wanna work on whole new ideas."
+
+358
+00:16:29,560 --> 00:16:32,200
+"I'm gonna have to go find something else."
+
+359
+00:16:32,210 --> 00:16:35,040
+What he was really saying was,
+
+360
+00:16:35,050 --> 00:16:36,320
+somebody is probably work
+
+361
+00:16:36,330 --> 00:16:40,000
+on a variation of this.
+
+362
+00:16:40,010 --> 00:16:41,920
+Find it and understand why
+
+363
+00:16:41,920 --> 00:16:44,280
+it didn't work before.
+
+364
+00:16:44,290 --> 00:16:46,760
+And what I say to researchers is,
+
+365
+00:16:46,840 --> 00:16:48,400
+I trust your intuition.
+
+366
+00:16:48,410 --> 00:16:49,640
+In other words,
+
+367
+00:16:49,650 --> 00:16:51,280
+I believe that you are right,
+
+368
+00:16:51,290 --> 00:16:54,760
+that now is the right time to go try this.
+
+369
+00:16:54,770 --> 00:16:56,200
+Even if other people tried it
+
+370
+00:16:56,240 --> 00:16:57,400
+five years ago.
+
+371
+00:16:57,410 --> 00:16:59,240
+And others tried it 10 years ago.
+
+372
+00:16:59,240 --> 00:17:01,160
+And others tried it 15 years ago.
+
+373
+00:17:01,160 --> 00:17:02,680
+But what we need to figure out is
+
+374
+00:17:02,800 --> 00:17:05,400
+why your intuition is right.
+
+375
+00:17:05,400 --> 00:17:07,160
+Because probably what you're saying is
+
+376
+00:17:07,160 --> 00:17:09,400
+either the problem has changed,
+
+377
+00:17:09,400 --> 00:17:11,240
+and actually we're gonna apply
+
+378
+00:17:11,240 --> 00:17:12,600
+that idea from before
+
+379
+00:17:12,800 --> 00:17:13,840
+to a different problem.
+
+380
+00:17:14,320 --> 00:17:15,760
+Or somebody moved
+
+381
+00:17:15,760 --> 00:17:17,720
+one of those other rocks, right?
+
+382
+00:17:17,720 --> 00:17:18,720
+While we weren't looking.
+
+383
+00:17:18,730 --> 00:17:20,550
+Some other invention
+
+384
+00:17:20,560 --> 00:17:22,480
+has made this more feasible today.
+
+385
+00:17:22,520 --> 00:17:23,520
+Or something's changed
+
+386
+00:17:23,520 --> 00:17:24,520
+in the business climate
+
+387
+00:17:24,520 --> 00:17:26,310
+or in the business ecosystem.
+
+388
+00:17:26,320 --> 00:17:28,640
+But knowing why your intuition
+
+389
+00:17:28,720 --> 00:17:29,720
+is likely to be right
+
+390
+00:17:29,760 --> 00:17:30,720
+and that's something that
+
+391
+00:17:31,280 --> 00:17:33,440
+I wasn't as good at.
+
+392
+00:17:33,440 --> 00:17:34,520
+I think that I've always been
+
+393
+00:17:34,530 --> 00:17:37,160
+an intuitively driven researcher.
+
+394
+00:17:37,170 --> 00:17:39,040
+And it's important to know that,
+
+395
+00:17:39,040 --> 00:17:40,960
+first off, because it can guide your work.
+
+396
+00:17:40,970 --> 00:17:42,800
+But second off, because it helps you
+
+397
+00:17:42,800 --> 00:17:45,160
+explain it to other people.
+
+398
+00:17:45,160 --> 00:17:47,280
+David, I think what I'm inspired
+
+399
+00:17:47,280 --> 00:17:49,960
+about here is this open mindedness
+
+400
+00:17:49,960 --> 00:17:53,270
+and curiosity that drives research that,
+
+401
+00:17:53,280 --> 00:17:55,960
+this whole time we haven't even mentioned
+
+402
+00:17:55,960 --> 00:17:58,440
+a single industry or a single problem
+
+403
+00:17:58,440 --> 00:17:59,240
+that you enjoy solving.
+
+404
+00:17:59,250 --> 00:18:01,400
+We're talking about the core of research
+
+405
+00:18:01,410 --> 00:18:04,200
+and finding opportunities and re-examining,
+
+406
+00:18:04,210 --> 00:18:06,120
+re-evaluating previous opportunities
+
+407
+00:18:06,130 --> 00:18:07,480
+that perhaps had those
+
+408
+00:18:07,480 --> 00:18:09,070
+big rocks stationed there.
+
+409
+00:18:09,080 --> 00:18:10,640
+And now, two years later,
+
+410
+00:18:10,650 --> 00:18:11,790
+something has changed.
+
+411
+00:18:11,800 --> 00:18:13,440
+Somebody moved a certain needle
+
+412
+00:18:13,720 --> 00:18:15,120
+that all of a sudden paved the way
+
+413
+00:18:15,120 --> 00:18:18,120
+in your role as a leader of a research team
+
+414
+00:18:18,120 --> 00:18:20,560
+is to be able to embrace that.
+
+415
+00:18:20,570 --> 00:18:22,440
+Trust your people's intuition
+
+416
+00:18:22,720 --> 00:18:24,040
+and help motivate them
+
+417
+00:18:24,040 --> 00:18:25,920
+to look for these new opportunities
+
+418
+00:18:26,200 --> 00:18:28,110
+that might not have been there before.
+
+419
+00:18:28,120 --> 00:18:30,080
+And by the way, when they go try
+
+420
+00:18:30,080 --> 00:18:31,760
+that new idea, that idea
+
+421
+00:18:31,800 --> 00:18:33,320
+that maybe people tried before
+
+422
+00:18:33,400 --> 00:18:35,680
+in these new circumstances,
+
+423
+00:18:35,690 --> 00:18:37,110
+by the time they're done,
+
+424
+00:18:37,120 --> 00:18:38,920
+it will be a new idea.
+
+425
+00:18:38,930 --> 00:18:40,920
+In other words, it will have morphed
+
+426
+00:18:40,930 --> 00:18:44,640
+and changed and have added new insights.
+
+427
+00:18:44,650 --> 00:18:48,880
+So, it's not just a matter of,
+
+428
+00:18:48,880 --> 00:18:50,080
+the rest of our lives are just
+
+429
+00:18:50,080 --> 00:18:54,240
+re-creating ideas that some ancestors have.
+
+430
+00:18:54,720 --> 00:18:58,160
+It's this notion that as you go through it,
+
+431
+00:18:58,170 --> 00:19:00,520
+you're actually changing and gaining
+
+432
+00:19:00,530 --> 00:19:01,880
+more insight along the way.
+
+433
+00:19:01,890 --> 00:19:04,030
+And it's when you look back that you say,
+
+434
+00:19:04,040 --> 00:19:07,830
+"Oh, this is what was really important."
+
+435
+00:19:07,840 --> 00:19:08,800
+Anyway, you keep going
+
+436
+00:19:08,800 --> 00:19:10,110
+with your questions.
+
+437
+00:19:10,120 --> 00:19:13,280
+I have one that you probably
+
+438
+00:19:13,280 --> 00:19:14,270
+don't get that often,
+
+439
+00:19:14,280 --> 00:19:16,030
+but I'm still very curious.
+
+440
+00:19:16,040 --> 00:19:18,640
+Are there any regrets that you have
+
+441
+00:19:18,680 --> 00:19:21,320
+on things that you didn't do
+
+442
+00:19:21,322 --> 00:19:22,160
+in your career?
+
+443
+00:19:22,160 --> 00:19:23,560
+Because with such an impressive career,
+
+444
+00:19:23,560 --> 00:19:25,080
+I think it's very easy to go and say,
+
+445
+00:19:25,080 --> 00:19:27,240
+he's done it all and he's completely
+
+446
+00:19:27,240 --> 00:19:29,480
+satisfied and fulfilled at doing everything
+
+447
+00:19:29,480 --> 00:19:30,000
+you wanted to do.
+
+448
+00:19:30,000 --> 00:19:32,160
+But are there certain positions
+
+449
+00:19:32,160 --> 00:19:33,800
+that you wish, that looking back
+
+450
+00:19:33,800 --> 00:19:35,400
+you might have wanted to take a step at
+
+451
+00:19:35,600 --> 00:19:37,400
+or different entrepreneurial endeavors
+
+452
+00:19:37,410 --> 00:19:39,320
+you might have wanted to do?
+
+453
+00:19:39,760 --> 00:19:41,960
+No, I don't think in terms of,
+
+454
+00:19:41,970 --> 00:19:43,040
+this is a mindset,
+
+455
+00:19:43,160 --> 00:19:48,350
+so, I don't have regrets, right?
+
+456
+00:19:48,360 --> 00:19:50,070
+In that sense.
+
+457
+00:19:50,080 --> 00:19:52,240
+Wouldn't it be nice to have had
+
+458
+00:19:52,250 --> 00:19:57,160
+a unicorn when I was a VC?
+
+459
+00:19:57,240 --> 00:19:58,040
+Sure. Of course.
+
+460
+00:19:58,050 --> 00:20:00,270
+That would have been great, right?
+
+461
+00:20:00,280 --> 00:20:02,920
+I'm asking this because my generation
+
+462
+00:20:02,920 --> 00:20:03,960
+is all about FOMO.
+
+463
+00:20:04,200 --> 00:20:07,120
+And it's all about fear of missing out
+
+464
+00:20:07,120 --> 00:20:08,200
+on different opportunities
+
+465
+00:20:08,200 --> 00:20:09,960
+and grappling with the different things
+
+466
+00:20:09,960 --> 00:20:11,070
+that the world has.
+
+467
+00:20:11,080 --> 00:20:11,720
+And one of the things
+
+468
+00:20:11,720 --> 00:20:13,000
+that I wanna take with me is,
+
+469
+00:20:13,000 --> 00:20:15,280
+how do I go about my opportunities
+
+470
+00:20:15,560 --> 00:20:17,120
+not constantly thinking about
+
+471
+00:20:17,120 --> 00:20:19,030
+what else is out there for me.
+
+472
+00:20:19,040 --> 00:20:20,440
+I wanna be in the moment,
+
+473
+00:20:20,450 --> 00:20:23,400
+love what I do and concentrate on that.
+
+474
+00:20:23,400 --> 00:20:25,720
+Yeah. It's interesting.
+
+475
+00:20:25,730 --> 00:20:28,510
+It's a discussion I often have with people.
+
+476
+00:20:28,520 --> 00:20:29,480
+So, for example,
+
+477
+00:20:29,480 --> 00:20:30,720
+let's say I'm speaking to
+
+478
+00:20:30,840 --> 00:20:33,270
+a research candidate
+
+479
+00:20:33,280 --> 00:20:35,280
+and they've got offers from the university
+
+480
+00:20:35,280 --> 00:20:36,640
+and they've got offers from us
+
+481
+00:20:36,680 --> 00:20:38,320
+and they've got offers from another company.
+
+482
+00:20:38,330 --> 00:20:38,920
+I'm sort of like,
+
+483
+00:20:39,600 --> 00:20:44,200
+hey, this is wonderful, right?
+
+484
+00:20:44,210 --> 00:20:46,280
+It is one problem to have
+
+485
+00:20:46,760 --> 00:20:48,720
+is when you have these other opportunities.
+
+486
+00:20:48,730 --> 00:20:53,920
+So, I do get the sort of,
+
+487
+00:20:53,920 --> 00:20:55,120
+I can understand how people can
+
+488
+00:20:55,130 --> 00:20:57,920
+have the fear of missing out.
+
+489
+00:20:58,280 --> 00:21:00,240
+And what I'd urge them to do
+
+490
+00:21:00,240 --> 00:21:01,760
+is just look at this as
+
+491
+00:21:01,760 --> 00:21:03,720
+what a great high class problem to have.
+
+492
+00:21:03,840 --> 00:21:05,750
+That you have all these different options.
+
+493
+00:21:05,760 --> 00:21:08,510
+Now, go get started on one.
+
+494
+00:21:08,520 --> 00:21:09,480
+Right.
+
+495
+00:21:09,490 --> 00:21:12,440
+When I was a researcher at MIT,
+
+496
+00:21:12,450 --> 00:21:14,520
+I remember being in a point where there
+
+497
+00:21:14,600 --> 00:21:17,000
+I was sort of spinning my wheels.
+
+498
+00:21:17,010 --> 00:21:19,000
+Because there were three different
+
+499
+00:21:19,040 --> 00:21:20,520
+major research initiatives
+
+500
+00:21:20,600 --> 00:21:21,590
+that I wanted to launch.
+
+501
+00:21:21,600 --> 00:21:23,600
+I loved [--]
+
+502
+00:21:24,240 --> 00:21:30,640
+And what I eventually had to do
+
+503
+00:21:30,640 --> 00:21:32,240
+and I got some advice on this
+
+504
+00:21:33,040 --> 00:21:34,960
+was just start one.
+
+505
+00:21:34,970 --> 00:21:37,200
+And in fact, the advice was,
+
+506
+00:21:37,440 --> 00:21:39,590
+David, you have to let one of these things
+
+507
+00:21:39,600 --> 00:21:43,440
+trick you into falling in love with it.
+
+508
+00:21:43,450 --> 00:21:46,270
+I love that.
+
+509
+00:21:46,280 --> 00:21:49,160
+Let yourself get sucked into one of these.
+
+510
+00:21:49,170 --> 00:21:51,240
+You throw your energy into it.
+
+511
+00:21:51,250 --> 00:21:52,200
+And I did that.
+
+512
+00:21:52,210 --> 00:21:54,960
+And because I was just sort of almost
+
+513
+00:21:54,960 --> 00:21:56,960
+holding myself at a distance
+
+514
+00:21:56,970 --> 00:21:58,880
+from all three opportunities,
+
+515
+00:21:58,890 --> 00:22:01,440
+not diving in and committing to anyone.
+
+516
+00:22:01,450 --> 00:22:03,120
+What was interesting was,
+
+517
+00:22:03,520 --> 00:22:04,440
+you know what?
+
+518
+00:22:04,440 --> 00:22:05,880
+A year later, we had that first
+
+519
+00:22:05,890 --> 00:22:07,280
+project up and running.
+
+520
+00:22:07,290 --> 00:22:09,000
+And an opportunity came by
+
+521
+00:22:09,000 --> 00:22:10,600
+to submit some proposals.
+
+522
+00:22:10,600 --> 00:22:14,240
+And yeah, we got the second one going.
+
+523
+00:22:14,440 --> 00:22:15,720
+Right.
+
+524
+00:22:15,720 --> 00:22:16,920
+And a couple of years later,
+
+525
+00:22:16,920 --> 00:22:18,120
+we got the third one going.
+
+526
+00:22:18,130 --> 00:22:20,520
+And so, when I looked a few years later,
+
+527
+00:22:20,530 --> 00:22:22,550
+yeah, I started them sequentially.
+
+528
+00:22:22,560 --> 00:22:24,360
+But in fact, we actually had
+
+529
+00:22:24,400 --> 00:22:25,200
+I say we,
+
+530
+00:22:25,210 --> 00:22:27,120
+so, it's myself, my graduate students.
+
+531
+00:22:27,360 --> 00:22:31,240
+These people work for me as a team.
+
+532
+00:22:31,250 --> 00:22:34,520
+So, it didn't matter which order.
+
+533
+00:22:34,680 --> 00:22:37,440
+It mattered to just let myself
+
+534
+00:22:37,440 --> 00:22:38,880
+get drawn into one of these enough.
+
+535
+00:22:38,890 --> 00:22:40,880
+Falling in love with them.
+
+536
+00:22:40,890 --> 00:22:42,000
+And not feel like you,
+
+537
+00:22:42,000 --> 00:22:42,760
+and this is, again,
+
+538
+00:22:42,760 --> 00:22:44,920
+a discussion I often have with researchers.
+
+539
+00:22:44,920 --> 00:22:46,640
+I say, "I'm not asking you
+
+540
+00:22:46,650 --> 00:22:51,560
+to let go of that other aspiration, right?"
+
+541
+00:22:51,760 --> 00:22:53,110
+Keep it and love it.
+
+542
+00:22:53,120 --> 00:22:55,550
+Let's just get going with this one first
+
+543
+00:22:55,560 --> 00:22:56,640
+and then we're gonna get going
+
+544
+00:22:56,640 --> 00:22:57,680
+with the other one later.
+
+545
+00:22:57,690 --> 00:22:59,040
+I love that mindset.
+
+546
+00:22:59,040 --> 00:23:00,320
+I love that mindset of leadership.
+
+547
+00:23:00,330 --> 00:23:02,280
+And I love that mindset of fall in love
+
+548
+00:23:02,280 --> 00:23:03,000
+with what you do.
+
+549
+00:23:03,040 --> 00:23:05,640
+And It's not that you're foregoing
+
+550
+00:23:05,640 --> 00:23:06,550
+different opportunities.
+
+551
+00:23:06,560 --> 00:23:09,120
+You're choosing which ones to do now
+
+552
+00:23:09,120 --> 00:23:10,840
+and which ones to pursue later.
+
+553
+00:23:10,840 --> 00:23:11,760
+And you don't know what later
+
+554
+00:23:11,760 --> 00:23:12,960
+holds for you as well.
+
+555
+00:23:12,960 --> 00:23:14,830
+David, 20 minutes go by way too fast.
+
+556
+00:23:14,840 --> 00:23:15,560
+And I have to end with
+
+557
+00:23:15,570 --> 00:23:16,790
+my favorite question.
+
+558
+00:23:16,800 --> 00:23:20,160
+Three words that best describe you.
+
+559
+00:23:21,480 --> 00:23:24,310
+I guess one is Focus on impact.
+
+560
+00:23:24,320 --> 00:23:26,320
+Okay. Focus on impact.
+
+561
+00:23:26,330 --> 00:23:27,960
+Wanting to change the world.
+
+562
+00:23:27,960 --> 00:23:29,680
+This is in a good way.
+
+563
+00:23:29,760 --> 00:23:32,000
+It's a positive impact.
+
+564
+00:23:32,010 --> 00:23:35,360
+I know that's an extra word hyphenated.
+
+565
+00:23:35,800 --> 00:23:37,920
+I think this sense of being
+
+566
+00:23:37,930 --> 00:23:40,680
+a Hybridizer or a Tech Polyglot
+
+567
+00:23:40,690 --> 00:23:41,960
+I love that.
+
+568
+00:23:41,970 --> 00:23:43,920
+of different domains.
+
+569
+00:23:43,930 --> 00:23:47,440
+And then the other is it's Intuitive.
+
+570
+00:23:47,880 --> 00:23:50,160
+And I'm gonna confess that I'm not
+
+571
+00:23:50,170 --> 00:23:52,520
+as data driven as some people.
+
+572
+00:23:52,530 --> 00:23:53,760
+And it's funny because
+
+573
+00:23:53,760 --> 00:23:56,680
+I champion data driven research.
+
+574
+00:23:56,680 --> 00:23:58,520
+I'm constantly trying to make our company
+
+575
+00:23:58,520 --> 00:24:00,590
+a more data driven company.
+
+576
+00:24:00,600 --> 00:24:03,360
+But I will say that in a lot of things
+
+577
+00:24:03,370 --> 00:24:05,200
+in research, I think it does
+
+578
+00:24:05,200 --> 00:24:08,400
+come down to intuition.
+
+579
+00:24:08,400 --> 00:24:09,280
+I love that so much.
+
+580
+00:24:09,280 --> 00:24:10,600
+David, thank you for the inspiration.
+
+581
+00:24:10,600 --> 00:24:12,160
+Thank you for the time to do this.
+
+582
+00:24:12,170 --> 00:24:13,840
+You have so much responsibility
+
+583
+00:24:13,840 --> 00:24:15,880
+in so many people that need you
+
+584
+00:24:15,920 --> 00:24:16,840
+and need your time.
+
+585
+00:24:16,840 --> 00:24:18,000
+So, I really thank you for being
+
+586
+00:24:18,000 --> 00:24:18,920
+so generous with me.
+
+587
+00:24:19,240 --> 00:24:21,070
+And good luck with everything.
+
+588
+00:24:21,080 --> 00:24:23,160
+And stay safe and stay healthy.
+
+589
+00:24:23,170 --> 00:24:24,760
+Thank you. Great being with you.
+
+590
+00:24:24,770 --> 00:24:26,000
+You stay healthy, too.
+
+591
+00:24:26,040 --> 00:24:29,110
+And just keep going with J-Ventures.
+
+592
+00:24:29,120 --> 00:24:30,440
+Thank you very much. Take care, David.
+
+593
+00:24:30,450 --> 00:24:31,320
+Bye bye. Bye bye.
+

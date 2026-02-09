@@ -1,0 +1,2444 @@
+﻿1
+00:00:00,160 --> 00:00:01,800
+We will overcome that barrier.
+
+2
+00:00:01,800 --> 00:00:04,440
+So, we would want to answer the questions
+
+3
+00:00:04,440 --> 00:00:06,280
+that the users are not asking
+
+4
+00:00:06,280 --> 00:00:07,120
+or they don't even know
+
+5
+00:00:07,120 --> 00:00:08,315
+how to ask the questions.
+
+6
+00:00:32,920 --> 00:00:33,720
+Ramesh Panuganty,
+
+7
+00:00:33,720 --> 00:00:35,120
+thank you so much for being on my show.
+
+8
+00:00:35,120 --> 00:00:36,600
+How are you?
+
+9
+00:00:36,760 --> 00:00:38,440
+I'm good, Michael.
+
+10
+00:00:38,760 --> 00:00:40,400
+Thanks for calling, yeah.
+
+11
+00:00:40,400 --> 00:00:41,800
+Thank you very much for being here.
+
+12
+00:00:41,800 --> 00:00:43,960
+It's a privilege to have you here.
+
+13
+00:00:43,960 --> 00:00:45,800
+A serial entrepreneur.
+
+14
+00:00:45,800 --> 00:00:47,960
+I think that you are the definition
+
+15
+00:00:47,960 --> 00:00:49,280
+of a serial entrepreneur
+
+16
+00:00:49,280 --> 00:00:51,040
+with three successful companies
+
+17
+00:00:51,040 --> 00:00:51,840
+behind you already.
+
+18
+00:00:51,840 --> 00:00:53,440
+All of them were acquired.
+
+19
+00:00:53,440 --> 00:00:54,600
+Some of them by companies
+
+20
+00:00:54,600 --> 00:00:56,000
+that I value very much.
+
+21
+00:00:56,000 --> 00:00:58,320
+I think that until today,
+
+22
+00:00:58,320 --> 00:00:59,680
+I still use Splunk
+
+23
+00:00:59,680 --> 00:01:03,120
+on a pretty regular basis.
+
+24
+00:01:03,120 --> 00:01:04,320
+And now, you're on
+
+25
+00:01:04,320 --> 00:01:05,600
+to your fourth startup.
+
+26
+00:01:05,600 --> 00:01:06,640
+And I'm very proud
+
+27
+00:01:06,640 --> 00:01:08,080
+to be a part of the journey
+
+28
+00:01:08,080 --> 00:01:09,360
+as a part of J-Ventures,
+
+29
+00:01:09,360 --> 00:01:11,440
+one of the investors in the company.
+
+30
+00:01:11,440 --> 00:01:12,920
+And so, before we get to talk about
+
+31
+00:01:12,920 --> 00:01:15,160
+what this latest company is about.
+
+32
+00:01:15,160 --> 00:01:16,760
+Ramesh, I'd love for you to take me back
+
+33
+00:01:16,760 --> 00:01:17,240
+a little bit.
+
+34
+00:01:17,240 --> 00:01:19,880
+And what is it about entrepreneurship
+
+35
+00:01:19,880 --> 00:01:21,760
+and about building companies
+
+36
+00:01:21,760 --> 00:01:24,120
+that really gets you so excited?
+
+37
+00:01:24,120 --> 00:01:24,720
+Because now,
+
+38
+00:01:24,720 --> 00:01:26,880
+you're on to your fourth one.
+
+39
+00:01:27,120 --> 00:01:29,320
+So, instead of calling it
+
+40
+00:01:29,320 --> 00:01:31,400
+as an entrepreneurship,
+
+41
+00:01:31,680 --> 00:01:33,840
+let me just say that it was more about
+
+42
+00:01:33,840 --> 00:01:35,880
+being passionate than being about
+
+43
+00:01:35,880 --> 00:01:37,600
+trying to change the world
+
+44
+00:01:37,600 --> 00:01:39,600
+in like a smaller way.
+
+45
+00:01:39,600 --> 00:01:42,080
+And even before
+
+46
+00:01:42,080 --> 00:01:43,800
+I was starting my first company,
+
+47
+00:01:43,800 --> 00:01:45,480
+I thought there is actually
+
+48
+00:01:45,480 --> 00:01:48,080
+a big product market gap
+
+49
+00:01:48,080 --> 00:01:49,600
+in terms of what was happening
+
+50
+00:01:49,600 --> 00:01:51,640
+with the evolution of the cloud.
+
+51
+00:01:51,640 --> 00:01:53,360
+The Amazon Web Services
+
+52
+00:01:53,360 --> 00:01:54,240
+have just started.
+
+53
+00:01:54,240 --> 00:01:56,360
+There's probably less than 50 people
+
+54
+00:01:56,360 --> 00:01:58,520
+when I first interacted with them.
+
+55
+00:01:58,520 --> 00:02:00,440
+And I thought there is a big opportunity
+
+56
+00:02:00,440 --> 00:02:01,760
+in terms of,
+
+57
+00:02:01,760 --> 00:02:02,760
+say, what the cloud
+
+58
+00:02:02,760 --> 00:02:04,160
+could do for the world
+
+59
+00:02:04,160 --> 00:02:05,360
+and how people
+
+60
+00:02:05,360 --> 00:02:07,400
+can even get on to the cloud.
+
+61
+00:02:07,400 --> 00:02:09,240
+And coming from an
+
+62
+00:02:09,240 --> 00:02:10,800
+experience and operating systems.
+
+63
+00:02:10,800 --> 00:02:11,760
+I started my journey
+
+64
+00:02:11,760 --> 00:02:12,720
+in operating systems.
+
+65
+00:02:12,720 --> 00:02:14,000
+The first product I
+
+66
+00:02:14,000 --> 00:02:16,400
+tried to add and build
+
+67
+00:02:16,400 --> 00:02:19,840
+was SVR for UNIX operating system.
+
+68
+00:02:19,840 --> 00:02:22,240
+I spent about six years
+
+69
+00:02:22,240 --> 00:02:23,480
+on UNIX operating system
+
+70
+00:02:23,480 --> 00:02:24,680
+trying to add features,
+
+71
+00:02:24,680 --> 00:02:25,520
+make changes,
+
+72
+00:02:25,520 --> 00:02:29,640
+and then a new configuration things
+
+73
+00:02:29,640 --> 00:02:31,400
+like clustering.
+
+74
+00:02:31,400 --> 00:02:33,640
+So, I've come from the space,
+
+75
+00:02:33,640 --> 00:02:35,880
+what we've done always for about 12 years
+
+76
+00:02:35,880 --> 00:02:37,640
+or so across companies,
+
+77
+00:02:37,640 --> 00:02:40,480
+like Sun Microsystems StorageTek, etc.
+
+78
+00:02:40,480 --> 00:02:42,360
+And I thought there is an opportunity
+
+79
+00:02:42,360 --> 00:02:45,600
+to migrate enterprise applications
+
+80
+00:02:45,600 --> 00:02:46,600
+from one printer cloud
+
+81
+00:02:46,600 --> 00:02:49,360
+and also manage these applications.
+
+82
+00:02:49,360 --> 00:02:50,840
+When I first started
+
+83
+00:02:50,840 --> 00:02:52,520
+selling the product to the customers,
+
+84
+00:02:52,520 --> 00:02:54,760
+not many customers even knew about AWS.
+
+85
+00:02:54,760 --> 00:02:56,520
+So, it was actually really hard
+
+86
+00:02:56,520 --> 00:02:58,360
+for them to be convinced
+
+87
+00:02:58,360 --> 00:03:00,080
+to even take a meeting.
+
+88
+00:03:00,080 --> 00:03:00,960
+Not just us,
+
+89
+00:03:00,960 --> 00:03:02,360
+we used to partner with AWS,
+
+90
+00:03:02,360 --> 00:03:04,760
+so we went for AWS sales reps.
+
+91
+00:03:04,760 --> 00:03:06,920
+And then, we eventually succeeded.
+
+92
+00:03:06,920 --> 00:03:08,360
+I grew the business
+
+93
+00:03:08,360 --> 00:03:09,855
+to about 40 million dollars
+
+94
+00:03:09,856 --> 00:03:11,520
+[--].
+
+95
+00:03:11,520 --> 00:03:14,080
+And cloud management platforms
+
+96
+00:03:14,080 --> 00:03:15,280
+was the one that I created.
+
+97
+00:03:15,280 --> 00:03:17,280
+But it was less about
+
+98
+00:03:17,280 --> 00:03:18,240
+being an entrepreneur
+
+99
+00:03:18,240 --> 00:03:20,280
+or trying to do something.
+
+100
+00:03:20,280 --> 00:03:22,640
+But the idea was about being passionate
+
+101
+00:03:22,640 --> 00:03:23,840
+about the technical problem
+
+102
+00:03:23,840 --> 00:03:26,160
+and trying to solve it.
+
+103
+00:03:26,160 --> 00:03:27,680
+So, when you talk about, you know,
+
+104
+00:03:27,680 --> 00:03:31,360
+changing the world in your capacity
+
+105
+00:03:31,360 --> 00:03:33,320
+throughout these companies,
+
+106
+00:03:33,320 --> 00:03:34,360
+it sounds to me also
+
+107
+00:03:34,360 --> 00:03:35,920
+that while you're talking about that,
+
+108
+00:03:35,920 --> 00:03:36,920
+you all you're also excited
+
+109
+00:03:36,920 --> 00:03:37,840
+about the technologies
+
+110
+00:03:37,840 --> 00:03:39,160
+that you're building, right?
+
+111
+00:03:39,160 --> 00:03:39,680
+These are things
+
+112
+00:03:39,680 --> 00:03:41,120
+that you're personally curious about
+
+113
+00:03:41,120 --> 00:03:43,120
+and personally passionate about.
+
+114
+00:03:43,120 --> 00:03:43,400
+Yeah.
+
+115
+00:03:43,400 --> 00:03:43,720
+Yeah.
+
+116
+00:03:43,720 --> 00:03:46,000
+So, all of these companies are very
+
+117
+00:03:46,000 --> 00:03:48,720
+technologically centric companies.
+
+118
+00:03:48,720 --> 00:03:50,480
+Think of it as an IP centric company
+
+119
+00:03:50,480 --> 00:03:51,360
+in a very positive way
+
+120
+00:03:51,360 --> 00:03:53,040
+and not in a negative way.
+
+121
+00:03:53,041 --> 00:03:54,680
+And I'm very passionate about
+
+122
+00:03:54,680 --> 00:03:55,680
+using the technology
+
+123
+00:03:55,680 --> 00:03:57,200
+to make a meaningful change
+
+124
+00:03:57,200 --> 00:03:58,480
+for somebody.
+
+125
+00:03:58,480 --> 00:04:00,200
+And even in the second company,
+
+126
+00:04:00,200 --> 00:04:03,000
+I thought we could use an MP
+
+127
+00:04:03,000 --> 00:04:04,240
+in a completely different way
+
+128
+00:04:04,240 --> 00:04:06,400
+to create a conversation.
+
+129
+00:04:06,400 --> 00:04:07,200
+And 2014
+
+130
+00:04:07,200 --> 00:04:08,880
+was when we applied for the trademark
+
+131
+00:04:08,880 --> 00:04:11,120
+of conversational analytics.
+
+132
+00:04:11,120 --> 00:04:12,320
+And then, that was the company
+
+133
+00:04:12,320 --> 00:04:14,640
+that I had created.
+
+134
+00:04:14,640 --> 00:04:17,120
+And then, we were able to create
+
+135
+00:04:17,120 --> 00:04:18,560
+a meaningful impact
+
+136
+00:04:18,560 --> 00:04:19,920
+on enterprise customers.
+
+137
+00:04:19,920 --> 00:04:22,240
+Of course, we got an acquisition offer
+
+138
+00:04:22,240 --> 00:04:23,800
+much early in the cycle,
+
+139
+00:04:23,800 --> 00:04:24,800
+which we could not refuse.
+
+140
+00:04:24,800 --> 00:04:29,160
+So, we were acquired by Splunk.
+
+141
+00:04:29,160 --> 00:04:31,120
+But the conversational analytics with me,
+
+142
+00:04:31,120 --> 00:04:32,840
+meaning it was less about NFV.
+
+143
+00:04:32,840 --> 00:04:34,320
+We did not use any
+
+144
+00:04:34,320 --> 00:04:35,720
+open source NFV package.
+
+145
+00:04:35,720 --> 00:04:37,080
+No stand for NFV.
+
+146
+00:04:37,080 --> 00:04:38,800
+No other NFV.
+
+147
+00:04:38,800 --> 00:04:41,200
+So, we had to build the grounds up.
+
+148
+00:04:41,200 --> 00:04:41,960
+Most of the code
+
+149
+00:04:41,960 --> 00:04:44,760
+was actually done in assembly.
+
+150
+00:04:44,760 --> 00:04:46,160
+Really?
+
+151
+00:04:46,280 --> 00:04:47,440
+We were probably,
+
+152
+00:04:47,440 --> 00:04:49,000
+only one of the four, five companies
+
+153
+00:04:49,000 --> 00:04:50,320
+in the whole of Bay Area
+
+154
+00:04:50,320 --> 00:04:51,320
+who were working on assembly.
+
+155
+00:04:51,320 --> 00:04:54,040
+So, we wanted to give that experience,
+
+156
+00:04:54,040 --> 00:04:56,480
+speed and performance on NFV.
+
+157
+00:04:56,480 --> 00:04:57,480
+Now, I don't think
+
+158
+00:04:57,480 --> 00:04:58,800
+I can that actually do that.
+
+159
+00:04:58,800 --> 00:05:00,760
+But it is about
+
+160
+00:05:00,760 --> 00:05:03,240
+being passionate to that level.
+
+161
+00:05:03,240 --> 00:05:04,720
+That's just incredible.
+
+162
+00:05:04,720 --> 00:05:06,240
+So, passionate to that level.
+
+163
+00:05:06,240 --> 00:05:07,640
+One of four or five companies
+
+164
+00:05:07,640 --> 00:05:08,760
+working an assembly
+
+165
+00:05:08,760 --> 00:05:12,000
+out of the Bay Area in 2014, 2015.
+
+166
+00:05:12,000 --> 00:05:13,160
+That's just incredible.
+
+167
+00:05:13,160 --> 00:05:14,520
+So, give me
+
+168
+00:05:14,520 --> 00:05:16,480
+a spectrum of the technologies
+
+169
+00:05:16,480 --> 00:05:17,960
+that today in 2020
+
+170
+00:05:17,960 --> 00:05:19,560
+you're personally excited about.
+
+171
+00:05:19,560 --> 00:05:21,640
+I'm very excited about NLP.
+
+172
+00:05:21,640 --> 00:05:23,560
+And I focus a lot of my time at Stanford
+
+173
+00:05:23,560 --> 00:05:24,800
+on artificial intelligence
+
+174
+00:05:24,800 --> 00:05:25,880
+of the different applications
+
+175
+00:05:25,880 --> 00:05:27,360
+that it's going to.
+
+176
+00:05:27,360 --> 00:05:28,680
+But I'd love to pick your brain
+
+177
+00:05:28,680 --> 00:05:29,640
+on the different things
+
+178
+00:05:29,640 --> 00:05:31,760
+that you're particularly excited about
+
+179
+00:05:31,760 --> 00:05:35,080
+as we enter a new decade now.
+
+180
+00:05:35,080 --> 00:05:36,640
+As any entrepreneur has to do,
+
+181
+00:05:36,640 --> 00:05:37,960
+I'm very focused.
+
+182
+00:05:37,961 --> 00:05:40,240
+So, it is not about AI in general,
+
+183
+00:05:40,240 --> 00:05:41,440
+but application of AI
+
+184
+00:05:41,440 --> 00:05:43,960
+to solve a very specific problem.
+
+185
+00:05:43,960 --> 00:05:45,520
+In the current company, in MachEye,
+
+186
+00:05:45,520 --> 00:05:47,880
+we use AI as an architecture
+
+187
+00:05:47,880 --> 00:05:50,200
+to give a play button
+
+188
+00:05:50,200 --> 00:05:51,440
+for the enterprise data
+
+189
+00:05:51,440 --> 00:05:53,920
+and also to solve a big problem
+
+190
+00:05:53,920 --> 00:05:55,560
+in AI and to act.
+
+191
+00:05:55,560 --> 00:05:57,480
+I'll explain what do I mean
+
+192
+00:05:57,480 --> 00:06:00,280
+by play button for the enterprise data.
+
+193
+00:06:00,280 --> 00:06:01,400
+So, think of it as
+
+194
+00:06:01,400 --> 00:06:02,160
+we are bringing
+
+195
+00:06:02,160 --> 00:06:03,640
+two or three different things in AI
+
+196
+00:06:03,640 --> 00:06:06,600
+together to provide this benefit.
+
+197
+00:06:06,600 --> 00:06:08,160
+Number 1 is a Google like
+
+198
+00:06:08,160 --> 00:06:09,880
+actual search experience,
+
+199
+00:06:09,880 --> 00:06:12,920
+and it is a lot more than NLP.
+
+200
+00:06:12,920 --> 00:06:14,760
+And it is about
+
+201
+00:06:15,000 --> 00:06:17,360
+bringing in an actual search experience
+
+202
+00:06:17,360 --> 00:06:19,200
+coupled with ambiguity corrections,
+
+203
+00:06:19,200 --> 00:06:20,280
+coupled with contextual
+
+204
+00:06:20,280 --> 00:06:22,280
+search recommendations, etc.
+
+205
+00:06:22,280 --> 00:06:22,920
+It means that
+
+206
+00:06:22,920 --> 00:06:24,160
+when a customer is searching
+
+207
+00:06:24,160 --> 00:06:25,480
+for say, it's Alabama,
+
+208
+00:06:25,480 --> 00:06:26,240
+we have to figure out
+
+209
+00:06:26,240 --> 00:06:27,560
+whether Alabama is country,
+
+210
+00:06:27,560 --> 00:06:29,480
+or a city, or a state, etc. and so on,
+
+211
+00:06:29,480 --> 00:06:31,240
+that is done by us.
+
+212
+00:06:31,240 --> 00:06:32,000
+And second,
+
+213
+00:06:32,000 --> 00:06:34,320
+we understand not only the query,
+
+214
+00:06:34,320 --> 00:06:35,960
+we answer back instantly.
+
+215
+00:06:35,960 --> 00:06:37,480
+But we also get the raw data
+
+216
+00:06:37,480 --> 00:06:38,480
+and apply a series
+
+217
+00:06:38,480 --> 00:06:40,280
+of machine learning ones.
+
+218
+00:06:40,280 --> 00:06:40,720
+And even though
+
+219
+00:06:40,720 --> 00:06:42,160
+there are a lot of platforms
+
+220
+00:06:42,160 --> 00:06:43,480
+where somebody
+
+221
+00:06:43,480 --> 00:06:44,680
+can drag and drop the models
+
+222
+00:06:44,680 --> 00:06:45,640
+and analyze,
+
+223
+00:06:45,640 --> 00:06:46,680
+but it doesn't happen
+
+224
+00:06:46,680 --> 00:06:48,320
+for every enterprise user.
+
+225
+00:06:48,320 --> 00:06:49,360
+So think of it as a
+
+226
+00:06:49,360 --> 00:06:51,240
+a coffee store manager
+
+227
+00:06:51,240 --> 00:06:53,400
+of a large chain.
+
+228
+00:06:53,400 --> 00:06:54,320
+That store manager
+
+229
+00:06:54,320 --> 00:06:55,840
+cannot deal with all these models.
+
+230
+00:06:55,840 --> 00:06:58,320
+So, we do this ML workflow,
+
+231
+00:06:58,320 --> 00:06:59,920
+ML operations on the fly
+
+232
+00:06:59,920 --> 00:07:01,480
+at that point in time.
+
+233
+00:07:01,480 --> 00:07:02,680
+Typical turn around time,
+
+234
+00:07:02,680 --> 00:07:04,520
+about 300 milliseconds.
+
+235
+00:07:04,520 --> 00:07:05,800
+Wow.
+
+236
+00:07:05,960 --> 00:07:07,240
+And we actually choose
+
+237
+00:07:07,240 --> 00:07:08,240
+the machine learning models.
+
+238
+00:07:08,240 --> 00:07:08,600
+We do the
+
+239
+00:07:08,600 --> 00:07:10,160
+feature parameter identification,
+
+240
+00:07:10,160 --> 00:07:11,520
+but some of this can happen
+
+241
+00:07:11,520 --> 00:07:13,440
+in an offline basis, too.
+
+242
+00:07:13,440 --> 00:07:14,480
+And then finally,
+
+243
+00:07:14,480 --> 00:07:17,040
+we use energy to produce English.
+
+244
+00:07:17,040 --> 00:07:19,680
+And then added it as an audio visual.
+
+245
+00:07:19,680 --> 00:07:20,800
+So, I assume that
+
+246
+00:07:20,800 --> 00:07:22,880
+a business user is on the go
+
+247
+00:07:22,880 --> 00:07:24,360
+and he asks the question:
+
+248
+00:07:24,360 --> 00:07:26,640
+how many chairs do I order
+
+249
+00:07:26,640 --> 00:07:27,880
+say for an upcoming season?
+
+250
+00:07:27,880 --> 00:07:29,960
+So, think of it as a retail customer.
+
+251
+00:07:29,960 --> 00:07:32,080
+And he simply gets an audio visual
+
+252
+00:07:32,080 --> 00:07:33,520
+on the mobile phone
+
+253
+00:07:33,520 --> 00:07:36,400
+and starts talking saying that
+
+254
+00:07:36,400 --> 00:07:37,360
+these are the number of chairs
+
+255
+00:07:37,360 --> 00:07:38,240
+that you need to order.
+
+256
+00:07:38,240 --> 00:07:39,160
+But along with the chairs,
+
+257
+00:07:39,160 --> 00:07:40,600
+you need to buy a tabletop.
+
+258
+00:07:40,600 --> 00:07:43,120
+Because 38% of the customers
+
+259
+00:07:43,120 --> 00:07:44,680
+buy tables along with the chairs.
+
+260
+00:07:44,680 --> 00:07:45,880
+So, this is something
+
+261
+00:07:45,880 --> 00:07:46,640
+that we need to look at.
+
+262
+00:07:46,640 --> 00:07:49,240
+So, that intelligence we try to bring up
+
+263
+00:07:49,240 --> 00:07:51,080
+and then presented at that point in time.
+
+264
+00:07:51,080 --> 00:07:52,520
+So, that is what we are doing
+
+265
+00:07:52,520 --> 00:07:53,840
+at MachEye.
+
+266
+00:07:54,520 --> 00:07:56,200
+And we have built a product
+
+267
+00:07:56,200 --> 00:07:57,640
+with AI as an architecture
+
+268
+00:07:57,640 --> 00:07:59,480
+rather than AI as a feature.
+
+269
+00:07:59,480 --> 00:08:00,240
+So, one of the things
+
+270
+00:08:00,240 --> 00:08:01,720
+that I'm always curious about is focus.
+
+271
+00:08:01,720 --> 00:08:03,760
+And one of the things that you mentioned
+
+272
+00:08:03,760 --> 00:08:05,120
+when I talked about
+
+273
+00:08:05,120 --> 00:08:07,160
+how I enjoy, you know, exploring
+
+274
+00:08:07,160 --> 00:08:08,400
+the artificial intelligence field
+
+275
+00:08:08,400 --> 00:08:09,560
+at Stanford,
+
+276
+00:08:09,560 --> 00:08:11,560
+you mentioned that as an entrepreneur,
+
+277
+00:08:11,560 --> 00:08:15,160
+and as a CEO, you enjoy taking AI
+
+278
+00:08:15,160 --> 00:08:16,800
+into an application level
+
+279
+00:08:16,800 --> 00:08:19,240
+and solving a real problem,
+
+280
+00:08:19,240 --> 00:08:21,160
+not just with the
+
+281
+00:08:21,160 --> 00:08:22,360
+artificial intelligence slowly,
+
+282
+00:08:22,360 --> 00:08:22,880
+but actually
+
+283
+00:08:22,880 --> 00:08:23,920
+one of the applications of it.
+
+284
+00:08:23,920 --> 00:08:24,840
+So, I'm curious,
+
+285
+00:08:24,840 --> 00:08:27,640
+within a software like MachEye
+
+286
+00:08:27,640 --> 00:08:28,440
+and within a company
+
+287
+00:08:28,440 --> 00:08:30,280
+that seems to be doing a lot, right,
+
+288
+00:08:30,280 --> 00:08:31,080
+you're solving a lot
+
+289
+00:08:31,080 --> 00:08:32,640
+of different problems in one,
+
+290
+00:08:32,640 --> 00:08:34,400
+how do you maintain focus
+
+291
+00:08:34,400 --> 00:08:35,160
+on which are
+
+292
+00:08:35,160 --> 00:08:36,640
+the really crucial problems to solve
+
+293
+00:08:36,640 --> 00:08:38,560
+especially if you're just starting out
+
+294
+00:08:38,560 --> 00:08:39,560
+and you're just exploring
+
+295
+00:08:39,560 --> 00:08:41,640
+what are your users are doing?
+
+296
+00:08:42,160 --> 00:08:45,760
+Yes. So, how do we identify the problem?
+
+297
+00:08:46,240 --> 00:08:48,000
+Number 1, first, trying to identify
+
+298
+00:08:48,000 --> 00:08:49,560
+what is the business scenario.
+
+299
+00:08:49,560 --> 00:08:50,640
+So, the business scenario
+
+300
+00:08:50,640 --> 00:08:53,160
+or the context is business intelligence.
+
+301
+00:08:53,160 --> 00:08:54,240
+And the business intelligence,
+
+302
+00:08:54,240 --> 00:08:55,480
+you define the persona.
+
+303
+00:08:55,480 --> 00:08:56,760
+And then you identify
+
+304
+00:08:56,760 --> 00:08:58,360
+what these are,
+
+305
+00:08:58,360 --> 00:08:59,320
+and then try to do that.
+
+306
+00:08:59,320 --> 00:09:00,080
+Say for example,
+
+307
+00:09:00,080 --> 00:09:01,160
+in this particular business
+
+308
+00:09:01,160 --> 00:09:03,520
+intelligence as a market, I think,
+
+309
+00:09:03,520 --> 00:09:05,600
+there is no use of any [--],
+
+310
+00:09:05,600 --> 00:09:07,960
+it's just as an example.
+
+311
+00:09:07,960 --> 00:09:09,560
+And hence, we don't do anything
+
+312
+00:09:09,560 --> 00:09:11,078
+like I mention,
+
+313
+00:09:11,079 --> 00:09:12,520
+educational intermediary identification
+
+314
+00:09:12,520 --> 00:09:14,040
+even though it is AI.
+
+315
+00:09:14,040 --> 00:09:17,000
+But it is more of understanding of data,
+
+316
+00:09:17,000 --> 00:09:18,880
+understanding or uncovering
+
+317
+00:09:18,880 --> 00:09:21,240
+the intelligence that is in the data,
+
+318
+00:09:21,240 --> 00:09:22,360
+automatically to the user.
+
+319
+00:09:22,360 --> 00:09:25,680
+So, that is a big business call.
+
+320
+00:09:25,680 --> 00:09:27,240
+And the long term vision of us
+
+321
+00:09:27,240 --> 00:09:29,280
+is to be a personal business companion
+
+322
+00:09:29,280 --> 00:09:32,040
+of any enterprise data.
+
+323
+00:09:32,040 --> 00:09:34,040
+As long as the technology
+
+324
+00:09:34,040 --> 00:09:37,040
+can fit into the scope and the use case,
+
+325
+00:09:37,040 --> 00:09:39,600
+we try to stay very focused on that.
+
+326
+00:09:39,600 --> 00:09:40,920
+So, if you're looking, you know,
+
+327
+00:09:40,920 --> 00:09:43,000
+10 years in the future about where,
+
+328
+00:09:43,000 --> 00:09:45,440
+how businesses are utilizing data
+
+329
+00:09:45,440 --> 00:09:47,200
+to leverage both
+
+330
+00:09:47,200 --> 00:09:48,240
+their day to day activities,
+
+331
+00:09:48,240 --> 00:09:49,600
+but also their forecasts
+
+332
+00:09:49,600 --> 00:09:52,600
+and as they scale,
+
+333
+00:09:52,600 --> 00:09:54,040
+where are we today
+
+334
+00:09:54,040 --> 00:09:55,360
+and where do you think
+
+335
+00:09:55,360 --> 00:09:59,240
+the world will be in 10, 15 years or so?
+
+336
+00:10:00,360 --> 00:10:02,120
+In terms of where the world is
+
+337
+00:10:02,120 --> 00:10:04,080
+as of no hour as of yesterday,
+
+338
+00:10:04,080 --> 00:10:06,200
+without MachEye is that,
+
+339
+00:10:06,200 --> 00:10:08,600
+a user has to,
+
+340
+00:10:08,600 --> 00:10:10,520
+or the entire data industries
+
+341
+00:10:10,520 --> 00:10:11,200
+in this paradigm
+
+342
+00:10:11,200 --> 00:10:13,480
+of what you ask is what you get.
+
+343
+00:10:13,480 --> 00:10:15,280
+So, I assume that the business user
+
+344
+00:10:15,280 --> 00:10:17,520
+wants to know something.
+
+345
+00:10:17,520 --> 00:10:18,320
+Say, for example,
+
+346
+00:10:18,320 --> 00:10:19,840
+somebody is asking a question:
+
+347
+00:10:19,840 --> 00:10:21,880
+how much were the California wildfires
+
+348
+00:10:21,880 --> 00:10:23,080
+this year?
+
+349
+00:10:23,080 --> 00:10:24,640
+Okay. It is actually really hard
+
+350
+00:10:24,640 --> 00:10:25,440
+to get an answer.
+
+351
+00:10:25,440 --> 00:10:27,280
+But you see, you can get an answer
+
+352
+00:10:27,280 --> 00:10:28,280
+by way of analyze,
+
+353
+00:10:28,280 --> 00:10:30,000
+looking at various information,
+
+354
+00:10:30,000 --> 00:10:31,720
+writing a sequel, etc.
+
+355
+00:10:31,720 --> 00:10:32,880
+But nothing more than
+
+356
+00:10:32,880 --> 00:10:34,760
+what the user is asking.
+
+357
+00:10:34,760 --> 00:10:36,640
+And I envision that pretty soon.
+
+358
+00:10:36,640 --> 00:10:39,440
+Say us, or maybe other companies
+
+359
+00:10:39,440 --> 00:10:40,600
+that are going to come up
+
+360
+00:10:40,600 --> 00:10:42,000
+in the same space.
+
+361
+00:10:42,001 --> 00:10:43,640
+We will overcome that barrier.
+
+362
+00:10:43,640 --> 00:10:46,280
+So, we would want to answer the questions
+
+363
+00:10:46,280 --> 00:10:48,120
+that the users are not asking,
+
+364
+00:10:48,120 --> 00:10:49,000
+or they don't even know
+
+365
+00:10:49,000 --> 00:10:50,720
+how to ask the questions.
+
+366
+00:10:50,720 --> 00:10:52,040
+Say, for example,
+
+367
+00:10:52,040 --> 00:10:53,520
+in this particular scenario,
+
+368
+00:10:53,520 --> 00:10:54,840
+the California wildfires,
+
+369
+00:10:54,840 --> 00:10:57,720
+we were told that the wildfires in 2020
+
+370
+00:10:57,720 --> 00:11:00,160
+has been little over 15 times
+
+371
+00:11:00,160 --> 00:11:01,480
+of the last year,
+
+372
+00:11:01,480 --> 00:11:04,200
+or 2020 wildfires were greater than
+
+373
+00:11:04,200 --> 00:11:05,600
+the sum total of the last
+
+374
+00:11:05,600 --> 00:11:06,800
+four or five years.
+
+375
+00:11:06,800 --> 00:11:08,120
+So, that is an intelligence
+
+376
+00:11:08,120 --> 00:11:10,040
+that the user doesn't know.
+
+377
+00:11:10,040 --> 00:11:11,960
+And then we could tell that.
+
+378
+00:11:11,960 --> 00:11:13,920
+And eventually,
+
+379
+00:11:14,440 --> 00:11:16,160
+what we are working on already
+
+380
+00:11:16,160 --> 00:11:17,480
+is to be able to produce
+
+381
+00:11:17,480 --> 00:11:18,920
+this intelligence
+
+382
+00:11:18,920 --> 00:11:20,760
+without any questions at all.
+
+383
+00:11:20,760 --> 00:11:21,880
+So, I assume that
+
+384
+00:11:21,880 --> 00:11:24,040
+we will become click-less,
+
+385
+00:11:24,040 --> 00:11:26,280
+and also search-less product.
+
+386
+00:11:26,280 --> 00:11:26,960
+So, I assume that
+
+387
+00:11:26,960 --> 00:11:28,160
+if I know the business metrics
+
+388
+00:11:28,160 --> 00:11:28,960
+and the KPIs
+
+389
+00:11:28,960 --> 00:11:31,000
+that the users are interested in,
+
+390
+00:11:31,000 --> 00:11:32,480
+we would want to produce intelligence
+
+391
+00:11:32,480 --> 00:11:34,760
+even without them asking any questions.
+
+392
+00:11:34,760 --> 00:11:35,280
+And we do that
+
+393
+00:11:35,280 --> 00:11:36,920
+to some extent already.
+
+394
+00:11:36,920 --> 00:11:38,360
+And that is how I think
+
+395
+00:11:38,360 --> 00:11:40,800
+enterprise intelligence will move.
+
+396
+00:11:40,800 --> 00:11:41,880
+So, what have you learned
+
+397
+00:11:41,880 --> 00:11:43,680
+over the past three companies
+
+398
+00:11:43,680 --> 00:11:44,960
+that you've built
+
+399
+00:11:44,960 --> 00:11:46,920
+about the life cycle of a companies?
+
+400
+00:11:46,920 --> 00:11:48,440
+So,
+
+401
+00:11:48,520 --> 00:11:49,840
+either as an entrepreneur
+
+402
+00:11:49,840 --> 00:11:52,280
+or as a leader or business wise,
+
+403
+00:11:52,280 --> 00:11:53,840
+what are some really key insights
+
+404
+00:11:53,840 --> 00:11:55,960
+that you've generated for yourself
+
+405
+00:11:55,960 --> 00:11:57,320
+as you are now approaching
+
+406
+00:11:57,320 --> 00:11:58,280
+or you're in the midst
+
+407
+00:11:58,280 --> 00:12:00,160
+of your fourth venture?
+
+408
+00:12:01,720 --> 00:12:02,720
+As an entrepreneur
+
+409
+00:12:02,720 --> 00:12:04,360
+and as a founder of the company,
+
+410
+00:12:04,360 --> 00:12:05,560
+this one very important thing
+
+411
+00:12:05,560 --> 00:12:07,120
+to figure out is,
+
+412
+00:12:07,120 --> 00:12:08,760
+is there an existing market
+
+413
+00:12:08,760 --> 00:12:10,000
+that we are going after.
+
+414
+00:12:10,000 --> 00:12:12,040
+Or are we creating a new market,
+
+415
+00:12:12,040 --> 00:12:13,880
+new product category.
+
+416
+00:12:13,880 --> 00:12:14,800
+Say in our case,
+
+417
+00:12:14,800 --> 00:12:17,360
+it is business intelligence as a market.
+
+418
+00:12:17,360 --> 00:12:18,560
+And there are budgets,
+
+419
+00:12:18,560 --> 00:12:19,360
+and the customers
+
+420
+00:12:19,360 --> 00:12:20,400
+have budget cycles.
+
+421
+00:12:20,400 --> 00:12:22,000
+And then
+
+422
+00:12:22,240 --> 00:12:22,600
+it means
+
+423
+00:12:22,600 --> 00:12:23,960
+that there is also competition
+
+424
+00:12:23,960 --> 00:12:25,760
+that is a legacy competition
+
+425
+00:12:25,760 --> 00:12:27,720
+or incumbent vendor.
+
+426
+00:12:27,720 --> 00:12:30,280
+And it is very important to identify
+
+427
+00:12:30,280 --> 00:12:32,080
+the difference between these two:
+
+428
+00:12:32,080 --> 00:12:33,760
+existing or new.
+
+429
+00:12:33,760 --> 00:12:35,560
+Because the market positioning,
+
+430
+00:12:35,560 --> 00:12:36,600
+customers budgets,
+
+431
+00:12:36,600 --> 00:12:38,040
+everything depends on that.
+
+432
+00:12:38,040 --> 00:12:40,120
+If you're trying to create a new product,
+
+433
+00:12:40,120 --> 00:12:41,720
+completely new product,
+
+434
+00:12:41,720 --> 00:12:43,200
+it's a longer sales cycle.
+
+435
+00:12:43,200 --> 00:12:44,600
+And customers don't have budget.
+
+436
+00:12:44,600 --> 00:12:45,560
+They can only budget
+
+437
+00:12:45,560 --> 00:12:46,440
+for a POC this year
+
+438
+00:12:46,440 --> 00:12:48,680
+and then budget for the,
+
+439
+00:12:48,680 --> 00:12:50,920
+for the complete implementation
+
+440
+00:12:50,920 --> 00:12:53,000
+end of next year or two years or so.
+
+441
+00:12:53,000 --> 00:12:54,640
+So, that is actually the first one
+
+442
+00:12:54,640 --> 00:12:56,280
+that you need to decide.
+
+443
+00:12:56,280 --> 00:12:57,280
+And the second thing is,
+
+444
+00:12:57,280 --> 00:12:58,280
+what is the value add
+
+445
+00:12:58,280 --> 00:12:59,520
+for the customer.
+
+446
+00:12:59,520 --> 00:13:01,080
+You can build great,
+
+447
+00:13:01,080 --> 00:13:02,360
+but if it doesn't deliver
+
+448
+00:13:02,360 --> 00:13:05,120
+a customer value, again,
+
+449
+00:13:05,120 --> 00:13:06,360
+customers may not perceived
+
+450
+00:13:06,360 --> 00:13:07,800
+a value in that.
+
+451
+00:13:07,800 --> 00:13:09,200
+And third, is that
+
+452
+00:13:09,200 --> 00:13:10,120
+can your product
+
+453
+00:13:10,120 --> 00:13:11,280
+stand up on its own,
+
+454
+00:13:11,280 --> 00:13:12,720
+or does it need an ecosystem
+
+455
+00:13:12,720 --> 00:13:14,360
+of other things
+
+456
+00:13:14,360 --> 00:13:17,640
+that need to push the adaption.
+
+457
+00:13:17,640 --> 00:13:19,800
+So, if somebody can understand
+
+458
+00:13:19,800 --> 00:13:21,520
+these three things,
+
+459
+00:13:21,640 --> 00:13:23,680
+it's easier to sell.
+
+460
+00:13:23,680 --> 00:13:24,800
+Were there any challenges
+
+461
+00:13:24,800 --> 00:13:26,360
+that kept presenting themselves
+
+462
+00:13:26,360 --> 00:13:27,600
+that almost seemed
+
+463
+00:13:27,600 --> 00:13:29,440
+to get easier and easier
+
+464
+00:13:29,440 --> 00:13:30,520
+with every venture
+
+465
+00:13:30,520 --> 00:13:33,040
+but they were the same in nature?
+
+466
+00:13:33,040 --> 00:13:34,280
+So, the same challenge
+
+467
+00:13:34,280 --> 00:13:35,920
+but you were able to tackle it
+
+468
+00:13:35,920 --> 00:13:38,800
+with more and more experience?
+
+469
+00:13:39,680 --> 00:13:41,720
+It is not always the same challenge.
+
+470
+00:13:41,720 --> 00:13:43,840
+Because if in case you see a challenge,
+
+471
+00:13:43,840 --> 00:13:45,960
+most of the times in the next venture,
+
+472
+00:13:45,960 --> 00:13:47,160
+you are better prepared
+
+473
+00:13:47,160 --> 00:13:48,600
+and you don't see the same challenge.
+
+474
+00:13:48,600 --> 00:13:49,800
+It is probably a different challenge
+
+475
+00:13:49,800 --> 00:13:52,160
+that you will encounter.
+
+476
+00:13:52,160 --> 00:13:54,520
+And in this company,
+
+477
+00:13:54,520 --> 00:13:55,600
+if I had to tell what is
+
+478
+00:13:55,600 --> 00:13:56,880
+a technological challenge
+
+479
+00:13:56,880 --> 00:13:59,280
+that we had to overcome,
+
+480
+00:13:59,280 --> 00:14:00,960
+was a synchronicity
+
+481
+00:14:00,960 --> 00:14:02,680
+of this machine learning models.
+
+482
+00:14:02,680 --> 00:14:03,640
+Some of these models
+
+483
+00:14:03,640 --> 00:14:05,560
+can take a long time to execute.
+
+484
+00:14:05,560 --> 00:14:07,480
+And if I had to take the input
+
+485
+00:14:07,480 --> 00:14:08,320
+from the search
+
+486
+00:14:08,320 --> 00:14:09,680
+and then instantly produce
+
+487
+00:14:09,680 --> 00:14:10,840
+the minimum 300 millisecond,
+
+488
+00:14:10,840 --> 00:14:13,320
+some models may not respond in the time .
+
+489
+00:14:13,320 --> 00:14:15,680
+So, we had to build an audio
+
+490
+00:14:15,680 --> 00:14:17,280
+or video engine that works
+
+491
+00:14:17,280 --> 00:14:19,360
+in synchronicity in nature.
+
+492
+00:14:19,360 --> 00:14:19,960
+So, it means that
+
+493
+00:14:19,960 --> 00:14:21,240
+as a video starts playing,
+
+494
+00:14:21,240 --> 00:14:23,440
+we might start appending content to it.
+
+495
+00:14:23,440 --> 00:14:24,480
+So, the progress bar
+
+496
+00:14:24,480 --> 00:14:26,640
+can sometimes go backwards
+
+497
+00:14:26,640 --> 00:14:28,040
+and not just forward.
+
+498
+00:14:28,040 --> 00:14:31,120
+Because the total time increased,
+
+499
+00:14:31,120 --> 00:14:34,160
+But we try to make sure that
+
+500
+00:14:34,160 --> 00:14:36,800
+that experience is seamless
+
+501
+00:14:36,800 --> 00:14:39,840
+and also present the user experience now
+
+502
+00:14:39,840 --> 00:14:42,720
+is an easy matter. So, yeah.
+
+503
+00:14:42,720 --> 00:14:43,800
+What are some other
+
+504
+00:14:43,800 --> 00:14:44,520
+interesting plans
+
+505
+00:14:44,520 --> 00:14:46,080
+that you're excited about?
+
+506
+00:14:46,080 --> 00:14:48,600
+So, obviously a lot of it
+
+507
+00:14:48,600 --> 00:14:49,240
+is in the world
+
+508
+00:14:49,240 --> 00:14:50,400
+of what MachEye is doing now,
+
+509
+00:14:50,400 --> 00:14:52,360
+but what are some other
+
+510
+00:14:52,360 --> 00:14:53,640
+big picture problems
+
+511
+00:14:53,640 --> 00:14:55,400
+that you think are worth tackling,
+
+512
+00:14:55,400 --> 00:14:56,360
+if for example,
+
+513
+00:14:56,360 --> 00:14:57,680
+young entrepreneurs from Stanford,
+
+514
+00:14:57,680 --> 00:15:00,560
+or 8200, are listening to this?
+
+515
+00:15:01,360 --> 00:15:03,240
+I think there is a big opportunity
+
+516
+00:15:03,240 --> 00:15:06,240
+in the educational space
+
+517
+00:15:06,240 --> 00:15:08,160
+coming from having built a company
+
+518
+00:15:08,160 --> 00:15:09,160
+in the educational space,
+
+519
+00:15:09,160 --> 00:15:12,120
+and in my select few other company,
+
+520
+00:15:12,120 --> 00:15:13,840
+I think that there is a lot more
+
+521
+00:15:13,840 --> 00:15:15,240
+bigger opportunity.
+
+522
+00:15:15,240 --> 00:15:17,200
+The existing platforms and solutions
+
+523
+00:15:17,200 --> 00:15:18,920
+are a bit monotonous.
+
+524
+00:15:18,920 --> 00:15:20,840
+And they don't personalized the content,
+
+525
+00:15:20,840 --> 00:15:22,440
+they don't personalized the delivery.
+
+526
+00:15:22,440 --> 00:15:24,960
+There is a lot of opportunity.
+
+527
+00:15:24,960 --> 00:15:26,280
+And as an entrepreneur,
+
+528
+00:15:26,280 --> 00:15:29,680
+somebody would also have a guarantee
+
+529
+00:15:29,680 --> 00:15:32,240
+that people would pay for that stuff,
+
+530
+00:15:32,240 --> 00:15:34,920
+pay for the products that they consume.
+
+531
+00:15:34,920 --> 00:15:36,800
+So education, in my opinion,
+
+532
+00:15:36,800 --> 00:15:39,040
+is on the top of the funnel.
+
+533
+00:15:39,040 --> 00:15:39,720
+And after that,
+
+534
+00:15:39,720 --> 00:15:42,080
+I think insurance and health care,
+
+535
+00:15:42,080 --> 00:15:45,680
+I think could go through a lot of change,
+
+536
+00:15:45,680 --> 00:15:50,080
+assuming that the government don't stop
+
+537
+00:15:50,080 --> 00:15:53,240
+some things coming into the AI space.
+
+538
+00:15:53,240 --> 00:15:53,960
+100%.
+
+539
+00:15:53,960 --> 00:15:55,240
+I mean, obviously with health care,
+
+540
+00:15:55,240 --> 00:15:56,400
+we've seen a dramatic
+
+541
+00:15:56,400 --> 00:15:58,120
+acceleration of change
+
+542
+00:15:58,120 --> 00:16:01,000
+and adaption in 2020.
+
+543
+00:16:01,000 --> 00:16:02,080
+And I myself,
+
+544
+00:16:02,080 --> 00:16:04,360
+am also a part of a Hippo Insurance,
+
+545
+00:16:04,360 --> 00:16:05,960
+an InsureTech company
+
+546
+00:16:05,960 --> 00:16:06,720
+based in the Bay Area.
+
+547
+00:16:06,720 --> 00:16:08,000
+So, I can see firsthand
+
+548
+00:16:08,000 --> 00:16:08,880
+the revolution
+
+549
+00:16:08,880 --> 00:16:10,880
+that insurance is going through
+
+550
+00:16:10,880 --> 00:16:11,920
+in this past few years,
+
+551
+00:16:11,920 --> 00:16:13,240
+and it's just remarkable.
+
+552
+00:16:13,240 --> 00:16:15,280
+Ramesh, thank you again for both
+
+553
+00:16:15,280 --> 00:16:16,760
+for coming on the show
+
+554
+00:16:16,760 --> 00:16:17,680
+and sharing your insights,
+
+555
+00:16:17,680 --> 00:16:19,680
+but also for allowing myself
+
+556
+00:16:19,680 --> 00:16:21,400
+and J-Ventures to be a part of your,
+
+557
+00:16:21,400 --> 00:16:23,440
+hopefully your new success story.
+
+558
+00:16:23,440 --> 00:16:26,040
+And it's still, it's a remarkable,
+
+559
+00:16:26,040 --> 00:16:28,320
+I think, for me to think of sitting
+
+560
+00:16:28,320 --> 00:16:30,080
+in front of somebody who's done it
+
+561
+00:16:30,080 --> 00:16:31,000
+three times already,
+
+562
+00:16:31,000 --> 00:16:33,080
+successfully going on the fourth one.
+
+563
+00:16:33,080 --> 00:16:33,880
+But at the end,
+
+564
+00:16:33,880 --> 00:16:34,920
+it's not about the money
+
+565
+00:16:34,920 --> 00:16:35,720
+and it's not about the fame.
+
+566
+00:16:35,720 --> 00:16:36,920
+It's about being passionate
+
+567
+00:16:36,920 --> 00:16:37,680
+about the technology,
+
+568
+00:16:37,680 --> 00:16:38,880
+and passionate about,
+
+569
+00:16:38,880 --> 00:16:40,160
+about improving the lives
+
+570
+00:16:40,160 --> 00:16:41,480
+of either people or companies,
+
+571
+00:16:41,480 --> 00:16:43,440
+or people that are working
+
+572
+00:16:43,440 --> 00:16:44,040
+their day to day
+
+573
+00:16:44,040 --> 00:16:46,640
+to ask the most meaningful questions.
+
+574
+00:16:46,640 --> 00:16:49,400
+And I think that it's really remarkable.
+
+575
+00:16:49,400 --> 00:16:50,520
+Before we leave,
+
+576
+00:16:50,520 --> 00:16:51,120
+I have to ask you
+
+577
+00:16:51,120 --> 00:16:52,240
+the most important question,
+
+578
+00:16:52,240 --> 00:16:53,920
+which is three words that you would use
+
+579
+00:16:53,920 --> 00:16:55,800
+to describe yourself.
+
+580
+00:16:56,240 --> 00:16:58,640
+And why those three words.
+
+581
+00:17:00,760 --> 00:17:03,760
+So, the three words
+
+582
+00:17:03,760 --> 00:17:04,880
+I'm just thinking on the fly.
+
+583
+00:17:04,880 --> 00:17:06,400
+So, number one is that
+
+584
+00:17:06,400 --> 00:17:08,000
+I'm very passionate.
+
+585
+00:17:08,000 --> 00:17:10,160
+About trying to solve the problem,
+
+586
+00:17:10,160 --> 00:17:11,800
+whether it is working, say,
+
+587
+00:17:11,800 --> 00:17:14,520
+12 hours, 14 hours a day.
+
+588
+00:17:14,880 --> 00:17:15,880
+And the second thing is,
+
+589
+00:17:15,880 --> 00:17:17,840
+I'm very compassionate to the team.
+
+590
+00:17:17,840 --> 00:17:19,200
+And then I try to think
+
+591
+00:17:19,200 --> 00:17:21,040
+from their perspective to understand them
+
+592
+00:17:21,040 --> 00:17:23,040
+and then make sure that I help them.
+
+593
+00:17:23,040 --> 00:17:26,040
+I encourage them to get things done.
+
+594
+00:17:26,040 --> 00:17:28,560
+And the third is fun part of it,
+
+595
+00:17:28,560 --> 00:17:29,360
+making sure that
+
+596
+00:17:29,360 --> 00:17:31,600
+it's so fun experience every day.
+
+597
+00:17:31,600 --> 00:17:32,200
+I love it.
+
+598
+00:17:32,200 --> 00:17:32,560
+I love it.
+
+599
+00:17:32,560 --> 00:17:33,840
+Ramesh, thank you so, so much.
+
+600
+00:17:33,840 --> 00:17:34,640
+This is so great.
+
+601
+00:17:34,640 --> 00:17:36,320
+Best of luck with the company.
+
+602
+00:17:36,320 --> 00:17:37,520
+And I look forward
+
+603
+00:17:37,520 --> 00:17:38,560
+to keep working with you
+
+604
+00:17:38,560 --> 00:17:40,640
+over these next few years.
+
+605
+00:17:40,800 --> 00:17:43,160
+Okay. And thank you for asking
+
+606
+00:17:43,160 --> 00:17:44,320
+all the good set of questions.
+
+607
+00:17:44,320 --> 00:17:46,520
+And I appreciate all the enrollment
+
+608
+00:17:46,520 --> 00:17:48,200
+and then trying to do this.
+
+609
+00:17:48,200 --> 00:17:50,920
+And good luck with J-Ventures.
+
+610
+00:17:50,920 --> 00:17:52,440
+Thank you very much. Take care
+
+611
+00:17:52,440 --> 00:17:54,560
+Okay, thank you. Bye.
+

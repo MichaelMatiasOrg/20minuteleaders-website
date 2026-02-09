@@ -1,0 +1,3032 @@
+﻿1
+00:00:00,160 --> 00:00:01,759
+Visit all of the pages of the web,
+
+2
+00:00:01,760 --> 00:00:03,159
+we actually render each page
+
+3
+00:00:03,160 --> 00:00:04,359
+in a real web browser
+
+4
+00:00:04,360 --> 00:00:06,479
+so that our AI can see the page
+
+5
+00:00:06,480 --> 00:00:07,360
+just like a human does.
+
+6
+00:00:07,361 --> 00:00:09,239
+It can see the actual pixels,
+
+7
+00:00:09,240 --> 00:00:10,160
+the look of the page.
+
+8
+00:00:10,161 --> 00:00:10,799
+So, it's more than
+
+9
+00:00:10,800 --> 00:00:12,000
+just a text of a page.
+
+10
+00:00:39,280 --> 00:00:40,159
+Mike Tung, thank you
+
+11
+00:00:40,160 --> 00:00:40,919
+for being on my show.
+
+12
+00:00:40,920 --> 00:00:41,439
+How are you
+
+13
+00:00:41,440 --> 00:00:44,560
+all the way from Silicon Valley?
+
+14
+00:00:45,320 --> 00:00:45,840
+I'm doing well.
+
+15
+00:00:45,841 --> 00:00:47,679
+Thanks a lot for having me.
+
+16
+00:00:47,680 --> 00:00:48,439
+I'm very excited
+
+17
+00:00:48,440 --> 00:00:49,879
+to chat with you about AI,
+
+18
+00:00:49,880 --> 00:00:51,359
+about your entrepreneurial journey,
+
+19
+00:00:51,360 --> 00:00:52,280
+what you're doing at Diffbot.
+
+20
+00:00:52,281 --> 00:00:53,519
+But we have to go back
+
+21
+00:00:53,520 --> 00:00:56,799
+to being a child musician
+
+22
+00:00:56,800 --> 00:00:58,199
+playing at Carnegie Hall.
+
+23
+00:00:58,200 --> 00:00:58,919
+What is that about?
+
+24
+00:00:58,920 --> 00:00:59,599
+How do you get
+
+25
+00:00:59,600 --> 00:01:02,480
+to play Carnegie Hall as a child?
+
+26
+00:01:03,243 --> 00:01:06,279
+Well, I think my story is similar
+
+27
+00:01:06,280 --> 00:01:09,119
+to a lot of Chinese Americans,
+
+28
+00:01:09,120 --> 00:01:10,400
+they're sort of forced
+
+29
+00:01:10,401 --> 00:01:11,239
+to play an instrument
+
+30
+00:01:11,240 --> 00:01:14,439
+at a young age by their family.
+
+31
+00:01:14,440 --> 00:01:16,200
+But I think,
+
+32
+00:01:16,200 --> 00:01:18,320
+you know, the main purpose of that
+
+33
+00:01:18,320 --> 00:01:19,920
+is just to learn discipline
+
+34
+00:01:19,920 --> 00:01:20,720
+and learn practice.
+
+35
+00:01:20,721 --> 00:01:21,879
+So, as a child,
+
+36
+00:01:21,880 --> 00:01:24,679
+I played the violin for maybe,
+
+37
+00:01:24,680 --> 00:01:25,000
+I don't know,
+
+38
+00:01:25,000 --> 00:01:29,600
+about 18 years or so before college.
+
+39
+00:01:29,600 --> 00:01:30,480
+And I ended up playing
+
+40
+00:01:30,481 --> 00:01:32,479
+with a group at Carnegie Hall.
+
+41
+00:01:32,480 --> 00:01:33,759
+That's remarkable.
+
+42
+00:01:33,760 --> 00:01:35,599
+So, you grew up in Taiwan, right?
+
+43
+00:01:35,600 --> 00:01:37,399
+You're an immigrant from Taiwan.
+
+44
+00:01:37,400 --> 00:01:37,999
+Tell me a little bit
+
+45
+00:01:38,000 --> 00:01:39,199
+about your background
+
+46
+00:01:39,200 --> 00:01:41,760
+and moving along with that background
+
+47
+00:01:41,760 --> 00:01:42,880
+through Carnegie Hall
+
+48
+00:01:42,880 --> 00:01:45,760
+to get to doing AI
+
+49
+00:01:45,760 --> 00:01:48,640
+at Stanford for your Masters.
+
+50
+00:01:49,680 --> 00:01:51,120
+Wow. It's a lot to compress in it.
+
+51
+00:01:51,120 --> 00:01:52,680
+A lot of years to compress.
+
+52
+00:01:52,681 --> 00:01:55,159
+But basically, I was born in Taiwan.
+
+53
+00:01:55,160 --> 00:01:56,759
+I immigrated to the US
+
+54
+00:01:56,760 --> 00:01:59,000
+when I was about two years old.
+
+55
+00:01:59,440 --> 00:02:00,439
+So, I don't remember too much
+
+56
+00:02:00,440 --> 00:02:03,479
+about Taiwan from back then.
+
+57
+00:02:03,480 --> 00:02:06,119
+But my parents, my dad
+
+58
+00:02:06,120 --> 00:02:08,239
+came to the US as a grad student,
+
+59
+00:02:08,240 --> 00:02:10,679
+studying biochemistry,
+
+60
+00:02:10,680 --> 00:02:13,919
+and he later on taught at universities
+
+61
+00:02:13,920 --> 00:02:17,239
+as a professor in pathology.
+
+62
+00:02:17,240 --> 00:02:19,199
+And later off to spun
+
+63
+00:02:19,200 --> 00:02:21,279
+and founded his own biotech company.
+
+64
+00:02:21,280 --> 00:02:24,319
+That he's developing actually vaccines
+
+65
+00:02:24,320 --> 00:02:28,080
+for HIV and even one for covid
+
+66
+00:02:28,080 --> 00:02:30,320
+right now, over in Atlanta, Georgia.
+
+67
+00:02:30,320 --> 00:02:30,800
+Wow.
+
+68
+00:02:30,800 --> 00:02:31,360
+And so, I grew up
+
+69
+00:02:31,360 --> 00:02:33,480
+in a very entrepreneurial family.
+
+70
+00:02:33,480 --> 00:02:34,120
+Growing up in a
+
+71
+00:02:34,120 --> 00:02:35,200
+very entrepreneurial family,
+
+72
+00:02:35,200 --> 00:02:36,000
+what does that mean?
+
+73
+00:02:36,001 --> 00:02:37,079
+You immigrated from Taiwan.
+
+74
+00:02:37,080 --> 00:02:37,879
+You were telling me about
+
+75
+00:02:37,880 --> 00:02:38,959
+what your father was doing,
+
+76
+00:02:38,960 --> 00:02:39,519
+but what does it mean
+
+77
+00:02:39,520 --> 00:02:42,319
+being in an entrepreneurial family?
+
+78
+00:02:42,320 --> 00:02:43,959
+Well, it just means I guess
+
+79
+00:02:43,960 --> 00:02:46,519
+it was something accepted
+
+80
+00:02:46,520 --> 00:02:50,159
+or at least not crazy
+
+81
+00:02:50,160 --> 00:02:51,039
+to be an entrepreneur
+
+82
+00:02:51,040 --> 00:02:54,200
+since it ran in the family, I guess.
+
+83
+00:02:54,880 --> 00:02:56,328
+However, you know,
+
+84
+00:02:56,329 --> 00:02:57,719
+while the rest of my family
+
+85
+00:02:57,720 --> 00:03:00,439
+is sort of in at biotech in biology
+
+86
+00:03:00,440 --> 00:03:02,639
+and I worked at my dad's lab
+
+87
+00:03:02,640 --> 00:03:03,639
+actually growing up,
+
+88
+00:03:03,640 --> 00:03:05,159
+and I realized that, you know,
+
+89
+00:03:05,160 --> 00:03:06,919
+it's I wasn't cut out
+
+90
+00:03:06,920 --> 00:03:08,440
+sort of to do biology.
+
+91
+00:03:09,557 --> 00:03:11,039
+I spent many hours waiting
+
+92
+00:03:11,040 --> 00:03:13,359
+for centrifuges to run, you know,
+
+93
+00:03:13,360 --> 00:03:15,439
+extracting DNA and building viruses
+
+94
+00:03:15,440 --> 00:03:16,999
+and watching various kinds
+
+95
+00:03:17,000 --> 00:03:19,440
+of clear fluids develop.
+
+96
+00:03:19,441 --> 00:03:20,759
+And, you know,
+
+97
+00:03:20,760 --> 00:03:22,599
+I needed a faster iteration cycle
+
+98
+00:03:22,600 --> 00:03:24,120
+than that waiting days and days
+
+99
+00:03:24,121 --> 00:03:25,079
+for an experiment to run
+
+100
+00:03:25,080 --> 00:03:26,639
+and not knowing where you messed up,
+
+101
+00:03:26,640 --> 00:03:28,439
+maybe like in day two.
+
+102
+00:03:28,440 --> 00:03:30,199
+And that's kind of how
+
+103
+00:03:30,200 --> 00:03:32,839
+I came to computer science.
+
+104
+00:03:32,840 --> 00:03:34,079
+So, you're looking
+
+105
+00:03:34,080 --> 00:03:36,199
+from this agile approach
+
+106
+00:03:36,200 --> 00:03:38,943
+where you get to see results fast,
+
+107
+00:03:38,944 --> 00:03:41,060
+iterate, pivot, iterate
+
+108
+00:03:41,061 --> 00:03:42,679
+and get to deeper results.
+
+109
+00:03:42,680 --> 00:03:43,519
+And you find your way
+
+110
+00:03:43,520 --> 00:03:46,479
+towards Stanford master's in AI,
+
+111
+00:03:46,480 --> 00:03:47,639
+working in the AI lab.
+
+112
+00:03:47,640 --> 00:03:48,479
+Talk to me a little bit about
+
+113
+00:03:48,480 --> 00:03:49,199
+what you're doing there.
+
+114
+00:03:49,200 --> 00:03:50,879
+And what draws you specifically
+
+115
+00:03:50,880 --> 00:03:53,440
+to artificial intelligence then?
+
+116
+00:03:53,600 --> 00:03:55,280
+Well, I mean, so it just started out
+
+117
+00:03:55,280 --> 00:03:56,200
+playing with computers,
+
+118
+00:03:56,200 --> 00:03:57,680
+developing video games,
+
+119
+00:03:57,680 --> 00:03:59,440
+I think like a lot of the typical story
+
+120
+00:03:59,440 --> 00:04:01,120
+of a lot of computer programmers.
+
+121
+00:04:01,120 --> 00:04:03,520
+And after high school, actually,
+
+122
+00:04:03,520 --> 00:04:06,480
+I instead of going directly to college,
+
+123
+00:04:06,480 --> 00:04:08,520
+I worked for about a year
+
+124
+00:04:08,520 --> 00:04:11,200
+at Microsoft as a software engineer.
+
+125
+00:04:11,201 --> 00:04:12,919
+Because I thought growing up,
+
+126
+00:04:12,920 --> 00:04:14,639
+Microsoft is the place where they
+
+127
+00:04:14,640 --> 00:04:16,839
+really invented software development.
+
+128
+00:04:16,840 --> 00:04:17,119
+Right.
+
+129
+00:04:17,120 --> 00:04:18,639
+And I read about Bill Gates story.
+
+130
+00:04:18,640 --> 00:04:20,439
+And then so I went there.
+
+131
+00:04:20,440 --> 00:04:21,279
+I got to meet him.
+
+132
+00:04:21,280 --> 00:04:22,759
+Like all the interns are invited
+
+133
+00:04:22,760 --> 00:04:25,560
+to his house over the summer.
+
+134
+00:04:25,560 --> 00:04:27,560
+I think back then,
+
+135
+00:04:27,560 --> 00:04:28,920
+I got to go to his backyard
+
+136
+00:04:28,921 --> 00:04:31,000
+and check out his place.
+
+137
+00:04:31,040 --> 00:04:31,839
+And I learned a ton
+
+138
+00:04:31,840 --> 00:04:32,799
+when I was at Microsoft.
+
+139
+00:04:32,800 --> 00:04:35,959
+But I also realized,
+
+140
+00:04:35,960 --> 00:04:36,720
+I probably don't want
+
+141
+00:04:36,720 --> 00:04:37,680
+to work in a big company
+
+142
+00:04:37,680 --> 00:04:40,171
+for the rest of my life.
+
+143
+00:04:40,172 --> 00:04:41,640
+What made you realize that?
+
+144
+00:04:41,640 --> 00:04:43,280
+What was it about
+
+145
+00:04:43,280 --> 00:04:44,200
+the big company,
+
+146
+00:04:44,200 --> 00:04:45,720
+that culture that you said,
+
+147
+00:04:45,720 --> 00:04:47,360
+okay, maybe, I'm more into
+
+148
+00:04:47,361 --> 00:04:49,999
+the small company space?
+
+149
+00:04:50,000 --> 00:04:50,599
+Well, I thought
+
+150
+00:04:50,600 --> 00:04:51,519
+it was a great experience
+
+151
+00:04:51,520 --> 00:04:53,439
+actually working at Microsoft.
+
+152
+00:04:53,440 --> 00:04:55,000
+I learned
+
+153
+00:04:55,001 --> 00:04:56,061
+an incredible deal about
+
+154
+00:04:56,062 --> 00:04:57,199
+how like professional software
+
+155
+00:04:57,200 --> 00:04:58,279
+development is done,
+
+156
+00:04:58,280 --> 00:05:00,079
+but I realized,
+
+157
+00:05:00,080 --> 00:05:02,079
+I want to do something of my own.
+
+158
+00:05:02,080 --> 00:05:04,639
+I want to I, you know,
+
+159
+00:05:04,640 --> 00:05:05,720
+my bosses and mentors
+
+160
+00:05:05,721 --> 00:05:07,439
+when I was working at Microsoft,
+
+161
+00:05:07,440 --> 00:05:08,759
+I had to really think,
+
+162
+00:05:08,760 --> 00:05:10,199
+do I really want to be like that
+
+163
+00:05:10,200 --> 00:05:11,760
+in 20 years or 30 years.
+
+164
+00:05:11,761 --> 00:05:13,000
+Right?
+
+165
+00:05:13,320 --> 00:05:14,959
+Kind of doing that kind of work.
+
+166
+00:05:14,960 --> 00:05:18,759
+And I just wanted to do more.
+
+167
+00:05:18,760 --> 00:05:21,519
+And I wanted to work in a place
+
+168
+00:05:21,520 --> 00:05:23,399
+that I was not constrained
+
+169
+00:05:23,400 --> 00:05:25,239
+by the organization
+
+170
+00:05:25,240 --> 00:05:26,679
+where I was sort of like,
+
+171
+00:05:26,680 --> 00:05:27,786
+I think that's why a lot of people
+
+172
+00:05:27,787 --> 00:05:29,679
+do entrepreneurship,
+
+173
+00:05:29,680 --> 00:05:30,959
+because they can't really work
+
+174
+00:05:30,960 --> 00:05:32,760
+for anybody else.
+
+175
+00:05:33,360 --> 00:05:35,519
+So, throughout these experiences,
+
+176
+00:05:35,520 --> 00:05:38,239
+you are getting into the,
+
+177
+00:05:38,240 --> 00:05:40,719
+more into the artificial intelligence,
+
+178
+00:05:40,720 --> 00:05:41,999
+what do you actually do at Stanford?
+
+179
+00:05:42,000 --> 00:05:43,279
+What is your masters in
+
+180
+00:05:43,280 --> 00:05:45,799
+and what leads you then towards
+
+181
+00:05:45,800 --> 00:05:48,559
+this idea for Diffbot?
+
+182
+00:05:48,560 --> 00:05:51,719
+Yeah. So, I was interested in AI,
+
+183
+00:05:51,720 --> 00:05:53,039
+I guess, way before it was popular
+
+184
+00:05:53,040 --> 00:05:53,999
+from a pretty young age.
+
+185
+00:05:54,000 --> 00:05:54,679
+Like when I was
+
+186
+00:05:54,680 --> 00:05:55,399
+even in high school,
+
+187
+00:05:55,400 --> 00:05:56,639
+I was like developing
+
+188
+00:05:56,640 --> 00:05:57,879
+neural networks to like
+
+189
+00:05:57,880 --> 00:05:59,639
+the trade stocks and stuff
+
+190
+00:05:59,640 --> 00:06:01,519
+from reading like a sentiment
+
+191
+00:06:01,520 --> 00:06:03,719
+on the very nascent Internet
+
+192
+00:06:03,720 --> 00:06:05,600
+at that point in time.
+
+193
+00:06:05,920 --> 00:06:06,639
+So, I had always
+
+194
+00:06:06,640 --> 00:06:08,239
+been fascinated by AI
+
+195
+00:06:08,240 --> 00:06:11,480
+and building intelligent systems.
+
+196
+00:06:12,000 --> 00:06:13,640
+At Berkeley, I finished
+
+197
+00:06:13,640 --> 00:06:14,520
+an undergrad in ECS
+
+198
+00:06:14,521 --> 00:06:15,639
+in about two years
+
+199
+00:06:15,640 --> 00:06:16,760
+and then quickly
+
+200
+00:06:16,760 --> 00:06:19,280
+moved to grad school at Stanford.
+
+201
+00:06:19,280 --> 00:06:21,000
+And I took a heavy concentration
+
+202
+00:06:21,001 --> 00:06:24,399
+in AI courses.
+
+203
+00:06:24,400 --> 00:06:26,160
+And so, it was at around
+
+204
+00:06:26,161 --> 00:06:27,399
+that time when
+
+205
+00:06:27,400 --> 00:06:28,360
+there was a data set
+
+206
+00:06:28,361 --> 00:06:29,079
+that was being built
+
+207
+00:06:29,080 --> 00:06:30,399
+at Stanford called ImageNet,
+
+208
+00:06:30,400 --> 00:06:32,280
+which was basically like,
+
+209
+00:06:32,280 --> 00:06:33,120
+you know, a large collection
+
+210
+00:06:33,120 --> 00:06:35,120
+of labeled images.
+
+211
+00:06:35,760 --> 00:06:36,440
+They basically use
+
+212
+00:06:36,440 --> 00:06:37,560
+Amazon Mechanical Turk
+
+213
+00:06:37,560 --> 00:06:39,120
+to label all these images
+
+214
+00:06:39,120 --> 00:06:40,960
+from Google image search.
+
+215
+00:06:40,960 --> 00:06:41,920
+And I was thinking, okay,
+
+216
+00:06:41,920 --> 00:06:42,600
+how can we build
+
+217
+00:06:42,600 --> 00:06:45,440
+like an image net for language.
+
+218
+00:06:45,440 --> 00:06:48,480
+Because, unlike vision, like
+
+219
+00:06:48,480 --> 00:06:49,400
+the human language,
+
+220
+00:06:49,400 --> 00:06:50,240
+what we're using right now
+
+221
+00:06:50,240 --> 00:06:51,040
+is what distinguishes
+
+222
+00:06:51,040 --> 00:06:52,080
+humans from animals.
+
+223
+00:06:52,080 --> 00:06:54,360
+Like even my dog has computer vision.
+
+224
+00:06:54,360 --> 00:06:55,520
+He can tell the difference between
+
+225
+00:06:55,520 --> 00:06:57,240
+this ball and a toy,
+
+226
+00:06:57,240 --> 00:06:58,680
+you know, a grassy field.
+
+227
+00:06:58,680 --> 00:07:00,160
+But animals don't have anything
+
+228
+00:07:00,161 --> 00:07:01,079
+like human language.
+
+229
+00:07:01,080 --> 00:07:01,959
+Right?
+
+230
+00:07:01,960 --> 00:07:03,399
+So, I was thinking about this problem
+
+231
+00:07:03,400 --> 00:07:04,720
+and why is there no, like,
+
+232
+00:07:04,720 --> 00:07:06,000
+image net for language,
+
+233
+00:07:06,000 --> 00:07:06,440
+even today,
+
+234
+00:07:06,440 --> 00:07:08,200
+there isn't really something like that.
+
+235
+00:07:08,200 --> 00:07:08,931
+And it's because
+
+236
+00:07:08,932 --> 00:07:10,120
+there's way more concepts
+
+237
+00:07:10,120 --> 00:07:11,200
+that humans have created
+
+238
+00:07:11,200 --> 00:07:12,360
+than there are like
+
+239
+00:07:12,360 --> 00:07:13,560
+a thousand image classes.
+
+240
+00:07:13,560 --> 00:07:14,560
+And it would take
+
+241
+00:07:14,561 --> 00:07:15,959
+up to 50 man decades
+
+242
+00:07:15,960 --> 00:07:17,600
+in order to
+
+243
+00:07:17,680 --> 00:07:19,079
+build such a data set.
+
+244
+00:07:19,080 --> 00:07:19,359
+Right?
+
+245
+00:07:19,360 --> 00:07:20,879
+So, that's when I started thinking.
+
+246
+00:07:20,880 --> 00:07:22,479
+Okay, what if we could use AI
+
+247
+00:07:22,480 --> 00:07:24,319
+to automatically construct
+
+248
+00:07:24,320 --> 00:07:25,719
+actually a structured data set
+
+249
+00:07:25,720 --> 00:07:26,543
+of all the concepts
+
+250
+00:07:26,544 --> 00:07:29,171
+that  human beings care about.
+
+251
+00:07:30,080 --> 00:07:31,559
+What greater resources there
+
+252
+00:07:31,560 --> 00:07:32,639
+than the Internet itself.
+
+253
+00:07:32,640 --> 00:07:34,959
+The Internet I view as basically
+
+254
+00:07:34,960 --> 00:07:36,319
+kind of like the world's largest
+
+255
+00:07:36,320 --> 00:07:37,519
+manmade censor.
+
+256
+00:07:37,520 --> 00:07:39,399
+Anything that's an important entity,
+
+257
+00:07:39,400 --> 00:07:40,439
+someone's created a page
+
+258
+00:07:40,440 --> 00:07:41,999
+for on the Internet.
+
+259
+00:07:42,000 --> 00:07:42,239
+Right?
+
+260
+00:07:42,240 --> 00:07:43,119
+And the only problem
+
+261
+00:07:43,120 --> 00:07:43,839
+with the Internet is that
+
+262
+00:07:43,840 --> 00:07:45,239
+it's not an structured format
+
+263
+00:07:45,240 --> 00:07:46,879
+that's needed for machine learning
+
+264
+00:07:46,880 --> 00:07:48,559
+and AI to use.
+
+265
+00:07:48,560 --> 00:07:50,079
+So, I started thinking
+
+266
+00:07:50,080 --> 00:07:51,079
+back then about how
+
+267
+00:07:51,080 --> 00:07:53,319
+can we actually convert the Internet
+
+268
+00:07:53,320 --> 00:07:55,679
+into actually like a structured data set
+
+269
+00:07:55,680 --> 00:07:58,559
+that then applications can use.
+
+270
+00:07:58,560 --> 00:07:59,639
+Wow. Fascinating.
+
+271
+00:07:59,640 --> 00:08:01,319
+So, that's the research
+
+272
+00:08:01,320 --> 00:08:02,559
+that you're going towards.
+
+273
+00:08:02,560 --> 00:08:03,839
+And I'm also aware
+
+274
+00:08:03,840 --> 00:08:04,679
+that you've given
+
+275
+00:08:04,680 --> 00:08:06,239
+quite a few guest lectures at Stanford
+
+276
+00:08:06,240 --> 00:08:07,039
+about Knowledge Graphs
+
+277
+00:08:07,040 --> 00:08:07,680
+and about the different
+
+278
+00:08:07,681 --> 00:08:09,439
+work that you've done in this field.
+
+279
+00:08:09,440 --> 00:08:11,800
+So, take me through this
+
+280
+00:08:11,800 --> 00:08:13,360
+entrepreneurial journey.
+
+281
+00:08:13,361 --> 00:08:13,919
+How do you take
+
+282
+00:08:13,920 --> 00:08:15,119
+a research question
+
+283
+00:08:15,120 --> 00:08:16,359
+that you're so excited about
+
+284
+00:08:16,360 --> 00:08:18,479
+and translate that into a company
+
+285
+00:08:18,480 --> 00:08:19,886
+that you're running along
+
+286
+00:08:19,957 --> 00:08:20,986
+with the work that you're doing
+
+287
+00:08:20,987 --> 00:08:22,071
+at Stanford?
+
+288
+00:08:23,080 --> 00:08:24,079
+Well, I wouldn't say
+
+289
+00:08:24,080 --> 00:08:25,679
+it was a very direct journey.
+
+290
+00:08:25,680 --> 00:08:27,079
+So, I don't think you
+
+291
+00:08:27,080 --> 00:08:28,759
+just start on such a task
+
+292
+00:08:28,760 --> 00:08:30,760
+like that directly.
+
+293
+00:08:31,000 --> 00:08:32,839
+During Stanford,
+
+294
+00:08:32,840 --> 00:08:35,239
+I was doing this research
+
+295
+00:08:35,240 --> 00:08:38,239
+and, you know, sort of,
+
+296
+00:08:38,240 --> 00:08:40,279
+I guess, trying to delay
+
+297
+00:08:40,280 --> 00:08:41,639
+from writing a thesis
+
+298
+00:08:41,640 --> 00:08:42,719
+because it's very hard to come up
+
+299
+00:08:42,720 --> 00:08:43,359
+with, like a breakthrough
+
+300
+00:08:43,360 --> 00:08:44,999
+machine learning algorithm.
+
+301
+00:08:45,000 --> 00:08:45,759
+And so I was doing a lot
+
+302
+00:08:45,760 --> 00:08:46,519
+of side things.
+
+303
+00:08:46,520 --> 00:08:47,999
+Like I was actually working
+
+304
+00:08:48,000 --> 00:08:48,959
+as a patent attorney.
+
+305
+00:08:48,960 --> 00:08:50,520
+I'd taken the patent bar
+
+306
+00:08:50,521 --> 00:08:51,439
+and helping a friend
+
+307
+00:08:51,440 --> 00:08:53,199
+in a right path
+
+308
+00:08:53,200 --> 00:08:54,760
+to make money on the side
+
+309
+00:08:54,760 --> 00:08:56,600
+as a side hustle.
+
+310
+00:08:57,320 --> 00:08:57,759
+I actually I ended up
+
+311
+00:08:57,760 --> 00:08:58,679
+working for a startup
+
+312
+00:08:58,680 --> 00:09:01,159
+that one of my professors at Stanford,
+
+313
+00:09:01,160 --> 00:09:03,639
+Dr. Professor Prabhakar Raghavan,
+
+314
+00:09:03,640 --> 00:09:05,079
+who's now
+
+315
+00:09:05,080 --> 00:09:07,399
+a very important person at Google.
+
+316
+00:09:07,400 --> 00:09:10,159
+He said I was taking
+
+317
+00:09:10,160 --> 00:09:12,399
+his information retrieval class
+
+318
+00:09:12,400 --> 00:09:14,359
+and then he pulled me aside after
+
+319
+00:09:14,360 --> 00:09:15,879
+basically the end of the class and said,
+
+320
+00:09:15,880 --> 00:09:17,279
+"Hey, I'm doing the startup
+
+321
+00:09:17,280 --> 00:09:18,719
+that I'm an adviser of.
+
+322
+00:09:18,720 --> 00:09:19,759
+Would you join us? "
+
+323
+00:09:19,760 --> 00:09:20,999
+So, I joined it as one of the
+
+324
+00:09:21,000 --> 00:09:22,239
+sort of the founding engineers.
+
+325
+00:09:22,240 --> 00:09:25,159
+Of course, that's what happens at Stanford.
+
+326
+00:09:25,160 --> 00:09:25,559
+Yeah.
+
+327
+00:09:25,560 --> 00:09:28,491
+It's a very common story at Stanford.
+
+328
+00:09:28,492 --> 00:09:29,599
+That startup,
+
+329
+00:09:29,600 --> 00:09:31,879
+years later, gets acquired by Facebook.
+
+330
+00:09:31,880 --> 00:09:33,599
+I also had
+
+331
+00:09:33,600 --> 00:09:35,799
+sort of did a project with somebody
+
+332
+00:09:35,800 --> 00:09:36,759
+called ClickTV,
+
+333
+00:09:36,760 --> 00:09:39,039
+that was like a video search engine
+
+334
+00:09:39,040 --> 00:09:41,960
+that then we later sold to Cisco.
+
+335
+00:09:41,961 --> 00:09:42,599
+Right.
+
+336
+00:09:42,600 --> 00:09:43,799
+So, I had a couple of acquisitions
+
+337
+00:09:43,800 --> 00:09:45,039
+under my belt.
+
+338
+00:09:45,040 --> 00:09:45,999
+And I had worked as
+
+339
+00:09:46,000 --> 00:09:48,039
+a consulting scientist at Yahoo!
+
+340
+00:09:48,040 --> 00:09:49,159
+on their search,
+
+341
+00:09:49,160 --> 00:09:50,999
+and on eBay on their search.
+
+342
+00:09:51,000 --> 00:09:53,039
+So, the trend here is I got a lot
+
+343
+00:09:53,040 --> 00:09:54,159
+of experience in building
+
+344
+00:09:54,160 --> 00:09:57,160
+a search engine like from scratch.
+
+345
+00:09:58,357 --> 00:09:59,359
+And these connections
+
+346
+00:09:59,360 --> 00:10:00,319
+sort of paid off later.
+
+347
+00:10:00,320 --> 00:10:01,159
+Like eBay, became
+
+348
+00:10:01,160 --> 00:10:03,599
+one of the first customers of Diffbot.
+
+349
+00:10:03,600 --> 00:10:05,200
+There's actually
+
+350
+00:10:05,280 --> 00:10:07,359
+a group on eBay in Israel called
+
+351
+00:10:07,360 --> 00:10:08,199
+the Structured Data Group
+
+352
+00:10:08,200 --> 00:10:09,960
+that uses Diffbot.
+
+353
+00:10:10,560 --> 00:10:11,919
+I'm good friends with that group.
+
+354
+00:10:11,920 --> 00:10:13,519
+I worked with eBay closely
+
+355
+00:10:13,520 --> 00:10:15,839
+on some projects that I did
+
+356
+00:10:15,840 --> 00:10:17,119
+in my transition between
+
+357
+00:10:17,120 --> 00:10:18,119
+high school and the army.
+
+358
+00:10:18,120 --> 00:10:21,239
+And it's a really fantastic team.
+
+359
+00:10:21,240 --> 00:10:23,519
+Yeah. They were a user of Diffbot
+
+360
+00:10:23,520 --> 00:10:26,159
+and then some of those engineers there
+
+361
+00:10:26,160 --> 00:10:28,799
+basically, Diffbot replaced their work
+
+362
+00:10:28,800 --> 00:10:30,199
+and then later we hired them
+
+363
+00:10:30,200 --> 00:10:32,199
+to join Diffbot from
+
+364
+00:10:32,200 --> 00:10:34,680
+one of the guys from eBay Isreal.
+
+365
+00:10:34,681 --> 00:10:36,119
+Fantastic. Fantastic.
+
+366
+00:10:36,120 --> 00:10:38,279
+So, what is Diffbot?
+
+367
+00:10:38,280 --> 00:10:40,719
+And I'd love to spend some time
+
+368
+00:10:40,720 --> 00:10:42,239
+hearing another
+
+369
+00:10:42,240 --> 00:10:43,679
+amazing Founders' story.
+
+370
+00:10:43,680 --> 00:10:46,439
+So, taking things through your
+
+371
+00:10:46,440 --> 00:10:46,759
+like, you know,
+
+372
+00:10:46,760 --> 00:10:49,159
+the personal journey that you're like,
+
+373
+00:10:49,160 --> 00:10:50,919
+you know, from deciding to run a company,
+
+374
+00:10:50,920 --> 00:10:52,119
+what are some of the biggest hurdles
+
+375
+00:10:52,120 --> 00:10:53,479
+that you're going through along?
+
+376
+00:10:53,480 --> 00:10:54,519
+What are some of the most
+
+377
+00:10:54,520 --> 00:10:56,239
+enjoyable moments
+
+378
+00:10:56,240 --> 00:10:58,200
+of creating this company?
+
+379
+00:10:58,240 --> 00:10:59,640
+Okay, so the first question,
+
+380
+00:10:59,640 --> 00:11:00,360
+what is Diffbot?
+
+381
+00:11:00,360 --> 00:11:02,200
+So, basically, Diffbot is
+
+382
+00:11:02,200 --> 00:11:03,680
+a search engine.
+
+383
+00:11:03,680 --> 00:11:05,120
+Now, how it differs from Google,
+
+384
+00:11:05,120 --> 00:11:07,160
+how it's the same as Google
+
+385
+00:11:07,161 --> 00:11:08,359
+is that we crawl the web, right?
+
+386
+00:11:08,360 --> 00:11:09,639
+So we visit all
+
+387
+00:11:09,640 --> 00:11:10,800
+the pages of the Web.
+
+388
+00:11:10,800 --> 00:11:12,160
+We actually render each page
+
+389
+00:11:12,161 --> 00:11:13,399
+in a real Web browser
+
+390
+00:11:13,400 --> 00:11:15,119
+so that our AI can see
+
+391
+00:11:15,120 --> 00:11:16,399
+the page just like a human does,
+
+392
+00:11:16,400 --> 00:11:18,239
+it can see the actual pixels,
+
+393
+00:11:18,240 --> 00:11:19,559
+the look of the page.
+
+394
+00:11:19,560 --> 00:11:21,719
+So, more than just a text of the page.
+
+395
+00:11:21,720 --> 00:11:22,799
+And then what we do is
+
+396
+00:11:22,800 --> 00:11:24,799
+how the AI comes into play is,
+
+397
+00:11:24,800 --> 00:11:26,080
+on every page on the Web
+
+398
+00:11:26,080 --> 00:11:27,720
+we're able to classify that page
+
+399
+00:11:27,720 --> 00:11:29,040
+into what type of page is it.
+
+400
+00:11:29,040 --> 00:11:30,160
+Is it as a person page,
+
+401
+00:11:30,160 --> 00:11:31,880
+is it an organization page,
+
+402
+00:11:31,880 --> 00:11:32,920
+is it a product page,
+
+403
+00:11:32,920 --> 00:11:34,600
+is it an image page.
+
+404
+00:11:34,600 --> 00:11:35,360
+And we're able
+
+405
+00:11:35,360 --> 00:11:36,640
+to automatically convert
+
+406
+00:11:36,640 --> 00:11:38,560
+this into structured information.
+
+407
+00:11:38,560 --> 00:11:38,720
+Right?
+
+408
+00:11:38,720 --> 00:11:39,920
+So, like a structured record
+
+409
+00:11:39,920 --> 00:11:42,240
+about a person, place or thing.
+
+410
+00:11:42,240 --> 00:11:43,360
+And then what we build is
+
+411
+00:11:43,360 --> 00:11:44,960
+what we call the knowledge graph,
+
+412
+00:11:44,960 --> 00:11:46,560
+which is essentially
+
+413
+00:11:46,561 --> 00:11:47,759
+a structured database.
+
+414
+00:11:47,760 --> 00:11:48,280
+Right?
+
+415
+00:11:48,280 --> 00:11:50,280
+So how it differs when you
+
+416
+00:11:50,280 --> 00:11:51,240
+use Google, for example,
+
+417
+00:11:51,240 --> 00:11:51,920
+what Google is,
+
+418
+00:11:51,920 --> 00:11:52,920
+as type in a query
+
+419
+00:11:52,920 --> 00:11:53,960
+and then Google gives
+
+420
+00:11:53,960 --> 00:11:56,000
+you back a sorted list of results.
+
+421
+00:11:56,000 --> 00:11:56,200
+Right.
+
+422
+00:11:56,200 --> 00:11:57,040
+So, Google is similar
+
+423
+00:11:57,040 --> 00:11:58,960
+to a card catalog in a library
+
+424
+00:11:58,960 --> 00:12:00,200
+where it's directing you
+
+425
+00:12:00,200 --> 00:12:01,840
+to other pages to read.
+
+426
+00:12:01,840 --> 00:12:02,080
+Right?
+
+427
+00:12:02,080 --> 00:12:04,040
+And then Google's business model
+
+428
+00:12:04,040 --> 00:12:04,920
+is to auction off
+
+429
+00:12:04,920 --> 00:12:05,840
+basically your attention
+
+430
+00:12:05,840 --> 00:12:06,920
+to the highest bidder
+
+431
+00:12:06,920 --> 00:12:08,440
+and advertisers.
+
+432
+00:12:08,440 --> 00:12:09,360
+There's a trade off, I guess,
+
+433
+00:12:09,360 --> 00:12:11,440
+between relevance and advertising.
+
+434
+00:12:11,440 --> 00:12:12,560
+Right?
+
+435
+00:12:12,560 --> 00:12:14,120
+And then Google doesn't
+
+436
+00:12:14,120 --> 00:12:15,480
+actually contain the knowledge.
+
+437
+00:12:15,480 --> 00:12:16,680
+It's actually just routing you
+
+438
+00:12:16,680 --> 00:12:18,960
+to Web pages, which you read,
+
+439
+00:12:18,960 --> 00:12:20,080
+and then you gain knowledge
+
+440
+00:12:20,080 --> 00:12:22,600
+reading those results.
+
+441
+00:12:22,600 --> 00:12:24,280
+Diffbot is actually doing
+
+442
+00:12:24,280 --> 00:12:25,880
+the reading of those Web pages,
+
+443
+00:12:25,880 --> 00:12:26,880
+you know, using our AI,
+
+444
+00:12:26,880 --> 00:12:28,400
+assembling it into this
+
+445
+00:12:28,400 --> 00:12:30,760
+structured data set,
+
+446
+00:12:30,760 --> 00:12:31,760
+and then returning back
+
+447
+00:12:31,760 --> 00:12:33,320
+those facts directly
+
+448
+00:12:33,320 --> 00:12:35,360
+from our index.
+
+449
+00:12:35,360 --> 00:12:37,520
+And so the reason Diffbot is useful,
+
+450
+00:12:37,520 --> 00:12:39,240
+especially for people building
+
+451
+00:12:39,240 --> 00:12:40,720
+applications and businesses,
+
+452
+00:12:40,720 --> 00:12:42,360
+is if you're building an app,
+
+453
+00:12:42,360 --> 00:12:45,040
+let's say you cannot just
+
+454
+00:12:45,040 --> 00:12:47,200
+directly access a search engine.
+
+455
+00:12:47,200 --> 00:12:48,280
+You need structure data
+
+456
+00:12:48,280 --> 00:12:49,360
+to show in your app,
+
+457
+00:12:49,361 --> 00:12:50,399
+to use it in your app.
+
+458
+00:12:50,400 --> 00:12:51,119
+Right?
+
+459
+00:12:51,120 --> 00:12:51,839
+So, for example,
+
+460
+00:12:51,840 --> 00:12:52,799
+like Snapchat is one
+
+461
+00:12:52,800 --> 00:12:54,959
+of the customers of Diffbot.
+
+462
+00:12:54,960 --> 00:12:56,960
+We power like the stories feature
+
+463
+00:12:56,960 --> 00:12:57,680
+those articles,
+
+464
+00:12:57,680 --> 00:13:00,000
+news stories inside Snapchat.
+
+465
+00:13:00,000 --> 00:13:01,480
+We also power other search engines
+
+466
+00:13:01,480 --> 00:13:02,600
+like DuckDuckGo.
+
+467
+00:13:02,600 --> 00:13:03,160
+When you see like
+
+468
+00:13:03,160 --> 00:13:04,320
+those news titles
+
+469
+00:13:04,320 --> 00:13:07,120
+or organization titles.
+
+470
+00:13:07,160 --> 00:13:08,800
+If you are like a business
+
+471
+00:13:08,800 --> 00:13:10,040
+that has like a CRM,
+
+472
+00:13:10,040 --> 00:13:12,200
+we can actually
+
+473
+00:13:12,320 --> 00:13:13,680
+take every record in your CRM
+
+474
+00:13:13,680 --> 00:13:15,360
+and automatically enrich and enhance it
+
+475
+00:13:15,360 --> 00:13:16,760
+using the information we have,
+
+476
+00:13:16,760 --> 00:13:18,400
+the knowledge graph.
+
+477
+00:13:18,640 --> 00:13:21,519
+So think of it almost like,
+
+478
+00:13:21,520 --> 00:13:22,559
+you know, like a professional
+
+479
+00:13:22,560 --> 00:13:23,519
+search engine that
+
+480
+00:13:23,520 --> 00:13:25,079
+a business application can use.
+
+481
+00:13:25,080 --> 00:13:26,320
+Right?
+
+482
+00:13:26,560 --> 00:13:27,799
+All of your other business tools
+
+483
+00:13:27,800 --> 00:13:29,999
+that you use are not generally
+
+484
+00:13:30,000 --> 00:13:32,839
+like ad supported software.
+
+485
+00:13:32,840 --> 00:13:34,479
+That's like consumer software.
+
+486
+00:13:34,480 --> 00:13:36,799
+Like your Microsoft Word
+
+487
+00:13:36,800 --> 00:13:38,160
+or Zoom doesn't have like
+
+488
+00:13:38,160 --> 00:13:39,640
+pop up button inside it.
+
+489
+00:13:39,640 --> 00:13:42,560
+That's how it's like supported.
+
+490
+00:13:42,560 --> 00:13:44,200
+How do you get
+
+491
+00:13:44,200 --> 00:13:45,087
+to the realization that
+
+492
+00:13:45,270 --> 00:13:47,040
+this is even something that's needed?
+
+493
+00:13:47,040 --> 00:13:49,320
+So, you know, if I were to,
+
+494
+00:13:49,320 --> 00:13:51,440
+even as I am studying
+
+495
+00:13:51,440 --> 00:13:52,800
+artificial intelligence at Stanford
+
+496
+00:13:52,800 --> 00:13:54,160
+and I'm working on a lot
+
+497
+00:13:54,160 --> 00:13:54,760
+of these questions,
+
+498
+00:13:54,760 --> 00:13:56,080
+I would never imagine,
+
+499
+00:13:56,080 --> 00:13:57,400
+like maybe I should build
+
+500
+00:13:57,400 --> 00:13:59,600
+a competitive search engine
+
+501
+00:13:59,600 --> 00:14:02,280
+that could create structured
+
+502
+00:14:02,280 --> 00:14:05,120
+data out of the World Wide Web.
+
+503
+00:14:05,120 --> 00:14:07,200
+Well, so, you study AI so,
+
+504
+00:14:07,200 --> 00:14:08,280
+you know, there's basically
+
+505
+00:14:08,280 --> 00:14:10,080
+like three drivers,
+
+506
+00:14:10,080 --> 00:14:11,920
+right of improving AI performance.
+
+507
+00:14:11,920 --> 00:14:13,480
+There's the hardware,
+
+508
+00:14:13,480 --> 00:14:14,960
+the software and then the data.
+
+509
+00:14:14,961 --> 00:14:16,160
+Right?
+
+510
+00:14:16,600 --> 00:14:18,079
+So, I realized early on
+
+511
+00:14:18,080 --> 00:14:19,239
+that the hardware,
+
+512
+00:14:19,240 --> 00:14:20,840
+I can never really compete there.
+
+513
+00:14:20,840 --> 00:14:21,160
+I'm not going
+
+514
+00:14:21,160 --> 00:14:22,440
+to compete against Intel
+
+515
+00:14:22,440 --> 00:14:25,120
+or TSMC or Samsung
+
+516
+00:14:25,120 --> 00:14:26,320
+and come up with better hardware.
+
+517
+00:14:26,321 --> 00:14:26,479
+Right?
+
+518
+00:14:26,480 --> 00:14:28,199
+Nvidia. There's already billions
+
+519
+00:14:28,200 --> 00:14:29,640
+of dollars invested in that area.
+
+520
+00:14:29,640 --> 00:14:30,800
+Right.
+
+521
+00:14:30,800 --> 00:14:32,040
+The software, well,
+
+522
+00:14:32,040 --> 00:14:33,120
+I was trying to compete in that
+
+523
+00:14:33,120 --> 00:14:33,680
+in grad school,
+
+524
+00:14:33,680 --> 00:14:34,840
+developing new algorithms.
+
+525
+00:14:34,840 --> 00:14:35,280
+Right?
+
+526
+00:14:35,280 --> 00:14:36,000
+But then there's
+
+527
+00:14:36,000 --> 00:14:37,600
+like Google tensor flow.
+
+528
+00:14:37,600 --> 00:14:39,880
+There is Pytorch, there's all this,
+
+529
+00:14:39,881 --> 00:14:41,239
+the software is always getting better.
+
+530
+00:14:41,240 --> 00:14:42,520
+And there's so many people
+
+531
+00:14:42,520 --> 00:14:43,720
+coming up with better algorithms
+
+532
+00:14:43,720 --> 00:14:45,040
+all the time as well.
+
+533
+00:14:45,040 --> 00:14:45,680
+Right?
+
+534
+00:14:45,680 --> 00:14:47,280
+But when you start to think about data
+
+535
+00:14:47,280 --> 00:14:48,280
+and you want to build
+
+536
+00:14:48,280 --> 00:14:49,840
+an intelligence system,
+
+537
+00:14:49,841 --> 00:14:51,279
+you need structure data.
+
+538
+00:14:51,280 --> 00:14:52,240
+Well, what does everyone do?
+
+539
+00:14:52,240 --> 00:14:52,680
+They end up
+
+540
+00:14:52,681 --> 00:14:54,159
+just collecting their own data.
+
+541
+00:14:54,160 --> 00:14:55,400
+They end up just
+
+542
+00:14:55,400 --> 00:14:56,520
+kind of rolling their own
+
+543
+00:14:56,520 --> 00:14:57,560
+for their own application
+
+544
+00:14:57,560 --> 00:14:59,160
+using the data they have.
+
+545
+00:14:59,160 --> 00:15:00,320
+There isn't really like
+
+546
+00:15:00,320 --> 00:15:02,680
+a kind of a knowledge store
+
+547
+00:15:02,680 --> 00:15:03,640
+where you could just kind of say,
+
+548
+00:15:03,640 --> 00:15:04,840
+I want to import this data
+
+549
+00:15:04,840 --> 00:15:05,960
+from the source.
+
+550
+00:15:05,960 --> 00:15:08,840
+And I have a core set of people,
+
+551
+00:15:08,840 --> 00:15:10,800
+organizations or articles
+
+552
+00:15:10,800 --> 00:15:12,880
+or information to start out with
+
+553
+00:15:12,881 --> 00:15:14,640
+that I can tap into.
+
+554
+00:15:14,760 --> 00:15:16,119
+And so that's an area where I
+
+555
+00:15:16,120 --> 00:15:18,040
+saw there is actually a gap.
+
+556
+00:15:18,040 --> 00:15:20,520
+And looking at things like image net,
+
+557
+00:15:20,520 --> 00:15:21,120
+you can see that
+
+558
+00:15:21,120 --> 00:15:22,480
+it was actually this data set
+
+559
+00:15:22,480 --> 00:15:24,440
+that resulted in this new
+
+560
+00:15:24,440 --> 00:15:25,560
+revolution and deep learning.
+
+561
+00:15:25,561 --> 00:15:27,719
+It wasn't actually any novel,
+
+562
+00:15:27,720 --> 00:15:31,160
+new algorithm that was invented.
+
+563
+00:15:31,200 --> 00:15:31,920
+Because neural networks
+
+564
+00:15:31,920 --> 00:15:33,600
+have been around
+
+565
+00:15:33,600 --> 00:15:36,600
+since at least the 60s and 70s.
+
+566
+00:15:36,960 --> 00:15:39,439
+So, it's when I realized,
+
+567
+00:15:39,440 --> 00:15:41,599
+hey, why can't we build
+
+568
+00:15:41,600 --> 00:15:44,640
+like an everything store of data
+
+569
+00:15:44,680 --> 00:15:46,680
+and structure the world's knowledge
+
+570
+00:15:46,680 --> 00:15:47,640
+and build like
+
+571
+00:15:47,640 --> 00:15:48,960
+a new kind of search engine
+
+572
+00:15:48,960 --> 00:15:51,800
+for these intelligent
+
+573
+00:15:51,800 --> 00:15:54,040
+applications can use.
+
+574
+00:15:54,040 --> 00:15:55,240
+Right. So, share with me,
+
+575
+00:15:55,240 --> 00:15:56,200
+let's say a use case
+
+576
+00:15:56,200 --> 00:15:57,360
+that I'm building application
+
+577
+00:15:57,360 --> 00:15:59,640
+that has something to do with sports.
+
+578
+00:15:59,641 --> 00:15:59,999
+Right?
+
+579
+00:16:00,000 --> 00:16:01,440
+Let's say that I'm
+
+580
+00:16:01,440 --> 00:16:03,040
+that I'm dealing a lot with
+
+581
+00:16:03,040 --> 00:16:05,120
+the FIFA soccer tournament
+
+582
+00:16:05,121 --> 00:16:06,079
+or with the NFL
+
+583
+00:16:06,080 --> 00:16:08,360
+and I want to make use
+
+584
+00:16:08,360 --> 00:16:11,400
+of this knowledge database
+
+585
+00:16:11,401 --> 00:16:12,839
+that you're accumulating
+
+586
+00:16:12,840 --> 00:16:14,679
+by taking the World Wide Web
+
+587
+00:16:14,680 --> 00:16:15,480
+and tape making it
+
+588
+00:16:15,480 --> 00:16:17,440
+into structured data,
+
+589
+00:16:17,440 --> 00:16:19,320
+how would that used case look like
+
+590
+00:16:19,320 --> 00:16:20,960
+from your perspective,
+
+591
+00:16:20,960 --> 00:16:23,480
+if I were to want to
+
+592
+00:16:23,480 --> 00:16:25,640
+use Diffbot for example?
+
+593
+00:16:25,760 --> 00:16:30,720
+Yeah. So, I can show you an example.
+
+594
+00:16:30,840 --> 00:16:32,360
+Amazing.
+
+595
+00:16:33,760 --> 00:16:34,680
+So, with sports,
+
+596
+00:16:34,680 --> 00:16:37,360
+one of our customers is called
+
+597
+00:16:37,360 --> 00:16:38,800
+Sports Innovation Lab.
+
+598
+00:16:38,800 --> 00:16:39,920
+And what they do is basically
+
+599
+00:16:39,920 --> 00:16:41,520
+they produce business intelligence
+
+600
+00:16:41,520 --> 00:16:43,880
+for owners of sports teams
+
+601
+00:16:43,881 --> 00:16:45,959
+and sports executives.
+
+602
+00:16:45,960 --> 00:16:46,639
+So, they're using
+
+603
+00:16:46,640 --> 00:16:47,559
+the Diffbot knowledge graph
+
+604
+00:16:47,560 --> 00:16:50,639
+in order to track like
+
+605
+00:16:50,640 --> 00:16:51,880
+what's developing all these
+
+606
+00:16:51,880 --> 00:16:53,680
+events in the sports world.
+
+607
+00:16:53,680 --> 00:16:54,000
+Sure.
+
+608
+00:16:54,000 --> 00:16:56,080
+The players, the teams,
+
+609
+00:16:56,081 --> 00:16:57,119
+they're using it to track like,
+
+610
+00:16:57,120 --> 00:16:59,400
+which teams have covid,
+
+611
+00:16:59,400 --> 00:17:01,000
+which teams are shutting down,
+
+612
+00:17:01,000 --> 00:17:02,520
+how are things like re-openings.
+
+613
+00:17:02,520 --> 00:17:04,080
+So, it's helping sports executives
+
+614
+00:17:04,080 --> 00:17:06,320
+really navigate sort of the re-opening
+
+615
+00:17:06,320 --> 00:17:07,600
+like post covid.
+
+616
+00:17:07,600 --> 00:17:08,240
+And so, they're using
+
+617
+00:17:08,241 --> 00:17:08,719
+the knowledge graph
+
+618
+00:17:08,720 --> 00:17:09,919
+to keep track of all these things.
+
+619
+00:17:09,920 --> 00:17:11,039
+Right? Because,
+
+620
+00:17:11,040 --> 00:17:12,279
+it seems like things are changing
+
+621
+00:17:12,280 --> 00:17:13,519
+in the news on a daily basis
+
+622
+00:17:13,520 --> 00:17:14,039
+with each team
+
+623
+00:17:14,040 --> 00:17:15,159
+and each player.
+
+624
+00:17:15,160 --> 00:17:15,919
+It's too much for like
+
+625
+00:17:15,920 --> 00:17:18,159
+a human to keep track of.
+
+626
+00:17:18,160 --> 00:17:19,879
+Our AI is actually we crawl the web
+
+627
+00:17:19,880 --> 00:17:21,839
+keeping track of all that,
+
+628
+00:17:21,840 --> 00:17:23,800
+presenting the API dashboard for them.
+
+629
+00:17:23,801 --> 00:17:25,591
+We're going to put a box
+
+630
+00:17:25,791 --> 00:17:26,719
+right above your head
+
+631
+00:17:26,720 --> 00:17:27,639
+of how it's going to look.
+
+632
+00:17:27,640 --> 00:17:30,399
+So, how does a company like
+
+633
+00:17:30,400 --> 00:17:32,880
+that interact with Diffbot
+
+634
+00:17:32,920 --> 00:17:34,559
+on their day to day
+
+635
+00:17:34,560 --> 00:17:35,879
+both on the application level,
+
+636
+00:17:35,880 --> 00:17:39,679
+but also on the consumer level?
+
+637
+00:17:39,680 --> 00:17:41,679
+Yeah. I shared with you
+
+638
+00:17:41,680 --> 00:17:43,080
+a link to basically
+
+639
+00:17:44,014 --> 00:17:46,039
+how it looks like to the end user.
+
+640
+00:17:46,040 --> 00:17:48,760
+But you can see basically
+
+641
+00:17:49,240 --> 00:17:50,559
+there's this dashboard
+
+642
+00:17:50,560 --> 00:17:53,279
+that shows a visualization
+
+643
+00:17:53,280 --> 00:17:59,280
+across time of various sporting
+
+644
+00:17:59,680 --> 00:18:01,479
+world related events, you know,
+
+645
+00:18:01,480 --> 00:18:04,120
+as it relates to covid and sports.
+
+646
+00:18:04,120 --> 00:18:05,040
+And so you can see
+
+647
+00:18:05,040 --> 00:18:07,200
+it's sort of curated
+
+648
+00:18:07,200 --> 00:18:09,960
+by the team on each team.
+
+649
+00:18:09,961 --> 00:18:11,439
+It shows like, you know,
+
+650
+00:18:11,440 --> 00:18:13,679
+when that seat,
+
+651
+00:18:13,680 --> 00:18:15,199
+that league was postponed,
+
+652
+00:18:15,200 --> 00:18:16,319
+when it reopens,
+
+653
+00:18:16,320 --> 00:18:18,319
+like athlete data,
+
+654
+00:18:18,320 --> 00:18:21,200
+like whether a player has covid.
+
+655
+00:18:22,240 --> 00:18:23,640
+Wow.
+
+656
+00:18:24,600 --> 00:18:28,199
+That's very, very cool.
+
+657
+00:18:28,200 --> 00:18:30,159
+What was the most surprising part
+
+658
+00:18:30,160 --> 00:18:34,240
+of the start of journey for you until now?
+
+659
+00:18:34,680 --> 00:18:38,839
+I mean, startup Journey has so many
+
+660
+00:18:38,840 --> 00:18:41,400
+surprises in it, I guess.
+
+661
+00:18:41,720 --> 00:18:43,719
+With Diffbot, I'm surprised
+
+662
+00:18:43,720 --> 00:18:47,119
+by different use cases of
+
+663
+00:18:47,120 --> 00:18:48,600
+our technology out all the time.
+
+664
+00:18:48,600 --> 00:18:49,280
+Right?
+
+665
+00:18:49,281 --> 00:18:51,479
+Every day you hear about
+
+666
+00:18:51,480 --> 00:18:52,159
+one of our customers
+
+667
+00:18:52,160 --> 00:18:52,880
+using it in a way
+
+668
+00:18:52,880 --> 00:18:53,760
+that you didn't expect
+
+669
+00:18:53,760 --> 00:18:55,640
+the technology to be used in.
+
+670
+00:18:55,640 --> 00:18:57,200
+So, I think that's
+
+671
+00:18:57,200 --> 00:18:58,560
+one cool thing about building like
+
+672
+00:18:58,560 --> 00:19:00,240
+a platforms kind of company,
+
+673
+00:19:00,241 --> 00:19:02,719
+is that the
+
+674
+00:19:02,720 --> 00:19:04,199
+people are free to use it in lots
+
+675
+00:19:04,200 --> 00:19:05,199
+of different ways that you
+
+676
+00:19:05,200 --> 00:19:06,199
+wouldn't have imagined.
+
+677
+00:19:06,200 --> 00:19:08,559
+And so it creates more innovation.
+
+678
+00:19:08,560 --> 00:19:09,359
+100%.
+
+679
+00:19:09,360 --> 00:19:10,519
+It also requires some
+
+680
+00:19:10,520 --> 00:19:12,040
+open mindedness and some creativity.
+
+681
+00:19:12,040 --> 00:19:13,800
+And you're going to accept it
+
+682
+00:19:13,801 --> 00:19:14,759
+and to roll along
+
+683
+00:19:14,760 --> 00:19:16,519
+with that understanding
+
+684
+00:19:16,520 --> 00:19:17,279
+that you're seeing these
+
+685
+00:19:17,280 --> 00:19:18,880
+radically new use cases
+
+686
+00:19:18,880 --> 00:19:19,800
+that you didn't expect,
+
+687
+00:19:19,800 --> 00:19:20,720
+but you're embracing them
+
+688
+00:19:20,720 --> 00:19:21,960
+and now you're able
+
+689
+00:19:21,960 --> 00:19:23,360
+to understand the magnitude
+
+690
+00:19:23,360 --> 00:19:24,360
+of what you're building
+
+691
+00:19:24,360 --> 00:19:26,080
+Mike, this was really wonderful.
+
+692
+00:19:26,080 --> 00:19:27,440
+And I love what you're doing.
+
+693
+00:19:27,441 --> 00:19:28,599
+I know that you're also hiring.
+
+694
+00:19:28,600 --> 00:19:29,559
+So, I'm guessing that
+
+695
+00:19:29,560 --> 00:19:31,160
+if anybody here
+
+696
+00:19:31,160 --> 00:19:33,440
+is into this kind of stuff
+
+697
+00:19:33,440 --> 00:19:34,320
+and would like to reach out,
+
+698
+00:19:34,321 --> 00:19:36,079
+I can make the intro.
+
+699
+00:19:36,080 --> 00:19:36,920
+That's okay with you?
+
+700
+00:19:36,920 --> 00:19:38,480
+Yeah, definitely.
+
+701
+00:19:38,480 --> 00:19:39,840
+We're probably the best place
+
+702
+00:19:39,840 --> 00:19:40,920
+in the world if you care
+
+703
+00:19:40,920 --> 00:19:42,040
+about building automatic
+
+704
+00:19:42,041 --> 00:19:43,599
+knowledge graphs using AI
+
+705
+00:19:43,600 --> 00:19:44,999
+right from the whole web.
+
+706
+00:19:45,000 --> 00:19:46,199
+Besides Google and Bing,
+
+707
+00:19:46,200 --> 00:19:46,759
+we are the only
+
+708
+00:19:46,760 --> 00:19:48,159
+other US entity that crawls
+
+709
+00:19:48,160 --> 00:19:49,000
+the entire Internet.
+
+710
+00:19:49,000 --> 00:19:51,280
+So, we have our own facility here
+
+711
+00:19:51,280 --> 00:19:51,880
+in the Bay Area
+
+712
+00:19:51,880 --> 00:19:53,680
+that crawls the web and has a copy of it.
+
+713
+00:19:54,560 --> 00:19:55,040
+Unbelievable.
+
+714
+00:19:55,040 --> 00:19:55,480
+How many people
+
+715
+00:19:55,481 --> 00:19:57,480
+are in the company right now?
+
+716
+00:19:57,720 --> 00:19:58,879
+We're a little less than
+
+717
+00:19:58,880 --> 00:20:00,119
+40 people right now.
+
+718
+00:20:00,120 --> 00:20:01,440
+Wow.
+
+719
+00:20:01,560 --> 00:20:03,239
+That's very, very impressive.
+
+720
+00:20:03,240 --> 00:20:04,959
+It's mind boggling to me.
+
+721
+00:20:04,960 --> 00:20:07,079
+A team of less than 40 people
+
+722
+00:20:07,080 --> 00:20:08,999
+making sense of the entire Internet,
+
+723
+00:20:09,000 --> 00:20:10,639
+crawling the entire Internet.
+
+724
+00:20:10,640 --> 00:20:12,240
+That's just you know,
+
+725
+00:20:12,240 --> 00:20:14,120
+it was unbelievable
+
+726
+00:20:14,120 --> 00:20:15,920
+when Larry and Sergey attempted
+
+727
+00:20:15,921 --> 00:20:17,239
+to do it in 1998,
+
+728
+00:20:17,240 --> 00:20:19,039
+when the Internet was this small.
+
+729
+00:20:19,040 --> 00:20:19,840
+It's even more impressive
+
+730
+00:20:19,840 --> 00:20:20,320
+when you're trying to do
+
+731
+00:20:20,321 --> 00:20:21,879
+when the Internet is this big.
+
+732
+00:20:21,880 --> 00:20:22,800
+Mike, before we leave,
+
+733
+00:20:22,800 --> 00:20:24,160
+I have to ask you for three words
+
+734
+00:20:24,160 --> 00:20:26,640
+that you would use to describe yourself.
+
+735
+00:20:27,760 --> 00:20:29,640
+This is a tough question
+
+736
+00:20:29,640 --> 00:20:30,600
+to reduce, like a human
+
+737
+00:20:30,600 --> 00:20:31,880
+just to like three bits.
+
+738
+00:20:31,881 --> 00:20:34,160
+But I would say
+
+739
+00:20:34,161 --> 00:20:36,199
+if I were to only choose three words
+
+740
+00:20:36,200 --> 00:20:37,800
+in my entry into
+
+741
+00:20:37,800 --> 00:20:38,640
+Diffbot knowledge graph,
+
+742
+00:20:38,640 --> 00:20:39,200
+it would probably be
+
+743
+00:20:39,200 --> 00:20:41,280
+machine learning engineer.
+
+744
+00:20:41,280 --> 00:20:42,360
+Because that probably
+
+745
+00:20:42,360 --> 00:20:43,840
+most describes what I do,
+
+746
+00:20:43,841 --> 00:20:44,919
+like engineering machine
+
+747
+00:20:44,920 --> 00:20:46,800
+learning systems,
+
+748
+00:20:46,801 --> 00:20:49,999
+and that describes the core of
+
+749
+00:20:50,000 --> 00:20:52,000
+what I do as a CEO.
+
+750
+00:20:52,040 --> 00:20:52,759
+I love that.
+
+751
+00:20:52,760 --> 00:20:54,159
+Mike, thank you very, very much.
+
+752
+00:20:54,160 --> 00:20:55,119
+And this was really great.
+
+753
+00:20:55,120 --> 00:20:55,719
+I learned a lot.
+
+754
+00:20:55,720 --> 00:20:57,039
+Thank you for being so generous
+
+755
+00:20:57,040 --> 00:20:57,999
+with your time
+
+756
+00:20:58,000 --> 00:20:58,863
+and best of luck.
+
+757
+00:20:59,063 --> 00:21:01,200
+And stay safe and stay healthy.
+
+758
+00:21:01,360 --> 00:21:02,520
+Great. Thanks for having me, Michael.
+

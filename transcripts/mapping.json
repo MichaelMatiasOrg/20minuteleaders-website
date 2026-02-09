@@ -1,0 +1,3514 @@
+[
+  {
+    "episode": "613",
+    "guest": "Shay Michel",
+    "srt_file": "neatsun-michael.srt",
+    "drive_id": "17NWiIu4R9zgUI_4Y5nf24NohXa_m0uqS",
+    "score": 0.6153846153846154,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/neatsun-michael.txt"
+  },
+  {
+    "episode": "1126",
+    "guest": "Eyal Cohen",
+    "srt_file": "riverside_eyal_cohen, phd_transcription_transcription_20minuteleaders_int_0143.srt",
+    "drive_id": "1u2KOUswvJ56phJKtW6w4rWiamMVPp8q-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/riverside_eyal_cohen, phd_transcription_transcription_20minuteleaders_int_0143.txt"
+  },
+  {
+    "episode": "280",
+    "guest": "Anique Drumright",
+    "srt_file": "Anique_Drumright_Final(new).en_US.srt",
+    "drive_id": "1OJjXfPNxwyPKNFSc8Oppfs-2PpgbVeyZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Anique_Drumright_Final(new).en_US.txt"
+  },
+  {
+    "episode": "280",
+    "guest": "Anique Drumright",
+    "srt_file": "Anique_Drumright_Final(new).srt",
+    "drive_id": "1oKzNykKU2o43cv80VqVwtIM8EOJ6EwCO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Anique_Drumright_Final(new).txt"
+  },
+  {
+    "episode": "288",
+    "guest": "Sarah Begum",
+    "srt_file": "Sarah_Begum_final(new).en_US.srt",
+    "drive_id": "18oLtKkNHlFW9s8O2Ax3cByJ3gvHOM0pz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Sarah_Begum_final(new).en_US.txt"
+  },
+  {
+    "episode": "288",
+    "guest": "Sarah Begum",
+    "srt_file": "Sarah_Begum_final(new).srt",
+    "drive_id": "1HGWtZBf5t4JeKPq1zMFBJawz_S1CGNry",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Sarah_Begum_final(new).txt"
+  },
+  {
+    "episode": "289",
+    "guest": "Chuck Imerson",
+    "srt_file": "Chuck_Imerson_final(new).en_US.srt",
+    "drive_id": "1hWN8W-b0sVHfGuLGg0irUb6AuiOAqaSk",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Chuck_Imerson_final(new).en_US.txt"
+  },
+  {
+    "episode": "289",
+    "guest": "Chuck Imerson",
+    "srt_file": "Chuck_Imerson_final(new).srt",
+    "drive_id": "1XrMwZqIv6LlUtyNAfxECD4sJxwAJOF_w",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Chuck_Imerson_final(new).txt"
+  },
+  {
+    "episode": "286",
+    "guest": "Amit Tishler",
+    "srt_file": "amit_tishler_final.en_US.srt",
+    "drive_id": "1YFHWv4a0NEv5tOy2Bcloj6WzxoC99xCi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amit_tishler_final.en_US.txt"
+  },
+  {
+    "episode": "286",
+    "guest": "Amit Tishler",
+    "srt_file": "amit_tishler_final.srt",
+    "drive_id": "15H6aI0ZfFQnjpCmbC4RrDK6JEyiWquGS",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amit_tishler_final.txt"
+  },
+  {
+    "episode": "287",
+    "guest": "Marc Cirera",
+    "srt_file": "Marc_Cirera_final.en_US.srt",
+    "drive_id": "1Fxt88cx5KMSciz5uQaYohrwbdhJbxj78",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Marc_Cirera_final.en_US.txt"
+  },
+  {
+    "episode": "287",
+    "guest": "Marc Cirera",
+    "srt_file": "Marc_Cirera_final.srt",
+    "drive_id": "1IZq17fyFQQN9Js_w53opTQpIOyQl7QvK",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Marc_Cirera_final.txt"
+  },
+  {
+    "episode": "265",
+    "guest": "Arod Balissa",
+    "srt_file": "Arod_Balissa_final(1).en_US.srt",
+    "drive_id": "1VgbUPD3_2rkewpLVpVy5tVjyeqQD5S1H",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Arod_Balissa_final(1).en_US.txt"
+  },
+  {
+    "episode": "265",
+    "guest": "Arod Balissa",
+    "srt_file": "Arod_Balissa_final(1).srt",
+    "drive_id": "1aahJgqeaKVxx3-s7n5ABpVZfXpJwrkuz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Arod_Balissa_final(1).txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tomer_cohen_final.en_US.srt",
+    "drive_id": "17fwBh3CiU43-X_H1bQVpm4q0JXN_vbzn",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tomer_cohen_final.en_US.txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tomer_cohen_final.srt",
+    "drive_id": "1_67QKHZkWoADruaJO30gqD545WcMfvqH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tomer_cohen_final.txt"
+  },
+  {
+    "episode": "283",
+    "guest": "Shahar Erez",
+    "srt_file": "shahar_erez_final.en_US.srt",
+    "drive_id": "1ZVO94_gTTXGrIpzdISXwlyZkC3qq4a6M",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shahar_erez_final.en_US.txt"
+  },
+  {
+    "episode": "283",
+    "guest": "Shahar Erez",
+    "srt_file": "shahar_erez_final.srt",
+    "drive_id": "1QznT-7sOlEWEQYz7yvjfS_uIyVjNXk9N",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shahar_erez_final.txt"
+  },
+  {
+    "episode": "284",
+    "guest": "Lior Gavish",
+    "srt_file": "Lior_Gavish_final.en_US.srt",
+    "drive_id": "15g_LMuyfLAOW7lMaGsJsmZUX0Wwr7wuf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Lior_Gavish_final.en_US.txt"
+  },
+  {
+    "episode": "284",
+    "guest": "Lior Gavish",
+    "srt_file": "Lior_Gavish_final.srt",
+    "drive_id": "1eFR7Rles0tb311b91U2QF7ez9UII7Bck",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Lior_Gavish_final.txt"
+  },
+  {
+    "episode": "282",
+    "guest": "Debbie Wosskow",
+    "srt_file": "Debbie_Wosskow_final(new).srt",
+    "drive_id": "1Mf4Ie26RskyByyO-ldFcNNvJryUxbJHF",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Debbie_Wosskow_final(new).txt"
+  },
+  {
+    "episode": "282",
+    "guest": "Debbie Wosskow",
+    "srt_file": "Debbie_Wosskow_final(new).mp4.en_US.srt",
+    "drive_id": "19ixk1QB8k_kXGTqpRUthm5jasOrhI0yK",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Debbie_Wosskow_final(new).mp4.en_US.txt"
+  },
+  {
+    "episode": "281",
+    "guest": "Chen Shmilo",
+    "srt_file": "chen_shmilo_final.en_US.srt",
+    "drive_id": "1LIczFHFzYOOPl8dUspc6DBtkRZWQy9j4",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/chen_shmilo_final.en_US.txt"
+  },
+  {
+    "episode": "281",
+    "guest": "Chen Shmilo",
+    "srt_file": "chen_shmilo_final.srt",
+    "drive_id": "1LDBQ6fsSvov9GllJFWZUoDh_q32yQoO5",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/chen_shmilo_final.txt"
+  },
+  {
+    "episode": "271",
+    "guest": "Oren Dobronsky",
+    "srt_file": "oren_dobronsky_final.en_US.srt",
+    "drive_id": "1Z5Z-2t6ytYyVtLoJ8jOmoHzdDYclnq05",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/oren_dobronsky_final.en_US.txt"
+  },
+  {
+    "episode": "271",
+    "guest": "Oren Dobronsky",
+    "srt_file": "oren_dobronsky_final.srt",
+    "drive_id": "1_ZX5Q-_nz0HjLHLFOVZn3X5mL2OM3NnG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/oren_dobronsky_final.txt"
+  },
+  {
+    "episode": "273",
+    "guest": "Tal Zackon",
+    "srt_file": "tal_zackon_final.en_US.srt",
+    "drive_id": "145EsKy7x-6G0SK7A3nvB6UQ5PcLGoo5N",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_zackon_final.en_US.txt"
+  },
+  {
+    "episode": "273",
+    "guest": "Tal Zackon",
+    "srt_file": "tal_zackon_final.srt",
+    "drive_id": "1UeXmKJn3YZHHOvVLCs3hF4gHOXJ3aWm6",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_zackon_final.txt"
+  },
+  {
+    "episode": "279",
+    "guest": "Ruby Chen",
+    "srt_file": "ruby_chen_final.en_US.srt",
+    "drive_id": "1CfD7r7HV19Orak6NtkXehRBsZb8id0Pz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ruby_chen_final.en_US.txt"
+  },
+  {
+    "episode": "279",
+    "guest": "Ruby Chen",
+    "srt_file": "ruby_chen_final.srt",
+    "drive_id": "11j9hi4czpShly1wigOu9zpfLUdn245e3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ruby_chen_final.txt"
+  },
+  {
+    "episode": "278",
+    "guest": "Maya Vishwakarma",
+    "srt_file": "Maya_Vishwakarma_final.srt",
+    "drive_id": "1IXauWz4NQbjKg7iolz49Pu1_bIBdJd7d",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Maya_Vishwakarma_final.txt"
+  },
+  {
+    "episode": "278",
+    "guest": "Maya Vishwakarma",
+    "srt_file": "Maya_Vishwakarma_final.en_US.srt",
+    "drive_id": "1SHrPPGnB-wPpugeFu-cZ4nZNSAY7nv2E",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Maya_Vishwakarma_final.en_US.txt"
+  },
+  {
+    "episode": "274",
+    "guest": "Assaf Gil",
+    "srt_file": "assaf_gil_final.en_US.srt",
+    "drive_id": "1N3SCtULTsXBGJuY3jCoBEIBB4ULDAOsy",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/assaf_gil_final.en_US.txt"
+  },
+  {
+    "episode": "274",
+    "guest": "Assaf Gil",
+    "srt_file": "assaf_gil_final.srt",
+    "drive_id": "1TAbKwzKhLBxVx9BuNTCk_u4PvxJQzYbW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/assaf_gil_final.txt"
+  },
+  {
+    "episode": "276",
+    "guest": "Wes Boudville",
+    "srt_file": "Wesley_Boudville_final.en_US.srt",
+    "drive_id": "16GKN8jmS4KICq5TA3-rT1DQYBxpJy1bA",
+    "score": 0.6341463414634146,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Wesley_Boudville_final.en_US.txt"
+  },
+  {
+    "episode": "276",
+    "guest": "Wes Boudville",
+    "srt_file": "Wesley_Boudville_final.srt",
+    "drive_id": "1h5eAmfAJ9gGvz--MRrLyJVwjdsijm0rH",
+    "score": 0.7428571428571429,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Wesley_Boudville_final.txt"
+  },
+  {
+    "episode": "263",
+    "guest": "Peter Fishman",
+    "srt_file": "peter_fishman_final.en_US.srt",
+    "drive_id": "1e6iDFa_OX6WiHQU3IE4-Rgb_viHM-0nn",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/peter_fishman_final.en_US.txt"
+  },
+  {
+    "episode": "263",
+    "guest": "Peter Fishman",
+    "srt_file": "peter_fishman_final.srt",
+    "drive_id": "1OD8tIDAwhdpEJ4KJOTOwjJsMrI674zde",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/peter_fishman_final.txt"
+  },
+  {
+    "episode": "272",
+    "guest": "Rachel Yarcony-Goldstein",
+    "srt_file": "Rachel_ Yarcony_final.en_US.srt",
+    "drive_id": "1VtBVhXNqUDUysdq9kIiTWRJjKkMzhsAF",
+    "score": 0.64,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Rachel_ Yarcony_final.en_US.txt"
+  },
+  {
+    "episode": "272",
+    "guest": "Rachel Yarcony-Goldstein",
+    "srt_file": "Rachel_ Yarcony_final.srt",
+    "drive_id": "1PsriJq2OXkZg8SDyxWy_nTcN9WaDOui2",
+    "score": 0.7272727272727273,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Rachel_ Yarcony_final.txt"
+  },
+  {
+    "episode": "269",
+    "guest": "Lior Grossman",
+    "srt_file": "lior_grossman_final.en_US.srt",
+    "drive_id": "16SThfn318siUg3Wm9t_2Rf_c4XrEujEx",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lior_grossman_final.en_US.txt"
+  },
+  {
+    "episode": "269",
+    "guest": "Lior Grossman",
+    "srt_file": "lior_grossman_final.srt",
+    "drive_id": "11qCvkzJeLHiUylL8N-AWpP817cSbSqrc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lior_grossman_final.txt"
+  },
+  {
+    "episode": "270",
+    "guest": "Avi Eyal",
+    "srt_file": "Avi_Eyal_final.en_US.srt",
+    "drive_id": "1yftkdG8ZicOIwK27g8jpH2O0p3BZFA_t",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Avi_Eyal_final.en_US.txt"
+  },
+  {
+    "episode": "270",
+    "guest": "Avi Eyal",
+    "srt_file": "Avi_Eyal_final.srt",
+    "drive_id": "1AJt6qBOdkc8PubOTCSJajxktuFo2KGGX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Avi_Eyal_final.txt"
+  },
+  {
+    "episode": "267",
+    "guest": "Dr. Zvi Guterman",
+    "srt_file": "zvi_guterman_final.srt",
+    "drive_id": "1CIJVd5gD5nmo9AC3hZQKXEKVfR9wY9Xy",
+    "score": 0.7058823529411765,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/zvi_guterman_final.txt"
+  },
+  {
+    "episode": "268",
+    "guest": "Rachel Trobman",
+    "srt_file": "rachel_trobman_final.en_US.srt",
+    "drive_id": "1ShwgJ2niEtIBk1DfTQNvahuu_5TSAXVG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel_trobman_final.en_US.txt"
+  },
+  {
+    "episode": "268",
+    "guest": "Rachel Trobman",
+    "srt_file": "rachel_trobman_final.srt",
+    "drive_id": "1MmULEc_9AuUGzX-7ezQ2x6B8eLNLDn44",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel_trobman_final.txt"
+  },
+  {
+    "episode": "277",
+    "guest": "Eyal Lifshitz",
+    "srt_file": "Eyal_Lifshitz_final.mp4.en_US.srt",
+    "drive_id": "1rB-ITYvKefviAWlAQOuJ9cj3QD14-Vat",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Eyal_Lifshitz_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "277",
+    "guest": "Eyal Lifshitz",
+    "srt_file": "Eyal_Lifshitz_final.mp4.srt",
+    "drive_id": "1yZcwk7RjKVH_r7pq1g3T_M5gU8B6NISB",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Eyal_Lifshitz_final.mp4.txt"
+  },
+  {
+    "episode": "262",
+    "guest": "Spandana Palaypu",
+    "srt_file": "spandana_palaypu_final.en_US.srt",
+    "drive_id": "1XZJpAkIfWZn5PlMoThDNxaLrkCcifAaQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/spandana_palaypu_final.en_US.txt"
+  },
+  {
+    "episode": "262",
+    "guest": "Spandana Palaypu",
+    "srt_file": "spandana_palaypu_final.srt",
+    "drive_id": "13okjAKpGHv-PoDwoOI9Uc-da34ZRlDXg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/spandana_palaypu_final.txt"
+  },
+  {
+    "episode": "264",
+    "guest": "Tess Manning",
+    "srt_file": "tess_manning_final.en_US.srt",
+    "drive_id": "1RdFLtnCzm4gETSi4O-2fBv--Eq8E9ek1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tess_manning_final.en_US.txt"
+  },
+  {
+    "episode": "264",
+    "guest": "Tess Manning",
+    "srt_file": "tess_manning_final.srt",
+    "drive_id": "1SIdASuQGNHAOR-05e60Z7nZ104jrtcEp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tess_manning_final.txt"
+  },
+  {
+    "episode": "261",
+    "guest": "Nuri Golan",
+    "srt_file": "nuri_golan_final.en_US.srt",
+    "drive_id": "1Z1Xae09dOOHgxL4xyQgyLV_QnxY9IAd1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nuri_golan_final.en_US.txt"
+  },
+  {
+    "episode": "261",
+    "guest": "Nuri Golan",
+    "srt_file": "nuri_golan_final.srt",
+    "drive_id": "1UJKEsAu2t1lGSXB4Jlq9ELalZHu3NDQj",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nuri_golan_final.txt"
+  },
+  {
+    "episode": "259",
+    "guest": "Ivan Jakovljevic",
+    "srt_file": "ivan_jakovljevic_final.en_US.srt",
+    "drive_id": "1-P4aGEw7dHUqHZMXEGFzoseVhbHOwr2e",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ivan_jakovljevic_final.en_US.txt"
+  },
+  {
+    "episode": "259",
+    "guest": "Ivan Jakovljevic",
+    "srt_file": "ivan_jakovljevic_final.srt",
+    "drive_id": "1mat-ZOh_nyPZj3JObXaEXMIU3hGX1BaE",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ivan_jakovljevic_final.txt"
+  },
+  {
+    "episode": "252",
+    "guest": "Sleem Hasan",
+    "srt_file": "sleem_hasan_final.en_US.srt",
+    "drive_id": "1m5JB9MyNYwT36NbvS0L2FticzIRzY6dY",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sleem_hasan_final.en_US.txt"
+  },
+  {
+    "episode": "252",
+    "guest": "Sleem Hasan",
+    "srt_file": "sleem_hasan_final.srt",
+    "drive_id": "1xPAHoY07B039a_H0TqlhE6KGZSJXaEp3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sleem_hasan_final.txt"
+  },
+  {
+    "episode": "266",
+    "guest": "Mike Cassidy",
+    "srt_file": "mike_cassidy_final.en_US.srt",
+    "drive_id": "1jmF-HkrZ3jQ92gLw1uOVsv2GUqBE-0yI",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mike_cassidy_final.en_US.txt"
+  },
+  {
+    "episode": "266",
+    "guest": "Mike Cassidy",
+    "srt_file": "mike_cassidy_final.srt",
+    "drive_id": "1-Z664aeJPgyNEZJfA-bl4j9c_6dq-QWO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mike_cassidy_final.txt"
+  },
+  {
+    "episode": "258",
+    "guest": "Tamir Plachinsky",
+    "srt_file": "tamir_plachinsky_final.en_US.srt",
+    "drive_id": "14eNrUZRV_tDpDmqZGtqdrPNbA-q7R9rt",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tamir_plachinsky_final.en_US.txt"
+  },
+  {
+    "episode": "258",
+    "guest": "Tamir Plachinsky",
+    "srt_file": "tamir_plachinsky_final.srt",
+    "drive_id": "1ZmUL0UtiyufofKw8TuXC_zWd7w-htzVy",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tamir_plachinsky_final.txt"
+  },
+  {
+    "episode": "260",
+    "guest": "Orlie Gruper",
+    "srt_file": "orlie_gruper_final.en_US.srt",
+    "drive_id": "1FqL3b0IgQ6C5m4MBYaYNsOQw9VmQH6co",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/orlie_gruper_final.en_US.txt"
+  },
+  {
+    "episode": "260",
+    "guest": "Orlie Gruper",
+    "srt_file": "orlie_gruper_final.srt",
+    "drive_id": "1xUogwGMLbfVBDtJ1qTqqkAwrFJdcJsGN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/orlie_gruper_final.txt"
+  },
+  {
+    "episode": "251",
+    "guest": "Michal Levin",
+    "srt_file": "michal_levin_final.en_US.srt",
+    "drive_id": "112biKnoTUEiSBR6VDxFyUsmbufC0qbrl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michal_levin_final.en_US.txt"
+  },
+  {
+    "episode": "251",
+    "guest": "Michal Levin",
+    "srt_file": "michal_levin_final.srt",
+    "drive_id": "1USX4HvQOsR5tJF2loh6l0ASLcAfYbnAY",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michal_levin_final.txt"
+  },
+  {
+    "episode": "253",
+    "guest": "Yael Kaufmann",
+    "srt_file": "yael_kaufmann_final.en_US.srt",
+    "drive_id": "1subaNtcyi85OPnKNoCrFI-N5d5qHvju9",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_kaufmann_final.en_US.txt"
+  },
+  {
+    "episode": "253",
+    "guest": "Yael Kaufmann",
+    "srt_file": "yael_kaufmann_final.srt",
+    "drive_id": "1ARz2AbWfAmpwAeXfBj8g_d596lesAc9p",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_kaufmann_final.txt"
+  },
+  {
+    "episode": "254",
+    "guest": "George Kotsolios",
+    "srt_file": "george_ktsolios_20_min_Final.mov.srt",
+    "drive_id": "1isOWV9vJCIDxfZJmky--dF2kDYRKSP4N",
+    "score": 0.625,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/george_ktsolios_20_min_Final.mov.txt"
+  },
+  {
+    "episode": "255",
+    "guest": "Carine Carmy",
+    "srt_file": "carine_carmy_final1.mp4.en_US.srt",
+    "drive_id": "1webl5kG-PAs0-sWBz6wb9b2sWN5Ht49a",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/carine_carmy_final1.mp4.en_US.txt"
+  },
+  {
+    "episode": "255",
+    "guest": "Carine Carmy",
+    "srt_file": "carine_carmy_final1.mp4.srt",
+    "drive_id": "1DGRQyQgkO6ZtmydltTGwnvdDKwXyw4fs",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/carine_carmy_final1.mp4.txt"
+  },
+  {
+    "episode": "256",
+    "guest": "Francis Pedraza",
+    "srt_file": "francis_pedraza_20_min_final.mov.en_US.srt",
+    "drive_id": "1RFjq4gLIrGMzglNEvh3JAqAyWfwaAGy1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/francis_pedraza_20_min_final.mov.en_US.txt"
+  },
+  {
+    "episode": "256",
+    "guest": "Francis Pedraza",
+    "srt_file": "francis_pedraza_20_min_final.mov.srt",
+    "drive_id": "18wVmM9QkIvwzELAPA6VALTswh0UvgYcK",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/francis_pedraza_20_min_final.mov.txt"
+  },
+  {
+    "episode": "257",
+    "guest": "Jennifer Richard",
+    "srt_file": "jennifer_richard_final.mp4.en_US.srt",
+    "drive_id": "1TQa1VTpErMzWE1pT9iJx6SyrDY_WhCIE",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_richard_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "257",
+    "guest": "Jennifer Richard",
+    "srt_file": "jennifer_richard_final.mp4.srt",
+    "drive_id": "1uSzvrlcgm6OkOGQAbohSYG4R0JSg6b4Z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_richard_final.mp4.txt"
+  },
+  {
+    "episode": "250",
+    "guest": "Oren Rubin",
+    "srt_file": "250_oren rubin.mp4.en_US.srt",
+    "drive_id": "1O1fM-oKmWLTr98RR4OFbBJaUDV_zSOPl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/250_oren rubin.mp4.en_US.txt"
+  },
+  {
+    "episode": "250",
+    "guest": "Oren Rubin",
+    "srt_file": "250_oren rubin.mp4.srt",
+    "drive_id": "121dCZZo75aEIpHA08qmUhnlsDjMtQw8Y",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/250_oren rubin.mp4.txt"
+  },
+  {
+    "episode": "249",
+    "guest": "Shirley Segal",
+    "srt_file": "shirley_segal_20_min_Final.mp4.en_US.srt",
+    "drive_id": "1_jSSUb-SzQQdjinLMHU_970MUorez6PE",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shirley_segal_20_min_Final.mp4.en_US.txt"
+  },
+  {
+    "episode": "249",
+    "guest": "Shirley Segal",
+    "srt_file": "shirley_segal_20_min_Final.mp4.srt",
+    "drive_id": "1EfSX-2NzIzITeVqtRInjbfVUgiml7Ppf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shirley_segal_20_min_Final.mp4.txt"
+  },
+  {
+    "episode": "241",
+    "guest": "Stephanie Andrews",
+    "srt_file": "241_stephanie andrews.mp4.en_US.srt",
+    "drive_id": "1mW4_3NN51-h32HnH8QpjVY2xMJiiuHSh",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/241_stephanie andrews.mp4.en_US.txt"
+  },
+  {
+    "episode": "241",
+    "guest": "Stephanie Andrews",
+    "srt_file": "241_stephanie andrews.mp4.srt",
+    "drive_id": "1wumktSc5QzXjTq9WIA2oprK5I6XOxcZf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/241_stephanie andrews.mp4.txt"
+  },
+  {
+    "episode": "247",
+    "guest": "Keren Fanan",
+    "srt_file": "247_keren fanan.mp4.en_US.srt",
+    "drive_id": "1rmRPXndT-cRoUxxTXhoBzkWvy6RD6vOu",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/247_keren fanan.mp4.en_US.txt"
+  },
+  {
+    "episode": "247",
+    "guest": "Keren Fanan",
+    "srt_file": "247_keren fanan.mp4.srt",
+    "drive_id": "1ElZe5T-UvIMEJwqQVR-m-YxiLyP7dl-1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/247_keren fanan.mp4.txt"
+  },
+  {
+    "episode": "242",
+    "guest": "Mike Tung",
+    "srt_file": "mike_tung_final.mp4.en_US.srt",
+    "drive_id": "1JccUIbLp7IMAcpGo_T8hLdEiNDQkbpD8",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mike_tung_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "242",
+    "guest": "Mike Tung",
+    "srt_file": "mike_tung_final.mp4.srt",
+    "drive_id": "1St3_bGzRU0Ykikxm8qrZJ7dXVG5cVksh",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mike_tung_final.mp4.txt"
+  },
+  {
+    "episode": "238",
+    "guest": "David Weekly",
+    "srt_file": "david_weekly_final.mp4.en_US.srt",
+    "drive_id": "1abN18qCwVQOSJI7EYE4W0xH60D-dUkAG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_weekly_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "238",
+    "guest": "David Weekly",
+    "srt_file": "david_weekly_final.mp4.srt",
+    "drive_id": "18NQbZHZLPiy_0OrdwShG3y-2zlzc2Jac",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_weekly_final.mp4.txt"
+  },
+  {
+    "episode": "235",
+    "guest": "Ilana Golan",
+    "srt_file": "ilana_golan_final.mp4.en_US.srt",
+    "drive_id": "1CL000bzQY5RePxIBOTE0N-opWH2nLeen",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ilana_golan_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "235",
+    "guest": "Ilana Golan",
+    "srt_file": "ilana_golan_final.mp4.srt",
+    "drive_id": "1jFgR0jfTxQ5WyPUTHX7dd3H6TFJ-urKe",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ilana_golan_final.mp4.txt"
+  },
+  {
+    "episode": "236",
+    "guest": "Yair Livne",
+    "srt_file": "yair_livne_final.mp4.en_US.srt",
+    "drive_id": "1D_XZxqmda52WZcQAF477efWyxi-Czf3C",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yair_livne_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "236",
+    "guest": "Yair Livne",
+    "srt_file": "yair_livne_final.mp4.srt",
+    "drive_id": "194Q2zJGGwVZFTLLJzC43zfZNBdiO6l_s",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yair_livne_final.mp4.txt"
+  },
+  {
+    "episode": "246",
+    "guest": "Noam Segal",
+    "srt_file": "noam_segal_final.mp4.en_US.srt",
+    "drive_id": "1SEekeClHwVdjOtfhNjRehZkcJvOYiIhO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noam_segal_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "246",
+    "guest": "Noam Segal",
+    "srt_file": "noam_segal_final.mp4.srt",
+    "drive_id": "1ON6S-SJMm3dz0EwoApkBaHPG3BoLW6XZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noam_segal_final.mp4.txt"
+  },
+  {
+    "episode": "248",
+    "guest": "Oron Afek",
+    "srt_file": "oron_afek_final.mp4.en_US.srt",
+    "drive_id": "1c4m-hE1aPx40ENOOQOzuT288R8A8EuXt",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/oron_afek_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "248",
+    "guest": "Oron Afek",
+    "srt_file": "oron_afek_final.mp4.srt",
+    "drive_id": "1tbNsvoimKx0ANzUDwnELN-3Uc2YFkmgN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/oron_afek_final.mp4.txt"
+  },
+  {
+    "episode": "243",
+    "guest": "Talia Wolf",
+    "srt_file": "talia_wolf_final.mp4.en_US.srt",
+    "drive_id": "175oYHyMoSPVUoo2Sz9q8e9tYana6v0Lk",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/talia_wolf_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "243",
+    "guest": "Talia Wolf",
+    "srt_file": "talia_wolf_final.mp4.srt",
+    "drive_id": "1mCWQKm2AfS8EHI-IBod3PICv-S_ZlPlz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/talia_wolf_final.mp4.txt"
+  },
+  {
+    "episode": "237",
+    "guest": "Shelli Brunswick",
+    "srt_file": "shelli_brunswick_final.mp4.en_US.srt",
+    "drive_id": "1D8jQQDheTu8najj9TuLIC-ozHTQitcRz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shelli_brunswick_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "237",
+    "guest": "Shelli Brunswick",
+    "srt_file": "shelli_brunswick_final.mp4.srt",
+    "drive_id": "1FNE2bgLBzFy7eKzwOEynhCiyjvCw3U7L",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shelli_brunswick_final.mp4.txt"
+  },
+  {
+    "episode": "244",
+    "guest": "Shai Albaranes",
+    "srt_file": "shai_albaranes_final.mp4.en_US.srt",
+    "drive_id": "1jbZe7lqfiYlnNySudjX_b6cm1F0cszJi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shai_albaranes_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "244",
+    "guest": "Shai Albaranes",
+    "srt_file": "shai_albaranes_final.mp4.srt",
+    "drive_id": "1izkiMDsryjUpe3cfFl6_yy4sgrPn6Ek3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shai_albaranes_final.mp4.txt"
+  },
+  {
+    "episode": "245",
+    "guest": "Aliza Peleg",
+    "srt_file": "aliza_peleg_20_min_final_New.mov.en_US.srt",
+    "drive_id": "1jZixVzsnGRLmrU2OecM-TFvWO6C9doO0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/aliza_peleg_20_min_final_New.mov.en_US.txt"
+  },
+  {
+    "episode": "245",
+    "guest": "Aliza Peleg",
+    "srt_file": "aliza_peleg_20_min_final_New.mov.srt",
+    "drive_id": "1go6V2egNbaJpA01hT1Uut7oxNvRAVtCz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/aliza_peleg_20_min_final_New.mov.txt"
+  },
+  {
+    "episode": "239",
+    "guest": "Laura Schaack",
+    "srt_file": "laura_schaack_final.mp4.en_US.srt",
+    "drive_id": "1x6KPaEN4-L_wF70DGJY-TR_AjqEwAelj",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/laura_schaack_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "239",
+    "guest": "Laura Schaack",
+    "srt_file": "laura_schaack_final.mp4.srt",
+    "drive_id": "1L35Ts8RZWtsoz0rGib4JPWj21SRTlHxg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/laura_schaack_final.mp4.txt"
+  },
+  {
+    "episode": "240",
+    "guest": "Dotan Knaan",
+    "srt_file": "dotan_knaan_final.mp4.en_US.srt",
+    "drive_id": "17OC0jbFve8vSuVUEkctVskNeEeqFX1HU",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dotan_knaan_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "240",
+    "guest": "Dotan Knaan",
+    "srt_file": "dotan_knaan_final.mp4.srt",
+    "drive_id": "1eMp_vYa6tqrfcCC2_eCFXajnr3ZqSSZq",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dotan_knaan_final.mp4.txt"
+  },
+  {
+    "episode": "226",
+    "guest": "Y. Dan Rubenstein",
+    "srt_file": "Y._Dan_Rubinstein.mp4.en_US.srt",
+    "drive_id": "17c1wZqbjFDBNTfU_GckEJAmzNvKolh9G",
+    "score": 0.7272727272727273,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Y._Dan_Rubinstein.mp4.en_US.txt"
+  },
+  {
+    "episode": "226",
+    "guest": "Y. Dan Rubenstein",
+    "srt_file": "Y._Dan_Rubinstein.mp4.srt",
+    "drive_id": "1Iu-iY8R5XTNkVQJ8ZuHucEZyyb1nxgFY",
+    "score": 0.8421052631578947,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Y._Dan_Rubinstein.mp4.txt"
+  },
+  {
+    "episode": "225",
+    "guest": "Gil Tayar",
+    "srt_file": "gil_tayar_final.mp4.en_US.srt",
+    "drive_id": "1jaE5EVsJ32vAM-KeRA8tdQyYOxUQlkY5",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_tayar_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "225",
+    "guest": "Gil Tayar",
+    "srt_file": "gil_tayar_final.mp4.srt",
+    "drive_id": "1pj9fa8d-1noPyYs6lfAMSdTmuaZgbQsb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_tayar_final.mp4.txt"
+  },
+  {
+    "episode": "228",
+    "guest": "Gal Ringel",
+    "srt_file": "gal_ringel_final_edit.mp4.en_US.srt",
+    "drive_id": "1kfms_g8fw7unU-vgv0eZoDIFd03167x0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gal_ringel_final_edit.mp4.en_US.txt"
+  },
+  {
+    "episode": "228",
+    "guest": "Gal Ringel",
+    "srt_file": "gal_ringel_final_edit.mp4.srt",
+    "drive_id": "12BN7vrJGnBQ-_BQ_q3L-BpLVWRkMDwOg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gal_ringel_final_edit.mp4.txt"
+  },
+  {
+    "episode": "227",
+    "guest": "Amy Wyron Robinson",
+    "srt_file": "amy_wyron_robinson_final.mp4.en_US.srt",
+    "drive_id": "1LCPRqZmfKlISX35bvsLPL-24mQBtdV4M",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_wyron_robinson_final.mp4.en_US.txt"
+  },
+  {
+    "episode": "227",
+    "guest": "Amy Wyron Robinson",
+    "srt_file": "amy_wyron_robinson_final.mp4.srt",
+    "drive_id": "1lDyLGy_uYqwHvL2o03QPSWGlbRbHfxy2",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_wyron_robinson_final.mp4.txt"
+  },
+  {
+    "episode": "233",
+    "guest": "Minette Norman",
+    "srt_file": "Minette_Norman_20_min.mov.en_US.srt",
+    "drive_id": "1fhO8OR3xu4HvTRndbdQubB2nCRCTsj4h",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Minette_Norman_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "233",
+    "guest": "Minette Norman",
+    "srt_file": "Minette_Norman_20_min.mov.srt",
+    "drive_id": "1QmkLjtdXn-NFP68pDsOjBzqwUpyl06G4",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Minette_Norman_20_min.mov.txt"
+  },
+  {
+    "episode": "234",
+    "guest": "Stephen Blum",
+    "srt_file": "stephen_blum_final.mp4en_US.srt",
+    "drive_id": "1XgGB3uGkry-jbTdjt7Z-5Iqzx_2B6b8y",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/stephen_blum_final.mp4en_US.txt"
+  },
+  {
+    "episode": "234",
+    "guest": "Stephen Blum",
+    "srt_file": "stephen_blum_final.mp4.srt",
+    "drive_id": "1eJp5VC0zQNvZugh5xpW5TkNO0Tpb-yBl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/stephen_blum_final.mp4.txt"
+  },
+  {
+    "episode": "231",
+    "guest": "Jennifer Gross",
+    "srt_file": "jennifer_gross_final_edit.mp4.en_US.srt",
+    "drive_id": "1eAzzDYhKFkqRQQNJa5Ayd6Oovs8GMaLK",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_gross_final_edit.mp4.en_US.txt"
+  },
+  {
+    "episode": "231",
+    "guest": "Jennifer Gross",
+    "srt_file": "jennifer_gross_final_edit.mp4.srt",
+    "drive_id": "1H0-J7ml5J1etvPd0lnj5oN6UWAKOHHkT",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_gross_final_edit.mp4.txt"
+  },
+  {
+    "episode": "232",
+    "guest": "Ben Casnocha",
+    "srt_file": "ben_casnocha_20_min.mov.en_US.srt",
+    "drive_id": "1dHEGga-xPM0AsJf9zZX_07147DBQPupv",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ben_casnocha_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "232",
+    "guest": "Ben Casnocha",
+    "srt_file": "ben_casnocha_20_min.mov.srt",
+    "drive_id": "1_eX2xZU6KykxUPbvUlQRdfAmdlvt30Qp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ben_casnocha_20_min.mov.txt"
+  },
+  {
+    "episode": "229",
+    "guest": "C\u00e9line Williams",
+    "srt_file": "celine_williams_final_edit.mp4.srt",
+    "drive_id": "1EyZ-ILWonSwSfysXS8_o2FktPDpPG0-Z",
+    "score": 0.6222222222222222,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/celine_williams_final_edit.mp4.txt"
+  },
+  {
+    "episode": "230",
+    "guest": "Valentin Perez",
+    "srt_file": "valentin_perez_final_edit.mp4.en_US.srt",
+    "drive_id": "1gXh8Ta-wiEWjd5YdLq9cGpftovlLkIje",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/valentin_perez_final_edit.mp4.en_US.txt"
+  },
+  {
+    "episode": "230",
+    "guest": "Valentin Perez",
+    "srt_file": "valentin_perez_final_edit.mp4.srt",
+    "drive_id": "1y11YfO1iPQNV3PX362itIw1zOKO1EWsD",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/valentin_perez_final_edit.mp4.txt"
+  },
+  {
+    "episode": "224",
+    "guest": "Sharona Zablodovsky",
+    "srt_file": "Sharona Zablodovsky1.mp4.en_US.srt",
+    "drive_id": "1WvjmGYrDv7JAEBfHp9EU7A-ySc92QbZX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Sharona Zablodovsky1.mp4.en_US.txt"
+  },
+  {
+    "episode": "224",
+    "guest": "Sharona Zablodovsky",
+    "srt_file": "Sharona Zablodovsky1.mp4.srt",
+    "drive_id": "1azBQBZYYZhME8LuMEmbMBqKoxDQ_k1pM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Sharona Zablodovsky1.mp4.txt"
+  },
+  {
+    "episode": "223",
+    "guest": "Saket Agarwal",
+    "srt_file": "saket_agarwal_final1.mp4.en_US.srt",
+    "drive_id": "1WU6qQIMnbRQ5p9aHY3jZ_XYXhAShRCiC",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/saket_agarwal_final1.mp4.en_US.txt"
+  },
+  {
+    "episode": "223",
+    "guest": "Saket Agarwal",
+    "srt_file": "saket_agarwal_final1.mp4.srt",
+    "drive_id": "1kGQHSf0ilYL7vXsuFeDjBHg2bfDjD9Jg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/saket_agarwal_final1.mp4.txt"
+  },
+  {
+    "episode": "222",
+    "guest": "LIlia Shirman",
+    "srt_file": "lilia_shirman_20_min.mov.en_US.srt",
+    "drive_id": "1zwTd4hHNGQJu1R2vqseAY2a01T3AwKAO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lilia_shirman_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "222",
+    "guest": "LIlia Shirman",
+    "srt_file": "lilia_shirman_20_min.mov.srt",
+    "drive_id": "1DEdrD43xYtZWr0ZOok0UNLvMha6cppKX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lilia_shirman_20_min.mov.txt"
+  },
+  {
+    "episode": "221",
+    "guest": "Yoav Vilner",
+    "srt_file": "yoav_vilner_20_min.mov.en_US.srt",
+    "drive_id": "1h9dOApWBywyub7EAe8lUjXnZUWziEpcE",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yoav_vilner_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "221",
+    "guest": "Yoav Vilner",
+    "srt_file": "yoav_vilner_20_min.mov.srt",
+    "drive_id": "17lPswhPB3ARtyJhLL0f9VdGFgc9X25Uc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yoav_vilner_20_min.mov.txt"
+  },
+  {
+    "episode": "218",
+    "guest": "Thomas Schindler",
+    "srt_file": "thomas schindle_20_min.mov.en_US.srt",
+    "drive_id": "1Dzs1lVDJ2dvg9OcHK_fKZduesj4hGyqw",
+    "score": 0.625,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/thomas schindle_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "218",
+    "guest": "Thomas Schindler",
+    "srt_file": "thomas schindle_20_min.mov.srt",
+    "drive_id": "1g4hCt4j5dlB1OZswWrIhF4PqmSNvV3-s",
+    "score": 0.7142857142857143,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/thomas schindle_20_min.mov.txt"
+  },
+  {
+    "episode": "220",
+    "guest": "Yali Saar",
+    "srt_file": "yali_saar option _20_min.mov.en_US.srt",
+    "drive_id": "12B8t_AfXQeOHibkU71GrSzauXjA88vw3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yali_saar option _20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "220",
+    "guest": "Yali Saar",
+    "srt_file": "yali_saar option _20_min.mov.srt",
+    "drive_id": "1Y6QZtqLJpxV_WXygJa0Vf8UYB5pubbCN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yali_saar option _20_min.mov.txt"
+  },
+  {
+    "episode": "216",
+    "guest": "Ramesh Panuganty",
+    "srt_file": "ramesh_panuganty_final1.mp4.en_US.srt",
+    "drive_id": "1xDeKpna1H26UHD_nvpUn4gnTBkGdI31b",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ramesh_panuganty_final1.mp4.en_US.txt"
+  },
+  {
+    "episode": "216",
+    "guest": "Ramesh Panuganty",
+    "srt_file": "ramesh_panuganty_final1.mp4.srt",
+    "drive_id": "1sOh1BK2yh3WJgG4KbagKXxV_3iigyJvi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ramesh_panuganty_final1.mp4.txt"
+  },
+  {
+    "episode": "217",
+    "guest": "Yael Wissner-Levy",
+    "srt_file": "yael_wissner_levy_20_min.mov.en_US.srt",
+    "drive_id": "1TSTx_rVX_hUXhDBSDaUyPuNN0s8vpsUt",
+    "score": 0.6274509803921569,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_wissner_levy_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "217",
+    "guest": "Yael Wissner-Levy",
+    "srt_file": "yael_wissner_levy_20_min.mov.srt",
+    "drive_id": "17yYN7Iqk5uf420sfhD40opquHOTrlwra",
+    "score": 0.7111111111111111,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_wissner_levy_20_min.mov.txt"
+  },
+  {
+    "episode": "214",
+    "guest": "Nurit Reder",
+    "srt_file": "nurit_reder_20_min.mov.en_US.srt",
+    "drive_id": "1odoJcCcZdP8bvbJaJpx5s6crsLoaONNm",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nurit_reder_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "214",
+    "guest": "Nurit Reder",
+    "srt_file": "nurit_reder_20_min.mov.srt",
+    "drive_id": "1WnmLmEPEsmnCN4DnYyCkWyrzWbZZbSsV",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nurit_reder_20_min.mov.txt"
+  },
+  {
+    "episode": "215",
+    "guest": "Rachel Carpenter",
+    "srt_file": "rachel_carpenter_20_min.mov.en_US.srt",
+    "drive_id": "1C3rQ4sBifGPAoYPVYuucr_LRy4Kj16ip",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel_carpenter_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "215",
+    "guest": "Rachel Carpenter",
+    "srt_file": "rachel_carpenter_20_min.mov.srt",
+    "drive_id": "15C2jAqYnZwX9vV23QhvL0WxfrSrCaFij",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel_carpenter_20_min.mov.txt"
+  },
+  {
+    "episode": "212",
+    "guest": "Nadia Tatlow",
+    "srt_file": "nadia_tatlow_20_min.mov.en_US.srt",
+    "drive_id": "1ASTGFsQACoZ2Uf8dzS5fKR3j4ODeVTEj",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nadia_tatlow_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "212",
+    "guest": "Nadia Tatlow",
+    "srt_file": "nadia_tatlow_20_min.mov.srt",
+    "drive_id": "1QnunoEr0bvOSpkPDfilIPR3nX6WBvIpg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nadia_tatlow_20_min.mov.txt"
+  },
+  {
+    "episode": "213",
+    "guest": "Noa Ohayon Bab",
+    "srt_file": "noa_ohayon_bab_20_min.mov.en_US.srt",
+    "drive_id": "1cJr9FoIlVkFbAsRsUTeOOB7mnCoOdCig",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noa_ohayon_bab_20_min.mov.en_US.txt"
+  },
+  {
+    "episode": "213",
+    "guest": "Noa Ohayon Bab",
+    "srt_file": "noa_ohayon_bab_20_min.mov.srt",
+    "drive_id": "1JbKyGB7WJqQIg8kJoetld2T4Ky7t_uiJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noa_ohayon_bab_20_min.mov.txt"
+  },
+  {
+    "episode": "211",
+    "guest": "Maya Avni",
+    "srt_file": "maya_avni_20_min.mov.srt",
+    "drive_id": "1yKpqC6NCy2UNRf1NqOFwDBLb3rbwGaU3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/maya_avni_20_min.mov.txt"
+  },
+  {
+    "episode": "210",
+    "guest": "Lexi Butler",
+    "srt_file": "lexi_butler_20_min.mov.srt",
+    "drive_id": "15j2iEcKfzlIBE7ZMfgWp2Er4v1VXqLwg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lexi_butler_20_min.mov.txt"
+  },
+  {
+    "episode": "209",
+    "guest": "Levy Raiz",
+    "srt_file": "levy_raiz_20_min.mov.srt",
+    "drive_id": "1q3oJzWhAV8X4d0dooKGZMrO7Obp7NG4h",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/levy_raiz_20_min.mov.txt"
+  },
+  {
+    "episode": "204",
+    "guest": "Diane Boettcher",
+    "srt_file": "diane_boettcher_20_min.mov.srt",
+    "drive_id": "1SN53nn5QI8qEzuJPx-rS8Y3jhvKVehEp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/diane_boettcher_20_min.mov.txt"
+  },
+  {
+    "episode": "186",
+    "guest": "Denise Lee Yohn",
+    "srt_file": "denise_lee _yohn_subtitle.srt",
+    "drive_id": "1Fei578BdVcXUcm_nzJ8en4d1GzQCFwZG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/denise_lee _yohn_subtitle.txt"
+  },
+  {
+    "episode": "1031",
+    "guest": "Donna Griffit",
+    "srt_file": "donna_griffit_subtitles_final.srt",
+    "drive_id": "14VU7cDauWep7pf1a8zlmltGxnEOzdvWJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/donna_griffit_subtitles_final.txt"
+  },
+  {
+    "episode": "196",
+    "guest": "Omri Krigel",
+    "srt_file": "omri_krigel_subtitles_final.srt",
+    "drive_id": "1UTW1zUJYchB4FHpxN1gHxIBod4d3qATP",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/omri_krigel_subtitles_final.txt"
+  },
+  {
+    "episode": "208",
+    "guest": "Jill Wesley",
+    "srt_file": "jill_wesley_subtitle.srt",
+    "drive_id": "13XOFIZNupYlVRkSQOL042IoM9r3r1QQr",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jill_wesley_subtitle.txt"
+  },
+  {
+    "episode": "200",
+    "guest": "Shani Zanescu",
+    "srt_file": "shani_zanesco_subtitle.srt",
+    "drive_id": "1iyz9bGbX3XFucCBt9DxynlV8wn_g5ZDj",
+    "score": 0.7428571428571429,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shani_zanesco_subtitle.txt"
+  },
+  {
+    "episode": "206",
+    "guest": "Roy Nicolet",
+    "srt_file": "roy_nicolet_subtitle.srt",
+    "drive_id": "1Qw5PA_hCYGXcKMlwffkiWmZGLv8gOuYh",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/roy_nicolet_subtitle.txt"
+  },
+  {
+    "episode": "1031",
+    "guest": "Donna Griffit",
+    "srt_file": "donna_griffit_subtitle.srt",
+    "drive_id": "1fPrCOGqeITyZttxbdCB9vnqmZ3Cu-GP9",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/donna_griffit_subtitle.txt"
+  },
+  {
+    "episode": "201",
+    "guest": "Emna Ghariani",
+    "srt_file": "emna_ghariani_subtitles_final.srt",
+    "drive_id": "1e1qpZnakhTpUf7prmgOzM9uJZ4XyIfL7",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/emna_ghariani_subtitles_final.txt"
+  },
+  {
+    "episode": "202",
+    "guest": "Sharyn Abbott",
+    "srt_file": "sharyn_abbott_subtitles_final.srt",
+    "drive_id": "1l6Tq-x2RF-DI3yp7Aml9D4KV-7o_hwL_",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sharyn_abbott_subtitles_final.txt"
+  },
+  {
+    "episode": "205",
+    "guest": "Earle Hall",
+    "srt_file": "earle_hall_subtitles_final.srt",
+    "drive_id": "15wNauBy-Z0LG4gU0ovDNdCRHXk0EH6ZO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/earle_hall_subtitles_final.txt"
+  },
+  {
+    "episode": "202",
+    "guest": "Sharyn Abbott",
+    "srt_file": "sharyn_abbott_subtitle.srt",
+    "drive_id": "19-dmuH6UnuCkICNGUMe8tRC0yBwHvnrl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sharyn_abbott_subtitle.txt"
+  },
+  {
+    "episode": "205",
+    "guest": "Earle Hall",
+    "srt_file": "earle_hall_subtitle.srt",
+    "drive_id": "1ATpqkyv9zz25OGxgo_jzs4aLlYBCveir",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/earle_hall_subtitle.txt"
+  },
+  {
+    "episode": "205",
+    "guest": "Earle Hall",
+    "srt_file": "earle_hall_subtitle.srt",
+    "drive_id": "16IfusTTcU-t3HzXhnwqMICRtLIqm1o-f",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/earle_hall_subtitle.txt"
+  },
+  {
+    "episode": "191",
+    "guest": "Marissa Orr",
+    "srt_file": "marissa_orr_subtitles_final.srt",
+    "drive_id": "1QbcZ3jNwdurdjeF4gJXXEBAaGhL3qZoQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/marissa_orr_subtitles_final.txt"
+  },
+  {
+    "episode": "191",
+    "guest": "Marissa Orr",
+    "srt_file": "marissa_orr_subtitle.srt",
+    "drive_id": "1Kmlp17BjGyLiNQRm37vC1MO1hQ28eLYf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/marissa_orr_subtitle.txt"
+  },
+  {
+    "episode": "195",
+    "guest": "Ayal Yogev",
+    "srt_file": "ayal_yogev_subtitles_final.srt",
+    "drive_id": "1_MVPk7EGgf19hVS8NbLcllXaki5twhHG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ayal_yogev_subtitles_final.txt"
+  },
+  {
+    "episode": "550",
+    "guest": "Gad Allon",
+    "srt_file": "gad_allon_subtitles_final.srt",
+    "drive_id": "1R7hf4n1JNkLIZrY38vUxGfkU8ddf-iKc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gad_allon_subtitles_final.txt"
+  },
+  {
+    "episode": "550",
+    "guest": "Gad Allon",
+    "srt_file": "gad_allon_subtitle (1).srt",
+    "drive_id": "1YVauaLjWWXzIo365FQkbisVkXOgoyc0X",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gad_allon_subtitle (1).txt"
+  },
+  {
+    "episode": "195",
+    "guest": "Ayal Yogev",
+    "srt_file": "ayal_yogev_subtitle (1).srt",
+    "drive_id": "1yrvUqPGxBC2p7XOCc5juFE0bANAbpKIH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ayal_yogev_subtitle (1).txt"
+  },
+  {
+    "episode": "153",
+    "guest": "Rona Segev",
+    "srt_file": "rona_segev_subtitles_final.srt",
+    "drive_id": "1IrPJHFyLjv7ZztQppkI3QPeS4r4-wjHD",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rona_segev_subtitles_final.txt"
+  },
+  {
+    "episode": "164",
+    "guest": "Kiwoba Allaire",
+    "srt_file": "kiwoba_allaire_subtitles_final.srt",
+    "drive_id": "1pOx-4ZPwZ3lOaw6r5X93DazBHXtRlY_N",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kiwoba_allaire_subtitles_final.txt"
+  },
+  {
+    "episode": "153",
+    "guest": "Rona Segev",
+    "srt_file": "rona_segev_subtitle.srt",
+    "drive_id": "1R0hrFWPNKqyJXRvQLEiiYMSqq_sud6fW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rona_segev_subtitle.txt"
+  },
+  {
+    "episode": "164",
+    "guest": "Kiwoba Allaire",
+    "srt_file": "kiwoba_allaire_subtitle.srt",
+    "drive_id": "1HssAZ-8p99dfL2LbHEnYezfz0DVgmLMz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kiwoba_allaire_subtitle.txt"
+  },
+  {
+    "episode": "198",
+    "guest": "David Golan",
+    "srt_file": "david_golan_subtitles_final.srt",
+    "drive_id": "1vGk0j09_kokKMETzQ_mlcsbp4exNNO3_",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_golan_subtitles_final.txt"
+  },
+  {
+    "episode": "203",
+    "guest": "Eli Barak",
+    "srt_file": "eli_barak_subtitles_final.srt",
+    "drive_id": "1k9wi_UHHl5JAdFNOO3inlt6c2X4OHUHb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eli_barak_subtitles_final.txt"
+  },
+  {
+    "episode": "179",
+    "guest": "Anne Blum",
+    "srt_file": "anne_blum_subtitles_final.srt",
+    "drive_id": "1BdfM9DyNdMWvyrzXn6YRw06T137ZUpSC",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anne_blum_subtitles_final.txt"
+  },
+  {
+    "episode": "174",
+    "guest": "Chana Kanzen",
+    "srt_file": "chana_kanzen_subtitles_final.srt",
+    "drive_id": "1uqadQ7diASjylbNeyxPjlBBpMeeJj4gp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/chana_kanzen_subtitles_final.txt"
+  },
+  {
+    "episode": "203",
+    "guest": "Eli Barak",
+    "srt_file": "eli_barak_subtitle.srt",
+    "drive_id": "1cEMpSsVg1r4WR-PQK4XSTM9tWObV6vRp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eli_barak_subtitle.txt"
+  },
+  {
+    "episode": "198",
+    "guest": "David Golan",
+    "srt_file": "david_golan_subtitle.srt",
+    "drive_id": "1itvkhJtc4rOiRxnub20NPB5nInP3bL6S",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_golan_subtitle.txt"
+  },
+  {
+    "episode": "134",
+    "guest": "Sophie Alcorn",
+    "srt_file": "sophie_alcorn_subtitles_final.srt",
+    "drive_id": "1jgIT3lDHXX979_QCyQr2M2BU_evBPWzv",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sophie_alcorn_subtitles_final.txt"
+  },
+  {
+    "episode": "134",
+    "guest": "Sophie Alcorn",
+    "srt_file": "sophie_alcorn_subtitle.srt",
+    "drive_id": "1WhDWMN37czhbO3v3qRsZ469pbNbecvrN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sophie_alcorn_subtitle.txt"
+  },
+  {
+    "episode": "179",
+    "guest": "Anne Blum",
+    "srt_file": "anne_blum_subtitle.srt",
+    "drive_id": "122ZVatRXLgMiHpBmiNh80M2pYozXGaCz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anne_blum_subtitle.txt"
+  },
+  {
+    "episode": "168",
+    "guest": "Ginny Clarke",
+    "srt_file": "ginny_clarke_subtitle_final.srt",
+    "drive_id": "17V3SyOP3cASnZZEaZDGRs-Q-k2zuqk4z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ginny_clarke_subtitle_final.txt"
+  },
+  {
+    "episode": "199",
+    "guest": "Denise Brosseau",
+    "srt_file": "denise_brosseau_subtitles_final.srt",
+    "drive_id": "1hoXXiqumpWCCV1foQ1supdKMJbdVUQ4k",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/denise_brosseau_subtitles_final.txt"
+  },
+  {
+    "episode": "168",
+    "guest": "Ginny Clarke",
+    "srt_file": "ginny_clarke_subtitle.srt",
+    "drive_id": "1g-iTVDHIz1Re7C2uDbAqSgCSeUo3BeKI",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ginny_clarke_subtitle.txt"
+  },
+  {
+    "episode": "174",
+    "guest": "Chana Kanzen",
+    "srt_file": "chana_kanzen_subtitle.srt",
+    "drive_id": "1M5G5zobchs8-MvYkwkYk12CWSzmc1BYt",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/chana_kanzen_subtitle.txt"
+  },
+  {
+    "episode": "172",
+    "guest": "Erika Gerdes",
+    "srt_file": "erika_gerdes_subtitles_final.srt",
+    "drive_id": "1pUlDQ3Gya05VYnXKa5xS-bVvdWcuEYld",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/erika_gerdes_subtitles_final.txt"
+  },
+  {
+    "episode": "170",
+    "guest": "Lee Alpert",
+    "srt_file": "lee_alpert_subtitles_final.srt",
+    "drive_id": "1Mr2SSLXjc_FNT84gynXcntkKIBPEnAD7",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lee_alpert_subtitles_final.txt"
+  },
+  {
+    "episode": "189",
+    "guest": "Jennifer Kenny",
+    "srt_file": "jennifer_kenny_subtitles_final.srt",
+    "drive_id": "1niZg0lFJZvVnqdboehalODRKRDqWFbNl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_kenny_subtitles_final.txt"
+  },
+  {
+    "episode": "172",
+    "guest": "Erika Gerdes",
+    "srt_file": "erika_gerdes_subtitle.srt",
+    "drive_id": "1HzBej_9Mk85-noF9CldeMVuFNDXMNqpb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/erika_gerdes_subtitle.txt"
+  },
+  {
+    "episode": "199",
+    "guest": "Denise Brosseau",
+    "srt_file": "denise_brosseau_subtitle.srt",
+    "drive_id": "1Vvqh2fA7MpBt5haw1mYYOVd6GZcBZznb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/denise_brosseau_subtitle.txt"
+  },
+  {
+    "episode": "144",
+    "guest": "Dana Look Arimoto",
+    "srt_file": "dana_look_arimoto_subtitles_final.srt",
+    "drive_id": "1HchMzDK1UIOwrzNWLOLrJdAQoUlvsVXw",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dana_look_arimoto_subtitles_final.txt"
+  },
+  {
+    "episode": "143",
+    "guest": "Cecile Blilious",
+    "srt_file": "cecile_blilious_subtitle_final.srt",
+    "drive_id": "1YyLciJI_XD69p7vOPfY2TyG6iV2XdHNV",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/cecile_blilious_subtitle_final.txt"
+  },
+  {
+    "episode": "144",
+    "guest": "Dana Look Arimoto",
+    "srt_file": "dana_look_arimoto_subtitle.srt",
+    "drive_id": "1qYVOeS9xOMkMmSKUBCaTXEK-C_Svjbz2",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dana_look_arimoto_subtitle.txt"
+  },
+  {
+    "episode": "143",
+    "guest": "Cecile Blilious",
+    "srt_file": "cecile_blilious_subtitle.srt",
+    "drive_id": "1HB6jN0LFNBnCoBe6n1A5EoTL_gUDVN7Z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/cecile_blilious_subtitle.txt"
+  },
+  {
+    "episode": "177",
+    "guest": "Amy Davies",
+    "srt_file": "amy_davies_subtitles_final.srt",
+    "drive_id": "1_jzwVGA7Bs1JHJTvRo3FsakY3V0imI4K",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_davies_subtitles_final.txt"
+  },
+  {
+    "episode": "196",
+    "guest": "Omri Krigel",
+    "srt_file": "omri_kriegel_subtitle (1).srt",
+    "drive_id": "1e9K9Nr8PemnhoSedwCvvibt2RQuoSj24",
+    "score": 0.6875,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/omri_kriegel_subtitle (1).txt"
+  },
+  {
+    "episode": "177",
+    "guest": "Amy Davies",
+    "srt_file": "amy_davies_subtitle (1).srt",
+    "drive_id": "1GxV6Hhkxzgbu1CvNGBlii24cs1F1NYVl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_davies_subtitle (1).txt"
+  },
+  {
+    "episode": "197",
+    "guest": "Anita Kumari",
+    "srt_file": "anita_kumari_subtiles_final.srt",
+    "drive_id": "1dBPtPan4jl83OGb2ORa8YeO-DpeHRqCg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anita_kumari_subtiles_final.txt"
+  },
+  {
+    "episode": "170",
+    "guest": "Lee Alpert",
+    "srt_file": "lee_alpert_subtitle.srt",
+    "drive_id": "1U93bSve7x1JI7LV3rB5z_zPHIpIWf7ZW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lee_alpert_subtitle.txt"
+  },
+  {
+    "episode": "189",
+    "guest": "Jennifer Kenny",
+    "srt_file": "jennifer_kenny_subtitle.srt",
+    "drive_id": "1xCSbh5xh7HyVDpXA8eKqUv5CLIl1kgb0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jennifer_kenny_subtitle.txt"
+  },
+  {
+    "episode": "184",
+    "guest": "Anita Koumriqian",
+    "srt_file": "anita_koumriqian_subtitles_final.srt",
+    "drive_id": "1KbtheKszaRdGn9dg_CfJCpk2BN8Xtcnh",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anita_koumriqian_subtitles_final.txt"
+  },
+  {
+    "episode": "193",
+    "guest": "Kiran Chin",
+    "srt_file": "kiran_chin_subtitles_final.srt",
+    "drive_id": "1bKUSfAnpDWjNEsmPebiKq7HSK-UO4fV0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kiran_chin_subtitles_final.txt"
+  },
+  {
+    "episode": "181",
+    "guest": "Yael Benvenisti",
+    "srt_file": "yael_benvenisti_subtitles_final.srt",
+    "drive_id": "18cyaw18fI8yE0Kt2j53JC9oiQDMuMFBg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_benvenisti_subtitles_final.txt"
+  },
+  {
+    "episode": "197",
+    "guest": "Anita Kumari",
+    "srt_file": "anita_kumari_subtile.srt",
+    "drive_id": "1S6SvQ-Jic-jBg-zxaOMJ1iMWZ3Q0U5LV",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anita_kumari_subtile.txt"
+  },
+  {
+    "episode": "184",
+    "guest": "Anita Koumriqian",
+    "srt_file": "anita_koumriqian_subtitle.srt",
+    "drive_id": "1aSKB9N0I-JA0ZlPwESUfoFIE_UMotpgG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anita_koumriqian_subtitle.txt"
+  },
+  {
+    "episode": "165",
+    "guest": "Rebekah Bastian",
+    "srt_file": "rebekah_bastian_subtitles_final.srt",
+    "drive_id": "1eda1PViDmS61aABFbN_u5mlVNdy5eCx7",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rebekah_bastian_subtitles_final.txt"
+  },
+  {
+    "episode": "194",
+    "guest": "Linda Popky",
+    "srt_file": "linda_popky_subtitles_final.srt",
+    "drive_id": "18u5MEOFFiGW-44GFQCkRWiiBh_6KLwPM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/linda_popky_subtitles_final.txt"
+  },
+  {
+    "episode": "181",
+    "guest": "Yael Benvenisti",
+    "srt_file": "yael_benvenisti_subtitles.srt",
+    "drive_id": "1hqrYjw5iRdyiZ5JHA_atsABpvWfuiMp7",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_benvenisti_subtitles.txt"
+  },
+  {
+    "episode": "193",
+    "guest": "Kiran Chin",
+    "srt_file": "kiran_chin_subtitles.srt",
+    "drive_id": "1p1j3rAWDPQCzXDOxB3TdmEIbOJdi3ty-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kiran_chin_subtitles.txt"
+  },
+  {
+    "episode": "147",
+    "guest": "Stav Erez",
+    "srt_file": "stav_erez_subtitles_final.srt",
+    "drive_id": "1u3EnALpVzAw2-iie1au0x5eQ9B-fvZ4-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/stav_erez_subtitles_final.txt"
+  },
+  {
+    "episode": "165",
+    "guest": "Rebekah Bastian",
+    "srt_file": "rebekah_bastian_subtitle.srt",
+    "drive_id": "1dUiPiTXA-uRv4_uMDBTnaCBjCkM6aoFs",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rebekah_bastian_subtitle.txt"
+  },
+  {
+    "episode": "194",
+    "guest": "Linda Popky",
+    "srt_file": "linda_popky_subtitle.srt",
+    "drive_id": "1AXCFDW58KyfZCPui0HUKTaYk2GH0xkk8",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/linda_popky_subtitle.txt"
+  },
+  {
+    "episode": "160",
+    "guest": "Sandra Clark",
+    "srt_file": "sandra_clark_subtitle_final.srt",
+    "drive_id": "1BwS86VALVYWevXoCjytelPOrvjAi6qey",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sandra_clark_subtitle_final.txt"
+  },
+  {
+    "episode": "190",
+    "guest": "Steve Krawczyk",
+    "srt_file": "steve_krawczyk_subtitle_final.srt",
+    "drive_id": "1AwklD-WeKLdxZy1Ooom1R3PIqIprdcTe",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/steve_krawczyk_subtitle_final.txt"
+  },
+  {
+    "episode": "147",
+    "guest": "Stav Erez",
+    "srt_file": "stav_erez_subtitles.srt",
+    "drive_id": "1lcJjcUEO3EwtWXbOMPhbFhMN6M8l8LF1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/stav_erez_subtitles.txt"
+  },
+  {
+    "episode": "160",
+    "guest": "Sandra Clark",
+    "srt_file": "sandra_clark_subtitle.srt",
+    "drive_id": "1t2t8bMrBUFrb50058WydoEQ8XVS0TAgZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sandra_clark_subtitle.txt"
+  },
+  {
+    "episode": "151",
+    "guest": "Noa Gastfreund",
+    "srt_file": "noa_gastfreund_subtitle_final.srt",
+    "drive_id": "1BIHUu8PTaTPTi10yYIuYzMye8_zjZSiM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noa_gastfreund_subtitle_final.txt"
+  },
+  {
+    "episode": "156",
+    "guest": "Michael Blumental",
+    "srt_file": "michael_blumental_subtitle_final.srt",
+    "drive_id": "1whW_v1QtS57wjq2FtQgk6jQBhYPoSw4O",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michael_blumental_subtitle_final.txt"
+  },
+  {
+    "episode": "190",
+    "guest": "Steve Krawczyk",
+    "srt_file": "steve_krawczyk_subtitle.srt",
+    "drive_id": "1rOHfTR1o4rrpASnipmfl_bmRuG-ozoMZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/steve_krawczyk_subtitle.txt"
+  },
+  {
+    "episode": "151",
+    "guest": "Noa Gastfreund",
+    "srt_file": "noa_gastfreund_subtitle.srt",
+    "drive_id": "1hreHKJlfBjHF6XToU3WYgXJOwPPZ5nln",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/noa_gastfreund_subtitle.txt"
+  },
+  {
+    "episode": "140",
+    "guest": "Amy Vetter",
+    "srt_file": "amy_vetter_subtitles_final.srt",
+    "drive_id": "1-JRRNZNAw05AOc9m2djeiwNlD5LweAMA",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_vetter_subtitles_final.txt"
+  },
+  {
+    "episode": "137",
+    "guest": "Orit Balicer Tsur",
+    "srt_file": "orit_balicer_tsur_subtitles_final.srt",
+    "drive_id": "1UdTTN04ZbhYXA4mSNaxdXcosOzShsKL7",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/orit_balicer_tsur_subtitles_final.txt"
+  },
+  {
+    "episode": "148",
+    "guest": "Shiran Elizur",
+    "srt_file": "shiran_elizur_subtitles_final.srt",
+    "drive_id": "1BjYgRP3IxiWeD9lcoilC_40RMgjAng-j",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_elizur_subtitles_final.txt"
+  },
+  {
+    "episode": "148",
+    "guest": "Shiran Elizur",
+    "srt_file": "shiran_elizur_subtitle.srt",
+    "drive_id": "1qEJuYW-ow_hmVAc8jlpeNruehXGnnZhp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_elizur_subtitle.txt"
+  },
+  {
+    "episode": "156",
+    "guest": "Michael Blumental",
+    "srt_file": "michael_blumental_subtitle.srt",
+    "drive_id": "1_5AD4H6NwGyqi9jOY1yOWVC2mp-rqFJB",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michael_blumental_subtitle.txt"
+  },
+  {
+    "episode": "131",
+    "guest": "Shiran Melamdovsky Somech",
+    "srt_file": "shiran_melamdovsky_somech_subtitles_final.srt",
+    "drive_id": "1ESPmtcELHRVz5-5m7N1rCaeGqO81KK0S",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_melamdovsky_somech_subtitles_final.txt"
+  },
+  {
+    "episode": "129",
+    "guest": "Hadas Bergman",
+    "srt_file": "hadas_bergman_subtitles_final.srt",
+    "drive_id": "1N3ftvhGhCE6LeE8FpC1hGBuYydgl0TJg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/hadas_bergman_subtitles_final.txt"
+  },
+  {
+    "episode": "137",
+    "guest": "Orit Balicer Tsur",
+    "srt_file": "orit_balicer_tsur_subtitles.srt",
+    "drive_id": "1OWr_2FKZheQekDyD0wCsJH-POdz4zLAQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/orit_balicer_tsur_subtitles.txt"
+  },
+  {
+    "episode": "140",
+    "guest": "Amy Vetter",
+    "srt_file": "amy_vetter_subtitles.srt",
+    "drive_id": "1cZZpyWEeHQIR6IpBeGfWf2TA3RcuMB2L",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/amy_vetter_subtitles.txt"
+  },
+  {
+    "episode": "130",
+    "guest": "Tal Barnoach",
+    "srt_file": "tal_barnoach_subtitles_final.srt",
+    "drive_id": "1jWVh30gLpxXCbaahyzs8b6_8Y8aTovAj",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_barnoach_subtitles_final.txt"
+  },
+  {
+    "episode": "132",
+    "guest": "Fatima Zaidi",
+    "srt_file": "fatima_zeidi_subtitles.srt",
+    "drive_id": "1WTiTy9S59o0lej3xjt00jGu78yWF8MXb",
+    "score": 0.6470588235294118,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/fatima_zeidi_subtitles.txt"
+  },
+  {
+    "episode": "124",
+    "guest": "Shachar Peled",
+    "srt_file": "shachar_peled_subtitles_final.srt",
+    "drive_id": "1Tk8Yh-RBgc5vjqvsYcLxuJVqWnPPXp5H",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shachar_peled_subtitles_final.txt"
+  },
+  {
+    "episode": "188",
+    "guest": "Russell Rothstein",
+    "srt_file": "russell_rothstein_subtitles_final.srt",
+    "drive_id": "1PUKf4Js-zSvIWE98b7VYDxbPjduglkhK",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/russell_rothstein_subtitles_final.txt"
+  },
+  {
+    "episode": "187",
+    "guest": "Nikos Psaltopoulos",
+    "srt_file": "nikos_psaltopoulos_subtitles_final.srt",
+    "drive_id": "1q-Ht2vp82gh0ZdfV9TskdGj6ttZp7Elb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nikos_psaltopoulos_subtitles_final.txt"
+  },
+  {
+    "episode": "126",
+    "guest": "Meagen Eisenberg",
+    "srt_file": "meagan_eisenberg_subtitles_final.srt",
+    "drive_id": "1bCtntuj-bhEQdS7zrorwiC1e7MoSeXia",
+    "score": 0.625,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/meagan_eisenberg_subtitles_final.txt"
+  },
+  {
+    "episode": "122",
+    "guest": "Liraz Margalit",
+    "srt_file": "liraz_margalit_subtitles_final.srt",
+    "drive_id": "1r1JTNB6xB8k_6oVRAM6iIyJeC2N5NhO3",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/liraz_margalit_subtitles_final.txt"
+  },
+  {
+    "episode": "130",
+    "guest": "Tal Barnoach",
+    "srt_file": "tal_barnoach_subtitles.srt",
+    "drive_id": "10NZM9KNmOvnj5iDc6bGYk9ArwKqzv-ES",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_barnoach_subtitles.txt"
+  },
+  {
+    "episode": "124",
+    "guest": "Shachar Peled",
+    "srt_file": "shachar_peled_subtitles.srt",
+    "drive_id": "1Uv7vWG31-VtphMwRVZm2Xv2Tojqs-vxS",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shachar_peled_subtitles.txt"
+  },
+  {
+    "episode": "185",
+    "guest": "Raz Abramov",
+    "srt_file": "raz_abramov_subtitles_final.srt",
+    "drive_id": "15IFKddXRKs-TDZa5d5HrEnldn0NUsEd0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/raz_abramov_subtitles_final.txt"
+  },
+  {
+    "episode": "183",
+    "guest": "Peter Wexler",
+    "srt_file": "peter_wexler_subtitles_final.srt",
+    "drive_id": "13rcp-IOOUhfnI1gPR-YxrlKBhhGKgk3g",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/peter_wexler_subtitles_final.txt"
+  },
+  {
+    "episode": "182",
+    "guest": "Dennis Cagan",
+    "srt_file": "dennis_cagan_subtitles_final.srt",
+    "drive_id": "1cRVMFU1bpgk21tgsG_jdOTuxOqRbiMin",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dennis_cagan_subtitles_final.txt"
+  },
+  {
+    "episode": "131",
+    "guest": "Shiran Melamdovsky Somech",
+    "srt_file": "shiran_melamdovsky_somech_subtitles.srt",
+    "drive_id": "1THD0ncYykK0Qe1V3j5gP0t9FwuAp2i2Z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_melamdovsky_somech_subtitles.txt"
+  },
+  {
+    "episode": "126",
+    "guest": "Meagen Eisenberg",
+    "srt_file": "meagan_eisenberg_subtitles.srt",
+    "drive_id": "12Rd7neV5zbEONqRoqZxjV_wKncoUwNrq",
+    "score": 0.7142857142857143,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/meagan_eisenberg_subtitles.txt"
+  },
+  {
+    "episode": "180",
+    "guest": "Ofer Wellisch",
+    "srt_file": "ofer_wellisch_subtitles_final.srt",
+    "drive_id": "1ItDa19VBX_8OXCnNvjSSSblVLV_llaXJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ofer_wellisch_subtitles_final.txt"
+  },
+  {
+    "episode": "175",
+    "guest": "Guy Miasnik",
+    "srt_file": "guy_miasnik_subtitles_final.srt",
+    "drive_id": "1_7wINW6fNwMxepxbd7CLOr0UR8n0tySi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/guy_miasnik_subtitles_final.txt"
+  },
+  {
+    "episode": "122",
+    "guest": "Liraz Margalit",
+    "srt_file": "liraz_margalit_subtitles.srt",
+    "drive_id": "1isOa6zc-nRe9UYqUgYTmja2CWnhOULGj",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/liraz_margalit_subtitles.txt"
+  },
+  {
+    "episode": "129",
+    "guest": "Hadas Bergman",
+    "srt_file": "hadas_bergman_subtitles.srt",
+    "drive_id": "1NzNJizi7tsUHmrX5x1nepOgsEDr11POT",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/hadas_bergman_subtitles.txt"
+  },
+  {
+    "episode": "173",
+    "guest": "Dadi Perlmuter",
+    "srt_file": "dadi_perlmuter_subtitles_final.srt",
+    "drive_id": "1wiWdHNDcp5KLBpYHrBSOFgd6xXww61ky",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dadi_perlmuter_subtitles_final.txt"
+  },
+  {
+    "episode": "116",
+    "guest": "Shiran Yaroslavsky",
+    "srt_file": "shiran_yaroslavsky_subtitles_final.srt",
+    "drive_id": "1G6gDsAtwBHPpNyqlzqi32KR17AEnFaR1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_yaroslavsky_subtitles_final.txt"
+  },
+  {
+    "episode": "119",
+    "guest": "Viki Slavin",
+    "srt_file": "viki_slavin_subtitles_final.srt",
+    "drive_id": "1Ld6iLte_9_nRNzZnm6TVtU-b9Own602M",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/viki_slavin_subtitles_final.txt"
+  },
+  {
+    "episode": "115",
+    "guest": "Tal Tochner",
+    "srt_file": "tal_tochner_subtitles_final.srt",
+    "drive_id": "12IA_2cxMeFbhhO0ImsIgsd22gq4SHz7W",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_tochner_subtitles_final.txt"
+  },
+  {
+    "episode": "188",
+    "guest": "Russell Rothstein",
+    "srt_file": "russell_rothstein_subtitles.srt",
+    "drive_id": "1g53_EOl-JSpTtrY29kuuMAL7JU9i955i",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/russell_rothstein_subtitles.txt"
+  },
+  {
+    "episode": "185",
+    "guest": "Raz Abramov",
+    "srt_file": "raz_abramov_subtitles.srt",
+    "drive_id": "1CWQPYzn1WPtEUJO6o8SytPMyjx8j3zxF",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/raz_abramov_subtitles.txt"
+  },
+  {
+    "episode": "173",
+    "guest": "Dadi Perlmuter",
+    "srt_file": "dadi perlmuter_subtitles.srt",
+    "drive_id": "1heuUWdGcuESGeSgDiPEW1bdlHkmYm2v6",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dadi perlmuter_subtitles.txt"
+  },
+  {
+    "episode": "183",
+    "guest": "Peter Wexler",
+    "srt_file": "peter_wexler_subtitles.srt",
+    "drive_id": "1djeIio3CuhM5WC_fGRHZlcrv86bkoODM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/peter_wexler_subtitles.txt"
+  },
+  {
+    "episode": "175",
+    "guest": "Guy Miasnik",
+    "srt_file": "guy_miasnik_subtitles.srt",
+    "drive_id": "16AQmSQbI1kgTtfGhp7IW8RHCf798m11K",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/guy_miasnik_subtitles.txt"
+  },
+  {
+    "episode": "187",
+    "guest": "Nikos Psaltopoulos",
+    "srt_file": "nikos_psaltopoulos_subtitles.srt",
+    "drive_id": "1Ifmu4A8JmxbnwfRlxS7TkaY2JR-fxT3K",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nikos_psaltopoulos_subtitles.txt"
+  },
+  {
+    "episode": "110",
+    "guest": "Adi Levanon Chazan",
+    "srt_file": "adi_levanon_chazan_subtitles_final.srt",
+    "drive_id": "1-ynfyzO6fMYlf-diFgy0wgS9tmcl3mWq",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/adi_levanon_chazan_subtitles_final.txt"
+  },
+  {
+    "episode": "119",
+    "guest": "Viki Slavin",
+    "srt_file": "viki_slavin_subtitles.srt",
+    "drive_id": "1pPYHZhlEATzTXnsBe8lCUAps6Q3Csucp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/viki_slavin_subtitles.txt"
+  },
+  {
+    "episode": "116",
+    "guest": "Shiran Yaroslavsky",
+    "srt_file": "shiran_yaroslavsky_subtitles.srt",
+    "drive_id": "1AnGQz3S8rEBvIT2KOS81MKXDm2EuV9ER",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shiran_yaroslavsky_subtitles.txt"
+  },
+  {
+    "episode": "100",
+    "guest": "Laura Lauder",
+    "srt_file": "laura_lauder_subtitles_final.srt",
+    "drive_id": "1WLCa05CmEzn0-UQvR5XD75QgCz7jNpKa",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/laura_lauder_subtitles_final.txt"
+  },
+  {
+    "episode": "115",
+    "guest": "Tal Tochner",
+    "srt_file": "tal_tochner_subtitles.srt",
+    "drive_id": "12Pjpo-wIrbGQX0V7h18nM1zafrtwmnlN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_tochner_subtitles.txt"
+  },
+  {
+    "episode": "100",
+    "guest": "Laura Lauder",
+    "srt_file": "laura_lauder_subtitles.srt",
+    "drive_id": "1uuCM1BrlPPniJdGWU_4B7UnvFSfitPzd",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/laura_lauder_subtitles.txt"
+  },
+  {
+    "episode": "98",
+    "guest": "Miri Polachek",
+    "srt_file": "miri_polachek_subtitles_final.srt",
+    "drive_id": "1nHDL8prw6NR9F8p_EfWys25nlTo5XsHa",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/miri_polachek_subtitles_final.txt"
+  },
+  {
+    "episode": "167",
+    "guest": "Ilan Frank",
+    "srt_file": "ilan_frank_subtitles_final.srt",
+    "drive_id": "1QrRqZLHdrV7nYXzVM7YZeT2oGMKHI4Rg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ilan_frank_subtitles_final.txt"
+  },
+  {
+    "episode": "178",
+    "guest": "Andy Cohen",
+    "srt_file": "andy_cohen_subtitles_final.srt",
+    "drive_id": "19qrnOS1vvCbBzXGGAxA4ssvDjrVUMivp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/andy_cohen_subtitles_final.txt"
+  },
+  {
+    "episode": "108",
+    "guest": "Rachel Efrat",
+    "srt_file": "rachel efrat_subtitles_final.srt",
+    "drive_id": "160sgFTMpKwuCdL15VSr1HsZ5m4SUXvtr",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel efrat_subtitles_final.txt"
+  },
+  {
+    "episode": "176",
+    "guest": "Leor Stern",
+    "srt_file": "leor_stern_subtitles_final.srt",
+    "drive_id": "1Hf92oDMfugIb2rbu19FilB1jN0leLorD",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/leor_stern_subtitles_final.txt"
+  },
+  {
+    "episode": "180",
+    "guest": "Ofer Wellisch",
+    "srt_file": "ofer_wellisch_subtitles.srt",
+    "drive_id": "1pBF0kcazO4vO_k4U5o9XkDhPf5OJMuYR",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ofer_wellisch_subtitles.txt"
+  },
+  {
+    "episode": "182",
+    "guest": "Dennis Cagan",
+    "srt_file": "dennis_cagan_subtitles.srt",
+    "drive_id": "1tUpT72Es7Za4targRiq4606eo4kUOAzX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dennis_cagan_subtitles.txt"
+  },
+  {
+    "episode": "171",
+    "guest": "Jordan Blashek",
+    "srt_file": "jordan_blashek_subtitles_final.srt",
+    "drive_id": "1Ylid8qxP5fK6CGv73IyR7_HDAdcaKkNz",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jordan_blashek_subtitles_final.txt"
+  },
+  {
+    "episode": "169",
+    "guest": "Alon Halevy",
+    "srt_file": "alon_halevy_subtitles_final.srt",
+    "drive_id": "1GCUzcXD3ti2ShtGVLquX7LOMkow7DKSC",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_halevy_subtitles_final.txt"
+  },
+  {
+    "episode": "167",
+    "guest": "Ilan Frank",
+    "srt_file": "ilan_frank_subtitles.srt",
+    "drive_id": "1Swqktg6g5auMIwH3tYsugQFWTpq6Xhy6",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ilan_frank_subtitles.txt"
+  },
+  {
+    "episode": "178",
+    "guest": "Andy Cohen",
+    "srt_file": "andy_cohen_subtitles.srt",
+    "drive_id": "1OWiIJI7w3w4NXpPspOCS6Uw9-NWUf00q",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/andy_cohen_subtitles.txt"
+  },
+  {
+    "episode": "166",
+    "guest": "Alon Girmonsky",
+    "srt_file": "alon_girmonsky_subtitles_final.srt",
+    "drive_id": "1Sg8nf-FcRuC3rMNzN891CKMFjlwJzRkl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_girmonsky_subtitles_final.txt"
+  },
+  {
+    "episode": "110",
+    "guest": "Adi Levanon Chazan",
+    "srt_file": "adi_levanon_chazan_subtitles.srt",
+    "drive_id": "1v50Z1GhnaiDfMTDw4HHwoHyUT8vpYHkc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/adi_levanon_chazan_subtitles.txt"
+  },
+  {
+    "episode": "98",
+    "guest": "Miri Polachek",
+    "srt_file": "miri_polachek_subtitles.srt",
+    "drive_id": "1vPATmNYeIid60n68gVPp8pBoEVzQnIeH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/miri_polachek_subtitles.txt"
+  },
+  {
+    "episode": "157",
+    "guest": "Lior Aviram",
+    "srt_file": "lior_aviram_subtitles_final.srt",
+    "drive_id": "185ntepdbTUndp75axf5twm-F4Ix9XCvs",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lior_aviram_subtitles_final.txt"
+  },
+  {
+    "episode": "139",
+    "guest": "Rom Eliaz",
+    "srt_file": "rom_eliaz_subtitles_final.srt",
+    "drive_id": "16Iyb_6IDQKJgFmOe57jTy8XEEqI_YtAY",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rom_eliaz_subtitles_final.txt"
+  },
+  {
+    "episode": "108",
+    "guest": "Rachel Efrat",
+    "srt_file": "rachel efrat_subtitles.srt",
+    "drive_id": "1lrAXHevFMB_ISvmCuKsxGKUyjB0xvCba",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rachel efrat_subtitles.txt"
+  },
+  {
+    "episode": "91",
+    "guest": "Julie Zelenski",
+    "srt_file": "julie zelinski_subtitles.srt",
+    "drive_id": "1b_-rmgGnNMeAfM37vgihBcZenMXnNNBO",
+    "score": 0.6842105263157895,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/julie zelinski_subtitles.txt"
+  },
+  {
+    "episode": "91",
+    "guest": "Julie Zelenski",
+    "srt_file": "julie zelenski_subtitles_final.srt",
+    "drive_id": "11GrJNijUF3RPBLa8ChPxzM6nd9ANHlwQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/julie zelenski_subtitles_final.txt"
+  },
+  {
+    "episode": "105",
+    "guest": "Mor Eini",
+    "srt_file": "mor_eini_subtitles_final.srt",
+    "drive_id": "1VpOmZtXtfRxpxJQpzxMciqwTp6MQZQSR",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mor_eini_subtitles_final.txt"
+  },
+  {
+    "episode": "104",
+    "guest": "Ariel Tseitlin",
+    "srt_file": "ariel_tseitlin_subtitles_final.srt",
+    "drive_id": "1cgPMRI6Oa0I6kFGPsvjO_x9N9AeYrYUH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ariel_tseitlin_subtitles_final.txt"
+  },
+  {
+    "episode": "102",
+    "guest": "Ami Mac",
+    "srt_file": "ami_mac_subtitles_final.srt",
+    "drive_id": "1WqqIu7oPsUkwYxqWD4qf0u1UvUwykj3d",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ami_mac_subtitles_final.txt"
+  },
+  {
+    "episode": "171",
+    "guest": "Jordan Blashek",
+    "srt_file": "jordan_blashek_subtitles.srt",
+    "drive_id": "1zOBmNXMFM00ccKFnthS912njyocjhy91",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jordan_blashek_subtitles.txt"
+  },
+  {
+    "episode": "176",
+    "guest": "Leor Stern",
+    "srt_file": "leor_stern_subtitles.srt",
+    "drive_id": "1cr3uICRnpUo2twfvNl8CNb6F62euxwUI",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/leor_stern_subtitles.txt"
+  },
+  {
+    "episode": "139",
+    "guest": "Rom Eliaz",
+    "srt_file": "rom_eliaz_subtitles.srt",
+    "drive_id": "1dR2i3Ue6QvjRott-DqAlzH8wcyW35UPy",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rom_eliaz_subtitles.txt"
+  },
+  {
+    "episode": "162",
+    "guest": "Alon Ozer",
+    "srt_file": "alon_ozer_subtitles_final.srt",
+    "drive_id": "1kKqWAwOJdJ97nQKBkUtwXrJlgSsuWGcb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_ozer_subtitles_final.txt"
+  },
+  {
+    "episode": "161",
+    "guest": "Lou Adler",
+    "srt_file": "lou_adler_subtitles_final.srt",
+    "drive_id": "1PZInIa4yjI7mbkBYNXtQOUhrptBmQ3E2",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lou_adler_subtitles_final.txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tomer_cohen_subtitles_final.srt",
+    "drive_id": "1nvzpFZaNftZpUGlpFl6-j_yApba-pDJy",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tomer_cohen_subtitles_final.txt"
+  },
+  {
+    "episode": "87",
+    "guest": "Shuli Gilutz",
+    "srt_file": "shuli_gilutz_subtitles_final.srt",
+    "drive_id": "1nQFs5FPxZ4JSK25M7ytt7UEwf_bkHYso",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shuli_gilutz_subtitles_final.txt"
+  },
+  {
+    "episode": "157",
+    "guest": "Lior Aviram",
+    "srt_file": "lior_aviram_subtitles.srt",
+    "drive_id": "1lh-9JZPXxwJiwHbH_K57_IkPiNgnzMQv",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lior_aviram_subtitles.txt"
+  },
+  {
+    "episode": "169",
+    "guest": "Alon Halevy",
+    "srt_file": "alon_halevy_subtitles.srt",
+    "drive_id": "1b-rNcqod0CLQyzy4j2CJqqzfQAp5R2oZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_halevy_subtitles.txt"
+  },
+  {
+    "episode": "146",
+    "guest": "Jacob Shulman",
+    "srt_file": "jacob_shulman_subtitles_final.srt",
+    "drive_id": "1kfgNZj51a1pnbhP_Tf4uDRsZD6DDmziG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jacob_shulman_subtitles_final.txt"
+  },
+  {
+    "episode": "145",
+    "guest": "Benny Czarny",
+    "srt_file": "benny_czarny_subtitles_final.srt",
+    "drive_id": "1TS0N-Eo3oEqdBlgfWTyvroROBV7WyxRw",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/benny_czarny_subtitles_final.txt"
+  },
+  {
+    "episode": "142",
+    "guest": "Sandor Valner",
+    "srt_file": "sandor_valner_subtitles_final.srt",
+    "drive_id": "1jYBjsaBEbCO0p-m8tkrTLauc3gF0FKPq",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sandor_valner_subtitles_final.txt"
+  },
+  {
+    "episode": "104",
+    "guest": "Ariel Tseitlin",
+    "srt_file": "ariel_tseitlin_subtitles.srt",
+    "drive_id": "1Prx5HByopSUkld0A2EUXntiMF2mBy397",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ariel_tseitlin_subtitles.txt"
+  },
+  {
+    "episode": "166",
+    "guest": "Alon Girmonsky",
+    "srt_file": "alon_girmonsky_subtitles.srt",
+    "drive_id": "1voNrOOBdc9vHQGwULJkQGs53cyLxGtvy",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_girmonsky_subtitles.txt"
+  },
+  {
+    "episode": "141",
+    "guest": "Itai Sadan",
+    "srt_file": "itai_sadan_subtitles_final.srt",
+    "drive_id": "1tKCfAEVbdn03vYNLwg-AiFFIAW73eyTM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itai_sadan_subtitles_final.txt"
+  },
+  {
+    "episode": "105",
+    "guest": "Mor Eini",
+    "srt_file": "mor_eini_subtitles.srt",
+    "drive_id": "1ifpfCZlP9RpmOJ9_GIImC1u20wPlnh5y",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mor_eini_subtitles.txt"
+  },
+  {
+    "episode": "102",
+    "guest": "Ami Mac",
+    "srt_file": "ami_mac_subtitles.srt",
+    "drive_id": "1JLnpZhdB2TWAwqKZe0EcCoMZy78dB8gJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ami_mac_subtitles.txt"
+  },
+  {
+    "episode": "145",
+    "guest": "Benny Czarny",
+    "srt_file": "benny_czarny_subtitles.srt",
+    "drive_id": "1sbNcPoi35beB0tb7dLDKw3sAnk3iPzCf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/benny_czarny_subtitles.txt"
+  },
+  {
+    "episode": "141",
+    "guest": "Itai Sadan",
+    "srt_file": "itai_sadan_subtitles.srt",
+    "drive_id": "1bbw7wx0U5DD3zfZj23mrXtC4Xbi74Cnp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itai_sadan_subtitles.txt"
+  },
+  {
+    "episode": "146",
+    "guest": "Jacob Shulman",
+    "srt_file": "jacob_shulman_subtitles.srt",
+    "drive_id": "1ChOUAr08S391zmZYBrK62_AXAkpG88rg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jacob_shulman_subtitles.txt"
+  },
+  {
+    "episode": "159",
+    "guest": "Ron Diamant",
+    "srt_file": "ron_diamant_subtitles_final.srt",
+    "drive_id": "1VrddMoQ4fV216JMqZNT0po41pW-BUGct",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ron_diamant_subtitles_final.txt"
+  },
+  {
+    "episode": "154",
+    "guest": "Sergio Fogel",
+    "srt_file": "sergio_fogel_subtitles_final.srt",
+    "drive_id": "1zpabl5jtjYFD9LYw4F5hPKxdYuCpsZPZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sergio_fogel_subtitles_final.txt"
+  },
+  {
+    "episode": "142",
+    "guest": "Sandor Valner",
+    "srt_file": "sandor_valner_subtitles.srt",
+    "drive_id": "1BOfbChSPZLYNYbA-tbLDuGZdhMI9Ap42",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sandor_valner_subtitles.txt"
+  },
+  {
+    "episode": "152",
+    "guest": "Gideon Intrater",
+    "srt_file": "gideon_intrater_subtitles_final.srt",
+    "drive_id": "1Ub7_nSqWi1LPR_o1HNgaYH32Ucogl679",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gideon_intrater_subtitles_final.txt"
+  },
+  {
+    "episode": "150",
+    "guest": "Josh Becker",
+    "srt_file": "josh_becker_subtitles_final.srt",
+    "drive_id": "1cyX-kQRuCE5My0KafJckUbBUgcUPnVXD",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/josh_becker_subtitles_final.txt"
+  },
+  {
+    "episode": "149",
+    "guest": "Rabbi Joey Felsen",
+    "srt_file": "rabbi_joey_felsen_subtitles_final.srt",
+    "drive_id": "1Y3jj6ypIsF1GGUyF4Tp4WKW1Feb-kTUQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rabbi_joey_felsen_subtitles_final.txt"
+  },
+  {
+    "episode": "138",
+    "guest": "Yaron Yaniv",
+    "srt_file": "yaron_yaniv_subtitles_final.srt",
+    "drive_id": "1juphUUpRakXogX0kOqZvi7HwMyT92p4a",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yaron_yaniv_subtitles_final.txt"
+  },
+  {
+    "episode": "136",
+    "guest": "Jake Flomenberg",
+    "srt_file": "jake_flomenberg_subtitles_final.srt",
+    "drive_id": "1jWtqz-gtP18osM-vV3NpTqdPpGzpMqdc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jake_flomenberg_subtitles_final.txt"
+  },
+  {
+    "episode": "135",
+    "guest": "Ron Schilling",
+    "srt_file": "ron_schilling_subtitles_final.srt",
+    "drive_id": "1A9gFZWDBJ0bC7idw_JrARQS-1Nw9JZxr",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ron_schilling_subtitles_final.txt"
+  },
+  {
+    "episode": "159",
+    "guest": "Ron Diamant",
+    "srt_file": "ron_diamant_subtitles.srt",
+    "drive_id": "1WzZTlaCFZspOx9F1OrTk-3x601po_cyH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ron_diamant_subtitles.txt"
+  },
+  {
+    "episode": "161",
+    "guest": "Lou Adler",
+    "srt_file": "lou_adler_subtitles.srt",
+    "drive_id": "14dYi0X4AjNpfZQ58njNmElm106-0U6rQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lou_adler_subtitles.txt"
+  },
+  {
+    "episode": "162",
+    "guest": "Alon Ozer",
+    "srt_file": "alon_ozer_subtitles.srt",
+    "drive_id": "1cYwzbxn23Liz0HlsXBQqveYcP8QHKUl-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/alon_ozer_subtitles.txt"
+  },
+  {
+    "episode": "127",
+    "guest": "Gadi Bashvitz",
+    "srt_file": "gadi_bashvitz_subtitles_final.srt",
+    "drive_id": "1NsRabXg4KzxN6q-T7BlLaq9nO7ENTS-6",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gadi_bashvitz_subtitles_final.txt"
+  },
+  {
+    "episode": "125",
+    "guest": "David Tennenhouse",
+    "srt_file": "david_tennenhouse_subtitles_final.srt",
+    "drive_id": "1IddCyzQokfe41wYeuhe0ZS36IJ1RjVub",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_tennenhouse_subtitles_final.txt"
+  },
+  {
+    "episode": "95",
+    "guest": "Taly Dunevich",
+    "srt_file": "taly_dunevich_subtitles_final.srt",
+    "drive_id": "1cWsgEyZAxlH9LV1-y5z6KwPQ5lj7WESc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/taly_dunevich_subtitles_final.txt"
+  },
+  {
+    "episode": "95",
+    "guest": "Taly Dunevich",
+    "srt_file": "taly_dunevich_subtitles.srt",
+    "drive_id": "1X3ewyPIaYXd7GzID0agucML3i1Qgtvgc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/taly_dunevich_subtitles.txt"
+  },
+  {
+    "episode": "135",
+    "guest": "Ron Schilling",
+    "srt_file": "ron_schilling_subtitles.srt",
+    "drive_id": "15A5760lSkOEl-tJ5Ftp9o_WdRBRiP2JF",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/ron_schilling_subtitles.txt"
+  },
+  {
+    "episode": "136",
+    "guest": "Jake Flomenberg",
+    "srt_file": "jake_flomenberg_subtitles.srt",
+    "drive_id": "11Xq7bKG6nhZGTpc00oU8TEafOYL9hNfo",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jake_flomenberg_subtitles.txt"
+  },
+  {
+    "episode": "127",
+    "guest": "Gadi Bashvitz",
+    "srt_file": "gadi_bashvitz_subtitles.srt",
+    "drive_id": "1ahI_Rn7kVjWJSidL1n77535Y5IVCQK_k",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gadi_bashvitz_subtitles.txt"
+  },
+  {
+    "episode": "133",
+    "guest": "Zack Bodner",
+    "srt_file": "zack_bodner_subtitles_final.srt",
+    "drive_id": "1BHPZ8CtGKNaSneEoEGXu66ly_NiY3pW9",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/zack_bodner_subtitles_final.txt"
+  },
+  {
+    "episode": "118",
+    "guest": "Itamar Novick",
+    "srt_file": "itamar_novick_subtitles_final.srt",
+    "drive_id": "1SimeFw6qTH9wJAtt2THyS3bV5OO070Ow",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itamar_novick_subtitles_final.txt"
+  },
+  {
+    "episode": "118",
+    "guest": "Itamar Novick",
+    "srt_file": "itamar_novick_subtitles.srt",
+    "drive_id": "1tc9Y_hUB5kX1uFg51kdnYLBkvYLfbpcW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itamar_novick_subtitles.txt"
+  },
+  {
+    "episode": "125",
+    "guest": "David Tennenhouse",
+    "srt_file": "david_tennenhouse_subtitles.srt",
+    "drive_id": "17TaZWerVmCMgIdHpjjohC3Q0hsGOxZA1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_tennenhouse_subtitles.txt"
+  },
+  {
+    "episode": "443",
+    "guest": "Gal Oz",
+    "srt_file": "uli_gal_oz_subtitles_final.srt",
+    "drive_id": "1H6NWzUXL3MDK5gxsEqPv2IhD-tLA50T8",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/uli_gal_oz_subtitles_final.txt"
+  },
+  {
+    "episode": "154",
+    "guest": "Sergio Fogel",
+    "srt_file": "sergio_fogel_subtitles.srt",
+    "drive_id": "1AzWsHg7yOMp6Bbs-sA4UDEscZ8yXbSmn",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/sergio_fogel_subtitles.txt"
+  },
+  {
+    "episode": "152",
+    "guest": "Gideon Intrater",
+    "srt_file": "gideon_intrater_subtitles.srt",
+    "drive_id": "1FyPM_stzzRW8NNOQenRIfD58pqkUoqMl",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gideon_intrater_subtitles.txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tommy_barav_subtitles_final.srt",
+    "drive_id": "1LuVoeZ4YN3Te5EM4Jf1pjYBMd6KTZHYs",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tommy_barav_subtitles_final.txt"
+  },
+  {
+    "episode": "117",
+    "guest": "Jeff Hyman",
+    "srt_file": "jeff_hyman_subtitles_final.srt",
+    "drive_id": "1BLucvTt0wraW5g58489kD4c9cwrPDSMM",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jeff_hyman_subtitles_final.txt"
+  },
+  {
+    "episode": "114",
+    "guest": "Tal Brown",
+    "srt_file": "tal_brown_subtitles_final.srt",
+    "drive_id": "1Yp8Vea49R4AG2OVkSfDJZcPplhJOeLVQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_brown_subtitles_final.txt"
+  },
+  {
+    "episode": "113",
+    "guest": "Doron Reuveni",
+    "srt_file": "doron_reuveni_subtitles_final.srt",
+    "drive_id": "1dQq-XSl6xTJDBRHxM2-dHzcagseAM8l1",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/doron_reuveni_subtitles_final.txt"
+  },
+  {
+    "episode": "90",
+    "guest": "Isaac Applbaum",
+    "srt_file": "isaac_applbaum_subtitles_final.srt",
+    "drive_id": "1tBxJSbnrGQkdisKPzVs2luGE_awWgq7H",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/isaac_applbaum_subtitles_final.txt"
+  },
+  {
+    "episode": "83",
+    "guest": "Aaron Tartakovski",
+    "srt_file": "aaron_tartakovski_subtitles_final.srt",
+    "drive_id": "1EnHoA1lk7Jd8GjUW_0snl3cH9vhxIN8p",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/aaron_tartakovski_subtitles_final.txt"
+  },
+  {
+    "episode": "121",
+    "guest": "Jorge Myszne",
+    "srt_file": "jorge_myszne_subtitles_final.srt",
+    "drive_id": "19mV-pHXfCYOKScg4vv45h0XEidemaAVJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jorge_myszne_subtitles_final.txt"
+  },
+  {
+    "episode": "149",
+    "guest": "Rabbi Joey Felsen",
+    "srt_file": "rabbi_joey_felsen_subtitles.srt",
+    "drive_id": "1509ipePJXS4dzmO5hcix0Xb_AReuspy_",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/rabbi_joey_felsen_subtitles.txt"
+  },
+  {
+    "episode": "150",
+    "guest": "Josh Becker",
+    "srt_file": "josh_becker_subtitles.srt",
+    "drive_id": "1ZT-2D6XONsTFrEBwSU2oqNMHS8nQyUsQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/josh_becker_subtitles.txt"
+  },
+  {
+    "episode": "111",
+    "guest": "David Arfin",
+    "srt_file": "david_arfin_subtitles_final.srt",
+    "drive_id": "1rOTgZ7CsKcDec_nOfYytem5DTFv4n9Kb",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_arfin_subtitles_final.txt"
+  },
+  {
+    "episode": "109",
+    "guest": "Eran Sandhaus",
+    "srt_file": "eran_sandhaus_subtitles_final.srt",
+    "drive_id": "1lEQA_5VOlFbjqQD0A6iKEjeAs3-GSZtR",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eran_sandhaus_subtitles_final.txt"
+  },
+  {
+    "episode": "107",
+    "guest": "Jeff Epstein",
+    "srt_file": "jeff_epstein_subtitles_final.srt",
+    "drive_id": "1Zf2ce_rwYSjmPfQHiDcUPNyImGJ6xcn-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jeff_epstein_subtitles_final.txt"
+  },
+  {
+    "episode": "114",
+    "guest": "Tal Brown",
+    "srt_file": "tal_brown_subtitles.srt",
+    "drive_id": "1MR7ygcBK6cVUc0oa1k0NNUOKOf6c9SLn",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tal_brown_subtitles.txt"
+  },
+  {
+    "episode": "117",
+    "guest": "Jeff Hyman",
+    "srt_file": "jeff_hyman_subtitles.srt",
+    "drive_id": "1QNbYmfyLfSAdrmAV6fpHp1F60QaaVAwW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jeff_hyman_subtitles.txt"
+  },
+  {
+    "episode": "106",
+    "guest": "Mark Schwartz",
+    "srt_file": "mark_schwartz_subtitles_final.srt",
+    "drive_id": "1euTFvCj1NjXMs6WWm_EEEqRXoKJ8c94z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mark_schwartz_subtitles_final.txt"
+  },
+  {
+    "episode": "99",
+    "guest": "Shmuel Shottan",
+    "srt_file": "shmuel_shottan_subtitles_final.srt",
+    "drive_id": "1iuVLP14G_sj8PFbp2sz61xd8VXNGYjKP",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shmuel_shottan_subtitles_final.txt"
+  },
+  {
+    "episode": "133",
+    "guest": "Zack Bodner",
+    "srt_file": "zack_bodner_subtitles.srt",
+    "drive_id": "1FFRylt7eMqU63Qm2CRJcNBmmHkX4V-11",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/zack_bodner_subtitles.txt"
+  },
+  {
+    "episode": "128",
+    "guest": "Neil M Schloss",
+    "srt_file": "neil_schloss_subtitles.srt",
+    "drive_id": "13t7Wbkl-dJ8guIhrYy_8OPjmHsQT0ygR",
+    "score": 0.6666666666666666,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/neil_schloss_subtitles.txt"
+  },
+  {
+    "episode": "138",
+    "guest": "Yaron Yaniv",
+    "srt_file": "yaron_yaniv_subtitles.srt",
+    "drive_id": "1CKS4GyxnmJ2sVQJw-VPLSl0I3n-UbWLu",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yaron_yaniv_subtitles.txt"
+  },
+  {
+    "episode": "443",
+    "guest": "Gal Oz",
+    "srt_file": "uli_gal_oz_subtitles.srt",
+    "drive_id": "1-DQW4-yslivAu677ruaxtjtXVzGlUtCi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/uli_gal_oz_subtitles.txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tommy_barav_subtitles.srt",
+    "drive_id": "1b583iOzckeF-RgqqmET4FlZ8wXUF8oaB",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tommy_barav_subtitles.txt"
+  },
+  {
+    "episode": "90",
+    "guest": "Isaac Applbaum",
+    "srt_file": "isaac_applbaum_subtitles.srt",
+    "drive_id": "1TyYYjLDnkzeyXd9wDdlO0BVUWHFAvZ-c",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/isaac_applbaum_subtitles.txt"
+  },
+  {
+    "episode": "113",
+    "guest": "Doron Reuveni",
+    "srt_file": "doron_reuveni_subtitles.srt",
+    "drive_id": "1QGCDz9eWoUtzV5-jJ1ALVrYvmGtH2aDt",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/doron_reuveni_subtitles.txt"
+  },
+  {
+    "episode": "103",
+    "guest": "Raymond Stern",
+    "srt_file": "raymond_stern_subtitles_final.srt",
+    "drive_id": "1LfxCm8OfdwYa-PC2HYBXB9A6YD2j6__D",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/raymond_stern_subtitles_final.txt"
+  },
+  {
+    "episode": "111",
+    "guest": "David Arfin",
+    "srt_file": "david_arfin_subtitles.srt",
+    "drive_id": "151XSNrMuDr8qstRFKMBqy3lzyJkvgI_g",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_arfin_subtitles.txt"
+  },
+  {
+    "episode": "109",
+    "guest": "Eran Sandhaus",
+    "srt_file": "eran_sandhaus_subtitles.srt",
+    "drive_id": "1ND1rBL6eMfRaxXaBZ3hDiYG_w6wwd8gW",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eran_sandhaus_subtitles.txt"
+  },
+  {
+    "episode": "84",
+    "guest": "Michal Segalov",
+    "srt_file": "michal_segalov_subtitles_final.srt",
+    "drive_id": "1zf6bcLsTV-xRQgJsKPMbgDKNtmfwkj9j",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michal_segalov_subtitles_final.txt"
+  },
+  {
+    "episode": "106",
+    "guest": "Mark Schwartz",
+    "srt_file": "mark_schwartz_subtitles.srt",
+    "drive_id": "1HbjZNGF2aJlEzbGQnUQmCL8BrYm_LcOi",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mark_schwartz_subtitles.txt"
+  },
+  {
+    "episode": "107",
+    "guest": "Jeff Epstein",
+    "srt_file": "jeff_epstein_subtitles.srt",
+    "drive_id": "1LvvRjOPSMbl-fhj-PJQjLomxCgkOGi0z",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jeff_epstein_subtitles.txt"
+  },
+  {
+    "episode": "97",
+    "guest": "Lisandro Brill",
+    "srt_file": "lisandro_brill_subtitles_final.srt",
+    "drive_id": "1FzpyLf7QBKqoPVMoexdDrWj1JByk4mCQ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lisandro_brill_subtitles_final.txt"
+  },
+  {
+    "episode": "77",
+    "guest": "Nicole Priel",
+    "srt_file": "nicole_priel_subtitles_final.srt",
+    "drive_id": "1ivzTDPTPFcqB_GdLlab6Wwt_Ifs41XDG",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nicole_priel_subtitles_final.txt"
+  },
+  {
+    "episode": "93",
+    "guest": "David Demarest",
+    "srt_file": "david_demarest_subtitles_final.srt",
+    "drive_id": "1n9l1qlh01MKoXa_BvHz9BmfRePpmUamX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_demarest_subtitles_final.txt"
+  },
+  {
+    "episode": "121",
+    "guest": "Jorge Myszne",
+    "srt_file": "jorge_myszne_subtitles.srt",
+    "drive_id": "1X3zjhxIWUiv99h02OhMDaENGn_T8kITe",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/jorge_myszne_subtitles.txt"
+  },
+  {
+    "episode": "89",
+    "guest": "Irina Meyer",
+    "srt_file": "irina_meyer_subtitles_final.srt",
+    "drive_id": "1Jr_o3PL3H7JaJ7Eyf6mRKBSCrNXWQWLv",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/irina_meyer_subtitles_final.txt"
+  },
+  {
+    "episode": "961",
+    "guest": "Steven Gerbsman",
+    "srt_file": "steven_gerbsman_subtitles_final.srt",
+    "drive_id": "1j7j6MrMVayX6Sr-Fm7zRcqnMVvqoWYCN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/steven_gerbsman_subtitles_final.txt"
+  },
+  {
+    "episode": "961",
+    "guest": "Steven Gerbsman",
+    "srt_file": "steven_gerbsman_subtitles.srt",
+    "drive_id": "1V2wYc58zTqKRC5RzxtIxj3vfRbiVYIAo",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/steven_gerbsman_subtitles.txt"
+  },
+  {
+    "episode": "99",
+    "guest": "Shmuel Shottan",
+    "srt_file": "shmuel_shottan_subtitles.srt",
+    "drive_id": "1378rR83nxtDTPKeQechd0x-VDF4a7X11",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shmuel_shottan_subtitles.txt"
+  },
+  {
+    "episode": "103",
+    "guest": "Raymond Stern",
+    "srt_file": "raymond_stern_subtitles.srt",
+    "drive_id": "1HvjdE6ICcFLqClqUkU8VbFfIFbIwemIA",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/raymond_stern_subtitles.txt"
+  },
+  {
+    "episode": "82",
+    "guest": "Yael Shemer",
+    "srt_file": "yael_shemer_subtitles_final.srt",
+    "drive_id": "19z6OZy1Kc5x2T4T7ZaXZeWgZVL5xfbBu",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_shemer_subtitles_final.txt"
+  },
+  {
+    "episode": "79",
+    "guest": "David Tabachnikov",
+    "srt_file": "david_tabachnikov_subtitles_final.srt",
+    "drive_id": "1KU3UoGU5VWpmy34qMb6uEocUu0mZusr_",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_tabachnikov_subtitles_final.txt"
+  },
+  {
+    "episode": "84",
+    "guest": "Michal Segalov",
+    "srt_file": "michal_segalov_subtitles.srt",
+    "drive_id": "17hCAwAY-azpCbqNDV1_8HDsyqd3O3fq8",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/michal_segalov_subtitles.txt"
+  },
+  {
+    "episode": "97",
+    "guest": "Lisandro Brill",
+    "srt_file": "lisandro_brill_subtitles.srt",
+    "drive_id": "1jmQLXonVuW1ER2uyRK4gkEjm4QdOldpw",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/lisandro_brill_subtitles.txt"
+  },
+  {
+    "episode": "77",
+    "guest": "Nicole Priel",
+    "srt_file": "nicole_priel_subtitles.srt",
+    "drive_id": "1-J44KLcX1HTC7L5ezjwqRtx2QFVw4kz-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nicole_priel_subtitles.txt"
+  },
+  {
+    "episode": "93",
+    "guest": "David Demarest",
+    "srt_file": "david_demarest_subtitles.srt",
+    "drive_id": "1L7pnfFGrr1rdzUQnHfaCa1ZJDV18-Cii",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_demarest_subtitles.txt"
+  },
+  {
+    "episode": "87",
+    "guest": "Shuli Gilutz",
+    "srt_file": "shuli_gilutz_subtitles.srt",
+    "drive_id": "1VyiRwYmq6Dx804ZpBGiA_NCFQpYjeSjJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/shuli_gilutz_subtitles.txt"
+  },
+  {
+    "episode": "82",
+    "guest": "Yael Shemer",
+    "srt_file": "yael_shemer_subtitles.srt",
+    "drive_id": "1ZeRwmPc73QXq4dOwljzzJGolg3wTIubL",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yael_shemer_subtitles.txt"
+  },
+  {
+    "episode": "79",
+    "guest": "David Tabachnikov",
+    "srt_file": "david_tabachnikov_subtitles.srt",
+    "drive_id": "1P0xv34LoYk2q9PsHKDFH7vQ1MPzqkFNH",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_tabachnikov_subtitles.txt"
+  },
+  {
+    "episode": "81",
+    "guest": "Kobi Mahat",
+    "srt_file": "kobi_mahat_subtitles_final.srt",
+    "drive_id": "13MxbQ8gvKuL1i5Sxn0vTI1mO1JgJ2-Hv",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kobi_mahat_subtitles_final.txt"
+  },
+  {
+    "episode": "89",
+    "guest": "Irina Meyer",
+    "srt_file": "irina_meyer_subtitles.srt",
+    "drive_id": "1jBzA2dd9ZCBekqKVUXhFFJWdtYEL8gd0",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/irina_meyer_subtitles.txt"
+  },
+  {
+    "episode": "83",
+    "guest": "Aaron Tartakovski",
+    "srt_file": "aaron_tartakovski_subtitles.srt",
+    "drive_id": "169AOdSRK_Q7tQOO5gwhpC0rd8sXG6ejd",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/aaron_tartakovski_subtitles.txt"
+  },
+  {
+    "episode": "80",
+    "guest": "Mor Chen",
+    "srt_file": "mor_chen_subtitles_final.srt",
+    "drive_id": "16hz2g0kdO0fseAOr22b8m1TCDMKhih27",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mor_chen_subtitles_final.txt"
+  },
+  {
+    "episode": "78",
+    "guest": "Elia Gourgouris",
+    "srt_file": "elia_gourgouris_subtitles_final.srt",
+    "drive_id": "1ITNpjLpQq7xuAnQT2GB4ZGlhpSBlBoIp",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/elia_gourgouris_subtitles_final.txt"
+  },
+  {
+    "episode": "101",
+    "guest": "Doron Simon",
+    "srt_file": "doron_simon_subtitles_final.srt",
+    "drive_id": "1ifnoHBL14KPfxveMA6ds4ybHhTlXBsho",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/doron_simon_subtitles_final.txt"
+  },
+  {
+    "episode": "85",
+    "guest": "Nir Bar-Lev",
+    "srt_file": "nir_bar_lev_subtitles.srt",
+    "drive_id": "1UEQkwgprlrPImxkaMD12NUp9buW5-xrj",
+    "score": 0.625,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nir_bar_lev_subtitles.txt"
+  },
+  {
+    "episode": "80",
+    "guest": "Mor Chen",
+    "srt_file": "mor_chen_subtitles.srt",
+    "drive_id": "1keFu4ovdX7Ak-MTgNDw33qZFTN_CLUFr",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/mor_chen_subtitles.txt"
+  },
+  {
+    "episode": "81",
+    "guest": "Kobi Mahat",
+    "srt_file": "kobi_mahat_subtitles.srt",
+    "drive_id": "18C8sVuNpGmqd6cwod2gGaxEFb4rmInuJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/kobi_mahat_subtitles.txt"
+  },
+  {
+    "episode": "78",
+    "guest": "Elia Gourgouris",
+    "srt_file": "elia_gourgouris_subtitles.srt",
+    "drive_id": "1J692Aj1mqgl88xvJdfKnlAY-chqWS7Dd",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/elia_gourgouris_subtitles.txt"
+  },
+  {
+    "episode": "94",
+    "guest": "Cindy Padnos",
+    "srt_file": "cindy_padnos_subtitles_final.srt",
+    "drive_id": "1ppeK1reDjlag_eX1hWokFN1ZT_rqYimE",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/cindy_padnos_subtitles_final.txt"
+  },
+  {
+    "episode": "101",
+    "guest": "Doron Simon",
+    "srt_file": "doron_simon_subtitles.srt",
+    "drive_id": "17x5d7ROGhPuZ00iiNOIL8K4M5-x_ZHD9",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/doron_simon_subtitles.txt"
+  },
+  {
+    "episode": "94",
+    "guest": "Cindy Padnos",
+    "srt_file": "cindy_padnos_subtitles.srt",
+    "drive_id": "1WDnZjqVgaePAbV0SeNJ7S3ABTLqp7oyA",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/cindy_padnos_subtitles.txt"
+  },
+  {
+    "episode": "155",
+    "guest": "Bing Heckman",
+    "srt_file": "bing_heckman_subtitles_final.srt",
+    "drive_id": "1pl7x5o6gArDN6W_Ltn8gKcvHiqCS5bHo",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/bing_heckman_subtitles_final.txt"
+  },
+  {
+    "episode": "1051",
+    "guest": "TOM",
+    "srt_file": "tomer_cohen_subtitles.srt",
+    "drive_id": "1xYKT7EyNHx5zAbKZCOzXxkSVybE3CHfP",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/tomer_cohen_subtitles.txt"
+  },
+  {
+    "episode": "155",
+    "guest": "Bing Heckman",
+    "srt_file": "bing_heckman_subtitles.srt",
+    "drive_id": "1vlyY4opImwbifkbg-kGKXLQDRBg42n9-",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/bing_heckman_subtitles.txt"
+  },
+  {
+    "episode": "163",
+    "guest": "Edison Tse",
+    "srt_file": "edison_tse_subtitles_final.srt",
+    "drive_id": "1ZACO2KnXNmlJaaet_Z7hTgEicVwYx_JX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/edison_tse_subtitles_final.txt"
+  },
+  {
+    "episode": "163",
+    "guest": "Edison Tse",
+    "srt_file": "edison_tse_subtitles.srt",
+    "drive_id": "1LLNfIrWlaBQ4khXIsUl6yxozwlMZzzTc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/edison_tse_subtitles.txt"
+  },
+  {
+    "episode": "92",
+    "guest": "Gil Ben Artzy",
+    "srt_file": "gil_ben_artzy_subtitles_final.srt",
+    "drive_id": "19ssOiwRH4HxoQbB3kuiWumYFd1uYVrGc",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_ben_artzy_subtitles_final.txt"
+  },
+  {
+    "episode": "92",
+    "guest": "Gil Ben Artzy",
+    "srt_file": "gil_ben_artzy_subtitles.srt",
+    "drive_id": "1o7BLuMWZARrAFyVIyCcrJdKS3OVt8IJq",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_ben_artzy_subtitles.txt"
+  },
+  {
+    "episode": "75",
+    "guest": "Keren Herskovici",
+    "srt_file": "keren_hershkovichi_subtitles_final.srt",
+    "drive_id": "1Cxy2aBRdsxabqRyU2DWnP970ZJEWzCZl",
+    "score": 0.64,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/keren_hershkovichi_subtitles_final.txt"
+  },
+  {
+    "episode": "86",
+    "guest": "Assaf Wand",
+    "srt_file": "assaf_wand_subtitles_final.srt",
+    "drive_id": "19whgGYPGLlgOEdFVFYFUdJK2XWhQ7_kX",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/assaf_wand_subtitles_final.txt"
+  },
+  {
+    "episode": "75",
+    "guest": "Keren Herskovici",
+    "srt_file": "keren_hershkovichi_subtitles.srt",
+    "drive_id": "1FDM0uBzIfve-wvHgMz2CkL0l0Zq3LH42",
+    "score": 0.7272727272727273,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/keren_hershkovichi_subtitles.txt"
+  },
+  {
+    "episode": "86",
+    "guest": "Assaf Wand",
+    "srt_file": "assaf_wand_subtitles.srt",
+    "drive_id": "1cY5y1z_mQY81exwG5alAQTCWp5QqqPoU",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/assaf_wand_subtitles.txt"
+  },
+  {
+    "episode": "73",
+    "guest": "Anat Binur",
+    "srt_file": "anat_binur_subtitles_final.srt",
+    "drive_id": "1zK4cmajN1yl3GGRrHeYEhkV_LA40-_CB",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anat_binur_subtitles_final.txt"
+  },
+  {
+    "episode": "65",
+    "guest": "Anat Peled",
+    "srt_file": "anat_peled_subtitles_final.srt",
+    "drive_id": "1-GKkiHd-D7bmilXylGmVauN7wNj8yGYa",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anat_peled_subtitles_final.txt"
+  },
+  {
+    "episode": "65",
+    "guest": "Anat Peled",
+    "srt_file": "anat_peled_subtitles.srt",
+    "drive_id": "1oyU5KOJP3j-cA5azOpiIxywtDMeF41Y2",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anat_peled_subtitles.txt"
+  },
+  {
+    "episode": "73",
+    "guest": "Anat Binur",
+    "srt_file": "anat_binur_subtitles.srt",
+    "drive_id": "1GOQ053Cv4--PjKSFl0-wh7-qNpef8VpP",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/anat_binur_subtitles.txt"
+  },
+  {
+    "episode": "72",
+    "guest": "Daniel Tal Mor",
+    "srt_file": "daniel_tal_mor_subtitles_final.srt",
+    "drive_id": "1Y_thprSCOo_PohpFE92aZ-bVIMkuoWoC",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/daniel_tal_mor_subtitles_final.txt"
+  },
+  {
+    "episode": "71",
+    "guest": "Eli Bildner",
+    "srt_file": "eli_bildner_subtitles_final.srt",
+    "drive_id": "1OvSpG0XOKT1KfEgtNUeDmdVsETt1-u3F",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eli_bildner_subtitles_final.txt"
+  },
+  {
+    "episode": "71",
+    "guest": "Eli Bildner",
+    "srt_file": "eli_bildner_subtitles.srt",
+    "drive_id": "1p0GpNDUnXbQDJEGTm89i3UN4Nd3266lB",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/eli_bildner_subtitles.txt"
+  },
+  {
+    "episode": "72",
+    "guest": "Daniel Tal Mor",
+    "srt_file": "daniel_tal_mor_subtitles.srt",
+    "drive_id": "1iXNS_qHeZMO2dtaEUuM9FRukykAEXRRY",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/daniel_tal_mor_subtitles.txt"
+  },
+  {
+    "episode": "69",
+    "guest": "Liran Yaacobi",
+    "srt_file": "liran_yaacobi_subtitles_final.srt",
+    "drive_id": "1mO8uQiQgoXnyaZWL249mld2k9ussHgUf",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/liran_yaacobi_subtitles_final.txt"
+  },
+  {
+    "episode": "96",
+    "guest": "Gil Frostig",
+    "srt_file": "gil_frostig_subtitles_final.srt",
+    "drive_id": "1ldJORYpq6kqmHY5w8Fi8utVA5CkOTdtk",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_frostig_subtitles_final.txt"
+  },
+  {
+    "episode": "69",
+    "guest": "Liran Yaacobi",
+    "srt_file": "liran_yaacobi_subtitles.srt",
+    "drive_id": "12KdQtdybpif7loaBSQi51Cm9SLsMLv_W",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/liran_yaacobi_subtitles.txt"
+  },
+  {
+    "episode": "70",
+    "guest": "Dani Arnaout",
+    "srt_file": "dani_arnaot_subtitles.srt",
+    "drive_id": "1IagxsEIeiBNVmYV5x8CDP3TAGpukDQg-",
+    "score": 0.6666666666666666,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/dani_arnaot_subtitles.txt"
+  },
+  {
+    "episode": "67",
+    "guest": "Larry Diamond",
+    "srt_file": "larry_diamond_subtitles_final.srt",
+    "drive_id": "1eZQ9BhLDcbXbxVByf5VVNJ15Bn8e-MGo",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/larry_diamond_subtitles_final.txt"
+  },
+  {
+    "episode": "66",
+    "guest": "Hadar Pode",
+    "srt_file": "hadar_pode_subtitles_final.srt",
+    "drive_id": "1PKyqWZN2Ob493o2vVkvuzjXb1mP7tM0k",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/hadar_pode_subtitles_final.txt"
+  },
+  {
+    "episode": "96",
+    "guest": "Gil Frostig",
+    "srt_file": "gil_frostig_subtitles.srt",
+    "drive_id": "1yD8uCnBWc76eZJ6apv1jqs9yK6WezvNJ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gil_frostig_subtitles.txt"
+  },
+  {
+    "episode": "59",
+    "guest": "David Paluy",
+    "srt_file": "david_paluy_subtitles_final.srt",
+    "drive_id": "1xMCrZbGmcklpT9O8sLsxT7jP0TExDIfR",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_paluy_subtitles_final.txt"
+  },
+  {
+    "episode": "59",
+    "guest": "David Paluy",
+    "srt_file": "david_paluy_subtitles.srt",
+    "drive_id": "11qBkF28k-gFkOgqudNwqgkjChrr6jH6r",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/david_paluy_subtitles.txt"
+  },
+  {
+    "episode": "67",
+    "guest": "Larry Diamond",
+    "srt_file": "larry_diamond_subtitles.srt",
+    "drive_id": "1VZlv64MohWbF0CYx6dIqqZeKidxTd1dO",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/larry_diamond_subtitles.txt"
+  },
+  {
+    "episode": "66",
+    "guest": "Hadar Pode",
+    "srt_file": "hadar_pode_subtitles.srt",
+    "drive_id": "1O3HEnq8hkQHkv65Dj_ICap72P9mILE-t",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/hadar_pode_subtitles.txt"
+  },
+  {
+    "episode": "64",
+    "guest": "Or Matias",
+    "srt_file": "or_matias_subtitles_final.srt",
+    "drive_id": "1fHxx-LP7psRUIZekHKY3Q9sncNaQKhEu",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/or_matias_subtitles_final.txt"
+  },
+  {
+    "episode": "64",
+    "guest": "Or Matias",
+    "srt_file": "or_matias_subtitles.srt",
+    "drive_id": "1o0G6ywZWnHuPdxcKS_uxBQp2iAFcsYxZ",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/or_matias_subtitles.txt"
+  },
+  {
+    "episode": "62",
+    "guest": "Nadine Kreisberger",
+    "srt_file": "nadine_kreisberger_subtitles_final.srt",
+    "drive_id": "107mhDfcq9457GIurc5KbJ2WvZroN0-rN",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nadine_kreisberger_subtitles_final.txt"
+  },
+  {
+    "episode": "63",
+    "guest": "Gigi Levy Weiss",
+    "srt_file": "gigi_levi_subtitles.srt",
+    "drive_id": "1iH4lWPM3Wgd3hAIQxAegAenpQFqzhmQa",
+    "score": 0.6470588235294118,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/gigi_levi_subtitles.txt"
+  },
+  {
+    "episode": "61",
+    "guest": "Itai Pinki",
+    "srt_file": "itai_pinki_subtitles_final.srt",
+    "drive_id": "1UnTnPLyapKOHQhRwWclxgHOhTTvU01mg",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itai_pinki_subtitles_final.txt"
+  },
+  {
+    "episode": "60",
+    "guest": "Zoe Littlepage",
+    "srt_file": "zoe_littlepage_subtitles_final.srt",
+    "drive_id": "1PWXoAU4Mr0x6hVDTUOZH97msaYuIhQMC",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/zoe_littlepage_subtitles_final.txt"
+  },
+  {
+    "episode": "58",
+    "guest": "Yaron Carni",
+    "srt_file": "yaron_carni_subtitles_final.srt",
+    "drive_id": "1ow7xpNFkefXcyC5eSgX3f3u934kTrqZm",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yaron_carni_subtitles_final.txt"
+  },
+  {
+    "episode": "62",
+    "guest": "Nadine Kreisberger",
+    "srt_file": "nadine_kreisberger_subtitles.srt",
+    "drive_id": "1wAg4FG5kNRIBUwQhobQwPHmMO9JiYO5D",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/nadine_kreisberger_subtitles.txt"
+  },
+  {
+    "episode": "61",
+    "guest": "Itai Pinki",
+    "srt_file": "itai_pinki_subtitles.srt",
+    "drive_id": "1k-wvg0K2WfNi2dbViSs8jRz7yzY1_mqP",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/itai_pinki_subtitles.txt"
+  },
+  {
+    "episode": "58",
+    "guest": "Yaron Carni",
+    "srt_file": "yaron_carni_subtitles.srt",
+    "drive_id": "1blLAbt2nryze4LsOOVV9g39OuFUthCBT",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/yaron_carni_subtitles.txt"
+  },
+  {
+    "episode": "3",
+    "guest": "Alon Matas",
+    "srt_file": "Alon Matas Video.mp4.srt",
+    "drive_id": "1_A6bZS7-6w8AXA6WKu6dWvcy65W9eCz5",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/Alon Matas Video.mp4.txt"
+  },
+  {
+    "episode": "5",
+    "guest": "Izhar Shay",
+    "srt_file": "izhar.srt",
+    "drive_id": "1p8Ns-GzJQxSYEtwuXKHoxO_c_KaG9_w6",
+    "score": 1.0,
+    "text_path": "/Users/michaelmatias/clawd/repos/20minuteleaders-website/transcripts/izhar.txt"
+  }
+]

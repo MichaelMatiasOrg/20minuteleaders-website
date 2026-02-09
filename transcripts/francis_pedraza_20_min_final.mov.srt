@@ -1,0 +1,3300 @@
+﻿1
+00:00:00,200 --> 00:00:03,040
+Most people in Silicon Valley, you know,
+
+2
+00:00:03,040 --> 00:00:03,880
+they have a hammer
+
+3
+00:00:03,880 --> 00:00:05,000
+and everything is a nail.
+
+4
+00:00:05,000 --> 00:00:06,240
+And that hammer is tools
+
+5
+00:00:06,240 --> 00:00:07,160
+and they're going to build
+
+6
+00:00:07,160 --> 00:00:08,440
+a tool for everything.
+
+7
+00:00:08,440 --> 00:00:11,560
+And the mindset is pure software,
+
+8
+00:00:11,560 --> 00:00:12,920
+AI is going to do everything,
+
+9
+00:00:12,920 --> 00:00:15,040
+humans are irrelevant.
+
+10
+00:00:15,040 --> 00:00:15,550
+Humans aren't even
+
+11
+00:00:15,551 --> 00:00:16,770
+going to exist in the future.
+
+12
+00:00:48,960 --> 00:00:49,619
+Francis Pedraza,
+
+13
+00:00:49,620 --> 00:00:50,826
+thank you so much for joining me
+
+14
+00:00:50,827 --> 00:00:52,800
+on 20 Minute Leaders.
+
+15
+00:00:52,800 --> 00:00:54,400
+Thanks for having me, Michael.
+
+16
+00:00:54,400 --> 00:00:55,760
+It's a pleasure to have you.
+
+17
+00:00:55,760 --> 00:00:56,560
+We actually met
+
+18
+00:00:56,560 --> 00:00:58,240
+for the first time seven years ago.
+
+19
+00:00:58,240 --> 00:01:01,280
+You came to speak to our summer class
+
+20
+00:01:01,280 --> 00:01:02,280
+at MIT LaunchX.
+
+21
+00:01:02,280 --> 00:01:04,720
+It was about Everest, which I know
+
+22
+00:01:04,720 --> 00:01:07,520
+that it's a long time back for you now
+
+23
+00:01:07,520 --> 00:01:08,360
+with all the different things
+
+24
+00:01:08,360 --> 00:01:09,720
+that you've done since then.
+
+25
+00:01:09,720 --> 00:01:10,640
+But thank you for being
+
+26
+00:01:10,641 --> 00:01:11,720
+such a source of inspiration
+
+27
+00:01:11,720 --> 00:01:12,280
+for us back then.
+
+28
+00:01:12,280 --> 00:01:14,240
+It was really fantastic.
+
+29
+00:01:15,560 --> 00:01:16,520
+Thanks for remembering
+
+30
+00:01:16,520 --> 00:01:17,960
+and for reaching out.
+
+31
+00:01:17,960 --> 00:01:18,880
+Of course. Of course.
+
+32
+00:01:18,880 --> 00:01:20,640
+I'm really excited to have you here.
+
+33
+00:01:20,640 --> 00:01:22,546
+Francis, I'm not going to do justice
+
+34
+00:01:22,547 --> 00:01:24,240
+to go over the incredible bio,
+
+35
+00:01:24,240 --> 00:01:25,360
+because you've actually had
+
+36
+00:01:25,360 --> 00:01:27,000
+a pretty incredible upbringing.
+
+37
+00:01:27,000 --> 00:01:27,960
+A pretty global one.
+
+38
+00:01:27,960 --> 00:01:30,240
+But all sorts of diverse activities.
+
+39
+00:01:30,240 --> 00:01:31,000
+I would love to just spend
+
+40
+00:01:31,000 --> 00:01:32,000
+the first few minutes going
+
+41
+00:01:32,000 --> 00:01:33,320
+a little bit over your journey.
+
+42
+00:01:33,320 --> 00:01:33,880
+Who are you?
+
+43
+00:01:33,880 --> 00:01:34,840
+What are your passions?
+
+44
+00:01:34,840 --> 00:01:37,160
+And I think that will be
+
+45
+00:01:37,160 --> 00:01:38,400
+a really good leeway into
+
+46
+00:01:38,400 --> 00:01:40,320
+the things you're doing today,
+
+47
+00:01:40,320 --> 00:01:41,960
+and some source of inspiration
+
+48
+00:01:41,960 --> 00:01:44,920
+for young entrepreneurs like myself.
+
+49
+00:01:47,600 --> 00:01:48,960
+My mother grew up in Iran
+
+50
+00:01:48,960 --> 00:01:50,320
+and came to United States
+
+51
+00:01:50,320 --> 00:01:51,360
+before the revolution.
+
+52
+00:01:51,360 --> 00:01:52,880
+But when the revolution happened,
+
+53
+00:01:52,880 --> 00:01:53,800
+her world changed.
+
+54
+00:01:53,800 --> 00:01:57,480
+And she had finished her undergrad
+
+55
+00:01:57,480 --> 00:01:59,080
+but she dropped out of graduate school,
+
+56
+00:01:59,080 --> 00:02:00,360
+became an entrepreneur
+
+57
+00:02:00,360 --> 00:02:02,520
+and worked really, really hard
+
+58
+00:02:02,520 --> 00:02:06,360
+to succeed and did.
+
+59
+00:02:06,360 --> 00:02:07,520
+And then when she had me,
+
+60
+00:02:07,520 --> 00:02:09,360
+she sold her company
+
+61
+00:02:09,360 --> 00:02:13,120
+and focused on raising me.
+
+62
+00:02:13,120 --> 00:02:15,880
+My father grew up around the world.
+
+63
+00:02:15,880 --> 00:02:18,000
+His father worked for Procter and Gamble
+
+64
+00:02:18,000 --> 00:02:19,640
+and other American companies.
+
+65
+00:02:19,640 --> 00:02:20,480
+So, he spent some time
+
+66
+00:02:20,480 --> 00:02:22,480
+growing up in places like Japan
+
+67
+00:02:22,480 --> 00:02:24,800
+and the Philippines and Venezuela.
+
+68
+00:02:24,800 --> 00:02:27,560
+And so, you know, I think
+
+69
+00:02:27,560 --> 00:02:30,400
+I got the immigrant value set,
+
+70
+00:02:30,400 --> 00:02:33,080
+which is a lot of hustle
+
+71
+00:02:33,080 --> 00:02:34,680
+and determination and hard work
+
+72
+00:02:34,680 --> 00:02:37,640
+and a sense of, I think, patriotism
+
+73
+00:02:37,640 --> 00:02:38,480
+for the United States.
+
+74
+00:02:38,480 --> 00:02:41,800
+This is a place where dreams can happen
+
+75
+00:02:41,801 --> 00:02:44,080
+and you're in a free country,
+
+76
+00:02:44,080 --> 00:02:47,520
+you have property rights, rule of law,
+
+77
+00:02:47,520 --> 00:02:50,040
+and you can build something here
+
+78
+00:02:50,040 --> 00:02:52,560
+and express your potential.
+
+79
+00:02:52,560 --> 00:02:54,440
+And that was my upbringing.
+
+80
+00:02:54,440 --> 00:02:56,040
+And my life changed,
+
+81
+00:02:56,040 --> 00:02:58,560
+I was pretty frustrated
+
+82
+00:02:58,560 --> 00:03:00,840
+in both public and private schools
+
+83
+00:03:00,840 --> 00:03:02,760
+for a variety of reasons
+
+84
+00:03:02,760 --> 00:03:04,075
+until I discovered
+
+85
+00:03:04,076 --> 00:03:06,640
+this incredible Internet entrepreneur
+
+86
+00:03:06,640 --> 00:03:07,600
+who is teaching
+
+87
+00:03:07,600 --> 00:03:10,200
+hundreds of students on Skype.
+
+88
+00:03:10,200 --> 00:03:12,200
+Zoom did not exist back then.
+
+89
+00:03:12,200 --> 00:03:13,560
+But he happened to be a local.
+
+90
+00:03:13,560 --> 00:03:14,360
+And he was teaching them
+
+91
+00:03:14,360 --> 00:03:15,720
+a five year course
+
+92
+00:03:15,720 --> 00:03:16,520
+in the great books
+
+93
+00:03:16,520 --> 00:03:18,320
+of Western Civilization.
+
+94
+00:03:18,320 --> 00:03:20,200
+And the first book we studied
+
+95
+00:03:20,200 --> 00:03:21,080
+was Homer's Iliad,
+
+96
+00:03:21,080 --> 00:03:23,040
+and then the next was The Odyssey.
+
+97
+00:03:23,040 --> 00:03:23,920
+And then we went on
+
+98
+00:03:23,920 --> 00:03:26,240
+to read many of the ancient Greeks
+
+99
+00:03:26,240 --> 00:03:27,120
+and the Romans and then
+
+100
+00:03:27,120 --> 00:03:29,400
+the medieval Scholastics, Renaissance
+
+101
+00:03:29,400 --> 00:03:32,200
+and Enlightenment and Moderns
+
+102
+00:03:32,200 --> 00:03:33,320
+and a number of subjects.
+
+103
+00:03:33,320 --> 00:03:35,000
+And reading the original sources,
+
+104
+00:03:35,000 --> 00:03:35,640
+writing about them,
+
+105
+00:03:35,640 --> 00:03:37,400
+debating them, discussing them.
+
+106
+00:03:37,400 --> 00:03:41,000
+And so, I developed this passion
+
+107
+00:03:41,000 --> 00:03:42,440
+for the humanities.
+
+108
+00:03:42,440 --> 00:03:44,880
+And people asked me,
+
+109
+00:03:44,880 --> 00:03:46,200
+"How did you go from that
+
+110
+00:03:46,200 --> 00:03:48,440
+to starting a company?"
+
+111
+00:03:48,520 --> 00:03:54,200
+And my first company was called Everest.
+
+112
+00:03:54,200 --> 00:03:55,200
+You remember it.
+
+113
+00:03:55,200 --> 00:03:56,120
+It was an iPhone app
+
+114
+00:03:56,120 --> 00:03:58,320
+to help people achieve personal goals.
+
+115
+00:03:58,320 --> 00:04:01,200
+And I thought that Steve Jobs
+
+116
+00:04:01,200 --> 00:04:03,400
+had this metaphor that technology
+
+117
+00:04:03,400 --> 00:04:04,240
+could be a bicycle
+
+118
+00:04:04,240 --> 00:04:05,560
+for the human mind, you know,
+
+119
+00:04:05,560 --> 00:04:06,720
+that it would almost be
+
+120
+00:04:06,720 --> 00:04:07,760
+like an Iron Man suit.
+
+121
+00:04:07,760 --> 00:04:09,760
+Like we could express our potential
+
+122
+00:04:09,760 --> 00:04:11,360
+with these tools
+
+123
+00:04:11,360 --> 00:04:13,040
+at a pace that
+
+124
+00:04:13,040 --> 00:04:14,600
+we'd never been able to before.
+
+125
+00:04:14,600 --> 00:04:15,160
+You could move
+
+126
+00:04:15,160 --> 00:04:17,000
+on the speed of thought.
+
+127
+00:04:17,000 --> 00:04:18,720
+And then, we sort of live
+
+128
+00:04:18,720 --> 00:04:21,240
+in this dystopian reality where,
+
+129
+00:04:21,240 --> 00:04:22,520
+you know that t shirt
+
+130
+00:04:22,520 --> 00:04:24,080
+that has, like, you know,
+
+131
+00:04:24,080 --> 00:04:25,720
+the ape and then
+
+132
+00:04:25,720 --> 00:04:27,360
+a homo sapiens standing tall
+
+133
+00:04:27,360 --> 00:04:29,120
+and then humans behind a laptop
+
+134
+00:04:29,120 --> 00:04:30,640
+and then we look like an ape again.
+
+135
+00:04:30,640 --> 00:04:31,240
+It's like we live
+
+136
+00:04:31,240 --> 00:04:32,440
+in this dystopian reality
+
+137
+00:04:32,440 --> 00:04:33,520
+where it feels like we're slaves
+
+138
+00:04:33,520 --> 00:04:34,960
+to our devices instead of
+
+139
+00:04:34,960 --> 00:04:36,800
+the other way around
+
+140
+00:04:36,800 --> 00:04:38,320
+where these technologies
+
+141
+00:04:38,320 --> 00:04:39,360
+are empowering us.
+
+142
+00:04:39,360 --> 00:04:40,960
+Like, why is that.
+
+143
+00:04:40,960 --> 00:04:43,520
+And so, with Everest,
+
+144
+00:04:43,520 --> 00:04:45,274
+I was trying to build a social network
+
+145
+00:04:45,275 --> 00:04:46,494
+except around doing things
+
+146
+00:04:46,495 --> 00:04:47,960
+instead of around who you know.
+
+147
+00:04:47,960 --> 00:04:48,582
+And you would have
+
+148
+00:04:48,583 --> 00:04:49,879
+all your goals in the app.
+
+149
+00:04:49,880 --> 00:04:52,200
+And I thought that
+
+150
+00:04:52,200 --> 00:04:52,960
+we could live up
+
+151
+00:04:52,960 --> 00:04:54,680
+to that Da Vinci and Dream,
+
+152
+00:04:54,680 --> 00:04:55,760
+have a new renaissance
+
+153
+00:04:55,760 --> 00:04:57,880
+and have people pursue
+
+154
+00:04:57,880 --> 00:04:59,240
+their full potential
+
+155
+00:04:59,240 --> 00:05:01,520
+and have technology actually help.
+
+156
+00:05:01,520 --> 00:05:02,560
+But the company failed.
+
+157
+00:05:02,560 --> 00:05:03,960
+The app failed.
+
+158
+00:05:03,960 --> 00:05:05,738
+And it was a very humbling
+
+159
+00:05:05,739 --> 00:05:09,120
+sort of Icarus experience where
+
+160
+00:05:09,120 --> 00:05:11,320
+I had to learn a number of lessons,
+
+161
+00:05:11,320 --> 00:05:13,160
+both about how to build a great product,
+
+162
+00:05:13,160 --> 00:05:15,400
+how to build a great business.
+
+163
+00:05:17,040 --> 00:05:19,120
+But it also made me rethink
+
+164
+00:05:19,120 --> 00:05:22,120
+some of the fundamentals.
+
+165
+00:05:22,120 --> 00:05:24,880
+And with Invisible, my current company,
+
+166
+00:05:24,880 --> 00:05:26,360
+I've tried not to compromise
+
+167
+00:05:26,360 --> 00:05:29,960
+on the vision.
+
+168
+00:05:29,960 --> 00:05:31,640
+I think same vision.
+
+169
+00:05:31,640 --> 00:05:32,840
+Just different business model,
+
+170
+00:05:32,840 --> 00:05:33,720
+different mission.
+
+171
+00:05:33,720 --> 00:05:35,080
+And I've been trying
+
+172
+00:05:35,080 --> 00:05:36,040
+to apply the learnings
+
+173
+00:05:36,040 --> 00:05:39,480
+to solve a very, very different problem,
+
+174
+00:05:39,480 --> 00:05:42,320
+which is industrializing knowledge work.
+
+175
+00:05:42,320 --> 00:05:43,680
+So, before we go into that,
+
+176
+00:05:43,680 --> 00:05:44,880
+I have to go back a little bit
+
+177
+00:05:44,880 --> 00:05:47,200
+and understand about
+
+178
+00:05:47,200 --> 00:05:48,440
+that Icarus-like experience.
+
+179
+00:05:48,440 --> 00:05:50,040
+Because inevitably, you know,
+
+180
+00:05:50,040 --> 00:05:50,960
+almost all entrepreneurs
+
+181
+00:05:50,960 --> 00:05:52,509
+are going to fail multiple times
+
+182
+00:05:52,510 --> 00:05:53,760
+until they get to their success.
+
+183
+00:05:53,760 --> 00:05:55,200
+And I'd love to focus
+
+184
+00:05:55,200 --> 00:05:56,440
+a little bit on this side of the story.
+
+185
+00:05:56,440 --> 00:05:57,560
+I remember when you came
+
+186
+00:05:57,560 --> 00:05:58,600
+to speak to us,
+
+187
+00:05:58,600 --> 00:06:00,840
+I remember how we all looked
+
+188
+00:06:00,840 --> 00:06:02,320
+at this amazing product
+
+189
+00:06:02,320 --> 00:06:02,960
+that you are building,
+
+190
+00:06:02,960 --> 00:06:05,120
+and the charisma and the vision.
+
+191
+00:06:05,120 --> 00:06:06,880
+And we all bought into it immediately.
+
+192
+00:06:06,880 --> 00:06:08,149
+We knew this was going to be
+
+193
+00:06:08,150 --> 00:06:08,920
+a major success.
+
+194
+00:06:08,920 --> 00:06:09,320
+We loved it.
+
+195
+00:06:09,320 --> 00:06:11,200
+And you have to understand, Francis,
+
+196
+00:06:11,200 --> 00:06:12,680
+that this is a bunch of you know,
+
+197
+00:06:12,680 --> 00:06:15,760
+16, 17 year-olds entrepreneur wannabes,
+
+198
+00:06:15,760 --> 00:06:17,480
+that they're getting so excited
+
+199
+00:06:17,480 --> 00:06:20,480
+and are buying into these products.
+
+200
+00:06:20,480 --> 00:06:21,880
+I need to have this closure
+
+201
+00:06:21,880 --> 00:06:23,440
+to understand what happened there
+
+202
+00:06:23,440 --> 00:06:25,320
+and why do you call this
+
+203
+00:06:25,320 --> 00:06:26,320
+an Icarus-like experience?
+
+204
+00:06:26,320 --> 00:06:28,120
+And what lessons really
+
+205
+00:06:28,120 --> 00:06:29,360
+do you translate now
+
+206
+00:06:29,360 --> 00:06:31,120
+to your next venture?
+
+207
+00:06:32,800 --> 00:06:33,960
+Yeah.
+
+208
+00:06:34,040 --> 00:06:36,520
+It was a beautiful product.
+
+209
+00:06:36,520 --> 00:06:38,640
+Apple featured it many times,
+
+210
+00:06:38,640 --> 00:06:40,880
+I think the design community recognized
+
+211
+00:06:40,880 --> 00:06:43,240
+the work that our designers had done.
+
+212
+00:06:43,240 --> 00:06:47,640
+And it was before Facebook
+
+213
+00:06:47,640 --> 00:06:48,400
+had an iPhone app.
+
+214
+00:06:48,400 --> 00:06:49,640
+Remember when they were
+
+215
+00:06:49,640 --> 00:06:51,400
+Facebook thought their corporate strategy
+
+216
+00:06:51,400 --> 00:06:52,280
+for a few years
+
+217
+00:06:52,280 --> 00:06:54,600
+was they were going to be Web only.
+
+218
+00:06:54,600 --> 00:06:55,840
+Until they realized
+
+219
+00:06:55,840 --> 00:06:57,000
+that it was a mistake.
+
+220
+00:06:57,000 --> 00:06:59,280
+It was the early days of the App Store.
+
+221
+00:06:59,280 --> 00:07:01,480
+And we had nearly half
+
+222
+00:07:01,480 --> 00:07:03,720
+a million people use it.
+
+223
+00:07:03,920 --> 00:07:05,760
+And their initial experience
+
+224
+00:07:05,760 --> 00:07:08,160
+with Everest was kind of this,
+
+225
+00:07:08,160 --> 00:07:10,640
+you know, euphoric experience.
+
+226
+00:07:10,640 --> 00:07:12,600
+Wow, I could put all my goals
+
+227
+00:07:12,600 --> 00:07:13,600
+and dreams into the app.
+
+228
+00:07:13,600 --> 00:07:14,600
+I want to go to Italy.
+
+229
+00:07:14,600 --> 00:07:16,080
+I want to look like Daniel Craig
+
+230
+00:07:16,080 --> 00:07:16,920
+in a bathing suit.
+
+231
+00:07:16,920 --> 00:07:18,440
+I want to run a marathon.
+
+232
+00:07:18,440 --> 00:07:19,520
+I want to buy a house.
+
+233
+00:07:19,520 --> 00:07:20,280
+You know, all the things,
+
+234
+00:07:20,280 --> 00:07:21,840
+you just fantasize, almost,
+
+235
+00:07:21,840 --> 00:07:23,440
+that part was easy.
+
+236
+00:07:23,440 --> 00:07:25,200
+But where the business failed
+
+237
+00:07:25,200 --> 00:07:27,240
+is that three, four, five,
+
+238
+00:07:27,240 --> 00:07:28,440
+six months later,
+
+239
+00:07:28,440 --> 00:07:29,920
+people would stop making progress
+
+240
+00:07:29,920 --> 00:07:31,120
+on their goals.
+
+241
+00:07:31,120 --> 00:07:33,400
+It was almost like Instagram
+
+242
+00:07:33,400 --> 00:07:33,920
+for your goals
+
+243
+00:07:33,920 --> 00:07:35,280
+where you could post photos and videos,
+
+244
+00:07:35,280 --> 00:07:36,430
+but also complete steps
+
+245
+00:07:36,431 --> 00:07:39,080
+like a checklist and make progress.
+
+246
+00:07:39,080 --> 00:07:41,360
+And the discipline required was too high.
+
+247
+00:07:41,360 --> 00:07:42,586
+So, our business model
+
+248
+00:07:42,587 --> 00:07:44,440
+ended up looking like a gym.
+
+249
+00:07:44,440 --> 00:07:45,760
+You know, gyms don't make money
+
+250
+00:07:45,760 --> 00:07:47,160
+when you get fit.
+
+251
+00:07:47,160 --> 00:07:47,920
+Gyms make money
+
+252
+00:07:47,920 --> 00:07:49,480
+when you want to get fit.
+
+253
+00:07:49,480 --> 00:07:53,240
+They divorce monetization from retention.
+
+254
+00:07:53,240 --> 00:07:54,800
+And that was a key principle
+
+255
+00:07:54,800 --> 00:07:55,680
+that we'd missed.
+
+256
+00:07:55,680 --> 00:07:58,080
+And we thought
+
+257
+00:07:58,080 --> 00:07:59,080
+we were going to be
+
+258
+00:07:59,080 --> 00:08:00,600
+a business model look like Facebook.
+
+259
+00:08:00,600 --> 00:08:02,080
+But basically that business model
+
+260
+00:08:02,080 --> 00:08:04,200
+is selling dopamine like a drug
+
+261
+00:08:04,200 --> 00:08:06,400
+and like a digital cigarette.
+
+262
+00:08:06,400 --> 00:08:08,320
+And it doesn't really require effort
+
+263
+00:08:08,320 --> 00:08:09,480
+or follow through.
+
+264
+00:08:09,480 --> 00:08:13,840
+And so, oops, a beginner's mistake.
+
+265
+00:08:13,840 --> 00:08:16,480
+And that was the Icarus moment.
+
+266
+00:08:16,480 --> 00:08:18,040
+So, fast forward to today.
+
+267
+00:08:18,040 --> 00:08:19,440
+Tell me a little bit about
+
+268
+00:08:19,440 --> 00:08:21,040
+the insights of the industry
+
+269
+00:08:21,040 --> 00:08:22,560
+in the market even before
+
+270
+00:08:22,560 --> 00:08:23,760
+we get to the actual product.
+
+271
+00:08:23,760 --> 00:08:24,440
+Because you have
+
+272
+00:08:24,440 --> 00:08:26,600
+some really fascinating insights
+
+273
+00:08:26,600 --> 00:08:27,800
+into where we're headed
+
+274
+00:08:27,800 --> 00:08:30,400
+as a global economy, and the workforce,
+
+275
+00:08:30,400 --> 00:08:32,400
+and that's leading into what
+
+276
+00:08:32,400 --> 00:08:33,360
+you are working on today.
+
+277
+00:08:33,360 --> 00:08:35,160
+So, I'd love to really
+
+278
+00:08:35,160 --> 00:08:36,080
+get into your mind,
+
+279
+00:08:36,080 --> 00:08:37,280
+and understand the motivation
+
+280
+00:08:37,280 --> 00:08:38,160
+behind what you are you doing
+
+281
+00:08:38,160 --> 00:08:40,040
+and taking a little bit
+
+282
+00:08:40,040 --> 00:08:41,160
+of a leap forward into
+
+283
+00:08:41,160 --> 00:08:41,960
+what's going to happen
+
+284
+00:08:41,960 --> 00:08:44,120
+in the next few decades.
+
+285
+00:08:45,000 --> 00:08:46,800
+Yeah. I'll start by describing
+
+286
+00:08:46,800 --> 00:08:47,840
+what Invisible is
+
+287
+00:08:47,840 --> 00:08:51,480
+and then I'll share some,
+
+288
+00:08:52,960 --> 00:08:54,960
+some predictions about the future.
+
+289
+00:08:54,960 --> 00:08:59,480
+So, every company has complex
+
+290
+00:08:59,480 --> 00:09:01,960
+and custom processes
+
+291
+00:09:01,960 --> 00:09:04,360
+and they're very difficult to automate.
+
+292
+00:09:04,360 --> 00:09:05,680
+Even if you know about
+
+293
+00:09:05,681 --> 00:09:07,480
+all the latest automation tools,
+
+294
+00:09:07,480 --> 00:09:08,600
+even if you're aware
+
+295
+00:09:08,600 --> 00:09:11,320
+of robotic process automation, RPA tools
+
+296
+00:09:11,320 --> 00:09:12,440
+or workflow
+
+297
+00:09:12,440 --> 00:09:14,960
+or no code automation tools,
+
+298
+00:09:14,960 --> 00:09:16,600
+or you're aware of the relevant,
+
+299
+00:09:16,600 --> 00:09:18,160
+you know, software point solutions
+
+300
+00:09:18,160 --> 00:09:19,520
+for the particular function
+
+301
+00:09:19,520 --> 00:09:20,360
+you're trying to automate.
+
+302
+00:09:20,360 --> 00:09:23,360
+So, it's sales or hiring, the marketing
+
+303
+00:09:23,360 --> 00:09:25,160
+or an industry specific, you know,
+
+304
+00:09:25,160 --> 00:09:27,240
+workflow you're trying to build.
+
+305
+00:09:27,240 --> 00:09:30,120
+They're all these tools.
+
+306
+00:09:30,280 --> 00:09:31,680
+There's an app for everything,
+
+307
+00:09:31,680 --> 00:09:33,280
+why isn't everything perfect yet.
+
+308
+00:09:33,280 --> 00:09:34,720
+And the answer is that when you try
+
+309
+00:09:34,720 --> 00:09:37,040
+to automate your process,
+
+310
+00:09:37,040 --> 00:09:38,891
+any one tool might help you automate
+
+311
+00:09:38,892 --> 00:09:41,120
+five, 10, 15% of it.
+
+312
+00:09:41,120 --> 00:09:42,160
+But you can't get
+
+313
+00:09:42,160 --> 00:09:43,637
+the end to end solution you need
+
+314
+00:09:43,638 --> 00:09:45,720
+to run your business tomorrow.
+
+315
+00:09:45,720 --> 00:09:46,760
+So, what do you do?
+
+316
+00:09:46,760 --> 00:09:48,960
+You either do the rest of it
+
+317
+00:09:48,960 --> 00:09:50,760
+in-house manually,
+
+318
+00:09:50,760 --> 00:09:52,000
+or you outsource it
+
+319
+00:09:52,000 --> 00:09:53,720
+to a traditional outsourcing company.
+
+320
+00:09:53,720 --> 00:09:56,880
+A business process outsource or a BPO.
+
+321
+00:09:56,880 --> 00:09:58,280
+And BPOs are like law firms.
+
+322
+00:09:58,280 --> 00:09:59,520
+Their incentive is to bill you
+
+323
+00:09:59,520 --> 00:10:01,760
+as many hours as possible.
+
+324
+00:10:01,760 --> 00:10:03,600
+They're selling labor
+
+325
+00:10:03,600 --> 00:10:04,520
+They don't have an incentive
+
+326
+00:10:04,520 --> 00:10:06,960
+to automate on their side.
+
+327
+00:10:06,960 --> 00:10:09,760
+So, Invisible is combining outsourcing
+
+328
+00:10:09,760 --> 00:10:12,520
+and automation for the first time,
+
+329
+00:10:12,520 --> 00:10:14,720
+and we call it work sharing.
+
+330
+00:10:14,720 --> 00:10:16,080
+And our technology
+
+331
+00:10:16,080 --> 00:10:19,000
+is a digital assembly line.
+
+332
+00:10:19,000 --> 00:10:20,480
+And it has two layers:
+
+333
+00:10:20,480 --> 00:10:23,920
+the first is we coordinate 280 workers
+
+334
+00:10:23,920 --> 00:10:26,240
+in 35 countries around the world
+
+335
+00:10:26,240 --> 00:10:29,400
+who can log in to secure virtual desktops
+
+336
+00:10:29,400 --> 00:10:31,160
+and follow step by step instructions
+
+337
+00:10:31,160 --> 00:10:33,360
+to do the manual portions of the work;
+
+338
+00:10:33,360 --> 00:10:34,480
+and then the second layer
+
+339
+00:10:34,480 --> 00:10:36,320
+is that we break down
+
+340
+00:10:36,320 --> 00:10:37,880
+these custom processes
+
+341
+00:10:37,880 --> 00:10:39,400
+into standard steps.
+
+342
+00:10:39,400 --> 00:10:40,640
+We think of it like sequencing
+
+343
+00:10:40,640 --> 00:10:42,360
+in the corporate process genome,
+
+344
+00:10:42,360 --> 00:10:44,080
+and then we will automate
+
+345
+00:10:44,080 --> 00:10:45,280
+those steps over time
+
+346
+00:10:45,280 --> 00:10:46,800
+and they become reusable.
+
+347
+00:10:46,800 --> 00:10:48,640
+And our business model is a win win.
+
+348
+00:10:48,640 --> 00:10:51,680
+As we automate your process,
+
+349
+00:10:51,680 --> 00:10:54,160
+your unit price goes down
+
+350
+00:10:54,160 --> 00:10:55,720
+and our margins go up.
+
+351
+00:10:55,720 --> 00:10:57,480
+So, it's a win win.
+
+352
+00:10:57,480 --> 00:10:59,240
+We have an incentive to automate
+
+353
+00:10:59,240 --> 00:11:01,040
+and you see your prices drop.
+
+354
+00:11:01,040 --> 00:11:02,400
+And our inspiration for all this
+
+355
+00:11:02,400 --> 00:11:04,200
+was what Henry Ford did
+
+356
+00:11:04,200 --> 00:11:05,200
+to manufacturing
+
+357
+00:11:05,200 --> 00:11:07,240
+in the early 20th century.
+
+358
+00:11:07,240 --> 00:11:08,080
+Every, you know,
+
+359
+00:11:08,080 --> 00:11:10,200
+this is like pre world war I.
+
+360
+00:11:10,200 --> 00:11:11,360
+I mean, the whole story
+
+361
+00:11:11,360 --> 00:11:13,160
+of Ford from like 1908
+
+362
+00:11:13,160 --> 00:11:17,360
+to say, 1960, is fascinating.
+
+363
+00:11:17,360 --> 00:11:18,720
+But every year,
+
+364
+00:11:18,720 --> 00:11:22,240
+the quality of their cars improved,
+
+365
+00:11:22,240 --> 00:11:24,560
+the price decreased,
+
+366
+00:11:24,560 --> 00:11:26,200
+their revenue increased,
+
+367
+00:11:26,200 --> 00:11:27,920
+their margins increased,
+
+368
+00:11:27,920 --> 00:11:29,080
+and the amount that they paid
+
+369
+00:11:29,080 --> 00:11:30,920
+their workers increased.
+
+370
+00:11:30,920 --> 00:11:31,680
+These things are
+
+371
+00:11:31,680 --> 00:11:33,600
+in trade off relationships.
+
+372
+00:11:33,600 --> 00:11:34,840
+This shouldn't happen.
+
+373
+00:11:34,840 --> 00:11:36,760
+And it only happens through
+
+374
+00:11:36,760 --> 00:11:38,080
+the economic miracle
+
+375
+00:11:38,080 --> 00:11:39,360
+of productivity gains
+
+376
+00:11:39,360 --> 00:11:41,160
+which create deflation.
+
+377
+00:11:41,160 --> 00:11:42,680
+And deflation is good.
+
+378
+00:11:42,680 --> 00:11:43,400
+I call it
+
+379
+00:11:43,400 --> 00:11:45,520
+the deflationary gospel of capitalism.
+
+380
+00:11:45,520 --> 00:11:46,520
+Better, faster, cheaper,
+
+381
+00:11:46,520 --> 00:11:48,120
+better, faster, cheaper.
+
+382
+00:11:48,120 --> 00:11:49,960
+And I think that
+
+383
+00:11:49,960 --> 00:11:50,960
+we're at a stage where
+
+384
+00:11:50,961 --> 00:11:53,040
+the mission of the company, with Invisible,
+
+385
+00:11:53,040 --> 00:11:55,320
+is industrializing knowledge work.
+
+386
+00:11:55,320 --> 00:11:56,680
+It's not automating knowledge work.
+
+387
+00:11:56,680 --> 00:11:58,520
+It's industrializing it.
+
+388
+00:11:58,520 --> 00:12:02,320
+And it implies
+
+389
+00:12:02,320 --> 00:12:04,920
+a more nuanced view of automation.
+
+390
+00:12:04,920 --> 00:12:05,680
+And this is what I'd like
+
+391
+00:12:05,680 --> 00:12:08,360
+to communicate to your audience.
+
+392
+00:12:08,361 --> 00:12:11,160
+Most people in Silicon Valley,
+
+393
+00:12:11,160 --> 00:12:12,040
+they have a hammer
+
+394
+00:12:12,040 --> 00:12:13,160
+and everything is a nail.
+
+395
+00:12:13,160 --> 00:12:14,400
+And that hammer is tools.
+
+396
+00:12:14,400 --> 00:12:15,320
+And they're going to build
+
+397
+00:12:15,320 --> 00:12:16,600
+a tool for everything.
+
+398
+00:12:16,600 --> 00:12:19,720
+And the mindset is pure software.
+
+399
+00:12:19,720 --> 00:12:21,080
+AI is going to do everything.
+
+400
+00:12:21,080 --> 00:12:23,200
+Humans are irrelevant.
+
+401
+00:12:23,200 --> 00:12:23,880
+Humans aren't even going
+
+402
+00:12:23,880 --> 00:12:25,840
+to exist in the future.
+
+403
+00:12:28,040 --> 00:12:30,840
+Ultron is coming.
+
+404
+00:12:31,120 --> 00:12:33,480
+And I think this is ridiculous.
+
+405
+00:12:33,480 --> 00:12:34,600
+And I think this is where some
+
+406
+00:12:34,600 --> 00:12:36,280
+of the liberal arts background kicks in.
+
+407
+00:12:36,280 --> 00:12:38,760
+I think, in many times
+
+408
+00:12:38,760 --> 00:12:39,280
+in our history,
+
+409
+00:12:39,280 --> 00:12:40,040
+we've always thought
+
+410
+00:12:40,040 --> 00:12:41,640
+we're at an exponential curve
+
+411
+00:12:41,640 --> 00:12:44,120
+and it didn't end up happening.
+
+412
+00:12:44,120 --> 00:12:45,400
+Things happened quite differently.
+
+413
+00:12:45,400 --> 00:12:48,000
+If you read Steinbeck's Grapes of Wrath,
+
+414
+00:12:48,000 --> 00:12:49,800
+for example, with the tractors coming
+
+415
+00:12:49,800 --> 00:12:52,200
+and automating agriculture,
+
+416
+00:12:53,040 --> 00:12:54,520
+arguably the productivity gains
+
+417
+00:12:54,520 --> 00:12:56,200
+of that era were greater than the ones
+
+418
+00:12:56,200 --> 00:13:00,400
+that we're experiencing today.
+
+419
+00:13:01,040 --> 00:13:02,480
+This is what I think is likely to happen.
+
+420
+00:13:02,480 --> 00:13:03,160
+I'll speak in
+
+421
+00:13:03,160 --> 00:13:05,400
+very broad statistical terms.
+
+422
+00:13:05,400 --> 00:13:08,160
+There are just,
+
+423
+00:13:08,160 --> 00:13:10,160
+a pop quiz for your audience.
+
+424
+00:13:10,160 --> 00:13:12,920
+There are eight billion people
+
+425
+00:13:12,920 --> 00:13:14,680
+on the planet,
+
+426
+00:13:14,680 --> 00:13:17,960
+how many people play video games?
+
+427
+00:13:18,320 --> 00:13:21,240
+Think about it. Put the answer in your head.
+
+428
+00:13:21,240 --> 00:13:23,720
+Two billion.
+
+429
+00:13:23,721 --> 00:13:25,584
+It's three billion.
+
+430
+00:13:25,585 --> 00:13:27,840
+Three to four billion.
+
+431
+00:13:27,840 --> 00:13:30,360
+And then how many people
+
+432
+00:13:30,360 --> 00:13:31,840
+do knowledge work?
+
+433
+00:13:31,840 --> 00:13:33,360
+Like, make their livelihood
+
+434
+00:13:33,360 --> 00:13:35,600
+on a computer in some way?
+
+435
+00:13:36,320 --> 00:13:38,120
+One billion.
+
+436
+00:13:39,880 --> 00:13:42,040
+You did your homework.
+
+437
+00:13:42,040 --> 00:13:43,240
+Exactly.
+
+438
+00:13:43,240 --> 00:13:45,960
+So, there are one third to one quarter
+
+439
+00:13:45,960 --> 00:13:48,174
+as many knowledge workers
+
+440
+00:13:48,175 --> 00:13:49,480
+as there are video gamers.
+
+441
+00:13:49,480 --> 00:13:51,800
+Now, I'm going to attribute this
+
+442
+00:13:51,800 --> 00:13:54,480
+to Cathie Wood at ARK Invest,
+
+443
+00:13:54,480 --> 00:13:56,320
+whose research I follow closely.
+
+444
+00:13:56,320 --> 00:13:58,400
+But basically video gaming
+
+445
+00:13:58,400 --> 00:14:00,560
+is like a sort of onboarding.
+
+446
+00:14:00,560 --> 00:14:02,080
+It's training for the world's
+
+447
+00:14:02,080 --> 00:14:03,560
+future knowledge workers.
+
+448
+00:14:03,560 --> 00:14:04,240
+And if you think about
+
+449
+00:14:04,240 --> 00:14:05,040
+what's going to happen over
+
+450
+00:14:05,040 --> 00:14:07,360
+the course of our lifetime,
+
+451
+00:14:07,360 --> 00:14:08,120
+do we think
+
+452
+00:14:08,120 --> 00:14:09,480
+there are going to be less than
+
+453
+00:14:09,480 --> 00:14:10,600
+a billion knowledge workers
+
+454
+00:14:10,600 --> 00:14:11,600
+by the time we die
+
+455
+00:14:11,600 --> 00:14:13,720
+or more than a billion knowledge workers.
+
+456
+00:14:13,720 --> 00:14:17,480
+And it just seems sort of obvious,
+
+457
+00:14:17,600 --> 00:14:18,680
+sort of ask the audience
+
+458
+00:14:18,680 --> 00:14:19,320
+to grant it to me
+
+459
+00:14:19,320 --> 00:14:22,040
+as a premise or an axiom
+
+460
+00:14:22,040 --> 00:14:22,600
+or an assumption.
+
+461
+00:14:22,600 --> 00:14:23,840
+I could defend it, but I just think
+
+462
+00:14:23,840 --> 00:14:25,600
+it's so sort of obvious
+
+463
+00:14:25,600 --> 00:14:27,600
+on its face that
+
+464
+00:14:27,600 --> 00:14:28,680
+there are going to be many, many
+
+465
+00:14:28,680 --> 00:14:29,320
+more knowledge workers.
+
+466
+00:14:29,320 --> 00:14:30,680
+It doesn't make sense
+
+467
+00:14:30,680 --> 00:14:32,680
+that one out of every eight people,
+
+468
+00:14:32,680 --> 00:14:34,040
+work on the Internet.
+
+469
+00:14:34,040 --> 00:14:35,400
+And seven out of every eight people work
+
+470
+00:14:35,400 --> 00:14:36,400
+in the physical world.
+
+471
+00:14:36,400 --> 00:14:37,040
+The digital world
+
+472
+00:14:37,040 --> 00:14:38,520
+is becoming more and more part
+
+473
+00:14:38,520 --> 00:14:41,480
+of everything that we do.
+
+474
+00:14:41,720 --> 00:14:42,480
+Every industry
+
+475
+00:14:42,480 --> 00:14:45,600
+is basically becoming digitized.
+
+476
+00:14:46,000 --> 00:14:49,920
+So. I think they're complimentary trends
+
+477
+00:14:49,920 --> 00:14:51,120
+in robotics, you know.
+
+478
+00:14:51,120 --> 00:14:53,200
+But I think that basically
+
+479
+00:14:53,200 --> 00:14:55,400
+in our lifetime, we're going to have
+
+480
+00:14:55,400 --> 00:14:57,160
+up to four billion knowledge workers,
+
+481
+00:14:57,160 --> 00:14:58,640
+maybe more.
+
+482
+00:14:58,640 --> 00:15:00,600
+So, think about what that means
+
+483
+00:15:00,600 --> 00:15:02,040
+in terms of automation.
+
+484
+00:15:02,040 --> 00:15:03,720
+If we were actually going
+
+485
+00:15:03,720 --> 00:15:06,560
+to automate even 50%
+
+486
+00:15:06,560 --> 00:15:09,080
+of knowledge work,
+
+487
+00:15:09,080 --> 00:15:10,600
+then we would go
+
+488
+00:15:10,600 --> 00:15:12,000
+from a billion knowledge workers
+
+489
+00:15:12,000 --> 00:15:13,560
+to 500 million knowledge workers
+
+490
+00:15:13,560 --> 00:15:14,400
+in our lifetime.
+
+491
+00:15:14,400 --> 00:15:15,800
+And 500 million other people
+
+492
+00:15:15,800 --> 00:15:18,000
+would have to either be unemployed
+
+493
+00:15:18,000 --> 00:15:19,840
+or find some physical work to do.
+
+494
+00:15:19,840 --> 00:15:20,760
+But I think the opposite
+
+495
+00:15:20,760 --> 00:15:21,400
+is going to occur.
+
+496
+00:15:21,400 --> 00:15:22,440
+I think what we're going to experience
+
+497
+00:15:22,440 --> 00:15:25,720
+is net negative automation.
+
+498
+00:15:25,720 --> 00:15:26,960
+That doesn't mean
+
+499
+00:15:26,960 --> 00:15:27,680
+we're not going to automate.
+
+500
+00:15:27,680 --> 00:15:29,280
+We're going to automate a lot.
+
+501
+00:15:29,280 --> 00:15:32,200
+But I think the key economic principle
+
+502
+00:15:32,200 --> 00:15:35,120
+is work can be created faster
+
+503
+00:15:35,120 --> 00:15:36,920
+than it can be destroyed.
+
+504
+00:15:36,920 --> 00:15:38,600
+And we can destroy it pretty fast.
+
+505
+00:15:38,600 --> 00:15:40,200
+We can industrialize it and automate it
+
+506
+00:15:40,200 --> 00:15:42,320
+and build all these tools pretty fast.
+
+507
+00:15:42,320 --> 00:15:43,920
+But not as quickly as we can create it.
+
+508
+00:15:43,920 --> 00:15:45,640
+And I think that we're going to be
+
+509
+00:15:45,640 --> 00:15:47,400
+in a sort of dialectic
+
+510
+00:15:47,400 --> 00:15:49,880
+where humans are doing a thing
+
+511
+00:15:49,880 --> 00:15:51,200
+and then computers learn
+
+512
+00:15:51,200 --> 00:15:52,040
+how to do that thing.
+
+513
+00:15:52,040 --> 00:15:53,560
+And then humans do another thing,
+
+514
+00:15:53,560 --> 00:15:55,120
+like a new trick
+
+515
+00:15:55,120 --> 00:15:55,880
+that we then teach
+
+516
+00:15:55,880 --> 00:15:56,840
+the robots and then
+
+517
+00:15:56,840 --> 00:15:58,560
+we're going to keep doing that dialectic
+
+518
+00:15:58,560 --> 00:16:00,640
+for a lot longer than people think.
+
+519
+00:16:00,640 --> 00:16:04,400
+And I think that you want to design
+
+520
+00:16:04,400 --> 00:16:06,560
+your business model around that,
+
+521
+00:16:06,560 --> 00:16:07,640
+or at least our business model
+
+522
+00:16:07,640 --> 00:16:08,760
+has been designed around that.
+
+523
+00:16:08,760 --> 00:16:10,280
+I think that those are going to be
+
+524
+00:16:10,280 --> 00:16:12,040
+the really interesting opportunities.
+
+525
+00:16:12,040 --> 00:16:14,720
+Not necessarily the selling pure,
+
+526
+00:16:14,720 --> 00:16:17,200
+pure SaaS, pure tools.
+
+527
+00:16:17,200 --> 00:16:18,840
+Francis, why do you care
+
+528
+00:16:18,840 --> 00:16:20,320
+so much about this? Why?
+
+529
+00:16:20,320 --> 00:16:21,626
+I mean, I saw how much you cared
+
+530
+00:16:21,627 --> 00:16:22,360
+about Everest.
+
+531
+00:16:22,360 --> 00:16:23,280
+I saw that passion.
+
+532
+00:16:23,280 --> 00:16:24,680
+And I'm seeing the passion now.
+
+533
+00:16:24,680 --> 00:16:26,440
+I'm feeling as if I'm back
+
+534
+00:16:26,440 --> 00:16:29,040
+in that MIT class in 2013.
+
+535
+00:16:29,040 --> 00:16:30,240
+Why do you care so much
+
+536
+00:16:30,240 --> 00:16:31,840
+about this stuff?
+
+537
+00:16:33,680 --> 00:16:34,960
+Because the future doesn't,
+
+538
+00:16:34,960 --> 00:16:36,320
+I mean, almost by definition,
+
+539
+00:16:36,320 --> 00:16:38,080
+should be very different than the past
+
+540
+00:16:38,080 --> 00:16:40,680
+and presumably better.
+
+541
+00:16:40,680 --> 00:16:41,840
+And I think one way
+
+542
+00:16:41,840 --> 00:16:44,280
+of thinking about it is
+
+543
+00:16:44,280 --> 00:16:45,920
+if you saw a human being
+
+544
+00:16:45,920 --> 00:16:47,400
+that was seven feet tall,
+
+545
+00:16:47,400 --> 00:16:47,680
+you'd be like,
+
+546
+00:16:47,680 --> 00:16:49,040
+wow, that person is pretty tall.
+
+547
+00:16:49,040 --> 00:16:50,040
+You saw a human being
+
+548
+00:16:50,040 --> 00:16:51,480
+that was eight feet tall.
+
+549
+00:16:51,480 --> 00:16:52,080
+You'd be like, are you
+
+550
+00:16:52,080 --> 00:16:53,520
+in the Guinness Book of World Records?
+
+551
+00:16:53,520 --> 00:16:54,520
+Like, you're like
+
+552
+00:16:54,520 --> 00:16:56,800
+three standard deviations, tall.
+
+553
+00:16:56,800 --> 00:16:57,960
+If you saw a human being
+
+554
+00:16:57,960 --> 00:16:59,360
+that was 70 feet tall,
+
+555
+00:16:59,360 --> 00:17:00,760
+you'd call the military.
+
+556
+00:17:00,760 --> 00:17:01,480
+It's an alien.
+
+557
+00:17:01,480 --> 00:17:02,520
+It's not a human anymore.
+
+558
+00:17:02,520 --> 00:17:04,400
+It's like, you know, it's Godzilla.
+
+559
+00:17:04,400 --> 00:17:05,120
+It's a giant.
+
+560
+00:17:05,120 --> 00:17:06,520
+There are just not
+
+561
+00:17:06,520 --> 00:17:08,680
+80 foot tall humans.
+
+562
+00:17:08,680 --> 00:17:10,040
+But that's a metaphor
+
+563
+00:17:10,040 --> 00:17:11,520
+for what is possible
+
+564
+00:17:11,520 --> 00:17:13,600
+with productivity gains.
+
+565
+00:17:13,600 --> 00:17:16,080
+And I think that
+
+566
+00:17:16,080 --> 00:17:17,880
+the mindset of Silicon Valley
+
+567
+00:17:17,880 --> 00:17:19,960
+has been the Turing test,
+
+568
+00:17:19,960 --> 00:17:21,654
+which is when can computers do
+
+569
+00:17:21,655 --> 00:17:23,398
+all the things that humans can do
+
+570
+00:17:23,399 --> 00:17:24,240
+that we can't tell.
+
+571
+00:17:24,240 --> 00:17:26,200
+And I think that that's the wrong test
+
+572
+00:17:26,200 --> 00:17:26,920
+for a number of reasons.
+
+573
+00:17:26,920 --> 00:17:28,020
+I think the more interesting test
+
+574
+00:17:28,021 --> 00:17:29,742
+is the da Vinci test, which is I think
+
+575
+00:17:29,743 --> 00:17:31,800
+Steve Jobs's original intent.
+
+576
+00:17:31,800 --> 00:17:34,840
+Which is, you know,
+
+577
+00:17:34,840 --> 00:17:36,120
+in the 21st century,
+
+578
+00:17:36,120 --> 00:17:37,560
+when will the average person
+
+579
+00:17:37,560 --> 00:17:38,960
+be more productive
+
+580
+00:17:38,960 --> 00:17:41,080
+than the most productive person
+
+581
+00:17:41,080 --> 00:17:44,080
+in the 15th century.
+
+582
+00:17:44,080 --> 00:17:48,440
+And I think that in sort of a
+
+583
+00:17:48,440 --> 00:17:52,120
+a one on one productivity test,
+
+584
+00:17:52,120 --> 00:17:53,840
+da Vinci with his piece of paper,
+
+585
+00:17:53,840 --> 00:17:56,320
+would school any millennial
+
+586
+00:17:56,320 --> 00:17:58,160
+with their laptop and iPhone.
+
+587
+00:17:58,160 --> 00:17:59,320
+And I think that
+
+588
+00:17:59,320 --> 00:18:00,800
+that's the embarrassing thing.
+
+589
+00:18:00,800 --> 00:18:03,760
+That we have all this information
+
+590
+00:18:03,760 --> 00:18:05,280
+and all these tools,
+
+591
+00:18:05,280 --> 00:18:06,480
+and yet we're spending
+
+592
+00:18:06,480 --> 00:18:07,480
+so much of our time
+
+593
+00:18:07,480 --> 00:18:08,440
+not being creative
+
+594
+00:18:08,440 --> 00:18:10,080
+and not being strategic.
+
+595
+00:18:10,080 --> 00:18:13,800
+So, I think part of my message is,
+
+596
+00:18:13,800 --> 00:18:15,320
+is deeply optimistic.
+
+597
+00:18:15,321 --> 00:18:18,560
+I think I really believe in the good
+
+598
+00:18:18,561 --> 00:18:21,320
+that humans are capable of.
+
+599
+00:18:21,320 --> 00:18:24,160
+But part of it is like a real
+
+600
+00:18:24,520 --> 00:18:26,000
+reprimand in a sense,
+
+601
+00:18:26,000 --> 00:18:26,960
+like an exhortation.
+
+602
+00:18:26,960 --> 00:18:28,377
+Like we,
+
+603
+00:18:28,378 --> 00:18:32,266
+Harvard said that up to 50%,
+
+604
+00:18:32,267 --> 00:18:34,880
+41% of the average knowledge workers time
+
+605
+00:18:34,880 --> 00:18:37,000
+is spent doing work that is repetitive.
+
+606
+00:18:37,000 --> 00:18:38,520
+And I think we just did not
+
+607
+00:18:38,520 --> 00:18:39,640
+get the education
+
+608
+00:18:39,640 --> 00:18:40,920
+and the opportunities that we have.
+
+609
+00:18:40,920 --> 00:18:42,640
+And we do not live
+
+610
+00:18:42,640 --> 00:18:44,200
+in this incredible era
+
+611
+00:18:44,200 --> 00:18:45,560
+in order to spend half
+
+612
+00:18:45,560 --> 00:18:48,640
+of our time doing irrelevant,
+
+613
+00:18:48,640 --> 00:18:50,520
+doing work that
+
+614
+00:18:50,760 --> 00:18:52,760
+isn't our highest contribution.
+
+615
+00:18:52,760 --> 00:18:53,000
+Right?
+
+616
+00:18:53,000 --> 00:18:54,670
+And we should have a certain urgency
+
+617
+00:18:54,671 --> 00:19:00,640
+around solving problems, creating things.
+
+618
+00:19:00,640 --> 00:19:02,480
+And I think that,
+
+619
+00:19:02,600 --> 00:19:04,657
+Peter Thiel has I think,
+
+620
+00:19:04,658 --> 00:19:05,920
+has the right philosophy,
+
+621
+00:19:05,920 --> 00:19:07,640
+the right pessimism
+
+622
+00:19:07,640 --> 00:19:09,400
+in his basic message,
+
+623
+00:19:09,400 --> 00:19:11,000
+which is that like, you know,
+
+624
+00:19:11,000 --> 00:19:12,200
+the iPhone is new,
+
+625
+00:19:12,200 --> 00:19:13,520
+our digital devices are new,
+
+626
+00:19:13,520 --> 00:19:15,080
+but when you walk around our cities,
+
+627
+00:19:15,080 --> 00:19:15,920
+they still feel like
+
+628
+00:19:15,920 --> 00:19:17,320
+they're in the 20th century.
+
+629
+00:19:17,320 --> 00:19:18,440
+Why is that.
+
+630
+00:19:18,440 --> 00:19:19,440
+You know.
+
+631
+00:19:19,440 --> 00:19:23,080
+And I think that there are,
+
+632
+00:19:23,080 --> 00:19:24,241
+Cathie Wood in ARK Invest
+
+633
+00:19:24,242 --> 00:19:26,760
+talks about five technology platforms
+
+634
+00:19:26,760 --> 00:19:27,840
+that are disrupting
+
+635
+00:19:27,840 --> 00:19:29,080
+pretty much have the potential
+
+636
+00:19:29,080 --> 00:19:31,920
+to disrupt every aspect of our society.
+
+637
+00:19:31,920 --> 00:19:33,031
+I think the five are,
+
+638
+00:19:33,231 --> 00:19:34,720
+I'm going to hope I get this right:
+
+639
+00:19:34,720 --> 00:19:36,600
+FinTech and blockchain
+
+640
+00:19:36,600 --> 00:19:40,360
+robotics and industrial automation,
+
+641
+00:19:40,360 --> 00:19:41,400
+AI and automation,
+
+642
+00:19:41,400 --> 00:19:42,120
+which Invisible is in,
+
+643
+00:19:42,120 --> 00:19:43,640
+and sort of software automation
+
+644
+00:19:43,640 --> 00:19:45,200
+enterprise tools,
+
+645
+00:19:45,200 --> 00:19:47,400
+the genomic revolution,
+
+646
+00:19:47,400 --> 00:19:48,000
+everything is happening
+
+647
+00:19:48,000 --> 00:19:50,520
+with CRISPR and gene editing
+
+648
+00:19:50,520 --> 00:19:53,560
+and everything that's happening
+
+649
+00:19:53,560 --> 00:19:54,760
+with autonomous vehicles.
+
+650
+00:19:54,760 --> 00:19:57,200
+I think those are the five.
+
+651
+00:19:57,200 --> 00:20:00,000
+But the reason I list them out
+
+652
+00:20:00,000 --> 00:20:02,400
+is that there's, you know,
+
+653
+00:20:02,400 --> 00:20:03,919
+this is such an exciting time
+
+654
+00:20:03,920 --> 00:20:04,600
+to be alive.
+
+655
+00:20:04,600 --> 00:20:05,600
+But we kind of have
+
+656
+00:20:05,600 --> 00:20:10,200
+to have a fire about it.
+
+657
+00:20:10,200 --> 00:20:11,240
+What's the phrase,
+
+658
+00:20:11,240 --> 00:20:13,720
+"light a fire under your ass".
+
+659
+00:20:13,720 --> 00:20:15,400
+I can definitely feel the fire,
+
+660
+00:20:15,400 --> 00:20:16,960
+the passion, the urgency.
+
+661
+00:20:16,960 --> 00:20:18,280
+I'm getting so much inspiration.
+
+662
+00:20:18,280 --> 00:20:20,040
+But Francis, before we end,
+
+663
+00:20:20,040 --> 00:20:20,800
+you have to tell me
+
+664
+00:20:20,800 --> 00:20:21,920
+the Peter Thiel story.
+
+665
+00:20:21,920 --> 00:20:23,640
+You told it to me seven years ago
+
+666
+00:20:23,640 --> 00:20:25,320
+back in MIT launch with Everest.
+
+667
+00:20:25,320 --> 00:20:27,320
+I need the short version now
+
+668
+00:20:27,320 --> 00:20:28,040
+for the audience.
+
+669
+00:20:28,040 --> 00:20:29,360
+Because it will be just fascinating.
+
+670
+00:20:29,360 --> 00:20:30,400
+If you feel comfortable with it,
+
+671
+00:20:30,400 --> 00:20:31,880
+of course.
+
+672
+00:20:32,400 --> 00:20:33,760
+Sure.
+
+673
+00:20:34,760 --> 00:20:36,600
+So, yeah.
+
+674
+00:20:36,600 --> 00:20:38,760
+He is one of the people
+
+675
+00:20:38,760 --> 00:20:39,855
+that I look up to most.
+
+676
+00:20:39,856 --> 00:20:40,760
+Still to this day,
+
+677
+00:20:40,760 --> 00:20:42,800
+I think he's an intellectual giant.
+
+678
+00:20:42,800 --> 00:20:46,920
+And I just graduated from college
+
+679
+00:20:46,920 --> 00:20:48,800
+and I was starting Everest
+
+680
+00:20:48,800 --> 00:20:50,800
+and I had some people interested
+
+681
+00:20:50,800 --> 00:20:52,280
+in investing but hadn't been able
+
+682
+00:20:52,280 --> 00:20:53,800
+to make a breakthrough there.
+
+683
+00:20:53,800 --> 00:20:56,200
+And I met someone at an airport.
+
+684
+00:20:56,200 --> 00:20:57,560
+You know,
+
+685
+00:20:58,000 --> 00:20:59,920
+right when pretty much
+
+686
+00:20:59,920 --> 00:21:01,400
+I was thinking about quitting
+
+687
+00:21:01,400 --> 00:21:02,920
+and I was working
+
+688
+00:21:02,920 --> 00:21:06,440
+on the designs for the app.
+
+689
+00:21:06,440 --> 00:21:07,260
+And somebody
+
+690
+00:21:07,261 --> 00:21:08,683
+looked over my shoulder
+
+691
+00:21:08,684 --> 00:21:09,800
+and saw the designs.
+
+692
+00:21:09,800 --> 00:21:11,600
+And then asked me some questions
+
+693
+00:21:11,600 --> 00:21:12,600
+and I answered them
+
+694
+00:21:12,600 --> 00:21:13,280
+and I told them about
+
+695
+00:21:13,280 --> 00:21:14,640
+the idea and he said,
+
+696
+00:21:14,640 --> 00:21:15,520
+"Would you like to raise money?"
+
+697
+00:21:15,520 --> 00:21:16,200
+And I said, "Yes."
+
+698
+00:21:16,200 --> 00:21:17,400
+And they said, "For who?"
+
+699
+00:21:17,400 --> 00:21:18,960
+Well, you know, from who
+
+700
+00:21:18,960 --> 00:21:19,840
+angels or VCs.
+
+701
+00:21:19,840 --> 00:21:20,326
+And I said,
+
+702
+00:21:20,327 --> 00:21:22,520
+"Angels. But specifically,
+
+703
+00:21:22,521 --> 00:21:24,084
+Peter Thiel."
+
+704
+00:21:24,085 --> 00:21:24,507
+He's like,
+
+705
+00:21:24,508 --> 00:21:25,400
+"Well, I actually happened
+
+706
+00:21:25,400 --> 00:21:26,560
+to go to Stanford with Peter
+
+707
+00:21:26,560 --> 00:21:28,800
+and I can introduce you."
+
+708
+00:21:28,800 --> 00:21:32,040
+And I spent half an hour,
+
+709
+00:21:32,040 --> 00:21:33,160
+tops, talking to Peter,
+
+710
+00:21:33,160 --> 00:21:34,320
+telling him about it.
+
+711
+00:21:34,320 --> 00:21:34,907
+And he said,
+
+712
+00:21:34,908 --> 00:21:36,680
+"Well, send me some some materials."
+
+713
+00:21:36,680 --> 00:21:38,040
+And I just wrote
+
+714
+00:21:38,040 --> 00:21:40,920
+a 50 page business plan.
+
+715
+00:21:40,921 --> 00:21:42,880
+Everest created one of the first
+
+716
+00:21:42,880 --> 00:21:43,800
+web based pitch decks.
+
+717
+00:21:43,800 --> 00:21:45,920
+And we released it right around Christmas
+
+718
+00:21:45,920 --> 00:21:46,760
+and didn't hear from him.
+
+719
+00:21:46,760 --> 00:21:48,720
+And then New Year's Eve,
+
+720
+00:21:48,721 --> 00:21:49,840
+sure, I'm in for 50k.
+
+721
+00:21:49,840 --> 00:21:51,760
+And then everyone else came in
+
+722
+00:21:51,760 --> 00:21:53,520
+and we raised two point six million
+
+723
+00:21:53,520 --> 00:21:54,760
+and did this journey
+
+724
+00:21:54,760 --> 00:21:56,680
+for three or four years.
+
+725
+00:21:56,800 --> 00:22:02,480
+And it was a lucky break.
+
+726
+00:22:02,480 --> 00:22:04,120
+But something I think
+
+727
+00:22:04,120 --> 00:22:05,720
+I'm always going to be grateful for
+
+728
+00:22:05,720 --> 00:22:09,160
+and I think they're still,
+
+729
+00:22:09,160 --> 00:22:11,320
+I think it's a good example of some magic,
+
+730
+00:22:11,320 --> 00:22:12,120
+you know.
+
+731
+00:22:12,120 --> 00:22:13,400
+There are certain things
+
+732
+00:22:13,400 --> 00:22:15,000
+like generally, you should operate
+
+733
+00:22:15,000 --> 00:22:16,800
+with assumption that every single win
+
+734
+00:22:16,800 --> 00:22:18,800
+you have to fully earn it.
+
+735
+00:22:18,801 --> 00:22:21,366
+And, you know,
+
+736
+00:22:21,367 --> 00:22:24,240
+but as I look back over my career,
+
+737
+00:22:24,240 --> 00:22:24,640
+there have been
+
+738
+00:22:24,640 --> 00:22:26,720
+a number of people that have
+
+739
+00:22:27,000 --> 00:22:29,040
+given me favor and key moments,
+
+740
+00:22:29,040 --> 00:22:34,560
+and those were fortunate circumstances,
+
+741
+00:22:34,560 --> 00:22:35,840
+I'm very grateful for them.
+
+742
+00:22:35,840 --> 00:22:37,720
+And I think that's part
+
+743
+00:22:37,720 --> 00:22:39,680
+of what made Silicon Valley great.
+
+744
+00:22:39,680 --> 00:22:43,640
+And I think it's still there.
+
+745
+00:22:43,680 --> 00:22:44,960
+Francis, I love it.
+
+746
+00:22:44,960 --> 00:22:46,280
+Thank you for sharing the story.
+
+747
+00:22:46,280 --> 00:22:46,840
+Thank you for sharing
+
+748
+00:22:46,840 --> 00:22:47,440
+all the other stories.
+
+749
+00:22:47,440 --> 00:22:49,440
+This was just inspiring
+
+750
+00:22:49,440 --> 00:22:51,160
+to listen to again
+
+751
+00:22:51,160 --> 00:22:53,120
+and with the new insights.
+
+752
+00:22:53,120 --> 00:22:54,320
+And I can't wait
+
+753
+00:22:54,320 --> 00:22:55,480
+to keep following your journey
+
+754
+00:22:55,480 --> 00:22:56,800
+and continue getting inspired.
+
+755
+00:22:56,800 --> 00:22:57,560
+So, thank you for everything
+
+756
+00:22:57,560 --> 00:22:58,800
+that you're doing.
+
+757
+00:22:58,800 --> 00:23:00,320
+Both to me, the listeners,
+
+758
+00:23:00,320 --> 00:23:01,120
+but also to humanity,
+
+759
+00:23:01,120 --> 00:23:02,240
+when with all the different products
+
+760
+00:23:02,240 --> 00:23:03,160
+that your building.
+
+761
+00:23:03,160 --> 00:23:04,480
+Before we leave, I have to ask you
+
+762
+00:23:04,480 --> 00:23:05,600
+the most important question,
+
+763
+00:23:05,600 --> 00:23:07,440
+which is three words that you
+
+764
+00:23:07,440 --> 00:23:08,560
+would use to describe yourself.
+
+765
+00:23:08,560 --> 00:23:09,000
+And I know that
+
+766
+00:23:09,000 --> 00:23:10,040
+I'm already keeping you late,
+
+767
+00:23:10,040 --> 00:23:11,040
+so thank you for being
+
+768
+00:23:11,040 --> 00:23:12,760
+generous with your time.
+
+769
+00:23:13,800 --> 00:23:14,444
+Yeah.
+
+770
+00:23:14,445 --> 00:23:19,080
+Iconoclast, classicist and amateur.
+
+771
+00:23:19,080 --> 00:23:21,200
+Iconoclast, because I tend
+
+772
+00:23:21,200 --> 00:23:23,960
+to go against the norms,
+
+773
+00:23:23,960 --> 00:23:25,880
+even when the norms are aesthetic.
+
+774
+00:23:25,880 --> 00:23:28,600
+Contrarian is a word we're familiar with.
+
+775
+00:23:28,600 --> 00:23:30,680
+But iconoclasm has a sort
+
+776
+00:23:30,680 --> 00:23:31,680
+of aesthetic connotation
+
+777
+00:23:31,680 --> 00:23:32,566
+that sometimes,
+
+778
+00:23:32,567 --> 00:23:34,512
+being a contrarian kind of,
+
+779
+00:23:34,513 --> 00:23:36,560
+it's actually unpopular and weird
+
+780
+00:23:36,560 --> 00:23:37,760
+and even can look ugly.
+
+781
+00:23:37,760 --> 00:23:39,560
+And it's like, what are you doing,
+
+782
+00:23:39,560 --> 00:23:40,960
+it's a weirdo.
+
+783
+00:23:40,960 --> 00:23:42,640
+And I think you have to embrace that.
+
+784
+00:23:42,640 --> 00:23:45,720
+And then classicists, because I think
+
+785
+00:23:45,720 --> 00:23:46,640
+that which is ancient,
+
+786
+00:23:46,640 --> 00:23:47,760
+is often futuristic.
+
+787
+00:23:47,760 --> 00:23:49,400
+There's the things that don't change
+
+788
+00:23:49,400 --> 00:23:50,560
+that you can learn the most from.
+
+789
+00:23:50,560 --> 00:23:52,400
+And I think reading original sources
+
+790
+00:23:52,400 --> 00:23:53,280
+in general is good,
+
+791
+00:23:53,280 --> 00:23:55,000
+and particularly when it comes to books.
+
+792
+00:23:55,000 --> 00:23:57,080
+I love reading books by dead people.
+
+793
+00:23:57,080 --> 00:23:59,880
+Then amateur, because
+
+794
+00:24:00,720 --> 00:24:03,120
+in the old word "amatore",
+
+795
+00:24:03,120 --> 00:24:05,160
+you have to have a certain love
+
+796
+00:24:05,160 --> 00:24:09,120
+for trying new things
+
+797
+00:24:09,120 --> 00:24:10,480
+and being like a child
+
+798
+00:24:10,480 --> 00:24:11,760
+and making mistakes.
+
+799
+00:24:11,760 --> 00:24:12,960
+So, I have many things
+
+800
+00:24:12,960 --> 00:24:14,160
+that I do that I'm not an expert in
+
+801
+00:24:14,160 --> 00:24:15,520
+by any stretch of the imagination.
+
+802
+00:24:15,520 --> 00:24:16,880
+Like I love to paint.
+
+803
+00:24:16,880 --> 00:24:20,800
+I love to learn about subjects
+
+804
+00:24:20,800 --> 00:24:22,160
+I know very little about.
+
+805
+00:24:22,160 --> 00:24:23,040
+Like I was reading a bunch
+
+806
+00:24:23,040 --> 00:24:25,200
+of white papers about
+
+807
+00:24:25,320 --> 00:24:26,240
+autonomous vehicles
+
+808
+00:24:26,240 --> 00:24:27,520
+and it's totally out of my depth.
+
+809
+00:24:27,520 --> 00:24:28,960
+But, hey, I think
+
+810
+00:24:28,960 --> 00:24:31,560
+that helps make you well-rounded.
+
+811
+00:24:31,560 --> 00:24:34,040
+And I think that
+
+812
+00:24:34,040 --> 00:24:35,360
+for a couple hundred years,
+
+813
+00:24:35,360 --> 00:24:36,040
+everyone's been trying
+
+814
+00:24:36,040 --> 00:24:37,600
+to become more specialized.
+
+815
+00:24:37,600 --> 00:24:38,600
+But I think going back
+
+816
+00:24:38,600 --> 00:24:39,720
+to the Renaissance idea
+
+817
+00:24:39,720 --> 00:24:43,000
+of being the polymath and being versatile
+
+818
+00:24:43,000 --> 00:24:44,480
+is a better way to go.
+
+819
+00:24:44,480 --> 00:24:46,280
+But to do that, you have to embrace
+
+820
+00:24:46,280 --> 00:24:48,360
+the identity of an amateur.
+
+821
+00:24:48,560 --> 00:24:50,120
+Francis, thank you so, so much.
+
+822
+00:24:50,120 --> 00:24:51,360
+This is wonderful.
+
+823
+00:24:51,360 --> 00:24:52,920
+Stay safe and stay healthy.
+
+824
+00:24:52,920 --> 00:24:54,480
+Thank you again.
+
+825
+00:24:55,560 --> 00:24:56,160
+Cheers Michael.
+

@@ -1,0 +1,3108 @@
+﻿1
+00:00:00,160 --> 00:00:01,880
+And very often data can tease that out,
+
+2
+00:00:01,880 --> 00:00:04,000
+we can learn how important price is
+
+3
+00:00:04,000 --> 00:00:04,600
+to the customer,
+
+4
+00:00:04,600 --> 00:00:05,960
+how important delivery time is
+
+5
+00:00:05,960 --> 00:00:06,960
+to the customer.
+
+6
+00:00:06,960 --> 00:00:07,920
+How many, you know,
+
+7
+00:00:07,920 --> 00:00:10,400
+I think a big part of any marketplace
+
+8
+00:00:10,400 --> 00:00:12,040
+is understanding that balance
+
+9
+00:00:12,040 --> 00:00:13,080
+of supply and demand
+
+10
+00:00:13,080 --> 00:00:15,760
+and how to not just like, forecast it,
+
+11
+00:00:15,760 --> 00:00:17,680
+but also act against it.
+
+12
+00:00:45,040 --> 00:00:45,760
+Peter Fishman,
+
+13
+00:00:45,760 --> 00:00:46,280
+thank you so much
+
+14
+00:00:46,280 --> 00:00:47,760
+for joining me on 20 Minute Leaders.
+
+15
+00:00:47,760 --> 00:00:49,360
+How are you today?
+
+16
+00:00:49,400 --> 00:00:50,880
+Doing well.
+
+17
+00:00:50,960 --> 00:00:53,200
+Calling from California?
+
+18
+00:00:53,200 --> 00:00:55,080
+I'm in San Francisco.
+
+19
+00:00:55,160 --> 00:00:57,680
+San Francisco. Lots to cover,
+
+20
+00:00:57,680 --> 00:00:58,880
+let's get into it.
+
+21
+00:00:58,880 --> 00:01:01,600
+A fascinating, fascinating journey.
+
+22
+00:01:01,600 --> 00:01:03,680
+I don't know how many more people
+
+23
+00:01:03,680 --> 00:01:04,720
+I've had in this show
+
+24
+00:01:04,720 --> 00:01:08,000
+that have so many different experiences
+
+25
+00:01:08,000 --> 00:01:09,240
+as you've had.
+
+26
+00:01:09,240 --> 00:01:11,200
+I even have to open it up
+
+27
+00:01:11,200 --> 00:01:12,760
+next to me in order to read it
+
+28
+00:01:12,760 --> 00:01:13,320
+which I have.
+
+29
+00:01:13,320 --> 00:01:14,080
+I don't think I've ever had
+
+30
+00:01:14,080 --> 00:01:15,080
+to do that before.
+
+31
+00:01:15,080 --> 00:01:15,800
+All the way starting
+
+32
+00:01:15,800 --> 00:01:17,280
+from studying economics
+
+33
+00:01:17,280 --> 00:01:19,720
+at a London School of Economics
+
+34
+00:01:19,720 --> 00:01:21,080
+to doing your bachelor
+
+35
+00:01:21,080 --> 00:01:23,440
+also at Duke. University of California,
+
+36
+00:01:23,440 --> 00:01:25,400
+Berkeley, doing your PhD.
+
+37
+00:01:25,440 --> 00:01:27,760
+And then you're moving
+
+38
+00:01:27,760 --> 00:01:30,720
+to NERA Economic Consulting, Google,
+
+39
+00:01:30,720 --> 00:01:31,840
+Philadelphia Eagles,
+
+40
+00:01:31,840 --> 00:01:33,040
+the Parthenon Group,
+
+41
+00:01:33,040 --> 00:01:36,400
+Playdom, economist in Walt Disney,
+
+42
+00:01:36,400 --> 00:01:38,320
+director of analytics at Yammer,
+
+43
+00:01:38,320 --> 00:01:39,880
+principal data science manager
+
+44
+00:01:39,880 --> 00:01:41,240
+at Microsoft,
+
+45
+00:01:41,240 --> 00:01:44,080
+VP of analytics and growth at Zenefits,
+
+46
+00:01:44,080 --> 00:01:45,840
+an amazing company.
+
+47
+00:01:45,840 --> 00:01:47,920
+Head of analytics at Opendoor,
+
+48
+00:01:47,920 --> 00:01:49,440
+chief bacon officer at Bacon Hot Sauce.
+
+49
+00:01:49,440 --> 00:01:51,400
+You also have to explain to me what that is.
+
+50
+00:01:51,400 --> 00:01:52,960
+And most recently,
+
+51
+00:01:52,960 --> 00:01:55,520
+your are chief strategy officer of Eaze,
+
+52
+00:01:55,520 --> 00:01:56,080
+a company that
+
+53
+00:01:56,080 --> 00:01:57,400
+a lot of our friends in California
+
+54
+00:01:57,400 --> 00:01:58,360
+will know what it's about
+
+55
+00:01:58,360 --> 00:01:59,880
+and you'll explain to us soon.
+
+56
+00:01:59,880 --> 00:02:01,080
+And now, the co-founder
+
+57
+00:02:01,080 --> 00:02:02,560
+of your own company, Mozart Data.
+
+58
+00:02:02,560 --> 00:02:04,000
+Did I get any of that right?
+
+59
+00:02:04,000 --> 00:02:06,160
+Or am I completely off?
+
+60
+00:02:06,160 --> 00:02:07,560
+It's a nice walk down memory lane.
+
+61
+00:02:07,560 --> 00:02:08,360
+But, yeah.
+
+62
+00:02:08,360 --> 00:02:10,680
+I spend a lot of different companies
+
+63
+00:02:10,680 --> 00:02:12,200
+and a lot of different careers
+
+64
+00:02:12,200 --> 00:02:14,240
+with some common themes there.
+
+65
+00:02:14,240 --> 00:02:16,240
+I need about 19 minutes of breather
+
+66
+00:02:16,240 --> 00:02:17,880
+after reading that list.
+
+67
+00:02:17,880 --> 00:02:19,520
+Peter, what the hell.
+
+68
+00:02:19,520 --> 00:02:21,280
+How does a person
+
+69
+00:02:21,280 --> 00:02:22,960
+go through a list like this?
+
+70
+00:02:22,960 --> 00:02:24,400
+How does that happen?
+
+71
+00:02:24,400 --> 00:02:25,400
+Yeah. Well, so,
+
+72
+00:02:25,400 --> 00:02:26,640
+I think you hit on one thing.
+
+73
+00:02:26,640 --> 00:02:27,960
+I'm an economist by trade.
+
+74
+00:02:27,960 --> 00:02:31,680
+So, I did my PhD in economics
+
+75
+00:02:31,680 --> 00:02:34,120
+in the bay about eight miles east
+
+76
+00:02:34,120 --> 00:02:35,520
+of where I'm currently living
+
+77
+00:02:35,520 --> 00:02:36,600
+at UC Berkeley.
+
+78
+00:02:36,600 --> 00:02:39,000
+It was a really special time
+
+79
+00:02:39,000 --> 00:02:40,960
+to be in behavioral economics
+
+80
+00:02:40,960 --> 00:02:44,160
+and applied behavioral economics.
+
+81
+00:02:44,160 --> 00:02:46,200
+And I was working with a lot of data
+
+82
+00:02:46,200 --> 00:02:49,760
+and sort of getting that training
+
+83
+00:02:49,760 --> 00:02:52,280
+and sort of teasing causality
+
+84
+00:02:52,280 --> 00:02:53,240
+out of a data set
+
+85
+00:02:53,240 --> 00:02:54,440
+and trying to understand
+
+86
+00:02:54,440 --> 00:02:57,760
+what's driving certain things
+
+87
+00:02:57,760 --> 00:03:00,240
+that are happening simultaneously,
+
+88
+00:03:00,240 --> 00:03:03,400
+is a really interesting tool set
+
+89
+00:03:03,400 --> 00:03:06,280
+that I learned in graduate school.
+
+90
+00:03:06,280 --> 00:03:08,840
+And then there was sort of
+
+91
+00:03:08,840 --> 00:03:11,000
+this really nice movement towards
+
+92
+00:03:11,000 --> 00:03:12,960
+using more and more and more data
+
+93
+00:03:12,960 --> 00:03:15,200
+as it became more ubiquitous
+
+94
+00:03:15,200 --> 00:03:18,360
+in tooling and decision making
+
+95
+00:03:18,360 --> 00:03:20,920
+and then more and more cost effective
+
+96
+00:03:20,920 --> 00:03:22,360
+so that organizations beyond
+
+97
+00:03:22,360 --> 00:03:24,080
+just the giant tech companies
+
+98
+00:03:24,080 --> 00:03:25,960
+could really use data
+
+99
+00:03:25,960 --> 00:03:27,920
+to advance their decision making.
+
+100
+00:03:27,920 --> 00:03:30,360
+And that's kind of been
+
+101
+00:03:30,360 --> 00:03:33,720
+a common thread of my career.
+
+102
+00:03:33,720 --> 00:03:35,280
+Right. I mean, you can literally see
+
+103
+00:03:35,280 --> 00:03:37,160
+the thread as you're transitioning
+
+104
+00:03:37,160 --> 00:03:39,280
+from being an economist
+
+105
+00:03:39,280 --> 00:03:41,360
+and an analyst at these companies
+
+106
+00:03:41,360 --> 00:03:43,120
+to then running
+
+107
+00:03:43,120 --> 00:03:44,440
+the analytics and growth,
+
+108
+00:03:44,440 --> 00:03:46,160
+but then transitioning
+
+109
+00:03:46,160 --> 00:03:48,280
+into strategy in data science.
+
+110
+00:03:48,280 --> 00:03:50,080
+And then most recently,
+
+111
+00:03:50,080 --> 00:03:51,320
+the company that you're running now,
+
+112
+00:03:51,320 --> 00:03:52,360
+Mozart Data, which we'll talk
+
+113
+00:03:52,360 --> 00:03:53,280
+about it soon,
+
+114
+00:03:53,280 --> 00:03:55,520
+is really helping companies
+
+115
+00:03:55,520 --> 00:03:56,840
+analyze the data, pretty much the work
+
+116
+00:03:56,840 --> 00:03:58,120
+that you've been doing across
+
+117
+00:03:58,120 --> 00:03:59,160
+about a dozen
+
+118
+00:03:59,160 --> 00:04:00,880
+of these fantastic organizations.
+
+119
+00:04:00,880 --> 00:04:02,600
+But, Peter, before we get to Mozart Data,
+
+120
+00:04:02,600 --> 00:04:03,680
+I'll leave that for the second half.
+
+121
+00:04:03,680 --> 00:04:04,800
+I'd love to pick your brain
+
+122
+00:04:04,800 --> 00:04:06,320
+on these nuggets and experiences
+
+123
+00:04:06,320 --> 00:04:08,040
+from these different companies.
+
+124
+00:04:08,040 --> 00:04:09,560
+As an economist,
+
+125
+00:04:09,560 --> 00:04:11,840
+what is the role of an economist
+
+126
+00:04:11,840 --> 00:04:13,880
+within these tech organizations?
+
+127
+00:04:13,880 --> 00:04:15,440
+And when I look at also Walt Disney
+
+128
+00:04:15,440 --> 00:04:17,400
+I think of it as a technology company
+
+129
+00:04:17,400 --> 00:04:18,920
+like any other.
+
+130
+00:04:18,920 --> 00:04:23,400
+So, a lot of larger companies
+
+131
+00:04:23,400 --> 00:04:25,640
+have economists that opine
+
+132
+00:04:25,640 --> 00:04:28,320
+on the direction of the economy
+
+133
+00:04:28,320 --> 00:04:30,040
+because so much
+
+134
+00:04:30,040 --> 00:04:32,120
+of the investment of people
+
+135
+00:04:32,120 --> 00:04:34,200
+and resources depends on like
+
+136
+00:04:34,200 --> 00:04:35,000
+basically the bigger
+
+137
+00:04:35,000 --> 00:04:36,680
+macroeconomic picture.
+
+138
+00:04:36,680 --> 00:04:39,240
+That's actually not at all what I do.
+
+139
+00:04:39,240 --> 00:04:41,000
+An economist in my mind
+
+140
+00:04:41,000 --> 00:04:45,560
+is about using an economic toolset
+
+141
+00:04:45,560 --> 00:04:47,880
+to understand data.
+
+142
+00:04:47,880 --> 00:04:50,040
+So, thinking about
+
+143
+00:04:50,080 --> 00:04:51,880
+kind of some of that training
+
+144
+00:04:51,880 --> 00:04:52,440
+and some of that
+
+145
+00:04:52,440 --> 00:04:55,280
+sort of micro economic decision making
+
+146
+00:04:55,280 --> 00:04:56,840
+and how that impacts
+
+147
+00:04:56,840 --> 00:05:00,880
+the sort of macrovision of a company.
+
+148
+00:05:00,880 --> 00:05:04,320
+So, I think a lot of what I do,
+
+149
+00:05:04,320 --> 00:05:06,560
+though, my title is often economist
+
+150
+00:05:06,560 --> 00:05:08,920
+and then my training as of to economist,
+
+151
+00:05:08,920 --> 00:05:11,600
+I'm just an applied statistician
+
+152
+00:05:11,600 --> 00:05:13,480
+that happens to have taken some
+
+153
+00:05:13,480 --> 00:05:14,960
+economics classes.
+
+154
+00:05:14,960 --> 00:05:16,400
+So, I think with that,
+
+155
+00:05:16,400 --> 00:05:17,840
+Yeah. So, I think there's,
+
+156
+00:05:17,840 --> 00:05:19,680
+the common theme there is
+
+157
+00:05:19,680 --> 00:05:22,760
+that economists have a really good way,
+
+158
+00:05:22,760 --> 00:05:24,720
+in my mind, of thinking about
+
+159
+00:05:24,720 --> 00:05:26,720
+causality and prediction.
+
+160
+00:05:26,720 --> 00:05:29,120
+Of modeling data. Right?
+
+161
+00:05:29,480 --> 00:05:29,880
+Yeah.
+
+162
+00:05:29,880 --> 00:05:30,840
+Of thinking about kind
+
+163
+00:05:30,840 --> 00:05:32,840
+of the relationship between two things
+
+164
+00:05:32,840 --> 00:05:34,800
+that are happening.
+
+165
+00:05:34,800 --> 00:05:36,200
+And that's because
+
+166
+00:05:36,200 --> 00:05:37,560
+data used to be a lot smaller.
+
+167
+00:05:37,560 --> 00:05:38,440
+So, when I did my PhD,
+
+168
+00:05:38,440 --> 00:05:39,880
+I had a giant giant,
+
+169
+00:05:39,880 --> 00:05:41,880
+giant, giant, giant data set,
+
+170
+00:05:41,880 --> 00:05:42,440
+which was about
+
+171
+00:05:42,440 --> 00:05:44,600
+half a million observations.
+
+172
+00:05:44,600 --> 00:05:46,280
+Today, if we saw a data set
+
+173
+00:05:46,280 --> 00:05:48,640
+of half a million observations,
+
+174
+00:05:48,640 --> 00:05:53,480
+it would be, you know,
+
+175
+00:05:53,480 --> 00:05:55,920
+it would be of events that people
+
+176
+00:05:55,920 --> 00:05:57,080
+might have picked up in minutes
+
+177
+00:05:57,080 --> 00:05:58,760
+or even less.
+
+178
+00:05:58,760 --> 00:06:00,080
+So, what used to
+
+179
+00:06:00,080 --> 00:06:02,000
+sort of count as a giant data set
+
+180
+00:06:02,000 --> 00:06:07,280
+is now a very, very trivial data set.
+
+181
+00:06:07,280 --> 00:06:11,240
+And but because data was small,
+
+182
+00:06:11,240 --> 00:06:13,240
+you had to think of really clever ways
+
+183
+00:06:13,240 --> 00:06:14,680
+of understanding the world
+
+184
+00:06:14,680 --> 00:06:16,520
+and understanding relationships
+
+185
+00:06:16,520 --> 00:06:16,960
+in the data.
+
+186
+00:06:16,960 --> 00:06:18,760
+And sometimes that meant things
+
+187
+00:06:18,760 --> 00:06:25,480
+like describing a mechanism of behavior
+
+188
+00:06:25,480 --> 00:06:27,400
+that would sort of account
+
+189
+00:06:27,400 --> 00:06:28,880
+for these two things,
+
+190
+00:06:28,880 --> 00:06:30,200
+covariance with each other.
+
+191
+00:06:30,200 --> 00:06:31,960
+And sometimes that would be actually
+
+192
+00:06:31,960 --> 00:06:33,600
+sort of these fake experiments
+
+193
+00:06:33,600 --> 00:06:35,040
+that would be existing in the data.
+
+194
+00:06:35,040 --> 00:06:36,240
+They weren't real experiments.
+
+195
+00:06:36,240 --> 00:06:36,760
+They weren't like
+
+196
+00:06:36,760 --> 00:06:38,280
+scientific method experiments
+
+197
+00:06:38,280 --> 00:06:39,840
+where you try condition A,
+
+198
+00:06:39,840 --> 00:06:41,320
+and condition B and see
+
+199
+00:06:41,320 --> 00:06:42,160
+which one's the winner,
+
+200
+00:06:42,160 --> 00:06:43,920
+which is so prevalent
+
+201
+00:06:43,920 --> 00:06:45,240
+in today's A/B testing
+
+202
+00:06:45,240 --> 00:06:46,760
+and other forms of testing.
+
+203
+00:06:46,760 --> 00:06:49,440
+But rather, things that were
+
+204
+00:06:49,440 --> 00:06:51,920
+sort of almost a natural experiment
+
+205
+00:06:51,920 --> 00:06:52,960
+that would occur in the data,
+
+206
+00:06:52,960 --> 00:06:54,040
+and you would have small data
+
+207
+00:06:54,040 --> 00:06:54,720
+and you'd want
+
+208
+00:06:54,720 --> 00:06:56,560
+to tease out that causal relationship
+
+209
+00:06:56,560 --> 00:06:58,240
+and think about in a deep way
+
+210
+00:06:58,240 --> 00:06:59,560
+about in what ways
+
+211
+00:06:59,560 --> 00:07:01,520
+is this not a real experiment.
+
+212
+00:07:01,520 --> 00:07:04,960
+So, that training, I think,
+
+213
+00:07:04,960 --> 00:07:07,600
+really helped as we transitioned
+
+214
+00:07:07,600 --> 00:07:09,080
+at smaller tech companies
+
+215
+00:07:09,080 --> 00:07:10,480
+from essentially small data
+
+216
+00:07:10,480 --> 00:07:12,960
+to almost everybody having big data
+
+217
+00:07:12,960 --> 00:07:14,840
+due to a lot of cost efficiencies
+
+218
+00:07:14,840 --> 00:07:17,080
+that have come up on the data side.
+
+219
+00:07:17,520 --> 00:07:19,760
+That transition from an economist
+
+220
+00:07:19,760 --> 00:07:22,520
+or an analyst to running analytics
+
+221
+00:07:22,520 --> 00:07:23,960
+to being head of analytics,
+
+222
+00:07:23,960 --> 00:07:24,880
+head of growth,
+
+223
+00:07:24,880 --> 00:07:28,800
+both at Zenefits and then at Opendoor,
+
+224
+00:07:29,040 --> 00:07:31,160
+how is that transition?
+
+225
+00:07:31,160 --> 00:07:32,400
+What is the thinking process?
+
+226
+00:07:32,400 --> 00:07:34,040
+Because to me, it sounds like
+
+227
+00:07:34,040 --> 00:07:36,280
+it's a little bit even more dramatic
+
+228
+00:07:36,280 --> 00:07:37,440
+than being an engineer
+
+229
+00:07:37,440 --> 00:07:39,160
+to a head of engineering.
+
+230
+00:07:39,160 --> 00:07:40,000
+Here, you're really,
+
+231
+00:07:40,000 --> 00:07:41,160
+because you keep saying,
+
+232
+00:07:41,160 --> 00:07:43,920
+economists is the thinking of causality
+
+233
+00:07:43,920 --> 00:07:45,000
+and what impacts
+
+234
+00:07:45,000 --> 00:07:47,720
+in modeling data to see trends.
+
+235
+00:07:47,720 --> 00:07:49,080
+And in one hand, you're modeling
+
+236
+00:07:49,080 --> 00:07:50,240
+you know, a subset of the data
+
+237
+00:07:50,240 --> 00:07:51,880
+as in your position,
+
+238
+00:07:51,880 --> 00:07:53,120
+it sounds to me like
+
+239
+00:07:53,120 --> 00:07:54,040
+being head of analytics
+
+240
+00:07:54,040 --> 00:07:55,840
+is now thinking much more broadly
+
+241
+00:07:55,840 --> 00:07:57,600
+about, okay, where are we headed,
+
+242
+00:07:57,600 --> 00:07:59,400
+what can we extrapolate from the data,
+
+243
+00:07:59,400 --> 00:08:00,480
+and what can we request
+
+244
+00:08:00,480 --> 00:08:01,680
+from the engineering
+
+245
+00:08:01,680 --> 00:08:03,440
+to provide us for the future?
+
+246
+00:08:03,440 --> 00:08:03,960
+Yeah.
+
+247
+00:08:03,960 --> 00:08:05,400
+So, my first year at graduate school,
+
+248
+00:08:05,400 --> 00:08:07,560
+I read Moneyball,
+
+249
+00:08:07,560 --> 00:08:09,480
+which was for many folks
+
+250
+00:08:09,480 --> 00:08:11,080
+in the analytics industry,
+
+251
+00:08:11,080 --> 00:08:13,400
+that was a very sort of defining book.
+
+252
+00:08:13,400 --> 00:08:14,400
+It's Michael Lewis's book
+
+253
+00:08:14,400 --> 00:08:15,240
+on the Oakland A's
+
+254
+00:08:15,240 --> 00:08:16,840
+and I was going to graduate school,
+
+255
+00:08:16,840 --> 00:08:18,880
+just one town north of Oakland.
+
+256
+00:08:18,880 --> 00:08:22,960
+And then ultimately, I became
+
+257
+00:08:22,960 --> 00:08:24,960
+sort of the Moneyballer
+
+258
+00:08:24,960 --> 00:08:26,200
+at the Philadelphia Eagles.
+
+259
+00:08:26,200 --> 00:08:28,160
+Which is I use my graduate training
+
+260
+00:08:28,160 --> 00:08:30,400
+to pull out sort of insights
+
+261
+00:08:30,400 --> 00:08:32,720
+about players and football activity
+
+262
+00:08:32,720 --> 00:08:35,600
+at the Eagles.
+
+263
+00:08:35,600 --> 00:08:38,560
+And what I learned there
+
+264
+00:08:38,560 --> 00:08:40,240
+was really about
+
+265
+00:08:40,240 --> 00:08:42,080
+impact across an organization,
+
+266
+00:08:42,080 --> 00:08:44,040
+which is very often
+
+267
+00:08:44,040 --> 00:08:45,320
+there can be an insight.
+
+268
+00:08:45,320 --> 00:08:46,920
+Like it's good to go for two
+
+269
+00:08:46,920 --> 00:08:49,720
+when you're down by 14.
+
+270
+00:08:49,720 --> 00:08:51,640
+Or, it's good to trade out
+
+271
+00:08:51,640 --> 00:08:52,760
+of the first round.
+
+272
+00:08:52,760 --> 00:08:54,920
+Or something that the data clearly,
+
+273
+00:08:54,920 --> 00:08:56,320
+or it's good to go for it on fourth
+
+274
+00:08:56,320 --> 00:08:57,960
+and short, whatever it is,
+
+275
+00:08:57,960 --> 00:08:59,880
+the data might back that out
+
+276
+00:08:59,880 --> 00:09:01,520
+and might be convincing
+
+277
+00:09:01,520 --> 00:09:02,760
+in an academic way,
+
+278
+00:09:02,760 --> 00:09:04,400
+but there's real people.
+
+279
+00:09:04,400 --> 00:09:06,600
+And you don't get to really run all
+
+280
+00:09:06,600 --> 00:09:07,640
+the experiments you want
+
+281
+00:09:07,640 --> 00:09:08,480
+in the real world.
+
+282
+00:09:08,480 --> 00:09:09,360
+And sort of having
+
+283
+00:09:09,360 --> 00:09:11,560
+a big impact across an organization
+
+284
+00:09:11,560 --> 00:09:13,000
+is not just about teasing out
+
+285
+00:09:13,000 --> 00:09:14,280
+the insights and the data,
+
+286
+00:09:14,280 --> 00:09:15,120
+but it's also about
+
+287
+00:09:15,120 --> 00:09:16,400
+kind of driving impact
+
+288
+00:09:16,400 --> 00:09:17,320
+within the organization.
+
+289
+00:09:17,320 --> 00:09:17,680
+You're making it happen, right?
+
+290
+00:09:17,680 --> 00:09:19,240
+Exactly.
+
+291
+00:09:19,240 --> 00:09:21,080
+So, you had mentioned
+
+292
+00:09:21,080 --> 00:09:22,040
+a few transitions, right?
+
+293
+00:09:22,040 --> 00:09:23,520
+I transitioned from being
+
+294
+00:09:23,520 --> 00:09:25,160
+an individual contributor
+
+295
+00:09:25,160 --> 00:09:27,880
+at a company like Playdom and Disney,
+
+296
+00:09:27,880 --> 00:09:32,040
+to being sort of a junior leader
+
+297
+00:09:32,040 --> 00:09:33,920
+to being a more senior leader.
+
+298
+00:09:33,920 --> 00:09:36,000
+And all of those have different steps,
+
+299
+00:09:36,000 --> 00:09:37,520
+different sort of stakeholders
+
+300
+00:09:37,520 --> 00:09:39,360
+across the organization.
+
+301
+00:09:39,360 --> 00:09:40,920
+And you do kind of like you said,
+
+302
+00:09:40,920 --> 00:09:42,160
+for many engineers,
+
+303
+00:09:42,160 --> 00:09:43,520
+they transition from being
+
+304
+00:09:43,520 --> 00:09:44,640
+a great engineer
+
+305
+00:09:44,640 --> 00:09:46,200
+to now having a role
+
+306
+00:09:46,200 --> 00:09:47,600
+of managing engineers.
+
+307
+00:09:47,600 --> 00:09:48,640
+And there's just such a different
+
+308
+00:09:48,640 --> 00:09:51,200
+sort of almost skill set.
+
+309
+00:09:51,800 --> 00:09:53,040
+And the same is true, of course,
+
+310
+00:09:53,040 --> 00:09:54,680
+in data and analytics,
+
+311
+00:09:54,680 --> 00:09:55,600
+which is to say
+
+312
+00:09:55,600 --> 00:09:56,880
+there's a certain skill set
+
+313
+00:09:56,880 --> 00:09:58,560
+which involves being able to wrangle
+
+314
+00:09:58,560 --> 00:09:59,480
+a bunch of data,
+
+315
+00:09:59,480 --> 00:10:00,800
+being able to clean
+
+316
+00:10:00,800 --> 00:10:03,440
+or tease insights out of data
+
+317
+00:10:03,440 --> 00:10:05,520
+or communicate with data.
+
+318
+00:10:05,520 --> 00:10:06,520
+I think actually,
+
+319
+00:10:06,520 --> 00:10:08,640
+I would actually probably
+
+320
+00:10:08,640 --> 00:10:10,280
+have the opposite because
+
+321
+00:10:10,280 --> 00:10:12,800
+when you're an analytics leader,
+
+322
+00:10:12,800 --> 00:10:14,720
+you're trying to tease
+
+323
+00:10:14,720 --> 00:10:16,280
+those same insights out of the data
+
+324
+00:10:16,280 --> 00:10:17,760
+and simplify it
+
+325
+00:10:17,760 --> 00:10:19,800
+at the sort of cross-functional level.
+
+326
+00:10:19,800 --> 00:10:21,480
+So, a lot of those core skills
+
+327
+00:10:21,480 --> 00:10:23,880
+you develop as an IC,
+
+328
+00:10:23,880 --> 00:10:25,520
+though the jobs aren't identical,
+
+329
+00:10:25,520 --> 00:10:27,320
+a lot of those sort of core skills
+
+330
+00:10:27,320 --> 00:10:29,480
+translate really nicely,
+
+331
+00:10:29,920 --> 00:10:31,639
+into the managerial world.
+
+332
+00:10:31,640 --> 00:10:33,880
+What do you enjoy more? Which of these?
+
+333
+00:10:34,040 --> 00:10:36,840
+Well, obviously, I've spent the last
+
+334
+00:10:36,840 --> 00:10:39,840
+sort of decade of my career leading
+
+335
+00:10:39,840 --> 00:10:41,640
+data teams of different sizes.
+
+336
+00:10:41,640 --> 00:10:42,760
+I joined Zenefits
+
+337
+00:10:42,760 --> 00:10:43,960
+where I led the data team
+
+338
+00:10:43,960 --> 00:10:45,240
+of just me
+
+339
+00:10:45,240 --> 00:10:46,280
+and then ultimately grew it
+
+340
+00:10:46,280 --> 00:10:47,440
+to a very large team
+
+341
+00:10:47,440 --> 00:10:48,480
+as that company
+
+342
+00:10:48,480 --> 00:10:52,080
+had a really meteoric scale up.
+
+343
+00:10:52,080 --> 00:10:54,920
+And then obviously,
+
+344
+00:10:54,920 --> 00:10:56,800
+most recently, before Mozart Data,
+
+345
+00:10:56,800 --> 00:10:59,000
+I worked at a company Eaze.
+
+346
+00:10:59,000 --> 00:11:00,880
+Eaze is basically a cannabis marketplace
+
+347
+00:11:00,880 --> 00:11:02,600
+that matches supply and demand.
+
+348
+00:11:02,600 --> 00:11:05,400
+It matches sort of dispensaries
+
+349
+00:11:05,400 --> 00:11:08,760
+with consumers that want those products.
+
+350
+00:11:08,760 --> 00:11:10,600
+Like any regular marketplace.
+
+351
+00:11:10,601 --> 00:11:12,510
+Except for [--],
+
+352
+00:11:12,511 --> 00:11:14,720
+because you just give the definition
+
+353
+00:11:14,720 --> 00:11:15,840
+of what a marketplace does and
+
+354
+00:11:15,840 --> 00:11:17,400
+it seems so common that
+
+355
+00:11:17,400 --> 00:11:18,600
+we have a marketplace for everything
+
+356
+00:11:18,600 --> 00:11:19,880
+from beverages, for food,
+
+357
+00:11:19,880 --> 00:11:21,840
+for toys or whatever.
+
+358
+00:11:21,840 --> 00:11:23,320
+Obviously, when it comes to cannabis
+
+359
+00:11:23,320 --> 00:11:25,000
+and it's still a fresh thing,
+
+360
+00:11:25,000 --> 00:11:27,640
+in many states, it's still something
+
+361
+00:11:27,640 --> 00:11:28,720
+that requires explanation.
+
+362
+00:11:28,720 --> 00:11:29,440
+But I'm sure it was
+
+363
+00:11:29,440 --> 00:11:30,440
+a phenomenal experience.
+
+364
+00:11:30,440 --> 00:11:31,480
+And I've actually been following
+
+365
+00:11:31,480 --> 00:11:32,800
+the activity of Eaze.
+
+366
+00:11:32,800 --> 00:11:33,560
+And I love the way
+
+367
+00:11:33,560 --> 00:11:34,720
+that they're democratizing
+
+368
+00:11:34,720 --> 00:11:36,840
+and regulating the whole transaction
+
+369
+00:11:36,840 --> 00:11:37,520
+in the marketplace.
+
+370
+00:11:37,520 --> 00:11:39,120
+But please continue.
+
+371
+00:11:39,120 --> 00:11:40,320
+Yeah. So, I mean,
+
+372
+00:11:40,320 --> 00:11:41,240
+I think actually data plays
+
+373
+00:11:41,240 --> 00:11:44,320
+a big, big role there.
+
+374
+00:11:44,400 --> 00:11:46,520
+I think when you think about
+
+375
+00:11:46,520 --> 00:11:48,640
+a very highly regulated market,
+
+376
+00:11:48,640 --> 00:11:51,080
+some of the challenges become
+
+377
+00:11:51,080 --> 00:11:52,840
+actually addressing that regulation,
+
+378
+00:11:52,840 --> 00:11:54,440
+but doing so really quickly
+
+379
+00:11:54,440 --> 00:11:55,120
+and understanding
+
+380
+00:11:55,120 --> 00:11:57,200
+what really matters to your customer.
+
+381
+00:11:57,200 --> 00:11:58,160
+Right.
+
+382
+00:11:58,160 --> 00:11:59,880
+And very often data can tease that out.
+
+383
+00:11:59,880 --> 00:12:02,040
+We can learn how important prices
+
+384
+00:12:02,040 --> 00:12:02,600
+to the customer,
+
+385
+00:12:02,600 --> 00:12:04,000
+how important delivery time is
+
+386
+00:12:04,000 --> 00:12:05,000
+to the customer,
+
+387
+00:12:05,000 --> 00:12:05,960
+how many, you know,
+
+388
+00:12:05,960 --> 00:12:08,400
+I think a big part of any marketplace
+
+389
+00:12:08,400 --> 00:12:10,080
+is understanding that balance
+
+390
+00:12:10,080 --> 00:12:11,120
+of supply and demand
+
+391
+00:12:11,120 --> 00:12:13,080
+and how to not just like,
+
+392
+00:12:13,080 --> 00:12:15,680
+forecast it, but also act against it.
+
+393
+00:12:15,680 --> 00:12:17,640
+So, data plays a huge role
+
+394
+00:12:17,640 --> 00:12:18,880
+in what it does.
+
+395
+00:12:18,880 --> 00:12:19,680
+And it was a really
+
+396
+00:12:19,680 --> 00:12:22,200
+forward thinking investment
+
+397
+00:12:22,200 --> 00:12:25,680
+to build out a strong data capability
+
+398
+00:12:25,680 --> 00:12:27,600
+because that was, you know,
+
+399
+00:12:27,600 --> 00:12:29,960
+in some sense it's forward thinking,
+
+400
+00:12:29,960 --> 00:12:31,960
+on the other hand,
+
+401
+00:12:31,960 --> 00:12:33,040
+it's just us catching up
+
+402
+00:12:33,040 --> 00:12:33,760
+to other industries.
+
+403
+00:12:33,760 --> 00:12:34,840
+You know, you mentioned
+
+404
+00:12:34,840 --> 00:12:37,920
+sort of food delivery, right?
+
+405
+00:12:37,920 --> 00:12:39,720
+Looking like many of these
+
+406
+00:12:39,720 --> 00:12:40,760
+are solved problems.
+
+407
+00:12:40,760 --> 00:12:41,920
+Transportation, obviously,
+
+408
+00:12:41,920 --> 00:12:43,200
+the matching of supply and demand
+
+409
+00:12:43,200 --> 00:12:44,560
+that Uber and Lyft do.
+
+410
+00:12:44,560 --> 00:12:46,080
+These are all very solve problems
+
+411
+00:12:46,080 --> 00:12:47,280
+in those industries
+
+412
+00:12:47,280 --> 00:12:48,920
+and kind of what a key role
+
+413
+00:12:48,920 --> 00:12:50,560
+data plays at those places,
+
+414
+00:12:50,560 --> 00:12:52,120
+just being able to map that
+
+415
+00:12:52,120 --> 00:12:54,120
+to a place with
+
+416
+00:12:54,120 --> 00:12:56,840
+a ton of regulatory challenges,
+
+417
+00:12:56,840 --> 00:12:59,520
+this is cannabis, I think is
+
+418
+00:12:59,520 --> 00:13:00,920
+has been and will continue
+
+419
+00:13:00,920 --> 00:13:03,120
+to be a really interesting data
+
+420
+00:13:03,120 --> 00:13:06,800
+and managerial problem for a while.
+
+421
+00:13:06,800 --> 00:13:08,280
+It's pretty inspiring to me
+
+422
+00:13:08,280 --> 00:13:10,600
+that a company like Eaze goes in
+
+423
+00:13:10,600 --> 00:13:12,040
+and takes an economist
+
+424
+00:13:12,040 --> 00:13:13,400
+and somebody that runs
+
+425
+00:13:13,400 --> 00:13:15,960
+that heads analytics data science teams
+
+426
+00:13:15,960 --> 00:13:17,680
+and puts in the position
+
+427
+00:13:17,680 --> 00:13:19,080
+of a chief strategy officer.
+
+428
+00:13:19,080 --> 00:13:20,840
+Because it really it is saying something.
+
+429
+00:13:20,840 --> 00:13:21,640
+It's saying that
+
+430
+00:13:21,640 --> 00:13:23,480
+we believe that our core strategy
+
+431
+00:13:23,480 --> 00:13:27,080
+should be guided by data
+
+432
+00:13:27,080 --> 00:13:28,400
+and by, you know,
+
+433
+00:13:28,400 --> 00:13:29,760
+the causality and by a team
+
+434
+00:13:29,760 --> 00:13:31,360
+that knows how to manage this data
+
+435
+00:13:31,360 --> 00:13:32,640
+and run the analytics.
+
+436
+00:13:32,640 --> 00:13:35,640
+I don't think that most companies
+
+437
+00:13:35,640 --> 00:13:37,040
+have necessarily that persona
+
+438
+00:13:37,040 --> 00:13:39,240
+as the chief strategy officer.
+
+439
+00:13:39,240 --> 00:13:39,960
+I might be wrong,
+
+440
+00:13:39,960 --> 00:13:42,240
+but I haven't seen that often.
+
+441
+00:13:42,240 --> 00:13:43,440
+So, I agree with you.
+
+442
+00:13:43,440 --> 00:13:45,280
+But I think the trend is that.
+
+443
+00:13:45,280 --> 00:13:46,520
+So, when you think about
+
+444
+00:13:46,520 --> 00:13:47,720
+sort of marketing,
+
+445
+00:13:47,720 --> 00:13:49,800
+you've traditionally seen a lot of CMOs.
+
+446
+00:13:49,800 --> 00:13:52,320
+But you start to see growth leaders.
+
+447
+00:13:52,320 --> 00:13:53,880
+Now, growth tends to be
+
+448
+00:13:53,880 --> 00:13:56,520
+just quantitative marketing, right?
+
+449
+00:13:56,520 --> 00:13:58,280
+Now, similarly, on the operations side,
+
+450
+00:13:58,280 --> 00:13:59,920
+when you think about solving a problem,
+
+451
+00:13:59,920 --> 00:14:01,760
+like, how much demand
+
+452
+00:14:01,760 --> 00:14:03,600
+do we expect to have
+
+453
+00:14:03,600 --> 00:14:05,480
+in say, San Francisco
+
+454
+00:14:05,480 --> 00:14:08,480
+on a Tuesday afternoon at 3PM,
+
+455
+00:14:08,480 --> 00:14:10,040
+ultimately, this is a data problem,
+
+456
+00:14:10,040 --> 00:14:11,360
+but it's also a people problem.
+
+457
+00:14:11,360 --> 00:14:11,840
+You have to have
+
+458
+00:14:11,840 --> 00:14:13,400
+the right number of people
+
+459
+00:14:13,400 --> 00:14:16,280
+sort of there to essentially connect
+
+460
+00:14:16,280 --> 00:14:18,280
+the supply and demand.
+
+461
+00:14:18,320 --> 00:14:21,440
+So, on the one hand, to me,
+
+462
+00:14:21,440 --> 00:14:23,400
+that kind of strategy work
+
+463
+00:14:23,400 --> 00:14:25,160
+is ultimately just data problems.
+
+464
+00:14:25,160 --> 00:14:27,360
+But you can see operations,
+
+465
+00:14:27,360 --> 00:14:28,920
+you know, business operations
+
+466
+00:14:28,920 --> 00:14:31,800
+and operations just looking
+
+467
+00:14:31,800 --> 00:14:33,720
+more and more like data problems
+
+468
+00:14:33,720 --> 00:14:34,680
+and having more and more
+
+469
+00:14:34,680 --> 00:14:36,320
+savvy data leaders
+
+470
+00:14:36,320 --> 00:14:37,520
+come into leadership roles
+
+471
+00:14:37,520 --> 00:14:38,720
+in those functions,
+
+472
+00:14:38,720 --> 00:14:41,320
+as well as the expectation for anybody
+
+473
+00:14:41,320 --> 00:14:42,760
+that's a COO,
+
+474
+00:14:42,760 --> 00:14:44,320
+that's a VP of operations,
+
+475
+00:14:44,320 --> 00:14:45,920
+is that they're comfortable working,
+
+476
+00:14:45,920 --> 00:14:47,200
+certainly in a BI tool,
+
+477
+00:14:47,200 --> 00:14:49,960
+but also having a good grasp of data
+
+478
+00:14:49,960 --> 00:14:53,120
+and what's happening with their data.
+
+479
+00:14:53,120 --> 00:14:55,080
+And I think that's a perfectly way
+
+480
+00:14:55,080 --> 00:14:58,000
+into what Mozart Data does.
+
+481
+00:14:58,000 --> 00:14:59,160
+So, having that grasp,
+
+482
+00:14:59,160 --> 00:15:01,040
+having that handle on all those different
+
+483
+00:15:01,040 --> 00:15:01,840
+data and what you can do,
+
+484
+00:15:01,840 --> 00:15:03,880
+talk to me a little bit about
+
+485
+00:15:03,880 --> 00:15:04,720
+what Mozart Data does.
+
+486
+00:15:04,720 --> 00:15:07,040
+And I'm particularly interested to hear
+
+487
+00:15:07,040 --> 00:15:09,400
+really tangibly, what insights
+
+488
+00:15:09,400 --> 00:15:10,960
+you've gained from, you know,
+
+489
+00:15:10,960 --> 00:15:13,240
+these years of both being
+
+490
+00:15:13,240 --> 00:15:16,880
+the data handler and the data manager,
+
+491
+00:15:16,880 --> 00:15:19,520
+transitioning into your new baby,
+
+492
+00:15:19,520 --> 00:15:20,520
+Mozart Data.
+
+493
+00:15:20,520 --> 00:15:21,080
+Yeah. Thanks.
+
+494
+00:15:21,080 --> 00:15:22,360
+And it's actually, like you said,
+
+495
+00:15:22,360 --> 00:15:24,480
+a very relevant segue.
+
+496
+00:15:24,480 --> 00:15:28,720
+Because what Dan, my co-founder and I saw
+
+497
+00:15:28,720 --> 00:15:29,320
+was that there was
+
+498
+00:15:29,320 --> 00:15:30,920
+this growing population
+
+499
+00:15:30,920 --> 00:15:33,560
+of folks that were really
+
+500
+00:15:33,560 --> 00:15:35,880
+competent and comfortable
+
+501
+00:15:35,880 --> 00:15:38,240
+and itching to use the data.
+
+502
+00:15:38,240 --> 00:15:39,480
+Like this population
+
+503
+00:15:39,480 --> 00:15:40,600
+of business analysts,
+
+504
+00:15:40,600 --> 00:15:42,440
+sales ops, marketing ops,
+
+505
+00:15:42,440 --> 00:15:45,440
+business ops, heads of analytics,
+
+506
+00:15:45,440 --> 00:15:47,720
+data analysts that really knew
+
+507
+00:15:47,720 --> 00:15:49,160
+what they wanted from their data,
+
+508
+00:15:49,160 --> 00:15:50,520
+had a great understanding
+
+509
+00:15:50,520 --> 00:15:51,880
+of the business definitions
+
+510
+00:15:51,880 --> 00:15:53,720
+and understanding of what data
+
+511
+00:15:53,720 --> 00:15:55,960
+would inform those business decisions.
+
+512
+00:15:55,960 --> 00:15:58,360
+But getting at that data,
+
+513
+00:15:58,360 --> 00:15:59,360
+which is now getting
+
+514
+00:15:59,360 --> 00:16:00,280
+more and more siloed
+
+515
+00:16:00,280 --> 00:16:02,720
+by all the different sort of
+
+516
+00:16:02,720 --> 00:16:04,240
+bevy of tools that people are using,
+
+517
+00:16:04,240 --> 00:16:04,800
+people are using all these
+
+518
+00:16:04,800 --> 00:16:06,560
+different SaaS tools and databases
+
+519
+00:16:06,560 --> 00:16:09,080
+that all basically siloed that data
+
+520
+00:16:09,080 --> 00:16:11,040
+that it's producing.
+
+521
+00:16:11,040 --> 00:16:12,560
+So, there's this sort of imbalance
+
+522
+00:16:12,560 --> 00:16:13,680
+where the demand for data
+
+523
+00:16:13,680 --> 00:16:15,360
+is growing really rapidly
+
+524
+00:16:15,360 --> 00:16:17,120
+and the supply, we know where it is,
+
+525
+00:16:17,120 --> 00:16:18,600
+but it's hard to get at.
+
+526
+00:16:18,600 --> 00:16:20,360
+You typically have to hire engineers
+
+527
+00:16:20,360 --> 00:16:21,560
+or data engineers
+
+528
+00:16:21,560 --> 00:16:22,920
+to essentially enable
+
+529
+00:16:22,920 --> 00:16:24,360
+that centralization of data.
+
+530
+00:16:24,360 --> 00:16:26,240
+And this was becoming a problem.
+
+531
+00:16:26,240 --> 00:16:27,160
+And more and more companies,
+
+532
+00:16:27,160 --> 00:16:28,640
+they hire folks like me
+
+533
+00:16:28,640 --> 00:16:31,480
+or like Dan to actually go
+
+534
+00:16:31,480 --> 00:16:32,880
+centralize that data
+
+535
+00:16:32,880 --> 00:16:33,880
+so that it can be used
+
+536
+00:16:33,880 --> 00:16:35,640
+across the organization.
+
+537
+00:16:35,640 --> 00:16:37,760
+And a lot of that centralizing work
+
+538
+00:16:37,760 --> 00:16:40,440
+is in my mind,
+
+539
+00:16:40,440 --> 00:16:42,640
+sort of road or commodities.
+
+540
+00:16:42,640 --> 00:16:44,200
+And we would just go
+
+541
+00:16:44,200 --> 00:16:46,040
+from company to company,
+
+542
+00:16:46,040 --> 00:16:47,280
+all the ones that you mentioned
+
+543
+00:16:47,280 --> 00:16:49,560
+in my career, building out either
+
+544
+00:16:49,560 --> 00:16:50,360
+the same stack
+
+545
+00:16:50,360 --> 00:16:52,040
+or something very, very similar,
+
+546
+00:16:52,040 --> 00:16:53,760
+sort of centralizing everything
+
+547
+00:16:53,760 --> 00:16:55,000
+in a powerful data warehouse,
+
+548
+00:16:55,000 --> 00:16:56,640
+a column or data warehouse.
+
+549
+00:16:56,640 --> 00:16:57,080
+And we decided
+
+550
+00:16:57,080 --> 00:16:58,360
+to essentially build that
+
+551
+00:16:58,360 --> 00:17:00,480
+as a service so that really anybody
+
+552
+00:17:00,480 --> 00:17:03,120
+that's really comfortable with data
+
+553
+00:17:03,120 --> 00:17:04,200
+and data thinking
+
+554
+00:17:04,200 --> 00:17:05,960
+and sequel could really
+
+555
+00:17:05,960 --> 00:17:07,880
+do the data cleaning
+
+556
+00:17:07,880 --> 00:17:09,320
+and the extracting,
+
+557
+00:17:09,320 --> 00:17:11,400
+loading and transforming of the data
+
+558
+00:17:11,400 --> 00:17:13,480
+that needs to be done
+
+559
+00:17:13,560 --> 00:17:15,640
+with their skill set,
+
+560
+00:17:15,640 --> 00:17:16,800
+with their understanding
+
+561
+00:17:16,800 --> 00:17:17,840
+of the business definitions,
+
+562
+00:17:17,840 --> 00:17:19,000
+with their understanding
+
+563
+00:17:19,000 --> 00:17:20,320
+of their technologies,
+
+564
+00:17:20,320 --> 00:17:23,320
+and not needing Python, Jinja,
+
+565
+00:17:23,320 --> 00:17:25,160
+DAGs, custom languages
+
+566
+00:17:25,160 --> 00:17:27,320
+to really make all of the work
+
+567
+00:17:27,320 --> 00:17:29,560
+that is actually quite straightforward
+
+568
+00:17:29,560 --> 00:17:31,160
+what data you need
+
+569
+00:17:31,160 --> 00:17:32,160
+making that available
+
+570
+00:17:32,160 --> 00:17:34,480
+without kind of a big data engineering.
+
+571
+00:17:34,480 --> 00:17:36,160
+So, what we try to do is
+
+572
+00:17:36,160 --> 00:17:37,280
+be the easiest way
+
+573
+00:17:37,280 --> 00:17:40,960
+to onboard sort of a modern data stack.
+
+574
+00:17:41,040 --> 00:17:42,200
+That's so interesting.
+
+575
+00:17:42,200 --> 00:17:44,720
+So, would an interesting
+
+576
+00:17:44,720 --> 00:17:46,360
+workflow be that led to that
+
+577
+00:17:46,360 --> 00:17:47,840
+there's somebody in marketing
+
+578
+00:17:47,840 --> 00:17:49,400
+that has a ton of data
+
+579
+00:17:49,400 --> 00:17:51,280
+and CSVs that they get
+
+580
+00:17:51,280 --> 00:17:53,560
+from somewhere within their company.
+
+581
+00:17:53,560 --> 00:17:55,400
+They load that data to you.
+
+582
+00:17:55,400 --> 00:17:57,520
+You help automatically cleaning it
+
+583
+00:17:57,520 --> 00:17:59,960
+and starting to see some causality
+
+584
+00:17:59,960 --> 00:18:00,920
+and some models out of them
+
+585
+00:18:00,920 --> 00:18:03,840
+and provide them a framework
+
+586
+00:18:03,840 --> 00:18:05,160
+for analyzing the data
+
+587
+00:18:05,160 --> 00:18:07,840
+without having to use things
+
+588
+00:18:07,840 --> 00:18:11,240
+like code or data science.
+
+589
+00:18:11,240 --> 00:18:12,920
+Well, so, I want to back it up one step.
+
+590
+00:18:12,920 --> 00:18:14,760
+So, you've already gotten to a point
+
+591
+00:18:14,760 --> 00:18:15,600
+where the marketer
+
+592
+00:18:15,600 --> 00:18:18,600
+has that data in CSV form.
+
+593
+00:18:18,600 --> 00:18:19,800
+I want the marketer to be using
+
+594
+00:18:19,800 --> 00:18:21,360
+the tools that they're comfortable in.
+
+595
+00:18:21,360 --> 00:18:23,320
+Maybe that's HubSpot
+
+596
+00:18:23,320 --> 00:18:24,880
+or maybe they're using Salesforce
+
+597
+00:18:24,880 --> 00:18:26,200
+or maybe they're using Google ads
+
+598
+00:18:26,200 --> 00:18:27,680
+or Facebook ads,
+
+599
+00:18:27,680 --> 00:18:29,760
+and we want to be able for them
+
+600
+00:18:29,760 --> 00:18:31,160
+with just the credentials,
+
+601
+00:18:31,160 --> 00:18:31,840
+just the rights
+
+602
+00:18:31,840 --> 00:18:33,440
+to be able to use that data,
+
+603
+00:18:33,440 --> 00:18:35,280
+to be able to extract and load that
+
+604
+00:18:35,280 --> 00:18:37,280
+into a central data warehouse.
+
+605
+00:18:37,280 --> 00:18:39,200
+Now, they might also have CSVs
+
+606
+00:18:39,200 --> 00:18:41,360
+or G-Sheet or something like that,
+
+607
+00:18:41,360 --> 00:18:42,240
+which they also want
+
+608
+00:18:42,240 --> 00:18:43,240
+to put in their data warehouse.
+
+609
+00:18:43,240 --> 00:18:44,160
+They want to combine
+
+610
+00:18:44,160 --> 00:18:47,680
+and clean this all and transform it all
+
+611
+00:18:47,680 --> 00:18:50,320
+in their data warehouse.
+
+612
+00:18:50,320 --> 00:18:51,880
+And they can do that
+
+613
+00:18:51,880 --> 00:18:53,560
+with a platform like Mozart.
+
+614
+00:18:53,560 --> 00:18:55,800
+Now, going all the way to the end,
+
+615
+00:18:55,800 --> 00:18:57,440
+we are actually not in the BI space.
+
+616
+00:18:57,440 --> 00:19:00,320
+So, we don't give you the tooling
+
+617
+00:19:00,320 --> 00:19:02,960
+to go graphically represent your data
+
+618
+00:19:02,960 --> 00:19:04,200
+and tell a story with your data.
+
+619
+00:19:04,200 --> 00:19:06,040
+Which is, like I mentioned,
+
+620
+00:19:06,040 --> 00:19:07,760
+from my time with the Eagles
+
+621
+00:19:07,760 --> 00:19:09,040
+and then throughout my career,
+
+622
+00:19:09,040 --> 00:19:10,680
+a really important part
+
+623
+00:19:10,680 --> 00:19:12,560
+of what a great data person does,
+
+624
+00:19:12,560 --> 00:19:15,520
+they tell a story with the answer.
+
+625
+00:19:15,520 --> 00:19:18,280
+And that's not really what we provide,
+
+626
+00:19:18,280 --> 00:19:20,840
+that we actually really like giving
+
+627
+00:19:20,840 --> 00:19:22,440
+customers a good push in the back
+
+628
+00:19:22,440 --> 00:19:24,720
+in terms of these are core tables,
+
+629
+00:19:24,720 --> 00:19:25,640
+these are core piece
+
+630
+00:19:25,640 --> 00:19:27,000
+of analysis that like
+
+631
+00:19:27,000 --> 00:19:29,680
+we see a lot of folks in the space
+
+632
+00:19:29,680 --> 00:19:30,760
+that you're in doing.
+
+633
+00:19:30,760 --> 00:19:32,720
+So, we like to give people frameworks
+
+634
+00:19:32,720 --> 00:19:35,720
+for doing the cleaning,
+
+635
+00:19:35,720 --> 00:19:37,320
+for building their analysis.
+
+636
+00:19:37,320 --> 00:19:39,040
+But really, what we want to do
+
+637
+00:19:39,040 --> 00:19:41,040
+is empower you to get to that point
+
+638
+00:19:41,040 --> 00:19:42,840
+of a central warehouse
+
+639
+00:19:42,840 --> 00:19:44,960
+where you can start joining data
+
+640
+00:19:44,960 --> 00:19:46,800
+from different tools,
+
+641
+00:19:46,800 --> 00:19:48,800
+and we want to really make that
+
+642
+00:19:48,800 --> 00:19:50,000
+available to anyone.
+
+643
+00:19:50,000 --> 00:19:53,360
+I love that. Peter, before we go,
+
+644
+00:19:53,360 --> 00:19:55,200
+I have to thank you for being generous
+
+645
+00:19:55,200 --> 00:19:56,280
+with your time
+
+646
+00:19:56,280 --> 00:19:57,760
+and for joining me in this show.
+
+647
+00:19:57,760 --> 00:19:59,160
+I have two last questions
+
+648
+00:19:59,160 --> 00:20:00,160
+that I have to ask.
+
+649
+00:20:00,160 --> 00:20:02,640
+First of all, chief bacon officer
+
+650
+00:20:02,640 --> 00:20:04,920
+of Bacon Hot Sauce.
+
+651
+00:20:04,920 --> 00:20:06,480
+Now, you've been there for 10 years.
+
+652
+00:20:06,480 --> 00:20:08,200
+So, I'm guessing this is going to,
+
+653
+00:20:08,200 --> 00:20:10,040
+it's a little different from the rest.
+
+654
+00:20:10,040 --> 00:20:10,200
+Yeah.
+
+655
+00:20:10,200 --> 00:20:11,760
+So, Bacon Hot Sauce
+
+656
+00:20:11,760 --> 00:20:13,560
+was a real passion project.
+
+657
+00:20:13,560 --> 00:20:14,440
+So, actually, Dan,
+
+658
+00:20:14,440 --> 00:20:16,600
+the co-founder of Mozart and I,
+
+659
+00:20:16,600 --> 00:20:18,200
+started this Hot Sauce company
+
+660
+00:20:18,200 --> 00:20:19,600
+10 years ago.
+
+661
+00:20:19,600 --> 00:20:20,720
+We had the idea
+
+662
+00:20:20,720 --> 00:20:22,280
+that the two best things in the world
+
+663
+00:20:22,280 --> 00:20:23,400
+were bacon and hot sauce,
+
+664
+00:20:23,400 --> 00:20:24,840
+and we had to combine them
+
+665
+00:20:24,840 --> 00:20:26,840
+and then we made that a reality.
+
+666
+00:20:26,840 --> 00:20:29,680
+And then ran that business for 10 years.
+
+667
+00:20:29,680 --> 00:20:32,000
+And actually, we ended up selling
+
+668
+00:20:32,000 --> 00:20:35,720
+the business and starting Mozart.
+
+669
+00:20:35,720 --> 00:20:38,880
+So, there's like sort of like a lie,
+
+670
+00:20:38,880 --> 00:20:40,240
+which is to say, like
+
+671
+00:20:40,240 --> 00:20:41,320
+there's a story about Slack,
+
+672
+00:20:41,320 --> 00:20:43,600
+which is they were a tiny speck,
+
+673
+00:20:43,600 --> 00:20:45,040
+and then suddenly, you know,
+
+674
+00:20:45,040 --> 00:20:45,920
+that wasn't going where
+
+675
+00:20:45,920 --> 00:20:46,800
+they wanted it to go.
+
+676
+00:20:46,800 --> 00:20:48,040
+So, they decided to pivot
+
+677
+00:20:48,040 --> 00:20:49,320
+into their chat app.
+
+678
+00:20:49,320 --> 00:20:51,040
+We sort of tell the story
+
+679
+00:20:51,040 --> 00:20:52,000
+it's only partially true,
+
+680
+00:20:52,000 --> 00:20:53,600
+which is we had a hot sauce company
+
+681
+00:20:53,600 --> 00:20:54,400
+that was failing
+
+682
+00:20:54,400 --> 00:20:55,840
+and that we needed to pivot.
+
+683
+00:20:55,840 --> 00:20:57,200
+So, we pivoted into
+
+684
+00:20:57,200 --> 00:20:59,200
+this Mozart Data company,
+
+685
+00:20:59,200 --> 00:21:00,960
+which is true in so far as that
+
+686
+00:21:00,960 --> 00:21:01,560
+it's Dan and I are
+
+687
+00:21:01,560 --> 00:21:03,320
+working on it together,
+
+688
+00:21:03,320 --> 00:21:04,680
+but we're sort of data
+
+689
+00:21:04,680 --> 00:21:05,320
+people at our core,
+
+690
+00:21:05,320 --> 00:21:07,000
+but also bacon and hot sauce people
+
+691
+00:21:07,000 --> 00:21:08,800
+also at our core.
+
+692
+00:21:08,920 --> 00:21:10,520
+And Peter, I have to say that
+
+693
+00:21:10,520 --> 00:21:12,600
+I feel like I've wasted 20 minutes.
+
+694
+00:21:12,600 --> 00:21:13,400
+Because I want to go back
+
+695
+00:21:13,400 --> 00:21:14,280
+and just talk about
+
+696
+00:21:14,280 --> 00:21:16,520
+this bacon hot sauce company.
+
+697
+00:21:16,520 --> 00:21:18,920
+But we'll leave that for another episode
+
+698
+00:21:18,920 --> 00:21:19,800
+in another cycle.
+
+699
+00:21:19,800 --> 00:21:20,720
+Before we leave, Peter,
+
+700
+00:21:20,720 --> 00:21:21,560
+I need three words
+
+701
+00:21:21,560 --> 00:21:23,720
+that you would use to describe yourself.
+
+702
+00:21:23,720 --> 00:21:24,000
+Sure.
+
+703
+00:21:24,000 --> 00:21:26,800
+So, number one is like, efficient.
+
+704
+00:21:26,800 --> 00:21:30,880
+So, I love when people are able
+
+705
+00:21:30,880 --> 00:21:33,840
+to make great 80-20
+
+706
+00:21:33,840 --> 00:21:35,280
+like trade offs.
+
+707
+00:21:35,280 --> 00:21:37,840
+There's so much of the insight
+
+708
+00:21:37,840 --> 00:21:41,160
+I think, comes in kind of just the setup
+
+709
+00:21:41,160 --> 00:21:44,040
+and understanding of it.
+
+710
+00:21:44,040 --> 00:21:47,560
+I guess another one that I sort of,
+
+711
+00:21:47,560 --> 00:21:49,040
+you know, as a single word,
+
+712
+00:21:49,040 --> 00:21:51,080
+it's sort of like a pay-it-forward.
+
+713
+00:21:51,080 --> 00:21:52,280
+But I think one of those,
+
+714
+00:21:52,280 --> 00:21:53,720
+There is hyphens in there.
+
+715
+00:21:53,720 --> 00:21:54,560
+Yeah. Sure.
+
+716
+00:21:54,560 --> 00:21:55,560
+So, pay it forward
+
+717
+00:21:55,560 --> 00:21:56,840
+is what I found in the valley
+
+718
+00:21:56,840 --> 00:21:58,080
+is that so much of my growth
+
+719
+00:21:58,080 --> 00:21:58,880
+can be attributed
+
+720
+00:21:58,880 --> 00:22:00,440
+to folks that I've worked with,
+
+721
+00:22:00,440 --> 00:22:02,360
+both that were above me,
+
+722
+00:22:02,360 --> 00:22:03,480
+that worked for me,
+
+723
+00:22:03,480 --> 00:22:04,720
+and that were actually,
+
+724
+00:22:04,720 --> 00:22:06,240
+I guess, horizontal to me.
+
+725
+00:22:06,240 --> 00:22:08,640
+So, I think when you invest
+
+726
+00:22:08,640 --> 00:22:11,800
+in having those people understand
+
+727
+00:22:11,800 --> 00:22:12,640
+either data
+
+728
+00:22:12,640 --> 00:22:14,240
+or how you're thinking about the data
+
+729
+00:22:14,240 --> 00:22:16,200
+or how you're thinking about the problem
+
+730
+00:22:16,200 --> 00:22:18,360
+that pays huge dividends.
+
+731
+00:22:18,360 --> 00:22:20,600
+Then last year, we have a
+
+732
+00:22:20,680 --> 00:22:23,560
+big mentality around growth
+
+733
+00:22:23,920 --> 00:22:26,880
+at Mozart, professional growth,
+
+734
+00:22:26,880 --> 00:22:28,760
+personal growth, all of those things.
+
+735
+00:22:28,760 --> 00:22:30,800
+And I think growth, obviously,
+
+736
+00:22:30,800 --> 00:22:32,560
+my career at parts was working
+
+737
+00:22:32,560 --> 00:22:33,920
+in sort of growth marketing,
+
+738
+00:22:33,920 --> 00:22:36,920
+but I think growth is also another one
+
+739
+00:22:36,920 --> 00:22:38,280
+that's a little bit counterintuitive.
+
+740
+00:22:38,280 --> 00:22:39,800
+Which is ,the more someone grows
+
+741
+00:22:39,800 --> 00:22:41,000
+it doesn't distract them
+
+742
+00:22:41,000 --> 00:22:42,280
+from the core of what they're doing.
+
+743
+00:22:42,280 --> 00:22:44,320
+It actually, there is no substitution.
+
+744
+00:22:44,320 --> 00:22:46,360
+It actually just adds more and more
+
+745
+00:22:46,360 --> 00:22:49,000
+and more richness to their capabilities
+
+746
+00:22:49,000 --> 00:22:50,440
+and also their willingness
+
+747
+00:22:50,440 --> 00:22:51,560
+to invest in something.
+
+748
+00:22:51,560 --> 00:22:53,720
+So, sort of growth ties nicely
+
+749
+00:22:53,720 --> 00:22:55,520
+with pay it forward.
+
+750
+00:22:55,760 --> 00:22:57,400
+Peter, thank you very much.
+
+751
+00:22:57,400 --> 00:22:58,080
+This is wonderful.
+
+752
+00:22:58,080 --> 00:23:00,440
+Congratulations on your recent
+
+753
+00:23:00,440 --> 00:23:01,660
+four million dollar seed round
+
+754
+00:23:01,661 --> 00:23:03,080
+for Mozart Data.
+
+755
+00:23:03,080 --> 00:23:04,040
+I told you before
+
+756
+00:23:04,040 --> 00:23:05,160
+that I'm already upset
+
+757
+00:23:05,160 --> 00:23:06,280
+that we did this
+
+758
+00:23:06,280 --> 00:23:07,480
+a couple of weeks too late
+
+759
+00:23:07,480 --> 00:23:08,760
+because I wish
+
+760
+00:23:08,760 --> 00:23:11,360
+we could have gotten in there.
+
+761
+00:23:11,360 --> 00:23:12,760
+But really, congratulations.
+
+762
+00:23:12,760 --> 00:23:14,400
+And I love your take on things.
+
+763
+00:23:14,400 --> 00:23:16,400
+And particularly I get inspired
+
+764
+00:23:16,400 --> 00:23:17,320
+by people's journeys
+
+765
+00:23:17,320 --> 00:23:19,080
+where they become,
+
+766
+00:23:19,080 --> 00:23:20,400
+they experience
+
+767
+00:23:20,400 --> 00:23:22,960
+these growing pains over,
+
+768
+00:23:22,960 --> 00:23:24,960
+over shared experiences,
+
+769
+00:23:24,960 --> 00:23:26,520
+eventually culminating
+
+770
+00:23:26,520 --> 00:23:27,520
+in this aha moment
+
+771
+00:23:27,520 --> 00:23:28,600
+that they have internally
+
+772
+00:23:28,600 --> 00:23:29,920
+and then bring it out to the world.
+
+773
+00:23:29,920 --> 00:23:30,680
+So, thank you for the
+
+774
+00:23:30,680 --> 00:23:31,960
+inspiration for that.
+
+775
+00:23:31,960 --> 00:23:33,720
+And stay safe and stay healthy.
+
+776
+00:23:33,720 --> 00:23:34,200
+Same to you.
+
+777
+00:23:34,200 --> 00:23:35,160
+I enjoyed it.
+

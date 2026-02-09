@@ -1,0 +1,855 @@
+1
+00:00:06,295 --> 00:00:10,796
+And there you want to see that all high enough as needed.
+
+2
+00:00:18,426 --> 00:00:20,386
+No, man, you're free.
+
+3
+00:00:20,386 --> 00:00:23,896
+So, y 'all coin welcome to 20 minute leaders.
+
+4
+00:00:23,896 --> 00:00:26,026
+Thank you so much for being with me today.
+
+5
+00:00:26,026 --> 00:00:27,806
+How are you?
+
+6
+00:00:27,806 --> 00:00:28,566
+I'm very well.
+
+7
+00:00:28,566 --> 00:00:29,106
+Thank you.
+
+8
+00:00:29,106 --> 00:00:30,866
+Thank you for having me.
+
+9
+00:00:30,866 --> 00:00:34,006
+Thank you for doing great to have an audience.
+
+10
+00:00:34,346 --> 00:00:35,016
+Absolutely.
+
+11
+00:00:35,016 --> 00:00:35,566
+For you.
+
+12
+00:00:35,566 --> 00:00:40,926
+I hope that people will understand many things that still seem like science fiction.
+
+13
+00:00:40,926 --> 00:00:42,536
+Let's talk about science fiction.
+
+14
+00:00:42,536 --> 00:00:46,392
+I got your co founder and CEO of Cogni fiber.
+
+15
+00:00:46,782 --> 00:00:49,703
+in the space of photonic computing.
+
+16
+00:00:50,004 --> 00:00:51,204
+What is that?
+
+17
+00:00:52,224 --> 00:01:01,108
+So photonic computing in the basic, it's computing with photon instead of electrons.
+
+18
+00:01:01,188 --> 00:01:08,531
+So our whole technology world today is based on electronics mostly.
+
+19
+00:01:09,691 --> 00:01:12,583
+But until now we didn't have any issue with it.
+
+20
+00:01:12,583 --> 00:01:14,073
+I mean, it functioned very well.
+
+21
+00:01:14,073 --> 00:01:16,514
+We did amazing things with that.
+
+22
+00:01:16,950 --> 00:01:18,591
+until we reached AI.
+
+23
+00:01:20,370 --> 00:01:20,610
+AI.
+
+24
+00:01:20,610 --> 00:01:26,688
+And artificial intelligence is really challenging for any type of hardware.
+
+25
+00:01:27,927 --> 00:01:36,855
+because the demand for trillions of operation every second is very heavy on the hardware.
+
+26
+00:01:37,597 --> 00:01:47,686
+And you can see then the cost of hardware and the cost of operation and the electrical
+bills and the cooling it needs.
+
+27
+00:01:47,686 --> 00:01:48,526
+needs.
+
+28
+00:01:50,487 --> 00:01:58,220
+It's simply because when you want to transfer trillions of electrons every second through
+wires,
+
+29
+00:01:58,331 --> 00:02:03,671
+they heat up and they cannot move as fast as photons.
+
+30
+00:02:05,071 --> 00:02:17,965
+So 11 years ago, I asked myself, okay, we have very nice optical communication, high
+speed, very low power.
+
+31
+00:02:18,634 --> 00:02:25,314
+especially the fibers, because they are really, really efficient in transferring photons.
+
+32
+00:02:26,126 --> 00:02:34,212
+So what if we can replace the electronics with fiber -based photonic computing?
+
+33
+00:02:34,212 --> 00:02:47,103
+That means to take a fiber, which is a piece of glass, elongated glass, and somehow to
+turn it from something that carries
+
+34
+00:02:47,103 --> 00:02:56,536
+carries photons from point A to point B to something that processes the data when the
+photons pass through it.
+
+35
+00:02:56,797 --> 00:02:58,000
+And that's the basic idea.
+
+36
+00:02:58,000 --> 00:02:59,681
+the basic idea.
+
+37
+00:02:59,681 --> 00:03:15,115
+if I understand correctly, a big part of it is adapting the photonic technology from just
+being a data transfer layer to also having a compute capability, right?
+
+38
+00:03:15,575 --> 00:03:16,255
+Yeah.
+
+39
+00:03:16,255 --> 00:03:17,235
+Yes.
+
+40
+00:03:17,716 --> 00:03:26,138
+I mean, we can look at the basic example if we want to implement, let's say, a gate.
+
+41
+00:03:26,461 --> 00:03:30,726
+electronic gate, a simple AND gate, OR gate.
+
+42
+00:03:30,726 --> 00:03:53,226
+or gates or you want to implement a neuron like an artificial neural network so if we can
+do it in photonics it would be very fast you could reach let's say 100 gig today 200 gig
+
+43
+00:03:53,226 --> 00:03:54,475
+400 gig
+
+44
+00:03:54,475 --> 00:03:58,645
+And on the other hand, it wouldn't take a lot of power.
+
+45
+00:03:58,645 --> 00:04:00,167
+It wouldn't heat up as much.
+
+46
+00:04:00,167 --> 00:04:01,358
+up as much.
+
+47
+00:04:02,157 --> 00:04:04,586
+So that seems like a win -win situation.
+
+48
+00:04:04,586 --> 00:04:09,048
+win -win situation.
+
+49
+00:04:09,048 --> 00:04:20,311
+so tell me a little bit about the where we're at in terms of productization and just for
+that so that we have a good basis for the market landscaping.
+
+50
+00:04:20,311 --> 00:04:30,594
+So where are we at today with this technology, with companies building on top of the
+promise of photonic computing?
+
+51
+00:04:31,166 --> 00:04:34,047
+And what timelines are we talking about?
+
+52
+00:04:34,893 --> 00:04:42,409
+So we have today in the world about two or three main technologies of photonic computing.
+
+53
+00:04:42,409 --> 00:04:44,010
+of photonic computing.
+
+54
+00:04:44,737 --> 00:04:48,138
+The first family is based on silicon chips.
+
+55
+00:04:48,364 --> 00:04:49,245
+chips.
+
+56
+00:04:50,606 --> 00:04:55,040
+And they are all silicon prototypes for photonic integrated circuits.
+
+57
+00:04:55,903 --> 00:05:04,396
+And that's adding additional layers on top of silicon chips so they can become waveguides,
+guide light.
+
+58
+00:05:04,396 --> 00:05:05,678
+to glide the light.
+
+59
+00:05:06,836 --> 00:05:12,757
+And most of the companies today use these technologies.
+
+60
+00:05:14,849 --> 00:05:21,865
+The main issue is the packaging of the processors and scalability.
+
+61
+00:05:21,865 --> 00:05:23,148
+scalability.
+
+62
+00:05:24,365 --> 00:05:32,104
+So if we want to implement, for example, HHGPT or other generative AI models,
+
+63
+00:05:32,104 --> 00:05:46,121
+AI models, we need hundreds of billions of processors or let's say parameters.
+
+64
+00:05:46,842 --> 00:05:51,084
+the downside with photons is their wavelength.
+
+65
+00:05:52,005 --> 00:05:54,279
+Their wavelength is much longer than electrons.
+
+66
+00:05:54,279 --> 00:06:00,759
+That means that every component is much larger.
+
+67
+00:06:01,679 --> 00:06:10,456
+So let's say 10 by 10 microns, for example, as compared to a transistor of several
+hundreds of nanometers.
+
+68
+00:06:10,456 --> 00:06:11,858
+of nanometers.
+
+69
+00:06:13,142 --> 00:06:19,584
+So that's about one to one hundredth ratio, could be one to thousandth ratio.
+
+70
+00:06:20,333 --> 00:06:21,968
+So things are bigger.
+
+71
+00:06:21,968 --> 00:06:28,901
+things are here, but they're much faster and lower on energy.
+
+72
+00:06:30,815 --> 00:06:33,591
+On the other hand, when we look at fibers.
+
+73
+00:06:33,591 --> 00:06:34,733
+fibers.
+
+74
+00:06:36,011 --> 00:06:39,578
+The issue of packaging is similar.
+
+75
+00:06:39,578 --> 00:06:40,729
+is similar.
+
+76
+00:06:41,719 --> 00:06:45,880
+But the scalability is much easier.
+
+77
+00:06:45,880 --> 00:06:47,180
+much better.
+
+78
+00:06:48,781 --> 00:06:52,703
+Because we can just connect fibers to fibers.
+
+79
+00:06:53,804 --> 00:06:57,666
+In regular fashion, you can find the means of them in data centers.
+
+80
+00:07:00,291 --> 00:07:06,099
+so we can actually physically build very large network of processors.
+
+81
+00:07:06,099 --> 00:07:07,449
+of processors.
+
+82
+00:07:07,489 --> 00:07:26,468
+So is this the world that we're heading into that data centers and the data computation
+layer within our hardware eventually will be fiber and photons instead of what we have
+
+83
+00:07:26,468 --> 00:07:27,298
+today?
+
+84
+00:07:28,419 --> 00:07:36,838
+So I think eventually, if we look 50 years ahead, we'll have three types of computing
+machines.
+
+85
+00:07:36,838 --> 00:07:37,898
+machines.
+
+86
+00:07:38,976 --> 00:07:40,613
+we'll have the quantum machines
+
+87
+00:07:40,613 --> 00:07:41,995
+quantum machines.
+
+88
+00:07:42,691 --> 00:07:47,588
+for specific problems, which are, let's say, very hard, very complex.
+
+89
+00:07:47,588 --> 00:07:48,910
+very complex.
+
+90
+00:07:49,965 --> 00:07:58,861
+We'll have the photonic machines, which can do, let's say, trillions of full operations
+every second.
+
+91
+00:07:58,861 --> 00:08:03,341
+That means accelerate about a million times from today.
+
+92
+00:08:03,341 --> 00:08:04,442
+from today.
+
+93
+00:08:06,111 --> 00:08:16,875
+let's say instead of millions of inferences per second, we'll go to billions and trillions
+of inference per second.
+
+94
+00:08:17,876 --> 00:08:34,213
+And of course we'll still have the electronics for control, for training, for a lot of
+things, which are more convenient to, make sure eventually we might go to fully photonics.
+
+95
+00:08:34,213 --> 00:08:35,403
+photonics.
+
+96
+00:08:35,724 --> 00:08:38,106
+but it will take a lot of time.
+
+97
+00:08:38,106 --> 00:08:39,264
+So that's the vision.
+
+98
+00:08:39,264 --> 00:08:40,716
+that's the vision.
+
+99
+00:08:41,320 --> 00:08:42,794
+So yeah, tell me about...
+
+100
+00:08:42,794 --> 00:08:44,028
+give an example...
+
+101
+00:08:44,028 --> 00:08:45,120
+Yeah, go ahead.
+
+102
+00:08:45,891 --> 00:08:57,950
+one photonic machine, let's say 10 years ago, 10 years ahead, 10 years ahead, will replace
+half of the data center today.
+
+103
+00:08:57,950 --> 00:09:04,590
+the data center today okay that's the ratio of computing capabilities
+
+104
+00:09:06,798 --> 00:09:07,698
+Wow.
+
+105
+00:09:08,879 --> 00:09:09,759
+Okay.
+
+106
+00:09:09,759 --> 00:09:12,300
+So, Eyal, tell me a little bit about...
+
+107
+00:09:12,300 --> 00:09:15,762
+Tell me about Cogni Fiber.
+
+108
+00:09:15,762 --> 00:09:18,423
+now you're an entrepreneur in the space.
+
+109
+00:09:18,423 --> 00:09:29,927
+Tell me about the company founded, the journey so far, and really what is it that you're
+bringing to be part of the larger vision of photonics in the world?
+
+110
+00:09:31,168 --> 00:09:31,648
+Yeah.
+
+111
+00:09:31,648 --> 00:09:36,110
+So, Cogni Fiber is about a very unique connection.
+
+112
+00:09:36,833 --> 00:09:50,474
+between the world of optics and photonics, represented by our CTO, Professor Zev Zalevsky,
+which is a world -renowned photonic researcher.
+
+113
+00:09:50,474 --> 00:09:52,408
+photonic researcher.
+
+114
+00:09:53,027 --> 00:10:02,807
+And myself, coming from both hardware, but also the brain research, as my PhD was in
+neuroscience.
+
+115
+00:10:03,367 --> 00:10:06,206
+And I'm lecturing about the brain for 20 years now.
+
+116
+00:10:06,206 --> 00:10:07,682
+for 20 years now.
+
+117
+00:10:08,419 --> 00:10:17,769
+So this combination of hardware, brain, neuroscience, and optics is
+
+118
+00:10:20,518 --> 00:10:23,482
+is something which is unique to cognitive fiber.
+
+119
+00:10:24,411 --> 00:10:28,193
+And we use this advantage.
+
+120
+00:10:28,193 --> 00:10:29,773
+We look at the brain.
+
+121
+00:10:30,854 --> 00:10:34,876
+We look for how the brain does it efficiently.
+
+122
+00:10:35,516 --> 00:10:36,627
+How does it compute?
+
+123
+00:10:36,627 --> 00:10:42,239
+I what's the difference between regular computers and servers and the brain?
+
+124
+00:10:42,239 --> 00:10:43,509
+and the brain?
+
+125
+00:10:44,870 --> 00:10:46,121
+Of course we are not alone.
+
+126
+00:10:46,121 --> 00:10:52,693
+The field of neuromorphics is a very wide field.
+
+127
+00:10:52,774 --> 00:10:54,104
+Dealing with that.
+
+128
+00:10:55,904 --> 00:11:00,870
+But I think that stepping into the knowledge that I gathered about the brain.
+
+129
+00:11:00,870 --> 00:11:18,570
+about the brain for the last 20 years with the knowledge that I bring, that is the major
+advantage and also the source of differentiating the complex.
+
+130
+00:11:22,093 --> 00:11:39,719
+So for example, our vision for inference systems, the systems where the data streams in
+from regular fibers in the data centers and streams through the system and does the
+
+131
+00:11:39,719 --> 00:11:42,781
+inference without any reading or writing to memory.
+
+132
+00:11:44,123 --> 00:11:48,202
+That is a unique, let's say, strategy.
+
+133
+00:11:48,202 --> 00:11:49,472
+strategy.
+
+134
+00:11:50,379 --> 00:11:51,197
+And I'm...
+
+135
+00:11:52,907 --> 00:11:58,452
+which give us a very strong advantage in latency and throughput.
+
+136
+00:11:58,452 --> 00:11:59,532
+and throughput.
+
+137
+00:12:02,073 --> 00:12:04,725
+And how does the product then come to market?
+
+138
+00:12:04,725 --> 00:12:08,116
+What is the product that you're building for the layman?
+
+139
+00:12:09,937 --> 00:12:16,489
+We start with small networks and it will grow gradually.
+
+140
+00:12:16,489 --> 00:12:23,186
+So we look at the text here, we'll have machine learning systems
+
+141
+00:12:23,186 --> 00:12:27,229
+which are very, very fast, especially low latency.
+
+142
+00:12:27,930 --> 00:12:35,740
+They could go for the market, for example, high frequency trading, where every microsecond
+counts.
+
+143
+00:12:35,740 --> 00:12:36,690
+counts.
+
+144
+00:12:37,971 --> 00:12:47,704
+Or they go to data center switching to make the training of AI generative models much more
+efficient.
+
+145
+00:12:52,968 --> 00:13:03,744
+Is the play here to work with the larger hardware companies to bring this to market as
+part of their hardware or what is the play to market here?
+
+146
+00:13:04,691 --> 00:13:10,014
+Yes, first we want to show the world that this actually works and works well.
+
+147
+00:13:10,735 --> 00:13:17,421
+So the first POCs will probably without a large partners and then we can get the traction.
+
+148
+00:13:17,421 --> 00:13:18,842
+get the traction.
+
+149
+00:13:20,785 --> 00:13:33,003
+Yes, we are in contact with Intel, with Samsung, with Nvidia, and some of them are really
+waiting to see how our first products work.
+
+150
+00:13:33,725 --> 00:13:35,449
+They understand the value.
+
+151
+00:13:35,449 --> 00:13:36,490
+value.
+
+152
+00:13:37,711 --> 00:13:46,658
+And so when you show the product and you try to express the value, what are the key
+metrics that
+
+153
+00:13:46,892 --> 00:13:47,797
+that you care about?
+
+154
+00:13:47,797 --> 00:13:52,065
+Is it mainly the latency and the efficiency of the computation?
+
+155
+00:13:52,483 --> 00:13:52,843
+Yeah.
+
+156
+00:13:52,843 --> 00:14:01,943
+If we look at the first product, the simple ones, it's mostly about real time, pattern
+recognition.
+
+157
+00:14:02,783 --> 00:14:07,983
+And we talk about, let's say two up to 10 nanoseconds delay.
+
+158
+00:14:08,803 --> 00:14:11,494
+That's something which is, does not exist today.
+
+159
+00:14:11,494 --> 00:14:13,114
+not exist today.
+
+160
+00:14:16,994 --> 00:14:20,162
+If we talk about future systems, which are larger,
+
+161
+00:14:20,855 --> 00:14:33,496
+We're talking about, let's say the total cost of ownership of a query for let's say
+generative AI, but also latency because the customers do want very short latency.
+
+162
+00:14:33,496 --> 00:14:37,820
+short latency.
+
+163
+00:14:37,820 --> 00:14:49,766
+So people talk about throughput and how to divide the bandwidth between customers, et
+cetera.
+
+164
+00:14:49,766 --> 00:14:51,491
+speed is of the essence.
+
+165
+00:14:51,491 --> 00:14:52,629
+of the essence.
+
+166
+00:14:54,531 --> 00:15:00,291
+And but if you look also, there are some fields that cannot exist today.
+
+167
+00:15:00,291 --> 00:15:03,151
+So we, and we are enablers.
+
+168
+00:15:04,111 --> 00:15:06,011
+For example, smart city.
+
+169
+00:15:07,251 --> 00:15:13,911
+So today, if a smart city wants to connect 100 ,000 cameras, they need a data center.
+
+170
+00:15:14,791 --> 00:15:15,991
+Okay.
+
+171
+00:15:15,991 --> 00:15:18,242
+And they cannot afford a data center.
+
+172
+00:15:18,242 --> 00:15:19,376
+a data center.
+
+173
+00:15:19,843 --> 00:15:21,183
+most cities.
+
+174
+00:15:22,123 --> 00:15:31,903
+And if we can provide them a system, let's say 30, 40 million dollars, does most of the
+work.
+
+175
+00:15:33,043 --> 00:15:38,782
+Let's say only a small room with several other pods.
+
+176
+00:15:38,782 --> 00:15:50,834
+several other pods That would be enough So then you can have a smart city I mean and the
+electrical bill will be you know about
+
+177
+00:15:51,315 --> 00:15:54,770
+kilowatts, 50 kilowatts, and not 20 megawatts.
+
+178
+00:15:54,770 --> 00:15:56,092
+20 megabits.
+
+179
+00:15:58,615 --> 00:16:02,247
+That's a basic revolution.
+
+180
+00:16:02,247 --> 00:16:03,269
+revolution.
+
+181
+00:16:06,358 --> 00:16:07,498
+Amazing.
+
+182
+00:16:07,719 --> 00:16:08,300
+Wow.
+
+183
+00:16:08,300 --> 00:16:13,323
+So Eyal, what's coming up in the next couple months for Cognifiber?
+
+184
+00:16:14,425 --> 00:16:20,569
+We are very excited because we are going to present our first prototype, and it's actually
+MVP.
+
+185
+00:16:24,611 --> 00:16:34,290
+And with this presentation somewhere along the next Q1 2025, we are going to present this
+technology.
+
+186
+00:16:34,290 --> 00:16:35,542
+this technology.
+
+187
+00:16:36,417 --> 00:16:39,759
+The aim is at least one giga inference per second.
+
+188
+00:16:39,759 --> 00:16:40,941
+per second.
+
+189
+00:16:42,147 --> 00:16:45,098
+and with power consumption of up to 100 watts.
+
+190
+00:16:45,098 --> 00:16:46,734
+up to 100 fat.
+
+191
+00:16:48,831 --> 00:16:51,127
+And that's like, you know, saying we are here.
+
+192
+00:16:51,127 --> 00:16:58,206
+There's a new technology in the, know, rising up and you better not miss it.
+
+193
+00:16:58,206 --> 00:16:59,438
+not miss it.
+
+194
+00:17:02,060 --> 00:17:02,680
+Absolutely.
+
+195
+00:17:02,680 --> 00:17:06,613
+Eyal, thank you so much for coming and for sharing your journey.
+
+196
+00:17:07,114 --> 00:17:09,655
+Sounds like we're in it for the long haul.
+
+197
+00:17:10,776 --> 00:17:23,164
+especially it sounds like this is a very foundational and very fundamental technology that
+will change how we experience a lot of different existing use cases, new use cases.
+
+198
+00:17:23,525 --> 00:17:28,028
+And of course, we're all getting less and less patient every day.
+
+199
+00:17:28,028 --> 00:17:32,120
+So considering the impact of latency.
+
+200
+00:17:32,126 --> 00:17:35,492
+and the speed, think that's really the key here.
+
+201
+00:17:35,492 --> 00:17:38,517
+So Eyal, thank you again and best of luck with Cognifiber.
+
+202
+00:17:38,517 --> 00:17:38,928
+Thank you.
+
+203
+00:17:38,928 --> 00:17:41,001
+Thank you too, Michael.
+
+204
+00:17:41,001 --> 00:17:41,963
+Thank you for the time.
+
+205
+00:17:41,963 --> 00:17:43,264
+Thank you so much.
+

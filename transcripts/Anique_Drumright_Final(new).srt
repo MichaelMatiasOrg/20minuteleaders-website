@@ -1,0 +1,3020 @@
+﻿1
+00:00:00,040 --> 00:00:01,720
+What do our end users actually want?
+
+2
+00:00:01,720 --> 00:00:03,120
+Are we making it better?
+
+3
+00:00:03,120 --> 00:00:04,160
+Are we building a platform
+
+4
+00:00:04,160 --> 00:00:05,840
+that will stand up?
+
+5
+00:00:06,120 --> 00:00:07,400
+What is right? What is that?
+
+6
+00:00:07,400 --> 00:00:08,080
+What are we doing?
+
+7
+00:00:08,080 --> 00:00:08,760
+Why are we doing it?
+
+8
+00:00:08,760 --> 00:00:10,600
+How does it connect to our vision?
+
+9
+00:00:10,600 --> 00:00:12,120
+And then it's ultimately like,
+
+10
+00:00:12,120 --> 00:00:13,300
+are we delivering it?
+
+11
+00:00:41,564 --> 00:00:43,760
+I'm so glad to have you here.
+
+12
+00:00:43,760 --> 00:00:45,320
+All the way from Uber,
+
+13
+00:00:45,320 --> 00:00:47,320
+TripActions, now Loom,
+
+14
+00:00:47,320 --> 00:00:48,760
+and Teach for America before.
+
+15
+00:00:48,760 --> 00:00:50,960
+I can't wait to talk about Product,
+
+16
+00:00:50,960 --> 00:00:52,400
+VP of Product roles,
+
+17
+00:00:52,400 --> 00:00:53,560
+and really, your insights
+
+18
+00:00:53,560 --> 00:00:55,000
+into those various industries.
+
+19
+00:00:55,000 --> 00:00:57,280
+But before we start on all of that,
+
+20
+00:00:57,280 --> 00:00:58,200
+I want to go all the way back
+
+21
+00:00:58,200 --> 00:00:58,920
+to Georgetown,
+
+22
+00:00:58,920 --> 00:01:00,080
+you're playing rugby.
+
+23
+00:01:00,080 --> 00:01:01,200
+And how that has
+
+24
+00:01:01,200 --> 00:01:02,640
+you know, hinted towards your life
+
+25
+00:01:02,640 --> 00:01:04,480
+as VP of Product?
+
+26
+00:01:05,800 --> 00:01:07,720
+I mean, I've been a big believer
+
+27
+00:01:07,720 --> 00:01:09,560
+in team sports in my entire childhood.
+
+28
+00:01:09,560 --> 00:01:10,560
+So, I've played more soccer
+
+29
+00:01:10,560 --> 00:01:12,080
+in my lifetime than rugby.
+
+30
+00:01:12,080 --> 00:01:13,320
+And then I went to college
+
+31
+00:01:13,320 --> 00:01:14,080
+and I just wanted
+
+32
+00:01:14,080 --> 00:01:15,080
+to pick up something new,
+
+33
+00:01:15,080 --> 00:01:17,160
+be part of a team sport.
+
+34
+00:01:17,160 --> 00:01:19,360
+So, I found myself up
+
+35
+00:01:19,360 --> 00:01:22,400
+on the rugby team on my freshman year.
+
+36
+00:01:22,400 --> 00:01:24,080
+It was super fun.
+
+37
+00:01:24,080 --> 00:01:25,720
+I still remember my first try.
+
+38
+00:01:25,720 --> 00:01:27,200
+It was like, I caught the ball
+
+39
+00:01:27,200 --> 00:01:28,600
+and I just remember the coach be like,
+
+40
+00:01:28,601 --> 00:01:29,480
+"Run, run, run."
+
+41
+00:01:29,480 --> 00:01:30,810
+And I'm like, "I'm running."
+
+42
+00:01:30,811 --> 00:01:32,960
+It's great. You have no idea what you do
+
+43
+00:01:32,960 --> 00:01:35,280
+and you're like, "I wish to do my best."
+
+44
+00:01:35,280 --> 00:01:37,720
+"I'll be sprinting."
+
+45
+00:01:37,720 --> 00:01:39,280
+We don't have much rugby in Israel.
+
+46
+00:01:39,280 --> 00:01:41,040
+But rugby is the sport where eventually
+
+47
+00:01:41,040 --> 00:01:42,049
+just everybody is piling
+
+48
+00:01:42,050 --> 00:01:44,120
+on top of each other over this, you know,
+
+49
+00:01:44,120 --> 00:01:45,520
+cone-shaped ball. Right?
+
+50
+00:01:45,521 --> 00:01:48,920
+Yeah. It's like huge in,
+
+51
+00:01:49,240 --> 00:01:52,600
+it's huge in Australia and South Africa.
+
+52
+00:01:52,600 --> 00:01:55,240
+It's pretty popular in New York as well.
+
+53
+00:01:55,240 --> 00:01:56,880
+But anyways, so then after college,
+
+54
+00:01:56,880 --> 00:01:58,040
+I really wanted to do something
+
+55
+00:01:58,040 --> 00:01:59,560
+that mattered.
+
+56
+00:01:59,720 --> 00:02:03,440
+And I just thought, Teach for America
+
+57
+00:02:03,440 --> 00:02:06,160
+would be a great place to contribute.
+
+58
+00:02:06,160 --> 00:02:08,760
+I had had the joys of like
+
+59
+00:02:08,760 --> 00:02:11,200
+a great public education system.
+
+60
+00:02:11,201 --> 00:02:13,360
+And obviously I went to a really strong
+
+61
+00:02:13,360 --> 00:02:15,040
+private university for college.
+
+62
+00:02:15,040 --> 00:02:18,520
+And I just, I wanted to contribute.
+
+63
+00:02:18,520 --> 00:02:19,760
+And I wanted to do something
+
+64
+00:02:19,760 --> 00:02:21,400
+with high levels of ownership
+
+65
+00:02:21,400 --> 00:02:23,360
+and something that mattered.
+
+66
+00:02:23,680 --> 00:02:26,800
+And so, I was lucky to be selected
+
+67
+00:02:26,800 --> 00:02:28,960
+to be part of Teach for America.
+
+68
+00:02:29,400 --> 00:02:30,800
+So, what is Teach for America?
+
+69
+00:02:30,800 --> 00:02:32,200
+What is the sort of impact you're trying
+
+70
+00:02:32,200 --> 00:02:34,960
+to make on the public education space?
+
+71
+00:02:34,960 --> 00:02:37,360
+Yeah, sorry, that's a great question.
+
+72
+00:02:37,360 --> 00:02:38,040
+I should start there.
+
+73
+00:02:38,040 --> 00:02:40,360
+So, Teach for America is,
+
+74
+00:02:40,360 --> 00:02:43,200
+it's been around for over 25 years now.
+
+75
+00:02:43,200 --> 00:02:44,320
+It is a non-profit
+
+76
+00:02:44,320 --> 00:02:46,480
+that takes high performing leaders
+
+77
+00:02:46,480 --> 00:02:48,720
+from quite a bit directly
+
+78
+00:02:48,720 --> 00:02:50,720
+out of undergraduate university.
+
+79
+00:02:50,720 --> 00:02:52,040
+But some put collegiate
+
+80
+00:02:52,040 --> 00:02:52,800
+and places them
+
+81
+00:02:52,800 --> 00:02:56,000
+into high need school districts.
+
+82
+00:02:56,000 --> 00:02:57,320
+So, the public education system
+
+83
+00:02:57,320 --> 00:02:59,120
+in the United States
+
+84
+00:02:59,120 --> 00:03:00,560
+does have a teacher shortage
+
+85
+00:03:00,560 --> 00:03:02,480
+and a teacher recruitment shortage.
+
+86
+00:03:02,480 --> 00:03:04,040
+And so, I partners
+
+87
+00:03:04,040 --> 00:03:05,400
+with high performing leaders
+
+88
+00:03:05,400 --> 00:03:08,320
+puts them through a distinct training.
+
+89
+00:03:08,320 --> 00:03:12,280
+And then you work in high need schools.
+
+90
+00:03:12,280 --> 00:03:16,120
+And so, what were your various roles?
+
+91
+00:03:16,120 --> 00:03:17,520
+Because you've done quite a few things
+
+92
+00:03:17,520 --> 00:03:18,360
+within Teach for America.
+
+93
+00:03:18,360 --> 00:03:19,840
+But it's not like you came in and said,
+
+94
+00:03:19,840 --> 00:03:20,680
+"Okay, I'm going to be a teacher,
+
+95
+00:03:20,680 --> 00:03:21,440
+I'm going to help others
+
+96
+00:03:21,440 --> 00:03:22,520
+in one capacity."
+
+97
+00:03:22,520 --> 00:03:23,560
+But you really branched out
+
+98
+00:03:23,560 --> 00:03:25,800
+and did quite a few different things.
+
+99
+00:03:25,800 --> 00:03:27,120
+And I'm especially curious for that
+
+100
+00:03:27,120 --> 00:03:28,920
+because, you know, looking from your
+
+101
+00:03:28,920 --> 00:03:29,880
+journey from an outsider,
+
+102
+00:03:29,880 --> 00:03:31,000
+you're saying, okay, you wanted to go
+
+103
+00:03:31,000 --> 00:03:32,840
+study in sort of politics government
+
+104
+00:03:32,840 --> 00:03:33,720
+in Georgetown.
+
+105
+00:03:33,720 --> 00:03:34,760
+And then you go into Teach for America.
+
+106
+00:03:34,760 --> 00:03:35,920
+And then you find yourself, you know,
+
+107
+00:03:35,920 --> 00:03:37,520
+going straight into high tech
+
+108
+00:03:37,520 --> 00:03:39,120
+at full speed,
+
+109
+00:03:39,120 --> 00:03:41,880
+both at really big companies like Uber,
+
+110
+00:03:41,880 --> 00:03:43,245
+then to medium size companies
+
+111
+00:03:43,246 --> 00:03:45,160
+like hyper growth, like TripActions,
+
+112
+00:03:45,160 --> 00:03:46,000
+and now to Loom,
+
+113
+00:03:46,000 --> 00:03:47,880
+which is more of a startup scene. Right?
+
+114
+00:03:47,880 --> 00:03:49,160
+So, I'm really curious
+
+115
+00:03:49,160 --> 00:03:50,040
+to hear about the journey
+
+116
+00:03:50,040 --> 00:03:53,320
+and how you sort of paved this road.
+
+117
+00:03:53,480 --> 00:03:55,280
+Yeah. I mean,
+
+118
+00:03:55,281 --> 00:03:58,320
+so, a core belief of Teach for America
+
+119
+00:03:58,320 --> 00:03:59,960
+is "teaching is leadership".
+
+120
+00:03:59,960 --> 00:04:03,880
+And I think that, I didn't know
+
+121
+00:04:03,880 --> 00:04:05,160
+at the time that like,
+
+122
+00:04:05,160 --> 00:04:06,160
+learning about teaching
+
+123
+00:04:06,160 --> 00:04:07,400
+and working at Teach for America
+
+124
+00:04:07,400 --> 00:04:09,280
+was preparing me in many ways
+
+125
+00:04:09,280 --> 00:04:11,120
+for what I do now.
+
+126
+00:04:11,560 --> 00:04:14,600
+You learn, how do you get people excited
+
+127
+00:04:14,600 --> 00:04:16,000
+to go after big goals?
+
+128
+00:04:16,000 --> 00:04:16,760
+How do you break it down
+
+129
+00:04:16,760 --> 00:04:17,760
+into medium goals?
+
+130
+00:04:17,760 --> 00:04:19,120
+How do you build a culture?
+
+131
+00:04:19,120 --> 00:04:20,560
+How do you keep going
+
+132
+00:04:20,560 --> 00:04:23,360
+even when things get hard?
+
+133
+00:04:23,440 --> 00:04:25,160
+And like, the results are coming in
+
+134
+00:04:25,160 --> 00:04:26,560
+and you need to change course.
+
+135
+00:04:26,560 --> 00:04:28,682
+Like that is all, I mean,
+
+136
+00:04:28,882 --> 00:04:31,240
+those are some of the many things
+
+137
+00:04:31,240 --> 00:04:33,240
+that product organizations do.
+
+138
+00:04:33,240 --> 00:04:35,360
+And it's the same in a classroom.
+
+139
+00:04:35,360 --> 00:04:35,840
+And so, I think
+
+140
+00:04:35,840 --> 00:04:37,440
+it was a really good foundation
+
+141
+00:04:37,440 --> 00:04:40,400
+in terms of building ownership,
+
+142
+00:04:40,400 --> 00:04:42,800
+taking tough blows.
+
+143
+00:04:42,800 --> 00:04:44,760
+Teaching is so hard,
+
+144
+00:04:44,760 --> 00:04:47,040
+and then continuing to keep going.
+
+145
+00:04:47,040 --> 00:04:49,600
+And when I left Teach for America,
+
+146
+00:04:49,600 --> 00:04:51,160
+I had joined the team in Dallas
+
+147
+00:04:51,160 --> 00:04:51,960
+and had been working
+
+148
+00:04:51,960 --> 00:04:55,280
+on developing Proofpoint schools with,
+
+149
+00:04:55,320 --> 00:04:56,440
+sort of attracting school leaders
+
+150
+00:04:56,440 --> 00:04:57,640
+and high caliber teachers,
+
+151
+00:04:57,640 --> 00:04:59,720
+and in trying to work with the district
+
+152
+00:04:59,720 --> 00:05:01,080
+to make Proofpoint schools.
+
+153
+00:05:01,080 --> 00:05:03,560
+But I just wanted to,
+
+154
+00:05:03,560 --> 00:05:06,440
+I was really young and you know,
+
+155
+00:05:06,440 --> 00:05:07,120
+things were moving
+
+156
+00:05:07,120 --> 00:05:08,760
+really fast, career wise.
+
+157
+00:05:08,760 --> 00:05:12,040
+And I just realized that I wanted
+
+158
+00:05:12,040 --> 00:05:13,320
+to experience something different.
+
+159
+00:05:13,320 --> 00:05:15,640
+I wanted to challenge my brain
+
+160
+00:05:15,640 --> 00:05:17,000
+in different ways.
+
+161
+00:05:17,000 --> 00:05:19,080
+So, I tried to applied for Uber,
+
+162
+00:05:19,080 --> 00:05:20,080
+got into Uber
+
+163
+00:05:20,080 --> 00:05:22,840
+and then kind of navigated the company
+
+164
+00:05:22,840 --> 00:05:24,360
+to get to what I was like,
+
+165
+00:05:24,360 --> 00:05:25,680
+ultimately more interested in,
+
+166
+00:05:25,680 --> 00:05:27,600
+which was on the product side.
+
+167
+00:05:27,600 --> 00:05:28,680
+And then from there,
+
+168
+00:05:28,680 --> 00:05:30,480
+I joined TripActions.
+
+169
+00:05:30,480 --> 00:05:33,360
+And the way that I found TripActions was,
+
+170
+00:05:33,360 --> 00:05:35,440
+I basically went through
+
+171
+00:05:35,440 --> 00:05:36,280
+a process of like,
+
+172
+00:05:36,280 --> 00:05:38,840
+Okay, who are VCs I believe in.
+
+173
+00:05:38,840 --> 00:05:40,920
+I have to understand the problem.
+
+174
+00:05:40,920 --> 00:05:42,440
+Like, I want to be excited
+
+175
+00:05:42,440 --> 00:05:44,160
+by the problem.
+
+176
+00:05:45,240 --> 00:05:46,800
+And then I met Ariel and Ilan,
+
+177
+00:05:46,800 --> 00:05:48,880
+and then it was kind off to the races.
+
+178
+00:05:48,880 --> 00:05:50,280
+And I had also looked for startups
+
+179
+00:05:50,280 --> 00:05:54,120
+that had ex Uber executives.
+
+180
+00:05:55,920 --> 00:05:58,160
+You know, Uber is a mixed bag.
+
+181
+00:05:58,160 --> 00:06:00,440
+You know, 2014, 2015, 2016,
+
+182
+00:06:00,440 --> 00:06:02,520
+Uber, they're like highs and lows
+
+183
+00:06:02,520 --> 00:06:03,880
+from a culture standpoint.
+
+184
+00:06:03,880 --> 00:06:07,320
+But I do think it was rigorous
+
+185
+00:06:07,320 --> 00:06:09,680
+and bold and courageous.
+
+186
+00:06:09,680 --> 00:06:11,680
+And there were, you know,
+
+187
+00:06:11,680 --> 00:06:14,080
+negative attributes as well.
+
+188
+00:06:14,080 --> 00:06:17,360
+That coin is double sided.
+
+189
+00:06:17,360 --> 00:06:21,640
+But like, when I first joined there,
+
+190
+00:06:21,640 --> 00:06:23,840
+we all believed in it so much.
+
+191
+00:06:23,840 --> 00:06:24,960
+And I knew that I wanted
+
+192
+00:06:24,960 --> 00:06:26,480
+to work at a company,
+
+193
+00:06:26,480 --> 00:06:29,720
+that that belief was like fully there.
+
+194
+00:06:29,720 --> 00:06:30,800
+Right.
+
+195
+00:06:30,800 --> 00:06:31,960
+And so, then I joined TripActions
+
+196
+00:06:31,960 --> 00:06:33,520
+when we were 40 people.
+
+197
+00:06:33,520 --> 00:06:37,040
+I had no idea that it would like, scale.
+
+198
+00:06:38,400 --> 00:06:39,200
+And so, yeah, I was
+
+199
+00:06:39,200 --> 00:06:41,400
+the first product manager.
+
+200
+00:06:41,401 --> 00:06:43,880
+Amazing. So, first product manager,
+
+201
+00:06:43,880 --> 00:06:45,520
+but actually pretty quickly
+
+202
+00:06:45,520 --> 00:06:46,880
+then becoming Head of Product
+
+203
+00:06:46,880 --> 00:06:48,680
+and then VP of Product.
+
+204
+00:06:48,680 --> 00:06:50,520
+And how many people were TripActions
+
+205
+00:06:50,520 --> 00:06:52,320
+by the time that you left?
+
+206
+00:06:52,320 --> 00:06:53,200
+So, when I joined,
+
+207
+00:06:53,200 --> 00:06:54,960
+we were a series-A, 40 people.
+
+208
+00:06:54,960 --> 00:06:56,560
+When I left, we were 1200
+
+209
+00:06:56,560 --> 00:06:58,120
+valued at four billion.
+
+210
+00:06:58,120 --> 00:07:01,760
+And my team went from just me,
+
+211
+00:07:01,760 --> 00:07:03,720
+to then running the design
+
+212
+00:07:03,720 --> 00:07:04,880
+or really building the design
+
+213
+00:07:04,880 --> 00:07:06,560
+and product organization,
+
+214
+00:07:06,560 --> 00:07:09,080
+to about 27, split between
+
+215
+00:07:09,080 --> 00:07:10,840
+Palo Alto and Amsterdam.
+
+216
+00:07:10,840 --> 00:07:12,520
+Unbelievable.
+
+217
+00:07:12,800 --> 00:07:14,720
+Why Amsterdam?
+
+218
+00:07:15,160 --> 00:07:17,200
+That was more
+
+219
+00:07:17,200 --> 00:07:18,960
+of an engineering-driven decision.
+
+220
+00:07:18,960 --> 00:07:22,000
+There had been another, well no.
+
+221
+00:07:22,000 --> 00:07:22,440
+Amsterdam,
+
+222
+00:07:22,440 --> 00:07:24,360
+because from an operations standpoint,
+
+223
+00:07:24,360 --> 00:07:26,400
+we had set up a support team.
+
+224
+00:07:26,400 --> 00:07:29,520
+And then our CTO had flown out there
+
+225
+00:07:29,520 --> 00:07:31,920
+and had met with a startup
+
+226
+00:07:31,920 --> 00:07:32,960
+that was very talented
+
+227
+00:07:32,960 --> 00:07:34,160
+in the travel space.
+
+228
+00:07:34,160 --> 00:07:35,360
+And so, then he made the decision
+
+229
+00:07:35,360 --> 00:07:36,760
+from an engineering perspective,
+
+230
+00:07:36,760 --> 00:07:37,920
+we're going to hire there.
+
+231
+00:07:37,920 --> 00:07:38,720
+There's also like
+
+232
+00:07:38,720 --> 00:07:41,680
+a ton of tax incentives in Amsterdam.
+
+233
+00:07:41,680 --> 00:07:43,560
+It's like Amsterdam and Dublin,
+
+234
+00:07:43,560 --> 00:07:46,200
+very interesting for startup
+
+235
+00:07:47,040 --> 00:07:49,080
+But anyways, so, it was mostly like
+
+236
+00:07:49,080 --> 00:07:50,520
+the operations team had set up
+
+237
+00:07:50,520 --> 00:07:53,440
+and then our CTO had gone out
+
+238
+00:07:53,440 --> 00:07:54,760
+and had met like a team
+
+239
+00:07:54,760 --> 00:07:56,200
+of pretty talented engineers.
+
+240
+00:07:56,200 --> 00:07:57,120
+And so then, it just became
+
+241
+00:07:57,120 --> 00:07:59,600
+kind of a natural decision.
+
+242
+00:07:59,600 --> 00:08:01,920
+Also, because TripActions
+
+243
+00:08:01,920 --> 00:08:03,040
+is both a product
+
+244
+00:08:03,040 --> 00:08:04,720
+and an operations company.
+
+245
+00:08:04,720 --> 00:08:04,920
+Right.
+
+246
+00:08:04,920 --> 00:08:07,040
+And good for your tech team
+
+247
+00:08:07,040 --> 00:08:09,920
+to be close with the support team
+
+248
+00:08:09,920 --> 00:08:12,160
+or your operations team.
+
+249
+00:08:12,160 --> 00:08:13,160
+Your customer success team,
+
+250
+00:08:13,160 --> 00:08:14,600
+your sales team, there's just a ton
+
+251
+00:08:14,600 --> 00:08:17,520
+of empathy that's developed.
+
+252
+00:08:17,520 --> 00:08:19,880
+So, it was kind of a win all around,
+
+253
+00:08:19,880 --> 00:08:21,040
+both from a product
+
+254
+00:08:21,040 --> 00:08:22,720
+and engineering and a support perspective.
+
+255
+00:08:22,720 --> 00:08:23,440
+What were some
+
+256
+00:08:23,440 --> 00:08:24,520
+of the most both challenging
+
+257
+00:08:24,520 --> 00:08:25,520
+and exhilarating things
+
+258
+00:08:25,520 --> 00:08:27,000
+about moving from a,
+
+259
+00:08:27,000 --> 00:08:28,800
+you know, one person team really
+
+260
+00:08:28,800 --> 00:08:30,880
+to now, almost a 30 person team?
+
+261
+00:08:30,880 --> 00:08:32,640
+But more importantly than that,
+
+262
+00:08:32,640 --> 00:08:34,320
+being a part of the incubation
+
+263
+00:08:34,320 --> 00:08:36,920
+of what would become a 1200 person,
+
+264
+00:08:36,920 --> 00:08:38,720
+four billion dollar company,
+
+265
+00:08:38,720 --> 00:08:40,080
+which I'm assuming
+
+266
+00:08:40,080 --> 00:08:41,720
+as one of the first people
+
+267
+00:08:41,720 --> 00:08:43,600
+working on product in the company,
+
+268
+00:08:43,600 --> 00:08:45,200
+you've gotten to see really
+
+269
+00:08:45,200 --> 00:08:46,840
+the vision and strategy
+
+270
+00:08:46,840 --> 00:08:48,440
+unfold along the way,
+
+271
+00:08:48,440 --> 00:08:49,960
+as you made those transitions.
+
+272
+00:08:49,960 --> 00:08:51,560
+So, I'd love to sort of pick your brain
+
+273
+00:08:51,560 --> 00:08:53,560
+and fast forward during these years.
+
+274
+00:08:53,560 --> 00:08:54,320
+But really understand,
+
+275
+00:08:54,320 --> 00:08:55,880
+what were some of those insights
+
+276
+00:08:55,880 --> 00:08:59,320
+that you gained throughout this time?
+
+277
+00:08:59,440 --> 00:09:00,960
+I mean, I think
+
+278
+00:09:01,080 --> 00:09:02,920
+the first ones that come to mind,
+
+279
+00:09:02,920 --> 00:09:03,960
+and since you didn't send me
+
+280
+00:09:03,960 --> 00:09:05,000
+the questions ahead of time,
+
+281
+00:09:05,000 --> 00:09:07,640
+I have to just go off the cuff.
+
+282
+00:09:07,640 --> 00:09:08,520
+The first is like,
+
+283
+00:09:08,521 --> 00:09:10,440
+as you begin to build a team,
+
+284
+00:09:10,440 --> 00:09:15,120
+the people you bring in are so exciting.
+
+285
+00:09:15,120 --> 00:09:15,520
+Right.
+
+286
+00:09:15,520 --> 00:09:16,240
+I think about some
+
+287
+00:09:16,240 --> 00:09:17,720
+of the product managers
+
+288
+00:09:17,720 --> 00:09:19,880
+that I hired, that I mentored,
+
+289
+00:09:19,880 --> 00:09:20,840
+that I learned from,
+
+290
+00:09:20,840 --> 00:09:24,000
+and it's just so fun, you know.
+
+291
+00:09:24,000 --> 00:09:24,720
+Yeah.
+
+292
+00:09:24,720 --> 00:09:26,240
+And I think,
+
+293
+00:09:27,920 --> 00:09:30,240
+that is just like a very inspiring piece
+
+294
+00:09:30,240 --> 00:09:31,560
+of a company growing.
+
+295
+00:09:31,561 --> 00:09:33,120
+And then I think the second piece
+
+296
+00:09:33,120 --> 00:09:34,480
+from a product perspective
+
+297
+00:09:34,480 --> 00:09:35,760
+that I learned in spades
+
+298
+00:09:35,760 --> 00:09:37,720
+at TripActions is like,
+
+299
+00:09:37,720 --> 00:09:39,040
+you should always be responding
+
+300
+00:09:39,040 --> 00:09:40,640
+to the market.
+
+301
+00:09:40,720 --> 00:09:41,640
+Right.
+
+302
+00:09:41,640 --> 00:09:44,160
+Like if you want to be winning
+
+303
+00:09:44,160 --> 00:09:46,320
+and if you want to be a true partner
+
+304
+00:09:46,320 --> 00:09:47,320
+to your customers,
+
+305
+00:09:47,320 --> 00:09:48,800
+because TripActions and Loom
+
+306
+00:09:48,800 --> 00:09:50,960
+are both B2B2C, like you need
+
+307
+00:09:50,960 --> 00:09:53,920
+to be both over delivering
+
+308
+00:09:53,920 --> 00:09:55,320
+and also have a pulse
+
+309
+00:09:55,320 --> 00:09:57,600
+on how things are changing.
+
+310
+00:09:57,600 --> 00:09:57,800
+Right.
+
+311
+00:09:57,800 --> 00:09:59,960
+So, how do you then, as VP of Product
+
+312
+00:09:59,960 --> 00:10:00,880
+have that pulse?
+
+313
+00:10:00,880 --> 00:10:02,760
+How do you wake up every day,
+
+314
+00:10:02,760 --> 00:10:03,600
+and by the way,
+
+315
+00:10:03,600 --> 00:10:04,880
+one of the questions
+
+316
+00:10:04,880 --> 00:10:05,680
+that before we start, you're asking,
+
+317
+00:10:05,680 --> 00:10:07,000
+"How do you edit these videos?
+
+318
+00:10:07,000 --> 00:10:08,640
+What software you use?"
+
+319
+00:10:08,640 --> 00:10:09,880
+I guess that's part
+
+320
+00:10:09,880 --> 00:10:11,800
+of the VP product mentality
+
+321
+00:10:11,800 --> 00:10:14,240
+of constantly doing that market research.
+
+322
+00:10:14,240 --> 00:10:15,120
+But what is your,
+
+323
+00:10:15,120 --> 00:10:17,000
+sort of engaged responsibility
+
+324
+00:10:17,000 --> 00:10:18,280
+with the market?
+
+325
+00:10:18,280 --> 00:10:19,280
+How do you tangibly go
+
+326
+00:10:19,280 --> 00:10:21,560
+about executing on it every single day
+
+327
+00:10:21,560 --> 00:10:24,000
+as you're aligning the strategy?
+
+328
+00:10:24,000 --> 00:10:26,000
+And when Ariel and Ilan are saying,
+
+329
+00:10:26,000 --> 00:10:26,777
+"Okay, we'll Anique,
+
+330
+00:10:26,778 --> 00:10:27,800
+what is the next product
+
+331
+00:10:27,800 --> 00:10:28,720
+we should build?"
+
+332
+00:10:28,720 --> 00:10:30,840
+then, how do you even go about thinking
+
+333
+00:10:30,840 --> 00:10:34,360
+of that new and innovative vision?
+
+334
+00:10:35,520 --> 00:10:36,650
+It's a good question.
+
+335
+00:10:36,651 --> 00:10:39,560
+I mean, I think part of it is
+
+336
+00:10:39,560 --> 00:10:41,480
+being pretty diligent about always
+
+337
+00:10:41,480 --> 00:10:42,880
+being in front of customers.
+
+338
+00:10:42,880 --> 00:10:44,840
+So, like, if I look at my week
+
+339
+00:10:44,840 --> 00:10:45,760
+and I'm not like
+
+340
+00:10:45,760 --> 00:10:47,680
+in the field at least twice,
+
+341
+00:10:47,680 --> 00:10:49,600
+I'll like, being
+
+342
+00:10:49,600 --> 00:10:50,720
+customer success in sales
+
+343
+00:10:50,720 --> 00:10:52,120
+and be like,
+
+344
+00:10:52,760 --> 00:10:55,120
+this is a lonely week.
+
+345
+00:10:55,120 --> 00:10:56,840
+Like I need to get out there.
+
+346
+00:10:56,840 --> 00:10:58,040
+And what does that mean, Anique?
+
+347
+00:10:58,040 --> 00:10:58,600
+What does that mean
+
+348
+00:10:58,600 --> 00:10:59,720
+to get in front of that customer?
+
+349
+00:10:59,720 --> 00:11:01,280
+Is it literally, you picking up the phone
+
+350
+00:11:01,280 --> 00:11:02,160
+and calling customers?
+
+351
+00:11:02,160 --> 00:11:05,920
+Is that you going to meet ups or Zooms?
+
+352
+00:11:06,520 --> 00:11:07,000
+I push in
+
+353
+00:11:07,001 --> 00:11:09,040
+on customer calls and sales calls.
+
+354
+00:11:09,040 --> 00:11:11,200
+And I also, if we're going to lose a deal
+
+355
+00:11:11,200 --> 00:11:13,800
+or if this was like,
+
+356
+00:11:13,800 --> 00:11:15,160
+if there's something at risk,
+
+357
+00:11:15,160 --> 00:11:17,520
+I want to know from it.
+
+358
+00:11:17,520 --> 00:11:19,280
+Because, one, it's my responsibility,
+
+359
+00:11:19,280 --> 00:11:20,160
+but also because
+
+360
+00:11:20,160 --> 00:11:22,760
+there's so much learning to happen.
+
+361
+00:11:22,760 --> 00:11:24,560
+But still about this, you know,
+
+362
+00:11:24,560 --> 00:11:27,280
+jumping in, being responsible of them,
+
+363
+00:11:27,280 --> 00:11:28,880
+they're still learning,
+
+364
+00:11:28,880 --> 00:11:30,520
+that's part of both leadership,
+
+365
+00:11:30,520 --> 00:11:32,240
+but it's also a part of, you
+
+366
+00:11:32,240 --> 00:11:33,520
+understanding that it's a process.
+
+367
+00:11:33,520 --> 00:11:34,880
+And, you know, you have
+
+368
+00:11:34,880 --> 00:11:37,160
+to learn from every experience.
+
+369
+00:11:37,160 --> 00:11:38,480
+So, from your insights,
+
+370
+00:11:38,480 --> 00:11:39,040
+what are some
+
+371
+00:11:39,040 --> 00:11:40,320
+of the most important things
+
+372
+00:11:40,320 --> 00:11:41,680
+that a product manager
+
+373
+00:11:41,680 --> 00:11:43,120
+can take with them
+
+374
+00:11:43,120 --> 00:11:44,360
+as they're building other product
+
+375
+00:11:44,360 --> 00:11:46,400
+and strategy and growing in the ranks,
+
+376
+00:11:46,400 --> 00:11:49,200
+as regards to a company's product?
+
+377
+00:11:49,480 --> 00:11:50,520
+I mean, I think the first
+
+378
+00:11:50,520 --> 00:11:53,080
+is like curiosity.
+
+379
+00:11:53,640 --> 00:11:54,800
+I think one of the mistakes
+
+380
+00:11:54,800 --> 00:11:56,960
+that product managers,
+
+381
+00:11:56,960 --> 00:11:59,160
+that it's funny when I join
+
+382
+00:11:59,160 --> 00:12:01,560
+as a customer into product meetings,
+
+383
+00:12:01,560 --> 00:12:03,720
+that I face sometimes is product managers
+
+384
+00:12:03,720 --> 00:12:05,520
+being defensive of their product.
+
+385
+00:12:05,520 --> 00:12:07,890
+You're seeing uncomfortable, right?
+
+386
+00:12:07,891 --> 00:12:09,463
+You're like, "Oh, it's criticizing."
+
+387
+00:12:09,464 --> 00:12:11,770
+And so, that art of listening
+
+388
+00:12:11,771 --> 00:12:14,440
+and balancing being empathetic
+
+389
+00:12:14,440 --> 00:12:16,280
+and being genuinely curious,
+
+390
+00:12:16,280 --> 00:12:19,040
+while also taking ownership
+
+391
+00:12:19,040 --> 00:12:20,600
+and taking responsibility of the product
+
+392
+00:12:20,600 --> 00:12:21,920
+that you've developed,
+
+393
+00:12:21,920 --> 00:12:24,440
+I think it's a really, you know,
+
+394
+00:12:24,440 --> 00:12:25,520
+it's a balance that everyone
+
+395
+00:12:25,520 --> 00:12:29,440
+is trying to constantly get better at.
+
+396
+00:12:29,440 --> 00:12:29,720
+Right.
+
+397
+00:12:29,720 --> 00:12:31,280
+And there's definitely times
+
+398
+00:12:31,280 --> 00:12:32,520
+where I hop up calls where I'm like,
+
+399
+00:12:32,520 --> 00:12:33,800
+I didn't listen enough.
+
+400
+00:12:33,800 --> 00:12:34,640
+Or I should have asked
+
+401
+00:12:34,640 --> 00:12:39,160
+more open ended questions than I did.
+
+402
+00:12:39,160 --> 00:12:40,760
+What is the difference between
+
+403
+00:12:40,760 --> 00:12:43,480
+open ended versus closed ended questions,
+
+404
+00:12:43,480 --> 00:12:45,080
+from a product management perspective?
+
+405
+00:12:45,080 --> 00:12:47,000
+So, let's say that I'm now, you know,
+
+406
+00:12:47,000 --> 00:12:48,800
+I'm the founder of an early stage company
+
+407
+00:12:48,800 --> 00:12:51,040
+and I'm trying to get my validation
+
+408
+00:12:51,040 --> 00:12:52,160
+or I'm trying to get some insight
+
+409
+00:12:52,160 --> 00:12:53,960
+into whatever I'm building,
+
+410
+00:12:53,960 --> 00:12:55,760
+what would be a key indicator
+
+411
+00:12:55,760 --> 00:12:57,320
+whether I'm asking the right questions?
+
+412
+00:12:57,320 --> 00:12:58,040
+Because I think that
+
+413
+00:12:58,040 --> 00:12:59,080
+that's both something
+
+414
+00:12:59,080 --> 00:13:00,600
+that I need to get better at.
+
+415
+00:13:00,600 --> 00:13:01,760
+But I think that it's also something
+
+416
+00:13:01,760 --> 00:13:03,400
+that I see quite frequently
+
+417
+00:13:03,400 --> 00:13:04,760
+that people don't ask enough
+
+418
+00:13:04,760 --> 00:13:05,800
+open ended questions
+
+419
+00:13:05,800 --> 00:13:07,800
+when they're doing their research.
+
+420
+00:13:08,040 --> 00:13:10,440
+It's like asking,
+
+421
+00:13:11,080 --> 00:13:13,880
+do you use X tool versus
+
+422
+00:13:13,880 --> 00:13:14,480
+tell me about
+
+423
+00:13:14,480 --> 00:13:17,160
+how you edit your videos?
+
+424
+00:13:17,160 --> 00:13:17,560
+Right?
+
+425
+00:13:17,560 --> 00:13:18,360
+You're going to get
+
+426
+00:13:18,360 --> 00:13:19,760
+so much more information.
+
+427
+00:13:19,760 --> 00:13:20,160
+You're going to learn
+
+428
+00:13:20,160 --> 00:13:21,720
+about their workflow,
+
+429
+00:13:21,720 --> 00:13:24,360
+what their technique is.
+
+430
+00:13:24,800 --> 00:13:26,040
+And you want to know
+
+431
+00:13:26,040 --> 00:13:27,200
+all of that information.
+
+432
+00:13:27,200 --> 00:13:28,100
+You want to like
+
+433
+00:13:28,101 --> 00:13:30,320
+be consistently learning about it.
+
+434
+00:13:30,320 --> 00:13:31,560
+Right.
+
+435
+00:13:32,000 --> 00:13:33,640
+Because that will
+
+436
+00:13:33,640 --> 00:13:36,040
+inspire future decisions.
+
+437
+00:13:36,040 --> 00:13:37,200
+I think building that gut
+
+438
+00:13:37,200 --> 00:13:38,800
+and that instinct is so important.
+
+439
+00:13:38,800 --> 00:13:39,440
+And we've talked a lot
+
+440
+00:13:39,440 --> 00:13:40,320
+about customer calls,
+
+441
+00:13:40,320 --> 00:13:44,640
+but it's also like, you know, one of my,
+
+442
+00:13:44,641 --> 00:13:46,240
+like strongest product managers
+
+443
+00:13:46,240 --> 00:13:46,800
+in my current team
+
+444
+00:13:46,800 --> 00:13:48,760
+is like, we should just be using
+
+445
+00:13:48,760 --> 00:13:51,440
+different video services every week.
+
+446
+00:13:51,440 --> 00:13:53,760
+Just like constantly be like
+
+447
+00:13:53,760 --> 00:13:55,560
+just building our gut.
+
+448
+00:13:55,560 --> 00:13:56,800
+Because I don't think
+
+449
+00:13:56,800 --> 00:13:58,840
+you can be curious enough.
+
+450
+00:13:58,840 --> 00:13:59,960
+Right.
+
+451
+00:13:59,960 --> 00:14:00,840
+And also, like,
+
+452
+00:14:00,840 --> 00:14:01,800
+what are other products
+
+453
+00:14:01,800 --> 00:14:03,320
+that you're using daily
+
+454
+00:14:03,320 --> 00:14:04,640
+or that other people are using
+
+455
+00:14:04,640 --> 00:14:06,120
+and what makes you love them.
+
+456
+00:14:06,120 --> 00:14:08,760
+Can you be conscious of that.
+
+457
+00:14:08,760 --> 00:14:10,120
+When you're signing on to you're like,
+
+458
+00:14:10,120 --> 00:14:12,120
+we are using Riverside.FM,
+
+459
+00:14:12,360 --> 00:14:14,200
+there was I clicked a button
+
+460
+00:14:14,200 --> 00:14:16,480
+and there was a great user feedback.
+
+461
+00:14:16,480 --> 00:14:17,760
+So, I took a picture and screenshot it
+
+462
+00:14:17,760 --> 00:14:18,600
+and sent it to PM.
+
+463
+00:14:18,600 --> 00:14:20,080
+So, that's why it took me a second to get on.
+
+464
+00:14:20,080 --> 00:14:20,280
+Right?
+
+465
+00:14:20,280 --> 00:14:21,880
+It's like, can you constantly
+
+466
+00:14:21,880 --> 00:14:23,480
+be building that instinct
+
+467
+00:14:23,480 --> 00:14:25,760
+of what makes great product?
+
+468
+00:14:25,760 --> 00:14:26,960
+Right.
+
+469
+00:14:27,200 --> 00:14:28,040
+Because different people
+
+470
+00:14:28,040 --> 00:14:29,320
+are really strong at different things.
+
+471
+00:14:29,320 --> 00:14:30,320
+So, it's like what's going on
+
+472
+00:14:30,320 --> 00:14:31,760
+in the actual market, right,
+
+473
+00:14:31,760 --> 00:14:34,000
+like the investor market, competitors?
+
+474
+00:14:34,000 --> 00:14:35,200
+What's going on with your customers,
+
+475
+00:14:35,200 --> 00:14:35,840
+to your sales,
+
+476
+00:14:35,840 --> 00:14:36,840
+to your support team?
+
+477
+00:14:36,840 --> 00:14:38,920
+Like make sure you're getting in there.
+
+478
+00:14:38,920 --> 00:14:41,640
+And you actually should be on the calls.
+
+479
+00:14:41,640 --> 00:14:42,480
+And then the third piece
+
+480
+00:14:42,480 --> 00:14:43,440
+is just like learning
+
+481
+00:14:43,440 --> 00:14:46,440
+from different types of products.
+
+482
+00:14:46,440 --> 00:14:47,880
+100%. And I think, by the way,
+
+483
+00:14:47,880 --> 00:14:49,480
+that one of the things that I enjoy most
+
+484
+00:14:49,480 --> 00:14:51,560
+about these open ended questions,
+
+485
+00:14:51,560 --> 00:14:53,760
+even more than quantity of information,
+
+486
+00:14:53,760 --> 00:14:55,520
+it's the surprise element
+
+487
+00:14:55,520 --> 00:14:57,360
+that when I hear something
+
+488
+00:14:57,360 --> 00:14:58,299
+that I didn't expect
+
+489
+00:14:58,300 --> 00:14:59,240
+or that I thought that,
+
+490
+00:14:59,240 --> 00:15:00,280
+that wasn't going to come out
+
+491
+00:15:00,280 --> 00:15:02,000
+of their mouth, and all of a sudden
+
+492
+00:15:02,000 --> 00:15:03,480
+it opens up a whole new world to me
+
+493
+00:15:03,480 --> 00:15:05,000
+that if I ask them more
+
+494
+00:15:05,000 --> 00:15:06,040
+of a closed ended question,
+
+495
+00:15:06,040 --> 00:15:07,280
+I'm sort of bringing
+
+496
+00:15:07,280 --> 00:15:08,760
+my preconceived notions
+
+497
+00:15:08,760 --> 00:15:09,560
+into the answer.
+
+498
+00:15:09,560 --> 00:15:10,400
+And it becomes almost
+
+499
+00:15:10,400 --> 00:15:11,280
+a rhetorical question
+
+500
+00:15:11,280 --> 00:15:12,520
+where I'm guiding them towards
+
+501
+00:15:12,520 --> 00:15:13,880
+a specific response,
+
+502
+00:15:13,880 --> 00:15:15,480
+or at least I'm barricading them
+
+503
+00:15:15,480 --> 00:15:16,638
+to some vertical
+
+504
+00:15:16,639 --> 00:15:18,240
+that they have to, you know,
+
+505
+00:15:18,240 --> 00:15:19,640
+they have to reside in.
+
+506
+00:15:19,640 --> 00:15:20,560
+Whereas the open ended,
+
+507
+00:15:20,560 --> 00:15:22,440
+I find that really, I'm getting
+
+508
+00:15:22,440 --> 00:15:24,720
+a breadth of different world views
+
+509
+00:15:24,720 --> 00:15:26,640
+and things that I really didn't expect.
+
+510
+00:15:26,640 --> 00:15:27,520
+But Anique, I want to make sure
+
+511
+00:15:27,520 --> 00:15:28,840
+that we have also enough time
+
+512
+00:15:28,840 --> 00:15:29,800
+to talk about what you're doing now.
+
+513
+00:15:29,800 --> 00:15:30,960
+Because I think that,
+
+514
+00:15:30,960 --> 00:15:31,701
+yeah, go ahead.
+
+515
+00:15:31,702 --> 00:15:32,760
+And I feel that I didn't answer
+
+516
+00:15:32,760 --> 00:15:33,680
+your original question.
+
+517
+00:15:33,680 --> 00:15:34,360
+Because I got too excited
+
+518
+00:15:34,360 --> 00:15:35,280
+about the curiosity.
+
+519
+00:15:35,280 --> 00:15:36,640
+To me, it's like in terms
+
+520
+00:15:36,640 --> 00:15:38,040
+of great product management,
+
+521
+00:15:38,040 --> 00:15:39,120
+I think it comes down to like,
+
+522
+00:15:39,120 --> 00:15:41,960
+curiosity, leadership and execution.
+
+523
+00:15:41,960 --> 00:15:42,800
+I think that you need
+
+524
+00:15:42,801 --> 00:15:44,280
+all three of those things.
+
+525
+00:15:44,280 --> 00:15:45,960
+If you have execution without leadership,
+
+526
+00:15:45,960 --> 00:15:47,200
+then the teams aren't going to be happy.
+
+527
+00:15:47,200 --> 00:15:49,600
+You're only going to execute once.
+
+528
+00:15:49,600 --> 00:15:51,520
+But those are the three to me.
+
+529
+00:15:51,640 --> 00:15:53,040
+And obviously, if you have curiosity,
+
+530
+00:15:53,040 --> 00:15:54,200
+but you don't have the execution,
+
+531
+00:15:54,200 --> 00:15:55,600
+then you're going to write
+
+532
+00:15:55,600 --> 00:15:57,040
+some great confluence papers,
+
+533
+00:15:57,040 --> 00:15:58,550
+but you're not going to end up
+
+534
+00:15:58,551 --> 00:16:00,160
+building a product people love.
+
+535
+00:16:00,160 --> 00:16:02,320
+But Anique, today you're working
+
+536
+00:16:02,320 --> 00:16:03,240
+as VP of product
+
+537
+00:16:03,240 --> 00:16:04,800
+in one of the startups
+
+538
+00:16:04,800 --> 00:16:06,120
+that I enjoy most, mainly
+
+539
+00:16:06,120 --> 00:16:07,320
+because I use it probably
+
+540
+00:16:07,320 --> 00:16:09,640
+50 or 60 times a day,
+
+541
+00:16:09,640 --> 00:16:11,240
+with pretty much everything that I do,
+
+542
+00:16:11,240 --> 00:16:12,960
+which is Loom.
+
+543
+00:16:12,960 --> 00:16:14,640
+Loom has developed quite a bit
+
+544
+00:16:14,640 --> 00:16:16,120
+since I began using it.
+
+545
+00:16:16,120 --> 00:16:17,440
+And I've been really,
+
+546
+00:16:17,440 --> 00:16:18,520
+really enjoying the product.
+
+547
+00:16:18,520 --> 00:16:19,520
+So, when you talk to me
+
+548
+00:16:19,520 --> 00:16:20,880
+about this customer delight
+
+549
+00:16:20,880 --> 00:16:23,360
+and the feedbacks that also
+
+550
+00:16:23,360 --> 00:16:24,560
+the user is getting and you're getting,
+
+551
+00:16:24,560 --> 00:16:25,960
+I can really see that in the product
+
+552
+00:16:25,960 --> 00:16:27,120
+that you're building there.
+
+553
+00:16:27,120 --> 00:16:28,800
+So, as the VP of product,
+
+554
+00:16:28,800 --> 00:16:30,760
+tell me a little bit about what Loom is,
+
+555
+00:16:30,760 --> 00:16:32,520
+and what are some of your thoughts
+
+556
+00:16:32,520 --> 00:16:35,480
+behind building now a product?
+
+557
+00:16:35,480 --> 00:16:36,320
+I'm pretty sure,
+
+558
+00:16:36,320 --> 00:16:37,560
+on a smaller scale now
+
+559
+00:16:37,560 --> 00:16:39,600
+than with Uber and TripActions, right?
+
+560
+00:16:39,600 --> 00:16:40,840
+But now you're seeing
+
+561
+00:16:40,840 --> 00:16:43,560
+that fast growth as VP of Product.
+
+562
+00:16:43,560 --> 00:16:44,560
+Yeah.
+
+563
+00:16:44,560 --> 00:16:47,720
+So, Loom is a video messaging product
+
+564
+00:16:47,720 --> 00:16:49,560
+that essentially allows you
+
+565
+00:16:49,560 --> 00:16:52,160
+to instantly create a video message
+
+566
+00:16:52,160 --> 00:16:53,760
+and get a link generated
+
+567
+00:16:53,760 --> 00:16:55,280
+and share it to other people.
+
+568
+00:16:55,280 --> 00:16:58,200
+And the reason why I joined
+
+569
+00:16:58,200 --> 00:17:02,000
+is I had a tremendously difficult time
+
+570
+00:17:02,000 --> 00:17:03,320
+giving design feedback
+
+571
+00:17:03,320 --> 00:17:04,480
+to the team in Amsterdam
+
+572
+00:17:04,480 --> 00:17:06,120
+when I worked at TripActions.
+
+573
+00:17:06,120 --> 00:17:07,680
+I would sometimes sound like
+
+574
+00:17:07,680 --> 00:17:09,160
+overly harsh over Slack.
+
+575
+00:17:09,160 --> 00:17:11,120
+And with time zones, you'd have like
+
+576
+00:17:11,120 --> 00:17:12,640
+two hours to work.
+
+577
+00:17:12,640 --> 00:17:16,258
+And so, Loom enabled me just to create
+
+578
+00:17:16,259 --> 00:17:18,240
+very quick, like, feedback loop.
+
+579
+00:17:18,240 --> 00:17:19,560
+Yes.
+
+580
+00:17:19,560 --> 00:17:21,360
+And like, the intent
+
+581
+00:17:21,360 --> 00:17:23,320
+and the effectiveness
+
+582
+00:17:23,320 --> 00:17:24,760
+and the efficiency of Loom
+
+583
+00:17:24,760 --> 00:17:28,560
+was like just a magical experience.
+
+584
+00:17:28,560 --> 00:17:30,240
+And I think, ultimately,
+
+585
+00:17:30,240 --> 00:17:31,200
+and then if you ask yourself
+
+586
+00:17:31,200 --> 00:17:32,400
+a few questions as to like,
+
+587
+00:17:32,400 --> 00:17:33,760
+why is it so effective?
+
+588
+00:17:33,760 --> 00:17:35,360
+Why is it so efficient?
+
+589
+00:17:35,360 --> 00:17:35,600
+Right.
+
+590
+00:17:35,600 --> 00:17:37,800
+Like the original form
+
+591
+00:17:37,800 --> 00:17:39,760
+of communication was storytelling.
+
+592
+00:17:39,760 --> 00:17:40,000
+Right?
+
+593
+00:17:40,000 --> 00:17:40,880
+What are we doing right now?
+
+594
+00:17:40,880 --> 00:17:41,800
+We're just telling stories
+
+595
+00:17:41,800 --> 00:17:43,040
+back and forth.
+
+596
+00:17:43,040 --> 00:17:45,840
+Loom is an incredible, like product
+
+597
+00:17:45,840 --> 00:17:47,480
+to put that kind of storytelling,
+
+598
+00:17:47,480 --> 00:17:49,320
+that human voice, that efficiency,
+
+599
+00:17:49,320 --> 00:17:53,040
+that effectiveness, like in the forefront
+
+600
+00:17:53,200 --> 00:17:54,120
+of how you work,
+
+601
+00:17:54,120 --> 00:17:57,960
+especially in a distributed work setting.
+
+602
+00:17:57,960 --> 00:17:59,240
+Which I think, like we
+
+603
+00:17:59,240 --> 00:18:02,120
+all currently are in, and in the future
+
+604
+00:18:02,121 --> 00:18:05,280
+we'll be in a totally different way.
+
+605
+00:18:05,280 --> 00:18:07,280
+So, it's a little bit about Loom
+
+606
+00:18:08,000 --> 00:18:08,880
+And a little bit about
+
+607
+00:18:08,880 --> 00:18:10,600
+what your role as VP or Product.
+
+608
+00:18:10,600 --> 00:18:12,400
+Is it exactly the same responsibilities
+
+609
+00:18:12,400 --> 00:18:14,520
+you've had in TripActions, for example?
+
+610
+00:18:14,520 --> 00:18:16,240
+What are some key differences between,
+
+611
+00:18:16,240 --> 00:18:18,320
+you know, that a VP product might have
+
+612
+00:18:18,320 --> 00:18:19,760
+in one company versus the other?
+
+613
+00:18:19,760 --> 00:18:21,600
+Because obviously, the title is the same.
+
+614
+00:18:21,600 --> 00:18:22,320
+But I imagine that
+
+615
+00:18:22,320 --> 00:18:23,720
+the scope of responsibility
+
+616
+00:18:23,720 --> 00:18:24,800
+is pretty different
+
+617
+00:18:24,800 --> 00:18:27,600
+amongst different organizations.
+
+618
+00:18:27,960 --> 00:18:29,800
+I think the responsibility between TripActions
+
+619
+00:18:29,800 --> 00:18:31,560
+and Loom feels pretty similar.
+
+620
+00:18:31,560 --> 00:18:34,720
+The major difference is design sets out.
+
+621
+00:18:34,720 --> 00:18:37,240
+Like we have a design leader
+
+622
+00:18:37,240 --> 00:18:39,080
+that runs the design organization.
+
+623
+00:18:39,081 --> 00:18:40,200
+But I think, ultimately,
+
+624
+00:18:40,200 --> 00:18:42,880
+the responsibility is, what are we doing,
+
+625
+00:18:42,880 --> 00:18:43,800
+why are we doing it,
+
+626
+00:18:43,800 --> 00:18:44,800
+is it the right thing.
+
+627
+00:18:44,800 --> 00:18:45,440
+Right.
+
+628
+00:18:45,441 --> 00:18:46,880
+Like, what we ultimately believe
+
+629
+00:18:46,880 --> 00:18:49,400
+is our responsibility to our customers.
+
+630
+00:18:49,400 --> 00:18:49,680
+Right?
+
+631
+00:18:49,680 --> 00:18:51,560
+Like, what do our end users actually want?
+
+632
+00:18:51,560 --> 00:18:52,960
+Are we making it better?
+
+633
+00:18:52,960 --> 00:18:54,000
+Are we building a platform
+
+634
+00:18:54,000 --> 00:18:55,680
+that will stand up?
+
+635
+00:18:55,960 --> 00:18:57,280
+What is right? What is that?
+
+636
+00:18:57,280 --> 00:18:57,920
+What are we doing?
+
+637
+00:18:57,920 --> 00:18:58,600
+Why are we doing it?
+
+638
+00:18:58,600 --> 00:19:00,440
+How does it connect to our vision?
+
+639
+00:19:00,440 --> 00:19:01,960
+And then it's ultimately like,
+
+640
+00:19:01,960 --> 00:19:03,360
+are we delivering it?
+
+641
+00:19:03,360 --> 00:19:05,520
+And delivering it by like,
+
+642
+00:19:05,640 --> 00:19:07,040
+when we said we were going to
+
+643
+00:19:07,040 --> 00:19:09,520
+at the quality we said we were.
+
+644
+00:19:09,520 --> 00:19:10,520
+And then how can you build
+
+645
+00:19:10,520 --> 00:19:12,200
+an organization in a team
+
+646
+00:19:12,200 --> 00:19:13,560
+that is constantly learning
+
+647
+00:19:13,560 --> 00:19:15,160
+and constantly improving.
+
+648
+00:19:15,160 --> 00:19:16,720
+So, we just get better and better
+
+649
+00:19:16,720 --> 00:19:18,480
+at this dance.
+
+650
+00:19:18,480 --> 00:19:18,680
+Right.
+
+651
+00:19:18,680 --> 00:19:20,410
+And so, you joined Loom
+
+652
+00:19:20,411 --> 00:19:21,840
+in August of 2020,
+
+653
+00:19:21,840 --> 00:19:23,840
+pretty much at some peak
+
+654
+00:19:23,840 --> 00:19:24,440
+of the pandemic.
+
+655
+00:19:24,440 --> 00:19:25,760
+There were so many peaks that,
+
+656
+00:19:25,760 --> 00:19:27,640
+you know, every day was almost
+
+657
+00:19:27,640 --> 00:19:30,800
+the peak of something.
+
+658
+00:19:31,000 --> 00:19:34,160
+And so, you joined Loom,
+
+659
+00:19:34,160 --> 00:19:35,760
+remote collaboration,
+
+660
+00:19:35,760 --> 00:19:37,240
+becoming, you know, diving deep
+
+661
+00:19:37,240 --> 00:19:39,320
+into this relatively new industry
+
+662
+00:19:39,320 --> 00:19:40,720
+that is very different
+
+663
+00:19:40,720 --> 00:19:42,600
+from your previous industries.
+
+664
+00:19:42,600 --> 00:19:44,000
+And so, what are some of your thoughts
+
+665
+00:19:44,000 --> 00:19:46,400
+behind the remote collaboration,
+
+666
+00:19:46,400 --> 00:19:47,440
+the things that you're observing
+
+667
+00:19:47,440 --> 00:19:49,520
+within Loom that you've gotten to know
+
+668
+00:19:49,520 --> 00:19:51,280
+over the past, I guess,
+
+669
+00:19:51,280 --> 00:19:53,360
+four or five months or so?
+
+670
+00:19:54,320 --> 00:19:55,320
+So, I do think
+
+671
+00:19:55,320 --> 00:19:56,520
+there are some similarities
+
+672
+00:19:56,520 --> 00:19:57,960
+between TripActions and Loom
+
+673
+00:19:57,960 --> 00:20:00,640
+in the sense that they're both B2B2C.
+
+674
+00:20:00,640 --> 00:20:02,480
+So, you're prior may be a company,
+
+675
+00:20:02,480 --> 00:20:04,440
+but ultimately both products rely
+
+676
+00:20:04,440 --> 00:20:06,800
+on your end user loving it. Right?
+
+677
+00:20:06,800 --> 00:20:08,160
+And that's like
+
+678
+00:20:08,160 --> 00:20:10,040
+kind of connected to Uber those roots.
+
+679
+00:20:10,040 --> 00:20:11,160
+And so, being very connected
+
+680
+00:20:11,160 --> 00:20:14,280
+to the consumers is really important.
+
+681
+00:20:15,280 --> 00:20:16,640
+But I think, you know,
+
+682
+00:20:16,640 --> 00:20:21,280
+when I joined Loom, I was really excited
+
+683
+00:20:21,280 --> 00:20:24,320
+about the effectiveness and efficiency.
+
+684
+00:20:24,320 --> 00:20:26,800
+Like, Loom can just help people connect,
+
+685
+00:20:26,800 --> 00:20:29,240
+especially like global workforces.
+
+686
+00:20:29,240 --> 00:20:31,000
+I think as I've
+
+687
+00:20:31,320 --> 00:20:32,760
+you know, gotten to know the product
+
+688
+00:20:32,760 --> 00:20:33,440
+and understand
+
+689
+00:20:33,440 --> 00:20:35,160
+Joe and Vinay's fuller vision
+
+690
+00:20:35,160 --> 00:20:38,280
+and experience the product myself,
+
+691
+00:20:39,000 --> 00:20:41,800
+it's incredible how much the Loom product
+
+692
+00:20:41,800 --> 00:20:44,720
+has the potential to really elevate
+
+693
+00:20:44,720 --> 00:20:47,000
+the culture of a distributed workforce--
+
+694
+00:20:47,000 --> 00:20:48,800
+I completely agree.
+
+695
+00:20:49,000 --> 00:20:51,680
+--in that cultural aspect,
+
+696
+00:20:51,680 --> 00:20:54,640
+and what it can contribute.
+
+697
+00:20:55,200 --> 00:20:56,600
+It makes your culture
+
+698
+00:20:56,600 --> 00:20:58,440
+more effective and more efficient.
+
+699
+00:20:58,440 --> 00:21:01,360
+But it also makes the culture
+
+700
+00:21:01,360 --> 00:21:04,560
+more rich, more human, more lively.
+
+701
+00:21:06,040 --> 00:21:09,760
+And I think until I started using Loom
+
+702
+00:21:09,760 --> 00:21:10,680
+in the way that I do
+
+703
+00:21:10,680 --> 00:21:12,440
+and starting to talk to customers
+
+704
+00:21:12,440 --> 00:21:14,480
+that are using it in that manner,
+
+705
+00:21:14,480 --> 00:21:16,800
+it's just an incredible,
+
+706
+00:21:16,800 --> 00:21:18,240
+like the potential of Loom
+
+707
+00:21:18,240 --> 00:21:20,080
+is just so huge.
+
+708
+00:21:20,080 --> 00:21:21,400
+And I have to say, Anique, that I have
+
+709
+00:21:21,400 --> 00:21:22,480
+to testify to this myself.
+
+710
+00:21:22,480 --> 00:21:23,280
+I have quite a few people
+
+711
+00:21:23,280 --> 00:21:24,840
+that I work with across the seas
+
+712
+00:21:24,840 --> 00:21:25,960
+in various countries.
+
+713
+00:21:25,960 --> 00:21:27,120
+A lot of them are dependent
+
+714
+00:21:27,120 --> 00:21:29,120
+on my feedback on a daily basis,
+
+715
+00:21:29,120 --> 00:21:30,480
+you know, every few hours.
+
+716
+00:21:30,480 --> 00:21:32,120
+And then the difference between moving
+
+717
+00:21:32,120 --> 00:21:33,200
+from a Slack feedback
+
+718
+00:21:33,200 --> 00:21:34,160
+or a WhatsApp feedback,
+
+719
+00:21:34,160 --> 00:21:35,680
+to now me recording
+
+720
+00:21:35,680 --> 00:21:37,760
+a 15, 20 second snippet,
+
+721
+00:21:37,760 --> 00:21:39,520
+of me demonstrating on the screen
+
+722
+00:21:39,520 --> 00:21:42,600
+my feedback, with my bubble showing there,
+
+723
+00:21:42,600 --> 00:21:44,120
+and me smiling and talking
+
+724
+00:21:44,120 --> 00:21:46,040
+or even just being casual,
+
+725
+00:21:46,040 --> 00:21:47,560
+it changes the whole relationship.
+
+726
+00:21:47,560 --> 00:21:48,480
+It changes the dynamic.
+
+727
+00:21:48,480 --> 00:21:49,480
+And I'm seeing it
+
+728
+00:21:49,480 --> 00:21:50,720
+just to boost the productivity
+
+729
+00:21:50,720 --> 00:21:51,960
+on all fronts.
+
+730
+00:21:51,960 --> 00:21:52,920
+And I think and again,
+
+731
+00:21:52,920 --> 00:21:54,040
+I love what you guys are doing.
+
+732
+00:21:54,040 --> 00:21:55,880
+So, thank you for really making
+
+733
+00:21:55,880 --> 00:21:57,760
+my work better and more collaborative.
+
+734
+00:21:57,760 --> 00:21:59,360
+And for many of my friends
+
+735
+00:21:59,360 --> 00:21:59,880
+and colleagues.
+
+736
+00:21:59,880 --> 00:22:01,000
+I know that a lot of people
+
+737
+00:22:01,000 --> 00:22:02,000
+that are using it.
+
+738
+00:22:02,000 --> 00:22:03,120
+I don't want to take up
+
+739
+00:22:03,120 --> 00:22:04,143
+much more of your time because I know
+
+740
+00:22:04,144 --> 00:22:05,120
+that you're already running late
+
+741
+00:22:05,120 --> 00:22:05,920
+to your next thing.
+
+742
+00:22:05,920 --> 00:22:07,280
+But I really appreciate you
+
+743
+00:22:07,280 --> 00:22:08,600
+taking the time to do this.
+
+744
+00:22:08,600 --> 00:22:09,400
+My last question,
+
+745
+00:22:09,400 --> 00:22:11,680
+which is my favorite one, is three words
+
+746
+00:22:11,680 --> 00:22:13,320
+that you would use to describe yourself.
+
+747
+00:22:13,320 --> 00:22:16,520
+I think maybe three would probably
+
+748
+00:22:16,520 --> 00:22:20,320
+be greedy, loyal and adventurous.
+
+749
+00:22:20,320 --> 00:22:21,120
+I love it.
+
+750
+00:22:21,120 --> 00:22:22,480
+Anique, thank you very, very much.
+
+751
+00:22:22,480 --> 00:22:23,680
+This was wonderful.
+
+752
+00:22:23,680 --> 00:22:25,840
+And stay safe and stay healthy.
+
+753
+00:22:25,840 --> 00:22:26,640
+So nice to meet you.
+
+754
+00:22:26,640 --> 00:22:28,200
+Thank you so much for having me. Bye.
+
+755
+00:22:28,200 --> 00:22:28,800
+Thank you.
+

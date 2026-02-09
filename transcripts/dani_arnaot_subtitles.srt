@@ -1,0 +1,1347 @@
+﻿1
+00:03:13,533 --> 00:03:16,299
+Danny, thank you so much for being on my show, 20 Minute Leaders.
+
+2
+00:03:16,300 --> 00:03:18,099
+How are you?
+
+3
+00:03:18,100 --> 00:03:20,766
+I'm doing great. Thank you for having me.
+
+4
+00:03:20,767 --> 00:03:23,066
+Definitely. So, we edit this up.
+
+5
+00:03:23,067 --> 00:03:27,932
+But a second ago, I said thank you for having me on 20 Minute Leaders.
+
+6
+00:03:27,933 --> 00:03:31,732
+You know this is actually the 75th or so episode that we're recording.
+
+7
+00:03:31,733 --> 00:03:34,866
+So you would think that by then, I would know how to introduce people.
+
+8
+00:03:34,867 --> 00:03:37,966
+Well I guess that's not just the case.
+
+9
+00:03:37,967 --> 00:03:41,832
+Danny, really really interesting guy that I'm really excited to get to know you better
+
+10
+00:03:41,833 --> 00:03:45,166
+over this next 20 minutes or so.
+
+11
+00:03:45,167 --> 00:03:48,199
+You worked on a marketplace at called Saily,
+
+12
+00:03:48,200 --> 00:03:52,232
+with the good friend of mine from the Til Summit,
+
+13
+00:03:52,233 --> 00:03:54,532
+Forbes 30 under 30, now Forbes Tech Council.
+
+14
+00:03:54,533 --> 00:03:57,566
+Talk to me a little bit about where you come from
+
+15
+00:03:57,567 --> 00:04:01,432
+And how you even got into this entrepreneurial world?
+
+16
+00:04:01,433 --> 00:04:07,299
+Yeah. Well, I come from a very far country in the Middle East, called Lebanon.
+
+17
+00:04:07,300 --> 00:04:14,432
+And, this story actually started 10 years ago.
+
+18
+00:04:14,433 --> 00:04:15,332
+But we have time, I think.
+
+19
+00:04:15,333 --> 00:04:17,266
+Yeah.
+
+20
+00:04:17,267 --> 00:04:22,432
+Yeah. So, of course as a child, I was just obsessed with computers.
+
+21
+00:04:22,433 --> 00:04:23,432
+Even before the internet.
+
+22
+00:04:23,433 --> 00:04:27,132
+So, we just got our first computer when I was seven years old.
+
+23
+00:04:27,133 --> 00:04:32,166
+But I was more interested in creating, rather than just consuming
+
+24
+00:04:32,167 --> 00:04:33,632
+Like playing games or what's fun.
+
+25
+00:04:33,633 --> 00:04:35,399
+But I wanted to build something.
+
+26
+00:04:35,400 --> 00:04:40,499
+So, the only tool I had back then was Microsoft PowerPoint.
+
+27
+00:04:40,500 --> 00:04:46,199
+And I just kind of find a way to build a simple games.
+
+28
+00:04:46,200 --> 00:04:49,799
+Like just multiple questions games on top of that.
+
+29
+00:04:49,800 --> 00:04:53,332
+And this was my first encounter to programming.
+
+30
+00:04:53,333 --> 00:04:59,732
+Later on, moving forward. I just went on to computer engineering program.
+
+31
+00:04:59,733 --> 00:05:05,132
+But I quickly realized that they're not teaching us anything practical.
+
+32
+00:05:05,133 --> 00:05:08,032
+So, what we learned was theory.
+
+33
+00:05:08,033 --> 00:05:11,599
+And I wanted to build websites, mobile apps
+
+34
+00:05:11,600 --> 00:05:17,032
+The iPhone just came out and mobile apps were just very very early stage
+
+35
+00:05:17,033 --> 00:05:20,966
+and I remember I just couldn’t afford to buy a MACs
+
+36
+00:05:20,967 --> 00:05:27,099
+So I went in and work as a waiter, a Barista actually, at a coffee shop.
+
+37
+00:05:27,100 --> 00:05:29,266
+Wow.
+
+38
+00:05:29,267 --> 00:05:31,566
+So I made enough money to buy the MAC
+
+39
+00:05:31,567 --> 00:05:33,266
+And then the first thing I thought about is
+
+40
+00:05:33,267 --> 00:05:36,932
+Let me just built an app for them, for the coffee shop.
+
+41
+00:05:36,933 --> 00:05:39,432
+Wow. And then I just sold it to them and quit.
+
+42
+00:05:39,433 --> 00:05:45,032
+And started pursuing my career as a software engineer.
+
+43
+00:05:45,033 --> 00:05:46,932
+So you went from a waiter to building an app for the coffee shop
+
+44
+00:05:46,933 --> 00:05:49,032
+and then quit as a waiter and you--
+
+45
+00:05:49,033 --> 00:05:51,799
+Okay. So, then how do you get to--
+
+46
+00:05:51,800 --> 00:05:53,466
+Let's pause a little bit to Saily.
+
+47
+00:05:53,467 --> 00:05:57,499
+How do you get to building this really incredible marketplace
+
+48
+00:05:57,500 --> 00:06:00,999
+where in the end you actually merged with Mercari, right?
+
+49
+00:06:01,000 --> 00:06:07,332
+Yeah. So, for Saily actually it was just Hackathons at the beginning.
+
+50
+00:06:07,333 --> 00:06:08,932
+Hackathons were still new concept
+
+51
+00:06:08,933 --> 00:06:09,632
+I just went there.
+
+52
+00:06:09,633 --> 00:06:13,099
+I won the first hackathon for some reason.
+
+53
+00:06:13,100 --> 00:06:18,999
+And then met this guy, he was just 15 years old back then
+
+54
+00:06:19,000 --> 00:06:22,799
+but he was just very bright and we decided to team up.
+
+55
+00:06:22,800 --> 00:06:27,499
+And started hacking the judging criteria and making some prizes,
+
+56
+00:06:27,500 --> 00:06:29,532
+cash prizes [--]
+
+57
+00:06:29,533 --> 00:06:32,199
+At some point, one of the judges was like,
+
+58
+00:06:32,200 --> 00:06:34,566 
+"Hey you guys, I see you all the time in those hackathons
+
+59
+00:06:34,567 --> 00:06:36,566
+just playing and doing nothing about it.
+
+60
+00:06:36,567 --> 00:06:38,866
+Are you gonna built something?"
+
+61
+00:06:38,867 --> 00:06:42,699
+And we were like, "Yeah. Let's do it."
+
+62
+00:06:42,700 --> 00:06:46,466
+So we just bought a ticket. Flew to San Francisco.
+
+63
+00:06:46,467 --> 00:06:50,332
+And this is how it all started.
+
+64
+00:06:50,333 --> 00:06:54,032
+And Saily was just the last idea that won the competition.
+
+65
+00:06:54,033 --> 00:06:57,966
+It was just a marketplace to buy and sell secondhand items.
+
+66
+00:06:57,967 --> 00:07:02,599
+So, Saily was actually a hackathon, it was a hackathon idea?
+
+67
+00:07:02,600 --> 00:07:03,832
+Startup weekend idea. Yeah. That's true.
+
+68
+00:07:03,833 --> 00:07:06,066
+Oh, very cool.
+
+69
+00:07:06,067 --> 00:07:10,532
+And then it just started growing.
+
+70
+00:07:10,533 --> 00:07:13,099
+Things worked out also somehow.
+
+71
+00:07:13,100 --> 00:07:17,699
+The timing I think was very good because mobile apps were just on the rise.
+
+72
+00:07:17,700 --> 00:07:21,266
+And it was kind of like a mobile eBay at that point.
+
+73
+00:07:21,267 --> 00:07:26,932
+And lots and lots of competitors were building those kind of apps
+
+74
+00:07:26,933 --> 00:07:29,832
+at the same time, and raising hundreds millions of dollars
+
+75
+00:07:29,833 --> 00:07:32,099
+just to grow it up to something.
+
+76
+00:07:32,100 --> 00:07:35,166
+Like offer up even before LetGo.
+
+77
+00:07:35,167 --> 00:07:39,566
+Even much way before Facebook marketplace and all of those.
+
+78
+00:07:39,567 --> 00:07:41,399
+So, what year are we talking about?
+
+79
+00:07:41,400 --> 00:07:46,132
+So, Saily it was the marketplace to buy second hand items.
+
+80
+00:07:46,133 --> 00:07:50,032
+And the timing was good for it to grow.
+
+81
+00:07:50,033 --> 00:07:54,266
+And then after six years of working on it,
+
+82
+00:07:54,267 --> 00:07:58,532
+we ended up with joining Mercari.
+
+83
+00:07:58,533 --> 00:08:01,399
+When did you start working on it?
+
+84
+00:08:01,400 --> 00:08:03,599
+Back in 2013.
+
+85
+00:08:03,600 --> 00:08:04,966
+2013.
+
+86
+00:08:04,967 --> 00:08:05,999
+Yeah. Oh wow.
+
+87
+00:08:06,000 --> 00:08:12,032
+Okay. That's really an interesting time to start building mobile apps and marketplaces.
+
+88
+00:08:12,033 --> 00:08:13,899
+Exactly. Exactly, yeah.
+
+89
+00:08:13,900 --> 00:08:15,999
+We didn't know back then, but
+
+90
+00:08:16,000 --> 00:08:17,299
+Of course. Of course.
+
+91
+00:08:17,300 --> 00:08:22,399
+And what was that experience? You know growing the app from one user yourself
+
+92
+00:08:22,400 --> 00:08:23,799
+to 500,000 users?
+
+93
+00:08:23,800 --> 00:08:28,332
+Yeah. That was very exciting times for us.
+
+94
+00:08:28,333 --> 00:08:31,532
+Because we learn as we were going.
+
+95
+00:08:31,533 --> 00:08:38,566
+We were just growing finding new ways to do user acquisition
+
+96
+00:08:38,567 --> 00:08:42,899
+to find our target market.
+
+97
+00:08:42,900 --> 00:08:45,099
+Who are the people who are gonna use it.
+
+98
+00:08:45,100 --> 00:08:47,366
+To fight fraud and scammers.
+
+99
+00:08:47,367 --> 00:08:49,099
+We were scammed a lot at the beginning
+
+100
+00:08:49,100 --> 00:08:52,566
+Like those fraudsters but we learned as we--
+
+101
+00:08:52,567 --> 00:08:54,932
+You know, you lose a lot of money but you learn.
+
+102
+00:08:54,933 --> 00:08:56,299
+Tell me about one of those scams.
+
+103
+00:08:56,300 --> 00:08:59,966
+What were you scammed with?
+
+104
+00:08:59,967 --> 00:09:02,499
+So, usually they get stolen credit cards
+
+105
+00:09:02,500 --> 00:09:06,432
+And they buy expensive items of our platform.
+
+106
+00:09:06,433 --> 00:09:07,432
+They finish the transaction.
+
+107
+00:09:07,433 --> 00:09:09,366
+And then, at the end of the month
+
+108
+00:09:09,367 --> 00:09:13,299
+Stride would be sending us a dispute saying,
+
+109
+00:09:13,300 --> 00:09:16,232
+"Hey, this credit card was stolen.
+
+110
+00:09:16,233 --> 00:09:19,332
+We're gonna take the money out of your bank account.
+
+111
+00:09:19,333 --> 00:09:22,199
+Wooh. Okay.
+
+112
+00:09:22,200 --> 00:09:24,732
+Stride didn't have fraud detection by then.
+
+113
+00:09:24,733 --> 00:09:26,199
+It was just very early.
+
+114
+00:09:26,200 --> 00:09:29,932
+So we had to degrade with other services to forget that out.
+
+115
+00:09:29,933 --> 00:09:34,666
+But by then, we've lost like $20,000 or something.
+
+116
+00:09:34,667 --> 00:09:39,199
+Just because there was a delay before we knew it was happening.
+
+117
+00:09:39,200 --> 00:09:43,299
+So you know. About marketplaces, you need both ends of the stick.
+
+118
+00:09:43,300 --> 00:09:45,532
+You need both salaries and the buyers.
+
+119
+00:09:45,533 --> 00:09:48,999
+Right. And you need them upscale in order to really
+
+120
+00:09:49,000 --> 00:09:51,799
+you know, build a good experience.
+
+121
+00:09:51,800 --> 00:09:54,799
+So, how do you go about even strategizing how to get
+
+122
+00:09:54,800 --> 00:09:58,232
+to get really the sellers on this platform.
+
+123
+00:09:58,233 --> 00:09:59,799
+Exactly, yeah.
+
+124
+00:09:59,800 --> 00:10:03,566
+Well, what we did was we started at specific cities.
+
+125
+00:10:03,567 --> 00:10:05,332
+So, New York city for example.
+
+126
+00:10:05,333 --> 00:10:07,832
+And even targeting specific kind of people.
+
+127
+00:10:07,833 --> 00:10:10,699
+San Francisco, the techies.
+
+128
+00:10:10,700 --> 00:10:13,832
+Like you know each area with high population
+
+129
+00:10:13,833 --> 00:10:20,266
+has a good amount of people that usually sell and buy specific items.
+
+130
+00:10:20,267 --> 00:10:22,166
+And this is how we initially started then.
+
+131
+00:10:22,167 --> 00:10:25,632
+Then, it just expands as you go and grow.
+
+132
+00:10:25,633 --> 00:10:28,766
+But the initial part is the hardest part to get.
+
+133
+00:10:28,767 --> 00:10:29,632
+Definitely. I'm Sure.
+
+134
+00:10:29,633 --> 00:10:33,866
+Okay, so then you go and you're building this amazing platform.
+
+135
+00:10:33,867 --> 00:10:35,332
+How many people are you on the team?
+
+136
+00:10:35,333 --> 00:10:37,999
+We were a small team of five people.
+
+137
+00:10:38,000 --> 00:10:43,399
+We didn't want to hire people just for the sake of ethics.
+
+138
+00:10:43,400 --> 00:10:46,666
+Like showing that our company is expanding or growing.
+
+139
+00:10:46,667 --> 00:10:53,232
+And we are very good at fast execution.
+
+140
+00:10:53,233 --> 00:10:55,899
+And getting the best out of every single person.
+
+141
+00:10:55,900 --> 00:11:00,666
+So were doing at least the work five to 10 engineers for example
+
+142
+00:11:00,667 --> 00:11:04,532
+in another company. A big company for example.
+
+143
+00:11:04,533 --> 00:11:07,032
+It's just the tools that we built.
+
+144
+00:11:07,033 --> 00:11:11,499
+Like we built abstract layer later on which got us into for say under 30.
+
+145
+00:11:11,500 --> 00:11:13,699
+That was mainly because of Saily.
+
+146
+00:11:13,700 --> 00:11:15,232
+We were like--
+
+147
+00:11:15,233 --> 00:11:17,266
+So, what is abstract layer?
+
+148
+00:11:17,267 --> 00:11:19,932
+Okay. So, it's an automation platform.
+
+149
+00:11:19,933 --> 00:11:26,432
+We realized that we're building those components and features for Saily
+
+150
+00:11:26,433 --> 00:11:32,699
+And a lot of things are just very similar if you look at it from a high level.
+
+151
+00:11:32,700 --> 00:11:35,699
+So those are cabled UC that you scrolled through,
+
+152
+00:11:35,700 --> 00:11:41,466
+or [-], or the data showing and interacting with it is very common
+
+153
+00:11:41,467 --> 00:11:44,032
+across different apps, across different screens.
+
+154
+00:11:44,033 --> 00:11:46,832
+So we just thought about an abstraction to it.
+
+155
+00:11:46,833 --> 00:11:50,432
+Where instead of writing down or coding stuff
+
+156
+00:11:50,433 --> 00:11:55,232
+you can just do it in, let's say two lines of code
+
+157
+00:11:55,233 --> 00:11:58,999
+You can just do what thousands lines of codes could do.
+
+158
+00:11:59,000 --> 00:12:04,399
+And then this allowed us to build product and features
+
+159
+00:12:04,400 --> 00:12:07,766
+and everything else. 'til today I'll still use it.
+
+160
+00:12:07,767 --> 00:12:10,532
+With our new startup.
+
+161
+00:12:10,533 --> 00:12:15,266
+It allows us to go in execution from something that would take a month
+
+162
+00:12:15,267 --> 00:12:17,032
+will take three days.
+
+163
+00:12:17,033 --> 00:12:20,599
+And this a huge to anyone whose pursuing startups
+
+164
+00:12:20,600 --> 00:12:22,566
+And trying to build fast.
+
+165
+00:12:22,567 --> 00:12:25,499
+So, is that a package or a product? How does it work?
+
+166
+00:12:25,500 --> 00:12:30,199
+Exactly. It's a framework where you just drag it into your export project
+
+167
+00:12:30,200 --> 00:12:32,666
+And in our case which for IRC.
+
+168
+00:12:32,667 --> 00:12:36,299
+And then out of the box, it has so much things that you can do
+
+169
+00:12:36,300 --> 00:12:45,232
+to just build the same data, combining and viewing and interactions in seconds.
+
+170
+00:12:45,233 --> 00:12:49,766
+Right. Okay. So, then so you build abstract layer and that gets you on
+
+171
+00:12:49,767 --> 00:12:53,399
+on the Forbes 30 under 30. Congratulations.
+
+172
+00:12:53,400 --> 00:12:56,299
+And you're on 30 under 32, right?
+
+173
+00:12:56,300 --> 00:12:59,966
+Yes, yes. We can talk about you later.
+
+174
+00:12:59,967 --> 00:13:01,066
+In another time. Thank you.
+
+175
+00:13:01,067 --> 00:13:02,232
+I can interview you.
+
+176
+00:13:02,233 --> 00:13:03,666
+Sounds great.
+
+177
+00:13:03,667 --> 00:13:10,466
+And then, what is this Forbes Tech Council that you're a part of?
+
+178
+00:13:10,467 --> 00:13:17,966
+So, Forbes Tech Council is, they have very strict requirements to get in.
+
+179
+00:13:17,967 --> 00:13:24,266
+Whether it’s on your startup revenue or net worth
+
+180
+00:13:24,267 --> 00:13:25,599
+or whatever the criteria is.
+
+181
+00:13:25,600 --> 00:13:33,232
+And then once you get in, you start contributing to Forbes Tech.
+
+182
+00:13:33,233 --> 00:13:37,366
+So, you're writing tech articles. You're doing consultancies.
+
+183
+00:13:37,367 --> 00:13:44,066
+And there's also a huge form where everyone from the industry are asking questions
+
+184
+00:13:44,067 --> 00:13:47,099
+and everybody is giving their experiences.
+
+185
+00:13:47,100 --> 00:13:49,466
+Right. So, it’s a huge network.
+
+186
+00:13:49,467 --> 00:13:53,599
+Actually, it's a small network of successful entrepreneurs
+
+187
+00:13:53,600 --> 00:13:56,032
+and people in the tech industry.
+
+188
+00:13:56,033 --> 00:14:01,966
+that can help each other and help others by just sharing their knowledge outside.
+
+189
+00:14:01,967 --> 00:14:03,299
+[-]
+
+190
+00: 14:03,300 --> 00:14:04,732
+So what do you usually write about?
+
+191
+00:14:04,733 --> 00:14:06,299
+What do you enjoy writing about?
+
+192
+00:14:06,300 --> 00:14:09,799
+So, for me it's all about engineering productivity for example.
+
+193
+00:14:09,800 --> 00:14:13,299
+Really. I love that. Yeah, of course.
+
+194
+00:14:13,300 --> 00:14:17,299
+So, anything from a building tools to help you from the mentality,
+
+195
+00:14:17,300 --> 00:14:20,466
+how to schedule your day, what kind of things to tackle.
+
+196
+00:14:20,467 --> 00:14:26,032
+So, I care a lot about having just one engineer on my team
+
+197
+00:14:26,033 --> 00:14:29,032
+that can be 20x as others.
+
+198
+00:14:29,033 --> 00:14:33,899
+Just like people who are employed at companies and are doing what they're told to
+
+199
+00:14:33,900 --> 00:14:36,499
+without even thinking of, how can we make it faster?
+
+200
+00:14:36,500 --> 00:14:38,432
+How can we build even better things?
+
+201
+00:14:38,433 --> 00:14:44,032
+Definitely. So, you know I'm an engineer by profession as well.
+
+202
+00:14:44,033 --> 00:14:46,832
+How do I increase my productivity and to any other engineers
+
+203
+00:14:46,833 --> 00:14:48,699
+that might be interested in this.
+
+204
+00:14:48,700 --> 00:14:51,432
+What should I be thinking of when I prioritize
+
+205
+00:14:51,433 --> 00:14:54,232
+and when I schedule my workday?
+
+206
+00:14:54,233 --> 00:14:56,832
+Okay. That's a very good question.
+
+207
+00:14:56,833 --> 00:15:01,066
+There are lots of different areas to tackle but for example
+
+208
+00:15:01,067 --> 00:15:04,799
+what worked for me is having,
+
+209
+00:15:04,800 --> 00:15:07,866
+I work from home. I've been working from home for more than a year now.
+
+210
+00:15:07,867 --> 00:15:10,366
+And I've done it even before.
+
+211
+00:15:10,367 --> 00:15:13,466
+So, what really works is this plan.
+
+212
+00:15:13,467 --> 00:15:18,866
+Having a specific daily schedule for yourself and going by
+
+213
+00:15:18,867 --> 00:15:20,632
+Very relevant in covid-19 times.
+
+214
+00:15:20,633 --> 00:15:23,032
+Yeah. Yeah. So, for example for me,
+
+215
+00:15:23,033 --> 00:15:27,499
+I usually wake up at eight by myself, without an alarm
+
+216
+00:15:27,500 --> 00:15:29,032
+because I'm used to it.
+
+217
+00:15:29,033 --> 00:15:33,199
+And then I have my coffee and breakfast
+
+218
+00:15:33,200 --> 00:15:36,966
+while having a conversation with my business partner.
+
+219
+00:15:36,967 --> 00:15:41,099
+To discuss the business in general and what we're gonna achieve in the next day
+
+220
+00:15:41,100 --> 00:15:42,199
+And this day.
+
+221
+00:15:42,200 --> 00:15:46,866
+Then work for until lunch.
+
+222
+00:15:46,867 --> 00:15:47,799
+Then to our break.
+
+223
+00:15:47,800 --> 00:15:52,566
+I realized that taking a long break, resets my energy.
+
+224
+00:15:52,567 --> 00:15:56,799
+So, instead of saying that I'm gonna work 12 hours a day,
+
+225
+00:15:56,800 --> 00:15:59,599
+No, I'm gonna work let's say six hours a day.
+
+226
+00:15:59,600 --> 00:16:05,332
+But those are highly concentrated hours with a large breaks in between
+
+227
+00:16:05,333 --> 00:16:07,566
+which resets your energy to 90%.
+
+228
+00:16:07,567 --> 00:16:12,232
+Instead of just trying to go through the day with what's just left.
+
+229
+00:16:12,233 --> 00:16:17,832
+And even I do that again let's say 6PM.
+
+230
+00:16:17,833 --> 00:16:22,599
+If I still want to work more, I can just take a big gap of two hours
+
+231
+00:16:22,600 --> 00:16:25,632
+three hours, and then go again three hours
+
+232
+00:16:25,633 --> 00:16:29,899
+and those would be very high productivity slots.
+
+233
+00:16:29,900 --> 00:16:31,799
+Okay. Now, that's just fascinating.
+
+234
+00:16:31,800 --> 00:16:35,466
+I can talk a lot more about it but I don’t think we have enough time.
+
+235
+00:16:35,467 --> 00:16:41,199
+What I would love to also hear, I don't get to meet many Lebanese entrepreneurs.
+
+236
+00:16:41,200 --> 00:16:44,999
+And I'd love to hear a little bit about the Lebanese tech scene.
+
+237
+00:16:45,000 --> 00:16:47,099
+And your interpretation of it.
+
+238
+00:16:47,100 --> 00:16:51,132
+You know, coming from Lebanon, having the Silicon Valley experience,
+
+239
+00:16:51,133 --> 00:16:53,732
+being a successful entrepreneur.
+
+240
+00:16:53,733 --> 00:16:57,299
+So, talk to me a little bit about what the ecosystem is like?
+
+241
+00:16:57,300 --> 00:17:00,266
+And what do you see you're rolling it.
+
+242
+00:17:00,267 --> 00:17:01,032
+Awesome. Yeah.
+
+243
+00:17:01,033 --> 00:17:06,299
+What I can say about Lebanese people is they're very ambitious.
+
+244
+00:17:06,300 --> 00:17:14,566
+The problem is they usually have to travel outside and then shine outside.
+
+245
+00:17:14,567 --> 00:17:18,799
+Because of the very limited opportunities that we have in our country.
+
+246
+00:17:18,800 --> 00:17:26,099
+But again, the tech scene and the startup scene is relatively big
+
+247
+00:17:26,100 --> 00:17:28,132
+compared to the Middle East.
+
+248
+00:17:28,133 --> 00:17:37,232
+Also in Lebanon, we do have VCs, lots of VCs and angels that helped the ecosystem.
+
+249
+00:17:37,233 --> 00:17:41,632
+But the market is also very tiny.
+
+250
+00:17:41,633 --> 00:17:45,966
+The Lebanese market is super tiny because we have a population of five million.
+
+251
+00:17:45,967 --> 00:17:49,932
+Credit card penetration is still low.
+
+252
+00:17:49,933 --> 00:17:53,466
+So whenever you're building a startup in Lebanon,
+
+253
+00:17:53,467 --> 00:17:56,599
+you're at least targeting the Middle East.
+
+254
+00:17:56,600 --> 00:17:59,599
+And not just Lebanon.
+
+255
+00:17:59,600 --> 00:18:06,699
+And usually, people would just decide to travel abroad, Europe or the US.
+
+256
+00:18:06,700 --> 00:18:11,499
+Just to be able to get even more and excel more.
+
+257
+00:18:11,500 --> 00:18:16,099
+Sure. So, the people in the community, do they look up to you
+
+258
+00:18:16,100 --> 00:18:18,432
+as sort of someone whose done it?
+
+259
+00:18:18,433 --> 00:18:24,032
+And who got out, shine, and became an extremely successful entrepreneur.
+
+260
+00:18:24,033 --> 00:18:27,666
+Something that you really read about in the news and on TechCrunch.
+
+261
+00:18:27,667 --> 00:18:29,832
+And all of the sudden you're coming back.
+
+262
+00:18:29,833 --> 00:18:33,966
+Do they asked you for advice? How do they perceive you?
+
+263
+00:18:33,967 --> 00:18:37,899
+Well, it's not just me. We have a lot of successful entrepreneurs.
+
+264
+00:18:37,900 --> 00:18:44,699
+And whenever we are back home, a lot of the new startups
+
+265
+00:18:44,700 --> 00:18:48,066
+and people who just experiencing this for the first time
+
+266
+00:18:48,067 --> 00:18:50,866
+or even couple times that didn't do well,
+
+267
+00:18:50,867 --> 00:18:54,599
+they always look up to people who have achieved something.
+
+268
+00:18:54,600 --> 00:18:56,699
+Especially if you went to Silicon Valley.
+
+269
+00:18:56,700 --> 00:18:58,632
+that's [-]. Definitely.
+
+270
+00:18:58,633 --> 00:19:01,899
+But even if you went to other places and built something,
+
+271
+00:19:01,900 --> 00:19:03,666
+they just ask for advice.
+
+272
+00:19:03,667 --> 00:19:09,366
+They try to see if what's a good way to travel themselves outside
+
+273
+00:19:09,367 --> 00:19:13,366
+to be able to be successful and to do more things outside.
+
+274
+00:19:13,367 --> 00:19:18,166
+That makes a lot of sense. So, do you often go back and forth?
+
+275
+00:19:18,167 --> 00:19:20,332
+Do you get to do it a lot?
+
+276
+00:19:20,333 --> 00:19:22,866
+Yeah. Yeah, usually go at three times a year.
+
+277
+00:19:22,867 --> 00:19:25,199
+Oh wow. Yeah, that's a lot. I's a long flight.
+
+278
+00:19:25,200 --> 00:19:26,366
+Yeah. Oh Yeah.
+
+279
+00:19:26,367 --> 00:19:30,766
+I'm from Israel so it's pretty much the same amount of hours for a flight.
+
+280
+00:19:30,767 --> 00:19:33,066
+20-hour flight usually. Yeah.
+
+281
+00:19:33,067 --> 00:19:35,766
+I got used to it but yeah, it's worth it, I think.
+
+282
+00:19:35,767 --> 00:19:37,366
+Because you have family there.
+
+283
+00:19:37,367 --> 00:19:41,599
+Because you have all your history, food.
+
+284
+00:19:41,600 --> 00:19:44,566
+So, lots of things to look forward to. Yeah.
+
+285
+00:19:44,567 --> 00:19:45,666
+A hundred percent.
+
+286
+00:19:45,667 --> 00:19:47,166
+So Dani, what are you excited about now?
+
+287
+00:19:47,167 --> 00:19:49,032
+There's so much ahead of you.
+
+288
+00:19:49,033 --> 00:19:50,599
+Where do you see yourself moving ahead?
+
+289
+00:19:50,600 --> 00:19:53,332
+What gets you excited?
+
+290
+00:19:53,333 --> 00:19:56,766
+Yeah. Well, at some point, in the past couple of years
+
+291
+00:19:56,767 --> 00:19:59,332
+I just realized that this is my life.
+
+292
+00:19:59,333 --> 00:20:03,832
+I'm always gonna be that person starting new companies or,
+
+293
+00:20:03,833 --> 00:20:07,366
+well actually, it's just more of creating values.
+
+294
+00:20:07,367 --> 00:20:14,632
+Creating value on the world which for me is starting new businesses and companies.
+
+295
+00:20:14,633 --> 00:20:17,232
+And this is what I'm doing also right now.
+
+296
+00:20:17,233 --> 00:20:23,199
+Right now, we're also, since we quit from Mercari
+
+297
+00:20:23,200 --> 00:20:28,232
+because at the end of the day, you wanna work on something that you own
+
+298
+00:20:28,233 --> 00:20:34,066
+and you love. So, this is what I'm working on right now.
+
+299
+00:20:34,067 --> 00:20:38,466
+I'm gonna be working on for a very long time as well.
+
+300
+00:20:38,467 --> 00:20:43,132
+Of course. Of course. And any specific industries that you're especially curious about
+
+301
+00:20:43,133 --> 00:20:46,166
+and that you're joining?
+
+302
+00:20:46,167 --> 00:20:50,732
+Yeah. I'm usually open to different industries especially if there's something new.
+
+303
+00:20:50,733 --> 00:20:57,899
+I tried things and VR for example last year
+
+304
+00:20:57,900 --> 00:21:01,366
+Like whenever there's something special, crypto or whatever came up
+
+305
+00:21:01,367 --> 00:21:06,232
+I just want to explore. Is there anything that can be built that can help actually.
+
+306
+00:21:06,233 --> 00:21:09,299
+and also make money at the same time.
+
+307
+00:21:09,300 --> 00:21:12,866
+But I think my strong suit is E-commerce.
+
+308
+00:21:12,867 --> 00:21:15,699
+Because I've been in it for 10 years.
+
+309
+00:21:15,700 --> 00:21:18,566
+I know the ins and outs.
+
+310
+00:21:18,567 --> 00:21:23,366
+Also, I've been in contact with a lot of bigger competitors as well.
+
+311
+00:21:23,367 --> 00:21:25,699
+Sure.
+
+312
+00:21:25,700 --> 00:21:28,666
+You want to be indispensable in something in the market.
+
+313
+00:21:28,667 --> 00:21:34,166
+That you know more than anyone other person probably in the world.
+
+314
+00:21:34,167 --> 00:21:37,299
+To be able to build some extra value that nobody's seeing right now.
+
+315
+00:21:37,300 --> 00:21:40,532
+Of course. Dani, 20 minutes is almost up.
+
+316
+00:21:40,533 --> 00:21:44,666
+But I have to ask you my last question which is also my favorite question.
+
+317
+00:21:44,667 --> 00:21:48,899
+Can you tell me three words that you would best describe yourself as?
+
+318
+00:21:48,900 --> 00:21:53,232
+Or, that maybe your co-founder would describe you as?
+
+319
+00:21:53,233 --> 00:21:55,666
+Looks like an interview question.
+
+320
+00:21:55,667 --> 00:21:56,566
+Definitely.
+
+321
+00:21:56,567 --> 00:21:57,832
+What's your weakest point.
+
+322
+00:21:57,833 --> 00:22:01,499
+I think I'm going for the strongest point. Yeah, I care a lot.
+
+323
+00:22:01,500 --> 00:22:06,232
+I work way too hard. I'm trying to make too much money for the company.
+
+324
+00:22:06,233 --> 00:22:14,566
+Yeah, I think it could be Ambitious. That's number one.
+
+325
+00:22:14,567 --> 00:22:20,099
+To be Persistent, like always trying to follow things through.
+
+326
+00:22:20,100 --> 00:22:22,799
+And I'm probably a Geek also.
+
+327
+00:22:22,800 --> 00:22:25,099
+I love it. That's the most important one, I think.
+
+328
+00:22:25,100 --> 00:22:26,632
+Yeah.
+
+329
+00:22:26,633 --> 00:22:28,666
+I love it. Dani, thank you so much for the time.
+
+330
+00:22:28,667 --> 00:22:33,466
+Thank you so much for forming this new friendship.
+
+331
+00:22:33,467 --> 00:22:36,466
+And I'd love to continue learning from you.
+
+332
+00:22:36,467 --> 00:22:39,266
+And say hi to your co-founder, a great friend of mine.
+
+333
+00:22:39,267 --> 00:22:42,466
+And I wish you all the best on your next ventures.
+
+334
+00:22:42,467 --> 00:22:43,799
+Thank you so much for having me.
+
+335
+00:22:43,800 --> 00:22:45,799
+Of course. Take care.
+
+336
+00:22:45,800 --> 00:22:48,732
+Take care. Bye.
+
+337
+00:22:48,733 --> 00:25:23,167
+--
