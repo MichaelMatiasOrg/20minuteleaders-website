@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episode | 20 Minute Leaders</title>
+    <meta name="description" content="20 Minute Leaders episode">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2300A3E0' width='100' height='100' rx='15'/><text x='50' y='45' font-size='28' fill='white' text-anchor='middle' font-weight='900'>20</text><text x='50' y='70' font-size='18' fill='%23FFD700' text-anchor='middle' font-weight='900'>ML</text></svg>">
+    
+    <!-- Open Graph / Social sharing -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="20 Minute Leaders">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <style>
+        :root {
+            --brand-blue: #00B4D8;
+            --brand-blue-dark: #0096C7;
+            --brand-blue-light: #48CAE4;
+            --brand-yellow: #C4D600;
+            --white: #FFFFFF;
+            --gray-50: #F8FAFC;
+            --gray-100: #F1F5F9;
+            --gray-200: #E2E8F0;
+            --gray-400: #94A3B8;
+            --gray-600: #475569;
+            --gray-800: #1E293B;
+            --gray-900: #0F172A;
+            --radius: 12px;
+            --radius-lg: 20px;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--white);
+            color: var(--gray-800);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+        /* Header */
+        header {
+            background: var(--brand-blue);
+            color: var(--white);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0, 163, 224, 0.3);
+        }
+
+        .header-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 0;
+        }
+
+        .logo {
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+            text-decoration: none;
+        }
+
+        .logo-20 { font-size: 2rem; font-weight: 900; color: var(--white); }
+        .logo-minute { font-size: 1.1rem; font-weight: 700; color: var(--white); text-transform: uppercase; letter-spacing: 1px; }
+        .logo-leaders { font-size: 1.5rem; font-weight: 900; color: var(--brand-yellow); }
+
+        .back-link {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            opacity: 0.9;
+            transition: opacity 0.2s;
+        }
+        .back-link:hover { opacity: 1; }
+
+        /* Episode Hero */
+        .episode-hero {
+            background: linear-gradient(135deg, var(--gray-900) 0%, var(--gray-800) 100%);
+            color: var(--white);
+            padding: 60px 0;
+        }
+
+        .episode-hero-inner {
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            gap: 48px;
+            align-items: center;
+        }
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            background: #000;
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .video-placeholder {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-dark) 100%);
+            color: var(--white);
+        }
+
+        .video-placeholder svg { width: 64px; height: 64px; margin-bottom: 16px; opacity: 0.8; }
+        .video-placeholder span { font-size: 0.9rem; opacity: 0.8; }
+
+        .episode-info { padding: 20px 0; }
+        
+        .episode-badge {
+            display: inline-block;
+            background: var(--brand-blue);
+            color: var(--white);
+            padding: 6px 14px;
+            border-radius: 50px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 16px;
+        }
+
+        .episode-guest {
+            color: var(--brand-yellow);
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .episode-title {
+            font-size: 2.2rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+
+        .episode-meta {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 24px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .episode-meta span { display: flex; align-items: center; gap: 6px; }
+
+        .episode-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-decoration: none;
+            transition: all 0.2s;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-primary { background: var(--brand-yellow); color: var(--gray-900); }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(196, 214, 0, 0.3); }
+        
+        .btn-secondary { background: rgba(255,255,255,0.1); color: var(--white); border: 2px solid rgba(255,255,255,0.2); }
+        .btn-secondary:hover { background: rgba(255,255,255,0.2); }
+
+        /* Episode Content */
+        .episode-content {
+            padding: 60px 0;
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 48px;
+        }
+
+        .main-content h2 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            color: var(--gray-900);
+        }
+
+        .description {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--gray-600);
+        }
+
+        .description p { margin-bottom: 16px; }
+
+        /* Transcript Section */
+        .transcript-section {
+            margin-top: 48px;
+            padding-top: 48px;
+            border-top: 1px solid var(--gray-200);
+        }
+
+        .transcript-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .transcript-toggle {
+            background: var(--gray-100);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .transcript-toggle:hover { background: var(--gray-200); }
+
+        .transcript-content {
+            background: var(--gray-50);
+            border-radius: var(--radius);
+            padding: 32px;
+            max-height: 500px;
+            overflow-y: auto;
+            font-size: 0.95rem;
+            line-height: 1.9;
+            color: var(--gray-700);
+            display: none;
+        }
+
+        .transcript-content.expanded { display: block; }
+
+        .transcript-content p { margin-bottom: 16px; }
+        .transcript-content .speaker { font-weight: 700; color: var(--brand-blue); }
+
+        /* Sidebar */
+        .sidebar { position: sticky; top: 100px; }
+
+        .sidebar-card {
+            background: var(--gray-50);
+            border-radius: var(--radius-lg);
+            padding: 28px;
+            margin-bottom: 24px;
+        }
+
+        .sidebar-card h3 {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--gray-400);
+            margin-bottom: 16px;
+        }
+
+        .share-buttons { display: flex; gap: 12px; }
+        
+        .share-btn {
+            flex: 1;
+            padding: 12px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            color: var(--white);
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: transform 0.2s;
+        }
+        .share-btn:hover { transform: translateY(-2px); }
+        .share-btn.twitter { background: #1DA1F2; }
+        .share-btn.linkedin { background: #0A66C2; }
+        .share-btn.copy { background: var(--gray-600); cursor: pointer; border: none; }
+
+        .platform-links { display: flex; flex-direction: column; gap: 12px; }
+        
+        .platform-link {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 14px 16px;
+            background: var(--white);
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--gray-800);
+            font-weight: 600;
+            transition: box-shadow 0.2s;
+        }
+        .platform-link:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .platform-link img { width: 24px; height: 24px; }
+
+        /* Related Episodes */
+        .related-section {
+            padding: 60px 0;
+            background: var(--gray-50);
+        }
+
+        .related-section h2 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 32px;
+            text-align: center;
+        }
+
+        .related-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+        }
+
+        .related-card {
+            background: var(--white);
+            border-radius: var(--radius);
+            overflow: hidden;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .related-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+
+        .related-thumbnail {
+            aspect-ratio: 16/9;
+            background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-dark) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .related-thumbnail img { width: 100%; height: 100%; object-fit: cover; }
+
+        .related-info { padding: 20px; }
+        .related-ep { font-size: 0.75rem; color: var(--brand-blue); font-weight: 700; margin-bottom: 4px; }
+        .related-guest { font-weight: 700; margin-bottom: 4px; }
+        .related-topic { font-size: 0.85rem; color: var(--gray-600); }
+
+        /* Footer */
+        footer {
+            background: var(--gray-900);
+            color: var(--white);
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        footer a { color: var(--brand-yellow); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+
+        /* Loading State */
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 400px;
+            font-size: 1.2rem;
+            color: var(--gray-400);
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .episode-hero-inner { grid-template-columns: 1fr; gap: 32px; }
+            .content-grid { grid-template-columns: 1fr; }
+            .sidebar { position: static; }
+            .related-grid { grid-template-columns: 1fr; }
+            .episode-title { font-size: 1.6rem; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="/" class="logo">
+                    <span class="logo-20">20</span>
+                    <span class="logo-minute">Minute</span>
+                    <span class="logo-leaders">Leaders</span>
+                </a>
+                <a href="/" class="back-link">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    All Episodes
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main id="episode-container">
+        <div class="loading">Loading episode...</div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2026 20 Minute Leaders. Hosted by <a href="https://linkedin.com/in/matiasmichael" target="_blank">Michael Matias</a></p>
+        </div>
+    </footer>
+
+    <script src="js/episodes.js"></script>
+    <script>
+        // Get episode ID from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const episodeId = urlParams.get('id');
+
+        // Find episode
+        const episode = EPISODES.find(e => e.episode === episodeId);
+
+        if (!episode) {
+            document.getElementById('episode-container').innerHTML = `
+                <div class="loading">
+                    Episode not found. <a href="/">Browse all episodes</a>
+                </div>
+            `;
+        } else {
+            // Update page title and meta
+            const cleanTitle = episode.topic || episode.guest || 'Episode ' + episode.episode;
+            document.title = `${episode.guest}: ${cleanTitle} | 20 Minute Leaders`;
+            document.querySelector('meta[name="description"]').content = episode.description?.replace(/<[^>]*>/g, '').substring(0, 160) || '';
+            
+            // OG tags
+            const ogTitle = document.createElement('meta');
+            ogTitle.property = 'og:title';
+            ogTitle.content = document.title;
+            document.head.appendChild(ogTitle);
+
+            // Get YouTube thumbnail
+            const thumbnail = episode.youtubeId 
+                ? `https://img.youtube.com/vi/${episode.youtubeId}/maxresdefault.jpg`
+                : null;
+
+            // Build video section
+            const videoHtml = episode.youtubeId 
+                ? `<iframe src="https://www.youtube.com/embed/${episode.youtubeId}?rel=0" allowfullscreen></iframe>`
+                : `<div class="video-placeholder">
+                    <svg fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                    <span>Video coming soon</span>
+                   </div>`;
+
+            // Get related episodes (same series, nearby episode numbers)
+            const epNum = parseInt(episode.episode);
+            const related = EPISODES
+                .filter(e => e.episode !== episodeId && e.youtubeId)
+                .sort((a, b) => Math.abs(parseInt(a.episode) - epNum) - Math.abs(parseInt(b.episode) - epNum))
+                .slice(0, 3);
+
+            // Check for transcript
+            const transcriptPath = `transcripts/ep${episode.episode}.txt`;
+            
+            // Render episode page
+            document.getElementById('episode-container').innerHTML = `
+                <section class="episode-hero">
+                    <div class="container">
+                        <div class="episode-hero-inner">
+                            <div class="video-container">
+                                ${videoHtml}
+                            </div>
+                            <div class="episode-info">
+                                <span class="episode-badge">Episode ${episode.episode}</span>
+                                <div class="episode-guest">${episode.guest || 'Guest'}</div>
+                                <h1 class="episode-title">${cleanTitle}</h1>
+                                <div class="episode-meta">
+                                    ${episode.date ? `<span>📅 ${episode.date}</span>` : ''}
+                                    <span>🎙️ ${episode.series || '20MinuteLeaders'}</span>
+                                </div>
+                                <div class="episode-actions">
+                                    ${episode.youtubeId ? `<a href="https://youtube.com/watch?v=${episode.youtubeId}" target="_blank" class="btn btn-primary">
+                                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><path fill="#fff" d="M9.545 15.568V8.432L15.818 12z"/></svg>
+                                        Watch on YouTube
+                                    </a>` : ''}
+                                    ${episode.link ? `<a href="${episode.link}" target="_blank" class="btn btn-secondary">
+                                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+                                        Listen on Spotify
+                                    </a>` : ''}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="episode-content">
+                    <div class="container">
+                        <div class="content-grid">
+                            <div class="main-content">
+                                <h2>About This Episode</h2>
+                                <div class="description">
+                                    ${episode.description || '<p>Episode description coming soon.</p>'}
+                                </div>
+
+                                <div class="transcript-section" id="transcript-section" style="display: none;">
+                                    <div class="transcript-header">
+                                        <h2>📝 Transcript</h2>
+                                        <button class="transcript-toggle" onclick="toggleTranscript()">Show Transcript</button>
+                                    </div>
+                                    <div class="transcript-content" id="transcript-content"></div>
+                                </div>
+                            </div>
+
+                            <aside class="sidebar">
+                                <div class="sidebar-card">
+                                    <h3>Share Episode</h3>
+                                    <div class="share-buttons">
+                                        <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(`🎙️ ${episode.guest}: ${cleanTitle} - 20 Minute Leaders`)}&url=${encodeURIComponent(window.location.href)}" target="_blank" class="share-btn twitter">𝕏</a>
+                                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}" target="_blank" class="share-btn linkedin">in</a>
+                                        <button class="share-btn copy" onclick="copyLink()">📋</button>
+                                    </div>
+                                </div>
+
+                                <div class="sidebar-card">
+                                    <h3>Listen On</h3>
+                                    <div class="platform-links">
+                                        ${episode.youtubeId ? `<a href="https://youtube.com/watch?v=${episode.youtubeId}" target="_blank" class="platform-link">
+                                            <img src="https://www.youtube.com/favicon.ico" alt="YouTube"> YouTube
+                                        </a>` : ''}
+                                        ${episode.link ? `<a href="${episode.link}" target="_blank" class="platform-link">
+                                            <img src="https://open.spotify.com/favicon.ico" alt="Spotify"> Spotify
+                                        </a>` : ''}
+                                    </div>
+                                </div>
+                            </aside>
+                        </div>
+                    </div>
+                </section>
+
+                ${related.length > 0 ? `
+                <section class="related-section">
+                    <div class="container">
+                        <h2>More Episodes</h2>
+                        <div class="related-grid">
+                            ${related.map(r => `
+                                <a href="episode.html?id=${r.episode}" class="related-card">
+                                    <div class="related-thumbnail">
+                                        ${r.youtubeId ? `<img src="https://img.youtube.com/vi/${r.youtubeId}/mqdefault.jpg" alt="${r.guest}">` : ''}
+                                    </div>
+                                    <div class="related-info">
+                                        <div class="related-ep">EP ${r.episode}</div>
+                                        <div class="related-guest">${r.guest || 'Guest'}</div>
+                                        <div class="related-topic">${(r.topic || '').substring(0, 50)}${(r.topic || '').length > 50 ? '...' : ''}</div>
+                                    </div>
+                                </a>
+                            `).join('')}
+                        </div>
+                    </div>
+                </section>
+                ` : ''}
+            `;
+
+            // Try to load transcript
+            fetch(transcriptPath)
+                .then(response => {
+                    if (response.ok) return response.text();
+                    throw new Error('No transcript');
+                })
+                .then(text => {
+                    document.getElementById('transcript-section').style.display = 'block';
+                    document.getElementById('transcript-content').innerHTML = text
+                        .split('\n\n')
+                        .map(p => `<p>${p}</p>`)
+                        .join('');
+                })
+                .catch(() => {
+                    // No transcript available
+                });
+        }
+
+        function toggleTranscript() {
+            const content = document.getElementById('transcript-content');
+            const btn = document.querySelector('.transcript-toggle');
+            content.classList.toggle('expanded');
+            btn.textContent = content.classList.contains('expanded') ? 'Hide Transcript' : 'Show Transcript';
+        }
+
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href);
+            const btn = document.querySelector('.share-btn.copy');
+            btn.textContent = '✓';
+            setTimeout(() => btn.textContent = '📋', 2000);
+        }
+    </script>
+</body>
+</html>

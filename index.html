@@ -1341,17 +1341,10 @@
                         document.getElementById('featured-img').alt = latest.guest || latest.title;
                     }
 
-                    // Wire featured episode to open modal
-                    document.getElementById('featured-listen').href = '#';
-                    document.getElementById('featured-listen').addEventListener('click', (e) => {
-                        e.preventDefault();
-                        openPlayerModal(latest);
-                    });
-                    document.getElementById('featured-play').href = '#';
-                    document.getElementById('featured-play').addEventListener('click', (e) => {
-                        e.preventDefault();
-                        openPlayerModal(latest);
-                    });
+                    // Wire featured episode to detail page
+                    const featuredUrl = `episode.html?id=${latest.episode}`;
+                    document.getElementById('featured-listen').href = featuredUrl;
+                    document.getElementById('featured-play').href = featuredUrl;
                 }
 
                 renderEpisodes();
@@ -1380,31 +1373,19 @@
                 // Use YouTube thumbnail if no image but has youtubeId
                 const thumbnail = ep.image || (ep.youtubeId ? `https://img.youtube.com/vi/${ep.youtubeId}/hqdefault.jpg` : '');
                 return `
-                <div class="episode-card" data-episode-index="${filteredEpisodes.indexOf(ep)}" role="button" tabindex="0">
+                <a href="episode.html?id=${ep.episode}" class="episode-card">
                     <div class="card-image">
                         <img src="${thumbnail}" alt="${ep.guest || ep.title}" onerror="this.style.display='none'">
                         ${ep.episode ? `<span class="card-number">EP ${ep.episode}</span>` : ''}
                         ${ep.duration ? `<span class="card-duration">${ep.duration}</span>` : ''}
-                    </div>`
+                    </div>
                     <div class="card-content">
                         <div class="card-date">${formatDate(ep.date)}</div>
                         <h3 class="card-title">${ep.topic || ep.title}</h3>
                         ${ep.guest ? `<div class="card-guest">${ep.guest}</div>` : ''}
                     </div>
-                </div>
+                </a>
             `}).join('');
-
-            // Attach click handlers
-            grid.querySelectorAll('.episode-card').forEach(card => {
-                const handler = () => {
-                    const idx = parseInt(card.dataset.episodeIndex);
-                    openPlayerModal(filteredEpisodes[idx]);
-                };
-                card.addEventListener('click', handler);
-                card.addEventListener('keydown', (e) => {
-                    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handler(); }
-                });
-            });
 
             document.getElementById('load-more').style.display =
                 displayCount >= filteredEpisodes.length ? 'none' : 'inline-block';
